@@ -1,0 +1,368 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Grapic: pen and paper online
+GrapicProductivity (Applications)Free
+Alerts
+
+    Grapic
+
+    Grapic: pen and paper online
+    Grapic: pen and paper online
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Grapic: pen and paper online
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+Grapic is the iPhone app that lets you use real pen, paper, and whiteboards with your remote colleagues, clients, and friends.
+
+If your prefer sketching on a scrap of paper to get your point across, but find yourself in remote meetings, Grapic was made for you!
+
+Grapic uses augmented reality and image processing to keep things steady and straight so you can focus on what you're writing. It's like screen sharing your paper!
+
+COLLABORATE ONLINE WITH PEN AND PAPER
+
+Nothing beats the real thing. Tactile, direct and real time.
+Now also remote.
+
+Use real pen and paper, sticky notes, and whiteboards, live with your remote colleagues and clients:
+
+- Agile meetings: daily standup, sprint planning, retrospective
+- Problem solving: brainstorm, mind map, diagram, graphs
+- Explain new concepts: draw by hand as you explain
+- Design: mockups, wireframes, architecture
+- Sketch remotely with clients: great for architects, technical sales, UX, and many more
+
+All you need is your phone and something to scribble or draw on. Explain everything like you were in the same room together.
+
+HOW IT WORKS
+
+Use the Grapic app to share a video stream of your notebook or whiteboard to your remote colleagues. No need for a camera tripod or expensive equipment - our augmented reality and computer vision tech keeps the video steady so you can focus on what you're drawing.
+
+1) Draw when inspiration hits - Scribble directly in your favorite notebook or on the back of a napkin. Use the Grapic app to share your process in real time, with minimal setup. Just select the area you want to share, and start doodling.
+
+2) Keep technology out of the way - Grapic uses fancy augmented reality and image processing so you can hold your phone where you like, and not think about keeping it steady. Put your phone down when you’re not drawing, and pick it up again to continue.
+
+3) Share your page with colleagues - Invite your colleagues to view your paper or whiteboard in real-time by sharing a link to the session. When inspiration hits, they can join in and start drawing too.
+
+4) Take snapshots of your best sketches so you can continue your discussion without loosing where you were. Snapshots you take while in a live session are shared instantly.
+
+LIVE STREAM SHARING
+Supports up to 10 presenting and/or viewing devices in the same session.
+Ratings
+Displayed Avg Ratings
+4.95
+Total Displayed Ratings
+19
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 0.8.8 (Mar 16, 2022)
+    - Stability improvements
+Version 0.8.7 (Feb 3, 2022)
+    - Stability improvements
+    - Improved user feedback
+Version 0.8.5 (Jan 19, 2022)
+    - Stability improvements
+Version 0.8.4 (Jan 17, 2022)
+    - Try the app without signing in
+    - Stability improvements
+Version 0.8.0 (Dec 15, 2021)
+    - Stability improvements
+Version 0.7.25 (Dec 1, 2021)
+    - Stability improvements
+Version 0.7.24 (Nov 29, 2021)
+    - Improved UI
+    - Several stability improvements
+Version 0.7.23 (Nov 27, 2021)
+    - Add FigJam by Figma integration
+    - Improved connection status indication
+    - Several bug fixes
+Version 0.7.21 (Nov 23, 2021)
+    - UI improvements
+Version 0.7.19 (Nov 18, 2021)
+    - Improved push notification user flow
+    - Stability improvements
+Version 0.7.18 (Nov 17, 2021)
+    - Improved connect to web room user flow
+Version 0.7.17 (Nov 13, 2021)
+    - Added Zoom and AirPlay instructions
+    - Fix browsing history crash
+Version 0.7.15 (Nov 10, 2021)
+    - Improved user-flow while connecting with QR codes
+    - Stability improvements
+Version 0.7.13 (Nov 6, 2021)
+    - Instructions and troubleshooting in Safari pop-up
+Version 0.7.12 (Nov 5, 2021)
+    - Present to Zoom Meetings
+    - Present to AirPlay devices
+    - Troubleshooting instructions
+Version 0.7.10 (Nov 1, 2021)
+    - Stability improvements
+Version 0.7.7 (Oct 27, 2021)
+    - AirPlay screen mirroring support
+    - Stability improvements
+Version 0.7.3 (Jun 29, 2021)
+    - Improved video stabilization performance
+    - Magic content enhancement filter makes what you write and draw cleaner and sharper
+Version 0.7.0 (Jun 9, 2021)
+    Significant upgrade to the image stabilization.
+Version 0.6.6 (Apr 20, 2021)
+    Improved auto focus handling:
+    - Camera focus locks on the page when phone is still to avoid jittering from continuous auto focus.
+Version 0.6.5 (Mar 30, 2021)
+    Improved handling of when you put your phone down mid-session:
+    - When put down: processing is reduced and app goes into a lower-battery consumption mode
+    - When picked up again: continues from where you were
+
+    Also includes a couple minor bug fixes and performance improvements.
+Version 0.6.2 (Mar 14, 2021)
+    Full redesign including:
+    - Take and share snapshots of what you draw
+    - Preview of how the live stream looks is always visible
+    - Stability improvements to the video streaming
+    - Improved handling of when what you share goes out of view
+Version 0.5.10 (Dec 7, 2020)
+    - Snappy controls
+    - Minor bug fixes
+Version 0.5.8 (Nov 19, 2020)
+    - Join session by pushing invites from web to your phone
+    - Minor bug fixes
+Version 0.5.7 (Nov 11, 2020)
+    - Improved AR experience
+    - Product tour
+    - Minor bug fixes
+Version 0.5.6 (Oct 31, 2020)
+    - Faster sharing
+    - Improved login flow
+    - Minor fixes
+Version 0.5.4 (Oct 30, 2020)
+    - Improved AR instructions
+Version 0.5.3 (Oct 29, 2020)
+    - Clearer login flow
+    - Minor bugfixes
+Version 0.5.2 (Oct 21, 2020)
+    Minor bugfix for button layout on iPhone SE Generation 1.
+Version 0.5.1 (Oct 9, 2020)
+    Minor fixes
+Version 0.5 (Oct 7, 2020)
+
+Users may also like
+Select objects to compare
+Memex Go
+NoteToScreen
+Monoline
+Kinopio
+Headspace Lite
+Pinstachio for Pinboard
+Slow Scroll
+Headspace
+KnowledgeBase Builder
+Stackby
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+12 times
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    0.8.8
+    Current release
+    Mar 16, 2022
+    0.8.7
+    Feb 3, 2022
+    0.8.5
+    Jan 19, 2022
+    0.8.4
+    Jan 17, 2022
+    0.8.0
+    Dec 15, 2021
+    0.7.25
+    Dec 1, 2021
+    0.7.24
+    Nov 29, 2021
+    0.7.23
+    Nov 27, 2021
+    0.7.21
+    Nov 23, 2021
+    0.7.19
+    Nov 18, 2021
+    0.7.18
+    Nov 17, 2021
+    0.7.17
+    Nov 13, 2021
+    0.7.15
+    Nov 10, 2021
+    0.7.13
+    Nov 6, 2021
+    0.7.12
+    Nov 5, 2021
+    0.7.10
+    Nov 1, 2021
+    0.7.7
+    Oct 27, 2021
+    0.7.3
+    Jun 29, 2021
+    0.7.0
+    Jun 9, 2021
+    0.6.6
+    Apr 20, 2021
+    0.6.5
+    Mar 30, 2021
+    0.6.2
+    Mar 14, 2021
+    0.5.10
+    Dec 7, 2020
+    0.5.8
+    Nov 19, 2020
+    0.5.7
+    Nov 11, 2020
+    0.5.6
+    Oct 31, 2020
+    0.5.4
+    Oct 30, 2020
+    0.5.3
+    Oct 29, 2020
+    0.5.2
+    Oct 21, 2020
+    0.5.1
+    Oct 9, 2020
+    0.5
+    Oct 7, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Oct 7, 2020
+
+Worldwide Release Date
+    Oct 7, 2020
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    0.8.8
+
+Size
+    67.02 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Inglés
+
+Seller
+    Grapic Creative Sweden AB
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 14.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    co.grapic.app
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1515109130
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Grapic: pen and paper online | data.ai

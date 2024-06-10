@@ -1,0 +1,1185 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Notesnook: Private note taking
+Streetwriters Productivity (Applications)Free
+Alerts
+
+Notesnook
+Notesnook: Private note taking
+Notesnook: Private note taking
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Notesnook: Private note taking
+Locked notes, To-do list, Memo
+Productivity (Applications)
+Free
+App Promotional Text
+Open source, private and end to end encrypted zero knowledge notes app. Never lose access to your notes.
+App Description
+Notesnook is an open source private notes app and organizer. It is fully cross-platform. Download it on all your devices for free. Sync notes between your computer, tablet and mobile seamlessly.
+
+With Notesnook, note taking is a simple and easy task. Just like opening a physical notebook and writing notes down.
+
+A notes app to protects your privacy
+With military grade encryption, no one can ever read your secret notes except you. We use XChaCha20-Poly1305 & Argon2 encryption algorithms that are stronger & safer than AES256, impenetrable & future-proof. A level of security and privacy that is rare in note taking apps.
+
+Encrypted and private by default
+You do not need to press any button or enable anything for encryption to work. Your privacy is our primary concern. By default all notes are encrypted and securely stored on our servers. We can't read or open your notes even if we want to.
+
+Sync notes to all devices
+Sync notes in a safe and secure way. All your notes are encrypted on your device and synced so no matter what device you use, you always have access to what you write and journal in notepad.
+
+Locked notes with vault
+Double encrypt your notes with vault. Locked notes require password on open and are encrypted at rest.
+
+Notepad & Diary with lock
+A private diary with lock. App lock let's you lock notes with fingerprint and even lock the app so no one has access except you. A truly personal, safe & private diary with password so you can journal and write secret notes.
+
+To-do lists & Tasks
+Get things done with to-do lists and tasks. Create to-do lists to get things done. Keep track of your daily progress in to-do lists and accomplish daily tasks.
+
+Private journal and diary
+Journal your life in our private diary. Add photos & videos to your journal. Record your daily emotions and activities in your diary. Keep online journal safe with password. Anything you write or express is secure with military strength encryption. Take your journal always.
+
+Rich and powerful notes editor
+Simple notes on notepad or writing a complex document. Our notes editor supports rich editing. It allows basic formatting and editing notes. Make to-do lists and bulleted lists. Add images and embed videos in notepad & add tables and links
+
+Markdown editor
+Use markdown in notes editor. Use all markdown shortcuts and write markdown notes. Add headings, links, lists & more with markdown shortcuts.
+
+Notebooks
+Organize notes with notebooks. Each notebook has topics. In topics you can add all your notes. Use notebooks for multiple purpose like office or school notes.
+
+Color notes
+Color notes easily with one tap. You can edit the name and rename colors according to the notes you keep.
+
+Offline access
+No internet connection is required to use our notes taking app. Add, edit and organize notes offline and sync notes in notepad when you have internet access.
+
+App lock in notepad free
+Built-in App Lock to lock the app with fingerprint so no one can open and peek into your private notes on your device.
+
+Export notes from notepad
+Export notes in formats such as PDF, HTML, Markdown and Plain Text. Share notes with anyone with standard size and formatting.
+
+Publish and share notes with Monograph
+Monographs allow you publish and share your notes. You can lock notes with password that you want to publish. With self destruct feature, a monograph is deleted when it is accessed once. Military grade encryption which is use to encrypt your data for syncing.
+
+Backup notes data
+• Create note backups
+• Restore backups
+• Encrypt all your backups optionally
+• Automatic daily, weekly & monthly backups of your data and notes.
+
+Dark mode
+Our notes app has dark mode, useful when you are working at night taking notes.
+
+Privacy Policy: https://notesnook.com/privacy
+Terms of Service: https://notesnook.com/tos
+Source Code: https://github.com/streetwriters/notesnook
+Ratings
+Displayed Avg Ratings
+4.6
+Total Displayed Ratings
+505
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.6.15 (Jan 30, 2024)
+    - Support for exporting locked notes
+    - Maintain directory structure in exports based on Notebooks/Topics
+    - Improved image loading and show progress when loading images
+    - Support for setting trash interval to daily
+    - Fix app UI issues with RTL languages
+    - Fix pasting links in editor
+    - Other Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.6.14 (Dec 22, 2023)
+    - Added support to check/uncheck all items in a checklist
+    - Now you can open pdfs/images in readonly mode
+    - Fixed a bug where users are unable to login when app lock is enabled
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.6.13 (Dec 11, 2023)
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.6.10 (Nov 20, 2023)
+    - Date and time shortcuts in title- Fixed HTML & PDF exports
+    - Improved task lists in editor
+    - Improved loading images
+    - Allow restoring backups when logged out
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.6.8 (Oct 31, 2023)
+    - Fix 24 hour reminder time in date picker
+    - Fix pin input hide behind keyboard on session expiry
+    - Disallow links in inline code
+    - Fix default notebook not set in widget
+    - Bug fixes and improvements
+
+    Thank you for using Notesnook!
+Version 2.6.7 (Oct 2, 2023)
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.6.6 (Sep 25, 2023)
+    - Large titles in editor now wrap into multiple lines
+    - Added support for font scaling in mobile app
+    - Clipper in share extension now supports clipping dynamically loaded websites
+    - Cache files are now stored in app's data directory
+    - Improved drag/drop support in task lists
+    - Bug fixes
+
+    Thank you for using Notesnook!
+Version 2.6.5 (Sep 14, 2023)
+    - New backup format nnbackupz with upto 90% smaller backups
+    - Improve UI of code blocks & language selection popup
+    - Fixed some bugs in sync v2
+Version 2.6.2 (Sep 7, 2023)
+    - Improved and faster syncing
+    - Fixed white flash on app launch in dark mode on iOS
+    - Improved sorting of notebooks/tags in share extension
+    - Many bug fixes and general app improvements
+Version 2.6.1 (Aug 8, 2023)
+    - Added support for custom themes
+    - Syntax highlighting and rendered Math in exports
+    - App size is now reduced by almost 35%!
+    - Improved copy/pasting to and from Notesnook
+    - Support copying link & link text in directly from the Link toolbar
+    - Reduced app size
+    - Many other bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.6.0 (Aug 7, 2023)
+    - Added support for custom themes
+    - Syntax highlighting and rendered Math in exports
+    - Improved copy/pasting to and from Notesnook
+    - Support copying link & link text in directly from the Link toolbar
+    - Reduced app size
+    - Many other bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+
+Version 2.5.6 (Jul 13, 2023)
+    - Fixed file and image upload
+    - Other bug fixes and performance improvements
+
+    Thank you for using Notesnook
+Version 2.5.5 (Jul 6, 2023)
+    - Add clipboard button in codeblocks
+    - Do not show update available dialog on startup
+    - Fix editor crashing after changing font family in Settings
+    - Fix app UI on iPads incorrect on launch sometimes
+    - Optimize app screens for smaller displays
+    - Fix notes created from share extension get saved over & over
+
+    Thank you for using Notesnook!
+Version 2.5.4 (Jun 27, 2023)
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.5.3 (Jun 20, 2023)
+    - Allow all users to take encrypted backups of their data
+    - Disable auto backup by default enabled for logged in users
+    - Fix focused text hides behind keyboard when editor is focused and keyboard is shown to the user.
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.5.2 (Jun 8, 2023)
+    - Better compact mode for notes & notebooks in lists
+    - Add all standard date formats
+    - Add new template $timestamp$ for full date & time
+    - Allow changing primary 2fa method in settings
+    - Hide note headlines in share & home widgets
+
+    Thank you for using Notesnook!
+Version 2.5.1 (Jun 6, 2023)
+    - Change date and time format across the app
+    - Change default note title for new notes using different templates
+    - Set a default notebook or topic to add new notes to automatically
+    - You can now share images and files from other apps to Notesnook and sync them instantly.
+
+    Thank you for using Notesnook!
+Version 2.5.0 (May 30, 2023)
+    - Preview PDFs & Images directly inside Notesnook."
+    - Improved attachments manager with support for downloading all attachments
+    - Assign tags to multiple notes
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.4.17 (May 17, 2023)
+    - Fix pro features locked accidentally for pro users
+    - Added in app review
+
+    Thank you for using Notesnook!
+Version 2.4.15 (Apr 29, 2023)
+    - Fix a crash when trying to upload attachments
+    - Fix editor not rendered when enter foreground after a long time on iOS
+    - Increased hit area for outline list to make toggling outline list items easier
+
+    Thank you for using Notesnook!
+Version 2.4.14 (Apr 27, 2023)
+    - Sync notes created from share extension & notification quick notes in background
+    - Fix formatting is lost when sharing notes to other apps
+    - Fix editor would be blank after entering the app from background sometimes
+    - Small bug fixes and UX improvements
+
+    Thank you for using Notesnook!
+Version 2.4.13 (Apr 18, 2023)
+    - Added default font size & font family settings
+    - Redesign reminder/notebook sheets to improve UX
+    - Fixed an issue causing sync to fail
+    - Fix tag suggestions in share extension
+    - Fix app font sizes too small in some places
+    - Improved mobile editor performance on low-end devices
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.4.12 (Apr 11, 2023)
+    - Fix a crash when leaving note after search
+    - Fix tag not updated on note item in list after renaming
+    - Fix notes marked as local only get deleted on sync
+
+    Thank you for using Notesnook!
+Version 2.4.11 (Apr 5, 2023)
+    - New and improved share extension with support for organizing notes
+    with tags & notebooks!
+    - Improved UX for Topics sheet in Notebooks
+    - Improved editor performance
+    - Many bug fixes and minor improvements
+
+    Thank you for using Notesnook!
+Version 2.4.10 (Mar 30, 2023)
+    - Added support for sorting topics in topics sheet
+    - Fixed topics sheet is hard to swipe up from bottom
+    - Fix topic title goes into multiple lines if long
+    - Fix reminder date picker not allowing to pick a date from past
+
+    Thank you for using Notesnook!
+Version 2.4.9 (Mar 24, 2023)
+    - Fix note publishing not working with password protection
+    - Some fixes and improvements in notebook/topic linking
+
+    Thank you for using Notesnook!
+Version 2.4.6 (Mar 22, 2023)
+    - Top level notes in notebooks
+    - Image full screen preview & download from editor
+    - Change auto clear trash interval from settings
+    - Fixed image upload not working since last update
+    - Fixed adding images to notes via copy/paste from other apps
+    - Focus cursor on end when tapping bottom empty area in editor.
+    - Fixed iPad orientation change editor resizing
+
+    Thank you for using Notesnook!
+Version 2.4.5 (Feb 28, 2023)
+    - You can now sort task list items
+    - Editor performance with images has been improved
+    - Fixed issue with images not loading in editor during real-time sync
+    - Fix app not opening from notifications
+    - Added oss licenses
+    - Fix cursor goes behind keyboard on ios devices
+    - Fix 2FA sheet does not show up sometimes after entering email at login
+    - Many other bug fixes and improvements
+
+    Thank you for using Notesnook! 
+Version 2.4.4 (Feb 15, 2023)
+    - Improved UX for linking Notebooks
+    - Redesign properties sheet to be simple & handy
+    - Added support for RTL languages in editor
+    - Telemetry is now opt-in
+    - Get default reminder title/description from note
+    - Fix unable to input recovery code on 2FA sheet
+    - Bug fixes & small improvements
+
+    Thank you for using Notesnook!
+Version 2.4.3 (Feb 14, 2023)
+    - Improved UX for linking Notebooks
+    - Redesign properties sheet to be simple & handy
+    - Added support for RTL languages in editor
+    - Telemetry is now opt-in
+    - Get default reminder title/description from note
+    - Fix unable to input recovery code on 2FA sheet
+    - Bug fixes & small improvements
+
+    Thank you for using Notesnook!
+Version 2.4.2 (Jan 26, 2023)
+    - Fix users get logged out when app in background
+    Thank you for using Notesnook!
+Version 2.4.1 (Jan 17, 2023)
+    - Added background sync support
+    - Added notification badges for reminders
+    - Fix new features sheet showing on every app launch
+    - Fixed unable to unpin/disable reminders from notifications
+
+    Thank you for using Notesnook!
+Version 2.4.0 (Jan 15, 2023)
+    - Cross platform Reminders
+    - Multi-factor auth is enabled by default for all users to improve login security
+    - Now you can change account email from Settings -> Account Settings -> Change email
+    - Added options to disable sync, auto-sync & real-time sync from settings.
+    - Improved PDF exports styling
+    - Many bug fixes and improvements
+
+    Thank you for using Notesnook!
+Version 2.3.0 (Dec 7, 2022)
+    - Added support for displaying webclips in editor
+    - Fixed PDF export saves corrupted files
+    - Fixed slide-over/multi-window modes on iPad
+    - Fixed a bug in sync causing it to get stuck on some devices
+
+    Thank you for using Notesnook!
+Version 2.3.0 (Dec 7, 2022)
+    - Added support for displaying webclips in editor
+    - Fixed PDF export saves corrupted files
+    - Fixed slide-over/multi-window modes on iPad
+    - Fixed a bug in sync causing it to get stuck on some devices
+
+    Thank you for using Notesnook!
+Version 2.2.6 (Nov 24, 2022)
+    - Preview notes in trash
+    - Improved editor performance
+    - Attachments will now download in real-time sync
+    - Improved sync performance & fixed "Failed to sync"
+    errors on app launch
+    - Split View/Slide Over modes on iPad will now show the app contents properly
+    - Fixed file previews not opening
+Version 2.2.5 (Oct 28, 2022)
+    - Bug fixes & performance improvements
+Version 2.2.4 (Oct 20, 2022)
+    - Bug fixes & performance improvements
+Version 2.2.2 (Sep 29, 2022)
+    - Pin unlimited notes & notebooks to top
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.2.1 (Sep 28, 2022)
+    - Auto & real time sync enabled for all users
+    - Added Quick actions & shortcuts to launcher
+    - Splashscreen will now follow system theme
+    - Many bug fixes and improvements
+
+    Thank you for using Notesnook!
+Version 2.1.8 (Aug 17, 2022)
+    - Date is now shown in ISO8601 format
+
+    Thank you for using Notesnook!
+Version 2.1.6 (Aug 8, 2022)
+    - Fix strict privacy mode in app lock
+
+    Thank you for using Notesnook!
+Version 2.1.5 (Aug 6, 2022)
+    - Now you can disable double spaced lines in editor
+    - Disabled image compression
+    - Fix strict privacy mode not working after refocusing app from background
+    - Fix delete note from topic after multi-select
+    - Fix remove from topic button not appearing in note properties
+    - Fix creating a note after leaving a tag/topic screen adds the created note to that topic/tag.
+    - Many bug fixes and performance improvements in the editor
+Version 2.1.4 (Jul 26, 2022)
+    - fix group/subgroup with index 0 cannot be removed in toolbar
+    - fix Fluid tabs sensitivity conflicting with press events
+    - fix incorrect bottom insets hide some part of the toolbar
+    - fix a crash when opening merge conflict dialog
+    - fix auto backups not working on some devices
+    - fix images placeholders are not loaded in editor
+    - fix toggling checklist opens the keyboard
+    - fix editor becomes very laggy on large notes
+    - fix cursor jumps to start on typing issue description
+    - improved note loading in editor for better UX
+
+    Thank you for using Notesnook!
+Version 2.1.3 (Jul 21, 2022)
+    - Add a button in settings to reset toolbar config
+    - Fix accent color not applied in some parts of editor
+    - Fix changing grouping causes notes list to be empty
+    - Improved gestures and drawer animations
+    - Fixed sync issues
+
+    Thank you for using Notesnook!
+Version 2.1.1 (Jul 19, 2022)
+    - You can now swipe left from the edge to close the editor on iPhone
+    - Fix toolbar appears at incorrect position
+    - Fixed a crash when trying to configure toolbar
+    - Fixed toggling task item causing keyboard to open
+    - Fixed minimal toolbar preset shows default toolbar
+    - Improved gestures and drawer animations
+    - Removed the annoying alert on app launch
+
+    Thank you for using Notesnook!
+Version 2.1.0 (Jul 16, 2022)
+    - A new editor for Notesnook
+    - Configurable toolbar - Everyone deserves their own toolbar
+    - KaTex Math support
+    - Outline lists
+    - Task lists with progress & reordering
+    - Overhaul Settings for better UI and UX
+    - Lot's of bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 2.0.0 (Jul 15, 2022)
+    - A new editor for Notesnook
+    - Configurable toolbar - Everyone deserves their own toolbar
+    - KaTex Math support
+    - Outline lists
+    - Task lists with progress & reordering
+    - Overhaul Settings for better UI and UX
+    - Lot's of bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 1.8.10 (Jun 18, 2022)
+    - Bug fixes and performance improvements
+Version 1.8.9 (Apr 16, 2022)
+    - Fix a critical crash when navigating to Notebooks experienced by some users
+Version 1.8.8 (Apr 14, 2022)
+    - Improvements to sync performance
+    - Added sort by title option in sort menu
+
+    Thank you for using Notesnook!
+Version 1.8.7 (Apr 5, 2022)
+    - Sync over web-sockets
+    - Disable section headers in lists by changing grouping to "none"
+    - Fix padding-left on bold text in editor
+    - Fix session-expired dialog does not hide after login
+    - Fix login issues when 2FA enabled on some devices
+    - Fix a race condition causing note to be empty in editor
+    - Fix pin to notifications not working for some notes
+
+    Thank you for using Notesnook!
+Version 1.8.6 (Apr 3, 2022)
+    - Sync over web-sockets
+    - Disable section headers in lists by changing grouping to "none"
+    - Fix padding-left on bold text in editor
+    - Fix session-expired dialog does not hide after login
+    - Fix login issues when 2FA enabled on some devices
+    - Fix a race condition causing note to be empty in editor
+    - Fix pin to notifications not working for some notes
+
+    Thank you for using Notesnook!
+Version 1.8.4 (Mar 24, 2022)
+    - Two-factor authentication
+    - Fix collapse heading icon not showing correctly
+    - Fix items in search are not updated properly
+    - Improve login/signup UX
+    - Do not show progress on backup
+
+
+    Thank you for using Notesnook!
+Version 1.8.3 (Mar 17, 2022)
+    - Create duplicate of a note from Note properties
+    - Mark a note as local only if you don't want it to be synced
+    - Added a less intrusive announcement UI
+    - Allow adding/removing notes from inside topics with multi-select
+    - Fixed All uploads giving error "File length is 0" on running file check
+    - Fixed Pro users unable to reupload files
+    - Fixed Deleting attachments from attachment manager not working
+    - Fixed Last synced is "never" on app launch
+    - Fixed Link not added to selected text sometimes
+    - Fixed Adding H1 heading adds a H2 heading
+    - Fixed Add button not showing in Move note sheet
+    - Fixed Sync not running on login
+    - Fixed Theme not persisted on app reloads
+
+    Thank you for using Notesnook!
+Version 1.8.2 (Mar 11, 2022)
+    - Added a "new feature" introduction sheet
+    - Now you can view and manage all file & image attachments from Settings
+    - Changed collapse/expand heading icons
+    - Enabled auto day/night theme switching for free users
+    - Enabled h1 heading in editor
+    - Improved auto syncing
+    - Fixed auto-sync not working on mobile devices
+    - Fixed announcement not hiding on iOS
+    - Fixed placeholder showing behind opened note
+
+    Thank you for using Notesnook!
+Version 1.8.1 (Feb 25, 2022)
+    - Fixed re-login failing on session expired screen
+    - Fixed sorting of Notebooks in "Add to notebook" sheet
+    - Fixed nested checklist items can't be toggled in editor
+    - Fixed can't scroll to the end of Notebooks in "Add to notebook" sheet
+    - Moved "Dark mode" button in note properties to the end
+
+    Thank you for using Notesnook!
+Version 1.8.0 (Feb 23, 2022)
+    - Add new "Move notes" button in topic properties to quickly move notes to a topic
+    - Added read only mode for notes
+    - Added new placeholders with useful tips about app features
+    - Added Auto search on typing in Search/Replace
+    - Overhauled Auth flows with new UI/UX
+    - Overhauled App lock UI
+    - Added walkthroughs for pro/trial users
+    - Fixed Search/Replace does not accept spaces
+    - Fixed inline markdown transforms not working
+    - Fixed tags in editor hide/flicker on opening a note
+    - Fixed code-blocks are not scrollable in editor
+    - Fixed collapsing/expanding a heading causes cursor to jump
+    - Do not show title in notification pinned note
+    - Allow to opt-out of getting "Backup completed" dialogs on app launch when automatic backups are turned on
+    - Disable swipe gestures when selecting multiple notes
+    - Do not lock app if requesting fingerprint unlock for vault
+    - Fixed app hangs and becomes unusable on some phones
+    - Improved web clipper in widget to handle tables & code-blocks and remove invalid elements
+    - Disable swipe to close gesture in editor as it interferes with editing or scrolling.
+
+    Thank you for using Notesnook!
+Version 1.7.12 (Jan 31, 2022)
+    - Fixed app hangs and becomes unusable on some phones
+    - Improved web clipper in widget to handle tables & codeblocks and remove invalid elements
+    - Disable swipe to close gesture in editor as it interferes with editing or scrolling.
+
+    Thank you for using Notesnook!
+Version 1.7.11 (Jan 29, 2022)
+    - Fix editor closes after opening note/new note on some devices
+    - Fix Keyboard padding issues on some devices
+    - Fix copying note from quick actions on note not working.
+
+    Thank you for using Notesnook!
+Version 1.7.10 (Jan 26, 2022)
+    - Improved onboarding for new users
+    - Improved app launch for better UX
+    - Fixed clicking on some links in editor cause a crash
+    - Fixed many bugs and improved performance
+
+    Thank you for using Notesnook!
+Version 1.7.9 (Jan 21, 2022)
+    - Fixed note headline would show invalid characters
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 1.7.8 (Jan 17, 2022)
+    - This release fixes an issue in which app would go blank on running manual backup or selecting backup directory for automatic backups.
+
+    Thank you for using Notesnook!
+Version 1.7.7 (Jan 13, 2022)
+    - Fixed a crash when trying to upload an image
+    - Fixed issue in attachments that are downloaded before upload is complete
+    - Fixed jitter when creating a new note in editor
+    - Improved content loading and saving note in editor to be more reliable
+
+    Thank you for using Notesnook!
+Version 1.7.6 (Jan 11, 2022)
+    - App will ask for password to restore an encrypted backup
+    - Improved search & query of tags
+    - Improved code block and table UI in editor & exports
+    - Locked notes can be opened now with no vault
+    - Fixed theme not loading in merge conflict dialog
+    - Fixed sync stops working after uploading an attachment
+    - Fixed export from note properties not working
+    - Fixed properties not opening in app
+
+    Thank you for using Notesnook!
+Version 1.7.4 (Jan 9, 2022)
+    - Added password recovery and password changing
+    - Fix table cell and row properties not showing properly
+    - Fixed homepage changing does not work
+    - Hide locked notes from Share Menu
+    - Fix checking/uncheck checklist item changes selection
+    - Fixed links & URL validation in editor
+
+    Thank you for using Notesnook!
+Version 1.7.3 (Jan 6, 2022)
+    - Fix image placeholders not loading in editor
+    - Fix crash when navigating to topic from notebook properties
+    - Fix navigating to search not working on iOS
+    - Hide locked notes from Share Menu
+    - Fix checking/uncheck checklist item changes selection
+    - Add monthly backup option
+    - Fixed links & URL validation in editor
+    - Improved UX for rate app to be less intrusive
+
+    Thank you for using Notesnook!
+Version 1.7.2 (Jan 1, 2022)
+    - Note history — from this version, each session will be saved locally all the way back to the first edit.
+    - Better tables support in editor
+    - Editor toolbar is now more compact and improved
+    - Mobile optimized search/replace in editor
+    - You can now view/manage note tags in editor
+    - Improved note properties UI & UX
+    - Results in search are more reliable now
+    - Add attachment count on notes
+    - Many other UI and performance improvements
+
+    Thank you for using Notesnook!
+Version 1.7.0 (Dec 29, 2021)
+    - Note history — from this version, each session will be saved locally all the way back to the first edit.
+    - Better tables support in editor
+    - Editor toolbar is now more compact and improved
+    - Mobile optimized search/replace in editor
+    - You can now view/manage note tags in editor
+    - Improved note properties ui & ux
+    - Results in search are more reliable now
+    - Add attachment count on notes
+    - Many other ui and performance improvements
+
+    Thank you for using Notesnook!
+Version 1.6.94 (Dec 17, 2021)
+    - Fixed session expiring issues faced by many users
+    - Fix numerous issues with syncing between multiple devices
+    - Fixed note is saved sometimes when opening editor
+    - Improved editor performance
+
+    Thank you for using Notesnook!
+Version 1.6.93 (Dec 14, 2021)
+    - Added pitch black theme. Enable it in appearance settings
+    - Daily backups will be enabled by default for pro users
+    - Now list of attachments will show images
+    - You can now change backups directory in settings.
+    - Fixed sorting in topics/tags/colors not working
+    - Fixed keyboard keeps hiding in empty note
+    - Fixed autocomplete for password managers
+    - Fixed share extension theme at night
+    - Many other bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 1.6.9 (Dec 8, 2021)
+    - Add new header for notebook screen & topic
+    - Add url validation in link input
+    - Change editor title to single line
+    - Notes will now open much quickly
+    - Change selection color in editor to accent color
+    - Ensure that products are loaded before showing pricing
+    - Show notebook & topic on note items
+    - Check for announcements after checking for any existing modals/dialogs on app launch
+    - Fixed sorting on items in groups
+    - Fix deleting note properly when editor is open
+    - Fixed editor losing focus in checklists
+    - Fixed cursor jump to end of paragraph on removing new line
+    - Fix note is not created if editor is closed quickly
+    - Fix a change would not saved if editor was closed quickly after note open
+    - Fix unnecessary renders
+    - Fix session expired dialog not showing
+    - Added app version check in announcement
+    - Minor bug fixes and performance improvements.
+
+    Thank you for using Notesnook!
+Version 1.6.6 (Nov 23, 2021)
+    - Added a new announcement dialog
+    - Fixed a new note cannot be created from inside a notebook
+    - Fixed app crashing on launch for some users
+    - Fixed tags in languages other than English not created
+    - Other minor performance improvements
+
+    Thank you for using Notesnook!
+Version 1.6.4 (Nov 21, 2021)
+    - Redesign dialogs in mobile & desktop apps
+    - Fix tags not sorting and renaming
+    - Fix subscription issues for iOS users
+    - Improved editor performance with large notes
+    - Improved Login and Signup flow
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+
+Version 1.6.3 (Nov 13, 2021)
+    - Added a dedicated download button for images in editor
+    - Fix a crash when navigating to a tag from list of tags
+    - Fix grouping not working once alphabetical grouping is selected
+    - Numerous other bug fixes and performance improvements
+    - Improved syncing on multiple devices
+
+    Thank you for using Notesnook!
+Version 1.6.2 (Nov 4, 2021)
+    - End-to-End encrypted file attachments
+    - Quick note widget on iOS
+    - New & improved share extension UI
+    - Enable Face ID verification for App Lock & Notes Vault
+    - Allow appending shared data to existing note in share extension
+    - Changed app font to OpenSans
+    - Removed annoying toast message whenever editor was closed
+    - Improve webpage clipping in share extension
+    - Add bouncing animation in Action Sheet
+    - Disable editor jumping when an image is selected
+    - Improved merge conflict management and multiple device syncing
+    - Fixed undo manager not synced with edit history
+    - Fixed numerous issues related to syncing & user session expiry
+    - Fixed content does not update when navigating to a screen already in stack
+    - Many bug fixes and performance improvements
+Version 1.6.0 (Nov 3, 2021)
+    - End-to-End encrypted file attachments
+    - Quick note widget on iOS
+    - New & improved share extension UI
+    - Enable Face ID verification for App Lock & Notes Vault
+    - Allow appending shared data to existing note in share extension
+    - Changed app font to OpenSans
+    - Removed annoying toast message whenever editor was closed
+    - Improve webpage clipping in share extension
+    - Add bouncing animation in Action Sheet
+    - Disable editor jumping when an image is selected
+    - Improved merge conflict management and multiple device syncing
+    - Fixed undo manager not synced with edit history
+    - Fixed numerous issues related to syncing & user session expiry
+    - Fixed content does not update when navigating to a screen already in stack
+    - Many bug fixes and performance improvements
+Version 1.5.5 (Sep 16, 2021)
+    - Add default color for highlight and text color in editor
+    - Fixed issue where multiple duplicate notes were being created in tags
+    - Fixed items are not sorted properly when grouped alphabetically
+    - Fixed issue in editor where selected lines could not be made into a checklist
+    - Fixed quickly closing and reopening note would make the editor blank
+    - Removed syncing indicator in header as it became annoying for some users
+    - Bug fixes and performance improvements.
+
+    Thank you for using Notesnook!
+Version 1.5.4 (Sep 4, 2021)
+    - Fixed app hangs when editing a topic/notebook from dropdown menu
+    - Now you can rename colors by Long press in the Side Menu
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 1.5.3 (Aug 17, 2021)
+    - Bug fixes and performance improvements
+Version 1.5.2 (Aug 10, 2021)
+    - Fixed session expiring randomly time to time
+    - Fixed merge conflict not resolved when local note is kept while remote note is discarded.
+
+    Thank you for using Notesnook!
+Version 1.5.1 (Aug 6, 2021)
+    - Many changes in app design to improve user experience
+    - Compact mode for notes and notebooks
+    - Improved tagging system, now you can delete and rename a tag
+    - Extended sorting to notebooks, tags and topics
+    - Editor Settings added to set important defaults such as font size and directionality
+    - Better and improved syncing between multiple devices
+    - Many bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 1.4.5 (Jul 5, 2021)
+    Live updating in editor with syncing from multiple devices
+    Improved syncing conflict management
+    Free users can now create ordered/unordered lists
+
+    Thank you for using Notesnook!
+Version 1.4.3 (Jul 2, 2021)
+    - Fixed incorrect image placement in pdf exports
+    - Fixed App keeps reloading when using multi-window
+    - Fixed crash when App Lock is enabled
+    - Enabled telemetry, you can disable it from Settings in App
+
+    Thank you for using Notesnook!
+Version 1.4.2 (Jun 26, 2021)
+    - Fixed App keeps reloading when using multi-window
+    - Fixed crash when App Lock is enabled
+    - Enabled telemetry, you can disable it from Settings in App
+
+    Thank you for using Notesnook!
+Version 1.4.0 (Jun 16, 2021)
+    - Notesnook Monograph is here! An easy way to share your notes with just one click
+    - Many bug fixes and performance improvements.
+
+    Thank you for using Notesnook!
+Version 1.3.76 (Jun 9, 2021)
+    - Bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 1.3.75 (May 28, 2021)
+    Allow relogin after session expires.
+Version 1.3.74 (May 16, 2021)
+    - Markdown export not converting all html to markdown especially tables/span/strikethrough/checklists/headings
+    - Added a new component in ActionSheet to show that note is synced and encrypted.
+    - Added smooth animation when opening editor
+    - Support previewing images added to a note from floating toolbar
+    - Support resizing image with gestures
+    - Support aligning images
+    - Support for merge/split cells in table
+    - Edit table, row and cell properties
+    - Add background color/border etc to table cells.
+    - Many bug fixes and performance improvements
+Version 1.3.7 (Apr 20, 2021)
+    - Added Search/Replace support in editor
+    - Added support for Password Managers for Login
+    - Fix an issue where email including a "+" character was marked invalid
+    - Fix a crash when opening properties of note in trash
+    - Fix sometimes app took too long to load on first launch
+    - Fixed search showing all notes in results
+    - Fixed editor stuttering when opening a note
+    - Fixed app not launching on iPad
+    - Other bug fixes and performance improvements
+
+    Thank you for using Notesnook!
+Version 1.3.6 (Apr 13, 2021)
+    Fix minor issues in note editor
+    Fix auto sign-out session expiry issue
+    Improve email verification UX
+    Optimize app performance on low-end devices
+    Other bug fixes and performance improvements
+
+    Thank you for using Notesnook.
+Version 1.3.4 (Mar 12, 2021)
+    - Fix checklists
+    - Fix adding image from camera/gallery
+    - Bug fixes and performance improvements
+Version 1.3.2 (Mar 7, 2021)
+    - Fix subscription flow
+Version 1.3.1 (Mar 3, 2021)
+    - New toolbar for better writing experience.
+    - Added support for tables in editor.
+    - Added support to change fonts
+    - Improved and faster search
+    - Many improvements in UX
+    - Other bug fixes and performance improvements
+
+Users may also like
+Select objects to compare
+Standard Notes
+Anytype: Private Notes
+Amplenote
+Skiff Pages - Secure notes
+Filen - Cloud Storage
+Cryptomator
+Nimbus Note
+Skiff Drive - Encrypted files
+Skiff Mail - Private email
+Skiff Calendar - Encrypted cal
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.6.15
+    Current release
+    Jan 30, 2024
+    2.6.14
+    Dec 22, 2023
+    2.6.13
+    Dec 11, 2023
+    2.6.10
+    Nov 20, 2023
+    2.6.8
+    Oct 31, 2023
+    2.6.7
+    Oct 2, 2023
+    2.6.6
+    Sep 25, 2023
+    2.6.5
+    Sep 14, 2023
+    2.6.2
+    Sep 7, 2023
+    2.6.1
+    Aug 8, 2023
+    2.6.0
+    Aug 7, 2023
+    2.5.6
+    Jul 13, 2023
+    2.5.5
+    Jul 6, 2023
+    2.5.4
+    Jun 27, 2023
+    2.5.3
+    Jun 20, 2023
+    2.5.2
+    Jun 8, 2023
+    2.5.1
+    Jun 6, 2023
+    2.5.0
+    May 30, 2023
+    2.4.17
+    May 17, 2023
+    2.4.15
+    Apr 29, 2023
+    2.4.14
+    Apr 27, 2023
+    2.4.13
+    Apr 18, 2023
+    2.4.12
+    Apr 11, 2023
+    2.4.11
+    Apr 5, 2023
+    2.4.10
+    Mar 30, 2023
+    2.4.9
+    Mar 24, 2023
+    2.4.6
+    Mar 22, 2023
+    2.4.5
+    Feb 28, 2023
+    2.4.4
+    Feb 15, 2023
+    2.4.3
+    Feb 14, 2023
+    2.4.2
+    Jan 26, 2023
+    2.4.1
+    Jan 17, 2023
+    2.4.0
+    Jan 15, 2023
+    2.3.0
+    Dec 7, 2022
+    2.3.0
+    Dec 7, 2022
+    2.2.6
+    Nov 24, 2022
+    2.2.5
+    Oct 28, 2022
+    2.2.4
+    Oct 20, 2022
+    2.2.2
+    Sep 29, 2022
+    2.2.1
+    Sep 28, 2022
+    2.1.8
+    Aug 17, 2022
+    2.1.6
+    Aug 8, 2022
+    2.1.5
+    Aug 6, 2022
+    2.1.4
+    Jul 26, 2022
+    2.1.3
+    Jul 21, 2022
+    2.1.1
+    Jul 19, 2022
+    2.1.0
+    Jul 16, 2022
+    2.0.0
+    Jul 15, 2022
+    1.8.10
+    Jun 18, 2022
+    1.8.9
+    Apr 16, 2022
+    1.8.8
+    Apr 14, 2022
+    1.8.7
+    Apr 5, 2022
+    1.8.6
+    Apr 3, 2022
+    1.8.4
+    Mar 24, 2022
+    1.8.3
+    Mar 17, 2022
+    1.8.2
+    Mar 11, 2022
+    1.8.1
+    Feb 25, 2022
+    1.8.0
+    Feb 23, 2022
+    1.7.12
+    Jan 31, 2022
+    1.7.11
+    Jan 29, 2022
+    1.7.10
+    Jan 26, 2022
+    1.7.9
+    Jan 21, 2022
+    1.7.8
+    Jan 17, 2022
+    1.7.7
+    Jan 13, 2022
+    1.7.6
+    Jan 11, 2022
+    1.7.4
+    Jan 9, 2022
+    1.7.3
+    Jan 6, 2022
+    1.7.2
+    Jan 1, 2022
+    1.7.0
+    Dec 29, 2021
+    1.6.94
+    Dec 17, 2021
+    1.6.93
+    Dec 14, 2021
+    1.6.9
+    Dec 8, 2021
+    1.6.6
+    Nov 23, 2021
+    1.6.4
+    Nov 21, 2021
+    1.6.3
+    Nov 13, 2021
+    1.6.2
+    Nov 4, 2021
+    1.6.0
+    Nov 3, 2021
+    1.5.5
+    Sep 16, 2021
+    1.5.4
+    Sep 4, 2021
+    1.5.3
+    Aug 17, 2021
+    1.5.2
+    Aug 10, 2021
+    1.5.1
+    Aug 6, 2021
+    1.4.5
+    Jul 5, 2021
+    1.4.3
+    Jul 2, 2021
+    1.4.2
+    Jun 26, 2021
+    1.4.0
+    Jun 16, 2021
+    1.3.76
+    Jun 9, 2021
+    1.3.75
+    May 28, 2021
+    1.3.74
+    May 16, 2021
+    1.3.7
+    Apr 20, 2021
+    1.3.6
+    Apr 13, 2021
+    1.3.4
+    Mar 12, 2021
+    1.3.2
+    Mar 7, 2021
+    1.3.1
+    Mar 3, 2021
+
+See More
+Top In-App Purchases
+
+    Notesnook Pro
+    $3.99
+    Notesnook Pro
+    $43.99
+    Notesnook Pro
+    $4.99
+    Notesnook Pro
+    $49.99
+    Notesnook Pro
+    $59.99
+    Notesnook Pro
+    $2.99
+    Notesnook Pro
+    $29.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jan 14, 2021
+
+Worldwide Release Date
+    Jan 14, 2021
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    2.6.15
+
+Size
+    36.97 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Streetwriters Private Limited
+
+Company HQ
+    Pakistan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    org.streetwriters.notesnook
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1544027013
+Unified App ID: 1000800000064134
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Notesnook: Private note taking | data.ai

@@ -1,0 +1,287 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+WalKaraoke
+M KaraokeEntertainment (Applications)Free
+Alerts
+
+    WalKaraoke
+    WalKaraoke
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+WalKaraoke
+Persang Karaoke
+Entertainment (Applications)
+Free
+App Description
+This app should be used together with persang buletooth karaoke speaker product and other similar product. After connected to speaker, the app will play the karaoke files from SD card and display lyrics. Enjoy like professional karaoke machines.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.80 (Dec 4, 2022)
+    (1) Fix ui display error
+    (2) Update UI components
+Version 1.79 (Sep 2, 2022)
+    (1) Fix some crash problem
+    (2) Update image display componet
+Version 1.78 (Jul 18, 2022)
+    (1) Update UI Components
+    (2) Add new support for wireless microphone
+Version 1.77 (Mar 8, 2022)
+    (1) Fix UI interface
+    (2) Fix bugs when two phone connect with karaoke speaker.
+Version 1.76 (Feb 22, 2022)
+    (1)Fix playing speaker bugs
+    (2)Add support for new speaker firmware
+Version 1.75 (Oct 13, 2021)
+    (1) Fix playing list bug
+    (2) Change some interface about reserve song 
+Version 1.74 (Sep 28, 2021)
+    (1) Update UI components for iOS15
+    (2) Hide Status Bar when playing karaoke songs
+Version 1.73 (Sep 22, 2021)
+    (1) Playing List function changed
+    (2)Fix score bug 
+Version 1.72 (Aug 20, 2021)
+    (1) Fix search bar issue
+    (2) Fix karaoke image show issue
+Version 1.71 (Jul 22, 2021)
+    (1) Fix background image when in karaoke mode
+    (2) Fix interlude show problem
+Version 1.70 (Jul 8, 2021)
+    (1) Fix issue about bluetooth
+    (2)update some interface
+Version 1.69 (Jun 24, 2021)
+    (1) Fix song catalog transfer bug
+    (2) Adjust some UI interface
+Version 1.68 (Jun 10, 2021)
+    (1) Fix ui interface for ipad
+    (2)Adjust UI for potrait
+Version 1.66 (May 8, 2021)
+    (1) fix ui bug for iPhone
+    (2) fix volume, key, tempo for each song
+Version 1.63 (Apr 28, 2021)
+    (1) Fix ui interface for iPhone
+    (2) Update midi library
+Version 1.6.1 (Apr 25, 2021)
+    (1) Fix some ui interface for iPad
+    (2) Fix some song play bug
+Version 1.6 (Apr 22, 2021)
+    (1) New UI design
+    (2) App works with Persang bluetooth karaoke speaker
+Version 1.20 (May 31, 2019)
+    (1) Fix youtube search bug
+    (2) Add new support for new MS20 machine.
+Version 1.19 (Mar 22, 2019)
+    Fix some bugs
+Version 1.18 (Jan 31, 2019)
+    (1) Fix some bugs
+    (2) Add support for new product of bluetooth and wifi dual mode microphone.
+Version 1.17 (Nov 19, 2018)
+    (1) Local midi song is just for test, cannot be added to favorite;
+    (2) Screen won't lock when playing song;
+    (3) Fix some bugs
+Version 1.16 (Nov 8, 2018)
+
+Users may also like
+Select objects to compare
+Magicsing Karaoke
+WinSmart Karaoke
+Karaoke air2
+Dr. Karaoke App
+TJ SMART NEW SONG
+GVSmartAppTb
+Panda Short
+VocalStyler Karaoke
+Club O7 App
+Karaoke on Demand
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.80
+    Current release
+    Dec 4, 2022
+    1.79
+    Sep 2, 2022
+    1.78
+    Jul 18, 2022
+    1.77
+    Mar 8, 2022
+    1.76
+    Feb 22, 2022
+    1.75
+    Oct 13, 2021
+    1.74
+    Sep 28, 2021
+    1.73
+    Sep 22, 2021
+    1.72
+    Aug 20, 2021
+    1.71
+    Jul 22, 2021
+    1.70
+    Jul 8, 2021
+    1.69
+    Jun 24, 2021
+    1.68
+    Jun 10, 2021
+    1.66
+    May 8, 2021
+    1.63
+    Apr 28, 2021
+    1.6.1
+    Apr 25, 2021
+    1.6
+    Apr 22, 2021
+    1.20
+    May 31, 2019
+    1.19
+    Mar 22, 2019
+    1.18
+    Jan 31, 2019
+    1.17
+    Nov 19, 2018
+    1.16
+    Nov 8, 2018
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Nov 8, 2018
+
+Worldwide Release Date
+    Nov 9, 2018
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    1.80
+
+Size
+    94.66 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Hong Lam
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.1 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.multak.WalKaraoke
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1440685843
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+WalKaraoke | data.ai

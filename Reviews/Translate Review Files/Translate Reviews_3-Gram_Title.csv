@@ -1,0 +1,19 @@
+ngram,frequency
+"('add', 'hindi', 'language')",12
+"('add', 'indian', 'languages')",12
+"('add', 'urdu', 'language')",10
+"('google', 'translate', 'better')",9
+"('worst', 'app', 'ever')",9
+"('please', 'add', 'indian')",7
+"('turkish', 'language', 'support')",7
+"('add', 'thai', 'language')",6
+"('app', 'doesnt', 'work')",6
+"('better', 'google', 'translate')",6
+"('please', 'add', 'hindi')",6
+"('worst', 'translation', 'app')",6
+"('add', 'indian', 'language')",5
+"('add', 'ukrainian', 'language')",5
+"('doesnt', 'even', 'work')",5
+"('hindi', 'language', 'available')",5
+"('need', 'ukrainian', 'language')",5
+"('please', 'add', 'languages')",5

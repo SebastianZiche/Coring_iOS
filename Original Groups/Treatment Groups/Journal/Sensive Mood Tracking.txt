@@ -1,0 +1,372 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Sensive Mood Tracking
+Sensive Pty LtdHealth and Fitness (Applications)Free
+Alerts
+
+    Sensive Pty Ltd
+
+    Sensive Mood Tracking
+    Sensive Mood Tracking
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Sensive Mood Tracking
+Health and Fitness (Applications)
+Free
+iPhone Only
+App Description
+** WHAT IS SENSIVE **
+
+Sensive lets you stay in touch with your mind. Track your mood through short daily sessions of questions and journaling. You can use Sensive for any open ended journaling effort. Log your food. Write a gratitude diary. Mood tracker. Exercise, meditate, eat, and be grateful. Take care of your mental, emotional, and physical health. Good self-care is a key to improved mood and reduced anxiety. Your body is bound to your mind.
+
+Never has the need for wellbeing, self-improvement, and self-care been greater. Use Sensive as a daily bullet journal.
+
+Three simple principles
+
+1. Be mindful and self-reflect each day
+2. Validate your inputs, how does you score based on habit changes
+3.) Reinforce your good habits with Sensive, its simple to use and easy to love
+
+For stress relief and anxiety release, make sure you track even when having a bad day so that you can teach yourself what negative activities you need to cope with or stop doing.
+
+Build mood boosters, and use positive reinforcement on good habits, make sure you keep an eye on your mood stats.
+
+
+**HOW DOES IT WORK**
+
+Track your mood and write a short journal entry, you can add photos to your entries. Think of it as an Old School diary. The recorded moods and sessions will be easily accessible in the history and journal tab. You can filter your journal based on score, to help you do more in-depth analysis of your negative and positive days. It will help you find patterns and become more self-aware.
+
+We are using a psychological technique called profiling of mood states. The results from your answers then establish a daily total mood disturbance score. This allows us to accurately and precisely monitor your mood through daily self-reporting.
+
+
+To make it simple, Sensive allows you to:
+- Make self-reflection a daily habit
+- Discover what makes you happy and sad
+- Explore exciting statistics about your life on weekly, monthly or yearly charts
+- Deep dive into advanced statistics for every mood & category
+- Create goals to motivate yourself
+- Build new habits and collect achievements
+- Set a daily reminder to self-reflect and journal
+- Filter journal entries based on mood score
+
+
+**Apple Health integration**
+We integrate with Apple Health, allowing you to create an ongoing qualitative catalog of your mental wellbeing alongside your physical wellbeing. Explore how your mood and exercise interact and answer questions like if hitting 10k steps a day make you feel more energetic?
+
+**JOURNALING**
+
+Through daily journaling we help you establish a deeper connection with yourself. A place for a brief, top of mind free flowing writing session. Here you can chose to write multiple times per day or just once.
+
+You can add photos to your journal entries, and view them back later when you are doing self-reflection.
+
+
+**Insights & History**
+
+We built Sensive around you. By having a daily check-in with yourself. You form a routine, a quiet short moment each day when you touch base with your emotions and current state of mind. Over time, these checks turn into a broader more holistic view of your mood. You will start seeing patterns and be able to learn what triggers certain emotions and moods.
+
+
+Mood Tracking & Journaling has never been easier!
+
+
+---
+Brian & Linus
+
+Ratings
+Displayed Avg Ratings
+4.73
+Total Displayed Ratings
+159
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.2.3 (Oct 29, 2022)
+    Hey there!
+
+    By popular demand we've added two more health metrics - you can now compare how your HRV and resting heart rate correlate to your mood. Sleep data is coming soon.
+
+    We also fixed up a few bugs and made health data fetching a little smoother.
+Version 2.2.2 (Aug 12, 2022)
+    A good old bug fix release! There were a few small bugs we had to carefully cup in our hands and place outside the Sensive door.
+Version 2.2.1 (Jul 23, 2022)
+    After developing all those features we found a few bugs in the wild. This release takes care of those.
+
+    Happy tracking!
+
+    Sensive
+Version 2.2.0 (Jul 22, 2022)
+    Lot's of things have been happening, where to start!?
+
+    1. We've given the app landing a fresh new look!
+    2. Weekly reviews! After each week look back on what worked and what didn't and set an intention for the week ahead.
+    3. Speaking of...intentions. You can now set weekly intentions to help stay on course.
+    4. Mood insights have been enhanced and integrated into the home tab. Use these wisely, they help you cement learnings about what is affecting your mood.
+
+    This version integrates health data, tracking, journaling, insights and intentions to paint an holistic picture of your wellbeing.
+Version 2.1.0 (Jun 24, 2022)
+    Insights and trends!
+
+    Pay off for your hard work tracking. Get alerted to trends in your mood like increasing fatigue or decreasing confusion so that you can react early to it.
+
+    Find correlations between your actions and your mood by viewing your Apple Health metrics and mood in one portal.
+
+    This is one exciting update!
+Version 2.0.3 (Jun 7, 2022)
+    We've integrated with Apple Health!
+
+    Now you can explore how your physical and mental wellbeing interact and begin to understand the positive steps you can take to improve your wellbeing.
+
+    Try it out and let us know what other metrics you'd like to explore alongside your mood tracks with Sensive.
+
+    (in addition we've made the app a lot snappier and in particular, made the app really fast to load and interact with)
+Version 2.0.2 (Mar 3, 2022)
+    Fixing a bug which is affecting some users and preventing them recording a track.
+
+    We've also upgraded the in-app feedback so we can reply swiftly to you through the app. Please reach out if you are having any problems and we'll resolve immediately.
+
+    See you again soon with a fresh update.
+Version 2.0.1 (Feb 28, 2022)
+    More chart goodness! We've added monthly and yearly charts, allowing you to see how your mood changes over a higher time-frame.
+
+    See you soon with another update.
+Version 2.0.0 (Feb 22, 2022)
+    This update feels so big we decided to call it Sensive 2.0!
+
+    Welcoming....
+
+    1. Charts are now introduced to the home tab.
+    2. Journal entries join the home screen party.
+    3. The interface is upgraded across the board.
+
+    Our research indicates that the new home tab overview helps correlate your present mood with your actions, allowing you to make appropriate adjustments yourself.
+
+    Thank you all for providing your feedback, we are incorporating as much of it as possible so keep it coming. You can now find the feedback form under the settings tab.
+
+    The list of bug fixes are so long its not included here, but its roughly the length of the Golden Gate Bridge.
+
+    We hope you will enjoy Sensive and leave us a 5-star review!
+
+    Brian & Linus
+Version 1.5.1 (Feb 7, 2022)
+    Hey everyone!
+
+    This release is an upgrade of all software to latest versions and some housekeeping. Boring!
+
+    But the fun stuff is coming soon. We have charts on the way :-)
+
+    See you soon with that update. For now enjoy a super smooth updated app to check your mood with.
+Version 1.5 (Jan 3, 2022)
+    This release delivers a host of festive goodies for our customers.
+
+    1. Our main request - you can now undo a swipe. It's quite fun we think!
+
+    2. Images from your journal are now scrollable from the main tab. A timeline for your mind!
+
+    3. Journal entries are now editable. We want to give you the freedom to expand on your insights.
+
+    4. A feedback feature has been added to the home tab. Keep feeding your feature requests through!
+
+    5. Image upload improvements.
+
+    6. Sped up the launch speed of the app.
+
+    7. Fixed the chart on this history tab.
+
+    Hopefully these help you in keeping on track of your mental wellbeing in 2022.
+
+    We've got some amazing features coming soon!
+Version 1.4 (Jun 16, 2021)
+    They say a picture is worth a thousand words so we've saved you a lot of typing!
+
+    You can now add images to your journal entries to help record those memories and how they made you feel.
+Version 1.3 (Jun 3, 2021)
+    You can now filter your journal entries to help you discover entries that have made you feel a certain way.
+
+    We've also really improved the general performance of the app and paved the way for lots of exciting features soon.
+Version 1.2 (Mar 26, 2021)
+    We've moved the default notification time to a more friendly hour of the day.
+
+    You can change to a preferred time or select random times throughout the day.
+Version 1.1 (Mar 20, 2021)
+    We've streamlined the tracking process to make checking in on your mental health every day even easier.
+
+Users may also like
+Select objects to compare
+Easy Mood Diary
+Introspect: The AI Journal
+Tochi - Mood Tracker, Journal
+Moodflow
+Daily Mental Health-Self Care
+Mood BPD Bipolar • Feeltracker
+Emotion Tracker: Moodistory
+Mood Tracker - Daily Journal
+Mood Journal: emotions tracker
+uMore - Mental Health Tracker
+IQ Classifications
+Genre: Health & Fitness
+Subgenre: Health Monitor
+Health Monitor
+Apps that monitor the user's vital medical signs or status of chronic diseases via connected devices.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.2.3
+    Current release
+    Oct 29, 2022
+    2.2.2
+    Aug 12, 2022
+    2.2.1
+    Jul 23, 2022
+    2.2.0
+    Jul 22, 2022
+    2.1.0
+    Jun 24, 2022
+    2.0.3
+    Jun 7, 2022
+    2.0.2
+    Mar 3, 2022
+    2.0.1
+    Feb 28, 2022
+    2.0.0
+    Feb 22, 2022
+    1.5.1
+    Feb 7, 2022
+    1.5
+    Jan 3, 2022
+    1.4
+    Jun 16, 2021
+    1.3
+    Jun 3, 2021
+    1.2
+    Mar 26, 2021
+    1.1
+    Mar 20, 2021
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    Mar 17, 2021
+
+Worldwide Release Date
+    Mar 17, 2021
+
+Last Updated Time
+    Feb 19, 2024
+
+Version
+    2.2.3
+
+Size
+    35.23 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Englisch
+
+Seller
+    Sensive Pty Ltd
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 12.0 oder neuer. Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    xyz.sensive
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1513799237
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Sensive Mood Tracking | data.ai

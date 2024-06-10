@@ -1,0 +1,1613 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MindNode - Mind Map & Outline
+IdeasOnCanvasProductivity (Applications)Free
+Alerts
+
+    MindNode - Mind Map & Outline
+    MindNode - Mind Map & Outline
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MindNode - Mind Map & Outline
+Интеллект-карты, брейнсторминг
+Productivity (Applications)
+Free
+App Description
+Every great idea starts with a single thought. And another. And then a million more. MindNode is the most delightful brainstorming app for Mac and iOS. It helps you capture your thoughts and create a clear picture of your idea.
+
+Featured as Apple’s “App of the Day” & “Editors’ Choice”
+
+
+WHAT’S ON YOUR MIND?
+
+• Capture Your Thoughts
+Whether as words, images, links, tasks, or notes, capture your thoughts in any form. Create an outline for an organized, hierarchical view, and observe how it grows as a mind map. Use the mind map to visually rearrange nodes and add new thoughts. MindNode is the right tool to get your ideas out of your head the way you want to.
+
+• Organize Your Idea
+Your document reflects your ever-changing understanding of an idea as you add and adjust thoughts. Move, tag, connect, detach, and reconnect as often as you like. Mind map and outline side-by-side. Concentrate on one thought at a time with Focus Mode, Visual Tags, and foldable branches.
+
+• Style Your Mind Map
+Personalize your document with beautiful out-of-the-box themes and custom stickers. Make your mind map look just right by styling every detail. With Smart Layout your idea will always look fantastic.
+
+• Share Your Vision
+Easily share your documents with others or move them one step further in your creative process. Send tasks to Apple Reminders, Things, or OmniFocus. Export your idea as text, image, and to many other file formats.
+
+
+STAY PRODUCTIVE WHEREVER YOU GO
+
+Whether it’s on your iPhone, iPad, or Mac, with MindNode, you stay productive wherever you are. Store your files on iCloud Drive and access them on all your devices.
+
+
+FREE EDITOR
+
+Use MindNode for free to capture your ideas with actions like editing, rearranging, and folding nodes, as well as importing and exporting files.
+
+• Capture: grow your thoughts into fully-fledged ideas
+• Fold branches: keep your documents organized
+• Import: FreeMind, MindManager, iThoughts, plain text, RTF, CSV, OPML, Markdown, TextBundle
+• Export: plain text, RTF, CSV, OPML, PDF, PNG image, Markdown, TextBundle, TaskPaper, FreeMind
+
+
+MINDNODE PLUS
+
+MindNode Plus is a cross-platform subscription for your iPhone, iPad, and Mac. It unlocks all of MindNode’s features like Outlining, Visual Tags, Focus Mode, Notes, Themes, Stickers, Connections, and much more. MindNode Plus is available as a monthly and a yearly subscription. Try out all of MindNode’s features with a free 14-day trial.
+
+• Collect everything: add text, images, and links to nodes
+• Outlining: create your document using a hierarchical, organized approach
+• Visual Tags: tag your thoughts for more context, highlight tags to see new relationships
+• Notes: keep your mind map easy to read without losing a single detail
+• Connections: connect nodes on different branches
+• Tasks: turn your thoughts into actions
+• Quick Entry: just start typing to collect thoughts
+• Themes: beautiful out-of-the-box themes and unlimited personal themes
+• Images: insert your own images and annotate them
+• Stickers: 260+ hand-crafted stickers with adjustable colors
+• Styling: rich styling options for every single part of your mind map
+• Layouts: top-down and horizontal
+• Focus Mode: put a spotlight on a single branch
+• Dark Mode: for when your thoughts come at night
+• Share Tasks: to Apple Reminders, Things, and OmniFocus
+
+
+WHAT OTHERS SAY ABOUT MINDNODE
+
+“The app keeps out of your way, so it doesn’t interrupt your thought processes.”
+– New York Times
+
+“An app on the cutting edge of iOS design and technologies.”
+– MacStories
+
+“Slowly grow and track your ideas, connecting nodes to help you better conceptualize your idea or thoughts.”
+– BusinessInsider
+
+
+QUESTIONS?
+
+Reach out to us at support@mindnode.com and on Twitter (@mindnode). Let us know if you have any questions or issues. We’re always glad to help.
+
+
+Terms of Service: https://mindnode.com/terms
+Ratings
+Displayed Avg Ratings
+4.43
+Total Displayed Ratings
+11.5k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2023.3.3 (Feb 27, 2024)
+    • Fixed a bug where not all nodes would be dragged in Manual Layout
+Version 2023.3.2 (Feb 21, 2024)
+    • Copy/paste support from iOS to visionOS
+    • Improved the behavior of the image picker on iPhone (iOS 17.2 upwards)
+    • Optimizes and improves PDF export (and full-size screenshotting)
+    • Fixed a bug where the level 2 node order in MindManager imports would be wrong
+    • Fixed a bug where knobs and node well would appear on the external screen when working in quick entry
+    • Fixed a crash when entering the tutorial
+Version 2023.3.1 (Nov 23, 2023)
+    • Added support for OmniFocus 4
+    • Empty nodes are now printed empty as well instead of with placeholder text
+    • Ensured node titles are readable if a mind map is printed without its background color
+    • Fixed unexpected MindNodeID sign-outs
+    • Fixed missing connection endpoint image in the style inspector
+    • Fixed a bug on iPadOS, where the node well would jump away from the pointer
+    • Fixed and improved the import of XMind documents
+    • Fixed Apple Pencil Scribble input in notes in the outline
+    • Improved the styling of predicted text in outline
+Version 2023.3 (Oct 17, 2023)
+    • Fixed a bug where parent nodes would not correctly reload their task progress, after deleting a child task
+    • Improved the animation when scrolling a to-be-edited row visible, in case the row would have been covered by the appearing software keyboard
+    • Fixed a bug where the edited row would be hidden behind the keyboard accessory on an iPad with an external keyboard
+    • Fixed Reminders Export on iOS 17
+    • Ensured the Sticker Picker only updates the Recents section after closing
+Version 2023.2.4 (Sep 18, 2023)
+    • Improved the responsiveness of the outline when editing on an iPad with an external keyboard
+    • Ensured the license banner always shows the correct and full information
+    • Ensured text has the correct typing attributes after replacing selected text in a node title
+    • Ensured the correct (left-aligned) text alignment for new child nodes, when the parent has an image attached and center text alignment
+    • Fixed the jumping of the notes icon when changing the image position
+Version 2023.2.3 (Aug 28, 2023)
+    • Fixed a problem of enabling purchased features 
+Version 2023.2 (Jul 11, 2023)
+    New App Icons
+    Pick a new dark or colorful variant of the app icon.
+
+    New Sticker Picker
+    Stickers are now easier to find with categories and we've added several new stickers.
+
+    Links in Outline
+    Add links to websites and open them directly from within the outline. Additionally we greatly enhanced link support on the mind map as well.
+
+    Improvements:
+    • Fixed a bug that incorrectly positioned a node when dragging it to a new parent
+    • Fixed a crash when double-tapping a node on the mind map
+    • Fixed a bug that prevented editing of a node title when double-tapping it in the outline
+    • Fixed a bug when pasting a text outline that led to wrong branch colors
+    • Fixed a bug with the mind map layout after adding a title to a node with only an image
+    • Fixed an issue with resizing a node using the node-width input dialog in the inspector
+    • Fixed an issue with node positions after unfolding multiple nodes
+    • Filtering for tags in the Outline now correctly works when prefixing your search term with "#"
+    • Fixed a crash when changing the size of a sticker or emoji attachment
+    • New URL-Scheme mindnode://appIcon?name=iconName to change the app icon
+Version 2023.1.2 (May 22, 2023)
+    • Added the option to export documents in specific MindNode file format versions to ensure compatibility across devices
+    • Fixed a bug that would result in wrong colors being used for hierarchical themes, after nodes have been reordered
+    • Better preserve existing font sizes and attributes, when applying a new theme
+    • Adjusted the font size of node titles when rewiring them on the canvas to better match the font size at this level
+    • Copy the style of existing cross connections, when creating a new one
+    • Improved task and notes indicators contrast
+    • Improved node deletion behavior in outline during title editing
+    • Fixed incorrectly ordered entries in Outline Export to PDF
+    • Fixed a bug that prevented connection endpoint from re-attaching onto other nodes
+    • Fixed a bug that made it hard to interact with connection knobs
+    • Fixed a bug in smart link detection
+    • Fixed a typo in the "Magnifying Glass" sticker name, causing it to be ignored
+    • Fixed a crash in relation to updating the appearance of the App Store page after a subscription purchase
+    • Added our new team member Jessica to the credits
+Version 2023.1.1 (Apr 6, 2023)
+    • Fixed a bug that prevented entering composed characters in languages like Thai
+    • Fixed a bug that showed the text insertion caret at the wrong location
+    • Improved the styling of the note indicator
+Version 2023.1 (Mar 28, 2023)
+    Productivity Stickers
+    Brand new sticker set with 35 of your most requested stickers in the productivity category.
+
+    Hierarchical Themes
+    New themes that visualize structure and bring distinguished styling to all levels of your mind map.
+
+    Dynamic Reordering
+    Easily reorder nodes on the same level, thanks to sibling nodes moving out of the way of a dragged node.
+
+    Improvements
+    • Dragging multiple sibling nodes on the mind map groups them together. Similar to the behavior in the outline.
+    • Zoom in/out with a double-tap-and-drag-up/down gesture like in the Maps app
+    • Nodes are now immediately selected when they are being dragged
+    • Added the option to ‘Toggle Sticker Tint’ in the context menu
+    • Improved the way colors are generated when a theme has “prevent duplicate colors” enabled
+    • New main nodes now use the style of already existing main nodes
+    • Ensured the correct text color of connection labels when creating and applying themes
+    • Ensured empty lines are kept in the node titles when a document is saved and reopened
+    • Fixed a bug where occasionally rows in the outline would not update correctly after drag & drop
+    • Fixed a bug where MindNode couldn’t be opened
+    • Fixed a bug where PNGs and JPEGs could not be drag-and-dropped onto the mind map
+    • Removed the iMessage Stickers integration (you can now drag stickers from the sticker picker into other apps like Messages)
+Version 2023.0.3 (Feb 10, 2023)
+    • Added the option to resize all selected nodes simultaneously, when using a resize knob on the canvas
+    • Added the option to “Copy Selected Nodes” instead of “Copy Single Node”
+    • Unified the visualization of the reconnection indicator for all node shapes
+    • Ensured indentation when exporting as RTF or when copying on iOS matches the behavior on macOS
+    • Ensured branches look correct when exporting top-down mind maps as image
+    • Fixed a bug where undo was broken when creating a tag while editing a node title on the canvas
+Version 2023.0.2 (Jan 27, 2023)
+    • Fixed a crash that happened when accessing the color picker
+Version 2023.0.1 (Jan 26, 2023)
+    • Added the option to show a mind map representation of the current Quick Entry content on an external screen
+    • Fixed a bug where the branch thickness for new nodes wasn’t correct
+    • Fixed a glitch when inserting nodes in Manual Layout
+    • Fixed an issue where the outline wouldn’t update to the new notes immediately after editing notes in the side-panel
+    • Fixed a crash when opening the Tags submenu of the outline context menu
+Version 2022.4.3 (Dec 21, 2022)
+    • Added the ability to search the document content to MindNode for Apple Watch
+    • Added the ability to apply only the colors of a theme to the context menu in the theme selection (this will not apply fonts and styling attributes)
+    • Added a way to take a photo using the "Camera" when editing a title of a node on an iPhone
+    • Added support for reading and writing OPML from the pasteboard
+    • Improved the behavior of styling new nodes: the style for a new sibling node is now directly inherited from the interacted-with sibling node
+    • Fixed unwanted animation when creating new main nodes
+    • Fixed a layout glitch when editing a title after inserting a node
+    • Fixed a bug where the "Focus" toolbar item would not show up on iPad Mini in portrait mode
+Version 2022.4.2 (Nov 22, 2022)
+    • Added missing keyboard shortcuts to toggle bold, italics, strikethrough and underline in Outline
+    • Added optional toolbar items for sticker & emoji picker on macOS & iPadOS 16
+    • Changed team photos in credits
+    • Improved contrast for the text insertion cursor in the Outline and on the Mind Map
+    • Ensured tags that are not currently highlighted are deemphasized in Outline
+    • Fixed a bug where the edit menu wasn’t displayed immediately after selecting a node on iPhone, if the Setting was enabled
+    • Fixed a glitch when creating new child nodes
+    • Fixed a bug where changing font attributes would only effect the previously selected text range after selecting a new node
+    • Fixed hanging node well branch appendix after dragging node well with pointer
+    • Fixed a bug where pasting with style would not work correctly, when creating new main nodes during pasting
+    • Fixed a crash when changing the font size of notes
+    • iPadOS: Hopefully, fixed an unreproducible crash during context menu dismissal
+Version 2022.4.1 (Oct 25, 2022)
+    - Fixed a bug where Paste and Preserve Style wouldn’t work
+    - Fixed a crash on early iPadOS 16 betas
+Version 2022.4 (Oct 21, 2022)
+    DESKTOP‑CLASS APP
+    The power of a desktop app right at your fingertips. Enjoy a fresh user interface and a customizable toolbar on iPadOS 16.
+
+    MIND MAP & OUTLINE
+    Pick your favorite. Start a new document as a mind map or outline and easily switch between them.
+
+    LOCK SCREEN WIDGETS
+    The fastest way to launch your idea. Start Quick Entry and MindNode directly from your iPhone’s lock screen.
+
+    FIND IN MIND MAP
+    Search for what you’re looking for directly in your mind map. Use Find & Replace for quick edits to your document.
+
+    OTHER CHANGES
+    • Improved the icons in inspector
+    • Improved the shapes of resizing indicators
+    • Improved the sticker tint color for themes with low contrast
+    • Fixed keeping the style of connections when pasting
+    • Fixed incorrect order of tags, after undoing the deletion of a tag
+    • Fixed a bug which cause an incorrect branch color of the node well
+    • Fixed a bug that prevented pasting URLs from Safari
+Version 2022.3.4 (Oct 8, 2022)
+    • Fixes a crash that can happen when unlocking MindNode Plus features.
+Version 2022.3.3 (Oct 5, 2022)
+    • iPhone: Always opens external links in Safari, instead of an in-app browser
+    • Added the ability to change the iOS Outline font size in the app
+    • Fixed a problem with the Bold/Italic/Underline settings menu
+    • Ensured that links work properly
+    • Ensured that focus mode isn't exited when dragging the node well
+    • Fixed jumping width when resizing image attachment
+    • Fixed wrong node ordering after reattaching nodes
+Version 2022.3.2 (Aug 25, 2022)
+    • Improved welcome screen layout on iPad Mini 6
+    • Fixed wrong zooming when entering focus mode
+Version 2022.3.1 (Aug 18, 2022)
+    • Added support for blurring document titles and tags when the watch screen is inactive
+    • Improved printing in greyscale by insuring tags are also grey
+    • Improved the zoom behavior by making the preset levels less sticky
+Version 2022.3 (Aug 2, 2022)
+    Emoji Stickers
+    Pick any emoji as a colorful sticker. Decorate your mind map with smileys, animals, symbols, and more.
+
+    Compact Layout
+    Brand new layout for creating organization charts and condensed top-down mind maps.
+
+    Apple Watch App
+    Rethought from the ground up, and now based on our new outline look and feel. Quickly glance and explore your ideas from your wrist.
+
+    New Sharing Options
+    Print and export the outline as a PDF directly from the export screen. Customize how you want it to look.
+
+    IMPROVEMENTS
+    • Added the ability for MindNode to reopen your documents exactly as you closed them
+    • Improved the visual elements in the outline to not deemphasize nodes that are currently being edited
+    • Updated the document file format to support Emoji Stickers and Compact Layout
+Version 2022.2.4 (Jul 4, 2022)
+    This update improves zooming on the canvas, has a few visual improvements & fixes several bugs
+
+    IMPROVEMENTS
+    • Added a zoom level indicator next to the pointer when adjusting the setting using the pinch gesture on the trackpad
+    • Added the ability to cancel MindNode ID registration
+    • Adjusted the behavior when creating a new document to immediately start editing the main node's title
+    • Expanded the available zoom levels on the canvas
+    • Improved creating a new document from Quick Entry by ensuring that the whole mind map is visible
+    • Improved the appearance of the node well during Focus Mode & Tag Highlighting
+    • Improved the visibility of the node well when hovering with the pointer while editing a node title
+    • Fixed a bug where an empty node would be deleted in the Outline if it was the only existing node
+    • Fixed a bug which would not allow font styles to be adjusted if the cursor was in the middle of the modified text
+Version 2022.2.3 (May 30, 2022)
+    • Improved how new child nodes are created when dragging the node well
+    • Updated the visual appearance of knobs on the canvas
+    • Fixed an issue where branches would be misplaced after unfolding multiple nodes at once
+    • Fixed an issue which caused the folding indicator to be missing
+    • Fixed importing of CSV documents that are missing the column header line
+Version 2022.2.2 (May 3, 2022)
+    • Added a tooltip when hovering over a link with the pointer
+    • Added support to start editing in the outline by simply typing
+    • Improved the node well to folding indicator animation
+    • Fixed an issue with creating nodes using the node well when using cloud-shaped nodes
+Version 2022.2.1 (Apr 27, 2022)
+    • Improved the behavior of pasting links using the "Paste and Preserve Style" action to create a new child node
+    • Fixed a bug that would cause incorrect QuickLook previews
+    • Fixed a bug where smart text shortcuts would always be interpreted when pasting text, even if they were not active in preferences
+    • Fixed a crash when trying to delete text in Quick Entry via the edit menu or context menu
+    • Fixed an incorrect link to a support article
+    • Fixed an issue where an alert would be displayed stating that a document could not be saved
+    • Fixed an issue with copying links that have custom text attributes
+    • Fixed the MindNode ID screens
+Version 2022.2 (Apr 19, 2022)
+    Dynamic Node Well
+    Precisely create nodes in between pushed-away nodes. Automatically connect to the nearest node when dragging the node well. Experience the same dynamic behavior on Macs and iPads with Magic Keyboard.
+
+    Quick Entry PLUS
+    Refreshed to look & behave like the editable outline. Use the same powerful shortcuts to quickly jot down your ideas.
+
+    MindNode ID PLUS
+    Access your MindNode Plus subscription on all your devices, even if iCloud is not available on your device.
+
+    IMPROVEMENTS
+
+    • Added a new Shortcuts app action to add text to the current Quick Entry text
+    • Added an action to the context menu to select all nodes with a tag
+    • Added support for a context menu with options to assign, highlight, rename or remove, when long pressing a tag in the Tags tab
+    • Added the ability to assign tags to a node in the context menu in the outline
+    • Added the option to print the canvas without the background color
+    • Adjusted the behavior of the "Show on Mind Map" action in the outline to make the canvas appear active
+    • Improved the animation of dragging & dropping a node in the outline
+    • Improved the appearance of notes when imported from OPML files
+    • Improved the search engine for Sticker Search: results will match queries better, and suggested results will be ordered according to relevance
+    • Improved the support of VoiceOver for the Export Sheet
+    • Improved the use of horizontal space for text in the outline when note, image or task indicators are visible
+    • Fixed a bug where editing would not stop correctly when using the Command (⌘) + Enter keyboard shortcut in the outline
+    • Fixed a bug where pressing Option (⌥) + Delete on an external keyboard with an iPad would delete the whole row, instead of the last word while editing in the outline
+    • Fixed an issue in the outline where the wrong node would be selected after finishing editing text while navigating with the keyboard
+    • Fixed the appearance of customized pointers while dragging in iPadOS 15
+Version 2022.1.2 (Mar 26, 2022)
+    • Fixed a bug that prevented hardware keyboards from working correctly in the outline
+    • Fixed a crash that would occur when launching MindNode on devices running iOS 14
+
+    We apologize for any issues you may have experienced in our last release
+Version 2022.1.1 (Mar 23, 2022)
+    • Added translations for the Shortcuts app actions
+    • Adjusted the behavior of control-clicking a row in the outline to not activate the outline
+    • Improved the behavior of copying and pasting an image from a web browser
+    • Fixed a crash that would happen when putting a device to sleep
+    • Fixed a crash that would happen when pressing Tab on the canvas while the outline search field was visible
+    • Renamed the menu action "Copy URL Scheme" to "Copy Link for Opening This Document"
+    • Changed default font alignment for subnodes in rainbow theme
+Version 2022.1 (Feb 22, 2022)
+    Notes in Outline
+    Create & edit notes directly in the Outline. Notes can be displayed inline below the title, or inside a popover.
+
+    Medical Sticker Pack
+    25 brand new stickers to add to your mind maps, featuring: woman with mask, scale, virus, microscope & more!
+
+    Refreshed & New Themes
+    We've adjusted all of our themes to increase contrast and added two new themes: Blackberry & Swing.
+
+    IMPROVEMENTS
+
+    • Added a slight delay before tasks disappear after being completed when viewing the outline with the "Show only open tasks" filter
+    • Added support for automatically changing URLs pasted in nodes into links
+    • Added the new medical sticker pack to the iMessage stickers
+    • Added the option to reveal tasks in Things after exporting them by using the Shortcuts app
+    • Improved automatic scrolling to the text cursor in the outline with long texts
+    • Improved how the outline scrolls to a selected node
+    • Improved the appearance of exported images by adding padding around the edges of the canvas
+    • Improved the appearance of the node well so that it's aligned with the branch
+    • Improved the behavior of the canvas when removing or folding a node in the outline to display the next selected node
+    • Improved the performance of the outline with large documents
+    • Fixed a bug that prevented images from being added via the document picker
+    • Fixed a bug where it was not possible to copy in the outline when using the free editor
+    • Fixed a visual glitch that appeared when switching from the panel outline to full-size mode
+    • Fixed an issue where it was not possible to split a title in the outline with the return key while text is selected
+    • Fixed an issue where the selection color would flicker for a moment in the outline
+    • Fixed an issue with manually importing themes
+    • Fixed an issue with the color of the panel when using MindNode in slide-over on the iPad and with dark mode
+Version 2022.0.1 (Jan 19, 2022)
+    This update features a refreshed Home Screen widget, and plenty of improvements & bug fixes.
+
+    IMPROVEMENTS
+    • Improved the layout of the Home Screen widget
+    • Increased the size of the document preview image in the Home Screen widget
+    • Improved the "successful import" notification when importing via URL scheme to make it clearer which type of file was imported
+    • Improved the look of multiple nodes being dragged in the outline
+    • Fixed a bug where selecting the footer area in the outline would always create a new node
+    • Fixed an issue in the outline where a node would not change color to indicate it has been selected
+    • Fixed an issue that prevented undo/redoing while filtering in the outline
+    • Fixed an issue where a selected node on the canvas would be displayed with sharp corners rather than rounded when the outline is open
+    • Fixed an issue where mind maps imported from Markdown files would have an incorrect layout
+    • Fixed the appearance of export file screen text when using Dynamic Type
+    • Fixed the layout of the signup button when subscribing to the newsletter
+Version 2021.5 (Dec 14, 2021)
+    We've added support for Dynamic Type font size in the outline. Now, the outline will be displayed using your system-wide font settings.
+
+    IMPROVEMENTS
+    • Fixed a crash which would occur when viewing multiple documents
+    • Fixed an issue in the outline when adding subnodes to a node that has tasks, new subnodes will now also have tasks
+    • Fixed an issue where nodes would be incorrectly ordered and overlap each other on the canvas after merging in the outline
+    • Improved an animation in the outline when moving a row up
+    • Improved compatibility with MindManager files
+    • Improved the behavior of copying and pasting nodes from a mind map into the outline
+    • Improved the behavior of the outline to automatically scroll to a selected node on the canvas
+    • Improved the performance of editing node titles on the canvas while the outline is visible in large documents
+    • Removed an unnecessary scroll animation when removing a node while editing in the outline
+Version 2021.4.1 (Nov 8, 2021)
+    • Fixed a crash that would happen when adding images to empty main nodes
+    • Improved the alignment of nodes with several lines of text and stickers
+    • Improved the performance of editing large documents in the outline
+Version 2021.4 (Nov 2, 2021)
+    Enhanced Shortcuts
+    Better integrate MindNode with your automation workflow. Use the Shortcuts app to export documents and share tasks without launching MindNode.
+
+    Export Dialog
+    The export dialog has been redesigned from the ground up, making it easier than ever to share your ideas.
+
+    IMPROVEMENTS
+    • Fixed a bug that made the navigation bar illegible in Quick Entry
+    • Fixed a bug where folded nodes could not be unfolded after having been duplicated
+    • Fixed a crash that could happen when importing/opening a document
+    • Improved the preview image of themes
+Version 2021.3.1 (Oct 7, 2021)
+    This minor update fixes a few bugs
+
+    • Ensured that edited text in the outline stays visible when the software keyboard appears
+    • Fixed a bug which prevented keyboard arrow keys from working on the canvas to change selection & move nodes on iOS 14
+    • Improved the performance of selecting a node in the outline
+Version 2021.3 (Oct 5, 2021)
+    Optimized for iOS 15
+    Take advantage of new iOS 15 and iPadOS 15 features, including keyboard shortcuts menu, updated keyboard accessory view, better integrated image picker and system wide drag and drop.
+
+    Sticker Search
+    Powerful new sticker search that takes advantage of natural language processing and better localization support.
+
+    IMPROVEMENTS
+    • Added support for the "Duplicate", "Duplicate Single Node", & "Copy Single Node" actions in the outline
+    • Added the ability to start editing the top selected node in a multi-selection
+    • Added the option to "Copy as Image" in the context menu
+    • Fixed a bug where dragging nodes to the same location could result in an undoable action
+    • Fixed a bug where MindNode would crash when copying a node on the canvas
+    • Fixed a bug where the wrong sticker could be displayed, while dragging it from the sticker picker to the canvas
+    • Fixed an issue where text-editing would end unexpectedly after performing a merge/undo/delete action
+    • Fixed an issue where the animation of opening the outline filters looked glitchy
+    • Fixed an issue where the color of the main branch would change when child nodes were folded
+    • Fixed an issue where the text cursor was improperly placed after using the Option (⌥) + Return (⏎) keyboard shortcut
+    • Fixed an issue with opening suggested MindNode documents in the Shortcuts app
+    • Improved navigation of nodes using the arrow up/down keys by ignoring empty last lines in the outline
+    • Improved sticker search to be more tolerant of queries with typos
+    • Improved the display of pill shaped nodes so that they do not cut off image attachments
+    • Improved the font size in the outline filter settings
+    • Improved the interaction with folded nodes when tapping the footer below them, indenting nodes when the parent node is folded, & adding a node to a folded node
+    • Improved the performance of the outline with long segments of text
+    • Improved the placement of the folding indicator with cloud shape nodes
+    • Prevented automatic scrolling to the last edited node in the outline after scrolling & folding another node
+    • Tapping tags in the outline no longer starts editing of a node
+    • Updated the MindNode team credits images & added our newest team member
+    • Updated the minimum required OS version to iOS / iPadOS 14 for MindNode
+Version 2021.2.3 (Aug 10, 2021)
+    This update adds support for smart text shortcuts in the outline, improves several keyboard shortcuts, and much more.
+
+    - Added the ability to fold multiple selected nodes in the outline
+    - Added support for smart text shortcuts for tasks, notes, & tags in the outline
+    - Adjusted the Option (⌥) + Delete (⌫) shortcut to perform the "Delete Single Node" action in the outline
+    - Disabled the double-tap gesture with the Apple Pencil to avoid switching between the canvas and the outline
+    - Ensured that the correct discoverability titles of keyboard shortcuts are displayed in the outline depending on the current state of interaction
+    - Improved legibility of text in the outline by ensuring that the color is adjusted if the theme background has changed
+    - Improved the animation of nodes when opening the onscreen keyboard
+    - Improved the appearance of the "multiple nodes" indicator
+    - Improved the performance of editing large documents in the outline
+    - Fixed a bug where creating links with Command (⌘) + K would sometimes not work
+    - Fixed an issue where highlighting a tag not assigned to any nodes resulted in all nodes being highlighted in the outline
+    - Fixed a bug where the title of a node would be replaced when trying to fold a child node with the Option (⌥) + . shortcut
+    - Fixed a bug where the knobs could become frozen on the canvas
+Version 2021.2.2 (Jun 21, 2021)
+    This update brings performance improvements for the outline and improves keyboard handling.
+
+    • Added the ability to add or remove a task to a node in the Outline with an external keyboard
+    • Ensured that a row stays selected in the Outline after deleting the last empty row
+    • Ensured that editing is not interrupted by rotating the device or showing/hiding the inspector in full-size outline
+    • Ensured that MindNode remembers if a document was edited in the Outline or on the Canvas when switching to a different app and back
+    • Ensured that nodes are correctly laid out on the Canvas while editing a title in the Outline
+    • Ensured that tapping on a node while searching in the Outline marks it as selected
+    • Improved performance when editing large documents in the Outline
+    • Improved performance when folding, selecting, & editing in the Outline of large documents
+    • Improved support for VoiceOver in the Outline by adding the ability to trigger more actions through accessibility custom actions
+    • Improved the preview image of themes when long-pressing a theme
+    • Improved text editing behavior in the Outline when applying auto correction with the return key
+    • Improved the "Show on Mind Map" action to center the Canvas to the relevant node
+    • Improved the undo action while editing a title in the Outline
+    • Fixed a bug where the move up/down action in the Outline would not work when the Canvas was set to manual layout
+    • Fixed a crash that would occur when closing a document
+    • Fixed a crash that would occur when deleting characters in the Outline
+    • Fixed an animation issue when triggering "Search" in the inspector while the Outline is open
+    • Fixed an animation glitch when flicking up the inspector panel
+    • Fixed an issue with alphabetically ordering child nodes on the left side in manual layout
+    • Fixed an issue with drag & drop with RTL languages
+    • Fixed an issue where Sticker Search would not use localized keywords
+    • Fixed an issue where the iPadOS pointer would be cutoff next to a folding indicator in the Outline
+    • Fixed an issue where the text editing position would change after adjusting bold/italic settings in the Outline
+    • Fixed the indent/outdent symbols in the context menu for RTL languages
+Version 2021.2.1 (May 28, 2021)
+    This update fixes a crash on the iPad and further improves the outline.
+
+    • Fixed a crash that occurred when opening two documents side-by-side on iPad
+    • Fixed displaying Export and Print actions when a node is selected
+    • Fixed outline filtering settings in Free Editor and Legacy mode
+    • Hid actions that require a MindNode Plus subscription for Legacy customers
+    • Improved outline Scribble interaction
+Version 2021.2 (May 25, 2021)
+    OUTLINING (PLUS)
+    Capture your thoughts in a hierarchical form directly in the outline. Add, remove, indent, and outdent Nodes. Rearrange your ideas by dragging and dropping. Edit your mind map and outline side-by-side.
+
+    OUTLINE INTERACTION (PLUS)
+    Choose the interaction that works best for you. Outlining supports touch, an external keyboard, or a trackpad. You can also use Scribble with Apple Pencil to add your ideas.
+
+    OUTLINE DESIGN
+    The outline has been updated with a fresh visual design. The new, linear representation makes it easier to distinguish node levels and identify the structure of your thoughts.
+
+    OUTLINE IMPROVEMENTS (PLUS)
+    • Added support for displaying the mind map on an external display while using the outline in full-screen mode
+    • Added a "Show on Mind Map" action to reveal the node on the mind map
+    • Added support for indenting and outdenting using gestures - swipe a row to the left or right
+    • MindNode will now remember if a document was closed using the full-screen outline or mind map
+    • Improved searching in the outline by adding a hint to remove filters to view more results
+
+    IMPROVEMENTS
+    • Added the Export action to the Actions panel
+    • Improved how exporting documents as an image behaves when the file size is too large
+    • Disabled node sorting actions during text editing
+Version 2021.1.5 (Apr 27, 2021)
+    • Fixed an issue where the background color of the notes screen wouldn't update after rotating the device
+    • Fixed a crash which happened when trying to apply a style to a node with no content
+Version 2021.1.4 (Apr 8, 2021)
+    This update disables automatic naming of new documents. We changed this to work around an issue related to document not appearing correctly in the document picker after closing a new document. You can reenable this feature in MindNode's settings.
+
+    IMPROVEMENTS
+    • Fixed an issue related to using QuickLook for MindNode documents in the Files app
+    • Made several improvements during document saving
+    • Added a new setting to toggle auto naming of documents and disabled it by default
+Version 2021.1.3 (Mar 15, 2021)
+    • Fixed expanding the selection using the keyboard
+    • Fixed a bug that prevented editing a Notes
+Version 2021.1.2 (Mar 3, 2021)
+    • Fixed an issue where nodes would become scrambled after activating manual layout
+    • Fixed an issue where fonts would change after symbols or emojis
+Version 2021.1.1 (Feb 3, 2021)
+    This update has several small improvements and fixes a few bugs.
+
+    IMPROVEMENTS
+    • Adapted several keyboard shortcuts:
+    - Select Previous Main Node: Shift + Alt (⌥) + P
+    - Select Next Main Node: Shift + Alt (⌥) + N
+    • Enabled buttons in the Action Panel's lower toolbar while editing a node title (e.g. copy, undo, ...)
+    • Improved how nodes with links are synced with Apple Reminders
+    • Improved several Action Panel titles
+Version 2020.6.1 (Dec 3, 2020)
+    สวัสดี! MindNode has been fully localized in Thai. With this addition we now support 15 languages.
+
+    IMPROVEMENTS
+    • Added support for displaying help tags when hovering on an element with the iPadOS Pointer
+    • Improved how Tag names are exported in text-based file formats
+Version 2020.5.2 (Nov 5, 2020)
+    IMPROVEMENTS
+    • Fixed an issue which caused the Candidate Window to disappear when entering Japanese text
+    • Fixed an issue where descriptions of MindNode Actions in the Shortcuts app were missing
+    • Fixed a bug where links in notes would not open when tapped
+    • Fixed a bug where links could be lost in a note after being edited
+    • Fixed the behavior of the "Cut Title" action so that it does not also delete a cross connection
+    • Improved the parsing of notes when using the "--" shortcut in the node title
+    • Improved the New Document & Quick Entry actions in the Widget when using the Free Editor
+Version 2020.5.1 (Oct 27, 2020)
+    IMPROVEMENTS
+    • Improved the layout of the Home Screen Widget
+    • Added the option to show the "What's New" screen again from the About screen
+    • Fixed haptic feedback during drag and drop
+    • Fixed a crash when starting text editing while dragging a node
+    • Updated context menu entries to be more consistent
+    • Fixed several issues that could result in MindNode crashing when switching to Home Screen or an other app
+    • Fixed holding the shift key to change the current selection
+    • Fixes hold on canvas and tap on node to expand selection
+    • Fixed several issues related to MindNode not accepting input from hardware keyboards
+    • Fixed node ordering after using alphabetic sorting
+    • Fixed a bug that caused a node title to disappear when starting rubber band selection
+
+    Apple Watch
+    • Fixed a crash when loading complications on watchOS 6
+Version 2020.5 (Sep 30, 2020)
+    iOS 14 and iPadOS 14 Support
+    Edit text with an Apple Pencil and handwriting detection, use the new image picker to easily add photos, and instantly trigger actions with the new context menu.
+
+    Widget
+    Use the new MindNode widget to access your recent and pinned documents directly from your Home Screen.
+
+
+    IMPROVEMENTS
+    • Added support for opening URLs in third party browsers
+    • Fixed opening of documents on Apple Watch that are outside MindNode's iCloud container
+    • Fixed image loading on Apple Watch of single file format documents and documents outside MindNode's iCloud container
+    • Improved support for third-party fonts by adopting the system font picker
+    • Fixed an issue with opening documents that are outside MindNode's iCloud container
+Version 7.3.3 (Sep 21, 2020)
+    This update adds a new keyboard shortcut to quickly create new connections and fixes several bugs.
+
+
+    IMPROVEMENTS
+    • Added a new keyboard shortcut to create cross connections on iPadOS by pressing Shift and dragging between nodes
+    • Fixed a branch drawing issue
+    • Fixed a crash that happened when a document was reloaded from iCloud Drive
+    • Fixed a bug where XMind files could not be imported
+    • Fixed a bug which caused a branch to be displayed over a node's background when resizing an attachment using the iPadOS pointer
+    • Fixed a crash which happened while performing a secondary click with the pointer on iPadOS
+    • Fixed the direction of the folding indicator
+    • Fixed a bug where folding indicators were missing on selected nodes when presenting on external screens
+Version 7.3.2 (Aug 10, 2020)
+    POINTER GESTURES
+    We brought two pointer gestures from the Mac to iPad:
+    • Hold the Option key (⌥) to turn the node well into a folding indicator to quickly fold nodes.
+    • Hold the Option key (⌥) and click on the canvas to create a new main node.
+
+
+    IMPROVED VISUAL TAGS
+    Highlighting a tag now also indicates nodes that are folded.
+
+
+    IMPROVEMENTS
+    • Fixed a bug where new nodes could not be created after cancelling dragging
+    • Fixed a crash caused by dragging and dropping text lists onto the canvas
+    • Fixed a crash when entering tag highlighting in an upcoming iOS update
+    • Fixed an issue which made branches look tangled after pasting
+    • Fixed an issue where straight branches in an embedded, top-down layout had an unnecessary curve
+Version 7.3.1 (Jul 9, 2020)
+    IMPROVEMENTS
+    • Fixed a crash in the onboarding tutorial
+Version 7.3 (Jul 8, 2020)
+    Enhanced Visual Tags
+    Show unions and intersections when highlighting tags. Highlight and remove tags directly on the node.
+
+    New Styles
+    Use embedded styles in horizontal layout and line style in vertical layout. New borderless main node style options.
+
+
+    IMPROVEMENTS
+    • Improved Smart Layout to generate more balanced layouts
+    • Added support for importing and exporting tags from Plain Text, RTF, Markdown, TextBundle, TaskPaper, CSV and OPML
+    • Added the option to use "Paste and Preserve Style" in notes panel
+    • Added support for including links in outline search results
+    • Changed the default paste behaviour to "Paste and Match Style" to be in sync with macOS
+    • Ensured that the correct branch thickness is displayed when dragging nodes
+    • Ensured that cross connections are always fully visible when exporting images or PDFs
+    • Ensured that the text cursor appears where the user taps in notes, rather than at the end of the text
+    • Fixed a bug where Quick Entry would incorrectly import pasted text outlines
+    • Fixed a bug where empty lines in Quick Entry would be imported as empty main nodes
+    • Fixed a crash when importing MindJet documents with unsupported image types
+    • Fixed a bug where interacting with the node well didn't work
+    • Fixed a tag indicator drawing glitch when adding and removing tags
+    • Adding text to a node can also be started by merely typing when a node is selected. This is now also possible when the first character has an accent mark.
+    • Fixed excessive tap visualization when using the pointer on iPadOS
+    • Improved the drag & drop behavior when using the pointer on iPadOS
+Version 7.2.1 (Jun 9, 2020)
+    This update adds support for contextual menus when using the iPad pointer as well as several bug-fixes and improvements.
+    ​
+    ​
+    IMPROVEMENTS
+    • Added support for secondary clicks to access a contextual menu when using the iPad pointer
+    • Added support for characters from any language in tags
+    • Ensured that the node width updates after the image position has been changed
+    • Fixed several small bugs and made improvements to the iPad pointer interaction
+    • Fixed an issue with pasting in the Free Editor
+    • Fixed a drawing glitch when exporting mind maps with underlined nodes to PDF or image
+    • Fixed the positioning of title resizing knobs after toggling the width manually
+    • Fixed a crash when using drag & drop from the color picker
+Version 7.2 (May 18, 2020)
+    iPad Trackpad Support
+    Enjoy full trackpad support in iPadOS. Instantly move nodes, select multiple nodes with rubber band selection, and easily interact with tasks, notes, and tags.
+
+
+    IMPROVEMENTS
+    • Improved tags to be displayed in the same order on a node as they are in the sidebar
+    • Improved importing of photos
+    • Optimized storage size of newly added photos
+    • Added the ability to move multiple nodes at once via keyboard shortcuts
+    • Added the ability to mirror multiple nodes at once via keyboard shortcuts
+    • Added the ability to start text editing of nodes by simply typing a character on an external keyboard
+    • Improved sticker & image alignment for nodes with long titles
+    • Fixed a crash after ending text editing
+    • Fixed a bug when resizing title and sticker/images
+Version 7.1.1 (Apr 23, 2020)
+    • Fixed a bug that caused the border style section to be missing
+    • Fixed a crash when using a beta version of iPadOS/iOS
+    • Fixed a crash when displaying the outline
+    • Fixed a crash when applying a theme
+Version 7.1 (Apr 16, 2020)
+    New Node Shapes
+    Use the all new hexagonal and octagonal node shapes for a fresh way to highlight your ideas.
+
+    Image Position
+    Arrange sticker and images where you want them, below or next to your idea.
+
+    New Shortcut
+    Enhance your Shortcuts to automatically export documents to Reminders, Things, & OmniFocus
+
+    Improvements
+    • Added basic pointer support on iPadOS 13.4 devices with attached trackpad
+    • Fixed a bug where styles from the color or font picker would not be applied correctly
+    • Fixed a bug where "Fold All Completed Tasks" did not fold parent nodes with a single child node
+    • Fixed a bug which turned anchors in URL links into tags
+    • Fixed a bug which resulted in pixelated images when exporting
+    • Improved the autocapitalization of subnodes in Quick Entry
+    • Added the option to import a lower quality image if drag and drop fails from the image picker
+    • Fixed legibility of information overlays
+    • Improved the description of advanced text shortcuts
+    • Fixed a glitch when pasting nodes in vertical layout
+    • Fixed a layout issue when importing several images in manual layout
+    • Fixed an undo bug related to toggling tasks
+Version 7.0.4 (Mar 11, 2020)
+    7.0.4 is a minor update with a few improvements and bug fixes
+
+    IMPROVEMENTS
+    • Improved the width of the tag-popover
+    • Improved error handling when a missing font fails to download
+    • Improved the layout of the welcome screen
+    • Let users decide how to deal with missing custom fonts before opening a document
+    • Fixed "Copy URL Scheme" when a document is stored in a subfolder
+    • Fixed a bug where customizing panel actions would sometimes not work
+    • Fixed missing print previews on iPad
+    • Fixed an issue that prevented displaying document loading errors
+Version 7.0.3 (Feb 12, 2020)
+    • Fixes a crash in sticker picker on iOS 13
+    • Fixes an unintended segment change when tapping on an icon in the collapsed panel
+    • Fixes the tint color of stickers when opening the sticker picker
+Version 7.0.2 (Feb 5, 2020)
+    • Ensures images added from iCloud Photo Library are crisp
+    • Improves VoiceOver support for tag management
+    • Allows to toggle between Notes/Tags in panel by tapping on the selected tab again
+    • Fixes a bug where the purchase button was accidentally shown for users who had purchased MindNode 5/6
+    • Fixes flickering of image picker when changing selection
+Version 7.0.1 (Jan 31, 2020)
+    • Adds full spotlight integration for all documents in MindNode's iCloud container
+    • Fixes a crash when deleting or renaming personal themes
+    • Fixes paragraph spacing on the upgrade screen
+    • Improves contrast of unfocused nodes in Focus Mode
+    • Ensures the tags view is correctly refreshed after a document update
+    • Fixes blurry image picker thumbnails
+    • Fixes a bug related to correctly triggering multi-select gestures
+    • Ensures the edited text stays visible when using a floating keyboard
+    • Removes 3D-touch to show notes on canvas to make it easier to drag nodes
+    • Ensures the quick-type-bar in QuickEntry is correctly updated
+    • Fixes a crash when closing a document while editing a tag name
+Version 7.0 (Jan 22, 2020)
+    VISUAL TAGS
+    Categorize and add more context to your thoughts. Use tags to prioritize ideas and bring focus to a related group of ideas that are otherwise not connected. Using our tag-highlight mode you can focus on selected tags to discover new connections.
+
+    MORE STYLES
+    Personalize your mind map with a fresh batch of stickers and a new theme.
+
+    MINDNODE PLUS
+    MindNode 7 is a free update for existing customers. New customers can unlock our full feature set with our new cross-platform MindNode Plus subscription.
+
+    FREE EDITOR
+    Our free version now allows basic editing operations like adding nodes, reordering and folding.
+
+    IMPROVEMENTS
+    • Improves advanced text shortcuts to support tasks, notes and tags, and adds a new setting to toggle them
+    • Improves performance when opening and editing documents
+    • Adds Quick Look support for MindNode documents in Files app
+    • Improves document thumbnail support
+    • Allows entering fullscreen with double tap on Apple Pencil 2
+    • Adds new keyboard shortcut (Option-Shift-Command-V) to trigger “Paste & Preserve Style”
+    • Fixes a bug where Focus Mode would not zoom correctly
+    • Fixes a display issue in outline when a main node is selected
+    • Fixes a hang in the on-boarding tutorial
+Version 6.1.2 (Dec 4, 2019)
+    • Fixes a crash when importing XMind documents
+    • Ensures correct branch rendering after deleting a child node with a task
+    • Fixes a crash when exporting Markdown documents with Asian characters
+    • Fixes a bug that prevented reopening the last open document on app relaunch
+    • Ensures node titles are displayed correctly when switching between tabs in the panel
+    • Ensures the 'Transparent Background' toggle when exporting images works correctly
+    • Reduces blurriness during zooming
+    • Ensures correct restoring of scroll position when opening a document
+Version 6.1.1 (Oct 4, 2019)
+    IMPROVEMENTS
+    • Only show MindNode documents on the Recents tab
+    • Fixes a crash when rotating the device
+    • Fixes a crash when loading or saving documents with asian characters
+
+
+    APPLE WATCH
+    • Fixes a crash on watchOS 4
+Version 6.1 (Sep 30, 2019)
+    MULTIPLE DOCUMENTS (iPadOS 13 only)
+    We've updated our iPad version to allow opening multiple documents. Open two MindNode documents side by side to work on them simultaneously. We also extended support for multiple documents to Quick Entry, which now supports multiple drafts.
+
+
+    SYSTEM DARK MODE (iOS 13 only)
+    iOS 13 adds a system-wide Dark Mode and we are now fully supporting it. We also added the ability to configure the default appearance in MindNode's settings. For example, if you preferred our previous theme-base dark mode, you can configure it there.
+
+
+    ANNOTATE IMAGES (iOS 13 only)
+    MindNode integrates with new iOS 13 Apple Pencil improvements. Add new drawings to your documents or annotate existing images. You can also take Full-Page screenshots using iOS' native Screen Capture tool (Press the Side/Top button and the Volume up button at the same time).
+
+
+    SHORTCUTS PARAMETERS (iOS 13 only)
+    Shortcuts now support parameters and our "New Document", "Export" and "Quick Entry" shortcuts take full advantage of them.
+
+
+    OTHER iOS 13 ENHANCEMENTS
+    • Full support for iOS 13 gestures (undo, redo, copy & paste)
+    • Home Screen Quick Actions on iPadOS
+    • Support for external storage media
+    • 2-finger multi-select swipe gesture in Outline Mode
+    • iOS 13 native sheet presentation
+
+
+    ENHANCEMENTS
+    • Improves previews for themes with bordered nodes
+    • Ensures that when importing a document, the original file is not deleted
+    • Allows equal-characters in filenames
+Version 6.0.6 (Sep 5, 2019)
+    • Supports opening and saving of documents using upcoming new MindNode features
+    • Fixes a crash when uploading documents to myMindNode
+    • Fixes Apple Watch localization
+Version 6.0.5 (Aug 7, 2019)
+    • Allows using the "Center Main Node" during node title editing
+    • Adds a new shortcut "Center Selection" that can be triggered using "Ctrl + Cmd + R"
+    • Fixes a crash when exporting documents
+    • Fixes a crash when showing the panel with a multi-selection
+    • Fixes a crash when selecting nodes with images attached
+    • Prevents entering an invalid width, when long-pressing the node width in panel
+    • Right-to-left content of notes now stays RTL after editing
+Version 6.0.4 (Jul 25, 2019)
+    IMPROVEMENTS
+    • Improves support for dynamic type in outline and font picker
+    • Adds support for 3-finger swipe gestures to undo and redo on iOS 12 (this replaces the previous fold swipe gesture)
+    • Removes 3-finger swipe gesture for focus mode and node creation on upcoming iOS releases (this prevents conflict with new system gestures)
+    • Fixes importing of Markdown documents from Dropbox
+    • Correctly updates style in panel after undo or paste
+    • Includes connection titles in VoiceOver announcements
+    • Fixes a bug during panel resizing
+    • Adds Fold and Unfold actions to edit menu in multi-select
+    • Correctly positions "Exit Full Screen" button for RTL languages
+    • Fixes a visual glitch when entering full screen on iPad with a full-height panel open
+    • Dragging formatted text from Notes app now correctly preserves formatting
+Version 6.0.3 (Jun 5, 2019)
+    ENHANCEMENTS
+    • Adds long-press on node width cell to enter a node width
+    • Improves zooming behaviour when ending Focus Mode
+    • Allows to change text alignment of Connection titles
+    • Adds keyboard shortcuts for "Hide Connections", moving nodes to one side, cycling main nodes and text alignment
+    • Improves first launch screens
+    • Adds two finger tap to undo on notes panel
+    • Mirrors panel position between internal and external screen
+    • Makes Multi-Select accessible via VoiceOver
+    • Adds hint when rubber band selection can be performed
+    • Supports Dynamic Type on style panel and improves it in the share menu and the outline
+
+    FIXES
+    • Fixes blurry text on retina screens during on-boarding
+    • Fixes a bug where the "What's New" screen would be shown too often
+    • Fixes panel not collapsing when creating a new node
+    • Ensures all pictures in credits have the same size
+    • Improves animation when "Zoom to Actual Size" is triggered
+    • Allows to dismiss link popover and about screen using the ESC key
+Version 6.0.2 (May 15, 2019)
+    • Improves performance when adding images to a document
+    • Fixes the order of nodes after rewiring
+    • Fixes a crash when searching in outline
+    • Fixes a crash when creating nodes via node well
+    • Allows to enter Focus Mode when in Viewer Mode
+    • Improves the performance when editing a document with many images
+    • Ensures only visible nodes are selected after pasting
+    • Fixes blurry nodes during zooming
+    • Improves the display of connection titles
+    • Allows to create new main nodes in Focus Mode
+    • Improves performance when interaction with cloud-shaped nodes
+    • Resolves a hang on app launch
+    • Improves opening of the What's New screen
+    • Improves VoiceOver support when refocusing
+    • Improves Accessibility Magic Tap to focus on a focused node or the last selected node
+    • Supports dynamic type on the Help and What's New screens
+    • Fixes an issue that caused the edit menu to appear for the wrong node
+    • Fixes a crash when uploading documents to myMindNode
+    • Applies the correct style when dropping text from another apps
+    • Allows to drag and drop URLs onto the canvas
+    • Fixes a crash when change properties of multiple objects
+    • Only shows "Apply Style to…"-button in inspector when a single object is selected
+Version 6.0.1 (Apr 29, 2019)
+    • Fixes a visual glitch related to branch drawing
+    • Fixes a crash when opening certain documents
+    • Fixes importing of XMind documents created with Lighten
+    • Fixes an issue where branches got stuck during node folding
+    • Fixes an outline height issue for nodes with tasks
+    • Improves the selection animation
+    • Ensures that nodes aren't hidden by the panel during editing
+    • Shows a HUD when a document gets restored on launch
+    • Correctly hides the external screen popover when the screen gets disconnected
+    • Fixes VoiceOver and the button height on the What's New screen
+    • Allows to use Paste Style when Focus Mode is enabled
+    • Fixes a performance issue when saving or exporting documents
+Version 6.0 (Apr 24, 2019)
+    FOCUS MODE
+    Put a spotlight on one part of your mind map and fade out all the rest. Focus Mode helps you minimize distractions and stay focused to finish your thought.
+
+    HIDE CONNECTIONS
+    Reduce distractions even further by hiding all connections on the canvas.
+
+    STICKER SEARCH
+    Quickly find the right sticker to make your document even more appealing.
+
+    MULTI-SELECT
+    Styling, editing and rearranging multiple nodes just got a whole lot easier. Select multiple objects by touching and holding anywhere on the canvas.
+
+    EXTERNAL SCREEN SUPPORT
+    Big ideas need space. With an external screen, you get a different perspective on your idea. Improvements include locking the viewport on the external screen, as well as viewing notes and using Quick Look for images.
+
+    CUSTOMIZABLE PANELS
+    Make your workspace your own. Drag and drop your favorite actions onto the panel's quick actions. On iPad drag the panels to the other side of the screen.
+
+    TRADITIONAL CHINESE
+    MindNode is now available in Traditional Chinese, increasing overall localizations to 14.
+
+
+    ENHANCEMENTS
+    • Unifies selection highlighting of nodes and connections across iOS and macOS
+    • Further unifies keyboard shortcuts across iOS and macOS, including shortcuts for folding, zooming and changing font size
+    • Supports importing of new Mind Zen documents
+    • New shortcuts including …
+    • Adds shortcut to zoom to the current selection (Command-*)
+    • Accessibility improvements such as announcing notes and connections
+    • Improves the order of actions in the action panel and edit menu
+    • Adds headers to action groups in the action panel
+    • New visualization for the connection creation mode
+    • Improves Apple Pencil usability
+
+    FIXES
+    • Ensures nodes, branches, connections and knobs are correctly animated
+    • Ensures correct animations during folding and unfolding
+    • Allows undoing node creations with Command-Z and 2-finger tap
+    • MindNode now correctly reopens the last open document if the app was closed in the background
+    • Ensures correct positions of orthogonal branches when using cloud shapes
+    • Fixes the "mindnode://newDocument" scheme when no filename was supplied
+    • Fixes jumping arrows when connections are animated
+    • Fixes a bug where the node well and the resizing knob wouldn't be visible, when switching to certain apps and back
+    • Allows to exit modal dialogs with ESC or the keyboard shortcut Command-.
+    • 'Delete Single Node' now also works on leaf nodes
+Version 5.2.6 (Mar 4, 2019)
+    FIXES
+    • Better retains the selection after undo operations
+    • Improves display of purchase state on About view
+    • Fixes a glitch where a node branch would still be displayed after deleting a node
+    • Fixes link detection for some links on note panel
+    • Fixes opening of recent documents from MindNode's Today Widget
+Version 5.2.4 (Jan 28, 2019)
+    ENHANCEMENTS
+    • Updates all existing localizations
+    • Shows selection on external screen
+
+
+    FIXES
+    • Fixes pasting text from MindNode into Keynote
+    • Improves performance when deleting or cutting a node
+    • Improves performance during text editing and node dragging
+    • Fixes cross connection waypoint positioning after copy and paste
+    • Fixes incorrect layout when pasting text list onto a node
+    • Ensures folded nodes can't be edited
+    • Fixes a crash when creating a new child node
+    • Fixes a bug showing a folding indicator on a node without children
+    • Ensures cross connection are displayed correctly after dragging of a connected node
+    • Allows image resizing without resizing the text of a node
+    • Fixes a crash when try to connect a node to it's child node
+    • Fixes a bug that lead to an incorrect layout, when pasting text onto nodes in manual layout
+    • Ensures that cross connection titles are displayed correctly after moving a node
+    • Optimizes the display of URLs with the MindNode URL Scheme in node titles
+    • Fixes importing of RTF and TaskPaper documents via the MindNode URL Scheme
+    • Fixes starting text editing with Apple Pencil
+    • Fixes a crash when using CMD+F
+    • Prevents deselecting a node when editing it's note and tapping on the canvas to dismiss the keyboard
+Version 5.2.3 (Dec 13, 2018)
+    ENHANCEMENTS
+    • Adds actions to copy and paste style
+    • Adds actions to scroll to the start and end node of a connection
+    • Improves performance when selecting a node
+    • Improves performance during text input
+    • Makes folding indicator on nodes tap-able
+    • Opens Shortcuts app after running specific shortcuts
+    • Allows to specify document path and title, when creating a new document via URL Scheme
+
+    FIXES
+    • Prevents folded nodes to appear in Voice Over
+    • Fixes a bug where the Outline would appear empty
+    • Removes white flickering background when rotating the iPad
+    • Retains strike-through text when applying a theme
+    • Tries to recover when sticker is not part of the document
+    • Fixes a bug which lead to wrong branch layouts in manual layout
+    • Ensure that a node in text editing or resizing state isn't covered by any other node
+    • Selects a cross connection when clicking on it's title
+    • Fixes a bug which prevented the selection of cross connections after folding
+    • Fixes a drawing glitch when resizing a node
+    • Fixes a crash when dragging first level nodes
+    • Fixes a crash when changing selection after text editing
+    • Improves the dialog that appears when a document has missing images
+    • Fixes an undo related crash
+    • Improves URL scheme generation for local documents
+Version 5.2.2 (Nov 9, 2018)
+    ENHANCEMENTS
+    • Adds full support for the new 11" and 12.9" iPad Pro
+    • Parses bold and italic font traits when importing iThoughts or Markdown documents
+
+    FIXES
+    • Uses the correct font size when importing notes from Markdown documents
+    • Fixes an image import issue when importing MindManager or iThoughts documents
+    • Fixes a hang when creating connections during node editing
+    • Uses the correct paste behaviour when pasting text into notes
+    • Fixes a crash when rotating an iPhone with an open outline
+Version 5.2.1 (Oct 25, 2018)
+    FIXES
+    • Fixes slowdowns when selecting nodes or connections
+    • Fixes localizations on about and settings screen
+    • Fixes text alignment in Slate theme
+    • Fixes a crash when closing a document
+Version 5.2 (Oct 18, 2018)
+    Siri Shortcuts
+    • Launch Quick Entry or open your favorite document using your personal Siri Shortcut
+    • Make MindNode part of your Siri Shortcuts workflow using new actions to import and export documents
+    • New URL-Schemes to import and export documents - Learn all the details in our User Guide
+
+
+    Custom App Icons
+    • You can now customize the look of MindNode on your home screen
+    • Change the app icon to a classic or more colourful icon in MindNode's Settings
+
+
+    ENHANCEMENTS
+
+    • Adds 5 new stickers (Apple, Cake, Clock, Pie, Tree)
+    • Adds one new themes (Slate)
+    • Highlights nodes on canvas when changing selection in outline
+    • Adds full Apple Watch Series 4 compatibility
+    • Improves the panel to show quick actions in landscape mode on iPhone Xs Max and Xr
+    • Adds a shortcut to clear the current selection (Control-Option-Command-A)
+
+
+    FIXES
+
+    • Improves error reporting when opening a document with missing images
+    • Fixes a crash during node resizing
+    • Ensures that selected nodes stay visible, when moving them using the arrow keys
+    • Outline entries with a lot of text content are sized correctly
+    • Fixes a crash during on-boarding on iPad
+    • Fixes a disappearing selection issue when checking a task
+    • Fixes a crash when opening documents
+    • Fixes an animation glitch when pasting text into Quick Entry
+Version 5.1.7 (Oct 3, 2018)
+    • Fixes a crash when attaching a node to a main node
+    • Fixes a crash when a documents gets reverted to a previous version (e.g. during conflict resolution)
+Version 5.1.6 (Sep 13, 2018)
+    ENHANCEMENTS
+    • Improves Markdown export of notes
+    • Improves spacing of iPad keyboard accessory buttons
+    • Changes sorting of export options to sort them alphabetically
+
+    FIXES
+    • Fixes an issue that caused incorrect ordering of undo operations
+    • Uses the correct stroke width when "Level Dependent Style" is disabled
+    • Fixes overlapping of branches when exporting as a PDF or an image
+    • Fixes an issue with XMind import
+    • Fixes a performance issue when selecting a node
+    • Ensures future compatibility of Things integration
+Version 5.1.3 (Jul 26, 2018)
+    ENHANCEMENTS
+    • Improves Quick Entry performance
+    • Improves task inheritance in Quick Entry mode
+    • Shows a more descriptive undo message when triggering undo using the two-finger gesture
+
+
+    FIXES
+    • Allows to add a link to the current selected text and not only to the entire title
+    • Removes animation when changing connection end points
+    • Improves error messages during document loading
+    • Fixes a branch thickness issue when creating nodes using the + sign
+    • Fixes a sticker display issue in outline
+    • Fixes a data loss issue when using asian characters with different attributes
+    • Improves error messages in Versions browser
+    • Don't scroll canvas when it gains Voice Over focus
+    • Fixes an issue when opening not yet downloaded documents via Files app
+    • Fixes an issue related to ending title editing when changing the insertion cursor
+    • Fixes a crash when triggering undo while in "Apply Style"-mode
+    • Fixes a crash when an open documents gets modified on an other device
+    • Fixes a crash during saving when a document is open on an other device
+    • No longer request two undo operations when adding an image
+    • Fixes a crash when pasting or dragging an image onto a node
+Version 5.1.1 (Jun 27, 2018)
+    ENHANCEMENTS
+    • Adds swipe-to-delete to outline
+
+    FIXES
+    • Only show "Reorganize Nodes" action, when there are subnodes to reorder
+    • When tapping on a node that contains a link, ensures that the entire node is visible
+    • Fixes a bug that caused the resize handle to be positioned on the wrong side
+    • Fixes a visual glitch when searching in outline on iPhone X
+    • Fixes a crash during on-boarding
+    • Fixes a crash when exporting large documents as an images
+    • When zooming to “Actual Size”, ensure the current selected node stays visible
+    • Fixes a hang when undoing multiple fold operations
+    • Fixes a crash when opening a document with images
+    • Fixes a crash when using Quick Look
+Version 5.1 (Jun 21, 2018)
+    PERFORMANCE
+    This release increases the overall performance when using MindNode. Document save and load is considerable faster; almost every direct interaction on the canvas is smoother. Especially when working with large documents, MindNode is now more responsive.
+
+    ENHANCEMENTS
+    • Imports supported document formats (FreeMind, OPML, …) directly from MindNode's document manager
+    • Allows to store documents locally on the device
+    • Adds new option to download new themes from mindnode.com/themes
+    • Adds ability to subscribe to a new email tutorial during first launch
+    • Adds ability to reset the connection waypoint
+    • Quick Entry will now use the branch color to tint task indicators
+    • When turning off "level dependent style", reset branch width to the default width of the current theme
+    • Shrinks the inspector on iPhone if it was fullscreen, when adding an image
+    • Improves handling of favorite colors
+
+    FIXES
+    • Fixes several issues related to text handling, including retaining empty lines at the beginning of a title
+    • Fixes several crashes related to undoing and redoing
+    • Fixes a crash during image resizing
+    • Fixes an issue related to blurry images when opening a document
+    • Uses correct preview images in sticker picker
+    • Fixes a crash when triggering undo from a Chinese handwriting keyboard
+    • Fixes pasting text into notes from Ulysses
+    • Fixes a bug where the node well was not shown after adding a photo to a node
+Version 5.0.11 (May 1, 2018)
+    • Fixes a crash when creating a new node
+    • Improves myMindNode registration
+Version 5.0.10 (Apr 25, 2018)
+    * Fixes a crash when opening documents that were created using an older beta version
+    * Don't create a note when using -- in a node title. You can continue to use the -- shortcut to create a note, by placing it on a separate line.
+    * Fixes an issue related to importing iToughts documents
+    * Adds logging instructions to help us debug a frequent crash. If you know of a way how to reproduce a crash, please let us know: support@mindnode.com
+Version 5.0.9 (Apr 12, 2018)
+    • Fixes a crash when triggering a node action during note editing
+    • Fixes a visual glitch when entering edit mode using the outline
+    • Fixes an issue when changing selection in outline when in edit mode
+    • Fixes a crash during document loading
+Version 5.0.8 (Apr 5, 2018)
+    FIXES
+
+    • Fixes an issue related to overuse of memory that sometimes caused the app to terminate while in background
+    • Prevents cut off price labels in some localizations
+    • Support tapping on links to other apps (URL schemes) in notes
+    • Fixes a crash in image picker
+    • Fixes several issues related to importing XMind documents
+    • Fixes loading of myMindNode's Terms of Service and Privacy Policy
+    • Fixes a crash when deleting a cross connection
+    • Fixes a Things exporter issue related to documents with tasks in main nodes
+
+
+    APPLE WATCH
+
+    • Use the correct tint color for the complication icon
+Version 5.0.7 (Mar 1, 2018)
+    ENHANCEMENT
+    • We redesigned the free trial workflow to no longer require to purchase a free In-App-Purchase
+
+    FIXES
+    • Fixes a crash when opening a document on Apple Watch - sorry about this regression!
+    • Allow to add links to URL schemes using the Add Link action
+Version 5.0.6 (Feb 21, 2018)
+    THINGS EXPORT
+    Send your tasks to Things 3.4. Your document is converted into a new project with all open and completed tasks. Hierarchies are exported as headers in Things.
+
+    ENHANCEMENTS
+    • When creating a document in a third-party sharing provider, MindNode will now default to a single file format. This enables to store documents in other storage locations like Dropbox, OneDrive and Box.
+
+    FIXES
+    • Fixes an issue related to pasting a text outline when using top-down-layout.
+    • Fixes an issue related to pasting unformatted text (including URLs) into notes.
+Version 5.0.5 (Feb 15, 2018)
+    • Fixes a crash in the Apple Watch app
+Version 5.0.4 (Feb 7, 2018)
+    ENHANCEMENTS
+    • Updates localization
+    • Adds Unfold All Nodes action
+    • Adds Fold Completed Tasks action
+    • Adds actions to move move all nodes to the left/top or right/bottom
+    • Allow to drag & drop text into the note field
+
+    FIXES
+    • Correctly sorts main nodes horizontally in outline view
+    • Fixes an issue related to disappearing connections that were created using copy & paste
+    • Fixes an issue that would cause a hang when using TaskPaper or OmniFocus export
+    • Fixes a crash when importing a zipped MindNode document
+    • Fixes an animation glitch when entering text editing when zoomed in
+    • Renames "Delete Attachment" to "Delete Image"
+    • Improves accessibility hints
+    • Provides haptic Feedback when toggling nodes and creating connections
+    • Provides haptic feedback when setting a new theme
+    • Fixes an issue related to theme preview images when renaming a newly created theme
+    • Don’t change a node to auto width when dragging its size to its min size
+    • Auto hide home indicator on iPhone X in full screen mode
+    • Don’t allow to paste images into the note field as persisting images in notes is not supported
+    • Refreshes image picker when new images are added
+    • Correctly update the actions panel when changing a link
+    • Improves link interaction on canvas
+    • Removes placeholder text when pasting text into a note field
+Version 5.0.2 (Dec 13, 2017)
+    ENHANCEMENTS
+    • Add new action to only delete the current node (normal delete will continue to also delete all subnodes)
+    • Use a docked Outline on iPhone X
+    • New share sheet action to create a URL to open the current document (makes it easier to link to documents or build workflows)
+    • Allow to export PNGs with transparent backgrounds
+    • Add "Delete Attachment" action to panel
+    • Long press on action icon to toggle task state when a node is selected or reset waypoint when a connection is selected
+    • Allow to select pure white, pure black color in color picker
+
+
+    FIXES
+    • Ensure Cut/Copy/Paste is always displayed in the correct language
+    • Fixes missing localisation on the settings screen
+    • Improve node dragging performance when the panel is open
+    • Ensure "new node" images are always updated based on the current branch direction
+    • Better communicate that the trial is ending automatically
+    • Trim certain control characters on paste to prevent a data loss issue when copying text from PDF Expert
+    • Fixes fill color of Teal theme
+    • Use better defaults for fill color when extracting a theme
+    • The "Default" theme section is now called "Build-in"
+    • Automatically set a newly created theme as the default theme
+    • Fixes a dark mode issue in font search
+Version 5.0.1 (Nov 30, 2017)
+    • Fixes myMindNode registration
+    • Fixes an animation glitch in tutorial
+    • Fixes a style issue when inserting a new parent node
+    • Fixes a crash when opening a document
+    • Fixes notes paring in Quick Entry
+    • Design improvements on iPhone X
+    • Fixes a rotation bug in image picker
+    • Make it easier to purchase IAP from document manager
+    • Improved legacy document mode
+Version 5.0 (Nov 28, 2017)
+
+Users may also like
+Select objects to compare
+SimpleMind - Mind Mapping
+Mind Map Maker - Mindomo
+ThinkSpace: Next-gen Mind Map
+Mind Mapping - MindMeister
+MindSpace - Mind Map
+Drafts
+Lucidchart
+Xmind - Mind Map & Brainstorm
+Craft: Write docs, AI editing
+EdrawMind: AI Mind Map, Notes
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+38 times
+on App Store homepage
+543 times
+on App Store category pages
+Versions
+
+    2023.3.3
+    Current release
+    Feb 27, 2024
+    2023.3.2
+    Feb 21, 2024
+    2023.3.1
+    Nov 23, 2023
+    2023.3
+    Oct 17, 2023
+    2023.2.4
+    Sep 18, 2023
+    2023.2.3
+    Aug 28, 2023
+    2023.2
+    Jul 11, 2023
+    2023.1.2
+    May 22, 2023
+    2023.1.1
+    Apr 6, 2023
+    2023.1
+    Mar 28, 2023
+    2023.0.3
+    Feb 10, 2023
+    2023.0.2
+    Jan 27, 2023
+    2023.0.1
+    Jan 26, 2023
+    2022.4.3
+    Dec 21, 2022
+    2022.4.2
+    Nov 22, 2022
+    2022.4.1
+    Oct 25, 2022
+    2022.4
+    Oct 21, 2022
+    2022.3.4
+    Oct 8, 2022
+    2022.3.3
+    Oct 5, 2022
+    2022.3.2
+    Aug 25, 2022
+    2022.3.1
+    Aug 18, 2022
+    2022.3
+    Aug 2, 2022
+    2022.2.4
+    Jul 4, 2022
+    2022.2.3
+    May 30, 2022
+    2022.2.2
+    May 3, 2022
+    2022.2.1
+    Apr 27, 2022
+    2022.2
+    Apr 19, 2022
+    2022.1.2
+    Mar 26, 2022
+    2022.1.1
+    Mar 23, 2022
+    2022.1
+    Feb 22, 2022
+    2022.0.1
+    Jan 19, 2022
+    2021.5
+    Dec 14, 2021
+    2021.4.1
+    Nov 8, 2021
+    2021.4
+    Nov 2, 2021
+    2021.3.1
+    Oct 7, 2021
+    2021.3
+    Oct 5, 2021
+    2021.2.3
+    Aug 10, 2021
+    2021.2.2
+    Jun 21, 2021
+    2021.2.1
+    May 28, 2021
+    2021.2
+    May 25, 2021
+    2021.1.5
+    Apr 27, 2021
+    2021.1.4
+    Apr 8, 2021
+    2021.1.3
+    Mar 15, 2021
+    2021.1.2
+    Mar 3, 2021
+    2021.1.1
+    Feb 3, 2021
+    2020.6.1
+    Dec 3, 2020
+    2020.5.2
+    Nov 5, 2020
+    2020.5.1
+    Oct 27, 2020
+    2020.5
+    Sep 30, 2020
+    7.3.3
+    Sep 21, 2020
+    7.3.2
+    Aug 10, 2020
+    7.3.1
+    Jul 9, 2020
+    7.3
+    Jul 8, 2020
+    7.2.1
+    Jun 9, 2020
+    7.2
+    May 18, 2020
+    7.1.1
+    Apr 23, 2020
+    7.1
+    Apr 16, 2020
+    7.0.4
+    Mar 11, 2020
+    7.0.3
+    Feb 12, 2020
+    7.0.2
+    Feb 5, 2020
+    7.0.1
+    Jan 31, 2020
+    7.0
+    Jan 22, 2020
+    6.1.2
+    Dec 4, 2019
+    6.1.1
+    Oct 4, 2019
+    6.1
+    Sep 30, 2019
+    6.0.6
+    Sep 5, 2019
+    6.0.5
+    Aug 7, 2019
+    6.0.4
+    Jul 25, 2019
+    6.0.3
+    Jun 5, 2019
+    6.0.2
+    May 15, 2019
+    6.0.1
+    Apr 29, 2019
+    6.0
+    Apr 24, 2019
+    5.2.6
+    Mar 4, 2019
+    5.2.4
+    Jan 28, 2019
+    5.2.3
+    Dec 13, 2018
+    5.2.2
+    Nov 9, 2018
+    5.2.1
+    Oct 25, 2018
+    5.2
+    Oct 18, 2018
+    5.1.7
+    Oct 3, 2018
+    5.1.6
+    Sep 13, 2018
+    5.1.3
+    Jul 26, 2018
+    5.1.1
+    Jun 27, 2018
+    5.1
+    Jun 21, 2018
+    5.0.11
+    May 1, 2018
+    5.0.10
+    Apr 25, 2018
+    5.0.9
+    Apr 12, 2018
+    5.0.8
+    Apr 5, 2018
+    5.0.7
+    Mar 1, 2018
+    5.0.6
+    Feb 21, 2018
+    5.0.5
+    Feb 15, 2018
+    5.0.4
+    Feb 7, 2018
+    5.0.2
+    Dec 13, 2017
+    5.0.1
+    Nov 30, 2017
+    5.0
+    Nov 28, 2017
+
+See More
+Top In-App Purchases
+
+    Годовая подписка
+    $0
+    Ежемесячная подписка
+    $2.99
+    Legacy Subscription (6)
+    $0
+    Legacy Subscription (12)
+    $0
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    Nov 28, 2017
+
+Worldwide Release Date
+    Nov 28, 2017
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    2023.3.3
+
+Size
+    257.29 mb
+
+Only 32 Bit
+    No
+
+Languages
+    русский, английский, арабский, голландский, испанский, итальянский, корейский, немецкий, португальский, тайский, традиционный китайский, упрощенный китайский, французский, шведский, японский
+
+Seller
+    IdeasOnCanvas GmbH
+
+Company HQ
+    Austria
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Требуется iOS 16.4 и watchOS 9.0 или более поздней версии. Совместимо с iPhone, iPad и iPod touch.
+
+Bundle ID
+    com.ideasoncanvas.mindnode.ios
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Nov 28, 2017)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1218718027
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MindNode - Mind Map & Outline | data.ai

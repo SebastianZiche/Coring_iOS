@@ -1,0 +1,62 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,4.0.5,2023-09-28,Improve text alignment on photo
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,4.0.3,2023-07-08,Improve quality of rendering translated text. Now the the translation looks much clearer.
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,4.0.2,2023-05-06,Improve text alignment fix some minor bugs
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.4.1,2023-04-28,Bug fixes minor UI improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.4.0,2023-04-08,Fix some deprecated APIs Some minor UI improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.3.7,2023-03-14,We apologize for the frequent updates. However this latest update is crucial as it resolves a critical crash that occurred in the previous version.
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.3.6,2023-03-12,Better support for tilted right2left text
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.3.5,2023-01-28,much better support for tilted text
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.3.1,2022-12-01,UI bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.3.0,2022-11-21,fix a critical bug causing ads keep showing for some Premium users
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.2.8,2022-11-08,Bug fixes for iOS16
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.2.6,2022-04-22,fix bugs related to translate API
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.2.1,2022-01-30,Sorry for frequent updates. This update to fix the navigation bar issue on iOS15.
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.2.0,2022-01-28,iOS 15 full compatibility Bug fixes performance optimizations
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.1.8,2021-11-15,fix some UI bugs fix some bugs on iOS 15
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.1.2,2021-10-11,Improve text alignment New home screen UI Other bug fixes and improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.0.9,2021-08-04,bug fixes minor improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.0.7,2021-06-05,UI improvements bug fixes for iOS 14
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.0.4,2021-04-06,UI improvements and bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.0.2,2021-03-24,fix a critical translation bug causing the translated text is not visible fix a bug related to ad banner
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,3.0.0,2021-03-16,bug fix: Restore purchase does not work for some users
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.9.4,2021-03-03,fix some crashes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.9.0,2021-02-26,UI improvements bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.8.9,2021-01-07,UI bug fixes fix some deprecated APIs
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.8.6,2020-12-30,iOS 14 full compatibility Improve UI to translate photo faster bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.8.2,2020-08-21,Enter text mode to see the detected language Other improvements bugfixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.7.7,2020-07-15,long press on translated text to show it in text mode fix a critical crash fix a bug related to showing ads
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.7.5,2020-07-06,reduce interstitial ads bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.7.3,2020-06-25,improve text alignment bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.6.9,2020-06-11,Instantly translate the photo right after taking it you can crop the photo later . bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.6.6,2020-04-07,add lifetime payment long press on translated text to show it in text mode better handling overlapped text
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.6.3,2020-03-08,add ability to select multiple translated items just long press on it . add option to translate whole paragraph long press on the translated text to show the original text fix critical crashes on iPad fix UI bugs of native ads.
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.6.0,2020-02-16,native iPad support fix some bugs
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.5.7,2020-01-17,fix some critical crashes in the last version bugfix: the text was smaller on iPhone X or later
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.5.4,2020-01-07,Offline mode: Now you can translate image offline Translation by Paragraph or by Line Bugfixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.5.1,2019-11-30,improve text alignment smaller ad banners fix a bug when device is offline
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.4.8,2019-11-07,fix a critical crash when cropping image fix some deprecated APIs
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.4.6,2019-09-25,iOS 13 support improve translation speed improve text alignment add weekly and quarterly subscription options other bugfixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.4.0,2019-08-06,add text to text mode more localizations bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.2.9,2019-06-03,improve UI for history pined translation redesign upgrade screen fix bugs related to text alignment fix some deprecated API
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.2.8,2019-01-22,improve text alignment fix bugs related to ads fix bugs related to In app purchases fix some deprecated APIs if you lose your Premium upgrade please try Restore Previous Purchases
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.2.7,2019-01-16,more languages supported new prettier icon improve translation quality change theme color to blue other bugfixes improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.2.3,2018-12-10,support more languages: Burmese Kurdish Malaysian improve UI of home screen bugfixes minor improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.1.9,2018-11-28,ability to change target language after translation zoom in without blurry text fix some deprecated APIs minor bugfixes improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.1.3,2018-11-20,no more blurry text after zooming in fix overlapped text in some cases other minor bugfixes improvements.
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.1.0,2018-11-15,this update includes some UI adjustments reorganize action buttons after translation add icons for some buttons better handling when no text found
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.0.6,2018-11-07,ability to crop photo before translation zoomable image view after translation minor bugfixes improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.0.5,2018-10-27,zoomable image after translation fix bug related to image size on iPhone X or later fix splash screen bug on iPhone X or later fix a crash when changing language
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.0.4,2018-10-17,fix a critical crash in last update on iPhone X add copy button so you can copy text faster bugfixes stability improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.0.3,2018-10-15,fix critical crash better translation for Arabic language
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.0.1,2018-09-23,iOS 12 compatibility upgrade Vision API: It now can recognize Arabic text other bugfixes improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,2.0.0,2018-08-02,by default auto language detection is set you just need to set your target language introduce monthly subscription other bug fixes improvements
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,1.9.7,2018-07-20,allow to skip IAP screen when loading product information new splash screen stability improvements and bug fixes option to subscribe monthly to Premium
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,1.9.6,2018-07-03,By default Auto language detection is set Fix some mistakes in Text Bug fixes minor stability improvements Hope you enjoy it
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,1.9.4,2018-06-07,introduce Premium subscription with 3 day free trial upgrade cloud vision API for better text recognition improve app stability
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,1.6,2018-05-31,new app icon able to subscribe to Premium version with 3 day free trial fix a crash when taking photo improve UI
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,1.5,2018-05-17,fix a crash when open the app without internet connection move the Pinned Translations into home screen other UI improvements bugfixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,1.4,2018-04-29,can edit the translated text before sharing fix some UI bugs
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,1.3,2018-04-22,option to view scanned text translation in text view improve UI bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,1.1,2018-04-10,you can subscribe to Premium version to remove ads limitations bug fixes
+1350347947,1000600000827029,Photo Translator Translate,Utilities,2018-04-04,2018-04-04,143.96,2,1,0,1,1.0,2018-04-04,

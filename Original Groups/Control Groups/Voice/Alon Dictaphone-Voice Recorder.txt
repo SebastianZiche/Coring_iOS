@@ -1,0 +1,544 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Alon Dictaphone-Voice Recorder
+ALON SoftwareBusiness (Applications)$4.99
+Alerts
+
+ALON Dictaphone Super Note Taker
+Alon Dictaphone-Voice Recorder
+Alon Dictaphone-Voice Recorder
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Alon Dictaphone-Voice Recorder
+录音笔
+Business (Applications)
+$4.99
+App Description
+ALON Dictaphone 是一款专业音频语音听写应用，适用于追求市面上最高品质听写和录音设备的人群。
+
+您可以使用 ALON Dictaphone 迅速听写笔记和备忘录，还可以使用手机麦克风记录会议、演讲、访谈和日常声音。是时候解放您的双手，丢弃传统的记事本了！摆脱您的笔记本，开始为您所需的一切录音，不管是待办事项清单，还是至关重要的备忘录。
+
+此外，您还可以跟任何人分享您的整个会议和演讲的讲稿。跟您的朋友、家人、同学和同事分享录音时，不仅速度飞快，而且很容易上手。
+
+关键特性：
+• 超高品质录音（最高支持 48000 Hz/320kbps）
+• 所有听写和笔记采用 MP3、WAV 格式
+• 编辑选项：追加、裁剪、剪切、改写、插入、组合录音
+• 支持立体声
+• 支持外接麦克风
+• iTunes 文件共享
+• 上传录音到 Dropbox, SoundCloud, GoogleDrive, OneDrive, SharePoint, YouTube, Box, Evernote, FTP/HTTP/WebDAV 服务器
+• 调整麦克风增益灵敏度
+• 以不同速度记录和回放背景声（x0.5、x0.8、x1……）
+• 可选择跟 Dropbox 自动同步录音
+• 跟 iCloud 同步录音、音频书签和首选项
+• 书签（时间、照片、文字注释）
+
+其他特性：
+• 录音排序（按名称、时长、大小、创建日期和类型）
+• 支持蓝牙外置头戴式耳机
+• 从支持导出的其他应用程序导入录音
+• 将录音导出到支持导入的其他应用程序
+• 在设备处于睡眠模式时录制/回放
+• 在有电话呼入时自动暂停
+• 回放/录制定时器
+• 快速前进/倒带
+• 使用音频书签进行简单编辑
+• 可选择根据书签创建播放路线
+• 声控录音——在无声时停止录音
+• 一次性发送或删除多条录音
+• 为录音分类和排序
+• 调整回放速度
+• 其他……
+
+该应用提供一个全面的帮助手册，其中描述并逐步介绍了该应用程序的所有功能。
+
+如果您需要录音，可以使用 ALON Dictaphone 记录和分享会议记录、课堂讲课甚至海浪撞击的声音。使用您的语音来听写笔记、备忘录以及待办事项清单。不再需要手忙脚乱地用记事本手写笔记了！
+
+ALON Dictaphone 会将高品质的录音送到您的手上，支持您听写您的所有笔记和备忘录。立即下载 ALON Dictaphone，将来可免费升级！
+
+此应用程序不适用于电话录音。
+
+ALON Software 很希望倾听您的建议和反馈，了解如何改进我们的音频语音听写录音工具！如有任何疑问、建议和想法，请访问 http://alonsoftware.com/support.php。如需了解更多信息，请访问 http://www.alonsoftware.com/dictaphone_apple.php。
+Ratings
+Displayed Avg Ratings
+4.11
+Total Displayed Ratings
+3.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.4.3 (Nov 22, 2023)
+    • 添加了对小组件和实时活动的支持
+    • 实用性改进
+    • 错误修复
+Version 2.4.2 (Sep 26, 2023)
+    • 快捷指令 App 中针对“图库”的新快捷指令
+    • 重命名 Apple Watch 录音的选项
+    • 修复了录制过程中选择录音文件时出现的错误
+Version 2.4.1 (Mar 1, 2023)
+    • 能够同时删除Apple Watch 上的所有录音
+    • 与 Dropbox 同步时保存录音的创建日期
+    • 能够在上传到YouTube 之前设置标题和描述
+    • 能够在应用程序进入后台模式时停止录制
+    • 错误修复
+Version 2.4.0 (Apr 6, 2022)
+    • 通过Dropbox得以改进
+    • 错误修复
+Version 2.3.9 (Jan 13, 2022)
+    • 修复了合并两个不同音频格式的录音的错误
+Version 2.3.8 (Dec 15, 2021)
+    • 通过Dropbox得以改进
+    • 提升了在Apple Watch上的可用性
+    • 错误修复
+Version 2.3.7 (Nov 11, 2021)
+    • 修复了登录 SoundCloud 的错误
+    • 实用性改进
+Version 2.3.6 (Sep 16, 2021)
+    • 修正了在从书签窗口添加书签时出现的错误
+    • 通过VoiceOver得以改进
+    • 实用性改进
+Version 2.3.5 (Oct 1, 2020)
+    • 支持 iOS/iPadOS 14
+    • 内置麦克风立体声录音（需要 iOS/iPadOS 14，并非所有 iOS/iPadOS 都支持此选项）
+Version 2.3.4 (Jun 24, 2020)
+    • 通过VoiceOver得以改进
+    • 修复了 iCloud 选项的录制 bug（错误）
+Version 2.3.3 (May 28, 2020)
+    • 通过VoiceOver得以改进
+    • 实用性改进
+    • 错误修复
+Version 2.3.2 (Apr 29, 2020)
+    • 通过VoiceOver得以改进
+    • 实用性改进
+    • 波兰语和捷克语本地化
+Version 2.3.1 (Apr 2, 2020)
+    • 录音时进行语音监控
+    • 能够将语音监控重定向到蓝牙耳机
+    • 实用性改进
+    • 错误修复
+Version 2.3.0 (Jan 28, 2020)
+    • 提升了在Apple Watch上的可用性
+    • 错误修复
+Version 2.2.9 (Dec 11, 2019)
+    • 改进了音频书签的可用性
+Version 2.2.8 (Nov 13, 2019)
+    • 修正 iOS 13 中的鎖定畫面錯誤
+Version 2.2.7 (Nov 6, 2019)
+    • 通过VoiceOver得以改进
+    • 实用性改进
+    • 错误修复
+Version 2.2.6 (Aug 23, 2019)
+    • 提升了在Apple Watch上的可用性
+    • 直接在Apple Watch上删除录音
+    • 错误修复
+Version 2.2.5 (Jun 28, 2019)
+    • 快进/倒回重放（以秒为单位不连续分档）
+    • 快进/倒回录音（以秒为单位不连续分档）
+    • 改进了可用性和用户界面
+Version 2.2.4 (Jun 7, 2019)
+    错误修复
+Version 2.2.3 (Mar 14, 2019)
+    • 新增选项：通过运行 Apple Watch 上的 app 直接开始录音
+    • 对已发送的录音进行颜色标记
+    • 新增适用于 Apple Watch 的复杂功能
+    • 改进了可用性和用户界面
+    • 错误修正
+Version 2.2.2 (Nov 24, 2018)
+    • Apple Watch 后台直接录制（需要 watchOS 4.0 或更新版本）
+    • Apple Watch 后台直接播放（需要 watchOS 5.0 或更新版本）
+    • 添加了新的发送方法
+    • 错误修正
+Version 2.2.1 (Aug 16, 2018)
+    • 支持使用 SharePoint 发送录制内容
+    • 新增播放速度
+    • 改进了可用性和用户界面
+    • 错误修正
+Version 2.2.0 (Apr 26, 2018)
+    支持 iPhone X
+    支持使用 WebDAV 发送录制内容
+    尚未播放的录音的历史记录列表
+    音频输入选择选项
+    提高易用性
+    错误修复
+Version 2.1.2 (Dec 14, 2017)
+    Improved communication with Apple Watch
+    Additional features for saving recordings to online storages
+    Today widget support
+    Bug fixes
+Version 2.1.1 (Jun 8, 2017)
+    Bug fixes
+Version 2.1 (Jun 1, 2017)
+    The ability to send an audio recording as a zip file along with its bookmarks (text notes, photos)
+    Improved working with VoiceOver
+    Ability to save audio recordings in the photo album
+    Fixed the issue with the bluetooth controls
+    Bug fixes
+Version 2.0 (Dec 21, 2016)
+    The ability to add photos and notes
+    New design
+    New alternative skin and possibility to change it
+    3D Touch support for icon app
+    Bug fixes
+Version 1.9.3 (May 5, 2016)
+    • Share recordings via the Finder(iCloud Drive)
+    • Manage categories from your Apple Watch
+    • Ability to make recording from the other apps
+    • Adjustable recording template
+    • Fast rewind during pause-recording to correct current recording
+    • Control the recording process from the control centre
+    • Start recording by the app launch
+    • Import additional audio formats from the other apps
+    • Opportunity to switch off the Touch ID for the Lock Screen option
+    • Edit category name
+    • Bug fixes
+Version 1.9.2 (Dec 15, 2015)
+    Direct audio recording for Apple Watch(required watchOS 2)
+    Improved usability
+    Fixed some bugs
+Version 1.9.1 (Sep 9, 2015)
+    Support for Apple Watch
+    Improved usability
+Version 1.9.0 (Jul 5, 2015)
+    Ability to add bookmarks from the bookmark list.
+    Auto adding bookmarks by voice activation.
+    Fixed problem with application launch on older versions of iOS.
+Version 1.8.9 (May 21, 2015)
+    Added a Lock screen for the app
+    Touch ID supported for unlocking the app
+    Improved the Accessibility
+    Improved usability
+    Bug fixes
+Version 1.8.8 (Oct 27, 2014)
+    Bug fixes
+Version 1.8.7 (Sep 15, 2014)
+    iCloud synchronization for recordings and bookmarks
+    Auto Dropbox synchronization
+    Upload to Evernote
+    Added new playback speeds (x0.8, x1.5)
+    combining two files into one
+    Choose an edit time by bookmarks
+    Improved usability
+    Fixed bugs
+Version 1.8.6 (Mar 18, 2014)
+    Added Trim, Cut, Insert operations for editing recordings.
+    Improved interface.
+Version 1.8.5 (Dec 18, 2013)
+    Stop timer for record
+    Stop timer for playback
+    Uploading to the BOX
+    Pop up dialog for saving a name of recordings
+    Repeat playback for bookmarks
+    Improved usability
+Version 1.8.4 (Dec 4, 2013)
+    Fixed bug for sending emails
+Version 1.8.3 (Nov 25, 2013)
+    Opportunity to restore deleted files.
+    Improved interface.
+    Bug fixes.
+Version 1.8.2 (Oct 4, 2013)
+    Fixed recording bug for iOS 7
+Version 1.8.1 (Sep 17, 2013)
+    iOS 7 support
+Version 1.8 (Sep 13, 2013)
+    A recorded track can be opened by another application(export)
+    Possibility to import and open a track from another application(import)
+    Remote control for playback
+    Upload to SkyDrive
+    Direct control for the recording process
+    Added "Volume" and "Pan" user controls
+    Improved usability and user interface
+    Bug fixes
+Version 1.7 (Apr 21, 2013)
+    Improved quality of recordings(added new audio formats).
+    Uploading recordings to Dropbox, SoundCloud, GoogleDrive.
+    Fixed bug with voice activation in the background.
+    Fixed bug for stereo recording with some external microphones.
+Version 1.6.1 (Feb 8, 2013)
+    Added context menu for Delete/Edit/Send/Move.(via long press on the track)
+Version 1.6 (Jan 23, 2013)
+    Sync preferences with iCloud
+    Synchronize categories and recordings on your FTP server
+Version 1.5 (Dec 21, 2012)
+    1. ftp synchronization works in the background
+    2. Added HTTP synchronization
+    3. It's possible to send out several tracks via e-mail in one letter.
+Version 1.4 (Nov 13, 2012)
+    Bookmarks were added
+    iOS 6 and new iPhone 5 support
+Version 1.3 (Jul 17, 2012)
+    Landscape mode and screen orientation
+    Variable speed playback
+    Improved Interface
+Version 1.2 (Jun 11, 2012)
+    Added opportunity overwrite current recordings
+    Improved usability
+Version 1.1 (Mar 29, 2012)
+    1. Added compatibility with iOS 5.1
+
+    2. Improved Forward/Rewind functions
+Version 1.0 (Feb 6, 2012)
+
+Users may also like
+Select objects to compare
+Philips voice recorder
+Awesome Voice Recorder PRO AVR
+Dictaphone Voice Recorder
+Yoink - Improved Drag and Drop
+TeamTalk 5
+Audio Memos
+FirstSeed Calendar for iPad
+VDScan
+PCM Recorder Pro
+Philips SpeechLive
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+35 times
+on App Store category pages
+Versions
+
+    2.4.3
+    Current release
+    Nov 22, 2023
+    2.4.2
+    Sep 26, 2023
+    2.4.1
+    Mar 1, 2023
+    2.4.0
+    Apr 6, 2022
+    2.3.9
+    Jan 13, 2022
+    2.3.8
+    Dec 15, 2021
+    2.3.7
+    Nov 11, 2021
+    2.3.6
+    Sep 16, 2021
+    2.3.5
+    Oct 1, 2020
+    2.3.4
+    Jun 24, 2020
+    2.3.3
+    May 28, 2020
+    2.3.2
+    Apr 29, 2020
+    2.3.1
+    Apr 2, 2020
+    2.3.0
+    Jan 28, 2020
+    2.2.9
+    Dec 11, 2019
+    2.2.8
+    Nov 13, 2019
+    2.2.7
+    Nov 6, 2019
+    2.2.6
+    Aug 23, 2019
+    2.2.5
+    Jun 28, 2019
+    2.2.4
+    Jun 7, 2019
+    2.2.3
+    Mar 14, 2019
+    2.2.2
+    Nov 24, 2018
+    2.2.1
+    Aug 16, 2018
+    2.2.0
+    Apr 26, 2018
+    2.1.2
+    Dec 14, 2017
+    2.1.1
+    Jun 8, 2017
+    2.1
+    Jun 1, 2017
+    2.0
+    Dec 21, 2016
+    1.9.3
+    May 5, 2016
+    1.9.2
+    Dec 15, 2015
+    1.9.1
+    Sep 9, 2015
+    1.9.0
+    Jul 5, 2015
+    1.8.9
+    May 21, 2015
+    1.8.8
+    Oct 27, 2014
+    1.8.7
+    Sep 15, 2014
+    1.8.6
+    Mar 18, 2014
+    1.8.5
+    Dec 18, 2013
+    1.8.4
+    Dec 4, 2013
+    1.8.3
+    Nov 25, 2013
+    1.8.2
+    Oct 4, 2013
+    1.8.1
+    Sep 17, 2013
+    1.8
+    Sep 13, 2013
+    1.7
+    Apr 21, 2013
+    1.6.1
+    Feb 8, 2013
+    1.6
+    Jan 23, 2013
+    1.5
+    Dec 21, 2012
+    1.4
+    Nov 13, 2012
+    1.3
+    Jul 17, 2012
+    1.2
+    Jun 11, 2012
+    1.1
+    Mar 29, 2012
+    1.0
+    Feb 6, 2012
+
+See More
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Feb 6, 2012
+
+Worldwide Release Date
+    Feb 6, 2012
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    2.4.3
+
+Size
+    74.83 mb
+
+Only 32 Bit
+    No
+
+Languages
+    丹麦语, 俄文, 加泰罗尼亚文, 匈牙利文, 博克马尔文挪威文, 印度尼西亚文, 土耳其文, 希伯来文, 希腊文, 德文, 意大利文, 捷克语, 斯洛伐克文, 日文, 法语, 波兰文, 泰文, 瑞典文, 简体中文, 繁体中文, 罗马尼亚文, 芬兰语, 英语, 荷兰文, 葡萄牙文, 西班牙文, 越南文, 阿拉伯文, 韩文, 马来文
+
+Seller
+    ALON Software Limited
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 9.0 和 watchOS 4.3 或更高版本。兼容设备：iPhone 5S、iPhone 6、iPhone 6 Plus、iPhone 6S、iPhone 6S Plus、iPhone SE（第一代）、iPhone 7、iPhone 7 Plus、iPhone 8、iPhone 8 Plus、iPhone X、iPhone XS、iPhone XS Max、iPhone XR、iPhone 11、iPhone 11 Pro、iPhone 11 Pro Max、iPhone SE（第二代）、iPhone 12 mini、iPhone 12、iPhone 12 Pro、iPhone 12 Pro Max、iPhone 13 Pro、iPhone 13 Pro Max、iPhone 13 mini、iPhone 13、iPhone SE（第三代）、iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max、iPhone 15、iPhone 15 Plus、iPhone 15 Pro、iPhone 15 Pro Max、iPad Air、iPad Air Wi‑Fi + 蜂窝网络、iPad mini 2、iPad mini 2 Wi‑Fi + 蜂窝网络、iPad Air 2、iPad Air 2 Wi‑Fi + 蜂窝网络、iPad mini 3、iPad mini 3 Wi‑Fi + 蜂窝网络、iPad mini 4、iPad mini 4 Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络、9.7 英寸 iPad Pro、9.7 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第五代）、iPad（第五代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第二代）、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络（第二代）、10.5 英寸 iPad Pro、10.5 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第六代）、iPad（第六代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro、11 英寸 iPad Pro Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第三代）、12.9 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、iPad mini（第五代）、iPad mini（第五代）Wi‑Fi + 蜂窝网络、iPad Air（第三代）、iPad Air（第三代）Wi‑Fi + 蜂窝网络、iPad（第七代）、iPad（第七代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第二代）、11 英寸 iPad Pro（第二代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第四代）、12.9 英寸 iPad Pro（第四代）Wi‑Fi + 蜂窝网络、iPad Air（第四代）、iPad Air（第四代）Wi‑Fi + 蜂窝网络、iPad（第八代）、iPad（第八代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第三代）、11 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第五代）、12.9 英寸 iPad Pro（第五代）Wi‑Fi + 蜂窝网络、iPad mini（第六代）、iPad mini（第六代）无线局域网 + 蜂窝网络、iPad（第九代）、iPad（第九代）无线局域网 + 蜂窝网络、iPad Air（第五代）、iPad Air（第五代）Wi‑Fi + 蜂窝网络、iPad（第十代）、iPad（第十代）无线局域网 + 蜂窝网络、11 英寸 iPad Pro（第四代）、11 英寸 iPad Pro（第四代）无线局域网 + 蜂窝网络、12.9 英寸 iPad Pro（第六代）、12.9 英寸 iPad Pro（第六代）无线局域网 + 蜂窝网络、iPod touch（第六代）、iPod touch（第七代）。
+
+Bundle ID
+    com.alonsoftware.ALONDictaphone
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Sep 9, 2015)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 498425561
+Unified App ID: 1000600000451028
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Alon Dictaphone-Voice Recorder | data.ai

@@ -1,0 +1,1 @@
+SELECT application_id, title, description FROM `epf_application` WHERE description LIKE '%text translation%' AND itunes_release_date <= '2020-02-23'; 

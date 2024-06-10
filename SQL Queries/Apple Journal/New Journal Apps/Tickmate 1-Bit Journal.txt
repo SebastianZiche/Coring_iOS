@@ -1,0 +1,312 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Tickmate 1-Bit Journal
+Isaac LyonsProductivity (Applications)Free
+Alerts
+
+    Isaac Lyons
+
+    Tickmate 1-Bit Journal
+    Tickmate 1-Bit Journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Tickmate 1-Bit Journal
+Productivity (Applications)
+Free
+App Description
+Tickmate allows you to track any daily occurrences. It is a is a 1-bit journal, meaning each day is either ticked or not. You can track anything from habits you wish to build or break to how often you wash your hair.
+
+Use a "reversed" track for occurrences you don't want to happen, so they're automatically ticked unless you untick them.
+
+You can use the "allow multiple" feature to be able to tick a single day multiple times.
+
+There are 3 sizes of customizable widgets to add to your Home Screen or Today View.
+
+Unlock the premium groups feature to swipe between different sets of tracks, perfect to separate daily tasks from occasional occurrences.
+
+With iCloud sync, all your data will be securely synced across all devices.
+
+This app is free and open-source. Its source code can be viewed on GitHub through the App Support link.
+Ratings
+Displayed Avg Ratings
+5
+Total Displayed Ratings
+7
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.4 (Mar 17, 2024)
+    Tracks can now be archived, so you can hide no-longer-relevant tracks without deleting them and losing historical data.
+Version 1.3 (Jan 30, 2024)
+    v1.3
+
+    Tickmate is now on Apple Vision Pro!
+
+    This release also includes bug fixes for iOS 17.
+
+    v1.2
+
+    Tickmate now supports Widgets!
+    You can now add customizable widgets to your Home Screen or Today View that let you see a short history of your habits.
+
+    Ticking should now be more responsive.
+
+    Other minor improvements:
+    • Fix layout of tracks row when large number of tracks exist
+    • Fix text wrap on "Yesterday" text on larger Dynamic Type sizes
+    • Add a basic launch screen to make the app feel more responsive
+    • Add version and build numbers in settings
+
+    v1.1
+
+    Introducing track groups!
+    With this premium feature you group tracks together and swipe between groups on the main screen. Perfect to separate daily tasks from occasional occurrences, or if you just have too many tracks filling up the screen.
+Version 1.2.3 (Nov 4, 2021)
+    v1.2.3
+    Fix laggy swiping between track groups. This premium feature will now feel much more responsive, especially on ProMotion devices.
+
+    v1.2.1 - v1.2.2
+    Bug fixes and improvements
+
+    v1.2
+
+    Tickmate now supports Widgets!
+    You can now add customizable widgets to your Home Screen or Today View that let you see a short history of your habits.
+
+    Ticking should now be more responsive.
+
+    Other minor improvements:
+    • Fix layout of tracks row when large number of tracks exist
+    • Fix text wrap on "Yesterday" text on larger Dynamic Type sizes
+    • Add a basic launch screen to make the app feel more responsive
+    • Add version and build numbers in settings
+
+    v1.1
+
+    Introducing track groups!
+    With this premium feature you group tracks together and swipe between groups on the main screen. Perfect to separate daily tasks from occasional occurrences, or if you just have too many tracks filling up the screen.
+Version v1.2.2 (Oct 4, 2021)
+    v1.2.2
+
+    Fix issues with iOS 15
+    Sort tracks in the widget by the in-app sort order as opposed to the order they are selected in
+
+    v1.2.1
+
+    Fix issue with new tracks not showing in the tracks list.
+
+    v1.2
+
+    Tickmate now supports Widgets!
+    You can now add customizable widgets to your Home Screen or Today View that let you see a short history of your habits.
+
+    Ticking should now be more responsive.
+
+    Other minor improvements:
+    • Fix layout of tracks row when large number of tracks exist
+    • Fix text wrap on "Yesterday" text on larger Dynamic Type sizes
+    • Add a basic launch screen to make the app feel more responsive
+    • Add version and build numbers in settings
+
+    v1.1
+
+    Introducing track groups!
+    With this premium feature you group tracks together and swipe between groups on the main screen. Perfect to separate daily tasks from occasional occurrences, or if you just have too many tracks filling up the screen.
+Version v1.2.1 (Jul 17, 2021)
+    v1.2.1
+
+    Fix issue with new tracks not showing in the tracks list.
+
+    v1.2
+
+    Tickmate now supports Widgets!
+    You can now add customizable widgets to your Home Screen or Today View that let you see a short history of your habits.
+
+    Ticking should now be more responsive.
+
+    Other minor improvements:
+    • Fix layout of tracks row when large number of tracks exist
+    • Fix text wrap on "Yesterday" text on larger Dynamic Type sizes
+    • Add a basic launch screen to make the app feel more responsive
+    • Add version and build numbers in settings
+
+    v1.1
+
+    Introducing track groups!
+    With this premium feature you group tracks together and swipe between groups on the main screen. Perfect to separate daily tasks from occasional occurrences, or if you just have too many tracks filling up the screen.
+Version 1.1 (Jul 9, 2021)
+    Introducing track groups!
+    With this premium feature you group tracks together and swipe between groups on the main screen. Perfect to separate daily tasks from occasional occurrences, or if you just have too many tracks filling up the screen.
+
+    Minor improvements including:
+    * Fix lag when editing tracks
+    * Fix issue where date would not update when opening the app on a new day
+    * Fix week separators sometimes not showing correctly or at all
+
+Users may also like
+Select objects to compare
+Check Later
+Timesense - Interval tracker
+Directive - Maintenance App
+Open Loops
+Sider - Todos for Tomorrow
+Relog: Task Logger
+Weekly ToDo Notes
+Response Time Track
+Habo (habit tracker)
+2do.txt
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.4
+    Current release
+    Mar 17, 2024
+    1.3
+    Jan 30, 2024
+    1.2.3
+    Nov 4, 2021
+    v1.2.2
+    Oct 4, 2021
+    v1.2.1
+    Jul 17, 2021
+    1.1
+    Jul 9, 2021
+
+See More
+Top In-App Purchases
+
+    Groups
+    $0.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    May 10, 2021
+
+Worldwide Release Date
+    May 10, 2021
+
+Last Updated Time
+    Apr 19, 2024
+
+Version
+    1.4
+
+Size
+    8.00 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Engels
+
+Seller
+    Isaac Lyons
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Vereist iOS 14.0 of nieuwer. Compatibel met iPhone, iPad en iPod touch.
+
+Bundle ID
+    vc.isv.Tickmate
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1558621933
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Tickmate 1-Bit Journal | data.ai
+				
+				
+				
+				
+				
+	

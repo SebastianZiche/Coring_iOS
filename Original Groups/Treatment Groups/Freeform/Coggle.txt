@@ -1,0 +1,273 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Coggle
+CoggleProductivity (Applications)Free
+Alerts
+
+    Coggle
+
+    Coggle
+    Coggle
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Coggle
+Productivity (Applications)
+Free
+App Description
+Coggle gives you a clear way to share and understand complex information. It's a collaborative mind-mapping and flow charting tool that simplifies complex things.
+
+Log in with your Apple, Google, or Microsoft account to get started.
+
+Features:
+- Real-time collaboration
+- Unlimited diagrams
+- Unlimited image uploads
+- Markdown support
+Ratings
+Displayed Avg Ratings
+3.08
+Total Displayed Ratings
+277
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 0.0.25 (Dec 21, 2021)
+    New read-only mode switch to make navigating and reviewing mind maps quickly even easier than ever. Just tap the switch to toggle between viewing and editing.
+    Some additional bugfixes and performance improvements.
+Version 0.0.24 (Nov 11, 2021)
+    New read-only mode switch to make navigating and reviewing mind maps quickly even easier than ever. Just tap the switch to toggle between viewing and editing.
+    Lots of other little bugfixes and performance improvements.
+Version 0.0.23 (Mar 7, 2021)
+    This update improves handling of touch events: accidental touches are now better ignored, and pinching, zooming and panning should all be a little snappier.
+
+    Other minor bugfixes and maintenance, including fixing an issue that could cause a blank page when switching apps.
+Version 0.0.22 (Jan 20, 2021)
+    This update improves handling of touch events: accidental touches are now better ignored, and pinching, zooming and panning should all be a little snappier.
+
+    Other minor bugfixes and maintenance, including fixing an issue that could cause a blank page when switching apps.
+Version 0.0.21 (May 26, 2020)
+    Adds support for Sign in with Apple.
+    Fixes various bugs and generally makes everything a little better.
+Version 0.0.20 (Oct 6, 2019)
+    Fix bug preventing links from working as expected, and bug where menu could become stuck when transplanting branches.
+Version 0.0.19 (Sep 13, 2019)
+    Groundwork release for upcoming features
+Version 0.0.18 (May 26, 2019)
+    Bug fixes for offline editing and syncing, and behind-the-scenes improvements to support an upgrade to the way Coggle stores data.
+Version 0.0.17 (Feb 26, 2019)
+    Bug fixes
+Version 0.0.16 (Feb 5, 2019)
+    Squashed some bugs and laying some groundwork for future changes.
+Version 0.0.15 (Sep 21, 2018)
+    We've just added flowchart support to Coggle!
+Version 0.0.14 (Sep 18, 2018)
+    Groundwork release with some minor bug fixes.
+Version 0.0.13 (Oct 30, 2017)
+    Squashed some bugs! Splat.
+Version 0.0.12 (Oct 13, 2017)
+    Less keyboard dancing on switching nodes.
+Version 0.0.11 (Sep 3, 2017)
+    Fix image upload button sizing
+Version 0.0.10 (Aug 21, 2017)
+    - Improved diagram responsiveness
+    - Nav bar will only hide on small screens in landscape mode
+    - Added more icons
+    - Prevents logout while there are pending changes
+Version 0.0.9 (Jul 21, 2017)
+    * You can now download a PNG version of your diagrams right to your camera roll!
+    * Editor will insert new lines instead of closing when you hit return for short items.
+Version 0.0.8 (Jun 13, 2017)
+    We've added a brand new node editing toolbar to make using Coggle faster and simpler!
+
+Users may also like
+Select objects to compare
+ThinkSpace: Next-gen Mind Map
+GitMind: AI Mind Map, Outline
+Mind Map - HoodleMind
+Notes Writer: Note Taking PDF
+Blankbook - Paper Note
+Teleprompter Pro
+Smart Note Notepad - Draw Memo
+LiquidText
+Text Summary: TLDR, Paraphrase
+Cute Calendar : Agenda Planner
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+12 times
+on App Store category pages
+Versions
+
+    0.0.25
+    Current release
+    Dec 21, 2021
+    0.0.24
+    Nov 11, 2021
+    0.0.23
+    Mar 7, 2021
+    0.0.22
+    Jan 20, 2021
+    0.0.21
+    May 26, 2020
+    0.0.20
+    Oct 6, 2019
+    0.0.19
+    Sep 13, 2019
+    0.0.18
+    May 26, 2019
+    0.0.17
+    Feb 26, 2019
+    0.0.16
+    Feb 5, 2019
+    0.0.15
+    Sep 21, 2018
+    0.0.14
+    Sep 18, 2018
+    0.0.13
+    Oct 30, 2017
+    0.0.12
+    Oct 13, 2017
+    0.0.11
+    Sep 3, 2017
+    0.0.10
+    Aug 21, 2017
+    0.0.9
+    Jul 21, 2017
+    0.0.8
+    Jun 13, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jun 13, 2017
+
+Worldwide Release Date
+    Jun 13, 2017
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    0.0.25
+
+Size
+    67.62 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    COGGLEIT LIMITED
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.4 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    it.coggle.Coggle
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1187423011
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Coggle | data.ai

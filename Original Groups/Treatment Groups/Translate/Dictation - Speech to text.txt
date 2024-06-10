@@ -1,0 +1,728 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Dictation - Speech to text
+Ingenieurbüro Dr. NeubauerProductivity (Applications)Free
+Alerts
+
+Dictation - Speech to Text
+Dictation - Speech to text
+Dictation - Speech to text
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Dictation - Speech to text
+Transcribe notes, voice memos
+Productivity (Applications)
+Free
+App Promotional Text
+Dictate App now recognizes your custom words.
+App Description
+Dictation - Speech to text allows to dictate, record, translate and transcribe text instead of typing. It uses latest speech to text voice recognition technology and its main purpose is speech to text and translation for text messaging. Never type any text, just dictate and translate using your speech! Nearly every app that can send text messages can be configured to operate with 'Dictation - Speech to text'. Dictate uses the builtin speech to text recognition engine.
+
+Dictation - Speech to text features:
+
+► Over 40 Transcribe Languages
+Dictation - Speech to text supports more than 40 languages. Dictate offers 3 text zones - indicated by language flags - for which you can configure a different language in the settings. Thus you can switch between different language projects with a singe click.
+
+► Over 40 Translation Languages
+Translation is as easy as pushing the translation button. You can specify the translation target language in the app settings. Then you push the translate button to get it translated.
+
+► Audio Recording
+Both, your audio recordings and your text files can be accessed via the Apple 'Files' app.
+
+► Transcription of Recorded Audio Files
+Using the audio file transcription you can transcribe recorded audio files - containing speech - into text at a single click. All major audio file formats are supported.
+
+► iCloud Synchronization
+Having enabled iCloud, your text is automatically synchronized across all your devices running Dictate, e.g. iPhone, iPad, macOS and Apple Watch.
+
+► Support for Impaired People
+Dictate now supports the system font size setting and provides configurable button sizes for visual impaired users. Also VoiceOver is carefully configured.
+
+► Easy Text Sharing
+In order to send your dictated text messages quickly, there is a "Share"-button that allows to launch the target app, i.e. Twitter, Facebook, WhatsApp, Flickr, Email or whatever else is capable of receiving text from the system.
+
+► Subscriptions
+Dictate offers a 7-day free trial, which converts into regular subscription unless you cancel 24h before end of trial period.
+
+► Important Notes Concerning Subscriptions
+All above Dictation - Speech to text subscriptions renew within 24 hours before the current period ends, and you will be charged through your iTunes account. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription. Manage or cancel your subscription from iTunes Account settings. See our Terms & Conditions (https://www.ibn-software.com/app-terms-conditions) and Privacy Policy (https://www.ibn-software.com/app-privacy-policy).
+Ratings
+Displayed Avg Ratings
+4.4
+Total Displayed Ratings
+35.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.77 (Feb 16, 2024)
+    Completely removed advertising
+Version 3.76 (Feb 6, 2024)
+    Completely removed advertising
+Version 3.75 (Jan 17, 2024)
+    VoiceOver completely revised
+Version 3.74 (Jan 15, 2024)
+    VoiceOver completely revised
+Version 3.73 (Jan 11, 2024)
+    VoiceOver completely renewed
+Version 3.72 (Nov 28, 2023)
+    New ! Dictate App now recognizes your custom words.
+Version 3.71 (Nov 20, 2023)
+    New ! Dictate App now recognizes your custom words.
+Version 3.61 (Nov 7, 2023)
+    ► Fix for broken dictation commands on iOS 17
+Version 3.55 (Jul 6, 2023)
+    ► Minor bug fixes
+Version 3.54 (Jun 28, 2023)
+    ► Minor bug fixes
+Version 3.53 (Jun 16, 2023)
+    ► Added feature: Auto Delete Text on Record
+    ► Improved cross device license handling
+Version 3.52 (Feb 24, 2023)
+    ► Added feature: Auto Delete Text on Record
+    ► Improved cross device license handling
+Version 3.51 (Feb 15, 2023)
+    ► Added record-on-launch feature
+Version 3.50 (Jan 23, 2023)
+    ► Fixed screen update issue under iOS16
+Version 3.41 (Nov 17, 2022)
+    ► Fixed watch recording issue under iOS16
+Version 3.40 (Oct 11, 2022)
+    ► iOS 16 ready
+    ► Automatic punctuation
+Version 3.32 (Jul 1, 2022)
+    ► Performance improvements in dictation core and file transcription
+    ► New language selection assistant
+Version 3.30 (Feb 25, 2022)
+    ► Performance improvements in dictation core and file transcription
+    ► New language selection assistant
+Version 3.23 (Sep 25, 2021)
+    ► iOS15 Fixes
+    ► New! Added text file export, import & printing
+    ► Bugfix: Fixed Apple Watch sync issues
+Version 3.21 (Sep 23, 2021)
+    ► iOS15 Fixes
+    ► New! Added text file export, import & printing
+    ► Bugfix: Fixed Apple Watch sync issues
+Version 3.22 (Sep 23, 2021)
+    ► iOS15 Fixes
+    ► New! Added text file export, import & printing
+    ► Bugfix: Fixed Apple Watch sync issues
+Version 3.20 (Sep 18, 2021)
+    ► iOS15 Fixes
+    ► New! Added text file export, import & printing
+    ► Bugfix: Fixed Apple Watch sync issues
+Version 3.11 (Aug 9, 2021)
+    ► New! Custom word list for English(US)
+    ► Bugfix: Solved spontaneous dictation termination
+    ► Bugfix: Solved a rare subscriptions problem
+Version 3.10 (Aug 6, 2021)
+    ► New! Custom word list for English(US)
+    ► Bugfix: Solved spontaneous dictation termination
+    ► Bugfix: Solved a rare subscriptions problem
+Version 3.02 (Jun 30, 2021)
+    ► Files App can now play dictate recordings
+    ► Minor bug fixes on watch
+Version 3.00 (Apr 21, 2021)
+    ► New Design
+Version 2.997 (Apr 16, 2021)
+    ► GUI improvements
+    ► Added localizations
+Version 2.996 (Apr 7, 2021)
+    ► Performance improvements
+Version 2.995 (Apr 5, 2021)
+    ► Fixed cursor positioning problem
+    ► Fixed translation problem with '&'-signs
+    ► Added 'copy to clipboard' button to translation view
+Version 2.994 (Apr 3, 2021)
+    ► Fixed an keyboard editing issue
+Version 2.993 (Mar 25, 2021)
+    ► Fixed a crash issue
+Version 2.992 (Mar 24, 2021)
+    ► Fixed editing problem
+    ► Fixed jumping button bug
+Version 2.991 (Mar 18, 2021)
+    ► Many small bug fixes
+Version 2.99 (Mar 10, 2021)
+    ► Audio file support
+    ► Fixed sample rate problems on some devices
+    ► Fixed subscription problems on some devices
+Version 2.98 (Mar 9, 2021)
+    ► Audio file support
+    ► Local text files accessible via Files App
+    ► Input level display
+    ► Dynamic text sizes
+    ► Configurable button sizes
+    ► Complete rewrite from ground up
+Version 2.97 (Mar 1, 2021)
+    ► Audio file support
+    ► Local text files accessible via Files App
+    ► Input level display
+    ► Dynamic text sizes
+    ► Configurable button sizes
+    ► Complete rewrite from ground up
+Version 2.96 (Feb 25, 2021)
+    ► Audio file support
+    ► Local text files accessible via Files App
+    ► Input level display
+    ► Dynamic text sizes
+    ► Configurable button sizes
+    ► Complete rewrite from ground up
+Version 2.95 (Feb 24, 2021)
+    ► Audio file support
+    ► Local text files accessible via Files App
+    ► Input level display
+    ► Dynamic text sizes
+    ► Configurable button sizes
+    ► Complete rewrite from ground up
+Version 2.44 (Nov 28, 2020)
+    ► Improved iCloud storage support
+    ► Backups now also available on local file storage
+    ► Minor bug fixes
+Version 2.42 (Oct 13, 2020)
+    ► Fixed broken offline dictation support
+    ► Apple Watch Support
+    ► Fixed save text bug
+Version 2.40 (Oct 12, 2020)
+    ► Apple Watch Support
+    ► Fixed save text bug
+Version 2.38 (Oct 5, 2020)
+    ► Apple Watch Support
+    ► Fixed save text bug
+Version 2.36 (Aug 6, 2020)
+    ► Fixed a rare text loss problem
+    ► Transcription of audio files
+    ► Auto copy translated text into clipboard
+    ► Translate screen is now editable
+    ► Auto copy to clipboard is now configurable
+Version 2.34 (Jul 28, 2020)
+    ► Transcription of audio files
+    ► Auto copy translated text into clipboard
+    ► Translate screen is now editable
+    ► Auto copy to clipboard is now configurable
+Version 2.32 (Jul 20, 2020)
+    ► Support for iCloud Drive
+    ► Fixed keyboard editing bug
+Version 2.30 (Jul 10, 2020)
+    ► Support for iCloud Drive
+    ► Improved VoiceOver tags
+    ► Many bug fixes
+Version 2.29 (Jul 4, 2020)
+    ► Support for iCloud Drive
+    ► Improved VoiceOver tags
+    ► Many bug fixes
+Version 1.16 (Apr 10, 2020)
+    ► Changed global shortcuts to less common shortcuts
+    ► Added audio level monitor
+Version 2.24 (Mar 30, 2020)
+    Introduced universal purchases
+Version 2.23 (Feb 26, 2020)
+    Bugfixes (Cursor handling for text insertion, Save text when leaving app)
+Version 2.21 (Feb 12, 2020)
+    Translation Function; Offline dictation (iOS 13.3+)
+Version 2.20 (Feb 8, 2020)
+    ► Offline dictation support (requires iOS 13.3+) for: English (US,CA,UK,IN), German, Spanish (US,MX,ES), Italian, Portuguese (BR), Russian, Turkish, Chinese
+Version 2.14 (Jan 29, 2020)
+    ► New ! Translation Function
+Version 2.13 (Jan 22, 2020)
+    ► New ! Translation Function
+Version 2.12 (Nov 27, 2019)
+    ► Stability improvements
+Version 2.11 (Nov 26, 2019)
+    ► Fixed 'Range error' problem
+Version 2.04 (Nov 22, 2019)
+    ► Fixed recording crash
+    ► Recover Voiceover volume after recording
+    ► Corrected Voiceover labels for 13.2
+    ► Added support for Shortcuts App
+Version 2.03 (Nov 20, 2019)
+    ► Fixed recording crash
+    ► Recover Voiceover volume after recording
+    ► Corrected Voiceover labels for 13.2
+    ► Added support for Shortcuts App
+Version 2.02 (Nov 15, 2019)
+    ► Fixed recording crash
+    ► Recover Voiceover volume after recording
+    ► Corrected Voiceover labels for 13.2
+    ► Added support for Shortcuts App
+Version 2.01 (Nov 13, 2019)
+    ► Fixed recording crash
+    ► Recover Voiceover volume after recording
+    ► Corrected Voiceover labels for 13.2
+    ► Added support for Shortcuts App
+Version 1.999 (Nov 12, 2019)
+    ► Removed edit button, now simply click into text field
+    ► Fixed letter capitalization issues
+    ► Voiceover labels corrected
+Version 1.998 (Nov 9, 2019)
+    iOS 13.2 Bugfix where transcription stopped after a while.
+Version 1.997 (Sep 23, 2019)
+    iOS 13 Dark mode support and bug fixes
+Version 1.996 (Jul 18, 2019)
+    New! ► Zone languages ► iTunes text sharing ► Disable silence timeout
+Version 1.995 (Jul 13, 2019)
+    Improved help resources: Added user manual & FAQ
+Version 1.994 (Jun 27, 2019)
+    Fixed iOS 10 layout bug and Pro recovery crash
+    Improved iCloud error handling
+    Improved Voiceover support
+    Fixed rare crash during dictation
+Version 1.993 (Jun 11, 2019)
+    Improved purchase recovery
+    Fixed font size bug
+    Added help for getting dictate permissions right
+    Operation without Siri possible
+    US-English and CA-English now allow offline dictation
+Version 1.991 (Jun 1, 2019)
+    Crash bugfix & Clear notification badge
+Version 1.99 (May 28, 2019)
+    iCloud: Bugfixes and improvements.
+    Reduced rating requests.
+Version 1.98 (May 15, 2019)
+    iCloud: Bugfixes and improvements.
+    Reduced rating requests.
+Version 1.97 (Mar 27, 2019)
+    iCloud Support: Seamlessly synchronize your text across all your devices
+Version 1.96 (Mar 21, 2019)
+    iCloud Support: Seamlessly synchronize your text across all your devices
+Version 1.95 (Dec 17, 2018)
+    iCloud Support: Seamlessly synchronize your text across all your devices
+Version 1.90 (Oct 17, 2018)
+    New ! iCloud Support: Seamlessly synchronize your text across all your devices
+Version 1.80 (Jun 12, 2018)
+    ► AirPods Support
+    ► Increased maximum font size to 100 for visual impaired persons
+Version 1.74 (May 8, 2018)
+    ► External microphone bugfix
+Version 1.73 (Mar 17, 2018)
+    ► External microphone bugfix
+Version 1.72 (Mar 15, 2018)
+    ► External microphone bugfix
+Version 1.71 (Mar 12, 2018)
+    ► Insert dictation now possible
+    ► Autolock disabled
+    ► Auto-copy to clipboard on termination
+    ► Voice Over compatible
+    ► Button sizes on iPad increased
+Version 1.70 (Mar 8, 2018)
+    ► Insert dictation now possible
+    ► Autolock disabled
+    ► Auto-copy to clipboard on termination
+    ► Voice Over compatible
+    ► Button sizes on iPad increased
+Version 1.60 (Nov 29, 2017)
+    ► iPhone X support
+    ► Bug fix: Text is now again stored across sessions
+    ► New Feature: Added 3 independent text zones
+Version 1.41 (Sep 26, 2017)
+    Fixed edit bug
+    Removed sound
+    Tested for iOS 11
+Version 1.40 (Jul 22, 2017)
+    Support for bluetooth A2DP und HFP profiles
+Version 1.31 (Jul 5, 2017)
+    Added microphone support for wireless and wired headsets
+Version 1.30 (Jun 22, 2017)
+    Added microphone support for wireless and wired headsets
+Version 1.29 (Apr 5, 2017)
+    Added text size support
+Version 1.28 (Mar 22, 2017)
+    Fixed a crash issue
+Version 1.27 (Jan 25, 2017)
+    ► Timeout now 60 sec after last spoken word
+    ► Fixed bug when network status changed
+Version 1.24 (Jan 17, 2017)
+    ► Timeout now 60 sec after last spoken word
+    ► Fixed bug when network status changed
+Version 1.23 (Jan 13, 2017)
+    ► Fixed timeout problem
+Version 1.22 (Jan 10, 2017)
+    ► Fixed timeout problem
+Version 1.20 (Dec 15, 2016)
+    - added rating/feedback function
+Version 1.17 (Dec 7, 2016)
+    - improvements in notification module
+Version 1.15 (Nov 30, 2016)
+    - added message functionality
+Version 1.10 (Oct 18, 2016)
+    New in 'Voice to text':
+    - New text is now appended by default
+    - Added separate 'Clear text" button
+    - Added 'Edit text' button
+    - Added acoustic feedback when recording stops
+    - Text now is stored/restored when app quits
+
+    Bugfixes:
+    - fixed autoscroll bug
+    - fixed crash issue with IAP
+Version 1.07 (Sep 26, 2016)
+    - minor bug fixes
+Version 1.06 (Sep 15, 2016)
+    added in app purchase localizations
+Version 1.05 (Sep 13, 2016)
+    null
+
+Users may also like
+Select objects to compare
+iTranscribe - Audio to Text
+Speech to Text+
+Otter: Transcribe Voice Notes
+Speech to Text Transcribe
+Text to Speech!
+Noted - Record, Transcribe
+Voice to Text Dictation VoxRec
+Transcribe: Accurate Dictation
+NaturalReader - Text To Speech
+Voice Aloud Reader
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.77
+    Current release
+    Feb 16, 2024
+    3.76
+    Feb 6, 2024
+    3.75
+    Jan 17, 2024
+    3.74
+    Jan 15, 2024
+    3.73
+    Jan 11, 2024
+    3.72
+    Nov 28, 2023
+    3.71
+    Nov 20, 2023
+    3.61
+    Nov 7, 2023
+    3.55
+    Jul 6, 2023
+    3.54
+    Jun 28, 2023
+    3.53
+    Jun 16, 2023
+    3.52
+    Feb 24, 2023
+    3.51
+    Feb 15, 2023
+    3.50
+    Jan 23, 2023
+    3.41
+    Nov 17, 2022
+    3.40
+    Oct 11, 2022
+    3.32
+    Jul 1, 2022
+    3.30
+    Feb 25, 2022
+    3.23
+    Sep 25, 2021
+    3.21
+    Sep 23, 2021
+    3.22
+    Sep 23, 2021
+    3.20
+    Sep 18, 2021
+    3.11
+    Aug 9, 2021
+    3.10
+    Aug 6, 2021
+    3.02
+    Jun 30, 2021
+    3.00
+    Apr 21, 2021
+    2.997
+    Apr 16, 2021
+    2.996
+    Apr 7, 2021
+    2.995
+    Apr 5, 2021
+    2.994
+    Apr 3, 2021
+    2.993
+    Mar 25, 2021
+    2.992
+    Mar 24, 2021
+    2.991
+    Mar 18, 2021
+    2.99
+    Mar 10, 2021
+    2.98
+    Mar 9, 2021
+    2.97
+    Mar 1, 2021
+    2.96
+    Feb 25, 2021
+    2.95
+    Feb 24, 2021
+    2.44
+    Nov 28, 2020
+    2.42
+    Oct 13, 2020
+    2.40
+    Oct 12, 2020
+    2.38
+    Oct 5, 2020
+    2.36
+    Aug 6, 2020
+    2.34
+    Jul 28, 2020
+    2.32
+    Jul 20, 2020
+    2.30
+    Jul 10, 2020
+    2.29
+    Jul 4, 2020
+    1.16
+    Apr 10, 2020
+    2.24
+    Mar 30, 2020
+    2.23
+    Feb 26, 2020
+    2.21
+    Feb 12, 2020
+    2.20
+    Feb 8, 2020
+    2.14
+    Jan 29, 2020
+    2.13
+    Jan 22, 2020
+    2.12
+    Nov 27, 2019
+    2.11
+    Nov 26, 2019
+    2.04
+    Nov 22, 2019
+    2.03
+    Nov 20, 2019
+    2.02
+    Nov 15, 2019
+    2.01
+    Nov 13, 2019
+    1.999
+    Nov 12, 2019
+    1.998
+    Nov 9, 2019
+    1.997
+    Sep 23, 2019
+    1.996
+    Jul 18, 2019
+    1.995
+    Jul 13, 2019
+    1.994
+    Jun 27, 2019
+    1.993
+    Jun 11, 2019
+    1.991
+    Jun 1, 2019
+    1.99
+    May 28, 2019
+    1.98
+    May 15, 2019
+    1.97
+    Mar 27, 2019
+    1.96
+    Mar 21, 2019
+    1.95
+    Dec 17, 2018
+    1.90
+    Oct 17, 2018
+    1.80
+    Jun 12, 2018
+    1.74
+    May 8, 2018
+    1.73
+    Mar 17, 2018
+    1.72
+    Mar 15, 2018
+    1.71
+    Mar 12, 2018
+    1.70
+    Mar 8, 2018
+    1.60
+    Nov 29, 2017
+    1.41
+    Sep 26, 2017
+    1.40
+    Jul 22, 2017
+    1.31
+    Jul 5, 2017
+    1.30
+    Jun 22, 2017
+    1.29
+    Apr 5, 2017
+    1.28
+    Mar 22, 2017
+    1.27
+    Jan 25, 2017
+    1.24
+    Jan 17, 2017
+    1.23
+    Jan 13, 2017
+    1.22
+    Jan 10, 2017
+    1.20
+    Dec 15, 2016
+    1.17
+    Dec 7, 2016
+    1.15
+    Nov 30, 2016
+    1.10
+    Oct 18, 2016
+    1.07
+    Sep 26, 2016
+    1.06
+    Sep 15, 2016
+    1.05
+    Sep 13, 2016
+
+See More
+Top In-App Purchases
+
+    Dictate Pro (1 year iOS/macOS)
+    $17.99
+    Dictate Pro (1 month, iOS)
+    $4.99
+    Dictate Pro (1 year, iOS)
+    $12.99
+    Pro (1 month, iOS/macOS)
+    $5.99
+    Dictate Pro, one time purchase
+    $69.99
+
+About
+
+Required Devices
+    Mac, Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 13, 2016
+
+Worldwide Release Date
+    Sep 15, 2016
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    3.77
+
+Size
+    15.56 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Norwegian Bokmål, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Turkish
+
+Seller
+    Christian Neubauer
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.4 and watchOS 8.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.IBNSoft.SpeechWriter
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Oct 6, 2020)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1124772331
+Unified App ID: 1000800000167436
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Dictation - Speech to text | data.ai

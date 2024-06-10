@@ -1,0 +1,1055 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+ChatSecure Messenger
+Chris BallingerSocial Networking (Applications)Free
+Alerts
+
+    Chris Ballinger
+
+    ChatSecure Messenger
+    ChatSecure Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+ChatSecure Messenger
+Encrypted Messenger
+Social Networking (Applications)
+Free
+App Description
+ChatSecure is a free and open source messaging app that features OTR and OMEMO encryption over XMPP. You can create new accounts on public XMPP servers, or even connect to your own server for extra security.
+
+Unlike other apps that keep you stuck in their walled garden, ChatSecure is fully interoperable with other clients that support OTR, OMEMO and XMPP.
+
+ChatSecure only uses well-known open source cryptographic libraries to keep your conversations private. Other apps may make claims about 'military grade' security but, without publicly auditable source code and verifiable end-to-end encryption, you cannot be truly safe.
+
+* XMPP with TLS certificate pinning.
+* OTR for verifiable end-to-end encryption and forward secrecy.
+* OMEMO for a mobile-friendly alternative to OTR.
+* SQLCipher to locally encrypt conversation logs.
+* Free and Open Source: https://github.com/chatsecure/chatsecure-ios
+
+Follow @ChatSecure on Twitter: https://twitter.com/chatsecure
+
+►► ChatSecure Donations
+Subscribe to ChatSecure to help make developing free and open source privacy tools sustainable. We welcome any contribution to support ongoing development. The donation levels are currently $2.99/month, $5.99/month or $19.99/month. Here's what you get:
+
+• Feel good supporting indie software
+• Continued development and updates
+• Help keep the app free for everyone
+
+To manage your subscription:
+• You can turn off auto-renewal via the main Settings app: http://support.apple.com/kb/ht4098
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your iTunes account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+• Payment will be charged to iTunes Account at confirmation of purchase.
+• Visit the following URL to view our Privacy Policy: https://chatsecure.org/privacy/
+• Visit the following URL for full terms of use: https://chatsecure.org/terms/
+Ratings
+Displayed Avg Ratings
+4.29
+Total Displayed Ratings
+1.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.0.4 (Aug 10, 2021)
+    * Update dependencies
+    * Fix media SQLCipher WAL size
+    * Minor onboarding changes
+Version 5.0.3 (Jan 15, 2021)
+    * Support for latest iPhone models
+    * Fixes for Xcode 12
+    * Update dependencies
+Version 5.0.2 (Apr 16, 2020)
+    * Storage management of downloaded media messages
+    * Migrate to YapDatabase 4.0
+    * Update dependencies
+    * Use CryptoKit on iOS 13 for AES-GCM operations
+    * Resolve some dark mode issues
+Version 5.0.1 (Feb 17, 2020)
+    v5.0.1:
+    * Fix receiving OMEMO media messages with 12-byte IV
+
+    v5.0:
+    * Dark Mode
+    * Removes Tor support
+    * Mac version available soon for macOS Catalina
+    * Miscellaneous bug fixes and performance improvements
+    * Now requires iOS 12 or higher
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.9...v5.0.1
+Version 5.0 (Feb 16, 2020)
+    v5.0:
+    * Dark Mode
+    * Removes Tor support
+    * Mac version available soon for macOS Catalina
+    * Miscellaneous bug fixes and performance improvements
+    * Now requires iOS 12 or higher
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.9...v5.0
+Version 4.3.9 (Aug 1, 2019)
+    v4.3.9:
+    * Fix issue where fingerprint trust settings cannot be saved
+
+    v4.3.8:
+    * Improved launch performance, reduced binary size and memory usage
+    * Tor 0.4.0.5
+    * SQLCipher 4.2.0
+    * Update 3rd party dependencies
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.8...v4.3.9
+Version 4.3.8 (Jul 16, 2019)
+    v4.3.8:
+    * Improved launch performance, reduced binary size and memory usage
+    * Tor 0.4.0.5
+    * SQLCipher 4.2.0
+    * Update 3rd party dependencies
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.7...v4.3.8
+Version 4.3.7 (Apr 22, 2019)
+    v4.3.7:
+    * Swift 5.0 / Xcode 10.2
+    * Updated translations
+    * Minor bug fixes
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.6...v4.3.7
+Version 4.3.6 (Dec 11, 2018)
+    v4.3.6:
+    * Fix security issue in certificate pinning alert dialog, where any valid certificate would show as valid
+    * Fix crash when rapidly scrolling through chat history
+    * Fix issue where chat history is temporarily blank after sending a message
+    * Swift 4.2 / Xcode 10.1
+    * Updated 3rd party dependencies
+    * Other minor bug fixes
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.5...v4.3.6
+Version 4.3.5 (Oct 19, 2018)
+    v4.3.5:
+    * Support for new iPhone screen resolutions
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.4...v4.3.5
+Version 4.3.4 (Jul 23, 2018)
+    v4.3.4:
+    * Attempting to fix source of crash regression in Swift 4.1.2 runtime (reabstraction thunk helper swift_getObjectType crash).
+    * Other crash fixes
+    v4.3.3:
+    * Actually fix crash on launch by disabling download resumption
+    v4.3.2:
+    * Fix crash on launch when resuming downloads
+    v4.3.1:
+    * Fix bug causing duplicate MAM messages
+    * No longer expires the last remaining OMEMO key after it hasn't been seen for > 30 days
+    * Minor bug fixes
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.0...v4.3.4
+Version 4.3.3 (Jul 15, 2018)
+    v4.3.3:
+    * Actually fix crash on launch by disabling download resumption
+    v4.3.2:
+    * Fix crash on launch when resuming downloads
+    v4.3.1:
+    * Fix bug causing duplicate MAM messages
+    * No longer expires the last remaining OMEMO key after it hasn't been seen for > 30 days
+    * Minor bug fixes
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.0...v4.3.3
+Version 4.3.2 (Jul 13, 2018)
+    v4.3.2:
+    * Fix crash on launch when resuming downloads
+    v4.3.1:
+    * Fix bug causing duplicate MAM messages
+    * No longer expires the last remaining OMEMO key after it hasn't been seen for > 30 days
+    * Minor bug fixes
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.0...v4.3.2
+Version 4.3.1 (Jul 12, 2018)
+    * Fix bug causing duplicate MAM messages
+    * No longer expires the last remaining OMEMO key after it hasn't been seen for > 30 days
+    * Minor bug fixes
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.3.0...v4.3.1
+Version 4.3.0 (Apr 10, 2018)
+    * Message Archive Management (XEP-0313) - one-to-one and group chat history is now synchronized between multiple devices, if supported by your server.
+    * Group Chat Bookmarks (XEP-0048) - Group chats are now bookmarked on your server to allow persistence between devices / installs.
+    * OMEMO Group Chat Encryption - This is not yet recommended for general use and is for advanced users only. Must be globally enabled in Advanced Settings as well as individually for each group chat.
+    * Improvements to general group chat user experience
+    * Bug fixes and performance improvements
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.2.1...v4.3.0
+Version 4.2.1 (Nov 7, 2017)
+    * Fix some crashes and odd behavior in the chat view bubbles
+    * Fix crash when media URL cannot be parsed
+    * Fix crash when room messages are orphaned
+    * Add toggle to allow database passphrase keychain entry to be persisted in encrypted iTunes backups to allow for better experience when restoring a backup to a new device
+    * Connections are more likely to be cleanly disconnected during background fetches
+    * Match room occupants to contacts if possible
+    * Remove UserVoice
+    * Update a few dependencies
+    * Show full version number at bottom of Settings
+    * Move 3rd party library license and version information to Settings bundle
+    * Migrate to Swift 4
+    * iPhone X support
+    * Now requires iOS 9 or higher
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.2.0...v4.2.1
+Version 4.2.0 (Oct 24, 2017)
+    # What's new in 4.2.0
+    * Improved group chat reliability
+    * Media sharing in group chats (unencrypted only)
+    * Redesigned group participants view
+    * Improve performance of chat view. Thanks @stigger!
+    * Bug fixes and refactoring
+    * Tor 0.3.0.11
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.1.0...v4.2.0
+Version 4.1.0 (Jun 30, 2017)
+    # What's new in 4.1.0
+    * XEP-0363: HTTP Upload support for much faster and reliable media messaging. [1]
+    * XEP-0352: Client State Indication. Helps reduce network usage when running in the background.
+    * End-to-end encryption for file transfers in OMEMO or OTR sessions [2].
+    * Inline media previews for incoming URLs. (Optional)
+    * Bug fixes and refactoring.
+    * Tor 0.3.0.9
+
+    # Caveats
+    * Your server administrator must enable support for XEP-0363. See mod_http_upload for Prosody [3] and ejabberd [4] for more details.
+    * Encrypted file transfer is required in OMEMO/OTR, but has limited compatibility for receiving clients. Users on the other end will receive `aesgcm://` links [2].
+    * Inline media previews are enabled by default, but can be disabled on a per-account basis. This feature should be disabled if you have extreme privacy concerns or do not trust your contacts. This setting is always disabled for Tor accounts.
+
+    1. https://xmpp.org/extensions/xep-0363.html
+    2. https://github.com/iNPUTmice/ImageDownloader
+    3. https://modules.prosody.im/mod_http_upload.html
+    4. https://docs.ejabberd.im/admin/configuration/#mod-http-upload
+    5. https://xmpp.org/extensions/xep-0352.html
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.9...v4.1.0
+Version 4.0.9 (May 20, 2017)
+    What's new in v4.0.9:
+    * **NEW**: Now you can support continued development via in-app purchase. Help make developing free and open source privacy tools sustainable!
+    * Partial fix for bug where keyboard covers chat area
+
+    What's new in v4.0.8:
+
+    * DuckDuckGo is shutting down their server in early May! If your account ends in `@dukgo.com` you need to migrate to a new server ASAP!
+    * **NEW**: Account migration tool. Automatically create new account, move existing contacts, archive old conversations, and optionally notify old contacts of new account info.
+    * **NEW**: Inbox / Archive. In addition to swipe-to-delete, there is now swipe-to-archive, which allows decluttering the inbox without deleting conversation history.
+    * Fix a nasty bug introduced in 4.0.7 that could prevent OMEMO sessions from working. If your outgoing OMEMO messages were no longer getting delivery receipts, send some messages back and forth and it should fix the issue. When you receive an undecipherable message it will clear the session, which allows the session to be re-initiated on your next outgoing message.
+    * Improve discoverability of group chat by replacing icon with "Group Chat"
+    * Join existing group chats
+    * Show icons to indicate media in conversation list message preview, and show warning if message had an error.
+    * Disable deadlock detector because it was causing crashes on slower devices
+    * Now available in France!
+
+    What's new in v4.0.7:
+
+    * Fix issue receiving short OMEMO messages from users of the Conversations app
+    * Partially fix issue where invalid OMEMO bundles are published
+    * Deadlock detector: If the app is frozen, please wait ~20 seconds for it to crash, then relaunch and submit a crash report.
+    * Remove Dukgo from server list because their server will be shutting down soon. See https://twitter.com/cfarivar/status/852193164207063040
+    * Add additional public community servers to list. Full list here: https://github.com/ChatSecure/xmpp-server-list
+    * home.zom.im is now the default server for new account registrations
+    * Adding/removing contacts while temporarily disconnected is more reliable
+    * Update Catalan translation
+
+    What's new in v4.0.6:
+
+    * Fix crash affecting iOS 8 & 9 devices
+
+    What's new in v4.0.5:
+
+    * Shows notifications for incoming requests and outgoing approvals
+    * Displays idle status / last activity in the title bar, for instance "Active 10 min ago". This keeps track of the last time you interact with the app, and will report this value when queried by your contacts. The time you last interacted with the app is identical for all of your accounts, so broadcasting this value is disabled for Tor accounts and when auto-login disabled.
+    * Fixes a crash when viewing your account details on iOS 8 devices
+    * Fix issues with contacts that get stuck as "Pending Approval"
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.6...v4.0.7
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.5...v4.0.6
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.4...v4.0.5
+Version 4.0.8 (May 11, 2017)
+    What's new in v4.0.8:
+
+    * DuckDuckGo is shutting down their server in early May! If your account ends in `@dukgo.com` you need to migrate to a new server ASAP!
+    * **NEW**: Account migration tool. Automatically create new account, move existing contacts, archive old conversations, and optionally notify old contacts of new account info.
+    * **NEW**: Inbox / Archive. In addition to swipe-to-delete, there is now swipe-to-archive, which allows decluttering the inbox without deleting conversation history.
+    * Fix a nasty bug introduced in 4.0.7 that could prevent OMEMO sessions from working. If your outgoing OMEMO messages were no longer getting delivery receipts, send some messages back and forth and it should fix the issue. When you receive an undecipherable message it will clear the session, which allows the session to be re-initiated on your next outgoing message.
+    * Improve discoverability of group chat by replacing icon with "Group Chat"
+    * Join existing group chats
+    * Show icons to indicate media in conversation list message preview, and show warning if message had an error.
+    * Disable deadlock detector because it was causing crashes on slower devices
+    * Now available in France!
+
+    What's new in v4.0.7:
+
+    * Fix issue receiving short OMEMO messages from users of the Conversations app
+    * Partially fix issue where invalid OMEMO bundles are published
+    * Deadlock detector: If the app is frozen, please wait ~20 seconds for it to crash, then relaunch and submit a crash report.
+    * Remove Dukgo from server list because their server will be shutting down soon. See https://twitter.com/cfarivar/status/852193164207063040
+    * Add additional public community servers to list. Full list here: https://github.com/ChatSecure/xmpp-server-list
+    * home.zom.im is now the default server for new account registrations
+    * Adding/removing contacts while temporarily disconnected is more reliable
+    * Update Catalan translation
+
+    What's new in v4.0.6:
+
+    * Fix crash affecting iOS 8 & 9 devices
+
+    What's new in v4.0.5:
+
+    * Shows notifications for incoming requests and outgoing approvals
+    * Displays idle status / last activity in the title bar, for instance "Active 10 min ago". This keeps track of the last time you interact with the app, and will report this value when queried by your contacts. The time you last interacted with the app is identical for all of your accounts, so broadcasting this value is disabled for Tor accounts and when auto-login disabled.
+    * Fixes a crash when viewing your account details on iOS 8 devices
+    * Fix issues with contacts that get stuck as "Pending Approval"
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.6...v4.0.7
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.5...v4.0.6
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.4...v4.0.5
+Version 4.0.7 (Apr 18, 2017)
+    What's new in v4.0.7:
+
+    * Fix issue receiving short OMEMO messages from users of the Conversations app
+    * Partially fix issue where invalid OMEMO bundles are published
+    * Deadlock detector: If the app is frozen, please wait ~20 seconds for it to crash, then relaunch and submit a crash report.
+    * Remove Dukgo from server list because their server will be shutting down soon. See https://twitter.com/cfarivar/status/852193164207063040
+    * Add additional public community servers to list. Full list here: https://github.com/ChatSecure/xmpp-server-list
+    * home.zom.im is now the default server for new account registrations
+    * Adding/removing contacts while temporarily disconnected is more reliable
+    * Update Catalan translation
+
+    What's new in v4.0.6:
+
+    * Fix crash affecting iOS 8 & 9 devices
+
+    What's new in v4.0.5:
+
+    * Shows notifications for incoming requests and outgoing approvals
+    * Displays idle status / last activity in the title bar, for instance "Active 10 min ago". This keeps track of the last time you interact with the app, and will report this value when queried by your contacts. The time you last interacted with the app is identical for all of your accounts, so broadcasting this value is disabled for Tor accounts and when auto-login disabled.
+    * Fixes a crash when viewing your account details on iOS 8 devices
+    * Fix issues with contacts that get stuck as "Pending Approval"
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.6...v4.0.7
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.5...v4.0.6
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.4...v4.0.5
+Version 4.0.6 (Mar 30, 2017)
+    What's new in v4.0.6:
+
+    * Fix crash affecting iOS 8 & 9 devices
+
+    What's new in v4.0.5:
+
+    * Shows notifications for incoming requests and outgoing approvals
+    * Displays idle status / last activity in the title bar, for instance "Active 10 min ago". This keeps track of the last time you interact with the app, and will report this value when queried by your contacts. The time you last interacted with the app is identical for all of your accounts, so broadcasting this value is disabled for Tor accounts and when auto-login disabled.
+    * Fixes a crash when viewing your account details on iOS 8 devices
+    * Fix issues with contacts that get stuck as "Pending Approval"
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.5...v4.0.6
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.4...v4.0.5
+Version 4.0.5 (Mar 27, 2017)
+    What's new in v4.0.5:
+
+    * Shows notifications for incoming requests and outgoing approvals
+    * Displays idle status / last activity in the title bar, for instance "Active 10 min ago". This keeps track of the last time you interact with the app, and will report this value when queried by your contacts. The time you last interacted with the app is identical for all of your accounts, so broadcasting this value is disabled for Tor accounts and when auto-login disabled.
+    * Fixes a crash when viewing your account details on iOS 8 devices
+    * Fix issues with contacts that get stuck as "Pending Approval"
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.4...v4.0.5
+Version 4.0.4 (Mar 22, 2017)
+    What's new in v4.0.4:
+
+    * Added an account detail view
+    * New view to help troubleshoot and fix push issues
+    * View XMPP server capabilities information
+    * Redesigned account cell on Settings screen
+    * Fixes push notification registration on ejabberd 17.01 and Prosody 0.10
+    * Refactoring to help make push registration more reliable
+    * Small bug fixes
+    * Now using Swift 3
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.3...v4.0.4
+Version 4.0.3 (Feb 8, 2017)
+    What's new in v4.0.3:
+
+    * Add back presence information (by popular request)
+    * Improve display of nicknames
+    * Show contact's JID below their nickname instead of your own
+    * Removes stream resumption timeout (XEP-0198)
+    * Update dependencies (includes OpenSSL 1.0.2k)
+    * Update translations (Greek, Slovak)
+    * Other minor bug fixes
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.2...v4.0.3
+
+    What's new in v4.0.2:
+
+    * Fix Pending Approval bug
+    * Fix audio message 0:00 duration bug
+    * Always show Compose button if you have at least one account
+    * Update Translations (French)
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.1...v4.0.2
+
+    What's new in v4.0.1:
+
+    * Fix pending subscription for approved contacts
+    * Fix removal of pending contacts
+    * Fix removing account UI update
+    * Fix stream resumption for stream management (XEP-0198)
+    * Improve handling of message carbons (XEP-0280)
+    * Move presence info to profile screen
+    * Fix possible deadlock
+    * Tor 0.2.9.9
+    * Update Translations (German, Spanish)
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0...v4.0.1
+
+    What's new in v4.0:
+
+    * OMEMO Encryption [1]
+    * Profile screen that shows contact's OMEMO and OTR fingerprints
+    * In-app notifications on iOS 10
+    * Outgoing message queue for improved reliability
+    * Resend any outgoing message
+    * Automatic selection of best available encryption with manual override per contact
+    * TOFU (trust on first use) for OTR and OMEMO fingerprints
+    * Easily share and compare OMEMO and OTR fingerprints
+    * Keeps screen awake while device is plugged in and app in foreground
+    * Improve reliability of audio messages
+    * Slightly longer XEP-0198 timeout
+    * Fixes multiple group chat bugs
+    * Significantly improves database performance
+    * Many more bug fixes and performance improvements [2]
+
+    1. https://en.wikipedia.org/wiki/OMEMO
+    2. https://github.com/chatsecure/chatsecure-ios/compare/v3.2.3...v4.0
+Version 4.0.2 (Jan 26, 2017)
+    What's new in v4.0.2:
+
+    * Fix Pending Approval bug
+    * Fix audio message 0:00 duration bug
+    * Always show Compose button if you have at least one account
+    * Update Translations (French)
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0.1...v4.0.2
+
+    What's new in v4.0.1:
+
+    * Fix pending subscription for approved contacts
+    * Fix removal of pending contacts
+    * Fix removing account UI update
+    * Fix stream resumption for stream management (XEP-0198)
+    * Improve handling of message carbons (XEP-0280)
+    * Move presence info to profile screen
+    * Fix possible deadlock
+    * Tor 0.2.9.9
+    * Update Translations (German, Spanish)
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0...v4.0.1
+
+    What's new in v4.0:
+
+    * OMEMO Encryption [1]
+    * Profile screen that shows contact's OMEMO and OTR fingerprints
+    * In-app notifications on iOS 10
+    * Outgoing message queue for improved reliability
+    * Resend any outgoing message
+    * Automatic selection of best available encryption with manual override per contact
+    * TOFU (trust on first use) for OTR and OMEMO fingerprints
+    * Easily share and compare OMEMO and OTR fingerprints
+    * Keeps screen awake while device is plugged in and app in foreground
+    * Improve reliability of audio messages
+    * Slightly longer XEP-0198 timeout
+    * Fixes multiple group chat bugs
+    * Significantly improves database performance
+    * Many more bug fixes and performance improvements [2]
+
+    1. https://en.wikipedia.org/wiki/OMEMO
+    2. https://github.com/chatsecure/chatsecure-ios/compare/v3.2.3...v4.0
+Version 4.0.1 (Jan 25, 2017)
+    What's new in v4.0.1:
+
+    * Fix pending subscription for approved contacts
+    * Fix removal of pending contacts
+    * Fix removing account UI update
+    * Fix stream resumption for stream management (XEP-0198)
+    * Improve handling of message carbons (XEP-0280)
+    * Move presence info to profile screen
+    * Fix possible deadlock
+    * Tor 0.2.9.9
+    * Update Translations (German, Spanish)
+
+    Changelog: https://github.com/chatsecure/chatsecure-ios/compare/v4.0...v4.0.1
+
+    What's new in v4.0:
+
+    * OMEMO Encryption [1]
+    * Profile screen that shows contact's OMEMO and OTR fingerprints
+    * In-app notifications on iOS 10
+    * Outgoing message queue for improved reliability
+    * Resend any outgoing message
+    * Automatic selection of best available encryption with manual override per contact
+    * TOFU (trust on first use) for OTR and OMEMO fingerprints
+    * Easily share and compare OMEMO and OTR fingerprints
+    * Keeps screen awake while device is plugged in and app in foreground
+    * Improve reliability of audio messages
+    * Slightly longer XEP-0198 timeout
+    * Fixes multiple group chat bugs
+    * Significantly improves database performance
+    * Many more bug fixes and performance improvements [2]
+
+    1. https://en.wikipedia.org/wiki/OMEMO
+    2. https://github.com/chatsecure/chatsecure-ios/compare/v3.2.3...v4.0
+Version 4.0 (Jan 17, 2017)
+    What's new in v4.0:
+
+    * OMEMO Encryption [1]
+    * Profile screen that shows contact's OMEMO and OTR fingerprints
+    * In-app notifications on iOS 10
+    * Outgoing message queue for improved reliability
+    * Resend any outgoing message
+    * Automatic selection of best available encryption with manual override per contact
+    * TOFU (trust on first use) for OTR and OMEMO fingerprints
+    * Easily share and compare OMEMO and OTR fingerprints
+    * Keeps screen awake while device is plugged in and app in foreground
+    * Improve reliability of audio messages
+    * Slightly longer XEP-0198 timeout
+    * Fixes multiple group chat bugs
+    * Significantly improves database performance
+    * Many more bug fixes and performance improvements [2]
+
+    1. https://en.wikipedia.org/wiki/OMEMO
+    2. https://github.com/chatsecure/chatsecure-ios/compare/v3.2.3...v4.0
+Version 3.2.3 (Jul 25, 2016)
+    v3.2.3 changes:
+    * XMPP push for supported servers (XEP-0357)
+    * Improved subscription requests UI
+    * Basic vCard nickname support
+    * Fix issues with missing messages during stale OTR sessions
+    * Improved IPv6 support for NAT64/DNS64
+    * Fix some issues with presence/availability
+    * Added button to view your password
+    * Fix issue where message view would appear multiple times
+    * Automatically start OTR sessions when contact is online
+    * Send error messages back to contact when messages cannot be decrypted
+Version 3.2.2 (Apr 29, 2016)
+    * Fix crashes and UI issues caused by asynchronous database initialization
+    * Improved contact search when starting a new conversation (also now with less crashes)
+    * Fix crash when sharing account on iPad
+    * Update Italian translation
+    * Fix multiple Knocks and improve reliability
+    * Don't send delivery receipts if decryption fails
+    * Update 3rd party dependencies
+Version 3.2.1 (Apr 22, 2016)
+    * Fix bug causing 73% of all crashes
+    * Fix issues with Google Talk logins
+    * Fix other crashes and bugs
+    * Faster startup times
+    * Slightly improved UI on iPad
+Version 3.2 (Apr 14, 2016)
+    New in v3.2:
+
+    * Push: You can now briefly wake up offline ChatSecure iOS contacts via the "Knock" button. The Knock button will replace the Send button when no text is entered, you've previously established an OTR session with a Push-compatible contact, and the contact is offline.
+
+    We would appreciate feedback on the UX of this design, which we know acts very differently from centralized messaging apps. There are plans to improve this experience when connected to servers supporting XEP-0357, which will allow any contact to wake your client.
+
+    * Group Chat: You can now start and join group chats. End-to-end encryption is planned but not yet supported.
+
+    * Onboarding: When starting the app for the first time, or adding a new account, there is a new onboarding flow to help simplify setup for new users.
+
+    * Under the hood: Many changes that should improve performance and reliability.
+Version 3.1.3 (Mar 9, 2016)
+    Updated the following dependencies:
+
+    * libotr 4.1.1
+    * libgcrypt 1.6.5
+    * libgpg-error 1.21
+    * tor 0.2.7.6
+    * OpenSSL 1.0.2g
+Version 3.1.2 (Aug 4, 2015)
+    # Version 3.1.2
+
+    * Bug fixes
+    * Translation updates
+    * Tor 0.2.6.10
+    * Changelog: https://github.com/ChatSecure/ChatSecure-iOS/compare/v3.1.1...v3.1.2
+Version 3.1.1 (May 31, 2015)
+    Bug fixes.
+
+    Full changelog: https://github.com/ChatSecure/ChatSecure-iOS/issues?q=milestone:3.1.1+is:closed
+Version 3.1 (May 18, 2015)
+    # Version 3.1
+
+    * Media messaging via OTRDATA
+    * Media storage inside IOCipher container
+    * Better UX for connection status
+    * Bug fixes
+    * Tor 0.2.6.7, OpenSSL 1.0.2a, Libevent 2.0.22-stable
+    * Removes Facebook support (sorry!) - https://developers.facebook.com/docs/chat
+Version 3.0 (Jan 5, 2015)
+    ## Version 3.0
+    * Message archiving with SQLCipher support
+    * Tor support for XMPP
+    * XMPP account creation
+    * Updated UI for iOS 8 and new iPhones
+    * Major internal refactoring
+
+
+Version 2.2.4 (Mar 18, 2014)
+    * Require TLS for all XMPP connections
+Version 2.2.3 (Mar 11, 2014)
+    * Fix SSL pinning
+
+    * Fix missing chat view on iOS 6
+Version 2.2.2 (Mar 6, 2014)
+    * Crash fixes
+
+    * Show warning when running on insecure iOS versions
+
+
+
+    Full changelog: https://github.com/chrisballinger/Off-the-Record-iOS/compare/v2.2.1...v2.2.2
+Version 2.2.1 (Feb 27, 2014)
+    * Remove AIM support (sorry!)
+    * Crash fixes
+    * Minor UI fixes
+    * Updated localizations
+    * Security improvements
+
+    Full changelog: https://github.com/chrisballinger/Off-the-Record-iOS/compare/v2.2...v2.2.1
+Version 2.2 (Jan 22, 2014)
+    * XMPP: SSL Certificate Pinning
+
+    * XMPP: Support for non-standard root CAs like CACert to support jabber.ccc.de
+
+    * XMPP: Better support for self-signed SSL certificates via certificate pinning
+
+    * Support auto-login for accounts
+
+    * User interface improvements
+
+    * Security improvements
+
+    * Internal refactoring and code cleanup
+
+    * Fix many crashes
+
+    * Update 3rd party libraries
+Version 2.1.2 (Nov 15, 2013)
+    * Fix Facebook login issues
+
+    * Fix non-Gmail Google Apps for Domain login issues
+
+    * Fix issue with erroneous SSL validation error
+
+    * Fix missing keyboard / chat input area
+
+    * Fix crash when quickly switching between buddies
+
+    * Fix 100% CPU usage bug
+Version 2.1.1 (Nov 11, 2013)
+    * Localization updates
+
+    * Fixes for delivery receipts
+
+    * Fix OTR negotiation with ChatSecure-Android
+
+    * Opportunistic OTR support
+
+    * iOS 6 Sharing Sheet
+
+    * Fix Facebook account disconnection crash
+
+    * Fix QR code sharing
+
+    * Fix XMPP SSL hostname mismatch and self-signed cert switches
+
+    * Fix various UI bugs
+
+
+
+    Full changelog: https://github.com/chrisballinger/Off-the-Record-iOS/compare/v2.1...v2.1.1
+Version 2.1 (Oct 30, 2013)
+    - iOS 7 Support!
+    - Bug Fixes
+    - Security improvements
+    - Added OAuth Support for GTalk & Facebook
+    - 2-factor Authentication support for GTalk accounts
+    - Fixes Facebook login errors (now requires OAuth)
+    - Updated localizations
+    - Asynchronous OTR private key generation
+    - Replace Crittercism with HockeySDK for open source opt-in crash reporting
+
+    Note: For GTalk and Facebook accounts you'll need to reauthorize using OAuth instead of username & password.
+
+    Full changelog: https://github.com/chrisballinger/Off-the-Record-iOS/compare/v2.0.1...v2.1
+Version 2.0.1 (Jun 28, 2013)
+    2.0.1
+    =========
+    - Attempt to fix some of the new crashes introduced in v2.0.
+    - If you would like to be a beta tester to help improve ChatSecure, please sign up with TestFlight: http://tflig.ht/11zy6ZW
+
+    2.0
+    =========
+    - New UI design
+    - Updated translations
+    - Major internal changes that will make the app easier to improve in the future
+    - Add buddies
+    - Search buddy list
+    - Groups
+    - View buddy info on long press
+Version 2.0 (Jun 4, 2013)
+    - New UI design
+    - Updated translations
+    - Major internal changes that will make the app easier to improve in the future
+    - Add buddies
+    - Search buddy list
+    - Groups
+    - View buddy info on long press
+Version 1.5.2 (Feb 15, 2013)
+    * Add UserVoice support forum
+
+    * Add Donate Button (yay!)
+
+    * Update Translations
+
+    * Add advanced XMPP security options (allow plaintext auth, require TLS)
+Version 1.5.1 (Jan 2, 2013)
+    * Fixes crash on launch bug
+
+    * Fixes language switcher not working
+Version 1.5 (Dec 14, 2012)
+    * Better fingerprint verification
+    * In-app localization switching for languages not supported by iOS natively (e.g. Tibetan)
+    * Update translations
+    * Minor UI improvements
+    * Remove all references to a certain company's trademarks
+    * Update XMPPFramework (might fix connection issues to custom XMPP servers)
+Version 1.4 (Nov 5, 2012)
+    * Redesigned login view to be more flexible and extensible
+    * Added a port field to assist in connection to custom XMPP servers
+    * Try to fix a crash associated with Oscar logins
+    * Implemented two new optional XMPP features:
+    1) XEP-0085: Chat State Notifications
+    2) XEP-0184: Message Delivery Receipts
+Version 1.3 (Sep 24, 2012)
+    * Multiple simultaneous account support! (Facebook, GTalk, AIM, XMPP)
+    * Option to remember account passwords in iOS keychain
+    * User interface improvements
+    * Many, many bug fixes
+    * Upgrade to libotr 4.0.0
+    * iOS 6 and iPhone 5 support
+    * Removes support for armv6 devices and now has a minimum requirement of iOS 4.3. Sorry!
+Version 1.2 (Jun 2, 2012)
+    Check out the full changelog here: https://github.com/chrisballinger/Off-the-Record-iOS/commits/v1.2
+
+    === Background messaging support ===
+    * You can receive messages in the background for 10 minutes.
+
+    === Localizations ===
+    * Feel free to contribute a translation if it is incomplete or missing: https://www.transifex.net/projects/p/chatsecure/
+
+    === Settings panel ===
+    * Choose your font size!
+
+    === Share ===
+    * Share a link to the app via SMS, E-mail or QR-code.
+
+    === Bug fixes ===
+    * Let us know if you find any bugs by using Github Issues. Please contact us directly for anything security related.
+Version 1.1 (Apr 4, 2012)
+    Full changelog here: https://github.com/chrisballinger/Off-the-Record-iOS/commits/v1.1
+    * (Retina) iPad support!
+    * Many bug fixes
+    * Converted to ARC
+    * Update XMPPFramework, MBProgressHUD
+    * Remove DTCoreText
+Version 1.0.2 (Mar 6, 2012)
+    * Added option to save username
+    * Fix some issues when sending/receiving messages over XMPP
+    * Multiline chat input
+    * Better behavior when receiving messages
+    * Add Initiate OTR button
+
+    Full changelog here: https://github.com/chrisballinger/Off-the-Record-iOS/commits/v1.0.2
+Version 1.0.1 (Dec 22, 2011)
+    * Attempt to fix an issue where AIM buddies did not appear
+    * Redesigned buddy list
+Version 1.0 (Dec 17, 2011)
+
+Users may also like
+Select objects to compare
+Monal - XMPP chat
+Siskin IM
+Snikket
+FluffyChat
+SimpleX Chat: secure messenger
+IM+ Instant Messenger
+Kedr
+Skred Messenger
+Tok - Encrypted Messaging
+KeeperChat Encrypted Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.0.4
+    Current release
+    Aug 10, 2021
+    5.0.3
+    Jan 15, 2021
+    5.0.2
+    Apr 16, 2020
+    5.0.1
+    Feb 17, 2020
+    5.0
+    Feb 16, 2020
+    4.3.9
+    Aug 1, 2019
+    4.3.8
+    Jul 16, 2019
+    4.3.7
+    Apr 22, 2019
+    4.3.6
+    Dec 11, 2018
+    4.3.5
+    Oct 19, 2018
+    4.3.4
+    Jul 23, 2018
+    4.3.3
+    Jul 15, 2018
+    4.3.2
+    Jul 13, 2018
+    4.3.1
+    Jul 12, 2018
+    4.3.0
+    Apr 10, 2018
+    4.2.1
+    Nov 7, 2017
+    4.2.0
+    Oct 24, 2017
+    4.1.0
+    Jun 30, 2017
+    4.0.9
+    May 20, 2017
+    4.0.8
+    May 11, 2017
+    4.0.7
+    Apr 18, 2017
+    4.0.6
+    Mar 30, 2017
+    4.0.5
+    Mar 27, 2017
+    4.0.4
+    Mar 22, 2017
+    4.0.3
+    Feb 8, 2017
+    4.0.2
+    Jan 26, 2017
+    4.0.1
+    Jan 25, 2017
+    4.0
+    Jan 17, 2017
+    3.2.3
+    Jul 25, 2016
+    3.2.2
+    Apr 29, 2016
+    3.2.1
+    Apr 22, 2016
+    3.2
+    Apr 14, 2016
+    3.1.3
+    Mar 9, 2016
+    3.1.2
+    Aug 4, 2015
+    3.1.1
+    May 31, 2015
+    3.1
+    May 18, 2015
+    3.0
+    Jan 5, 2015
+    2.2.4
+    Mar 18, 2014
+    2.2.3
+    Mar 11, 2014
+    2.2.2
+    Mar 6, 2014
+    2.2.1
+    Feb 27, 2014
+    2.2
+    Jan 22, 2014
+    2.1.2
+    Nov 15, 2013
+    2.1.1
+    Nov 11, 2013
+    2.1
+    Oct 30, 2013
+    2.0.1
+    Jun 28, 2013
+    2.0
+    Jun 4, 2013
+    1.5.2
+    Feb 15, 2013
+    1.5.1
+    Jan 2, 2013
+    1.5
+    Dec 14, 2012
+    1.4
+    Nov 5, 2012
+    1.3
+    Sep 24, 2012
+    1.2
+    Jun 2, 2012
+    1.1
+    Apr 4, 2012
+    1.0.2
+    Mar 6, 2012
+    1.0.1
+    Dec 22, 2011
+    1.0
+    Dec 17, 2011
+
+See More
+Top In-App Purchases
+
+    $2.99 Donation
+    $2.99
+    $5.99 Donation
+    $5.99
+    $9.99 Donation
+    $9.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Dec 17, 2011
+
+Worldwide Release Date
+    Dec 17, 2011
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    5.0.4
+
+Size
+    35.38 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Catalan, Danish, Dutch, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Norwegian Bokmål, Persian, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Slovak, Slovenian, Spanish, Swedish, Tibetan, Traditional Chinese, Turkish, Uzbek, Vietnamese
+
+Seller
+    Chris Ballinger
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.chrisballinger.ChatSecure
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 464200063
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+ChatSecure Messenger | data.ai

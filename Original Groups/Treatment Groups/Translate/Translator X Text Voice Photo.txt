@@ -1,0 +1,409 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Translator X: Text Voice Photo
+SkyPawTravel (Applications)Free
+Alerts
+
+    Translator X: Text Voice Photo
+    Translator X: Text Voice Photo
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Translator X: Text Voice Photo
+Type, Speak, Snap & Translate
+Travel (Applications)
+Free
+App Promotional Text
+"Translator X" is a powerful translation app that instantly supports image, voice, and text interpretations with +100 written and +54 spoken languages.
+App Description
+"Translator X" will help you communicate freely and effectively at any time wherever you go.
+
+Our app is a must-have tool for tourists or business travelers, and thus wish to communicate in local languages at the airport, the hotel, or famous places. All you need is to type, say or snap a photo of any phrase in your mother tongue, and the app will automatically recognize, interpret, and pronounce the translation out loud, on the fly! Our app can also turn into a language supporting tool for those who want to learn new phrases and listen to the accurate pronunciation.
+
+We show you how to get the most out of all the features and the top-notch technology used in Translator X.
+
+How the CAMERA OBJECT mode works:
+- Take a photo of an object via camera
+- See the name of the object automatically recognized in the captured image
+- Get the translation into your target language
+- Listen to the pronunciation
+
+How the CAMERA IMAGE mode works:
+- Take a photo of printed text via camera
+- See the printed text automatically recognized in the captured image
+- Get the translation into your target language
+- Listen to the pronunciation
+
+How the VOICE mode works:
+- Speak a phrase in your language via a microphone
+- See the text automatically recognized
+- Get the translation into your target language
+- Listen to the pronunciation
+
+How the TEXT mode works:
+- Type a text in your language via keyboard
+- Get the translation into your target language
+- Listen to the pronunciation
+
+FEATURES:
+- Apple Speech Recognition Technology allows converting Speech-to-Text in real-time, ensures maximum translation speed
+- 115 languages for Text-to-Text translations
+- 39 languages for Speech-to-Speech translations
+- 74 languages for Speech-to-Text translations
+- Built-in offline voices without Internet connection needs: help reduce traffic usage and faster translation
+- Smart & intuitive History log tapes to save conversations & translations. It can also be used as a phrasebook to store your favorite phrases & conversations
+- iCloud support to sync all history log tapes across all your Apple devices
+- Log tapes can be editable
+- Copy to clipboard, Paste & Share log tapes
+- Export all History log tapes via Email, SMS, Notes, etc
+- Configurable settings: male or female voice, voice speed, auto-detect end of the speech, auto speak out loud after translation
+
+NOTES:
+* Translation, Speech Recognition and Text-to-Speech services provided by Google Translate™
+
+* Voice to Voice translations support:
+Arabic, Basque, Catalan, Chinese (Cantonese, Mandarin, Taiwan), Czech, Danish, Dutch (The Netherlands), English (Australian, Canada, India, UK, US), Finnish, French, French (Canada), Galician, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Moldavian, Norwegian, Polish, Portuguese, Portuguese (Brazil), Romanian, Russian, Slovak, Spanish, Spanish (Mexican), Swedish, Thai, Turkish.
+
+* Voice to Text translations support:
+Afrikaans, Bulgarian, Croatian, Filipino, Icelandic, Latin, Lithuanian, Malay, Persian, Serbian, Slovenian, Ukrainian, Vietnamese, Zulu.
+
+SUBSCRIPTION:
+* Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. Subscriptions with a free trial period will automatically renew to a paid subscription. You can cancel your subscription or free trial in the iTunes settings at least 24-hours before the end of the free trial period. The cancellation will take effect the day after the last day of the current subscription period, and thus you will be downgraded to the free service.
+
+* Please note: any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period.
+* Privacy Policy: http://www.skypaw.com/translatorx/privacy_policy.html
+* EULA: http://www.skypaw.com/translatorx/terms.html
+Ratings
+Displayed Avg Ratings
+4.47
+Total Displayed Ratings
+7.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.4.0 (Sep 21, 2023)
+    Thanks for using Translator X! Here's what's new for the version 4.4.0:
+    ● Fix an UI issue where copy icon is missing
+    ● Support new devices and iOS
+    ● Upgrade components
+    ● Various improvements & bug fixes
+Version 4.3.0 (Feb 15, 2023)
+    Thanks for using Translator X! Here's what's new for the version 4.3.1:
+    ● Add 24 new languages
+    ● Fix an issue where some views may have incorrect rotation
+    ● Support new devices
+    ● Upgrade components
+    ● Various improvements & bug fixes
+Version 4.2.1 (Jun 9, 2022)
+    Thanks for using Translator X! Here's what's new for the version 4.2.1:
+
+    ● Support new devices
+    ● Upgrade components
+    ● Various improvements & bug fixes
+Version 4.2.0 (Oct 9, 2021)
+    Thanks for using Translator X! Here's what's new for the version 4.2.0:
+
+    ● Add more languages: Turkmen, Uyghur, Tatar, Odia, Kinyarwanda
+    ● Support text-to-speech and speech-to-text functionality for some languages
+    ● Add 'Search' functionality when selecting language
+    ● Improve Camera OCR mode
+    ● Upgrade components
+    ● Various improvements & bug fixes
+Version 4.1.0 (May 13, 2021)
+    Thanks for using Translator X! Here's what's new for the version 4.1.0:
+    ● We listen to your feedback and completely remove all ads without premium upgrade
+    ● Fix an issue where swapping languages does not change flags and texts accordingly
+    ● Upgrade components
+    ● Various improvements & fixes
+Version 4.0.1 (Dec 27, 2020)
+    Thanks for using Translator X! Here's what's new for the version 4.0.1:
+    ● Upgrade components
+    ● Various minor fixes & performance improvements
+Version 4.0.0 (Dec 4, 2020)
+    Thanks for using Translator X! Here's what's new for the version 4.0.0:
+    ● Widgets support: shortcut widget and history data widget
+    ● Components upgrade
+    ● Various minor fixes & performance improvements
+Version 3.0.0 (Sep 22, 2020)
+    Thanks for using Translator X! Here's what's new for the version 3.0.0:
+    ● Support iOS 14
+    ● App Clip: instantly try the app without downloading. Just go into our website or scan our QR code with your iPhone's camera
+    ● Components upgrade
+    ● Several minor fixes & performance improvements
+Version 2.2.4 (Jul 9, 2020)
+    Thanks for using Translator X! Here's what's new for the version 2.2.4:
+    ● Change icon
+    ● Add top ad banner
+    ● Components upgrade
+    ● Several minor fixes & performance improvements
+Version 2.2.3 (Jul 1, 2020)
+    Thanks for using Translator X! Here's what's new for the version 2.2.3:
+    ● Fix ad dislay issue
+    ● Introduce discount price for re-subscribers
+    ● Prevent accidently quitting the app when swiping up at the bottom
+    ● Components upgrade
+    ● Several minor fixes & performance improvements
+Version 2.2.2 (Jun 27, 2020)
+    Thanks for using Translator X! Here's what's new for the version 2.2.2:
+
+    ● Introduce discount price for re-subscribers
+    ● Prevent accidently quitting the app when swiping up at the bottom
+    ● Components upgrade
+    ● Several minor fixes & performance improvements
+Version 2.2.1 (Apr 9, 2020)
+    Thanks for using Translator X! Here's what's new for the version 2.2.1:
+
+    ● Fix an issue where the yearly subsription might be not clear for some users
+    ● Components upgrade
+    ● Several minor fixes & performance improvements
+Version 2.2.0 (Mar 27, 2020)
+    Thanks for using Translator X! Here's what's new for the version 2.2.0:
+
+    ● Change icon
+    ● Add language picker button to the main screen
+    ● Add sonar effect to mic button
+    ● Components upgrade
+    ● Several minor fixes & performance improvements
+Version 2.1.2 (Sep 23, 2019)
+    Thanks for using Translator X! Here's what's new for the version 2.1.2:
+
+    ● Support iOS 13 and new Apple devices
+    ● Components upgrade
+    ● Several minor fixes & performance improvements
+Version 2.1.1 (Jul 29, 2019)
+    Thanks for using Translator X! Here's what's new for the version 2.1.1:
+
+    ● Components upgrade
+    ● Several minor fixes & performance improvements
+Version 2.1.0 (Jul 12, 2019)
+    Thanks for using Translator X! Here's what's new for the version 2.1.0:
+
+    ● Fix a critical bug which does not recognize speech and auto convert into text
+    ● Components upgrade
+    ● Various minor fixes & performance improvements
+Version 2.0.0 (Jun 9, 2019)
+    Thanks for using Translator X! Here's what's new for the version 2.0:
+
+    ● Re-design the whole UI of the app
+    ● Introduce tab bar at the bottom
+    ● Introduce subscription plans so that you can try the app without limits for 7 days
+    ● Introduce light and dark themes
+    ● Components upgrade
+    ● Various minor fixes & performance improvements
+Version 1.1.0 (Oct 15, 2018)
+    ● Auto closes language list after choosing a language
+    ● Supports new iPhone and iPad devices
+    ● Supports iOS 12
+    ● Components upgrade
+    ● Various minor fixes & performance improvements
+
+    Thanks for using Translator X! Please be sure to rate this new version and leave us a review on the App Store. Your feedback is greatly appreciated. We're listening to your feedback and working hard to improving Translator X.
+Version 1.0.0 (Jun 7, 2018)
+
+Users may also like
+Select objects to compare
+Camera Photo Translator HD
+Tagalog to English Translator
+Translator App: All Language
+OkTalk: Keyboard Translator
+Translator - Voice Translation
+Translator with Speech
+Speak & Translate by EasyTalk
+Learn Korean - Phrasebook
+Tap & Say - Travel Phrasebook
+Language Exchange Langmatch
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.4.0
+    Current release
+    Sep 21, 2023
+    4.3.0
+    Feb 15, 2023
+    4.2.1
+    Jun 9, 2022
+    4.2.0
+    Oct 9, 2021
+    4.1.0
+    May 13, 2021
+    4.0.1
+    Dec 27, 2020
+    4.0.0
+    Dec 4, 2020
+    3.0.0
+    Sep 22, 2020
+    2.2.4
+    Jul 9, 2020
+    2.2.3
+    Jul 1, 2020
+    2.2.2
+    Jun 27, 2020
+    2.2.1
+    Apr 9, 2020
+    2.2.0
+    Mar 27, 2020
+    2.1.2
+    Sep 23, 2019
+    2.1.1
+    Jul 29, 2019
+    2.1.0
+    Jul 12, 2019
+    2.0.0
+    Jun 9, 2019
+    1.1.0
+    Oct 15, 2018
+    1.0.0
+    Jun 7, 2018
+
+See More
+Top In-App Purchases
+
+    Eliminar anuncios
+    $0.99
+    Monthly Membership
+    $5.99
+    Annual Membership
+    $44.99
+    Weekly Membership
+    $1.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Travel
+
+Initial Release Date
+    Jun 7, 2018
+
+Worldwide Release Date
+    Jun 7, 2018
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    4.4.0
+
+Size
+    37.43 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Español, Alemán, Chino simplificado, Chino tradicional, Coreano, Francés, Inglés, Italiano, Japonés, Neerlandés, Portugués, Vietnamita
+
+Seller
+    SkyPaw Co. Ltd
+
+Company HQ
+    Vietnam
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 11.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    com.skypaw.translator.x
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1276098141
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Translator X: Text Voice Photo | data.ai

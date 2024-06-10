@@ -1,0 +1,355 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+SafeSwiss® Encrypted Messenger
+SafeSwiss Secure CommunicationsSocial Networking (Applications)Free
+Alerts
+
+    SafeSwiss Secure Communications
+
+    SafeSwiss® Encrypted Messenger
+    SafeSwiss® Encrypted Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Oops! Something went wrong! Please try later.
+SafeSwiss® Encrypted Messenger
+Secure Encrypted Text & Voice
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+SafeSwiss®, The World's Best Anonymous Secure Encrypted Chat platform, send pictures, text chat, Video Chat, with proven encryption that utilizes:
+
+o NaCI Protocol
+o ECDH25519 Shared Secret Exchange
+o XSalsa20 Cipher
+o Perfect Forward Secrecy
+o Your unique SafeSwiss® ID contains NO personal detail
+o Device Encryption (No vulnerabilities such as with Cloud-based Architecture)
+o SafeSwiss® Signup requires NO Tel number or email address
+o Complete Ephemeral Messaging with push to delete feature.
+o Delete any message from the sender & recipients device anytime, or pre-set timer to self-destruct any message from 5 seconds to 1 x year after being received.
+o User-defined PIN Protection
+o Group Messaging with an arbitrary number of participants
+o Fully Encrypted VOIP Calls
+o Securely share Pics, Doc’s, Location, Files,Voice Messages, Text Chat, Contacts
+o Backup functionality in order to simplify migration to new device(s) without losing messaging history as well as further user related information
+o Privacy protection by blocking of undesirable contacts
+
+
+SafeSwiss® protects your communications from all outside intervention and enables you to confidently communicate with friends and business associates, knowing your personal communications will always be private “
+
+
+
+SafeSwiss® Ensuring “Your Business Stays Your Business”.
+Ratings
+Displayed Avg Ratings
+3.73
+Total Displayed Ratings
+41
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.1.6 (Feb 15, 2023)
+    - stability improvements
+Version 2.1.5 (Sep 2, 2021)
+    - application stability improved
+Version 2.1.4 (Jul 30, 2021)
+    - Group calls updates
+    - Stability improvements
+Version 2.1.3 (Jul 3, 2021)
+    - stability improvements
+Version 2.1.2 (Nov 13, 2019)
+    - stability improvements
+Version 2.1.1 (Sep 19, 2019)
+    - iOS 13 updates
+Version 2.1 (Aug 25, 2019)
+    - stability improvements
+Version 2.0 (Apr 2, 2019)
+    - UI optimizations for X devices
+    - Touch ID/Face ID support added
+    - landscape mode for chats
+    - many fixes and UI improvements
+Version 1.12.1 (Dec 4, 2018)
+    - stability improvements
+    - CallKit updates for China
+Version 1.12.0 (Sep 12, 2018)
+    - now user can change group chat title and image
+    - UI improvements
+    - stability improvements
+Version 1.11.2 (Jan 26, 2018)
+    - stability improvements
+Version 1.11.1 (Dec 31, 2017)
+    - various stability improvements and fixes
+Version 1.11.0 (Oct 23, 2017)
+    - now you can set your profile name that will be shown as default once someone add you to contact list
+    - updated contacts sharing functionality
+    - compatibility fixes for iOS 8 users
+    - various stability improvements and fixes
+Version 1.10.8 (Oct 6, 2017)
+    - iOS 11 updates
+    - dark theme support added
+    - stability improvements
+Version 1.10.7 (Aug 22, 2017)
+    - added new mechanism for remote deleting of your own chat messages
+    - stability improvements
+Version 1.10.6 (Aug 1, 2017)
+    - new mechanism for changing chat blurb colors
+    - stability improvements
+Version 1.10.5 (Jul 18, 2017)
+    - stability improvements
+    - interface updates and improvements
+Version 1.10.4 (Jun 18, 2017)
+    - application translated to Japanese, Hindi, Chinese Traditional and Chinese Simplified languages
+    - stability improvements
+    - interface updates and improvements
+Version 1.10.3 (May 23, 2017)
+    - interface updates and improvements
+    - stability improvements
+Version 1.10.2 (May 17, 2017)
+    - interface updates and improvements
+    - stability improvements
+Version 1.10.1 (May 9, 2017)
+    - interface updates and improvements
+    - stability improvements
+Version 1.10.0 (May 1, 2017)
+    - interface updates and improvements
+    - stability improvements
+    - updated avatars synchronization
+    - iOS 10 integrated calling system now used (CallKit)
+Version 1.9.1 (Mar 31, 2017)
+    - intrerface updates and improvements
+    - stability improvements
+Version 1.9.0 (Mar 16, 2017)
+    - application updated for big screens (iPhone 6 and higher)
+    - intrerface updates and improvements
+    - stability improvements
+Version 1.8.12 (Mar 1, 2017)
+    - UI updates and improvements
+    - stability improvements
+    - application translated to Spanish, French, Italian, Portuguese, Arabic and Turkish languages
+Version 1.8.11 (Jan 21, 2017)
+    - QR-code based adding of new contacts
+    - stability improvements
+Version 1.8.10 (Jan 16, 2017)
+    - stability improvements
+    - localization improvements
+Version 1.8.9 (Dec 22, 2016)
+    - Ukrainian localization added
+    - stability improvements
+    - localization improvements
+Version 1.8.8 (Dec 20, 2016)
+    - now you can choose up to 10 photos from gallery to send in chat
+    - stability improvements
+    - localization improvements
+Version 1.8.7 (Dec 16, 2016)
+    - registration screen UI updates
+    - stability improvements
+    - localization improvements
+Version 1.8.6 (Dec 9, 2016)
+
+Users may also like
+Select objects to compare
+Kedr
+Siskin IM
+StealthTalk Private Messenger
+Crypviser Secure Messenger
+Monal - XMPP chat
+Snikket
+SimpleX Chat: secure messenger
+Blitz – Secure Chat
+Skred Messenger
+FluffyChat
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Oops! Something went wrong! Please try later.
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.1.6
+    Current release
+    Feb 15, 2023
+    2.1.5
+    Sep 2, 2021
+    2.1.4
+    Jul 30, 2021
+    2.1.3
+    Jul 3, 2021
+    2.1.2
+    Nov 13, 2019
+    2.1.1
+    Sep 19, 2019
+    2.1
+    Aug 25, 2019
+    2.0
+    Apr 2, 2019
+    1.12.1
+    Dec 4, 2018
+    1.12.0
+    Sep 12, 2018
+    1.11.2
+    Jan 26, 2018
+    1.11.1
+    Dec 31, 2017
+    1.11.0
+    Oct 23, 2017
+    1.10.8
+    Oct 6, 2017
+    1.10.7
+    Aug 22, 2017
+    1.10.6
+    Aug 1, 2017
+    1.10.5
+    Jul 18, 2017
+    1.10.4
+    Jun 18, 2017
+    1.10.3
+    May 23, 2017
+    1.10.2
+    May 17, 2017
+    1.10.1
+    May 9, 2017
+    1.10.0
+    May 1, 2017
+    1.9.1
+    Mar 31, 2017
+    1.9.0
+    Mar 16, 2017
+    1.8.12
+    Mar 1, 2017
+    1.8.11
+    Jan 21, 2017
+    1.8.10
+    Jan 16, 2017
+    1.8.9
+    Dec 22, 2016
+    1.8.8
+    Dec 20, 2016
+    1.8.7
+    Dec 16, 2016
+    1.8.6
+    Dec 9, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Dec 9, 2016
+
+Worldwide Release Date
+    Oct 31, 2016
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    2.1.6
+
+Size
+    31.20 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Bosnian, Croatian, French, German, Hindi, Italian, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese, Turkish, Ukrainian
+
+Seller
+    SafeSwiss Secure Communications
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 9.0 or later. Compatible with iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi-Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi‑Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi-Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi-Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, iPod touch (6th generation), and iPod touch (7th generation).
+
+Bundle ID
+    com.safeswiss.prod
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1176312389
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+SafeSwiss® Encrypted Messenger | data.ai

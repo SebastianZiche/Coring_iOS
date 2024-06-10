@@ -1,0 +1,398 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+XNote-infinite boards & notes
+华清 杨Productivity (Applications)Free
+Alerts
+
+    华清 杨
+
+    XNote-infinite boards & notes
+    XNote-infinite boards & notes
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+XNote-infinite boards & notes
+whiteboard and PDF markup
+Productivity (Applications)
+Free
+App Description
+XNote is a passionate app that hopes to slow you down~
+
+XNote combines the ability of using unlimited whiteboards, annotating PDFs and creating notebooks in one, and is easy-to-use
+
+You can use it to jot down inspiration, read professional materials and take daliy notes
+
+In every possible scenario, Xnote wants to give you smooth experience
+
+【simple and understated, relaxing and flexible】
+We made XNote simple and understated, with no complicated buttons and no confusing controls
+All the important features are at a glance and easy to operate
+~ Keep the homepage as default and you'll find most of the files you want to edit
+~ On the homepage, you can drag files directly into folders
+~ You can quickly create a temporary draft with very simple gestures
+~ By clicking the "+" button in the upper right corner, you can easily browse different files and web pages
+~ You can take excerpts at any time while browsing files
+Xnote will become more and more flexible in continuous improvement and iteration
+
+【Pursue the details and control the whole】
+We worked on the XNote like horticulturists, pruning the gaudy leaves and carving the key branches
+You can create folders on the homepage to categorize files
+Highly compatible with the original pen case gives you a silky writing experience
+Text, picture, shape, search, every button is irreplaceable
+You can use the "Search" button to search quickly, and locate the target locator pin with one click
+You can edit and switch shapes at any time
+
+【Sincere enthusiasm, aspirant and hardworking]
+We want XNote to be as sincere and passionate as the people it serves
+We hope that in the classroom, XNote accompanies the students to absorb the essence of knowledge with enthusiasm
+We hope that in life, XNote accompanies people to record the happy moments of their daily life
+We hope that at work, XNote accompanies everyone who strives to record the traces of their struggle
+
+【XNote can】
+Provide unlimited drawing boards allowing your thoughts and inspiration to extend infinitely
+Support finger doodling and the original brush of system, making it more convenient for you to draw
+Support viewing multiple documents simultaneously and inserting pictures, videos, files to enrich your notes
+Create different shapes to help you highlight key messages quickly
+Create locator pins to help you locate your target content
+Support browsing the web, photos and files within the app, helping you integrate internal and external information and study efficiently
+Search for notes quickly
+......
+
+【Easy to share】
+One click export, support for sharing (supports images, PDFs, drafts, and can be shared to guga, goodnotes, notability, collanote, and noteshelf for use)
+
+【Friendly reminder】
+XNote is currently in a high-frequency iteration stage, and we are continuously working on new features, welcome to follow and explore!
+
+【Report the issue】
+Report bugs and crashes to us, and we'll be happy to fix any problem you encounter while using it
+Email address：xnoteapp@163.com
+
+【Contact us】
+What do you expect from XNote, come and chat with us!
+~ Your problems
+~ Your advice
+~ Your expectations
+All of the above can be heared in XNote community
+There are not only users like you, but also our R&D team
+We believe that everyone here will be excited by the spark of inspiration
+Contact our WeChat：li1299033501
+Ratings
+Displayed Avg Ratings
+4.72
+Total Displayed Ratings
+3.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.1.17 (Jul 21, 2023)
+
+
+    Improve the user experience and enhance the fluency when browsing the homepage
+Version 2.1.16 (Jul 17, 2023)
+
+
+
+    Fix the bug that the file list cannot be displayed on the app homepage.
+Version 2.1.15 (Jul 12, 2023)
+
+
+
+    Added PDF table of contents and page bookmarking function.
+    Added iCloud backup logic.
+    Added dark mode background.
+    Fixed crash issues.
+Version 2.1.14 (Jul 6, 2023)
+
+
+
+    Optimize some data storage logic
+Version 2.1.13 (Jul 3, 2023)
+
+
+
+    1.pdf page delete, copy, add blank pages
+    2. Notebook mode size issue fixed
+    3. Optimize the storage logic
+Version 2.1.12 (Jun 21, 2023)
+
+
+    1. Add the hollowing mask function
+    2. Supports component cross-file replication
+    3. Optimize the experience of finger doodling and third-party pen use
+    4. Fix common crashes
+Version 2.1.11 (Jun 12, 2023)
+
+
+    1. Support writing on pdf in finger doodle mode
+    2. Optimize extract accuracy
+    3. Optimize the capture extract ui
+    4. Solve handwriting delay
+    5. Fix existing bugs and common crashes
+Version 2.1.10 (May 31, 2023)
+    1. Optimize the icloud storage logic to solve the problem of note loss after a crash
+    2. Optimize the shape scaling, stretching and rounding adjustment effect
+    3. Record the screen proportion of pdf and whiteboard, add image shadow effect, turn off split screen button, support file movement, etc
+    4 Other details experience optimization
+Version 2.1.9 (May 24, 2023)
+    Fixed frequent flashbacks and crashes
+Version 2.1.7 (May 12, 2023)
+    Optimize the toolbar style
+    Support finger doodle function
+    Optimize the hierarchical relationship between handwriting and controls
+    Solve image editing, positioning needle editing, interception failure and other bugs
+Version 2.1.6 (May 8, 2023)
+    Optimize the parameter adjustment function of highlighter and eraser
+    Optimized pdf note content loading
+    Fixed some bugs in pin title editing, image editing, quick draft creation, etc
+Version 2.1.5 (Apr 30, 2023)
+    The background format of the whiteboard can be changed
+    Supports long-pressing to add controls in pdf
+    You can add a picture by holding down a whiteboard
+    Support shape and text box text selection editing function, you can modify the text style
+    Fixed system pen box bug, file deletion bug, optimized text input experience
+Version 2.1.4 (Apr 25, 2023)
+    Added pdf extract and extract function, extract the picture and extract shape can be located to the original text, come and try it～
+Version 2.1.3 (Apr 15, 2023)
+    The connecting line function is online!
+    You can hold down the whiteboard to add shapes, text boxes, and pictures
+    Adjusted the parameters of some brushes
+    Fixed some known issues
+    Welcome to experience ~
+Version 2.1.2 (Apr 6, 2023)
+    Fix crashes 
+Version 2.1.1 (Apr 4, 2023)
+    1. PDF reading function optimization: modify the toolbar UI, add various brushes, adjust the initial ratio of the whiteboard, and optimize the PDF page turning experience
+    2. Increase PDF page browsing function
+    3. Other detail experience optimization
+Version 2.1.0 (Mar 29, 2023)
+    1.pdf阅读批注功能上线：pdf阅读、基础的手写笔批注、插入形状、插入文本框、插入定位针、进行文本搜索、拓展白板手写内容、拓展白板定位针
+    2.复制功能bug修复
+    3.其他细节体验优化及bug修复
+Version 2.0.5 (Mar 14, 2023)
+    优化了小窗口功能并修复了一些问题~
+Version 2.0.4 (Mar 12, 2023)
+    1.增加内部小窗口浏览功能，支持浏览应用内文件、外部网站、系统相册等
+    2.更换首页新建文件ui设计，配合长按添加文件盒功能，更加美观易用
+    3.增加用户反馈渠道
+    4.增加下拉创建快捷草稿功能
+    5.增加首页长按文件新建文件盒功能5.优化双指滑动、轻点两下pencil切换橡皮擦等细节体验
+Version 2.0.3 (Feb 28, 2023)
+    1.增加了搜索功能，可以快速搜索文字内容，定位到相应元素
+    2.优化定位针的全局定位功能，使用户在各种比例的视图中都能清晰浏览定位针的位置
+    3.优化各种控件元素的使用体验 
+Version 2.0.2 (Feb 17, 2023)
+    * 大幅度优化了体验~建议所有用户更新哦~
+Version 2.0.1 (Feb 14, 2023)
+    * 形状功能大幅增强~
+    * 优化了用户体验~
+    更多惊喜等你去发现哦
+Version 2.0.0 (Jan 31, 2023)
+    * 首页与笔记编辑的UI大改啦, 更加醒目与易用~
+    * 添加了定位针功能, 方便用户的在草稿中定位关键信息.
+    * 更多细节优化与修复, 等你来发现~
+    预告: 下个版本将继续深度更新, 敬请期待~
+Version 1.1.0 (Dec 17, 2022)
+    现在有了我们专属的.xnote文件格式啦~
+    可以在iOS官方的文件App内, 找到我们的Xnote目录进行自由的创作与分享~
+    还有更多细节优化, 等你来发现~
+    * 预告: 下个版本将焕然一新, 脱胎换骨
+
+Users may also like
+Select objects to compare
+BoardNotes - Whiteboard & Note
+OrigNotes
+GUGA-超级白板
+Note X - Notepad
+Notebook : Cute notes
+NoteYebos
+Handwriting Book - Note taking
+无限草稿Lite - 在白板上快速笔记整理
+享做笔记
+BigPaper - Mind Note , PDF
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.1.17
+    Current release
+    Jul 21, 2023
+    2.1.16
+    Jul 17, 2023
+    2.1.15
+    Jul 12, 2023
+    2.1.14
+    Jul 6, 2023
+    2.1.13
+    Jul 3, 2023
+    2.1.12
+    Jun 21, 2023
+    2.1.11
+    Jun 12, 2023
+    2.1.10
+    May 31, 2023
+    2.1.9
+    May 24, 2023
+    2.1.7
+    May 12, 2023
+    2.1.6
+    May 8, 2023
+    2.1.5
+    Apr 30, 2023
+    2.1.4
+    Apr 25, 2023
+    2.1.3
+    Apr 15, 2023
+    2.1.2
+    Apr 6, 2023
+    2.1.1
+    Apr 4, 2023
+    2.1.0
+    Mar 29, 2023
+    2.0.5
+    Mar 14, 2023
+    2.0.4
+    Mar 12, 2023
+    2.0.3
+    Feb 28, 2023
+    2.0.2
+    Feb 17, 2023
+    2.0.1
+    Feb 14, 2023
+    2.0.0
+    Jan 31, 2023
+    1.1.0
+    Dec 17, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 25, 2022
+
+Worldwide Release Date
+    Sep 25, 2022
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    2.1.17
+
+Size
+    42.17 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Danish, French, German, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese, Vietnamese
+
+Seller
+    华清 杨
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.xnote.app
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1644300153
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+XNote-infinite boards & notes | data.ai

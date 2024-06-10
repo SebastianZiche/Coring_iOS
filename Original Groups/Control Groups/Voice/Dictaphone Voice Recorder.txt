@@ -1,0 +1,413 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Dictaphone Voice Recorder
+Dorada AppBusiness (Applications)Free
+Alerts
+
+    Dictaphone Voice Recorder
+    Dictaphone Voice Recorder
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Dictaphone Voice Recorder
+Voice Activated Recorder
+Business (Applications)
+Free
+App Description
+•••• Ad supported. No limited functions. Optionally remove Ads with In App Purchase ••••
+
+Dictaphone Voice Recorder features advanced digital signal processing to give a super clear recording. Direct on-screen feedback for recording levels and voice activation with a realtime graphical representation of the recording.
+
+Recordings are easily bulk exported with iTunes or shared individually on your device. No limits on the size or length of recordings you can share.
+
+• modern iOS7+ design
+
+• compact high quality mp4 file format
+
+• DSP for loud clear sound
+
+• Professional voice activated recording all to a single file without clipping the start and end of words
+
+• share / export / import your recordings, Cloud Drive support for super easy export to your computer
+
+• trim your recordings, even ones imported from other apps
+
+• x2 playback speed
+
+• background recording and playback
+
+• keeps your recordings save with "shake to undelete" and auto recover recorded audio if your device experiences a problem during recording.
+
+• Built in support for a high quality audio transcription service (provided by dictate2us) - pay to have your files professionally transcribed and emailed to you
+
+• Record directly on your Apple watch
+Ratings
+Displayed Avg Ratings
+4.46
+Total Displayed Ratings
+989
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.8.0 (Feb 13, 2023)
+    Thanks for those of you who have rated Dictaphone on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    1.8.0
+    * Bug fixes
+Version 1.6.10 (Sep 25, 2019)
+    • bug fix for iOS13
+Version 1.6.9 (Oct 26, 2018)
+    Thanks for those of you who have rated Dictaphone on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    1.6.9
+    * Fix a crash related to a third party updating their API
+Version 1.6.8 (Sep 15, 2018)
+    1.6.8
+    * Support new device screen sizes
+Version 1.6.7 (Dec 18, 2017)
+    Thanks for those of you who have rated Dictaphone on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    1.6.7
+    * Support iPhoneX
+Version 1.6.6 (May 23, 2017)
+    Thanks for those of you who have rated Dictaphone on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    1.6.6
+    * By popular demand, the voice activation sensitivity is remembered between sessions
+Version 1.6.5 (Feb 10, 2017)
+    Thanks for those of you who have rated Dictaphone on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    1.6.5
+    • Changes and fixes all to the purpose of making Dictaphone more reliable and keeping your valuable recordings secure
+Version 1.6.3 (Nov 29, 2016)
+    Thanks for those of you who have rated Dictaphone on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    1.6.3
+    • Fix for iOS8
+    1.6.2
+    • Bug fixes
+    1.6.0
+    • Bug fixes
+    • Transcription option is a little less hidden
+Version 1.6.2 (Nov 22, 2016)
+    Thanks for those of you who have rated Dictaphone on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    1.6.2
+    • Bug fixes
+    1.6.0
+    • Bug fixes
+    • Transcription option is a little less hidden
+Version 1.6.0 (Oct 26, 2016)
+    • Bug fixes
+    • Transcription option is a little less hidden
+Version 1.5.3 (Aug 13, 2016)
+    • Squashed some bugs
+Version 1.5.2 (Aug 10, 2016)
+    • Squashed some bugs
+Version 1.5.1 (Jul 7, 2016)
+    • Transcription service is now available everywhere
+    • New recording settings screen, with options for voice activation sensitivity and music recording mode
+    • On devices with plenty of free space, Dictaphone will write out a backup file of the audio data during recording which can be recovered if needed.
+    • Added Watch "quick record" complication
+Version 1.5.0 (Jun 15, 2016)
+    • You can shake to undo your last file delete
+    • dictate2us Transcription service
+Version 1.4.4 (Mar 11, 2016)
+    • Small bug fix, because you all deserve the best!
+Version 1.4.3 (Feb 29, 2016)
+    • Bug Fix
+Version 1.4.2 (Oct 28, 2015)
+    • Adds support for the iPhone 6S / 6S+
+Version 1.4.1 (Oct 5, 2015)
+    Thanks for those of you who have rated Dictaphone for iOS7 on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    1.4
+
+    * You can record on your Apple Watch®
+    * Bug fixes
+    * 1.4.1 - FIXED: FAQ link would crash in some languages :-(
+Version 1.4 (Sep 25, 2015)
+    • Bug Fixes
+    • Record on your Apple Watch®
+Version 1.3.5 (Apr 16, 2015)
+    • Fix a crash
+Version 1.3.4 (Dec 4, 2014)
+    • Bug fixes
+Version 1.3.3 (Nov 5, 2014)
+    • Bug fixes
+Version 1.3.2 (Oct 25, 2014)
+    1.3.2
+
+    • iCloud Drive support - backup your vital recordings to iCloud Drive or iCloud Documents
+    • Recordings are sorted with the most recent at the top
+    • Added a beep when recording starts (as per Apple Guidelines)
+Version 1.3.0 (Sep 16, 2014)
+    • This version supports the screen on the iPhone 6 and 6 plus
+Version 1.2.4 (Jul 15, 2014)
+    • minor bug fixes
+Version 1.2.3 (Jun 2, 2014)
+    • added a trash button in the recording detail screen for users who don't know about swiping and are not prepared to read the help text.
+
+
+
+    If you like Dictaphone please leave a review on the App Store, my business depends on it.
+Version 1.2.2 (May 5, 2014)
+    Thanks for those of you who have rated Dictaphone for iOS7 on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+
+
+    Whats New v1.2.2
+
+
+
+    • By popular request, added the option to remove the ads with an in-app-purchase.
+Version 1.2.1 (Apr 16, 2014)
+    - disabled the back swipe for navigation as this was causing problems
+    - localisation
+Version 1.2 (Mar 27, 2014)
+    Thanks for those of you who have rated Dictaphone for iOS7 on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    Whats New v1.2
+
+    - recording uses less battery power
+    - waveforms for recordings generate faster
+    - tweaked the DSP settings to reduce distortion at high volumes
+    - you can trim your audio clips
+Version 1.1 (Mar 22, 2014)
+    Thanks for those of you who have rated Dictaphone for iOS7 on the App Store, this is a big help and encouragement. To those who haven't yet done so, I hope you will find time soon.
+
+    Whats New
+
+    - bug fixes and performance improvements
+    - x2 playback speed
+Version 1.0 (Mar 13, 2014)
+
+Users may also like
+Select objects to compare
+Dictaphone - Audio Recorder
+Audio Memos SE
+Voice Recorder ⁺ Recording
+Recorder Plus : Voice Recorder
+Awesome Voice Recorder
+Audio Recorder & Voice Editor
+Voice Record Pro 7
+PCM Recorder Lite
+Voice Recorder + Audio Editor
+Philips voice recorder
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.8.0
+    Current release
+    Feb 13, 2023
+    1.6.10
+    Sep 25, 2019
+    1.6.9
+    Oct 26, 2018
+    1.6.8
+    Sep 15, 2018
+    1.6.7
+    Dec 18, 2017
+    1.6.6
+    May 23, 2017
+    1.6.5
+    Feb 10, 2017
+    1.6.3
+    Nov 29, 2016
+    1.6.2
+    Nov 22, 2016
+    1.6.0
+    Oct 26, 2016
+    1.5.3
+    Aug 13, 2016
+    1.5.2
+    Aug 10, 2016
+    1.5.1
+    Jul 7, 2016
+    1.5.0
+    Jun 15, 2016
+    1.4.4
+    Mar 11, 2016
+    1.4.3
+    Feb 29, 2016
+    1.4.2
+    Oct 28, 2015
+    1.4.1
+    Oct 5, 2015
+    1.4
+    Sep 25, 2015
+    1.3.5
+    Apr 16, 2015
+    1.3.4
+    Dec 4, 2014
+    1.3.3
+    Nov 5, 2014
+    1.3.2
+    Oct 25, 2014
+    1.3.0
+    Sep 16, 2014
+    1.2.4
+    Jul 15, 2014
+    1.2.3
+    Jun 2, 2014
+    1.2.2
+    May 5, 2014
+    1.2.1
+    Apr 16, 2014
+    1.2
+    Mar 27, 2014
+    1.1
+    Mar 22, 2014
+    1.0
+    Mar 13, 2014
+
+See More
+Top In-App Purchases
+
+    Remove Ads
+    $4.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Mar 13, 2014
+
+Worldwide Release Date
+    Mar 13, 2014
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.8.0
+
+Size
+    11.15 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Dutch, French, German, Italian, Japanese, Norwegian Bokmål, Portuguese, Russian, Simplified Chinese, Spanish, Swedish
+
+Seller
+    Dorada App Software Ltd
+
+Company HQ
+    United Kingdom
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 and watchOS 2.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    uk.co.dorada.Dictaphone
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Sep 26, 2015)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 834938465
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Dictaphone Voice Recorder | data.ai

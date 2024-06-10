@@ -1,0 +1,436 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Punkt: Journal Private & Safe
+Gregor PichlerHealth and Fitness (Applications)Free
+Alerts
+
+    Gregor Pichler
+
+    Punkt: Journal Private & Safe
+    Punkt: Journal Private & Safe
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Punkt: Journal Private & Safe
+One sentence a day! Start now
+Health and Fitness (Applications)
+Free
+iPhone Only
+App Description
+Punkt makes journaling secure, private, easy and fun. But the best of starting a journal now is that you become a happier person.
+
+Here's what makes Punkt special:
+
+* EASY TO USE *
+Punkt's focus is on a simple design. Your stories are the most important part of the app, so why should we distract you with any other complicated stuff?
+
+* SECURE AND PRIVATE *
+Punkt saves your stories on your local device and in your private iCloud. No one but you can read your stories. You can also protect your stories with Face ID or Touch ID.
+
+* NO LOGIN, NO ADS *
+Punkt works without sharing any personally identifiable information. The app is focused on simplicity and privacy. There is no login, no Facebook or Google SDKs, no analytics tracking, no server connection. Everything you do in Punkt is truly private and secure.
+
+* ACCESSIBILITY *
+Punkt supports dynamic type, voice-over and voice control. It is designed to be used by everyone. I would welcome any feedback regarding accessibility as this is truly important to me.
+
+* FAIR PRICING *
+Punkt is developed just by one developer, therefore I want to make really fair and transparent pricing. If Punkt makes you just a little bit happier, you can help to contribute that the app stays independent and does not need to display ads or require personal data.
+
+---------------
+
+Why did I start building this app? I'm a startup founder myself and I've been through very rough but also hyper exciting and happy times. That's tough by itself, but if one of your loved ones is helpless in pain and suffers then your world stops spinning. Bad times in business and private life made me think about how I can get out of this and become more positive and happier in the end. I've researched a lot and came across the one-sentence journaling technique. Long story short, I've started tracking my days in a Google Sheet. With just a few clicks I could make myself smile again by reading stories about happy days. But also the other way round, looking at rough times makes you appreciate even more what you have in your life. Now I want to help other people with this app.
+
+If you have any feedback you can reach out at https://punktapp.me or gregor@punktapp.me
+
+
+============
+
+Should you choose to support the development of this app and unlock all premium features of Punkt, payments will be charged to your iTunes account at confirmation of purchase.
+
+Your subscription renews automatically unless cancelled at least 24 hours before the end of the current period and cancellation of the current active subscription period is not allowed.
+
+Auto-renewal may be turned off in your Account Settings in iTunes after purchase.
+
+You can read our privacy policy at https://punktapp.me/privacy-policy
+You can read our terms of use at https://punktapp.me/terms
+
+
+App Preview Music: www.bensound.com
+Ratings
+Displayed Avg Ratings
+4.66
+Total Displayed Ratings
+3.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.1.7 (Jan 23, 2024)
+    Fix missing text entry
+Version 2.1.5 (Jan 16, 2023)
+    - Fixes a problem with payments
+Version 2.1.5 (Jan 16, 2023)
+    - Fixes a problem with payments
+Version 2.1.4 (Jan 15, 2023)
+    - Fixes layout issues on the Punkt Premium screen
+Version 2.1.3 (Jan 8, 2023)
+    - Rotating the device does not close screen when writing a new story
+    - Some users faced a crash when opening the app, this is now fixed
+Version 2.1.2 (Nov 15, 2022)
+    Improvements and bug fixes
+Version 2.1.2 (Nov 15, 2022)
+    Improvements and bug fixes
+Version 2.1.1 (Nov 9, 2022)
+    - Fix problem when creating a new story and adding a photo
+Version 2.0.5 (Jun 17, 2022)
+    * Fixed a crash that was introduced in previous update
+
+    - You can now edit and delete custom reasons
+    - Keyboard isn't blocking the text field anymore when entering longer stories
+    - Additional language: Ukrainian (many thanks to all the translators)
+    - Date is correctly displayed when creating a new story (sometimes a date in the past was selected)
+Version 2.0.3 (May 21, 2022)
+    Thanks to our amazing contributors, Punkt is now also available in the following languages:
+
+    - Portuguese
+    - Romanian
+    - Serbian
+    - Croatian
+    - Hungarian
+    - Finnish
+
+    Happy journaling!
+Version 2.0.2 (Apr 6, 2022)
+    Punkt is now available in Romanian. Many thanks to all of you who helped translating the app and bringing it to even more people!
+Version 2.0.1 (Nov 28, 2021)
+    Thanks to so many incredibly helpful users who have helped translating the app, we are proud that Punkt is now available in:
+
+    - Slovenian
+    - Polish
+    - Swedish
+    - Czech
+
+    From now on you can also share Punkt Premium (yearly and lifetime) with your family. We have enabled family sharing in this update.
+
+    Thanks again for your help.
+Version 2.0.0 (Nov 22, 2021)
+    Dear Punkt users,
+
+    this version finally brings Punkt to the iPad. Enjoy an experience fully optimized for the bigger screen. Additionally we have improved the tab bar for accessbility.
+
+    We hope you enjoy this update! Many thanks for everyone who has helped testing the app before and provide incredibly helpful feedback.
+Version 1.1.9 (Mar 25, 2021)
+    Buongiorno everyone!
+
+    The app is now available in Italian.
+
+    We really want to thank everyone for the amazing and helpful feedback we are receiving. If you have a second it would be amazing if you could support the app by writing a short review on the App Store.
+Version 1.1.8 (Mar 20, 2021)
+    Buon giorno everyone!
+
+    The app is now available in Italian.
+
+    We really want to thank everyone for the amazing and helpful feedback we are receiving. If you have a second it would be amazing if you could support the app by writing a short review on the App Store.
+Version 1.1.7 (Jan 4, 2021)
+    Happy new year everyone!
+
+    This release fixes a bug that prevented motivational quotes to be displayed. Thanks to everyone who reported this and reached out to us.
+Version 1.1.6 (Nov 22, 2020)
+    * New languages: Russian and French
+
+    Your support is incredible. Thanks to you Punkt is now available for even more people. Your feedback is so important to make the app better every day. If you like the app and have a minute please feel free to leave a review on the App Store. :)
+Version 1.1.5 (Nov 14, 2020)
+    * So many awesome people want to help us translate Punkt. We've added languages that we are currently working on to the settings page.
+Version 1.1.4 (Nov 12, 2020)
+    * Fix date picker issue on iOS 14. When changing the date of a story by tapping "today" the date picker is now optimised for iOS 14.
+    * Optimise date picker for setting reminders.
+    * A story can not be accidentally dismissed.
+    * App status setting shows you if your stories are being backed up in iCloud.
+Version 1.1.3 (Nov 9, 2020)
+    * Fix crash when trying to export stories to CSV
+    * Fallback to passcode in case Face ID fails
+    * Adding new languages: Spanish and Dutch
+
+    Many thanks to everyone who is giving such incredibly helpful feedback. Special thanks goes out to all contributors who helped to translate the app to Spanish and Dutch. We are so grateful!
+Version 1.1.2 (Aug 16, 2020)
+    Fixes a problem were motivation quotes were not loaded in German.
+Version 1.1.1 (Jul 21, 2020)
+    Your stories belong to you. Therefore, we’ve made it super easy to export them in a CSV file, so you can store them wherever you want.
+Version 1.1.0 (Jul 13, 2020)
+    What's new:
+
+    - Custom reasons are finally there. You can now disable predefined reasons and create your own so you have more flexibility for creating your stories.
+    - You can now add a photo directly from your camera.
+    - Add more haptic feedback.
+    - In case there is a problem with your iCloud you can now see this in the settings screen.
+
+    Bug fixes:
+    - Story overlay for photos in dark mode uses correct font colors.
+Version 1.0.7 (Jun 30, 2020)
+    Thanks to your great feedback we could improve the following in this update.
+
+    - Editing locations in past stories is now possible.
+    - Improved text visibility of stories with photo.
+    - You can perform a long press to see just the photo and hide the story.
+
+    Bug fixes:
+    - Locations can now be reused for multiple stories.
+Version 1.0.6 (Jun 16, 2020)
+    - Editing photos in the past is now possible
+    - If you had very quick fingers and selected a recent location super fast, the app sometimes crashed. This is now fixed.
+
+    As always, thank you so much for your great feedback!
+Version 1.0.5 (Jun 9, 2020)
+    There was a little bug in the app that showed you a previous story when clicking "Add new story" from My Day screen.
+Version 1.0.4 (Jun 7, 2020)
+    Your incredible feedback helped us a lot to make major improvements for this update.
+
+    * You can now edit a story.
+    * Travel back in time and add a story for any previous day. Just in case you missed writing an entry.
+    * Long stories are no longer cut off, every word counts and is precious.
+    * Locations can now be edited and changed.
+    * Location search includes all your recent locations to easily reuse frequently visited places.
+Version 1.0.3 (May 25, 2020)
+    As your privacy is of utmost importance we've added Face ID or Touch ID to protect your stories.
+
+    What else is in included in this update?
+
+    - Better support for dynamic type on the statistics screen
+    - Text of a story can now be copied
+
+    Thank you so much for your amazing feedback. This is incredibly helpful to make the app better day by day.
+Version 1.0.2 (May 17, 2020)
+    To be ready for the big wide world we've made some accessibility improvements.
+
+    Punkt now supports voice-over and voice control.
+
+    We are super excited that Punkt is finally available on the App Store. We really enjoy this special day with you. In that sense, we have removed the paywall so you can see your insights for free.
+
+Users may also like
+Select objects to compare
+Diary 365 & me
+7Mind Meditation & Sleep
+Reflect - guided daily journal
+Joyster: Daily Symptom Tracker
+Mindful Affirmations
+Mindshine: Mental Health Coach
+Remente: Self Care & Wellbeing
+Clementine: Sleep & Confidence
+Clearful - Journal & Diary
+Morning Pages – Daily Journal
+IQ Classifications
+Genre: Social Media
+Subgenre: Media Sharing Networks
+Media Sharing Networks
+Apps that allow users to share or discover photographs, live or recorded videos, and other forms of media.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+45 times
+on App Store category pages
+Versions
+
+    2.1.7
+    Current release
+    Jan 23, 2024
+    2.1.5
+    Jan 16, 2023
+    2.1.5
+    Jan 16, 2023
+    2.1.4
+    Jan 15, 2023
+    2.1.3
+    Jan 8, 2023
+    2.1.2
+    Nov 15, 2022
+    2.1.2
+    Nov 15, 2022
+    2.1.1
+    Nov 9, 2022
+    2.0.5
+    Jun 17, 2022
+    2.0.3
+    May 21, 2022
+    2.0.2
+    Apr 6, 2022
+    2.0.1
+    Nov 28, 2021
+    2.0.0
+    Nov 22, 2021
+    1.1.9
+    Mar 25, 2021
+    1.1.8
+    Mar 20, 2021
+    1.1.7
+    Jan 4, 2021
+    1.1.6
+    Nov 22, 2020
+    1.1.5
+    Nov 14, 2020
+    1.1.4
+    Nov 12, 2020
+    1.1.3
+    Nov 9, 2020
+    1.1.2
+    Aug 16, 2020
+    1.1.1
+    Jul 21, 2020
+    1.1.0
+    Jul 13, 2020
+    1.0.7
+    Jun 30, 2020
+    1.0.6
+    Jun 16, 2020
+    1.0.5
+    Jun 9, 2020
+    1.0.4
+    Jun 7, 2020
+    1.0.3
+    May 25, 2020
+    1.0.2
+    May 17, 2020
+
+See More
+Top In-App Purchases
+
+    Punkt Premium Monthly
+    $1.99
+    Punkt Premium Monthly
+    $1.49
+    Punkt Premium Yearly
+    $14.49
+    Punkt Premium Monthly
+    $3.49
+    Punkt Premium Lifetime
+    $29.99
+    Punkt Premium Lifetime Special
+    $16.99
+
+About
+
+Required Devices
+    iPhone, iPad
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    May 17, 2020
+
+Worldwide Release Date
+    May 17, 2020
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.1.7
+
+Size
+    11.84 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Croatian, Czech, Dutch, Finnish, French, German, Hungarian, Italian, Polish, Portuguese, Romanian, Russian, Serbian, Slovenian, Spanish, Swedish, Ukrainian
+
+Seller
+    Gregor Pichler
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    at.gregorpich.ios.Punkt
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1507575828
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Punkt: Journal Private & Safe | data.ai

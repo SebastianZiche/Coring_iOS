@@ -1,0 +1,11 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.2.10,2023-01-04,New Features: Enabled deep linking Bug Fixes: Fixed: when users forward a message exit the application then logs back in it shows messages failed to send message in the forwarding destination.
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.2.9,2022-10-12,Hidden join exit notifications from room
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.2.8,2022-08-27,Bug fixes Added user delete account feature
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.2.7,2022-06-10,Added the fortify landing page Added VOIP voice call Added Help option Fix for message forwarding issue UI issue fixes
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.2.6,2022-04-17,Fix for crash on iOS 14 device
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.2.5,2022-03-16,Landing pages are added Location sharing UI fixes
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.2.4,2022-02-18,UI Enhancements New features: i Invite friends ii Notification settings
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.2.3,2022-02-03,Revised URL
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.2,2021-10-14,UI Enhancement. Minor bug fixes.
+1561544553,0,Fortify.chat,Social Networking,2021-06-02,2021-06-02,172.93,27,0,0,0,1.1,2021-09-10,Addition of functionality to add contacts and initiate messaging with them. UI enhancements. Bug fixes.

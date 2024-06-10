@@ -1,0 +1,399 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Obsidian - Connected Notes
+Dynalist Productivity (Applications)Free
+Alerts
+
+Obsidian - Connected Notes
+Obsidian - Connected Notes
+Obsidian - Connected Notes
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Obsidian - Connected Notes
+Productivity (Applications)
+Free
+App Description
+Obsidian is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+
+It is a second brain, for you, forever. Now available on the go for iOS!
+
+Features include:
+- Customizable toolbar
+
+- Pull down quick actions
+- Graph view
+- Community plugins
+- Themes
+- Sidebar pinning for tablet
+- iCloud vaults
+Ratings
+Displayed Avg Ratings
+4.56
+Total Displayed Ratings
+4.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.4.8 (Aug 31, 2023)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v1.3.7.
+
+    - Added support for 2FA login.
+
+    - PDF: Fixed text selection.
+
+    - Sync: Improved sync UI. Added loading state to sync modal.
+Version 1.4.6 (Jun 1, 2023)
+    - New app icon! Learn more on our blog.
+Version 1.4.5 (May 23, 2023)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v1.3.3.
+    - Added support for the new PDF viewer on mobile.
+    - Live Preview: Reduce flickering and flashing when selecting text.
+    - Adding text to an existing file via Share menu will always append text to the end of the file.
+    - iOS: Fixed Canvas unable to drop images dragged from other apps.
+    - iPad: Fixed issue where cursor and scroll position are messed up after dismissing the keyboard via the virtual keyboard's "close keyboard button."
+    - iPad: Fixed switching apps causes Obsidian to lose text focus.
+Version 1.4.4 (May 2, 2023)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v1.2.7.
+
+    - Added Bookmarks core plugin and removed Starred core plugin.
+Version 1.4.3 (Mar 2, 2023)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v1.1.16.
+
+    - Fixed 'rename file' not working when the inline title is hidden.
+
+    - Fixed app crashing on iOS 12.
+
+    - Fixed 'show context menu' command not working.
+
+    - Tablet: Drag 'n dropping ribbon icons now requires a slight delay. This fixes the issue where the ribbon would not scroll without triggering drag and drop.
+Version 1.4.2 (Feb 22, 2023)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v1.1.15. This includes support for Canvas!
+    - There is now a new Vault picker in the left sidebar. Tap on the vault name to show a list of your Obsidian vaults for faster switching. Tap "Manage vaults..." to open the vault setup screen.
+    - Phone only: The ribbon menu in the bottom navigation bar is now configurable. In the Appearance settings, you can now manage the order of the ribbon items as well as specify a "quick access" ribbon item.
+    - iOS: fixed `Command-W` closing the entire app instead of closing the current tab.
+Version 1.4.1 (Oct 26, 2022)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v1.0.3.
+    - Ribbon menu item in the mobile navbar will now open the menu on tap instead of requiring long-hold.
+
+    - Fixed long file names or paths causes the entire view to go past the right side of the screen.
+    - "Toggle sidebar" commands will now pin or unpin the sidebars on mobile.
+    - Scroll position is now properly preserved when closing suggest modals.
+    - Tapping the status bar will scroll to the top of the view.
+    - Fixed graph view sometimes showing labels in a serif font.
+    - Fixed graph view keeps moving down.
+Version 1.4.0 (Oct 13, 2022)
+    - Massive UI overhaul with an emphasis on making the app more responsive and mobile-friendly.
+    - Includes all the new functionality and bug fixes up to Obsidian Desktop 1.0.
+    - Tabs can now be used on both tablets and phones. On iPhones, tabs can be accessed from the navigation bar.
+    - Long-press links in Live Preview to show context menu.
+    - The quick switcher now has a button to create a file matching the current input.
+
+    iPhone only:
+    - Added haptic feedback for the context menu and pull-down menu.
+    - New bottom navigation bar includes forward/back arrows, tab menu, and quick access to your ribbon items.
+
+    iPad only:
+    - Press and hold to drag and drop tabs.
+    - Long-press on tabs and sidebar items to see the options menu.
+    - Menus and popups will now appear inline.
+Version 1.3.2 (Sep 22, 2022)
+    - Fixed sync deletes new themes from desktop app
+
+    - Fixed sync issue with configuration files when using alongside new desktop app
+Version 1.3.1 (Aug 21, 2022)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v0.15.9.
+    - Fixed can't rename folders and files.
+    - Fixed toolbar sometimes misplaced when using external keyboard.
+Version 1.2.3 (Jun 9, 2022)
+    Fixed crash on iOS 12 and iOS 13.
+Version 1.2.2 (Jun 7, 2022)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v0.14.15.
+    - Fixed rename vault functionality gets stuck.
+    - You can now setup Obsidian Sync right from the starting screen.
+    - Fixed black bar at the bottom on iPad when using external keyboard.
+    - Tapping the three dot more options icon now brings up the menu related to this file, rather than the right sidebar. You can get to the right sidebar by long-holding this icon, or swiping from the right.
+    - Obsidian can load all locally available fonts on your device.
+    - Long-holding buttons that triggers an action (like the three dot menu) now triggers it after holding instead of triggering it when the finger is released.
+    - Fixed app freezing when resuming from another app when using a large vault.
+Version 1.2.0 (Apr 11, 2022)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v0.14.2.
+    - You can now share text, links, image, and other attachments directly to the Obsidian app.
+Version 1.1.1 (Mar 21, 2022)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v0.13.33.
+    - Adapt keyboard for light mode.
+
+    - Fixed large PDFs not rendering.
+    - Fixed sometimes the toolbar icons renders above the toolbar.
+    - Fixed clicking on links while editing not working, allow tap and hold to edit a link.
+Version 1.1.0 (Feb 22, 2022)
+    Core update:
+
+    Includes all new functionality and bug fixes up to Obsidian Desktop v0.13.24.
+
+    This update also allows all new cm6-compatible plugins to run.
+
+
+
+
+
+    Live Preview:
+
+    While this feature works pretty well already, it hasn't been fully mobile optimized, so there could still be some usability issues when using with a touch-only device, such as editing embeds and code blocks.
+
+    In the meantime, feel free to use Source Mode when that happens. You can do that by long-holding the 3 dot button on the top right and hitting "Toggle Live Preview/Source mode" (or run a command from the pull down menu or bottom toolbar).
+
+
+
+
+
+    Vim mode:
+
+    Support for vim mode is now available, but must be enabled on a per-device basis on mobile. It is not really usable on a mobile device without an external keyboard.
+
+
+
+
+
+    Others:
+
+    Drag and drop features from desktop is now generally available across the app, and can be triggered by long-holding items. This includes drag and drop files and folders, starred items, and outline items.
+
+Version 1.0.5 (Nov 8, 2021)
+    - Includes all new functionality and bug fixes up to Obsidian Desktop v0.12.19.
+
+    - Improved graph view animations.
+
+    - Heading rename.
+
+    - New theme store.
+
+    - Slash commands.
+
+    - New plugin APIs now available for the latest plugins to use.
+
+    - Tons of bugfixes.
+
+    - Editor
+
+    - Upgrade from CodeMirror 0.18 to 0.19. Should come with many bugfixes and performance improvements.
+
+    - Copy and paste is now handled just like the desktop app.
+
+    - Drag and drop should now work properly on tablets.
+
+    - Obsidian Sync
+
+    - Fixed version history not showing size and device info.
+
+    - Restoring files using version history will no longer error out with "This version is already the latest version".
+
+    - There are now commands for copying, pasting, and opening the context menu, which can be assigned to the toolbar for convenience.
+
+
+
+
+
+    - The app will now wait for iCloud to sync back configuration files before opening the vault to prevent load failures.
+
+Version 1.0.4 (Aug 7, 2021)
+    Improved start up performance.
+    Updated functionality to match newest desktop release.
+Version 1.0.3 (Jul 13, 2021)
+    Obsidian will now properly create the iCloud folder on first boot up.
+
+    Fixed minimum iOS requirement.
+
+Users may also like
+Select objects to compare
+Bear - Markdown Notes
+Craft: Write docs, AI editing
+Logseq
+Drafts
+MindNode - Mind Map & Outline
+Zotero
+Notion Calendar
+LiquidText
+Agenda: Notes meets Calendar
+Things 3
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Other Utility & Productivity
+Other Utility & Productivity
+Other utility & productivity apps that do not fit other existing Utility & Productivity subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+11 times
+on App Store homepage
+6 times
+on App Store category pages
+Versions
+
+    1.4.8
+    Current release
+    Aug 31, 2023
+    1.4.6
+    Jun 1, 2023
+    1.4.5
+    May 23, 2023
+    1.4.4
+    May 2, 2023
+    1.4.3
+    Mar 2, 2023
+    1.4.2
+    Feb 22, 2023
+    1.4.1
+    Oct 26, 2022
+    1.4.0
+    Oct 13, 2022
+    1.3.2
+    Sep 22, 2022
+    1.3.1
+    Aug 21, 2022
+    1.2.3
+    Jun 9, 2022
+    1.2.2
+    Jun 7, 2022
+    1.2.0
+    Apr 11, 2022
+    1.1.1
+    Mar 21, 2022
+    1.1.0
+    Feb 22, 2022
+    1.0.5
+    Nov 8, 2021
+    1.0.4
+    Aug 7, 2021
+    1.0.3
+    Jul 13, 2021
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jul 10, 2021
+
+Worldwide Release Date
+    Jul 10, 2021
+
+Last Updated Time
+    Feb 18, 2024
+
+Version
+    1.4.16
+
+Size
+    42.44 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Inglés
+
+Seller
+    Dynalist Inc.
+
+Company HQ
+    Canada
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 12.1 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    md.obsidian
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1557175442
+Unified App ID: 1000800000163844
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Obsidian - Connected Notes | data.ai

@@ -1,0 +1,546 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Carbo › Digital Notebook
+CreaceedProductivity (Applications)Free
+Alerts
+
+Carbo
+Carbo › Digital Notebook
+Carbo › Digital Notebook
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Carbo › Digital Notebook
+Organize your notes & drawings
+Productivity (Applications)
+Free
+App Description
+Carbo lets you capture and organize handwritten notes and sketches, bringing handwriting in the digital age, right on your iPhone, iPad, and Mac. Carbo's innovative visualization technology sets you free from pixel artefacts, while preserving all expressiveness of your original drawings. Collect notes, design sketches, or whiteboard drawings.
+
+Tag and annotate your notes for easy retrieval. Store them either on the device itself or in the cloud, with native support for iCloud, Evernote, and Dropbox. Finally, turn your notes and drawings into beautiful creations using a variety of handcrafted export styles and share them with the world.
+
+
+KEY FEATURES
+
+• Hybrid visualization technology: note picture is cleaned up and turned into a highly accurate monochrome representation. Carbo’s innovative rendering technology offers both the advantages of vector (sharpness) and bitmap (easy editing) techniques.
+• Image-based input options: take a new picture, import from camera roll, or import an image from iCloud Drive.
+• Drawing support: highly accurate and natural sketching capabilities. Full support for Apple Pencil & 3D Touch pressure sensitivity.
+• Note editing: edit any part of your note, i.e. select, resize, relocate, or remove any element. Make strokes thinner or thicker.
+• Annotations: add descriptive text to your note. These annotations are archived along with the image, and are globally searchable.
+• Tag your notes. Tags are colored for easier detection, and will help you classify notes.
+• Notes can be stored either on your device, or in the cloud using Evernote, Dropbox, and iCloud.
+• Efficient file-based storage: typical note is 400KB instead of the usual 3MB JPEG of a photo.
+• Export styles (iOS): choose among 7 beautifully handcrafted styles and their variants to customize your notes (Blackboard/chalks combos, Blueprint, Paper with several pen styles…).
+• Up to 1200-dpi black-and-white high-fidelity exports for print.
+• Many sharing options: Twitter, Facebook, AirDrop, Mail, Messages, iCloud Drive, Open in (another app)...
+• Latest iOS Support: App Search, iPad multitasking, Siri 'Remind Me', 3D Touch shortcuts, modern iOS 14 photo access (browsing & searching).
+• macOS 11 Big Sur / Mac Catalyst (Optimized for Mac).
+• Universal app for iPhone, iPad, and Mac.
+• Pro Pack 2 or Pro Plan: one-off purchase to remove the 10-note limit.
+
+PRICING
+You can unlock all features either through Pro Pack 2, a one-time purchase, or through Pro Plan, an affordable subscription. Pro Pack upgrade pricing is also available if you own a previous version.
+
+HELP & FEEDBACK
+Visit creaceed.com/carbo for more information.
+Send your questions and feedback to carbo@creaceed.com
+
+Terms of Use: https://creaceed.com/terms
+Privacy Policy: https://creaceed.com/privacy
+Ratings
+Displayed Avg Ratings
+4.06
+Total Displayed Ratings
+415
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.2.4 (Sep 15, 2022)
+    This release brings compatibility and optimizations for iOS 16.
+    Carbo requires iOS 14 or later.
+Version 2.2.3 (Apr 4, 2022)
+    Maintenance release with minor enhancements & bug fixes.
+Version 2.2.2 (Nov 15, 2021)
+    ENHANCEMENTS & BUG FIXES
+    • Full compatibility and enhancements with iOS 15 including transparent navigation bars and inset grouped table views.
+    • Fixed errouneous page overlay in the camera view that could be misaligned on some iPad devices.
+    • Minor fixes and enhancements.
+Version 2.2.2 (Nov 15, 2021)
+    ENHANCEMENTS & BUG FIXES
+    • Full compatibility and enhancements with iOS 15 including transparent navigation bars and inset grouped table views.
+    • Fixed errouneous page overlay in the camera view that could be misaligned on some iPad devices.
+    • Minor fixes and enhancements.
+Version 2.1 (Dec 2, 2020)
+    Fixed a bug that could cause unwanted straight lines when sketching.
+Version 2.0.2 (Nov 18, 2020)
+    What's New in Carbo 2.0.2:
+
+    Stability and performance improvements.
+
+
+    What's New in Carbo 2:
+
+    Carbo 2 brings all your iPad or iPhone-created notes right into your Mac through a new Mac Catalyst app (Optimized for Mac). Carbo enables handwriting & drawing either from camera or Apple Pencil with outstanding real-life-like pixel-free quality. This makes a lot of sense on iPad and iPhone as these are great input & viewing devices, but now these notes can also be accessed from the Mac through a refined Mac Catalyst app, providing the full productive experience on all your Apple devices.
+
+
+    macOS 11 Big Sur / Universal app
+
+    - Carbo 2 comes as a universal app for iPhone, iPad, and Mac.
+    - Optimized for Mac (Mac Catalyst app enhanced for macOS 11 look & feel) which provides a great user experience on the Mac.
+    - Modern-style full-height sidebar, refreshed toolbar, use of modern SF Symbols design language.
+    - Main menu adaptations, contextual menus.
+    - Drag & drop of notes (tagging, import, export)
+    - Spotlight search
+    - Metal-based note rendering (Metal is Mac only, pixel-free on all devices).
+
+
+    iOS 14 ENHANCEMENTS
+
+    - Carbo 2 now offers photo import from the new & more capable iOS 14 photo picker (filter, search, etc.).
+    - This release also brings improved handling of user privacy with support for photo albums security constraints of iOS 14.
+    - iOS app requirement: iOS 13 or more recent.
+
+
+    PURCHASE MODEL UPDATE
+
+    - Carbo 2 now comes as a free app + in-app purchase. New users can fully try the app for free with a limit of 10 notes, and get the Premium Pack to remove that limit.
+    - Free upgrade for version 1.0 users. Pre-existing users (paid app) keep all the features they already have without limitation.
+Version 2.0 (Nov 11, 2020)
+    What's New in Carbo 2:
+
+    Carbo 2 brings all your iPad or iPhone-created notes right into your Mac through a new Mac Catalyst app (Optimized for Mac). Carbo enables handwriting & drawing either from camera or Apple Pencil with outstanding real-life-like pixel-free quality. This makes a lot of sense on iPad and iPhone as these are great input & viewing devices, but now these notes can also be accessed from the Mac through a refined Mac Catalyst app, providing the full productive experience on all your Apple devices.
+
+
+    macOS 11 Big Sur / Universal app
+
+    - Carbo 2 comes as a universal app for iPhone, iPad, and Mac.
+    - Optimized for Mac (Mac Catalyst app enhanced for macOS 11 look & feel) which provides a great user experience on the Mac.
+    - Modern-style full-height sidebar, refreshed toolbar, use of modern SF Symbols design language.
+    - Main menu adaptations, contextual menus.
+    - Drag & drop of notes (tagging, import, export)
+    - Spotlight search
+    - Metal-based note rendering (Metal is Mac only, pixel-free on all devices).
+
+
+    iOS 14 ENHANCEMENTS
+
+    - Carbo 2 now offers photo import from the new & more capable iOS 14 photo picker (filter, search, etc.).
+    - This release also brings improved handling of user privacy with support for photo albums security constraints of iOS 14.
+    - iOS app requirement: iOS 13 or more recent.
+
+
+    PURCHASE MODEL UPDATE
+
+    - Carbo 2 now comes as a free app + in-app purchase. New users can fully try the app for free with a limit of 10 notes, and get the Premium Pack to remove that limit.
+    - Free upgrade for version 1.0 users. Pre-existing users (paid app) keep all the features they already have without limitation.
+Version 1.8.1 (Jun 9, 2020)
+    • Modernization for latest OS & bug fixes
+    • Fixed a bug where a Dropbox notebook could fail to sync when the app was reactivated from the iOS Home screen.
+Version 1.8 (Oct 30, 2019)
+    Carbo 1.8 is now optimized for iOS 13.
+    - Dark Mode is supported throughout the app and enables notes that remain easy on the eyes in a dark environment.
+    - User interface has been fine-tuned with latest iOS 13 enhancements.
+Version 1.7 (Dec 10, 2018)
+    Updated for the new iPad Pro
+    - Handling of new iPad Pro display sizes (11" and 12.9")
+    - Handling of new Apple Pencil double-tap gesture: switch to eraser, or last-used tool.
+Version 1.6.7 (Oct 18, 2018)
+    Fixed a rare issue that could cause a crash at launch.
+Version 1.6.6 (Oct 4, 2018)
+    - Updated for new iPhone sizes (including iPhone XS Max and more).
+    - Minor fixes and enhancements for iOS 12.
+Version 1.6.5 (Jun 21, 2018)
+    Updated the crash reports framework.
+Version 1.6.4 (May 24, 2018)
+    This release of Carbo adds compliance with European Union’s General Data Protection Regulation (GDPR).
+    In particular, for a notebook stored in a 3rd-party service (iCloud, Dropbox, and Evernote), this release ensures that you can:
+
+    1. Get a copy of all the notes stored in the notebook:
+    - Select the notebook in the sidebar.
+    - Select any note with a long press.
+    - Tap on the "Select All" button.
+    - Tap on the archive button to create a local archive file containing the note images and their metadata in human readable form.
+
+    2. Completely delete the data stored in the third-party service associated with the notebook.
+    - Select the notebook in the sidebar.
+    - Select any note with a long press.
+    - Tap on the "Select All" button.
+    - Tap on the delete button.
+
+    3. Temporarily deactivate access to the third-party service associated with the notebook.
+    - Go to Settings > Notebooks.
+    - Switch off the notebook.
+Version 1.6.3 (May 7, 2018)
+    More robust palm rejection to avoid leaving marks when resting the palm while drawing with the Apple Pencil.
+Version 1.6.2 (Mar 29, 2018)
+    - Inko Compatibility: added support for dragging notes to our new collaborative whiteboard app "Inko".
+    - Fixed a bug that caused the editing tool offset setting (Settings > General Options) to be ignored.
+Version 1.6.1 (Jan 24, 2018)
+    - Fixed a crash that could occur on iOS 11.2 when cropping a picture.
+    - Improvements to touch gesture handling when drawing, moving, or zooming in the canvas.
+Version 1.6 (Nov 3, 2017)
+    Updated to support iPhone X.
+Version 1.5.2 (Oct 10, 2017)
+    Fixed a bug that could crash the app on 32-bit devices.
+Version 1.5.1 (Oct 2, 2017)
+    iOS 11-related bug fixes.
+Version 1.5 (Sep 19, 2017)
+    NEW FEATURES AND IMPROVEMENTS
+
+    - Optimized for iOS 11.
+    - Support for iOS 11 Drag and Drop
+    - Tagging / moving notes: notes can be dropped on a specific tag in the sidebar which will tag them. Dragging notes to another store (iCloud, Dropbox, etc.) in the sidebar will move them to that store. (internal dragging: iPhone and iPad)
+    - Importing picture: dragging a picture from another app into Carbo will create a new note from it. Dragging it directly into a specific store (iCloud, Dropbox, etc.) in the sidebar will create the note in that store. (iPad only)
+    - Exporting a drawing: when a note is opened in the style chooser, it can be exported with that style into another app by dragging it. (iPad only)
+    - Exporting multiple notes: multiple notes can be dragged simultaneously from the main list, and exported to another app. (iPad only)
+
+    ENHANCEMENTS
+
+    - Improved Apple Pencil support (sketch shape rendering)
+    - Fixed a bug that could cause the picture to flicker when zooming in the picture of a note.
+
+    WORKFLOWS
+
+    Carbo is getting extensive support for iOS 11 Drag & Drop in various contexts (import / export notes, and internal app use like tagging, changing note storage). It's very visual and a useful addition to the core features.
+Version 1.4.4 (Jun 8, 2017)
+    Fixed crash at launch that could occur in rare circumstances when signing out of iCloud.
+Version 1.4.3 (May 11, 2017)
+    Updated Dropbox integration for future proofing.
+Version 1.4.2 (Feb 3, 2017)
+    - Fixed a crash occurring while taking a picture when "Save Pictures to Album" option is set.
+    - Fixed an issue with photos not always saved in Carbo's album when "Save Pictures to Album" is set.
+    - Fixed a crash that could occur when drawing on devices with a version of iOS below 9.1.
+Version 1.4.1 (Jan 30, 2017)
+    BUG FIXES
+    - Fixed incorrect aspect ratio when exporting in PDF format.
+    - Fixed animations effects glitches that were impacting devices running iOS 10.
+
+    IMPROVEMENTS
+    - Filename of exported image has been made unique to avoid naming collisions for same-day notes.
+Version 1.4 (Sep 13, 2016)
+    Improved Apple Pencil Support:
+    - High-speed sampling (240 Hz) for 4x more accurate sketches.
+    - Predictive sampling for reduced perceived lag while drawing.
+    - Accurate handling of deferred orientation & pressure information coming through pencil wireless connection.
+
+    iOS 10 Features:
+    - Added support for iOS 10 Spotlight Search Continuation: continue in-app searching from Spotlight initiated search.
+    - Haptic feedback for iPhone 7 for editing operations.
+    - Swift 3 modernization.
+    - Optimization & bug fixes.
+Version 1.3.2 (Aug 24, 2016)
+    - Added a privacy usage description when asking the permission to access camera and photo library.
+    - Fixed a bug that grew memory usage when using multiple notes and that could crash the app.
+    - Improved compatibility and stability with upcoming iOS release.
+Version 1.3.1 (Aug 18, 2016)
+    Fixed a bug that could prevent some extensions from working when exporting notes.
+Version 1.3 (May 12, 2016)
+    APPLE PENCIL / IPAD PRO IMPROVEMENTS
+    - Carbo now offers 3 distinctive drawing tools: 2 fixed thickness drawing tool (best for regular handwriting & sketches), in addition to a new calligraphic drawing tool (styled handwriting like a flow pen).
+    - Calligraphic tool reacts to pencil angle, speed, and pressure.
+    - Drawing method has been refined for all tools, and drawing artefacts removed.
+    - Drawing heads are now thinner to better enjoy Apple Pencil precision, and now provide absolute sizing in all cases (thickness does not depend on zoom level).
+    - Eraser tool is now more sensitive to pencil angle. It becomes larger when pencil is lowered, with interactive display of eraser head.
+
+    OTHER IMPROVEMENTS
+    - Better use of display surface. Margin have been removed to provide more room to content
+    - Improved fullscreen mode. Top toolbar and drawing tools are now completely removed when entering fullscreen mode for a better viewing / editing experience.
+Version 1.2.3 (Mar 30, 2016)
+    - Fixed a crash that could happen when syncing clock with a time server.
+    - Minor bug fixes.
+Version 1.2.2 (Feb 9, 2016)
+    Fixed an issue that was preventing selection tool from working properly.
+Version 1.2.1 (Jan 4, 2016)
+    Fixed an issue that prevented the introduction video from being played.
+Version 1.2 (Nov 12, 2015)
+    Major new release of Carbo including new drawing capabilities & iPad Pro / Apple Pencil / iPhone 6s 3D Touch support, which offers great interaction with Carbo hybrid, pixel-free rendering technology.
+
+    NEW FEATURES
+    - Sketching notes directly within Carbo is now possible, using either finger or pencil. This highly accurate drawing technology reacts to velocity, pressure & more.
+    - Added an option for creating empty notes.
+    - Added "Pen" tool for drawing.
+    - Added an "Erase All" tool to clear entire canvas.
+
+    HARDWARE SUPPORT
+    - Support for iPad Pro Pencil input, including sensitivity to speed, pressure, input angle, as well as improved accuracy over touch.
+    - Support for iPhone 6s / 6s Plus pressure sensitive 3D Touch display.
+    - Other devices without pressure capability: support for variable thickness based on drawing velocity.
+
+    BUG FIXES
+    - Fixed an issue that could prevent Carbo from synchronizing notes with iCloud.
+    - Fixed layout issues that could happen when rotating the iPad.
+Version 1.1 (Sep 16, 2015)
+    OPTIMIZED FOR iOS 9
+    - iOS 9 Required (Carbo 1.1)
+    - Support for iOS 9 App Search, you can search Carbo notes globally on your iPhone/iPad.
+    - Support for iOS 9 Siri "Remind me about this" for Carbo notes.
+    - Support for iOS 9 iPad Multitasking (Slide Over, Split View).
+    - Support for iOS 9 3D Touch Quick Actions for iPhone 6s / 6s Plus.
+    - Improved iCloud support based on iOS 9 (silent) push notifications instead of polling, for quicker & battery-friendly note syncing.
+
+    ENHANCEMENTS
+    - Faster app startup.
+Version 1.0.2 (Aug 17, 2015)
+    Fixed issues experienced on a beta OS.
+Version 1.0.1 (Jul 8, 2015)
+    IMPROVEMENTS
+
+    - Improved Chinese & Spanish localizations
+    - Carbo is now accessible to other app (export image to Carbo) through Open In
+    - Deleting a note now requires user confirmation
+    - Added support for transparent PNG input
+
+
+    BUGFIXES
+
+    - In-call status bar layout fixes
+    - Fixed a problem that could cause a crash with Dropbox notebooks
+    - Fixed a number of rare crashes
+    - Fixed iOS 9-related crashes
+Version 1.0 (May 21, 2015)
+
+Users may also like
+Select objects to compare
+Plus Note Taking Memo Notepad
+NoteLedge - Mood Board & Notes
+Blankbook - Paper Note
+Tayasui Memopad 2
+Smart Note Notepad - Draw Memo
+memono Notepad
+ZoomNotes Lite
+Bamboo Paper
+Whitelines
+Noteflow Digital Notebook
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+148 times
+on App Store category pages
+Versions
+
+    2.2.4
+    Current release
+    Sep 15, 2022
+    2.2.3
+    Apr 4, 2022
+    2.2.2
+    Nov 15, 2021
+    2.2.2
+    Nov 15, 2021
+    2.1
+    Dec 2, 2020
+    2.0.2
+    Nov 18, 2020
+    2.0
+    Nov 11, 2020
+    1.8.1
+    Jun 9, 2020
+    1.8
+    Oct 30, 2019
+    1.7
+    Dec 10, 2018
+    1.6.7
+    Oct 18, 2018
+    1.6.6
+    Oct 4, 2018
+    1.6.5
+    Jun 21, 2018
+    1.6.4
+    May 24, 2018
+    1.6.3
+    May 7, 2018
+    1.6.2
+    Mar 29, 2018
+    1.6.1
+    Jan 24, 2018
+    1.6
+    Nov 3, 2017
+    1.5.2
+    Oct 10, 2017
+    1.5.1
+    Oct 2, 2017
+    1.5
+    Sep 19, 2017
+    1.4.4
+    Jun 8, 2017
+    1.4.3
+    May 11, 2017
+    1.4.2
+    Feb 3, 2017
+    1.4.1
+    Jan 30, 2017
+    1.4
+    Sep 13, 2016
+    1.3.2
+    Aug 24, 2016
+    1.3.1
+    Aug 18, 2016
+    1.3
+    May 12, 2016
+    1.2.3
+    Mar 30, 2016
+    1.2.2
+    Feb 9, 2016
+    1.2.1
+    Jan 4, 2016
+    1.2
+    Nov 12, 2015
+    1.1
+    Sep 16, 2015
+    1.0.2
+    Aug 17, 2015
+    1.0.1
+    Jul 8, 2015
+    1.0
+    May 21, 2015
+
+See More
+Top In-App Purchases
+
+    Pro Plan (Monthly)
+    $0.99
+    Pro Plan (Yearly)
+    $7.99
+    Pro Pack 2
+    $15.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    May 21, 2015
+
+Worldwide Release Date
+    May 21, 2015
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    2.2.4
+
+Size
+    35.93 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Dutch, French, German, Italian, Japanese, Norwegian Bokmål, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    Creaceed SRL
+
+Company HQ
+    Belgium
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.2 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.creaceed.carbo
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 956811074
+Unified App ID: 1000600000512531
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Carbo › Digital Notebook | data.ai

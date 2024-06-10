@@ -1,0 +1,696 @@
+Skip to main content
+Intelligence
+Trial in-progress
+
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Translate Professional
+TradukoReference (Applications)Free
+Alerts
+
+Translate Professional
+Translate Professional
+Translate Professional
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+United States
+Performance Summary
+Downloads
+N/A
+Store Revenue
+$69
+
+Chart
+Line chart with 8 data points.
+The chart has 1 X axis displaying Time. Data ranges from 2023-12-17 00:00:00 to 2024-02-04 00:00:00.
+The chart has 1 Y axis displaying values. Data ranges from 44 to 44.
+End of interactive chart.
+Active Users
+N/A
+% Paid Downloads
+N/A
+Translate Professional
+Instant translation anywhere
+Reference (Applications)
+Free
+App Description
+Discover the ultimate translation tool for all your needs with Translate Professional. Whether you're traveling abroad, studying a new language, or simply communicating with people from different parts of the world, this app has everything you need to overcome language barriers.
+
+With the ability to translate text between 63 languages in an instant, this app is incredibly fast and efficient. Plus, the option to take a photo of any text and have it instantly translated makes understanding foreign signs, menus, or any written text a breeze. You can even record your voice using the microphone and have it translated, making it easy to communicate with native speakers.
+
+Translate Professional also provides you with many professionally translated phrases and words in different categories, giving you offline access to the most important expressions you need for everyday life. Whether it's for work, school, or leisure, this app has you covered.
+
+In addition, synthetic voices are available as in-app purchases, so you can listen to any phrase or word in 21 different languages by downloading a voice. This feature makes your translations even more authentic, allowing you to immerse yourself in the language and culture you're learning.
+
+No matter where you are, you can use Translate Professional with peace of mind, knowing that the phrase book is available offline and doesn't require an internet connection.
+
+Download Translate Professional today and experience the convenience and ease of having a professional translation tool right at your fingertips!
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Ratings
+Displayed Avg Ratings
+4.66
+Total Displayed Ratings
+3.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 10.0.4 (Apr 6, 2023)
+    New: Import any EPUB and listen to the text
+Version 10.0.3 (Mar 1, 2023)
+    bug fixes and performance improvements
+Version 10.0.2 (Feb 17, 2023)
+    - Updated audio engine
+    - UI tweaks
+    - fix problem affecting some devices
+Version 10.0.1 (Feb 12, 2023)
+    - Updated audio engine
+    - UI tweaks
+Version 10.0.0 (Feb 9, 2023)
+    - Updated audio engine
+    - UI tweaks
+Version 8.0.5 (Dec 17, 2019)
+    Bug fixes
+Version 8.0.4 (Nov 21, 2019)
+    Bug fixes
+Version 8.0.3 (Nov 19, 2019)
+    bug fixes
+Version 8.0.2 (Nov 15, 2019)
+    Support for light and dark mode
+Version 8.0 (Nov 13, 2019)
+    Bug fixes
+Version 7.0.2 (Jan 8, 2018)
+    bug fixes
+Version 7.0.1 (Jan 4, 2018)
+    bug fixes
+Version 7.0.0 (Jan 3, 2018)
+    Bug fixes
+Version 6.0.4 (Aug 30, 2016)
+    Bug fixes
+Version 6.0.3 (May 20, 2016)
+    Bug fixes
+Version 6.0.2 (Nov 4, 2014)
+    Bug fixes.
+
+    If you like the app, please leave a review, it only takes a minute!
+Version 6.0.1 (Oct 29, 2014)
+    Bug fixes.
+
+    If you like the app, please leave a review, it only takes a minute!
+Version 5.1.2 (Apr 10, 2014)
+    Bug fixes.
+
+    If you like the app, please leave a review! It only takes a minute!
+Version 5.1.1 (Nov 7, 2013)
+    • Small bug fix
+
+    If you like the app, please leave a review! It only takes a minute!
+Version 5.1.0 (Oct 31, 2013)
+    • iOS7 support!
+    • Favorites are now on the main screen
+
+    If you like the app, please take a minute and leave a review!
+Version 5.0.2 (Aug 15, 2013)
+    Hi there!
+    If you like the app, please take 1 minute and rate it, it really takes less than a minute!
+
+    • Addresses an issue where interrupted downloads sometimes didn't resume properly.
+Version 5.0.1 (Aug 3, 2013)
+    This is a big update!
+
+
+
+    • Bug fixes
+
+    • Complete support for iPad!
+
+    • Completely new graphics!
+
+    • Share translation via email, Facebook, Twitter
+Version 5.0 (Jul 17, 2013)
+    The future is flat - so is Translate Professional.
+    - Improved graphics and user experience
+    - Faster translation
+Version 4.21 (Nov 1, 2012)
+    Added support for iPhone 5.
+Version 4.20 (Aug 10, 2012)
+    -- Translate Professional 4.20 for iPhone and iPad --
+
+    Presenting: Dictionary lookup for (some) words
+
+
+
+    • New copy functionality. Tap the text to show the menu.
+
+    • Tap a word to highlight it in the Single Translation view. If a definition is available, a button will appear.
+
+    • Mark your favorite translations and access them from the Library!
+
+    • Full screen mode for translations. Simply tap the arrows!
+
+    • Slight graphics changes all over the app.
+
+
+
+    IMPORTANT: If you ever have any problem at all with the voices, simply download them again for a fresh, updated voice (For free of course!).
+
+    This will upgrade the voice to a newer, better version.
+
+
+
+    Remember, if you have any questions at all, simply contact us through:
+
+    info@traduko.se
+
+    facebook.com/traduko
+
+    Twitter: @valross2
+
+
+
+    >> News for developers
+
+    New URL scheme!
+
+    Translate Professional now responds to the translatepro:// URL scheme
+
+    Examples:
+
+
+
+    • Launch app:
+
+    translatepro://
+
+
+
+    • Launch, paste from clipboard:
+
+    translatepro://clipboard
+
+
+
+    Launch and paste the text into the translation field:
+
+    translatepro://text=[TEXT]
+Version 4.12 (Jul 30, 2012)
+    -- Translate Professional 4.12 for iPhone and iPad --
+    Presenting: Favorite translations and Full-screen mode!
+
+    • Mark your favorite translations and access them from the Library!
+    • Full screen mode for translations. Simply tap the arrows!
+    • Adjustable font size.
+    • Slight graphics changes all over the app.
+
+    IMPORTANT: If you ever have any problem at all with the voices, simply download them again for a fresh, updated voice (For free of course!).
+    This will upgrade the voice to a newer, better version.
+
+    Remember, if you have any questions at all, simply contact us through:
+    info@traduko.se
+    facebook.com/traduko
+    Twitter: @valross2
+
+    >> News for developers
+    New URL scheme!
+    Translate Professional now responds to the translatepro:// URL scheme
+    Examples:
+
+    • Launch app:
+    translatepro://
+
+    • Launch, paste from clipboard:
+    translatepro://clipboard
+
+    Launch and paste the text into the translation field:
+    translatepro://text=[TEXT] 
+Version 4.11 (Jul 6, 2012)
+    -- Translate Professional 4.1 for iPhone and iPad --
+
+    Presenting: JAPANESE and CHINESE voices and a new icon!
+
+
+
+    • New, stunning, beautiful icon.
+
+    • Complete support for the new iPad retina screens!
+
+    • Slight graphics changes all over the app.
+
+    • The voice engine has been upgraded. This means that your voices will pronounce the words even better!
+
+
+
+    IMPORTANT: If you have any problem at all with the voices, simply download them again for a fresh, updated voice (For free of course!).
+
+    This will upgrade the voice to a newer, better version.
+
+
+
+    New voices:
+
+    - Mandarin Chinese: Lulu (Female voice)
+
+    - Japanese: Sakura (Female voice)
+
+    - Australian English: Tyler (Male voice)
+
+    - Swedish (Scania): Mia (Female Voice)
+
+    - Swedish (Gothenburg): Kal (Male Voice)
+
+    - Italian: Fabiana (Female voice)
+
+    - Belgian Dutch: Zoe (Female voice)
+
+    - Dutch: Daan (Male voice)
+
+    - Dutch: Jasmijn (Female voice)
+
+    - German: Andreas (Female voice)
+
+    - Norwegian: Bente (Female voice)
+
+    - Spanish: Ines (Female voice)
+
+    - Swedish: Emil (Male voice)
+
+    - US English: Will (Male Voice)
+
+
+
+    Remember, if you have any questions at all, simply contact us through:
+
+    info@traduko.se
+
+    facebook.com/traduko
+
+
+
+    Twitter: @valross2
+
+
+
+    >> News for developers
+
+    New URL scheme!
+
+    Translate Professional now responds to the translatepro:// URL scheme
+
+    Examples:
+
+
+
+    • Launch app:
+
+    translatepro://
+
+
+
+    • Launch, paste from clipboard:
+
+    translatepro://clipboard
+
+
+
+    Launch and paste the text into the translation field:
+
+    translatepro://text=[TEXT]
+
+Version 4.1 (Jul 5, 2012)
+    -- Translate Professional 4.1 for iPhone and iPad --
+    Presenting: JAPANESE and CHINESE voices and a new icon!
+
+    • New, stunning, beautiful icon.
+    • Complete support for the new iPad retina screens!
+    • Slight graphics changes all over the app.
+    • The voice engine has been upgraded. This means that your voices will pronounce the words even better!
+
+    IMPORTANT: If you have any problem at all with the voices, simply download them again for a fresh, updated voice (For free of course!).
+    This will upgrade the voice to a newer, better version.
+
+    New voices:
+    - Mandarin Chinese: Lulu (Female voice)
+    - Japanese: Sakura (Female voice)
+    - Australian English: Tyler (Male voice)
+    - Swedish (Scania): Mia (Female Voice)
+    - Swedish (Gothenburg): Kal (Male Voice)
+    - Italian: Fabiana (Female voice)
+    - Belgian Dutch: Zoe (Female voice)
+    - Dutch: Daan (Male voice)
+    - Dutch: Jasmijn (Female voice)
+    - German: Andreas (Female voice)
+    - Norwegian: Bente (Female voice)
+    - Spanish: Ines (Female voice)
+    - Swedish: Emil (Male voice)
+    - US English: Will (Male Voice)
+
+    Remember, if you have any questions at all, simply contact us through:
+    info@traduko.se
+    facebook.com/traduko
+
+    Twitter: @valross2
+
+    >> News for developers
+    New URL scheme!
+    Translate Professional now responds to the translatepro:// URL scheme
+    Examples:
+
+    • Launch app:
+    translatepro://
+
+    • Launch, paste from clipboard:
+    translatepro://clipboard
+
+    Launch and paste the text into the translation field:
+    translatepro://text=[TEXT]
+
+
+
+Version 4.0 (May 9, 2012)
+    -- Translate Professional 4.0 for iPhone and iPad --
+
+    THIS IS A MAJOR UPDATE!
+
+    Translate Professional is now a universal app with full-resolution support for iPad!
+
+    News:
+    • Complete support for iPad!
+    Completely new graphics!
+    Important! The search field is now found by pulling the translation view down
+    Share translation through text message (SMS)
+    Send translation via email
+    Share translation to Facebook!
+    Share translation to Twitter
+    Swipe left or right to copy or delete a translation
+    Delete button
+    Faster translation!
+
+    Remember, if you have any questions at all, simply contact us through:
+    info@traduko.se
+    facebook.com/traduko
+
+    Twitter: @valross2
+
+    >> News for developers
+    New URL scheme!
+    Translate Professional now responds to the translatepro:// URL scheme
+    Examples:
+
+    • Launch app:
+    translatepro://
+
+    • Launch, paste from clipboard:
+    translatepro://clipboard
+
+    Launch and paste the text into the translation field:
+    translatepro://text=[TEXT]
+
+Version 3.3 (Apr 17, 2012)
+    • Faster translation!
+    • Removed a crash
+
+    Please let us know how to make this app better!
+    facebook.com/traduko
+Version 3.2 (Mar 29, 2012)
+    • Some new graphics
+    • Small bug fixes
+Version 3.1 (Mar 21, 2012)
+    • Voice packs!
+    • Slightly updated graphics
+
+    Follow us on Facebook:
+    http://www.facebook.com/traduko
+    Twitter
+    @valross2
+Version 3.0 (Feb 14, 2012)
+    3.0 is a major update!
+
+
+
+    Apart from lots of bug fixes, there's a completely new section called "Phrases", containing more than 300 professionally translated phrases to help you on your trip!
+
+    Have fun!
+
+
+
+    Twitter: @valross2
+
+    Facebook: facebook.com/traduko
+Version 2.22 (Feb 3, 2012)
+    Simpler interface
+
+    Bug fixes
+
+
+
+    Twitter: @valross2
+
+    Facebook: facebook.com/traduko
+Version 2.21 (Jan 19, 2012)
+    Bug fixes
+Version 2.20 (Jan 13, 2012)
+    Bug fixes
+Version 2.10 (Nov 9, 2011)
+    Minor bug fixes
+
+Version 2.01 (Oct 28, 2011)
+    Bug fixes
+Version 2.0 (Oct 26, 2011)
+    Brand new interface!
+
+    Completely rebuilt!
+
+    Many new voices
+Version 1.70 (Dec 3, 2010)
+    Fixed a few bugs.
+
+
+
+    Make sure to follow Traduko at
+
+    http://www.facebook.com/traduko
+
+
+
+    Don't forget to rate the application if you like it!
+Version 1.61 (Oct 19, 2010)
+    - Removable ads
+    - Fixed a bug that caused the application to not save settings properly. Sorry about this!
+Version 1.6 (Sep 30, 2010)
+    • Landscape mode
+    • Updated play buttons
+    • Improved settings screen
+    • More Retina support
+    • iOS 4.0 Support
+    • Fully Localized!!
+
+    For more info, follow us on Facebook!
+    http://www.facebook.com/traduko
+
+    Follow us on Twitter:
+    http://twitter.com/valross2
+Version 1.5 (Aug 26, 2010)
+    - Support for both Microsoft Bing and Google Translate
+    - artwork adjusted for the iPhone 4 display
+    - Enhanced settings
+    - Improved voice store
+Version 1.4 (Jul 26, 2010)
+    Now possible to set voice speed.
+Version 1.3 (May 13, 2010)
+    Fixed a bug experienced by some users. Voice Support!
+Version 1.2 (Mar 17, 2010)
+    new functions, copy to clipboard and switch languages easily
+Version 1.1 (Mar 9, 2010)
+    Fixed a nasty bug causing non-lowercase string not to be translated correctly
+Version 1.0 (Mar 4, 2010)
+
+
+Users may also like
+Select objects to compare
+Spanish Translator + ©
+Spanish - English Translator
+Translator+ Free my voice now
+iTranslate Voice
+IL Castiglioni-Mariotti
+Latin Help
+Spanish Translator Offline
+Italian Translator +
+Translator : Translate Voice
+Translator. Translate Voice
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    10.0.4
+    Current release
+    Apr 6, 2023
+    10.0.3
+    Mar 1, 2023
+    10.0.2
+    Feb 17, 2023
+    10.0.1
+    Feb 12, 2023
+    10.0.0
+    Feb 9, 2023
+    8.0.5
+    Dec 17, 2019
+
+See More
+Top In-App Purchases
+
+    Pro Upgrade
+    $0.99
+    Antonio
+    $2.99
+    Sakura
+    $2.99
+    Heather
+    $2.99
+    Rosa
+    $2.99
+    Laura
+    $2.99
+    Maria
+    $2.99
+    Lulu
+    $2.99
+    Tracy
+    $2.99
+    Ryan
+    $2.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Mar 5, 2010
+
+Worldwide Release Date
+    Mar 4, 2010
+
+Last Updated Time
+    Feb 11, 2024
+
+Version
+    10.0.4
+
+Size
+    38.80 mb
+
+Only 32 Bit
+    No
+
+Languages
+    俄文, 德文, 意大利文, 日文, 法语, 瑞典文, 简体中文, 英语, 荷兰文, 葡萄牙文, 西班牙文, 阿拉伯文
+
+Seller
+    Traduko AB
+
+Company HQ
+    Sweden
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 15.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    se.traduko.translatepro
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 359354972
+Unified App ID: 1000600000508251
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Translate Professional | data.ai
+				
+				
+				
+				
+				
+	

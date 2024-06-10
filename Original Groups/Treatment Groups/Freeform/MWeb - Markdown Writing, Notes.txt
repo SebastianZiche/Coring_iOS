@@ -1,0 +1,859 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MWeb - Markdown Writing, Notes
+禄海 区Productivity (Applications)Free
+Alerts
+
+    禄海 区
+
+    MWeb - Markdown Writing, Notes
+    MWeb - Markdown Writing, Notes
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MWeb - Markdown Writing, Notes
+Let's Simple,Focused,Efficient
+Productivity (Applications)
+Free
+App Description
+MWeb was born in 2015. It is a writing, note-taking and publishing app focusing on Markdown. If you like Markdown or text writing, We highly recommend you try MWeb.
+
+MWeb is composed of a complete and stable editor, a Folders mode for managing documents, a Library mode specifically for notes, and a document publishing and sharing function set, with a total of four modules. The characteristic of MWeb's software is that it selects the best technology for each platform. It is built using AppKit on macOS and UIKit on iOS/iPadOS. The following is a brief introduction to these four modules. If you are interested, you can continue reading.
+
+## Editor features
+
+Here are some of the key features of an editor:
+
+* Base on CommonMark syntax and GitHub Flavored Markdown (GFM) extended syntax, supporting TOC, tables, code blocks, math formulas, task lists, footnotes, etc.
+* Display the text of the Markdown document completely without any deletion.
+* Images can be displayed directly in the Editor, supporting jpg, png, gif, webP, HEIC and etc.
+* Math formulas, mermaid and Echarts drawings can be previewed in the editor.
+* You can set your favorite font or multiple fonts for writing.
+* You can choose from 11 light themes and 21 dark themes, and also support custom themes.
+* There is a menu to facilitate the input of Markdown syntax, and a special Markdown syntax keyboard is also provided in iOS.
+* Convenient tools for generating and formatting Markdown table syntax.
+* You can view the outline and word count of Markdown documents.
+* Markdown documents can be previewed and support Editor & Preview mode.
+
+## Folders mode
+
+The first requirement of Markdown is to create and edit Markdown documents, and MWeb's Folders mode does this. It supports the following features:
+
+* Create Markdown, Textbundle documents, or simply open them for editing.
+* Introduce a folder with Markdown documents into the Folders mode of MWeb. MWeb will provide practical functions such as management of Markdown documents, full-text search, copy and paste to insert images, and unified storage of referenced images.
+* iPadOS/iOS version supports Dropbox folders.
+
+## Library mode
+
+Markdown is so easy to use, so taking notes is also in great demand. Of course, you can use Folders mode and introduce a folder to take notes, which is also very nice and easy to share. So why do we still create a separate Library mode? Mainly, the Library mode has the following features:
+
+* There is no need to consider the file name, title and storage location, Just create note and writing.
+* Use category trees and tags to manage notes. A single note can be classified into multiple categories, making it easier to set categories for notes.
+* Organizing notes is more convenient. When moving categories and notes, renaming categories will not affect each other. You don't need to worry about incorrect associations between notes, incorrect reference location of images and attachments in notes, etc.
+* Complete cross-device synchronization using iCloud CloudKit technology.
+* The Library follows the "local first" principle and is stored in a folder, very easy for backup. Even if you use iCloud sync, your Library can be completely backed up locally.
+* Export the entire category of notes to PDF or Epub e-book.
+* The macOS version of MWeb Pro also supports generating static blogs from categories. The generated blog fully supports math formulas, mermaid, echarts etc. Allows you to create your own blog in a very simple way.
+
+## More features...
+
+* Publish documents or notes to Wordpress, Metaweblog API, Evernote, Blogger, Tumblr, Yuque, sspai Matrix, Ghost and Medium.
+* Upload images in documents or notes to imgur, Qiniu, SM.MS, Tencent COS, Youpai, Alibaba OSS, custom API, etc.
+* Export documents or notes to PDF (with Table of Contents in macOS version).
+* Export documents or notes to Epub or image.
+
+Privacy Policy: https://www.mweb.im/policy.html
+Terms of Use: https://www.mweb.im/terms.html
+
+Hope you enjoy MWeb!
+Ratings
+Displayed Avg Ratings
+4.43
+Total Displayed Ratings
+1.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.5.7 (Feb 5, 2024)
+    * Bug fixes and improvements.
+Version 4.5.6 (Jan 30, 2024)
+    * Bug fixes and improvements.
+Version 4.5.5 (Jan 6, 2024)
+    Bug fixes and improvements.
+Version 4.5.4 (Jan 3, 2024)
+    * New feature: A "Recently Used" button has been added to the bottom toolbar of the editor. After tap it, you can view and open recently used documents. There is no need to switch to the "Recently Used" page in the main navigation.
+    * Bug fixes and improvements.
+Version 4.5.2 (Dec 20, 2023)
+    * Improvement: The Library mode's editor information bar is changed to fully display the path of the category to which the document belongs.
+    * Improvement: Optimized the toolbar at the bottom, and now it is more convenient to add "Documents/Categories/Folders".
+Version 4.5.1 (Dec 15, 2023)
+    * Bug fixes and improvements.
+Version 4.4.9 (Sep 21, 2023)
+    * New feature: New "Settings - Editor - Theme Prefer:", there are three options: "Automatically by System, Prefer Light Theme, Prefer Dark Theme". When you choose "Automatically by System", the theme will change according to the light and dark settings of the iOS/iPadOS system.
+    * Improvement: Compatible with iOS/iPadOS 17.
+    * Improvement: A "Replace..." button is added to the local image upload interface of the document. When tap the "Replace..." button, the local image address in the original document will be replaced with the uploaded image address.
+    * Other bug fixes and improvements.
+Version 4.4.8 (Sep 7, 2023)
+    * New feature: add 25 new themes, including 8 light themes and 17 dark themes.
+    * Bug fixes and improvements.
+Version 4.4.7 (Aug 4, 2023)
+    * Improvement: Improved LaTeX's `$` syntax support, support \$ escape, support GitHub's $`\sqrt{3x-1}+(1+x)^2`$ syntax.
+    * Improved: LaTeX settings added option: LaTeX enables physics package.
+    * Other bug fixes and improvements.
+Version 4.4.6 (Jul 14, 2023)
+    * Fixed: "Generate Github Style TOC" function is not working properly.
+Version 4.4.5 (Jul 5, 2023)
+    * New feature: References (backlinks) between documents can be viewed in the outline view. If there are references in the document to other documents or referenced by other documents, they will be listed in the outline view. Tap the (i) button on the toolbar to see the outline view.
+    * New feature: The reference syntax between documents adds support for locating the title in the document. in the editor, please place the cursor in the title, and then tap the "(...) button - Copy Note Link" to Generate citation syntax and paste it in other documents. The original syntax is: `[Test](mweblib://16292173056753)`, and the syntax to locate the title is: `[Test](mweblib://16292173056753#titile)`. Where `#title` means "# + title or text in the document". Tip: You can also long press the document list in the Library and select "Copy Note Link".
+    * New feature: Added three options "Autocorrect, Smart Dash and Smart Quote" in the settings, you can choose to disable all of them individually in the app without modifying the system's keyboard settings.
+    * Improvement: When you double Tap on the text of the link in the editor, there will be an "Open" menu item in the pop-up menu, and the link can be opened after Taping. In addition, the "Format" item in the pop-up menu adds "Copy Note Link".
+    * Improvement: When exporting HTML, when using the default theme, the width of HTML content was changed from unlimited width to editor line width in preferences in iPad, and limited to 760 in iPhone.
+    * Improvement: mermaid library upgraded to 10.2.3.
+    * Other bug fixes and improvements.
+Version 4.4.4 (Apr 12, 2023)
+    * Improvement: Improved the user experience of using multiple windows in iPadOS.
+    * Other bug fixes and improvements.
+Version 4.4.1 (Mar 10, 2023)
+    * Fixed: In the preview mode while editing, the preview will flicker when editing a document.
+    * Changed: The shortcut for strikethrough is changed to: cmd + shift + e.
+    * Changed: The Markdown link generated when inserting an attachment is changed to add an extension and line break.
+    * Other bug fixes and improvements.
+Version 4.3.9 (Mar 7, 2023)
+    Bug fixes and improvements.
+Version 4.3.8 (Feb 24, 2023)
+    * New: Now you can pin the note in the Library to the top. In the list, long-press the note and select "Pinned Note".
+    * Changed: In the previous version, the app did not open any documents after it was launched, but now it automatically opens the last opened document.
+    * Changed: When copying an image from macOS and pasting it to iPadOS/iOS, it was pasted as a tiff format before, but now it is changed to a jpg/png format.
+    * Fixed: The URL scheme (mwebapp://?p=quicknote) to open QuickNote is not work when the app is not launched.
+    * Fixed: Some bugs in editing custom themes.
+    * Updated mermaid library and mathjax library.
+    * Other bug fixes and improvements.
+Version 4.3.7 (Oct 13, 2022)
+    * Fix the bug caused by the previous version: "Select All - Delete" will crash.
+Version 4.3.5 (Sep 22, 2022)
+    * The editor can now set multiple fonts. You can now set different fonts for headings, main content and code blocks, and you can also apply the font you set to the preview. How to use: "Settings Page - General Settings - Fonts - Add or Edit Multiple Fonts".
+    * Compatible with iOS 16.
+    * Other bug fixes and improvements.
+Version 4.3.4 (Aug 24, 2022)
+    * Bug fixes and improvements.
+Version 4.3.3 (Aug 20, 2022)
+    * Added the "Change Icon" feature to the category of the Library mode. Please try "long press the category and choose - Change Icon" to use this feature.
+    * In addition to automatically new note regularly, Quick Notes also adds a "Manually New Note" option. After selecting "Manually New Note", you can click the "+" button in the upper right corner of the editor to add a new note.
+    * The editor optimizes the operation of opening links: when the mouse pointer is moved over the link, a button will be displayed beside the link. Click this button to open the link.
+    * Fixed an issue where some special documents could not be jumped when clicking the title in the outline view in preview-only mode.
+    * The cmark-gfm library is updated to 0.29.0.gfm.4. This library is used to parse markdown syntax highlighting and generate html. It is very important. If you find any problems, feedback is welcome.
+    * Added: Added "Automatic Equation Numbering" option for LaTeX equations, in "Settings - Automatic Equation Numbering".
+    * Improved: When importing a theme, if an existing name is detected, it will first ask whether to overwrite the theme with the same name.
+    * Other bug fixes and improvements.
+Version 4.2.8 (Jun 15, 2022)
+    * The UI is changed back to the 4.2.6 version.
+    * The keyboard of iPadOS adds two buttons "M" and "...". Pressing the "M" button will display all Markdown buttons; pressing the "..." button is a switch to show/hide the toolbar on the keyboard .
+    * Added "Export as Textbundle..." to the menu item of the share button, and changed the original "Share this document" to "Copy Markdown".
+    * The shortcut key for inserting a table has been changed from the invalid "Ctrl + Shift + T" to "Command + T". The shortcut key in the table editing is changed to the same as the macOS version of MWeb. Press and hold the Command key in the Insert Table window to view the shortcut keys.
+    * Other bug fixes and improvements.
+Version 4.2.7 (May 21, 2022)
+    * Further optimize the UI and UX.
+    * The original "Insert Image File..." feature only supports inserting images. Now you can also insert files, and the name is changed to "Insert Image or File..."
+    * Other bug fixes and improvements.
+Version 4.2.6 (Apr 15, 2022)
+    * Bug fixes and improvements.
+Version 4.2.5 (Mar 3, 2022)
+    * Add a "Copy Note" menu item to the long-press menu of the document list of the Library
+    * In the external folder mode, the image path setting adds support for the {filename} variable.
+    * Fixed an issue where the
+    character is not rendered when using $ in inline math formulas.
+    * Other bug fixes and improvements.
+Version 4.2.4 (Jan 14, 2022)
+    * In "Recent and Favorites" Group, add the "How to use MWeb?" button, tap the button will open the "MWeb usage documentation".
+    * Optimized support for touchpad.
+Version 4.2.3 (Dec 10, 2021)
+    * 文档库的 iCloud 同步按钮加上 “同步有问题？” 菜单，点击后，可以选择 “重新下载 iCloud 上文档库的内容” 或 “重新上传当前的文档库到 iCloud”。
+    * 修正使用 HTML 语法中引用的本地图片在预览中不显示的 bug。
+    * 设置页的快速笔记设置，增加 “是否自动插入日期时间” 的选项。
+    * 其它 Bug 修正及改进。
+Version 4.2.2 (Nov 17, 2021)
+    * Sidebar long press menu add new item: "Add to Favorites".
+    * Now you can add the Library tag to the Favorites.
+    * The editor supports drag and drop to insert images and files.
+    * Other bug fixes and improvements.
+Version 4.2.1 (Oct 21, 2021)
+    * Outline view add "Images & Attachments" section in Library's documents.
+    * Preferences added "LaTeX math formulas not to use `$$` syntax" option.
+    * Markdown keyboard added insert “-” character button.
+    * Other bug fixes and improvements.
+Version 4.1.9 (Sep 29, 2021)
+    * Table editing changed to use native technology (previously used Web technology).
+    * The interface for switching themes has been changed to a more friendly way. Creating themes is also easier, and MWeb will add more themes in the future.
+    * Now you can also customize the theme, tap the "..." button on the top right of the theme switching interface to customize it. Note: Modifying the preview style currently requires switching documents to see the results.
+    * Insert Links and Images syntax is changed to the way of using dialog boxes.
+    * Fixed the problem of too many Web Content processes.
+    * Other bug fixes and improvements.
+Version 4.1.8 (Aug 27, 2021)
+    * Fixed the crash bug of "Generate Github Style TOC".
+
+    ## version 4.1.7
+
+    * CloudKit synchronization optimization: If the modification time of the pushed document is older than the modification time of the current document, it will give up updating the document.
+    * Editor improvements: In the previous version, images were not displayed in the list. Now they are also displayed in the list, but they still won't be displayed in the table.
+    * Want to customize the theme? please wait for the next version.
+    * Other bug fixes and improvements.
+
+    If you encounter problems during the upgrade process, please check this link: https://www.mweb.im/mweb4qa.html
+
+    ## version 4.1.4
+
+    1. Let me talk about the main points of Library iCloud synchronization: In addition to setting "Store in iCloud" on iOS, you must also click "Store in iCloud" button in "Preferences - Library" on MWeb for macOS. By default, iCloud synchronization is not turned on.
+    2. Library iCloud synchronization has been further optimized. If there are images in the document before version 4.1.3 that cannot be synchronized, please open the document and manually click the sync button, then the images will be resynchronized. If the images of version 4.1.4 fails to sync, it will try again.
+
+    ## MWeb 4 update
+
+    * New editor, using Commonmark standard and supporting GFM.
+    * The documents Library supports CloudKit synchronization.
+    * UI adjustments.
+Version 4.1.7 (Aug 26, 2021)
+    * CloudKit synchronization optimization: If the modification time of the pushed document is older than the modification time of the current document, it will give up updating the document.
+    * Editor improvements: In the previous version, images were not displayed in the list. Now they are also displayed in the list, but they still won't be displayed in the table.
+    * Want to customize the theme? please wait for the next version.
+    * Other bug fixes and improvements.
+
+    If you encounter problems during the upgrade process, please check this link: https://www.mweb.im/mweb4qa.html
+
+    ## version 4.1.4
+
+    1. Let me talk about the main points of Library iCloud synchronization: In addition to setting "Store in iCloud" on iOS, you must also click "Store in iCloud" button in "Preferences - Library" on MWeb for macOS. By default, iCloud synchronization is not turned on.
+    2. Library iCloud synchronization has been further optimized. If there are images in the document before version 4.1.3 that cannot be synchronized, please open the document and manually click the sync button, then the images will be resynchronized. If the images of version 4.1.4 fails to sync, it will try again.
+
+    ## MWeb 4 update
+
+    * New editor, using Commonmark standard and supporting GFM.
+    * The documents Library supports CloudKit synchronization.
+    * UI adjustments.
+Version 4.1.6 (Aug 17, 2021)
+    ## version 4.1.6
+
+    * Bug fixes and improvements.
+
+    If you encounter problems during the upgrade process, please check this link: https://www.mweb.im/mweb4qa.html
+
+    ## version 4.1.4
+
+    1. Let me talk about the main points of Library iCloud synchronization: In addition to setting "Store in iCloud" on iOS, you must also click "Store in iCloud" button in "Preferences - Library" on MWeb for macOS. By default, iCloud synchronization is not turned on.
+    2. Library iCloud synchronization has been further optimized. If there are images in the document before version 4.1.3 that cannot be synchronized, please open the document and manually click the sync button, then the images will be resynchronized. If the images of version 4.1.4 fails to sync, it will try again.
+
+    ## MWeb 4 for iOS/iPadOS
+
+    * New editor, using Commonmark standard and supporting GFM.
+    * The documents Library supports CloudKit synchronization.
+    * UI adjustments.
+
+
+Version 4.1.5 (Aug 16, 2021)
+    ## version 4.1.5
+
+    * Add option in Settings: Translate Newlines to br tags
+    * Bug fixes and improvements.
+
+    If you encounter problems during the upgrade process, please check this link: https://www.mweb.im/mweb4qa.html
+
+    ## version 4.1.4
+
+    1. Let me talk about the main points of Library iCloud synchronization: In addition to setting "Store in iCloud" on iOS, you must also click "Store in iCloud" button in "Preferences - Library" on MWeb for macOS. By default, iCloud synchronization is not turned on.
+    2. Library iCloud synchronization has been further optimized. If there are images in the document before version 4.1.3 that cannot be synchronized, please open the document and manually click the sync button, then the images will be resynchronized. If the images of version 4.1.4 fails to sync, it will try again.
+
+    ## MWeb Pro 4 for macOS
+
+    * New editor, using Commonmark standard and supporting GFM.
+    * The documents Library supports CloudKit synchronization.
+    * UI adjustments.
+
+Version 4.1.1 (Aug 13, 2021)
+    * When quick note is stored in the Library, now you can choose which category to save to in the settings page.
+    * The "Export MWeb 3 Preview CSS" button has been added at the bottom of the settings page.
+    * When you choose to store the Library in iCloud and edit the documents in the Library, the "..." button at the bottom of the editor will have a "Document History..." item. Tap it you can check the document history version.
+    * Bug fixes and stability improvements.
+
+    ## MWeb 4 for iOS/iPadOS
+
+    * New editor, using Commonmark standard and supporting GFM.
+    * The documents Library supports CloudKit synchronization.
+    * UI adjustments.
+
+    * If you encounter problems during the upgrade process, please check this link: https://www.mweb.im/mweb4qa.html
+
+Version 4.0.0 (Aug 9, 2021)
+    * New editor, using Commonmark standard and supporting GFM.
+    * The documents Library supports CloudKit synchronization.
+    * UI adjustments.
+    * Bug fixes and stability improvements.
+Version 3.2.6 (Dec 12, 2020)
+    * Support publishing to the Yuque team repository. Click "Publish to team repository..." on the publishing interface, and then fill in the homepage URL of the team repository for configuration.
+    * The insert time button on the keyboard toolbar has been added to insert the current time of "Quick Note Time Format".
+    * Other bug fixes and improvements.
+Version 3.2.5 (Nov 4, 2020)
+    * The publishing service adds support for Yuque Enterprise Edition. When adding Yuque's publishing service, select Yuque Enterprise Edition.
+    * When entering the file list, long press the file or folder in the list to display the menu (ContextMenu) to add "Move to.., Rename".
+    * mermaid library updated to the latest version.
+    * Other bug fixes and improvements.
+Version 3.2.4 (Oct 23, 2020)
+    Bug fixes and stability improvements.
+Version 3.2.3 (Jun 10, 2020)
+    * iPadOS version now can set the width of the editor line (small, middle, large).
+    * Fixed the case where the cursor jumps to another position when entering text when there are too many pictures in the editor.
+Version 3.2.2 (May 22, 2020)
+    * Add .rst file extension in folder setting.
+    * Other bug fixes and stability improvements.
+Version 3.2.1 (May 21, 2020)
+    * Add: Markdown keyboard add "Insert Current Date" button, shortcut: (CMD + D, CMD + Shift + D).
+    * Add: Support iOS 13 Context Menu.
+    * Fix issue that publish to ghost can't update.
+    * Update mermaid lib to 8.5.0.
+    * Other bug fixes and stability improvements.
+Version 3.1.9 (Mar 25, 2020)
+    * Markdown keyboard add "(" and ")" buttons and "Find and Replace" ( CMD + F) button. You can found it in Markdown keyboard (M) button or Setting page - Custom Markdown Keyboard... - enable the Find and Replace.
+    * Add file extensions: .rmd、.mkd、.mkdn、.mdtxt to folder setting.
+    * Other bug fixes and stability improvements.
+Version 3.1.8 (Dec 17, 2019)
+    Bug fixes and stability improvements.
+Version 3.1.7 (Oct 11, 2019)
+    * External Mode the Media Folder Name now can use vars: {year} {month} {day} .
+    * Bug fixes and stability improvements.
+Version 3.1.6 (Sep 25, 2019)
+    * iOS 13 Dark Mode.
+    * Bug fixes and stability improvements.
+Version 3.1.5 (Sep 10, 2019)
+    * Images Upload Services add https://sm.ms and aliyun OSS.
+    * Performance improvements for Editor.
+    * Other bug fixes and stability improvements.
+Version 3.1.4 (Aug 1, 2019)
+    * Quick fix dropbox sync bug.
+
+    Version 3.1.3:
+    * Publishing to Ghost.
+    * Support Documents Library link like: mweblib://15591372930229
+    * Other bug fixes and stability improvements.
+Version 3.1.3 (Jul 30, 2019)
+    * Publishing to Ghost.
+    * Support Documents Library link like: mweblib://15591372930229
+    * Other bug fixes and stability improvements.
+Version 3.1.2 (May 28, 2019)
+    * Publish to Yuque.com now can upload images to yuque (please re-add the Yuque publishing services).
+
+    ==============================
+
+    Version 3.1.1:
+    * Add: Publishing Services add publish to yuque.com.
+    * Add: Images Upload Services add Tencent Cloud COS.
+    * Improvement: upload to qiniu support custom path, you can use: {year} {mon} {day} {random} {filename} {.suffix}.
+    * Improvement: now you can tap the Editor's local image for zoom and share it.
+    * Fix: the app crashes when rename dropbox's file.
+    * Fix: unable to insert gif file from Photos app.
+    * Other bug fixes and stability improvements.
+    ==============================
+
+    Version 3.0.4:
+    * Add: Enable Autolink, Enable Code Block Line Number, Render img tag to figure.
+    * Fix: the Library categories sort not the same as the macOS version of MWeb.
+    * Fix: the order list number will auto fix when edit/delete the order list.
+    * Because Google close the Picasa Web API, so Google Photos image upload service are removed, please check: https://developers.google.com/picasa-web/ .
+    * Bug fixes and stability improvements.
+
+    Version 3.0.3:
+    * New: Now you can add the Working Copy or Files app's folder to MWeb. You can add in "Cloud Documents - New Folder (the toolbar in bottom ) - Add Third Party Folder".
+    * New: Publishing Services add publish to sspai Matrix.
+    * New: Export to add "Share the Document" that you can share by AirDrop.
+    * New: Tap sync to Dropbox button will show the sync detail.
+    * Dropbox sync now will sync the small size file after the big size file.
+    * Preview now can show MWeb for macOS graphics define like mermaid, viz, echarts, plantuml, sequence and flow chart.
+    * Export to HTML now will encode local image to base64 and export it.
+    * Fix the sort by file name issue.
+    * In the Setting page, "Enable code highlight" and "Enable sequence and flow chart" are removed. These options change to alway Enable.
+    * Fix can't close Sidebar in iPad.
+    * Fix CMD + R can't switch to Preview/Editor mode.
+
+    ==============================
+
+    MWeb for iOS 3.0
+
+    * New Interface.
+    * Quick Note.
+    * Add Url Schemes 1. New Library Document: mwebapp://?p=newlibdoc 2. Quick Note: mwebapp://?p=quicknote .
+    * Full Text Search.
+    * Bug fixes and stability improvements.
+Version 3.1.1 (Apr 12, 2019)
+    * Add: Publishing Services add publish to yuque.com.
+    * Add: Images Upload Services add Tencent Cloud COS.
+    * Improvement: upload to qiniu support custom path, you can use: {year} {mon} {day} {random} {filename} {.suffix}.
+    * Improvement: now you can tap the Editor's local image for zoom and share it.
+    * Fix: the app crashes when rename dropbox's file.
+    * Fix: unable to insert gif file from Photos app.
+    * Other bug fixes and stability improvements.
+
+    ==============================
+
+    Version 3.0.4:
+    * Add: Enable Autolink, Enable Code Block Line Number, Render img tag to figure.
+    * Fix: the Library categories sort not the same as the macOS version of MWeb.
+    * Fix: the order list number will auto fix when edit/delete the order list.
+    * Because Google close the Picasa Web API, so Google Photos image upload service are removed, please check: https://developers.google.com/picasa-web/ .
+    * Bug fixes and stability improvements.
+
+    Version 3.0.3:
+    * New: Now you can add the Working Copy or Files app's folder to MWeb. You can add in "Cloud Documents - New Folder (the toolbar in bottom ) - Add Third Party Folder".
+    * New: Publishing Services add publish to sspai Matrix.
+    * New: Export to add "Share the Document" that you can share by AirDrop.
+    * New: Tap sync to Dropbox button will show the sync detail.
+    * Dropbox sync now will sync the small size file after the big size file.
+    * Preview now can show MWeb for macOS graphics define like mermaid, viz, echarts, plantuml, sequence and flow chart.
+    * Export to HTML now will encode local image to base64 and export it.
+    * Fix the sort by file name issue.
+    * In the Setting page, "Enable code highlight" and "Enable sequence and flow chart" are removed. These options change to alway Enable.
+    * Fix can't close Sidebar in iPad.
+    * Fix CMD + R can't switch to Preview/Editor mode.
+
+    ==============================
+
+    MWeb for iOS 3.0
+
+    * New Interface.
+    * Quick Note.
+    * Add Url Schemes 1. New Library Document: mwebapp://?p=newlibdoc 2. Quick Note: mwebapp://?p=quicknote .
+    * Full Text Search.
+    * Bug fixes and stability improvements.
+Version 3.0.4 (Jan 31, 2019)
+    * Add: Enable Autolink, Enable Code Block Line Number, Render img tag to figure.
+    * Fix: the Library categories sort not the same as the macOS version of MWeb.
+    * Fix: the order list number will auto fix when edit/delete the order list.
+    * Because Google close the Picasa Web API, so Google Photos image upload service are removed, please check: https://developers.google.com/picasa-web/ .
+    * Bug fixes and stability improvements.
+
+    Version 3.0.3:
+    * New: Now you can add the Working Copy or Files app's folder to MWeb. You can add in "Cloud Documents - New Folder (the toolbar in bottom ) - Add Third Party Folder".
+    * New: Publishing Services add publish to sspai Matrix.
+    * New: Export to add "Share the Document" that you can share by AirDrop.
+    * New: Tap sync to Dropbox button will show the sync detail.
+    * Dropbox sync now will sync the small size file after the big size file.
+    * Preview now can show MWeb for macOS graphics define like mermaid, viz, echarts, plantuml, sequence and flow chart.
+    * Export to HTML now will encode local image to base64 and export it.
+    * Fix the sort by file name issue.
+    * In the Setting page, "Enable code highlight" and "Enable sequence and flow chart" are removed. These options change to alway Enable.
+    * Fix can't close Sidebar in iPad.
+    * Fix CMD + R can't switch to Preview/Editor mode.
+
+    ==============================
+
+    MWeb for iOS 3.0
+
+    * New Interface.
+    * Quick Note.
+    * Add Url Schemes 1. New Library Document: mwebapp://?p=newlibdoc 2. Quick Note: mwebapp://?p=quicknote .
+    * Full Text Search.
+    * Bug fixes and stability improvements.
+Version 3.0.3 (Jan 15, 2019)
+    Version 3.0.3:
+
+    * New: Now you can add the Working Copy or Files app's folder to MWeb. You can add in "Cloud Documents - New Folder (the toolbar in bottom ) - Add Third Party Folder".
+    * New: Publishing Services add publish to sspai Matrix.
+    * New: Export to add "Share the Document" that you can share by AirDrop.
+    * New: Tap sync to Dropbox button will show the sync detail.
+    * Dropbox sync now will sync the small size file after the big size file.
+    * Preview now can show MWeb for macOS graphics define like mermaid, viz, echarts, plantuml, sequence and flow chart.
+    * Export to HTML now will encode local image to base64 and export it.
+    * Fix the sort by file name issue.
+    * In the Setting page, "Enable code highlight" and "Enable sequence and flow chart" are removed. These options change to alway Enable.
+    * Fix can't close Sidebar in iPad.
+    * Fix CMD + R can't switch to Preview/Editor mode.
+
+    ==============================
+
+    MWeb for iOS 3.0
+
+    * New Interface.
+    * Quick Note.
+    * Add Url Schemes 1. New Library Document: mwebapp://?p=newlibdoc 2. Quick Note: mwebapp://?p=quicknote .
+    * Full Text Search.
+    * Bug fixes and stability improvements.
+Version 3.0.2 (Jan 8, 2019)
+    Version 3.0.2:
+
+    * Export to add "Share this Document...".
+    * In iPad, the sidebar is changed to switch to: always show / always off.
+    * Fixed an issue when tap a link on preview.
+    * Fixed an issue where the new document and quick note when in preview mode.
+    * Fixed an issue where the outline view was invalid after opening the document in preview mode.
+    * Fixed some issues with Url Schemes.
+    * Fixed an issue when sorting by file name.
+
+    ==============================
+
+    MWeb for iOS 3.0
+    * New Interface.
+    * Quick Note.
+    * Add Url Schemes 1. New Library Document: mwebapp://?p=newlibdoc 2. Quick Note: mwebapp://?p=quicknote .
+    * Full Text Search.
+    * Bug fixes and stability improvements.
+Version 3.0.1 (Jan 4, 2019)
+    Version 3.0.1 : Bug fixes.
+
+    ==============================
+
+    MWeb for iOS 3.0
+    * New Interface.
+    * Quick Note.
+    * Add Url Schemes 1. New Library Document: mwebapp://?p=newlibdoc 2. Quick Note: mwebapp://?p=quicknote .
+    * Full Text Search.
+    * Bug fixes and stability improvements.
+Version 3.0.0 (Jan 2, 2019)
+    MWeb for iOS 3.0
+
+    * New Interface.
+    * Quick Note.
+    * Add Url Schemes 1. New Library Document: mwebapp://?p=newlibdoc 2. Quick Note: mwebapp://?p=quicknote .
+    * Full Text Search.
+    * Bug fixes and stability improvements.
+Version 2.4.0 (Jul 12, 2018)
+    * Update to MWeb 3 for macOS markdown highlight and render library.
+    * Library location now can choose MWeb 3 for macOS iCloud's library.
+    * We work on big free update for iOS version of MWeb now...
+Version 2.3.8 (Jan 30, 2018)
+    * Fix take photo crash bug.
+    * Fix some dropbox sync bugs.
+    * Other bug fixes and performance improvements.
+Version 2.3.6 (Nov 20, 2017)
+    Happy Black Friday ! MWeb for Mac 50% OFF! MWeb for iOS IAP 50% OFF!
+
+    - Add upyun.com image upload service.
+    - Other bug fixes and performance improvements.
+Version 2.3.5 (Oct 19, 2017)
+    - Bug fixes and performance improvements.
+    - Lock some features in free version.
+Version 2.3.4 (Sep 30, 2017)
+    * Add publish to tumblr
+    * Fix imgur upload bug.
+    * Add iOS 11 Drag&Drop support. now you can drag the image to the editor for insert.
+    * Add custom keyboard toolbar buttons and sort.
+    * Add utf16 encoding file support.
+    * For gitbook user, now you can open file link in preview mode. Add in app open website url in preview mode.
+    * Other bugs fix.
+Version 2.3.3 (Jul 3, 2017)
+    * fix 3d touch bug.
+    * fix dropbox syc bug.
+    * other bug fixes.
+Version 2.3.2 (Jun 21, 2017)
+    * New icon! Thanks @Red5Sign http://weibo.com/u/6264169884, Producter: http://weibo.com/313612326
+    * Add Dropbox sync support.
+    * Add "move" the documents.
+    * Add mweb-solarized-dark, mweb-solarized-light, mweb-Tomorrow Blue, mweb-Tomorrow Preview theme. Change the Editor theme will change all style now.
+    * Add show local picture as thumbnail in Editor.
+    * Add url scheme and 3D touch. Url scheme: show Home: mwebapp://?p=home. Show Home list item title contain "MWeb": mwebapp://?p=home&name=MWeb. Show Library: mwebapp://?p=lib. Show Library list item title contain "Inbox": mwebapp://?p=lib&name=Inbox. Show Cloud Documents: mwebapp://?p=cloud. Show Local Documents: mwebapp://?p=local.
+    * Add delete custom preview style ( edit style - tap bottom delete button ).
+    * Add custom sort Favorites items ( tap Edit button on right-top ).
+    * Fix iPad SplitView empty bug.
+    * Add Special Thanks.
+    * Other bugs fix.
+Version 2.2.7 (Mar 24, 2017)
+    * Add export to Markdown and HTML.
+    * Add auto upload inserted images to Images Upload Services. Please click (i) button in folder on the right to config.
+    * Add publish to wizNote(wiz.cn).
+    * Add custom Preview Theme. Just click "New Preview Theme" button in Setting page and fill the name and CSS.
+    * Add fullscreen button for iPad, add Preview shortcuts: CMD + R.
+    * Add undo and redo button to keyboard toolbar.
+    * Other bug fixes and performance improvements.
+Version 2.2.6 (Jan 8, 2017)
+    * Fix the In-App Purchase didn't display in Settings page bug.
+    * Fix when the folder media save path is absolute, can't display images in Preview.
+    * Fix iPad rename and delete the current opened document will crash bug.
+    * Fix Preview will empty when publish to Evernote in Preview Mode.
+Version 2.2.5 (Jan 4, 2017)
+
+Users may also like
+Select objects to compare
+Taio - Markdown & Text Actions
+Metion: Markdown Notes
+Inkdrop - Markdown Notes
+SiYuan
+Nutstore
+Cubox: AI Reader & Highlight
+1Writer - Markdown Text Editor
+flomo浮墨-极简卡片笔记、轻便签与日记备忘
+Typewriter for Markdown
+为知笔记 HD
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+12 times
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    4.5.7
+    Current release
+    Feb 5, 2024
+    4.5.6
+    Jan 30, 2024
+    4.5.5
+    Jan 6, 2024
+    4.5.4
+    Jan 3, 2024
+    4.5.2
+    Dec 20, 2023
+    4.5.1
+    Dec 15, 2023
+    4.4.9
+    Sep 21, 2023
+    4.4.8
+    Sep 7, 2023
+    4.4.7
+    Aug 4, 2023
+    4.4.6
+    Jul 14, 2023
+    4.4.5
+    Jul 5, 2023
+    4.4.4
+    Apr 12, 2023
+    4.4.1
+    Mar 10, 2023
+    4.3.9
+    Mar 7, 2023
+    4.3.8
+    Feb 24, 2023
+    4.3.7
+    Oct 13, 2022
+    4.3.5
+    Sep 22, 2022
+    4.3.4
+    Aug 24, 2022
+    4.3.3
+    Aug 20, 2022
+    4.2.8
+    Jun 15, 2022
+    4.2.7
+    May 21, 2022
+    4.2.6
+    Apr 15, 2022
+    4.2.5
+    Mar 3, 2022
+    4.2.4
+    Jan 14, 2022
+    4.2.3
+    Dec 10, 2021
+    4.2.2
+    Nov 17, 2021
+    4.2.1
+    Oct 21, 2021
+    4.1.9
+    Sep 29, 2021
+    4.1.8
+    Aug 27, 2021
+    4.1.7
+    Aug 26, 2021
+    4.1.6
+    Aug 17, 2021
+    4.1.5
+    Aug 16, 2021
+    4.1.1
+    Aug 13, 2021
+    4.0.0
+    Aug 9, 2021
+    3.2.6
+    Dec 12, 2020
+    3.2.5
+    Nov 4, 2020
+    3.2.4
+    Oct 23, 2020
+    3.2.3
+    Jun 10, 2020
+    3.2.2
+    May 22, 2020
+    3.2.1
+    May 21, 2020
+    3.1.9
+    Mar 25, 2020
+    3.1.8
+    Dec 17, 2019
+    3.1.7
+    Oct 11, 2019
+    3.1.6
+    Sep 25, 2019
+    3.1.5
+    Sep 10, 2019
+    3.1.4
+    Aug 1, 2019
+    3.1.3
+    Jul 30, 2019
+    3.1.2
+    May 28, 2019
+    3.1.1
+    Apr 12, 2019
+    3.0.4
+    Jan 31, 2019
+    3.0.3
+    Jan 15, 2019
+    3.0.2
+    Jan 8, 2019
+    3.0.1
+    Jan 4, 2019
+    3.0.0
+    Jan 2, 2019
+    2.4.0
+    Jul 12, 2018
+    2.3.8
+    Jan 30, 2018
+    2.3.6
+    Nov 20, 2017
+    2.3.5
+    Oct 19, 2017
+    2.3.4
+    Sep 30, 2017
+    2.3.3
+    Jul 3, 2017
+    2.3.2
+    Jun 21, 2017
+    2.2.7
+    Mar 24, 2017
+    2.2.6
+    Jan 8, 2017
+    2.2.5
+    Jan 4, 2017
+
+See More
+Top In-App Purchases
+
+    MWeb Yearly Subscription
+    $9.99
+    MWeb for iPhone/iPad
+    $14.99
+    MWeb for Mac
+    $24.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jan 4, 2017
+
+Worldwide Release Date
+    Jan 4, 2017
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    4.5.7
+
+Size
+    61.98 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese, Traditional Chinese
+
+Seller
+    禄海 区
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.1 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.coderforart.iOS.MWeb
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1183407767
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MWeb - Markdown Writing, Notes | data.ai

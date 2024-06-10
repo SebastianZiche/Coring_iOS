@@ -1,0 +1,380 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Incognito Private Messenger
+Yevgen ChernogubovSocial Networking (Applications)Free
+Alerts
+
+    Yevgen Chernogubov
+
+    Incognito Private Messenger
+    Incognito Private Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Incognito Private Messenger
+Social Networking (Applications)
+Free
+App Description
+Incognito Private Messenger - Secret Chats (Secret Correspondence)
+
+Incognito private messenger is the world's first messenger without user identification. The app allows you to communicate without sending an SMS to confirm your number and scanning a list of phone book numbers. Simply create a chat and invite one or more people. You can connect to the chat using a link, a code, or by scanning a QR code.
+
+No personal data (phone number, etc...) is used to identify the user, only a nickname.
+
+To ensure the highest level of security and prevent information theft, the messenger uses data encryption.
+
+Chat history is only stored on the client side.
+
+You have the option to protect the app with a password and your own encryption key.
+
+Incognito private messenger is a private application:
+
+No registration;
+No names;
+Without using the contact book;
+Without storing correspondence on servers.
+
+Incognito private messenger - offers:
+
+Complete confidentiality;
+Secret chats;
+Security.
+
+Download the Incognito private messenger app and be sure that your correspondence will be reliably protected.
+Ratings
+Displayed Avg Ratings
+3.73
+Total Displayed Ratings
+11
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.35 (Jan 10, 2024)
+    Добавили функцию автоматического удаления чата
+Version 3.33 (Dec 21, 2023)
+    Устранены некоторые проблемы
+Version 3.28 (Apr 4, 2023)
+    Добавлен индикатор сети и обновления данных. Улучшено быстродействие чатов. Исправлены небольшие ошибки.
+Version 3.26 (Mar 14, 2023)
+    Исправлены некоторые ошибки
+Version 3.25 (Mar 8, 2023)
+    Исправление ошибок
+Version 3.24 (Feb 28, 2023)
+    исправлены некоторые ошибки
+Version 3.23 (Feb 17, 2023)
+    Улучшена звуковая составляющая часть приложения
+Version 3.21 (Jan 31, 2023)
+    Исправление небольших ошибок
+Version 3.20 (Jan 26, 2023)
+    Улучшена производительность и быстродействие
+Version 3.19 (Jan 16, 2023)
+    Исправлены ошибки при загрузке файлов. Оптимизация приложения
+Version 3.18 (Nov 11, 2022)
+    Исправлены ошибки при совершении аудио звонка
+    Оптимизация приложения
+Version 3.18 (Nov 11, 2022)
+    Исправлены ошибки при совершении аудио звонка
+    Оптимизация приложения
+Version 3.17 (Nov 7, 2022)
+    Добавлена возможность осуществлять аудио звонки
+Version 3.16 (Oct 10, 2022)
+    Оптимизирована отправка сообщений и исправлены небольшие ошибки
+Version 3.15 (Sep 28, 2022)
+    Оптимизация работы с камерой и исправление ошибок
+Version 3.14 (Sep 20, 2022)
+    Обновление работы приложения с QR-кодом и исправление мелких ошибок
+Version 3.13 (Sep 13, 2022)
+    Произведено улучшение дизайна и исправление небольших ошибок
+Version 3.10 (Aug 4, 2022)
+    Обновление дизайна отдельных элементов
+Version 3.09 (Jul 24, 2022)
+    Обновленный интерфейс записи голосового сообщения
+Version 3.06 (Jun 28, 2022)
+    Обновление дизайна отдельных элементов
+Version 3.05 (Jun 21, 2022)
+    Обновление модуля выбора фона чата
+Version 3.04 (Jun 17, 2022)
+    Добавлена возможность выбора фона чатов
+Version 3.03 (Jun 9, 2022)
+    Добавлен диплинкинг и обработка QR-кода штатным сканером устройства
+Version 3.01 (Jun 7, 2022)
+    Обновление дизайна и исправление ошибок
+Version 3.00 (May 16, 2022)
+    Добавлена возможность открывать чаты в формате канала, администрировать пользователей, публиковать сообщения для большой аудитории
+Version 2.14 (Apr 21, 2022)
+    Исправлена ошибка push-нотификации
+Version 2.13 (Apr 19, 2022)
+    Оптимизация отображения данных в чатах
+Version 2.12 (Apr 13, 2022)
+    Исправлена доставка push- уведомлений
+Version 2.11 (Feb 5, 2022)
+    Добавлен профиль пользователя с возможностью редактирования своих данных
+Version 2.10 (Dec 16, 2021)
+    Добавлена возможность отправки голосовых сообщений
+Version 2.9 (Nov 20, 2021)
+    Добавлена возможность отправки сообщения с геолокацией
+    Улучшено отображение медиафайлов
+    Добавлена возможность выбора цветовых тем
+Version 2.8 (Feb 25, 2021)
+    - Превью ссылок в сообщении.
+    - Кликабельные ссылки.
+    - Исправление багов списка сообщений.
+Version 2.7.1 (Jan 26, 2021)
+    - Исправлена проблема запуска приложения.
+Version 2.7 (Jan 23, 2021)
+    Исправление ошибок, улучшение производительности.
+Version 2.5 (Nov 12, 2020)
+    - Хронология файловых сообщений;
+    - Возможность скрывать историю для новых пользователей;
+    - Оптимизация работы с сервером и улучшения безопасности.
+Version 2.4 (Nov 2, 2020)
+    - Редизайн главного экрана;
+    - Минорные обновления UI;
+    - Новостной чат;
+    - Багфикс;
+    - Обновленная логика поведения заблокированного чата.
+Version 2.2 (Oct 23, 2020)
+    - Передача медиафайлов;
+    - Возможность отвечать на сообщения;
+    - Пин-коды чатов;
+    - Минорные доработки дизайна;
+    - Возможность жалоб на неприемлемый контент;
+    - Расширен функционал пин-кода приложения;
+    - Оптимизирована работа локального хранилища;
+    - Исправление ошибок.
+Version 2.0 (Jul 26, 2020)
+    - Обновления дизайна приложения;
+    - Полная поддержка emoji;
+    - Оптимизация.
+Version 1.0 (Apr 24, 2019)
+
+Users may also like
+Select objects to compare
+SpyChat: Invisible Chat
+BeProg
+Tukan Messenger
+SagMal
+Crypviser Secure Messenger
+Kedr
+Circles - Encrypted E2E VOIP +
+SafeSwiss® Encrypted Messenger
+AnyTalk Messenger
+Анонимный аудиочат BlaBlaPlay
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.35
+    Current release
+    Jan 10, 2024
+    3.33
+    Dec 21, 2023
+    3.28
+    Apr 4, 2023
+    3.26
+    Mar 14, 2023
+    3.25
+    Mar 8, 2023
+    3.24
+    Feb 28, 2023
+    3.23
+    Feb 17, 2023
+    3.21
+    Jan 31, 2023
+    3.20
+    Jan 26, 2023
+    3.19
+    Jan 16, 2023
+    3.18
+    Nov 11, 2022
+    3.18
+    Nov 11, 2022
+    3.17
+    Nov 7, 2022
+    3.16
+    Oct 10, 2022
+    3.15
+    Sep 28, 2022
+    3.14
+    Sep 20, 2022
+    3.13
+    Sep 13, 2022
+    3.10
+    Aug 4, 2022
+    3.09
+    Jul 24, 2022
+    3.06
+    Jun 28, 2022
+    3.05
+    Jun 21, 2022
+    3.04
+    Jun 17, 2022
+    3.03
+    Jun 9, 2022
+    3.01
+    Jun 7, 2022
+    3.00
+    May 16, 2022
+    2.14
+    Apr 21, 2022
+    2.13
+    Apr 19, 2022
+    2.12
+    Apr 13, 2022
+    2.11
+    Feb 5, 2022
+    2.10
+    Dec 16, 2021
+    2.9
+    Nov 20, 2021
+    2.8
+    Feb 25, 2021
+    2.7.1
+    Jan 26, 2021
+    2.7
+    Jan 23, 2021
+    2.5
+    Nov 12, 2020
+    2.4
+    Nov 2, 2020
+    2.2
+    Oct 23, 2020
+    2.0
+    Jul 26, 2020
+    1.0
+    Apr 24, 2019
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Apr 24, 2019
+
+Worldwide Release Date
+    Apr 25, 2019
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    3.35
+
+Size
+    53.83 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Russian
+
+Seller
+    Yevgen Chernogubov
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.4 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    Incognito.Private.Messenger
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1444274565
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Incognito Private Messenger | data.ai

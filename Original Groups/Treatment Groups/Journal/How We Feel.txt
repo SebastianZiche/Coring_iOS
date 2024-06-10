@@ -1,0 +1,467 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+How We Feel
+The How We Feel Project, Inc.Health and Fitness (Applications)Free
+Alerts
+
+How We Feel
+How We Feel
+How We Feel
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+How We Feel
+Health and Fitness (Applications)
+Free
+iPhone Only
+App Description
+How We Feel is a free app created by scientists, designers, engineers, and therapists to help people better understand their emotions and find strategies to help them navigate their emotions in the moment. Conceived in conjunction with Yale University's Center for Emotional Intelligence and based on the work of Dr Marc Brackett, How We Feel helps people find the right word to describe how they feel while tracking their sleep, exercise, and health trends using HealthKit in order to spot patterns over time.
+
+Founded as a science-based nonprofit, How We Feel is made possible by donations from people who are passionate about bringing mental wellbeing to the widest possible audience. Our data privacy terms are clear and easy-to-understand: all of your data is kept on your device unless you opt-in to send an anonymized version of your check-ins to be used in research to help more people.
+
+Whether you are downloading this app in order to build better relationships, make your emotions to work for you, not against you, improve how you handle stress and anxiety or simply to feel better, How We Feel will help you identify patterns through daily HealthKit tracking and find emotional regulation strategies that will work for you. The How We Feel friends feature allows you to share how you feel with the people you trust most in real time, strengthening your most important relationships.
+
+Filled with step-by-step video strategies you can do in as little as one minute on themes like "Change Your Thinking" to help you address negative thought patterns with cognitive strategies; "Move Your Body" to express and release emotions through movement strategies;"Be Mindful" to gain perspective and minimize the negative impact of misunderstood emotions with mindfulness strategies; "Reach Out" to build intimacy and trust, two important tools for emotional wellbeing, with social strategies.
+Ratings
+Displayed Avg Ratings
+4.79
+Total Displayed Ratings
+255
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.1 (Feb 19, 2024)
+    We're thrilled to announce the release of our newest app version, packed with interactive tools to enhance your emotional wellbeing! Thanks to your valuable feedback, we've also identified and fixed performance issues. We are eager to share the following updates:
+
+    New
+    New! A library of emotional regulation tools available when you need them. Save your favorite tools to your toolbox for quick access!
+    New! Friends tab update makes it easier to see your friends' check-ins, reactions, and includes a new sort order.
+    New! Weather data is now included with 'quick save' check-ins.
+    Expanded the temperature range to allow you to capture hotter and colder temperatures with your check-ins.
+
+    Fixes
+    Fixed an issue where the Analyze tab was displaying a black screen.
+    Fixed an alignment issue on Streaks.
+    Fixed a typo in the description of 'mad'.
+    Fixed an issue that made it difficult to see the captions icon in the video player.
+    Fixed the monthly calendar grid in the Analyze tab on the iPhone SE.
+Version 1.5.0 (Feb 16, 2024)
+    We're thrilled to announce the release of our newest app version, packed with interactive tools to enhance your emotional wellbeing! Thanks to your valuable feedback, we've also identified and fixed performance issues. We are eager to share the following updates:
+
+    New
+    New! A library of emotional regulation tools available when you need them. Save your favorite tools to your toolbox for quick access!
+    New! Friends tab update makes it easier to see your friends' check-ins, reactions, and includes a new sort order.
+    New! Weather data is now included with 'quick save' check-ins.
+    Expanded the temperature range to allow you to capture hotter and colder temperatures with your check-ins.
+
+    Fixes
+    Fixed an issue where the Analyze tab was displaying a black screen.
+    Fixed an alignment issue on Streaks.
+    Fixed a typo in the description of 'mad'.
+    Fixed an issue that made it difficult to see the captions icon in the video player.
+    Fixed the monthly calendar grid in the Analyze tab on the iPhone SE.
+Version 1.4.13 (Feb 1, 2024)
+    Thanks to your valuable feedback, we've identified and fixed performance issues that some users experienced. We are eager to share the following updates:
+
+    New
+    More insights! When viewing a past check-in, tap on the card to flip it over and learn new insights on the selected emotion!
+    New! When editing a past check-in, the edit menu has moved behind the ellipsis in the top right corner of the screen.
+    New! When viewing a past check-in, we've rearranged the details on the front of the card and provided more space to journal entries.
+
+    Fixes
+    Fixed an issue with opening notifications
+    Fixed an issue that incorrectly defaulted sleep minutes.
+    Fixed an issue in the Analyze tab where data in the graphs was overlapping with title text.
+    Fixed an issue where mood descriptions were not properly aligned.
+    Fixed an issue with rating videos.
+Version 1.4.11 (Jan 26, 2024)
+    Thanks to your valuable feedback, we've identified and fixed performance issues that some users experienced. We are eager to share the following updates:
+
+    New
+    More insights! When viewing a past check-in, tap on the card to flip it over and learn new insights on the selected emotion!
+    New! When editing a past check-in, the edit menu has moved behind the ellipsis in the top right corner of the screen.
+    New! When viewing a past check-in, we've rearranged the details on the front of the card and provided more space to journal entries.
+
+    Fixes
+    Fixed an issue with opening notifications
+    Fixed an issue that incorrectly defaulted sleep minutes.
+    Fixed an issue in the Analyze tab where data in the graphs was overlapping with title text.
+    Fixed an issue where mood descriptions were not properly aligned. 
+Version 1.4.9 (Jan 8, 2024)
+    Thanks to your valuable feedback, we've identified and fixed performance issues that some users experienced. We are eager to share the following updates:
+
+    New
+    New! We've updated the descriptions of (some) low energy unpleasant emotions.
+    New! We've added New Zealand mental health hotline numbers.
+
+    Fixes
+    Fixed an issue that prevented syncing meditation minutes.
+    Fixed an issue when editing tags on past check-ins.
+    Fixed an issue where exercise time displayed a negative number. 
+Version 1.4.8 (Dec 19, 2023)
+    Thanks to your valuable feedback, we've identified and fixed performance issues that some users experienced. We are eager to share the following updates:
+
+    Fixes
+    Fixed an issue on the Analyze tab that was not allowing results to be displayed
+    Fixed a typo in the edit weather screen
+    Check-in options that are toggled off will no longer display in the check-in flow
+Version 1.4.7 (Nov 30, 2023)
+    Thanks to your valuable feedback, we've identified and fixed performance issues that some users experienced. We are eager to share the following updates:
+
+    New
+    New! We've replaced the check-in option sliders with entry fields!
+    New! We've revised the order of the check-in flow.
+    New! We've lightened the language throughout the check-in flow.
+
+    Fixes
+    Fixed an issue that crashed the app when editing date and time of check-ins.
+    Fixed an issue that prevented menstrual cycle check-ins from appearing in the Analyze tab.
+    Fixed an issue that duplicated the number of steps being added to check-ins.
+    Fixed an issue that prevented the week in review notification from launching the week in review.
+Version 1.4.6 (Nov 3, 2023)
+    Release Notes for 1.4.6: We feel thankful for the outreach and support from the How We Feel community, and excited to deliver the following changes in this app release:
+
+    New Features:
+    - New! A new way to share more check-in details with friends.
+    - Improved check-in option sliders to log exercise, sleep, weather, etc.
+    - Add a surprise nighttime notification in settings.
+
+    Fixes:
+    - Fixed a bug related to Apple Health sync.
+    - Fixed a bug that was displaying a black screen on the Analyze tab.
+    - Fixed a battery utilization bug. 
+Version 1.4.5 (Oct 9, 2023)
+    Release Note for 1.4.5:
+    Taking a moment to explore why you’re feeling what you’re feeling can help you develop a kinder relationship with your emotions. That’s why this release includes a major update to the check-in flow that we hope will encourage self reflection.
+
+    New features:
+    New! A new check-in flow sequence of questions to encourage self reflection.
+    New! Emotions postcards are a visually rich approach to tracking emotional wellbeing
+    New! Fast check-in by pressing and holding an emotion for three seconds
+    New! Add steps and meditation minutes from Apple Health
+    Data export now includes description (journal entry)!
+
+    Fixes:
+    Fixed an issue where the screen was going blank on the Analyze tab.
+    Fixed a bug that prevented tags from having multiple capital letters, e.g. TV.
+    Fixed a bug when editing sleep and exercise data, now each same-day entry is independent.
+Version 1.4.3 (Aug 8, 2023)
+    We’re grateful for your feedback and support, everyone! Thanks for being part of the How We Feel community.
+
+    Fixes:
+    - Surprise! We fixed an issue so surprise notifications are now being sent again.
+    - Fixed a survey issue that stopped people from advancing to the next question.
+    - Fixed an issue where the app was crashing when taking a photo on iPad.
+Version 1.4.1 (Jul 12, 2023)
+    We feel thankful for the outreach and support from the How We Feel community, and excited to deliver the following changes in this app release:
+    New
+    - Added the ability to search emotion descriptions, so that you can more easily find the right emotion to select in the search feature.
+    - Added the ability to opt-out of the How We Feel Research Project
+    Fixes
+    - Fixed an issue where the How We Feel Research Project survey would not advance to the next question.
+    - Fixed an issue where the weather service was inconsistent.
+Version 1.4.0 (Jun 27, 2023)
+    When we learn to better understand and use specific words to describe what we feel, we can develop a kinder relationship with our emotions. We feel excited to release two new features to help our community better identify and track their feelings: unique feelings and day streak!
+    We also feel thankful for the outreach and support from the How We Feel community, and excited to deliver the following changes in this app release:
+
+    New Features:
+    - A new view that captures day-to-day check in streaks! Tap on the streak rings to see detail for that day.
+    - A new view that allows you to see all the unique emotions you’ve checked in! Tap on unique emotions to learn more.
+    - The How We Feel Research Project will allow you to opt-in to contribute to science and advance scientific research on emotions!
+
+    Fixes:
+    - Fixed an issue where we requested weather when viewing old checkins.
+    - Fixed an issue where we miscalculated the total count of your week in review.
+    - Fixed an issue where renamed tags were not being deleted.
+    - Fixed an issue where we miscalculated late night check ins
+Version 1.3.2 (Jun 6, 2023)
+    Big fixes
+Version 1.3.1 (May 31, 2023)
+    We feel thankful for the outreach and support from the How We Feel community, and excited to deliver the following changes in this app release
+
+    New:
+    - Added category filters in search, so that you can easily filter for emotions by color.
+    - Added “Your weekly review” to your list of past check ins. Now you can access past week in reviews.
+    - Added the ability to rename your tags
+    - Added the ability to save images from your check ins
+
+    Fixes:
+    - Fixed an issue where selected tags could not be deleted.
+    - Fixed an issue where the full description of some emotions was cut off.
+Version 1.3.0 (Apr 24, 2023)
+    Bug fixes and other improvements.
+Version 1.2.11 (Apr 4, 2023)
+    Small bug fixes
+Version 1.2.10 (Feb 28, 2023)
+    Bug fixes
+Version 1.2.9 (Feb 27, 2023)
+    Bug fixes
+Version 1.2.8 (Feb 24, 2023)
+    Bug fixes
+Version 1.2.7 (Feb 22, 2023)
+    Bug fixes
+Version 1.2.6 (Feb 15, 2023)
+    Bug fixes
+Version 1.2.5 (Feb 13, 2023)
+    Small bug fixes
+Version 1.2.4 (Jan 24, 2023)
+    Thank you to all of you who wrote in — thanks to you, we were able to address a bunch of relevant bugs in this release! But first — a feature change. You can now share your check-in photos with friends! Onto the bugs.
+
+    Bug fixes
+    You’ll now see the first day of the months shows up in your analysis tab
+    Your charts will no longer be cropped at the bottom of that tab
+    Sleep syncing will now use Time Asleep instead of Time in Bed
+    Your notifications will now reflect your 24-hour timezone preference
+    Changing your number of notifications will change your daily check in goal
+    The main mental health hotline has been updated to 988
+Version 1.2.3 (Nov 24, 2022)
+    Bug fixes
+Version 1.2.1 (Nov 19, 2022)
+    Bug fixes
+Version 1.2.0 (Sep 28, 2022)
+    In this release, we're fixing a bug that double counts sleep hours (thanks to those of you who took the time to let us know the count was off) and some other small tweaks.
+Version 1.1.9 (Sep 24, 2022)
+    This version brings new ways to analyze your emotions with your health, as well as friend improvements!
+Version 1.1.8 (Jul 1, 2022)
+    Introducing How We Feel friends, a new feature connecting trusted friends and family members to share feelings in real time. Decide to share your emotions on a per check in basis, then note how sharing feelings can help strengthen relationships. 
+Version 1.1.7 (Jun 16, 2022)
+    Bug fixes
+Version 1.1.6 (May 21, 2022)
+    Bug fixes and performance improvements.
+Version 1.1.5 (May 12, 2022)
+    Bug fixes
+Version 1.1.4 (May 4, 2022)
+    Small bug fixes
+Version 1.1.3 (Apr 25, 2022)
+    Bug fixes
+Version 1.1.2 (Apr 21, 2022)
+    Small bug fixes
+Version 1.1.1 (Apr 20, 2022)
+    Small bug fixes and speed improvements
+Version 1.0 (Apr 18, 2022)
+
+Users may also like
+Select objects to compare
+(Not Boring) Habits
+Ahead: Emotions Coach
+Shmoody: Mood & Habit Tracker
+stoic. journal & mental health
+5 Minute Journal: Self-Care
+Clarity - CBT Thought Diary
+Bearable - Symptom Tracker
+Tangerine: Self-care & Goals
+Rootd - Panic Attack Relief
+Open: Breathwork + Meditation
+IQ Classifications
+Genre: Health & Fitness
+Subgenre: Health Monitor
+Health Monitor
+Apps that monitor the user's vital medical signs or status of chronic diseases via connected devices.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+35 times
+on App Store category pages
+Versions
+
+    1.5.1
+    Current release
+    Feb 19, 2024
+    1.5.0
+    Feb 16, 2024
+    1.4.13
+    Feb 1, 2024
+    1.4.11
+    Jan 26, 2024
+    1.4.9
+    Jan 8, 2024
+    1.4.8
+    Dec 19, 2023
+    1.4.7
+    Nov 30, 2023
+    1.4.6
+    Nov 3, 2023
+    1.4.5
+    Oct 9, 2023
+    1.4.3
+    Aug 8, 2023
+    1.4.1
+    Jul 12, 2023
+    1.4.0
+    Jun 27, 2023
+    1.3.2
+    Jun 6, 2023
+    1.3.1
+    May 31, 2023
+    1.3.0
+    Apr 24, 2023
+    1.2.11
+    Apr 4, 2023
+    1.2.10
+    Feb 28, 2023
+    1.2.9
+    Feb 27, 2023
+    1.2.8
+    Feb 24, 2023
+    1.2.7
+    Feb 22, 2023
+    1.2.6
+    Feb 15, 2023
+    1.2.5
+    Feb 13, 2023
+    1.2.4
+    Jan 24, 2023
+    1.2.3
+    Nov 24, 2022
+    1.2.1
+    Nov 19, 2022
+    1.2.0
+    Sep 28, 2022
+    1.1.9
+    Sep 24, 2022
+    1.1.8
+    Jul 1, 2022
+    1.1.7
+    Jun 16, 2022
+    1.1.6
+    May 21, 2022
+    1.1.5
+    May 12, 2022
+    1.1.4
+    May 4, 2022
+    1.1.3
+    Apr 25, 2022
+    1.1.2
+    Apr 21, 2022
+    1.1.1
+    Apr 20, 2022
+    1.0
+    Apr 18, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    Apr 18, 2022
+
+Worldwide Release Date
+    Apr 18, 2022
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    1.5.1
+
+Size
+    119.24 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Engels
+
+Seller
+    The How We Feel Project, Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Vereist iOS 15.0 of nieuwer. Compatibel met iPhone, iPad en iPod touch.
+
+Bundle ID
+    org.howwefeel.HowWeFeel-Moodmeter
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1562706384
+Unified App ID: 1000800000161500
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+How We Feel | data.ai

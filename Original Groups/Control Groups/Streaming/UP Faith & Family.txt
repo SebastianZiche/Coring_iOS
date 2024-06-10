@@ -1,0 +1,403 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+UP Faith & Family
+UP Faith & FamilyEntertainment (Applications)Free
+Alerts
+
+Up Faith & Family
+UP Faith & Family
+UP Faith & Family
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+UP Faith & Family
+Family and Faith-Friendly
+Entertainment (Applications)
+Free
+App Description
+Developed by:
+UP Faith & Family
+
+UP Faith & Family is the leading streaming service for families who desire inspiring family and faith-affirming entertainment.
+
+Make any room your family room with instant ad-free access anytime, anywhere and on any device. Millions of hours streamed. New titles weekly!
+
+• DISCOVER MORE: You can relax knowing our growing library of quality dramas, faith favorites, uplifting reality and lifestyle shows, family comedies, documentaries and more, are safe for the entire family! Wondering where to start? Try one of our popular movies like Late Bloomer, 23 Blast: Blind Faith, and Somebody’s Child (staring Lynn Whitfield) today.
+
+• WATCH ORIGINAL UP ENTERTAINMENT SERIES: As the exclusive streaming home, catch up on past seasons and enjoy full episodes of Bringing Up Bates, Butter+Brown, Our Wedding Story, Girls Got to Eat with Tammi Weed and Unboxed with Nikki Chu.
+
+• EXCLUSIVE CONTENT: For fans of the hit series, Heartland, UP Faith & Family is the only service to stream new seasons first in the U.S.! Catch up on all available seasons with exclusive behind-the-scenes specials now and join a safe family entertainment experience that only UP Faith & Family can provide.
+
+Whether you have a question, need support or just want to say hello, we want to welcome you at upffinfo@uptv.com.
+
+To access all features and content you can subscribe to UP Faith & Family on a monthly or yearly basis with an auto-renewing subscription right inside the app.* Pricing can vary by region and will be confirmed before purchase in the app. In app subscriptions will automatically renew at the end of their cycle.
+
+* All payments will be paid through your iTunes Account and may be managed under Account Settings after the initial payment. Subscription payments will automatically renew unless deactivated at least 24-hours before the end of the current cycle. Your account will be charged for renewal at least 24-hours prior to the end of the current cycle. Any unused portion of your free trial (if available) will be forfeited upon payment. Cancellations are incurred by disabling auto-renewal.
+
+Privacy Policy - http://upfaithandfamily.com/privacy
+Terms of Service - http://upfaithandfamily.com/tos
+Ratings
+Displayed Avg Ratings
+4.6
+Total Displayed Ratings
+6.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.402.1 (Oct 24, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.401.1 (Oct 11, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.321.1 (Sep 7, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.200.1 (May 6, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 7.304.1 (May 10, 2022)
+    *Metadata updates
+Version 7.303.1 (Mar 15, 2022)
+    - Feature enhancements and bug fixes
+Version 7.204.1 (Oct 27, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 7.202.2 (Sep 23, 2021)
+    - Metadata update
+Version 7.202.1 (Sep 20, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 7.000.1 (Jul 8, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 6.300.1 (Apr 17, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 6.120.3 (Jan 25, 2021)
+    - Feature enhancements and bug fixes
+Version 6.120.2 (Jan 7, 2021)
+    - Bug fixes and stability improvements
+Version 6.120.1 (Jan 6, 2021)
+    - Bug fixes and stability improvements
+Version 6.110.1 (Dec 17, 2020)
+    - Bug fixes and stability improvements
+Version 6.100.1 (Dec 8, 2020)
+    - Added support for certain content displays
+    - Fixed an issue affecting DRM playback over AirPlay
+    - Feature enhancements and bug fixes
+Version 6.020.1 (Oct 12, 2020)
+    - Optimized for iOS 14 support
+    - Download manager optimizations
+    - Chromecast iOS 14 usability improvements
+    - Please ensure you have enabled Local Network permissions in your system settings if you do not see your Chromecast device on the network
+Version 5.902.3 (Sep 29, 2020)
+    - Metadata updates
+Version 5.902.2 (Sep 5, 2020)
+    - Metadata updates
+Version 5.902.1 (Aug 11, 2020)
+    - Improvements to analytics
+    - Fixed an issue affecting background audio for some users
+    - Fixed an issue affecting closed caption for some users
+    - Feature enhancements and bug fixes
+Version 5.801.1 (Jun 12, 2020)
+    - Enhanced support for chromecast streaming
+    - Improvements to error handling logic
+    - Feature enhancements
+    - Bug fixes
+Version 5.701.1 (May 22, 2020)
+    - Addresses an issue that was affecting downloads for offline on iOS 11 and 12
+    - Fixes some intermittent issues with subtitles
+    - Fixes deep-linking to specific videos
+    - Performance improvements
+Version 5.610.1 (Apr 15, 2020)
+    - Branding updates
+    - Improvements to the in-app purchase flow
+    - Improvements to VoiceOver control
+    - Improvements to the customer support flow
+    - Improvements for video playback of trailers
+    - Improvements to content displays
+
+    - Added support for extended video metadata
+    - Added support for Eastern characters in search
+
+    - Fixed an issue affecting app performance with AirPlay
+    - Fixed an issue affecting color consistency
+    - Fixed an issue that caused server connection issues for some users
+Version 5.301 (Oct 26, 2019)
+    Bug fix for deeplinks
+Version 5.200 (Sep 17, 2019)
+    Enhancements to My List functionality
+    Added ability to flag inappropriate comments
+    Enhancements to video player sizing functionality for abnormal aspect ratios
+    Added in-app support request form
+    Enhanced subtitle support
+    Subtitle preference setting now persists across all videos
+    Enhanced support request functionality
+    Fixed a bug with Extras not displaying properly
+    Fixed a bug causing issues when using Voiceover
+    Fixed a bug that could cause buffering icons to appear when playing videos offline
+Version 4.951 (Jul 24, 2019)
+    -Updated player controls
+    -Added option to reprompt for push notification permissions
+    -Fixed a bug that caused issues with some videos using subtitles over Airplay
+    -Fixed a bug that allowed the device to sleep while streaming a video over Airplay
+    -Various performance enhancements and other minor bug fixes
+Version 4.944 (Jun 26, 2019)
+    Performance enhancements and stability improvements
+Version 4.23 (Aug 8, 2018)
+    Stability improvements and bug fixes.
+Version 4.22 (Jun 16, 2018)
+    Fixed a bug that caused intermittent crashing for some users.
+Version 4.2 (May 10, 2018)
+    Video player improvements.
+Version 4.0 (Feb 8, 2018)
+    A brand new experience! We spruced up every page of the app to improve your experience.
+    A few worthwhile notes on the redesign:
+    - Videos continue to play in fullscreen when continuous playback is enabled
+    - Major Improvements to Airplay
+    - Support for passwords (Magic Email also still available)
+Version 3.9.1 (Dec 3, 2017)
+    Bug fixes and performance enhancements
+Version 3.9 (Nov 13, 2017)
+    Brand new experience!
+Version 1.2 (Jan 25, 2016)
+    - Same great content and streaming service with a new look
+    - Check back soon, great new content added regularly
+Version 1.1 (Nov 11, 2014)
+    Added iOS 8 Support
+Version 1.0 (Apr 16, 2014)
+
+Users may also like
+Select objects to compare
+PureFlix
+My UPtv
+Hallmark Movies Now
+Hallmark TV
+Frndly TV
+GFAM Movie Checklist
+TBN: Watch TV Live & On Demand
+Hallmark Movie Checklist
+GAcommunity
+Lifetime Movie Club
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    8.402.1
+    Current release
+    Oct 24, 2023
+    8.401.1
+    Oct 11, 2023
+    8.321.1
+    Sep 7, 2023
+    8.200.1
+    May 6, 2023
+    7.304.1
+    May 10, 2022
+    7.303.1
+    Mar 15, 2022
+    7.204.1
+    Oct 27, 2021
+    7.202.2
+    Sep 23, 2021
+    7.202.1
+    Sep 20, 2021
+    7.000.1
+    Jul 8, 2021
+    6.300.1
+    Apr 17, 2021
+    6.120.3
+    Jan 25, 2021
+    6.120.2
+    Jan 7, 2021
+    6.120.1
+    Jan 6, 2021
+    6.110.1
+    Dec 17, 2020
+    6.100.1
+    Dec 8, 2020
+    6.020.1
+    Oct 12, 2020
+    5.902.3
+    Sep 29, 2020
+    5.902.2
+    Sep 5, 2020
+    5.902.1
+    Aug 11, 2020
+    5.801.1
+    Jun 12, 2020
+    5.701.1
+    May 22, 2020
+    5.610.1
+    Apr 15, 2020
+    5.301
+    Oct 26, 2019
+    5.200
+    Sep 17, 2019
+    4.951
+    Jul 24, 2019
+    4.944
+    Jun 26, 2019
+    4.23
+    Aug 8, 2018
+    4.22
+    Jun 16, 2018
+    4.2
+    May 10, 2018
+    4.0
+    Feb 8, 2018
+    3.9.1
+    Dec 3, 2017
+    3.9
+    Nov 13, 2017
+    1.2
+    Jan 25, 2016
+    1.1
+    Nov 11, 2014
+    1.0
+    Apr 16, 2014
+
+See More
+Top In-App Purchases
+
+    UP Faith & Family Yearly
+    $53.99
+    UP Faith & Family monthly
+    $5.99
+
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Apr 24, 2014
+
+Last Updated Time
+    Mar 3, 2024
+
+Version
+    8.402.1
+
+Size
+    71.74 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    UP Faith & Family, LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.gmc.gmovies
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 859991237
+Unified App ID: 1000800000039905
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+UP Faith & Family | data.ai

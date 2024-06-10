@@ -1,0 +1,2129 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Node Video
+Shallway StudioPhoto and Video (Applications)Free
+Alerts
+
+NodeVideo-PowerYourCreativity
+Node Video
+Node Video
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Node Video
+Photo and Video (Applications)
+Free
+App Description
+Must-Have video editing app for Pro Editors.
+Please stay tuned for updates and more powerful features!
+
+•Extremely powerful and flexible.
+Limitless Layers & Groups.
+Precise Video Editing & Rich Possibilities.
+Super Fast Rendering.
+Various Editing Tools are available: Motion Tracker, Pen Tool, Timeline, Keyframe animation, Curve Editor, Masking, Color Correction, Frame Blend, Puppet Pin, etc.
+
+•Revolutionary Audio Reactor.
+Visualize your audio to anything. Every parameter of every effect&property is controllable by the audio spectrum.
+
+•AI Powered Features.
+Automatically separating Human&Background in real time!
+More Features Coming Soon!
+
+•3D Renderers.
+Mapping your videos & images to 3D models.
+
+•Professional Effects and Presets.
+Get new effects and presets regularly.
+
+•Currently included Effects/Properties
+-Blend Mode
+-Layer Styles
+-Motion Blur
+-Luma Fade
+-Lens Flare
+-Perspective Transform
+-Fractal Noise
+-Time Remap
+-Basic Color Correction(Exposure, Contrast, White Balance, etc.)
+-Emboss
+-4 Color Gradient
+-Shift Channels
+-Invert
+-Camera Lens Blur
+-Gaussian Blur
+-Cross Blur
+-Directional Blur
+-Radial Blur
+-Glow
+-Motion Tile
+-Mosaic
+-Find Edges
+-Vignette
+-Displacement Map
+-Mirror
+-Lens Distortion
+-Polar Coordinates
+-Clipping Mask
+-Human Matting
+-Shape Mask
+-RGB Curve
+-HSL Curve
+-Color Wheel
+-Sketch
+-Old Movie
+-Manga
+-Cartoon
+-Chroma Key
+-Particles: Snow, Rain,Embers
+---------
+Pro Subscription
+- You can subscribe for unlimited access to all features and content offered for purchase within Node Video.
+
+- Subscriptions are billed monthly or annually at the rate selected depending on the subscription plan.
+
+- Subscriptions auto-renew at the cost of the chosen package, unless cancelled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during active subscription period. Once purchased, refunds will not be provided for any unused portion of the term.
+
+- Any unused portion of the free trial period will be forfeited when you purchase a subscription.
+
+- Price may vary by location.
+
+- Terms of use: http://www.nodevideo.com/terms_of_use.html
+- Privacy Policy: http://www.nodevideo.com/privacy_policy.html
+
+* Don't hesitate to contact us on - contact@nodevideo.com
+Ratings
+Displayed Avg Ratings
+4.67
+Total Displayed Ratings
+41.9k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.11.4 (Feb 21, 2024)
+    - Added a more realistic water caustics effect, which can be used for text effects:
+    - [New Layer - Fill - Procedual - Water Caustics]
+    - [New Property - Fill - Procedual - Water Caustics]
+Version 6.11.2 (Jan 29, 2024)
+    Bug fixes and improvements.
+Version 6.11.1 (Jan 22, 2024)
+    Bug fixes and improvements.
+Version 6.10.2 (Dec 29, 2023)
+    Happy New Year Everyone! Thank you for your support and see you next year!
+    - Fixed a bug where moving the keyframe position may mess up the custom curves.
+    Added 2 new explode particles：
+    - [New Layer - 3D - Asset Store - Simple - Explode]
+    - [New Layer - 3D - Asset Store - Particle1 - Petal Explode]
+Version 6.10.1 (Dec 27, 2023)
+    Happy New Year Everyone! Thank you for your support and see you next year!
+    - Fixed the bug where moving the keyframe position may mess up the custom curves.
+    - Fixed the bug of discontinuous emission of [Particles - Embers2].
+    Added 2 new explode particles：
+    - [New Layer - 3D - Asset Store - Simple - Explode]
+    - [New Layer - 3D - Asset Store - Particle1 - Petal Explode]
+Version 6.10.0 (Dec 24, 2023)
+    Happy New Year Everyone! Thank you for your support and see you next year!
+    - Fixed a bug where moving the keyframe position may mess up the custom curves.
+    Added 2 new explode particles：
+    - [New Layer - 3D - Asset Store - Simple - Explode]
+    - [New Layer - 3D - Asset Store - Particle1 - Petal Explode]
+Version 6.9.5 (Dec 18, 2023)
+    Merry Christmas everyone, this update adds two new effects:
+    - Redesigned a better-looking [Asset Store - Nature - Frost].
+    - Added [New Layer - 3D - Model - Photographic Film].
+Version 6.9.4 (Dec 11, 2023)
+    - New Effect: [Asset Store - Blur - Spot Blur].
+    - Improved Text layer rendering quality.
+    - Other bug fixes and improvements.
+Version 6.9.3 (Dec 6, 2023)
+    - Fixed a bug where importing zip files may cause the original files to be deleted.
+Version 6.9.1 (Nov 20, 2023)
+    - Redesigned a better-looking [Bubble Blur].
+    - Other bug fixes and improvements.
+Version 6.9.0 (Nov 13, 2023)
+    - Now Support [Auto Save], you can turn it on in the settings page.
+    - UI layer will display the icon in the lower left corner.
+    - 5 new adjustable sizes have been added to the UI size, you can find it in the settings page.
+    - Fixed the bug that linear mask not work.
+    - Improved [Droplets] and [SnowFlake] effects.
+Version 6.8.2 (Oct 18, 2023)
+    - Fixed the bug that HDR video can't be imported under iOS 17.
+    --------------------
+    6.8.1
+    - New Effect: [Asset Store - Displacement - PolyTrace].
+    - Improved [Fracture] effect, Added [Physics - Triangles] parameter.
+    - Fixed the bug that iOS version below 12 can't import video.
+Version 6.8.1 (Oct 15, 2023)
+    - New Effect: [Asset Store - Displacement - PolyTrace].
+    - Improved [Fracture] effect, Added [Physics - Triangles] parameter.
+    - Fixed the bug that iOS version below 12 can't import video.
+Version 6.8.0 (Oct 9, 2023)
+    - Added [Smooth] parameter to [Glow Scan].
+    - Improved the quality of Audio Effect: [Reverb].
+    - Upgraded some native SDKs, helping us to better iterate and update.
+Version 6.7.1 (Sep 19, 2023)
+    - Fixed the bug that App freezes on iOS 17.
+    - Added 2 new phone model: [New Layer - 3D - Asset Store - Model - Phone & Broken Phone]
+Version 6.6.0 (Sep 4, 2023)
+    - Now you can export video directly from the project menu.
+    - Optimized export crash problem.
+    - Improved video decoder/encoder performance.
+    - Exporting now supports HEVC format
+Version 6.5.0 (Aug 23, 2023)
+    - New Effect: [New Property - Asset Store - Nature - Star Chain].
+    - New Effect: [New Property - Asset Store - 3D - Coin].
+    - Fixed [Asset Store - 3D - Phone] texture ratio bugs.
+    - Other bug fixes and improvements.
+Version 6.4.1 (Aug 14, 2023)
+    - UI Improved: the name of the text layer will now display the text content for easier identification.
+    - Improved [Time Interpolation - Motion Blur].
+    - Other minor bug fixes and improvements.
+Version 6.4.0 (Aug 3, 2023)
+    - Added [Gradient] parameter to [Pattern - Stripes].
+    - Upgraded our native SDK, which can bring some performance improvements.
+Version 6.3.6 (Jul 26, 2023)
+    - New Effect: [New Property - Asset Store - Nature - Snowflake].
+    - Other bug fixes and improvements.
+Version 6.3.5 (Jul 21, 2023)
+    Fixed the bug that some special effect parameters cannot be adjusted when the mask is turned on.
+Version 6.3.4 (Jul 18, 2023)
+    - New Effect: [New Property - Asset Store - 3D - Ocean].
+Version 6.3.3 (Jul 11, 2023)
+    - Shape and Mask now supports [Distortion].
+    - Improved [Layer Style - Bevel].
+    - Fixed a bug where media files were lost when importing a project.
+Version 6.3.2 (Jul 4, 2023)
+    - New Effect: [New Property - Asset Store - Displacement - Circulate].
+    - Added [gravity] parameter to [Fracture] effect.
+    - Other bug fixes and improvements.
+Version 6.3.1 (Jun 29, 2023)
+    - Redesigned [New Property - Effect - Time - Echo], now the trail is much smoother.
+    - Text animations now supports [New Property - Effect - Time] effects.
+    - Improved UI for iPad.
+    - Other bug fixes and improvements.
+Version 6.3.0 (Jun 28, 2023)
+    - Redesigned [New Property - Effect - Time - Echo], now the trail is much smoother.
+    - Text animations now supports [New Property - Effect - Time] effects.
+    - Improved UI for iPad.
+    - Other bug fixes and improvements.
+Version 6.2.3 (Jun 24, 2023)
+    - Improved for iOS 17.
+    - Now supports import ProRes format videos.
+    - Other bug fixes and improvements.
+Version 6.2.2 (Jun 12, 2023)
+    Bug fixes and improvements.
+Version 6.2.1 (Jun 10, 2023)
+    -New Effect: [New Property - Asset Store - Nature - Sea Reflection].
+    -Fixed the bug that sometimes the project could not be opened.
+Version 6.2.0 (May 31, 2023)
+    NV now supports importing and using [panoramic textures]!
+    You can use it for the [Sky Box], or you can use it for the [Environment Reflection] of the 3D layer.
+    Please check out the built-in manual link to learn details.
+Version 6.1.1 (May 24, 2023)
+    - Improved [Asset Store - Distortion - Turbulent Distortion] scaling effect.
+    - Layer Timeline alignment supports [overlap] adjustment.
+    - Adjustment Layer supports [Blend] and [Layer Styles] now.
+    - Optimized performance and reduced crash probability.
+    - Custom fonts can now be deleted manually.
+    - Improved [Asset Store - Displacement - LED] effect.
+Version 6.0.0 (May 4, 2023)
+    We updated the underlying framework of NV. In addition, the following improvements have been made:
+
+    3D
+    - New pivot parameter.
+    - Improved UI, 3D changes are more intuitive.
+    - 3D Text supports custom textures.
+
+    Motion Tracker:
+    - Support adding keyframes to correct the position.
+
+    Path:
+    - Redesigned the path parameter UI to support copy and paste.
+    - Path keyframes support curves.
+Version 5.9.0 (Apr 20, 2023)
+    New [Expression] feature!
+    Create a new project and open any parameter menu to find it.
+    Please note this feature requires some programming skills. 
+Version 5.8.5 (Mar 28, 2023)
+    - Improved Text Animation.
+    - In Text layer, you can tap [Add Animation Preset] to add animation component directly.
+    - Other bug fixes and improvements.
+Version 5.8.4 (Mar 22, 2023)
+    New:
+    - [New Property - Asset Store - Stylize - Old TV]
+    - [New Property - Asset Store - Stylize - Flicker]
+
+    Improvement:
+    - [Particles] now supports [Noise] option
+
+    Other bug fixes and improvements
+Version 5.8.3 (Mar 16, 2023)
+    Improved [Particle System]
+    - Added [Rotation 3D] parameter.
+    - Added [Texture Sheet] to [Custom Material].
+    - Added 7 Simple Particles. 
+Version 5.8.2 (Mar 8, 2023)
+    Improved [New Property - CC - Color Grading]
+    - Added [Hue vs Lum] and [Sat vs Lum] curve.
+    - Added [Channel Mixer] option.
+Version 5.8.1 (Mar 2, 2023)
+    New Powerful & Free [Audio Spectrum] Tool :[New Property - Effect - Audio Spectrum].
+    Other bug fixes and improvements.
+Version 5.8.0 (Mar 1, 2023)
+    New Powerful & Free [Audio Spectrum] Tool !
+    Check out [New Property - Effect - Audio Spectrum] to learn more!
+Version 5.7.7 (Feb 15, 2023)
+    -New Effect: [New Property - Asset Store - Displacement - Tile Rotate].
+    -Improved [Directional Blur] and [Ray Blur] now supports [Turbulence] option.
+    -Other bug fixes and improvements.
+Version 5.7.6 (Feb 8, 2023)
+    -Now you can [Delete Settings] & [Delete Custom Fonts] in the settings page.
+    -Improved [Water Reflection], the perspective is more realistic.
+    -Other bug fixes and improvements.
+Version 5.7.5 (Feb 1, 2023)
+    Improved [New Property - Text Effect - Text Animation]:
+    - New [Random Text] animation
+    - Improved [Glitch] effect
+
+    Improved [New Property - Asset Store - Nature - Rain drops]:
+    - Added [speed] parameter to [trails]
+    - Added [prewarm] parameter to [trails]
+
+    Improved [New Property - Effect - 3D - Particulate]:
+    - Now supports emit from Alpha channel
+Version 5.7.4 (Jan 18, 2023)
+    bug fixes and improvements.
+Version 5.7.3 (Jan 15, 2023)
+    -Brand new [New Property - Asset Store - Shine - Rays], supports [Gradient], [Length] adjusting.
+    -[New Property - Asset Store - Nature - Water Reflection] supports [Ripple] option.
+    -[Fracture] supports [opacity] adjusting.
+Version 5.7.2 (Jan 10, 2023)
+    New Feature:
+    - Added [Opacity] parameter to [Transform]
+
+    New Effects:
+    - [New Property - Asset Store - Distort - Bend]
+    - [New Property - Fill - Ice Caustics]
+
+    Bug fixes and improvements
+Version 5.7.1 (Jan 5, 2023)
+    Improvements:
+    - Export audio options supports up to 448kbps
+    - Improved audio mixing quality
+    - Added [Rainbow] parameter to [New Property - Fill - Water Caustics]
+    - Added [Direction] parameter to [New Property - Asset Store - Nature - Snow] 
+Version 5.7.0 (Dec 28, 2022)
+    Happy New Year, Everyone!
+    In this updates we improved the curve editor, now you can tweak the elastic&bounce parameters!
+    Thank you all for your supports! In 2023, we will continue to work hard to make NV better!
+Version 5.7.0 (Dec 28, 2022)
+    Happy New Year, Everyone!
+    In this updates we improved the curve editor, now you can tweak the elastic&bounce parameters!
+    Thank you all for your supports! In 2023, we will continue to work hard to make NV better!
+Version 5.6.4 (Dec 21, 2022)
+    New:
+    -[New Property - Asset Store - Nature - Frost]
+    -[New Layer - 3D - Asset Store - Snow2]
+
+    Improvements:
+    -Paint Shape now supports Animation(Procedural Drawing).
+    -Fracture now supports environment reflection.
+Version 5.6.3 (Dec 8, 2022)
+    New:
+    -[New Property - Asset Store - Style - VHS]
+
+    Improvements:
+    -[Water Reflection]: Added Turbulence Parameters
+    -[Turbulent Distortion]:More Smooth
+    -[Prism]:Added RGB Shift Parameters
+Version 5.6.2 (Nov 30, 2022)
+    New PC effects you've always wanted:
+    -[New Property - Asset Store - Glitch - Pixel Sort]
+    -[New Property - Effect - Time - Time Slice]
+
+    Fixed an issue where optical flow not work on reversed clips.
+Version 5.6.0 (Nov 17, 2022)
+    Optical Flow 8.0 is Out!
+    Better slowmo than Ever!
+    Check out the [Layer Menu -> Time Interpolation - Optical Flow 8.0] to learn more!
+Version 5.5.4 (Nov 11, 2022)
+    Bug fixes and improvements.
+Version 5.5.3 (Nov 6, 2022)
+    Fixes:
+    -2D transforms are not linked with parent groups.
+    -Exported result may not consistent with preview when used "Displacement Map" or "Layer Mask".
+Version 5.5.2 (Nov 3, 2022)
+    New Particles:
+    -[New Layer - 3D - Asset Store - Particle1 - (Petals, Heart, Leaves)]
+
+    New Effect:
+    -[New Layer - Fill - Pattern - Heart Spread]
+
+    Fix&Improvement:
+    -Fixed glitch issue when 3D layer’s Blend Mode is set to Additive
+    -[New Property - Asset Store - Distort - Jiggle] now supports Motion Blur
+Version 5.5.1 (Oct 31, 2022)
+    New:
+    [New Layer - 3D - Asset Store - Particle1 - Petals]
+    [New Property - Asset Store - Distort - Jiggle]
+
+    Improvements:
+    Added [Speed] and [Prewarm] parameters to 3D particles.
+Version 5.5.0 (Oct 25, 2022)
+    New Feature：
+    [New Property - Time - Speed Ramp]
+    New Effect:
+    [New Property - Asset Store - Distort - Voronoi Distortion]
+
+    Other bug fixes and improvements
+Version 5.4.2 (Oct 19, 2022)
+    UI:
+    - Now you can move the layers up or down directly from the TimeLine
+
+    New:
+    -[New Property - Text Effect - Counter]
+    -[New Layer - Fill - Pattern - Dots]
+Version 5.4.0 (Oct 11, 2022)
+    UI:
+    -Now you can adjust UI size in settings page.
+
+    Improvements:
+    -Added “Speed” parameter to 3d particles.
+    -Added “Perspective” parameter to Water Reflection Effect.
+    -Improved Lens Blur Effect.
+Version 5.3.2 (Sep 29, 2022)
+    New:
+    [New Property - CC - Contrast Adaptive Sharpening]
+    [New Property - Fill - Procedural - Water Caustics2]
+    [New Layer - 3D - Asset Store - Particles2 - Bubbles1]
+    [New Layer - 3D - Asset Store - Particles2 - Bubbles2]
+    [New Layer - 3D - Asset Store - Particles2 - Feather]
+    -Bug fixes and improvements.
+Version 5.3.1 (Sep 28, 2022)
+    New:
+    [New Property - CC - Contrast Adaptive Sharpening]
+    [New Property - Fill - Procedural - Water Caustics2]
+    [New Layer - 3D - Asset Store - Particles2 - Bubbles1]
+    [New Layer - 3D - Asset Store - Particles2 - Bubbles2]
+    [New Layer - 3D - Asset Store - Particles2 - Feather]
+Version 5.2.2 (Sep 21, 2022)
+    Bug fixes and improvements.
+Version 5.2.1 (Sep 19, 2022)
+    Fixed an issue where effect masking not working.
+Version 5.2.0 (Sep 16, 2022)
+    - NodeVideo is now able to open .zip archives. When you open .zip files you can choose NodeVideo to import them as project packages.
+    - Other bug fixes and improvements.
+Version 5.1.2 (Sep 13, 2022)
+    -Fixed video loading issue on iOS 16
+    -Fixed Gaussian Blur masking not working
+    -Fixed Motion Tracker not working
+Version 5.1.0 (Sep 8, 2022)
+    Improvements:
+    In the following cases, the text layer and the shape layer can be created infinitely without crash:
+    - When the 3D transform switch is turned on for the text layer.
+    - After creating a new shape layer, continue to click [New Shape] at the bottom of the property panel.
+
+    New:
+    - New Template UI, now you can replace assets easier.
+    - Added star shape.
+    - Added heart shape.
+Version 5.0.1 (Aug 30, 2022)
+    In version 5.0, we upgraded the entire underlying framework of NV, which will help us to upgrade and iterate better.
+
+    In addition, we also updated the following features:
+    - Realistic water reflection: [New Property - AssetStore - Nature - WaterReflection].
+    - Added [Random Color] to text animation.
+    - Now you can directly add [New Property - Fill] on layers, for example, you can directly add the [Water Caustics] effect on the text layer.
+    - 2D text layer can add [Fracture] and [Extrusion] effects now.
+Version 4.9.57 (Aug 2, 2022)
+    Better Saber Effect:
+    -[New Property - Asset Store - Shine - Saber Path]
+    Bug Fixes and improvements
+Version 4.9.56 (Jul 30, 2022)
+    Improvement:
+
+    -[Pinch Bulge] now supports [feather] parameter.
+
+    New:
+
+    -[New Property - Asset Store - Displacement - Halftone]
+Version 4.9.55 (Jul 23, 2022)
+    -Fixed an issue where keyframes were inconsistent when loading presets and copying effects
+    -New MINI Tool: HD
+Version 4.9.54 (Jul 16, 2022)
+    New Effect:
+    [New Property - Asset Store - Displacement - Brick]
+Version 4.9.51 (Jul 7, 2022)
+    Bug fixes and improvements
+Version 4.9.40 (Jun 29, 2022)
+    [New Property - Effect - 3D - Particulate]. Max to 10K particles! Requires Pro.
+
+    Fixed an issue where 3D particles are not facing camera.
+Version 4.9.31 (Jun 17, 2022)
+    New UI
+
+    -[Layer Manager], supports multiple selection, which is convenient for managing complex projects. You can find it on the layer menu bar.
+
+    New Effect
+
+    -[New Property - Asset Store - Stylize - Bump Map].
+    Bug fixes and improvements.
+Version 4.9.30 (Jun 15, 2022)
+    New UI
+    -[Layer Manager], supports multiple selection, which is convenient for managing complex projects. You can find it on the layer menu bar.
+    New Effect
+    -[New Property - Asset Store - Stylize - Bump Map].
+Version 4.9.28 (Jun 8, 2022)
+    bug fixes and improvements
+Version 4.9.27 (May 31, 2022)
+    New:
+    -Text3D and Custom Model now supports Reflection Environment
+
+    Fixes & Improvements
+    -Fixed Copy Effect bugs
+    -Improved Lens Blur and Shape Blur Effect
+Version 4.9.26 (May 27, 2022)
+    New:
+
+    [New Property - Asset Store - Blur - Shape Blur]
+
+    [New Property - Asset Store - 3D - Phone]
+Version 4.9.25 (May 20, 2022)
+    Realistic Ripples: 
+    -[New Property -> Asset Store -> Nature - Random Ripples]
+    Other bug fixes and improvements.
+Version 4.9.24 (May 12, 2022)
+    Hello everyone, based on your feedback, we have improved [Transform - More - Motion Blur]:
+    - Blur from the first frame
+    - There will also be a blurring effect on the edges
+Version 4.9.23 (May 11, 2022)
+    Redesigned[New Property -> Effect -> Layer Styles]
+    Now supports Outline, Glow, Inner Glow, Shadow, Long Shadow, Bevel.
+Version 4.9.22 (May 6, 2022)
+    Improvements:
+    Lens Blur(Slow) supports new shape: Star
+    New Effects:
+    [New Property -> Asset Store -> Lighten -> Soft Glow]
+    [New Property -> Asset Store -> 3D -> Sphere]
+    [New Property -> Asset Store -> 3D -> Cube]
+    [New Property -> Asset Store -> 3D -> Cylinder]
+    [New Property -> Asset Store -> 3D -> Ring]
+    [New Property -> Asset Store -> 3D -> Heart]
+    [New Property -> Asset Store -> 3D -> Octahedron]
+    [New Property -> Asset Store -> 3D -> Star]
+Version 4.9.21 (Apr 27, 2022)
+    Bug fixes and improvements.
+Version 4.9.20 (Apr 18, 2022)
+    New:
+
+    [New Property -> Asset Store -> Glitch -> Pixel Sorting]
+
+    [New Property -> Asset Store -> Stylize -> Page Curl]
+Version 4.9.19 (Apr 12, 2022)
+    UI:
+
+    -Landscape UI supports left-hand and right-hand mode, you can find it in the settings panel.
+
+    New Effect:
+
+    -[New Property - Asset Store - Nature - Heat Wave]
+
+    Bug fixes and improvements.
+Version 4.9.18 (Apr 5, 2022)
+    Added "Copy All Effects" option to the property menu.
+
+    New Effect: [New Property -> Asset Store -> Distort -> Wave Warp], supports sine, triangle, square, etc.
+
+    Deprecated "Twist" Effect, please use "Wave Warp" instead.
+Version 4.9.17 (Mar 28, 2022)
+    New Effects:
+
+    -[New Property -> Asset Store -> Distortion -> Scale Wipe]
+
+    -[New Property -> Asset Store -> Distortion -> Smear]
+
+
+
+    Improvements:
+
+    -Saber effect supports a new distortion type [voronoi]
+
+    -Custom Model and Extruder supports [light direction]
+Version 4.9.16 (Mar 21, 2022)
+    Fixed a bug that sometimes UI jumps to different layers.
+Version 4.9.15 (Mar 16, 2022)
+    Added layer alignment function, including align left, align sequential and align right.
+
+    You can find the alignment menu on the right corner of the time line panel.
+Version 4.9.14 (Mar 10, 2022)
+    Added 6 new glitch effects:
+
+    [New Property - Asset Store - Glitch - Wave Glitch]
+
+    [New Property - Asset Store - Glitch - Block Glitch]
+
+    [New Property - Asset Store - Glitch - Line Glitch]
+
+    [New Property - Asset Store - Glitch - Jump Glitch]
+
+    [New Property - Asset Store - Glitch - Wind Glitch]
+
+    [New Property - Asset Store - Glitch - Prism Glitch]
+    (Deprecated the old glitch effects, please use the new effects instead.)
+
+
+
+
+
+    Added 2 new displacement effects:
+
+    [New Property - Asset Store - Displacement - Random Shift]
+
+    [New Property - Asset Store - Displacement - Tile Shift]
+
+
+
+Version 4.9.13 (Mar 3, 2022)
+    -Brand new LUTs：[New Property - Color Correction - LUT]
+
+    You can even import custom .cube files.
+
+
+    -Bug fixes
+Version 4.9.12 (Feb 23, 2022)
+    Optical Flow 7.0:
+    Faster & Less Artifacts
+Version 4.9.11 (Feb 20, 2022)
+    New MINI project: Rainy
+Version 4.9.10 (Feb 16, 2022)
+    Fixed a bug sometimes jumping to different layer when opening the curve editor.
+Version 4.9.9 (Feb 15, 2022)
+    New Easy & Powerful Shake Effect:
+    -[New Property -> Effect -> Shake]
+    Bug fixes.
+Version 4.9.8 (Feb 9, 2022)
+    -Bug fixes and improvements for the new curve editor.
+Version 4.9.7 (Feb 7, 2022)
+    Brand new curve editor! Simple and easy to use. If you are more used to the old editor, you can switch back to full mode manually.
+Version 4.9.6 (Jan 26, 2022)
+    New Text 3D Layer! Even supports text animation!
+    Please Add [New Layer -> Text 3D] to get start!
+Version 4.9.5 (Jan 20, 2022)
+    New Effect:
+    [New Property -> Asset Store -> Stylize -> Old Film],Supports Spot, Scratch, Fiber, Grain, Flicker, Shake, Fully adjustable.
+    [New Property -> Asset Store -> Nature -> Snow].
+Version 4.9.4 (Jan 14, 2022)
+    Fixed some text animation bugs.
+    Redesigned [New Property -> Asset Store -> Distortion -> Lens Distortion], Now supports radius, dispersion adjustment.
+Version 4.9.3 (Jan 9, 2022)
+    New MINI package:
+    [My Planet]
+Version 4.9.2 (Jan 6, 2022)
+    New:
+
+    -[New Property -> Text Effect -> Text Circular Warp]
+
+    -[New Property -> Asset Store -> LightSweep] now supports "Distortion", can be used to make fancy lighting effect with Text layer.
+
+    Fixed an issue where text layer filling with texture not working properly.
+Version 4.8.0 (Dec 21, 2021)
+    -Improved [Unsharp Mask]
+    -Fixed black edges on [Lens Blur(Slow)]
+    -Fixed an issue where nested groups time line can't be edited.
+Version 4.7.1 (Dec 17, 2021)
+    Fixed an issue where Effects: [Rain Drop],[Saber Edge],[Frozen] can't be loaded.
+Version 4.7.0 (Dec 16, 2021)
+    New Particles:
+    [New Layer -> 3D -> Asset Store -> Particle2 -> Digital Rain1,2,3,4]
+
+    Minor bug fixes and improvements
+Version 4.6.0 (Dec 9, 2021)
+    -For professional motion graphic designers, a new powerful & flexible text system!
+
+    --Please [New Layer -> Text], and then [New Property -> Text Effect -> Text Animation] for this layer. Then you can stack any animation in the animation list bar, and change the [evolution] parameter to make the animation move.
+
+    --Check out our Youtube channel "Node Video" to get sample projects!
+    -Fixed zooming issue.
+
+
+
+Version 4.5.1 (Dec 2, 2021)
+    Fixed bugs that may be caused by long duration videos:
+    -Editing lag
+    -Stretching cannot be maximized
+    Fixed an issue where some effects may get lower quality after exporting.
+    -Unsharp Mask
+    -Lens Blur(Slow)
+Version 4.5.0 (Nov 30, 2021)
+    Improvements:
+    -Curve editor will automatically scale vertically to fit the current keyframes in screen. It is useful for dense keyframes' editing.
+    -Tap the trim icon in the timeline can trim to current time indicator.
+    Other bug fixes and improvements.
+Version 4.4.1 (Nov 25, 2021)
+    New Realistic Lens Blur:
+    -[New Property -> Asset Store -> Blur -> Lens Blur(Slow)]
+    Fix:
+    -Fixed Multiple Camera key frames not working.
+    -Fixed MINI Project Leg Stretch problem, need to re-install app.
+Version 4.4.0 (Nov 19, 2021)
+    In this version we've redesigned our rendering pipeline which brings these advantages.
+    2D:
+    -Text, Shape, 3D will no longer be displayed as groups, which is very confusing.
+    -Transfrom & Effects will not be cropped by group now.
+    -Pivot Linking should be correct now.
+    3D:
+    -Multiple Cameras supported. Just [New Layer -> 3D -> Camera] to create a camera group, it will rendering its 3d children separately and then be composited as a 2D layer.
+    -Skybox supported. (Currently only Gradient and Flare)
+    -----------------------
+    Upgrade your old projects:
+    This version is not backward compatible, If you encounter problems please flow below guidance:
+    -You may need to adjust 3D layers transform manually.
+    -Text and Shape layer now have no masking effect. You need to create another [Layer Mask], then set its source to your Text or Shape.
+Version 4.3.2 (Nov 10, 2021)
+    -[New Property -> Asset Store -> Displacement -> Hexagon] Now supports dissolve, shading, etc. Just twist the "Dissolve" parameter you can see a fancy shiny effect. Inspired by user: Aynxt
+    - Minor bug fixes
+Version 4.3.1 (Nov 5, 2021)
+    Fixed crop issue on 1:1 ratio.
+Version 4.3.0 (Nov 4, 2021)
+    New:
+
+    -Video Crop is now supported. You can find it in [Transform -> more -> Crop].
+
+    You can use crop to scale in specific area without quality drop.
+
+    -[New Property -> Color Correction -> Soften]
+
+    Improved:
+
+    -[New Property -> Color Correction -> Unsharp Mask]
+Version 4.2.1 (Oct 31, 2021)
+    Fixed bugs for iPhone 13 Pro:
+    UI lags&delays
+Version 4.2.0 (Oct 27, 2021)
+    New:
+    - [New Property -> 2D Animation -> Liquify]
+    Improvement：
+    - Optical Flow now supports [Remove Duplicate] option which can remove duplicated frames in video and get smoother result.
+Version 4.1.1 (Oct 22, 2021)
+    Optical Flow Changes:
+    -Removed Smart Blend Option
+    -Added Edge Denoise and Force Continuous option
+    Other Bug fixes.
+Version 4.1.0 (Oct 20, 2021)
+    Optical Flow 5.0
+    Stronger & Faster
+Version 4.0.3 (Oct 14, 2021)
+    New Effects:
+    1. Realistic raindrops
+    [New Property -> Asset Store -> Nature -> Rain Drops]
+    2. Screen Rain Effect
+    [New Property -> Asset Store -> Nature -> Rainy]
+
+    Fixes:
+    1. Pen Tool Mask Tracking issue
+    2. Gaussian Blur Masking issue
+    3. Undo issue
+Version 4.0.2 (Oct 8, 2021)
+    New Effects:
+    1. [New Property -> Asset Store -> Nature -> SaberEdge]
+    (You can apply saber to layers with Alpha channel)
+    2.[New Property -> Asset Store -> Displacement -> Hexagon]
+Version 4.0.1 (Oct 3, 2021)
+    Fixed crash after pick media.
+Version 4.0.0 (Sep 30, 2021)
+    - 8 new color themes, you can find them in the "settings" page(located on the top right corner).
+    - Refactored our codes for further updating.
+Version 3.9.4 (Sep 23, 2021)
+    1)Important Change:
+    -Now all the effects are under [New Property -> Asset Store] category.
+    2) Fixes&Improvements：
+    -Text layer shows white blocks.
+    -3D layer supports "Alpha Clip" now.
+Version 3.9.3 (Sep 16, 2021)
+    -Improved UI color
+    -New Effect:
+    [New Property -> Asset Store -> Glitch3]
+    [New Property -> Asset Store -> Stylize -> Code]
+Version 3.9.2 (Sep 10, 2021)
+    1）New:
+    -[New Property -> Effect -> Time -> TimeWarpRGB]
+    -[New Node -> 3D -> Asset Store -> Particle -> ButterFlies 1.2.3.4.5.6.7]
+    2）Long press bookmark to delete all bookmarks
+    3）Fixed 3D transparency issue
+Version 3.9.1 (Sep 6, 2021)
+    Bug Fixes:
+    - Custom font not rendering.
+    - Motion blur not working.
+    - Transform Link broken issue.
+Version 3.9.0 (Sep 3, 2021)
+    1) New [Beat Tool], you can use it to make various music effects.
+
+    - You can find it in the Audio property panel.
+
+    - You can also find it in the MINI Mode.
+
+    - These feature is super useful, we'll add tutorial later!
+
+    2) Transform now supports [Link With], You can link it with NULL object(Adjustment layer) to make complex transitions.
+
+    3) Added back property "Copy" and "Paste" option.
+Version 3.8.1 (Aug 29, 2021)
+    Fixes an issue that may cause the exported video corrupt.
+Version 3.8.0 (Aug 27, 2021)
+    1) New Effects:
+
+    - [New Property -> Asset Store -> Light Rays].
+
+    2) Bug fixes and improvements.
+Version 3.7.0 (Aug 22, 2021)
+    1)New LightSweep Effect
+
+    -[New Property -> AssetStore -> LightSweep]
+
+    2)Fixed potential crashes.
+Version 3.6.0 (Aug 19, 2021)
+    1) Properties support [Preset] function, which greatly simplifies the workflow.
+
+    - Open the menu of any property panel, you can find the [preset] option
+
+    2) Now the [Transform] property can directly enable the [Tiling] function, which will bring the following benefits:
+
+    - No longer to add [Motion Tile] property.
+
+    - Tiling is connected with transform, It's more convenient to make transitions.
+Version 3.5.0 (Aug 17, 2021)
+    1) New Feature:
+    - [New Node -> Adjustment Layer]
+    2) New Particles:
+    - [New Node -> 3D -> AssetStore -> Particle -> Turbulence]
+    - [New Node -> 3D -> AssetStore -> Particle -> Lines]
+    3) Improvements
+    - [Asset Store -> Rays] supports "Dispersion", can be used to create rainbow rays.
+    4) Bug fixes
+Version 3.4.0 (Aug 11, 2021)
+    1) Improvement
+
+    - [New Property -> Asset Store -> Rays], supports "Dispersion" now.
+
+    2) Fixed some major bugs
+
+    - Splitting video layer may cause app crash and projects are gone.
+
+    - Potential bugs which may cause app crash.
+
+    - Potential bugs which may cause projects disappear.
+Version 3.3.0 (Aug 4, 2021)
+    1) New Effects:
+    - [New Property -> Color Correction -> Unsharp Mask], Better sharpen result.
+    - [New Property -> Asset Store -> RGB Displacement].
+    2) Bug fixes and improvements.
+Version 3.2.0 (Jul 28, 2021)
+    1) Optical Flow 4.1
+
+    - Improved motion blur.
+
+    - Frame mix now is enabled when motion blur is on.
+
+    2) Slow motion supports up to 50 times slowdown.
+
+    3) Bug fixes and improvements.
+Version 3.1.0 (Jul 23, 2021)
+    - Supports Importing custom 3d models(.fbx, .obj). Animations are also supported!
+
+    [New Node -> 3D -> Import]
+
+    Please check out http://www.nodevideo.com/guide/custommodel.html to learn more.
+Version 3.0.0 (Jul 15, 2021)
+    - Optimized preview speed and memory consumption.
+    - [New Property -> 2D Animation -> Polygon Deform], Can be used to make eye close animation, custom deformation, etc.
+    - New Logo
+Version 2.9.1 (Jul 2, 2021)
+    Added Turbulent Distortion:
+    [New Property- > Asset Store -> Turbulent Distortion]
+    (So many users requested this feature..)
+Version 2.9.0 (Jun 24, 2021)
+    - Supports Audio Effects Now! [Requires Pro]
+
+    -- [New Property -> Audio Effect -> Low Pass]
+
+    -- [New Property -> Audio Effect -> High Pass]
+
+    -- [New Property -> Audio Effect -> Low Shelf]
+
+    -- [New Property -> Audio Effect -> High Shelf]
+
+    -- [New Property -> Audio Effect -> Pitch Shifter]
+
+    -- [New Property -> Audio Effect -> Reverb]
+
+
+
+    - Moved [New Property -> Color Grading] to [New Property -> Color Correction -> Color Grading]
+Version 2.8.0 (Jun 17, 2021)
+    - Added "Sine" wiggle type to wiggle editor, you can use it to make regular shakes.
+    - Improved motion tracker.
+    - Bug fixes and improvements.
+Version 2.7.0 (Jun 8, 2021)
+    - Advanced Optical Flow is Here!
+    -- Top Rank High Accuracy Even compare with PC!
+    -- No quality loss on videos!
+    -- Free!
+Version 2.6.0 (Jun 1, 2021)
+    New:
+    - Text layer supports [path warping]!
+    Fix:
+    - [Important]Fixed quality loss in some videos(darkening, blurring).
+    - Added "Edge Width" to Motion Tile, You can use it to get rid of border edges.
+    - Added "Random Seed" to Wiggle Editor.
+    - Improved Timeline Editing.
+Version 2.5.0 (May 27, 2021)
+    - Brand new motion tracking system! Supports rotation and scale tracking. Smoother and more stable.
+    - Curve editor supports vertical zooming (pinch two fingers in or out).
+Version 2.4.1 (May 21, 2021)
+    Fix the problem that time remap cannot add key frames
+Version 2.3.0 (May 12, 2021)
+    This version brings the following improvements:
+
+    -Optimized the memory usage when exporting, should increase the upper limit of layer count.
+
+    -Optical flow 3.1, better frame mix.
+
+    -Added export quality option "very high". It's not recommended unless you really need it.
+
+    -Added "Fade in" effect for text animation, This can make glow animation with "Glow Scan".
+
+    -Improved the "Glow Scan" and "Bling" effects.
+Version 2.2.1 (May 7, 2021)
+    Particle System supports custom texture now!
+
+    Just crate any particle [New Node -> 3D -> Particles], then check on the "Custom Material" option.
+Version 2.2.0 (Apr 30, 2021)
+    NV Motion Blur is out! Check out the [Time Interpolation -> Optical Flow] to learn details.
+
+    Online Documentation:
+
+    http://nodevideo.com/guide/optical-flow.html
+Version 2.1.2 (Apr 21, 2021)
+    -[New Node -> 3D -> Particles -> Triangles]
+    -[New Node -> 3D -> Particles -> Embers3]
+    -[New Node -> Fill -> Audio Visualization -> Line]
+    -Added new parameter to particles: random position
+    -Bug fixes and improvements
+Version 2.1.1 (Apr 15, 2021)
+    -Pen Tool supports [Trim Path]
+
+    -Anti Aliasing is now supported. Shape layer and text layer should have more smoother edges.
+
+    -The following features are free for a limited time for 1 month：
+
+    --[Pen Tool]
+
+    --[Hue Saturation Curve]
+Version 2.1.0 (Apr 8, 2021)
+    -New Effect :Face DIY
+    Check out the [Face DIY] MINI project or add [New Property -> Effect -> NV Lab -> Face DIY] to learn more
+Version 2.0.2 (Apr 1, 2021)
+    -New Effect: [New Property -> Asset Store -> Stylize -> Old Movie2].
+    -New Effect: [New Property -> Effect -> Distortion -> Squeeze].
+    -Bug fixes and improvements.
+Version 2.0.1 (Mar 25, 2021)
+    ---2.0.1---
+
+    -Fixed an issue where timeline inside group is not correct.
+
+    -Fixed a potential crash bug on exporting.
+    ---2.0.0---
+    -In this major version we bring you a revolutionary feature:【MINI Mode】!
+
+    Check out this page to learn details: http://nodevideo.com/guide/nodemini.html
+
+    -Motion blur supports "Dispersion".
+Version 2.0.0 (Mar 24, 2021)
+    •In this major version we bring you a revolutionary feature:【MINI Mode】!
+    Check out this page to learn details: http://nodevideo.com/guide/nodemini.html
+    •Motion blur supports "Dispersion".
+Version 1.6.40 (Mar 1, 2021)
+    -Super powerful fracture system: [New Property -> Effect -> 3D -> Fracture].
+    -Supports import HDR video.
+    -Puppet Pin supports 3D rendering.
+    (We are preparing for the next major version 2.0, so there may not be a update in the next one month. Thank you for your support.)
+Version 1.6.30 (Feb 26, 2021)
+    -Physically based breaking effect: [New Node -> 3D-> Break Window].
+
+    -Bug fixes and improvements.
+Version 1.6.20 (Feb 22, 2021)
+    -New Effect: [New Node->Fill->Asset Store->Radial Rays].
+    -UI: Video layer supports "trim", you can find it next to "scissors" in the timeline menu.
+    -UI: Curve editor supports grid display and snap.
+    -Improve：Glow effect now supports "Preserve Alpha".
+    -Improve：3D layer supports per layer blending and transparency adjustment. you can find them in the "Transform" property.
+Version 1.6.10 (Feb 17, 2021)
+    -Audio now supports left and right channel editing.
+
+    -Fixed an issue where 3D groups with 2d child layer are not rendering.
+
+    -Fixed the bug that slide down the media picker the loading screen won't disappear. 
+Version 1.6.0 (Feb 14, 2021)
+    -3D rendering supports "depth test", the global camera will automatically detect the occlusion between layers. Note that the old project may need to readjust the z pos.
+
+    -Fixed the problem that the template code cannot be imported.
+
+    -Fixed the problem that slomo video cannot be imported.
+
+    -Improved the "Pen Tool" UI.
+
+    -"Pro" icon will no longer be displayed in Pro version.
+Version 1.5.81 (Feb 3, 2021)
+    -Fixed a potential bug that sometimes project can't open.
+    -Added "anchor" option to "Motion Tile" effect.
+Version 1.5.80 (Feb 1, 2021)
+    In this update we added 2 new free effects for gaming video. Hope you like it!
+    1, Brand new Ripple Effect, Full adjustable[New Property -> Asset Store -> Ripple].
+    2, Counter Animation[Create a new Text layer, tap "Text Animation", then select "Counter"].
+    3, Support import custom 3D LUT[Add a new "Color Grading" Property, then tap the "menu" icon on the top right].
+    4, Simplified the project resolution option.
+Version 1.5.70 (Jan 27, 2021)
+    -New Effect:[New Property -> Asset Store -> Bling]
+
+    -New Effect:[New Property -> Asset Store -> RGB Radial]
+
+    -New Mask:[New Property -> Mask -> Layer Mask]. You can set other layer as mask now.
+
+    -New Text Animation Type: Position, Rotation, not compatible with old text layer.
+
+    -Bug fixes and improvements.
+Version 1.5.50 (Jan 15, 2021)
+    -Removed the splash screen
+    -Added an audio monitor at the bottom of the UI, which can display audio changes during playback
+    -New Effect: [New Property -> Asset Store -> Light Trail](Need to create a path and play)
+    -New Effect: [New Property -> Asset Store -> RGB Blur]
+    (If you have any feature requests or suggestions, please let us know through the "Feedback" page in the app.)
+Version 1.5.40 (Jan 6, 2021)
+    -Now supports 4K export(Requires new project)
+    -Optimized the memory usage when exporting, now there should be no crashes when exporting multiple layers
+    -Curve editing supports separate display of XYZ, making it more convenient to edit 3D curves
+    -App will automatically lock the device rotation after 5 seconds after startup
+Version 1.5.32 (Dec 31, 2020)
+    Optical Flow 2.0! Better result on time interpolation. Optical Flow is still under improvement, when it is perfect enough we will launch per-pixel motion blur and 3D tracking!
+    ----------------------------------------------------
+    Happy new year everyone, in 2011 we will continue to work hard to bring better experience and more features! Thank you all for your support.
+Version 1.5.31 (Dec 29, 2020)
+    -Improved memory usage on exporting.
+
+    -Text Layer now supports: Outline, Glow, Shadow, Bevel.
+
+    -UI bug fixes and improvements.
+Version 1.5.30 (Dec 23, 2020)
+    Merry Christmas Everyone! In this version we brought you one of the most frequently requested feature: 3D Extrusion! Hope you enjoy it!
+    -Extrude any Text/PNG into 3D! Check out our Youtube channel to learn details.
+    -Bug fixes and improvements.
+Version 1.5.21 (Dec 18, 2020)
+    -Fixed the memory issue which causes app crash.
+    -Now the previewing will not consume any memory, please update this version.
+Version 1.5.20 (Dec 17, 2020)
+    -Convert any Text/PNG to saber! Check out our Youtube channel to learn how to use.
+    -Supports custom font now, requires pro.
+    -Fixed the audio synchronization issue.
+Version 1.5.10 (Dec 9, 2020)
+    •Prefetch available. It can boost the previewing speed a lot! You can find it in the layer menu.
+    •New Effect: [New Property -> Asset Store -> Glow Scan].
+Version 1.5.01 (Dec 5, 2020)
+    Fixed a potential bug that project save failed and becomes unusable.
+    -------------------------
+    1.5.0
+    New
+
+    -Industry Level Color Grading.[New Property -> Color Grading]
+
+    Improvements
+
+    -Simplified the parameter UI.
+
+    -Shape mask now supports tracking.
+
+    -Previewing speed improved by around 10%. This is still a major task we've been working on, Thank you for
+
+    your support and being patient.
+Version 1.5.0 (Dec 3, 2020)
+    New
+    -Industry Level Color Grading.[New Property -> Color Grading]
+    Improvements
+    -Simplified the parameter UI.
+    -Shape mask now supports tracking.
+    -Previewing speed improved by around 10%. This is still a major task we've been working on, Thank you for
+    your support and being patient.
+Version 1.4.92 (Nov 30, 2020)
+    -Fixed potential crash on app launching. This issue seems only happens in some Arabic iPhones. If you still can't open NodeVideo please send an email to: contact@nodevideo.com. We can offer you free pro membership. Thanks
+Version 1.4.91 (Nov 22, 2020)
+    This update is mainly optimized for iOS14:
+    -No longer need album reading permission
+    -Picking media supports multiple selection
+    -The picked video will not be compressed
+    We strongly recommend you upgrade to iOS14 for a better experience.
+Version 1.4.90 (Nov 19, 2020)
+    New:
+    -[New Property -> 2D Animation -> Flow]
+    -[New Node -> 3D -> Particle -> Embers2]
+    -[New Node -> 3D -> Particle -> Ashes]
+    Please check out our Youtube channel to learn details.
+Version 1.4.80 (Nov 16, 2020)
+    New
+    -Waveforms&Histogram for an accurate color grading process.
+    -Now the tracker UI will show a status bar indicates which frames are tracked.
+    -New Effect: [New Property -> Asset Store -> Stretch Segment]
+    Improvements
+    -Memory usage improved
+Version 1.4.71 (Nov 8, 2020)
+    Saber: Fixed hard edges when start/end offset changed.
+    UI: Improved the subscription page, now you can see what pro features you would get in this page.
+Version 1.4.70 (Oct 28, 2020)
+    New
+    -Saber Effect! Please checkout [New Node -> Saber] to learn more. This effect is 100% free.
+Version 1.4.62 (Oct 22, 2020)
+    Minor bug fixes and improvements.
+
+    We will release "Saber" in the next week, please stay tuned!
+
+Version 1.4.61 (Oct 19, 2020)
+    Fixed an issue where using puppet pin on photos would get a wrong quad shape.
+Version 1.4.60 (Oct 14, 2020)
+    New:
+    •Professional 2D Animation Tool【Puppet Pin】!Please check out our youtube channel to learn details. Tool Path [New Property -> 2D Animation -> Puppet Pin] .
+    Fixes:
+    •Fixed an issue where some videos are forced to speed up.
+Version 1.4.51 (Oct 8, 2020)
+    Performance and stability improvements
+Version 1.4.5 (Oct 7, 2020)
+    NEW:
+    -Text Animation! Please checkout [New Node -> Text -> Text Animation] to learn more!
+    FIX:
+    Fixed an issue where timeremap and slow down not work.
+Version 1.4.4 (Oct 4, 2020)
+    -Improved seeking accuracy.
+    -Other minor bug fixes and improvements.
+Version 1.4.3 (Oct 1, 2020)
+    Improvements:
+    -Greatly improved performance for Playing&Exporting. We will continue to work hard to make it faster.
+    New features:
+    -Mask Tracking. You can use it to blur/pixelate moving objects easily. Please follow our youtube channel to learn details.
+    -Motion Tracking now supports Affine type.
+Version 1.4.2 (Sep 24, 2020)
+    Fixes:
+    -Sometimes project file is corrupt and can't open.
+    -【Time Interpolation -> Optical Flow】not working since 1.4.0.
+Version 1.4.1 (Sep 23, 2020)
+    New features:
+    -"Get Help" page in home menu, you can find tutorials & contact information there.
+    -UI for "Rectangle" and "Ellipse" shape.
+    Fixes:
+    -Can't cut audio clips accurately.
+    -Last few audio data is missing when exported.
+    Improvements:
+    -Curve editing for scaling.
+    -Better result of Color Correction -> Hue Saturation Curve
+Version 1.4.0 (Sep 16, 2020)
+    New:
+
+    -Video Stabilizer[New Property -> Tracker -> Stabilizer], please check out our youtube channel to learn more.
+
+
+
+    Improvements:
+
+    -Exporting speed improved by around 50%.
+
+    -Improved Optical Flow frame blending.
+Version 1.3.9 (Sep 10, 2020)
+    New:
+    -【Time Interpolation】【Super Slow Motion】!!
+    --Frame Blend
+    --Optical Flow
+    Full GPU Accelerated.
+    Please checkout our youtube channel to learn how to use. https://www.youtube.com/watch?v=WKiCnzJ_dcQ
+
+    Fixes&Improvements:
+    -Fixed issue that can't change FPS after project created.
+    -Playing Speed improved by around 10%.
+Version 1.3.8 (Sep 4, 2020)
+    -Improved the curve editor, now it should be much easier to edit.
+    -New effect: [New Property -> Asset Store -> Fire].
+    -Bug fixes and improvements.
+Version 1.3.7 (Sep 1, 2020)
+    Fixes & Improvements:
+    -Fixed various bugs with per-frame editing:
+    --PenTool Keyframes sometimes messed up when keyframes are too close.
+    --Can't update keyframe value when keyframes are too close.
+    --Curve value not accurate when keyframes are too close.
+
+    -UI:
+    --Zoom on keyframes now are synchronized with the time line.(Landscape mode)
+    --Clip trim icon will only be showed when selected.
+
+    -[Motion Tile] now supports motion blur.
+
+    New:
+    -[New Property -> Effect -> Distortion -> Twist].
+Version 1.3.6 (Aug 28, 2020)
+    Fixes:
+    -Fixed a memory leak.
+    -3D group can add mask now.
+
+    UI:
+    -Now audio waveform will be showed in the timeline.
+Version 1.3.5 (Aug 26, 2020)
+    -A new LOGO
+
+    -Some bug fixes and improvements
+Version 1.3.4 (Aug 21, 2020)
+    -Brought back the app manual(It was deleted by mistake in the last version 1.3.3).
+Version 1.3.3 (Aug 19, 2020)
+    New Effects:
+    -[New Property -> Asset Store -> Prism1]
+    -[New Property -> Asset Store -> Prism2]
+    -[New Property -> Asset Store -> Ray Tracing -> Glass Cube]
+
+    UI:
+    -Full Screen Editing is now supported in landscape mode.
+Version 1.3.2 (Aug 13, 2020)
+    -Some fixes and improvements for UI.
+    -New Effect: [New Property -> Asset Store -> Frost].
+Version 1.3.1 (Aug 8, 2020)
+    -Bug fixes and improvements.
+Version 1.3.0 (Aug 3, 2020)
+    Changes:
+    -NO ADS ANYMORE.
+
+    This app is built and maintained by 3 young programmers in China. We don't have any marketing resources in foreign countries and we apologize for the lack of tutorials. If you are making tutorial videos please contact us, we can introduce your social account to other users.
+Version 1.2.9 (Jul 30, 2020)
+    New:
+    Ray Tracing 3D:
+    -[New Property -> Ray Tracing -> Glass Sphere].
+    -[New Property -> Ray Tracing -> Crystal Sphere].
+    -[New Property -> Ray Tracing -> Diamond].
+
+    Fixes&Improvements:
+    -Adding key frames while playing is now supported.
+    -Performance and stability improvements.
+Version 1.2.8 (Jul 27, 2020)
+    New:
+    -[New Property -> Asset Store -> Ripple].
+
+    Fixes&Improvements:
+    -Performance and stability improvements.
+Version 1.2.7 (Jul 22, 2020)
+    New:
+    -Media infomation panel. You can find this option on the layer menu.
+
+    Fixes&Improvements:
+    -Replaced Lens Flare Textures with high resolution ones. Iris adjusting is also supported now.
+    -Chroma Key supports alpha clip now.
+    -Some bug fixes and improvements.
+Version 1.2.6 (Jul 19, 2020)
+    Fixes:
+
+    -Fixed audio glitch problem while playing.
+
+    -Fixed some other major bugs.
+
+
+    New:
+
+    -Added 15 new professional lens flare effects, please check out [New Node -> Fill -> Lens Flare] to learn more.
+
+    -Added FAQ in the About page.
+Version 1.2.5 (Jul 15, 2020)
+    Fixes:
+    -Fixed some crashes.
+    New:
+    -[New Node -> Fill -> Audio Visualization -> LED].
+Version 1.2.4 (Jul 12, 2020)
+    Fixes:
+    -Fixed Glitches while seeking HEVC format videos.
+    -Fixed an issue where sometimes timeline and preview are not synchronized whiling editing parameters.
+
+    Improved:
+    -Color Mask now supports "Refine(denoise&blur)".
+Version 1.2.3 (Jul 8, 2020)
+    New:
+    -Project Explorer. Supports [Sort by Time/Size/Name], [List/Grid View], [Duplicate], [Export Project as Zip], [Import Project(Zip)].
+    -[New Property -> Effect -> Stylize -> RepeTile]. Useful for creating repeat patterns.
+    -[New Node -> Fill -> Audio Visualization -> Energy].
+
+    Fixes:
+    -Minor bug fixes and improvements.
+Version 1.2.2 (Jul 2, 2020)
+    Fixes:
+
+    -Fixed some bugs and crashs on 3D Rendering.
+
+
+
+    New Effects:
+
+    [New Node -> Fill -> AssetStore -> Water Caustics]
+
+    [New Node -> Fill -> AssetStore -> Speed Line]
+
+    [New Node -> Fill -> AssetStore -> Stripes]
+
+    [New Node -> Fill -> AssetStore -> Glowing Rays]
+
+    [New Node -> Fill -> AssetStore -> Grid]
+Version 1.2.1 (Jun 28, 2020)
+    New:
+
+    -New 3D Rendering Pipeline.(3D Layer, Depth Test, Parenting, Motion Blur are supported now).Please check out the 3D example or our Youtube channel to learn more.
+
+    Fixes&Improvements:
+
+    -Some bug fixes and improvements.
+
+Version 1.2.0 (Jun 21, 2020)
+    New:
+
+    -Template QRCode. by which you can encode your project to the exported video and share them conveniently.
+
+    --In Export menu, Check on the "append template" option, then your project code will be appended to the exported video.
+
+    --In Home menu, you can load template by click "Load Template" button.
+
+
+
+    Fixes&Improvements:
+
+    -Some fixes and improvements for landscape UI.
+Version 1.1.9 (Jun 7, 2020)
+    New:
+
+    -Timeline audio scrubbing is now supported.
+
+    -Painting directly on mask is now supported.
+
+
+
+    Fixes&Improvements:
+
+    -Fixed a crash on PenTool Masking.
+
+    -Improved UI Zooming.
+
+
+
+    Changes:
+
+    -Deprecated[New Node -> Paint], Please use[New Node -> Shape], then set shape type to "Paint" instead.
+Version 1.1.8 (Jun 3, 2020)
+    New:
+
+    -UI now supports landscape orientation. Just turn your device sideways to check it out. Please make sure the "portrait orientation Lock" is set off on your device.
+
+
+
+    Fixes:
+
+    -Fixed an issue where "Color Wheel" is not working.
+Version 1.1.7 (May 24, 2020)
+    New:
+    -Motion Tracking. Yep we've made another breakthrough for iPhone. please checkout [New Property -> Tracker -> Motion Tracking] to learn more.
+    Or you can also checkout our youtube channel to learn the tutorial.
+
+    Changes:
+    -Temporarily removed the watermark until we get through this pandemic. please feel free to make your own video.
+    -Minor bug fixes and improvements.
+Version 1.1.6 (May 14, 2020)
+    New:
+
+    -Paint Layer. blazing fast, supports animation! checkout [New Node -> Paint] to learn more.
+
+    -Jump single frame is now availbale, just expand the bottom time line menu you will see the button.
+Version 1.1.5 (May 7, 2020)
+    New:
+
+    -[UI] Now a "Screen Magnifier" window will show up while dragging UI handles.
+
+    -[New Property->Asset Store->Flare]. Pro is required.
+
+    -New Shape is available: Linear.
+
+    Fixes & Improvements:
+
+    -Greatly improved UI performance, especially for undo&redo.
+
+    -Fix for issue where Blur for PenTool is not working.
+Version 1.1.4 (May 3, 2020)
+    Changes:
+    -Simplified PenTool keyframing. Now uses "Path" keyframing instead of "per-point" keyframing.
+    -Please note the PenTool data in older version will lost. We are very sorry for this inconvenient.
+    -PenTool now requires Pro.
+
+    Fixes & Improvements:
+    -Fixed bezier curve editor, more flexible and accurate now.
+    -Improved Gaussian Blur's Performance&Quality.
+Version 1.1.3 (Apr 28, 2020)
+    For some reason the "Lifetime Pro" IAP in last version has been sent back so we have to resubmit a new version. For release notes please refer to v 1.1.2.
+    -Improved UI layout for iPad.
+    -Minor bug fixes and improvements.
+Version 1.1.2 (Apr 27, 2020)
+    New Tool:
+    -Sequencer Tool. You can use it to cut video easily, check out [New Node -> Tool Box -> Sequencer] to learn more
+    New Effects:
+    -Dissolve pack, more than 20 different advance dissolve effects.[New Property->Asset Store->Dissolve]
+    -Rays.[New Property->Asset Store->Rays]
+    -Also added a Dissolve&Explosion example to demonstrate these two effects above, you need to reinstall the app to get the example.
+    New IAP:
+    -One time purchase option is available now, get it early to save your money!
+    Fixes&Improvements:
+    -Improvements and bug fixes around time line editing.
+Version 1.1.1 (Apr 15, 2020)
+    New Effects:
+
+    -Perspective Transform [New Property->Effect->Distort->Perspective Transform]
+
+    -Twirl [New Property->Effect->Distort->Twirl]
+
+
+
+    Fixes&Improvements:
+
+    -Improved wiggle for paired parameters, eg, the x, y of position will be wiggled in a random phase.
+
+    -Improved Lens Distortion Effect.
+
+    -Fixes for potential crash after undo.
+
+    -Removed unskippable AD when exporting is finished...(Please give us a good review, Thanks.)
+
+
+
+    Deprecated:(Will be removed in the future)
+
+    [New Node -> Fill -> Gradient] please use Layer Styles instead.
+
+    [New Property-> Effect -> Distort -> Radial Distort] please use Lens Distortion instead.
+Version 1.1.0 (Apr 10, 2020)
+    New:
+
+    -Skew[New Property->Effect->Distort->Skew]
+
+    -Layer Styles[New Property->Layer Styles], Also deprecated old layer styles in Shape and Text.
+
+    -Redesigned the node menu, added 2 new tools: (Capture and add as Node) and (Capture and Save).
+
+    -Motion Tile supports motion blur now
+
+
+    Fixes&Improvements:
+
+    -When pick video from gallery no compression will be added to the video now.
+
+    -Improved UI perform
+    -Improved UI for iPad.
+
+    -Other minor bug fixance.
+    es and improvements.
+Version 1.0.9 (Apr 4, 2020)
+    New:
+
+    -Pen Tool. Yep, we've made another breakthrough for mobile devices...please check it out in below locations:
+
+    1, New Node -> Shape -> Shape Type -> Pen Tool
+
+    2, Any Effect Mask -> Shape Type -> Pen Tool
+
+    2, New Property -> Shape Mask -> Shape Type -> Pen Tool
+
+
+
+    Fixes&Improvements:
+
+    -Improved ChromaKey, both green color and blue color are supported now.
+
+    -Added a very professional Color Correction example, reinstall the app to learn more.
+
+    -Minor bug fixes and improvements.
+Version 1.0.8 (Mar 29, 2020)
+    New:
+    -[New Property->Effect->Time->Echo]
+    -[New Property->Asset Store->Glitch1]
+    -[New Property->Asset Store->Glitch2]
+    -[New Property->Asset Store->Water]
+    -[New Property->Asset Store->Rain Drops]
+
+    Fixes&Improvements:
+    -Fixed White Balance of Basic Color Correction, and added "Sharpen" parameter.
+    -[UI]Improved the polygon path editor, now it should be easier to key frame the points.
+Version 1.0.7 (Mar 22, 2020)
+    New:
+    -Particle System: Snow, Rain, Embers. Parameters are fully adjustable, as always you can even make particles dance with audio reactor.
+    Please try [New Node->3D->Particle], or checkout the new Audio Visualization example to learn more(need to reinstall the app).
+    -All examples now include a video tutorial, you can see it directly in the example project.(need to reinstall the app).
+    Fixes and Improvements:
+    -Fixed some transparency issues: "Shape Mask", "Luma Fade", "Emboss".
+    -Fixed an issue where the first frame of the exported video is black.
+    -Added "Clip Mask" option to the Effect Mask Tool.
+    -[UI] Added Center controller in mask tools.
+    -[UI] Improved Zooming controller.
+Version 1.0.6 (Mar 17, 2020)
+    New:
+    -----------------------
+    1, Professional Color Masking Tool
+    Try [New Property->Mask->Color Mask] to learn more. You can use it to replace colors in the video, eg. change cloth colors.
+    2, Audio Visualization Bars
+    Try [New Node->Fill->Audio Visualizer] or checkout the new example to learn more, need to reinstall the app.
+    3, Shape Mask
+    You can apply shape mask to Node directly now, try[New Property->Mask->Shape Mask].
+    ------------------------
+    We are pretty sure by combining these effects with audio reactor you can create stunning effects never seen before. For example change a dancer's cloth color with the audio, then apply a "Glow" effect on it. Detail tutorials will come soon, please stay tuned!
+Version 1.0.5 (Mar 9, 2020)
+    Fixed crashes while loading project that contains masked "Color Correction" effects.
+Version 1.0.4 (Mar 5, 2020)
+    New
+    -New tool available: Effect Mask. you can now apply mask to effects directly by clicking mask button in property header.
+    Improvements and Fixes
+    -(UI)Expanded Keyframes's touch area when dragged on screen edge.
+    -(Audio)Expanded audio bands from 26 to 31(ISO standard).
+    -(Audio)Audio reactor smoothing should work properly now.
+    -(Effect->BasicCorrection )Fixed black noises when exposure is too high.
+    -(Effects)Fixed all effects' alpha clipping behaviour, now effects should work properly on transparency layers.
+    -(AD)Reduced AD show up frequency.
+Version 1.0.3 (Mar 2, 2020)
+    New Feature:
+    -Expanded audio bands from 12 to 26, now the audio reactor should be more sensitive.
+    -Added a color picker to pick color from screen.
+    New Effects:
+    -Mask->Chroma Key
+    -ColorCorrection->Tint
+    Terms of use updated:
+    NodeVideo Examples are not allowed to export due to license restrictions.
+    Bug fixes and improvements.
+Version 1.0.2 (Feb 26, 2020)
+    New Feature:
+    -Added a search bar for effect searching.
+    New Effects:
+    -Effect->Color Correction->Basic Color Correction(Exposure, Contrast, White Balance, etc.)
+    -Effect->Stylize->Emboss
+    -Fill->4 Color Gradient
+Version 1.0.1 (Feb 22, 2020)
+    -Minor bug fixes and improvements.
+    -New effect: Luma Fade.
+Version 1.0.0 (Feb 9, 2020)
+
+Users may also like
+Select objects to compare
+Time Cut: Smooth Slow Motion
+Blurrr-Music Video Editor APP
+TimeFreeze
+Compose Music Video Editor
+24FPS: Aesthetic Video Effects
+audiolab - audio clip editor
+Coco Editor
+Slow Motion' Video Editor
+Velomingo: Velocity Edit Maker
+Alight Motion
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+4 times
+on App Store category pages
+Versions
+
+    6.11.4
+    Current release
+    Feb 21, 2024
+    6.11.2
+    Jan 29, 2024
+    6.11.1
+    Jan 22, 2024
+    6.10.2
+    Dec 29, 2023
+    6.10.1
+    Dec 27, 2023
+    6.10.0
+    Dec 24, 2023
+    6.9.5
+    Dec 18, 2023
+    6.9.4
+    Dec 11, 2023
+    6.9.3
+    Dec 6, 2023
+    6.9.1
+    Nov 20, 2023
+    6.9.0
+    Nov 13, 2023
+    6.8.2
+    Oct 18, 2023
+    6.8.1
+    Oct 15, 2023
+    6.8.0
+    Oct 9, 2023
+    6.7.1
+    Sep 19, 2023
+    6.6.0
+    Sep 4, 2023
+    6.5.0
+    Aug 23, 2023
+    6.4.1
+    Aug 14, 2023
+    6.4.0
+    Aug 3, 2023
+    6.3.6
+    Jul 26, 2023
+    6.3.5
+    Jul 21, 2023
+    6.3.4
+    Jul 18, 2023
+    6.3.3
+    Jul 11, 2023
+    6.3.2
+    Jul 4, 2023
+    6.3.1
+    Jun 29, 2023
+    6.3.0
+    Jun 28, 2023
+    6.2.3
+    Jun 24, 2023
+    6.2.2
+    Jun 12, 2023
+    6.2.1
+    Jun 10, 2023
+    6.2.0
+    May 31, 2023
+    6.1.1
+    May 24, 2023
+    6.0.0
+    May 4, 2023
+    5.9.0
+    Apr 20, 2023
+    5.8.5
+    Mar 28, 2023
+    5.8.4
+    Mar 22, 2023
+    5.8.3
+    Mar 16, 2023
+    5.8.2
+    Mar 8, 2023
+    5.8.1
+    Mar 2, 2023
+    5.8.0
+    Mar 1, 2023
+    5.7.7
+    Feb 15, 2023
+    5.7.6
+    Feb 8, 2023
+    5.7.5
+    Feb 1, 2023
+    5.7.4
+    Jan 18, 2023
+    5.7.3
+    Jan 15, 2023
+    5.7.2
+    Jan 10, 2023
+    5.7.1
+    Jan 5, 2023
+    5.7.0
+    Dec 28, 2022
+    5.7.0
+    Dec 28, 2022
+    5.6.4
+    Dec 21, 2022
+    5.6.3
+    Dec 8, 2022
+    5.6.2
+    Nov 30, 2022
+    5.6.0
+    Nov 17, 2022
+    5.5.4
+    Nov 11, 2022
+    5.5.3
+    Nov 6, 2022
+    5.5.2
+    Nov 3, 2022
+    5.5.1
+    Oct 31, 2022
+    5.5.0
+    Oct 25, 2022
+    5.4.2
+    Oct 19, 2022
+    5.4.0
+    Oct 11, 2022
+    5.3.2
+    Sep 29, 2022
+    5.3.1
+    Sep 28, 2022
+    5.2.2
+    Sep 21, 2022
+    5.2.1
+    Sep 19, 2022
+    5.2.0
+    Sep 16, 2022
+    5.1.2
+    Sep 13, 2022
+    5.1.0
+    Sep 8, 2022
+    5.0.1
+    Aug 30, 2022
+    4.9.57
+    Aug 2, 2022
+    4.9.56
+    Jul 30, 2022
+    4.9.55
+    Jul 23, 2022
+    4.9.54
+    Jul 16, 2022
+    4.9.51
+    Jul 7, 2022
+    4.9.40
+    Jun 29, 2022
+    4.9.31
+    Jun 17, 2022
+    4.9.30
+    Jun 15, 2022
+    4.9.28
+    Jun 8, 2022
+    4.9.27
+    May 31, 2022
+    4.9.26
+    May 27, 2022
+    4.9.25
+    May 20, 2022
+    4.9.24
+    May 12, 2022
+    4.9.23
+    May 11, 2022
+    4.9.22
+    May 6, 2022
+    4.9.21
+    Apr 27, 2022
+    4.9.20
+    Apr 18, 2022
+    4.9.19
+    Apr 12, 2022
+    4.9.18
+    Apr 5, 2022
+    4.9.17
+    Mar 28, 2022
+    4.9.16
+    Mar 21, 2022
+    4.9.15
+    Mar 16, 2022
+    4.9.14
+    Mar 10, 2022
+    4.9.13
+    Mar 3, 2022
+    4.9.12
+    Feb 23, 2022
+    4.9.11
+    Feb 20, 2022
+    4.9.10
+    Feb 16, 2022
+    4.9.9
+    Feb 15, 2022
+    4.9.8
+    Feb 9, 2022
+    4.9.7
+    Feb 7, 2022
+    4.9.6
+    Jan 26, 2022
+    4.9.5
+    Jan 20, 2022
+    4.9.4
+    Jan 14, 2022
+    4.9.3
+    Jan 9, 2022
+    4.9.2
+    Jan 6, 2022
+    4.8.0
+    Dec 21, 2021
+    4.7.1
+    Dec 17, 2021
+    4.7.0
+    Dec 16, 2021
+    4.6.0
+    Dec 9, 2021
+    4.5.1
+    Dec 2, 2021
+    4.5.0
+    Nov 30, 2021
+    4.4.1
+    Nov 25, 2021
+    4.4.0
+    Nov 19, 2021
+    4.3.2
+    Nov 10, 2021
+    4.3.1
+    Nov 5, 2021
+    4.3.0
+    Nov 4, 2021
+    4.2.1
+    Oct 31, 2021
+    4.2.0
+    Oct 27, 2021
+    4.1.1
+    Oct 22, 2021
+    4.1.0
+    Oct 20, 2021
+    4.0.3
+    Oct 14, 2021
+    4.0.2
+    Oct 8, 2021
+    4.0.1
+    Oct 3, 2021
+    4.0.0
+    Sep 30, 2021
+    3.9.4
+    Sep 23, 2021
+    3.9.3
+    Sep 16, 2021
+    3.9.2
+    Sep 10, 2021
+    3.9.1
+    Sep 6, 2021
+    3.9.0
+    Sep 3, 2021
+    3.8.1
+    Aug 29, 2021
+    3.8.0
+    Aug 27, 2021
+    3.7.0
+    Aug 22, 2021
+    3.6.0
+    Aug 19, 2021
+    3.5.0
+    Aug 17, 2021
+    3.4.0
+    Aug 11, 2021
+    3.3.0
+    Aug 4, 2021
+    3.2.0
+    Jul 28, 2021
+    3.1.0
+    Jul 23, 2021
+    3.0.0
+    Jul 15, 2021
+    2.9.1
+    Jul 2, 2021
+    2.9.0
+    Jun 24, 2021
+    2.8.0
+    Jun 17, 2021
+    2.7.0
+    Jun 8, 2021
+    2.6.0
+    Jun 1, 2021
+    2.5.0
+    May 27, 2021
+    2.4.1
+    May 21, 2021
+    2.3.0
+    May 12, 2021
+    2.2.1
+    May 7, 2021
+    2.2.0
+    Apr 30, 2021
+    2.1.2
+    Apr 21, 2021
+    2.1.1
+    Apr 15, 2021
+    2.1.0
+    Apr 8, 2021
+    2.0.2
+    Apr 1, 2021
+    2.0.1
+    Mar 25, 2021
+    2.0.0
+    Mar 24, 2021
+    1.6.40
+    Mar 1, 2021
+    1.6.30
+    Feb 26, 2021
+    1.6.20
+    Feb 22, 2021
+    1.6.10
+    Feb 17, 2021
+    1.6.0
+    Feb 14, 2021
+    1.5.81
+    Feb 3, 2021
+    1.5.80
+    Feb 1, 2021
+    1.5.70
+    Jan 27, 2021
+    1.5.50
+    Jan 15, 2021
+    1.5.40
+    Jan 6, 2021
+    1.5.32
+    Dec 31, 2020
+    1.5.31
+    Dec 29, 2020
+    1.5.30
+    Dec 23, 2020
+    1.5.21
+    Dec 18, 2020
+    1.5.20
+    Dec 17, 2020
+    1.5.10
+    Dec 9, 2020
+    1.5.01
+    Dec 5, 2020
+    1.5.0
+    Dec 3, 2020
+    1.4.92
+    Nov 30, 2020
+    1.4.91
+    Nov 22, 2020
+    1.4.90
+    Nov 19, 2020
+    1.4.80
+    Nov 16, 2020
+    1.4.71
+    Nov 8, 2020
+    1.4.70
+    Oct 28, 2020
+    1.4.62
+    Oct 22, 2020
+    1.4.61
+    Oct 19, 2020
+    1.4.60
+    Oct 14, 2020
+    1.4.51
+    Oct 8, 2020
+    1.4.5
+    Oct 7, 2020
+    1.4.4
+    Oct 4, 2020
+    1.4.3
+    Oct 1, 2020
+    1.4.2
+    Sep 24, 2020
+    1.4.1
+    Sep 23, 2020
+    1.4.0
+    Sep 16, 2020
+    1.3.9
+    Sep 10, 2020
+    1.3.8
+    Sep 4, 2020
+    1.3.7
+    Sep 1, 2020
+    1.3.6
+    Aug 28, 2020
+    1.3.5
+    Aug 26, 2020
+    1.3.4
+    Aug 21, 2020
+    1.3.3
+    Aug 19, 2020
+    1.3.2
+    Aug 13, 2020
+    1.3.1
+    Aug 8, 2020
+    1.3.0
+    Aug 3, 2020
+    1.2.9
+    Jul 30, 2020
+    1.2.8
+    Jul 27, 2020
+    1.2.7
+    Jul 22, 2020
+    1.2.6
+    Jul 19, 2020
+    1.2.5
+    Jul 15, 2020
+    1.2.4
+    Jul 12, 2020
+    1.2.3
+    Jul 8, 2020
+    1.2.2
+    Jul 2, 2020
+    1.2.1
+    Jun 28, 2020
+    1.2.0
+    Jun 21, 2020
+    1.1.9
+    Jun 7, 2020
+    1.1.8
+    Jun 3, 2020
+    1.1.7
+    May 24, 2020
+    1.1.6
+    May 14, 2020
+    1.1.5
+    May 7, 2020
+    1.1.4
+    May 3, 2020
+    1.1.3
+    Apr 28, 2020
+    1.1.2
+    Apr 27, 2020
+    1.1.1
+    Apr 15, 2020
+    1.1.0
+    Apr 10, 2020
+    1.0.9
+    Apr 4, 2020
+    1.0.8
+    Mar 29, 2020
+    1.0.7
+    Mar 22, 2020
+    1.0.6
+    Mar 17, 2020
+    1.0.5
+    Mar 9, 2020
+    1.0.4
+    Mar 5, 2020
+    1.0.3
+    Mar 2, 2020
+    1.0.2
+    Feb 26, 2020
+    1.0.1
+    Feb 22, 2020
+    1.0.0
+    Feb 9, 2020
+
+See More
+Top In-App Purchases
+
+    Pro Monthly
+    $3.99
+    Pro Yearly
+    $22.99
+    Pro Lifetime
+    $74.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Feb 8, 2020
+
+Worldwide Release Date
+    Feb 8, 2020
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    6.11.2
+
+Size
+    261.69 mb
+
+Only 32 Bit
+    No
+
+Languages
+    簡体字中国語, 英語
+
+Seller
+    小为 罗
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 11.0以降が必要です。iPhone、iPad、およびiPod touchに対応。
+
+Bundle ID
+    com.shallwaystudio.nodevideo
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1467362169
+Unified App ID: 1000800000144914
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Node Video | data.ai

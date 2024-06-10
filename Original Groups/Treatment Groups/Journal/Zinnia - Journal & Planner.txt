@@ -1,0 +1,999 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Zinnia - Journal & Planner
+PixiteLifestyle (Applications)Free
+Alerts
+
+Zinnia Journal & Planner
+Zinnia - Journal & Planner
+Zinnia - Journal & Planner
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Zinnia - Journal & Planner
+Daily Diary & Agenda
+Lifestyle (Applications)
+Free
+App Description
+Mindfulness has never been easier! Get into the healthy habit of recording your day, goals, priorities and special moments. Daily reminders will keep you in the habit and on the path towards a more mindful and organized self. A variety of fun-but-practical journaling templates provide colorful structure: habit trackers, to-do lists, weekly logs and more.
+
+With Zinnia for Mac, enjoy big screen creation, comfortable keyboard typing, and easy referencing of external browsers to copy-paste photos, hyperlinks, and more! Create on your computer and sync across iOS devices (iPhone and iPad) for an unparalleled workflow.
+
+Zinnia is the most expressive way to document the things that matter most to you. Keep a diary. Create a collage or scrapbook. Schedule those important self-care moments and record meaningful day-to-day interactions with style and ease. Choose from dozens of professionally designed templates to design spreads that represent you. Your vision + our tools = creativity unleashed.
+
+Express yourself like never before. Personalize your spreads with our vast library of washi tape, brushes, stickers and other decorative elements. Our collection includes inspiring designs from some biggest creators in the journaling community. Use your Apple Pencil for an even more organic planning experience.
+
+Make mistakes a thing of the past. Go ahead and explore different looks. Edit to your heart’s content, without the fear of a misstep. It’s your agenda. Copy. Paste. Undo. Redo. Erase. Group. And move. Adding new sections is a breeze.
+
+Share your creations directly to Instagram, Pinterest, Facebook and other social networks. Save your spread as a PDF, archive or your method of choice. Ensure your journal is safe and sound with iCloud syncing.
+
+Zinnia is regularly updated with new features, content, and tutorials – incorporating user requests when possible.
+
+The free download of Zinnia is a demonstration of the software and contains restrictions on content and functionality. Subscribe to Zinnia Premium to unlock unlimited pages and journals, export capability, and complete access to Zinnia Studio content. Subscribe now for the most creatively fulfilling experience possible in a journaling app!
+
+= = = = =
+
+Learn artistic techniques and find creative inspiration with our massive collection of tutorials! Visit youtube.com/pixite to get started.
+
+= = = = =
+
+ZINNIA PREMIUM
+
+Use Zinnia Premium for free during the free 7-day trial. After the free trial, you will be automatically renewed to your selected subscription which you can cancel at any time. Paid subscriptions cost $3.99 USD per week for the weekly plan, $9.99 USD per month for the monthly plan, and $39.99 USD per year for the yearly plan. Prices are subject to change. Zinnia Premium automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period.
+
+Payment will be charged to your iTunes account at confirmation of purchase. You may manage Zinnia Premium subscriptions and turn off auto-renewal by going to your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when you purchase a Zinnia Premium subscription.
+
+= = = = =
+
+Privacy Policy
+http://pixiteapps.com/privacy-policy/
+
+Terms of Use
+http://pixiteapps.com/terms-of-use/
+Ratings
+Displayed Avg Ratings
+4.5
+Total Displayed Ratings
+67.5k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.28 (Feb 20, 2024)
+    Zinnia 1.28 is here with some awesome updates! Enjoy the following:
+
+    * Auto-date Monday starts. You can now choose between a Sunday or Monday start on our popular auto-date calendars.
+    * Updated font picker. We've fixed some funky font issues and updated the look and feel of our font picker. Enjoy a smoother and simpler way to import your own custom fonts.
+    * Dynamic Type support. Prefer to read bigger text? Adjust text sizes to your preference. Go to: Settings → Accessibility → Display & Text Size.
+    * Decreased app loading time. Crazy fast loading time.
+    * iCloud Sync improvements. Sharing between devices is smoother than ever!
+    * Under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.27.2 (Jan 24, 2024)
+    This update includes some major performance improvements and bug fixes related to missing journals and slow app load times.
+Version 1.27.1 (Jan 18, 2024)
+    This update includes some major performance improvements and bug fixes related to missing journals and slow app load times.
+Version 1.27 (Dec 11, 2023)
+    Zinnia 1.27 has two awesome new features:
+
+    ARCHIVING
+    * Declutter your workspace and save storage space by archiving journals you don't regularly use.
+    * To archive a journal: Tap the three dots in the lower right corner of your journal. Tap "Archive."
+    * To retrieve an archived journal: From the Journals main screen, tap the three dots in the upper right corner, then tap "Archived Journals."
+
+    STRAIGHT LINE SNAPPING
+    * Easily hand-draw straight lines!
+    * Draw a line using any brush, then keep holding your pencil down: Your line will snap to a straight line.
+    * We've expanded this feature to include 45-degree increments.
+
+    We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.26.1 (Nov 7, 2023)
+    Zinnia 1.26 has some new features that make creating smoother than ever.
+
+    * Compatibility with Apple's new "Stage Manager" feature. Take multi-tasking to the next level – resize the Zinnia window and see other windows on the side. Play around with it to find your perfect work setup.
+
+    * An awesome new movable toolbar! You can now shift the placement of the toolbar to the left, right or bottom of your screen. This feature is for Zinnia's iPad version only. To change the location of the toolbar: tap the Menu icon in the toolbar and choose the positioning you prefer.
+
+    We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.26 (Oct 30, 2023)
+    Zinnia 1.26 has some new features that make creating smoother than ever.
+
+    * Compatibility with Apple's new "Stage Manager" feature. Take multi-tasking to the next level – resize the Zinnia window and see other windows on the side. Play around with it to find your perfect work setup.
+
+    * An awesome new movable toolbar! You can now shift the placement of the toolbar to the left, right or bottom of your screen. This feature is for Zinnia's iPad version only. To change the location of the toolbar: tap the Menu icon in the toolbar and choose the positioning you prefer.
+
+    We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.25.2 (Sep 27, 2023)
+    Zinnia 1.25 is here with an update that makes navigation *so* much easier: Search filtering! Zinnia has a huge amount of content in the Studio, and this feature allows you to quickly find the exact item you want.
+
+    With our new search capability, you can filter by:
+
+    – Studio category
+    – Relevancy
+    – Newest Content
+
+    We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.25.1 (Sep 18, 2023)
+    Zinnia 1.25 is here with an update that makes navigation *so* much easier: Search filtering! Zinnia has a huge amount of content in the Studio, and this feature allows you to quickly find the exact item you want.
+
+    With our new search capability, you can filter by:
+
+    – Studio category
+    – Relevancy
+    – Newest Content
+
+    We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.25 (Sep 12, 2023)
+    Zinnia 1.25 is here with an update that makes navigation *so* much easier: Search filtering! Zinnia has a huge amount of content in the Studio, and this feature allows you to quickly find the exact item you want.
+
+    With our new search capability, you can filter by:
+
+    – Studio category
+    – Relevancy
+    – Newest Content
+
+    We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.24.1 (Aug 21, 2023)
+    This update fixes a new bug and crash from the last release.
+Version 1.24 (Aug 3, 2023)
+    Zinnia 1.24 helps you get the most out of Zinnia!
+
+    * Our new Setup Checklist helps you set up key Zinnia features: iCloud syncing, passcode protection, daily reminders, email updates, and more.
+
+    * We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.23 (Jun 21, 2023)
+    Zinnia 1.23 has some awesome new features!
+
+    * Collections in search. Zinnia's curated collections will now show up when you do a Studio search.
+    * Updated ""new journal"" and ""new page"" buttons and placement. To start a new page or a new journal, tap the + icon at the top right of the screen.
+    * Icon on offline pages. Our new offline icon indicates which pages are stored locally on your device and can be accessed without internet.
+    * Various improvements for Zinnia Mac – the creating process is so smooth!
+    * We've also made some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling!
+Version 1.22.1 (May 23, 2023)
+    Zinnia 1.22.1 fixes a bug with thumbnails appearing gray.
+
+    = = = = =
+
+    Zinnia 1.22 is here with some BIG features that make navigating and creating so, so smooth.
+
+    * Handoff. With this iOS feature, you can start your journal on one device and seamlessly switch to a nearby device to pick up where you left off. (Yes, please!)
+
+    * Split Screen. Another iOS feature that makes journaling much smoother! Open multiple journals side-by-side and embrace multitasking.
+
+    * My Stuff: Custom Tags. In the "My Stuff" section, you can now organize your faves with custom tags. Save anything – text, sketches, grouped objects – and label in a way that makes sense to you.
+
+    * Expanded Studio Search. Our Studio search has been expanded beyond digital artwork. Now when you do a search, results from Zinnia's "editorials" category will show up, including various articles, how-tos, and tips and tricks.
+
+    * We've also made some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling!
+Version 1.22 (May 8, 2023)
+    Zinnia 1.22 is here with some BIG features that make navigating and creating so, so smooth.
+
+    * Handoff. With this iOS feature, you can start your journal on one device and seamlessly switch to a nearby device to pick up where you left off. (Yes, please!)
+
+    * Split Screen. Another iOS feature that makes journaling much smoother! Open multiple journals side-by-side and embrace multitasking.
+
+    * My Stuff: Custom Tags. In the "My Stuff" section, you can now organize your faves with custom tags. Save anything – text, sketches, grouped objects – and label in a way that makes sense to you.
+
+    * Expanded Studio Search. Our Studio search has been expanded beyond digital artwork. Now when you do a search, results from Zinnia's "editorials" category will show up, including various articles, how-tos, and tips and tricks.
+
+    * We've also made some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling!
+Version 1.21.2 (Apr 21, 2023)
+    This hotfix includes fixes to some pesky bugs.
+
+    = = = = =
+
+    Zinnia 1.21 has some new features that pack a big punch!
+
+    * Offline access is here! Want to access Zinnia on a train, plane – or anywhere with spotty internet? You can now save individual pages to your local device, while storing the rest in the cloud. Tap on the (…) icon on the bottom of your page (while in the pages view), and hit “Save to Device” to save the page locally.
+    * 8 (yes, 8!) new fonts to explore.
+    * Zinnia Mac updates. We've improved Zinnia Mac so that it's easier, more intuitive and fun to use.
+    * We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.21.1 (Apr 20, 2023)
+    This hotfix includes fixes to some pesky bugs.
+
+    = = = = =
+
+    Zinnia 1.21 has some new features that pack a big punch!
+
+    * Offline access is here! Want to access Zinnia on a train, plane – or anywhere with spotty internet? You can now save individual pages to your local device, while storing the rest in the cloud. Tap on the (…) icon on the bottom of your page (while in the pages view), and hit “Save to Device” to save the page locally.
+    * 8 (yes, 8!) new fonts to explore.
+    * Zinnia Mac updates. We've improved Zinnia Mac so that it's easier, more intuitive and fun to use.
+    * We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.21 (Mar 23, 2023)
+    Zinnia 1.21 has some new features that pack a big punch!
+
+    * Offline access is here! Want to access Zinnia on a train, plane – or anywhere with spotty internet? You can now save individual pages to your local device, while storing the rest in the cloud. Tap on the (…) icon on the bottom of your page (while in the pages view), and hit “Save to Device” to save the page locally.
+    * 8 (yes, 8!) new fonts to explore.
+    * Zinnia Mac updates. We've improved Zinnia Mac so that it's easier, more intuitive and fun to use.
+    * We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.20.1 (Mar 9, 2023)
+    Version 1.20.1 contains a fix related to calendar linking.
+
+    = = = = =
+
+    Get excited, Zinnia 1.20 has a *hugely* requested feature: Calendar Events! Learn more about this and other workflow boosts:
+
+    * Calendar events are here! Scheduling just got so. much. better. Simply tap an object to add a calendar event to your page and sync your schedule to external calendars like Apple Calendars, Google Cal, and more.
+
+    * "Ready To Use" journals. Jump into a pre-made journal so you can start writing right away without needing to set up your pages. These already exist in-app but now they're much easier to find.
+
+    * Performance improvements and updates for Zinnia Mac.
+
+    * We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.20 (Feb 14, 2023)
+    Get excited, Zinnia 1.20 has a *hugely* requested feature: Calendar Events! Learn more about this and other workflow boosts:
+
+    * Calendar events are here! Scheduling just got so. much. better. Simply tap an object to add a calendar event to your page and sync your schedule to external calendars like Apple Calendars, Google Cal, and more.
+
+    * "Ready To Use" journals. Jump into a pre-made journal so you can start writing right away without needing to set up your pages. These already exist in-app but now they're much easier to find.
+
+    * Performance improvements and updates for Zinnia Mac.
+
+    * We've also made some under-the-hood improvements, including bug fixes and other performance enhancements.
+
+    Happy journaling!
+Version 1.19.1 (Jan 19, 2023)
+    Better navigation is here! Updates include:
+
+    * URL linking. You can now use URLs in your journals to easily navigate between Zinnia and websites. Paste or type in a web address, and it will automatically convert to an embedded link. You can also highlight text or an object and tap the link icon to type in your desired link.
+
+    * Mac widget. Now you can add a Zinnia widget to your desktop, to quickly return to your most recently created journal or page.
+
+    * Polish for Zinnia Mac. We've improved navigation for the Mac so journaling is easier than ever.
+
+    * We've also made some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling!
+Version 1.19 (Dec 13, 2022)
+    Better navigation is here with Zinnia 1.19! Updates include:
+
+    * URL linking. You can now use URLs in your journals to easily navigate between Zinnia and websites. Paste or type in a web address, and it will automatically convert to an embedded link. You can also highlight text or an object and tap the link icon to type in your desired link.
+
+    * Mac widget. Now you can add a Zinnia widget to your desktop, to quickly return to your most recently created journal or page.
+
+    * Polish for Zinnia Mac. We've improved navigation for the Mac so journaling is easier than ever.
+
+    * We've also made some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling!
+Version 1.18 (Nov 18, 2022)
+    Get excited – this is a big one!
+
+    * Zinnia Mac is here! Zinnia is now available on your Mac, allowing you to access and edit content across iPhone, iPad, and laptop/desktop.
+
+    * To use Zinnia on Mac, you'll need macOS 12.3. Search for Zinnia on the app store, download it, and start creating!
+
+    * New contextual menu for objects: Before, when selecting an object, the contextual menu was shown right above the object. The new menu is at the bottom, improving access, with additional menu options.
+
+    * We've also made some under-the-hood improvements, including bug fixes and other performance boosts.
+Version 1.17.2 (Oct 20, 2022)
+    Fix issues with opening pages on iOS 16 and exporting PDFs.
+Version 1.17.1 (Sep 29, 2022)
+    Fix issues with opening pages on iOS 16.
+Version 1.17 (Sep 19, 2022)
+    Zinnia 1.17 includes a hotly requested feature and – well, let's get *straight* to the point.
+
+    * Straight Line Tool: Watch your lines snap into straight-up perfection! Tap, draw a line, and hold to create a perfectly straight line.
+
+    * Add New Pages: You can now control whether you want to add new pages to the beginning of your journal or the end.
+
+    * New Page Button : There is now a prominently featured "New Page" button to make your page creation easier.
+
+    * Performance improvements for iCloud Everything just got a little smoother and faster.
+
+    Happy Journaling, friends!
+Version 1.16.1 (Aug 19, 2022)
+    Zinnia 1.16.1 has smoother and faster (much faster) PDF exports.
+
+    We've also made some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling!
+Version 1.16 (Aug 8, 2022)
+    Zinnia 1.16 has smoother and faster (much faster) PDF exports.
+
+    We've also made some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling!
+Version 1.15.2 (Aug 2, 2022)
+    Zinnia 1.15 is here with some awesome new navigation tools!
+
+    * A new Zinnia widget that lets you navigate to your last used journal or most recent page directly from your iPad or iPhone home screen.
+
+    * Zinnia now shows in the "Share To" menu when using other apps, making it easier to bring other files or assets into Zinnia.
+
+    * Updates to PDF imports and linking.
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.15.1 (Jul 5, 2022)
+    Zinnia 1.15 is here with some awesome new navigation tools!
+
+    * A new Zinnia widget that lets you navigate to your last used journal or most recent page directly from your iPad or iPhone home screen.
+
+    * Zinnia now shows in the "Share To" menu when using other apps, making it easier to bring other files or assets into Zinnia.
+
+    * Updates to PDF imports and linking.
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.15 (Jun 27, 2022)
+    Zinnia 1.15 is here with some awesome new navigation tools!
+
+    * A new Zinnia widget that lets you navigate to your last used journal or most recent page directly from your iPad or iPhone home screen.
+
+    * Zinnia now shows in the "Share To" menu when using other apps, making it easier to bring other files or assets into Zinnia.
+
+    * Updates to PDF imports and linking.
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.14 (May 16, 2022)
+    Zinnia 1.14 is here, and includes some *highly* requested features for designing and editing!
+
+    * Cropping. Our new cropping tool is here! You can crop anything – washi, journal cards, imported stickers, handwriting - you name it. Tap the object you want to edit, and select the cropping tool in the bottom toolbar.
+
+    * Mirror Flipping. Reverse images with our new mirror flip tool. Select the object you want to flip, and tap the mirror flip icon on the bottom toolbar. Flip stickers, journal cards, handwritten text, and more!
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.13.1 (Apr 26, 2022)
+    This small update includes several bug fixes and performance improvements.
+Version 1.13 (Mar 28, 2022)
+    Love to fill your pages with writing and images? You can now export your pages in a lower resolution. This makes it smoother & easier to share content-heavy pages by exporting them as a smaller file size.
+
+    We've also included some under-the-hood improvements like:
+
+    * A variety of bug fixes
+    * Apple Pencil functionality updates
+    * Performance enhancements
+
+    Happy journaling!
+Version 1.12 (Feb 14, 2022)
+    Zinnia 1.12 is here! Your journal navigation just got a makeover.
+
+    * Linking! You can now select any object - so any sticker, template, imported image, etc. - as well as text (either a whole block of text, or a single word), and link it to any other page in your journal. Perfect for creating your own indexes or table of contents, and also great for bouncing between pages in your journals.
+
+    *Journal sorting. You can now sort your journals by name, date created, or date modified. No longer do you have to scroll to find the journal you're looking for. (Hurray!) Arrange your journals based on your needs and have your favorite ones always on top.
+
+    * A smoother creating experience. You'll feel the difference even if you can't see it: Bug fixes, performance improvements, and Apple Pencil enhancements.
+
+    Happy journaling, friends!
+Version 1.11.3 (Jan 21, 2022)
+    Zinnia 1.11 is here, and it's a game changer! (Hello, PDFs!)
+
+    * PDF IMPORTS! Import, edit, markup, and create with PDFs from, well, anywhere. Import full journals you've made, adorable trackers from Etsy, class notes, designs from your favorite artists, and more! Embedded links in PDFs are fully functional in Zinnia.
+
+    * Simultaneously add multiple photos. Our new photo picker allows you to select multiple photos to add at a time. This saves time and frustration when making a photo book, collage, or anything that uses multiple photos.
+
+    * Convert-to-text capabilities. This new Apple feature is now available in Zinnia. If you've imported a photo with writing, you can instantly extract that writing into editable text. Import screenshots and photos of clearly printed text for best results. It's still a work in progress – experiment to see how it can work for you!
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.11.2 (Jan 13, 2022)
+    Zinnia 1.11 is here, and it's a game changer! (Hello, PDFs!)
+
+    * PDF IMPORTS! Import, edit, markup, and create with PDFs from, well, anywhere. Import full journals you've made, adorable trackers from Etsy, class notes, designs from your favorite artists, and more! Embedded links in PDFs are fully functional in Zinnia.
+
+    * Simultaneously add multiple photos. Our new photo picker allows you to select multiple photos to add at a time. This saves time and frustration when making a photo book, collage, or anything that uses multiple photos.
+
+    * Convert-to-text capabilities. This new Apple feature is now available in Zinnia. If you've imported a photo with writing, you can instantly extract that writing into editable text. Import screenshots and photos of clearly printed text for best results. It's still a work in progress – experiment to see how it can work for you!
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.11.1 (Dec 16, 2021)
+    Zinnia 1.11 is here, and it's a game changer! (Hello, PDFs!)
+
+    * PDF IMPORTS! Import, edit, markup, and create with PDFs from, well, anywhere. Import full journals you've made, adorable trackers from Etsy, class notes, designs from your favorite artists, and more! Embedded links in PDFs are fully functional in Zinnia.
+
+    * Simultaneously add multiple photos. Our new photo picker allows you to select multiple photos to add at a time. This saves time and frustration when making a photo book, collage, or anything that uses multiple photos.
+
+    * Convert-to-text capabilities. This new Apple feature is now available in Zinnia. If you've imported a photo with writing, you can instantly extract that writing into editable text. Import screenshots and photos of clearly printed text for best results. It's still a work in progress – experiment to see how it can work for you!
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.11 (Dec 13, 2021)
+    Zinnia 1.11 is here, and it's a game changer! (Hello, PDFs!)
+
+    * PDF IMPORTS! Import, edit, markup, and create with PDFs from, well, anywhere. Import full journals you've made, adorable trackers from Etsy, class notes, designs from your favorite artists, and more! Embedded links in PDFs are fully functional in Zinnia.
+
+    * Simultaneously add multiple photos. Our new photo picker allows you to select multiple photos to add at a time. This saves time and frustration when making a photo book, collage, or anything that uses multiple photos.
+
+    * Convert-to-text capabilities. This new Apple feature is now available in Zinnia. If you've imported a photo with writing, you can instantly extract that writing into editable text. Import screenshots and photos of clearly printed text for best results. It's still a work in progress – experiment to see how it can work for you!
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.10.1 (Nov 11, 2021)
+    Our latest update includes some bug fixes related to the new tappable checkmarks, and improves lasso performance. And, of course, everything included in our 1.10 release:
+
+    * Different page sizes. We now offer several different page size options for your journals, including both landscape and portrait orientation. You can also choose to have a single page or a double-page spread.
+
+    * Checkmarks. In the text styles menu, you can make numbered and bulleted lists, and now we have tappable checkmarks. Make to-do lists and tap the checkmark to mark a task as done - super easy peasy!
+
+    * More advanced Apple Pencil settings. You can customize when and how your stylus works as well as when and how your finger works.
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.10 (Oct 25, 2021)
+    Our new Zinnia updates will make your journaling experience better than ever!
+
+    * Different page sizes. We now offer several different page size options for your journals, including both landscape and portrait orientation. You can also choose to have a single page or a double-page spread.
+
+    * Checkmarks. In the text styles menu, you can make numbered and bulleted lists, and now we have tappable checkmarks. Make to-do lists and tap the checkmark to mark a task as done - super easy peasy!
+
+    * More advanced Apple Pencil settings. You can customize when and how your stylus works as well as when and how your finger works.
+
+    * Some under-the-hood improvements, including bug fixes and other performance boosts.
+
+    Happy journaling, friends!
+Version 1.9.3 (Oct 7, 2021)
+    This hotfix includes several bug fixes and performance improvements. Happy journaling, friends!
+Version 1.9.2 (Oct 6, 2021)
+    This hotfix includes several bug fixes and performance improvements. Happy journaling, friends!
+Version 1.9.1 (Sep 11, 2021)
+    This hotfix addresses a new crash, and also includes the exciting addition from our 1.9 update: making journaling smoother for our international friends.
+
+    * Enjoy Zinnia in your native language! We've added 7 (!!) new languages. Navigate to your pages and create comfortably in French, German, Italian, Japanese, Portuguese, Spanish, and Thai.
+
+    * This update also includes under-the-hood bug fixes and performance improvements.
+
+    Native Speakers: If something doesn't sound right in one of our new translations, please email us at support@zinniajournal.com and let us know.
+
+    Happy journaling, friends!
+Version 1.9 (Sep 8, 2021)
+    Zinnia’s latest updates make journaling smoother for our international friends.
+     
+    * Enjoy Zinnia in your native language! We've added 7 (!!) new languages. Navigate to your pages and create comfortably in French, German, Italian, Japanese, Portuguese, Spanish, and Thai.
+      
+    * This update also includes under-the-hood bug fixes and performance improvements.
+
+    Native Speakers: If something doesn't sound right in one of our new translations, please email us at support@zinniajournal.com and let us know. 
+
+    Happy journaling, friends!
+Version 1.8 (Jul 19, 2021)
+    Get excited, this is a big one! Zinnia’s latest update includes:
+
+    - Deselect button. Now you can deselect everything on your screen! Great for when you have multiple objects selected, or are zoomed in and want to have nothing selected. Find it on the bottom toolbar next to the trash can.
+
+    - Zoom to full page. Zoom out to a full page view with the tap of a button. When zooming in on your page, watch your zoom state on the bottom right of your screen. Tap the button to return to full page view.
+
+    - Font size slider. Instead of + - buttons to adjust font size, we now have a slider to make it easier for quick adjustments. Try it out by selecting text and navigating to the text styles menu.
+
+    - New setting to turn on Apple Pencil exclusively for drawing. Use the Apple Pencil to draw or handwrite, even if you’re in text mode or in the Studio.
+
+    - Find related content. Find something you love? Now you can view the pack it came from and see related/similar content. You can access this in Search within the Studio, by long-holding your finger on any search result.
+
+    This update also includes under-the-hood bug fixes and performance improvements, like updates to iCloud syncing and drawing with Apple Pencil.
+
+    Happy journaling, friends!
+Version 1.7 (Jun 7, 2021)
+    Our latest update to Zinnia includes a brand new font picker, so you can now bring your own fonts into Zinnia. With the native iOS font picker, any fonts saved on your device will be recognized and usable in Zinnia. More fonts = more fun experimenting!
+
+    We also have added a brand new, interactive User Guide that explains everything you need to know about Zinnia (and probably reveals some things you never knew). The guide includes videos, gifs, and tons of bright images sure to make you a Zinnia pro in no time. Check it out in the Settings (...) menu, under Help > User Guide.
+
+    Lastly, there's a number of under-the-hood performance improvements, like updates to iCloud syncing and drawing with Apple Pencil.
+
+    Happy journaling, friends.
+Version 1.6.2 (May 24, 2021)
+    This update fixes an issue with washi tape and also includes some iCloud performance improvements.
+
+    = = = = =
+
+    Version 1.6:
+
+    Get excited - our latest update to Zinnia includes TWO hotly requested new features.
+
+    * Passcodes! Set up a passcode to lock down your Zinnia app and keep your private stuff away from prying eyes.
+    * Alignment tool! Our new alignment tool helps you align your images, stickers, and other assets to one another, for a more organized-looking spread.
+
+    We are also adding a new type of Studio content - full page, custom-designed spreads made exclusively from existing Studio content. These spreads are great because many have editable titles and use stickers, washi tape, and all kinds of Studio content, which you can use on their own when you ungroup the template.
+
+    Lastly, there's lots of under-the-hood improvements like:
+
+    * Improved performance for complex vector images
+    * A variety of bug fixes
+    * Apple Pencil updates for the iPad
+    * Updates to play nicely with iOS 14.5
+
+    Have fun, and happy journaling!
+Version 1.6.1 (May 6, 2021)
+    Get excited - our latest update to Zinnia includes TWO hotly requested new features.
+
+    * Passcodes! Set up a passcode to lock down your Zinnia app and keep your private stuff away from prying eyes.
+    * Alignment tool! Our new alignment tool helps you align your images, stickers, and other assets to one another, for a more organized-looking spread.
+
+    We are also adding a new type of Studio content - full page, custom-designed spreads made exclusively from existing Studio content. These spreads are great because many have editable titles and use stickers, washi tape, and all kinds of Studio content, which you can use on their own when you ungroup the template.
+
+    Lastly, there's lots of under-the-hood improvements like:
+
+    * Improved performance for complex vector images
+    * A variety of bug fixes
+    * Apple Pencil updates for the iPad
+    * Updates to play nicely with iOS 14.5
+
+    Have fun, and happy journaling!
+Version 1.6 (May 3, 2021)
+    Get excited - our latest update to Zinnia includes TWO hotly requested new features.
+
+    * Passcodes! Set up a passcode to lock down your Zinnia app and keep your private stuff away from prying eyes.
+    * Alignment tool! Our new alignment tool helps you align your images, stickers, and other assets to one another, for a more organized-looking spread.
+
+    We are also adding a new type of Studio content - full page, custom-designed spreads made exclusively from existing Studio content. These spreads are great because many have editable titles and use stickers, washi tape, and all kinds of Studio content, which you can use on their own when you ungroup the template.
+
+    Lastly, there's lots of under-the-hood improvements like:
+
+    * Improved performance for complex vector images
+    * A variety of bug fixes
+    * Apple Pencil updates for the iPad
+    * Updates to play nicely with iOS 14.5
+
+    Have fun, and happy journaling!
+Version 1.5.5 (Apr 7, 2021)
+    This latest update includes a variety of UI updates, bug fixes, and performance improvements.
+
+    * New organization of Studio editorials, to help you find what you're looking for faster and easier
+    * Improvements to text entry
+    * Enhanced animations for a sleeker, smoother experience
+    * Improved syncing between iPad and iPhone
+    * Apple Pencil updates for the iPad
+
+    Our 1.5 version also includes My Stuff! This is your place to save, bookmark, or favorite anything and everything that you may want to use later.
+
+    Did you know that Zinnia is now available on your iPhone? Zinnia's companion iPhone app means you can sync your phone and iPad for an all-in-one digital solution for all your journaling and planning needs. View and edit your journals from anywhere, knowing that your favorite tools and Studio content now fits in your pocket.
+
+    Have fun, and happy journaling!
+Version 1.5.3 (Mar 16, 2021)
+    This latest update includes a variety of UI updates, bug fixes, and performance improvements.
+
+    * New organization of Studio editorials, to help you find what you're looking for faster and easier
+    * Improvements to text entry
+    * Enhanced animations for a sleeker, smoother experience
+    * Improved syncing between iPad and iPhone
+    * Apple Pencil updates for the iPad
+
+    Our 1.5 version also includes My Stuff! This is your place to save, bookmark, or favorite anything and everything that you may want to use later.
+
+    Did you know that Zinnia is now available on your iPhone? Zinnia's companion iPhone app means you can sync your phone and iPad for an all-in-one digital solution for all your journaling and planning needs. View and edit your journals from anywhere, knowing that your favorite tools and Studio content now fits in your pocket.
+
+    Have fun, and happy journaling!
+Version 1.5.2 (Feb 17, 2021)
+    Get excited! Our latest update to Zinnia includes an awesome new feature, one that has been requested by you, our fab Zinnia community. Introducing: My Stuff!
+
+    * My Stuff is your place to save anything and everything that you may want to use later.
+    * Stickers, imported photos, custom drawings, grouped objects, entire spreads... you name it.
+    * This is your space to fill with whatever you want to favorite, bookmark, or reference in the future.
+
+    Zinnia is also now available on your iPhone! Zinnia's companion iPhone app means you can sync your phone and iPad for an all-in-one digital solution for all your journaling and planning needs. View and edit your journals from anywhere, knowing that your favorite tools and Studio content now fits in your pocket.
+
+    Zinnia version 1.5 also includes:
+
+    * bug fixes
+    * Improved finger handwriting on the iPhone
+    * Improved syncing between iPad and iPhone
+    * Apple Pencil updates for the iPad
+    * Updates to text accessibility
+
+    Happy journaling, friends.
+Version 1.5.1 (Feb 3, 2021)
+    Get excited! Our latest update to Zinnia includes an awesome new feature, one that has been requested by you, our fab Zinnia community. Introducing: My Stuff!
+
+    * My Stuff is your place to save anything and everything that you may want to use later.
+    * Stickers, imported photos, icons, custom drawings, grouped objects, entire spreads... you name it.
+    * This is your space to fill with whatever you want to favorite, bookmark, or reference in the future.
+
+    Zinnia is also now available on your iPhone! Zinnia's companion iPhone app means you can sync your phone and iPad for an all-in-one digital solution for all your journaling and planning needs. View and edit your journals from anywhere, knowing that your favorite tools and Studio content now fits in your pocket.
+
+    This update also includes:
+
+    * bug fixes
+    * Improved finger handwriting on the iPhone
+    * Improved syncing between iPad and iPhone
+    * Apple Pencil updates for the iPad
+    * Updates to text accessibility
+
+    Happy journaling, friends.
+Version 1.4.1 (Dec 17, 2020)
+    Zinnia is now available on your iPhone! Zinnia's companion iPhone version means more mobile access to all your favorite features: brushes, editing tools, the Studio, and more. Essentially, everything you loved on your iPad now fits into your pocket.
+
+    With Zinnia’s iPhone version you can:
+
+    – Sync your iPad and iPhone journals via iCloud
+    – Fully access all of Zinnia’s tools and Studio library
+    – Read, review, and edit your journals anytime, anywhere
+
+    Psst... there are more iPhone-specific features and capabilities coming soon!
+
+    This app update also includes bug fixes, performance improvements, and Apple Pencil updates for the iPad.
+Version 1.4 (Dec 14, 2020)
+    Zinnia is now available on your iPhone! Zinnia's companion iPhone version means more mobile access to all your favorite features: brushes, editing tools, the Studio, and more. Essentially, everything you loved on your iPad now fits into your pocket.
+
+    With Zinnia’s iPhone version you can:
+
+    – Sync your iPad and iPhone journals via iCloud
+    – Fully access all of Zinnia’s tools and Studio library
+    – Read, review, and edit your journals anytime, anywhere
+
+    Psst... there are more iPhone-specific features and capabilities coming soon!
+
+    This app update also includes bug fixes, performance improvements, and Apple Pencil updates for the iPad.
+Version 1.3.1 (Nov 12, 2020)
+Version 1.3 (Nov 6, 2020)
+Version 1.2.2 (Oct 7, 2020)
+Version 1.2.1 (Sep 16, 2020)
+Version 1.2 (Sep 11, 2020)
+Version 1.1.5 (Aug 12, 2020)
+Version 1.1.4 (Jul 31, 2020)
+Version 1.1.3 (Jul 14, 2020)
+Version 1.1.2 (May 29, 2020)
+Version 1.1.1 (May 21, 2020)
+Version 1.1 (May 19, 2020)
+Version 1.0.8 (Apr 10, 2020)
+Version 1.0.7 (Apr 7, 2020)
+Version 1.0.6 (Mar 31, 2020)
+Version 1.0.5 (Mar 17, 2020)
+Version 1.0.4 (Mar 6, 2020)
+Version 1.0.3 (Feb 29, 2020)
+Version 1.0.1 (Feb 26, 2020)
+
+Users may also like
+Select objects to compare
+AJournal - A Journal & Planner
+Prompted Journal
+My Diary - Journal with Lock
+Mininote - Cute note and diary
+Bujo - Bullet Journal&Planner
+DailyBean - simplest journal
+Flip clock - no ads
+Daylio Journal - Daily Diary
+Lake: Coloring Books & Journal
+MD Clock - Time Clock Widget
+IQ Classifications
+Genre: Lifestyle
+Subgenre: Other Lifestyle
+Other Lifestyle
+Other lifestyle apps that do not fit other existing Lifestyle subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+4 times
+on App Store homepage
+170 times
+on App Store category pages
+Versions
+
+    1.28
+    Current release
+    Feb 20, 2024
+    1.27.2
+    Jan 24, 2024
+    1.27.1
+    Jan 18, 2024
+    1.27
+    Dec 11, 2023
+    1.26.1
+    Nov 7, 2023
+    1.26
+    Oct 30, 2023
+    1.25.2
+    Sep 27, 2023
+    1.25.1
+    Sep 18, 2023
+    1.25
+    Sep 12, 2023
+    1.24.1
+    Aug 21, 2023
+    1.24
+    Aug 3, 2023
+    1.23
+    Jun 21, 2023
+    1.22.1
+    May 23, 2023
+    1.22
+    May 8, 2023
+    1.21.2
+    Apr 21, 2023
+    1.21.1
+    Apr 20, 2023
+    1.21
+    Mar 23, 2023
+    1.20.1
+    Mar 9, 2023
+    1.20
+    Feb 14, 2023
+    1.19.1
+    Jan 19, 2023
+    1.19
+    Dec 13, 2022
+    1.18
+    Nov 18, 2022
+    1.17.2
+    Oct 20, 2022
+    1.17.1
+    Sep 29, 2022
+    1.17
+    Sep 19, 2022
+    1.16.1
+    Aug 19, 2022
+    1.16
+    Aug 8, 2022
+    1.15.2
+    Aug 2, 2022
+    1.15.1
+    Jul 5, 2022
+    1.15
+    Jun 27, 2022
+    1.14
+    May 16, 2022
+    1.13.1
+    Apr 26, 2022
+    1.13
+    Mar 28, 2022
+    1.12
+    Feb 14, 2022
+    1.11.3
+    Jan 21, 2022
+    1.11.2
+    Jan 13, 2022
+    1.11.1
+    Dec 16, 2021
+    1.11
+    Dec 13, 2021
+    1.10.1
+    Nov 11, 2021
+    1.10
+    Oct 25, 2021
+    1.9.3
+    Oct 7, 2021
+    1.9.2
+    Oct 6, 2021
+    1.9.1
+    Sep 11, 2021
+    1.9
+    Sep 8, 2021
+    1.8
+    Jul 19, 2021
+    1.7
+    Jun 7, 2021
+    1.6.2
+    May 24, 2021
+    1.6.1
+    May 6, 2021
+    1.6
+    May 3, 2021
+    1.5.5
+    Apr 7, 2021
+    1.5.3
+    Mar 16, 2021
+    1.5.2
+    Feb 17, 2021
+    1.5.1
+    Feb 3, 2021
+    1.4.1
+    Dec 17, 2020
+    1.4
+    Dec 14, 2020
+    1.3.1
+    Nov 12, 2020
+    1.3
+    Nov 6, 2020
+    1.2.2
+    Oct 7, 2020
+    1.2.1
+    Sep 16, 2020
+    1.2
+    Sep 11, 2020
+    1.1.5
+    Aug 12, 2020
+    1.1.4
+    Jul 31, 2020
+    1.1.3
+    Jul 14, 2020
+    1.1.2
+    May 29, 2020
+    1.1.1
+    May 21, 2020
+    1.1
+    May 19, 2020
+    1.0.8
+    Apr 10, 2020
+    1.0.7
+    Apr 7, 2020
+    1.0.6
+    Mar 31, 2020
+    1.0.5
+    Mar 17, 2020
+    1.0.4
+    Mar 6, 2020
+    1.0.3
+    Feb 29, 2020
+    1.0.1
+    Feb 26, 2020
+
+See More
+Top In-App Purchases
+
+    Zinnia Premium Yearly
+    $39.99
+    Zinnia Premium Monthly
+    $9.99
+    Zinnia Premium Monthly + Intro
+    $9.99
+    Zinnia Premium Yearly
+    $29.99
+    Zinnia Premium Yearly
+    $49.99
+    Zinnia Premium Weekly
+    $3.99
+    SECRET DISCOUNT YEARLY
+    $29.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Feb 26, 2020
+
+Worldwide Release Date
+    Feb 26, 2020
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    1.28
+
+Size
+    139.27 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Italian, Japanese, Portuguese, Spanish, Thai
+
+Seller
+    Pixite Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.5 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.pixite.Zinnia
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1485310935
+Unified App ID: 1000600000787274
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Zinnia - Journal & Planner | data.ai

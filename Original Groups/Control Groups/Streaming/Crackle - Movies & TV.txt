@@ -1,0 +1,549 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Crackle - Movies & TV
+Chicken Soup for The SoulEntertainment (Applications)Free
+Alerts
+
+Crackle
+Crackle - Movies & TV
+Crackle - Movies & TV
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Crackle - Movies & TV
+Movies, TV Shows, & Originals
+Entertainment (Applications)
+Free
+App Description
+Stream free Hollywood movies, TV series and originals on your favorite devices. Wait, free? Yes, free, always and forever. Watch premium TV shows and movies from a full library of new and iconic hits. All on-demand, without a subscription.
+
+ 
+
+Set up a free account to see fewer ads and to pick up where you left off on any device.
+
+ 
+
+Filter genres like comedy, drama, action, thriller and fandom to find fresh hits and all-time classics. Fill your ‘Watch Later’ list with all your favorite titles.
+
+ 
+
+Check out our Spotlight Channel for handpicked recommendations from the Crackle team.
+
+ 
+
+* This app features Nielsen’s proprietary measurement software, which will allow you to contribute to market research, like Nielsen’s TV Ratings. Visit www.nielsen.com/digitalprivacy for more information.
+Ratings
+Displayed Avg Ratings
+2.96
+Total Displayed Ratings
+444
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.6.2 (Dec 5, 2023)
+    The Crackle iOS mobile application has been upgraded to include new features and design improvements that enhance its overall usability and personalization. Along with design improvements to places such as the “Search” and “Sort” screens, the build focuses on providing the user with two new core features - authentication and watchlist functionality. Users will now be able create an account, sign in, and craft their own personalized watchlist.
+Version 6.6.1 (Oct 9, 2023)
+    Minor enhancements
+Version 6.6.0 (Jul 3, 2023)
+    Minor enhancements
+Version 6.5.2 (May 9, 2023)
+    Minor enhancement
+Version 6.5.1 (May 1, 2023)
+    Minor enhancements and bug fixes.
+Version 6.5.0 (Jan 25, 2023)
+    The Crackle iOS mobile application has been redesigned to include an array of new features and redesigned screens! The following items are included in the new iOS build:
+
+
+
+    - Redesigned Splash screen
+
+    - Redesigned Home screen
+
+    - Upgraded Navigation Bar
+
+    - New Content Detail screens for movies and TV shows
+
+    - Ad and Video Playback improvements
+
+    - Redesigned Video Player controls
+
+    - Redesigned “Up Next” content player
+
+    - Improved Search Functionality
+
+    - Redesigned Settings Screen
+
+    - New Parental Control Settings
+
+    - New Error Messages
+
+    - New Deeplinking capabilities
+Version 6.4.0 (Nov 2, 2020)
+    IDFA for iOS 14 and additional improvements
+Version 6.3.0 (Jul 13, 2020)
+    Updated to iOS 13 SDK
+Version 6.2.1 (Oct 31, 2019)
+    Minor improvements
+Version 6.2 (Oct 29, 2019)
+    New Crackle look and feel makes it easier to find award-winning Crackle shows.
+Version 6.1.3 (Jan 30, 2019)
+    New lineup of hit movies, TV shows and acclaimed Sony Crackle Originals. 100% free, always. No credit card. No hassle. 
+     
+    App improvements for a seamless viewing experience to get you to your movies faster.  
+     
+    New exclusive episodes of StartUp, starring Ron Perlman and Adam Brody, SuperMansion, with Bryan Cranston and Keegan-Michael Key. Plus, stream popular favorites like Seinfeld, The Spectacular Spider-Man and Men in Black.
+Version 6.1.2 (Nov 16, 2018)
+    Miscellaneous bug fixes.
+Version 6.1.1 (Nov 12, 2018)
+    New lineup of hit movies, TV shows and acclaimed Sony Crackle Originals. 100% free, always. No credit card. No hassle. 
+     
+    App improvements for a seamless viewing experience to get you to your movies faster.  
+     
+    New exclusive episodes of StartUp, starring Ron Perlman and Adam Brody, SuperMansion, with Bryan Cranston and Keegan-Michael Key. Plus, stream popular favorites like Seinfeld, The Spectacular Spider-Man and Men in Black.
+Version 6.0 (Apr 18, 2018)
+    We’ve been busy debugging and optimizing playback so you can keep enjoying Crackle!
+    - Check out our all new player for an even better watching experience
+    - Bug fixes and overall improvements
+Version 5.9 (Mar 26, 2018)
+    We’ve been busy debugging and optimizing playback so you can keep enjoying Crackle!
+    - Get full screen video in our newly enhanced app for iPhone X
+    - Check out our all new player for an even better watching experience
+    - Bug fixes and overall improvements
+Version 5.8 (Mar 5, 2018)
+    We’ve been busy debugging and optimizing playback so you can keep enjoying Crackle!
+    - Get full screen video in our newly enhanced app for iPhone X
+    - Check out our all new player for an even better watching experience
+    - Bug fixes and overall improvements
+Version 5.7.1 (Feb 12, 2018)
+    We’re just here to help you stream better – squashing bugs, crushing code, improving playback, breaking hearts & solving crimes. Y’know, the usual.
+Version 5.7 (Feb 5, 2018)
+    We’re just here to help you stream better – squashing bugs, crushing code, improving playback, breaking hearts & solving crimes. Y’know, the usual.
+Version 5.6 (Oct 11, 2017)
+    Thanks for watching Crackle. We’ve squashed bugs and improved playback stability so you can continue to enjoy Crackle hassle-free.
+Version 5.5 (May 30, 2017)
+    Thanks for watching Crackle. We’ve squashed bugs and improved playback stability so you can continue to enjoy Crackle hassle-free.
+Version 5.4 (Mar 21, 2017)
+    Thanks for watching Crackle! You can now find us on the TV app for Apple
+    Get more info on your favorite shows and movies at your fingertips with easy to find info buttons
+Version 5.3 (Sep 29, 2016)
+    • Thanks for watching Crackle! We’ve added 3D Touch actions so you can get right into your favorite movie or TV show from the Home Screen
+    • Fixed bugs to improve performance
+Version 5.2 (Jul 12, 2016)
+    Bug Fixes.
+Version 5.1 (May 31, 2016)
+    - Swipe down to now close mini-player
+    - Bug Fixes to improve connectivity and playback
+Version 5.0 (Apr 19, 2016)
+    -Start watching instantly with our new “Always On” auto-play video feature.
+    -Crackle’s improved look and feel makes watching and navigation easier.
+    -There’s always something new to enjoy with our “Watch Now” interactive channel guide.
+    -Enjoy movies and TV on our new mini-player while browsing your favorite titles.
+    -Search Crackle easily with our intuitive search filters.
+    -Optimized for iOS9 on your iPhone and iPad.
+    -Apple Watch compatible for easy control and notifications from your wrist.
+    -Apple TV AirPlay compatible.
+Version 4.7 (Dec 10, 2015)
+    Bug fixes.
+Version 4.5.1 (Sep 8, 2015)
+    Bug fixes.
+Version 4.5 (Jun 29, 2015)
+    Bug fixes.
+Version 4.4.1 (Jun 8, 2015)
+    You don’t have to miss a thing, because Crackle now works with Apple Watch! We’ll keep you updated on Crackle’s new content and remind you what movies and series are leaving the network before it happens. We’ve also continued to optimize and squash bugs to make sure you can kick-back and watch Crackle whenever you want.
+Version 4.4 (May 5, 2015)
+    Now you don’t have to miss a thing! With our new notifications, we’ll keep you updated on Crackle’s new content and remind you what movies and TV shows are leaving the network before it happens. We’ve also continued to optimize and squash the latest bugs to make sure you can kick-back and watch Crackle whenever you want.
+Version 4.3.7 (Apr 2, 2015)
+    Now you don’t have to miss a thing! With our new notifications, we’ll keep you updated on Crackle’s new content and remind you what movies and TV shows are leaving the network before it happens. We’ve also continued to optimize and squash the latest bugs to make sure you can kick-back and watch Crackle whenever you want.
+Version 4.3.6 (Mar 30, 2015)
+    Now you don’t have to miss a thing! With our new notifications, we’ll keep you updated on Crackle’s new content and remind you what movies and TV shows are leaving the network before it happens. We’ve also continued to optimize and squash the latest bugs to make sure you can kick-back and watch Crackle whenever you want.
+Version 4.3.3 (Jan 28, 2015)
+    Now you can find your favorite movies and TV shows even faster by searching the entire Crackle catalog in one easy step. Our new search function will have you watching in no time. And as always, we continue to optimize and squash as many bugs as we can.
+Version 4.3.2 (Dec 4, 2014)
+    We’ve made some optimizations for iOS 8 including a new feature that lets you add Crackle to your Today view in the Notification Center to see the featured program of the day. It’s now easier for you to know when to watch a new episode of Sports Jeopardy!, Comedians in Cars Getting Coffee and Sequestered. We’ve made other improvements to enhance your viewing experience as well. Happy watching…
+Version 4.3.1 (Nov 20, 2014)
+    We’ve made some optimizations for iOS 8 including a new feature that lets you add Crackle to your Today view in the Notification Center to see the featured program of the day. It’s now easier for you to know when to watch a new episode of Sports Jeopardy!, Comedians in Cars Getting Coffee and Sequestered. We’ve made other improvements to enhance your viewing experience as well. Happy watching…
+Version 4.2 (Sep 2, 2014)
+    Chromecast support: Cast Movies, Shows and Original Series on Crackle to your TV with Chromecast.
+Version 4.1.4 (May 28, 2014)
+    Improvements made across multiple areas including navigation, video playback and movie/ show discovery.
+Version 4.1.3 (May 19, 2014)
+    Improved video performance and bug fixes.
+Version 4.1.2 (Apr 25, 2014)
+    Fixed Closed Caption issues. Improved video performance.
+Version 4.1.1 (Apr 18, 2014)
+    Fixed Closed Caption issues. Improved video performance.
+Version 4.1 (Mar 31, 2014)
+    • Rebuilt from the ground up and optimized for iOS7
+    • Improvements made across multiple areas including navigation, video playback and content discovery
+    • Enhanced Closed Captioning experience
+Version 4.0 (Sep 16, 2013)
+    · iOS 7 compatible
+    · Save on data with Wi-Fi only option
+    · Receive notifications when My Watchlist items are expiring
+    · Bug fixes and various improvements
+    · Crackle Original features and series including Extraction and Comedians in Cars Getting Coffee starring Jerry Seinfeld
+    · Dozens of new movies including: Men in Black and You Don’t Mess With the Zohan
+    · TV series including Damages, The Shield, and Blue Mountain State
+Version 3.0.3 (Nov 1, 2012)
+    - Recently added Movies & TV: BOYZ N' THE HOOD, PUNISHER: WAR ZONE, RESIDENT EVIL, THE SHIELD, DAMAGES, RESCUE ME
+    - Increased stability
+Version 3.0.2 (Oct 17, 2012)
+Version 3.0.2 (Oct 16, 2012)
+    - Support for iPhone 5 and iOS 6
+
+    - Significant bug fixes and stability improvements
+
+    - Full seasons of Rescue Me
+
+    - Now Playing: Step Brothers, Marvel Anime: X-Men, Silent Hill, Seinfeld and more
+Version 3.0.1 (Sep 7, 2012)
+    * Fixed bugs that were introduced in last update
+    * Completely redesigned based on feedback from our 11 million users
+    * Easier to discover your favorite movies and shows
+    * Watch on your TV via Airplay or HDMI out
+    * Now playing: THE FAN, S.W.A.T., MR. DEEDS, SNATCH, and more
+Version 3.0.0 (Aug 16, 2012)
+    * Completely redesigned based on feedback from our 11 million users
+    * Easier to discover your favorite movies and shows
+    * Watch on your TV via Airplay or HDMI out
+    * Now playing: THE FAN, S.W.A.T., MR. DEEDS, SNATCH, and more 
+Version 2.4.8 (Jun 21, 2012)
+    * Fixes newly introduced bug that caused playback issues on iOS 4
+    * New this month: S.W.A.T., THE CABLE GUY, BLOOD: THE LAST VAMPIRE, and more
+    * Fixed bug that caused screen to go dark during playback for some users
+    * Additional improvements based on user feedback
+Version 2.4.7 (Jun 19, 2012)
+    * New this month: S.W.A.T., THE CABLE GUY, BLOOD: THE LAST VAMPIRE, and more
+    * Fixed bug that caused screen to go dark during playback for some users
+    * Additional bug fixes
+Version 2.4.6 (Mar 14, 2012)
+    · Improved functionality and bug fixes based on user feedback
+
+
+
+    · Improved search functionality
+
+
+
+    · Added movies this month including STEALTH, CRUEL INTENTIONS and more, plus ten new SEINFELD episodes
+Version 2.3.7 (Dec 1, 2011)
+    • Improved functionality and bug fixes based on user feedback
+
+    • Recent updates include
+
+    - Airplay: Watch Crackle via Apple TV.
+
+    - Learn about new releases by opting-in to alerts
+
+    - Dozens of new movies this month including TALLADEGA NIGHTS, YEAR ONE, ZOMBIE STRIPPERS and more
+
+    - Now with Animax - over 25 anime series straight from Japan
+Version 2.3.6 (Nov 22, 2011)
+    New in this update:
+
+    - Airplay is now supported! Watch Crackle via Apple TV.
+
+    - Learn about new releases by opting-in to alerts
+
+    - Dozens of new movies this month including DONNIE BRASCO, RUDY, CRUEL INTENTIONS and more
+
+    - Improved functionality and bug fixes based on user feedback
+Version 2.1.9 (Sep 23, 2011)
+    - Now supporting App Mirroring (requires iPhone 4S or iPad 2 plus Apple TV)
+    - Fully supports iOS 5
+    - Improved navigation – find what you want and watch it, faster than ever
+    - Optimized streaming for fewer interruptions
+    - Ten new SEINFELD episodes a month
+    - Dozens of new movies this month including BIG DADDY, STEP BROTHERS, BOYZ 'N THE HOOD, STARSHIP TROOPERS and more
+    - Additional fixes based on user feedback
+Version 2.0.20 (Aug 26, 2011)
+    -Improved navigation – find what you want and watch it, faster than ever
+    -Optimized streaming for fewer interruptions
+    -Ten new SEINFELD episodes with two exclusive to iOS
+    -Dozens of new movies this month including MR. DEEDS, DEFENDOR, BAD BOYS, I SPY and more
+    -Various bug fixes
+Version 1.41 (Jun 7, 2011)
+    - New this month: 10 new SEINFELD episodes and more than a dozen new movies including MEN IN BLACK and PINEAPPLE EXPRESS.
+    - Additional improvements and bug fixes based on customer feedback
+Version 1.28 (Apr 28, 2011)
+    - Added 20 more TV series
+    - Fixed GPS issue; it now turns off when app is not being used
+    - Fixed sound problem during movie playback
+    - Various bug fixes
+Version 1.25 (Apr 15, 2011)
+
+Users may also like
+Select objects to compare
+123Play
+FilmRise
+XUMO: TV & Movie Streaming
+Show Box & TV Movie Hub Cinema
+Fawesome
+Freeform TV
+Movies Box & TV Show
+Zeflix
+Movies Box
+My Movies & TV Shows Watchlist
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    6.6.2
+    Current release
+    Dec 5, 2023
+    6.6.1
+    Oct 9, 2023
+    6.6.0
+    Jul 3, 2023
+    6.5.2
+    May 9, 2023
+    6.5.1
+    May 1, 2023
+    6.5.0
+    Jan 25, 2023
+    6.4.0
+    Nov 2, 2020
+    6.3.0
+    Jul 13, 2020
+    6.2.1
+    Oct 31, 2019
+    6.2
+    Oct 29, 2019
+    6.1.3
+    Jan 30, 2019
+    6.1.2
+    Nov 16, 2018
+    6.1.1
+    Nov 12, 2018
+    6.0
+    Apr 18, 2018
+    5.9
+    Mar 26, 2018
+    5.8
+    Mar 5, 2018
+    5.7.1
+    Feb 12, 2018
+    5.7
+    Feb 5, 2018
+    5.6
+    Oct 11, 2017
+    5.5
+    May 30, 2017
+    5.4
+    Mar 21, 2017
+    5.3
+    Sep 29, 2016
+    5.2
+    Jul 12, 2016
+    5.1
+    May 31, 2016
+    5.0
+    Apr 19, 2016
+    4.7
+    Dec 10, 2015
+    4.5.1
+    Sep 8, 2015
+    4.5
+    Jun 29, 2015
+    4.4.1
+    Jun 8, 2015
+    4.4
+    May 5, 2015
+    4.3.7
+    Apr 2, 2015
+    4.3.6
+    Mar 30, 2015
+    4.3.3
+    Jan 28, 2015
+    4.3.2
+    Dec 4, 2014
+    4.3.1
+    Nov 20, 2014
+    4.2
+    Sep 2, 2014
+    4.1.4
+    May 28, 2014
+    4.1.3
+    May 19, 2014
+    4.1.2
+    Apr 25, 2014
+    4.1.1
+    Apr 18, 2014
+    4.1
+    Mar 31, 2014
+    4.0
+    Sep 16, 2013
+    3.0.3
+    Nov 1, 2012
+    3.0.2
+    Oct 17, 2012
+    3.0.2
+    Oct 16, 2012
+    3.0.1
+    Sep 7, 2012
+    3.0.0
+    Aug 16, 2012
+    2.4.8
+    Jun 21, 2012
+    2.4.7
+    Jun 19, 2012
+    2.4.6
+    Mar 14, 2012
+    2.3.7
+    Dec 1, 2011
+    2.3.6
+    Nov 22, 2011
+    2.1.9
+    Sep 23, 2011
+    2.0.20
+    Aug 26, 2011
+    1.41
+    Jun 7, 2011
+    1.28
+    Apr 28, 2011
+    1.25
+    Apr 15, 2011
+
+See More
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Apr 18, 2011
+
+Worldwide Release Date
+    Nov 1, 2012
+
+Last Updated Time
+    Mar 6, 2024
+
+Version
+    6.6.2
+
+Size
+    41.30 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Chicken Soup For The Soul Entertainment, Inc
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.3 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.crackle.crackle-iphone
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Company Website
+
+App ID: 377951542
+Unified App ID: 1000600000436824
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Crackle - Movies & TV | data.ai

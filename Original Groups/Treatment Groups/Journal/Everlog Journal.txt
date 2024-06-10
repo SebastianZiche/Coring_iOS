@@ -1,0 +1,660 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Everlog Journal
+Sweeter BitLifestyle (Applications)Free
+Alerts
+
+    Everlog Journal
+    Everlog Journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Everlog Journal
+Private Markdown Diary
+Lifestyle (Applications)
+Free
+App Description
+Everlog is a lightweight and elegant journal and diary app that helps you reflect on your life. Everlog was created with the simple premise of being fast and uncluttered, so it's just you and your thoughts.
+
+CLEAN
+Everlog gets out of your way. Just hit the quill button and start typing.
+
+SUPPORTS MARKDOWN
+Format your entries using powerful Markdown syntax.
+
+PHOTOS
+Make your entries stand out by adding photos.
+
+COMMENTS
+Want to add to or reflect on an entry? With comments you can do just that! Swipe right on any entry in the timeline or tap the reflection button in the editor and start reflecting.
+
+WIDGETS
+Keep track of your journaling stats with the beautiful widgets
+
+CALENDAR
+An expandable weekly / monthly calendar gives you a birds eye view of your journaling activity, as well as helping you travel back in time in a breeze.
+
+PASSCODE PROTECTION
+Keep your thoughts to yourself. Everlog can protect your journal entries with a passcode.
+
+ALWAYS IN SYNC (PREMIUM)
+Your entries are synced seamlessly over all your devices using iCloud Sync.
+
+AND MUCH MORE
+- Unlimited journals (PREMIUM)
+- Tags
+- Bookmarks
+- Search
+- Dark mode
+
+——————————
+Terms of Use: https://everlog.app/terms
+Privacy Policy: https://everlog.app/privacy
+Ratings
+Displayed Avg Ratings
+4.62
+Total Displayed Ratings
+964
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.3.9 (Feb 22, 2024)
+    Thank you for using Everlog. In this release:
+    - Improved conflict resolution when editing an entry on multiple devices at the same time
+    - Fixed a problem that caused locations to duplicate
+    - Several bug fixes and improvements
+Version 2.3.8 (Feb 4, 2024)
+    Thank you for using Everlog. In this release:
+    - Workouts with routes will now show the route on the map.
+    - Added setting to use Journaling Suggestion's title and date for entries.
+    - Fix for a possible crash at launch
+    - Better handling of numbered lists and headers in Markdown
+    - Updated alternate icons
+    - Several bug fixes and improvements
+Version 2.3.6 (Jan 16, 2024)
+    Thank you for using Everlog. In this release:
+    - Added new options to the floating button to add entries from the Photo Library or the camera.
+    - Added floating button settings to customize the button's functionality and appearance.
+    - Workouts with routes will now show the route on the map.
+    - Added setting to use Journaling Suggestion's title and date for entries.
+    - Fix for a possible crash at launch
+Version 2.3.4 (Jan 8, 2024)
+    Thank you for using Everlog. In this release:
+    - Added Journaling Suggestions. Now you can get ideas for your daily journaling. Available in iOS 17.2 and above.
+    - Added the ability to attach videos to your journal entries.
+    - Added new options to the floating button to add entries from the Photo Library or the camera.
+    - Added floating button settings to customize the button's functionality and appearance.
+    - Workouts with routes will now show the route on the map.
+    - Fix a memory problem related to backups and exporting
+Version 2.3.3 (Jan 2, 2024)
+    Thank you for using Everlog. In this release:
+    - Added Journaling Suggestions. Now you can get ideas for your daily journaling. Available in iOS 17.2 and above.
+    - Added the ability to attach videos to your journal entries.
+    - Added new options to the floating button to add entries from the Photo Library or the camera.
+    - Added floating button settings to customize the button's functionality and appearance.
+    - Workouts with routes will now show the route on the map.
+Version 2.3.2 (Dec 18, 2023)
+    Thank you for using Everlog. In this release:
+    - Added Journaling Suggestions. Now you can get ideas for your daily journaling. Available in iOS 17.2 and above.
+    - Added the ability to attach videos to your journal entries.
+    - Fixed a possible error while backing up or exporting.
+Version 2.3.1 (Dec 13, 2023)
+    Thank you for using Everlog. In this release:
+    - Bug fixes related to video attachments
+Version 2.3 (Dec 12, 2023)
+    Thank you for using Everlog. In this release:
+    - Added support for Journaling Suggestions. Now you can get ideas for your daily journaling. Available in iOS 17.2 and above.
+    - Added the ability to attach videos to your journal entries.
+Version 2.2.15 (Oct 14, 2023)
+    Thank you for using Everlog. In this release:
+    - Small improvements to the interface
+    - Bug fixes
+Version 2.2.14 (Sep 26, 2023)
+    Thank you for using Everlog. In this release:
+    - Added ability to export all entries to a single text file
+Version 2.2.13 (Sep 13, 2023)
+    Thank you for using Everlog. In this release:
+    - Two new home screen widgets have been added
+    - The possibility to import from Stoic was added
+    - The line height of lists has been fixed adjusted
+    - A bug related to the long press gesture with the Apple Pencil was fixed
+    - Log mindful minutes on iPad
+    - Adjustments for the new iOS version
+Version 2.2.12 (Aug 29, 2023)
+    Thank you for using Everlog. In this release:
+    - Two new home screen widgets have been added
+    - The possibility to import from Stoic was added
+    - The line height of lists has been fixed adjusted
+    - A bug related to the long press gesture with the Apple Pencil was fixed
+Version 2.2.11 (Jul 18, 2023)
+    Thank you for using Everlog. In this release:
+    - Fixed syntax highlighting for URLs with hyphens in the url scheme
+    - Added search field to the location screen
+    - Fixed a possible crash when importing from Day One
+    - Fixed incorrect pressure information in weather detail screen
+Version 2.2.10 (May 9, 2023)
+    Thank you for using Everlog. In this release:
+    - Added a setting to use the selected calendar date for new entries
+    - Now using tint colors for dashes, bullets and checkboxes
+    - Fixed bug in "Find Entries" Shortcuts action
+Version 2.2.9 (Apr 20, 2023)
+    Thank you for using Everlog. In this release:
+    - New image viewer with support for markup and text recognition
+    - New menu item to copy entries from Timeline contextual menu
+    - New smart date placeholders in templates using {date:yyyy-MM-dd} syntax and any combination of Unicode date format patterns. These will be automatically replaced when inserting the template.
+    - Fix a rare crash related to the menu
+Version 2.2.7 (Apr 11, 2023)
+    Thank you for using Everlog. In this release:
+    - Fixed a crash that could sometimes happen at launch
+Version 2.2.5 (Apr 7, 2023)
+    Thank you for using Everlog. In this release:
+    - Fixed a crash when moving an entry from the Timeline
+Version 2.2.4 (Apr 6, 2023)
+    Thank you for using Everlog. In this release:
+    - You can now filter your entries by location from the menu/sidebar
+    - You can now directly create an entry with a template from the New Entry button (with long press)
+    - Templates now have a journal parameter. This is the journal that will be used by default when creating an entry with a template.
+    - You can now have comments in different journals
+    - Improved the assignment of locations
+    - Fixed bug that would cause syncing to stop
+Version 2.2.3 (Mar 24, 2023)
+    Thank you for using Everlog. In this release:
+    - Added “template” parameter to the “Write Entry” shortcut
+    - Added new iCloud Sync screen with more detailed info
+Version 2.2.2 (Mar 18, 2023)
+    Thank you for using Everlog. In this release:
+    - Log time spent writing as mindful minutes in the health app
+    - Bug fixes related to templates
+Version 2.2.1 (Mar 9, 2023)
+    Thank you for using Everlog. In this release:
+    - Templates. Journaling just got easier! You'll never have to start from scratch again. Try it now and elevate your journaling game!
+    - Daily Reminders. Get a daily reminder to ensure you stay on track with your journaling.
+    - Bugfixes.
+Version 2.2 (Mar 6, 2023)
+    Thank you for using Everlog. In this release:
+    - Templates. Journaling just got easier! You'll never have to start from scratch again. Try it now and elevate your journaling game!
+    - Daily Reminders. Get a daily reminder to ensure you stay on track with your journaling.
+Version 2.1.9 (Feb 1, 2023)
+    Thank you for using Everlog. In this release:
+    - Fixed a bug in widget and intents extensions
+Version 2.1.8 (Jan 25, 2023)
+    Thank you for using Everlog. In this release:
+    - Fixed a bug related to automatically adding location to journal entries
+Version 2.1.6 (Jan 2, 2023)
+    Thank you for using Everlog. In this release:
+    iCloud Sync optimization
+Version 2.1.3 (Dec 19, 2022)
+    Thank you for using Everlog. In this release:
+    Fixed dozens of small bugs
+Version 2.1.2 (Oct 27, 2022)
+    Thank you for using Everlog. In this release:
+    Fixed a bug related to tags with spaces
+Version 2.1 (Oct 19, 2022)
+    Thank you for using Everlog. In this release:
+
+    Trash
+    Deleted entries will now be put in the trash and will then be permanently deleted after 30 days. This can be changed in Settings > General.
+
+    Shortcuts
+    More shortcuts, and better shortcuts. Run them using Siri or from Spotlight. No setup required.
+
+    Drag and Drop
+    Entries can now be dragged into journals in the sidebar to move them, and onto the calendar to change their date.
+
+    Custom Interface Color
+    You can now change the interface color from Settings > Appearance > Interface Color.
+
+    Journal Icons
+    You can now set custom icons for your journals.
+Version 2.0.1 (Sep 15, 2022)
+    Thank you for using Everlog. In this release:
+    - Bug fixes
+    - Add photos using drag and drop
+Version 2.0 (Sep 11, 2022)
+    Thank you for using Everlog. In this release:
+    - Location. Add location information to entries. You may choose to add it automatically from the settings.
+    - Weather. Add weather data to entries. You may choose to add it automatically from the settings.
+    - Lock Screen Widgets. Check your journaling stats from the lock screen.
+    - Focus Filters. Filter journals depending on Focus Modes.
+    - On This Day Notifications. Get notifications when there are entries to review in On This Day.
+Version 1.8.4 (Jul 6, 2022)
+    Thank you for using Everlog. In this release:
+    - Added a new option to show Markdown syntax as you type (on by default)
+    - You can now add checkboxes, separators and quotes to journal entries
+    - Optimized editor speed
+    - You can now open entries in a new window on iPad and macOS
+Version 1.8.3 (May 26, 2022)
+    Thank you for using Everlog. In this release:
+    - Added the ability to hide journals from On This Day
+    - Fixed a problem in Shortcuts
+Version 1.8.2 (May 23, 2022)
+    Thank you for using Everlog. In this release:
+    - Improvements in the editor experience
+    - Bug fixes
+Version 1.8.1 (Apr 29, 2022)
+    Thank you for using Everlog. In this release:
+    - Bug fixes in Markdown rendering
+Version 1.8 (Apr 27, 2022)
+    Thank you for using Everlog. In this release:
+    - On This Day. Remember the entries you wrote on this day in past years.
+    - New Widgets. New small, medium and large widgets that show On This Day entries and photos.
+    - More Privacy Options. You can now choose to ask for the passcode only after a set period of time.
+Version 1.7.3 (Apr 7, 2022)
+    Thank you for using Everlog. In this release:
+    - Added Wind Down Shortcuts to remind you to write to your journal before going to bed
+Version 1.7.2 (Apr 2, 2022)
+    Thank you for using Everlog. In this release:
+    - Syncing optimization and bug fixes
+Version 1.7.1 (Mar 23, 2022)
+    Thank you for using Everlog. In this release:
+    - Syncing optimization and bug fixes
+Version 1.7 (Mar 21, 2022)
+    Thank you for using Everlog. In this release:
+    - Automatic Backups. Automatically back up your journals on a regular basis. (Requires Premium)
+    - Batch Operations. Select multiple entries to perform batch operations.
+    - Extra Quick Actions to add entries to different journals from the home screen.
+    - New font: New York.
+Version 1.6.9 (Feb 9, 2022)
+    Thank you for using Everlog. In this release:
+    - Added the ability to import journals from the Journey app
+    - Added the ability to export to txt
+    - Fix bug causing Premium to sometimes be deactivated by mistake
+Version 1.6.8 (Feb 2, 2022)
+    Thank you for using Everlog. In this release:
+    - Added the ability to import journals from the Diarly app
+    - Multiple performance enhancements
+Version 1.6.7 (Dec 29, 2021)
+    Fixed minor bug related to import feature
+Version 1.6.6 (Dec 16, 2021)
+    Added advanced settings to the import function
+Version 1.6.5 (Nov 29, 2021)
+    Fixed a bug that would delete newly created entries with photos but no text
+Version 1.6.4 (Nov 12, 2021)
+    Thank you for using Everlog. In this release:
+    - Added 20 fonts to choose from
+    - Added the ability to swipe between entries from the editor
+    - Improved the Premium Status screen to provide ways to manage your subscription
+    - Added setting to hide word count
+Version 1.6.3 (Oct 20, 2021)
+    Fixed a visual problem with Markdown links
+Version 1.6.2 (Oct 19, 2021)
+    Thank you for using Everlog. In this release:
+    - Added an iCloud Sync status icon to the entry editor
+    - Various bug fixes
+Version 1.6.1 (Oct 17, 2021)
+    Fix Markdown highlight shortcut
+Version 1.6 (Oct 13, 2021)
+    Thank you for using Everlog. In this release:
+    - Markdown support. Format your entries with powerful Markdown syntax.
+    - Add formatting from the keyboard accessory
+    - Setting to start entries with a title
+Version 1.5.6 (Sep 20, 2021)
+    Fixed navigation bar on iPad
+Version 1.5.5 (Sep 18, 2021)
+    Thank you for using Everlog. In this release:
+    - Journals and Tags will now be indexed in Spotlight
+    - The search terms are now highlighted in the search results
+    - Added ability to hide photos from the Timeline
+    - Both images and text are now shared when sharing entries
+Version 1.5.4 (Aug 12, 2021)
+    Fixed a possible crash when adding photos from the camera
+Version 1.5.3 (Aug 11, 2021)
+    Thank you for using Everlog. In this release:
+    - Added the ability to add text and photos from other apps using the share sheet.
+    - Added custom color selector for journals (Premium)
+Version 1.5.2 (Jul 28, 2021)
+    Thank you for using Everlog. In this release:
+    - Added the ability to attach multiple photos at once
+    - Several stability improvements
+Version 1.5.1 (Jun 25, 2021)
+    Fixed a possible crash in iOS 13
+Version 1.5 (Jun 23, 2021)
+    Thank you for using Everlog. In this release:
+    - Tags: Add tags to your entries using #hashtag notation and find all your tagged entries from the sidebar.
+    - Links: Link to any entry, journal or tag. Long-press on a journal, tag or entry and select "Copy Link".
+    - Tag & Journal Conversions: Convert journals to tags or vice-versa. (Requires Premium)
+    - Collapse and expand the journals and tags sections in the sidebar
+    - Show or hide comments as well as the time in the Timeline
+Version 1.4.6 (May 15, 2021)
+    - Everlog is now available in Japanese
+    - You can now tap on website URLs, phone numbers, dates and addresses in your journal entries 
+Version 1.4.5 (Apr 29, 2021)
+    - Fixed a possible crash while importing large files from Day One
+Version 1.4.4 (Apr 23, 2021)
+    - Fixed a problem with scrolling in the editor
+    - Fixed a possible crash while importing large files from Day One
+    - Other small improvements
+Version 1.4.3 (Apr 10, 2021)
+    Fixed a crash related to importing
+Version 1.4.2 (Apr 7, 2021)
+    - Added timeline and editor font size settings
+    - Added onboarding screens when launching the app for the first time
+Version 1.4.1 (Mar 26, 2021)
+    - Bug fixes
+Version 1.4 (Mar 24, 2021)
+    - You can now add photos to your entries
+    - Bug fixes
+Version 1.3.2 (Mar 4, 2021)
+    Bug fixes
+Version 1.3 (Feb 3, 2021)
+    Everlog is now available in Portuguese, Italian and Dutch
+Version 1.2.1 (Dec 31, 2020)
+    - New Settings screen
+    - Bugfixes
+Version 1.2 (Dec 16, 2020)
+    - Added support for Siri and Shortcuts
+    - Added the ability to change the default Journal
+    - Added the ability to hide journals from the All Entries view
+Version 1.1 (Nov 26, 2020)
+    - Export your entries to a JSON or CSV file
+    - Import entries from a Day One file
+    - Choose light or dark mode
+    - Several small bug fixes
+Version 1.0.2 (Oct 30, 2020)
+    Small bug fixes
+Version 1.0.1 (Oct 16, 2020)
+    Small bug fixes
+Version 1.0 (Oct 14, 2020)
+
+Users may also like
+Select objects to compare
+Diarly: Private Daily Journal
+Diary, Journal, Notes - Diaro
+Diarium: Journal, Diary
+GoJournal: Diary & Planner
+Momento: Private Journal Diary
+Daybook Journal – Diary
+Diem | The Daily Photo Journal
+Diary ·
+Halo: Daily Self Care Journal
+Journey - Diary, Journal
+Screenshots
+Last Featured (Global)
+iPhone Market
+23 times
+on App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.3.9
+    Current release
+    Feb 22, 2024
+    2.3.8
+    Feb 4, 2024
+    2.3.6
+    Jan 16, 2024
+    2.3.4
+    Jan 8, 2024
+    2.3.3
+    Jan 2, 2024
+    2.3.2
+    Dec 18, 2023
+    2.3.1
+    Dec 13, 2023
+    2.3
+    Dec 12, 2023
+    2.2.15
+    Oct 14, 2023
+    2.2.14
+    Sep 26, 2023
+    2.2.13
+    Sep 13, 2023
+    2.2.12
+    Aug 29, 2023
+    2.2.11
+    Jul 18, 2023
+    2.2.10
+    May 9, 2023
+    2.2.9
+    Apr 20, 2023
+    2.2.7
+    Apr 11, 2023
+    2.2.5
+    Apr 7, 2023
+    2.2.4
+    Apr 6, 2023
+    2.2.3
+    Mar 24, 2023
+    2.2.2
+    Mar 18, 2023
+    2.2.1
+    Mar 9, 2023
+    2.2
+    Mar 6, 2023
+    2.1.9
+    Feb 1, 2023
+    2.1.8
+    Jan 25, 2023
+    2.1.6
+    Jan 2, 2023
+    2.1.3
+    Dec 19, 2022
+    2.1.2
+    Oct 27, 2022
+    2.1
+    Oct 19, 2022
+    2.0.1
+    Sep 15, 2022
+    2.0
+    Sep 11, 2022
+    1.8.4
+    Jul 6, 2022
+    1.8.3
+    May 26, 2022
+    1.8.2
+    May 23, 2022
+    1.8.1
+    Apr 29, 2022
+    1.8
+    Apr 27, 2022
+    1.7.3
+    Apr 7, 2022
+    1.7.2
+    Apr 2, 2022
+    1.7.1
+    Mar 23, 2022
+    1.7
+    Mar 21, 2022
+    1.6.9
+    Feb 9, 2022
+    1.6.8
+    Feb 2, 2022
+    1.6.7
+    Dec 29, 2021
+    1.6.6
+    Dec 16, 2021
+    1.6.5
+    Nov 29, 2021
+    1.6.4
+    Nov 12, 2021
+    1.6.3
+    Oct 20, 2021
+    1.6.2
+    Oct 19, 2021
+    1.6.1
+    Oct 17, 2021
+    1.6
+    Oct 13, 2021
+    1.5.6
+    Sep 20, 2021
+    1.5.5
+    Sep 18, 2021
+    1.5.4
+    Aug 12, 2021
+    1.5.3
+    Aug 11, 2021
+    1.5.2
+    Jul 28, 2021
+    1.5.1
+    Jun 25, 2021
+    1.5
+    Jun 23, 2021
+    1.4.6
+    May 15, 2021
+    1.4.5
+    Apr 29, 2021
+    1.4.4
+    Apr 23, 2021
+    1.4.3
+    Apr 10, 2021
+    1.4.2
+    Apr 7, 2021
+    1.4.1
+    Mar 26, 2021
+    1.4
+    Mar 24, 2021
+    1.3.2
+    Mar 4, 2021
+    1.3
+    Feb 3, 2021
+    1.2.1
+    Dec 31, 2020
+    1.2
+    Dec 16, 2020
+    1.1
+    Nov 26, 2020
+    1.0.2
+    Oct 30, 2020
+    1.0.1
+    Oct 16, 2020
+    1.0
+    Oct 14, 2020
+
+See More
+Top In-App Purchases
+
+    Premium Monthly
+    $0.99
+    Everlog Premium
+    $19.99
+    Premium Lifetime
+    $49.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Oct 14, 2020
+
+Worldwide Release Date
+    Oct 14, 2020
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    2.3.9
+
+Size
+    59.42 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Dutch, French, German, Italian, Japanese, Portuguese, Spanish
+
+Seller
+    Wessley Roche
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    co.wonderbit.Hummingbird
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1519935634
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Everlog Journal | data.ai

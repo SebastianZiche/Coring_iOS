@@ -1,0 +1,486 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Document scanner - PDF & Word
+Global Business LtdProductivity (Applications)Free
+Alerts
+
+    Global Business Ltd
+
+    Document scanner - PDF & Word
+    Document scanner - PDF & Word
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Document scanner - PDF & Word
+Scan office documents or photo
+Productivity (Applications)
+Free
+App Description
+Recognize handwritten text from notes, letters, essays, whiteboards, forms, and other sources.
+Scan up to 20 pages at a time in one text file!
+Be more productive by taking photos of handwritten notes instead of transcribing them. Handwritten OCR works with different surfaces and backgrounds, such as white paper, yellow sticky notes, and whiteboards. Handwriting to text in one tap!
+
+Text scanner features:
+- Scanner documents in MS Word (docx format)
+- Scanner of tables and forms in MS Excel (xlsx, csv formats)
+- Scanner translator up to 20 pages with audio support
+- Text scanner up to 20 pages with audio support
+- Free barcode scanner. Find merchant details out in 1 scan!
+- Unlimited usage
+- Scan up to 20 pages at a time
+- Mistyping and exception handling
+- Up to 100% accurate including punctuation
+- Audio player. Playing audio while screen is locked
+- Cropping images before recognition
+- No registration required
+- Keeps your data safe and secure
+- 122 recognition languages and fonts support
+- Multi-language recognition
+
+Supported Languages: Handwriting OCR supports a total of 122 languages for print style text. Handwriting recognition is only supported for English, Simplified Chinese, French, German, Italian, Portuguese, Japanese, Korean, and Spanish.
+
+Scanner of documents and forms - an indispensable assistant in your work!
+
+Optional Handwritten OCR Subscription:
+- $4.49 weekly plan for unlimited text recognition subscription will be applied to your iTunes account at the end of the 3 day free trial.
+- $9.49 monthly plan for unlimited text recognition subscription will be applied
+- $44.49 annual plan for unlimited text recognition subscription will be applied
+- Payment will be charged to iTunes Account at confirmation of purchase- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- No cancellation of the current subscription is allowed during active subscription period
+- Privacy policy and Terms of Use:
+https://www.freeprivacypolicy.com/privacy/view/c733a8a4a0590ca277bdad005e200758
+Ratings
+Displayed Avg Ratings
+4.24
+Total Displayed Ratings
+99
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 7.3 (Sep 10, 2023)
+    User experience improvement
+Version 7.2 (Sep 5, 2023)
+    User experience update
+Version 7.1 (Aug 14, 2023)
+    - user experience improvement
+    - interface updates
+Version 7.0 (Jun 11, 2023)
+    Fixed crash in History
+    Changes in UI
+    UX improvement
+Version 6.9 (May 3, 2023)
+    Security improvements 
+Version 6.8 (Apr 24, 2023)
+    Unlimited usage for everyone
+Version 6.7 (Jan 28, 2023)
+    Changes:
+    - audio plays correctly in every recognized text
+    - document preview is correctly displayed in each scan
+    - Changed tab order. The scanner got closer.
+    - improved interface
+    - new functionality: scanner to pdf file directly
+Version 6.6 (Nov 20, 2022)
+    New app feature: image scanner
+Version 6.5 (Nov 15, 2022)
+    User experience improvement. Ability to copy every single value in tables and barcode scanners results. Now open app from feature you last used.
+Version 6.4 (Nov 14, 2022)
+    - Added barcode scanner. Find merchant details out in 1 scan!
+    - Less ads
+Version 6.3 (Sep 6, 2022)
+    User experience improvement
+Version 6.2 (Aug 23, 2022)
+    Added new feature: receipt scanner
+    Improved document format recognition
+Version 6.1 (Aug 15, 2022)
+    User experience improvements
+Version 6.0 (Aug 10, 2022)
+    New feature: Export scanned documents to pdf files
+Version 5.9 (Jul 29, 2022)
+    Updated app description
+Version 5.6 (Jun 28, 2022)
+    Fixed issue in converting images to MS Word document
+Version 5.4 (Jun 18, 2022)
+    Japanese, Korean localizations
+Version 5.3 (May 27, 2022)
+    Fixed showing menu view to share text / files and audio for iPad
+Version 5.2 (May 6, 2022)
+    Interface update
+Version 5.1 (Apr 17, 2022)
+    - Forms scanner improvement 
+Version 5.0 (Apr 15, 2022)
+    Interface update
+Version 4.9 (Apr 13, 2022)
+    Crash fix
+Version 4.8 (Apr 12, 2022)
+    - Interface updates
+    - Forms recognition improvement
+    - Accuracy improvement
+    - User experience improvement
+Version 4.7 (Mar 29, 2022)
+    Interface update
+Version 4.6 (Mar 22, 2022)
+    New icon
+Version 4.5 (Jan 22, 2022)
+    - Handwritten-style OCR is supported exclusively for English, Chinese Simplified, French, German, Italian, Portuguese, Spanish
+    - New localizations
+    - Improvement to increase accuracy rate
+Version 4.4 (Jan 17, 2022)
+    Interface updates
+Version 4.3 (Jan 13, 2022)
+    Fixed bug for premium customers. No advertising for premium customers.
+Version 4.2 (Jan 11, 2022)
+    User interface update
+Version 4.1 (Jan 9, 2022)
+    Critical bug fix
+Version 4.0 (Dec 28, 2021)
+    Localizations:
+    - Brazil (Portuguese)
+    - Mexico (Spanish)
+Version 3.9 (Dec 13, 2021)
+    Added Excel (xlsx) export for simple forms
+Version 3.8 (Dec 9, 2021)
+    forms recognition improvement
+Version 3.6 (Oct 17, 2021)
+    - added translate feature
+    - translate 20 pages at a time
+    - translated text to audio
+Version 3.5 (Sep 14, 2021)
+    Audio player redesign
+Version 3.4 (Jul 12, 2021)
+    Localizations
+Version 3.3 (May 30, 2021)
+    - app engine improvements 
+Version 3.2 (May 29, 2021)
+    - Scan up to 20 pages at a time in one text file
+    - Cropping images before recognition
+    - Option to share text, audio, images
+    - User interface improvement
+    - Playing audio while screen is locked
+Version 3.1 (Apr 27, 2021)
+    - Bug fixes
+    - UX improvements in Dark mode
+    - App transparency tracking respect
+Version 3.0 (Apr 15, 2021)
+    New features:
+    - Text to speech with audio player (male and female voices)
+    - History re-design
+    - New share options. Text, image, audio and application link :)
+Version 2.6 (Mar 15, 2021)
+    - Interface updates
+Version 2.5 (Feb 22, 2021)
+    UX improvement
+    Crash fix
+Version 2.4 (Feb 14, 2021)
+    User interface update
+Version 2.3 (Aug 31, 2020)
+    Fixed crash
+Version 2.2 (Aug 25, 2020)
+    Supported languages: Dutch, English, French, German, Italian, Portuguese and Spanish.
+Version 2.1 (Mar 30, 2020)
+    Interface updates
+Version 2.0 (Mar 7, 2020)
+    - new interface
+    - new OCR algorithm
+    - unlimited premium version
+    - interface updates
+Version 1.7 (Aug 2, 2019)
+    Fixed bug for premium users
+Version 1.6 (Jul 28, 2019)
+    - new API version (previous version 1.5 is deprecated) 
+Version 1.5 (Oct 4, 2018)
+    - new device support
+Version 1.4 (Jun 30, 2018)
+    - fixed iPad crash
+Version 1.3 (Jun 24, 2018)
+    - fixed history gallery
+    - fixed ocr in landscape orientation
+Version 1.2 (Jun 23, 2018)
+    - free usage
+Version 1.1 (Jun 16, 2018)
+    Added sample interface
+Version 1.0 (Jun 14, 2018)
+
+Users may also like
+Select objects to compare
+OCR Handwritten
+Almighty Scanner-Picture2Text
+Handwriting to Text PenToPrint
+Text Scanner & Image to Text
+Text Scan : Image to Text OCR
+Text Summary: TLDR, Paraphrase
+Doc : Image to Excel Converter
+PDF Scanner Editor Translator
+Scan Now - PDF Scanner App
+Text Capture: Image to Text
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    7.3
+    Current release
+    Sep 10, 2023
+    7.2
+    Sep 5, 2023
+    7.1
+    Aug 14, 2023
+    7.0
+    Jun 11, 2023
+    6.9
+    May 3, 2023
+    6.8
+    Apr 24, 2023
+    6.7
+    Jan 28, 2023
+    6.6
+    Nov 20, 2022
+    6.5
+    Nov 15, 2022
+    6.4
+    Nov 14, 2022
+    6.3
+    Sep 6, 2022
+    6.2
+    Aug 23, 2022
+    6.1
+    Aug 15, 2022
+    6.0
+    Aug 10, 2022
+    5.9
+    Jul 29, 2022
+    5.6
+    Jun 28, 2022
+    5.4
+    Jun 18, 2022
+    5.3
+    May 27, 2022
+    5.2
+    May 6, 2022
+    5.1
+    Apr 17, 2022
+    5.0
+    Apr 15, 2022
+    4.9
+    Apr 13, 2022
+    4.8
+    Apr 12, 2022
+    4.7
+    Mar 29, 2022
+    4.6
+    Mar 22, 2022
+    4.5
+    Jan 22, 2022
+    4.4
+    Jan 17, 2022
+    4.3
+    Jan 13, 2022
+    4.2
+    Jan 11, 2022
+    4.1
+    Jan 9, 2022
+    4.0
+    Dec 28, 2021
+    3.9
+    Dec 13, 2021
+    3.8
+    Dec 9, 2021
+    3.6
+    Oct 17, 2021
+    3.5
+    Sep 14, 2021
+    3.4
+    Jul 12, 2021
+    3.3
+    May 30, 2021
+    3.2
+    May 29, 2021
+    3.1
+    Apr 27, 2021
+    3.0
+    Apr 15, 2021
+    2.6
+    Mar 15, 2021
+    2.5
+    Feb 22, 2021
+    2.4
+    Feb 14, 2021
+    2.3
+    Aug 31, 2020
+    2.2
+    Aug 25, 2020
+    2.1
+    Mar 30, 2020
+    2.0
+    Mar 7, 2020
+    1.7
+    Aug 2, 2019
+    1.6
+    Jul 28, 2019
+    1.5
+    Oct 4, 2018
+    1.4
+    Jun 30, 2018
+    1.3
+    Jun 24, 2018
+    1.2
+    Jun 23, 2018
+    1.1
+    Jun 16, 2018
+    1.0
+    Jun 14, 2018
+
+See More
+Top In-App Purchases
+
+    Unlimited service
+    $4.49
+    Unlimited service
+    $9.49
+    Yearly service
+    $44.99
+    Unlimited service
+    $2.99
+    100 requests
+    $2.99
+    1000 requests
+    $19.99
+    One year unlimited photo scan
+    $9.49
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jun 14, 2018
+
+Worldwide Release Date
+    Jun 17, 2018
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    7.3
+
+Size
+    36.74 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Danish, Dutch, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Ukrainian
+
+Seller
+    GLOBAL BUSINESS LTD.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    biz.gbsoftware.handocr
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1385568760
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Document scanner - PDF & Word | data.ai

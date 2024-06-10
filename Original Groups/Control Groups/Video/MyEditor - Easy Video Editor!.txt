@@ -1,0 +1,407 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MyEditor - Easy Video Editor!
+MekeFactoryPhoto and Video (Applications)Free
+Alerts
+
+    MekeFactory
+
+    MyEditor - Easy Video Editor!
+    MyEditor - Easy Video Editor!
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MyEditor - Easy Video Editor!
+Photo and Video (Applications)
+Free
+App Description
+MyEditor can combine multiple videos.
+In addition, it provides transition, playback speed, reverse playback, volume and trimming.
+
+◆ Watch the tutorial video.
+1. If no video is loaded, the tutorial video will be displayed.
+2. Press the play button at the top left of the top screen to play the tutorial video.
+
+◆ Import and edit videos.
+1. Press the "round icon button" at the bottom center of the top screen to display the list.
+2. Press the "New button (blue)" to open the editor screen.
+3. Edit the video on the editor screen.
+・ Video
+Video selection: Select the video you want to edit from the photo album.
+Start position: Set the start position of the part you want to use in the video.
+End position: Set the end position of the part you want to use in the video.
+Volume: Set the video volume.
+Playback speed: Set the video playback speed.
+Reverse playback: Plays back the video in reverse.
+・ Transition
+Type: Select the transition at the end of the video and the junction with the next video.
+: None: No transition
+* Crossfade: The video disappears while fading out.
+If there is the following video, the video will appear while fading in.
+: Zoom: The movie disappears while zooming out.
+If there is the following video, the video will appear while zooming in.
+Page turning: The video disappears as the page turns.
+Slide slide (to the left): The video slides to the left.
+If there is the following movie, it will appear from the right end and slide to the left.
+Slide slide (to the right): The video slides to the right.
+If there is the following movie, it will appear from the left end and slide to the right.
+* Slide (Up): The video slides upward.
+If there is the following movie, it will appear from the bottom and slide upward.
+* Slide (down): The video slides downward.
+If there is the following movie, it will appear from the top and slide down.
+Period: Set the period of the transition effect.
+The longer the period, the slower the transition effect will work.
+4. To confirm editing, press the “Save button” in the upper right, and to cancel, press the “Back” button in the upper left.
+* By repeatedly loading multiple videos in the above procedure, the videos are automatically linked.
+
+◆ I want to re-edit a video that has already been created.
+1. Press the "round icon button" at the bottom center of the top screen to display the list.
+2. Press the "arrow button" at the right end of the line you want to re-edit to open the editor screen.
+3. Edit the video in the same way as the new creation procedure on the editor screen.
+
+◆ I want to change the link order of videos.
+1. Press the "round icon button" at the bottom center of the top screen to display the list.
+2. Press the “edit button (green)” to put the list into “edit mode”.
+3. Swipe the icon at the right end of the line you want to change the order to move to the line you want to change.
+4). Press the "edit button (green)" again to confirm the change of order.
+
+◆ I want to delete a created video.
+1. Press the "round icon button" at the bottom center of the top screen to display the list.
+2. There are two ways to delete videos from the list.
+Individual deletion: Press the "Delete button" displayed by swiping left or right on the line you want to delete.
+Delete all: Press the “Delete all button (red)”.
+
+◆ I want to play the edited video.
+1. Slide the slider at the top of the top screen to the left edge and press the "Play button" at the top left.
+
+◆ I want to save the edited video in the photo album.
+1. Select "Save" from the arrow button on the right side of the toolbar to save the video.
+Ratings
+Displayed Avg Ratings
+4.44
+Total Displayed Ratings
+3.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.0.0 (Jul 9, 2021)
+    - iOS14 is now supported.
+Version 7.0.3 (Jan 28, 2020)
+    Fixed a bug that caused the app to crash when loading videos.
+    Fixed a bug that allowed the transition period to be longer than the video length.
+Version 7.0.2 (Jan 21, 2020)
+    Minor bug fixes.
+Version 7.0.1 (Jan 8, 2020)
+    Minor bug fixes.
+Version 7.0.0 (Dec 19, 2019)
+    UI design was renewed.
+Version 6.3.1 (Dec 8, 2019)
+    When selecting an image, the end position could not be selected up to 3 seconds, but it was extended to 300 seconds.
+Version 6.3.0 (Nov 20, 2019)
+    The aspect ratio can be changed.
+    The aspect ratio can be selected from 2: 1, 16: 9, 4: 3, and 1: 1.
+Version 6.2.1 (Nov 9, 2019)
+    Bug fix that can not select video from file on iPad.
+Version 6.2.0 (Nov 8, 2019)
+    The volume selection range has been expanded to 0-300%.
+Version 6.1.0 (Oct 31, 2019)
+    Fixed a bug that the resolution is lowered when saving the edited video.
+Version 6.0.0 (Oct 24, 2019)
+    You can add images as well as videos.
+Version 5.2.0 (Oct 11, 2019)
+    - Added "File" to video selection. You can select image files from various cloud services.
+    - Added "Camera" to video selection.
+    - Dark mode (Light mode is fixed, but ...)
+Version 5.1.0 (Sep 30, 2019)
+    Fixed a bug where thumbnails of additional videos were not displayed.
+Version 5.0.3 (Sep 27, 2019)
+    Added support for iOS13.
+Version 5.0.2 (Sep 3, 2019)
+    Improved internal application.
+Version 5.0.1 (Feb 27, 2019)
+    Minor UI adjustment.
+Version 5.0.0 (Mar 17, 2017)
+    Provide reverse play mode of video.
+Version 4.1.2 (Jan 27, 2017)
+    Minor bugfixes.
+Version 4.1.1 (Dec 13, 2016)
+    Minor bugfixes.
+Version 4.1.0 (Dec 1, 2016)
+    Improvement in screen design.
+    Playback speed up to 10 times.
+Version 4.0.1 (Apr 21, 2016)
+    hot fix
+Version 4.0.0 (Mar 22, 2016)
+    for iOS9.2
+Version 3.0.5 (Jun 25, 2015)
+    bugfix
+Version 3.0.4 (May 5, 2015)
+    bugfix
+Version 3.0.3 (Mar 27, 2015)
+    bugfix
+Version 3.0.2 (Mar 7, 2015)
+    bugfix
+Version 3.0.1 (Jan 12, 2015)
+    bugfixes
+Version 3.0.0 (Oct 10, 2014)
+    only supports iOS8 and later versions.
+    and, bugs fix.
+Version 2.2.3 (Oct 5, 2014)
+    bugs fix.
+Version 2.2.2 (Sep 27, 2014)
+    supported iOS8
+Version 2.2.1 (Sep 15, 2014)
+    -Supported the email,message and facebook.
+Version 2.2.0 (Jul 16, 2014)
+    -Improvement of UI
+
+    -bugfix
+Version 2.1.0 (May 10, 2014)
+    Support iPad
+    iOS7.1 or later
+Version 2.0.3 (Apr 2, 2014)
+    bugfix
+Version 2.0.2 (Mar 27, 2014)
+    bugfix
+Version 2.0.1 (Oct 14, 2013)
+    bugfix
+Version 2.0.0 (Oct 3, 2013)
+    for iOS7.
+Version 1.0.0 (Aug 23, 2013)
+
+Users may also like
+Select objects to compare
+MovKit
+Squarely Edtior
+VBooster - Fast & Slow motion
+Vind - Video In Video
+RevMov - Reverse Video
+CropMov
+MixClip - Video Editor
+SkipMov
+FilmStory - 簡単動画編集・作成
+Player Gear
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    8.0.0
+    Current release
+    Jul 9, 2021
+    7.0.3
+    Jan 28, 2020
+    7.0.2
+    Jan 21, 2020
+    7.0.1
+    Jan 8, 2020
+    7.0.0
+    Dec 19, 2019
+    6.3.1
+    Dec 8, 2019
+    6.3.0
+    Nov 20, 2019
+    6.2.1
+    Nov 9, 2019
+    6.2.0
+    Nov 8, 2019
+    6.1.0
+    Oct 31, 2019
+    6.0.0
+    Oct 24, 2019
+    5.2.0
+    Oct 11, 2019
+    5.1.0
+    Sep 30, 2019
+    5.0.3
+    Sep 27, 2019
+    5.0.2
+    Sep 3, 2019
+    5.0.1
+    Feb 27, 2019
+    5.0.0
+    Mar 17, 2017
+    4.1.2
+    Jan 27, 2017
+    4.1.1
+    Dec 13, 2016
+    4.1.0
+    Dec 1, 2016
+    4.0.1
+    Apr 21, 2016
+    4.0.0
+    Mar 22, 2016
+    3.0.5
+    Jun 25, 2015
+    3.0.4
+    May 5, 2015
+    3.0.3
+    Mar 27, 2015
+    3.0.2
+    Mar 7, 2015
+    3.0.1
+    Jan 12, 2015
+    3.0.0
+    Oct 10, 2014
+    2.2.3
+    Oct 5, 2014
+    2.2.2
+    Sep 27, 2014
+    2.2.1
+    Sep 15, 2014
+    2.2.0
+    Jul 16, 2014
+    2.1.0
+    May 10, 2014
+    2.0.3
+    Apr 2, 2014
+    2.0.2
+    Mar 27, 2014
+    2.0.1
+    Oct 14, 2013
+    2.0.0
+    Oct 3, 2013
+    1.0.0
+    Aug 23, 2013
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Aug 24, 2013
+
+Worldwide Release Date
+    Aug 24, 2013
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    8.0.0
+
+Size
+    66.65 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese
+
+Seller
+    kazuki oota
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.5 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.mekefactory.myeditor
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 684219528
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MyEditor - Easy Video Editor! | data.ai
+				
+				
+				
+				
+				
+	

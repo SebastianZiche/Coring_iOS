@@ -1,0 +1,396 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+BigPaper - Mind Note , PDF
+10happy Technology Development(Dalian) Co.,Ltd.Productivity (Applications)Free
+Alerts
+
+    10happy Technology Development(Dalian) Co.,Ltd.
+
+    BigPaper - Mind Note , PDF
+    BigPaper - Mind Note , PDF
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+BigPaper - Mind Note , PDF
+Productivity (Applications)
+Free
+App Description
+BigPaper is a borderless note taking application. You can import and expand PDFs and other formats in BigPaper and freely take notes in an infinite canvas without being limited by the edges of the document.
+You can use BigPaper on both iPhone and iPad for efficient editing with iCloud data sync.
+Whether it's annotating PDFs, making handbooks, or creating mind maps, BigPaper is ready to go.
+
+BigPaper's features include multi-format document import, text input, handwriting, mind mapping, tables, scanned documents, free edge screenshots, containers, folder management, search for handwriting and text, etc.
+
+We welcome every rating, and we will read every piece of feedback and take notes to incorporate it in future updates.
+
+Your 5-star review will encourage us to continue to upgrade BigPaper and introduce new features.
+
+
+—— Introduction of functions ——
+
+「Infinite canvas, freeform add elements」
+Canvas can be zoomed and moved for editing.
+Add documents in multiple formats such as PDF, as well as multiple types of elements such as tables, text, drawings, handwriting, pictures, stickers, paper, scanned documents, and more. These elements can be scaled and rotated.
+
+「Mind Mapping - Easily connect ideas」
+Innovative mind mapping mode. Connect elements on the page (text, pictures, tables, etc.) to quickly generate mind maps from inspiration.
+Also support the step-by-step enlargement of the idea by expanding the mind map.
+
+「Type anywhere」
+Customize the font, size and color of the text. To-do list, bullets can be added to the text.
+
+「Brush Tool - Handwritten and Drawings」
+Customize brush presets including color, transparency, tip size.
+Full-screen drawing, freely annotated documents that are not limited by the edges of the document.
+Smart Shapes: Hold a stylus or fingertip after drawing a graphic on the screen, intelligently recognize and generate the perfect shape.
+
+「Create Table」
+Easy create forms. Add row, add column, move row, move column. Tables can be linked to mind maps.
+
+「Import and Export」
+Imported document formats: PDF, Word, PowerPoint, Excel, Pages, Keynote, Numbers, etc.
+Expand all pages of the document to easily read and highlight all the content.
+Select text in the document to copy.
+Export PDF, export image, and BigPaper format. WYSIWYG, everything can be displayed in the exported document.
+
+「Reading Mode」
+Customize the "scrolling direction" to realize the classic reading mode.
+
+「Screenshot Mode - Quickly capture key points」
+In screenshot mode, you can continuously select areas to take screenshots, these screenshots will be added to the canvas immediately, and can continue to be edited and added to the mind map.
+
+「Stickers, Paper Templates」
+The themes of stickers include weather, three-dimensional geometry, music, etc., saving creation time and improving note-taking efficiency.
+Use stickers and paper stencils in combination to create beautiful manuscripts.
+
+「Multiple Selection Tool - Efficient Editing」
+You can freely select an area on the canvas using the multi-selection tool. The selected content as a whole can be resized, rotated, moved, deleted, and exported.Draw borders to take screenshots freely.
+
+「Manage files with folders」
+You can create folders to manage files. Easy personalization includes folder editing, file moving, sticking to the top, and more.
+
+「iCloud Sync」
+Continue to create notes on different devices and capture inspiration anytime, anywhere.
+
+「Scan」
+Scan documents, OCR text recognition(Available in English, Chinese, French, Italian, German, Portuguese and Spanish.)
+
+「Search and Jump Locations」
+Search for handwriting, text, text in documents. Also: OCR text recognition results of scanned documents and recognition of text in pictures.
+
+Contact us and send feedback: bp_10happy@hotmail.com
+Ratings
+Displayed Avg Ratings
+3.9
+Total Displayed Ratings
+175
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.0.28 (Dec 20, 2023)
+    1. When importing a document into a new project, the project name defaults to the document name to make it easier for users to quickly locate the project.
+    2. Optimize performance and reduce energy consumption.
+Version 1.0.27 (Jun 12, 2023)
+    Improve user experience by retaining the canvas zoom and scroll direction settings for the same big paper.
+Version 1.0.26 (May 8, 2023)
+    1. Bug fix: Fixed the problem of unresponsiveness when creating new projects in iOS15.
+    2. Bug fix: Fixed an issue where the size value was not displayed when resizing the pen tip.
+Version 1.0.25 (Apr 16, 2023)
+    Improve processing efficiency for huge number of objects and reduce power consumption.
+Version 1.0.24 (Mar 15, 2023)
+    1. Optimize the use experience. Laser pointer and lasso respond to the "Draw with Finger" status setting.
+    2. Keep the tool selected when the application is switched to run in the background.
+    3. Fixed the issue of occasional unexpected exit when continuous handwriting.
+Version 1.0.23 (Feb 27, 2023)
+    1. Fixes an issue; fixes an occasional accidental app exit during iCloud interactions.
+    2. Apple Pencil supports following system settings, users can turn off 「tap twice to switch between brush and eraser」.
+Version 1.0.22 (Feb 13, 2023)
+    Fix Bug: Occasional unexpected exit or lag when handwriting
+Version 1.0.20 (Jan 14, 2023)
+    1. Fixed bug: Text scrolling up when the text box was reduced in height.
+    2.Fixed bug: App crashes when Air drop.
+Version 1.0.19 (Jan 2, 2023)
+    1.Fix bug：Unable to import PDF in some cases.
+    2.Improved clarity of the exported PDF
+Version 1.0.19 (Jan 2, 2023)
+    1.Fix bug：Unable to import PDF in some cases.
+    2.Improved clarity of the exported PDF
+Version 1.0.18 (Dec 17, 2022)
+    1. Text box: free to adjust the size of text box, you can quickly adjust the font size through the font size selection list.
+    2. Optimize the buttons under accessibility mode.
+Version 1.0.17 (Dec 11, 2022)
+    1. Batch import images
+    2. Matching brush settings when drawing mind maps. When "Draw with finger" turned off, move the canvas with a single finger swipe in mind map mode.
+    3. New help center.
+Version 1.0.16 (Dec 8, 2022)
+    1. New feature - 「Containers」: You will be able to use containers to combine different types of objects, and the 「container」 can also be connected to mind maps.
+    2. Bug fix: Fixed PDF flicker
+
+    Thank you for using BigPaper! We will update it regularly to improve your experience.
+    If you think our app works well, please give us your approval, your 5-star review will inspire us to keep developing and optimizing the app!
+    We will read every comment and record them. These suggestions will be fully considered in future updates
+    If you would like to share more information with us. please send an email to bp_10happy@hotmail.com .
+Version 1.0.15 (Nov 27, 2022)
+    Enhance PDF Preview
+Version 1.0.14 (Nov 20, 2022)
+    Lasso: Export part of the area to photo, object alignment.
+Version 1.0.13 (Nov 13, 2022)
+    1. Optimized the accuracy of text selection in PDF, now it is possible to select text in PDF across pages.
+    2. New feature: Laser Pointer for presentation.
+Version 1.0.12 (Nov 2, 2022)
+    1.Improved the clarity of exported documents.
+    2.Fixed the bug of redo & undo after using the lasso
+    3.Fixed the bug of not being able to exit the project when the pop over list is not closed
+    4.New function of lasso - change text box, text in table, color of drawing at the same time
+Version 1.0.11 (Oct 21, 2022)
+    1. Conform to user habits. Retain the settings made by the user when selecting a multi-selected object and selecting the type of eraser until the user chooses to modify it.
+    2. Optimize the mind map. Improve the freedom of drawing connecting lines.
+Version 1.0.10 (Oct 17, 2022)
+    1.Improve the clarity of PDF documents.
+    2.Fixed a handwriting color error when switching between dark mode and light mode.
+    3.Improve the clarity of handwriting after export.
+Version 1.0.9 (Oct 8, 2022)
+    Mind map function upgrade: support to choose more mind map styles, separate settings for structure, connecting lines and nodes of the mind map.
+    Freely create logic chart, org chart, tree chart, timeline, fishbone and many more free styles of mind maps.
+Version 1.0.8 (Sep 25, 2022)
+    1. Multi-select function upgrade:
+    Selecting objects is more flexible. One or more element types can be selected or excluded to implement multi-select operations for some specific objects.
+    2. Support user-defined whether to open "Draw with Touch".
+    3. Optimization function: Improved accuracy when selecting handwriting with the multi-selection tool
+Version 1.0.7 (Sep 16, 2022)
+    --- New Function ----
+    New launch: Search function
+    Search scope: global search, intra-project search
+    Objects: Search handwriting, text, text in documents. Also: OCR text recognition results of scanned documents and text in images.
+    Scope of Support: Objects created and edited after upgrading to 1.0.7.
+Version 1.0.6 (Sep 3, 2022)
+    1. Multi-select function upgrade: support copying and drawing outlines for free screenshots
+    2.Optimized for scanned documents and supports OCR text recognition for text and handwriting.
+Version 1.0.5 (Aug 25, 2022)
+    1. New function: scan document.Select text from scanned documents to copy, translate, and more.
+    2. bug fixes:Related issues with image import and text rotation angle
+Version 1.0.4 (Aug 15, 2022)
+    New feature: support for creating tables
+Version 1.0.3 (Aug 8, 2022)
+    1.Bug fix - multi-selection function: fix the problem of relative position deviation between elements when the whole moves after rotation.
+    2.Optimize the document selection logic, click the edge of the page to edit the document as a whole.
+Version 1.0.2 (Aug 3, 2022)
+    1.Multi-select function upgrade: support zoom and rotation
+    2.New Stickers: Cosmic Collection
+Version 1.0.1 (Jul 31, 2022)
+    Optimized the display position of the imported .bigpaper file.
+Version 1.0 (Jul 27, 2022)
+
+Users may also like
+Select objects to compare
+XNote-infinite boards & notes
+GUGA-超级白板
+MindSpace - Mind Map
+Mind Map - HoodleMind
+BoardNotes - Whiteboard & Note
+享做笔记
+Candor Note - Handwriting Note
+Metion: Markdown Notes
+无限草稿Lite - 在白板上快速笔记整理
+OrigNotes
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.0.28
+    Current release
+    Dec 20, 2023
+    1.0.27
+    Jun 12, 2023
+    1.0.26
+    May 8, 2023
+    1.0.25
+    Apr 16, 2023
+    1.0.24
+    Mar 15, 2023
+    1.0.23
+    Feb 27, 2023
+    1.0.22
+    Feb 13, 2023
+    1.0.20
+    Jan 14, 2023
+    1.0.19
+    Jan 2, 2023
+    1.0.19
+    Jan 2, 2023
+    1.0.18
+    Dec 17, 2022
+    1.0.17
+    Dec 11, 2022
+    1.0.16
+    Dec 8, 2022
+    1.0.15
+    Nov 27, 2022
+    1.0.14
+    Nov 20, 2022
+    1.0.13
+    Nov 13, 2022
+    1.0.12
+    Nov 2, 2022
+    1.0.11
+    Oct 21, 2022
+    1.0.10
+    Oct 17, 2022
+    1.0.9
+    Oct 8, 2022
+    1.0.8
+    Sep 25, 2022
+    1.0.7
+    Sep 16, 2022
+    1.0.6
+    Sep 3, 2022
+    1.0.5
+    Aug 25, 2022
+    1.0.4
+    Aug 15, 2022
+    1.0.3
+    Aug 8, 2022
+    1.0.2
+    Aug 3, 2022
+    1.0.1
+    Jul 31, 2022
+    1.0
+    Jul 27, 2022
+
+See More
+Top In-App Purchases
+
+    BigPaper - Full Version Unlock
+    $7.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jul 27, 2022
+
+Worldwide Release Date
+    Jul 27, 2022
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    1.0.28
+
+Size
+    117.25 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Duits, Engels, Frans, Italiaans, Japans, Koreaans, Maleis, Portugees, Spaans, Trad. Chinees, Turks, Vereenv. Chinees
+
+Seller
+    10happy Technology Development Dalian Co.,Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Vereist iOS 14.0 of nieuwer. Compatibel met iPhone, iPad en iPod touch.
+
+Bundle ID
+    com.10happy.BigPaper
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1633929939
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+BigPaper - Mind Note , PDF | data.ai

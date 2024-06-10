@@ -1,0 +1,1218 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Otter: Transcribe Voice Notes
+Otter.aiProductivity (Applications)Free
+Alerts
+
+Otter Voice Meeting Notes
+Otter: Transcribe Voice Notes
+Otter: Transcribe Voice Notes
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Otter: Transcribe Voice Notes
+Productivity (Applications)
+Free
+App Description
+OtterPilot™ your meetings with AI. Get a meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
+
+Otter transcribes all your meetings, interviews, lectures, and everyday voice conversations in real time, so you can focus on the discussion. Get automated notes for: in-person, Zoom, Google Meet, and Microsoft Teams. All notes are searchable, and shareable. Otter.ai is also available on the web. English only.
+
+Many Uses
+• Take meeting notes automatically, and share with teammates to keep everyone in sync
+• Record and transcribe interviews, lectures, podcasts, videos, webinars, keynotes
+• Provide live captioning to the deaf and hard-of-hearing communities, ESL learners, and anyone with accessibility needs
+
+Record & Transcribe Live
+• Record instantly in one tap, with widget and shortcut too
+• Transcribe in real time (when online) with high accuracy
+• Highlight the key points to review later
+• Insert photos of whiteboard discussions, slides, etc.
+• Input audio via built-in mic or Bluetooth device
+
+Enrich Notes with AI
+• Punctuate, capitalize, and break paragraphs automatically
+• Identify speakers (after some training)
+• Generate word clouds and summary keywords; tap on a word to jump to where it was said
+• Automated Slide Capture during virtual meetings
+• Automated Summary after all meetings
+
+Share & Collaborate
+• Start a recording inside a group to share the transcript live
+• Invite group members to view, edit, and highlight collaboratively. All highlights will be captured in the Takeaways panel.
+• Within the Takeaways panel, add comments and assign action items
+• Share externally via links
+
+Search & Playback
+• Search the text so you don't have to scrub through the whole audio
+• Playback at adjustable speeds
+• Follow along the highlighted word as the audio is playing
+• Tap on any word to jump the audio to that spot
+
+Edit & Highlight
+• Edit the text to correct any errors
+• Tag the speakers to label the paragraphs and train Otter to identify speakers too
+• Highlight sentences in one tap
+
+Organize & Export
+• Organize conversations into personal folders
+• Copy to clipboard, or share directly to other apps
+• Export as PDF, TXT, SRT, MP3
+
+Import & Sync
+• Import audio and video files
+• Sync your Zoom account to transcribe cloud recordings
+• Upload from other call recording apps
+• Sync your calendars to be reminded to record your meetings and auto-title your notes
+• Import your contacts for easy sharing
+
+Optimized for iOS
+• Start/Stop recording with Siri Shortcut & home widget
+• Record via AirPods
+• Sync with iOS Calendar, Contacts & Camera
+• Preview conversations with 3D Touch
+• Lock with Face/Touch ID
+• Print via AirPrint
+• Adjust font size with Dynamic Type
+
+Otter Pro
+• More playback speeds and skip silence
+• Bulk export
+• Choose either monthly billing or save big with yearly billing
+• Payment will be charged to your iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+• Account will be charged for renewal within 24-hours prior to the end of the current period
+• You can manage your subscriptions in Settings and auto-renewal may be turned off by going to your Account Settings after purchase
+• Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription
+“Otter.ai Is A Gem For Transcribing Your Recorded Thoughts Into Writing” - Forbes 2023
+"Apps We Love 2019" – App Store
+"7 Best Apps of 2018" – Mashable
+"25 Best New Apps of 2018" – Fast Company
+
+We take security and privacy seriously. Your data is confidential and will not be transferred to third parties. You have full control to delete your data from your account.
+
+Need help? Check out our Help Center: https://help.otter.ai
+
+Terms of Service: https://otter.ai/terms-of-service
+Privacy Policy: https://otter.ai/privacy-policy
+Ratings
+Displayed Avg Ratings
+4.74
+Total Displayed Ratings
+67.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.43.240212 (Feb 13, 2024)
+    • Bug fixes and improvements
+Version 3.42.240129 (Feb 2, 2024)
+    • Support for rich text in Otter Chat
+    • Performance improvements
+Version 3.41.230115 (Jan 17, 2024)
+    • Fixes a bug that prevented adding comments to a conversation transcript
+Version 3.40.231225 (Dec 27, 2023)
+    • Bug fixes and improvements
+Version 3.39.231204 (Dec 12, 2023)
+    • Bug fixes and improvements
+Version 3.38.231120 (Nov 21, 2023)
+    • Bug fixes and improvements
+Version 3.37.231106 (Nov 8, 2023)
+    • Live conversations are now displayed on a dedicated card on the Home screen, and it's easier to see your next upcoming meeting
+    • Stability improvements
+Version 3.36.231023 (Oct 23, 2023)
+    • Added support for live summaries for live meetings.
+    • Bug fixes and performance improvements.
+Version 3.35.231009 (Oct 10, 2023)
+    • Minor tweaks to the new Home screen design
+Version 3.34.230918 (Sep 18, 2023)
+    Bug fixes and improvements
+Version 3.32.230821 (Aug 22, 2023)
+    • Bug fixes and improvements
+Version 3.31.0 (Aug 8, 2023)
+    • Bug fixes and improvements
+Version 3.30.0 (Jul 31, 2023)
+    • Bug fixes and improvements
+Version 3.29.0 (Jul 11, 2023)
+    • You can new request access to a conversation if someone sends you a link but the owner hasn't shared with you
+    • You can also see and grant or deny these requests as a conversation owner
+Version 3.28.1 (Jun 29, 2023)
+    • Web urls, phone numbers and addresses in your conversations' text notes will now appear as links
+    • You can now invite others to join your workspace
+    • Accessibility improvements for VoiceOver users
+Version 3.28.0 (Jun 26, 2023)
+    • Web urls, phone numbers and addresses in your conversations' text notes will now appear as links
+    • You can now invite others to join your workspace
+    • Accessibility improvements for VoiceOver users
+Version 3.27.0 (May 30, 2023)
+    • Groups are now called Channels
+    • Keep an eye on recent activity with the Notifications screen
+    • Invite other people to your Workspace
+Version 3.26.0 (May 15, 2023)
+    • Copy your meeting summary to the clipboard in a single tap
+Version 3.25.0 (May 2, 2023)
+    • Speaker names are now shown in real time during live recordings of Zoom calls
+    • Meeting summaries contain two levels of detail: tap a section to see finer details
+Version 3.24.0 (Apr 18, 2023)
+    • Bug fixes and improvements
+Version 3.23.0 (Apr 3, 2023)
+    • New options added to Meeting settings: control automatic screenshots captured by your Otter Assistant, as well as email notifications sent before your Otter Assistant joins a call
+    • Conversation transcripts are now accessible, for use with features like VoiceOver
+Version 3.22.0 (Mar 20, 2023)
+    • Bug fixes and improvements
+Version 3.21.0 (Mar 6, 2023)
+    • Otter will display a warning message while recording a conversation if there is a problem with your audio or upload
+Version 3.20.0 (Feb 21, 2023)
+    • When a paragraph of conversation is followed by multiple photos, they will be arranged horizontally instead of vertically
+Version 3.19.0 (Feb 6, 2023)
+    • Fixes some UI issues seen when using the floating keyboard on iPad
+Version 3.18.0 (Jan 24, 2023)
+    • Bug fixes and improvements
+Version 3.17.0 (Jan 11, 2023)
+    • Improved display of your day's agenda at the top of the Home Screen
+Version 3.16.0 (Dec 19, 2022)
+    • Improvements to the "Skip silence" feature: now even more efficient at skipping silence while playing back conversation audio (Otter Pro & Business only)
+    • Fixes a bug affecting some users who would always be taken to My Agenda when launching Otter
+Version 3.16.0 (Dec 19, 2022)
+    • Improvements to the "Skip silence" feature: now even more efficient at skipping silence while playing back conversation audio (Otter Pro & Business only)
+    • Fixes a bug affecting some users who would always be taken to My Agenda when launching Otter
+Version 3.15.0 (Dec 5, 2022)
+    • Bug fixes and improvements
+Version 3.14.0 (Nov 14, 2022)
+    • Bug fixes and improvements
+Version 3.13.0 (Oct 31, 2022)
+    • Easily add screenshots from your meetings being recorded by an Otter Assistant
+Version 3.12.0 (Oct 17, 2022)
+    • Basic and Pro users can now see any workspaces that are available to join in the navigation panel
+    • Fixes a crash affecting some users
+Version 3.11.0 (Oct 4, 2022)
+    • Bug fixes and improvements
+Version 3.10.0 (Sep 26, 2022)
+    • Bug fixes and improvements
+Version 3.9.0 (Sep 7, 2022)
+    • Better reliability when uploading audio files
+    • Improved app stability
+Version 3.8.0 (Aug 23, 2022)
+    • Fixes a brief screen freeze that happened occasionally when opening a conversation
+    • Fixes the home screen badge number being set too high for some users
+Version 3.7.0 (Aug 9, 2022)
+    • Text notes in your conversations can now be edited
+    • Adding photos from your gallery is now quicker and easier
+Version 3.6.0 (Jul 25, 2022)
+    • Imported files will now show up in My Conversations sorted by when you imported them, instead of by the file’s creation date
+    • Bug fixes and improvements
+Version 3.4.0 (Jun 23, 2022)
+    • We’ve improved how you can share conversations
+    - Simpler permissions: choose between Collaborator or Viewer
+    - See more easily who you have shared with
+    - Share with a public link: make conversations visible to anyone with the link, and revoke that access at any time
+    - Share with a link to anyone in your workspace (Otter Business only)
+Version 3.3.0 (Jun 6, 2022)
+    • Quickly add photos to your conversation while recording or listening to a conversation by tapping the image button
+Version 3.2.0 (May 23, 2022)
+    • Otter will now generate an outline of your meeting to help you easily remember what was discussed and jump to specific parts of the conversation! (Otter for Business only)
+Version 3.1.0 (May 9, 2022)
+    • Back by popular demand: when viewing a live recording, tap the expand button to see the transcript in full screen mode with extra large font sizes
+Version 3.0.1 (May 2, 2022)
+    Meet the New Otter. Everything teams need for productive, collaborative meetings.
+    Use the NEW Meeting Gems™ to capture key takeaways from your meetings
+    - Capture highlights
+    - Add free-form text notes and comments
+    - Assign action items to others
+Version 2.1.65 (Mar 7, 2022)
+    • Minor bug fixes and performance improvements
+Version 2.1.64 (Feb 28, 2022)
+    • Minor bug fixes and performance improvements
+Version 2.1.63 (Jan 25, 2022)
+    • This release fixes a rare crash that happened when the app started up
+Version 2.1.62 (Jan 3, 2022)
+    • Finding a filter - such as a specific group, direct message or speaker - for your conversation search results is now easier (Pro and Business only)
+Version 2.1.61 (Nov 29, 2021)
+    • The navigation bar has been reorganized to make finding your content even easier: Groups have been split into Groups and DMs, and they're sorted alphabetically now.
+Version 2.1.60 (Oct 25, 2021)
+    • Join video calls directly from My Agenda! If you have connected your calendar(s) with Otter, you'll see new buttons in My Agenda for joining Zoom, Microsoft Teams, Google Meet, or Cisco Webex meeting URLs from your calendar events.
+    • You can now turn on/off individual emails and push notifications in Settings > Notifications.
+Version 2.1.59 (Oct 12, 2021)
+    • Fixes a few crashes
+    • Improves recovery of your recorded audio in the event of a crash during recording
+Version 2.1.58 (Sep 24, 2021)
+    • Fixes an error in loading conversations in a folder
+    • Minor changes to the layout of events in My Agenda
+Version 2.1.57 (Sep 13, 2021)
+    • Updated layout for the My Agenda screen
+Version 2.1.56 (Aug 31, 2021)
+    • Fixed a bug that prevented sharing a recording from the iOS Voice Memos app to Otter for transcription
+Version 2.1.55 (Aug 26, 2021)
+    • (For Otter Business only) Otter Assistant can now join video calls on Microsoft Teams, Google Meet, and Cisco WebEx!
+    • Groups list will now load much faster, especially if you have many groups.
+Version 2.1.54 (Aug 10, 2021)
+    • Make collaborating easier by syncing your calendar, and when you record Otter can help give your recording a title and easily choose whether to share with other event participants
+Version 2.1.53 (Jul 2, 2021)
+    • (For Otter Business subscribers only) Otter Assistant can now join events synced from your local calendar
+    • Fixes a minor bug in transcript editing
+Version 2.1.52 (Jun 21, 2021)
+    (For Otter Business subscribers only) My Agenda now loads faster on startup and refreshes automatically.
+Version 2.1.51 (Jun 7, 2021)
+    Otter Assistant for Zoom is now available to Otter Business subscribers:
+    • Auto-joins meetings to transcribe & share notes
+    • Works even if you run late or can’t make a meeting
+    • Schedule ahead and never forget to take notes again
+Version 2.1.49 (May 10, 2021)
+    • Conversations in groups are always in the same order when you open the Otter app on any supported platform.
+Version 2.1.48 (Apr 26, 2021)
+    • Faster loading of Groups with many conversations
+    • More reliable recordings for low-memory devices
+Version 2.1.47 (Apr 5, 2021)
+    • Faster loading of folders with many conversations
+Version 2.1.46 (Mar 15, 2021)
+    • Improved accuracy and capitalization
+Version 2.1.45 (Mar 8, 2021)
+    • Control Otter with Siri Shortcuts and Back Tap! You can create Shortcuts to start and stop recording, or add highlights and comments when recording or viewing a live conversation.
+
+Version 2.1.44 (Mar 1, 2021)
+    • Long press on a conversation in your search results to enter selection mode and perform actions in bulk, such as sharing, moving to a folder, exporting and deleting
+Version 2.1.43 (Feb 24, 2021)
+    • Select or deselect all conversations on a page by tapping the double-checkmark icon, to perform bulk actions like share, export, move to folder, or delete.
+Version 2.1.42 (Feb 16, 2021)
+    • Long press on a conversation in any list to see a preview and a menu of options like share, export, or move to folder (iOS 13 or higher)
+    • Transcribe and caption Google Meet meetings in real time, and save audio transcripts with the Otter.ai Chrome Extension
+Version 2.1.41 (Feb 3, 2021)
+    Transcribe and caption Google Meet in real time, and save audio transcripts with the Otter.ai Chrome Extension.
+Version 2.1.40 (Jan 12, 2021)
+    • Long press on a conversation in a list to quickly preview it and optionally perform an action (like share or delete) without having to navigate away from the list (iOS 13+ only)
+Version 2.1.39 (Dec 28, 2020)
+    • Tap on a speaker's talk time to toggle between percentage of the discussion vs time spent talking (Pro and Business plans only)
+    • Tap on an unnamed speaker in the speakers list to search for what they said (and give them a name so Otter will recognize their voice next time!)
+Version 2.1.38 (Dec 16, 2020)
+    Percentage Talk Time for each speaker in a conversation, for gaining insights on:
+    1. Engagement: track levels of contribution to a meeting
+    2. Inclusion: ensure equal opportunity to speak
+    3. Conversation Intelligence: are you balancing speaking and listening?
+    (Pro and Business plans only)
+Version 2.1.37 (Dec 14, 2020)
+    Percentage Talk Time for each speaker in a conversation, for gaining insights on:
+    1. Engagement: track levels of contribution to a meeting
+    2. Inclusion: ensure equal opportunity to speak
+    3. Conversation Intelligence: are you balancing speaking and listening?
+    (Pro and Business plans only)
+Version 2.1.36 (Nov 23, 2020)
+    • Adds a highlight button to the conversation detail screen. When playing back audio, tap it to highlight the sentence currently being spoken.
+    • When you tap on a notification or home screen card about a new comment in a conversation, it will bring you to the comment itself
+Version 2.1.35 (Nov 18, 2020)
+    • Keyboard will now automatically dismiss when you perform a search
+    • (Otter Pro) If you've enabled "Remove Otter branding in export" the generated file name will not have "otter" added to it
+Version 2.1.34 (Nov 10, 2020)
+    • Tapping on notifications about new comments or highlights will now open the conversation and scroll to that annotation
+Version 2.1.33 (Nov 2, 2020)
+    • Advanced Search: add filters to your search queries to specify Speakers, Groups, Folders, or Date (Pro and Business plans only)
+Version 2.1.32 (Oct 27, 2020)
+    • Fixes a crash that occurred occasionally during recording
+Version 2.1.31 (Oct 23, 2020)
+    • Otter Premium is now called Otter Pro, and Otter for Teams is now called Otter for Business. You’ll still get all the same great features!
+    • Fixes a crash that occurred rarely during recording
+Version 2.1.30 (Oct 12, 2020)
+    • iOS 14: Otter has a newly redesigned widget that can go on your home screen
+    ◦ Start a new recording with one tap
+    ◦ See recording status without opening the app
+    ◦ See upcoming events from connected calendars
+Version 2.1.29 (Sep 22, 2020)
+    Auto-scroll improvements
+    • Tap the “resume auto-scroll” arrow button to jump to the currently spoken words during playback or live transcription
+    • Fixes a bug where the full-screen live transcript may stop auto-scrolling after rotating your iPad
+Version 2.1.28 (Sep 14, 2020)
+    • Imports .mp4, .aac, .flac, .m4v, .wma, and .wmv video file formats
+    • Fixes minor issues with tapping on words in a conversation and creating shareable links
+Version 2.1.27 (Aug 17, 2020)
+    • Fixes the ability to import more than one file at a time (Premium-only)
+    • Fixes a couple bugs that would occasionally make it difficult to tag speakers in a conversation
+Version 2.1.26 (Aug 10, 2020)
+    • Rename your speakers by tapping the three-dot button next to their name
+Version 2.1.25 (Aug 3, 2020)
+    To everyone who’s been using Otter for a long time now, thank you! We’ve included a couple features to make your lives easier:
+    • If you have a long groups list, Otter will hide the groups that don’t have any recent activity. You can always access the full list by tapping “Show more.”
+    • Conversations that you recorded before this year will include a year in their date, for better clarity when scrolling through a list of conversations or search results.
+Version 2.1.24 (Jul 20, 2020)
+    • Check out the new and improved Help Center (in Settings > FAQ) to browse help articles and search for answers to your questions about Otter.
+
+Version 2.1.23 (Jul 13, 2020)
+    • Fixes an bug that occasionally blocked scrolling to your search results
+Version 2.1.22 (Jun 22, 2020)
+    • New 1.75x playback speed (for Premium & Teams plans) 
+Version 2.1.21 (Jun 16, 2020)
+    • Export the text of a live conversation, without having to wait until the end of a long meeting. Tap the export icon at the upper right corner.
+    • Streaming link to Otter Live Notes for Zoom will now open the Otter app so you can view and highlight the live transcription more easily.
+Version 2.1.20 (Jun 8, 2020)
+    • Enlarge text for live conversations you record or ones shared with you. Tap the double arrow icon at the upper right corner.
+Version 2.1.19 (Jun 1, 2020)
+    • Record, transcribe, and take live notes on podcasts or videos playing in iOS Podcasts, Pandora, Spotify, SoundCloud, YouTube, and other apps.
+    • Otter will no longer pause recordings automatically when some apps play audio; but for best quality, minimizing all other sounds is recommended.
+Version 2.1.18 (May 27, 2020)
+    • Fixes the Manage Subscription option in Settings if you’ve subscribed to Premium through the App Store
+    • Fixes a bug with loading some public group URLs
+Version 2.1.17 (May 19, 2020)
+    • Fixes a few crashes that could happen when uploading a conversation or connecting a calendar
+Version 2.1.16 (May 12, 2020)
+    • Otter Live Notes is an add-on for Zoom meeting hosts to enable live transcription for all participants and live note-taking for collaborators. Available with the Otter for Teams plan.
+Version 2.1.15 (Apr 27, 2020)
+    • In Settings, you can now permanently delete your account and all associated data.
+Version 2.1.14 (Apr 21, 2020)
+    • Live Video Meeting Notes, a new feature in the Otter for Teams plan, enables Zoom meeting hosts to provide live transcription and collaborative note-taking to all participants, making remote work & learning more accessible and productive.
+
+    • Basic Plan still offers free recording and Zoom-syncing up to 600 minutes per month, but now limits each transcription to 40 minutes. Importing is now exclusive to Otter Premium and Teams plans, and we offer Basic Plan users 3 trial imports.
+
+    • Upgrade to Otter Premium to transcribe any number of imports, Otter recordings, and synced Zoom recordings, up to 4 hours per transcription and 6000 minutes per month.
+Version 2.1.13 (Apr 14, 2020)
+    • Font size based on adjustable Text Size in iOS Settings (Dynamic Type)
+    • Accessibility improvements
+    • Fixed a rare crash that happened when viewing conversations
+Version 2.1.12 (Apr 13, 2020)
+    • Font size based on adjustable Text Size in iOS Settings (Dynamic Type)
+    • Accessibility improvements
+    • Fixed a rare crash that happened when viewing conversations
+Version 2.1.11 (Mar 31, 2020)
+    • You can now add a personalized message when sharing a conversation by invite.
+    • Fixes a bug that prevented live transcripts from automatically scrolling.
+Version 2.1.10 (Mar 24, 2020)
+    • You can now see the upload progress (and cancel the upload if it’s taking too long) when sharing audio and video files from other apps into Otter.
+Version 2.1.9 (Mar 23, 2020)
+    • You can now see the upload progress (and cancel the upload if it’s taking too long) when sharing audio and video files from other apps into Otter.
+Version 2.1.8 (Mar 16, 2020)
+    • Fixes an issue that could result in slow uploads, in particular with an unstable data connection
+Version 2.1.7 (Mar 9, 2020)
+    • Fixes an error that could happen when signing in with Apple on more than one device
+Version 2.1.6 (Mar 2, 2020)
+    • Sign in with Apple!
+    • Fix for a crash when playing audio on the Highlights Summary screen
+    • Improved layout and performance for iOS 11 and below
+Version 2.1.5 (Feb 18, 2020)
+    Custom Vocabulary: boost the accuracy of proper names, jargon, acronyms, unique name spellings, etc.
+    • Enter up to 5 words with the Basic plan
+    • 200 words and 200 names with the Premium and Teams plans
+Version 2.1.4 (Feb 10, 2020)
+    • Live Share: if you have connected Otter to a calendar in Settings, there is a new option to remind you to share your live conversation to all calendar invitees in one tap
+    • Live collaboration: highlight, comment, and add photos to a conversation shared with you in real time
+    • Fixed an issue where the Link Sharing option is covered up when sharing a conversation
+Version 2.1.3 (Feb 4, 2020)
+    • Fixes a crash occurring on devices running iOS 12 and below when toggling Otter’s Dark Mode setting
+Version 2.1.2 (Jan 27, 2020)
+    • Addresses a crash that occurs on some jailbroken devices
+Version 2.1.1 (Jan 21, 2020)
+    • You're not seeing double. We fixed a bug that may sometimes show the same photo twice in a conversation.
+Version 2.1.0 (Jan 13, 2020)
+    • NEW FEATURE: You can add Comments to annotate your conversations with notes and URL links, and message other collaborators by typing @ followed by their names. Learn more: https://blog.otter.ai/comments
+    • Smoother experience when selecting text in the live conversation during recording
+    • [Otter for Teams only] you can now add custom vocabulary for both personal and team levels
+    • [Otter for Teams only] fixed an issue with phone number entry during two-factor authentication setup
+Version 2.0.28 (Dec 19, 2019)
+    • Updated color scheme for improved readability and WCAG-compliance
+Version 2.0.27 (Dec 9, 2019)
+    • Minor UI improvements
+Version 2.0.26 (Nov 25, 2019)
+    • Fixes the export flow not showing up on some iPads
+    • Better performance on older devices
+Version 2.0.25 (Nov 18, 2019)
+    • Rate transcript quality (at the bottom of each conversation) to give us more targeted feedback
+    • Long swipe to clear an activity card in Home
+    • Faster background upload of any recordings made when your device was offline (iOS 13 only)
+    • Tap on a notification to start recording again if the app stopped unexpectedly in the middle of a recording
+Version 2.0.24 (Oct 22, 2019)
+    • Fixes a couple of issues that can cause certain devices to crash
+Version 2.0.23 (Oct 16, 2019)
+    • (Premium feature) Export to Microsoft Word DOCX, PDF, and SRT formats
+    • (Premium feature) Option to show highlights in DOCX and PDF exports
+    • (Premium feature) Option to auto-crop SRT captions with configurable number of lines and characters per line
+    • See photos added collaboratively in the live transcript
+    • Dark mode setting to allow overriding system default for iOS 13
+    • VoiceOver support improvements
+Version 2.0.22 (Sep 26, 2019)
+    New features for iOS 13!
+    • Dark Mode: Otter will run in iOS 13's Dark Mode if you enable it in the iOS Settings app. For iOS 12 and below, you can still turn on Otter’s own Dark Mode under Otter’s Advanced Settings.
+    • Interactive Shortcuts: You can create a Siri Shortcut that starts an Otter recording, asks you what title to give it, which folder to save in, and which group to share to–all by voice!
+Version 2.0.21 (Sep 9, 2019)
+    - More reliable uploading of audio in poor network conditions
+    - More robust and speedy loading of groups
+Version 2.0.20 (Aug 26, 2019)
+    • (Premium & Teams feature) You can now enter twice as many custom words, phrases, and unique name spellings in Settings > Manage vocabulary
+
+    Also check out Otter.ai web version.
+
+Version 2.0.19 (Aug 6, 2019)
+    • Highlight Summary: tap on # Highlights at the top of a conversation to view, playback, and export just the highlighted text. Use this feature for meeting summary, interview quotes, and research findings. 
+Version 2.0.18 (Jul 22, 2019)
+    • (Premium & Teams feature) Sync video/audio files from Dropbox in Settings > Connect cloud storage
+    • iPad multitasking support
+Version 2.0.17 (Jul 15, 2019)
+    • Fixes an issue with export on iPad
+Version 2.0.16 (Jul 2, 2019)
+    • Improves the calendar connection card on the home screen; lets you pick from Google, Microsoft and local calendars (also accessible in Settings)
+    • Fixes stretched cover photos for public groups on iPad
+Version 2.0.15 (Jun 24, 2019)
+    • New gestures for interacting with a conversation:
+    ◦ Single tap to start playing at a word
+    ◦ Double tap or long press to select a sentence
+    • Tutorial on the basic playback features, accessible from Settings and automatically shown to new users
+    • Fix for export issue on iPad
+Version 2.0.14 (Jun 17, 2019)
+    • New users will now be offered a tutorial on recording conversations with Otter. The tutorial can also be accessed by anyone in Settings.
+Version 2.0.13 (Jun 3, 2019)
+    • When recording, you will now see a pop-up alert if there is no audio input for more than 30 seconds
+    • A misleading “Uploading from your other device” status message will no longer be shown when conversations were actually done uploading
+Version 2.0.12 (May 20, 2019)
+    • Limit the visible range of a conversation shared via a public link (under “Share outside Otter, check the “Set playback range” checkbox and adjust the start and end points)
+    • Folders are now sorted alphabetically
+Version 2.0.11 (May 13, 2019)
+    • Fixes an uncommon crash while recording or editing conversations
+Version 2.0.10 (May 8, 2019)
+    • Share a link to a Snippet of your conversation by selecting some text and choosing "Share"
+    • Easily move items in My Conversations or Folders to another Folder of your choice by selecting them and choosing "Move to Folder" from the three-dot menu
+Version 2.0.9 (Apr 29, 2019)
+    • Adds a "Start playback on word tap" setting to the playback options menu (in the lower left when viewing a conversation)
+Version 2.0.8 (Apr 22, 2019)
+    • Allows multi-selection of phrases in your Custom Vocabulary for easier management (Otter Premium only)
+Version 2.0.7 (Apr 15, 2019)
+    • Custom vocabulary is now available to Otter Premium! Go to "Manage vocabulary" in Settings and enter words, phrases, and names of people you wish to teach Otter to recognize better.
+Version 2.0.6 (Apr 8, 2019)
+    • Referral program is here! Check out the Home screen to see a card that will show you the rewards you can get by referring friends to sign up for Otter!
+    • Improves the speaker identification experience by identifying parts of your conversations from the same unknown speaker as Speaker 1, Speaker 2 etc.
+    • Pull down to refresh a folder
+Version 2.0.5 (Mar 18, 2019)
+    • You can now multi-select conversations in a folder to bulk delete them, or remove them from the folder back to My Conversations.
+    • (Premium Plan) You can also multi-select conversations in a folder to bulk export the audio/text.
+Version 2.0.4 (Mar 12, 2019)
+    • Deleting conversations will now move them to your Trash.
+    • Conversations in your trash can be restored, but conversations that have been in the Trash for 30 days will automatically be deleted.
+    • Your groups are now divided into read and unread sections for easier navigation
+    • Minor bug fixes to dark mode
+Version 2.0.3 (Feb 24, 2019)
+    • Fixes an infrequent crash that could happen during recording
+Version 2.0.2 (Feb 21, 2019)
+    • You and your collaborators can highlight sentences with one tap while recording
+Version 2.0.1 (Feb 12, 2019)
+    • Fixes a bug affecting login with Microsoft
+    • Fixes a crash for iPad users
+Version 2.0.0 (Feb 11, 2019)
+    • Instead of tabs, switch between conversations, groups, settings and more using a navigation drawer
+    • Organize the conversations you've recorded by putting them into folders
+    • Highlight important parts of transcripts so everyone can see
+    • Log in using Microsoft
+Version 1.4.33 (Jan 28, 2019)
+    • Fixes a crash that occurred when viewing a small number of conversations
+Version 1.4.32 (Jan 22, 2019)
+    • Fixes a bug where the Face ID security feature could get stuck
+    • Fixes a crash that occasionally happened when editing transcript text
+Version 1.4.31 (Jan 2, 2019)
+    • (Premium users only) Option to exclude Otter branding in exported text (under Settings > Advanced Settings)
+Version 1.4.30 (Dec 17, 2018)
+    • Export as SRT (subtitle format)
+Version 1.4.29 (Dec 10, 2018)
+    • You can disable pop-up reminders to share your conversations with meeting participants (in Settings > Connect Calendars)
+    • When exporting multiple conversations (Otter Premium only), the order of the exported conversations will be the same as your selections.
+Version 1.4.28 (Nov 30, 2018)
+    • Adds a Dark Mode option to Settings > Advanced Settings
+Version 1.4.27 (Nov 16, 2018)
+    • Fixes a rare failure in uploading
+Version 1.4.26 (Nov 12, 2018)
+    • Opening a link to an Otter conversation or public group will now open in the Otter app
+Version 1.4.25 (Nov 5, 2018)
+    • Ask for Push Notification permission less frequently
+Version 1.4.24 (Oct 31, 2018)
+    • Import multiple files at once!
+    • Fix for an occasional crash issue during recording
+Version 1.4.23 (Oct 29, 2018)
+    • Import multiple files at once!
+Version 1.4.22 (Oct 22, 2018)
+    • Conversations titled “Note” in the list view now also show top keywords to tell them apart
+    • Improved scrolling of transcript in the live conversation view
+    • Correct orientation when displaying landscape photos inline with the transcript
+Version 1.4.21 (Oct 15, 2018)
+    • New Siri Shortcut to start recording a recurring meeting and share the real-time transcript simultaneously in one command (iOS 12 only)
+    • Option to export transcript as a monologue (without line breaks, speakers, or timestamps)
+    • Faster upload of audio recorded offline
+    • Localized date/time
+Version 1.4.20 (Oct 8, 2018)
+    • Prevents the app from getting killed while recording with Otter in the background or with the screen off
+    • Reduces battery drain during recording
+Version 1.4.19 (Oct 1, 2018)
+    • Jump to things that were said by a specific person by tapping their name in the conversation info header
+    • Fixes several crashes and bugs
+Version 1.4.18 (Sep 24, 2018)
+    • iOS 12 support
+    • Siri Shortcuts to start/stop recording with your voice! Add your custom phrases in iOS Settings > Otter > Siri & Search > Shortcuts.
+    • Toggle between showing all conversations or just the ones you've recorded/imported in the Conversations tab
+    • Tap the Conversations tab icon repeatedly to scroll to the next unread conversation
+    • Faster load time when opening a conversation
+    • Fix a bug related to the one-tap recording control in Otter's iOS Widget
+Version 1.4.17 (Sep 10, 2018)
+    - Live cast the transcription and photos of your meeting/conversation in real time, by sharing at the start of recording
+    - Visualize a conversation or group of conversations as a Word Cloud (and search by tapping on the words in the cloud)
+    - Undo your edits to the transcript (in case you made a mistake)
+Version 1.4.16 (Aug 31, 2018)
+    - Live cast the transcription and photos of your meeting/conversation in real time, by sharing at the start of recording
+    - Visualize a conversation or group of conversations as a Word Cloud (and search by tapping on the words in the cloud)
+    - Undo your edits to the transcript (in case you made a mistake)
+Version 1.4.15 (Aug 13, 2018)
+    • Play audio while editing transcript
+    • Visualize audio volume while recording, so you can tell if the microphone is too far from the speaking parties
+Version 1.4.14 (Aug 6, 2018)
+    • New capabilities to make editing much easier!
+    • Edit the entire conversation at once (instead of editing and saving one paragraph at a time)
+    • Editable paragraph breaks! Hit backspace to merge with a previous paragraph; hit return to split into a new one.
+    • Import video (mp4, avi, mov, wmv, mpg) from iOS Files
+    • More ways to add conversations to a group (hit the blue '+' icon in a group; select "Add to Group" in the 3-dot menu of a conversation)
+    • [Otter Premium] Skip silence between paragraphs option in the playback speed selector
+Version 1.4.13 (Jul 23, 2018)
+    • Print as PDF (via AirPrint)
+    • Connect Otter to your Google calendar or contacts separately in "Connect calendars" or "Import contacts" under Settings
+    • Export options are also available in the Share screen
+Version 1.4.12 (Jul 16, 2018)
+    • PDF export
+    • iOS widget with one-tap recording controls
+    • Recent Searches are remembered when you log in again
+    • Dashboard is now called Home
+Version 1.4.11 (Jul 9, 2018)
+    • Remember your last selected speed in subsequent conversation playbacks
+    • (Premium feature) 0.75x, 1.25x, 1.5x, 3x playback speeds
+    • Bulk unshare your conversations from groups
+    • Export options also available below the 3D Touch / Peek view
+    • Simpler default message when sharing public view-only links
+    • Faster onboarding and voiceprint creation
+Version 1.4.10 (Jul 3, 2018)
+    • Bulk export your conversations' audio (Premium only)
+    • Bulk unshare your conversations from a group
+    • Record via AirPods
+    • Dynamic Type support to adjust the conversation text to your preferred font size (iOS 11 or higher)
+    • More intuitive experience for sharing a conversation
+    • Fixes occasional logout bug and Google sign-in crash
+Version 1.4.9 (Jul 2, 2018)
+    • Bulk export your conversations' audio (Premium only)
+    • Bulk unshare your conversations from a group
+    • Record via AirPods
+    • Dynamic Type support to adjust the conversation text to your preferred font size (iOS 11 or higher)
+    • More intuitive experience for sharing a conversation
+    • Fixes occasional logout bug
+Version 1.4.8 (Jun 25, 2018)
+    • Fixes some users' inability to delete or share conversations
+Version 1.4.7 (Jun 23, 2018)
+    • Export photos (to iOS Photos and other apps)
+    • Need a quicker way to share, export, or delete multiple conversations at once? Tap on the gray icon on the left to multi-select for bulk actions (not applicable to conversations shared with you).
+    • Share notes with meeting participants easily with their emails pre-filled for you
+    • Enhanced UI in Conversations, Groups, and Recording screens
+Version 1.4.6 (Jun 15, 2018)
+    • Rotation support for iPad
+    • Swipe to share conversations directly from the list
+    • DWX18 public group for attendees of the Digital Workplace Experience conference to access recordings and transcripts
+Version 1.4.5 (Jun 11, 2018)
+    • Calendar sync enhancements: connect individual iOS calendars, do not sync all-day events
+    • Inline Photos enhancement: add photos to conversation bubbles, swipe up to dismiss full-screen mode
+    • Export audio
+    • Copy public link to Clipboard
+    • Accessibility improvements
+Version 1.4.4 (Jun 4, 2018)
+    • Import audio (+) from local storage and iCloud
+    • Swipe between conversations without going back to the list
+Version 1.4.3 (May 26, 2018)
+    New features & enhancements:
+    • Export text with new options to select some (or all) segments, share as plain text or file attachment, merge same-speaker segments, and add your own comments
+    • Limit which calendar events you wish to be reminded to record by choosing a list of keywords in Settings > Notifications
+    • Peek and pop with 3D Touch to view and listen to conversations in a list
+    • Face ID / Touch ID lock option for extra privacy protection
+
+    Bug fixes & improvements:
+    • More reliable import of a large number of contacts
+    • More accurate indication of audio upload status
+    • Improved notifications and recovery from recording interruptions by phone calls
+Version 1.4.2 (May 21, 2018)
+    • Sync events from iOS Calendar to receive reminder notifications to record, and title the conversations automatically
+    • Exported text can now optionally include speaker names and timestamps
+    • Adjustable playback speed is now directly on the audio control itself
+    • Save inline photos to iOS Photos
+    • View inline photos in landscape mode
+    • Swipe to delete or leave a group
+    • Stop recording automatically after 3 hours to avoid wasted minutes
+Version 1.4.1 (May 12, 2018)
+    • Sync photos taken from Camera app to Otter as inline photos
+    • Zoom in/out inline photos
+    • Photo thumbnails as shortcuts to jump into conversations
+    • Swipe to delete or unshare your group conversations
+    • Pull down to refresh conversation detail
+Version 1.4.0 (May 8, 2018)
+    • A new, premium plan that includes 6,000 minutes of transcription time per month – 10 times more than the free plan.
+    • Inline Photos: You can snap photos of a whiteboard, a presenter or other relevant content when recording, and Otter will add them inline as part of your notes.
+Version 1.3.9 (Apr 27, 2018)
+    - Record audio over bluetooth
+    - Bug fixes and improvements
+Version 1.3.8 (Apr 23, 2018)
+    Just bug fixes this week!
+Version 1.3.7 (Apr 18, 2018)
+    • Notification when someone shared a conversation with you
+    • Notification settings - you can now control which notifications you receive in Settings
+
+    If you enjoy using Otter, please rate the app and write a nice review! Help us spread the word by sharing the app. We'd really appreciate your support and feedback!
+Version 1.3.6 (Apr 8, 2018)
+    Your most requested features and enhancements:
+    • Export audio in mp3 format via the otter.ai website
+    • Scrolling the text would no longer pause the playback
+    • Auto-scroll resumes if current word is in view
+    • Rematch speakers after manually tagging/retagging bubbles
+    • Edit your profile name
+
+    If you enjoy using Otter, please rate the app and write a nice review! Help us spread the word by sharing the app. We'd really appreciate your support and feedback!
+Version 1.3.5 (Apr 1, 2018)
+    You asked. We listened. Otter improved:
+    • Share audio to Otter from other apps (e.g. iOS Files app)
+    • Tap on a word to playback from there
+    • Search results jump to actual word positions
+    • Keep screen on during playback
+    • Streamlined experience for tagging speakers
+    • Configurable local audio storage limit
+    • FAQs in Settings > Get answers
+Version 1.3.4 (Mar 26, 2018)
+    Export text to clipboard or other apps on your device
+Version 1.3.3 (Mar 16, 2018)
+    Stability improvements and bug fixes
+Version 1.3.2 (Mar 10, 2018)
+    Push notification reminder to record an upcoming Google Calendar event
+Version 0.4 (Mar 7, 2018)
+    Fix an issue with missing conversations in the Conversations tab.
+Version 0.3 (Mar 3, 2018)
+    Bug fixes and improvements
+Version 0.2 (Feb 24, 2018)
+    Faster transcription
+Version 0.1 (Feb 17, 2018)
+    Keywords (extracted from the transcript) to give you a quick summary of your conversation
+
+Users may also like
+Select objects to compare
+Dictation - Speech to text
+iTourTranslator
+iTranscribe - Audio to Text
+Speech to Text+
+Notta-Transcribe Voice to Text
+Noted - Record, Transcribe
+Snipd | AI Podcast Player
+Speech to Text Transcribe
+Drafts
+Motion: Tasks & AI Scheduling
+IQ Classifications
+Genre: Business
+Subgenre: Meeting
+Meeting
+Apps providing secure business meetings with video or audio, screen sharing, and messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+33 times
+on App Store category pages
+Versions
+
+    3.43.240212
+    Current release
+    Feb 13, 2024
+    3.42.240129
+    Feb 2, 2024
+    3.41.230115
+    Jan 17, 2024
+    3.40.231225
+    Dec 27, 2023
+    3.39.231204
+    Dec 12, 2023
+    3.38.231120
+    Nov 21, 2023
+    3.37.231106
+    Nov 8, 2023
+    3.36.231023
+    Oct 23, 2023
+    3.35.231009
+    Oct 10, 2023
+    3.34.230918
+    Sep 18, 2023
+    3.32.230821
+    Aug 22, 2023
+    3.31.0
+    Aug 8, 2023
+    3.30.0
+    Jul 31, 2023
+    3.29.0
+    Jul 11, 2023
+    3.28.1
+    Jun 29, 2023
+    3.28.0
+    Jun 26, 2023
+    3.27.0
+    May 30, 2023
+    3.26.0
+    May 15, 2023
+    3.25.0
+    May 2, 2023
+    3.24.0
+    Apr 18, 2023
+    3.23.0
+    Apr 3, 2023
+    3.22.0
+    Mar 20, 2023
+    3.21.0
+    Mar 6, 2023
+    3.20.0
+    Feb 21, 2023
+    3.19.0
+    Feb 6, 2023
+    3.18.0
+    Jan 24, 2023
+    3.17.0
+    Jan 11, 2023
+    3.16.0
+    Dec 19, 2022
+    3.16.0
+    Dec 19, 2022
+    3.15.0
+    Dec 5, 2022
+    3.14.0
+    Nov 14, 2022
+    3.13.0
+    Oct 31, 2022
+    3.12.0
+    Oct 17, 2022
+    3.11.0
+    Oct 4, 2022
+    3.10.0
+    Sep 26, 2022
+    3.9.0
+    Sep 7, 2022
+    3.8.0
+    Aug 23, 2022
+    3.7.0
+    Aug 9, 2022
+    3.6.0
+    Jul 25, 2022
+    3.4.0
+    Jun 23, 2022
+    3.3.0
+    Jun 6, 2022
+    3.2.0
+    May 23, 2022
+    3.1.0
+    May 9, 2022
+    3.0.1
+    May 2, 2022
+    2.1.65
+    Mar 7, 2022
+    2.1.64
+    Feb 28, 2022
+    2.1.63
+    Jan 25, 2022
+    2.1.62
+    Jan 3, 2022
+    2.1.61
+    Nov 29, 2021
+    2.1.60
+    Oct 25, 2021
+    2.1.59
+    Oct 12, 2021
+    2.1.58
+    Sep 24, 2021
+    2.1.57
+    Sep 13, 2021
+    2.1.56
+    Aug 31, 2021
+    2.1.55
+    Aug 26, 2021
+    2.1.54
+    Aug 10, 2021
+    2.1.53
+    Jul 2, 2021
+    2.1.52
+    Jun 21, 2021
+    2.1.51
+    Jun 7, 2021
+    2.1.49
+    May 10, 2021
+    2.1.48
+    Apr 26, 2021
+    2.1.47
+    Apr 5, 2021
+    2.1.46
+    Mar 15, 2021
+    2.1.45
+    Mar 8, 2021
+    2.1.44
+    Mar 1, 2021
+    2.1.43
+    Feb 24, 2021
+    2.1.42
+    Feb 16, 2021
+    2.1.41
+    Feb 3, 2021
+    2.1.40
+    Jan 12, 2021
+    2.1.39
+    Dec 28, 2020
+    2.1.38
+    Dec 16, 2020
+    2.1.37
+    Dec 14, 2020
+    2.1.36
+    Nov 23, 2020
+    2.1.35
+    Nov 18, 2020
+    2.1.34
+    Nov 10, 2020
+    2.1.33
+    Nov 2, 2020
+    2.1.32
+    Oct 27, 2020
+    2.1.31
+    Oct 23, 2020
+    2.1.30
+    Oct 12, 2020
+    2.1.29
+    Sep 22, 2020
+    2.1.28
+    Sep 14, 2020
+    2.1.27
+    Aug 17, 2020
+    2.1.26
+    Aug 10, 2020
+    2.1.25
+    Aug 3, 2020
+    2.1.24
+    Jul 20, 2020
+    2.1.23
+    Jul 13, 2020
+    2.1.22
+    Jun 22, 2020
+    2.1.21
+    Jun 16, 2020
+    2.1.20
+    Jun 8, 2020
+    2.1.19
+    Jun 1, 2020
+    2.1.18
+    May 27, 2020
+    2.1.17
+    May 19, 2020
+    2.1.16
+    May 12, 2020
+    2.1.15
+    Apr 27, 2020
+    2.1.14
+    Apr 21, 2020
+    2.1.13
+    Apr 14, 2020
+    2.1.12
+    Apr 13, 2020
+    2.1.11
+    Mar 31, 2020
+    2.1.10
+    Mar 24, 2020
+    2.1.9
+    Mar 23, 2020
+    2.1.8
+    Mar 16, 2020
+    2.1.7
+    Mar 9, 2020
+    2.1.6
+    Mar 2, 2020
+    2.1.5
+    Feb 18, 2020
+    2.1.4
+    Feb 10, 2020
+    2.1.3
+    Feb 4, 2020
+    2.1.2
+    Jan 27, 2020
+    2.1.1
+    Jan 21, 2020
+    2.1.0
+    Jan 13, 2020
+    2.0.28
+    Dec 19, 2019
+    2.0.27
+    Dec 9, 2019
+    2.0.26
+    Nov 25, 2019
+    2.0.25
+    Nov 18, 2019
+    2.0.24
+    Oct 22, 2019
+    2.0.23
+    Oct 16, 2019
+    2.0.22
+    Sep 26, 2019
+    2.0.21
+    Sep 9, 2019
+    2.0.20
+    Aug 26, 2019
+    2.0.19
+    Aug 6, 2019
+    2.0.18
+    Jul 22, 2019
+    2.0.17
+    Jul 15, 2019
+    2.0.16
+    Jul 2, 2019
+    2.0.15
+    Jun 24, 2019
+    2.0.14
+    Jun 17, 2019
+    2.0.13
+    Jun 3, 2019
+    2.0.12
+    May 20, 2019
+    2.0.11
+    May 13, 2019
+    2.0.10
+    May 8, 2019
+    2.0.9
+    Apr 29, 2019
+    2.0.8
+    Apr 22, 2019
+    2.0.7
+    Apr 15, 2019
+    2.0.6
+    Apr 8, 2019
+    2.0.5
+    Mar 18, 2019
+    2.0.4
+    Mar 12, 2019
+    2.0.3
+    Feb 24, 2019
+    2.0.2
+    Feb 21, 2019
+    2.0.1
+    Feb 12, 2019
+    2.0.0
+    Feb 11, 2019
+    1.4.33
+    Jan 28, 2019
+    1.4.32
+    Jan 22, 2019
+    1.4.31
+    Jan 2, 2019
+    1.4.30
+    Dec 17, 2018
+    1.4.29
+    Dec 10, 2018
+    1.4.28
+    Nov 30, 2018
+    1.4.27
+    Nov 16, 2018
+    1.4.26
+    Nov 12, 2018
+    1.4.25
+    Nov 5, 2018
+    1.4.24
+    Oct 31, 2018
+    1.4.23
+    Oct 29, 2018
+    1.4.22
+    Oct 22, 2018
+    1.4.21
+    Oct 15, 2018
+    1.4.20
+    Oct 8, 2018
+    1.4.19
+    Oct 1, 2018
+    1.4.18
+    Sep 24, 2018
+    1.4.17
+    Sep 10, 2018
+    1.4.16
+    Aug 31, 2018
+    1.4.15
+    Aug 13, 2018
+    1.4.14
+    Aug 6, 2018
+    1.4.13
+    Jul 23, 2018
+    1.4.12
+    Jul 16, 2018
+    1.4.11
+    Jul 9, 2018
+    1.4.10
+    Jul 3, 2018
+    1.4.9
+    Jul 2, 2018
+    1.4.8
+    Jun 25, 2018
+    1.4.7
+    Jun 23, 2018
+    1.4.6
+    Jun 15, 2018
+    1.4.5
+    Jun 11, 2018
+    1.4.4
+    Jun 4, 2018
+    1.4.3
+    May 26, 2018
+    1.4.2
+    May 21, 2018
+    1.4.1
+    May 12, 2018
+    1.4.0
+    May 8, 2018
+    1.3.9
+    Apr 27, 2018
+    1.3.8
+    Apr 23, 2018
+    1.3.7
+    Apr 18, 2018
+    1.3.6
+    Apr 8, 2018
+    1.3.5
+    Apr 1, 2018
+    1.3.4
+    Mar 26, 2018
+    1.3.3
+    Mar 16, 2018
+    1.3.2
+    Mar 10, 2018
+    0.4
+    Mar 7, 2018
+    0.3
+    Mar 3, 2018
+    0.2
+    Feb 24, 2018
+    0.1
+    Feb 17, 2018
+
+See More
+Top In-App Purchases
+
+    Otter Pro (monthly)
+    $12.99
+    Otter Pro (Yearly)
+    $99.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Feb 17, 2018
+
+Worldwide Release Date
+    Feb 23, 2018
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    3.43.240212
+
+Size
+    102.85 mb
+
+Only 32 Bit
+    No
+
+Languages
+    英语
+
+Seller
+    Otter.ai, Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 13.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    com.aisense.otter
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1276437113
+Unified App ID: 1000600000797124
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Otter: Transcribe Voice Notes | data.ai

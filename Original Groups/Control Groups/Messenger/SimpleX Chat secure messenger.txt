@@ -1,0 +1,998 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+SimpleX Chat: secure messenger
+SimpleX ChatSocial Networking (Applications)Free
+Alerts
+
+SimpleX Chat
+SimpleX Chat: secure messenger
+SimpleX Chat: secure messenger
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+SimpleX Chat: secure messenger
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+SimpleX - the first messaging platform without user identifiers of any kind (not even random numbers) - 100% private by design!
+
+Security assessment by Trail of Bits: https://simplex.chat/blog/20221108-simplex-chat-v4.2-security-audit-new-website.html
+
+SimpleX Chat features:
+- end-to-end encrypted messages, with editing, replies and deletion.
+- disappearing messages with opt-out per contact/group.
+- message reactions.
+- delivery receipts, with opt-out per contact or group.
+- multiple chat profiles, with hidden profiles.
+- app access and self-destruct passcodes.
+- incognito mode - unique to SimpleX Chat.
+- sending end-to-end encrypted images and files.
+- voice messages up to 5 minutes – also end-to-end encrypted.
+- "live" messages – they update for all recipients as you type them, every few seconds - unique to SimpleX Chat.
+- single-use and long-term user "addresses".
+- secret chat groups - only group members know the group exists and who is the member.
+- end-to-end encrypted audio and video calls.
+- connection security code verification, for contacts and group members – to protect from man-in-the-middle attacks (e.g. invitation link substitution).
+- end-to-end encrypted push notifications (they contain only encrypted meta-data, not the actual content).
+- encrypted portable chat database - you can transfer your chat contacts and history to another device.
+- all local files and media are encrypted by default.
+- animated images and "stickers" (e.g., from GIF and PNG files and from 3rd party keyboards).
+
+SimpleX Chat advantages:
+- privacy of your identity, profile, contacts and metadata: unlike any other existing messaging platform, SimpleX uses no phone numbers or any other identifiers assigned to the users - not even random numbers. This protects the privacy of who you are communicating with, hiding it from SimpleX platform servers and from any observers.
+- complete protection against spam and abuse: as you have no identifier on SimpleX platform, you cannot be contacted unless you share a one-time invitation link or an optional temporary user address.
+- full ownership, control and security of your data: SimpleX stores all user data on client devices, the messages are only held temporarily on SimpleX relay servers until they are received.
+- decentralized proxied peer-to-peer network: you can use SimpleX Chat via your own relay servers and still communicate with people using pre-configured or any other SimpleX relay servers.
+- fully open-source code.
+
+You can connect to anybody you know via link or scan QR code (in the video call or in person) and start sending messages instantly - no emails, phone numbers or passwords needed.
+
+Your profile and contacts are only stored in the app on your device - relay servers do not have access to this information.
+
+All messages are end-to-end encrypted using open-source double-ratchet protocol; the messages are delivered via relay servers using open-source SimpleX Messaging Protocol.
+
+Please send us any questions via the app (connect to the team via the app settings!), email chat@simplex.chat or submit issues on GitHub (https://github.com/simplex-chat/simplex-chat/issues)
+
+Ream more about SimpleX Chat at https://simplex.chat
+
+Get source code in our GitHub repo: https://github.com/simplex-chat/simplex-chat
+
+Follow us on Reddit (r/SimpleXChat/), Twitter (@SimpleXChat) and Mastodon (https://mastodon.social/@simplex) for the latest updates.
+Ratings
+Displayed Avg Ratings
+4.75
+Total Displayed Ratings
+289
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.5.5 (Feb 22, 2024)
+    New in v5.5.1-5:
+    - fixes and small improvements.
+
+    New in v5.5:
+    - private notes - with encrypted files and media.
+    - paste link to connect - search bar now accepts invitation links.
+    - optional recent history in groups.
+    - improved message delivery - with reduced battery usage.
+    - reveal secrets in messages by tapping them.
+    - all files in local app storage are encrypted by default.
+    - allow deleting the last visible user profile.
+    - do not share contact address in member profile.
+
+    Also, we added Turkish interface - thanks to the users and Weblate (https://github.com/simplex-chat/simplex-chat/tree/stable#help-translating-simplex-chat).
+
+    Read more: https://simplex.chat/blog/20240124-simplex-chat-infrastructure-costs-v5-5-simplex-ux-private-notes-group-history.html
+Version 5.5.4 (Feb 19, 2024)
+    New in v5.5.1-4:
+    - fixes and small improvements.
+
+    New in v5.5:
+    - private notes - with encrypted files and media.
+    - paste link to connect - search bar now accepts invitation links.
+    - optional recent history in groups.
+    - improved message delivery - with reduced battery usage.
+    - reveal secrets in messages by tapping them.
+    - all files in local app storage are encrypted by default.
+    - allow deleting the last visible user profile.
+    - do not share contact address in member profile.
+
+    Also, we added Turkish interface - thanks to the users and Weblate (https://github.com/simplex-chat/simplex-chat/tree/stable#help-translating-simplex-chat).
+
+    Read more: https://simplex.chat/blog/20240124-simplex-chat-infrastructure-costs-v5-5-simplex-ux-private-notes-group-history.html
+Version 5.5.3 (Feb 14, 2024)
+    New in v5.5.1-3:
+    - fixes!
+
+    New in v5.5:
+    - private notes - with encrypted files and media.
+    - paste link to connect - search bar now accepts invitation links.
+    - optional recent history in groups.
+    - improved message delivery - with reduced battery usage.
+    - reveal secrets in messages by tapping them.
+    - all files in local app storage are encrypted by default.
+    - allow deleting the last visible user profile.
+    - do not share contact address in member profile.
+
+    Also, we added Turkish interface - thanks to the users and Weblate (https://github.com/simplex-chat/simplex-chat/tree/stable#help-translating-simplex-chat).
+
+    Read more: https://simplex.chat/blog/20240124-simplex-chat-infrastructure-costs-v5-5-simplex-ux-private-notes-group-history.html
+Version 5.5.2 (Feb 4, 2024)
+    New in v5.5.1-2:
+    - fixes!
+
+    New in v5.5:
+    - private notes - with encrypted files and media.
+    - paste link to connect - search bar now accepts invitation links.
+    - optional recent history in groups.
+    - improved message delivery - with reduced battery usage.
+    - reveal secrets in messages by tapping them.
+    - all files in local app storage are encrypted by default.
+    - allow deleting the last visible user profile.
+    - do not share contact address in member profile.
+
+    Also, we added Turkish interface - thanks to the users and Weblate (https://github.com/simplex-chat/simplex-chat/tree/stable#help-translating-simplex-chat).
+
+    Read more: https://simplex.chat/blog/20240124-simplex-chat-infrastructure-costs-v5-5-simplex-ux-private-notes-group-history.html
+Version 5.5.1 (Jan 31, 2024)
+    New in v5.5.1:
+    - fixes!
+
+    New in v5.5:
+    - private notes - with encrypted files and media.
+    - paste link to connect - search bar now accepts invitation links.
+    - optional recent history in groups.
+    - improved message delivery - with reduced battery usage.
+    - reveal secrets in messages by tapping them.
+    - all files in local app storage are encrypted by default.
+    - allow deleting the last visible user profile.
+    - do not share contact address in member profile.
+
+    Also, we added Turkish interface - thanks to the users and Weblate (https://github.com/simplex-chat/simplex-chat/tree/stable#help-translating-simplex-chat).
+
+    Read more: https://simplex.chat/blog/20240124-simplex-chat-infrastructure-costs-v5-5-simplex-ux-private-notes-group-history.html
+Version 5.5 (Jan 23, 2024)
+    New in v5.5:
+    - private notes - with encrypted files and media.
+    - paste link to connect - search bar now accepts invitation links.
+    - optional recent history in groups.
+    - improved message delivery - with reduced battery usage.
+    - reveal secrets in messages by tapping them.
+    - all files in local app storage are encrypted by default.
+    - allow deleting the last visible user profile.
+    - do not share contact address in member profile.
+
+    Also, we added Turkish interface - thanks to the users and Weblate (https://github.com/simplex-chat/simplex-chat/tree/stable#help-translating-simplex-chat).
+
+    Read more: https://simplex.chat/blog/20240124-simplex-chat-infrastructure-costs-v5-5-simplex-ux-private-notes-group-history.html
+Version 5.4.2 (Dec 30, 2023)
+    New in v5.4.1-2:
+    - improved audio/video calls (especially on slow networks).
+    - improved push notifications.
+    - videos are transcoded to smaller size, and metadata is stripped.
+    - app stopped in Database settings shows warning before starting.
+    - fixed iPhone 7 and older not connecting to desktop.
+    - lower CPU usage.
+    - many fixes.
+
+    New in v5.4:
+    - Link mobile and desktop apps via secure quantum-resistant protocol.
+    - Better groups:
+    - Faster to join and more reliable.
+    - Create groups with incognito profile.
+    - Block group members to hide their messages.
+    - Prohibit files and media in a group.
+    - Calls connect faster.
+    - Other improvements:
+    - profile names now allow spaces.
+    - when you delete contacts, they are optionally notified.
+    - and more!
+
+    Read more: https://simplex.chat/blog/20231125-simplex-chat-v5-4-quantum-resistant-mobile-from-desktop-better-groups.html
+Version 5.4.1 (Dec 12, 2023)
+    New in v5.4.1:
+    - improved audio/video calls (especially on slow networks)
+
+    New in v5.4:
+    - Link mobile and desktop apps via secure quantum-resistant protocol.
+    - Better groups:
+    - Faster to join and more reliable.
+    - Create groups with incognito profile.
+    - Block group members to hide their messages.
+    - Prohibit files and media in a group.
+    - Calls connect faster.
+    - Other improvements:
+    - profile names now allow spaces.
+    - when you delete contacts, they are optionally notified.
+    - and more!
+
+    Read more: https://simplex.chat/blog/20231125-simplex-chat-v5-4-quantum-resistant-mobile-from-desktop-better-groups.html
+Version 5.3.2 (Oct 24, 2023)
+    New in v5.3.1-2:
+    - fix some of the background crashes.
+    - fix "Protect app screen".
+
+    New in v5.3:
+    - encrypt local files in app storage (except videos).
+    - improved groups:
+    - delivery receipts (up to 20 members).
+    - send direct messages to members even after contact is deleted.
+    - faster and more stable.
+    - simplified incognito mode.
+    - new privacy settings: show last messages & save draft.
+    - faster app loading.
+    - reduced memory usage by 40%.
+
+    4 new interface languages added by the users: Bulgarian, Finnish, Thai and Ukrainian!
+Version 5.3.1 (Sep 25, 2023)
+    New in v5.3.1:
+    - minor fixes
+
+    New in v5.3:
+    - encrypt local files in app storage (except videos).
+    - improved groups:
+    - delivery receipts (up to 20 members).
+    - send direct messages to members even after contact is deleted.
+    - faster and more stable.
+    - simplified incognito mode.
+    - new privacy settings: show last messages & save draft.
+    - faster app loading.
+    - reduced memory usage by 40%.
+
+    4 new interface languages added by the users: Bulgarian, Finnish, Thai and Ukrainian!
+Version 5.2.3 (Aug 14, 2023)
+    New in v5.2.1-3:
+    - faster app loading.
+    - improved connection timeouts.
+    - new preset SMP relays.
+    - optimized markdown parsing.
+
+    New in v5.2:
+    - message delivery receipts – with opt out per contact!
+    - filter favorite and unread chats.
+    - keep your connections working after restoring from backup.
+    - share your address with your contacts and group members via your chat profile.
+    - better disappearing messages:
+    - send disappearing message even when disabled in a chat.
+    - max time to disappear increased to 1 year.
+    - a bit more usable groups:
+    - search for new and existing members.
+    - view full original replied to message in info.
+    - chat preference to allow/prohibit message reactions.
+    - pull chat list to reconnect relays.
+    - more stable message delivery.
+
+    Read more details in this post: https://simplex.chat/blog/20230722-simplex-chat-v5-2-message-delivery-receipts.html
+Version 5.2.2 (Aug 11, 2023)
+    New in v5.2.1-2:
+    - improved connection timeouts.
+    - new preset SMP relays.
+    - optimized markdown parsing.
+
+    New in v5.2:
+    - message delivery receipts – with opt out per contact!
+    - filter favorite and unread chats.
+    - keep your connections working after restoring from backup.
+    - share your address with your contacts and group members via your chat profile.
+    - better disappearing messages:
+    - send disappearing message even when disabled in a chat.
+    - max time to disappear increased to 1 year.
+    - a bit more usable groups:
+    - search for new and existing members.
+    - view full original replied to message in info.
+    - chat preference to allow/prohibit message reactions.
+    - pull chat list to reconnect relays.
+    - more stable message delivery.
+
+    Read more details in this post: https://simplex.chat/blog/20230722-simplex-chat-v5-2-message-delivery-receipts.html
+Version 5.2.1 (Aug 2, 2023)
+    New in v5.2.1:
+    - improved connection timeouts.
+
+    New in v5.2:
+    - message delivery receipts – with opt out per contact!
+    - filter favorite and unread chats.
+    - keep your connections working after restoring from backup.
+    - share your address with your contacts and group members via your chat profile.
+    - better disappearing messages:
+    - send disappearing message even when disabled in a chat.
+    - max time to disappear increased to 1 year.
+    - a bit more usable groups:
+    - search for new and existing members.
+    - view full original replied to message in info.
+    - chat preference to allow/prohibit message reactions.
+    - pull chat list to reconnect relays.
+    - more stable message delivery.
+
+    Read more details in this post: https://simplex.chat/blog/20230722-simplex-chat-v5-2-message-delivery-receipts.html
+Version 5.2 (Jul 22, 2023)
+    New in v5.2:
+    - message delivery receipts – with opt out per contact!
+    - filter favorite and unread chats.
+    - keep your connections working after restoring from backup.
+    - share your address with your contacts and group members via your chat profile.
+    - better disappearing messages:
+    - send disappearing message even when disabled in a chat.
+    - max time to disappear increased to 1 year.
+    - a bit more usable groups:
+    - search for new and existing members.
+    - view full original replied to message in info.
+    - chat preference to allow/prohibit message reactions.
+    - pull chat list to reconnect relays.
+    - more stable message delivery.
+
+    Read more details in this post: https://simplex.chat/blog/20230722-simplex-chat-v5-2-message-delivery-receipts.html
+
+Version 5.1.3 (Jun 15, 2023)
+    New in v5.1:
+    - message reactions - finally!
+    - improved messages:
+    - voice messages up to 5 minutes.
+    - set custom time to disappear.
+    - message editing history.
+    - self-destruct passcode
+
+    We also added Japanese interface language – thanks to the users and Weblate.
+
+    v5.1.1-3 fixed video calls and other issues.
+
+    Read more details in this post: https://simplex.chat/blog/20230523-simplex-chat-v5-1-message-reactions-self-destruct-passcode.html
+Version 5.1.2 (May 27, 2023)
+    New in v5.1:
+    - message reactions - finally!
+    - improved messages:
+    - voice messages up to 5 minutes.
+    - set custom time to disappear.
+    - message editing history.
+    - self-destruct passcode
+
+    We also added Japanese interface language – thanks to the users and Weblate.
+
+    v5.1.1-2 fixed the bug with message reception and other minor issues.
+
+    Read more details in this post: https://simplex.chat/blog/20230523-simplex-chat-v5-1-message-reactions-self-destruct-passcode.html
+Version 5.1 (May 23, 2023)
+    New in v5.1:
+    - message reactions - finally!
+    - improved messages:
+    - voice messages up to 5 minutes.
+    - set custom time to disappear.
+    - message editing history.
+    - self-destruct passcode
+
+    We also added Japanese interface language – thanks to the users and Weblate.
+
+    Read more details in this post: https://simplex.chat/blog/20230523-simplex-chat-v5-1-message-reactions-self-destruct-passcode.html
+Version 5.0 (Apr 22, 2023)
+    New in v5.0:
+    - send videos and files up to 1gb via fast and secure XFTP relays!
+    - passcode as an alternative to system/device authentication.
+
+    We also added Polish interface language – thanks to the users and Weblate.
+
+    SimpleX Chat is now available in 10 languages!
+
+    Read more details in this post: https://simplex.chat/blog/20230422-simplex-chat-vision-funding-v5-videos-files-passcode.html
+Version 4.6.1 (Apr 10, 2023)
+    New in v4.6:
+    - hidden chat profiles – protect them with a password!
+    - audio and video calls now work in background.
+    - group moderation. Admins now can delete member messages and disable members (by assigning "observer" role).
+    - group welcome message shown to the new members when they join.
+    - reduced battery usage, particularly when sending messages to large groups.
+    - Chinese and Spanish interface.
+
+    v4.6.1 includes the experimental support for videos and large files - the recipient must have 4.6.1 as well. You can enable it via Developer tools in the settings.
+
+    See more details in this post: https://simplex.chat/blog/20230328-simplex-chat-v4-6-hidden-profiles.html
+Version 4.6 (Mar 30, 2023)
+    New in v4.6:
+    - hidden chat profiles – protect them with a password!
+    - audio and video calls now work in background.
+    - group moderation. Admins now can delete member messages and disable members (by assigning "observer" role).
+    - group welcome message shown to the new members when they join.
+    - reduced battery usage, particularly when sending messages to large groups.
+    - Chinese and Spanish interface.
+
+    See more details in this post: https://simplex.chat/blog/20230328-simplex-chat-v4-6-hidden-profiles.html
+Version 4.5.4 (Mar 20, 2023)
+    New in v4.5:
+    - multiple chat profiles: use different names, avatars and transport isolation.
+    - transport isolation: separate transport connections are used for each chat profile (default) or for each connection (BETA – enable dev tools to make this option available in Network & Servers.)
+    - message draft: the last message text and any attachments are now preserved when you leave the conversation (while the app is running).
+    - private filenames: to protect your timezone, image and voice message files now use UTC time.
+
+    v4.5.1-4:
+    - improved stability of WebRTC call connections and of message delivery.
+    - fixed some important bugs.
+    - QR codes with logo.
+
+    See more details in this post: https://simplex.chat/blog/20230204-simplex-chat-v4-5-user-chat-profiles.html
+Version 4.5.3 (Mar 4, 2023)
+    New in v4.5:
+    - multiple chat profiles: use different names, avatars and transport isolation.
+    - transport isolation: separate transport connections are used for each chat profile (default) or for each connection (BETA – enable dev tools to make this option available in Network & Servers.)
+    - message draft: the last message text and any attachments are now preserved when you leave the conversation (while the app is running).
+    - private filenames: to protect your timezone, image and voice message files now use UTC time.
+
+    v4.5.1-3:
+    - improved stability of WebRTC call connections and of message delivery.
+    - fixed some important bugs.
+    - QR codes with logo.
+
+    See more details in this post: https://simplex.chat/blog/20230204-simplex-chat-v4-5-user-chat-profiles.html
+Version 4.5.2 (Feb 13, 2023)
+    New in v4.5:
+    - multiple chat profiles: use different names, avatars and transport isolation.
+    - transport isolation: separate transport connections are used for each chat profile (default) or for each connection (BETA – enable dev tools to make this option available in Network & Servers.)
+    - message draft: the last message text and any attachments are now preserved when you leave the conversation (while the app is running).
+    - private filenames: to protect your timezone, image and voice message files now use UTC time.
+
+    v4.5.1-2:
+    - improved stability of WebRTC call connections and of message delivery.
+    - fixed some important bugs.
+    - QR codes with logo.
+
+    See more details in this post: https://simplex.chat/blog/20230204-simplex-chat-v4-5-user-chat-profiles.html
+Version 4.5.1 (Feb 6, 2023)
+    New in v4.5:
+    - multiple chat profiles: use different names, avatars and transport isolation.
+    - transport isolation: separate transport connections are used for each chat profile (default) or for each connection (BETA – enable dev tools to make this option available in Network & Servers.)
+    - message draft: the last message text and any attachments are now preserved when you leave the conversation (while the app is running).
+    - private filenames: to protect your timezone, image and voice message files now use UTC time.
+
+    v4.5.1:
+    - improved stability of WebRTC call connections and of message delivery.
+    - fixed some important bugs.
+
+    See more details in this post: https://simplex.chat/blog/20230204-simplex-chat-v4-5-user-chat-profiles.html
+Version 4.4.4 (Jan 25, 2023)
+    New in v4.4:
+    - disappearing messages – they can be enabled by group admins and, with the permission of both parties, in direct chats.
+    - "live" messages – they update for all recipients as you type them, every few seconds.
+    - connection security code verification, for contacts and group members – to protect from MITM attack (e.g. invitation link substitution in transit).
+    - animated images and "stickers" (e.g., from GIF and PNG files and from 3rd party keyboards).
+
+    See more details in this post: https://simplex.chat/blog/20230103-simplex-chat-v4.4-disappearing-messages.html
+
+    New in v4.4.1-4:
+    - reduced battery/traffic usage, in particular when sending many messages to large groups. Please share you traffic usage with us (console commands `/get stats` and `/reset stats`) – it will help reduce battery and traffic further.
+    - to improve quality, PNG files without transparent pixels (e.g., screenshots) are now sent as JPG.
+    - fixes:
+    - sending files when the recipient or sender app is restarted.
+    - deleting sent file.
+    - a rare error with adding members to groups.
+    - change of conversation preferences when profile is updated.
+    - UI crashes in iOS 16.
+
+    Also, we added French and Italian languages to the interface, thanks to the help from users' community!
+Version 4.4.3 (Jan 16, 2023)
+    New in v4.4:
+    - disappearing messages – they can be enabled by group admins and, with the permission of both parties, in direct chats.
+    - "live" messages – they update for all recipients as you type them, every few seconds.
+    - connection security code verification, for contacts and group members – to protect from MITM attack (e.g. invitation link substitution in transit).
+    - animated images and "stickers" (e.g., from GIF and PNG files and from 3rd party keyboards).
+
+    See more details in this post: https://simplex.chat/blog/20230103-simplex-chat-v4.4-disappearing-messages.html
+
+    New in v4.4.1-3:
+    - reduced battery/traffic usage, in particular when sending many messages to large groups. Please share you traffic usage with us (console commands `/get stats` and `/reset stats`) – it will help reduce battery and traffic further.
+    - to improve quality, PNG files without transparent pixels (e.g., screenshots) are now sent as JPG.
+    - fixes:
+    - sending files when the recipient or sender app is restarted.
+    - a rare error with adding members to groups.
+    - change of conversation preferences when profile is updated.
+
+    Also, we added French and Italian languages to the interface, thanks to the help from users' community!
+Version 4.4.3 (Jan 16, 2023)
+    New in v4.4:
+    - disappearing messages – they can be enabled by group admins and, with the permission of both parties, in direct chats.
+    - "live" messages – they update for all recipients as you type them, every few seconds.
+    - connection security code verification, for contacts and group members – to protect from MITM attack (e.g. invitation link substitution in transit).
+    - animated images and "stickers" (e.g., from GIF and PNG files and from 3rd party keyboards).
+
+    See more details in this post: https://simplex.chat/blog/20230103-simplex-chat-v4.4-disappearing-messages.html
+
+    New in v4.4.1-3:
+    - reduced battery/traffic usage, in particular when sending many messages to large groups. Please share you traffic usage with us (console commands `/get stats` and `/reset stats`) – it will help reduce battery and traffic further.
+    - to improve quality, PNG files without transparent pixels (e.g., screenshots) are now sent as JPG.
+    - fixes:
+    - sending files when the recipient or sender app is restarted.
+    - a rare error with adding members to groups.
+    - change of conversation preferences when profile is updated.
+
+    Also, we added French and Italian languages to the interface, thanks to the help from users' community!
+Version 4.4.2 (Jan 15, 2023)
+    New in v4.4:
+    - disappearing messages – they can be enabled by group admins and, with the permission of both parties, in direct chats.
+    - "live" messages – they update for all recipients as you type them, every few seconds.
+    - connection security code verification, for contacts and group members – to protect from MITM attack (e.g. invitation link substitution in transit).
+    - animated images and "stickers" (e.g., from GIF and PNG files and from 3rd party keyboards).
+
+    Also, we added French language translation of the interface, thanks to the help from users' community!
+
+    See more details in this post: https://simplex.chat/blog/20230103-simplex-chat-v4.4-disappearing-messages.html
+
+    Also, new in v4.4.1-2:
+    - reduced battery/traffic usage, in particular when sending many messages to large groups. Please share you traffic usage with us (console commands `/get stats` and `/reset stats`) – it will help reduce battery and traffic further.
+    - to improve quality, PNG files without transparent pixels (e.g., screenshots) are now sent as JPG.
+    - fixed sending files when the recipient or sender app is restarted.
+    - fixed a rare error with adding members to groups.
+Version 4.4.1 (Jan 12, 2023)
+    New in v4.4:
+    - disappearing messages – they can be enabled by group admins and, with the permission of both parties, in direct chats.
+    - "live" messages – they update for all recipients as you type them, every few seconds.
+    - connection security code verification, for contacts and group members – to protect from MITM attack (e.g. invitation link substitution in transit).
+    - animated images and "stickers" (e.g., from GIF and PNG files and from 3rd party keyboards).
+
+    Also, we added French language translation of the interface, thanks to the help from users' community!
+
+    See more details in this post: https://simplex.chat/blog/20230103-simplex-chat-v4.4-disappearing-messages.html
+
+    Also, new in v4.4.1:
+    - reduced battery/traffic usage, in particular when sending many messages to large groups.
+    - traffic statistics via chat console commands `/get stats` and `/reset stats`. Please share you traffic usage with us – it will help reduce battery and traffic further.
+    - to improve quality, PNG files without transparent pixels (e.g., screenshots) are now sent as JPG.
+    - fixed sending files when the recipient or sender app is restarted.
+Version 4.4 (Jan 3, 2023)
+    New in v4.4:
+    - disappearing messages – they can be enabled by group admins and, with the permission of both parties, in direct chats.
+    - "live" messages – they update for all recipients as you type them, every few seconds.
+    - connection security code verification, for contacts and group members – to protect from MITM attack (e.g. invitation link substitution in transit).
+    - animated images and "stickers" (e.g., from GIF and PNG files and from 3rd party keyboards).
+
+    Also, we added French language translation of the interface, thanks to the help from users' community!
+
+    See more details in this post: https://simplex.chat/blog/20230103-simplex-chat-v4.4-disappearing-messages.html
+Version 4.4 (Jan 3, 2023)
+    New in v4.4:
+    - disappearing messages – they can be enabled by group admins and, with the permission of both parties, in direct chats.
+    - "live" messages – they update for all recipients as you type them, every few seconds.
+    - connection security code verification, for contacts and group members – to protect from MITM attack (e.g. invitation link substitution in transit).
+    - animated images and "stickers" (e.g., from GIF and PNG files and from 3rd party keyboards).
+
+    Also, we added French language translation of the interface, thanks to the help from users' community!
+
+    See more details in this post: https://simplex.chat/blog/20230103-simplex-chat-v4.4-disappearing-messages.html
+Version 4.3.2 (Dec 12, 2022)
+    New in v4.3:
+    - instant voice messages!
+    - irreversible deletion of sent messages for all recipients (based on conversation preferences)
+    - hide app screen in the recent apps
+    - add SMP servers by scanning QR code, support for server passwords
+    - improved privacy and security of SimpleX invitation links in the app
+    - manually switch contact or member to another address / server
+    - receive files faster (enable it in Privacy & Security settings)
+
+    v4.3.1 fixes:
+    - sending voice messages in large groups
+    - sending direct messages to direct contacts (and previously active contacts) in groups that prohibited direct messages
+
+    v4.3.2 fixes:
+    - faster deletion of contacts and groups
+
+    See more details in this post: https://simplex.chat/blog/20221206-simplex-chat-v4.3-voice-messages.html
+Version 4.3.1 (Dec 8, 2022)
+    New in v4.3:
+    - instant voice messages!
+    - irreversible deletion of sent messages for all recipients (based on conversation preferences)
+    - hide app screen in the recent apps
+    - add SMP servers by scanning QR code, support for server passwords
+    - improved privacy and security of SimpleX invitation links in the app
+    - manually switch contact or member to another address / server
+    - receive files faster (enable it in Privacy & Security settings)
+
+    v4.3.1 adds fixes and improvements.
+
+    See more details in this post: https://simplex.chat/blog/20221206-simplex-chat-v4.3-voice-messages.html
+Version 4.3 (Dec 6, 2022)
+    New in v4.3:
+    - instant voice messages!
+    - irreversible deletion of sent messages for all recipients (based on conversation preferences)
+    - hide app screen in the recent apps
+    - add SMP servers by scanning QR code, support for server passwords
+    - improved privacy and security of SimpleX invitation links in the app
+    - manually switch contact or member to another address / server
+    - receive files faster (enable it in Privacy & Security settings)
+
+    See more details in this post: https://simplex.chat/blog/20221206-simplex-chat-v4.3-voice-messages.html
+Version 4.2.2 (Nov 25, 2022)
+    New in v4.2:
+    - fixed issues from the security assessment!
+    - group links - admins can create the links for new members to join
+    - auto-accept contact requests + configure whether to accept incognito and the optional welcome message
+    - change group member role
+    - mark chat as unread
+
+    Beta features (enable Developer tools to try them):
+    - manually switch contact or member to another address / server (it has to be supported by both clients to work)
+    - receive files faster (enable it in Privacy & Security settings)
+
+    v4.2.2 supports receiving the voice messages from the next version as files.
+
+    Please see more details in this post: https://github.com/simplex-chat/simplex-chat/blob/stable/blog/20221108-simplex-chat-v4.2-security-audit-new-website.md
+Version 4.2.1 (Nov 15, 2022)
+    New in v4.2:
+    - fixed issues from the security assessment!
+    - group links - admins can create the links for new members to join
+    - auto-accept contact requests + configure whether to accept incognito and the optional welcome message
+    - change group member role
+    - mark chat as unread
+
+    Beta features (enable Developer tools to try them):
+    - manually switch contact or member to another address / server (it has to be supported by both clients to work)
+    - receive files faster (enable it in Privacy & Security settings)
+
+    v4.2.1 has many small fixes and improvements.
+
+    Please see more details in this post: https://github.com/simplex-chat/simplex-chat/blob/stable/blog/20221108-simplex-chat-v4.2-security-audit-new-website.md
+Version 4.2 (Nov 8, 2022)
+    New in this release:
+    - fixed issues from the security audit!
+    - group links - admins can create the links for new members to join
+    - auto-accept contact requests + configure whether to accept incognito and the optional welcome message
+    - change group member role
+    - mark chat as unread
+
+    Beta features (enable Developer tools to try them):
+    - manually switch contact or member to another address / server (it has to be supported by both clients to work)
+    - receive files faster (enable it in Privacy & Security settings)
+
+    Please see more details in this post: https://github.com/simplex-chat/simplex-chat/blob/stable/blog/20221108-simplex-chat-v4.2-security-audit-new-website.md
+Version 4.1 (Oct 20, 2022)
+    This release adds:
+    - send multiple images, scroll between full-screen images.
+    - assign contact names to the invitation links.
+    - automatic deletion of old messages and files.
+Version 4.0 (Sep 28, 2022)
+    v4.0 adds:
+    - database encryption with passphrase.
+    - configurable servers for WebRTC calls - you can host your own.
+    - improved stability of group connections and sending files.
+    - German language in the interface.
+
+    See this blog post for more information: https://github.com/simplex-chat/simplex-chat/blob/stable/blog/20220928-simplex-chat-v4-encrypted-database.md
+Version 3.2 (Sep 1, 2022)
+    This release adds:
+    - Incognito mode - share random profiles with new contacts, instead of your main profile
+    - infinite scrolling and search in chats
+    - option to select server hosts
+Version 3.1 (Aug 6, 2022)
+    This release adds:
+    - secret chat groups! Only group members know it exists and who is the member.
+    - improved notifications: app badge with unread count, accept call and contact requests.
+    - reduced traffic/battery usage and faster app start.
+    - advanced network settings (enable Developer tools).
+Version 3.0.1 (Jul 16, 2022)
+    v3.0.1 added minor fixes for iOS push notifications and for user authentication in the app.
+
+    v3.0 added instant push notifications and end-to-end encrypted audio/video calls!
+
+    If you have an earlier version installed, when you start the app it will offer to migrate the chat database - it is required for the notifications to work.
+
+    v3.0 also includes:
+    - chat database import and export.
+    - better performance and reduced traffic when making new connections sending files and images.
+
+    See this blog post for more information about v3.0: https://github.com/simplex-chat/simplex-chat/blob/stable/blog/20220711-simplex-chat-v3-released-ios-notifications-audio-video-calls-database-export-import-protocol-improvements.md
+Version 3.0 (Jul 10, 2022)
+    This release adds instant push notifications and end-to-end encrypted audio/video calls!
+
+    When you start the app will offer to migrate the chat database - it is required for the notifications to work.
+
+    This release also includes:
+    - chat database import and export.
+    - better performance and reduced traffic when making new connections sending files and images.
+
+    See this blog post for more information about v3.0: https://github.com/simplex-chat/simplex-chat/blob/stable/blog/20220711-simplex-chat-v3-released-ios-notifications-audio-video-calls-database-export-import-protocol-improvements.md
+Version 2.2.1 (Jun 4, 2022)
+    v2.2 includes these privacy & security improvements:
+    - to protect your chats with device-level authentication, enable SimpleX Lock.
+    - to save data and to avoid showing to your contact that you are online, you can disable automatic download of higher resolution images.
+    - to avoid visiting the websites of the links you send, you can disable sending link previews.
+    - see in the chat if you had any skipped messages (e.g., when they are expired).
+
+    The latest v2.2.1 includes a fix for user authentication.
+Version 2.2 (Jun 2, 2022)
+    Privacy & security improvements:
+    - to protect your chats with device-level authentication, enable SimpleX Lock.
+    - to save data and to avoid showing to your contact that you are online, you can disable automatic download of higher resolution images.
+    - to avoid visiting the websites of the links you send, you can disable sending link previews.
+    - see in the chat if you had any skipped messages (e.g., when they are expired).
+Version 2.1 (May 26, 2022)
+    Better privacy:
+    - Clear chat - delete all messages, without losing a connection.
+    - Irreversibly delete messages that were deleted by a sender.
+Version 2.0.1 (May 13, 2022)
+    New in v2.0.1
+    - Improved stability of sending images and files, particularly in group chats
+Version 2.0 (May 10, 2022)
+    New in v2.0
+    - Sending images and files
+    - Showing pending connections
+    - More information about SimpleX platform
+
+    Since our initial v1.0 release we also added:
+    - editing and replying to messages
+    - deleting messages
+    - link previews
+Version 1.6 (Apr 21, 2022)
+    You can now delete messages for all conversation participants and send links with previews.
+
+    This release also:
+    - prepares support of images (it is coming in the next version)
+    - improves message delivery stability
+    - reduces battery usage.
+    - added framework to translate UI
+Version 1.5 (Apr 3, 2022)
+    You can now edit messages – they are updated for all recipients – and delete them locally!
+Version 1.3 (Mar 21, 2022)
+    This release adds message replies and other actions via a long press on the message.
+Version 1.2 (Mar 15, 2022)
+    This version allows to configure messaging servers used by the app.
+Version 1.1 (Mar 9, 2022)
+    This update improves the stability of creating the new connections between users when there is a bad network connection.
+Version 1.0 (Mar 2, 2022)
+
+Users may also like
+Select objects to compare
+Monal - XMPP chat
+FluffyChat
+Keet by Holepunch
+Siskin IM
+Jami
+Kedr
+Session - Private Messenger
+ChatSecure Messenger
+Orangepill App - Bitcoin
+Skred Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.5.5
+    Current release
+    Feb 22, 2024
+    5.5.4
+    Feb 19, 2024
+    5.5.3
+    Feb 14, 2024
+    5.5.2
+    Feb 4, 2024
+    5.5.1
+    Jan 31, 2024
+    5.5
+    Jan 23, 2024
+    5.4.2
+    Dec 30, 2023
+    5.4.1
+    Dec 12, 2023
+    5.3.2
+    Oct 24, 2023
+    5.3.1
+    Sep 25, 2023
+    5.2.3
+    Aug 14, 2023
+    5.2.2
+    Aug 11, 2023
+    5.2.1
+    Aug 2, 2023
+    5.2
+    Jul 22, 2023
+    5.1.3
+    Jun 15, 2023
+    5.1.2
+    May 27, 2023
+    5.1
+    May 23, 2023
+    5.0
+    Apr 22, 2023
+    4.6.1
+    Apr 10, 2023
+    4.6
+    Mar 30, 2023
+    4.5.4
+    Mar 20, 2023
+    4.5.3
+    Mar 4, 2023
+    4.5.2
+    Feb 13, 2023
+    4.5.1
+    Feb 6, 2023
+    4.4.4
+    Jan 25, 2023
+    4.4.3
+    Jan 16, 2023
+    4.4.3
+    Jan 16, 2023
+    4.4.2
+    Jan 15, 2023
+    4.4.1
+    Jan 12, 2023
+    4.4
+    Jan 3, 2023
+    4.4
+    Jan 3, 2023
+    4.3.2
+    Dec 12, 2022
+    4.3.1
+    Dec 8, 2022
+    4.3
+    Dec 6, 2022
+    4.2.2
+    Nov 25, 2022
+    4.2.1
+    Nov 15, 2022
+    4.2
+    Nov 8, 2022
+    4.1
+    Oct 20, 2022
+    4.0
+    Sep 28, 2022
+    3.2
+    Sep 1, 2022
+    3.1
+    Aug 6, 2022
+    3.0.1
+    Jul 16, 2022
+    3.0
+    Jul 10, 2022
+    2.2.1
+    Jun 4, 2022
+    2.2
+    Jun 2, 2022
+    2.1
+    May 26, 2022
+    2.0.1
+    May 13, 2022
+    2.0
+    May 10, 2022
+    1.6
+    Apr 21, 2022
+    1.5
+    Apr 3, 2022
+    1.3
+    Mar 21, 2022
+    1.2
+    Mar 15, 2022
+    1.1
+    Mar 9, 2022
+    1.0
+    Mar 2, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Mar 8, 2022
+
+Worldwide Release Date
+    Mar 8, 2022
+
+Last Updated Time
+    Feb 21, 2024
+
+Version
+    5.5.4
+
+Size
+    194.21 mb
+
+Only 32 Bit
+    No
+
+Languages
+    русский, английский, болгарский, голландский, испанский, итальянский, немецкий, польский, тайский, турецкий, украинский, упрощенный китайский, финский, французский, чешский, японский
+
+Seller
+    SimpleX Chat Ltd
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Требуется iOS 15.0 и новее. Совместимо с iPhone, iPad и iPod touch.
+
+Bundle ID
+    chat.simplex.app
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1605771084
+Unified App ID: 1000800000174856
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+SimpleX Chat: secure messenger | data.ai

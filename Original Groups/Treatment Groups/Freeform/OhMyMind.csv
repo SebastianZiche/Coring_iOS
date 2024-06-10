@@ -1,0 +1,19 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.23,2024-02-26,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.21,2023-10-23,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.20,2023-10-04,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.19,2023-09-02,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.18,2023-07-02,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.17,2023-05-29,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.16,2023-04-27,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.15,2023-04-09,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.14,2023-03-21,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.13,2023-03-13,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.12,2023-03-07,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.11.2,2022-10-26,Minor improvements
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.11.1,2022-10-21,Minor changes
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.11,2022-10-20,Improvements to text based item views. More text styling.
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.1,2022-05-27,Polished UI. Use Apple Pencil to draw and annotate board content. Import annotations from PDF to board. Fixed note taking feature.
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.0.3,2021-04-17,Hello there! This version comes with several fixes to Text item s Inspector. Also with few other improvements behind the scene.
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.0.2,2021-04-08,In this version OhMyMind comes with some UI updates to canvas items. Also interaction with Item Inspector was improved.
+1483861485,0,OhMyMind,Productivity,2021-02-16,2021-02-16,8.56,6,0,0,1,1.0.1,2021-03-02,Now you can: Zoom canvas to default scale 100 via top toolbar menu. Move to last visible card if you ve scrolled far from the visible cards via top toolbar menu. Also: Current zoom and position value of the canvas are saved and restored next time.

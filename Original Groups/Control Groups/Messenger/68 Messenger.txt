@@ -1,0 +1,392 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+68 Messenger
+OCTOPUS US LLCSocial Networking (Applications)Free
+Alerts
+
+    OCTOPUS US LLC
+
+    68 Messenger
+    68 Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+68 Messenger
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+In 68 Messenger, you can:
+· Talk to your friends by various ways, including text messages, voice calls, videos and photos.
+
+· Instant messaging with your friends by video call just like face-to-face.
+Send message without trace, your chatting record will only be stored in your own phone.
+· Burn after reading, the message will be destoryed automatically after being viewed.
+· Manage your multi-person chat effectively with powerful group management features.
+· Establish chat group and mange it effectively with powerful software functions.
+Ratings
+Displayed Avg Ratings
+3.21
+Total Displayed Ratings
+253
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.4.0 (Feb 2, 2024)
+    Optimize display frame rate
+    Fix known bugs
+Version 4.3.1 (Jan 18, 2024)
+    Increase message stability
+Version 4.2.7 (Jan 8, 2024)
+    Fix known bugs
+    Optimize message processing mechanism
+Version 4.2.5 (Dec 13, 2023)
+    Optimize list loading performance
+    Fix issues and increase stability
+Version 4.1.6 (Oct 30, 2023)
+    Optimize performance
+    Increase stability
+Version 4.1.3 (Oct 14, 2023)
+    Optimize performance
+    Fix known issues
+Version 4.1.1 (Sep 28, 2023)
+    Optimize user experience
+Version 4.1.0 (Sep 21, 2023)
+    Optimize interaction process
+    Modify known issues
+Version 4.0.9 (Sep 19, 2023)
+    Fix known issues and increase stability
+Version 4.0.5 (Aug 31, 2023)
+    Fix known issues
+Version 4.0.3 (Aug 10, 2023)
+    Added support for Portuguese
+    Fix known issues
+Version 4.0.2 (Jul 29, 2023)
+    Fixed several bugs for improved performance
+Version 3.1.9 (Jan 10, 2023)
+    Modified the problem to optimize the user experience
+Version 3.1.8 (Jan 4, 2023)
+    Modified the problem to optimize the user experience
+Version 3.1.8 (Jan 4, 2023)
+    Modified the problem to optimize the user experience
+Version 3.1.5 (Jun 23, 2022)
+    fix bugs
+Version 3.0.9 (Mar 15, 2022)
+    1、fixed bugs
+    2、Adapt to iPhone13 iPhone13 Pro iPhone13 Pro Max
+Version 3.0.5 (Aug 30, 2021)
+    bug fixed
+Version 3.0.2 (Aug 16, 2021)
+    bug fixed
+Version 3.0.0 (Mar 31, 2021)
+    1. Bug fixes
+    2. Improvements
+Version 2.0.5 (Nov 4, 2020)
+    1、fix bug
+    2、Adapt iOS14.0
+Version 2.0.4 (Sep 11, 2020)
+    1. Optimize performance and improve stability
+    2. Fix bugs.
+Version 2.0.3 (Jul 7, 2020)
+    1. New UI design, better visual experience.
+    2. Fix bugs.
+Version 2.0.2 (Jul 3, 2020)
+    1. New UI design,btter visual experience.
+    2. New safe lock rule,safe and reliable.
+    3. Fix bugs.
+Version 2.0.1 (May 12, 2020)
+    1. New UI design,btter visual experience.
+    2. New UX models,smoother experience.
+    3. New International Version Send the effect.
+    4. New safe lock rule,safe and reliable.
+    5. Fix bugs.
+Version 2.0.0 (May 6, 2020)
+    68 Messenger v2.0 new version.
+    1. New UI design,btter visual experience.
+    2. New UX models,smoother experience.
+    3. New International Version Send the effect.
+    4. New safe lock rule,safe and reliable.
+Version 1.8.0 (Apr 14, 2020)
+    1. Chat＆Call batch operation support.
+    2. Added Mute shortcuts.
+    3. Quick Search allow search chat history.
+    4. Added Storage clearance.
+    5. Fixed issues.
+Version 1.7.0 (Mar 20, 2020)
+    1、Added PIN password app lock.
+    2、Added Quick lock.
+    3、Optimization forward flow, allow forward multi-user.
+    4、Optimization Burn after Reading design.
+    5、Fixed issues.
+Version 1.6.1 (Mar 4, 2020)
+    1、Added app lock,Take care to protect your privacy.
+    2、Added dissolution of group.
+    3、Majorization view Image interactive experience.
+    4、Fixed issues.
+Version 1.6.0 (Mar 2, 2020)
+    68 Messenger v1.6 has been updated.
+    1、Adde app lock,Take care to protect your privacy.
+    2、Added disslution of group.
+    3、Majorization view Image interactive experience.
+    4、Fixed issue.
+Version 1.5.0 (Jan 16, 2020)
+    68 Messenger v1.5 Has been updated.
+    1. Add Sticker
+    2. Added Bulk messenge delivery tool
+    3. Added Desktop Client Sign in，More convenient office
+    4. Many new features are waiting to be discovered
+    5. Fixed issues
+Version 1.4.1 (Jan 1, 2020)
+    1.Added use link add contacts
+
+    2.In group, A member can be barred from speaking
+
+    3.Many new features are waiting to be discovered
+
+    4.Fixed issues
+Version 1.4.0 (Dec 31, 2019)
+    1.Added use link add contacts
+
+    2.In group, A member can be barred from speaking
+
+    3.Many new features are waiting to be discovered
+
+    4.Fixed issues
+Version 1.3.0 (Nov 25, 2019)
+    1、Added group Burn after Reading
+    2、Optimize Privacy Settings
+    3、Fixed issues
+Version 1.2.0 (Nov 7, 2019)
+    1、Increase GIF receiving and sending
+    2、Increase chat media management
+    3、More privacy settings
+    Many new features are waiting to be discovered
+Version 1.1.0 (Oct 5, 2019)
+
+Users may also like
+Select objects to compare
+Letstalk IM
+MosGram
+MChat Messenger
+Potato Chat
+POP - Chat to the future
+AKeyChat Pro
+BatChat-Messenger
+CarrotChat
+旺旺商聊
+与你 - 5G时代的聊天软件
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.4.0
+    Current release
+    Feb 2, 2024
+    4.3.1
+    Jan 18, 2024
+    4.2.7
+    Jan 8, 2024
+    4.2.5
+    Dec 13, 2023
+    4.1.6
+    Oct 30, 2023
+    4.1.3
+    Oct 14, 2023
+    4.1.1
+    Sep 28, 2023
+    4.1.0
+    Sep 21, 2023
+    4.0.9
+    Sep 19, 2023
+    4.0.5
+    Aug 31, 2023
+    4.0.3
+    Aug 10, 2023
+    4.0.2
+    Jul 29, 2023
+    3.1.9
+    Jan 10, 2023
+    3.1.8
+    Jan 4, 2023
+    3.1.8
+    Jan 4, 2023
+    3.1.5
+    Jun 23, 2022
+    3.0.9
+    Mar 15, 2022
+    3.0.5
+    Aug 30, 2021
+    3.0.2
+    Aug 16, 2021
+    3.0.0
+    Mar 31, 2021
+    2.0.5
+    Nov 4, 2020
+    2.0.4
+    Sep 11, 2020
+    2.0.3
+    Jul 7, 2020
+    2.0.2
+    Jul 3, 2020
+    2.0.1
+    May 12, 2020
+    2.0.0
+    May 6, 2020
+    1.8.0
+    Apr 14, 2020
+    1.7.0
+    Mar 20, 2020
+    1.6.1
+    Mar 4, 2020
+    1.6.0
+    Mar 2, 2020
+    1.5.0
+    Jan 16, 2020
+    1.4.1
+    Jan 1, 2020
+    1.4.0
+    Dec 31, 2019
+    1.3.0
+    Nov 25, 2019
+    1.2.0
+    Nov 7, 2019
+    1.1.0
+    Oct 5, 2019
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Oct 4, 2019
+
+Worldwide Release Date
+    Oct 4, 2019
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    4.4.0
+
+Size
+    150.64 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Portuguese, Simplified Chinese, Traditional Chinese, Vietnamese
+
+Seller
+    OCTOPUS US LLC
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    co.imoctopus.octopusIM
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1481921442
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+68 Messenger | data.ai

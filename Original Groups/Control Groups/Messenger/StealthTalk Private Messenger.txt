@@ -1,0 +1,612 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+StealthTalk Private Messenger
+StealthTalk Inc.Social Networking (Applications)Free
+Alerts
+
+    StealthTalk Inc.
+
+    StealthTalk Private Messenger
+    StealthTalk Private Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+StealthTalk Private Messenger
+CyberDefense Secure Encryption
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+StealthTalk is a private messenger designed to meet high demands of business- and privacy-minded professionals. Based on a patented SDNP protocol developed for professional use in telecommunications, StealthTalk bridges the gap between professional and consumer security solutions.
+
+KEY FEATURES
+
+Secure Voice Calls
+Make secure calls with exceptional voice quality, even with slow internet connection speeds based on TETRA professional communication standards and SDNP protocol.
+
+Secure Messages
+Exchange true end-to-end encrypted messages with all sensitive message data encryption and decryption taking place entirely on the user device.
+
+Self-Destruct Messages
+Send confidential messages that are erased automatically after a selected period of time.
+
+Stealth Mode
+Protected stealth environment for sensitive calls and messages that requires users to enter their password to preview messages or receive calls.
+
+PRIVACY & SECURITY
+
+End-to-End Encryption
+All communication within StealthTalk is always protected with end-to-end encryption powered by a patented SDNP protocol that uses ECC 512, AES 256 and SHA-3 512 as primitives.
+
+Zero-Knowledge Proof
+StealthTalk knows nothing about the content of your messages or calls. User data is not collected or stored on StealthTalk servers and cannot be analyzed, sold or disclosed.
+
+Professional Telecommunications Technology
+StealthTalk communication security is based on the patented, tried and field-tested SDNP protocol developed for and used in professional telecommunications.
+
+REQUIRED PERMISSIONS
+
+StealthTalk requires the following permissions to deliver its private messaging services and ensure all features are operational.
+
+• Contacts: Contacts permission is used to match you with your contacts using phone number hashes. StealthTalk does not monetize, collect or store your address book data.
+
+• Microphone: Microphone access is required to make secure voice calls
+
+• Bluetooth & Location: Bluetooth and location access is needed to locate devices close to you and enable encryption key exchange.
+
+• Camera: Camera access is needed to add new contacts via QR code and send pictures with the built-in camera.
+
+• Storage: Storage access is needed to store images and files that you receive in chats.
+
+For additional information and suggestions, please contact support@stealthtalk.com
+Ratings
+Displayed Avg Ratings
+4.47
+Total Displayed Ratings
+30
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.16.108 (Feb 28, 2024)
+    - UI improvements and bug fixes
+Version 1.16.104 (Feb 21, 2024)
+    - UI improvements and bug fixes
+Version 1.16.103 (Feb 9, 2024)
+    - UI improvements and bug fixes
+Version 1.16.102 (Jan 9, 2024)
+    - location sharing
+Version 1.16.101 (Jan 4, 2024)
+    - UI improvements and bug fixes
+Version 1.16.100 (Jun 28, 2023)
+    - Backup feature
+    - Bug fixes and UI improvements
+Version 1.15.6 (Apr 25, 2023)
+    - UI improvements and bug fixes
+Version 1.15.5 (Apr 17, 2023)
+    - UI improvements and bug fixes
+Version 1.15.4 (Apr 5, 2023)
+    - UI improvements and bug fixes
+Version 1.15.3 (Mar 21, 2023)
+    - UI improvements and bug fixes
+Version 1.15.2 (Dec 22, 2022)
+    - UI improvements and bug fixes
+Version 1.15.1 (Dec 18, 2022)
+    - UI improvements and bug fixes
+Version 1.15.0 (Dec 10, 2022)
+    - UI improvements and bug fixes
+Version 1.14.5 (Nov 11, 2022)
+    - UI improvements and bug fixes
+Version 1.14.4 (Oct 18, 2022)
+    - UI improvements and bug fixes
+Version 1.14.3 (Oct 12, 2022)
+    - In-Chat call history
+    - UI improvements and bug fixes
+Version 1.14.2 (Sep 28, 2022)
+    - UI improvements and bug fixes
+Version 1.14.1 (Sep 22, 2022)
+    - UI improvements and bug fixes
+Version 1.14.0 (Sep 8, 2022)
+    - Chat media resources manager
+    - Virtual Phone number
+Version 1.12.8 (Jul 22, 2022)
+    - UI improvements
+Version 1.12.7 (May 26, 2022)
+    - UI improvements
+Version 1.12.5 (Apr 26, 2022)
+    - UI improvements
+Version 1.12.4 (Mar 19, 2022)
+    - Reduced app memory usage
+Version 1.12.3 (Mar 13, 2022)
+    - UI improvements
+Version 1.12.2 (Mar 8, 2022)
+    - UI improvements
+Version 1.12.1 (Mar 5, 2022)
+    - UI improvements
+Version 1.12.0 (Mar 3, 2022)
+    - Possibility to use several StealthTalk accounts
+    - Bug fixes and UI improvements
+Version 1.11.10 (Jan 25, 2022)
+    - Bug fixes and UI improvements
+Version 1.11.9 (Jan 12, 2022)
+    - Bug fixes and UI improvements
+Version 1.11.8 (Nov 27, 2021)
+    - File sharing bug fixes
+Version 1.11.6 (Nov 9, 2021)
+    - Bug fixes and UI improvements
+Version 1.11.5 (Nov 2, 2021)
+    - Bug fixes and UI improvements
+Version 1.11.4 (Oct 23, 2021)
+    - Group call extend up to 5 participants.
+    - Any PRO participant in group call can invite a new participant.
+    - File sharing UI improved.
+    - General UI improvements.
+    - Bug fixes.
+Version 1.11.3 (Sep 8, 2021)
+    Bug fixes and UI improvements
+Version 1.11.2 (Aug 31, 2021)
+    - Added the ability to paste GIFs directly into the chat
+Version 1.11.1 (Aug 19, 2021)
+    - Added the ability to preview documents
+    - Fixed minor bugs
+Version 1.11.0 (Aug 11, 2021)
+    - Fixed minor UI bugs
+    - Improved performance
+Version 1.10.1 (Jul 3, 2021)
+    - Fixed rare crash on sharing photos from gallery
+    - Improved performance
+Version 1.10.0 (Jul 2, 2021)
+    - Improved chat UI
+    - Added ability to send GIF images
+    - Added file previews in chat
+Version 1.9.5 (Jun 26, 2021)
+    - Fixed bug that caused Stealthtalk Call to break because of cellular call
+Version 1.9.4 (Jun 7, 2021)
+    - Fixed a rare bug that caused sent messages to be re-sent.
+    - Improved appearance of icons of file transfer.
+Version 1.9.3 (May 26, 2021)
+    - Fixed rare crash on launch
+Version 1.9.2 (May 16, 2021)
+    - Added file transfer feature
+    - Enabled external sharing ability
+    - Improved application performance
+    - Fixed bugs
+Version 1.9.1 (Apr 10, 2021)
+    - Bugfixes
+Version 1.9.0 (Apr 8, 2021)
+    - Added send files feature
+    - Bug-fixes and performance improvements
+Version 1.8.9 (Mar 25, 2021)
+    - Fixed the bug that caused the incoming message notification sound to be played multiple times.
+Version 1.8.7 (Mar 3, 2021)
+    - Improved application launch time
+Version 1.8.6 (Feb 26, 2021)
+    - Bugfixes
+    - Improved incoming call ui
+Version 1.8.5 (Feb 6, 2021)
+    - Updated and reworked user authentication throughout the application.
+
+    - Authentication is now required to launch/open the app.
+
+    - Users are required to enter their account passcode when they first launch the application.
+
+    - Face ID/Touch ID is used to unlock/open the app that has been running in background.
+Version 1.8.4 (Oct 27, 2020)
+    - Fixed rare crash occurred while user phone number validating.
+    - Fixed crash that users occasionally faced when they moved back during registration process.
+    - Improved image quality in chats
+Version 1.8.3 (Sep 28, 2020)
+    - Account registration step 'Set recovery information' became skippable
+    - Fixed bugs
+Version 1.8.2 (Sep 22, 2020)
+    - Fixed bugs
+    - Improved performance
+Version 1.8.1 (Sep 16, 2020)
+    - Updated and simplified the account access restoration process.
+    - Fixed bugs.
+Version 1.8.0 (Sep 11, 2020)
+    - Introduced FREE and PRO subscription plans
+    - Added support for in-app purchases
+    - Improved new Stealth Mode visuals
+    - Fixed a bug that caused some users to receive duplicated incoming calls
+Version 1.6.2 (Jul 20, 2020)
+    - Fixed a crash that occurred when a user that is not on contact list was added to a group call.
+    - Resolved the voice delay issue that occurred after losing and then regaining connection to a call.
+    - Resolved the issue that caused the app to freeze during startup if a WiFi network had no internet connection.
+    - Fixed a counter of unread messages on the application icon.
+    - Improved design of the chat text input.
+Version 1.6.1 (Jul 3, 2020)
+    - Added a busy tone that indicates that the connection is occupied
+    - Resolved the issue that caused a crash when decrypting a message
+    - Fixed other minor bugs
+Version 1.6.0 (Jun 26, 2020)
+    - Added auto-reconnect feature that regains connection during a call after network connection fails.
+    - Fixed bugs.
+Version 1.5.10 (May 4, 2020)
+    - Fixed crash that occurred among some users right after the registration
+    - Reduced registration steps
+Version 1.5.9 (Mar 16, 2020)
+    - Added predefined security questions.
+    - Fixed unread messages counter badge.
+    - Fixed crash related to long tap on settings tab.
+    - Minor User Interface improvements.
+Version 1.5.8 (Feb 29, 2020)
+    - Sign-in code can be copied by long tap
+    - Improved secure call reliability
+    - Improved UI across the app
+    - Fixed bug that prevented showing seen state on images in some cases
+Version 1.5.7 (Feb 25, 2020)
+    - Resolved the call issue preventing users from hearing each other during a call
+    - Improved UI across the app
+    - Fixed some bugs
+Version 1.5.6 (Feb 18, 2020)
+    - Updated access to account settings
+    - Added a new application settings tab
+    - Improved performance and stability
+Version 1.5.5 (Feb 4, 2020)
+    - Improved the Sign-in codes feature. Sign-in codes are now displayed in the notification
+    - Improved localization
+    - Fixed minor bugs to improve stability
+Version 1.5.4 (Feb 1, 2020)
+    - Resolved the issue that prevented push notifications from showing up when the application is closed
+
+    - Fixed a number of minor bugs to improve application stability and performance
+Version 1.5.3 (Jan 28, 2020)
+    ⁃ Improved the Sign-in codes feature. StealthTalk now sends you a notification with your website Sign-in code and no longer requires Stealth mode to preview the code
+    ⁃ Minor bug fixes and performance improvements
+Version 1.5.2 (Jan 8, 2020)
+    Improved stability
+    Fixed some bugs
+Version 1.5.1 (Dec 31, 2019)
+    Fixed a number of minor issues and bugs
+    Improved localization 
+Version 1.5.0 (Dec 22, 2019)
+    - Fixed the issue that prevented call and message notifications from showing up
+    - Added a One Time Password (OTP) feature for secure sign in to your personal account on StealthTalk.com
+    - Bug fixes and stability improvements
+Version 1.0.6 (Dec 13, 2019)
+    - Improved localization across the app
+    - Updated loading status messages
+Version 1.0.5 (Nov 22, 2019)
+    StealthTalk has an unswerving commitment to security. We update the app to improve reliability and ensure your privacy. Here are the enhancements you will find in this update:
+
+    - Improved Invite feature. You may now send invitations via IMs and social networks
+    - Added onboarding cards
+    - Fixed QR contact sharing layout
+    - Improved localization across the app
+    - Minor bug fixes and performance improvements
+
+    If you have any questions or suggestions, you can contact us at support@stealthtalk.com
+Version 1.0.4 (Nov 18, 2019)
+    StealthTalk has an unswerving commitment to security. We update the app to improve reliability and ensure your privacy. Here are the enhancements you will find in this update:
+    - New dark UI!
+    - Fixed stability issues on iOS 13.2
+    - Improved localization across the app
+    - Fixed the tab bar display issue on iPhone XR
+    - Minor bug fixes and performance improvements
+
+    If you have any questions or suggestions, you can contact us at support@stealthtalk.com
+Version 1.0.3 (Oct 3, 2019)
+    Minor fixes and performance improvements
+Version 1.0.2 (Sep 18, 2019)
+    Added Account Protection information to restore auhtoization passcode.
+Version 1.0.1 (Sep 11, 2019)
+    Various bug fixes
+Version 1.0.0 (Sep 5, 2019)
+
+Users may also like
+Select objects to compare
+SafeSwiss® Encrypted Messenger
+Crypviser Secure Messenger
+Kedr
+KeeperChat Encrypted Messenger
+Chapp - Private Messenger
+Tok - Encrypted Messaging
+Biocoded
+NapoleoN Chat
+ADAMANT Messenger
+Blitz – Secure Chat
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.16.108
+    Current release
+    Feb 28, 2024
+    1.16.104
+    Feb 21, 2024
+    1.16.103
+    Feb 9, 2024
+    1.16.102
+    Jan 9, 2024
+    1.16.101
+    Jan 4, 2024
+    1.16.100
+    Jun 28, 2023
+    1.15.6
+    Apr 25, 2023
+    1.15.5
+    Apr 17, 2023
+    1.15.4
+    Apr 5, 2023
+    1.15.3
+    Mar 21, 2023
+    1.15.2
+    Dec 22, 2022
+    1.15.1
+    Dec 18, 2022
+    1.15.0
+    Dec 10, 2022
+    1.14.5
+    Nov 11, 2022
+    1.14.4
+    Oct 18, 2022
+    1.14.3
+    Oct 12, 2022
+    1.14.2
+    Sep 28, 2022
+    1.14.1
+    Sep 22, 2022
+    1.14.0
+    Sep 8, 2022
+    1.12.8
+    Jul 22, 2022
+    1.12.7
+    May 26, 2022
+    1.12.5
+    Apr 26, 2022
+    1.12.4
+    Mar 19, 2022
+    1.12.3
+    Mar 13, 2022
+    1.12.2
+    Mar 8, 2022
+    1.12.1
+    Mar 5, 2022
+    1.12.0
+    Mar 3, 2022
+    1.11.10
+    Jan 25, 2022
+    1.11.9
+    Jan 12, 2022
+    1.11.8
+    Nov 27, 2021
+    1.11.6
+    Nov 9, 2021
+    1.11.5
+    Nov 2, 2021
+    1.11.4
+    Oct 23, 2021
+    1.11.3
+    Sep 8, 2021
+    1.11.2
+    Aug 31, 2021
+    1.11.1
+    Aug 19, 2021
+    1.11.0
+    Aug 11, 2021
+    1.10.1
+    Jul 3, 2021
+    1.10.0
+    Jul 2, 2021
+    1.9.5
+    Jun 26, 2021
+    1.9.4
+    Jun 7, 2021
+    1.9.3
+    May 26, 2021
+    1.9.2
+    May 16, 2021
+    1.9.1
+    Apr 10, 2021
+    1.9.0
+    Apr 8, 2021
+    1.8.9
+    Mar 25, 2021
+    1.8.7
+    Mar 3, 2021
+    1.8.6
+    Feb 26, 2021
+    1.8.5
+    Feb 6, 2021
+    1.8.4
+    Oct 27, 2020
+    1.8.3
+    Sep 28, 2020
+    1.8.2
+    Sep 22, 2020
+    1.8.1
+    Sep 16, 2020
+    1.8.0
+    Sep 11, 2020
+    1.6.2
+    Jul 20, 2020
+    1.6.1
+    Jul 3, 2020
+    1.6.0
+    Jun 26, 2020
+    1.5.10
+    May 4, 2020
+    1.5.9
+    Mar 16, 2020
+    1.5.8
+    Feb 29, 2020
+    1.5.7
+    Feb 25, 2020
+    1.5.6
+    Feb 18, 2020
+    1.5.5
+    Feb 4, 2020
+    1.5.4
+    Feb 1, 2020
+    1.5.3
+    Jan 28, 2020
+    1.5.2
+    Jan 8, 2020
+    1.5.1
+    Dec 31, 2019
+    1.5.0
+    Dec 22, 2019
+    1.0.6
+    Dec 13, 2019
+    1.0.5
+    Nov 22, 2019
+    1.0.4
+    Nov 18, 2019
+    1.0.3
+    Oct 3, 2019
+    1.0.2
+    Sep 18, 2019
+    1.0.1
+    Sep 11, 2019
+    1.0.0
+    Sep 5, 2019
+
+See More
+Top In-App Purchases
+
+    StealthTalk Pro (1 year)
+    $49.99
+    StealthTalk Elite (1 month)
+    $14.99
+    StealthTalk Max (1 month)
+    $9.99
+    StealthTalk Max (1 year)
+    $99.99
+    StealthTalk Pro (1 month)
+    $4.99
+    StealthTalk Elite (1 year)
+    $149.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Sep 5, 2019
+
+Worldwide Release Date
+    Sep 5, 2019
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    1.16.108
+
+Size
+    146.16 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Ukrainian
+
+Seller
+    StealthTalk Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.stealthtalk.client
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1475892684
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+StealthTalk Private Messenger | data.ai

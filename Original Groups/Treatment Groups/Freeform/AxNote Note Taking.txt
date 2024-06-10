@@ -1,0 +1,325 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+AxNote: Note Taking
+Jonathan BenjaminProductivity (Applications)Free
+Alerts
+
+    Jonathan Benjamin
+
+    AxNote: Note Taking
+    AxNote: Note Taking
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+AxNote: Note Taking
+Productivity (Applications)
+Free
+App Description
+AxNote is an infinite canvas that holds your thoughts.
+
+Handwrite your notes, and convert it to typed text. Drag and drop images, and automatically crop them to the relevant part. Switch tools with a simple long press, and instantly annotate on a blank canvas, lined paper or on images. Snap perfect shapes. Create beautiful charts. And it all works over SharePlay. AxNote is a next-level digital note-taking experience.
+
+FEATURES
+
+Magic Lens: Extract handwriting or text from photos and create text fields. AxNote can also detect the major object of photos, like a piece of paper or a diagram, and automatically crop the photo to its dimensions.
+
+Magic Wand: Convert your handwriting to typed text just by drawing a box around it. And when you draw a star to the left of a handwritten heading, AxNote will convert that to a Section while maintaining its color.
+
+SharePlay support: Collaborate on a note via a Group FaceTime call or iMessage.
+
+Layouts: Transform your iPad or iPhone into a real notebook with a selection of preset Layouts, including lined and grid paper, typed paragraphs and a freeform canvas. Customize your layouts with specific measurements for line and grid spacing and colors. With AxNote+, craft your own canvas by creating a custom Layout with strokes that can stick to your page. This allows you to create an infinitely scrollable list without the need to re-rule lines.
+
+Autoshape: Straighten hand-drawn shapes and scale them with Autoshape. This enables you to create perfectly accurate diagrams. Works with squares, circles, triangles, and stars.
+
+QuickTool: Hold your Pencil or finger on the screen to pull up an instant tool picker that forms around the location of your touch. This eliminates the need to lift your arm to select a tool from a static tool picker, allowing you to move quickly across your note.
+
+Handwriting-to-Text: AxNote supports Scribble in iPadOS, so you can write naturally with your pencil and let the app convert your handwriting to typed text automatically.
+
+Images, Tables, and Charts: Drag and drop images anywhere in a note. Create simple text-based tables with customisable fill and border colors. Link your tables with Charts to create beautiful data visualisations.
+
+Pins: Pin what matters most to your notes simply by drawing a rectangle around important content. You can access your pins from anywhere in a note, allowing for quick access to important content.
+
+Layers: Trace around images and toggle their visibility. Since AxNote works with PencilKit, you can copy your drawing strokes to any PencilKit supported app.
+
+Sections: Skip to relevant parts of a note by marking Sections in the sidebar.
+
+---
+
+AxNote+
+- Customize QuickTool
+- Create custom and reusable Layouts
+- Advanced Chart features
+
+These features are available with a one-time in-app purchase to AxNote+. Please read the Terms of Service at axnote.app/terms
+---
+
+Questions or feedback? Please get in contact at axnote.app/contact
+Terms of Service: axnote.app/terms
+
+Made by Jonathan Benjamin.
+Ratings
+Displayed Avg Ratings
+4.86
+Total Displayed Ratings
+7
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.2.1 (Jan 23, 2023)
+    This update contains iPhone and Split View usability improvements, as well as additional bug fixes.
+
+    For more information about AxNote updates, please visit https://axnote.app/updates
+Version 2.2 (Dec 8, 2022)
+    AxNote 2.2 is packed with bug fixes and new features:
+    - Charts: Create beautiful data visualizations from your Tables (requires iOS 16.0 or later)
+    - Collaboration: Start a SharePlay session from within AxNote (requires iOS 15.4 or later)
+    - Introduced AxNote to the iPhone
+    - UI refinements and bug fixes
+
+    For a full list of changes, visit https://axnote.app/updates
+Version 2.1.1 (Jun 19, 2022)
+    This update fixes a bug where large documents may fail to save correctly.
+Version 2.1 (Mar 28, 2022)
+    This update contains the following enhancements:
+    - Added live Section previews in the sidebar
+    - Added infinite horizontal scrolling
+    - Added support for full-page screenshots
+    - Added a dotted grid Layout Style
+    - Added support for custom line and margin colors and opacities
+
+    To see the full list of changes, visit https://axnote.app/updates
+Version 2.0.2 (Mar 10, 2022)
+    This update contains bug fixes and adds support for standard keyboard shortcuts.
+Version 2.0.1 (Feb 21, 2022)
+    This update contains several improvements.
+    - Improved the usability of the app with accessibility features like VoiceOver.
+    - Brought AxNote 2 to the Mac.
+    - Improved the accuracy of Magic Wand shapes.
+    - Fixed a crash that sometimes occurred when selecting a Layout.
+
+    To see the full list of changes, visit https://axnote.app/updates
+Version 2.0 (Feb 12, 2022)
+    AxNote 2.0 brings a revamped interface and several exciting features that enable you to get more out of your notes.
+    - Magic Wand can convert your handwriting to text, and also detect headings. Draw a star to the left of a heading to create a Section.
+    - Magic Lens lets you extract text from images and add them to your note. Automatically crop images to their major objects, such as pages or diagrams.
+    - Added support for SharePlay in iOS 15
+    - AxNote now integrates with the Files app so you can work with your notes more seamlessly, including in iCloud Drive
+    - QuickTool is now customizable for AxNote+
+
+    To see the full list of changes, visit https://axnote.app/updates
+Version 1.1.6 (Oct 24, 2021)
+    This update fixes a bug where Scribble may have been unavailable on some iPads.
+Version 1.1.5 (Sep 17, 2021)
+    This update fixes a few bugs.
+Version 1.1.4 (Jun 12, 2021)
+    This release fixes some bugs and improves the usability of AxNote.
+    - Added a blur to improve the legibility of status bar items
+    - Minor UI improvements
+Version 1.1.3 (Apr 29, 2021)
+    This release polishes a few edges.
+    - Added clarity to titles
+    - Fixed a bug where some shapes generated with Autoshape had incorrect colors
+    - Improved stability
+Version 1.1.2 (Feb 14, 2021)
+    This update improves the usability of AxNote.
+    - Reduced the translucency of QuickTool to improve its accessibility on low-contrast backgrounds
+    - Family Sharing is now available for AxNote+
+    - Fixed a bug that might've caused QuickTool to appear unexpectedly
+    - Fixed a bug with image scaling
+Version 1.1 (Dec 15, 2020)
+Version 1.0.3 (Nov 2, 2020)
+Version 1.0.2 (Oct 4, 2020)
+Version 1.0.1 (Sep 27, 2020)
+Version 1.0 (Sep 20, 2020)
+
+Users may also like
+Select objects to compare
+Jottre
+OhMyMind
+Kantt Organizador
+Renote: where ideas start
+Infinite Board
+Defter Notes
+Handwriting Book - Note taking
+Kosmik - For all mindkind
+Justnote - Note Taking App
+Notator | Annotate Documents
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.2.1
+    Current release
+    Jan 23, 2023
+    2.2
+    Dec 8, 2022
+    2.1.1
+    Jun 19, 2022
+    2.1
+    Mar 28, 2022
+    2.0.2
+    Mar 10, 2022
+    2.0.1
+    Feb 21, 2022
+    2.0
+    Feb 12, 2022
+    1.1.6
+    Oct 24, 2021
+    1.1.5
+    Sep 17, 2021
+    1.1.4
+    Jun 12, 2021
+    1.1.3
+    Apr 29, 2021
+    1.1.2
+    Feb 14, 2021
+    1.1
+    Dec 15, 2020
+    1.0.3
+    Nov 2, 2020
+    1.0.2
+    Oct 4, 2020
+    1.0.1
+    Sep 27, 2020
+    1.0
+    Sep 20, 2020
+
+See More
+Top In-App Purchases
+
+    AxNote+
+    $7.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 20, 2020
+
+Worldwide Release Date
+    Sep 20, 2020
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    2.2.1
+
+Size
+    41.66 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Engels
+
+Seller
+    Jonathan Benjamin
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Vereist iOS 14.0 of nieuwer. Compatibel met iPhone, iPad en iPod touch.
+
+Bundle ID
+    com.jonathanebenjamin.AxNote
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1532017999
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+AxNote: Note Taking | data.ai

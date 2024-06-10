@@ -1,0 +1,318 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Typing - Type and remember
+Thing AppsLifestyle (Applications)Free
+Alerts
+
+    Typing - Type and remember
+    Typing - Type and remember
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Typing - Type and remember
+타이핑 - 따라 쓰고 되새기기
+Lifestyle (Applications)
+Free
+App Promotional Text
+살면서 기억하고 싶은 것들이 있나요?
+타이핑에서 따라 쓰고 되새겨보세요.
+App Description
+Type it down to remember it.
+We come across many words in a day, but we can't remember them all.
+
+Do you have a quote that you want to hold onto in your heart?
+
+Don't let any good quotes slip away.
+
+Now, type them out and engrave them in your heart.
+As you write, let them also sink into your soul.
+So, take a moment, type them out with care, and engrave them in our hearts.
+Ratings
+Displayed Avg Ratings
+4.34
+Total Displayed Ratings
+562
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.4.7 (Sep 15, 2023)
+    - 타이핑 웹 출시!
+    www.typing-app.com 으로 언제 어디서나
+    타이핑을 즐기세요!
+
+    - 게시글 공유 추가
+    링크로 게시글을 공유해보세요!
+
+    - 비슷한 글 추가
+    이제 해당 게시글에서 비슷한 글을 바로 넘겨볼 수 있어요!
+
+    - 기타 버그 수정
+Version 1.4.5 (Aug 24, 2023)
+    - 이름 저장 버그 수정
+    - 계정 삭제 버그 수정
+    - 스크롤 버벅임 개선
+    - 검색 개선
+    - 추천 강조 추가
+Version 1.4.4 (Jun 23, 2023)
+    - 이름 저장 버그 수정
+Version 1.4.2 (May 19, 2023)
+    - 프로필 넘어가기 추가
+    이제 다른 유저들의 프로필을 통해 쓴 글들을 볼 수 있어요!
+
+    - 사용자 맞춤 추천 글 추가
+    이제 사용자 취향 맞춤 글들이 추천됩니다.
+
+
+    - 주간 인기글 Top10 추가
+    일주일간 인기글 10개가 표시되요
+
+    - subtext 추가
+    본문 외에 추가적인 내용을 덧붙일 수 있는 subtext가 추가되었어요!
+
+
+Version 1.4.1 (Feb 28, 2023)
+    - 아이패드 지원이 추가되었습니다.
+    이제 편한 아이패드 전용 UI로 가로 혹은 세로로 Typing을 즐길 수 있습니다.
+    - 영어 지원이 추가되었습니다.
+    - 그 외 버그가 수정되었습니다.
+
+
+Version 1.3.3 (Feb 16, 2023)
+    - 다음 글 넘어갈 시, 키보드 유지
+    - 키보드 팝업 개선
+    - 입력 완료 애니메이션 개선
+Version 1.3.1 (Feb 4, 2023)
+    - 타이핑한 글 히스토리 기능 추가!
+    이제 내가 타이핑한 글들을 확인할 수 있어요.
+
+    - 추천 알림 추가
+    인기 글들을 추천해주는 푸시 알림이 추가되었어요
+Version 1.2.0 (Jan 20, 2023)
+    - 버그 픽스
+Version 1.1.6 (Jan 12, 2023)
+    - 타이핑 중 Live Activity 추가
+    iOS 16.2 부터 입력 중에 앱을 벗어나면 타이핑 현 상황을 알려주는 Live Activity가 작동됩니다!
+
+    - 버그 픽스
+Version 1.1.5 (Jan 6, 2023)
+    - 검색 추가
+    이제 원하는 글을 검색해보세요!
+
+    - 버그 픽스
+Version 1.1.4 (Nov 15, 2022)
+    - 아이패드 가로 모드 지원 추가
+    - 추천글 입력 완료 시, 다음 버튼으로 글 넘어가기 추가
+    - 그 외 버그 수정
+Version 1.1.4 (Nov 15, 2022)
+    - 아이패드 가로 모드 지원 추가
+    - 추천글 입력 완료 시, 다음 버튼으로 글 넘어가기 추가
+    - 그 외 버그 수정
+Version 1.1.3 (Jun 7, 2022)
+    -중복 이름 방지 추가
+    -오타 버그 픽스
+Version 1.1.2 (Jun 6, 2022)
+    - 추천 글 입력 시, 앱 크래쉬 버그 픽스
+    - 내 글 버그 픽스
+Version 1.1.1 (Jun 4, 2022)
+    - 리스트 데이터 버그 픽스
+Version 1.0.5 (Jun 15, 2021)
+    - 문구 오타 수정
+Version 1.0.4 (Jun 8, 2021)
+    - 버튼 버그 수정
+Version 1.0.2 (Oct 23, 2020)
+    UI/UX 개선
+Version 1.0.0 (Oct 22, 2020)
+
+Users may also like
+Select objects to compare
+Talking Potatoes
+It's meee - simple diary
+그림일기 - 감성 일기장
+하움
+Wonderful - Self-Esteem Diary
+씀 : 일상적 글쓰기
+Haema Diary
+Question Diary
+Moodie - Mood Diary With Lock
+투다 - 너와 함께 오늘을 만든다
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.4.7
+    Current release
+    Sep 15, 2023
+    1.4.5
+    Aug 24, 2023
+    1.4.4
+    Jun 23, 2023
+    1.4.2
+    May 19, 2023
+    1.4.1
+    Feb 28, 2023
+    1.3.3
+    Feb 16, 2023
+    1.3.1
+    Feb 4, 2023
+    1.2.0
+    Jan 20, 2023
+    1.1.6
+    Jan 12, 2023
+    1.1.5
+    Jan 6, 2023
+    1.1.4
+    Nov 15, 2022
+    1.1.4
+    Nov 15, 2022
+    1.1.3
+    Jun 7, 2022
+    1.1.2
+    Jun 6, 2022
+    1.1.1
+    Jun 4, 2022
+    1.0.5
+    Jun 15, 2021
+    1.0.4
+    Jun 8, 2021
+    1.0.2
+    Oct 23, 2020
+    1.0.0
+    Oct 22, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Oct 22, 2020
+
+Worldwide Release Date
+    Oct 22, 2020
+
+Last Updated Time
+    Feb 17, 2024
+
+Version
+    1.4.7
+
+Size
+    90.13 mb
+
+Only 32 Bit
+    No
+
+Languages
+    영어
+
+Seller
+    Dongwon Ahn
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 12.0 버전 이상이 필요. iPhone, iPad 및 iPod touch와(과) 호환.
+
+Bundle ID
+    com.nobletimer.typing
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1536870113
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Typing - Type and remember | data.ai

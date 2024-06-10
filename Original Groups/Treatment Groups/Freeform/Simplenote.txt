@@ -1,0 +1,1541 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Simplenote
+AutomatticProductivity (Applications)Free
+Alerts
+
+Simplenote
+Simplenote
+Simplenote
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Simplenote
+简明的备注、待办事项和备忘录
+Productivity (Applications)
+Free
+App Description
+Simplenote is an easy way to take notes, create to-do lists, capture ideas, and more. Open it, jot down some thoughts, and you're done. As your collection grows, stay organized with tags and pins, and find what you need with instant search. Since Simplenote will sync across your devices for free, your notes are with you at all times.
+
+- A simple, note taking experience
+- Sync everything across all your devices
+- Collaborate and share
+- Stay organized with tags
+- Log in with your email or WordPress.com account
+
+SYNC WITH CONFIDENCE
+- Automatically sync seamlessly across any computer, phone or tablet.
+- Back up and sync everything as you take notes, so you never lose your content.
+
+COLLABORATE AND SHARE
+- Collaborate and work together -- share ideas with a colleague, or write a grocery list with your roommate.
+- Choose whether to publish your content to the web, and share a link with whoever you want.
+- Publish directly to a WordPress site by connecting your WordPress.com account.
+- Quickly and easily share with third-party apps.
+
+ORGANIZE AND SEARCH
+- Stay organized with tags, and use them for quick searching and sorting.
+- Instantly find what you’re looking for with keyword highlighting.
+- Use markdown to add formatting.
+- Create to-do lists.
+- Choose the sorting order of your notes and tags.
+- Pin the notes that you use the most.
+- Edit tags directly by renaming and reordering.
+- Protect your content with a passcode lock.
+
+--
+
+Privacy Policy: https://automattic.com/privacy/
+Terms of Service: https://simplenote.com/terms/
+California Users Privacy Notice: https://wp.me/Pe4R-d/#california-consumer-privacy-act-ccpa
+
+--
+
+Visit simplenote.com to download Simplenote for your other devices.
+Ratings
+Displayed Avg Ratings
+4.72
+Total Displayed Ratings
+14.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.50 (Feb 7, 2024)
+    - 在深色模式预览中向代码区块添加了背景颜色
+    - 添加大的笔记小工具
+Version 4.49 (May 1, 2023)
+    - 在深色模式预览中向代码区块添加了背景颜色
+    - 添加大的笔记小工具
+Version 4.48 (Dec 5, 2022)
+    新内容：Simplenote 支持者。 购买年度订阅，帮助支持 Simplenote 的持续开发。
+Version 4.47 (Nov 15, 2021)
+    - Bug fixes
+Version 4.46 (Nov 1, 2021)
+    - Drops iOS 12 support
+    - Fixed an issue where a note could be edited after being trashed
+Version 4.45.1 (Oct 12, 2021)
+    - Added home screen widgets
+    - Fixed an iOS 12 specific crash when app launched
+Version 4.45 (Oct 4, 2021)
+    - Added home screen widgets
+Version 4.44 (Sep 20, 2021)
+    - Fixed an issue with the select all button when only one note is in the list
+Version 4.43 (Sep 6, 2021)
+    - Fixed a bug where non http/https urls crashed when opened from markdown
+    - Account Deletion Support
+    - Tags are now removed from deleted Notes
+Version 4.42 (Aug 24, 2021)
+    - Added In app account deletion #1354
+Version 4.41 (Aug 9, 2021)
+    - Some bug fixes
+Version 4.40 (Jul 26, 2021)
+    - Some bug fixes
+Version 4.39 (Jul 12, 2021)
+    - Moved edit mode into a long press action and removed the new note bar
+Version 4.38 (Jun 28, 2021)
+    - Fixed a bug in which the New Note button might not appear
+    - New Biometry Lock Flow
+Version 4.37 (Jun 14, 2021)
+    - Update in-app notifications color for better readability in dark mode
+    - Added the ability to select and delete multiple notes at a time from the note list
+Version 4.36 (May 31, 2021)
+    - New Note Bar
+    - Fixed an occasional issue with the contextual menu rendering
+    - Removed all caps from collaboration alert title
+    - Fixed issue where notices wouldn't be shown in some cases
+    - Fixed an issue where tags would not be deleted on trashed notes
+    - Improved dynamic font size support in notices
+Version 4.35 (May 11, 2021)
+    - Simplenote's Icons have been revamped
+    - Added in app notifications to alert users of different activities in the app
+    - Changed search sort settings to use the general sort setting.
+Version 4.34 (Apr 6, 2021)
+    - VoiceOver now reads note contextual actions names correctly
+Version 4.33.1 (Mar 22, 2021)
+    Fixed a bug that caused a crash while accessing some searched notes.
+Version 4.33 (Mar 11, 2021)
+    - Updated new-note and collaborate icons
+    - Updated tags editor
+    - Updated sort bar
+    - Removed trailing comma from tags when used as delimiter
+Version 4.32 (Feb 25, 2021)
+    - Added support for keyboard navigation and shortcuts
+Version 4.31 (Feb 8, 2021)
+    - Added account verification screen
+    - Updated minimum row height when note list is in condensed mode
+    - Updated tags editing experience
+Version 4.30 (Jan 24, 2021)
+    - New passcode interface
+    - Fixed a bug that caused a crash while searching
+    - Fixed predictive text entry when working with tags
+Version 4.29 (Dec 13, 2020)
+    - Updated Empty State placeholders
+    - Home screen quick actions
+    - Adjusted About screen metrics
+Version 4.28 (Nov 30, 2020)
+    - Typing "[" will now allow you to pick Interlinking Notes right from the editor
+    - Searching for a note is showing relevant excerpts
+    - Added Search Minimap to quickly navigate search hits
+    - Tags List now extend to the edge of the screen, in landscape mode
+    - Fixed a bug that affected Text Selection
+    - Fixed a bug that toggled Edition while dragging the Editor
+    - Fixed an issue that caused changes not to be persisted immediately
+    - Fixed a bug that affected search highlight navigation
+Version 4.27 (Nov 15, 2020)
+    - New Note History interface
+    - New Note Options interface
+    - New Note Information interface
+    - Updated Navigation Bar's behavior
+    - Adjusted Notes List Metrics
+    - Fixed a bug that caused the Search Bar to look extra big
+    - Fixed a bug affecting Tags Autocomplete
+Version 4.26 (Oct 21, 2020)
+    - Fixed a bug that affected scrolling in iOS 14
+    - Added a link to help in Settings and About
+Version 4.25 (Oct 4, 2020)
+    - Fixed a bug that prevented adding collaborators with email addresses that contain new TLDs
+    - Swiping a Note in the List now reveals the Copy Internal Link Action
+    - Long Pressing over an Internal Link now pushes the target Note
+    - iOS 12 is now the minimum supported OS
+    - Password AutoFill is now the preferred way to manage your credentials
+Version 4.24 (Sep 21, 2020)
+    - Fixed a stability issue in the Notes Editor
+    - Swiping a Note in the List now reveals the Copy Internal Link Action
+Version 4.23 (Aug 24, 2020)
+    - Updated Tags limit to up to 256 characters
+Version 4.22.1 (Aug 20, 2020)
+    Fixed a bug that caused text selection to unexpectedly scroll to the top (or bottom) of the document.
+Version 4.22 (Aug 10, 2020)
+    - Fixed several layout issues that affected the Editor
+    - Now it's possible to interactively drag the Scroll Bar within the Editor
+Version 4.21 (Aug 7, 2020)
+    New darker dark mode
+Version 4.20.1 (Jul 2, 2020)
+    New Privacy Notice for California Users
+Version 4.20 (Jun 29, 2020)
+    Fixed a bug that affected the Share Extension's Appearance.
+    Fixed RTL support in the Authentication Screens.
+    Fixed RTL support in the Tags Editor.
+Version 4.19 (Jun 1, 2020)
+    Updated Password Strength requirements.
+    Simplenote will request to upgrade insecure passwords whenever you login.
+    Implemented a new color palette!
+    The checklist button is hidden unless actively editing a note.
+Version 4.18 (May 4, 2020)
+    Adding support for Persian Language.
+Version 4.17 (Apr 6, 2020)
+    Fixed an issue that caused the Notes List to show up incorrectly, in Right to Left languages.
+Version 4.16 (Mar 9, 2020)
+    Improved integration with iOS gets you into the app smoothly: Simplenote’s launch screen now matches your iOS Appearance Settings. And it supports Password Autofill, so logging in has never been faster.
+
+    Taking notes is only half the battle — finding the note you need when you need it is the other half, and a bunch of search improvements will help you do that: Search results now display matching tags; search supports tag:keyword search parameters to help you find notes whose tags contain specific keywords; and search is now diacritic insensitive, so you can enter search terms with or without accents and still get matches. You can also alter the order of search results right from your Notes List. Fancy!
+
+    Continued visual upgrades make usability better and better: the search bar no longer displays when the Trash Filter is active, and previews have been upgraded to fit more content on the screen.
+
+    And, as always, a few bug fixes: bugs stopping Search Mode from dismissing properly, and another that caused the keyboard’s appearance not to match the selected theme are no more.
+Version 4.15.1 (Feb 14, 2020)
+    - Simplenote just got brand new App Icons!
+    - Fixed a bug that affected tap detections over links.
+Version 4.15 (Jan 27, 2020)
+    - Simplenote just got brand new App Icons!
+    - Fixed a bug that affected tap detections over links.
+Version 4.14.2 (Dec 22, 2019)
+    - Fixed a bug that prevented users from repositioning the caret in the Email field (Login / SignUp).
+    - Fixed a bug that caused the Markdown Preview UI to get dismissed accidentally.
+    - Fixed an issue that might crash the app with a specific emojis combination.
+    - Fixed a bug that caused notes with specific emoji sequences to crash the app
+Version 4.14.1 (Dec 9, 2019)
+    - Fixed a bug that prevented users from repositioning the caret in the Email field (Login / SignUp).
+    - Fixed a bug that caused the Markdown Preview UI to get dismissed accidentally.
+    - Fixed an issue that might crash the app with a specific emojis combination.
+Version 4.14 (Dec 2, 2019)
+    - Fixed a bug that prevented users from repositioning the caret in the Email field (Login / SignUp).
+    - Fixed a bug that caused the Markdown Preview UI to get dismissed accidentally.
+    - Fixed an issue that might crash the app with a specific emojis combination.
+Version 4.13 (Nov 19, 2019)
+    - Fixed a bug that caused the StatusBar to be hidden when Simplenote's Settings were displayed
+    - Fixed a bug that caused Swipe to Dismiss gesture not to properly work in the Editor
+    - Fixed a bug that allowed Peek and Pop to open notes in the Trash.
+Version 4.12 (Nov 4, 2019)
+    - Simplenote just got brand new Icons!
+    - Sidebar's UX has been entirely refreshed.
+Version 4.11 (Oct 21, 2019)
+    - Search Bar is now looking better than ever!
+    - Notes List refreshed to display Pinned state on the right hand side.
+    - iOS 11 Is now the minimum supported OS.
+    - Fixed a bug in which the Editor Colors might not be properly initialized.
+Version 4.10.1 (Sep 26, 2019)
+    - We have redesigned the screens for getting started and logging into the app.
+    - You can now use Peek and Pop to on the notes list screen.
+Version 4.10 (Sep 18, 2019)
+    - We have redesigned the screens for getting started and logging into the app.
+    - You can now use Peek and Pop to on the notes list screen.
+Version 4.9 (Aug 12, 2019)
+    - Simplenote now works with Siri shortcuts allowing you to open the app, open existing notes, and create new notes directly from Siri.
+    - New Swipe Actions are available in the Notes List: Pin and Share!
+    - The Notes List now displays an icon, showing notes that have been published.
+    - When sharing to the WordPress App, Notes will no longer be block-quoted.
+    - The iOS share extension UI has been completely updated.
+    - Fixed a bug that caused the Notes List to get clipped when Swipe Actions are used.
+Version 4.8.1 (Jul 11, 2019)
+    * The Notes List can now be sorted by creation and modification dates.
+Version 4.8 (Jul 3, 2019)
+    * The Notes List can now be sorted by creation and modification dates.
+Version 4.7 (Feb 27, 2019)
+    Fixes an issue related to tag auto-complete.
+Version 4.6.9 (Feb 20, 2019)
+    Fixes issues related to selecting text in the note editor.
+Version 4.6.8 (Feb 5, 2019)
+    A better way to keep track of your tasks? Check! We've added an all-new Checklists feature to the app. Look for the new button in the editor toolbar to add a Checklist to your notes.
+
+    Happy noting!
+Version 4.6.7 (Dec 12, 2018)
+    - You can now sort the tags list alphabetically from Settings.
+    - Character count is now displayed in the note info panel.
+Version 4.6.6 (Dec 3, 2018)
+    • The dark theme is now… darker.
+    • Links are easier to manage in the note editor.
+Version 4.6.5 (Sep 25, 2018)
+    We've added a new timeout option to the passcode lock, which comes in handy if you often copy/paste content from other apps to Simplenote.
+
+    You also now have the option to opt-out from sharing analytics. Look for it in the Privacy section of Settings.
+Version 4.6.4 (Aug 22, 2018)
+    Fixes a crash that could occur when viewing note history.
+Version 4.6.3 (Jul 20, 2018)
+    We've added a new About screen to the app. Check it out!
+Version 4.6.2 (Jun 14, 2018)
+    You can now sign in to Simplenote using your WordPress.com account!
+Version 4.6.1 (Apr 10, 2018)
+    What's New:
+    - iPhone X layout fixes
+    - Markdown preview style improvements
+Version 4.6 (Mar 1, 2018)
+    Safety first! The app now checks for any unsynced notes before signing out.
+Version 4.5.1 (Dec 13, 2017)
+    What's new:
+
+    - Restores Editor's bounce behavior.
+Version 4.5 (Nov 30, 2017)
+    What's new:
+    - iPhone X Layout Fixes
+    - Simplenote's Passcode Screen now supports FaceID!
+Version 4.4.3 (Feb 21, 2017)
+    Fixed an issue that prevented the Pin Lock Screen from becoming visible.
+Version 4.4.2 (Jan 16, 2017)
+    What's new:
+    - Spotlight Search Support
+    - Refreshed User Interface
+    - Bugfixes here and there
+
+    Special thanks to all of our OpenSource Contributors. Simplenote loves you!
+Version 4.4.1 (Sep 2, 2016)
+    - Fixed the ActionSheet on iPad Devices
+    - New Markdown Support!
+    - Updated Sync'ing Core
+    - Added Printing Capabilities to the Share Sheet
+    - Multiple bugfixes here and there!
+Version 4.4 (Aug 25, 2016)
+    - New Markdown Support!
+    - Updated Sync'ing Core
+    - Added Printing Capabilities to the Share Sheet
+    - Multiple bugfixes here and there!
+Version 4.3.3 (Jun 28, 2016)
+    Fixed a bug that prevented the Share Extension from properly posting a note.
+Version 4.3.2 (Jun 16, 2016)
+    Internal enhancements and stability improvements.
+Version 4.3.1 (Jan 19, 2016)
+    - Brand new Share Extension!. Now you can create new notes from anywhere.
+    - Fixed an iPad Pin Lock glitch.
+    - Fixed a bug that affected Tag Autocomplete
+    - New iPad Pro Icons
+Version 4.3 (Jan 18, 2016)
+    - Brand new Share Extension!. Now you can create new notes from anywhere.
+    - Fixed an iPad Pin Lock glitch.
+    - Fixed a bug that affected Tag Autocomplete
+    - New iPad Pro Icons
+Version 4.2.3 (Dec 3, 2015)
+    Fixed a crash triggered after pressing date events.
+Version 4.2.2 (Nov 20, 2015)
+    Bugfixes and stability improvements.
+Version 4.2.1 (Nov 2, 2015)
+    Fixed issue that caused syncing to stall.
+Version 4.2 (Oct 2, 2015)
+    - Brand iOS 9 Multitasking support, to help you boost your productivity!
+    - Background Sync will now keep your notes up to date, even when the app is not onscreen.
+    - Dramatically optimized performance when editing large notes.
+    - Simplenote is now localized in over 19 languages.
+    - We got new beautiful icons!
+    - Lots and lots of bugfixes, and internal enhancements.
+
+    Thanks to all of our user for your feedback!
+Version 4.1.1 (May 29, 2015)
+    - Fixed a bug in which the passcode would get rendered out of place.
+    - Fixed a Dictation bug in iOS 8.
+Version 4.1.0 (Apr 2, 2015)
+    - Added support for 1Password on Signup and SignIn screens
+    - Added missing translations for Spanish users
+    - Updated the Auto Bullets behavior
+    - Lots of internal improvements and fixes!
+Version 4.0.15 (Feb 12, 2015)
+    - Internal stability enhancements.
+Version 4.0.14 (Jan 21, 2015)
+    - New Dark Theme.
+    - Added TouchID Support.
+    - Bugfixes and stability improvements.
+Version 4.0.12 (Oct 12, 2014)
+    - Support for bigger screen resolutions.
+    - Fixed a bug that caused old notes not to properly sync.
+Version 4.0.10 (Aug 25, 2014)
+    Fixes a bug that might cause certain notes to stop syncing.
+Version 4.0.9 (Aug 12, 2014)
+    Internal Syncing Bugfixes.
+Version 4.0.8 (Aug 4, 2014)
+    - Fixed an iOS 8 bug that clipped the current note's text.
+
+    - Fixed a bug that prevented signup or login with special domains.
+
+    - Updated SourceSans font.
+
+    - Improved Security and Stability.
+Version 4.0.7 (Jul 7, 2014)
+    - Fixed a bug that might affect sync'ing while connected to unstable networks.
+
+    - Fixed a crash that affected devices getting reconnected.
+
+    - Internal enhancements.
+Version 4.0.6 (Apr 25, 2014)
+    Bugfixes and sync improvements.
+Version 4.0.5 (Feb 6, 2014)
+    - Stability and Syncing Improvements.
+Version 4.0.4 (Dec 11, 2013)
+    - Important update with improvements and fixes for syncing.
+Version 4.0.3 (Oct 30, 2013)
+    - Simplenote is now localized for Italian, Japanese, and Swedish.
+    - Added support for the system text size setting. Go to Settings App > General > Text Size to adjust the preference.
+    - Added an option to sort notes alphabetically.
+    - Added support for up / down arrows when using an external bluetooth keyboard.
+    - Fixed an issue where the app might not request a passcode when necessary.
+    - Fixed emailing and messaging notes on iPhone 5s.
+    - Fixed a possible crash when adding a tag to a note.
+Version 4.0.2 (Oct 14, 2013)
+    - Fixed a potential problem with syncing notes.
+Version 4.0.1 (Sep 27, 2013)
+    - Adjusted type sizes to make text easier to see.
+
+    - Fixed a cursor selection issue. It should now be far easier to place the cursor where you want.
+
+    - Fixed an issue where entering text from certain system keyboards could cause the text to scroll out of view.
+
+    - The tag entry field is no longer missing when creating a new note from the note editor.
+
+    - Various other bug fixes, including fixes related to syncing.
+Version 4.0.0 (Sep 18, 2013)
+    An all new Simplenote.
+Version 3.3.5 (May 16, 2013)
+    - Fixed a crash affecting some users.
+Version 3.3.4 (May 3, 2013)
+    - Fixed a problem some people experienced with the app freezing during syncing
+Version 3.3.3 (Apr 6, 2013)
+    - Fixed a crash that could happen if you empty the trash or delete notes from certain 3rd-party apps.
+Version 3.3.2 (Jan 16, 2013)
+    - Fixed a problem that could result in data loss when working offline.
+
+    - Fixed a problem that could cause notes to be moved to the trash.
+
+    - Fixed a problem with note publishing.
+Version 3.3.1 (Oct 9, 2012)
+    - Fixed a display problem when using iPad in landscape mode.
+
+
+
+    - Removed the graphical chrome around the iPad interface.
+
+
+
+    - Fixed contacts not loading in the tag interface (permission will now be requested in iOS 6 to access contacts for sharing).
+
+
+
+    - Fixed a tag-related crash affecting some users.
+
+
+
+    - Re-added support for upside-down rotation for iPad.
+Version 3.3.0 (Sep 28, 2012)
+    - support 4-inch screen on iPhone 5
+    - retina iPad graphics (thanks Jared Sinclair)
+    - fixed several issues with iOS 6
+    - fixed a few rare crashes
+Version 3.2.6 (Aug 1, 2012)
+    - Fixed a unicode problem that could cause certain notes to stop syncing.
+
+
+
+    - Added improved crash reporting.
+Version 3.2.5 (Jul 14, 2012)
+    - fixed a problem that could cause certain notes to stop syncing
+
+    - improved sync responsiveness when coming back online
+
+    - improved startup speed especially on iPad
+
+    - fixed a potential crash related to sharing with contacts
+Version 3.2.4 (Jun 27, 2012)
+    3.2.4
+
+    - fixed compatibility with iOS 4.x devices
+
+
+
+    3.2.3
+
+    - fixed failed logins on iOS 5.0.x devices
+
+    - fixed a rare case where text you just typed could get overwritten
+Version 3.2.3 (Jun 15, 2012)
+    - fixed failed logins on iOS 5.0.x devices
+
+    - fixed a rare case where text you just typed could get overwritten
+Version 3.2.2 (Apr 25, 2012)
+    3.2.0 was a major performance update. 3.2.1 and 3.2.2 are maintenance updates.
+
+
+
+    3.2.2:
+
+    - fixed a problem where text could be overwritten on iPad
+
+    - made versions work on iPad again
+
+    - fixed a potential crash on startup
+
+
+
+    3.2.1:
+
+    - improved search performance when you have lots of notes
+
+    - fixed problems with sharing via email address tags
+
+    - fixed note publishing
+
+    - fixed in-app premium upgrades
+
+    - fixed problems with tags that have symbols
+
+    - fixed problems with renaming tags
+
+    - fixed ads sometimes turning back on for paid users
+
+    - fixed empty tag creation when note is created from Instapaper
+
+    - fixed some passcode lock problems on iPad
+
+    - fixed tag autocomplete popover on iPad
+
+    - fixed new inline tags not syncing
+
+    - fixed login problems for certain complex passwords
+
+    - fixed searching so it searches for multiple terms separately
+
+
+
+    3.2.0:
+
+    - improved overall performance and stability
+
+    - improved startup speed
+
+    - improved support for lots of notes
+
+    - improved sync speed and reliability (iOS + web app)
+
+    - added support for syncing emoji characters
+
+    - show total number of notes next to All Notes in tag list
+
+    - fixed problem where tag list numbers might not be accurate
+
+    - tag editing can now be done from inside the main tag list
+
+    - added support for linking to Simplenote from other apps
+
+    - fixed crashes that could happen when notes update
+
+    - fixed text occasionally being hidden behind iPad keyboard
+
+    - fixed problem where ads could turn back on after renewing subscription
+
+    - fixed some inconsistencies with sorting notes
+
+    - increased size of Extra Large font option
+Version 3.2.1 (Apr 11, 2012)
+    3.2.0 was a major performance update. 3.2.1 is a maintenance update.
+
+
+
+    3.2.1:
+
+    - improved search performance when you have lots of notes
+
+    - fixed problems with sharing via email address tags
+
+    - fixed note publishing
+
+    - fixed in-app premium upgrades
+
+    - fixed problems with tags that have symbols
+
+    - fixed problems with renaming tags
+
+    - fixed ads sometimes turning back on for paid users
+
+    - fixed empty tag creation when note is created from Instapaper
+
+    - fixed some passcode lock problems on iPad
+
+    - fixed tag autocomplete popover on iPad
+
+    - fixed new inline tags not syncing
+
+    - fixed login problems for certain complex passwords
+
+    - fixed searching so it searches for multiple terms separately
+
+
+
+    3.2.0:
+
+    - improved overall performance and stability
+
+    - improved startup speed
+
+    - improved support for lots of notes
+
+    - improved sync speed and reliability (iOS + web app)
+
+    - added support for syncing emoji characters
+
+    - show total number of notes next to All Notes in tag list
+
+    - fixed problem where tag list numbers might not be accurate
+
+    - tag editing can now be done from inside the main tag list
+
+    - added support for linking to Simplenote from other apps
+
+    - fixed crashes that could happen when notes update
+
+    - fixed text occasionally being hidden behind iPad keyboard
+
+    - fixed problem where ads could turn back on after renewing subscription
+
+    - fixed some inconsistencies with sorting notes
+
+    - increased size of Extra Large font option
+Version 3.2.0 (Mar 31, 2012)
+    This update makes everything faster. There are also numerous small improvements.
+
+
+
+    NOTE: a one-time update of data will be performed on first startup
+
+    - improved overall performance and stability
+
+    - improved startup speed
+
+    - improved support for lots of notes
+
+    - improved sync speed and reliability (iOS + web app)
+
+    - added support for syncing emoji characters
+
+    - show total number of notes next to All Notes in tag list
+
+    - fixed problem where tag list numbers might not be accurate
+
+    - tag editing can now be done from inside the main tag list
+
+    - added support for linking to Simplenote from other apps like Instapaper
+
+    - fixed crashes that could happen when notes update
+
+    - fixed text occasionally being hidden behind iPad keyboard
+
+    - fixed problem where ads could turn back on after renewing subscription
+
+    - fixed some inconsistencies with sorting notes
+
+    - increased size of Extra Large font option
+Version 3.1.12 (Jan 7, 2012)
+    3.1.11/3.1.12
+
+    - fixed a problem where a note could get duplicated under some circumstances
+
+    - preparatory changes for forthcoming performance/stability update
+
+    - fixed occasional problem where scrolling the tag list could get stuck
+
+
+
+    3.1.9/3.1.10
+
+    - updated free version with a different but still awesome ad provider
+
+
+
+    3.1.8
+
+    - fixed wrong tag sometimes being added to notes
+
+    - fixed some iOS 5 incompatibilities
+
+    - fixed crash when using settings
+
+    - fixed sync sometimes not happening after first login
+Version 3.1.11 (Dec 14, 2011)
+    3.1.11
+    - fixed occasional problem where scrolling the tag list could get stuck
+    - preparatory changes for forthcoming performance/stability update
+
+    3.1.9/3.1.10
+    - updated free version with a different but still awesome ad provider
+
+    3.1.8
+    - fixed wrong tag sometimes being added to notes
+    - fixed some iOS 5 incompatibilities
+    - fixed crash when using settings
+    - fixed sync sometimes not happening after first login
+Version 3.1.10 (Nov 11, 2011)
+    This is a small maintenance release. A major performance update is also on the way.
+
+
+
+    3.1.9/3.1.10
+
+    - updated free version with a different but still awesome ad provider
+
+
+
+    3.1.8
+
+    - fixed wrong tag sometimes being added to notes
+
+    - fixed some iOS 5 incompatibilities
+
+    - fixed crash when using settings
+
+    - fixed sync sometimes not happening after first login
+Version 3.1.9 (Nov 10, 2011)
+    This is a small maintenance release. A major performance update is also on the way.
+
+
+
+    3.1.9
+
+    - updated free version with a different but still awesome ad provider
+
+
+
+    3.1.8
+
+    - fixed wrong tag sometimes being added to notes
+
+    - fixed some iOS 5 incompatibilities
+
+    - fixed crash when using settings
+
+    - fixed sync sometimes not happening after first login
+Version 3.1.8 (Oct 20, 2011)
+    This is a small maintenance release. A major performance update is also on the way.
+
+
+
+    - fixed wrong tag sometimes being added to notes
+
+    - fixed some iOS 5 incompatibilities
+
+    - fixed crash when using settings
+
+    - fixed sync sometimes not happening after first login
+Version 3.1.7 (Jun 11, 2011)
+    3.1.7:
+
+    - fixed the wrong note sometimes getting put in the trash when swiping to delete while browsing by tag
+
+
+
+    3.1.6:
+
+    - optimized syncing and startup time
+
+    - added support for printing (requires iOS 4.2 or higher)
+
+    - fixed a problem with notes sometimes not syncing after sign in
+
+    - fixed account login/creation/upgrade potentially failing due to unicode
+
+    - fixed occasional list view display problems (premium)
+
+    - many web app fixes and improvements
+
+    - fixed a problem where notes could become invisible
+Version 3.1.6 (Jun 5, 2011)
+    NOTE: swiping to delete a note while browsing by tag can sometimes remove the wrong note (but it's still in the trash); a fix is incoming
+
+    Changes and fixes:
+    - optimized syncing and startup time
+    - added support for printing (requires iOS 4.2 or higher)
+    - fixed a problem with notes sometimes not syncing after sign in
+    - fixed account login/creation/upgrade potentially failing due to unicode
+    - fixed occasional list view display problems (premium)
+    - many web app fixes and improvements
+    - fixed a problem where notes could become invisible
+Version 3.1.5 (May 28, 2011)
+    - optimized syncing and startup time
+
+    - added support for printing (requires iOS 4.2 or higher)
+
+    - fixed a problem with notes sometimes not syncing after sign in
+
+    - fixed account login/creation/upgrade potentially failing due to unicode
+
+    - fixed occasional list view display problems (premium)
+
+    - many web app fixes and improvements: Markdown, sharing, printing and more
+Version 3.1.4 (Mar 12, 2011)
+    3.1.3 / 3.1.4 changes:
+
+    - properly restored compatibility with iOS 3.1.3
+
+    - fixed crash when swiping the "Add an item" row (premium)
+
+    - fixed rare crash when updating lists
+
+
+
+    3.1.2 changes:
+
+    - fixed orientation lock no longer working
+
+    - fixed sharing icon not disappearing after unsharing a note
+
+    - fixed settings sometimes triggering the wrong settings when tapped
+
+    - improved user experience for publishing a note
+
+
+
+    3.1.1 changes:
+
+    - fixed a problem where lists don't sync correctly
+
+    - fixed inability to disable ads for paid users
+
+    - fixed a crash with iOS versions less than 4.0
+
+    - fixed passcode lock starting locked for some people
+
+    - first list item is now treated like a title (premium)
+
+    - fixed problem where tags might not sync if you have more than 50 of them
+
+    - fixed currently visible list hanging around after you sign out
+
+    - fixed strange tag getting created if you tap Done while a tag cell is highlighted
+
+
+
+    3.1.0 changes:
+
+
+
+    Added option to lock the app with a passcode
+
+
+
+    Improved tags and sharing
+
+    - tags can now be added to a note via autocompletion
+
+    - you can tag people (email addresses), and the note will be shared with those people automatically
+
+    - you can add people to a tag to create a group tag
+
+    - notes with a group tag get shared with everyone in the group automatically
+
+    - tags can be renamed
+
+    - tag syncing is greatly improved
+
+
+
+    Dropbox syncing (premium only for now, configured through the web app)
+
+
+
+    Basic support for lists (premium only for now)
+
+    - easily turn any note into a list
+
+    - accessed in the note info screen
+
+    - list items can be edited inline
+
+    - list items can be rearranged by dragging
+
+    - list items can be crossed off by swiping
+
+    - lists are stored as plaintext for compatibility
+
+
+
+    Fixes
+
+    - fixed an intermittent crash when the note list updates
+
+    - fixed slowdown when typing in larger notes
+
+    - fixed toolbar sometimes disappearing when using versions
+
+    - fixed not being able to use spaces in passwords
+
+    - word count now reports actual count rather than an estimate
+
+    - improved note list preview for notes that have a single paragraph of content
+
+    - removed redundancy in note list previews when viewing notes by tag
+
+    - fixed occasional display problems with note info
+
+    - fixed published notes erroneously disabling the sharing button
+Version 3.1.3 (Mar 8, 2011)
+    3.1.3 changes:
+    - fixed crash when swiping the "Add an item" row (premium)
+    - fixed rare crash when updating lists
+
+    3.1.2 changes:
+    - fixed orientation lock no longer working
+    - fixed sharing icon not disappearing after unsharing a note
+    - fixed settings sometimes triggering the wrong settings when tapped
+    - improved user experience for publishing a note
+
+    3.1.1 changes:
+    - fixed a problem where lists don't sync correctly
+    - fixed inability to disable ads for paid users
+    - fixed a crash with iOS versions less than 4.0
+    - fixed passcode lock starting locked for some people
+    - first list item is now treated like a title (premium)
+    - fixed problem where tags might not sync if you have more than 50 of them
+    - fixed currently visible list hanging around after you sign out
+    - fixed strange tag getting created if you tap Done while a tag cell is highlighted
+
+    3.1.0 changes:
+
+    Added option to lock the app with a passcode
+
+    Improved tags and sharing
+    - tags can now be added to a note via autocompletion
+    - you can tag people (email addresses), and the note will be shared with those people automatically
+    - you can add people to a tag to create a group tag
+    - notes with a group tag get shared with everyone in the group automatically
+    - tags can be renamed
+    - tag syncing is greatly improved
+
+    Dropbox syncing (premium only for now, configured through the web app)
+
+    Basic support for lists (premium only for now)
+    - easily turn any note into a list
+    - accessed in the note info screen
+    - list items can be edited inline
+    - list items can be rearranged by dragging
+    - list items can be crossed off by swiping
+    - lists are stored as plaintext for compatibility
+
+    Fixes
+    - fixed an intermittent crash when the note list updates
+    - fixed slowdown when typing in larger notes
+    - fixed toolbar sometimes disappearing when using versions
+    - fixed not being able to use spaces in passwords
+    - word count now reports actual count rather than an estimate
+    - improved note list preview for notes that have a single paragraph of content
+    - removed redundancy in note list previews when viewing notes by tag
+    - fixed occasional display problems with note info
+    - fixed published notes erroneously disabling the sharing button
+Version 3.1.2 (Mar 2, 2011)
+    3.1.2 changes:
+    - fixed orientation lock no longer working
+    - fixed sharing icon not disappearing after unsharing a note
+    - fixed settings sometimes triggering the wrong settings when tapped
+    - improved user experience for publishing a note
+
+    3.1.1 changes:
+    - fixed a problem where lists don't sync correctly
+    - fixed inability to disable ads for paid users
+    - fixed a crash with iOS versions less than 4.0
+    - fixed passcode lock starting locked for some people
+    - first list item is now treated like a title (premium)
+    - fixed problem where tags might not sync if you have more than 50 of them
+    - fixed currently visible list hanging around after you sign out
+    - fixed strange tag getting created if you tap Done while a tag cell is highlighted
+
+    3.1.0 changes:
+
+    Added option to lock the app with a passcode
+
+    Improved tags and sharing
+    - tags can now be added to a note via autocompletion
+    - you can tag people (email addresses), and the note will be shared with those people automatically
+    - you can add people to a tag to create a group tag
+    - notes with a group tag get shared with everyone in the group automatically
+    - tags can be renamed
+    - tag syncing is greatly improved
+
+    Dropbox syncing (premium only for now, configured through the web app)
+
+    Basic support for lists (premium only for now)
+    - easily turn any note into a list
+    - accessed in the note info screen
+    - list items can be edited inline
+    - list items can be rearranged by dragging
+    - list items can be crossed off by swiping
+    - lists are stored as plaintext for compatibility
+
+    Fixes
+    - fixed an intermittent crash when the note list updates
+    - fixed slowdown when typing in larger notes
+    - fixed toolbar sometimes disappearing when using versions
+    - fixed not being able to use spaces in passwords
+    - word count now reports actual count rather than an estimate
+    - improved note list preview for notes that have a single paragraph of content
+    - removed redundancy in note list previews when viewing notes by tag
+    - fixed occasional display problems with note info
+    - fixed published notes erroneously disabling the sharing button
+Version 3.1.1 (Feb 14, 2011)
+    3.1.1 changes:
+    - fixed a problem where lists don't sync correctly
+    - fixed inability to disable ads for paid users
+    - fixed a crash with iOS versions less than 4.0
+    - fixed passcode lock starting locked for some people
+    - first list item is now treated like a title (premium)
+    - fixed problem where tags might not sync if you have more than 50 of them
+    - fixed currently visible list hanging around after you sign out
+    - fixed strange tag getting created if you tap Done while a tag cell is highlighted
+
+    3.1.0 changes:
+
+    Added option to lock the app with a passcode
+
+    Improved tags and sharing
+    - tags can now be added to a note via autocompletion
+    - you can tag people (email addresses), and the note will be shared with those people automatically
+    - you can add people to a tag to create a group tag
+    - notes with a group tag get shared with everyone in the group automatically
+    - tags can be renamed
+    - tag syncing is greatly improved
+
+    Dropbox syncing (premium only for now, configured through the web app)
+
+    Basic support for lists (premium only for now)
+    - easily turn any note into a list
+    - accessed in the note info screen
+    - list items can be edited inline
+    - list items can be rearranged by dragging
+    - list items can be crossed off by swiping
+    - lists are stored as plaintext for compatibility
+
+    Fixes
+    - fixed an intermittent crash when the note list updates
+    - fixed slowdown when typing in larger notes
+    - fixed toolbar sometimes disappearing when using versions
+    - fixed not being able to use spaces in passwords
+    - word count now reports actual count rather than an estimate
+    - improved note list preview for notes that have a single paragraph of content
+    - removed redundancy in note list previews when viewing notes by tag
+    - fixed occasional display problems with note info
+    - fixed published notes erroneously disabling the sharing button
+Version 3.1.0 (Feb 3, 2011)
+    This is a big update with lots of fixes and a couple new features:
+
+    Added option to lock the app with a passcode
+
+    Improved tags and sharing
+    - tags can now be added to a note via autocompletion
+    - you can tag people (email addresses), and the note will be shared with those people automatically
+    - you can add people to a tag to create a group tag
+    - notes with a group tag get shared with everyone in the group automatically
+    - tags can be renamed
+    - tag syncing is greatly improved
+
+    Dropbox syncing (premium only for now, configured through the web app)
+
+    Basic support for lists (premium only for now)
+    - easily turn any note into a list
+    - accessed in the note info screen
+    - list items can be edited inline
+    - list items can be rearranged by dragging
+    - list items can be crossed off by swiping
+    - lists are stored as plaintext for compatibility
+
+    Fixes
+    - fixed an intermittent crash when the note list updates
+    - fixed slowdown when typing in larger notes
+    - fixed toolbar sometimes disappearing when using versions
+    - fixed not being able to use spaces in passwords
+    - word count now reports actual count rather than an estimate
+    - improved note list preview for notes that have a single paragraph of content
+    - removed redundancy in note list previews when viewing notes by tag
+    - fixed occasional display problems with note info
+    - fixed published notes erroneously disabling the sharing button
+Version 3.0.6 (Dec 20, 2010)
+    - fixed text and notes sometimes getting duplicated
+
+    - fixed bug where edits could be lost if you create a new note quickly after making changes (iPad)
+
+    - fixed tags not being removed properly after a sync
+
+    - fixed a problem with pin syncing
+
+    - fixed note list flickering after a sync (iPad)
+
+    - fixed tags not visually updating on the selected note after a sync
+
+    - updated to latest version of TextExpander
+
+    - improved Default.png (iPhone)
+
+    - localized to Dutch, French, German, and Spanish
+Version 3.0.5 (Oct 13, 2010)
+    - fixed bug that could cause syncing to stop working
+    - fixed bug that forced you to sign out under some circumstances
+    - fixed bug that could cause recently entered text to duplicate
+    - fixed tag reordering
+    - fixed an instance where tags could disappear
+    - fixed searching on iPad (portrait)
+    - assorted reliability fixes
+Version 2.50
+    - faster scrolling performance of note list
+    - faster startup time
+    - much faster syncing
+    - added option to disable automatic links
+    - hide search bar by default
+    - added option to not hide search bar
+    - prompt new users to create an account
+    - added password confirmation field to account creation
+    - use standard network progress indicator
+    - removed custom network progress indicator
+    - improved appearance of 0-line note previews
+    - improved reliability of sync-on-close and sync-on-resume
+    - fixed date in note editor when sorting by creation
+    - fixed note list skipping when sorting by creation
+    - fixed some localization problems
+    - fixed some problems when viewing searched notes
+    - fixed rare crash when clearing search field
+    - fixed potential crash when the app closes
+Version 2.51
+    - fixed note list skipping
+    - fixed note not being editable if Detect Links was disabled
+    - quick fix for note list problem for VoiceOver users
+    - hid poorly named Show Search option
+Version 2.52
+    - fixed rare crash when entering passwords
+    - fixed some UI text being cut off
+    - modified prompt for account creation
+    - disabled Detect Links by default; enabling it will change tap-to-edit behavior due to a system limitation (see website for details)
+Version 2.60
+Version 2.61
+Version 2.62
+Version 3.0.2
+Version 3.0.3
+Version 3.0.4
+
+Users may also like
+Select objects to compare
+Standard Notes
+Drafts
+Bear - Markdown Notes
+Obsidian - Connected Notes
+Notebook - Take notes, To do
+WorkFlowy: Note, List, Outline
+UpNote - notes, diary, journal
+Minimal | Writing + Notes
+Ulysses: 写作, 笔记, 日记, 博客
+Logseq
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+43 times
+on App Store category pages
+Versions
+
+    4.50
+    Current release
+    Feb 7, 2024
+    4.49
+    May 1, 2023
+    4.48
+    Dec 5, 2022
+    4.47
+    Nov 15, 2021
+    4.46
+    Nov 1, 2021
+    4.45.1
+    Oct 12, 2021
+    4.45
+    Oct 4, 2021
+    4.44
+    Sep 20, 2021
+    4.43
+    Sep 6, 2021
+    4.42
+    Aug 24, 2021
+    4.41
+    Aug 9, 2021
+    4.40
+    Jul 26, 2021
+    4.39
+    Jul 12, 2021
+    4.38
+    Jun 28, 2021
+    4.37
+    Jun 14, 2021
+    4.36
+    May 31, 2021
+    4.35
+    May 11, 2021
+    4.34
+    Apr 6, 2021
+    4.33.1
+    Mar 22, 2021
+    4.33
+    Mar 11, 2021
+    4.32
+    Feb 25, 2021
+    4.31
+    Feb 8, 2021
+    4.30
+    Jan 24, 2021
+    4.29
+    Dec 13, 2020
+    4.28
+    Nov 30, 2020
+    4.27
+    Nov 15, 2020
+    4.26
+    Oct 21, 2020
+    4.25
+    Oct 4, 2020
+    4.24
+    Sep 21, 2020
+    4.23
+    Aug 24, 2020
+    4.22.1
+    Aug 20, 2020
+    4.22
+    Aug 10, 2020
+    4.21
+    Aug 7, 2020
+    4.20.1
+    Jul 2, 2020
+    4.20
+    Jun 29, 2020
+    4.19
+    Jun 1, 2020
+    4.18
+    May 4, 2020
+    4.17
+    Apr 6, 2020
+    4.16
+    Mar 9, 2020
+    4.15.1
+    Feb 14, 2020
+    4.15
+    Jan 27, 2020
+    4.14.2
+    Dec 22, 2019
+    4.14.1
+    Dec 9, 2019
+    4.14
+    Dec 2, 2019
+    4.13
+    Nov 19, 2019
+    4.12
+    Nov 4, 2019
+    4.11
+    Oct 21, 2019
+    4.10.1
+    Sep 26, 2019
+    4.10
+    Sep 18, 2019
+    4.9
+    Aug 12, 2019
+    4.8.1
+    Jul 11, 2019
+    4.8
+    Jul 3, 2019
+    4.7
+    Feb 27, 2019
+    4.6.9
+    Feb 20, 2019
+    4.6.8
+    Feb 5, 2019
+    4.6.7
+    Dec 12, 2018
+    4.6.6
+    Dec 3, 2018
+    4.6.5
+    Sep 25, 2018
+    4.6.4
+    Aug 22, 2018
+    4.6.3
+    Jul 20, 2018
+    4.6.2
+    Jun 14, 2018
+    4.6.1
+    Apr 10, 2018
+    4.6
+    Mar 1, 2018
+    4.5.1
+    Dec 13, 2017
+    4.5
+    Nov 30, 2017
+    4.4.3
+    Feb 21, 2017
+    4.4.2
+    Jan 16, 2017
+    4.4.1
+    Sep 2, 2016
+    4.4
+    Aug 25, 2016
+    4.3.3
+    Jun 28, 2016
+    4.3.2
+    Jun 16, 2016
+    4.3.1
+    Jan 19, 2016
+    4.3
+    Jan 18, 2016
+    4.2.3
+    Dec 3, 2015
+    4.2.2
+    Nov 20, 2015
+    4.2.1
+    Nov 2, 2015
+    4.2
+    Oct 2, 2015
+    4.1.1
+    May 29, 2015
+    4.1.0
+    Apr 2, 2015
+    4.0.15
+    Feb 12, 2015
+    4.0.14
+    Jan 21, 2015
+    4.0.12
+    Oct 12, 2014
+    4.0.10
+    Aug 25, 2014
+    4.0.9
+    Aug 12, 2014
+    4.0.8
+    Aug 4, 2014
+    4.0.7
+    Jul 7, 2014
+    4.0.6
+    Apr 25, 2014
+    4.0.5
+    Feb 6, 2014
+    4.0.4
+    Dec 11, 2013
+    4.0.3
+    Oct 30, 2013
+    4.0.2
+    Oct 14, 2013
+    4.0.1
+    Sep 27, 2013
+    4.0.0
+    Sep 18, 2013
+    3.3.5
+    May 16, 2013
+    3.3.4
+    May 3, 2013
+    3.3.3
+    Apr 6, 2013
+    3.3.2
+    Jan 16, 2013
+    3.3.1
+    Oct 9, 2012
+    3.3.0
+    Sep 28, 2012
+    3.2.6
+    Aug 1, 2012
+    3.2.5
+    Jul 14, 2012
+    3.2.4
+    Jun 27, 2012
+    3.2.3
+    Jun 15, 2012
+    3.2.2
+    Apr 25, 2012
+    3.2.1
+    Apr 11, 2012
+    3.2.0
+    Mar 31, 2012
+    3.1.12
+    Jan 7, 2012
+    3.1.11
+    Dec 14, 2011
+    3.1.10
+    Nov 11, 2011
+    3.1.9
+    Nov 10, 2011
+    3.1.8
+    Oct 20, 2011
+    3.1.7
+    Jun 11, 2011
+    3.1.6
+    Jun 5, 2011
+    3.1.5
+    May 28, 2011
+    3.1.4
+    Mar 12, 2011
+    3.1.3
+    Mar 8, 2011
+    3.1.2
+    Mar 2, 2011
+    3.1.1
+    Feb 14, 2011
+    3.1.0
+    Feb 3, 2011
+    3.0.6
+    Dec 20, 2010
+    3.0.5
+    Oct 13, 2010
+    2.50
+    N/A
+    2.51
+    N/A
+    2.52
+    N/A
+    2.60
+    N/A
+    2.61
+    N/A
+    2.62
+    N/A
+    3.0.2
+    N/A
+    3.0.3
+    N/A
+    3.0.4
+    N/A
+
+See More
+Top In-App Purchases
+
+    Simplenote Sustainer Monthly
+    $20.99
+    Simplenote Sustainer Yearly
+    $219.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 8, 2008
+
+Worldwide Release Date
+    Jan 1, 2010
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    4.50
+
+Size
+    10.40 mb
+
+Only 32 Bit
+    No
+
+Languages
+    俄文, 印度尼西亚文, 土耳其文, 威尔士文, 希伯来文, 希腊文, 德文, 意大利文, 日文, 法语, 波斯文, 瑞典文, 简体中文, 繁体中文, 英语, 荷兰文, 葡萄牙文, 西班牙文, 阿拉伯文, 韩文
+
+Seller
+    Automattic, Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 15.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    com.codality.NotationalFlow
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 289429962
+Unified App ID: 1000600000689237
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Simplenote | data.ai

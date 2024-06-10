@@ -1,0 +1,345 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MoshUp
+PyteBytePhoto and Video (Applications)Free
+Alerts
+
+    MoshUp
+    MoshUp
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MoshUp
+live Datamoshing
+Photo and Video (Applications)
+Free
+App Description
+With Moshup you can do live datamoshing on your iPhone or iPad. Capture a short clip and then film something different. The first recording will stick to the second recording and will be transformed by its motion. You can create some interesting mapping effects. The app was mainly used on the viral TikTok datamoshing videos over the last two years.
+
+You can also repeat Frames in order or randomly.
+Save the result as image or video. While data moshing you can now fade back to a clean camera input. It's now also possible to watch a preview to decide if you want to save or continue with your video recording.
+
+Full Version Features:
+- import videos or pictures from your gallery
+- videos can be imported in reverse
+- step back if you want to repeat the last capture
+- loop back to the first frame
+- different mirror and color modes
+- sound can be recorded
+- reverse the final videos in the gallery
+
+Have fun datamoshing :)
+
+
+
+
+Terms of Use:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Ratings
+Displayed Avg Ratings
+4.47
+Total Displayed Ratings
+2.5k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.3 (Sep 26, 2022)
+    + When you repeat Frames on the first capture you can now directly fade back to the clean input.
+    - removed bug. When removing the last capture in the demo it didn't add time back to the time limit.
+
+    Full Version:
+    + you can now rotate, scale, position and transform the camera and video input frame.
+    + You can set the position of each edge with the help of a small magnifier rect.
+    + this allows also to datamosh specific areas.
+    + When you selected a specific rect the edges will be remembered to snap future frames on the same point.
+    + datamoshing a smaller part of the frame has now cleaner edges.
+    - removed a bug. Crash could happen when you stopped the recording while importing a video.
+Version 1.22 (Apr 19, 2022)
+    + the small timeline in the preview now shows when each capture starts
+    + time info added in the preview view
+
+    Full Version:
+    + added 16:9 and square format
+    + you can cut the current video at any position and continue filming from there
+Version 1.21 (Mar 31, 2022)
+    + added single frame repeat feature ( Full Version Feature)
+Version 1.2 (Dec 10, 2021)
+    + you can now remove the last captured clip and try again
+    + you can preview the current capture and can save or continue it
+    + while recording you can now fade to a clean camera input without data moshing artifacts
+    + app will keep the ongoing capture when external notifications appear or even when leaving the app. Before you had to restart when that happened
+    + monthly subscription for the full version is now optional possible
+    + additional experimental preview mode can be enabled in the settings
+    + some appearance changes in the Settings the gallery and the InApp view
+    + the full version is now stored differently. For people who bought the full version before they have to press the refresh button in the InApp view and it should work as before.
+
+    - had to disable Volume control while recording audio inside the app
+Version 1.2 (Dec 10, 2021)
+    + you can now remove the last captured clip and try again
+    + you can preview the current capture and can save or continue it
+    + while recording you can now fade to a clean camera input without data moshing artifacts
+    + app will keep the ongoing capture when external notifications appear or even when leaving the app. Before you had to restart when that happened
+    + monthly subscription for the full version is now optional possible
+    + additional experimental preview mode can be enabled in the settings
+    + some appearance changes in the Settings the gallery and the InApp view
+    + the full version is now stored differently. For people who bought the full version before they have to press the refresh button in the InApp view and it should work as before.
+
+    - had to disable Volume control while recording audio inside the app
+Version 1.101 (Sep 16, 2021)
+    + renewed the AppStore Screenshots
+Version 1.1 (Sep 15, 2021)
+    + added mirror modes and different color modes
+    + you can now loop back to the first frame (also when importing videos)
+    + you can now control the focus and exposure of the camera (also in the second recording)
+    + added optional video stabilization
+    + some layout and icon changes
+    + small changes in the tutorial
+Version 1.061 (Nov 25, 2020)
+    + reduced a bit the washing bug which happened in low light conditions and would wash the first recording away. Filming in bright light conditions is still highly recommended :)
+Version 1.06 (Nov 10, 2020)
+    - removed a bug when importing videos with stereo sound.
+    - makes realtime encoding optional which can improve quality on devices below iOS 14.0
+Version 1.05 (Oct 24, 2020)
+    + removed pixelated bug with iOS 14
+    + you can start the recording with the volume button (optional)
+    + UI changed in the settings
+
+    Full Version:
+    + record audio / also when repeating frames :)
+    + you can now import videos in reverse
+    + timerange is now shown in seconds not frames
+
+    Demo:
+    + added small watermark in the bottom right
+Version 1.044 (Jul 24, 2020)
+    + on some newer devices the quality was dropping in the second recording. This update should fix that
+Version 1.043 (Jul 15, 2020)
+    + removed a rare bug which could happen when you leave the app during the in app purchase 
+Version 1.042 (Jul 14, 2020)
+    + you can now use different lenses of your phone
+    + you can control the flash if wanted
+    + short tap to lock record is optional available
+    + removed some bugs
+Version 1.041 (Apr 15, 2020)
+    +fixed bug in older iOS version
+Version 1.04 (Apr 12, 2020)
+    + you can now also import images
+    + added Alpha control for the preview
+    + reload images or videos
+    + removed some bugs
+
+Version 1.03 (Apr 2, 2020)
+    + you can now import videos from your gallery
+    + you can reverse videos in the app gallery
+Version 1.02 (Feb 5, 2020)
+    + horizontal mode available now
+    + repeat mode bug removed
+Version 1.01 (Jan 22, 2020)
+    + updated some layout bugs on the iPhone X
+Version 1.0 (Jan 15, 2020)
+
+Users may also like
+Select objects to compare
+Glitché: Photo & Video Editor
+True VHS - 90s Vintage camera
+EFEKT Video Effects & Filters
+Glitch Art Studio: Cam Effects
+FishEyeVideo Square
+Magic FX - Video Effect Master
+TimeFreeze
+Veffecto: Video Effects Editor
+HYPERSPEKTIV: Photo, Video, AR
+Shot Fx - After Effects Video
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.3
+    Current release
+    Sep 26, 2022
+    1.22
+    Apr 19, 2022
+    1.21
+    Mar 31, 2022
+    1.2
+    Dec 10, 2021
+    1.2
+    Dec 10, 2021
+    1.101
+    Sep 16, 2021
+    1.1
+    Sep 15, 2021
+    1.061
+    Nov 25, 2020
+    1.06
+    Nov 10, 2020
+    1.05
+    Oct 24, 2020
+    1.044
+    Jul 24, 2020
+    1.043
+    Jul 15, 2020
+    1.042
+    Jul 14, 2020
+    1.041
+    Apr 15, 2020
+    1.04
+    Apr 12, 2020
+    1.03
+    Apr 2, 2020
+    1.02
+    Feb 5, 2020
+    1.01
+    Jan 22, 2020
+    1.0
+    Jan 15, 2020
+
+See More
+Top In-App Purchases
+
+    Full Version Monthly
+    $1.99
+    Full Version
+    $7.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jan 15, 2020
+
+Worldwide Release Date
+    Jan 15, 2020
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    1.3
+
+Size
+    9.55 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Johannes Pfahler
+
+Company HQ
+    Germany
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.pytebyte.MoshUp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 1493084077
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MoshUp | data.ai

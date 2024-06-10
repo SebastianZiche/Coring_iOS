@@ -1,0 +1,8 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1623792692,0,Qjournal,Health and Fitness,2022-05-15,2022-05-15,1.54,1,0,0,0,1.2.6,2022-10-21,Smaller improvements to make the experience better.
+1623792692,0,Qjournal,Health and Fitness,2022-05-15,2022-05-15,1.54,1,0,0,0,1.2.5,2022-10-01,1 Write function when prewritten answers don t cut it 2 Glanceable last 7 days entries
+1623792692,0,Qjournal,Health and Fitness,2022-05-15,2022-05-15,1.54,1,0,0,0,1.2.1,2022-09-22,Bug fix: after updating to v1.2 journal items disappeared. Fixed now :
+1623792692,0,Qjournal,Health and Fitness,2022-05-15,2022-05-15,1.54,1,0,0,0,1.1.6,2022-08-01,1 You can collapse or expand your routines 2 5 more colors to choose from when adding an item 3 Onboarding improvements to guide users who have iCloud Drive disabled and therefore couldn t use the app 4 Other improvements and bug fixes
+1623792692,0,Qjournal,Health and Fitness,2022-05-15,2022-05-15,1.54,1,0,0,0,1.1.5,2022-07-17,1 Glanceable trends get even more awareness by just journaling 2 iCloud support your data is saved safe and accessible from all your devices 3 Bug fixes
+1623792692,0,Qjournal,Health and Fitness,2022-05-15,2022-05-15,1.54,1,0,0,0,1.1,2022-06-29,1 Add daily routines to group your questions 2 Set notifications to not forget to journal 3 Easily reorder your routines questions and answers
+1623792692,0,Qjournal,Health and Fitness,2022-05-15,2022-05-15,1.54,1,0,0,0,1.0.1,2022-05-17,Bug fix: tapping the start new day button works properly now.

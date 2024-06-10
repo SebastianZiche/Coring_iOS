@@ -1,0 +1,995 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Notta-Transcribe Voice to Text
+Notta.aiProductivity (Applications)Free
+Alerts
+
+Notta Transcribe Audio to Text
+Notta-Transcribe Voice to Text
+Notta-Transcribe Voice to Text
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Notta-Transcribe Voice to Text
+Speech to text, voice recorder
+Productivity (Applications)
+Free
+App Description
+Notta will record and transcribe your favorite podcast, radio, voice memo, Discord chat, interview, and online class in real time. You can playback recordings, edit transcripts, add notes, apply tags, and insert images to capture valuable information from every conversation.
+
+Use Notta to:
+
+- Record & Transcribe
+
+Convert audio to text in real-time or import audio & video files to get a transcript.
+
+Send a Notta Bot to join, record, and transcribe meetings on Zoom, Google Meet, Microsoft Teams, and Webex.
+
+- Edit & Review
+
+Playback your conversations at multiple speeds (0.5x, 0.75x, 1x, 1.25x, 1.5x, 2x, 3x).
+
+Add notes, mark transcript blocks, move to folders, etc.
+
+Translate your transcript into 42 languages.
+
+Search crucial info such as name, date, and location from all conversations.
+
+Generate automated summaries with the power of AI.
+
+Tap on any word to skip the audio to jump to the spot.
+
+- Export & Share:
+
+Export the transcript to TXT, DOCX, SRT, PDF, and XLSX formats to save your data offline.
+
+Stream live transcription via a sharing link with your team members and friends.
+
+...and more!
+
+Work perfectly for:
+
+- Webinar and video conference
+- Job interview
+- International meetings
+- Business negotiation
+- Live captions for people with hearing loss
+- Language learning
+
+...any conversations you could think of.
+
+Work seamlessly across different platforms and services:
+
+Every conversation, including audio and transcript, will be synced across your devices. For example, you can record conversations on your phone, playback recordings on Notta Web(https://www.notta.ai/en), and then edit transcripts on your PC, Mac, or iPad.
+
+Try Notta to unleash the power of voice and bring your productivity to the next level.
+
+Terms of Service: https://www.notta.ai/en/terms
+
+Privacy Policy: https://www.notta.ai/en/privacy
+
+Have more questions? Please reach out to support@notta.ai
+Ratings
+Displayed Avg Ratings
+4.27
+Total Displayed Ratings
+6.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.9.0 (Jan 29, 2024)
+    • Support for importing audio and video files from the gallery for transcription.
+    • Files moved to the recycle bin will be automatically cleaned up after 30 days.
+    • Various known issues have been optimized for a better user experience.
+Version 6.8.0 (Jan 17, 2024)
+    Fixed some known issues and refined the Notta app to improve user experience.
+Version 6.7.0 (Dec 29, 2023)
+    Fixed some known issues and refined the Notta app to improve user experience.
+Version 6.6.0 (Dec 16, 2023)
+    Export translation: Now you can download, share or export the translated text.
+    Improved SRT File.
+Version 6.2.0 (Oct 11, 2023)
+    Fixed some known issues and refined the Notta app to improve user experience.
+Version 6.1.0 (Sep 27, 2023)
+    修复了已知问题，优化部分页面的操作体验
+Version 6.0.5 (Sep 20, 2023)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.46.0 (Aug 16, 2023)
+    支持 Webex 会议转写
+    修复了已知问题，优化部分页面的操作体验
+Version 5.45.0 (Aug 2, 2023)
+    支持文件夹排序 - 您可以轻松地按照不同的条件对文件夹进行排序，实现更高效和有序的文件管理。
+Version 5.44.0 (Jul 27, 2023)
+    新功能 Notta AI Summary 上线，现在，Notta可以使用AI来生成转写文本的摘要和行动项目，使你回听和回看更加高效。
+Version 5.43.2 (Jul 11, 2023)
+    修复了已知问题
+Version 5.42.0 (Jun 2, 2023)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.41.0 (May 26, 2023)
+    教育优惠活动：学生和教职员工可以半价享受12个月的 Notta 高级会员权益
+    增加应用缓存优化功能
+    优化多端设备登录功能
+    修复了一个问题
+Version 5.40.0 (May 16, 2023)
+    教育优惠活动：学生和教职员工可以半价享受12个月的 Notta 高级会员权益
+    增加应用缓存优化功能
+    优化多端设备登录功能
+Version 5.39.0 (Apr 6, 2023)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.38.0 (Mar 22, 2023)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.37.0 (Mar 13, 2023)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.36.0 (Feb 13, 2023)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.35.0 (Jan 13, 2023)
+    修复了一些问题，优化了一些用户体验
+    用户的会员身份过期后，将无法查看完整的转写结果
+Version 5.34.1 (Jan 4, 2023)
+    感谢您使用Notta的语音转写服务。 在这次更新中我们进行了以下改进和错误修复。
+    实时录音转写可识别不同说话人，可在转写结果中编辑说话人的名字。
+    如果您觉得Notta好用，请给我们评分和回应。您的支持让我们有能力面对更大挑战。 我们非常重视您提出的宝贵意见，如有意见反馈请通过App内【我的】>【问题反馈】联系我们。
+Version 5.34.1 (Jan 4, 2023)
+    感谢您使用Notta的语音转写服务。 在这次更新中我们进行了以下改进和错误修复。
+    实时录音转写可识别不同说话人，可在转写结果中编辑说话人的名字。
+    如果您觉得Notta好用，请给我们评分和回应。您的支持让我们有能力面对更大挑战。 我们非常重视您提出的宝贵意见，如有意见反馈请通过App内【我的】>【问题反馈】联系我们。
+Version 5.34.0 (Dec 29, 2022)
+    感谢您使用Notta的语音转写服务。 在这次更新中我们进行了以下改进和错误修复。
+
+    实时录音转写可识别不同说话人，可在转写结果中编辑说话人的名字。
+
+    如果您觉得Notta好用，请给我们评分和回应。您的支持让我们有能力面对更大挑战。 我们非常重视您提出的宝贵意见，如有意见反馈请通过App内【我的】>【问题反馈】联系我们。
+
+Version 5.33.0 (Dec 14, 2022)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.32.0 (Dec 1, 2022)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.31.0 (Nov 23, 2022)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.30.0 (Nov 11, 2022)
+    感谢您使用Notta的语音转写服务。
+    在这次更新中我们进行了以下改进和错误修复。
+
+    Notta Bot现在可以自动参加Zoom/Microsoft Teams/Google Meet会议，自动录屏并将视频音频转写成文字。更多细节，请通过Web版（[www.notta.ai](http://www.notta.ai/)）查看Notta Team workspace。
+
+    如果您觉得Notta好用，请给我们评分和回应。您的支持让我们有能力面对更大挑战。
+    我们非常重视您提出的宝贵意见，如有意见反馈请通过App内【我的】>【问题反馈】联系我们。
+Version 5.29.0 (Nov 2, 2022)
+    修复了已知问题，优化部分页面的操作体验
+Version 5.28.0 (Oct 27, 2022)
+    感谢您使用Notta的语音转写服务。
+    在这次更新中我们进行了以下改进和错误修复。
+
+    新功能：
+    你可以设置只有指定的IP地址允许访问团队版Workspace。
+    另外，你可一键关闭Workpace的外部共享功能，仅允许Workspace内成员查看录音和转写记录。
+
+    如果您觉得Notta好用，请给我们评分和回应。您的支持让我们有能力面对更大挑战。
+    我们非常重视您提出的宝贵意见，如有意见反馈请通过App内【我的】>【问题反馈】联系我们。
+Version 5.27.0 (Sep 30, 2022)
+    修复了已知问题，优化部分页面的操作体验。
+Version 5.25.0 (Aug 11, 2022)
+    1. 现在可以查看下个月的转写时长更新时间了。
+    2. APP 语言新增支持德语。
+    3. 修复了已知问题，优化部分操作体验。
+
+    我们非常重视您提出的宝贵意见，如有意见反馈请联系我们：support@notta.ai
+Version 5.24.0 (Jul 29, 2022)
+    修复了已知问题，优化部分操作体验。
+Version 5.22.1 (Jul 3, 2022)
+    新功能：
+    1. App端切换Workspace功能上线。你现在可以通过手机查看Team版Workspace内的转写记录。
+    2. App语言新增支持韩语。
+
+    我们非常重视您提出的宝贵意见，如有意见反馈请发至邮箱：support@notta.ai
+Version 5.21.0 (Jun 15, 2022)
+    功能更新：
+    好友通过你的邀请链接注册成功后，你和好友均可获取3天高级会员体验奖励。快来邀请好友注册Notta吧。
+Version 5.20.0 (Jun 2, 2022)
+    新功能
+    1. 游客模式上线：无需注册即可开始试用Notta。
+    2. 导入音频文件转写：你可以导入音频文件并免费查看前5分钟的转写结果。
+
+    功能优化
+    1. 派遣机器人参与并自动转写视频会议：支持修改参加Microsoft Teams视频会议的机器人默认名称。
+Version 5.19.2 (May 30, 2022)
+    功能更新：
+    Zoom 会议不带密码的 url 链接也可以进行线上会议自动录音及转写了。
+
+    其他问题及用户体验优化。
+Version 5.19.1 (May 19, 2022)
+    功能更新：
+    Zoom 会议不带密码的 url 链接也可以进行线上会议自动录音及转写了。
+
+    其他问题及用户体验优化。
+Version 5.18.0 (May 13, 2022)
+    修复一些已知问题
+Version 5.17.0 (Apr 28, 2022)
+    重大功能更新：
+    1. 说话人识别功能上线：音视频文件转写可以在转写结果中识别说话人，并在每一个文字片段上方标注识别结果（如果选择说话人识别开始，则获取文件转写结果的时间会较久）。
+    2. 用户可以针对文件转写、线上会议转写、实时录音转写的转写结果的文字片段编辑说话人名称，方便备注转写文本的说话人名称。
+    3. 用户可以使用苹果小组件功能，在主页长按应用图标快速开启录音转写。
+
+    功能优化：
+    1. 优化了导出转写文本到Notion的功能。
+Version 5.16.2 (Apr 14, 2022)
+    新增功能:
+    1. 免费用户可以分享Notta给他人并获取3 天体验会员奖励，最多可有 20 次奖励。付费会员分享Notta可领取时长劵，获得更多转写时长；
+    2.支持手机应用列表上长按应用录音转写的快捷方式；
+
+    功能优化：
+    1. 优化了文件转写业务中进度条提示，用户可以在列表页了解到文件转写的进度；
+Version 5.16.1 (Apr 7, 2022)
+    新增功能:
+    1. 免费用户可以分享Notta给他人并获取3 天体验会员奖励，最多可有 20 次奖励。付费会员分享Notta可领取时长劵，获得更多转写时长；
+    2.支持手机应用列表上长按应用录音转写的快捷方式；
+
+    功能优化：
+    1. 优化了文件转写业务中进度条提示，用户可以在列表页了解到文件转写的进度；
+Version 5.16.0 (Apr 1, 2022)
+    新增功能:
+    1. 免费用户可以分享Notta给他人并获取3 天体验会员奖励，最多可有 20 次奖励。付费会员分享Notta可领取时长劵，获得更多转写时长；
+    2.支持手机应用列表上长按应用录音转写的快捷方式；
+
+    功能优化：
+    1. 优化了文件转写业务中进度条提示，用户可以在列表页了解到文件转写的进度；
+    2. 修复了偶现的 5 小时音频文件丢失的问题； 
+Version 5.15.0 (Mar 21, 2022)
+    新功能特性：
+    1. 用户可以选中指定文字片段进行单独分享，分享内容包括音频及文本
+    2. 新增转写结果为日文和英文的智能纠错功能
+    3. Zoom/Microsoft teams/google meet 的线上会议转写支持实时显示说话人
+    4. 支持文件夹内的转写记录的排序功能
+    5. App home 首页新增 Twitter 社区入口
+
+    功能优化：
+    1. 导出页面优化，新增导出文件包含分享链接和文本备注的开关
+Version 5.14.1 (Mar 10, 2022)
+    1.「派遣机器人转写线上会议」功能更新：
+    未付费用户也可以体验「派遣机器人转写线上会议」功能了，支持实时转写 Zoom/Microsoft Teams/Google Meet 的线上会议；
+    除Microsoft Teams个人版账户生成的会议链接外，新增支持Microsoft Teams 企业版本的线上会议链接；
+    2. 支持一键导出转写结果至 Notion；
+    3. 在实时录音及详情中显示当前转写语言，避免因转写语言设置错误导致转写结果无法识别的问题；
+Version 5.14.0 (Mar 9, 2022)
+    1.「派遣机器人转写线上会议」功能更新：
+    未付费用户也可以体验「派遣机器人转写线上会议」功能了，支持实时转写 Zoom/Microsoft Teams/Google Meet 的线上会议；
+    除Microsoft Teams个人版账户生成的会议链接外，新增支持Microsoft Teams 企业版本的线上会议链接；
+    2. 支持一键导出转写结果至 Notion；
+    3. 在实时录音及详情中显示当前转写语言，避免因转写语言设置错误导致转写结果无法识别的问题；
+Version 5.13.0 (Feb 20, 2022)
+    修复了已知问题，优化部分操作体验。
+Version 5.12.0 (Jan 21, 2022)
+    1. 增加了【导出包含图片】功能，现在您可以选择导出的文件是否包含您添加的图片
+
+    2. 修改了已知问题，优化了部分页面的交互
+Version 5.11.0 (Jan 12, 2022)
+    重大功能更新：
+
+    1. 支持 Zoom、Google Meet 和 Microsoft Teams 会议转写，只需填写会议链接，即可派遣 Notta Bot 进入会议进行实时转写，实时查看转写文字并进行重点标记，不再错过每一场会议细节！
+
+    2. 会议转写结果显示说话人：当您使用Zoom、Google Meet 和 Microsoft Teams 进行会议转写时，Notta Bot 可为您区分说话人，丰富文本信息
+
+    3. 导出样式自定义：支持转写结果时间显示/隐藏、说话人信息导出、相邻说话人段落合并、全文合并等自定义操作，导出样式由你来定～
+
+    4. 优化文件列表样式，文件分享状态一目了然!
+Version 5.10.0 (Dec 23, 2021)
+    修复了已知问题，优化部分操作体验。
+Version 5.9.0 (Dec 9, 2021)
+    增加了一些新功能：
+    1. 录音声纹展示
+    2. 多段内容合并
+    3. 列表和文本支持长按操作
+    4. 文件列表支持长按或滑动分享
+
+    · 修复了 iPad 无法使用蓝牙键盘的问题
+Version 5.8.0 (Dec 1, 2021)
+    非订阅用户 3 分钟后可以正常录音啦
+    用户可以在 app 端开启/关闭对应记录详情的分享，快来分享你的好友吧
+    记录详情内多个 block 支持选中后合并的操作，一键合并操作文本更加简单！
+Version 5.7.0 (Nov 18, 2021)
+    支持播放音频时更多倍速选项
+    优化部分页面的交互
+Version 5.6.0 (Oct 27, 2021)
+    修改已知问题
+    优化部分交互逻辑
+    录音转文字更加流畅
+Version 5.5.0 (Oct 20, 2021)
+    1. 在 Notta app 内可以自动切换白天或黑夜模式主题，带来更好的使用体验。
+    2. app 内全局搜索功能上线，在主页可以搜索该账号下的所有记录，从而点击会话详情定位关键信息。
+    3. app 内可派遣机器人参加 Zoom 会议转写：在主页点击派遣机器人参加已经开始的Zoom会议，将会在会议结束后获取完整的转写结果。
+Version 5.4.0 (Sep 26, 2021)
+    修复文件转写中的已知问题
+    优化录音转写中的用户体验
+Version 5.3.0 (Sep 14, 2021)
+    Notta 应用程序现在可以在iPad上使用。
+    现在，你可以通过在主页或记录详情屏幕上向上或向下滑动，一次选择多个记录或短语。
+Version 5.2.0 (Sep 10, 2021)
+    支持导入视频转写
+    支持编辑时自动保存
+    修复了在录音中应用黑屏的bug
+Version 5.1.3 (Aug 23, 2021)
+    修复了部分已知问题
+    操作更加流畅
+Version 5.1.0 (Aug 15, 2021)
+    修复了部分已知问题
+    操作更加流畅
+Version 5.0.6 (Aug 5, 2021)
+    修复了部分已知问题
+    操作更加流畅
+Version 5.0.1 (Jul 25, 2021)
+    修复了线上的已知问题
+Version 5.0.0 (Jul 19, 2021)
+    1. UI 设计改版
+    1. 通过用户参与评选出 notta app 的新 logo 样式
+    2. 修改了 notta app 的主题色，由 孔雀绿 调整至 科技蓝 整体呈现更加整洁明快
+    3. 新增了白天黑夜模式的主题切换，提供更丰富的用户可选项(Delay)
+    4. 修改了 notta app 登录注册页面的 CTA 展示形式，
+    5. 视觉突出了 notta app 的登录注册页面的第三方登录
+    6. 修改了 notta app 内的插画风格
+    7. 优化了notta web 官网页面的信息呈现形式
+    2. UX 设计优化
+    1. 更方便的文本操作：引入滑动的操作方式对模块化的转写文本进行便捷操作，转写文本一键支持：复制、分享、插入图片、标记重点
+    2. 更人性的音频操作：前后3秒的快速定位，辅助在录音时的快速音频标记，可以让用户迅速定位音频重点
+    3. 更快速的添加记录操作：将导入音频转写、快速录音实时转写、选择语言转写入口归一，利用CTA引导用户完成录音文件的命名
+    4. 更明显的用户身份标识：引入 “mine” 的交互设计，直观感受到用户信息（包含会员身份）
+    5. 便捷的文件夹管理：主页切换文件夹，省去原有多余操作
+    6. 增强 音频&文字 的视觉联系，引入竖屏对应交互方式，直观展示音频即文本理念
+    7. 修改了录音实时转写的直播话术，引导用户进行”live“文字直播分享
+    8. 修改了分享的后续逻辑，通过链接拼接的方式透出 notta 的品牌，便于后续获客
+    9. 优化了翻译的交互操作，引导用户进行文本后置翻译
+    10. 在用户录音操作前，进行期望值管理，引导用户进行有效的录音转写
+    11. 简化了进行业务操作时的音频状态在主页的显示
+    12. 添加图片时，拍照和选择相册操作页面二合一，便于添加图片
+    3. 核心功能改版
+    1. notta web 订阅页面的改版，保持多端的价格统一
+    2. 录音重点与音频标记功能二合一为文本重点，直观体现文本与音频的联系
+    3. 移除原有初级会员权益，保留高级会员权益
+    4. 引导评分逻辑变更：详情中触发评价，引导用户去应用商店给与好评及高评分
+    5. 移除活动中心改为本地信息流宣介
+    6. 优化了音频列表的管理操作，可以新增、删除、修改 文本重点类型 并支持一键导出重点文本
+    7. 实时保存编辑文本，灵活撤回操作，不用担心编辑文本丢失
+    4. 权益无限制使用
+    1. 实时转写功能注册即可使用，无需付费
+    2. 新功能：文本重点 无需付费免费体验
+    5. 详细的使用说明（宣介相关数据使用的安全条款，表明我们的信息）
+    1. 更新新华了帮助中心的说明文档，包含 常见问题 与 app 使用说明
+    2. 注册后改版了新手引导功能，用户可以通过操作 demo 的方式直观体验产品核心功能，并可反复观看
+    3. 修改隐私协议和使用说明
+    4. 主页透出常用功能说明入口，引导用户点击了解
+    5. 新增了订阅常见问题的页面透出
+    6. 更人性化的反馈支持操作
+    6. 多端支持操作
+    1. Microsoft Edge 浏览器的适配支持
+Version 4.7.0 (Jun 21, 2021)
+    修复已知问题。
+Version 4.6.0 (Jun 11, 2021)
+    修复了已知问题。
+Version 4.5.0 (May 16, 2021)
+    修复了已知问题，上传音频更加流畅。
+Version 4.4.0 (May 11, 2021)
+    修复已知问题，在上传中可以更加流畅。
+    同时在notta web上可以获得更流畅的编辑体验，网址:notta.ai
+Version 4.3.0 (Apr 20, 2021)
+    注册即可免费体验以下功能：
+    - 录音文字实时显示，可以添加音频标记、图片和文本重点等信息
+    - 支持多种格式的音频文件导入和转写
+    - 41 种语言文本翻译
+    - 享有超大存储空间，多端同步
+    - 免费导出多种格式文件
+    - 通过出色的互动体验实时共享转录的文本。
+Version 4.2.2 (Apr 13, 2021)
+    "注册即可获得高级会员!" 提升你的效率就是现在！
+    可免费体验以下功能：
+    - 录音文字实时显示，可以添加音频标记、图片和文本重点等信息
+    - 支持多种格式的音频文件导入和转写
+    - 41 种语言文本翻译
+    - 享有超大存储空间，多端同步
+    - 免费导出多种格式文件
+    - 通过出色的互动体验实时共享转录的文本。
+Version 4.2.1 (Apr 12, 2021)
+    "注册即可获得高级会员!" 提升你的效率就是现在！
+    可免费体验以下功能：
+    - 录音文字实时显示，可以添加音频标记、图片和文本重点等信息
+    - 支持多种格式的音频文件导入和转写
+    - 41 种语言文本翻译
+    - 享有超大存储空间，多端同步
+    - 免费导出多种格式文件
+    - 通过出色的互动体验实时共享转录的文本。
+Version 4.2.0 (Apr 6, 2021)
+    "注册即可获得高级会员!" 提升你的效率就是现在！
+    可免费体验以下功能：
+    - 录音文字实时显示，可以添加音频标记、图片和文本重点等信息
+    - 支持多种格式的音频文件导入和转写
+    - 41 种语言文本翻译
+    - 享有超大存储空间，多端同步
+    - 免费导出多种格式文件
+    - 通过出色的互动体验实时共享转录的文本。
+Version 4.1.0 (Mar 18, 2021)
+    "注册即可获得高级会员!" 提升你的效率就是现在！
+    可免费体验以下功能：
+    - 录音文字实时显示，可以添加音频标记、图片和文本重点等信息
+    - 支持多种格式的音频文件导入和转写
+    - 41 种语言文本翻译
+    - 享有超大存储空间，多端同步
+    - 免费导出多种格式文件
+    - 通过出色的互动体验实时共享转录的文本。
+Version 4.0.0 (Mar 1, 2021)
+    "注册即可获得高级会员!" 提升你的效率就是现在！
+    可免费体验以下功能：
+    - 录音文字实时显示，可以添加音频标记、图片和文本重点等信息
+    - 支持多种格式的音频文件导入和转写
+    - 41 种语言文本翻译
+    - 享有超大存储空间，多端同步
+    - 免费导出多种格式文件
+    - 通过出色的互动体验实时共享转录的文本。
+Version 3.9.0 (Feb 4, 2021)
+    全新活动 ——"注册即可获得高级会员!" 提升你的效率就是现在！
+    可免费体验以下功能：
+    - 录音文字实时显示，可以添加音频标记、图片和文本重点等信息
+    - 支持多种格式的音频文件导入和转写
+    - 41 种语言文本翻译
+    - 享有超大存储空间，多端同步
+    - 免费导出多种格式文件
+    - 通过出色的互动体验实时共享转录的文本。
+Version 3.8.0 (Jan 27, 2021)
+    - 添加权益图片，为您提高各功能的辨识度
+    - 提升弹窗视觉效果，操作更加流畅！
+Version 3.7.0 (Jan 18, 2021)
+    - 添加权益图片，为您提高各功能的辨识度
+    - 提升弹窗视觉效果，操作更加流畅！
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可前往 设置 > 帮助中心 查看解决方案
+    也可以通过 设置 > 用户反馈 提交使用中的问题，亦可随时联系onlinesupport@notta.ai
+    我们会在第一时间响应解答您的疑问。
+Version 3.6.0 (Jan 14, 2021)
+    - 优化了线上服务的响应速度，修复了已知问题。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可前往 设置 > 帮助中心 查看解决方案
+    也可以通过 设置 > 用户反馈 提交使用中的问题，亦可随时联系onlinesupport@notta.ai
+    我们会在第一时间响应解答您的疑问。
+Version 3.5.0 (Dec 16, 2020)
+    -修复了音频转写异常的问题。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可前往 设置 > 帮助中心 查看解决方案，也可以通过 设置 > 用户反馈 提交使用中的问题，亦可随时联系 onlinesupport@notta.ai
+    我们会在第一时间响应解答您的疑问。
+Version 3.4.0 (Dec 8, 2020)
+    -修复了订阅会员后功能异常的问题。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可前往 设置 > 帮助中心 查看解决方案，也可以通过 设置 > 用户反馈 提交使用中的问题，亦可随时联系 onlinesupport@notta.ai
+    我们会在第一时间响应解答您的疑问。
+Version 3.2.0 (Dec 7, 2020)
+    - 优化了编辑页面的保存速度，带来更好的编辑体验。
+    - 修复了剩余转写时长显示异常问题。
+Version 3.1.0 (Nov 18, 2020)
+    重磅福利放送：
+    - 新用户注册登录即送 7 天免费会员！解锁 Notta 7 大功能权益，助力效率提升！
+    - 时长不足？不要担心！ Notta 每日活动免费赠送 30 分钟转写时长。
+    Notta 让声音产生价值~
+Version 3.0.0 (Nov 10, 2020)
+    ##标记重点## 功能重磅上线！在实时录音转写和会话详情中长按段落文字标记会话重点。
+    - 贴心的功能设计便于您在会话详情中定位和查看标记的重点段落。
+    - 更可以一键编辑、多端同步重点内容，高效回顾会议会话。
+Version 2.8.0 (Nov 2, 2020)
+    - 会话列表支持批量删除和移动啦！一键整理会话记录！
+    - 优化了会话详情中的音频播放体验，音频播放如丝般顺滑！
+Version 2.7.0 (Oct 21, 2020)
+    - 新增了常用功能使用引导提示，方便您更快的熟悉 Notta，提升学习工作效率。
+    - 修改了部分地区订阅商品发放延迟的问题。
+Version 2.6.0 (Oct 10, 2020)
+    - 它来了! 最强语音转写加文本翻译组合功能上线！
+    - 转写结果支持 41 种语言的文本翻译，免费使用，就趁现在！
+Version 2.4.9 (Sep 25, 2020)
+    - 适配了 iOS 14系统，操作更加流畅。
+    - 长按 Notta 图标可以一键开启录音。
+Version 2.4.1 (Sep 17, 2020)
+    - 紧急修复了2.4.0版本会话记录不可见的 bug，现 Notta 全功能均正常可放心使用。
+    对应模块产品汪和程序猿本月绩效 0 分，并处罚款。（ 认真脸
+    给您带来的不便深表歉意！我们会严格把关，杜绝此类现象再次发生！
+Version 2.4.0 (Sep 10, 2020)
+    - 优化了注册页面的体验。
+    - 修复了中文实时转写无结果的问题。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可前往 设置 > 帮助中心 查看解决方案，也可以通过 设置 > 用户反馈 提交使用中的问题，亦可随时联系 support@langogo.ai（使用AppleID登录的用户请填写真实邮箱）我们会在第一时间响应解答您的疑问。
+Version 2.3.0 (Sep 7, 2020)
+    - 优化了操作会话时的响应速度。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可前往 设置 > 帮助中心 查看解决方案，也可以通过 设置 > 用户反馈 提交使用中的问题，亦可随时联系 support@langogo.ai
+    我们会在第一时间响应解答您的疑问。
+Version 2.2.0 (Aug 28, 2020)
+    -修复了文件转写时，长时间提示“转写中”的异常。
+    -修复了已知问题。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可前往 设置 > 帮助中心 查看解决方案，也可以通过 设置 > 用户反馈 提交使用中的问题，亦可随时联系 support@langogo.ai
+    我们会在第一时间响应解答您的疑问。
+Version 2.1.0 (Aug 25, 2020)
+    -【帮助中心】功能上线，您可以在应用设置中的帮助中心查看 Notta 的使用指南和常见问题解答~
+    ⁣- 支持实时转写的全屏显示，并支持实时调节转写的文字大小。
+    ⁣- 折扣价上线了年付、半年付的订阅会员商品，以更优惠的价格取得会员身份。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 2.0.0 (Aug 7, 2020)
+    - Notta 在设置中可以修改转写文本的字体大小啦！快来选择最合适你的字体吧~
+    - 优化了在注册邮箱账号时的页面显示。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.9.0 (Jul 31, 2020)
+    - 在会话详情页面可以使用音频倍速播放功能啦！
+    - 修复了在保存会话时应用闪退的问题。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.8.1 (Jul 23, 2020)
+    - 修复了录音转写中，应用闪退的问题。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.8.0 (Jul 18, 2020)
+    - 修复了录音时无文字显示的问题。
+    - 修复了保存会话文本后文本丢失的问题。
+    - 支持使用苹果登录。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.6.0 (Jul 8, 2020)
+    功能上新啦~
+    -添加图片：在录音和会话详情页面可以添加图片，结合音频、文字记录精彩瞬间。
+    -音频标记：在录音和会话详情页面可以进行音频标记，快速标记重要时刻方便回听、查看。
+    -会话分享：录音中的实时转写文字分享或已转写的会话详情给好友，文字实时同步，支持手机、PC端等多端实时查看。
+    -性能提升：录音结束后快速出稿。支持离线音频的再次转写获取完整文本。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.5.7 (Jun 23, 2020)
+    - 优化了在音频播放时，文字高亮的显示效果。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.5.6 (Jun 22, 2020)
+    - 优化了在音频播放时，文字高亮的显示效果。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.5.5 (Jun 19, 2020)
+    · 修复了会引起应用崩溃的问题。
+    『Notta』十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.5.4 (Jun 17, 2020)
+    · 优化了页面的显示。
+    · 修复已知问题。
+    我们十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.5.3 (Jun 14, 2020)
+    ·修复已知问题。
+    我们十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.5.2 (Jun 12, 2020)
+    -应用设置中可以选择多语言啦，支持手动实时切换哟！
+    -修复了上传失败的问题。
+    我们十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+Version 1.5.1 (Jun 2, 2020)
+    我们对上个版本出现一些问题深感抱歉！现已紧急修复，修改项如下：
+    -修复了第三方登录失败的问题。
+    -修复了录音时应用报错的问题。
+    我们十分重视您的反馈，在使用 APP 中出现的任问题可随时联系 support@langogo.ai 我们会第一时间回复您！
+    给您带来困扰，再次道歉！
+Version 1.5.0 (May 29, 2020)
+    Notta 大更新！新的特性！新的功能！
+    -全新的导航栏，功能一键触达。
+    -妈妈再也不用担心会话文件找不到啦！自定义文件夹功能上线，会话归类，随心移动。
+    -会话详情中支持文本搜索，点击文字跟读。
+Version 1.4.0 (May 13, 2020)
+    产品经理以女装为代价换取下述功能：
+    -新特性！支持 Google、Microsoft 第三方授权登录。
+    -打造沉浸式录音体验，优化了录音页面的信息展示
+    -增强可操作性，支持录音页面最小化、暂停、结束等操作。
+    -修复导出 DOCX 文件失败的已知问题.
+Version 1.3.1 (May 7, 2020)
+    -开放限制：支持长达 5 小时的录音实时转写
+    -注册用户将永久享有每月 120 分钟的免费转写时长
+    -修复已知问题，现在更容易操作页面内容和控件
+Version 1.3.0 (Apr 27, 2020)
+    -优化导出 PDF 排版样式；
+    -新增导出 SRT、DOCX 格式文件功能；
+    -优化页面转写时长显示；
+    -音频会话云备份，支持云端音频播放
+Version 1.2.1 (Apr 2, 2020)
+    -修复转录详情页面音频时长显示问题
+    -修复转录详情页请求转录loading中返回列表页面后crash
+    -修复新插入音频文件等待上传时请求转录传入格式错误导致转录不成功
+    -修复音频文件上传中频繁切换网络导致丢包因而导致的转录不成功
+Version 1.2.0 (Mar 28, 2020)
+    1. 通用设置-音频自动上传；
+    2. 转录体验优化；
+    3. 首页优化；
+Version 1.1.0 (Mar 17, 2020)
+    1. 会员优惠￥15 每月享有3000分钟转录时长；
+    2. 录音界面体验优化；
+    3. 客户端多语言支持英文、日文、中文（简体&繁体）；
+    4. 转录文本自动提炼关键字；
+Version 1.0.2 (Feb 20, 2020)
+    修复已知问题
+Version 1.0.1 (Jan 18, 2020)
+    1. 新增新手引导；
+    2. 充值时长券界面优化；
+    3. 体验优化；
+Version 1.0.0 (Dec 21, 2019)
+
+Users may also like
+Select objects to compare
+iTranscribe - Audio to Text
+Speech to Text Transcribe
+Speech to Text+
+Dictation - Speech to text
+Group Transcribe
+Voice to Text Dictation VoxRec
+Audio Transcribe
+Otter: Transcribe Voice Notes
+Voice Transcriber - Dictation
+Transcribe: Accurate Dictation
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    6.9.0
+    Current release
+    Jan 29, 2024
+    6.8.0
+    Jan 17, 2024
+    6.7.0
+    Dec 29, 2023
+    6.6.0
+    Dec 16, 2023
+    6.2.0
+    Oct 11, 2023
+    6.1.0
+    Sep 27, 2023
+    6.0.5
+    Sep 20, 2023
+    5.46.0
+    Aug 16, 2023
+    5.45.0
+    Aug 2, 2023
+    5.44.0
+    Jul 27, 2023
+    5.43.2
+    Jul 11, 2023
+    5.42.0
+    Jun 2, 2023
+    5.41.0
+    May 26, 2023
+    5.40.0
+    May 16, 2023
+    5.39.0
+    Apr 6, 2023
+    5.38.0
+    Mar 22, 2023
+    5.37.0
+    Mar 13, 2023
+    5.36.0
+    Feb 13, 2023
+    5.35.0
+    Jan 13, 2023
+    5.34.1
+    Jan 4, 2023
+    5.34.1
+    Jan 4, 2023
+    5.34.0
+    Dec 29, 2022
+    5.33.0
+    Dec 14, 2022
+    5.32.0
+    Dec 1, 2022
+    5.31.0
+    Nov 23, 2022
+    5.30.0
+    Nov 11, 2022
+    5.29.0
+    Nov 2, 2022
+    5.28.0
+    Oct 27, 2022
+    5.27.0
+    Sep 30, 2022
+    5.25.0
+    Aug 11, 2022
+    5.24.0
+    Jul 29, 2022
+    5.22.1
+    Jul 3, 2022
+    5.21.0
+    Jun 15, 2022
+    5.20.0
+    Jun 2, 2022
+    5.19.2
+    May 30, 2022
+    5.19.1
+    May 19, 2022
+    5.18.0
+    May 13, 2022
+    5.17.0
+    Apr 28, 2022
+    5.16.2
+    Apr 14, 2022
+    5.16.1
+    Apr 7, 2022
+    5.16.0
+    Apr 1, 2022
+    5.15.0
+    Mar 21, 2022
+    5.14.1
+    Mar 10, 2022
+    5.14.0
+    Mar 9, 2022
+    5.13.0
+    Feb 20, 2022
+    5.12.0
+    Jan 21, 2022
+    5.11.0
+    Jan 12, 2022
+    5.10.0
+    Dec 23, 2021
+    5.9.0
+    Dec 9, 2021
+    5.8.0
+    Dec 1, 2021
+    5.7.0
+    Nov 18, 2021
+    5.6.0
+    Oct 27, 2021
+    5.5.0
+    Oct 20, 2021
+    5.4.0
+    Sep 26, 2021
+    5.3.0
+    Sep 14, 2021
+    5.2.0
+    Sep 10, 2021
+    5.1.3
+    Aug 23, 2021
+    5.1.0
+    Aug 15, 2021
+    5.0.6
+    Aug 5, 2021
+    5.0.1
+    Jul 25, 2021
+    5.0.0
+    Jul 19, 2021
+    4.7.0
+    Jun 21, 2021
+    4.6.0
+    Jun 11, 2021
+    4.5.0
+    May 16, 2021
+    4.4.0
+    May 11, 2021
+    4.3.0
+    Apr 20, 2021
+    4.2.2
+    Apr 13, 2021
+    4.2.1
+    Apr 12, 2021
+    4.2.0
+    Apr 6, 2021
+    4.1.0
+    Mar 18, 2021
+    4.0.0
+    Mar 1, 2021
+    3.9.0
+    Feb 4, 2021
+    3.8.0
+    Jan 27, 2021
+    3.7.0
+    Jan 18, 2021
+    3.6.0
+    Jan 14, 2021
+    3.5.0
+    Dec 16, 2020
+    3.4.0
+    Dec 8, 2020
+    3.2.0
+    Dec 7, 2020
+    3.1.0
+    Nov 18, 2020
+    3.0.0
+    Nov 10, 2020
+    2.8.0
+    Nov 2, 2020
+    2.7.0
+    Oct 21, 2020
+    2.6.0
+    Oct 10, 2020
+    2.4.9
+    Sep 25, 2020
+    2.4.1
+    Sep 17, 2020
+    2.4.0
+    Sep 10, 2020
+    2.3.0
+    Sep 7, 2020
+    2.2.0
+    Aug 28, 2020
+    2.1.0
+    Aug 25, 2020
+    2.0.0
+    Aug 7, 2020
+    1.9.0
+    Jul 31, 2020
+    1.8.1
+    Jul 23, 2020
+    1.8.0
+    Jul 18, 2020
+    1.6.0
+    Jul 8, 2020
+    1.5.7
+    Jun 23, 2020
+    1.5.6
+    Jun 22, 2020
+    1.5.5
+    Jun 19, 2020
+    1.5.4
+    Jun 17, 2020
+    1.5.3
+    Jun 14, 2020
+    1.5.2
+    Jun 12, 2020
+    1.5.1
+    Jun 2, 2020
+    1.5.0
+    May 29, 2020
+    1.4.0
+    May 13, 2020
+    1.3.1
+    May 7, 2020
+    1.3.0
+    Apr 27, 2020
+    1.2.1
+    Apr 2, 2020
+    1.2.0
+    Mar 28, 2020
+    1.1.0
+    Mar 17, 2020
+    1.0.2
+    Feb 20, 2020
+    1.0.1
+    Jan 18, 2020
+    1.0.0
+    Dec 21, 2019
+
+See More
+Top In-App Purchases
+
+    Dictation - Monthly Pro
+    $13.99
+    Speech to Text Annual Pro Plan
+    $98.99
+    Notta Pro - Annual
+    $98.99
+    Annual Pro Plan
+    $98.99
+    Education Discount for 1 year
+    $49.99
+    300 minutes for transcription
+    $10.99
+    Notta Pro - Monthly
+    $13.99
+    Continuous monthly VIP
+    $7.99
+    100 minutes for transcription
+    $3.99
+    Monthly Pro Plan - 30%OFF
+    $9.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 19, 2019
+
+Worldwide Release Date
+    Dec 19, 2019
+
+Last Updated Time
+    Feb 27, 2024
+
+Version
+    6.9.0
+
+Size
+    170.96 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Simplified Chinese, Traditional Chinese
+
+Seller
+    Mind Cruiser Limited
+
+Company HQ
+    Hong Kong
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 and watchOS 7.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.langogo.lggtranscribe
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (May 19, 2022)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1480649572
+Unified App ID: 1000800000142937
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Notta-Transcribe Voice to Text | data.ai

@@ -1,0 +1,320 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Noteflow Digital Notebook
+QrayonProductivity (Applications)Free
+Alerts
+
+Noteflow Digital Notebook
+Noteflow Digital Notebook
+Noteflow Digital Notebook
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Noteflow Digital Notebook
+Digital Pen and Paper.
+Productivity (Applications)
+Free
+App Description
+Noteflow is designed to replace pen and paper. It is a modern digital notebook that lets you get the most from your iPad and iPhone.
+
+Use it for taking notes, annotating PDFs, sketching and doodling, plus a whole lot more:
+
+Copy and paste from the real world: Use Inkport gen 2 to snap a picture of a whiteboard or writing and convert it into Noteflow's native vector ink. No special paper needed. Then resize, re-color, or edit as if you wrote it in Noteflow.
+
+Create layered drawings without layers: Use the highlighter tool to color and shade behind existing ink. Use Color-Select to separate and edit individual colors. It's a much more fluid and natural editing experience than with layers. Use the straight-line tool with a grid for fast and intuitive wireframes and drafting.
+
+Drag-and-drop, cloud-storage, and more: Noteflow natively integrates with iOS's file system and drag-and-drop capabilities. Drop photos and text into Noteflow, and drag your drawings into other apps. Store your files locally or sync with the cloud service of your choice. Make Noteflow a seamless part of your workflow, the way you like.
+
+SPACE FOR YOUR IDEAS TO ROAM
+
+Our vision for Noteflow is simple: to be digital pen and paper.
+
+The magic of pen and paper is in their versatility. They are useful for so many things, but particularly for the freeform capture of ideas. Noteflow expands upon this quality.
+
+You can naturally do all the things you normally do with pen and paper: take notes in meetings or class, and jot down flashes of inspirations on the go. And you can take that to a whole new level:
+
+One of Noteflow’s best uses is for "thinking on digital paper": quickly capture key ideas and concepts, then move and organize them on the screen.
+
+Noteflow's vector ink engine lets you scale and edit your work without any loss of quality. Your words and drawings remain tack sharp when zoomed in, giving you a huge effective working canvas even on a single page.
+
+There are analogues in the physical world, such as sketchnotes or everyday working on a white board, but being able to fluidly edit and move your ideas around the page is something you can only do digitally.
+
+When you represent the ideas in your head with your own personal scribbles on the screen, it effectively becomes an extension of your mind - giving you more room to think.
+
+We've designed every part of Noteflow to let you intuitively capture and work on your ideas the way you like. Whether it's dropping in existing information, quickly sketching concepts, or assembling polished presentations for others.
+
+EVALUATE NOTEFLOW RISK FREE
+
+Rather than just read about Noteflow, go ahead and try it out: We've decided to make the Basic Edition completely FREE. The Basic Edition is a full featured note-taking and sketching app. It comes with the Fountain Pen with black ink, photos, and a standard set of 5 popular fonts for text. Books max out at 20 pages each, but you can create as many as you like.
+
+NOTEFLOW+
+
+Upgrade instantly at any time to get:
++ Inkport
++ Import and annotate PDFs
++ A customizable, full color palette,
++ The Marker, Write-Behind Highlighter and Straight Line tools.
++ Rotate, Cut, Copy, Paste Ink, and Page Management,
++ Notebooks with unlimited pages,
++ Page backgrounds and sizes,
++ An additional 50+ fonts,
++ And more!
+
+Learn more in the in-app Quickstart Guide.
+
+DIGITAL TOOLS FOR A DIGITAL AGE
+
+I hope you'll find Noteflow a useful part of your workflow, and that you'll discover new ways to do things with it that weren't easy before.
+
+We're very proud of the work we've put into Noteflow, but we're also just seen the beginning of what's possible with powerful new digital platforms like the iPad.
+
+Our goal is to push these platforms to their limits to craft useful tools. Tools that can help us think a little more clearly, communicate a bit more effectively, and connect with other in new and enriching ways.
+
+Thanks for joining us on this journey!
+
+-- The App Makers @ Qrayon.
+Ratings
+Displayed Avg Ratings
+4.2
+Total Displayed Ratings
+349
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.2 (Aug 1, 2023)
+    + Fixed an issue where images would not appear
+Version 3.1 (Jan 8, 2022)
+    + Support for the latest iOS and devices
+Version 2.8 (Oct 10, 2019)
+    + Minor fixes
+Version 2.7 (Oct 4, 2019)
+    + Improved iOS gesture support.
+Version 2.6 (Oct 3, 2019)
+    + Support for dark mode
+    + Support for new iOS gestures
+Version 2.5 (Sep 27, 2019)
+    + Fixed an intermittent issue with thumbnail generation.
+Version 2.4 (Dec 14, 2018)
+    + Pencil 2 double-tap: Double tap on the Pencil 2 to toggle between the eraser and drawing.
+Version 2.2 (Nov 30, 2018)
+    + Minor updates.
+Version 2.1 (Sep 26, 2018)
+    + Improved text editor layout on iPhone X.
+Version 2.0 (Jul 20, 2018)
+    + Improved ink tracking with Apple Pencil
+Version 1.9 (Jul 12, 2018)
+    + Minor performance updates.
+Version 1.8 (Jul 10, 2018)
+    + Shape-recognizer (Noteflow+): Tap the Straight-Line tool when selected to toggle shape-recognizer mode and draw perfect circles, triangles, and squares.
+Version 1.7 (May 31, 2018)
+    + Improved drag and drop into other apps
+    + Improved ink
+Version 1.5 (Dec 4, 2017)
+    + Smoother Ink: Improved vector ink rendering.
+    + High-res export (Noteflow+): Toggle in app settings for 4x resolution exports.
+Version 1.4 (Dec 1, 2017)
+    + Performance improvements
+Version 1.3 (Oct 27, 2017)
+    + Minor bug fixes.
+Version 1.2 (Oct 26, 2017)
+    + Transparent PNGs: Transparency is now preserved when inserting a transparent PNG.
+    + Pencil-Only Mode panning: To avoid unintended touches, a single finger will no longer pan, but you can still pan and zoom with two fingers.
+Version 1.1 (Sep 25, 2017)
+    + Minor improvements.
+Version 1.0 (Sep 19, 2017)
+
+Users may also like
+Select objects to compare
+ZoomNotes Lite
+Elisi: Goal Planner & Tracker
+ZoomNotes
+Think Note Book - Write & Edit
+Blue Sketch - Handwritten note
+Noteplicity
+Stylus Labs Write
+Notes Plus
+Plus Note Taking Memo Notepad
+Notes Writer Pro 2024
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.2
+    Current release
+    Aug 1, 2023
+    3.1
+    Jan 8, 2022
+    2.8
+    Oct 10, 2019
+    2.7
+    Oct 4, 2019
+    2.6
+    Oct 3, 2019
+    2.5
+    Sep 27, 2019
+    2.4
+    Dec 14, 2018
+    2.2
+    Nov 30, 2018
+    2.1
+    Sep 26, 2018
+    2.0
+    Jul 20, 2018
+    1.9
+    Jul 12, 2018
+    1.8
+    Jul 10, 2018
+    1.7
+    May 31, 2018
+    1.5
+    Dec 4, 2017
+    1.4
+    Dec 1, 2017
+    1.3
+    Oct 27, 2017
+    1.2
+    Oct 26, 2017
+    1.1
+    Sep 25, 2017
+    1.0
+    Sep 19, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 19, 2017
+
+Worldwide Release Date
+    Sep 19, 2017
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    3.2
+
+Size
+    16.45 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Qrayon, LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.4 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.qrayon.NoteflowLite
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1252732105
+Unified App ID: 1000800000013149
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Noteflow Digital Notebook | data.ai
