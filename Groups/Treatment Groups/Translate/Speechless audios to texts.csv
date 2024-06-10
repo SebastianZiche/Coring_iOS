@@ -1,0 +1,14 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.10,2024-01-31,Minor improvements.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.9,2024-01-23,Fixed: The record button doesn t appear when trying to record.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.6,2024-01-17,Improved: Move start recording button on center of bottom screen between tabs. Improved: After clicking on stop recording start transcribing.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.5,2024-01-14,Added: Now you can record audio inside Speechless to transcribe or translate it.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.4,2023-11-29,Minor Improvements.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.3.8,2023-11-07,Fixed: Stopped generating replies now it works. Sorry for that.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.3.7,2023-10-30,Fixed: Stopped generating replies now it works. Sorry for that.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.3.5,2023-10-23,Fixed: Stopped generating replies now it works. Sorry for that.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.3.3,2023-10-02,Fixed: Stopped generating replies now it works. Sorry for that. Ensure compatibility with iOS 14.0. Optimize localization for the Italian language. Address and enhance various aspects of the app.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.3.2,2023-09-19,Ensure compatibility with iOS 14.0. Optimize localization for the Italian language. Address and enhance various aspects of the app.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.3.1,2023-08-23,Support Italian language.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.3,2023-08-14,Support Italian language.
+6456413273,0,Speechless audios to texts,Utilities,2023-08-08,2023-08-08,15.78,2,0,0,1,1.0,2023-08-09,

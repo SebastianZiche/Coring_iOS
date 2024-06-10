@@ -1,0 +1,52 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.1.5,2024-02-22,Fixed bug occurring when there is a new incoming call during an ongoing call.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.1.4,2023-12-31,Fixed lagging issue,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.1.3,2023-12-15,Fixed bug occurring when uploading a picture.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.1.2,2023-12-08,Fixed group message and notification bugs.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.1.1,2023-11-28,We improved the file upload speed.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.0.9,2023-11-17,Bug fixes and performance improvement.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.0.8,2023-10-02,More Bug fixes.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.0.7,2023-09-20,Improved call quality.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.0.5,2023-04-18,Fixed bug that occurred when blocking a user from their profile page.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.0.4,2023-04-16,Bug fixes and performance improvement.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.0.3,2023-03-26,Fixed registration bug.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.0.2,2023-03-22,Fixed messaging error and improved performance.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,40.0.1,2023-03-02,Fixed update error message.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,39,2023-02-07,Fixed a bug which caused a lag when composing messages. Added the option to rejoin a group call you get dropped.,0,0,0,0,0,0,0,1
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,38,2022-07-02,We fixed a bug that occurs when adding a user to a group call. Prior to this fix the user didn t appear on the contact list.,1,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,37,2022-06-21,You now have the option to show previous group chat history to new group members.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,36,2022-06-03,Improved date and time format for outgoing and incoming messages Added the option to delete your account permanently. Added a Calls tab that gives you access to your call history with the option to wipe it from the device and server. Enabled the upload of multiple photos and videos while sending them. Fixed bugs and improved performance.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,35,2021-12-21,Bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,34,2021-10-05,Fixed file upload bug.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,33,2021-09-24,Voice message bug has been fixed.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,32,2021-08-18,You can now block users again by accessing the settings page.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,31,2021-08-05,Fixed issue having to do with links and audio files not getting shared via the app.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,30,2021-08-03,In this version we fixed a bug related to received video sound playing even after you close the video player.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,29,2021-07-31,In this build we improved group admin permissions.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,28,2021-07-27,Fixed null message notification bug,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,27.0,2021-07-16,Comes with an upgradable 30GB Free storage A.I powered file scanning to reduce chances of your device getting infected with malware In addition to the existing Stealth functionality we added a Teams option including the ability to create and manage groups now allows you to collaborate with others. You are now able to share all types of files Word Excel Pdf PowerPoint etc... . You can hide or show your online Status to your contacts. You can share your individual or group profile. You can share a meeting link with anyone and they can join from their web browser without having to install anything. The application can also be accessed from a web browser Webchat version .,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,26.0,2021-01-26,Chat issue fixes,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,24.0,2020-12-09,Fixed message notification issue.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,21.0,2020-08-02,Implemented new in app purchases so users can enjoy a free trial prior to purchase. A screen recording notification gets sent to you when your message recipient starts or stops the screen recording of your messages or calls voice or video .,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,20.0,2020-06-23,Bug fixes. voice and videoconferencing are more stable.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,19.0,2019-07-24,Improved poor connection indicator.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,18.0,2019-07-19,Fixed a bug related to the handling of incoming GSM and app calls while on another call.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,17.0,2019-06-29,Fixed incoming video call bug,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,12.0,2019-05-15,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,11.0,2019-02-02,Compatible with the latest iOS version Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,10.0,2018-05-22,Sending encrypted voice and video messages that self destruct once viewed. works only from iOS to iOS for now . Encrypted Voice call and Video conference with up to 6 participants works only from iOs to iOS for now . Selective Blocking: Instead of a full block you can do a partial block to keep someone from sending you messages or certain file types while allowing others.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,7.2,2017-02-22,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,7.1,2017-02-02,The startup and animation sounds can now be switched off. Email is now optional for registration unless you want to be able to reset your password in the future.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,7.0,2017-01-06,We added new themes.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,6.0,2016-08-26,Fixed minor bugs on the live user list and the user s profile page.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,5.0,2016-07-19,Send anonymous messages to other local users or to Squealock users worldwide.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,4.3,2016-06-17,push notification improved,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,4.1,2016-04-01,Modified app name,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,4.0,2016-03-10,Picture attachments are processed even faster Fixed minor bugs,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,3.0,2016-01-12,Fixed bug occurring while attaching a picture. Taking a screenshot will notify the message sender.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,2.9,2015-12-22,New logo and sounds. Fixed a critical bug,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,2.5,2015-09-28,Text auto fit for displayed messages,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,2.3,2015-09-17,You are able to send attachments that are up to 6MB in size. You can click on a displayed picture to make it bigger or full screen.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,2.0,2015-08-27,User IDs are no longer case sensitive. Passwords must be longer for security reasons.,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,1.0,2015-07-30,,0,0,0,0,0,0,0,0
+1006457669,0,Safi Stealth Messenger,Business,2015-08-21,2015-07-29,92.45,5,0,0,1,7.3,2015-07-29,Fixed a minor bug on live user screen.,0,0,0,0,0,0,0,0

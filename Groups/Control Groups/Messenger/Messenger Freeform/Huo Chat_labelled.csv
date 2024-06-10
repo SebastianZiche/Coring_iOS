@@ -1,0 +1,52 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.1.6,2023-04-17,fix bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.1.5,2022-12-31,fix bugs,0,0,0,0,0,0,1,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.1.4,2022-12-06,fix bugs,0,0,0,0,0,1,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.1.3,2022-11-15,fix bugs,0,0,0,0,1,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.1.2,2022-10-17,fix bugs,0,0,0,1,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.1.1,2022-10-04,fix bugs,0,0,0,1,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.1.0,2022-09-23,fix bugs,0,0,1,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.0.5,2022-03-10,fix bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.0.4,2022-02-19,fix bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.0.3,2022-01-29,Fix known system bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.0.2,2022-01-02,Modify known system bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.0.1,2021-12-20,Modify known system bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,5.0.0,2021-12-06,Optimize known bugs in the system.,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.24,2021-11-17,Fix known system bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.22,2021-10-30,Group chat experience optimization Fix bug Recent updates Popular New Latest Hottest,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.21,2021-09-30,Fix known system bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.20,2021-09-23,Fix known system bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.18,2021-09-04,Fix known system bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.17,2021-08-30,Fix known system bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.16,2021-08-02,Fix known bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.15,2021-07-02,Optimize some known bugs. Added a new prompt to close group weakness.,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.13,2021-06-08,Fixed login exception issue.,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.12,2021-05-18,Fix known issues and improve App stability.,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.11,2021-04-19,1. Newly registered users are provided with a random avatar and nickname. 2.Fix some known issues,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.10,2021-03-17,Fix some known issues.,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.9,2021-02-06,Fix some known issues,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.8,2021-01-10,Fix some known issues,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.7,2020-12-22,1. Fix user feedback issues 2. Improve the stability of the App,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.6,2020-12-04,Fix some known issues,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.5,2020-11-24,1.Personal homepage revision 2. Add liquidation data 3. The validity period of login status is extended,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.4,2020-10-29,1. Design experience optimization 2. Fix some known issues,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.3,2020-10-12,Solved some online crash issues.,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.2,2020-09-24,1. App底Bar icon优化 2. Improved page loading smoothness,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.1,2020-09-08,1. Fixed the problem of being unable to set avatar and nickname 2. Fix the crash problem when clicking to take a photo,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,4.0.0,2020-09-07,1. Interface structure adjustment 2. Fix some known issues,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,3.5.1,2020-07-29,Fixed some known issues and improved user experience.,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,3.5.0,2020-07-22,1. 7 new member rights are newly launched 2. Return of Points Mall,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,3.4.0,2020-06-21,1. Added custom market tracking 2. Increase in the number of group administrators 3. Newcomer gift package event starts,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,3.3.0,2020-06-15,1. Support message reply 2. Added market price push 3. New recommendation function for market search,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,3.2.0,2020-05-24,1. New way to add points to the group 2. Privacy optimization of score rankings 3. Revision of personal information editing page 4. Chat module optimization,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,3.1.0,2020-05-12,1. Added liquidation data for the entire network 2. Chat module optimization 3. Revision of task center 4. Group reputation page optimization 5. Unify global design details,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,3.0.0,2020-04-17,1. The content of the discovery page is flat and exposed 2. Brand new revision of the market page 3. Revision of My page 4. Optimization of common function details 5. Global theme visual unity,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,2.11.1,2020-03-27,Added market fluctuation notification,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,2.11.0,2020-03-13,1. Added new high quality dynamic tasks 2. Notification of inviting friends 3. Fix known system bugs,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,2.10.0,2020-02-29,1. Sign in reminder push 2. Task push for newcomers 3. Optimize inviting friends 4. Ban warning,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,2.9.0,2020-02-15,1. Join the newbie gift package 2. Added group poster function 3. Update of user privacy agreement 4. Optimize user registration process,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,2.8.0,2020-01-11,1. Added the task of inviting friends 2. Add new community node identifier 3. Function optimization improves user experience,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,2.5.0,2019-11-28,1. New revision of the school 2. Optimize interaction and enhance product experience 3. Fix known issues 4. Optimize search function,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,2.3.0,2019-10-30,1. Automatic broadcast of voice messages 2. Conversation messages support gif animations 3. Added small fire emoticon,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,2.2.0,2019-10-14,1. Launch the complete market function making it more convenient and comprehensive to view the market 2. Enrich personal information 3.Fix some known issues,0,0,0,0,0,0,0,0
+1431323112,0,Huo Chat,Social Networking,2019-10-07,2019-10-07,249.81,4,0,0,0,2.1.1,2019-10-08,,0,0,0,0,0,0,0,0

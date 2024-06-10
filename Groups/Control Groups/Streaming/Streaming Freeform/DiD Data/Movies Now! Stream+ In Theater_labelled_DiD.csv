@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+467164083,1000800000160545,Movies Now! Stream In Theater,Entertainment,2011-09-30,2011-09-30,21.79,1,1,0,1,0,0,1,0,0,0,0,0,0,0,month_1,0,0,3909,4014.0
+467164083,1000800000160545,Movies Now! Stream In Theater,Entertainment,2011-09-30,2011-09-30,21.79,1,1,0,1,0,0,0,1,0,0,0,0,0,0,month_2,0,0,3939,4014.0
+467164083,1000800000160545,Movies Now! Stream In Theater,Entertainment,2011-09-30,2011-09-30,21.79,1,1,0,1,7,0,0,0,1,0,0,0,0,0,month_3,0,0,3969,4014.0
+467164083,1000800000160545,Movies Now! Stream In Theater,Entertainment,2011-09-30,2011-09-30,21.79,1,1,0,1,0,0,0,0,0,1,0,0,0,0,month_4,0,0,3999,4014.0
+467164083,1000800000160545,Movies Now! Stream In Theater,Entertainment,2011-09-30,2011-09-30,21.79,1,1,0,1,2,0,0,0,0,0,1,0,0,0,month_5,0,1,4029,4014.0
+467164083,1000800000160545,Movies Now! Stream In Theater,Entertainment,2011-09-30,2011-09-30,21.79,1,1,0,1,2,0,0,0,0,0,0,1,0,0,month_6,0,1,4059,4014.0
+467164083,1000800000160545,Movies Now! Stream In Theater,Entertainment,2011-09-30,2011-09-30,21.79,1,1,0,1,1,0,0,0,0,0,0,0,1,0,month_7,0,1,4089,4014.0
+467164083,1000800000160545,Movies Now! Stream In Theater,Entertainment,2011-09-30,2011-09-30,21.79,1,1,0,1,7,0,0,0,0,0,0,0,0,1,month_8,0,1,4119,4014.0

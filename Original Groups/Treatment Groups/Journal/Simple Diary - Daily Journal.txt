@@ -1,0 +1,424 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Simple Diary - Daily Journal
+KomorebiLifestyle (Applications)Free
+Alerts
+
+    Simple Diary - Daily Journal
+    Simple Diary - Daily Journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Simple Diary - Daily Journal
+Write notes: your day & mood
+Lifestyle (Applications)
+Free
+App Description
+This is simple Journaling and easy-to-use diary app with high functionality!
+We have made a simple, most convenient diary app that will allow you to back up without account registration.
+So please download and try the best diary app!
+
+[Functions]
+
+■ Pictures can be inserted into sentences (up to 10)
+Like a blog, you can insert images between sentences. You can also paste photos taken from the camera roll, images saved by WEB, etc.
+
+■ Secure Passcode Lock
+You can lock the app with a password, so if you do not want to be seen by people, you can lock it securely. Of course, it corresponds also to Face ID, Touch ID.
+
+■ Change the theme color
+There are 19 theme colors, so you can dress it into a cute theme or cool theme. You can change not only the design of the app but also the icon of the app to put on the home screen. It is a unique feature of this app equipped with latest functions. (It is necessary to make iOS the latest version)
+
+■ Data backup
+You can back up important diary data. You can also save it to iTunes or PC, but you can also transfer the diary data to another app (eg Evernote, Dropbox etc). RTFD file can be output, so you can save it carefully.
+
+■ Tag search
+Diary search function is attached, you can conveniently search diary by filling in tag. You can easily search many diaries with your favorite words.
+
+■ Adjust character font
+You can also reduce or enlarge the size of the texts, you can also adjust the color depth and spacing between texts.
+It is nice because you can make it big font size for people who can not read texts well.
+
+■ Reminder function
+If you set the time to your liking, the app will do the push notification! You can prevent forgetting to write a diary.
+
+■ You can write a diary many times a day
+A single diary a day is also good, but you can write many diaries on a day like a memo or a work record.
+
+■ Advertisement non-display (In App Purchase)
+This app will hide ads forever if you charge once.
+
+
+【Help, Feedback】
+Please see "Help / FAQ" from the setting screen of the app. If you are unfamiliar with this help, please inquire from " Feedback" from the setting screen in the app. Alternatively, I hope to contact you by tapping the following App support on this screen.
+Even if you write it in the review of the app, it will take time to reflect, so we can not respond quickly. Please inquire from the above app.
+Ratings
+Displayed Avg Ratings
+4.6
+Total Displayed Ratings
+144k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.0.9 (Jan 7, 2024)
+    Bug fixes and improvements.
+Version 4.0.8 (Nov 8, 2023)
+    Bug fixes and improvements.
+Version 4.0.7 (Oct 18, 2023)
+    Bug fixes and improvements.
+Version 4.0.6 (Oct 3, 2023)
+    Bug fixes and improvements.
+Version 4.0.5 (Aug 24, 2023)
+    Bug fixes and improvements.
+Version 4.0.4 (Jun 20, 2023)
+    Bug fixes and improvements.
+Version 4.0.3 (May 22, 2023)
+    Bug fixes and improvements.
+Version 4.0.2 (May 2, 2023)
+    We fixed the bug that the app display Consent GDPR dialog again and again on some users.
+Version 4.0.1 (Apr 19, 2023)
+    Bug fixes and improvements.
+Version 3.0.0 (Oct 26, 2022)
+    Added iOS16 lock screen widgets!
+Version 2.1.2 (Sep 23, 2022)
+    We fixed the bug that the app cannot be scrolled.
+Version 2.1.1 (Sep 21, 2022)
+    We fixed the bug that the app cannot be scrolled.
+Version 2.1.0 (Jul 21, 2022)
+    Bug fixes and improvements.
+Version 2.0.1 (Mar 8, 2022)
+    Bug fixes and improvements.
+Version 2.0.0 (Jan 25, 2022)
+    Bug fixes and improvements.
+Version 1.9.5 (Sep 23, 2021)
+    Bug fixes and improvements.
+Version 1.9.4 (Aug 28, 2021)
+    Bug fixes and improvements.
+Version 1.9.3 (Aug 14, 2021)
+    Bug fixes and improvements.
+Version 1.9.2 (Jun 1, 2021)
+    Bug fixes and improvements.
+Version 1.9.1 (May 12, 2021)
+    Bug fixes and improvements.
+Version 1.9.0 (Apr 12, 2021)
+    * Added the PDF export function.
+Version 1.8.4 (Feb 6, 2021)
+    Bug fixes and improvements.
+Version 1.8.1 (Oct 20, 2020)
+    Bug fixes.
+Version 1.8.0 (Oct 13, 2020)
+    Bug fixes.
+Version 1.7.1 (Sep 11, 2020)
+    Bug fixes.
+Version 1.7.0 (Jul 2, 2020)
+    * You can now select the HTML file format when exporting data.
+    * You can narrow down the search by multiple words.
+    * You can delete the diary for the specified period of time.
+    * You can add a diary by pressing and holding the date on the calendar.
+    * Fixed an error in iCloud backup function.
+    * Fixed some other bugs.
+Version 1.6.0 (May 6, 2020)
+    - Fixed some bugs.
+Version 1.5.1 (Feb 27, 2020)
+    Bug fixes.
+Version 1.5.0 (Feb 18, 2020)
+    Bug fixes.
+Version 1.4.0 (Dec 18, 2019)
+    - Tự động lưu khi đi tới nền trong khi chỉnh sửa nhật ký
+    - Giới thiệu ngắt dòng để chỉnh sửa dễ dàng hơn khi nhiều ảnh được chèn
+    - Đã sửa một số lỗi sự cố
+    - Đã sửa lỗi sao lưu iCloud có thể không hoạt động tốt
+Version 1.3.1 (Oct 21, 2019)
+    Bug fixes.
+    * Theme color settings
+    * Entry scroll
+Version 1.3.0 (Oct 14, 2019)
+    Bug fixes.
+    Build for iOS 13.
+Version 1.2.1 (Sep 27, 2019)
+    Bug fixes.
+Version 1.2.0 (May 22, 2019)
+    Sửa lỗi
+Version 1.1.3 (Jan 3, 2019)
+    - Phông chữ mới được thêm vào
+    - Bây giờ có thể chọn ảnh từ tất cả các thư mục khi chọn
+    - Kích thước tốt của màn hình danh sách đã được điều chỉnh tốt
+    - Đã sửa lỗi khi xuất dữ liệu nhật ký
+    - Đã khắc phục sự cố không thể vận hành với iPad Pro mới
+    - Một số rắc rối nhỏ khác đã được sửa
+Version 1.1.2 (Nov 15, 2018)
+    bug fixes.
+Version 1.1.0 (Nov 9, 2018)
+    Đã thêm chức năng thay đổi kiểu phông chữ.
+    Đã thêm 4 màu chủ đề mới.
+Version 1.0.5 (Oct 6, 2018)
+    Bug fixes.
+Version 1.0.4 (Oct 2, 2018)
+    Bug fixes.
+Version 1.0.3 (Sep 19, 2018)
+    Bug fixes.
+Version 1.0.2 (Aug 2, 2018)
+    Bug fixes.
+Version 1.0.1 (Jul 27, 2018)
+    Bug fixes.
+Version 1.0.0 (Jul 24, 2018)
+
+Users may also like
+Select objects to compare
+DrawerJournal - Diary & Notes
+TenYear Diary - journal & memo
+My Nikki
+PenCake - simple notes, diary
+DotHabit - Visualize Habits
+TIME HACKER - Time Tracker
+Rasysa Hairstyle Designer
+MY BUCKET LIST 100
+DAILY NOTE - Day Note, Diary
+RoomClip インテリア・お部屋の写真はルームクリップ
+IQ Classifications
+Genre: Lifestyle
+Subgenre: Other Lifestyle
+Other Lifestyle
+Other lifestyle apps that do not fit other existing Lifestyle subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.0.9
+    Current release
+    Jan 7, 2024
+    4.0.8
+    Nov 8, 2023
+    4.0.7
+    Oct 18, 2023
+    4.0.6
+    Oct 3, 2023
+    4.0.5
+    Aug 24, 2023
+    4.0.4
+    Jun 20, 2023
+    4.0.3
+    May 22, 2023
+    4.0.2
+    May 2, 2023
+    4.0.1
+    Apr 19, 2023
+    3.0.0
+    Oct 26, 2022
+    2.1.2
+    Sep 23, 2022
+    2.1.1
+    Sep 21, 2022
+    2.1.0
+    Jul 21, 2022
+    2.0.1
+    Mar 8, 2022
+    2.0.0
+    Jan 25, 2022
+    1.9.5
+    Sep 23, 2021
+    1.9.4
+    Aug 28, 2021
+    1.9.3
+    Aug 14, 2021
+    1.9.2
+    Jun 1, 2021
+    1.9.1
+    May 12, 2021
+    1.9.0
+    Apr 12, 2021
+    1.8.4
+    Feb 6, 2021
+    1.8.1
+    Oct 20, 2020
+    1.8.0
+    Oct 13, 2020
+    1.7.1
+    Sep 11, 2020
+    1.7.0
+    Jul 2, 2020
+    1.6.0
+    May 6, 2020
+    1.5.1
+    Feb 27, 2020
+    1.5.0
+    Feb 18, 2020
+    1.4.0
+    Dec 18, 2019
+    1.3.1
+    Oct 21, 2019
+    1.3.0
+    Oct 14, 2019
+    1.2.1
+    Sep 27, 2019
+    1.2.0
+    May 22, 2019
+    1.1.3
+    Jan 3, 2019
+    1.1.2
+    Nov 15, 2018
+    1.1.0
+    Nov 9, 2018
+    1.0.5
+    Oct 6, 2018
+    1.0.4
+    Oct 2, 2018
+    1.0.3
+    Sep 19, 2018
+    1.0.2
+    Aug 2, 2018
+    1.0.1
+    Jul 27, 2018
+    1.0.0
+    Jul 24, 2018
+
+See More
+Top In-App Purchases
+
+    Premium Service
+    $8.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Jul 24, 2018
+
+Worldwide Release Date
+    Jul 28, 2018
+
+Last Updated Time
+    Feb 22, 2024
+
+Version
+    4.0.9
+
+Size
+    179.78 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Hindi, Japanese, Korean, Malay, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese, Turkish, Vietnamese
+
+Seller
+    Komorebi Inc.
+
+Company HQ
+    Japan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.sawadaru.diary
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1388195923
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Simple Diary - Daily Journal | data.ai
+				
+				
+				
+				
+				
+	

@@ -1,0 +1,306 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Multinational Voice Translator
+MEDINFOHKReference (Applications)Free
+Alerts
+
+    Multinational Voice Translator
+    Multinational Voice Translator
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Multinational Voice Translator
+日文 韓文 德文 法文 西班牙文 中文 即時會話翻譯軟體
+Reference (Applications)
+Free
+App Promotional Text
+***免費試用，現在就下載吧！***
+在這促銷期間，提供免費試用和七折無限使用。
+App Description
+跨國語音翻譯家是專為旅行者和商務人士而設計的。 讓你使用國語向手機說話，然後讓你的朋友或商業夥伴聽到他/她的母語翻譯。
+
+與來自世界各地的合作夥伴和朋友交談時，這個工具能大大地減輕語言溝通的障礙。
+
+請注意，互聯網連接是必需的。
+
+特點:
+- 採用最先進的AI技術（神經網絡）進行語音識別和翻譯。
+- 58種語言和口音的語音識別，語音和文本翻譯。
+- 同一語言的不同口音皆可進行準確的語音識別。
+- 即時翻譯。
+- 翻譯後的語音模組放在線下，降低互聯網流量的使用。
+- 隨著神經網絡的不斷學習，識別和翻譯將變得越來越精確。
+- 能識別標點符號語音，使翻譯更為準確。
+
+支援的語言和口音：
+Australia (澳大利亞) - 英語
+Austria (奧地利) - 德語
+Belgium (比利時) - 法語
+Belgium (比利時) - 荷蘭語
+Brazil (巴西) - 葡萄牙語
+Canada (加拿大) - 法語
+Canada (加拿大) - 英語
+Chile (智利) - 西班牙語
+China (中國) - 普通話
+China (中國) - 粵語
+Colombia (哥倫比亞) - 西班牙語
+Croatia (克羅地亞) - 克羅地亞語
+Czechia (捷克) - 捷克語
+Denmark (丹麥) - 丹麥語
+Finland (芬蘭) - 芬蘭語
+France (法國) - 法語
+Germany (德國) - 德語
+Greece (希臘) - 希臘語
+Hong Kong (中國香港) - 廣東話
+Hungary (匈牙利) - 匈牙利語
+India (印度) - 英語
+Indonesia (印度尼西亞) - 印度尼西亞語
+Indonesia (印度尼西亞) - 英語
+Ireland (愛爾蘭) - 英語
+Israel (以色列) - 希伯來語
+Italy (意大利) - 意大利語
+Japan (日本) - 日本語
+Korea (韓國) - 朝鮮語
+Malaysia (馬來西亞) - 馬來語
+Mexico (墨西哥) - 西班牙語
+Netherlands (荷蘭) - 荷蘭語
+New Zealand (新西蘭) - 英語
+Norway (挪威) - 挪威語
+Philippines (菲律賓) - 英語
+Poland (波蘭) - 波蘭語
+Portugal (葡萄牙) - 葡萄牙語
+Romania (羅馬尼亞) - 羅馬尼亞語
+Russia (俄國) - 俄語
+Saudi Arabia (沙特阿拉伯) - 英語
+Saudi Arabia (沙特阿拉伯) - 阿拉伯語
+Singapore (新加坡) - 英語
+Slovakia (斯洛伐克) - 斯洛伐克語
+South Africa (南非) - 英語
+Spain (西班牙) - 加泰羅尼亞語
+Spain (西班牙) - 西班牙語
+Sweden (瑞典) - 瑞典語
+Switzerland (瑞士) - 德語
+Switzerland (瑞士) - 意大利語
+Switzerland (瑞士) - 法語
+Taiwan (台灣) - 國語
+Thailand (泰國) - 泰語
+Turkey (土耳其) - 土耳其語
+UK (英國) - 英語
+Ukraine (烏克蘭) - 烏克蘭語
+United Arab Emirates (阿拉伯聯合酋長國) - 英語
+USA (美國) - 英語
+USA (美國) - 西班牙語
+Viet Nam (越南) - 越南語
+
+請注意：
+雖然我們在語音識別和語音翻譯中使用先進的神經網絡，但請注意，我們還無法100％保證識別和翻譯結果的準確性。 然而，我們期望隨著更多訓練數據的輸入，神經網絡將會持續進步。
+Ratings
+Displayed Avg Ratings
+4.72
+Total Displayed Ratings
+374
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.0.6 (Sep 20, 2020)
+    【修復】修復小問題
+Version 1.0.5 (Mar 3, 2020)
+    【優化】優化翻譯速度
+Version 1.0.4 (Feb 15, 2020)
+    【修復】修復一些不常遇到的 iOS13 閃退問題
+    【修復】修復小問題
+Version 1.0.3 (Nov 26, 2017)
+    【修復】修復一些不常遇到的 iOS11 閃退問題
+Version 1.0.2 (Nov 17, 2017)
+    【Upgrade】Translation module upgrade
+Version 1.0.1 (Oct 13, 2017)
+    【Fix】Minor bug fix
+Version 1.0.0 (Sep 22, 2017)
+
+Users may also like
+Select objects to compare
+快譯通 Voice Translator VT-100L
+Translate Expert - Translator
+日语翻译家
+阿拉伯语词典
+實时翻譯 - 全球多語言實时拍照翻譯軟體
+QTranslate Translator
+Go-VAL Visual Dictionary
+Voice Translator: Interpreter
+英语翻译软件-学习英语必备与中英文翻译神器
+万能扫描仪-OCR文字识别提取翻译、文件扫描王
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.0.6
+    Current release
+    Sep 20, 2020
+    1.0.5
+    Mar 3, 2020
+    1.0.4
+    Feb 15, 2020
+    1.0.3
+    Nov 26, 2017
+    1.0.2
+    Nov 17, 2017
+    1.0.1
+    Oct 13, 2017
+    1.0.0
+    Sep 22, 2017
+
+See More
+Top In-App Purchases
+
+    語音辨識及翻譯模組更新
+    $0
+    跨國語音翻譯（終身）
+    $6.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Sep 22, 2017
+
+Worldwide Release Date
+    Sep 22, 2017
+
+Last Updated Time
+    Apr 18, 2024
+
+Version
+    1.0.6
+
+Size
+    27.74 mb
+
+Only 32 Bit
+    No
+
+Languages
+    日文, 簡體中文, 繁體中文, 英文
+
+Seller
+    Chi Kau Wan
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系統需求：iOS 10.0 或以上版本。相容裝置：iPhone、iPad、iPod touch。
+
+Bundle ID
+    hk.com.medinfo.MultinationalVoiceTranslator
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1260915700
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Multinational Voice Translator | data.ai
+				
+				
+				
+				
+				
+	

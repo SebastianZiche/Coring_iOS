@@ -1,0 +1,430 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Journal X: My Diary with Lock
+Amogh JoshiLifestyle (Applications)Free
+Alerts
+
+    Amogh Joshi
+
+    Journal X: My Diary with Lock
+    Journal X: My Diary with Lock
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Journal X: My Diary with Lock
+Personal Locked Journaling
+Lifestyle (Applications)
+Free
+iPhone Only
+App Description
+FEATURES
+
+DAILY PHOTO
+Add an exclusive photo with each entry every day. This is usually a photo to express your current feelings while writing an entry in the journal.
+
+LOCK
+Lock your journal with a passcode lock. We're planning to add TouchID, FaceID, and password lock too in our app in the upcoming updates.
+
+PHOTOS
+Add up to 20 photos per entry in your journal.
+
+SEARCH
+Search for your journal entries by text.
+
+STICKERS
+You can express yourself more by adding up to 9 stickers with each entry. We have a list of stickers based on your mood, current weather, daily activities.
+
+MULTIPLE JOURNALS
+Organize all your entries in different journals. For example, a daily journal for day to day life activities, and love life journal for entries only related to your relationship life.
+
+SYNC
+Sync across all your iPhones and iPad seamlessly.
+
+REMINDERS
+We send you reminder thought push notification, calendar notifications, and reminder notification based on the days and time selection you have made.
+
+UNLIMITED SUPPORT
+Stuck somewhere? Send us an email or contact us on Facebook, and we will resolve your issue within 24 hours.
+
+IN-APP-PURCHASE TERMS
+Some of the features in the app requires the user to subscribe to Journal X Pro Subscription. This auto-renewable subscription is of 1 year time period with 1 week of free trial. Its price is $20 a year. The user will be charged for renewal within 24-hours prior to the end of the current period. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+
+We're working hard to make the iPad version of Journal X live ASAP. So you can expect iPad support and few small improvements in our app.
+
+Privacy Policy URL: https://firebasestorage.googleapis.com/v0/b/jounral-x-4d4ec.appspot.com/o/Journal X Privacy Policy.pdf?alt=media&token=24f54472-86d1-443b-bb06-dca5a7f49d62
+
+Terms and Condition URL: https://firebasestorage.googleapis.com/v0/b/jounral-x-4d4ec.appspot.com/o/journal x terms of service.pdf?alt=media&token=124da3ed-7501-4a77-bba5-471bd52ae7b1
+
+Do you have any suggestions or need support? Send us an email to journalapp9@gmail.com
+Ratings
+Displayed Avg Ratings
+4.5
+Total Displayed Ratings
+2.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.2.0 (May 21, 2021)
+    Facebook sign up/log in was giving an error when we tap on sign up button. It's now fixed!
+
+    If you enjoy using our app, please consider writing a review for it in the App Store.
+
+    Amogh
+Version 2.1.9 (Jan 19, 2021)
+    We will now only be asking for push notification permission only when you set the reminder instead of asking every time you try to open settings!
+
+    We are constantly making new changes in our app to improve its user experience for you. This update brings new changes based on your feedback. You can always send us your suggestions or feature request at journalapp9@gmail.com. Your feedback is very important to us!
+
+    If you enjoy using our app, please consider writing a review for it in the App Store.
+
+    Amogh
+Version 2.1.8 (Nov 13, 2020)
+    Critical Bug Fix: When tapping anywhere in the middle of the entry while writing, the screen used to glitch and the cursor move back to the start of the entry. This issue has been fixed!
+
+    We are constantly making new changes in our app to improve its user experience for you. This update brings new changes based on your feedback. You can always send us your suggestions or feature request at journalapp9@gmail.com. Your feedback is very important to us!
+
+    If you enjoy using our app, please consider writing a review for it in the App Store.
+
+    Amogh
+Version 2.1.7 (Oct 11, 2020)
+    CRASH FIX: The app was crashing when taking photos to add to the Journal entries or add a profile picture.
+
+    We are constantly making new changes in our app to improve its user experience for you. This update brings new changes based on your feedback. You can always send us your suggestions or feature request at journalapp9@gmail.com. Your feedback is very important to us!
+
+    If you enjoy using Journal X, please consider writing a review for it in the App Store.
+
+    Journal X Team
+Version 2.1.6 (Sep 30, 2020)
+    Support for iOS14! There have been some major crashes and issues with the last release of Journal X, so this update fixes all these issues!
+
+    We are constantly making new changes in our app to improve its user experience for you. This update brings new changes based on your feedback. You can always send us your suggestions or feature request at journalapp9@gmail.com. Your feedback is very important to us!
+
+    If you enjoy using our app, please consider writing a review for it in the App Store.
+
+    Amogh
+Version 2.1.5 (Sep 17, 2020)
+    Bug Fix: Terms of Service URL is now redirecting to the proper webpage
+
+    We are constantly making new changes in our app to improve its user experience for you. This update brings new changes based on your feedback. You can always send us your suggestions or feature request at journalapp9@gmail.com. Your feedback is very important to us!
+
+    If you enjoy using our app, please consider writing a review for it in the App Store.
+
+    Amogh
+Version 2.1.4 (Jun 6, 2020)
+    Crash Fix: Sign up using Google crash is now fixed. 
+Version 2.1.3 (Jun 5, 2020)
+    Bug Fix: We have fixed the bug related to quotes and periods in the text not being saved for pro users.
+
+    Bug Fix: We have fixed the bug where title and selfie would sometimes not save when the user is done writing the entry.
+
+    Bug Fix: Invisible mode now applies to all the text user writes, not just the one previously written.
+
+    UI Improvement: We have fixed some typos in the stickers screen.
+
+    We are working hard for the next big update of Journal X where we are changing the entire design and onboarding process. Please send us your suggestion at journalapp9@gmail.com. Moreover, if you like using Journal X, please consider writing a review. We really appreciate your feedback.
+
+    Amogh
+Version 2.1.2 (Nov 24, 2019)
+    Support for IOS 13!
+
+    UI Improvement - Delete button of the photos in entries now has a grey background, so the delete button is easily identifiable.
+
+    Bug Fix - The home screen usually overlaps with the search screen when taped on the close button and the home screen becomes unresponsive. This bug has been fixed.
+
+    We are working hard for the next big update of Journal X where we are changing the entire design and onboarding process. Please send us your suggestion at journalapp9@gmail.com. Moreover, if you like using Journal X, please consider writing a review. We really appreciate your feedback.
+
+    Amogh
+Version 2.1.1 (Jul 31, 2019)
+    BUG FIX: Data saving bug is fixed in which photo added to entry doesn't used to save. 
+Version 2.1.0 (Jul 16, 2019)
+    BUG FIXES
+
+    1. iPhone X scroll issue: the writing screen was not scrolling as the user is typing. It's now fixed.
+
+    2. Search screen being unresponsive: when the user taps on any entry in search screen that entry doesn't open up. It's now fixed.
+
+    3. Facebook sign up not working: sign up using facebook caused some issues. It's fixed
+
+    4. The smoothness of writing screen: user can now scroll through already written text without needing to dismiss keypad.
+
+    5. IAP price per localization: instead of just USD, IAP price will be now displayed in your local currency selected in iPhone settings.
+
+    6. Headline saving issue: the headline was not saving as the user types. It's now fixed.
+
+    7. Photos album contains favorite albums too.
+
+    8. Buttons mixing with a status bar in iPhone X: sometimes the buttons of writing screen gets mixed with the status bar when keypad is dismissed. It's now fixed.
+
+    9. Entry saving issue: sometimes when the user only adds and delete certain elements in the entry except for text, that entry doesn't get save. It's now fixed.
+
+    10. Typo: there were some typoes in the app for words like stickers, reminder, etc. They all are corrected.
+
+    11. Unresponsive buttons of full-screen pop-ups: Since the buttons of full-screen pop-ups were mixed with the status bar, they were unresponsive. All these issues are fixed:)
+
+    If you find any other issues or crashes or have suggestions for our app, please send them to journalapp9@gmail.com
+
+    Thanks to all our users who reported these bugs and issues in our app. We hope to create the best journaling experience possible with your help. Thanks to all our current users to stay loyal to our app and using it for their day to day life. Journal X is now 1 year old and it's still changing and evolving all because of our customer's love and support. Thank you all again :)
+
+    Amogh
+Version 2.0.3 (Mar 23, 2019)
+    UI Fixes: iPhone XS Max compatibility improvements.
+    Price Change: Journal X Pro Monthly is now $5/month. However, no change to the yearly subscription.
+    Upcoming update: Support to iPad.
+
+    With the release of version 2.0, we faced a lot of app's stability issues. We try to fix such bugs and crashes. If you find any other crash or bug, please send them to journalapp9@gmail.com
+Version 2.0.2 (Mar 14, 2019)
+    Critical Crash Fix: When the user taps on the create a new entry and starts writing, app use to crash. We have fixed it!
+
+    We are extremely sorry for having such a crash. With the release of version 2.0, we faced a lot of app's stability issues. We try to fix such bugs and crashes. If you find any other crash or bug, please send them to journalapp9@gmail.com
+Version 2.0.1 (Mar 8, 2019)
+    BUG-FIX: Journal X Pro monthly subscription, Journal X Pro 50% off, Journal X Pro Mini 50% off were not working. It was an infinite loading screen since those IAP were not included in the App Store. Now fixed!
+
+    UI FIXES: The top header buttons like the back button, delete button, and the cross button were mixed with the notch of the iPhone X status bar. We fixed these UI issues.
+
+    CRASH FIX: 4 small random crashes were fixed. Thanks to Firebase Crashlytics
+Version 2.0.0 (Mar 1, 2019)
+    CRASH FIXES:
+    Sign up using Facebook was creating a crash. Now fixed!
+
+    BUG-FIX:
+    Occasionally, the in-app-purchase was not successful despite successful payment. Now fixed!
+
+    NEW DESIGN
+    All your entries are presented on the center screen. Swipe right to access the navigation menu and swipe left to view the calendar. From launch screen to color scheme, everything is improved! Table rows' height has been decreased to fit a greater number of entries. New stickers and avatar have been added. We will launch a new version with iPad support too in the coming month.
+
+    NEW FEATURES
+    1. Invisible Mode(paid users only): Hide what you're writing from people sitting around you.
+    2. Calendar: All your entries' dates are shown in a calendar for a better understanding.
+    3. Journal X Pro Mini: Pay a fixed price to use all the Journal X Pro features, expect cloud storage, for just $9.99 & $4.99
+
+    MAJOR CHANGES
+    1. Stickers feature is now a paid feature.
+    2. Journal X Pro is more affordable at 50% off offer, $9.99/year only.
+    3. Real-time syncing can be done manually too also by pull down to refresh.
+Version 1.1.1 (Nov 15, 2018)
+    Bug Fix: Sign up using the phone was not sending the code to the user's phone number.
+Version 1.1 (Oct 15, 2018)
+    Support for IOS 12: All the crashes and bugs which were caused due to OS update have been fixed.
+
+    Stability Improvement: All the crash tracking and performance monitoring SDKs in the app have been updated to provide the most stable experience.
+
+    Support to iPhone XS, XR, XS Max: We have tested Journal X in Xcode 10's new iPhones simulator to support Apple's latest releases.
+
+    We have been working hard to make Journal X v2.0. If you have any suggestions for our app, please email us to journalapp9@gmail.com. If you enjoy using Journal X, please write a review for our app; it motivates us!
+Version 1.0.2 (Jul 18, 2018)
+    Critical Bug Fixed: All the data which user typed after a few lines in the text area while creating a new entry was not saving. It's been fixed.
+
+    Overall Stability and Performance Enhancements.
+
+    If you find any other bugs or stability issues, please send them to journalapp9@gmail.com
+Version 1.0.1 (Jul 3, 2018)
+    User Interface Fixes to Support All Types of iPhones: Upgrade screen elements misplacements, unusual large buttons, and screen gliches are fixed.
+
+    Email Verification is Removed: When creating account using email, users no longer need to verify their email before they could use the app. Just enter an email address and password and you're done with account creation using email.
+
+    Static Keyboard Fix: When user taps on country code and then taps on mobile number feild, country code keyboard was not dismissing, but now it's fixed.
+Version 1.0 (Jun 15, 2018)
+
+Users may also like
+Select objects to compare
+Diary ·
+Memories: Diary with lock
+Secret Diary : Private Life
+Diary Journal - With Lock
+Secret Diary With Lock
+Personal Diary (Journal) App
+Secret Diary Daily with Lock
+Secret Diary With Passcode
+Diary, Journal, Notes - Diaro
+Diary - Private Note With Lock
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.2.0
+    Current release
+    May 21, 2021
+    2.1.9
+    Jan 19, 2021
+    2.1.8
+    Nov 13, 2020
+    2.1.7
+    Oct 11, 2020
+    2.1.6
+    Sep 30, 2020
+    2.1.5
+    Sep 17, 2020
+    2.1.4
+    Jun 6, 2020
+    2.1.3
+    Jun 5, 2020
+    2.1.2
+    Nov 24, 2019
+    2.1.1
+    Jul 31, 2019
+    2.1.0
+    Jul 16, 2019
+    2.0.3
+    Mar 23, 2019
+    2.0.2
+    Mar 14, 2019
+    2.0.1
+    Mar 8, 2019
+    2.0.0
+    Mar 1, 2019
+    1.1.1
+    Nov 15, 2018
+    1.1
+    Oct 15, 2018
+    1.0.2
+    Jul 18, 2018
+    1.0.1
+    Jul 3, 2018
+    1.0
+    Jun 15, 2018
+
+See More
+Top In-App Purchases
+
+    1 Year Journal X Pro
+    $19.99
+    Journal X Mini
+    $9.99
+    JournalX Monthly Subscribe
+    $1.99
+    Journal X pro monthly
+    $4.99
+    JournalX Discount Subscribe
+    $9.99
+    JournalX Mini Discount
+    $4.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Jun 15, 2018
+
+Worldwide Release Date
+    Jun 16, 2018
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    2.2.0
+
+Size
+    92.72 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, German, Japanese, Polish, Simplified Chinese, Spanish
+
+Seller
+    Amogh Joshi
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.1 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.journalx.app
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1360257373
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Journal X: My Diary with Lock | data.ai

@@ -1,0 +1,544 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Tweek: Minimal To Do List
+SCADA SIAProductivity (Applications)Free
+Alerts
+
+    SCADA SIA
+
+    Tweek: Minimal To Do List
+    Tweek: Minimal To Do List
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Tweek: Minimal To Do List
+オーガナイザー、デイリープランナー
+Productivity (Applications)
+Free
+App Description
+Tweek is a very simple weekly cute planner with minimalist & aesthetic clear design like a paper planner. Intuitive simply organize your tasks, reminders and collaborate on them with your team or family.
+
+To enhance your productivity, Tweek Planner is built around a week calendar view without any hourly scheduling. We’d say it’s the best view to organize your life and work without stress.
+
+• Planner Stickers and Color Themes
+
+Plan your week and highlight the important stuff with colors or emoji stickers. All that comes with a cozy highlighter-and-paper experience.
+
+• Your ultimate printable to do list template
+
+Go beyond online planning. Our app features a beautiful printable template. Print your calendar filled out or empty and do whatever you want: pin it to a wall, use it for a brainstorming session with your team or present your schedule to a client.
+
+• Notes, Checklists & Subtasks
+
+Note down your thoughts with rich-text editor or add subtasks if you need to split something into smaller tasks. Be on the road creating checklists to facilitate your event planning.
+
+• Google Calendar synced
+
+Unleash the productivity zen by having your favorite Google Calendar instantly synced with Tweek.
+
+• Reminders
+
+We well understand you want to get everything done on time. Tweek features reminders sent to you over email or push-notifications.
+
+• Recurring tasks
+
+Automate your routine by creating recurring tasks that are easy to follow.
+
+If you have any questions or if you just want to share your ideas, feel free to drop us a line hello@tweek.so
+
+Twitter: @tweekHQ
+www.tweek.so
+
+Terms of use: https://tweek.so/s/terms.pdf
+Ratings
+Displayed Avg Ratings
+4.66
+Total Displayed Ratings
+2.2k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.30.11 (Jan 27, 2024)
+    このリリースでは
+    *新しいロック画面ウィジェットの追加
+    *クイックアクションを追加し、アプリのアイコンを長押しすることで、タスクの作成、検索、月間ビューの検索ができるようになりました。
+    *その他のバグ修正と改善
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.30.10 (Jan 16, 2024)
+    このリリースでは
+    *ウィジェットの改良、リフレッシュの安定性とパフォーマンスの向上。
+    *マイナーバグの修正。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.30.9 (Jan 4, 2024)
+    このリリースでは
+    *軽微なバグ修正と改善
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.30.8 (Jan 2, 2024)
+    このリリースでは
+    *軽微なバグ修正と改善
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.30.7 (Dec 29, 2023)
+    このリリースでは
+    *カスタムタスクカラーの実装
+    *招待リンクのセクションを実装；
+    *新しいタスクソートロジックをアプリに統合；
+    *マイナーバグの修正。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.30.6 (Dec 6, 2023)
+    このリリースでは
+    *パフォーマンスの向上；
+    *タスクのドラッグと作成の動作を改善しました；
+    *タスク編集画面の応答性を修正しました；
+    *外部キーボード接続時のタスク編集画面の問題を修正；
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.30.5 (Nov 24, 2023)
+    このリリースでは
+    *パフォーマンスの向上；
+    *ウィジェットの更新頻度を改善しました；
+    *サブタスクの入力とドラッグの問題を修正しました；
+    *軽微なバグと修正。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.30.4 (Nov 7, 2023)
+    *タスクカードの動作改善；
+    *タスクソートの改善；
+    *小さなバグと修正。
+Version 2.30.3 (Oct 31, 2023)
+    *同期の問題を修正
+    *タスクソートの改善
+    *ダークモードの点滅に関する問題を修正
+    *現在の日への自動スクロールに関する問題を修正しました。
+    *ユーザーアカウントの削除に関する問題を修正
+    *パフォーマンスの改善
+    *iOS 17用のウィジェットを修正
+Version 2.30.2 (Sep 23, 2023)
+    *修正 — iPadの画面が真っ白になる問題
+    *小さなバグと修正
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.30.1 (Sep 20, 2023)
+    本リリースでは、以下を実装しています：
+    * パフォーマンスの向上
+    * バグ修正
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.30.0 (Aug 28, 2023)
+    *修正 — 黒とグレーの色が消える
+    *修正 — ウィジェットの背景更新
+Version 2.2.2 (Aug 22, 2023)
+    このリリースでは、主にGoogleカレンダー同期の問題に焦点を当てています。
+    *同期フローを更新しました；
+    *Googleカレンダーで再発する問題を修正しました；
+    *Googleカレンダーとの同期を解除した後、同期されたイベントをすべて削除するオプションを追加しました；
+    *その他のマイナーなバグと修正
+
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.2.1 (Jun 2, 2023)
+    本リリースでは、以下を実装しています：
+    * タイムゾーンの不具合修正
+    * ウィジェットの不具合修正
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.2.0 (May 23, 2023)
+    本リリースでは、以下を実装しています：
+    * パフォーマンスの向上
+    * バグ修正
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.9 (Apr 19, 2023)
+    ユーザーエクスペリエンスのマイナーアップデートと並行して、ユーザーエクスペリエンスやアプリの予期せぬ問題を改善する多くのバグフィックスが行われます。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.8 (Apr 17, 2023)
+    ユーザーエクスペリエンスのマイナーアップデートと並行して、ユーザーエクスペリエンスやアプリの予期せぬ問題を改善する多くのバグフィックスが行われます。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.7 (Apr 14, 2023)
+    ユーザーエクスペリエンスのマイナーアップデートと並行して、ユーザーエクスペリエンスやアプリの予期せぬ問題を改善する多くのバグフィックスが行われます。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.6 (Apr 10, 2023)
+    今回のリリースでは、無料版をご利用の方にとって、より便利なTweekを実現しました！
+    * 新しいHermesエンジンにより、Tweekがより高速に動作するようになりました；
+    *ダークモード、タスクノートを全ユーザーが利用できるようになりました；
+    *カレンダーにユーザーを招待する際の制限をなくしました；
+    *Google カレンダーとの同期に関する問題を修正しました；
+    *検索はすべてのカレンダーをインデックスするようになりました；
+    *その他のマイナーなバグと修正。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.5 (Apr 1, 2023)
+    今回のリリースでは、無料版をご利用の方にとって、より便利なTweekを実現しました！
+    * 新しいHermesエンジンにより、Tweekがより高速に動作するようになりました；
+    *ダークモード、タスクノートを全ユーザーが利用できるようになりました；
+    *カレンダーにユーザーを招待する際の制限をなくしました；
+    *Google カレンダーとの同期に関する問題を修正しました；
+    *検索はすべてのカレンダーをインデックスするようになりました；
+    *その他のマイナーなバグと修正。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.4 (Mar 30, 2023)
+    今回のリリースでは、無料版をご利用の方にとって、より便利なTweekを実現しました！
+    * 新しいHermesエンジンにより、Tweekがより高速に動作するようになりました；
+    *ダークモード、タスクノートを全ユーザーが利用できるようになりました；
+    *カレンダーにユーザーを招待する際の制限をなくしました；
+    *Google カレンダーとの同期に関する問題を修正しました；
+    *検索はすべてのカレンダーをインデックスするようになりました；
+    *その他のマイナーなバグと修正。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.3 (Feb 21, 2023)
+    新機能と修正
+    *検索! タスクやメモの中から検索できるようになりました (アルファ版)。
+    *ウェブとタブレット端末で利用できるようになりました。
+    *Googleカレンダーのバグを修正しました。
+    *その他のマイナーなバグと修正。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.2 (Feb 1, 2023)
+    *Googleカレンダーと繰り返しタスクを修正しました。
+    *その他のマイナーなバグと修正。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.1 (Dec 2, 2022)
+    新機能と修正
+    *2週間ごとに繰り返すタスクを設定できるようになりました。
+    *今、あなたの言語にローカライズされた月次表示。
+    *いつかのタスクの不具合を修正。
+    *その他のマイナーなバグと修正。
+    さらに、Twitterの@tweekHQで更新をフォローする。
+Version 2.1.0 (Nov 23, 2022)
+    新機能と修正
+    *マンスリービュー登場！
+    *Googleカレンダーから取得したイベントの重複を修正しました。
+    *タイムゾーンのバグを修正しました。
+    *新しいタスクフォーカスの改善。
+    *その他のマイナーなバグと修正。
+    今後さらに、Twitterの@tweekHQで更新を追ってください。
+Version 2.0.10 (Oct 3, 2022)
+    このリリースでは、カレンダーとの統合の改善、タスクのソートに関するバグ、定期的なイベントの修正に重点を置いています。"今日に移動 "機能にはいくつかの調整が行われ、より良く動作するようになりました。
+
+    最新情報はTwitterの@tweekHQでご確認ください。
+Version 2.0.8 (Sep 16, 2022)
+    新機能と修正点
+    *カレンダーの設定で、完了したタスクをドロップするか、そのままにするかを選択できるようになりました。
+    *タスクの並べ替えを改善しました。
+    *モバイルアプリで「いつか」のタイトルが保存されない不具合を修正しました。
+    今後も、Twitterの@tweekHQで最新情報をお届けします。
+Version 2.0.7 (Sep 7, 2022)
+    新機能と修正
+    入力中にタスクが自動保存されるようになりました。
+    Google カレンダーのソート機能を改良し、イベントを時間順に表示するよう修正
+    招待されたユーザは、カレンダーの所有者からプレミアム機能を継承するように変更
+    必要であれば、触覚効果をオフにすることができるようになりました
+    ウィジェットの改良
+    その他のマイナーバグと修正
+    最新情報はTwitterの@tweekHQでご確認ください。
+Version 2.0.6 (Aug 1, 2022)
+    新機能と修正。
+    * 反復タスクのアップデート! 全体のサイクルを変えることなく、メモの追加や一つのタスクの編集ができるようになりました
+    * Googleカレンダーから取得したイベントの重複を修正
+    * ウィジェットの改善
+    * その他のマイナーバグと修正
+    最新情報はTwitterの@tweekHQでご確認ください。
+Version 2.0.5 (Jul 18, 2022)
+    新機能と修正
+    * コンパクトなカレンダー表示と小さなフォントと余白
+    * いつか」リストの折りたたみと展開
+    * その他のマイナーなバグと修正
+    今後さらに、Twitterの@tweekHQで最新情報をお届けします。
+Version 2.0.4 (Jun 29, 2022)
+    New features and fixes:
+    * Widget is back! Clean up some space for it on your home screen!
+    * Google calendar time events now consider timezone changes
+    * Auto-scroll calendar to the top when switching weeks
+    * Task drag improvement
+    * Somedays lists sync fixes
+    * Other minor bugs and fixes
+    More to come, follow us on Twitter @tweekHQ for updates.
+Version 2.0.3 (Jun 12, 2022)
+    Hot release with fixes for our new app.
+    - Mini calendar now start from Mon / Sun
+    - Fixed disappearing Somedays tasks on web
+    - Some Premium tweaks
+    - Other minor bugs and fixes
+
+    More to come, follow us on Twitter @tweekHQ for updates.
+Version 2.0.2 (Jun 11, 2022)
+    Hot release with fixes for our new app.
+    - Mini calendar now start from Mon / Sun
+    - Fixed disappearing Somedays tasks on web
+    - Some Premium tweaks
+    - Other minor bugs and fixes
+
+    More to come, follow us on Twitter @tweekHQ for updates.
+Version 2.0.1 (Jun 9, 2022)
+    Tweek 2.0 の紹介 - パフォーマンスの向上とオフラインモードのサポートにより、完全に刷新された超高速アプリです。最高の使用感を提供するために、UIを若干変更しました。
+    今後ともよろしくお願いします。最新情報はTwitterの@tweekHQでフォローしてください。
+Version 2.0 (Jun 4, 2022)
+    Introducing Tweek 2.0 - a completely revamped app with improved performance and offline mode support. We slightly redesigned the UI to provide you with best usage experience.
+
+    More to come! Follow us on Twitter @tweekHQ for updates.
+Version 1.25 (May 24, 2021)
+    • Bug fixes
+    • Improvements
+Version 1.24 (May 14, 2021)
+    • bug fixes;
+    • offline mode enhancement.
+Version 1.22 (Apr 29, 2021)
+    • Push notifications
+    Reminders are now being sent through native push notifications.
+    • Multi-language support
+    Tweek is now available in Spanish, Portuguese, German, Russian, Italian and Chinese. It's been a long and quite hard journey, but it would have been even tougher without the support of our community.
+Version 1.16 (Mar 13, 2021)
+    • Introducing Home Screen widgets
+    Now you can set up small or mid-size Tweek widgets on your Home screen.
+
+    • Tasks Notes and Checklists
+    Feel free to add rich-text task notes and checklists. You can use the notes feature to add whatever is required for a particular task.
+
+    • Fixed the appearance of a white screen after clicking the Continue with Apple / Continue with Google buttons.
+
+
+    We are constantly improving Tweek. This update also includes minor fixes and performance upgrades.
+Version 1.10 (Feb 11, 2021)
+    • Introducing Home Screen widgets
+    Now you can set up small or mid-size Tweek widgets on your Home screen.
+
+    • Tasks Notes and Checklists
+    Feel free to add rich-text task notes and checklists. You can use the notes feature to add whatever is required for a particular task.
+
+    We are constantly improving Tweek. This update also includes minor fixes and performance upgrades.
+Version 1.0 (Oct 13, 2020)
+
+Users may also like
+Select objects to compare
+Mightyday
+Session – Activity Timer
+Daily planner & Life organizer
+Mindlist — To Do List & Tasks
+Kaiten On The Go
+Dawn - Minimal Calendar
+Emphasis: Flow & Focus Timer
+NoteCircle: To Do, Planner
+Smart Tasks - Lists Made Easy
+Sunsama
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Calendar & Reminders
+Calendar & Reminders
+Apps that can be used as a calendar or reminder so that users would not forget their schedules.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.30.11
+    Current release
+    Jan 27, 2024
+    2.30.10
+    Jan 16, 2024
+    2.30.9
+    Jan 4, 2024
+    2.30.8
+    Jan 2, 2024
+    2.30.7
+    Dec 29, 2023
+    2.30.6
+    Dec 6, 2023
+    2.30.5
+    Nov 24, 2023
+    2.30.4
+    Nov 7, 2023
+    2.30.3
+    Oct 31, 2023
+    2.30.2
+    Sep 23, 2023
+    2.30.1
+    Sep 20, 2023
+    2.30.0
+    Aug 28, 2023
+    2.2.2
+    Aug 22, 2023
+    2.2.1
+    Jun 2, 2023
+    2.2.0
+    May 23, 2023
+    2.1.9
+    Apr 19, 2023
+    2.1.8
+    Apr 17, 2023
+    2.1.7
+    Apr 14, 2023
+    2.1.6
+    Apr 10, 2023
+    2.1.5
+    Apr 1, 2023
+    2.1.4
+    Mar 30, 2023
+    2.1.3
+    Feb 21, 2023
+    2.1.2
+    Feb 1, 2023
+    2.1.1
+    Dec 2, 2022
+    2.1.0
+    Nov 23, 2022
+    2.0.10
+    Oct 3, 2022
+    2.0.8
+    Sep 16, 2022
+    2.0.7
+    Sep 7, 2022
+    2.0.6
+    Aug 1, 2022
+    2.0.5
+    Jul 18, 2022
+    2.0.4
+    Jun 29, 2022
+    2.0.3
+    Jun 12, 2022
+    2.0.2
+    Jun 11, 2022
+    2.0.1
+    Jun 9, 2022
+    2.0
+    Jun 4, 2022
+    1.25
+    May 24, 2021
+    1.24
+    May 14, 2021
+    1.22
+    Apr 29, 2021
+    1.16
+    Mar 13, 2021
+    1.10
+    Feb 11, 2021
+    1.0
+    Oct 13, 2020
+
+See More
+Top In-App Purchases
+
+    Tweek Premium - Monthly
+    $4.99
+    Tweek Premium - Annual
+    $38.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Oct 13, 2020
+
+Worldwide Release Date
+    Oct 13, 2020
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    2.30.11
+
+Size
+    67.74 mb
+
+Only 32 Bit
+    No
+
+Languages
+    日本語, イタリア語, オランダ語, スペイン語, チェコ語, トルコ語, ドイツ語, ヒンディー語, フランス語, ポルトガル語, ポーランド語, ロシア語, 簡体字中国語, 英語, 韓国語
+
+Seller
+    SCADA SIA
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 11.0以降が必要です。iPhone、iPad、およびiPod touchに対応。
+
+Bundle ID
+    so.tweek
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1535438855
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Tweek: Minimal To Do List | data.ai

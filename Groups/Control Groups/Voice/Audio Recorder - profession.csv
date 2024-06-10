@@ -1,0 +1,15 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.7.0,2024-01-17,Fix iOS17 not importing audio Optimize experience
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.6.2,2024-01-02,Fix a bug Optimize the experience
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.6.1,2023-06-22,Fix a bug Optimize the experience
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.6.0,2023-05-30,Adapt to iOS 16 Fix a bug
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.5.0,2022-11-21,Adapt to iOS 16 Fix a bug
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.4.0,2022-05-10,Optimize performance Fix a bug
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.3.1,2022-01-21,Added multilingual support Fix a bug
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.3.0,2022-01-20,Added multilingual support Fix a bug
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.2.1,2021-12-13,fix iOS 12 carch bug
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.2.0,2021-12-08,fix bugs
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.1.1,2021-11-23,1: Add search audio 2: fix bugs
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.1.0,2021-11-05,1:Add Synchron to text 2:Smaller volume of recording files 3:fix bugs
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.0.1,2021-11-01,1:add trim audio 2:fix bugs
+1575863453,0,Audio Recorder profession,Utilities,2021-10-27,2021-10-27,45.43,32,0,0,1,1.0,2021-10-28,

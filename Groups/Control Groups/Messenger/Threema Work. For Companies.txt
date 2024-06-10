@@ -1,0 +1,805 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Threema Work. For Companies
+ThreemaSocial Networking (Applications)Free
+Alerts
+
+Threema Work
+Threema Work. For Companies
+Threema Work. For Companies
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+No data is available.
+Loading
+Loading lots of data (this could take a moment).
+Threema Work. For Companies
+Secure Enterprise Messaging
+Social Networking (Applications)
+Free
+App Description
+Threema Work is the highly secure and easy-to-use messaging solution for companies and organizations. The business chat app is perfect for corporate communication via instant messaging and guarantees confidential information exchange in teams. Threema Work is fully compliant with the EU General Data Protection Regulation (GDPR) and offers the same high level of privacy protection, security, and usability that millions of private users appreciate about Threema. All communication (including group chats, voice and video calls, etc.) is always protected in the best possible way thanks to full end-to-end encryption.
+
+Basic app features:
+
+• Send text and voice messages
+• Make voice, video and group calls
+
+• Send files of any type (PDFs, Office documents, etc.)
+• Share photos, videos and locations
+• Create group chats for team collaboration
+• Use the desktop app or the web client to chat from your computer
+
+
+Special features:
+
+• Create polls
+• Only receive notifications during working hours
+• Verify the identity of contacts via QR code
+• Add text formatting to messages
+• Quote text messages
+• “Agree” or “disagree” with incoming messages
+• And much more
+
+Threema Work can be used without a phone number and without a SIM card and supports tablets and smartwatches.
+
+Threema Work is tailored to the use in organizations and provides numerous benefits over the consumer version of Threema, especially in terms of administration, user management, app distribution, and preconfiguration. Threema Work allows the administrator to:
+
+• Manage users and contact lists
+• Centrally administrate broadcast lists, groups and bots
+• Preconfigure the app for the users
+• Define policies for the app’s use
+• Detach or revoke IDs when staff changes occur
+• Prevent access to future chats when employees leave the company
+• Customize the app’s appearance
+• Easy integration into all common MDM/EMM systems
+• And much more
+
+More information can be found on our website.
+
+PRIVATE USERS, this version of Threema is intended for corporate use, please use the standard version.
+Ratings
+Displayed Avg Ratings
+3.62
+Total Displayed Ratings
+357
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.7.3 (Jan 31, 2024)
+    Threema Work 5.7.3k
+    • Various minor improvements
+
+    Threema Work 5.7.2k
+    • Fixed different bugs that could cause the app to become unresponsive
+    • Various other minor improvements
+
+    Threema Work 5.7.1k
+    • New: option for periodic deletion of old messages after a specified amount of time (Settings > Storage Management > Manage All Chats > Automatic Deletion)
+
+    • New: overhauled “Profile” tab
+    • Improved performance for voice messages
+    • Improvements in relation to group calls
+    • Improvements in relation to Threema Work 2.0 for desktop
+    • Various bug fixes in relation to accessibility
+    • Fixed a bug in relation to media downloads
+    • Various other improvements
+Version 5.7.2 (Jan 10, 2024)
+    Threema Work 5.7.2k
+    • Fixed different bugs that could cause the app to become unresponsive
+    • Various other minor improvements
+
+    Threema Work 5.7.1k
+    • New: option for periodic deletion of old messages after a specified amount of time (Settings > Storage Management > Manage All Chats > Automatic Deletion)
+
+    • New: overhauled “Profile” tab
+    • Improved performance for voice messages
+    • Improvements in relation to group calls
+    • Improvements in relation to Threema Work 2.0 for desktop
+    • Various bug fixes in relation to accessibility
+    • Fixed a bug in relation to media downloads
+    • Various other improvements
+Version 5.7.1 (Dec 18, 2023)
+    Threema Work 5.7.1k
+    • New: option for periodic deletion of old messages after a specified amount of time (Settings > Storage Management > Manage All Chats > Automatic Deletion)
+
+    • New: overhauled “Profile” tab
+    • Improved performance for voice messages
+    • Improvements in relation to group calls
+    • Improvements in relation to Threema 2.0 for desktop
+    • Various bug fixes in relation to accessibility
+    • Fixed a bug in relation to media downloads
+    • Various other improvements
+Version 5.6.1 (Oct 23, 2023)
+    Threema Work 5.6.1k
+    • Improvements in relation to group calls
+    • Various other improvements
+
+    Threema Work 5.6k
+    • New: Group calls (Tap on the phone icon in a group chat to start a call)
+    • Fixed a bug concerning Threema Safe
+    • Various bug fixes concerning Threema 2.0 for desktop
+    • Miscellaneous other bug fixes and performance improvements
+Version 5.6 (Oct 16, 2023)
+    Threema Work 5.6
+    • New: Group calls (Tap on the phone icon in a group chat to start a call)
+    • Fixed a bug concerning Threema Safe
+    • Various bug fixes concerning Threema 2.0 for desktop
+    • Miscellaneous other bug fixes and performance improvements
+Version 5.5.4 (Sep 21, 2023)
+    Threema Work 5.5.4
+    • Various bug fixes and other improvements
+
+    Threema Work 5.5.3
+    • Various bug fixes and other improvements
+
+    Threema Work 5.5.2
+    • Various bug fixes and other improvements
+
+    Threema Work 5.5.1
+    • File names are now displayed in the media overview
+    • Improved performance
+    • Fixed a bug in relation to private chats
+    • Fixed a bug that caused wallpapers not to be displayed correctly
+    • Various bug fixes and other improvements
+Version 5.5.3 (Sep 20, 2023)
+    Threema Work 5.5.3
+    • Various bug fixes and other improvements
+
+    Threema Work 5.5.2
+    • Various bug fixes and other improvements
+
+    Threema Work 5.5.1
+    • File names are now displayed in the media overview
+    • Improved performance
+    • Fixed a bug in relation to private chats
+    • Fixed a bug that caused wallpapers not to be displayed correctly
+    • Various bug fixes and other improvements
+Version 5.5.2 (Sep 14, 2023)
+    Threema Work 5.5.2
+    • Various bug fixes and other improvements
+
+    Threema Work 5.5.1
+    • File names are now displayed in the media overview
+    • Improved performance
+    • Fixed a bug in relation to private chats
+    • Fixed a bug that caused wallpapers not to be displayed correctly
+    • Various bug fixes and other improvements
+Version 5.5.1 (Sep 11, 2023)
+    • File names are now displayed in the media overview
+    • Improved performance
+    • Fixed a bug in relation to private chats
+    • Fixed a bug that caused wallpapers not to be displayed correctly
+    • Various bug fixes and other improvements
+Version 5.4.1 (Aug 14, 2023)
+    Threema Work 5.4.1
+    • Various bug fixes and other improvements
+
+    Threema Work 5.4
+    • Perfect Forward Secrecy is now enabled by default
+    • The iOS app can now be used with the beta version of Threema Work 2.0 for desktop (“Settings > Desktop/Web > Linked Device (Beta)”)
+    • When being mentioned, your nickname is now displayed instead of “@me”
+    • Fixed a bug that caused the relative date in chats not to be updated after midnight
+    • Fixed a bug that could cause new messages not to be displayed in the chat overview
+    • Various bug fixes and other improvements
+Version 5.4 (Aug 7, 2023)
+    • Perfect Forward Secrecy is now enabled by default
+    • The iOS app can now be used with the beta version of Threema Work 2.0 for desktop (“Settings > Desktop/Web > Linked Device (Beta)”)
+    • When being mentioned, your nickname is now displayed instead of “@me”
+    • Fixed a bug that caused the relative date in chats not to be updated after midnight
+    • Fixed a bug that could cause new messages not to be displayed in the chat overview
+    • Various bug fixes and other improvements
+Version 5.3.1 (Jul 10, 2023)
+    • After changing biometric data in iOS, password confirmation in Threema is required
+    • Improved stability when starting a Threema call
+    • Fixed a bug that occurred when displaying a text preview in the Share Extension
+    • Various bug fixes and other improvements
+Version 5.2.1 (Jun 12, 2023)
+    • Wallpapers can now be set on a per-chat basis
+    • Media can now be downloaded directly in the media overview
+    • Text formatting is also displayed in the chat overview and in quoted messages
+    • Fixed various bugs in the chat interface
+    • Various bug fixes and other improvements
+Version 5.1.1 (May 15, 2023)
+    • Added a new notification setting that also includes the sender’s profile picture
+    • Added a setting that enables the operating system to suggest frequent Threema contacts when sharing in iOS
+    • If camera access is denied, an icon to open the photo library is shown next to the text input field instead of the camera icon
+    • Fixed various bugs in relation to accessibility in the new chat interface
+    • Fixed a bug that caused changes in the app-configuration setting “th_hide_inactive_ids” to be ignored 
+    • Fixed a bug that caused messages not to be marked as read when opening a chat
+    • Fixed a bug that caused notifications to appear even when “Do Not Disturb” was activated
+    • Various bug fixes and numerous under-the-hood improvements
+Version 5.0.2 (Apr 17, 2023)
+    • Fixed a crash that could occur when opening the app
+    • Fixed a bug that caused links not to be recognized
+Version 5.0.1 (Mar 29, 2023)
+    • Full technical and visual overhaul of the chat view
+    • Improved in-chat search, providing all results at a glance
+    • Past chat messages will now load automatically when scrolling (infinite scrolling)
+    • Inline player for voice messages
+    • Media and files can be now be viewed while the sending process is ongoing
+    • Redesign of the message detail view (accessible by swiping left on a message)
+    • In group messages, the members’ names are now displayed in different colors
+    • Live preview of text formatting
+    • Improved message delivery when the app is in the background
+    • Fixed a bug that caused problems with the setup wizard when the app credentials were distributed using an URL
+    • Fixed a bug that didn’t enforce Threema Safe backups when they were enabled and the password was set using an MDM system
+    • Various bug fixes and numerous under-the-hood improvements
+Version 4.9.5 (Mar 8, 2023)
+    Resolved an issue related to MDM during the setup
+Version 4.9.4 (Feb 15, 2023)
+    • Note groups now have a dedicated icon in the chat overview
+    • Fixed a bug that caused group messages not to be sent to all members
+    • Fixed a bug that caused background images in chats to be displayed incorrectly
+    • Other improvements and minor bug fixes
+Version 4.9.3 (Jan 23, 2023)
+    • If a vote in a poll was changed, this will be reflected in the generated system notification
+    • Other improvements and minor bug fixes
+Version 4.9.2 (Jan 5, 2023)
+    • Send and receive messages with Perfect Forward Secrecy
+    • Support of the new communication protocol “Ibex”
+    • New chat overview
+    • Unknown chat members will no longer automatically be added to the contact list
+    • Set storage management now on a per-chat basis
+    • Send videos in original quality
+    • Various other improvements for upcoming features
+Version 4.8.5 (Dec 15, 2022)
+    This update requires iOS 15.0 or later.
+
+    • New: The agree/disagree feature is now also available in group chats
+    • New: Mark chats as private, protect them with a password, and hide them in the chat overview
+    • New: Set read receipts and typing indicator per contact
+    • New: Archive chats
+    • New: Filter chat overview by contact name, group name, or Threema ID
+    • Revamped contact and group details and various UI tweaks
+    • Overhaul of internal message processing in preparation for upcoming features
+    • Push registration can now be renewed in the advanced settings
+    • Security improvements
+    • Other improvements and minor bug fixes
+
+    Desktop/Web:
+    Due to restrictions on Apple’s part, it is only possible for the desktop app / the web client to stay connected when the iOS app is in the foreground (see https://three.ma/webios).
+Version 4.6.18 (Apr 11, 2022)
+    • Don’t show notifications for messages in group chats you have left
+
+    • Audio player is now always dismissed when switching chats
+
+    • Other improvements and miscellaneous minor bug fixes
+Version 4.6.17 (Mar 14, 2022)
+    • In poll results, abstentions are now listed separately
+    • Improved database migration
+    • Other improvements and miscellaneous minor bug fixes
+Version 4.6.16 (Mar 7, 2022)
+    • In poll results, abstentions are now listed separately
+    • Improved database migration
+    • Other improvements and miscellaneous minor bug fixes
+Version 4.6.15 (Jan 20, 2022)
+    • Fixed a bug concerning Asian language keyboards
+    • Extended log to include files if requested by user
+    • Other improvements and miscellaneous minor bug fixes
+Version 4.6.14 (Dec 20, 2021)
+    • Improved performance when loading chat overview
+    • Improved performance when sending media files
+    • Key fingerprint replaced with public key in UI
+    • Fixed a possible bug in relation to external keyboards
+    • Other improvements and miscellaneous minor bug fixes
+Version 4.6.13 (Oct 26, 2021)
+    - Minor bug fixes
+    - Text adjustments in Settings
+Version 4.6.12 (Sep 13, 2021)
+    • Several minor bug fixes
+Version 4.6.11 (Aug 18, 2021)
+    • Share Sheet improvements
+    • Threema calls: Fixed a bug that could occur when accepting/rejecting calls in the Notification Center
+    • Fixed a bug that could occur when sending audio files via Threema Web
+Version 4.6.10 (Jul 6, 2021)
+    • Adjust the playback speed of voice messages
+    • Fixed an issue where voice messages were not played over bluetooth on certain speaker models
+    • Fixed an issue where forwarding files with unknown MIME types would loose the file extension
+    • Improvements in relation to the Share Extension
+    • Fixed an issue where contact names were not always updated correctly
+Version 4.6.9 (Jun 1, 2021)
+    • New: Mark chats as unread (swipe right in chat overview)
+    • Share Extension overhauled
+    • Support for right-to-left scripts in chats
+    • Chinese (traditional and simplified) localization
+    • Japanese localization
+    • Voice messages are no longer forwarded as files but as voice messages
+    • Voice messages, GIFs, and stickers are hidden in media preview
+    • Fixed a bug that could occur when quoting messages that contain mentions
+    • Various other improvements and miscellaneous minor bug fixes
+
+    Note: If Threema doesn’t appear in the Share Sheet, restarting your device will resolve this iOS issue.
+Version 4.6.6 (Feb 22, 2021)
+    Threema Work 4.6.6
+    • Fixed an UI error in the license screen
+
+    Threema Work 4.6.5
+    • Increased maximum group size to 256 members
+    • Option to add captions when sending media files within the app
+    • You can now quote any type of message (including media, voice messages, and locations)
+    • iOS 14: Share individual photos without granting Threema access to the photo library
+    • Polish localization
+    • Size limit for chat exports removed
+    • Truncate quoted messages after 200 characters
+    • Always display search bar when creating and editing groups
+    • Layout improvements in Threema call screen
+    • Various iOS 14 improvements
+    • Various other improvements and miscellaneous minor bug fixes
+Version 4.6.5 (Feb 10, 2021)
+    • Increased maximum group size to 256 members
+    • Option to add captions when sending media files within the app
+    • You can now quote any type of message (including media, voice messages, and locations)
+    • iOS 14: Share individual photos without granting Threema access to the photo library
+    • Polish localization
+    • Size limit for chat exports removed
+    • Truncate quoted messages after 200 characters
+    • Always display search bar when creating and editing groups
+    • Layout improvements in Threema call screen
+    • Various iOS 14 improvements
+    • Various other improvements and miscellaneous minor bug fixes
+Version 4.6.2 (Sep 21, 2020)
+    • iOS 14: Fixed a bug that occurred when sharing videos via the Photos app
+Version 4.6.1 (Sep 8, 2020)
+    • New: End-to-end encrypted video calls
+    • Grouped notifications in Notification Center
+    • Adjusted volume of voice messages
+    • Relative dates in chats
+    • Support for diacritical characters in contact-list search
+    • Removed button to start cellular calls from contact details
+    • VoiceOver improvements
+    • Various other improvements and miscellaneous bug fixes
+Version 4.5.4 (Jun 22, 2020)
+    • Off-hours policy (Settings > Notifications): Disable notifications and reject calls outside of working hours
+    • iOS 13: Design theme (Dark Mode) can be set via iOS (set Threema > Settings > Appearance > Design Theme to System)
+    • iOS 13: Haptic Touch replaces 3D Touch
+    • Swipe to quote messages
+    • Share contacts
+    • Localizations: Czech, Basque (Spain), and Turkish
+    • In-app notifications support text formatting
+    • Display captions below image messages
+    • Redesign of status messages
+    • Various improvements for Threema calls, Threema Web, and VoiceOver
+    • Numerous other improvements and bug fixes
+Version 4.4.3 (Dec 18, 2019)
+    Threema Work 4.4.3
+    • Fixed a bug that occurred when sharing Live Photos
+    • Several minor bug fixes and miscellaneous other improvements
+
+    Threema Work 4.4.2
+    • Revised user interface: Uniform color scheme, reorganized My ID tab (now called “My Profile”), streamlined settings, etc.
+    • Storage management: Delete all messages or media files of a certain age at once
+    • Refactoring of Threema Web: General stability and performance improvements
+    • Refactoring of Threema calls: Optimized connection buildup
+    • Various improvements for iOS 13
+    • The green stripe indicating a connection to the Threema server is no longer present; however, the red and orange stripes still indicate connection loss and connection buildup, respectively
+    • Proxies are now supported (HTTP CONNECT or SOCKS)
+    • Numerous other improvements and miscellaneous bug fixes
+Version 4.4.2 (Dec 11, 2019)
+    • Revised user interface: Uniform color scheme, reorganized My ID tab (now called “My Profile”), streamlined settings, etc.
+    • Storage management: Delete all messages or media files of a certain age at once
+    • Refactoring of Threema Web: General stability and performance improvements
+    • Refactoring of Threema calls: Optimized connection buildup
+    • Various improvements for iOS 13
+    • The green stripe indicating a connection to the Threema server is no longer present; however, the red and orange stripes still indicate connection loss and connection buildup, respectively
+    • Proxies are now supported (HTTP CONNECT or SOCKS)
+    • Numerous other improvements and miscellaneous bug fixes
+Version 4.3.2 (Aug 20, 2019)
+    Various minor bug fixes and miscellaneous other improvements
+Version 4.3.1 (Jul 30, 2019)
+    • Mentions in group chats: Type the “@” character and select group members to mention them
+    • Use 3D Touch to preview links
+    • New app icon
+    • Display duration of audio messages in push notifications and in chat overview
+    • Music will resume after video playback
+    • Show dialog to confirm deletion of a chat
+    • Other improvements and various bug fixes
+Version 4.2.3 (Jun 11, 2019)
+    Fixed a bug that could occur when creating Threema Safe backups
+Version 4.2.1 (Apr 29, 2019)
+    • New: Threema Safe, the anonymous backup solution for the most important Threema data
+    • Improved image quality of sent videos
+    • Security warning to prevent IDN homograph attacks when tapping on suspicious links
+    • Threema Web: Unsaved sessions will be deleted automatically after 24 hours of inactivity
+    • Minor Threema Safe improvements
+    • Minor voice-call improvements
+    • Other improvements and various bug fixes
+Version 4.0.3 (Jan 21, 2019)
+    • Threema Web (navigate to Settings > Threema Web, and follow the on-screen instructions)
+    • Individual notification settings
+    • Multiple/all media files of a chat can be deleted at once
+    • VoiceOver improvements
+    • Miscellaneous other improvements and bug fixes
+Version 3.1.1 (Oct 8, 2018)
+    • Improved connection process on slow Internet connections
+    • Bugfixes
+Version 3.1.0 (Jul 10, 2018)
+    • When scanning an internal contact’s QR code, the contact gets three blue dots (verification level 3) and will still be listed in the contact list’s “Work” tab
+Version 3.0.9 (Jun 13, 2018)
+    Various performance improvements and bug fixes.
+Version 3.0.8 (Apr 3, 2018)
+    • Separate tab for Work contacts in contact list
+    • Tap on a quoted message to jump to original message
+    • Improvements for landscape mode
+    • Various other improvements and several bug fixes
+Version 3.0.7 (Mar 2, 2018)
+    • Fixed a bug that prevented the preview of messages in push notifications
+Version 3.0.6 (Feb 21, 2018)
+    • Full access to the app while a Threema call is ongoing
+    • Setting to limit number of thumbnails displayed in gallery preview (Settings > Appearance)
+    • Optimized layout in Share Extension
+    • Interface optimization for iPhone X
+    • Other small improvements
+Version 3.0.5 (Dec 20, 2017)
+    • The length restriction for text messages was removed
+    • Very long messages will be split and sent as multiple messages
+    • Preview of circular image section when cropping the profile picture, contact pictures, and group pictures
+    • Fixed a crash that would occur when “Save Media to Camera Roll” was enabled without granting the respective iOS permission
+    • On iOS 9, settings that are unavailable ("Push preview" and "Show nickname") are not displayed
+    • Improvements for iPhone X
+    • Resolved an issue that could occur when calling on speaker
+    • General improvements and bug fixes
+Version 3.0.4 (Nov 28, 2017)
+    • Support for iPhone X
+    • Export chats of up to 100 MB via iOS Share Sheet
+    • Dynamic font size (iOS setting)
+    • Setting to display nickname instead of full name in push notifications
+    • Setting for display order of first and last name (iOS 11 only)
+    • Outgoing calls aren’t listed in Phone app’s Recent list if “Integrate calls into iOS” is disabled
+    • Reduction of app size
+    • Fixed an issue in regard to message sorting
+    • General improvements and bug fixes
+Version 3.0.1 (Oct 10, 2017)
+    • Voice calls (requires iPhone 5s / iOS 9 or above)
+    • Fixed a bug that occurred when displaying image previews in the gallery
+    • VoiceOver improvements
+    • Contacts who use Threema are labeled with a home icon
+    • In the chat overview, received messages are labeled with an arrow icon
+    • Even if the recipient has disabled the preview of push notifications, the “message delivered” symbol is displayed once the message was delivered
+    • General improvements and miscellaneous bug fixes
+Version 2.10.2 (Aug 28, 2017)
+    • Quick media-file selection
+    • Send up to 10 images at once
+    • New gallery
+    • Mark chats as unread by swiping right in the chat overview
+    • Mark unread messages as read in the chat overview by swiping right
+    • Clone groups
+    • No status icon is displayed in the chat overview for drafts
+    • Fixed a bug that prevented the first group message from being received after joining the group
+    • Various VoiceOver improvements
+    • General improvements and miscellaneous bug fixes
+Version 2.10.1 (Jun 13, 2017)
+    • Optional profile picture with full control over who receives it and who doesn't
+    • Design improvements
+    • Security: Improved message duplicate detection
+    • Fix response to group messages from non-members
+    • Various bug fixes
+Version 2.9.1 (Apr 18, 2017)
+    • Message preview in push notifications (optional; requires iOS 10 or later)
+    • Interactive push notifications (requires message preview to be enabled): reply, agree, or disagree (also works on the Apple Watch)
+    • Date/time picker for easy scheduling of appointments in polls
+    • VoiceOver improvements in regard to audio messages
+    • Numerous other improvements and bug fixes
+Version 2.8.2 (Feb 20, 2017)
+    • Fixed crash when writing to a group chat that was completely emptied before
+
+    Changes from 2.8.1:
+    • Message drafts
+    • Divider for unread messages
+    • Message details for incoming messages
+    • Support for Dutch
+    • Various VoiceOver improvements
+    • Numerous other improvements and bug fixes
+Version 2.8.1 (Feb 16, 2017)
+    • Message drafts
+    • Divider for unread messages
+    • Message details for incoming messages
+    • Support for Dutch
+    • Various VoiceOver improvements
+    • Numerous other improvements and bug fixes
+Version 2.8.0 (Dec 12, 2016)
+    • Message quoting (long-tap a text message and then tap the quote icon in the menu)
+    • Romansh translation
+    • Various improvements and bug fixes
+Version 2.7.5 (Nov 2, 2016)
+    • Support "true"/"1"/"false"/"0" as strings for boolean MDM configuration attributes
+    • Fix broken contacts/group switch after pull-to-refresh with disabled contact sync
+    • Various other small improvements and bug fixes
+Version 2.7.4 (Sep 23, 2016)
+    • Support adding inline captions when sending images (from an external app via share extension, e.g. from "Photos", or when forwarding an image within the app)
+    • Improved 3D Touch handling on images
+    • Messages consisting of a single emoji are now shown in larger size (can be disabled in font size settings)
+    • VoiceOver improvements
+    • Various other small improvements and bug fixes
+Version 2.7.3 (Jul 20, 2016)
+    • Support adding received passes to Wallet
+    • Bug fixes
+Version 2.7.2 (Jun 8, 2016)
+    • Support for text markup with *word* (bold), _word_ (italic) and ~word~ (strikethrough)
+    • Bug fixes
+Version 2.7.1 (May 19, 2016)
+
+Users may also like
+Select objects to compare
+Skred Messenger
+Session - Private Messenger
+twinme private messenger
+TeleGuard
+SimpleX Chat: secure messenger
+ChatSecure Messenger
+Zangi Private Messenger
+Blitz – Secure Chat
+Signal - Private Messenger
+Mint Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+N/A
+Store Revenue Rank
+N/A
+Loading
+Loading lots of data (this could take a moment).
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.7.3
+    Current release
+    Jan 31, 2024
+    5.7.2
+    Jan 10, 2024
+    5.7.1
+    Dec 18, 2023
+    5.6.1
+    Oct 23, 2023
+    5.6
+    Oct 16, 2023
+    5.5.4
+    Sep 21, 2023
+    5.5.3
+    Sep 20, 2023
+    5.5.2
+    Sep 14, 2023
+    5.5.1
+    Sep 11, 2023
+    5.4.1
+    Aug 14, 2023
+    5.4
+    Aug 7, 2023
+    5.3.1
+    Jul 10, 2023
+    5.2.1
+    Jun 12, 2023
+    5.1.1
+    May 15, 2023
+    5.0.2
+    Apr 17, 2023
+    5.0.1
+    Mar 29, 2023
+    4.9.5
+    Mar 8, 2023
+    4.9.4
+    Feb 15, 2023
+    4.9.3
+    Jan 23, 2023
+    4.9.2
+    Jan 5, 2023
+    4.8.5
+    Dec 15, 2022
+    4.6.18
+    Apr 11, 2022
+    4.6.17
+    Mar 14, 2022
+    4.6.16
+    Mar 7, 2022
+    4.6.15
+    Jan 20, 2022
+    4.6.14
+    Dec 20, 2021
+    4.6.13
+    Oct 26, 2021
+    4.6.12
+    Sep 13, 2021
+    4.6.11
+    Aug 18, 2021
+    4.6.10
+    Jul 6, 2021
+    4.6.9
+    Jun 1, 2021
+    4.6.6
+    Feb 22, 2021
+    4.6.5
+    Feb 10, 2021
+    4.6.2
+    Sep 21, 2020
+    4.6.1
+    Sep 8, 2020
+    4.5.4
+    Jun 22, 2020
+    4.4.3
+    Dec 18, 2019
+    4.4.2
+    Dec 11, 2019
+    4.3.2
+    Aug 20, 2019
+    4.3.1
+    Jul 30, 2019
+    4.2.3
+    Jun 11, 2019
+    4.2.1
+    Apr 29, 2019
+    4.0.3
+    Jan 21, 2019
+    3.1.1
+    Oct 8, 2018
+    3.1.0
+    Jul 10, 2018
+    3.0.9
+    Jun 13, 2018
+    3.0.8
+    Apr 3, 2018
+    3.0.7
+    Mar 2, 2018
+    3.0.6
+    Feb 21, 2018
+    3.0.5
+    Dec 20, 2017
+    3.0.4
+    Nov 28, 2017
+    3.0.1
+    Oct 10, 2017
+    2.10.2
+    Aug 28, 2017
+    2.10.1
+    Jun 13, 2017
+    2.9.1
+    Apr 18, 2017
+    2.8.2
+    Feb 20, 2017
+    2.8.1
+    Feb 16, 2017
+    2.8.0
+    Dec 12, 2016
+    2.7.5
+    Nov 2, 2016
+    2.7.4
+    Sep 23, 2016
+    2.7.3
+    Jul 20, 2016
+    2.7.2
+    Jun 8, 2016
+    2.7.1
+    May 19, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    May 19, 2016
+
+Worldwide Release Date
+    May 19, 2016
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    5.7.3
+
+Size
+    75.57 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Basque, Czech, Dutch, French, German, Italian, Japanese, Polish, Portuguese, Rhaeto-Romance, Russian, Simplified Chinese, Slovak, Spanish, Traditional Chinese, Turkish, Ukrainian
+
+Seller
+    Threema GmbH
+
+Company HQ
+    Switzerland
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    ch.threema.work.iapp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1105927783
+Unified App ID: 1000600000812994
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Threema Work. For Companies | data.ai

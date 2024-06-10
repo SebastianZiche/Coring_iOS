@@ -1,0 +1,1244 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Monal - XMPP chat
+Molitor und Dietzel, Inh. Thilo MolitorSocial Networking (Applications)Free
+Alerts
+
+    Molitor und Dietzel, Inh. Thilo Molitor
+
+    Monal - XMPP chat
+    Monal - XMPP chat
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Monal - XMPP chat
+Open source XMPP Messenger
+Social Networking (Applications)
+Free
+App Description
+There has never been a better time to get into XMPP, a free public chat network no one controls or owns. Monal is a fast and user friendly way to use XMPP. Just download the app, login or register and you are ready to chat in minutes. It looks and works the way other apps do, so there is no need to “learn XMPP” or even care what it is.
+
+Notable features:
+- Open Source
+- No Ads! Strong focus on privacy. Does not phone home and does not have "metrics" software 
+- Does not read any personal information.
+- With a direct connection to your server, your password and all other info is never sent to a third party.
+- OMEMO encrypted chat
+- Will work with corporate XMPP servers that require VPN
+- MUC multi user chat
+
+Implements XMPP certain extensions intended to improve mobile communication.
+- XEP-0357: Push Notifications
+- XEP-0280: Message Carbons keep messages in synch between clients.
+- XEP-0198: Stream Management to quickly reconnect.
+- XEP-0199: XMPP Ping to maintain connections.
+- XEP-0313: Message Archive Management to download chat history.
+- XEP-0352: Client State Indication for dramatic reduction on power use.
+- XEP-0363: HTTP File Upload to send images in conversations.
+Ratings
+Displayed Avg Ratings
+3.19
+Total Displayed Ratings
+584
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.1.1 (Feb 7, 2024)
+    - Fix crash when turning on "delete messages after 3 days"
+    - Some smaller improvements
+Version 6.1.0 (Feb 6, 2024)
+    - Add video call support
+    - Allow local video to be "muted" by doubletapping onto local image
+    - Fix handling of resources containing slashes
+    - Fix various crashes
+    - Add share button to image viewer
+    - Fix sync errors not being displayed when having no connectivity
+    - Fix crashes when receiving files not decryptable
+    - Fix slow connection establishment on some STARTTLS connections
+    - Fix sporadic "bad-format" xml errors
+    - Faster connection times by using TCP fast open
+    - Retry to reconnect more often in bad connectivity scenarios
+    - Show notification if a new omemo device was added to your account
+    - Handle transient muc join errors as such
+Version 6.0.4 (Jan 8, 2024)
+    - Fix pipelining bug when briefly turning off SASL2
+    - Show server software and version in server details
+Version 6.0.3 (Jan 3, 2024)
+    Features:
+    Improve crash handling and logging
+
+    Fixes:
+    Bring back self-chat contact
+    Fix crash when making call on iPad
+    Fix race condition in iq handler timeout
+Version 6.0.2 (Dec 20, 2023)
+    Features:
+    Improve login error messages
+    Blacklist cheogram.com for omemo
+    Separate media upload and download settings
+    Show discovered Stun/Turn servers in account details
+    Improve STARTTLS handling and connection timeouts
+    Always register push tokens to account for token changes
+
+    Fixes:
+    Fix several crashes
+    Fix log export
+    Fix music playback from other apps when opening Monal
+    Enable (opt-in) crash reporting
+    Some smaller fixes
+Version 6.0.1 (Nov 20, 2023)
+    Features:
+    TLS 1.3 and channel-binding when using STARTTLS
+
+    Fixes:
+    Fix crash when deactivating omemo encryption
+    Allow app startups on old systems again
+    Fix attachments in notifications
+    Improved apns error handling
+    Fixed ibr without register form
+Version 6.0 (Oct 18, 2023)
+    NEW: Audio-call support (This feature will not be available to users in China!)
+
+    Other changes:
+    New Logo and new placeholder images by Ann-Sophie Zwahlen
+    New "Add Contact" and "Contact Requests" UI
+    Complete rewrite of OMEMO code
+    Speed up app start
+    Add support for SASL2 (XEP-0388)
+    Implement XEP-0424: Message Retraction
+    Add support for creating invitations (button only displayed if your server supports it, see https://docs.modernxmpp.org/client/invites/)
+    Add timestamp when quoting older messages
+    Always show a "Notes to self“ chat
+    Overhaul implementation of last interaction display
+    Show scroll-down button in groupchats
+    OMEMO keys are copyable now (double tap)
+    Add OSS based crash reporting (KSCrash), reports can be voluntarily sent via mail
+    Fix logfile handling
+    Add XEP-0215 (external services) to server details ui
+    Only show contacts in contacts panel if they are in our roster
+    Implement invitations using qr codes in addition of xmpp: uris
+    Implement new image viewer compatible with iOS 17
+    Implement gif support in image viewer
+
+    Bugfixes:
+    Many bugfixes
+    Fix bookmarks2 handling
+    Fix XEP-0333 in private groups
+    Fix url preview for sites not having oc: tags
+    Set notifications to "mention only" when joining public channels
+    Show per-resource last interaction timestamp in resource list
+    Fix file uploading and sharing
+    Fix timer when recording audio messages
+    Fix muc avatar fetching
+Version 5.4.4 (Jan 15, 2023)
+    Fixed audio message playback
+Version 5.4.3 (Dec 27, 2022)
+    Maintain compatibility with ejabberd servers older than 22.10
+Version 5.4.3 (Dec 27, 2022)
+    Maintain compatibility with ejabberd servers older than 22.10
+Version 5.4.2 (Dec 12, 2022)
+    - Temporary fix for ejabberd regression
+Version 5.4.1 (Dec 5, 2022)
+    - Don't show spurious sync errors
+    - Don't count unread messages of disabled accounts
+    - Add more UI translations
+    - Better handle switching between wifi/mobile
+    - Show shared media/files in contact details
+    - Support modern XEP-0402 channel/group bookmarks
+    - Fix various bugs
+    - Switch users on US pushservers to EU pushservers due to fosshost shutting down
+Version 5.3.4 (Nov 10, 2022)
+    - Fix various crashes
+    - Show TLS version in server details
+    - Better handling of device migration (direct and via iCloud backup)
+    - Show notification for incoming contact requests (including quick actions in this notification)
+    - Ask before disabling encryption in chats
+    - Show name of group/channel in contact details
+    - Show group/channel subject in contact details
+    - Fix channel notifications to include channel name
+    - Don't count unread messages of disabled accounts
+Version 5.3.3 (Oct 6, 2022)
+    - Remove trashserver.net from registration dropdown
+    - Fix conversations.im registration
+    - Fix sharing of screenshots
+    - Fix read markers when opening chat from BG
+    - Fix several smaller bugs- Fix empty strings in UI
+Version 5.3.1 (Aug 25, 2022)
+    - Many bugfixes and small improvements
+Version 5.3.0 (Aug 12, 2022)
+    - added support for animated gifs
+    - better audio message UX: tap to start/send recording, long press to abort
+    - show all contacts in share extension, not only recently used ones
+    - new onboarding UI with support for registering on any server and 2 servers in quick selection
+    - fix OMEMO key display for offline members of a groupchat
+    - enable OMEMO by default
+    - privacy: don't send eceipts or chatmarkers to contacts with no or pending subscription
+    - various fixes
+Version 5.2.0 (Jul 3, 2022)
+    Switched to new push servers (Europe or US)
+    Display transferred files in app's documents directory (file app)
+    Removed voice message recordings from macOS for now
+    Fixed QR code scanning on macOS
+    Fixed OMEMO QR code scanning bug
+    Fixed crash on link preview (issue 833)
+    Fixed onboarding via invite link
+    Fixed iOS notification auth for new installs
+    Fixed multiple crashes
+Version 5.1.1 (Jun 17, 2022)
+    Only fetch muc avatars on hash changes
+    Disable background image by default in new installs
+    Only display active chats of enabled accounts
+    Fix crash when trying to scan QR codes
+    Fix crash when accounts are disabled
+    Fix nickname field of contact details to show only for 1:1 chats
+    Add support for sharing any file type with Monal via share sheet
+    Introduce new OMEMO keys UI
+    Implement new framework for mandatory handler arguments
+    Fix crash if Monal retrieves a muc group message via mam while the sender is currently not joined
+    Many bugfixes and improvements
+Version 5.1.0 (Apr 17, 2022)
+    Support OMEMO in private MUCs
+
+    Minimum iOS version is now 14.0
+
+    Communication Notifications on iOS 15
+    New improved and simplified notification appex
+    Switched to new newer libsignal-protocol-c version
+    Fixing some memory leaks
+    Fixes muc invites
+    Improve OMEMO
+    Reduce avatar image size to ~60kb to make ejabberd throttling happy
+    Support muc muting again and implement "mention only" notification mode for mucs
+    Fix voice messages from conversations
+    Allow deletion of history for one contact
+    Add autodeletion of messages after 3 days (default: off)
+    Update timeouts to make Monal work even under very bad/slow network conditions
+    Add support for xmpp: invites (https://docs.modernxmpp.org/client/invites/)
+    Use bigger iq timeouts to account for throttling by xmpp servers (like ejabberd)
+    Remove all old VoIP code (was not working anymore)
+    Prevent spurious "could not sync" errors in multi account setups
+    Use less memory on incoming stanza flood (only parse ~100 stanzas at once)
+    Fix error in message deduplication (some messages could be received twice)
+Version 5.0.1 (Aug 12, 2021)
+    - Show warning if camera permissions are missing while trying to use camera
+    - Fixed duplication of contacts in chat overview
+    - Fixed some crashes
+    - Show Debug menu after tapping 16 times onto app version
+    - Don't drop file download errors silently
+    - Don't log outgoing sasl and passwrd change stanzas (your password won't be logged anymore)
+    - Trim whitespaces and newlines at the beginning or end of a message
+    - Fix microphone icon not always showing
+    - Renamed "Log" to "Debug" in settings menu
+    - Move contact details close button to the left
+    - Fix some very rare TCP stream handling bugs.
+    - Fix old xmpp resources created with monal older than 4.3 not having a random part
+    - Fix bug in upload queue not reacting to enter key
+    - Only register to APNS and push appserver if notifications are allowed (privacy)
+    - Fix bug in mam handling with ejabberd
+Version 5.0 (Jun 25, 2021)
+    New Features and enhancements:
+
+    Complete rewrite of MUC support (but without enhanced UI yet (e.g. create group, list participants etc.))
+    Support for MUC bookmarks
+    New upload queue UI (confirm file transfers before sending)
+    Catalyst: drag drop support for files
+    Show Emoji in bigger font
+    Video upload support
+    Voice and video messages refactored
+    XEP-191: Blocking command
+    QR code scanning for macOS
+    Show own OMEMO key QR codes for quick verification
+    Catalyst (especially on apple silicon) now has real push support
+    Fixed OMEMO to/from Siskin/Beagle
+    Many small improvements and bugfixes
+
+    Known issues
+
+    Somtimes audio / video messages can not be played in iOS until the app is closed and swiped away
+    Message quotes not yet displayed in a fancy style
+    MUC OMEMO not yet implemented
+Version 4.9.2 (Feb 22, 2021)
+    - fixed crashing
+    - resolved some issues with sending and receiving messages
+Version 4.9.1 (Jan 13, 2021)
+    - registration works again
+    - big fixes 
+Version 4.9 (Dec 21, 2020)
+    This is a large update with many changes under the hood
+    - complete rewrite of internal xmpp parser
+    - complete overhaul of OMEMO including many bug fixes and improvements
+    - improved error handling in encryption code
+    - added floating "scroll to bottom"-button
+    - added notification privacy setting UI
+    - added the "/me"-command
+    - added support for roster names instead of jid
+    - added support for XEP-0333 char-markers including synchronization of message read state across devices (this will even remove notifications for messages read on another device)
+    - implemented last message correction and blabber.im-style message deletion (using LMC)
+    - implemented ui to set own status message and display status messages of contacts in contact-details
+    - implemented modern swipe action UI for messages
+    - implemented XEP-0172 nicknames (set own nickname, read other nicknames)
+    - implemented XEP-0084 user avatar including new ui to set own avatar
+    - rewrote complete image/file transfer code
+    - removed ancient online/offline distinction for contacts
+    - now showing privacy settings after first account setup and on first app start
+    - updated localizations
+    - added notification actions to reply or mark as read directly from notification without opening the app
+    - improved chat scrolling
+    - fixed issues with image transfers only showing a grey rectangle
+    - fixed ios 12 crash when uploading big OMEMO encrypted images
+    - improved UI
+Version 4.8 (Oct 12, 2020)
+    Allows you to see the contents of the message in the notification again. There are also improvements to message archive management (MAM) which should allow you to scroll through your entire history. In addition we have added a button in chat to scroll to the newest message. There are also translations for many new languages (and growing!)
+Version 4.7 (Aug 2, 2020)
+    Despite the small version number update, this is a large upgrade. Among the many changes in this release:
+    1.New title bar in chat
+    2.Show when user was last seen online (XEP-0319: Last User Interaction in Presence)
+    3.Show typing notification (XEP-0085: Chat State Notifications)
+    4.XMPP blocking (XEP-0191: Blocking Command)
+    5.Fixed ui glitch that shows incorrect unread mesages
+    6. Many other Ui and stability improvements
+Version 4.6 (May 20, 2020)
+    - view and send location messages
+    - ALPN support
+    - fixed issues with presence
+    - draft text
+    - faster, reduced memory and battery usage 
+Version 4.5 (Apr 4, 2020)
+    - fixed errors with OEMEO publishing on some servers
+    - fixed network and synchronization issues
+    - draft text support
+    - roster versioning fixes
+    - UI improvements
+Version 4.4 (Feb 29, 2020)
+    - vastly improved OMEMO key exchange
+    - solved issues with message duplication
+    - reduced power consumption
+    - many small UI improvements
+Version 4.3 (Feb 19, 2020)
+    After 10 years, we have changed the UI for Monal completely. Modernizing it for the '20s, we now have a brand new interface focused on your conversations. Overall, things are faster and less confusing. This should feel familiar to anyone who is used to using other current messaging apps. We also:
+    Fixed confusing issues with starting chats, adding contacts and joining groups.
+    Added Support sending encrypted attachments (aesgcm:)
+    Fixed may crashing issues and UI bugs
+Version 4.2.3 (Feb 4, 2020)
+    message archive retreival fixes 
+Version 4.2.2 (Jan 12, 2020)
+    Fixed cash on saving images
+    share sheet does not shot null@null
+    sends receipts on archived message download
+    Better indication of send failure
+    Improved OMEMO key exchange 
+Version 4.2.1 (Jan 4, 2020)
+    Fixed attachment uploads
+    Fixed crash on uploading attachments on ipads
+    Improved group chat UI, message duplication, joining and leaving
+    Adjusted some fonts for readability
+Version 4.2 (Dec 17, 2019)
+    This is a large update with a lot of changes fixing or improving:
+    *push support
+    *OMEMO key exchange
+    *roster versioning
+    *contact list accuracy
+    *chat synch and catchup (MAM)
+    * issues joining, rendering and leaving group chats (MUC)
+    *discovery of HTTP upload on some servers
+    *Ipad translucency issues
+    *numerous UI glitches, dark mode quirks
+    * many many bugs that impacted stability
+    * CVE-2019-16235+
+    * CVE-2017-5589+
+
+
+    And many many bugs that impacted stability
+
+Version 4.1 (Nov 27, 2019)
+    After extensive testing and user feedback we are shifting to a new push notification system for iOS 13. This approach is much more reliable in iOS 13 but at the moment will just let you know there is a new message. We will restore the name, message and image preview in the notification ASAP. We just felt reliable messaging was important enough to roll out this update now. 
+Version 4.0 (Sep 21, 2019)
+    iOS 13 support. Dark mode and many bug fixes 
+Version 3.8.3 (Sep 15, 2019)
+    Fixed OMEMO key discovery and publishing issues 
+Version 3.8.2 (Aug 14, 2019)
+    Added XEP-0359 stanza id support.
+    Query message archives better
+    Improved message reliability
+    Improved battery life. 
+Version 3.8.1 (Aug 5, 2019)
+    Fixed many crashes
+    Removed bouncing/scrolling when entering a conversation or sending a message
+    replying from notification can be encrypted
+    joining a group does not use "test"
+    image previews have better iPhone x support 
+Version 3.8 (Jun 15, 2019)
+    In app registration on blabber.im
+    In app password changes
+    Addressed compatibility issue specifically with prosody that caused higher battery use.
+Version 3.7 (May 30, 2019)
+    Fixed OMEMO session creation errors on some servers
+    Fixed performance with attachment downloading
+    Fixed wrong/older image being shown in chat cells
+    Added ability to set nick names on contacts
+    Added a photo browser for conversation images
+    Show full name and not JID on notifications
+    Fixed bug that might cause duplication of sent messages
+    Notifications now have image previews
+    Fixed a bug that wrongly showed messages as failed to send
+    Fixed a bug that didn’t update messages when retrying
+    Reduced network and battery use
+    Fixed a bug that caused a disconnect loop in certain network conditions
+Version 3.6 (May 8, 2019)
+    1. New streamlined chat ui
+    2. Support for aesgcm encrypted attachments inline
+    3. Support for new line in chat and enter to send messages only when a hardware keyboard is attached.
+Version 3.5 (Apr 16, 2019)
+    Security fixes
+    Fixes to group chat
+    UI improvements
+Version 3.4 (Feb 4, 2019)
+    This is a major update with the addition of OMEMO encrypted chat and grouped notifications. There are also many bug fixes relating to push reliability and iPad support.
+Version 3.3 (Dec 17, 2018)
+    fixed several Ui issues, crashes and added the ability to mute conversations
+Version 3.2 (Dec 8, 2018)
+    Custom notification sounds, improved contact lists and lots of bug fixes
+Version 3.1 (Nov 27, 2018)
+    This is a major update brining a new and improved chat view and share sheet support in addition to the usual bug fixes. The chat screen now makes better use of space and includes inline previews of links. New users will find the new login and welcome screens useful.
+Version 3.0.2 (Jun 12, 2018)
+    Fixes crashes related to search and connectivity. Resolved issue where messages may not arrive after several reconnects
+    ---
+    Version 3. This is the third major version release since 2008. There are major changes to the way the app works and looks. I hope that the changes that I have made are for the better. There will likely be some quick updates after this to address issues that are raised.
+    Fundamentally, the way Monal works has changed. It will now use push to receive messages if that is an option. This vastly improves message reliability. Your servers will need to have a push support enabled. Monal's server still does not receive your messages, it will only know to wake up your device when there is a new message. If push is not available, multi-tasking will be short. This addresses changes to iOS in recent versions.
+    Additional improvements:
+    - A new layout for the UI, trying to highlight elements that are used more
+    - iPhone X support
+    - Conversation synchronization
+    - Delivery Confirmation
+    - Improved Multi user chat
+    - Server capabilities viewer
+    - Side by side multi tasking on iPads
+    - View images in the Conversation
+    - Improvements to stability and reliability
+Version 3.0.1 (May 31, 2018)
+    Fixes all of the crashes seen in 3.0
+    Restores searching contacts
+    Improved upgrade from 2.x release
+    ---
+    Version 3. This is the third major version release since 2008. There are major changes to the way the app works and looks. I hope that the changes that I have made are for the better. There will likely be some quick updates after this to address issues that are raised.
+    Fundamentally, the way Monal works has changed. It will now use push to receive messages if that is an option. This vastly improves message reliability. Your servers will need to have a push support enabled. Monal's server still does not receive your messages, it will only know to wake up your device when there is a new message. If push is not available, multi-tasking will be short. This addresses changes to iOS in recent versions.
+
+    Additional improvements:
+    - A new layout for the UI, trying to highlight elements that are used more
+    - iPhone X support
+    - Conversation synchronization
+    - Delivery Confirmation
+    - Improved Multi user chat
+    - Server capabilities viewer
+    - Side by side multi tasking on iPads
+    - View images in the Conversation
+    - Improvements to stability and reliability
+Version 3.0 (May 24, 2018)
+    Version 3. This is the third major version release since 2008. There are major changes to the way the app works and looks. I hope that the changes that I have made are for the better. There will likely be some quick updates after this to address issues that are raised.
+
+    Fundamentally, the way Monal works has changed. It will now use push to receive messages if that is an option. This vastly improves message reliability. Your servers will need to have a push support enabled. Monal's server still does not receive your messages, it will only know to wake up your device when there is a new message. If push is not available, multi-tasking will be short. This addresses changes to iOS in recent versions.
+
+    Additional improvements:
+    - A new layout for the UI, trying to highlight elements that are used more
+    - iPhone X support
+    - Conversation synchronization
+    - Delivery Confirmation
+    - Improved Multi user chat
+    - Server capabilities viewer
+    - Side by side multi tasking on iPads
+    - View images in the Conversation
+    - Improvements to stability and reliability
+Version 2.9.3 (Nov 14, 2016)
+    - Fixes a constant disconnect issue in the last release. Peter let the bug slip by.
+    - Fired Peter.
+Version 2.9.2 (Nov 7, 2016)
+    - Resolves issues with HTTP upload
+    - Misc bug fixes
+Version 2.9.1 (Mar 23, 2016)
+    - crash bugs resolved when handling account creation/update
+    - MAM works correctly on ejabberd and prosody
+    - Reply from quick notification should work correctly
+    - switched to circular icons
+    - resize text input when pasting for dictating
+Version 2.9 (Mar 10, 2016)
+    This is a major update. iOS does not run on iOS 6 anymore.
+
+    There are many major improvements. Most notably:
+
+    XEP-0313: Message Archive Management to download chat history.
+    XEP-0352: Client State Indication for dramatic reduction on power use.
+    XEP-0363: HTTP File Upload to send images in conversations
+    Dropbox integration to share files. Can be used when HTTP upload isn’t available.
+    Fixed several issues with periodic disconnects when in the background
+    Sped up the app significantly. In particular, logging in.
+    Rosters download correctly again and contacts should have proper full names instead of id shown.
+    Fixed bugs with Google logins
+    iOS text input will grow to multiple lines
+Version 2.8 (Jan 27, 2016)
+    - Google 2 factor authentication support
+    - Large device support
+    - Ability to reply from notifications
+    - Lots of bug fixes
+Version 2.7 (Aug 19, 2015)
+    bug fixes
+Version 2.6 (Jun 18, 2015)
+    - Some UI adjustments
+    - Works on iOS7
+    - Resolves bugs with stream resumption
+    - Resolves bugs with carbons
+Version 2.5 (Apr 15, 2015)
+    - fixed connection to Prosody servers
+    - improved stream management support
+    - improved contact list UI
+Version 2.4 (Apr 3, 2015)
+    - fixed resource priority bug
+    - fixed connection problems for gtalk
+Version 2.3 (Mar 3, 2015)
+    This is a big update. I think people will appreciate some of the mobile specific XEP work.
+
+    1. turned off all SSL3 support. It is no longer safe
+    2. added ability to search the contacts list
+    3. improved stability
+    4. fixed bug that caused facebook contacts to not show
+    5. XEP-0198 : Stream management
+    6. XEP-0280 : Message Carbons
+    7. fixed issues connecting to group chat
+Version 2.2 (Jan 7, 2015)
+    This is update that fixes bugs.
+    1. Added inidcator if message failed to send and retry buttons
+    2. Improved stability with numerous crash bug fixes.
+    3. Improved connectivity when moving between cells
+    4. Minimim supported version is iOS6
+Version 2.1.3 (Nov 15, 2014)
+    Numerous bug fixes. Several notable ones:
+    1. much improved connectivity when moving between wifi access points and cellular networks
+    2. improved support for leaving group chat
+    3. improved group chat server detection
+    4. tap on notifications to enter chat
+    5. iOS8 support
+    6. Iphone6 and 6 plus support
+    7. improved server compatibility
+    8. Improved Jingle compatibility
+Version 2.1.2 (Apr 10, 2014)
+    1. Fixed compatibulity with SSL off
+    2. Fixed old style SSL issues
+    3. Fix for compatibility with telepathy library clients
+    4. chinese keyboard input fixed
+    5. MUC compatibility improved
+Version 2.1.1 (Mar 22, 2014)
+    Fixes an issue where connections to some Jabberd servers stopped working .
+Version 2.1 (Mar 13, 2014)
+    New UI
+    Fixed SSL signing bug 
+Version 2.0.9 (Jan 10, 2013)
+    Iphone 5 screen support
+    fixed user reported bugs
+Version 2.0.8.2 (Oct 12, 2012)
+    2.0.8.2 changelog
+
+    This is update that fixes bugs.
+    1. fixes issue with navigation buttons in contact list
+    2. correctly sets away status on contacts
+    3. option to sort online contacts by status
+    4. set the priority based on presence
+    5. swiping on a notification takes you to the conversation
+    6. misc bug fixes 
+Version 2.0.8.1 (Oct 2, 2012)
+    2.0.8.1 changelog
+
+
+
+    This is update that fixes bugs.
+
+    1. fixes issue with navigation buttons in contact list
+
+    2. correctly sets away status on contacts
+
+    3. option to sort online contacts by status
+
+    4. set the priority based on presence
+
+    5. swiping on a notification takes you to the conversation
+
+    6. misc bug fixes
+
+Version 2.0.8 (Sep 24, 2012)
+    This is update that fixes bugs.
+
+    1. fixes issue with navigation buttons in contact list
+
+    2. correctly sets away status on contacts
+
+    3. option to sort online contacts by status
+
+    4. set the priority based on presence
+
+    5. swiping on a notification takes you to the conversation
+
+    6. misc bug fixes
+Version 2.0.7 (Sep 4, 2012)
+    This is a major update that adds many features and fixes bugs.
+
+    1. Added XMPP jingle VOIP features. (XEP-0166)
+    2. Remains open in the background until you logout or lose connection
+    3. Many major bugfixes to improve stability and speed
+    4. Several UI enhancements/cosmetic changes
+    5. Removed AIM support due to AOL turning off supported servers
+    6. Added more retina graphics
+    7. Added tap gesture to dismiss keyboard
+    8. Added improved 2 pane iPad view in portrait mode
+    9. Properly times out when connection fails
+    10. Closing an active chat marks the messages as read
+    11. Properly able to handle resource ids and other users logged into multiple machines
+    12. Fixed digest-md5
+    13. Fixed Facebook login
+Version 2.0.6 (Dec 31, 2011)
+    This is a major update that adds many features and fixes significant bugs.
+
+    1. fixed bug where close all chats closed even when clicking no
+    2. Added ability to swipe between active chat windows (issue #15)
+    3. tapping on a sliding message notification will take you to the conversation
+    4. keyboard correctly resets from symbols after sending a message
+    5. Chatlog is now organized by day instead of a large flat list
+    6. Changed icon set to support retina display
+    7. improved compatibility with old style SSL
+    8. tested to work with Beehive servers
+    9. Fixed bug with SASL authentication
+    10. Resolved ios5 issues with SSL
+    11. Fixed problems connecting to webex servers
+    12. Shows own full name properly when in chat window
+    13. Fixed xmpp bug with iq query on vcard request (issue #55)
+    14. Added a cancel button below progress indicator to cancel a login attempt. (issue #26)
+    15. enabled Gtalk connections on 443
+Version 2.0.5 (Oct 25, 2011)
+    This is an update that fixes bugs and adds features.
+
+
+
+    1. iOS5 compatible (fixes crashes)
+
+    2. Uses standard iphone notification sound and vibrations.
+
+    3. Fixed bug where sounds didnt play
+
+    4. Uses device/switch settings. Removed vibration options in Monal settings since they are redundant
+
+    5. Correctly detects https links in chats
+
+    6. Added feature to not save the password and request it on every login for additional security.
+
+    7. improved xmpp capabilities support (xep-0115)
+
+    8. in chat view, will show the full date if the message came on another day
+
+    9.Added expanding text view like in messages app.
+
+    10. chat log can use the full screen to display messages (removed grey box at bottom)
+Version 2.0.4 (Apr 14, 2011)
+    2.0.4 changelog
+
+
+
+    This is a service update that fixes bugs
+
+
+
+    1. Fixed critical bug that caused immediate crash on iOS3 devices
+
+    2. improved UI, adopted new icon set
+
+    3. fixed bug where offline roster was not loading on some servers
+
+    4. Added XEP-0055: Jabber Search (user directory)
+
+    5. Added detailed help pages
+
+    6. Added several popovers to ipad UI
+
+    7. option to turn off message preview
+
+    8. option to hide offline contacts
+
+    9. option to turn off logging
+
+    10. no longer forces an @ in the username, greater compatibility
+
+    11. button to close all active chats at once
+
+    12. Added XEP-0078: Legacy Authentication. Works on non SASL servers
+
+    13. tested to work with jabberd14 1.6
+
+    14. tested to work with Prosody
+Version 2.0.3 (Mar 24, 2011)
+    1. Uses cleaner icon set
+    2. Manually set XMPP priority
+    3. Shows offline contacts
+    4. Added gtalk extensions for apps
+    5. fixed an issue with Digest-Md5 servers and connectivity
+    6. Fixed a bug with some non english messages not arriving
+    7. improved auto recovery in the event of a network error
+    8. when swiping to close an active chat it says "close" instead of delete. When clearing a chat log it says "clear" and not delete
+    9. improved UI for adding new contact
+    10. shows a badge with a count of messages received on app icon
+    11. status is not overwritten when setting away
+    12. fixed misc crashing bugs with the UI
+    13. new buddy details screen
+    14 optimized and switched from GCC to LLVM+Clang compiler
+    15. Added Multi user chat (MUC) menus.
+    16. Removed browser tab from iPad UI
+Version 2.0.2 (Dec 2, 2010)
+    This is a bug fix update that addresses issues users have raised.
+
+    1. fixed a bug where some people might not show up as online sometimes
+    2. fixed bug where away was not working
+    3. added status orbs
+    4. fixed bug adding accounts
+    5. several ipad ui improvements
+    6. SECURITY: fixed possible XSS attack
+    7. active chats count update properly
+    8. Misc connectivity bugfixes 
+Version 2.0.1 (Oct 25, 2010)
+    This is a bug fix update that addresses issues users have raised.
+
+    1. removes a lock up when user disconnects while chatting
+    2. added a progress indicator to show when large chats are loaded
+    3. fixed a compatibility bug with some ejabberd servers
+    4. fixed failure to load on some devices
+    5. added timeouts on connection to better detect errors
+    6. fixed the issue where sometimes the login window spins forever
+Version 2.0 (Oct 9, 2010)
+    This is a major update that significantly changes to the UI and guts of the program. In addition to bug fixes and the new iPad interface, support for cisco webex connect has been added as well as group chat.
+
+
+
+    Complete changelog:
+
+
+
+    1. Stops crash on load on iphone 3g and fixed many other bugs
+
+    2. faster start up and much more efficient login code (3-4x faster)
+
+    3. fixed bug where chat input box was disabled after viewing logs
+
+    4. urls in chat are detected and can be tapped to bring up safari when there is multi tasking or in app when there isn't.
+
+    5. Added a logoff button for easy logoff without closing app
+
+    6. contacts listed in alphabetical order, own username not shown
+
+    7. support for xmpp tunes, option to set status as currently playing ipod song
+
+    8. New ipad UI autorotates to all orientations, supports landscape
+
+    9. new lighter, faster and more accurate XMPP parsing engine
+
+    10. xmpp uses JID for setup
+
+    11. UI improvements for consistency
+
+    12. new sliding notification when a message is received or song changes
+
+    13. status updates are immediately seen
+
+    14. added a simple web browser for non multi tasking OSes
+
+    15. Icons update correctly when buddy changes it
+
+    16. added an active chats tab to access current conversations easily
+
+    17. added DNS SRV record discovery. this enables cisco webexconnect support in addition to greater compatibility overall.
+
+    18. added support for group chat
+
+    19. added support for itunes file transfer
+
+Version 1.062 (Jul 30, 2010)
+    This update fixes bugs, improves performance and incorporates user suggestions
+
+    1. removed unnecessaty XMPP commands (chatstates, pings) to reduce CPU/battery load
+    2. xmpp keep alive increased to 4 minutes to reduce network/battery usage
+    3. fixed bug where there was no vibration or ring when messages arrived
+    4. made the idle logout notification only if an account is active
+    5. background idle logout notification may be turned off. no more closing message.
+    6. fixed bug where disabling the account didn't disconnect it
+    7. chat log: no duplicate names, names sorted in alphabetical order, own username no longer shown
+Version 1.061 (Jun 29, 2010)
+    ** setting in 1.06 that caused crashes on ipads has been fixed **
+
+    1. multi tasking enabled. runs in the background. Application will suspend if you are inactive for 10 min.
+
+    2. shows a popup notification if a message arrives while the app is not on the foreground.
+
+    3. fixed bug that made keyboard dismiss after every message
+
+    4. speed improvement, better XMPP handling
+
+    5. The sound/vibration alert happens only when screen locked or background
+
+    6. links clicked in chat now open in safari
+
+    7. added missing :-p emoticon
+
+
+
+Version 1.06 (Jun 22, 2010)
+    1. multi tasking enabled. runs in the background. Application will suspend if you are inactive for 10 min.
+
+    2. shows a popup notification if a message arrives while the app is not on the foreground.
+
+    3. fixed bug that made keyboard dismiss after every message
+
+    4. speed improvement, better XMPP handling
+
+    5. The sound/vibration alert happens only when screen locked or background
+
+    6. links clicked in chat now open in safari
+
+    7. added missing :-p emoticon
+Version 1.05 (Jun 2, 2010)
+    1. fixed all bugs from crash logs, made some speed improvements
+
+    2. removed the confusing chat logs window edit button
+
+    3. fixed bug where names of users signing in sometimes showed up in other chats
+
+    4. opening conversation shows last 10 not 20 messages (faster load)
+
+    5. the input box now allows multiple line input and expands when tapped on
+
+    6. input box does not delete unsent messages when tapping outside of the box
+
+    7. Graphical emoticons in chat
+
+    8. added a basic iPad interface
+
+    9. Added button to quickly clear all conversation logs
+Version 1.04 (Feb 17, 2010)
+    1. added support for SSL on port 5222 (New style) (XMPP)
+
+    2. added support for digest md5 authentication mechanism (XMPP)
+
+    3. added support facebook chat (XMPP)
+
+    4. added basic support for AOL Instant Messenger (AIM)
+
+    5. uses the contact's full name from vCard if available instead of username (XMPP)
+
+    6. opening a conversation shows the last 20 messages not 30. speeds up loading
+
+    7. added network activity indicator on top bar
+
+    8. fixed bug where some offline messages were being ignored
+
+    9. fixed several crashing bugs
+
+    10. fixed random disconnect/reconnect issue
+
+    11. modified message theme to have less image loading and better space use
+
+    12. tested with jabberd2 servers
+Version 1.03 (Feb 11, 2010)
+    1. Self signed SSL certificates now work
+
+    2. removed non public API used
+
+    3. improved xmpp support
+
+    4. message send failure is treated as a disconnection and handled automatically
+
+    5. navigation bar and status bar now disappear in landscape mode
+
+    6. scroll to the newest message when first going into a chat now
+
+    7. adjusted brightness of icon so it isnt so dark
+
+Version 1.02 (Feb 5, 2010)
+    SworIM has a new name: Monal
+
+
+
+    1. Faster click response on buddy list
+
+    2. added an arrow to show buddies are clickable in chat log
+
+    3. added blue arrows to see expanded status message and other details of buddies in buddylist
+
+    4. "away" users are greyed out
+
+    5. Away, invisible and message Settings persistent between sessions
+
+    6. can delete conversation logs for budddies
+
+    7. xmpp protocol handling more efficient
+
+    8. new notification engine, much faster loading, more responsive UI and lower CPU usage/better battery life
+
+    9. new in application account manager, support for multiple accounts
+
+    10. Landscape mode for chats.
+
+    11. option to play a sound when a message arrives (iphone only)
+
+    12. the entire program does not freeze when loading many buddy icons the first time
+
+    13. Edit button added for buddy list to remove buddies
+
+    14. Edit button added to chat history to remove history
+
+    15. badge on the tab bar at the bottom will indicate unread messages
+
+    16. offline messages. If the server supports it when messages are sent while sworim is closed, they will be sent to you when you open
+
+    17. Smoother/cleaerer buddy icon appearance
+
+    18. The new message indicator is in a grey oval like in mail.
+
+    19. copy and paste enabled in chat windows
+
+    20. Reconnects seamlessly when a dropped connection is detected
+
+    21. New faster and better looking message display that is compatible with Adium themes.
+
+Version 1.01 (Jul 5, 2009)
+    1. removed debug code that got left behind in the 1.0 release build that was causing massive slowdown for some users
+
+    2. Status messages update properly on buddylist
+
+    3. Fixed bug when loading buddy icons speeding up scrolling on chats and reduced memory use
+
+    4. made the message input box more obvious and visible in a chat view
+
+    5. initial prompts ask for missing username explicitly says go to settings program
+
+    6. Misc bug fixes
+Version 1.0 (Jun 15, 2009)
+
+Users may also like
+Select objects to compare
+Siskin IM
+ChatSecure Messenger
+Snikket
+FluffyChat
+SimpleX Chat: secure messenger
+Kedr
+Skred Messenger
+SafeSwiss® Encrypted Messenger
+twinme private messenger
+Jami
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    6.1.1
+    Current release
+    Feb 7, 2024
+    6.1.0
+    Feb 6, 2024
+    6.0.4
+    Jan 8, 2024
+    6.0.3
+    Jan 3, 2024
+    6.0.2
+    Dec 20, 2023
+    6.0.1
+    Nov 20, 2023
+    6.0
+    Oct 18, 2023
+    5.4.4
+    Jan 15, 2023
+    5.4.3
+    Dec 27, 2022
+    5.4.3
+    Dec 27, 2022
+    5.4.2
+    Dec 12, 2022
+    5.4.1
+    Dec 5, 2022
+    5.3.4
+    Nov 10, 2022
+    5.3.3
+    Oct 6, 2022
+    5.3.1
+    Aug 25, 2022
+    5.3.0
+    Aug 12, 2022
+    5.2.0
+    Jul 3, 2022
+    5.1.1
+    Jun 17, 2022
+    5.1.0
+    Apr 17, 2022
+    5.0.1
+    Aug 12, 2021
+    5.0
+    Jun 25, 2021
+    4.9.2
+    Feb 22, 2021
+    4.9.1
+    Jan 13, 2021
+    4.9
+    Dec 21, 2020
+    4.8
+    Oct 12, 2020
+    4.7
+    Aug 2, 2020
+    4.6
+    May 20, 2020
+    4.5
+    Apr 4, 2020
+    4.4
+    Feb 29, 2020
+    4.3
+    Feb 19, 2020
+    4.2.3
+    Feb 4, 2020
+    4.2.2
+    Jan 12, 2020
+    4.2.1
+    Jan 4, 2020
+    4.2
+    Dec 17, 2019
+    4.1
+    Nov 27, 2019
+    4.0
+    Sep 21, 2019
+    3.8.3
+    Sep 15, 2019
+    3.8.2
+    Aug 14, 2019
+    3.8.1
+    Aug 5, 2019
+    3.8
+    Jun 15, 2019
+    3.7
+    May 30, 2019
+    3.6
+    May 8, 2019
+    3.5
+    Apr 16, 2019
+    3.4
+    Feb 4, 2019
+    3.3
+    Dec 17, 2018
+    3.2
+    Dec 8, 2018
+    3.1
+    Nov 27, 2018
+    3.0.2
+    Jun 12, 2018
+    3.0.1
+    May 31, 2018
+    3.0
+    May 24, 2018
+    2.9.3
+    Nov 14, 2016
+    2.9.2
+    Nov 7, 2016
+    2.9.1
+    Mar 23, 2016
+    2.9
+    Mar 10, 2016
+    2.8
+    Jan 27, 2016
+    2.7
+    Aug 19, 2015
+    2.6
+    Jun 18, 2015
+    2.5
+    Apr 15, 2015
+    2.4
+    Apr 3, 2015
+    2.3
+    Mar 3, 2015
+    2.2
+    Jan 7, 2015
+    2.1.3
+    Nov 15, 2014
+    2.1.2
+    Apr 10, 2014
+    2.1.1
+    Mar 22, 2014
+    2.1
+    Mar 13, 2014
+    2.0.9
+    Jan 10, 2013
+    2.0.8.2
+    Oct 12, 2012
+    2.0.8.1
+    Oct 2, 2012
+    2.0.8
+    Sep 24, 2012
+    2.0.7
+    Sep 4, 2012
+    2.0.6
+    Dec 31, 2011
+    2.0.5
+    Oct 25, 2011
+    2.0.4
+    Apr 14, 2011
+    2.0.3
+    Mar 24, 2011
+    2.0.2
+    Dec 2, 2010
+    2.0.1
+    Oct 25, 2010
+    2.0
+    Oct 9, 2010
+    1.062
+    Jul 30, 2010
+    1.061
+    Jun 29, 2010
+    1.06
+    Jun 22, 2010
+    1.05
+    Jun 2, 2010
+    1.04
+    Feb 17, 2010
+    1.03
+    Feb 11, 2010
+    1.02
+    Feb 5, 2010
+    1.01
+    Jul 5, 2009
+    1.0
+    Jun 15, 2009
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jun 15, 2009
+
+Worldwide Release Date
+    Jun 15, 2009
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    6.1.1
+
+Size
+    47.13 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Basque, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hindi, Italian, Japanese, Korean, Nepali, Norwegian Bokmål, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+Seller
+    Thilo Molitor
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    G7YU7X7KRJ.SworIM
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 317711500
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Monal - XMPP chat | data.ai

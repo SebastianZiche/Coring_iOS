@@ -1,0 +1,457 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Philips voice recorder
+Speech Processing Solutions GmbHBusiness (Applications)Free
+Alerts
+
+Philips Voice Recorder
+Philips voice recorder
+Philips voice recorder
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Philips voice recorder
+Business (Applications)
+Free
+iPhone Only
+App Description
+SPEAK - SEND - DONE
+
+The Philips voice recorder app offers first-class recording quality, professional functions such as inserting or cutting sequences, and an intuitive operation. For maximum security, browser-based file management and additional services such as speech recognition, we recommend the use of our convenient Philips SpeechLive service.
+
+PHILIPS SPEECHLIVE - USE THE FULL POTENTIAL OF PHILIPS VOICE RECORDER APP
+In combination with Philips SpeechLive you can benefit from many other advantages:
+
+- SPEECH RECOGNITION
+
+- TRANSCRIPTION SERVICE
+
+- INTEGRATION OF YOUR PERSONAL ASSISTANT
+
+- BROWSER-BASED FILE MANAGEMENT AND WORKFLOW
+
+- INDIVIDUAL USER MANAGEMENT
+
+
+TAILORED SOLUTION
+Do you have special requirements for your dictation workflow? The Philips dictation app can be seamlessly integrated into your existing workflow.
+Ratings
+Displayed Avg Ratings
+3.7
+Total Displayed Ratings
+180
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.6.38 (Oct 2, 2023)
+    iOS 17 compatibility
+Version 4.6.37 (Feb 24, 2023)
+    We removed the support for Dictation Hub. Please use the other sending options of the app instead to share your dictations.
+Version 4.6.36 (Sep 26, 2022)
+    Bugfix: Crash on iOS 16 after repeated recording and pausing
+Version 4.6.34 (Oct 27, 2021)
+    Added iOS 15 support
+
+    Bugfix: Dictations lost from Express mode when the recording is interrupted by an incoming call
+
+    Bugfix: Incoming calls make the dictation file corrupt when encryption is enabled
+Version 4.6.28 (Jul 14, 2021)
+    - The SpeechLive integration of the Philips Voice Recorder app will be discontinued end of September.
+    - Please send your dictations to SpeechLive and they will be available in the new app: https://apps.apple.com/us/app/philips-speechlive/id1503474163
+Version 4.6.25 (Feb 3, 2021)
+    * Email addresses are supported in "Author" field
+Version 4.6.24 (Nov 2, 2020)
+    iOS 14 Bugfixes:
+    - Missing Edit button in Details screen
+    - Crash during SpeechLive trial signup
+
+    General
+    - iOS 12 no longer supported
+Version 4.6.19 (Jul 21, 2020)
+    - Fix for incoming phone calls during recording.
+Version 4.6 (May 14, 2020)
+    - Show App ID in About Screen
+    - Bug and crash fixes, stability improvements
+Version 4.5.2 (Feb 2, 2020)
+    - Stability fixes
+    - Usability fixes
+Version 4.5.1 (Dec 5, 2019)
+    Fix for port numbers in SpeechExec Enterprise URL
+Version 4.5 (Nov 18, 2019)
+    - Bug fixes
+    - iOS 13 stability improvements
+    - Extended AppConfig support
+    - Azure Application Proxy support for SpeechExec Enterprise
+Version 4.4.20 (Jul 19, 2019)
+    general bugfixing
+Version 4.4.17 (Jan 21, 2019)
+    AppConfig support
+Version 4.4.14 (Dec 3, 2018)
+    • Simplified Philips SpeechLive activation
+    • Data list
+    • A new Frequently Asked Questions section
+    • Enhancements for the Philips Remote Device Manager Software
+    • Editing metadata before starting a recording
+    • Record Beep
+Version 4.3.04 (Oct 9, 2018)
+    - 5 custom fields for additional metadata
+    - Deactivation of the automatic purge functionality for free sending options
+    - Support of email addresses with new top-level domains
+Version 4.2.04 (May 23, 2018)
+    Compliance with the EU General Data Protection Regulation
+Version 4.1.08 (Apr 17, 2018)
+    -A dedicated button to simply create new recordings
+    -Configurable action bar that allows you accessing your desired functions on the main screen
+    -Cut feature to get rid of useless sequences in your recording
+    -5 different winding speeds
+    -Philips SpeechExec Enterprise support. Send your recordings to your SpeechExec workflow.
+    -Automatic sending in case one sending option is enabled
+    -A new walk-through guide to help you getting started more quickly
+Version 4.0.07 (Sep 11, 2017)
+    maintenance
+Version 4.0.05 (Aug 16, 2017)
+    •Product name changed to ‘Philips voice recorder’
+    •No 30-day limitation
+    •SpeechLive banner and tutorial videos
+    •Easy in-app SpeechLive trial signup
+    •Support for Philips remote device manager
+    •Email field in mobile server settings has been removed
+    •Encryption key requires now 4-16 characters
+Version 3.9.12 (Jun 30, 2017)
+    support for the new speech recognition languages
+Version 3.9.09 (Jan 27, 2017)
+    general bugfixing
+Version 3.9.08 (Sep 9, 2016)
+    Attached documents can now be downloaded and reviewed within the app (only available in combination with Philips SpeechLive)
+Version 3.8.06 (Apr 13, 2016)
+    This version now also supports the SpeechLive speech recognition service.
+Version 3.7.06 (Oct 6, 2015)
+    Languages are displayed correct
+Version 3.7.05 (Sep 2, 2015)
+    maintenance
+Version 3.7.03 (Jul 9, 2015)
+    Prepared for Multi-Speaker transcription
+Version 3.6.06 (Feb 24, 2015)
+    • UserInterface adaption because of iOS 8.1.3
+    • SpeechLive encryption information
+Version 3.6.05 (Feb 9, 2015)
+    • New UserInterface
+    • New Quick Start Guide
+    • New barcode scanner SDK
+    • Editing mode can be set as default
+    • Clearer settings structure
+    • Email sending can be enabled as additional sending option
+    • Limit free usage to 30 days
+    • Display title of recording in Philips SpeechExec title column
+    • General bugfixing
+Version 3.5.41 (Nov 14, 2014)
+    Bugfixes for iOS 8.1:
+    - App crashed if the dictation hub language setting menu was opened on devices with non-English OS language
+Version 3.5.40 (Oct 7, 2014)
+    Bugfixes for iOS 8
+Version 3.5.32 (Apr 1, 2014)
+    General bug fixes and iOS 7 adaptations in addition to the following new features:
+    - Barcode scanner
+    - SpeechScribe Transcription Services
+    - E-Mail sending option is deactivated if another sending option is activated
+    - Filter function
+Version 3.0.24 (Sep 18, 2013)
+    This is a fix version for iOS 7 which does no longer make use of UDIDs.
+Version 2.6.4 (Apr 12, 2013)
+    iPhone 5 screen compatibility
+Version 2.5.11 (Dec 14, 2012)
+    Improvements for SpeechExec dictation hub
+Version 2.5.9 (Nov 5, 2012)
+    Improvements for SpeechExec dictation hub
+Version 2.5.6 (Oct 15, 2012)
+    Support for Philips SpeechExec dictation hub
+
+Version 2.1.2 (Oct 1, 2012)
+    Improvements for iOS6
+Version 2.1 (Aug 10, 2012)
+    • Redesigned user interface
+    • Audio files can be sent to up to 5 different Philips SpeechExec Mobile Servers
+    • Send audio files via email. Only AAC audio format is supported.
+    • Attach a photo to every audio file
+    • New menu structure for settings
+    • Launch Philips Dictation Recorder from your own iPhone app and transfer up to 4 different keywords, that will get visible in the audio file's details.
+    • New audio file details screen with integrated audio player.
+    • Connect to Philips Dictation Recorder via your webbrowser to playback or download your audio files.
+Version 2.0 (Jul 29, 2012)
+    • Redesigned user interface
+    • Audio files can be sent to up to 5 different Philips SpeechExec Mobile Servers
+    • Send audio files via email. Only AAC audio format is supported.
+    • Attach a photo to every audio file
+    • New menu structure for settings
+    • Launch Philips Dictation Recorder from your own iPhone app and transfer up to 4 different keywords, that will get visible in the audio file's details.
+    • New audio file details screen with integrated audio player.
+    • Connect to Philips Dictation Recorder via your webbrowser to playback or download your audio files.
+Version 1.2 (Dec 30, 2011)
+    Solved Issues:
+
+
+    1. In the XML File there's still 1.0 as SpeechExecDictation version instead of 1.1. In this version 1.2 is written in the XML file.
+
+    2. Change language of your iPhone for example to German. Send a dictation to a https server. Following message occurs: kUnstrustedCertTitle – kUnstrustedCertMessage (Abbrechen or kIgnore)
+
+    3. "Unsecured certificate pops up altough sending dictations to a secure webserver (via https) even if the application already accepted the ""unsecure"" certificate the mentioned message pops up every time the application is restarted (kill app by double click on home button)
+
+    4. It is not possible to cancel a sending process, when tapping on "Cancel" in the "Untrusted Certificate" window.
+Version 1.1 (Aug 12, 2011)
+    This version fixes the following issues:
+
+
+
+    -iPad2 cannot not upload dictation files
+
+    -When user accidentally selects “passcode” in the setting area without entering a 4 digit number the application is locked
+
+    -HTTPS data transfer not possible
+
+Version 1.0. (Feb 11, 2011)
+
+Users may also like
+Select objects to compare
+OLYMPUS Dictation for iPhone
+Dictate⁺
+Winscribe Professional
+Expert Assistant Professional
+Zero for Intune
+iManage Work 10 Mobility
+BigHand
+Alon Dictaphone-Voice Recorder
+iTimekeep
+NetDocuments
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    4.6.38
+    Current release
+    Oct 2, 2023
+    4.6.37
+    Feb 24, 2023
+    4.6.36
+    Sep 26, 2022
+    4.6.34
+    Oct 27, 2021
+    4.6.28
+    Jul 14, 2021
+    4.6.25
+    Feb 3, 2021
+    4.6.24
+    Nov 2, 2020
+    4.6.19
+    Jul 21, 2020
+    4.6
+    May 14, 2020
+    4.5.2
+    Feb 2, 2020
+    4.5.1
+    Dec 5, 2019
+    4.5
+    Nov 18, 2019
+    4.4.20
+    Jul 19, 2019
+    4.4.17
+    Jan 21, 2019
+    4.4.14
+    Dec 3, 2018
+    4.3.04
+    Oct 9, 2018
+    4.2.04
+    May 23, 2018
+    4.1.08
+    Apr 17, 2018
+    4.0.07
+    Sep 11, 2017
+    4.0.05
+    Aug 16, 2017
+    3.9.12
+    Jun 30, 2017
+    3.9.09
+    Jan 27, 2017
+    3.9.08
+    Sep 9, 2016
+    3.8.06
+    Apr 13, 2016
+    3.7.06
+    Oct 6, 2015
+    3.7.05
+    Sep 2, 2015
+    3.7.03
+    Jul 9, 2015
+    3.6.06
+    Feb 24, 2015
+    3.6.05
+    Feb 9, 2015
+    3.5.41
+    Nov 14, 2014
+    3.5.40
+    Oct 7, 2014
+    3.5.32
+    Apr 1, 2014
+    3.0.24
+    Sep 18, 2013
+    2.6.4
+    Apr 12, 2013
+    2.5.11
+    Dec 14, 2012
+    2.5.9
+    Nov 5, 2012
+    2.5.6
+    Oct 15, 2012
+    2.1.2
+    Oct 1, 2012
+    2.1
+    Aug 10, 2012
+    2.0
+    Jul 29, 2012
+    1.2
+    Dec 30, 2011
+    1.1
+    Aug 12, 2011
+    1.0.
+    Feb 11, 2011
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Feb 21, 2011
+
+Worldwide Release Date
+    Feb 21, 2011
+
+Last Updated Time
+    Feb 22, 2024
+
+Version
+    4.6.38
+
+Size
+    76.14 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Dutch, French, German, Spanish
+
+Seller
+    Speech Processing Solutions GmbH
+
+Company HQ
+    Austria
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.philips.dictation.recorder
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Developer Account Website
+
+App ID: 418344277
+Unified App ID: 1000800000064535
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Philips voice recorder | data.ai

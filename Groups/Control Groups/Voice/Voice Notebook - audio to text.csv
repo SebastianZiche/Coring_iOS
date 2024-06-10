@@ -1,0 +1,95 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.96,2024-01-03,Analytics tasks
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.95,2023-12-24,Processing GDPR consent message for Ad Privacy Europe users has been implemented
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.94,2023-10-24,Read from cursor setting in TTS mode added
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.93,2023-09-29,Ability to create audio files in TTS mode
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.92,2023-09-19,Ability to create audio files in TTS mode
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.91,2023-06-26,Ads publisher changed
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.90,2023-05-09,Ads publisher changed
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.89,2023-03-19,Text to Speech mode implemented. Help updated. Bugs fixed.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.88,2023-03-12,Text to Speech mode implemented.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.87,2023-02-05,Auto punctuation option added to speech tab
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.86,2022-12-06,Scrolling text improvement
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.85,2022-09-22,Offline mode setting added to Audio tab
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.84,2022-09-09,Code optimization
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.83,2022-04-30,Preparing to run on Mac silicon
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.82,2022-04-16,Send to functionality improved
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.81,2022-02-03,Usability improvement some alert dialogs added
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.80,2022-01-12,Offline mode and language change without stopping dictation
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.79,2022-01-06,Added a button to change the language without stopping dictation
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.78,2021-12-30,Offline mode setting added
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.77,2021-12-22,Improvement in merging audio records
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.76,2021-12-16,Implemented word search in notes. Search panel design improvement. Airpods support corrected.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.75,2021-12-10,Implemented word search in notes
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.74,2021-11-10,Apple watch support added. Print support added. Usability improvements alert added .
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.73,2021-11-04,Apple watch support added. Print support added.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.72,2021-10-26,Apple watch support added. Analytics events added.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.71,2021-10-12,Apple watch support added some bugs fixed
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.70,2021-05-19,Asks the user s permission to track data for ads. AppTrackingTransparency implemented
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.69,2021-04-24,Bluetooth support added. Increased minimum deployment iOS version to 12.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.68,2021-04-13,Made files sorting case insensitive audio file recording improvement bug fixed
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.67,2021-04-06,Save audio to file sorting in audio list
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.66,2021-03-18,Firebase library updated small bug in interrupt mode resolved
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.65,2021-03-12,Document statistics word counter menu item added to the speech window menu
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.64,2021-03-04,Transcribing settings moved to transcribing window
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.63,2021-02-26,Recent languages functionality added with visible No sleeping settings
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.60,2020-10-16,Transfer to xcode 12
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.59,2020-09-29,Spanish and French languages added to the App UI
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.58,2020-06-28,Auto saving improvement update crashlytics sdk
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.57,2020-06-22,Accessibility improvement
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.56,2020-05-12,German language added
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.55,2020-03-11,Dark mode support
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.54,2020-03-06,Renaming a file in the speech tab by pressing the file title. Transfer to Xcode 11 libraries updated.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.53,2020-03-05,Renaming a file in the speech tab by pressing the file title. Transfer to Xcode 11.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.52,2020-01-28,Code cleanup and optimization
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.51,2020-01-20,Speech tab bottom buttons functionality improved
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.50,2020-01-16,Improving autosave when dictating notes
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.49,2019-12-13,Google libraries Ads and Firebase updated
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.48,2019-12-03,Share App functionality corrected
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.47,2019-11-26,Changes in speech to text functionality speech tab
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.44,2019-11-17,Help with punctuation button added to the speech window
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.43,2019-11-06,Improvement of the help section
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.42,2019-10-08,Adaptation for iOS 13
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.41,2019-10-02,Stability issues rallback xcode 11 to 10.3
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.39,2019-09-30,Interrupt mode added to transcribing settings. Highlighting timestamps in audio listening mode. Bugs fixed.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.38,2019-09-19,Transcribing algorithm improved controlling the audio pointer by tapping to timestamps in transcription keyboard button in audio screen added App help updated.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.37,2019-09-10,Space and Return buttons added to the speech input window
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.36,2019-09-03,Improvement of the time stamps functionality in audio tab
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.35,2019-08-28,Sorting functionality added to the speech tab
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.34,2019-08-15,Improvement in text sharing functionality
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.33,2019-07-31,Stability issues
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.32,2019-07-19,Import text files functionality added to the speech tab
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.31,2019-07-16,Corrected font in renaming note dialog
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.3,2019-07-11,Offline mode improved
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.2,2019-06-26,Added links to rate and share the App
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.1,2019-06-19,No sleeping mode improvement in Premium settings.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,4.0,2019-06-04,Stability improvement
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.9,2019-06-01,Improvement of the backspace button functionality in the speech tab. Updated the version of programming language.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.8,2019-05-28,Diagnostic and stability issues.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.7,2019-05-23,Diagnostic and stability issues
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.6,2019-05-06,Action button added to the note files and audio files list page
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.5,2019-04-27,File name suggestion improvement
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.4,2019-04-17,Small bug in the link mail to developer in the App help has been resolved
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.3,2019-04-11,Working with stability issues
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.2,2019-04-03,Use first sentence from speech input file in the file renaming dialog
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.1,2019-03-22,Stability issues speech language picker improvement
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,3.0,2019-03-15,Changed functionality for the Send to button in the speech tab
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,2.8,2019-03-08,Rearranged control buttons
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,2.7,2019-02-22,Some information alert added
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,2.6,2019-01-18,Update libraries used in the App Admob and others
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,2.5,2018-12-30,User interface improvements
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,2.4,2018-12-18,Auto saving when go background speech tab handling can not open file error in audio tab.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,2.3,2018-12-05,Stability issues error handling.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,2.2,2018-12-01,Redesigned settings window. Improvements in file saving.
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,2.1,2018-11-27,Bug in audio tab functionality fixed
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,2.0,2018-11-21,Stability issues
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.09,2018-11-16,Some bugs in life cycle of App fixed
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.08,2018-11-10,Work on Stability issues
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.07,2018-11-08,Stability of App improvement
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.06,2018-10-17,Emoji bug speech tab functionality fixed
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.05,2018-10-15,Working on stability of App
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.04,2018-10-10,Work on stability issues
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.03,2018-10-04,Stability improvement cosmetic design changes
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.02,2018-09-26,Stability improvement
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.01,2018-09-08,Corrected a small bug with firebase that prevented to buy Premium for some devices
+1398027022,0,Voice Notebook audio to text,Productivity,2018-08-23,2018-08-22,19.31,6,0,0,1,1.0,2018-08-22,

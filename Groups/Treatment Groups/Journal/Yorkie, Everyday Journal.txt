@@ -1,0 +1,651 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Yorkie, Everyday Journal
+MotionObjLifestyle (Applications)Free
+Alerts
+
+    Yorkie, Everyday Journal
+    Yorkie, Everyday Journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Yorkie, Everyday Journal
+Lifestyle (Applications)
+Free
+App Description
+Yorkie is a personal and private journal for writing down your thoughts, memories, and ideas. Store your photos alongside in a nice timeline. Unlike other journal apps, you aren't required, nor asked to share your posts to your friends or the public. Your posts are automatically saved to your private iCloud account, so they are accessible on all your devices and automatically backed up.
+
+Look back into the past and remember what you had done or thought of. Relive that moment.
+
+FEATURES
+---
+– Private. You are not pressured nor asked to share your posts with your friends or the public
+– Face ID and Touch ID support for protecting access to your posts
+– Clean user interface. Your content is key, the app tries to avoid unnecessary UI wherever possible
+– Stats. The app shows some stats on how many posts you have created as well as number of words/per post
+– Reminders. Daily Reminders help you build a habit to write daily.
+– Tag posts with activities
+– Quick action support in the homescreen to start writing
+– Live Photo support
+
+If you like what you see: the best things you can do to support further development of the app is:
+
+1. Leave a rating on the app store
+2. Tell your friends and family about Yorkie
+
+Thank you for supporting indie developers.
+
+Privacy Policy: https://yorkie.app/privacy-policy/
+Terms of use: https://yorkie.app/terms-and-conditions/
+Ratings
+Displayed Avg Ratings
+4.51
+Total Displayed Ratings
+131
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.21.0 (May 9, 2021)
+    Bug fixes
+Version 2.20.0 (Apr 26, 2021)
+    Bug fixes
+Version 2.19.0 (Apr 15, 2021)
+    Bug fixes
+Version 2.18.0 (Apr 10, 2021)
+    Bug fixes
+Version 2.17.0 (Mar 27, 2021)
+    Check out the experimental features in More > EXPERIMENTAL. If you like them, please send me feedback at More > About > Feedback.
+
+    * Add option to save (only still, not live) photos taken with camera to photo library
+    * Prompt to confirm before deleting post in timeline. Too easy to accidentally delete otherwise
+    * Modernize UI for some parts of app
+    * Fix: calendar do not display on iPads
+Version 2.16.0 (Mar 19, 2021)
+    Check out the experimental features in More > EXPERIMENTAL. If you like them, please send me feedback at More > ABOUT > FEEDBACK.
+
+    * Tucked an experimental feature into the More screen — Calendar
+    * When viewing a post, when the location is tapped, a map is opened
+Version 2.15.0 (Mar 12, 2021)
+    * Improve image quality of thumbnails
+
+    * Fix: delete post in map should remove it from timeline immediately
+    * Fix: saving an existing post with a new image should change thumbnails immediately
+Version 2.14.0 (Mar 8, 2021)
+    * Everyday Journal is now renamed to Yorkie
+    * Add Finance activity icon
+    * Display and flash the live photo indicators over live photos
+    * Geotag posts with location extracted from the photos you attach
+    * Geotag posts by choosing a location manually
+    * Bug fixes
+Version 2.13.0 (Feb 28, 2021)
+    Bug fixes
+Version 2.12.0 (Feb 25, 2021)
+    Fix: make launch screen black to match app when running in Dark Mode
+Version 2.11.0 (Feb 17, 2021)
+    Bug fixes
+Version 2.10.0 (Feb 15, 2021)
+    Attach Live Photos to your journal entries!
+Version 2.9.0 (Jan 15, 2021)
+    Fix: photo in post created from share extension may be in wrong orientation
+Version 2.8.0 (Jan 12, 2021)
+    * Add share extension to create posts with a photo directly from apps such as Photos.app directly in Everyday
+Version 2.7.0 (Jan 9, 2021)
+    Slight performance fixes
+Version 2.6.0 (Dec 31, 2020)
+    Bug fixes
+Version 2.5.0 (Aug 2, 2020)
+    Bug fixes and minor tweaks
+Version 2.4.0 (May 17, 2020)
+    v2.4.0
+    ===
+    This release includes features like exporting posts, performance improvements and new activities.
+
+    A couple of new features/improvements
+    ---
+    * Simple export by exporting to a text field shared using sharing sheet
+    * Switch to native photo picker. Much faster
+    * Add baby and work activities
+    * Tweak search bar behavior, only revealing it when the new magnifying glass button is tapped and hiding the search bar again when user leaves search mode
+    * Tweak look and feel to miscellaneous screen hidden in More menu
+    * Tweak icons in composer
+    * Big titles
+
+    Restored features from pre-v2
+    ---
+    * Prompt user to use date from photo after picking again. Restoring functionality from before re-write
+    * Restore simple export option, making it better
+
+    Bug fixes
+    ---
+    Fix: Photo preview shown in composer when tapped and hold on thumbnail was clipped by keyboard
+Version 2.3.0 (Apr 12, 2020)
+    This release lets you toggle between all posts and to show just thumbnails of photos so you can enjoy your previous post more visually
+
+    A couple of new features/improvements
+    ---
+    * New option to toggle between showing all posts and to show just thumbnails of photos
+    * The timeline loads faster now
+
+    Bug fixes
+    ---
+    * Keyboard now dismisses correctly after typing something in the search text box in the timeline and you scroll
+Version 2.2.0 (Mar 22, 2020)
+    This release adds support for Dark Mode and shows an improved timeline design!
+
+    A couple of new features/improvements
+    ---
+    * Support Dark Mode
+    * Tweak to timeline display
+    * When you tap on a post in the timeline, you view the post. You have to tap the Edit button to edit the post. This new view-post screen lets you pinch or double-tap to zoom the photo
+    * Search matches mood too
+    * Show day of week in timeline and composer
+    * Show number of matching posts when searching in timeline
+
+    Bug fixes
+    ---
+    * Improve timeline update after create/editing/deleting a post
+    * Fix: date picker display
+Version 2.1.0 (Mar 8, 2020)
+    A couple of new features/improvements
+    ---
+    * Better support for iOS 13
+    * Support search in timeline. Pull down to reveal the textbox. In additional to searching for words you typed in your posts, you can also search for activities. E.g. type the word "exercise" (without quotes) to show posts that you tagged with the exercise activity
+    * Some of you may find that some of your old posts from pre-v2 isn't appearing. This version recovers those posts
+    * Internal clean up of codebase
+
+    Restored features from pre-v2
+    ---
+    * Updated fonts to match pre-v2
+    * Stats appear in the timeline again like pre-v2
+    * "Use Last Photo Taken" functionality is now available again, like pre-v2
+
+    Bug fixes
+    ---
+    * Fix: long posts get blanked out
+    * Fix: single quotes was saved with two single quotes
+Version 2.0.0 (Feb 11, 2020)
+    This is a rebuild of the internals of the app. Minimal new functionality, but expecting to this version to be the basis for future enhancements. Please email bugs.
+Version 1.19.0 (Oct 10, 2017)
+    * Support for iOS 11
+Version 1.18.1 (Mar 7, 2017)
+    * Bug fixes
+Version 1.18.0 (Feb 21, 2017)
+    * Export via email is enabled again. It's now more reliable than before the iCloud migration
+    * Fix a couple of crashes.
+Version 1.17.3 (Feb 8, 2017)
+    * Couple of maintenance fixes as we finish data migration to iCloud.
+    * Export functionaity is (still) temporarily disabled and should be back in the next update.
+Version 1.17.1 (Dec 5, 2016)
+    * Fix PIN keyboard not appearing for some people (let me know via email if it doesn't work for you).
+    * A number of bug fixes, but most importantly, this updates migrates data into iCloud for longevity and improved privacy. You will be prompted when you launch the app.
+    * Export functionality is temporarily disabled in this update, but will be re-enabled in a future update.
+Version 1.17.0 (Nov 30, 2016)
+    * A number of bug fixes, but most importantly, this updates migrates data into iCloud for longevity and improved privacy. You will be prompted when you launch the app.
+    * Export functionality is temporarily disabled in this update, but will be re-enabled in a future update.
+Version 1.16.2 (Jan 28, 2016)
+    * Fix a crash when picking photos, while running iOS 8.x
+Version 1.16.1 (Jan 22, 2016)
+    * Speed up app
+    * Switch back to native photo picker
+    * Fix: previewing when force touched on a photo skews the photo
+    * Fix: crash when exporting posts
+Version 1.15 (Nov 5, 2015)
+    * Swipe to delete from timeline
+    * Post from "Open In" from other apps should show composer without prompting for authentication even if PIN is enabled
+    * When opening composer from reminder, app no longer prompts for authentication even if PIN is enabled
+    * Launching app using quick action from home screen no longer prompts for authentication even if PIN is enabled
+    * Show reminder time without having to tap into configure reminder screen
+
+    * Fix: Image picker should show "Camera Roll" at the top if iCloud Photo Library is not enabled
+    * Fix: crash for iOS 8
+    * Fix: crash when tap Save while editing an existing post
+Version 1.14.4 (Oct 14, 2015)
+    * Fix a crash for iPhone 6 (Plus) and earlier users when opening the composer
+Version 1.14.2 (Oct 5, 2015)
+    3D Touch support for iPhone 6s and iPhone 6s Plus owners, Touch ID for login and more:
+
+    * 3D Touch quick action on home screen app icon to write a new post
+    * 3D Touch (peek) to preview photo in composer
+    * Touch ID for login
+    * Add tip jar
+    * Fix: remove wrong album name used for sorting in image picker
+    * Fix: sort order for photo album picker
+    * Fix: crash in Reminders settings screen
+Version 1.12.8 (Sep 19, 2015)
+    Fix for crash in iOS 9
+Version 1.12 (Feb 6, 2015)
+    - Bug fixes especially a nasty crash on iOS 7.
+Version 1.10.5 (Jan 19, 2015)
+    * Support native resolutions for iPhone 6 and iPhone 6 Plus
+    * Fix crashes
+    * Bug fixes
+Version 1.10.2 (Oct 27, 2014)
+    - Bug fixes, including date picker not scrolling to the current date when composing a post
+Version 1.10.1 (Aug 15, 2014)
+    + Improve export to email functionality
+    - Bug fixes
+Version 1.10.0 (Jul 19, 2014)
+    + Tweaked up app icon
+
+    + Improve cues for features
+
+    + Improve look and behavoir of feature cue cards
+
+    + More improvements to error handling
+Version 1.9.6 (Jul 9, 2014)
+    * Fix an error with saving some long entries with Emoji
+    * Performance improvements
+Version 1.9.5 (Jun 27, 2014)
+    Continue on the path to rock-solid stability
+
+    * Bug fixes
+Version 1.9.4 (Jun 20, 2014)
+    - Bug fixes
+Version 1.9.3 (Jun 12, 2014)
+    - Bug fixes and better error handling
+Version 1.9.2 (May 31, 2014)
+    + Performance improvements for iPhone 5s users
+
+    - Bug fixes
+
+
+
+    If you like Everyday, please take the time to give us a nice review: it really helps us indie developers continue to deliver quality apps.
+Version 1.9.1 (May 5, 2014)
+    Bug fix causing app not to work for new users.
+
+    v1.9:
+
+    + We now have a brand new timestamp picker in the composer that is easier and faster to use. We heard from users who want to enter their old journal entries which they have kept many years, and the new timestamp picker now lets you post-date very old posts.
+    + App is now more efficient with loading
+    + Always wanting to make it easier to write journal entries, the app now asks if you want to use the timestamp of the photo when attaching one
+    + The photo picker is also much faster now
+    + Added a 'thought' activity
+    + There's also lots more testing and clean up done in this release, so the app is now much more stable!
+
+    - Fix: issues with edited posts being not displayed correctly in timeline until app is restarted - Fix: Unable to unlock if reminder alert popup in passcode screen
+    - Fix: Reminder time isn’t displayed correctly
+    - Fix: multiple crashes
+
+    We love to hear from users, so email us feedback from within the app.
+
+    If you like Everyday, please take the time to give us a nice review: it really helps.
+Version 1.9 (Apr 25, 2014)
+    + We now have a brand new timestamp picker in the composer that is easier and faster to use. We heard from users who want to enter their old journal entries which they have kept many years, and the new timestamp picker now lets you post-date very old posts.
+    + App is now more efficient with loading
+    + Always wanting to make it easier to write journal entries, the app now asks if you want to use the timestamp of the photo when attaching one
+    + The photo picker is also much faster now
+    + Added a 'thought' activity
+    + There's also lots more testing and clean up done in this release, so the app is now much more stable!
+
+    - Fix: issues with edited posts being not displayed correctly in timeline until app is restarted - Fix: Unable to unlock if reminder alert popup in passcode screen
+    - Fix: Reminder time isn’t displayed correctly
+    - Fix: multiple crashes
+
+    If you like Everyday, please take the time to give us a nice review on the App Store: it really helps.
+Version 1.8 (Mar 28, 2014)
+    + Touch up navigation bar to make UI cleaner
+    + New font used in post body
+    + Tap and hold photo button in composer to show a preview of the chosen photo
+    + While composing a new post, the emote will automatically change if you type :) or :(
+    - Fix crashes
+
+    In case you missed them:
+
+    v1.7
+    + Apps that support the Open In action – such as Snapseed, VSCO Cam and Dropbox – can now send image directly to Everyday app.
+
+    v1.6
+    + Reminders! You can now set daily reminders to help you build a habit to write daily
+    + Activities. While drafting/editing a post, you can now assign up to 3 activities to it to more easily mark down your experiences
+
+    If you like Everyday, please take the time to give us a nice review: it really helps.
+Version 1.7 (Mar 18, 2014)
+    + Apps that support the Open In action – such as Snapseed, VSCO Cam and Dropbox – can now send image directly to Everyday app.
+
+    - Fix a crash when reminders are switched off
+    - Fix photo picker position not saved when app is restarted
+    - Fix mouse emote stretched in timeline
+    - Fix composer doesn't behave nicely when app is suspended
+    - Fix composer is too aggressive with prompting to discard post even if nothing has been changed
+
+    In case you missed it, v1.6 contains 2 new exciting features:
+
+    + Reminders! You can now set daily reminders to help you build a habit to write daily
+    + Activities. While drafting/editing a post, you can now assign up to 3 activities to it to more easily mark down your experiences
+
+    If you like Everyday, please take the time to give us a nice review: it really helps.
+Version 1.6 (Mar 4, 2014)
+    This update contains 2 new exciting features:
+
+    + Reminders! You can now set daily reminders to help you build a habit to write daily
+    + Activities. While drafting/editing a post, you can now assign up to 3 activities to it to more easily mark down your experiences
+
+    If you like Everyday, please take the time to give us a nice review: it really helps.
+Version 1.5.1 (Jan 31, 2014)
+    Fix crash sometimes when changing date of a post
+
+    Fix composer doesn't prompt to discard a post correctly
+Version 1.5 (Jan 20, 2014)
+    Couple of improvements related to selecting photos
+    ===
+    Back from a trip with 600 photos, eager to journal them, but find that every time you go into the photo picker, you have to scroll through all the photos? I have enhanced the photo picker so it remembers your last position.
+    I frequently like to take several shots of the same scene or portrait so I don't miss anything. (blinking eyes, I'm looking at you). The thumbnails in the photo picker is a little too small to spot the differences. So now, when you tap and hold on a photo, a bigger preview pops up.
+    You can now add the most recently taken photo with a single tap.
+    Also renamed the action sheet labels so they are clearer.
+Version 1.4 (Jan 11, 2014)
+    Features
+    ===
+    Themes. This is still very basic at the moment. The app will continue to feature your content prominently, but we will be adding a dash of colors in the near future. Themes are available in More > Options > Theme. Also see "Awesome Subscription" below.
+
+    UI touch ups
+    ===
+    The app generally is brighter now due to a slight change of colors used
+
+    Awesome Subscription
+    ===
+    There is now an in-app purchase option when you tap to select a different theme. Find it in More > Options > Theme. You can only subscribe for a month at a time at the moment. If you don't subscribe, you'll still be able to use the app free. Awesome subscribers will generally be able to unlock additional features. This will go towards further development. Thanks for supporting indie developers!
+Version 1.3 (Dec 13, 2013)
+    Facts and tips
+    ===
+    There's nothing ike a daily fact or tip to help lift up spirits or learn something new. The app now shows a fact or tip at the top of the timeline. I've tried to make it readable, yet not distracting.
+
+    UI touch ups
+    ===
+    Improve look of date picker in compose screen
+    Remove gaps betwen emote bars in the timeline
+    Improve diagnostic line in feedback email
+Version 1.2 (Nov 27, 2013)
+    UI touch ups
+    ===
+    – Notably showing/hiding of navigation bar and status bar when scrolling, so you can view more of your content and less of the UI.
+    – Tweak display of mood bars in the timeline.
+
+    Stats, stats, stats
+    ===
+    I love stats. We're starting simple. You'll see the number of photos you have posted, the number of posts you have created, as well as the average number of words in each post. While stats are important, your posts are still key. So it's subtle – pull down your timeline and hold while at the top and you'll see your stats.
+
+    Bug fixes
+    ===
+    – When you tap on a post with a photo and cancel, you shouldn't be prompted to discard changes if you haven't made any.
+
+    Like/don't like what you are seeing? Rate or write a review. Most importantly, write me an email. I love to hear your thoughts on the app. You can do it in the app by going to More > About > Questions/Feedback.
+Version 1.1 (Nov 21, 2013)
+    You can now export your posts and photos
+    ===
+    We want to build a journal that lasts. We totally understand that at some point, you might not want to use our service anymore. That's cool with us, we'll always give you a way to export your entries, so dig in and starting journaling, you can check out any time you like :)
+
+    This new export functionality is still a bit raw. In time, we will have a much prettier export.
+
+    Some tweaks for feedback/email
+    ===
+    We added a line with some diagnostic information to help us fix issues.
+Version 1.0 (Oct 29, 2013)
+
+Users may also like
+Select objects to compare
+Fabulam - Personal Diary
+Happy Gratitude Journal
+Daily Diary - Journal - Moment
+Goals Companion
+毎日続けられるシンプルな写真付き日記アプリ-Nikky-
+Wirting Calender
+Earnest Gratitude Journal
+Nkyxx
+Diario con contraseña - iDiary
+Outfit Journal
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.21.0
+    Current release
+    May 9, 2021
+    2.20.0
+    Apr 26, 2021
+    2.19.0
+    Apr 15, 2021
+    2.18.0
+    Apr 10, 2021
+    2.17.0
+    Mar 27, 2021
+    2.16.0
+    Mar 19, 2021
+    2.15.0
+    Mar 12, 2021
+    2.14.0
+    Mar 8, 2021
+    2.13.0
+    Feb 28, 2021
+    2.12.0
+    Feb 25, 2021
+    2.11.0
+    Feb 17, 2021
+    2.10.0
+    Feb 15, 2021
+    2.9.0
+    Jan 15, 2021
+    2.8.0
+    Jan 12, 2021
+    2.7.0
+    Jan 9, 2021
+    2.6.0
+    Dec 31, 2020
+    2.5.0
+    Aug 2, 2020
+    2.4.0
+    May 17, 2020
+    2.3.0
+    Apr 12, 2020
+    2.2.0
+    Mar 22, 2020
+    2.1.0
+    Mar 8, 2020
+    2.0.0
+    Feb 11, 2020
+    1.19.0
+    Oct 10, 2017
+    1.18.1
+    Mar 7, 2017
+    1.18.0
+    Feb 21, 2017
+    1.17.3
+    Feb 8, 2017
+    1.17.1
+    Dec 5, 2016
+    1.17.0
+    Nov 30, 2016
+    1.16.2
+    Jan 28, 2016
+    1.16.1
+    Jan 22, 2016
+    1.15
+    Nov 5, 2015
+    1.14.4
+    Oct 14, 2015
+    1.14.2
+    Oct 5, 2015
+    1.12.8
+    Sep 19, 2015
+    1.12
+    Feb 6, 2015
+    1.10.5
+    Jan 19, 2015
+    1.10.2
+    Oct 27, 2014
+    1.10.1
+    Aug 15, 2014
+    1.10.0
+    Jul 19, 2014
+    1.9.6
+    Jul 9, 2014
+    1.9.5
+    Jun 27, 2014
+    1.9.4
+    Jun 20, 2014
+    1.9.3
+    Jun 12, 2014
+    1.9.2
+    May 31, 2014
+    1.9.1
+    May 5, 2014
+    1.9
+    Apr 25, 2014
+    1.8
+    Mar 28, 2014
+    1.7
+    Mar 18, 2014
+    1.6
+    Mar 4, 2014
+    1.5.1
+    Jan 31, 2014
+    1.5
+    Jan 20, 2014
+    1.4
+    Jan 11, 2014
+    1.3
+    Dec 13, 2013
+    1.2
+    Nov 27, 2013
+    1.1
+    Nov 21, 2013
+    1.0
+    Oct 29, 2013
+
+See More
+Top In-App Purchases
+
+    Pro monthly
+    $4.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Oct 29, 2013
+
+Worldwide Release Date
+    Oct 29, 2013
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.21.0
+
+Size
+    8.28 mb
+
+Only 32 Bit
+    No
+
+Languages
+    英语
+
+Seller
+    Hwee Boon Yar
+
+Company HQ
+    Singapore
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 13.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    com.motionobj.everyday
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 616137582
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Yorkie, Everyday Journal | data.ai

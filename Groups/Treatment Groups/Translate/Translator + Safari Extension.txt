@@ -1,0 +1,479 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Translator + Safari Extension
+Ihor ProdanProductivity (Applications)Free
+Alerts
+
+    Ihor Prodan
+
+    Translator + Safari Extension
+    Translator + Safari Extension
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Translator + Safari Extension
+Translate Text, Site, Document
+Productivity (Applications)
+Free
+App Description
+This application allows you to translate text and pages in the Safari browser and other applications.
+
+Built-in extensions add a button to the Share panel to quickly translate text or website.
+
+The app also automatically detects the language of the page, text and your native language.
+
+https://telegra.ph/Privacy-Policy-01-31-9
+https://telegra.ph/Terms-of-Use-01-31-2
+Ratings
+Displayed Avg Ratings
+4.12
+Total Displayed Ratings
+8
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.3.1 (Apr 30, 2022)
+    Minor improvements
+Version 2.3.0 (Apr 16, 2022)
+    1. Fixed the problem of receiving text through the "Share" button
+    2. Minor design improvements
+Version 2.2.0 (Feb 23, 2022)
+    - Fixed recovery issue
+    - Corrected minor design details
+Version 2.1.1 (Feb 10, 2022)
+    Fixed an issue with restoring products
+Version 2.1.0 (Feb 3, 2022)
+    - Updated app design
+    - Improved app features
+Version 2.0.2 (Feb 2, 2022)
+    - Updated app design
+    - Improved app features
+Version 1.7.1 (Dec 29, 2021)
+    - Improved application design
+    - Changed advertising system
+Version 1.6.6 (Dec 13, 2021)
+    - Fixed problem with request for feedback
+    - Fixed problem with screen rotation
+Version 1.6.5 (Dec 9, 2021)
+    - added feedback system
+    - fixed a problem with displaying ads
+Version 1.6.4 (Oct 20, 2021)
+    1) Fixed problem with changing of language
+    2) Fixed problem with dark mode
+    3) Fixed an issue with the icon in the share menu
+    4) Fixed problem with payment verification
+Version 1.6.0 (Oct 16, 2021)
+    1. Resolved the problem with displaying ads
+    2. Added option to disable ads
+Version 1.5.0 (Sep 30, 2021)
+    Improved page translator
+Version 1.4.5 (Sep 20, 2021)
+    Fixed issues with ad units
+Version 1.4.4 (Sep 4, 2021)
+    Fixed issues with ad units
+Version 1.4.3 (Aug 31, 2021)
+    Fixed issues with ad units
+Version 1.4.2 (Aug 22, 2021)
+    Added new type ads 
+Version 1.4.1 (Aug 6, 2021)
+    Solving the problem with displaying ads
+Version 1.4.0 (Aug 3, 2021)
+    . Application design changed
+    . Added ad block
+Version 1.2 (Apr 8, 2021)
+    - Added display of translation synonyms
+    - Improved application design
+Version 1.1 (Mar 25, 2021)
+    - Improved application for iPad
+    - Added the ability to select the main language
+    - Added a list of languages with search
+    - Improved the voice acting of the text
+Version 1.0 (Mar 18, 2021)
+    - Improved application for iPad
+    - Added the ability to select the main language
+    - Added a list of languages with search
+    - Improved the voice acting of the text
+Version 1.33 (Feb 25, 2021)
+    • Fixed problems with entering text in the translator for macOS
+    • Fixed problems with font and background in translator for macOS 10.12, 10.13
+    • The payment window has been improved, a new package has been added
+    • Fixed a problem with the location of the translated text window in Safari
+    • Added in Safari to disable scrolling of the main page when a window with translated text is displayed
+    • Increased number of text characters for translation in Safari
+    • Names color settings window
+Version 1.31 (Feb 16, 2021)
+    • Fixed problem with displaying icons (buttons)
+    • Fixed error displaying currency symbol for payment
+    • Fixed button design for MacOS 10.12 and 10.13
+    • Fixed appearance of the translator window in the dark theme
+    • Added buttons for setting and sending email on the main window 
+Version 1.29 (Feb 12, 2021)
+    • Added the ability to send a letter directly to the mail
+    • Added the ability to disable the launch of the main application window
+    • Added hotkeys change
+    • Added display of hotkeys in the context menu
+    • Fixed an issue with typing text in desktop translator
+    • Fixed bug with resizing the block of translated text in Safari
+    • Fixed issue with double display of text translation window in Safari
+    • Fixed the problem with the double display of the window of the restored product
+    • Added a product loading progressbar icon 
+Version 1.28 (Feb 5, 2021)
+    - Updated the color of the icon in the browser
+    - Fixed the problem of launching the application in the status bar after transfer to Safari
+    - Added a button to clear the translation form
+    - Added app purchase button
+    - Added function to unpin the translator window for macOS
+    - Added line break by pressing Enter in the MacOS translator
+    - Fixed problem with text input in translator for macOS
+    - Fixed problem with double recovery of purchases 
+Version 1.27 (Jan 25, 2021)
+    • Added system translator
+    • The function of translating text and pages has been improved
+    • Fixed problem with loss of selection and moving icons in gmail
+    • Added fixed problems with limiting the translation of "Content Security Policy"
+    • Fixed double appearance of the model window in Safari
+Version 1.26 (Dec 8, 2020)
+    Improvements minor design and code fixes
+Version 1.25 (Nov 30, 2020)
+    • Fixed bug with cookies
+    • Added message about translation problem
+Version 1.24 (Nov 29, 2020)
+    Fixed bug with feedback window
+Version 1.23 (Nov 27, 2020)
+    1. Changed design of windows
+    2. Changed application icon
+    3. Fixed problem with hotkeys
+Version 1.22 (Nov 20, 2020)
+    Added required frameworks
+Version 1.21 (Nov 11, 2020)
+    Add lib AppKit
+Version 1.20 (Nov 10, 2020)
+    • Fixed hotkey issues
+    • Fixed setting of showing icon for fast translation
+Version 1.19 (Nov 6, 2020)
+    • Optimization of the extension
+    • Added hotkeys
+    • Improved text translation window
+Version 1.18 (Oct 12, 2020)
+    Fixed an issue related to incorrect page change for translation
+Version 1.17 (Oct 11, 2020)
+    • Fixed problems with page translation
+    • Fixed problems with text translation
+Version 1.16 (Oct 1, 2020)
+    • Updated app logo
+    • Added localization for the application
+    • Fixed translation errors of selected text
+Version 1.15 (Sep 22, 2020)
+    Solving translation problems
+Version 1.14 (Sep 18, 2020)
+    Fixed some bugs in functionality and appearance
+Version 1.12 (Jul 31, 2020)
+    • Changed system to request user feedback
+Version 1.11 (Jul 30, 2020)
+    • Added a window for switching to Safari settings to activate the extension
+Version 1.10 (Jul 23, 2020)
+    • Fixed translation error into French
+Version 1.9 (Jul 22, 2020)
+    • Fixed error in defining the main language
+Version 1.8 (Jul 21, 2020)
+    • Added a checkbox to disable fast translation of selected text
+    • Added a window with instructions for activating the extension
+Version 1.7 (Jul 20, 2020)
+    • Added function to translate selected text
+Version 1.6 (Jul 12, 2020)
+    • Changed the list of compatible versions of MacOS
+Version 1.5 (Jul 10, 2020)
+    • Fixed some translation errors
+Version 1.4 (Jul 8, 2020)
+    • Added the ability to leave a review
+Version 1.3 (Jul 1, 2020)
+    1. Fixed translation error displayed on the page
+    2. Changed Application Icon
+    3. Added new localizations
+Version 1.2 (Jun 29, 2020)
+    Fixed bugs localization
+Version 1.0 (Jun 25, 2020)
+
+Users may also like
+Select objects to compare
+Internet Translator Simple
+PDF Translator: Translate
+Immersive Translate for Safari
+Translate AI - Translator
+Auto Translate for Safari
+Turn Off the Lights for Safari
+LanguageTool - Grammar Checker
+Dark Reader for Safari
+Darker - Dark Mode for Safari
+Paste - Endless Clipboard
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.3.1
+    Current release
+    Apr 30, 2022
+    2.3.0
+    Apr 16, 2022
+    2.2.0
+    Feb 23, 2022
+    2.1.1
+    Feb 10, 2022
+    2.1.0
+    Feb 3, 2022
+    2.0.2
+    Feb 2, 2022
+    1.7.1
+    Dec 29, 2021
+    1.6.6
+    Dec 13, 2021
+    1.6.5
+    Dec 9, 2021
+    1.6.4
+    Oct 20, 2021
+    1.6.0
+    Oct 16, 2021
+    1.5.0
+    Sep 30, 2021
+    1.4.5
+    Sep 20, 2021
+    1.4.4
+    Sep 4, 2021
+    1.4.3
+    Aug 31, 2021
+    1.4.2
+    Aug 22, 2021
+    1.4.1
+    Aug 6, 2021
+    1.4.0
+    Aug 3, 2021
+    1.2
+    Apr 8, 2021
+    1.1
+    Mar 25, 2021
+    1.0
+    Mar 18, 2021
+    1.33
+    Feb 25, 2021
+    1.31
+    Feb 16, 2021
+    1.29
+    Feb 12, 2021
+    1.28
+    Feb 5, 2021
+    1.27
+    Jan 25, 2021
+    1.26
+    Dec 8, 2020
+    1.25
+    Nov 30, 2020
+    1.24
+    Nov 29, 2020
+    1.23
+    Nov 27, 2020
+    1.22
+    Nov 20, 2020
+    1.21
+    Nov 11, 2020
+    1.20
+    Nov 10, 2020
+    1.19
+    Nov 6, 2020
+    1.18
+    Oct 12, 2020
+    1.17
+    Oct 11, 2020
+    1.16
+    Oct 1, 2020
+    1.15
+    Sep 22, 2020
+    1.14
+    Sep 18, 2020
+    1.12
+    Jul 31, 2020
+    1.11
+    Jul 30, 2020
+    1.10
+    Jul 23, 2020
+    1.9
+    Jul 22, 2020
+    1.8
+    Jul 21, 2020
+    1.7
+    Jul 20, 2020
+    1.6
+    Jul 12, 2020
+    1.5
+    Jul 10, 2020
+    1.4
+    Jul 8, 2020
+    1.3
+    Jul 1, 2020
+    1.2
+    Jun 29, 2020
+    1.0
+    Jun 25, 2020
+
+See More
+Top In-App Purchases
+
+    Unlimited Translate Full Pack
+    $9.99
+    Unlimited Translate Full Pack
+    $9.99
+    Unlimited translate on MacOS
+    $5.99
+    Unlimited translate on MacOS
+    $5.99
+    Unlimited translate in Safari
+    $5.99
+    Unlimited translate in Safari
+    $5.99
+    Free Trial, iOS
+    $0
+    Free Trial, iOS
+    $0
+    Application for macOS
+    $6.99
+    Application for macOS
+    $6.99
+    Application iOS + Extension
+    $9.99
+    Application iOS + Extension
+    $9.99
+    Extension for Safari (macOS)
+    $9.99
+    Extension for Safari (macOS)
+    $9.99
+    Application macOS + Extension
+    $14.99
+    Application macOS + Extension
+    $14.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jun 25, 2020
+
+Worldwide Release Date
+    Jun 25, 2020
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    2.3.1
+
+Size
+    10.63 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Russian
+
+Seller
+    Ihor Prodan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.devdanpro.HolaTranslator
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1518955356
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Translator + Safari Extension | data.ai

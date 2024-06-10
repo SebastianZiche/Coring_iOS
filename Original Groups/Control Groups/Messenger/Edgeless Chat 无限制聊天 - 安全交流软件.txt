@@ -1,0 +1,608 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Edgeless Chat: 无限制聊天 - 安全交流软件
+dongyan wangSocial Networking (Applications)Free
+Alerts
+
+    dongyan wang
+
+    Edgeless Chat: 无限制聊天 - 安全交流软件
+    Edgeless Chat: 无限制聊天 - 安全交流软件
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Edgeless Chat: 无限制聊天 - 安全交流软件
+私密的聊天社交，保护你的数据隐私
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+Edgeless Chat: Where walls don’t have ears
+
+OVERVIEW
+
+EDGELESS is the safest place to text. We believe your data should only belong to YOU, and there should be no prying eyes taking control of what you share online. Online lives are also real lives—which is why we must free ourselves from data mining, hacking, and relying on social media companies to safeguard our privacy. There should be no greedy company, government organization, or any third-party keeping tabs on you.
+
+BLOCKCHAIN MESSENGER
+
+Whether it’s everyday texting, exchanging photos with friends, or exchanging private information such as bank information, credit cards, passwords, social security numbers – EDGELESS has been designed to use the revolutionary blockchain technology to get your message across. Our systems ensure that your data goes through directly to the intended recipient with no prying eyes in the way.
+
+Using this messaging app, you get the ability to:
+
+1) Delete messages – both on your phone and THEIR phone
+2) Use a built-in social networking “Memories” feature
+3) Share files and documents of any sizes
+4) Automatically erase your history using the “Burn” feature
+5) Use Dark Theme and also customize your interface in different colors & themes
+6) Utilize our blockchain technology to remain worry-free
+7) And much, much more
+
+EDGELESS user activity is heavily-encrypted. Even we can’t access it, let alone government organizations or marketing companies. When you delete your data using the Burn feature, there will be no backups – anywhere – and the data will get destroyed completely.
+
+Using the same technology that makes Edgeless Chat great, we are striving to free today’s user from data abuse. Our mission is to change the internet and ensure that everyone is able to use it the way it was originally intended – we built Edgeless Chat with the same ambition in mind.
+
+TAKE CONTROL
+
+Download Edgeless Chat NOW to take back the control. To learn more about how it works, visit our blog page at https://www.edgelesschat.com
+
+Privacy Policy URL：https://chat.edgelesschat.com/lediao/index.php/User/api/useragreementUrl.html
+Ratings
+Displayed Avg Ratings
+4.45
+Total Displayed Ratings
+55
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.5.5 (Dec 11, 2022)
+    Fix known bugs and improve performance
+Version 3.5.4 (Oct 8, 2022)
+    1. File security optimization
+    2. Voice message optimization
+    2. Fix known problems
+Version 3.5.3 (Sep 1, 2022)
+    1. New Emoji
+    2. App performance optimization
+    3. Fix known problems
+Version 3.5.2 (Aug 23, 2022)
+    1. Expression ranking optimization of collection
+    2. Send icloud video optimization
+    3. Send message optimization
+    4. Fix known problems
+Version 3.5.1 (Jul 21, 2022)
+    Fix known bugs and improve performance
+Version 3.5.0 (Jul 5, 2022)
+    1. New UI for voice and video calls
+    2. Add resend logic for sending messages
+    3. Burn down countdown optimization
+    4. Fix known problems
+Version 3.3.7 (Jun 9, 2022)
+    Optimize message sending logic
+    Fix known issues and improve performance
+Version 3.3.6 (Jan 24, 2022)
+    Fix known bugs and improve performance
+Version 3.3.5 (Jan 14, 2022)
+    1. Add group entry audit function
+    2. Adapt to the latest operating system
+    3. Fix known bugs
+Version 3.3.4 (Dec 23, 2021)
+    Added group owner alone, all mute function
+    Added sending files, adding APP selection from system files
+    Added the ability to transfer group owners
+    Added browser sharing link function
+    New settings to increase whether to display message details in push notifications
+    Optimize the display of thumbnails when the quoted messages are pictures, videos, and GIFs
+    Optimize the user violation prompt page
+Version 3.3.3 (Nov 16, 2021)
+    1. A group of 1000 people is open
+    2. Collection optimization
+    3. Picture and GIF browsing optimization
+    4. Voice and video telephone optimization
+    5. Fix known bugs
+Version 3.3.2 (Nov 8, 2021)
+    1. Dark night theme optimization, UI optimization
+    2. gif add display description text
+    3. @Function optimization display UI
+    4. Picture browser optimization, add drop-down to close
+    5. Setting to increase APP language switching function
+    6. Fix known issues and improve performance
+Version 3.3.1 (Oct 15, 2021)
+    1. Add group administrator function
+    2. Add group announcement function
+    3. Fix known bugs
+Version 3.3.0 (Sep 3, 2021)
+    Video playback function optimization
+    Fix known bugs
+Version 3.2.9 (Aug 23, 2021)
+    New message reference function
+    Fix known bugs and improve performance
+Version 3.2.8 (Aug 11, 2021)
+    Added account logout function
+    Optimize the blacklist and one-way friend message function
+Version 3.2.7 (Jul 19, 2021)
+    New message multi-select forwarding function
+    Optimize known issues and improve performance
+Version 3.2.5 (Jun 7, 2021)
+    Dynamic classification increase
+    Add friends by ID
+    Add friends through Google or facebook accounts
+    Voice call optimization
+    Known bug modification
+Version 3.2.4 (Mar 25, 2021)
+    Group chat and personal QR code optimization
+    Group chat function optimization
+    Fix known issues
+Version 3.2.3 (Feb 5, 2021)
+    Solitaire UI modification
+    Add friends logic optimization
+    Modify known bugs
+Version 3.2.1 (Dec 30, 2020)
+    Login to register the new UI revision
+    Fix known issues
+Version 3.2.0 (Dec 22, 2020)
+    New multi-party call function in group chat
+    Fix known problems
+Version 3.1.5 (Nov 20, 2020)
+    Fix known bugs and improve performance
+Version 3.1.4 (Nov 16, 2020)
+    Fix known issues and improve performance
+Version 3.1.3 (Nov 12, 2020)
+    Moments interaction optimization
+    Fix known issues and improve performance
+Version 3.1.2 (Nov 4, 2020)
+    Google Maps loading optimization
+    Homepage video image is highly optimized
+Version 3.1.1 (Oct 30, 2020)
+    Optimized video upload time for chat and Moments
+Version 3.1.0 (Oct 24, 2020)
+    Moments of Friends has been revised to increase the dynamics of public types.
+    Home page structure adjustment.
+    Fix known issues and improve performance.
+Version 3.0.2 (Oct 9, 2020)
+    Fix the issue of video sending crash
+    Optimize the matching of contacts in the address book
+Version 3.0.1 (Sep 17, 2020)
+    1. New Group Chat Search feature.
+    2. Fixed known issues.
+Version 3.0.0 (Aug 26, 2020)
+    Improve app security
+    Fix known bugs and prompt performance
+Version 2.9.8 (Mar 25, 2020)
+    Added quick reply function
+    Fix known bugs and improve performance
+Version 2.9.7 (Mar 18, 2020)
+    Add invitation registration event
+    Optimize some functional processes
+    Fix known issues and improve performance
+Version 2.9.5 (Mar 3, 2020)
+    Add business recommendation function
+    Optimize friend recommendation function
+    Fix known issues and improve performance
+Version 2.9.4 (Feb 15, 2020)
+    Add friend recommendation function
+    Optimize some international languages
+    Fix known bugs and improve performance
+Version 2.9.3 (Feb 5, 2020)
+    Optimize message receiving logic
+    Optimize some interface display
+    Fix known issues and improve performance
+Version 2.9.2 (Jan 22, 2020)
+    Fix known issues and improve performance
+Version 2.9.1 (Jan 15, 2020)
+    UI details adjustment and optimization
+    Language adaptation optimization
+    Fix known issues and improve performance
+Version 2.9.0 (Jan 6, 2020)
+    Added APP sharing function
+    UI details adjustment and optimization
+    Fix known bugs and improve performance
+Version 2.8.0 (Dec 16, 2019)
+    New UI revision
+    Optimize message reception
+    Fix known issues and improve performance
+Version 2.7.0 (Nov 11, 2019)
+    Add an IP call function and register for free calls.
+    The settings interface adds cache cleanup.
+    The friend circle function is optimized.
+    Part of the interface night theme optimization.
+    Fix known bugs and improve performance.
+Version 2.6.0 (Sep 30, 2019)
+    Add Google, Facebook third party login
+    Add a secret chat feature
+    Added edgeless official reminder function
+    Added ringtone switching and custom import ringtones
+    UI optimization
+    Fix known bugs and improve performance
+Version 2.5.0 (Sep 3, 2019)
+    Map feature adds Google Maps
+    Group chat added @All
+    Optimize message reception and increase reception speed
+    Fix known bugs and improve performance
+Version 2.4.1 (Aug 22, 2019)
+    1. Fix known bugs
+    2. Change your voice call music
+    3. Optimize app fluency
+Version 2.4.0 (Aug 13, 2019)
+    1. New chat message long press UI
+    2. Language added Traditional Chinese adaptation
+    3. APP internal pop-up window prompt style uniform
+    4. Optimize network requests and speed up access
+Version 2.3.0 (Jul 22, 2019)
+    iOS13 version adaptation
+    Introduction to some functions and interfaces
+    Near people, say hello to increase the dialog box function
+    Increase the public number message receiving function
+    Fix bugs and improve performance
+Version 2.2.3 (Jun 19, 2019)
+    Seperate mobile phone acount and Email account.
+    Search function for favorites
+    Performance improvement
+Version 2.2.0 (May 24, 2019)
+    Add video call function
+    Added message receiving settings, adding blacklist
+    Fix known bugs and improve performance
+Version 2.1.0 (Apr 12, 2019)
+    新增朋友圈评论回复功能
+    优化部分界面UI
+    修复已知bug，提升性能
+Version 2.0.91 (Mar 19, 2019)
+    朋友圈转发功能优化
+    朋友圈发布增加定位功能
+    修复已知bug
+    优化体验，提升性能
+Version 2.0.85 (Feb 2, 2019)
+    优化部分UI，界面更美观
+    视频发送支持最长1分钟视频
+    优化部分功能，修复已知bug
+Version 2.0.80 (Jan 19, 2019)
+    UI界面改版， 体验优化
+    修复已知问题， 提高稳定性
+Version 2.0.70 (Jan 1, 2019)
+    修复部分bug
+    优化部分界面
+Version 2.0.68 (Dec 9, 2018)
+    1. 优化了性能
+    2.解决了部分bug
+    3.提高了用户体验
+Version 2.0.50 (Oct 29, 2018)
+    1.重构了聊天机制，以及界面的刷新
+    2.重写了好友圈，表情，主题界面的黑夜主题功能
+    3.解决了部分bug
+    4.提高了用户体验
+Version 2.0.27 (Sep 25, 2018)
+    1.完善了语音功能
+    2.重构了聊天机制
+    3.修改部分bug
+    4.优化部分界面
+    5.性能提升
+Version 2.0.26 (Jul 12, 2018)
+    1.聊天机制的修改
+    2.黑夜主题后，好友圈，表情，主题界面添加了蒙层功能
+    3.解决已知bug
+    4.添加了一些用户交互
+Version 2.0.22 (Jun 21, 2018)
+    1.实现了以及完善了拨打语音功能
+    2.解决已知bug
+    3.修改不适合的界面
+Version 1.9 (May 26, 2018)
+    1.修改已知bug
+    2.修改已知不合适界面
+    3.添加了+1功能
+Version 1.8 (May 12, 2018)
+    1.实现了gif和图片的混发
+    2.修改已知bug
+    3.端口号的切换
+Version 1.7 (May 2, 2018)
+    1.添加发送相册 Gif
+    2.添加长按预览 GIF
+    3.修改已知 BUG
+Version 1.6 (Apr 14, 2018)
+    1.修改已知 BUG
+    2.重新设计表情
+    3.修改部分界面
+Version 1.5 (Apr 4, 2018)
+    修改已知 Bug
+Version 1.4 (Apr 1, 2018)
+    修改已知 Bug
+Version 1.3 (Mar 28, 2018)
+    1.修改已知 Bug
+    2.添加语音自动播放
+    3.优化播放逻辑
+    4.修改部分界面
+Version 1.2 (Aug 28, 2017)
+    1.优化了朋友圈.
+    2.优化了相册详情.
+    3.优化聊天界面逻辑.
+Version 1.1 (Jul 13, 2017)
+    1.优化APP整体界面
+    2.增加了勿扰功能
+    3. 修改了保存通讯录群聊功能
+    4. 增加了Windows端登录以及展示
+    5. 优化了上传视频以及相册上传视频上传图片
+    6.优化了朋友圈查看大图功能，以及小图加载功能
+Version 1.0 (Jun 28, 2017)
+
+Users may also like
+Select objects to compare
+Cipchat - Encrypted Messenger
+天籁(加密聊天)
+JSPP-Dating，Chat&Make friends
+蝉鸣 - 自由自在的畅聊
+泡泡-国际极速版
+SecEMS : Secure Messaging
+Sugram畅聊版-安全私密的通信社交软件
+Ant Messenger
+Tok - Encrypted Messaging
+蝙蝠-私密通讯软件
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.5.5
+    Current release
+    Dec 11, 2022
+    3.5.4
+    Oct 8, 2022
+    3.5.3
+    Sep 1, 2022
+    3.5.2
+    Aug 23, 2022
+    3.5.1
+    Jul 21, 2022
+    3.5.0
+    Jul 5, 2022
+    3.3.7
+    Jun 9, 2022
+    3.3.6
+    Jan 24, 2022
+    3.3.5
+    Jan 14, 2022
+    3.3.4
+    Dec 23, 2021
+    3.3.3
+    Nov 16, 2021
+    3.3.2
+    Nov 8, 2021
+    3.3.1
+    Oct 15, 2021
+    3.3.0
+    Sep 3, 2021
+    3.2.9
+    Aug 23, 2021
+    3.2.8
+    Aug 11, 2021
+    3.2.7
+    Jul 19, 2021
+    3.2.5
+    Jun 7, 2021
+    3.2.4
+    Mar 25, 2021
+    3.2.3
+    Feb 5, 2021
+    3.2.1
+    Dec 30, 2020
+    3.2.0
+    Dec 22, 2020
+    3.1.5
+    Nov 20, 2020
+    3.1.4
+    Nov 16, 2020
+    3.1.3
+    Nov 12, 2020
+    3.1.2
+    Nov 4, 2020
+    3.1.1
+    Oct 30, 2020
+    3.1.0
+    Oct 24, 2020
+    3.0.2
+    Oct 9, 2020
+    3.0.1
+    Sep 17, 2020
+    3.0.0
+    Aug 26, 2020
+    2.9.8
+    Mar 25, 2020
+    2.9.7
+    Mar 18, 2020
+    2.9.5
+    Mar 3, 2020
+    2.9.4
+    Feb 15, 2020
+    2.9.3
+    Feb 5, 2020
+    2.9.2
+    Jan 22, 2020
+    2.9.1
+    Jan 15, 2020
+    2.9.0
+    Jan 6, 2020
+    2.8.0
+    Dec 16, 2019
+    2.7.0
+    Nov 11, 2019
+    2.6.0
+    Sep 30, 2019
+    2.5.0
+    Sep 3, 2019
+    2.4.1
+    Aug 22, 2019
+    2.4.0
+    Aug 13, 2019
+    2.3.0
+    Jul 22, 2019
+    2.2.3
+    Jun 19, 2019
+    2.2.0
+    May 24, 2019
+    2.1.0
+    Apr 12, 2019
+    2.0.91
+    Mar 19, 2019
+    2.0.85
+    Feb 2, 2019
+    2.0.80
+    Jan 19, 2019
+    2.0.70
+    Jan 1, 2019
+    2.0.68
+    Dec 9, 2018
+    2.0.50
+    Oct 29, 2018
+    2.0.27
+    Sep 25, 2018
+    2.0.26
+    Jul 12, 2018
+    2.0.22
+    Jun 21, 2018
+    1.9
+    May 26, 2018
+    1.8
+    May 12, 2018
+    1.7
+    May 2, 2018
+    1.6
+    Apr 14, 2018
+    1.5
+    Apr 4, 2018
+    1.4
+    Apr 1, 2018
+    1.3
+    Mar 28, 2018
+    1.2
+    Aug 28, 2017
+    1.1
+    Jul 13, 2017
+    1.0
+    Jun 28, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jun 28, 2017
+
+Worldwide Release Date
+    Jun 28, 2017
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    3.5.5
+
+Size
+    122.32 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Danish, Dutch, French, German, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese, Turkish, Vietnamese
+
+Seller
+    dongyan wang
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 10.0 or later. Compatible with iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi-Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi‑Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi-Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi-Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, and iPod touch.
+
+Bundle ID
+    com.edgelesschat.chat
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1252498655
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Edgeless Chat: 无限制聊天 - 安全交流软件 | data.ai

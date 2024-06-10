@@ -1,0 +1,444 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Yating: audio transcription
+AILabsProductivity (Applications)Free
+Alerts
+
+    AILabs
+
+    Yating: audio transcription
+    Yating: audio transcription
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Yating: audio transcription
+Convert speech & voice to text
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+A handy tool for classes, meetings, interviews or the everyday moments that’s worth savoring. Yating understands Mandarin, Mandarin-English code-switch and Taiwanese. Better yet, our translation and speech recognition languages are expanding. Let Yating handles the repetitive recording and transcribing work for you, so that you could focus on the important goals.
+
+* 100% Made in Taiwan
+The first speech recognition AI model that’s developed for Taiwanese accent Mandarin. We are 100% privately funded; the data and the RD are all from Taiwan.
+
+* Small But Mighty
+A handy tool for classes, meetings, interviews or the everyday moments that’s worth savoring. Yating understands Mandarin, English, Japanese, Cantonese and Taiwanese. Let Yating transcribes for you, so that you could focus on the important goals. You talk, Yating types.
+
+*Talk Away, No Eavesdropping
+We take your privacy seriously. We are not in the data selling business; your data is confidential and will not be transferred to any third parties. Your data is safe with us. You can execute the right to be forgotten by deleting your data from your account.
+
+*Seamless Cross-Platform Experience
+The service is available on Notebook and mobile, so that you can access Yating regardless you are in the office or on the go. Use the Yating app to record an interview, a meeting or a class. Turn on the Chrome Plug-in while you are in a Google Meet remote meeting, seminar or online course. If the internet is not stable, you can also record a voice memo and upload the audio file to convert to transcription later.
+
+*Subtitle mode
+We offer live transcription in the subtitle mode. A visual aid to help you better understand what's been said when you can't hear clearly, e.g. online classes, remote meetings or seminars. The feature also helps deaf users to enjoy every moments in life, real-time.
+
+*Enterprise Solutions
+For large organizations that need additional security, control and customised solutions for specific domains or industries, please feel free to contact us.
+
+============= Many uses of Yating ===========
+
+* Students
+Use Yating to record lectures to help you review. Even when you accidentally doze out or lost focus during the class, you still have a chance to catch up and stay on track.
+
+*Analysts & Data scientists
+Are you doing Social Media Analytic or Sentiment analysis for specific brands or medias? In addition to written text, are you also interested in knowing what’s been discussed verbally? Yating offers API for you to batch convert audios and videos to text (.txt), so that your analysis is more comprehensive and covers more dimensions.
+
+*UI/UX qualitative user researcher
+Do you need to conduct qualitative research, i.e. in depth interviews or focus groups? Do you need to build user persona? Yating record the conversations in the transcription form— each verbose is labeled with the speaker plus time stamps. You can see who said what at what time-stamp in a glance. Yating saved 80% of the dictating time. Let Yating handles the repetitive transcribing work for you, so that you could focus on organizing the Affinity graph and extracting the crucial consumer insights.
+
+*Podcaster
+Are you producing a podcast program? Can your audience find a section of their favorite episodes easily? Yating converts conversations into text and present it in the transcription form. Adding a transcription for your program helps it to be more searchable— both for your audience and for the search engines!
+
+*Hearing impaired
+Are you losing hearing? Are you depending on lip-reading to understand what has been said? Yating offers live transcribe subtitle mode. When you have problems to hear clearly, turn on Yating’s subtitle mode, so that you could use textual assisting tool to help you understand what’s going on around you — what has been announced through the broadcast, what the online course or the panel talk is about, or what caused a heated debate in a remote meeting.
+Ratings
+Displayed Avg Ratings
+4.61
+Total Displayed Ratings
+5.6k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.15.0 (Feb 27, 2024)
+    Add announcement feature
+Version 3.14.0 (May 16, 2023)
+    Update language models
+Version 3.13.3 (Feb 17, 2023)
+    Bug fixed
+Version 3.13.2 (Jan 17, 2023)
+    Happy New Year~~ Yating has new looking. The interface is more elegant, easier to find the information you want.
+Version 3.13.1 (Jan 6, 2023)
+    Happy New Year~~ Yating has new looking. The interface is more elegant, easier to find the information you want.
+Version 3.13.0 (Dec 22, 2022)
+    Happy New Year~~ Yating has new looking. The interface is more elegant, easier to find the information you want.
+Version 3.13.0 (Dec 22, 2022)
+    Happy New Year~~ Yating has new looking. The interface is more elegant, easier to find the information you want.
+Version 3.12.0 (Jan 3, 2022)
+    3.12.0
+    What’s New
+    - Delete Account. We take your privacy seriously. You can execute the right to be forgotten by deleting your data from your account.
+Version 3.11.0 (Dec 14, 2021)
+    3.11.0
+    What’s New
+    - Updated universal link behavior
+Version 3.10.0 (Nov 18, 2021)
+    3.10.0
+    What’s New
+    - Updated Log In Page UI
+    - Bug Fixes
+Version 3.8.0 (Oct 1, 2021)
+    - Newly added onboarding provides essentials for you to get started
+Version 3.7.0 (Sep 22, 2021)
+    - Newly added share-in feature allows you to forward audio files from other apps (i.e. iOS Voice memo) to Yating, making the transcribing task, hassle free.
+    - Newly added universal link enables you to share a transcription with your friends, colleagues or classmates, making information sharing quick and easy.
+    - Bug Fixes
+Version 3.6.0 (Sep 7, 2021)
+    - Newly added share-in feature allows you to forward audio files from other apps to Yating, making the transcribing task, hassle free.
+    - Bug Fixes
+Version 3.5.1 (Aug 23, 2021)
+    - Bug fixes
+Version 3.5.0 (Aug 20, 2021)
+    - Now you can share the transcription with colleagues, clients or business partners, making sure everyone is on the same page.
+    - Bug Fixes
+Version 3.4.1 (Jul 18, 2021)
+    - Bug Fixes
+Version 3.4.0 (Jul 1, 2021)
+    What’s New
+    - We have introduced the Subtitle Mode, so that users with hearing impaired could enjoy a conversation, Podcasts or even movies by reading the audio converted text.
+    - Starting from version 3.4.0, we also implemented a Dynamic Language Model, so that supported languages could be robustly updated.
+    - Better yet, we now happily (and proudly!) announced that the ENGLISH version of the service is now available!
+    Bug Fixes
+    - Fixed srt file time code format
+    - There was an error message informing you network error when you delete a transcript. We have removed this false alarm, so that you won’t see it pop up every time you try to delete a transcript. 
+Version 3.3.0 (Feb 9, 2021)
+    新增『國台語』與『英語』辨識
+Version 3.2.1 (Jan 14, 2021)
+    * 修正細微錯誤
+Version 3.2.0 (Jan 12, 2021)
+    * 可以將逐字稿分類到不同資料夾，方便管理
+    * 修正錯誤
+Version 3.1.0 (Sep 22, 2020)
+    1. 錄音時可選擇外接的麥克風
+    2. 升級支援 iOS14
+Version 3.0.0 (Sep 16, 2020)
+    1. 聲音與文字對應，點選文字即可跳到對應的聲音位子
+    2. 分辨發話者
+    3. 更豐富的匯出格式
+    4. 自動抓出關鍵字
+Version 2.2.0 (Oct 7, 2019)
+    修正錯誤
+Version 2.1.0 (Aug 1, 2019)
+    增加麥克風音量顯示，足夠的音量會有較好的辨識效果
+Version 2.0.5 (Apr 24, 2019)
+    用文字記錄你的每場會議，每個瞬間！之前來不及使用「雅婷逐字稿」的朋友，現在也可以上傳音檔了！更新之後，就能享受最新介面，擁有最佳體驗。
+    我們在這個版本中，也修正了一些錯誤並提升效能。
+
+    - 編輯逐字稿底部文字時，鍵盤不會蓋住內容。
+Version 2.0.4 (Mar 26, 2019)
+    用文字記錄你的每場會議，每個瞬間！之前來不及使用「雅婷逐字稿」的朋友，現在也可以上傳音檔了！更新之後，就能享受最新介面，擁有最佳體驗。
+    我們在這個版本中，也修正了一些錯誤並提升效能。
+Version 2.0.3 (Mar 23, 2019)
+    用文字記錄你的每場會議，每個瞬間！之前來不及使用「雅婷逐字稿」的朋友，現在也可以上傳音檔了！更新之後，就能享受最新介面，擁有最佳體驗。
+    我們在這個版本中，也修正了一些錯誤並提升效能。
+Version 2.0.0 (Mar 15, 2019)
+    用文字記錄你的每場會議，每個瞬間！之前來不及使用「雅婷逐字稿」的朋友，現在也可以上傳音檔了！更新之後，就能享受最新介面，擁有最佳體驗。
+    我們在這個版本中，也修正了一些錯誤並提升效能。
+Version 1.4.4 (Jan 23, 2019)
+    1. [全新字幕模式] 需要立即觀看語音轉文字的朋友，可以使用 「字幕模式」，讓你有更清晰的視覺使用體驗！
+    2. 開始錄音的時候, 先檢查系統狀態, 再開始錄音. (包含: "網路連線" 和 "錄音相關設定")
+    3. 修正錯誤: 分享聲音檔, 確保傳送完整檔案
+    4. 修正錯誤: "繼續錄音" 模式下, 儲存完整的檔案
+Version 1.4.1 (Jan 5, 2019)
+    1. 錄音中如果網路斷線. 會繼續錄音, 並且嘗試重新連線
+    2. 修正錯誤: 分享聲音檔, 確保傳送完整檔案
+    3. 修正錯誤: "繼續錄音" 模式下, 儲存完整的檔案
+Version 1.3.7 (Dec 13, 2018)
+    1. 錄音的時候自動捲到最底, 即時顯示判斷出來的文字
+    2. 修正說明圖片, 說明文字. (例如: 在逐字稿列表上向左滑動, 可以刪除或分享逐字稿)
+    3. 修正一些錯誤
+Version 1.3.4 (Dec 6, 2018)
+    1. 現在可以更改逐字稿的標題了
+    2. 播放聲音檔的時候, 可以拖曳進度條快轉
+    3. 修正一些錯誤
+Version 1.3.0 (Nov 26, 2018)
+    • 第一個台灣土生土長的 AI 逐字稿。
+    • 支援即時語音轉文字
+    • 聽得懂台灣國語，中英夾雜
+    • 可立即編輯匯出文檔，聲音檔
+Version 1.2.3 (Oct 25, 2018)
+    1. 錄音記事: 除了分享文字檔, 現在你也可以分享聲音檔
+    2. 錄音記事: 把你覺得重要的標記起來吧
+Version 1.2.1 (Oct 12, 2018)
+    1. 修正錄音閃退問題
+    2. 修正 UI 介面 (iPhone X, iPhone XS, iPhone XS Max)
+Version 1.1.2 (Aug 11, 2018)
+    1. 修正鍵盤錄音閃退
+    2. 改善整體UI介面，大大提升App質感
+    3. 新增繼續錄音功能，讓您使用錄音記事更方便
+    4. 新增錄音記事分享功能，想講給誰聽就送給誰看
+    5. 鍵盤新增文字放大列，打錯字要修改不用再滑來滑去滑不到
+Version 1.1.1 (Aug 10, 2018)
+    1. 改善整體UI介面，大大提升App質感
+    2. 新增繼續錄音功能，讓您使用錄音記事更方便
+    3. 新增錄音記事分享功能，想講給誰聽就送給誰看
+    4. 鍵盤新增文字放大列，打錯字要修改不用再滑來滑去滑不到
+Version 1.0.10 (Jun 19, 2018)
+    1. 更多的注音詞庫
+    2. 改善有時候語音輸入沒有反應的問題
+    3. 改善教學頁面的bug
+Version 1.0.9 (Jun 15, 2018)
+    大幅增加注音字庫與詞庫，讓大家在打注音時可以更快找到想要的詞喔！
+Version 1.0.7 (Apr 22, 2018)
+    1. 修正有時連線失敗的問題
+    2. 減少啟動語音輸入時常要先跳轉至 App 的狀況
+    3. 注音輸入可以打出「手機」了！
+Version 1.0.5 (Apr 1, 2018)
+    1. 修正跳轉時可能的閃退
+    2. 修正有時無法停止的收音
+Version 1.0.4 (Mar 27, 2018)
+
+Users may also like
+Select objects to compare
+Transcription - AI Dictation
+寶島眼鏡
+MixerBox AI: Chat AI Browser
+智生活
+監理服務
+中保無限+ 3
+亞太電信Gt智慧生活 行動客服
+台灣大哥大TS (原台灣之星暫用版)
+凱擘大寬頻客服
+台灣大哥大行動客服
+IQ Classifications
+Primary Classification
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Secondary Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    3.15.0
+    Current release
+    Feb 27, 2024
+    3.14.0
+    May 16, 2023
+    3.13.3
+    Feb 17, 2023
+    3.13.2
+    Jan 17, 2023
+    3.13.1
+    Jan 6, 2023
+    3.13.0
+    Dec 22, 2022
+    3.13.0
+    Dec 22, 2022
+    3.12.0
+    Jan 3, 2022
+    3.11.0
+    Dec 14, 2021
+    3.10.0
+    Nov 18, 2021
+    3.8.0
+    Oct 1, 2021
+    3.7.0
+    Sep 22, 2021
+    3.6.0
+    Sep 7, 2021
+    3.5.1
+    Aug 23, 2021
+    3.5.0
+    Aug 20, 2021
+    3.4.1
+    Jul 18, 2021
+    3.4.0
+    Jul 1, 2021
+    3.3.0
+    Feb 9, 2021
+    3.2.1
+    Jan 14, 2021
+    3.2.0
+    Jan 12, 2021
+    3.1.0
+    Sep 22, 2020
+    3.0.0
+    Sep 16, 2020
+    2.2.0
+    Oct 7, 2019
+    2.1.0
+    Aug 1, 2019
+    2.0.5
+    Apr 24, 2019
+    2.0.4
+    Mar 26, 2019
+    2.0.3
+    Mar 23, 2019
+    2.0.0
+    Mar 15, 2019
+    1.4.4
+    Jan 23, 2019
+    1.4.1
+    Jan 5, 2019
+    1.3.7
+    Dec 13, 2018
+    1.3.4
+    Dec 6, 2018
+    1.3.0
+    Nov 26, 2018
+    1.2.3
+    Oct 25, 2018
+    1.2.1
+    Oct 12, 2018
+    1.1.2
+    Aug 11, 2018
+    1.1.1
+    Aug 10, 2018
+    1.0.10
+    Jun 19, 2018
+    1.0.9
+    Jun 15, 2018
+    1.0.7
+    Apr 22, 2018
+    1.0.5
+    Apr 1, 2018
+    1.0.4
+    Mar 27, 2018
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Mar 27, 2018
+
+Worldwide Release Date
+    Mar 27, 2018
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    3.15.0
+
+Size
+    106.58 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Traditional Chinese
+
+Seller
+    AI Labs, LLC
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    tw.ailabs.PttTyping
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1343659994
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Yating: audio transcription | data.ai

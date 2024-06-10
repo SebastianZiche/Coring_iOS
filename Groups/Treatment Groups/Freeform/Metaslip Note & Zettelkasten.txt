@@ -1,0 +1,288 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Metaslip: Note & Zettelkasten
+彰文 厉Productivity (Applications)Free
+Alerts
+
+    彰文 厉
+
+    Metaslip: Note & Zettelkasten
+    Metaslip: Note & Zettelkasten
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Metaslip: Note & Zettelkasten
+Zettelkasten made elegant
+Productivity (Applications)
+Free
+App Description
+Metaslip is a minimalist note-taking software that focuses on the Zettelkasten, dedicated to helping users think deeply.
+
+Features
+* Privacy first, no network required, data stored locally.
+* Data portability, can be exported as a universal Markdown file and SQLite database at any time.
+* Robust data backup mechanism, supports manual export/import, WebDAV, and iCloud(Pro).
+* Supports Markdown format, including LaTeX mathematical formulas.
+* Supports bidirectional linking and parent-child linking.
+* Supports card management by tags and projects.
+* Deep optimization for Zettelkasten.
+
+- Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+- Privacy Policy: https://www.showdoc.com.cn/p/4b114444c15b094636d33181e5a41e67
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.1.9 (May 22, 2023)
+    * updated version of User Guide
+    * bug fix
+Version 1.1.8 (May 11, 2023)
+    * fix: ICloud sync issue
+Version 1.1.7 (May 10, 2023)
+    * new(Pro): ICloud backup
+    * new(Pro): support Trash
+    * new(Pro): support Statistics
+    * new(Pro): allow reorder pinned tags and projects
+    * bug fix
+Version 1.1.6 (Apr 18, 2023)
+    * Card references are sorted alphabetically
+    * Children card references are not hidden by default
+Version 1.1.5 (Feb 20, 2023)
+    * Supports sorting by creation time
+    * Supports viewing card details (creation time, word count, etc.)
+Version 1.1.4 (Sep 19, 2022)
+    * Added: Support for url schema
+    * Optimized: better widescreen support
+Version 1.1.3 (Aug 20, 2022)
+    * New: Edit support undo and redo
+    * New: Support for deleting card
+Version 1.1.2 (Aug 19, 2022)
+    * New: Support exporting all cards to Markdown files
+    * New: Support searching by multi keywords
+    * New: Add menu support for copying cards, titles or content
+    * Fix: Remove the reference page and fix some editing bugs caused by it
+Version 1.1.0 (Apr 17, 2022)
+    * New: Search support for tags
+    * New: control the display of numbers of lines in the title
+    * New: Copy project content to Markdown for further editing
+    * Fix: clear residual information correctly after adding folders
+Version 1.0.9 (Jan 18, 2022)
+    * New: support Italic
+Version 1.0.8 (Jan 6, 2022)
+    * Improve: Search has history
+    * Improve: Card details page can be copied
+    * Improve: Hide tabs with zero references
+    * Improve: Backlinks and sublinks on the card details page hide cards that have been referenced in the content by default
+    * Fix: Sometimes the search result sorting title has lower priority than the content
+    * Fix: latex mathematical formula sometimes cannot be displayed properly
+    * Fix: The bottom of the card list may be obscured.
+    * Fix: Multiple characters may be deleted when deleting a single character in the first line
+Version 1.0.6 (Aug 8, 2021)
+    New: Support show full detail about cards in surfing
+    New: Support sort cards
+Version 1.0.5 (Jul 4, 2021)
+    New: support Latex
+Version 1.0.4 (May 31, 2021)
+    New: support organize cards by folders in the project module
+    Improve: Backup file immediately when finishing cloud sync setting
+    Improve: Back to home screen immediately after restoring the backup
+    Improve: Support insert the card title from the reference page
+Version 1.0.3 (May 15, 2021)
+    New: Support webdav backup
+    New: Usage manual
+    Fix: Cant import backup
+    Fix: Cant update self reference title
+
+Users may also like
+Select objects to compare
+Monolog - Notes, links, charts
+SiYuan
+Recheck!
+Metion: Markdown Notes
+众山小读书笔记 - 留下阅读的痕迹
+枝条笔记 - 点亮你的技能树
+专注笔记：备忘录·日记本·记事本
+Cubox: AI Reader & Highlight
+flomo浮墨-极简卡片笔记、轻便签与日记备忘
+Logseq
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+12 times
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    1.1.9
+    Current release
+    May 22, 2023
+    1.1.8
+    May 11, 2023
+    1.1.7
+    May 10, 2023
+    1.1.6
+    Apr 18, 2023
+    1.1.5
+    Feb 20, 2023
+    1.1.4
+    Sep 19, 2022
+    1.1.3
+    Aug 20, 2022
+    1.1.2
+    Aug 19, 2022
+    1.1.0
+    Apr 17, 2022
+    1.0.9
+    Jan 18, 2022
+    1.0.8
+    Jan 6, 2022
+    1.0.6
+    Aug 8, 2021
+    1.0.5
+    Jul 4, 2021
+    1.0.4
+    May 31, 2021
+    1.0.3
+    May 15, 2021
+
+See More
+Top In-App Purchases
+
+    Yearly Pro
+    $16.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    May 12, 2021
+
+Worldwide Release Date
+    May 12, 2021
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    1.1.9
+
+Size
+    49.39 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese
+
+Seller
+    彰文 厉
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.metaslip.app
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1565362148
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Metaslip: Note & Zettelkasten | data.ai

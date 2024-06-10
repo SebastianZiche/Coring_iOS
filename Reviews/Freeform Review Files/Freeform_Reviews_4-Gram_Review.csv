@@ -1,0 +1,7 @@
+ngram,frequency
+"('app', 'ever', 'best', 'app')",53
+"('best', 'app', 'ever', 'best')",53
+"('ever', 'best', 'app', 'ever')",53
+"('way', 'way', 'way', 'way')",11
+"('download', 'download', 'download', 'download')",10
+"('love', 'love', 'love', 'love')",6

@@ -1,0 +1,962 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Generate:Video Photo Effects
+Hybridity MediaPhoto and Video (Applications)Free
+Alerts
+
+    Hybridity Media
+
+    Generate:Video Photo Effects
+    Generate:Video Photo Effects
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Generate:Video Photo Effects
+Photo and Video (Applications)
+Free
+App Promotional Text
+Generate is dialing in on Creator Economy artists. Higher quality output, new filter aesthetics, real-time editing, music syncing, and drops inspired by top NFT creators.
+App Description
+OUTSTANDING VISUAL EFFECTS AND VIDEO EDITING
+
+*Introducing the latest evolution of Generate with all new effects, features and editing tools to take your content to new heights. letting you layer and combine effects to create something completely new. Share your photos and videos with #generateapp for a chance to be curated by Generate.
+
+*FREE TOOLKIT
+Enjoy free features on us, with creative filter presets, single-clip videos, real-time effects, and audio reactivity built in and ready to roll.
+Giving you the tools you need to begin your creative journey for free
+
+*GENERATE PRO
+Expand your creativity even further with additional pro tools and effects for less than the price of a coffee a month.
+
+*DEFINE YOUR AESTHETIC
+With the click of a button, recreate your aesthetic built from a layered mix of color and geometrical effects and filters.
+
+*LAYER YOUR FAVORITE EFFECTS
+Combine your favorite filters or effects to create a style that’s truly yours.
+
+*AUDIO REACTIVITY
+Control your effects using captured audio or your favorite music, allowing you to literally bring any stills or video to life.
+
+*LIVE EDITING
+Control how your effects react in the moment allowing for truly engaging visual storytelling.
+
+*MULTIPLE FILM FORMATS AND CUSTOM SOUND
+Create video content with a range of different film formats and choose to import music from any platform. Perfect for your social media
+
+*MULTI-CLIP VIDEOS WITH REVERSE AND SLO-MO
+Piece together your story with multiple clips that you can also play in reverse or in slow motion.
+
+*GENERATE FILTER LIBRARY
+Choose from over 100 different filters from beautiful effects to glitch patterns and more allowing you to create something that is uniquely yours
+
+
+
+*CURATED FEED
+Join the most creative works in the Generate Feed, on Instagram and TikTok. Become part of the Generate Creators Community.
+
+Email info@generateapp.com for any questions, comments and all else.
+
+We believe in creativity without limitations. See where it takes you.
+
+Terms of Use: http://generateapp.com/terms-of-use.html
+Privacy Policy: http://generateapp.com/privacy.html
+Ratings
+Displayed Avg Ratings
+4.11
+Total Displayed Ratings
+233
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.4.1 (Feb 8, 2022)
+    Animated filter parameters: We've added silky smoothness to our 150+ filters. Controls now slide elegantly from one tap to the next. Want to animate your NFTs to a totally new vibe? Tap a filter multiple times to fluidly flip between random, unique looks.
+
+    New tessellation sets: GeoTile, PolyTile, and GlowTile have been updated with 19 new,
+    shapely tessellation parameters. We at Generate have essentially conquered geometry.
+
+    New SlowTile filter: Time, angles, and spectrum meld together for macro-dosed fun in this new tessellation/motion combo filter. Pro-tip: This effect needs motion, to use it with a still image input, add some wiggle with the Wobbler filter.
+
+
+    New presets: We created a fresh set of preset combos to highlight our new filters, including Alternet, CDROM, Closer, and InABand. As well as their initial look, tap on these presets again to mix them up. Each will produce a practically infinite variety of smooth styles for cooler creative.
+Version 3.4 (Dec 15, 2021)
+    As artists ourselves, we know how crucial your creative tools are. That's why we're dropping one of our most substantial releases ever so that you can better create and sell your art.
+
+    *GENERATE PRO
+    Now includes: All 150+ filters, access to our professional artist network, exclusive event invites, and opportunities to sell your work.
+
+    *NFT Ready
+    Non Fungible Tokens have created a quantum shift in the art world so Generate now includes NFT-focused aesthetics, layering and output functionality.
+
+    *UI OVERHAUL
+    Our fully-revamped interface helps you get down to the business of creating art faster, easier and simpler than ever before.
+
+    *LAYERING
+    Our brand new Layering section lets you integrate multiple photos and videos to build customized filters that you can save.
+
+    *HIGH RESOLUTION
+    We've drastically increased our output fidelity so your work can be displayed in high-quality across social media and in NFT galleries.
+
+    *NEW FILTERS AND CATEGORIES
+    Explore new creative territory with inspiring new Chroma and Pattern filters. Our filter category system has also been overhauled so you can more quickly and intuitively create NFT-worthy artworks.
+
+    *BUG FIXES
+    We have tackled usability issues across our entire workflow.
+
+    For questions, comments, or anything else, you can reach us at info@generateapp.com
+Version 3.3 (Oct 1, 2021)
+    As artists ourselves, we know how crucial your creative tools are. That's why we're dropping one of our most substantial releases ever so that you can better create and sell your art.
+
+    *GENERATE PRO
+    Now includes: All 150+ filters, access to our professional artist network, exclusive event invites, and opportunities to sell your work.
+
+    *NFT Ready
+    Non Fungible Tokens have created a quantum shift in the art world so Generate now includes NFT-focused aesthetics, layering and output functionality.
+
+    *UI OVERHAUL
+    Our fully-revamped interface helps you get down to the business of creating art faster, easier and simpler than ever before.
+
+    *LAYERING
+    Our brand new Layering section lets you integrate multiple photos and videos to build customized filters that you can save.
+
+    *HIGH RESOLUTION
+    We've drastically increased our output fidelity so your work can be displayed in high-quality across social media and in NFT galleries.
+
+    *NEW FILTERS AND CATEGORIES
+    A fresh set of filters can now be accessed in clear, descriptive sections like Glitch, Soft 90s, Noir and Retro.
+
+    *BUG FIXES
+    We have tackled usability issues across our entire workflow.
+
+    For questions, comments or anything else, you can reach us at info@generateapp.com
+
+Version 3.2.1 (Sep 1, 2021)
+    As artists ourselves, we know how crucial your creative tools are. That's why we're dropping one of our most substantial releases ever so that you can better create and sell your art.
+
+    *GENERATE PRO
+    Now includes: All 150+ filters, access to our professional artist network, exclusive event invites, and opportunities to sell your work.
+
+    *NFT Ready
+    Non Fungible Tokens have created a quantum shift in the art world so Generate now includes NFT-focused aesthetics, layering and output functionality.
+
+    *UI OVERHAUL
+    Our fully-revamped interface helps you get down to the business of creating art faster, easier and simpler than ever before.
+
+    *LAYERING
+    Our brand new Layering section lets you integrate multiple photos and videos to build customized filters that you can save.
+
+    *HIGH RESOLUTION
+    We've drastically increased our output fidelity so your work can be displayed in high-quality across social media and in NFT galleries.
+
+    *NEW FILTERS AND CATEGORIES
+    A fresh set of filters can now be accessed in clear, descriptive sections like Glitch, Soft 90s, Noir and Retro.
+
+    *BUG FIXES
+    We have tackled usability issues across our entire workflow.
+
+    For questions, comments or anything else, you can reach us at info@generateapp.com
+Version 3.2 (Aug 21, 2021)
+    As artists ourselves, we know how crucial your creative tools are. That's why we're dropping one of our most substantial releases ever so that you can better create and sell your art.
+
+    *GENERATE PRO
+    Now includes: All 150+ filters, access to our professional artist network, exclusive event invites, and opportunities to sell your work.
+
+    *NFT Ready
+    Non Fungible Tokens have created a quantum shift in the art world so Generate now includes NFT-focused aesthetics, layering and output functionality.
+
+    *UI OVERHAUL
+    Our fully-revamped interface helps you get down to the business of creating art faster, easier and simpler than ever before.
+
+    *LAYERING
+    Our brand new Layering section lets you integrate multiple photos and videos to build customized filters that you can save.
+
+    *HIGH RESOLUTION
+    We've drastically increased our output fidelity so your work can be displayed in high-quality across social media and in NFT galleries.
+
+    *NEW FILTERS AND CATEGORIES
+    A fresh set of filters can now be accessed in clear, descriptive sections like Glitch, Soft 90s, Noir and Retro.
+
+    *BUG FIXES
+    We have tackled usability issues across our entire workflow.
+
+    For questions, comments or anything else, you can reach us at info@generateapp.com
+Version 3.1.8 (May 5, 2021)
+    Hey! Our Team is excited about some exciting and important updates.
+    Bug Fixes - Major update / fix on filter flow.
+    *Generate PRO: New Filters, Effects, AR, Editing, Music and Video Edits all in one.
+    *Start in Generate! We see how much you are creating and want to get you there as fast as possible!
+    *Filter Drops Now Live in Generate! BruceLee, Pulsar, Lightleak & Ensign in app for this release! Check the 'picks' section and stay updated in your notifications as they roll out.
+    *DICE Button updates to save your own unique filters in seconds.
+    *VIDEO button updated to start at beginning of Clips
+    *Use music from Spotify, iTunes, or all your own.
+    *Feed and Creator Features
+    *Updated Tutorials and Info on How to use all of our features
+    *Generate Share for TikTok, Instagram Stories and Reels, and creative content on any platform, #generateapp for features.
+    *Updates to MASK, and a lot of amazing filters coming soon! (Psssst - Its actually way more:-)
+
+    Thanks to our users for their ongoing feedback - we couldn't do it without you -
+
+    For any questions and comments, email us directly at info@generateapp.com!
+Version 3.1.7 (May 4, 2021)
+    Hey! Our Team is excited about some exciting and important updates.
+    Bug Fixes - Major update / fix on filter flow.
+    *Generate PRO: New Filters, Effects, AR, Editing, Music and Video Edits all in one.
+    *Start in Generate! We see how much you are creating and want to get you there as fast as possible!
+    *Filter Drops Now Live in Generate! BruceLee, Pulsar, Lightleak & Ensign in app for this release! Check the 'picks' section and stay updated in your notifications as they roll out.
+    *DICE Button updates to save your own unique filters in seconds.
+    *VIDEO button updated to start at beginning of Clips
+    *Use music from Spotify, iTunes, or all your own.
+    *Feed and Creator Features
+    *Updated Tutorials and Info on How to use all of our features
+    *Generate Share for TikTok, Instagram Stories and Reels, and creative content on any platform, #generateapp for features.
+    *Updates to MASK, and a lot of amazing filters coming soon! (Psssst - Its actually way more:-)
+
+    Thanks to our users for their ongoing feedback - we couldn't do it without you -
+
+    For any questions and comments, email us directly at info@generateapp.com!
+Version 3.1.6 (Apr 9, 2021)
+    Hey! Our Team is excited about some exciting updates.
+    Thanks for all the amazing comments and suggestions so far.
+    *Generate PRO: New Filters, Effects, AR, Editing, Music and Video Edits all in one.
+    *Start in Generate! We see how much you are creating and want to get you there as fast as possible!
+    *Filter Drops Now Live in Generate! Check the 'picks' section and stay updated in your notifications as they roll out.
+    *DICE Button updates to save your own unique filters in seconds.
+    *VIDEO button updated to start at beginning of Clips
+    *Use music from Spotify, iTunes, or all your own.
+    *Feed and Creator Features
+    *Updated Tutorials and Info on How to use all of our features
+    *Generate Share for TikTok, Instagram Stories and Reels, and creative content on any platform, #generateapp for features.
+    *Updates to MASK, and a lot of amazing filters coming soon! (Psssst - Its actually way more:-)
+
+    For any questions and comments, email us directly at info@generateapp.com!
+Version 3.1.5 (Mar 24, 2021)
+    WHAT’S NEW
+
+    Hey! Our Team is excited about some exciting updates.
+    Thanks for all the amazing comments and suggestions so far.
+    *Generate PRO: New Filters, Effects, AR, Editing, Music and Video Edits all in one.
+    *Filter Drops Now Live in Generate! Check the 'picks' section and stay updated in your notifications as they roll out.
+    *DICE Button updates to save your own unique filters in seconds.
+    *VIDEO button updated to start at beginning of Clips
+    *Use music from Spotify, iTunes, or all your own.
+    *Feed and Creator Features
+    *Updated Tutorials and Info on How to use all of our features
+    *Generate Share for TikTok, Instagram Stories and Reels, and creative content on any platform, #generateapp for features.
+    *Updates to MASK, and a lot of amazing filters coming soon! (Psssst - Its actually way more:-)
+
+    For any questions and comments, email us directly at info@generateapp.com!
+Version 3.1.4 (Feb 4, 2021)
+    WHAT’S NEW
+
+    Hey! Our Team is excited about some exciting updates.
+    Thanks for all the amazing comments and suggestions so far.
+    *Generate PRO: New Filters, Effects, AR, Editing, Music and Video Edits all in one.
+    *New Filters and Effects: Misprint, Box, Tinprism, melt, slow, distort, 8mm, dose.
+    *Filter and Preset Drops coming in app now!
+    *New DICE Button to save your own unique filters in seconds.
+    *PRESETS curated with unique combinations.
+    *VIDEO button updated to start at beginning of Clips
+    *Use music from Spotify, iTunes, or all your own.
+    *Feed and Creator Features
+    *Updated Tutorials and Info on How to use all of our features
+    *Generate Share for TikTok, Instagram Stories and Reels, and creative content on any platform, #generateapp for features.
+    *Updates to MASK, and a lot of amazing filters coming soon! (Psssst - Its actually way more:-)
+
+    For any questions and comments, email us directly at info@generateapp.com!
+
+
+Version 3.1.3 (Dec 23, 2020)
+    Our Team is excited about some further updates in app!
+    Thanks for all the amazing comments and suggestions so far - If you want to reach out email us directly at info@generateapp.com!
+    *Generate PRO Updates -
+    *New Filters, Effects and FRESH Section! New Prisms, Papier, Slow, Bolex, Mounty, Seventy, Straight8, Lensman, Stunnel, Neon and BruceLee!
+    *First off, all ORIGINAL PRO USERS ARE STILL PRO - So if you forgot your username email us!
+    *Bug Fixes on Creation Tool
+    *PRESETS and DICE button curated to further the creative process.
+    *VIDEO button updated with TRIMMING FEATURE on IMPORT!
+    *Updated Playlists from Spotify, iTunes, and Custom.
+    *New Create a Generate Walkthrough.
+    *Creator features in Feed
+    *Updated Tutorials and Info on How to use all of our features
+    *Generate Share for TikTok, Instagram Stories and Reels, and creative content on any platform, #generateapp for features.
+Version 3.1.2 (Dec 1, 2020)
+    Our Team is excited about some further updates in app!
+    Thanks for all the amazing comments and suggestions so far - If you want to reach out email us directly at info@generateapp.com!
+    *Generate PRO Updates
+    *New Filters, Effects and FRESH Section!
+    *PRESETS and DICE button curated to further the creative process.
+    *VIDEO button updated with TRIMMING FEATURE on IMPORT!
+    *Updated Playlists from Spotify, iTunes, or all your own.
+    *Creators Program features
+    *Updated Tutorials and Info on How to use all of our features
+    *Generate Share for TikTok, Instagram Stories and Reels, and creative content on any platform, #generateapp for features.
+Version 3.1.1 (Nov 11, 2020)
+    WHAT’S NEW
+
+    Hey! Our Team is excited about some big updates!
+    Thanks for all the amazing comments and suggestions so far.
+    *BUG FIXES
+    *Generate PRO: New Filters, Effects, AR, Editing, Music and Video Edits all in one.
+    *New Filters and Effects:
+    *New DICE Button to save your own unique filters in seconds
+    *PRESETS curated to help start the creative process.
+    *VIDEO button updated to start at beginning of Clips
+    *Use music from Spotify, iTunes, or all your own.
+    *Feed and Profile now Live in App
+    *Updated Tutorials and Info on How to use all of our features
+    *Generate Share for TikTok, Instagram Stories and Reels, and creative content on any platform, #generateapp for features.
+    *Updates to MASK and other past filters coming soon!
+
+    For any questions and comments, email us directly at info@generateapp.com!
+Version 3.1 (Oct 28, 2020)
+    Hey! Our Team is excited about some big updates!
+    *Generate PRO: New Filters, Effects, AR, Editing, Music and Video Edits all in one.
+    *New Filters and Effects:
+    *New DICE Button to save your own unique filters in seconds
+    *PRESETS curated to help start the creative process.
+    *VIDEO button updated to start at beginning of Clips
+    *Use music from Spotify, iTunes, or all your own.
+    *Feed and Profile now Live in App
+    *Updated Tutorials and Info on How to use all of our features
+    *Generate Share for TikTok, Instagram Stories and Reels, and creative content on any platform, #generateapp for features.
+    *BUG FIXES
+    *Updates to MASK and other past filters coming soon!
+
+    Thanks for all of your comments, suggestions, bug reports, and all else! For any questions and comments, email us directly at info@generateapp.com!
+Version 3.0.1 (Jul 15, 2020)
+    The Launch of Generate 3.0! After 6 years we are back with a completely new version from top to bottom. Updates and Features (new and old) are ongoing!
+
+    New Filters, Effects, AR, Editing, Music and Movie Making all in one. Perfect for Tik Tok, Instagram Stories, Triller Videos, and creative content on any platform, #generateapp for features.
+
+    Save your own unique filters, create in real time, and make something unique and different.
+
+    Use music from Spotify, iTunes, or all your own. This time we have created a professional tool for everyone to use and we can't wait for you to try it!
+
+    For any questions and comments, email us directly at info@generateapp.com!
+
+Version 3.0 (Jun 25, 2020)
+    The Launch of Generate 3.0! After 6 years we are back with a completely new version from top to bottom.
+
+    New Filters, Effects, AR, Editing, Music and Movie Making all in one. Perfect for your Tik Tok's, Instagram Stories, Triller Videos, and creative content on any platform.
+
+    Save your own unique filters, create in real time, and make something unique and different.
+
+    Use music from Spotify, iTunes, or all your own. This time we have created a professional tool for everyone to use and we can't wait for you to try it!
+
+    Ongoing updates coming weekly as we launch. 
+Version 2.1 (Apr 3, 2018)
+    Updated for iphone X and all new iOS! - New glitch feed and profile updates. Want to do a cool activation or partnership, be in touch at info@generateapp.com!
+Version 2.0 (Jul 17, 2017)
+    You can now take Generate's features and put them in any app in the world! Check out our toolkit section for more details. Also we are now building filters for Facebook! Learn more at www.generateapp.com. In app we have made some design updates and bug fixes as well:-)
+Version 1.5 (Mar 31, 2017)
+    Community section now live in app! Updates to Facebook Live as well! Save your Live Broadcasts in Facebook! Images now saved at 1080p. Regenerate: our Creative Remix tool live! Remember to post #generateapp on insta to get featured! Want to join our community, see the community screen and email us at info@generateapp.com!
+Version 1.4.28 (Mar 2, 2017)
+    Updates: FB Live: Save your Live Broadcasts in Facebook! Quality: Images now saved at 1080p. Regenerate: our Creative Remix tool live! SXM filter with our friends at the SXM Festival!! Improved stability and bug fixes! The #1 Creative App for going beyond the norm just went next level. Share to Instagram, WhatsApp, iMessage, Snapchat and more! Remember to post #generateapp to get featured! Want to join our community, see the community screen and email us at info@generateapp.com! We would love to have you involved!
+Version 1.4.27 (Jan 23, 2017)
+    FB Live! Adobe 360! Improvements to Feed, Share Screen and Quality of Images. Check out Regenerate: our Creative Remix tool. The #1 Creative App for going beyond the norm just went to the next level. All filters Live in App, improved stability and Featured Generators! Improved: 1 Minute Video Recording! Share to Instagram, WhatsApp, iMessage, Snapchat and more! Also a few key bug fixes... Remember to post #generateapp to get featured!
+
+    Do you want to join our community, see the community screen and email us at info@generateapp.com! We would love to have you involved!
+Version 1.4.26 (Dec 20, 2016)
+    Live Live Live! Stream to Facebook Live from Generate with our new live feature! The #1 Creative App for going beyond the norm just went to the next level. No Watermark, New Filters, and Featured Generators! New: 1 Minute Video Recording and Integration with Adobe’s Apps all in real time! Share to Instagram, WhatsApp, iMessage, Snapchat and more! Also a few key bug fixes... Remember to post #generateapp to get featured!
+
+    Do you want to join our community, help with translation, and other creative projects to help spread Generate in your country? Email us at info@generateapp.com!
+Version 1.4.25 (Oct 22, 2016)
+    Video Feature Fixed! 'Redrum Filter for Halloween! 1 Minute Video, No Watermark and Featured Generators! Share to Instagram, Whatsapp, iMessage, Snapchat with + button! Remember to post #generateapp to get featured!
+Version 1.4.20 (Oct 18, 2016)
+    No Watermark, New Filters, and Featured Generators! Share to Instagram, Whatsapp, iMessage, Snapchat and more! Also a few key bug fixes...
+Version 1.4.19 (Aug 16, 2016)
+    - Public Profiles
+    - New Filters (Faceglitch, Noir, Silver, Disco, Amatorka, Mercury, Warm, Haze, Crispy Cool)
+    - Regenerate
+    - New Sign up / Walkthrough
+    - Starting in Selfie Mode
+    - Post Screen (Preview Screen)
+    - New Feed (FEATURED) - Includes Generates you have created, Generates of who you follow, and Featured Generates (formerly curated)
+    - Images and Videos in Feed at proper aspect ratio
+    - Search
+    - Live Hashtags
+    - New Store (All Pro and Filters full package)
+    - New Share Flow (Save and straight to post screen for preview to post to Network)
+Version 1.4.18 (Mar 10, 2016)
+    Generate - it just keeps getting more powerful. What’s new:
+    - Fixed a bug for some users logging in via Facebook.
+    - Share to Generate to get curated and receive premium filters - including some of the 10 new secret filters!
+    - Upgrade to PRO to receive unlimited video, high resolution, projection and watermark removal.
+    - Other bug fixes.
+
+    Remember to hit us up at info@generateapp.com or Tweet us at @generateapp with any questions or feedback.
+Version 1.4.17 (Feb 26, 2016)
+    Dive in to Generate! Check out some new tool tips to get the most out of Generate. Other updates:
+
+    - Improved Facebook login experience
+    - New permissions screen
+    - New watermark on photos - Watermark is togglable for Pro users or any users who own one or more premium filters
+    - Fixed a bug for saving video & stills
+    - Various other bug fixes
+
+    Stay tuned for some new filters and new experiences - we’re pumped to share more with you all soon. Got suggestions or questions? Hit us up at info@generateapp.com
+Version 1.4.16 (Jan 11, 2016)
+    Introducing the Generate Activity screen and new ways to share the Generate creative community. The Activity section is a new central hub for social interactions, receiving important messages and interactions between community members. We've also added a new addition to your filter collection, Light Speed.
+
+    Share your love for Generate creativity from the Gallery. Star your favs and get notified when others favorite yours. We’ve added the ability to share Gallery posts to SMS, email, Facebook and Twitter, so friends can see and share the best media made with Generate. After hearing requests for better community engagement, the new Activity and Gallery are an easy and fun way to engage with images and videos.
+
+    Plus, now Generate PRO users can share longer videos to Generate, showcasing even more excellent content in the Gallery.
+Version 1.4.15 (Dec 15, 2015)
+    Introducing the Generate Activity screen and new ways to share the Generate creative community. The Activity section is a new central hub for social interactions, receiving important messages and interactions between community members. We've also added a new addition to your filter collection, Light Speed.
+
+    Share your love for Generate creativity from the Gallery. Star your favs and get notified when others favorite yours. We’ve added the ability to share Gallery posts to SMS, email, Facebook and Twitter, so friends can see and share the best media made with Generate. After hearing requests for better community engagement, the new Activity and Gallery are an easy and fun way to engage with images and videos.
+
+    Plus, now Generate PRO users can share longer videos to Generate, showcasing even more excellent content in the Gallery.
+Version 1.4.14 (Oct 29, 2015)
+    Introducing video looping in Generate. After receiving much feedback from the community, now videos will continue to play as you’re applying effects. This gives you more freedom for video editing creativity. We’ve also made updates to our Facebook sign up and log in process.
+
+    For new users, we’ve added a walk through process that makes it easier to get started with Generate.
+
+    You’ll also find two new filters in our store, get your hands on PINK and Color to add incredible highlights to your media.
+Version 1.4.13 (Oct 2, 2015)
+    The latest version of Generate introduces Adobe Creative Cloud sharing, important bug fixes and new filters.
+
+    Introducing Adobe Creative Cloud on Generate. Now you can share your Generate content to the cloud for easier media management and editing using Adobe’s Creative Cloud. This exciting new feature is just the beginning of a larger Adobe Creative Cloud integration, making it better than ever to use Generate to create images and videos.
+
+    We’ve also loaded this release with important bug fixes. We’ve resolved saving a video made with an imported image and fixed launch crashes on ios 9 devices. We’ve also fixed the ability to delete profile posts on devices using ios 9 and built better support for time based filters, like FADED, which require more intensive processing.
+
+    Plus you can find our newest filter, VHS 01, available in the in-app store.
+Version 1.4.12 (Sep 17, 2015)
+    Generate is happy to release a new version including updates for iOS 9 support and better handling for library image editing in response to community feedback. Many thanks to everyone who took the time to report and provide feedback on these issues.
+
+    Also, introducing a new social views count in the Curated Gallery and two incredible new filters, Melt and Light Leak, available from our in-app store.
+Version 1.4.11 (Sep 2, 2015)
+    This version addresses a number of stability issues and also contains a number of bug fixes. We’re also very excited to release another new, free filter, Tile that lets you stack and duplicate images to create a 4-up look.
+
+    Thanks to our creative community for helping us address these! Please email support@generateapp.com with any questions and comments.
+
+    Bug Fixes
+
+    - Crash issues on launch of the app, and when using with different filters
+    - Audio-reactivity issues when using different filters
+    - Fixed bugs related to saving library video and stills
+
+    Compatibility: This app is optimized for iPhone 5, iPhone 6, and iPad Air and later. It is compatible with earlier versions of iPhone, iPad, and iPod Touch.
+Version 1.4.10 (Aug 5, 2015)
+    Generate adds new filters to the carousel, including Pop and Vid Mix. You can also find the new filters, Wavy and Trails, in the in-app store. There are a number of bug fixes related to performance issues as well as the addition of a change username function located in the profile settings.
+Version 1.4.9 (Jun 19, 2015)
+    Generate introduces filter management settings. Rearrange and turn filters on and off using the new filter Settings. Our new general Settings located in your Profile lets you get help, reset your password, invite friends to Generate, rate and report problems. With the addition of the new free filter, FADED, Generate is all set for summer fun!
+Version 1.4.8 (Jun 18, 2015)
+    Generate introduces filter management settings. Rearrange and turn filters on and off using the new filter Settings. Our new general Settings located in your Profile lets you get help, reset your password, invite friends to Generate, rate and report problems. With the addition of the new free filter, FADED, Generate is all set for summer fun!
+Version 1.4.7 (Jun 4, 2015)
+    Generate is excited to introduce five, incredible new filters: Chroma, Twitch, RGB, Reflect and Diamond. Find them in our in-app store. Now you can delete Generates from your profile. Plus we've integrated better permissions requests for new users as well as fixed critical bugs to importing media.
+Version 1.4.6 (Apr 23, 2015)
+    In the latest version of Generate we've redesigned the login and signup process as well as our in-app store and profile. This improves the overall experience and navigating the interface as a new user. There are several important bug fixes to visual projection and image quality for PRO users.
+Version 1.4.5 (Apr 5, 2015)
+    In the latest release, Generate has made several updates to the graphical interface. This includes an updated share screen and new buttons and text that make it easier to navigate with a simplified design approach. We have also updated our backend structure allowing for improvements to the systems management.
+Version 1.4.4 (Mar 4, 2015)
+    Introducing landscape mode for capturing videos and images. Now you can record in either square or landscape formats using the drop down menu at the top of the camera interface. The latest release also includes important bug fixes to audio-reactivity using the microphone.
+Version 1.4.3 (Feb 26, 2015)
+    Introducing landscape mode for capturing videos and images. Now you can record in either square or landscape formats using the drop down menu at the top of the camera interface. The latest release also includes important bug fixes to audio-reactivity using the microphone.
+Version 1.4.2 (Feb 16, 2015)
+    This release includes an important fix for saving media. We want to thank our community for giving us their valuable feedback on this issue, and their help in its resolution. Anyone who experienced problems saving media should download this release. We’ve also fixed some bugs related to password retrieval and UI updates within the Profile.
+Version 1.4.1 (Dec 17, 2014)
+    This release features the inclusion of Generate Pro in the Generate store and in-app purchasing functionality. Supporting this, we have implemented an overhaul of our applications backend to provide security and performance updates.
+    Navigation issues have been addressed by the replacement of several buttons to help guide users in entering and exiting the tool. Various bug fixes, and UI/UX improvements have been implemented throughout the application, including an optimized onboarding process removing the walkthrough in favour of several in-app tooltips and a new launch image with animated logo.
+Version 1.4.0 (Oct 31, 2014)
+    1.4.0
+    New look! New filters!
+    Generate has an updated look and feel, plus a brand new in-app store.
+    And we’ve created three new filters you’ll love: Dilation, Swirl, Contrast. FREE in the store.
+
+    1.3.6
+    - fixed selfie mode crash on iOS 8
+    - fixed rare audio import crash on iOS 8
+    - fixed crash playing video in feed on iOS 8
+    - streamlined sharing process
+    - reordered filters in carousel
+
+    Known issues:
+    - audio reactivity problems
+    - broken audio tray animations
+
+    1.3.4
+    Audio from your phone! 15 second videos!
+    *If you can't save, go to Settings>Privacy>Photos and allow Generate to access your photos.
+
+    Audio-in: Open the new audio tray and choose your Music Library as an audio source. Select a track from your library and choose the start point. The image or video in Generate will react live to the audio in the track.
+
+    Longer videos: You can now create videos of up to 15 seconds long. Share to Instagram with #generateapp and show us what you make!
+Version 1.3.6 (Oct 1, 2014)
+    - fixed selfie mode crash on iOS 8
+    - fixed rare audio import crash on iOS 8
+    - fixed crash playing video in feed on iOS 8
+    - streamlined sharing process
+    - reordered filters in carousel
+
+    Known issues:
+    - audio reactivity problems
+    - broken audio tray animations
+Version 1.3.5 (Sep 19, 2014)
+    Generate now supports both iOS 8 and iOS 7. We have also made several minor changes to the UI.
+Version 1.3.4 (Sep 3, 2014)
+    Audio from your phone! 15 second videos!
+    *If you can't save, go to Settings>Privacy>Photos and allow Generate to access your photos.
+
+    Audio-in: Open the new audio tray and choose your Music Library as an audio source. Select a track from your library and choose the start point. The image or video in Generate will react live to the audio in the track.
+
+    Longer videos: You can now create videos of up to 15 seconds long. Share to Instagram with #generateapp and show us what you make!
+
+    Help us test Generate Pro: bit.ly/generate-pro
+Version 1.3.3 (Aug 13, 2014)
+    1.3.3
+
+
+
+    New UI Implementation
+
+    - Save your images & videos easily with our new capture button. Switch between image/video mode with the toggle, then save with the red button, which wwitches between save and record based on still or video.
+
+
+
+    - New Clear Filters button.
+
+
+
+    - New Home Screen Button to take you into the curated feed.
+
+
+
+    Help test Generate Pro: bit.ly/generate-pro
+
+    See more of What's New below...
+
+
+
+    Select the 'Generate' network when you share your creation & we may showcase it in our Featured Generates feed.
+
+
+
+    Generate is now location-aware and may ask for your current location. Approving this will make it easier for us to show you all Generates taken in NYC, for example.
+
+
+
+    We have improved the Facebook signup flow, allowing you to go back and choose email instead.
+
+
+
+    We are still working on rolling out Generate Pro, where you can make hi-res images and video, and record unlimited video. The Pro version also has live projection capabilities, with many more features to come…The Pro version is available on an invite only basis at bit.ly/generate-pro.
+Version 1.3.2 (Aug 1, 2014)
+    Save your images & videos easily with our new capture button. Switch between image/video mode with the toggle, then save with the red button.
+    Help test Generate Pro: bit.ly/generate-pro
+    See more of What's New below...
+
+    Select the 'Generate' network when you share your creation & we may showcase it in our Featured Generates feed.
+
+    Generate is now location-aware and may ask for your current location. Approving this will make it easier for us to show you all Generates taken in NYC, for example.
+
+    We improved the Facebook signup flow. Now you can go back.
+
+    We are still working on rolling out Generate Pro, where you can make hi-res images and video, and record unlimited video. The Pro version also has live projection capabilities, with many more features to come…The Pro version is available on an invite only basis at bit.ly/generate-pro.
+Version 1.3.1 (Jul 27, 2014)
+    You may have noticed that the last version of Generate addressed a ton of feedback we have gotten from users, with improved media quality, reworked audio reactivity, Facebook sign up, a new filter, and more. This week, we have even more updates to share with you.
+
+    In addition to releasing Versions 1.3.1, we have been work hard on Generate Pro, where you can make hi-res images and video, and record unlimited video. The Pro version also has projection capabilities, with many more features to come…The Pro version is available on an invite only basis at bit.ly/generate-pro.
+
+    Version 1.3.1
+
+    Saving
+    - To save images and videos, click on the large red capture button in the bottom centre of the screen. This button is also used to toggle between still images and video.
+
+    Feed and Share screens
+    - Feed now includes video
+    - New curated feed to replace the all feed
+    - Optional sharing to generate
+
+    GUI updates
+    - Touch the screen to trigger an autofocus and exposure animation
+    - Camera flash animation
+
+    Bugs and minor updates
+    - Fix for mosaic bug (it no longer inverts the background colour)
+    - Fix for rotation bug in certain cases
+
+    Version 1.3.0 (released July 16th)
+
+    Media quality:
+    - Higher resolution video (640p) and stills (720p)
+    - Better video compression settings
+    - Videos can be created from still images
+    - Videos can be up to 7 seconds long
+
+    Audio reactivity:
+    - Filters are much more responsive to the audio signal
+    - Filters now react to the audio track in a video
+
+    Signup:
+    - You can now log in or sign up using Facebook
+    - You are no longer required to make an account before using Generate
+
+    Other changes:
+    - New filter: Kaleidoscope
+    - Additional bug fixes and performance improvements
+    - Improved stability for media from camera roll
+
+    Generate Pro is now available on an invite-only basis. Features include:
+    - Live projection using Airplay or an adapter cable
+    - Unlimited video length
+    - Higher resolution video and image output
+
+
+    We would like to say thanks for all the support we have received so far. There are Generate users in 132 countries and counting!
+
+    Don’t forget to tag your Generates with #generateapp when you share them so we can see what you make.
+
+    If you have any comments, questions, or feedback, we would love to hear from you. You can reach us at info@igenerate.co
+Version 1.3.0 (Jul 16, 2014)
+    This is our biggest update yet, with improved media quality, reworked audio reactivity, Facebook signup, a new filter, and more.
+
+    Media quality:
+    - Higher resolution video (640p) and stills (720p)
+    - Better video compression settings
+    - Videos can be created from still images
+    - Videos can be up to 7 seconds long
+
+    Audio reactivity:
+    - Filters are much more responsive to the audio signal
+    - Filters now react to the audio track in a video
+
+    Signup:
+    - You can now log in or sign up using Facebook
+    - You are no longer required to make an account before using Generate
+
+    Other changes:
+    - New filter: Kaleidoscope
+    - Additional bug fixes and performance improvements
+    - Improved stability for media from camera roll
+
+    Generate Pro is now available on an invite-only basis. Features include:
+    - Live projection using Airplay or an adapter cable
+    - Unlimited video length 
+    - Higher resolution video and image output
+
+    If you would like to become part of our testing team and get the Pro version for free, please sign up at bit.ly/generate-pro
+
+    We would like to say thanks for all the support we have received so far. There are Generate users in 132 countries and counting!
+
+    Don’t forget to tag your Generates with #generateapp when you share them so we can see what you make.  
+
+    If you have any comments, questions, or feedback, we would love to hear from you. You can reach us at info@igenerate.co
+Version 1.2.2 (Jun 1, 2014)
+    - Improved feed
+    - Two new filters: Hue and Silo
+    - New walkthrough
+    - GUI updates
+    - Bug fixes and performance improvements
+Version 1.1 (Apr 27, 2014)
+    Generate version 1.1
+
+    Featuring updated UI functionality, still-to-video recording, improved social experience and feed performance, and various bug fixes.
+Version 1.0.8 (Apr 17, 2014)
+    Improved social experience:
+
+    * press the back button to navigate to the feed
+
+    * view your own posts or posts from the community
+Version 1.0.7 (Apr 3, 2014)
+    Fixes a crash for iPhone 5S and iPad Air (64-bit devices).
+Version 1.0.6 (Apr 2, 2014)
+    * Potential Fix for A7 Architectures
+    * Various Bug Fixes
+
+    Please email info@igenerate.co with any comments, questions, and bug reports!
+Version 1.0.4 (Mar 24, 2014)
+    Generate Version 1.0.4
+
+    * Fixed crash on iPad due to no Flash existing on device
+    * Fixed Seflie/Flash button interaction when in video mode
+    * Various UI/UX fixes on Sharing screen
+Version 1.0.3 (Mar 8, 2014)
+    * Sharing to Facebook
+    * Video Preview on sharing screen
+    * Tap to Focus
+    * Flash toggle
+    * Various bug fixes and performance improvements
+Version 1.0.1 (Feb 28, 2014)
+
+Users may also like
+Select objects to compare
+Leo AR Camera
+HYPERSPEKTIV: Photo, Video, AR
+Retrospecs
+Artomaton - The Motion Painter
+Videorama Text & Video Editor
+Pixel Art Camera
+MOLDIV VideoLab Video Editor
+Chic - Stylish Camera
+Glitchshop - Glitch Aesthetic
+Slideshow Creator
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+17 times
+on App Store category pages
+Versions
+
+    3.4.1
+    Current release
+    Feb 8, 2022
+    3.4
+    Dec 15, 2021
+    3.3
+    Oct 1, 2021
+    3.2.1
+    Sep 1, 2021
+    3.2
+    Aug 21, 2021
+    3.1.8
+    May 5, 2021
+    3.1.7
+    May 4, 2021
+    3.1.6
+    Apr 9, 2021
+    3.1.5
+    Mar 24, 2021
+    3.1.4
+    Feb 4, 2021
+    3.1.3
+    Dec 23, 2020
+    3.1.2
+    Dec 1, 2020
+    3.1.1
+    Nov 11, 2020
+    3.1
+    Oct 28, 2020
+    3.0.1
+    Jul 15, 2020
+    3.0
+    Jun 25, 2020
+    2.1
+    Apr 3, 2018
+    2.0
+    Jul 17, 2017
+    1.5
+    Mar 31, 2017
+    1.4.28
+    Mar 2, 2017
+    1.4.27
+    Jan 23, 2017
+    1.4.26
+    Dec 20, 2016
+    1.4.25
+    Oct 22, 2016
+    1.4.20
+    Oct 18, 2016
+    1.4.19
+    Aug 16, 2016
+    1.4.18
+    Mar 10, 2016
+    1.4.17
+    Feb 26, 2016
+    1.4.16
+    Jan 11, 2016
+    1.4.15
+    Dec 15, 2015
+    1.4.14
+    Oct 29, 2015
+    1.4.13
+    Oct 2, 2015
+    1.4.12
+    Sep 17, 2015
+    1.4.11
+    Sep 2, 2015
+    1.4.10
+    Aug 5, 2015
+    1.4.9
+    Jun 19, 2015
+    1.4.8
+    Jun 18, 2015
+    1.4.7
+    Jun 4, 2015
+    1.4.6
+    Apr 23, 2015
+    1.4.5
+    Apr 5, 2015
+    1.4.4
+    Mar 4, 2015
+    1.4.3
+    Feb 26, 2015
+    1.4.2
+    Feb 16, 2015
+    1.4.1
+    Dec 17, 2014
+    1.4.0
+    Oct 31, 2014
+    1.3.6
+    Oct 1, 2014
+    1.3.5
+    Sep 19, 2014
+    1.3.4
+    Sep 3, 2014
+    1.3.3
+    Aug 13, 2014
+    1.3.2
+    Aug 1, 2014
+    1.3.1
+    Jul 27, 2014
+    1.3.0
+    Jul 16, 2014
+    1.2.2
+    Jun 1, 2014
+    1.1
+    Apr 27, 2014
+    1.0.8
+    Apr 17, 2014
+    1.0.7
+    Apr 3, 2014
+    1.0.6
+    Apr 2, 2014
+    1.0.4
+    Mar 24, 2014
+    1.0.3
+    Mar 8, 2014
+    1.0.1
+    Feb 28, 2014
+
+See More
+Top In-App Purchases
+
+    Pro Features
+    $3.99
+    Yearly Pro Subscription
+    $23.99
+    Pro Lifetime
+    $39.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Feb 28, 2014
+
+Worldwide Release Date
+    Feb 28, 2014
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    3.4.1
+
+Size
+    194.37 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Hybridity Media Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.1 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    co.igenerate.Generate
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 808563377
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Generate:Video Photo Effects | data.ai

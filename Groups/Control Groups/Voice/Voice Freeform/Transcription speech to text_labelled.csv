@@ -1,0 +1,45 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.7.5,2024-01-09,1. Live Activity Support: New Feature! Track your transcription progress in real time with our live activity feature. Experience a more interactive and engaging way to monitor your tasks. 2. Various Improvements: Enjoy smoother and more efficient app performance with our latest improvements. Need Help If you experience any issues please reach out to us at support transcription.today for assistance.,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.21,2023-07-13,UI improovments If you expirience any issue pleasse email us support transcrition.today,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.20,2023-05-01,Fix for exporting ZIP archive If you expirience any issue pleasse email us support transcrition.today,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.17,2023-04-30,Continue recording in a background If you expirience any issue pleasse email us support transcrition.today,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.15,2023-04-26,Continue recording in a background If you expirience any issue pleasse email us support transcrition.today,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.13,2023-04-22,Continue recording in a background If you expirience any issue pleasse email us support transcrition.today,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.12,2023-04-16,stability improovments If you expirience any issue pleasse email us support transcrition.today,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.10,2023-04-08,Merge transcriptions in one file Ui fixes If you expirience any issue pleasse email us support transcrition.today,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.8,2023-03-31,Stability improovments and fixes If you expirience any issue pleasse email us support transcrition.today,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.6,2023-03-23,Fixed resuming dictation Ui fixes,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5.5,2023-03-15,Sequential execution of multiple on device transcriptions Localizations,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.5,2023-02-27,Pause on device transcription of pre recordered audio video,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.4,2023-02-09,App loading times improoved Fixes for starting on device transcription for pro subscribers If you expirince any issues please email us support transcription.today,0,0,0,0,0,0,0,1
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.3.1,2023-01-27,Fixes. Reccomeded update.,0,0,0,0,0,0,0,1
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.3.0,2023-01-19,Share edit link fix for export not appearing on small sized iPhones Shortcuts for Search Bold and Italic,0,0,0,0,0,0,1,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.2.0,2023-01-08,Advanced export with timestamps,0,0,0,0,0,0,1,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.1.1,2022-12-29,Fixes for search and UI,0,0,0,0,0,0,1,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.1.0,2022-12-27,Search through transcription,0,0,0,0,0,0,1,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.0.2,2022-12-04,Export original media audio video Download audio from cloud on paired devices,0,0,0,0,0,1,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.0.1,2022-12-03,fix for crash on iPad on opening voice recorder,0,0,0,0,0,1,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,2.0,2022-12-01,Transctribe on device pre recordered videos and audios,0,0,0,0,0,1,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.9.6,2022-10-30,Invite friends with the new referral program and you both will get 30 bonus minutes,0,0,0,0,1,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.9.5,2022-10-12,Fixes for transcription editor,0,0,0,1,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.9.4,2022-09-22,Onboarding Localizations for many lanugages,0,0,1,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.9.2,2022-09-07,Onboarding Localizations for many lanugages,0,0,1,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.9.1,2022-08-12,Added 7 days trial for yearly Pro subscription New and shiny subscribe screen Small fixes,0,1,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.9.0,2022-08-08,added Delete account option Added review balance Settings screen revorked to look nice Fixes for language selection in dictaphone,0,1,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.8,2022-06-30,Transcription deletion synchronization across devices Renaming transcriptions,1,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.7,2022-06-05,Bla bla bla best app blah blah fewer bugs If you need assistance please email us at support transcription.today Have a nice day! :,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.6.1,2022-06-01,Blah blah blah better app. Blah blah less bugs. If you need help please email us at support transcription.today Have a nice day! :,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.5.2,2022-05-15,Just regular update. If you have any questions email us support transcription.today,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.5.1,2022-04-28,Stability improvements,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.5.0,2022-04-23,Dictaphone and real time transcription. If you need help please contact us by email: support transcription.today Please rate us on the AppStore if you like the app.,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.4.6,2022-02-17,Regular update with fixes and minor changes,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.4.5,2022-01-21,Export Subtitles for your videos with Pro subscription Plus words highlighting fixed,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.4.3,2022-01-12,Small fixes and stability improvements,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.4.1,2022-01-06,Balance overview added,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.4.0,2022-01-02,Edit transcriptions on any Mac or PC in browser with Pro subscription.,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.3.8,2021-11-07,Try Pro subscription with 3 day trial,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.3.9,2021-11-07,Stability improvements,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.3.7,2021-11-02,Performance and stability improvements,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.3.5,2021-11-01,Bug fixes and stability improvements,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.2,2021-10-23,Small fixes and voice memos hint added,0,0,0,0,0,0,0,0
+1581457824,0,Transcription speech to text,Utilities,2021-10-19,2021-10-19,43.26,32,0,0,1,1.1,2021-10-19,,0,0,0,0,0,0,0,0

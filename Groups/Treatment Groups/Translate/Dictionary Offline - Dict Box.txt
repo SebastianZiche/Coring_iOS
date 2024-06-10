@@ -1,0 +1,615 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Dictionary Offline - Dict Box
+XungReference (Applications)Free
+Alerts
+
+Persian Dictionary - Dict Box
+Dictionary Offline - Dict Box
+Dictionary Offline - Dict Box
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Dictionary Offline - Dict Box
+Dictionary for All Languages
+Reference (Applications)
+Free
+App Description
+Dict Box is an offline dictionary & translator app for 50+ languages.
+
+No internet connection required.
+Fast, convenient & easy to use.
+Very smart word suggestions.
+All dictionaries in one place.
+Translate text directly in the web browser and other apps.
+Offline text pronunciation.
+Picture dictionary.
+Word reminder.
+Plenty of dictionaries available to install.
+
+And a lot more useful features.
+
+The following languages are supported by Dict Box:
+English, Spanish, Arabic, French, Portuguese, Russian, German, Turkish, Vietnamese, Japanese, Korean, Chinese, Italian, Persian, Farsi, Thai, Hebrew, Urdu, Dutch, Kurdish, Indonesian, Malay, Hindi, Pashto, Swedish, Danish, Greek, Polish, Romanian, Ukrainian, Esperanto.
+
+
+
+
+***Upgrade to Premium to unlock advanced features***
+
+- Ad-free experience
+- Urban dictionary
+- Picture dictionary
+- Backup & sync word lists across devices & platforms
+
+
+You can pay once for Premium
+or choose from 2 subscription options
+- a yearly subscription.
+- a monthly subscription.
+
+
+– Payment will be charged to iTunes Account at confirmation of purchase.
+
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+
+Privacy Policy: https://xung.app/privacy-policy/
+Terms: https://xung.app/terms-of-service/
+Ratings
+Displayed Avg Ratings
+4.61
+Total Displayed Ratings
+23.6k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 12.14.22 (Dec 19, 2023)
+    Fix some deprecated APIs
+Version 12.14.12 (Nov 28, 2022)
+    Fix a crash when using voice search feature on iOS 16
+Version 12.13.77 (Jan 24, 2022)
+    - iOS 15 full compatibility
+    - Bug fixes and UI improvements
+Version 12.13.34 (Jun 9, 2021)
+    fix a crash in last version
+Version 12.13.33 (Apr 8, 2021)
+    bug fix: "ads appear in Premium version"
+Version 12.13.29 (Apr 1, 2021)
+    - iOS14 full compatibility
+    - Bug fixes
+Version 12.13.20 (Mar 21, 2020)
+    - add a lot of common word lists
+    - fix "image search doesn't work"
+    - improve app's performance
+
+Version 12.13.16 (Feb 3, 2020)
+    - fix "Image Search did not work"
+    - other minor bugfixes
+Version 12.13.12 (Dec 16, 2019)
+    - fix some bugs on iOS13
+    - fix "Image search did not work"
+    - fix some deprecated APIs
+Version 12.12.94 (Oct 14, 2019)
+    - iOS13 support
+    - fix a lot of deprecated APIs
+    - A lot of UI improvements
+    + move search button to bottom
+    + improve word list screen UI
+    + improve live translation
+    ...
+Version 12.12.31 (Nov 18, 2018)
+    - fix some deprecated APIs
+    - Voice Search now works with non-English languages
+    - improve Live Translation
+    - other bugfixes & improvements
+Version 12.12.19 (Sep 29, 2018)
+    - iOS12 compatibility
+    - bring back Word Suggestions
+    - fix bugs related to selecting images
+    - other bugfixes & improvements
+Version 12.11.90 (Aug 9, 2018)
+    - ability to set default English Accent (US, UK or AU)
+    - show preview meaning when search
+    - fix bug related to iOS 11 navigation bar
+    - save / restore last word of Flashcard
+    - improve UI of Live Translation
+    - other bug fixes & improvements
+Version 12.11.67 (Feb 26, 2018)
+    bug fixes related to UI & transferring data from individual versions
+Version 12.11.66 (Feb 12, 2018)
+    bugfixes for iPhone X
+    more localizations
+Version 12.11.57 (Jan 28, 2018)
+    bug fixes for iPhone X
+    better support for transferring data from other versions.
+    fix some text
+Version 12.11.56 (Jan 22, 2018)
+    Fix UI for iPhone X
+    Remove auto-renewable subscriptions
+Version 12.11.51 (Oct 13, 2017)
+    iOS 11 optimizations
+    Improve UI
+    bugfixes
+Version 12.11.24 (Jul 4, 2017)
+    bugfixes for IAP
+Version 12.11.19 (Jun 25, 2017)
+    bugfixes & improvements
+Version 12.11.04 (Mar 23, 2017)
+    bugfixes
+Version 12.9.89 (Jan 22, 2017)
+    iOS 10 support
+Version 12.9.58 (Jul 18, 2016)
+    fix Image Search
+Version 12.9.51 (Jun 28, 2016)
+    bugfixes
+    au, us. uk pronunciation
+Version 12.9.29 (May 9, 2016)
+    - Fix Word Reminder
+Version 12.9.28 (May 6, 2016)
+    - Bring back Live Translation
+    - Improve "Review words with Pictures"
+    - Improve "Word Reminder"
+Version 12.9.27 (May 3, 2016)
+    - Improve UI
+    - Bugfixes
+Version 12.9.24 (Apr 19, 2016)
+    - improve "Review words with pictures"
+    - new clear font
+    - move sound button to bottom bar
+    - less ads
+Version 12.9.21 (Mar 24, 2016)
+    - Linking with new Translator
+    - Add thesaurus
+    - Bugfixes
+Version 12.9.19 (Mar 17, 2016)
+    - minor bugfix
+Version 12.9.16 (Mar 5, 2016)
+    - better/prettier UI
+    - bugfixes
+    - back forward buttons
+Version 12.7.6 (Oct 24, 2015)
+    - Multiple dictionaries in multiple languages are available for download.
+Version 12.6.12 (Oct 11, 2015)
+    - Live Translation for iOS 9
+    - iPad multitasking support with auto clipboard feature
+    - iPad better UI
+Version 12.6.2 (Sep 28, 2015)
+    - iPad multitasking support for iOS9
+    - Today Widget
+Version 12.5.8 (Aug 21, 2015)
+    - Live Translation: select a word in other app, tap copy to translate without opening Dict Box
+    - Improve UI
+Version 11.8.4 (Jun 3, 2015)
+    - Bugfixes
+    - New UI for ‘Review words with Pictures’
+    - Better topbar
+    - Word reminder
+    - Ability to select image from Photo camera
+Version 10.9.3 (Feb 27, 2015)
+    - Two fingers tap to quick search
+    - Word suggestion option
+    - New feature: Ability to select another image
+Version 10.0.0 (Jan 3, 2015)
+    - iOS8, iPhone 6/6 Plus compatibility
+    - New feature: Ability to select another image
+    - New feature: Ability to pronounce a word list continuously in background
+    - Better UI for iPhone
+    - Instantly translate if the text is not found in dictionaries
+    - Save translator settings for next use
+    - Ability to add words to multiple bookmark lists
+    - Minor bugfixes & improvements
+Version 9.36.1 (Oct 28, 2014)
+    - iOS8 compatibility
+    - Instantly translate if the text is not found in dictionaries
+    - Save translator settings for next use
+    - Ability to add words to multiple bookmark lists
+    - Minor bugfixes & improvements
+Version 9.35.4 (Oct 8, 2014)
+    - iOS8 compatibility
+    - Instantly translate if the text is not found in dictionaries
+    - Save translator settings for next use
+    - Ability to add words to multiple bookmark lists
+    - Minor bugfixes & improvements
+Version 9.31.0 (Aug 16, 2014)
+    - Ability to add word in to different bookmark lists
+    - Ability to import/export word lists from/to Dropbox
+    - Fix crash bug on iPad air, iPhone 5S
+    - Show/sort word count in history
+    - Highlight tapped word
+    - Memory & Performance optimization
+Version 9.20.0 (May 5, 2014)
+    - Fix crash bug on iPad air, iPhone 5S
+    - Highlight tapped word
+    - Memory & Performance optimization
+    - Fix conflicts between tap & double tap
+    - Show word count in history
+    - Flashcards: support learning words by frequency in multiple languages
+    - Flashcards: ability to delete word in flashcards list
+    - UI adjustments
+    - Tap Mode is set as Default
+    - New icon
+    - Auto pronunciation option
+    - Better dictionary/content quality
+    - Better tap mode -> Ability to select 2 or 3 words
+    - bugfixes
+Version 9.1.2 (Jan 14, 2014)
+    Ability to create multiple word lists and manage them (copy,select,arrange,…)
+    Ability to sync all word lists across multiple devices with Dropbox
+    Ability to search words across all words list (History, Notes, …)
+    Ability to shuffle/edit flash cards
+    Ability to change image if the image doesn’t match
+    Faster offline sound downloading
+    Ability to change speed of flashcards
+    Option to enable/disable auto hide bottom bar
+    Minor improvements + bugfixes
+Version 8.0 (Nov 19, 2013)
+    - No more stop music when speaking words
+    - Beautiful UI for iOS7
+    - Ability to quickly navigate between dictionaries
+    - No more stopping background music when speaking words
+    - Random crash bug fix
+    - Better animation when search
+    - Prettier icon
+    - Introduce auto clipboard mode to show meaning of word in clipboard right after app opens
+    - Better image quality/adult filter for Picture Dictionary
+    - Better UI for taking note
+Version 7.11.3 (Oct 4, 2013)
+    - iOS 7 bugfixes
+    - Freeze bugfix
+    - view Flash Cards as List
+    - UI Improvements
+Version 7.10.5 (Sep 17, 2013)
+    - iOS 7 support & bugfixes
+    - WOW, Flash Cards
+    - Ability to add new words to Dictionary
+    - Ability to backup/restore wordbooks (history,bookmarks,notes) with Dropbox
+    - More dictionaries
+    - UI improvements
+    - Glosbe integration
+Version 7.9.6 (Sep 14, 2013)
+    - WOW, Flash Cards
+
+    - Ability to add new words to Dictionary
+
+    - Ability to backup/restore wordbooks (history,bookmarks,notes) with Dropbox
+
+    - More dictionaries
+
+    - UI improvements
+
+    - Glosbe integration
+
+    - Bugfixes
+Version 7.2 (Jul 22, 2013)
+    - UI revamp
+
+    - Speaker UI redesign: play sound directly inside dictionary
+
+    - Ability to play sound directly in wordbooks
+
+    - Ability to search notes content
+
+    - Minor UI changes and bugfixes
+
+Version 6.18 (May 17, 2013)
+    - ability to select to translate with gooogle translate
+
+    - ability to back from online mode to offline mode (iPhone)
+
+    - toolbars redesigned
+
+    - iPad UI revamp
+
+    - ability to sort bookmarks, history, notes by name and date
+
+    - double tap to quickly navigate to new dictionary
+
+    - various bug fixes
+Version 6.11.1 (Mar 9, 2013)
+    - add English sound button to bottom bar so you don't have to scroll up to listen pronunciation
+
+    - add word to history when "quick look up"
+
+    - fix a critical bug on iPad iOS4
+
+    - faster searching at the first launch
+
+    - iPad - redesign: bookmarks, history, notes now can be viewed while viewing word meaning.
+
+Version 6.5.1 (Feb 24, 2013)
+    - add ability to add note to a word
+    - able to go back/forward when looking up web dictionaries
+    - relayout icons, no more annoying buttons on the right side
+    - minor bugfixes and improvements
+Version 6.3.5 (Feb 7, 2013)
+    - removed bottom adbanner to make app run faster
+    - support synonyms and related words -> more meaning show when looking up a word
+    - show meaning in the word list when looking up
+    - nicer & better UI for preferences
+    - introduce paste button, so you can easily paste the word from clipboard into search box.
+    - better UI for quick lookup bar
+    - minor bugfixes
+Version 1.0 (Jan 9, 2013)
+
+Users may also like
+Select objects to compare
+English Dictionary - Offline
+Oxford Dictionary
+Dictionary.
+Fastdic - Fast Dictionary
+WordWeb Dictionary
+Longman Dictionary of English
+English Listening - 6mins
+Dictionary & Translator
+WordUp - Vocabulary Builder
+Dictionary.com: English Words
+IQ Classifications
+Genre: Books & Reference
+Subgenre: Dictionary
+Dictionary
+Apps where users can check words' meaning, pronunciation, origin and usage.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+11 times
+on App Store category pages
+Versions
+
+    12.14.22
+    Current release
+    Dec 19, 2023
+    12.14.12
+    Nov 28, 2022
+    12.13.77
+    Jan 24, 2022
+    12.13.34
+    Jun 9, 2021
+    12.13.33
+    Apr 8, 2021
+    12.13.29
+    Apr 1, 2021
+    12.13.20
+    Mar 21, 2020
+    12.13.16
+    Feb 3, 2020
+    12.13.12
+    Dec 16, 2019
+    12.12.94
+    Oct 14, 2019
+    12.12.31
+    Nov 18, 2018
+    12.12.19
+    Sep 29, 2018
+    12.11.90
+    Aug 9, 2018
+    12.11.67
+    Feb 26, 2018
+    12.11.66
+    Feb 12, 2018
+    12.11.57
+    Jan 28, 2018
+    12.11.56
+    Jan 22, 2018
+    12.11.51
+    Oct 13, 2017
+    12.11.24
+    Jul 4, 2017
+    12.11.19
+    Jun 25, 2017
+    12.11.04
+    Mar 23, 2017
+    12.9.89
+    Jan 22, 2017
+    12.9.58
+    Jul 18, 2016
+    12.9.51
+    Jun 28, 2016
+    12.9.29
+    May 9, 2016
+    12.9.28
+    May 6, 2016
+    12.9.27
+    May 3, 2016
+    12.9.24
+    Apr 19, 2016
+    12.9.21
+    Mar 24, 2016
+    12.9.19
+    Mar 17, 2016
+    12.9.16
+    Mar 5, 2016
+    12.7.6
+    Oct 24, 2015
+    12.6.12
+    Oct 11, 2015
+    12.6.2
+    Sep 28, 2015
+    12.5.8
+    Aug 21, 2015
+    11.8.4
+    Jun 3, 2015
+    10.9.3
+    Feb 27, 2015
+    10.0.0
+    Jan 3, 2015
+    9.36.1
+    Oct 28, 2014
+    9.35.4
+    Oct 8, 2014
+    9.31.0
+    Aug 16, 2014
+    9.20.0
+    May 5, 2014
+    9.1.2
+    Jan 14, 2014
+    8.0
+    Nov 19, 2013
+    7.11.3
+    Oct 4, 2013
+    7.10.5
+    Sep 17, 2013
+    7.9.6
+    Sep 14, 2013
+    7.2
+    Jul 22, 2013
+    6.18
+    May 17, 2013
+    6.11.1
+    Mar 9, 2013
+    6.5.1
+    Feb 24, 2013
+    6.3.5
+    Feb 7, 2013
+    1.0
+    Jan 9, 2013
+
+See More
+Top In-App Purchases
+
+    Premium Version
+    $19.99
+    Premium Version Monthly
+    $5.99
+    Premium Version Yearly
+    $9.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Jan 9, 2013
+
+Worldwide Release Date
+    Jan 9, 2013
+
+Last Updated Time
+    Feb 22, 2024
+
+Version
+    12.14.22
+
+Size
+    95.39 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Russian, Vietnamese
+
+Seller
+    Xung Le
+
+Company HQ
+    Vietnam
+
+Content Rating
+    Rated 9+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.gnux.dictionary
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 587444069
+Unified App ID: 1000800000176932
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Dictionary Offline - Dict Box | data.ai

@@ -1,0 +1,697 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Alight Motion
+Alight CreativePhoto and Video (Applications)Free
+Alerts
+
+Alight Motion
+Alight Motion
+Alight Motion
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Alight Motion
+Motion Design & Video Effects
+Photo and Video (Applications)
+Free
+Published by Bending Spoons
+App Description
+Be part of the movement! Alight Motion is the first professional motion design app for your smartphone for iPhone, iPad, and Mac, bringing you professional-quality animation, motion graphics, visual effects, video editing, video compositing, and more!
+
+• Multiple layers of graphics, video, and audio
+• Vector and bitmap support (edit vector graphics right on your phone!)
+• 160+ basic effect building blocks that can be combined to create sophisticated visual effects
+• Keyframe animation available for all settings
+• Link parent and child layers and rig character joints
+• Cameras that pan, zoom, and support focus blur and fog
+• Grouping and Masking
+• Color Adjustment
+• Animation easing for more fluid motion: Pick from presets or build your own timing curves
+• Bookmarks for ease of editing
+• Velocity-based motion blur
+• Export MP4 video, GIF animation, PNG sequences, and stills
+• Share project packages with others
+• Solid color and gradient fill effects
+• Border, shadow, and stroke effects
+• Custom font support
+• Copy and paste entire layers or just their style
+• Save your favorite elements for easy re-use in future projects
+
+Alight Motion is free to use with basic features and a watermark on videos you create. There are several paid membership options in the app to remove the watermark and access a regularly updated library of premium effects and features. These subscription membership options are charged when you select to purchase them, and renew automatically unless canceled at least 24 hours prior to the beginning of the next subscription period. After purchasing, subscriptions can be managed in your Apple ID settings. You can find more information about subscriptions at https://alightcreative.com/support
+
+Terms of Service: alightcreative.com/tos
+Privacy Policy: alightcreative.com/privacy
+Ratings
+Displayed Avg Ratings
+4.22
+Total Displayed Ratings
+156k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.2.4 (Jan 29, 2024)
+    Bug fixes and performance improvements.
+Version 6.2.3 (Jan 17, 2024)
+    Bug fixes and performance improvements.
+Version 6.2.2 (Jan 8, 2024)
+    Bug fixes and performance improvements.
+Version 6.2.1 (Dec 11, 2023)
+    Bug fixes and performance improvements.
+Version 6.1.1 (Nov 3, 2023)
+    Bug fixes and performance improvements.
+Version 6.1.0 (Oct 31, 2023)
+    Bug fixes and performance improvements.
+Version 6.0.0 (Oct 9, 2023)
+    Please enjoy a few bug fixes and performance improvements! :D
+Version 5.2.1 (Sep 28, 2023)
+    This update contains an important bug fix for users on iOS 17. Please reach out to our customer support if the issues persist! Enjoy!! :D 
+Version 5.1.0 (Aug 7, 2023)
+    Just a few bug fixes to make the best out of your experience! Enjoy!
+Version 5.0.3 (Aug 4, 2023)
+    Just a few bug fixes to make the best out of your experience! Enjoy!
+Version 5.0.2 (Jul 6, 2023)
+    Bug fixes and performance improvements
+Version 5.0.1 (Jun 1, 2023)
+    Bug fixes and performance improvements
+Version 5.0.0 (May 29, 2023)
+    P-R-E-S-E-T-S are here!—Save & share your own or download pre-made Presets from the Templates tab
+Version 4.5.14 (May 25, 2023)
+    - 3 New Effects: Chromatic Zoom Blur, Color Balance, Warp Blur
+Version 4.5.12 (May 8, 2023)
+    New Media Scaling Behavior: fill, fit, or stretch media when you replace them in the Template Editor or within the Color & Fill menu of your layers!
+Version 4.5.11 (May 4, 2023)
+    Bug fixes and performance improvements
+Version 4.5.9 (May 2, 2023)
+    Bug fixes and performance improvements
+Version 4.5.8 (Apr 27, 2023)
+    Bug fixes and performance improvements
+Version 4.5.7 (Apr 24, 2023)
+    Bug fixes and performance improvements
+Version 4.5.6 (Apr 17, 2023)
+    Bug fixes and performance improvements
+Version 4.5.5 (Apr 3, 2023)
+    Bug fixes and performance improvements
+Version 4.5.4 (Mar 29, 2023)
+    Add Templates to your projects as a group: open a project, tap on the + button and add a template with quick media replacement.
+Version 4.5.3 (Mar 27, 2023)
+    Bug fixes and performance improvements
+Version 4.5.2 (Mar 24, 2023)
+    - 5 New Effects: Advanced Chroma Key, Key Spill Cleaner, Matte Fringe, Energy Beam, Grunge
+    - Effects Parameter Enhancement feature
+Version 4.5.1 (Mar 13, 2023)
+    Bug fixes and performance improvements
+Version 4.5.0 (Mar 8, 2023)
+    New Templates Tab & Template Editor: find all your imported templates in one place and quickly replace original media with your own!
+Version 4.4.8 (Feb 27, 2023)
+    Bug fixes and performance improvements
+Version 4.4.7 (Feb 13, 2023)
+    Bug fixes and performance improvements
+Version 4.4.6 (Feb 6, 2023)
+    Bug fixes and performance improvements
+Version 4.4.5 (Feb 1, 2023)
+    Bug fixes and performance improvements
+Version 4.4.3 (Jan 24, 2023)
+    Bug fixes and performance improvements
+Version 4.4.2 (Jan 9, 2023)
+    Bug fixes and performance improvements
+Version 4.4.1 (Dec 19, 2022)
+    Bug fixes and performance improvements
+Version 4.4.1 (Dec 19, 2022)
+    Bug fixes and performance improvements
+Version 4.4.0 (Dec 13, 2022)
+    Bug fixes and performance improvements
+Version 4.3.6 (Dec 5, 2022)
+    - New Effects: Echo Keyframes, Unsharp masks
+    - Bug Fixes
+Version 4.3.5 (Nov 21, 2022)
+    Bug fixes and performance improvements
+Version 4.3.3 (Nov 2, 2022)
+    Bug fixes and performance improvements
+Version 4.3.2 (Oct 24, 2022)
+    Bug fixes and performance improvements
+Version 4.3.1 (Oct 20, 2022)
+    Bug fixes and performance improvements
+Version 4.3.0 (Oct 17, 2022)
+    - New Effects: Raster Extrude, Contour Strips, and Star Polyhedron
+    - Bug Fixes
+Version 4.2.8 (Oct 10, 2022)
+    Bug fixes and performance improvements
+Version 4.2.7 (Oct 4, 2022)
+    Bug fixes and performance improvements
+Version 4.2.6 (Sep 27, 2022)
+    Bug fixes and performance improvements
+Version 4.2.5 (Sep 13, 2022)
+    Bug fixes and performance improvements
+Version 4.2.4 (Sep 5, 2022)
+    Bug fixes and performance improvements
+Version 4.2.3 (Aug 22, 2022)
+    Bug fixes and performance improvements
+Version 4.2.2 (Aug 11, 2022)
+    Bug fixes and performance improvements
+Version 4.2.1 (Jul 27, 2022)
+    Bug fixes and performance improvements
+Version 4.2 (Jun 23, 2022)
+    • Clipping Mask
+    • Bug fixes and performance improvements
+Version 4.1.1 (May 6, 2022)
+    Bug fixes and performance improvements
+Version 4.1 (Apr 28, 2022)
+    • New Effects: Streak Strips, Page Curl, Luma Stamper
+    • Minor account management improvements
+    • Bug fixes and performance improvements
+Version 4.0.3 (Jan 21, 2022)
+    Bug fixes and performance improvements
+Version 4.0.2 (Nov 19, 2021)
+    Bug fixes and performance improvements
+Version 4.0.1 (Nov 17, 2021)
+    Bug fixes and performance improvements.
+Version 4.0 (Nov 15, 2021)
+    Alight Motion 4.0 gives you powerful new tools to build sophisticated, dynamic scenes!
+
+    Coordinate complex animations by using parenting to link layers and rig character joints, then easily add dynamic motion or cut between shots with moving 2.5D cameras. And because all layers now have a Z coordinate in addition to X and Y, you can use cameras to create parallax motion and zoom through layers as well!
+
+    We’ve also been working hard to make your editing process more convenient. You can zoom in for detailed editing with a simple pinch gesture, and use two fingers to pan around your project. The improved media browser allows you to add multiple images or videos at once. You can even copy parts of a layer’s style, which can include everything from its position, color, opacity, effects, and even animations, and paste it to another layer.
+
+    In addition to functional changes, we have also been working very hard to improve rendering performance. Preview lag should be greatly reduced in this update, or totally eliminated for many projects. Of course, Alight Motion is built without limits, allowing you the ultimate in flexibility, which means you can always build projects that are so complex that preview lag becomes unavoidable, but with 4.0 you can push the limits further than ever before, and we’ll keep working to find ways to squeeze out even more performance.
+
+    We’re really excited about this update, and can’t wait to see what you create with it!
+
+    Here’s a partial list of new and improved features:
+
+    • Camera Objects
+    • Layer Parenting
+    • Z Coordinate
+    • Preview Pan and Zoom
+    • Layer Solo/Opacity
+    • Null Objects
+    • Pixel Preview
+    • Layer Style Copy & Paste
+    • Grid
+    • New Effects: Scale Assist, Parenting Helper, and Raster Transform
+    • Improved Effects: Random Jitter, Oscillate, Auto Shake
+    • Improved Media Browser
+    • Bug fixes and performance improvements
+Version 3.10 (Oct 6, 2021)
+    • New Effects: Soft Glow, Light Glow, Edge Glow
+    • Bug Fixes
+Version 3.9 (Jul 8, 2021)
+    • New Effects: Omino Diffusion+, Omino Glass, Dark Glow
+    • Bug Fixes
+Version 3.8 (Jun 2, 2021)
+    • New Effects: Fill Behind, Magnify Background
+    • Bug Fixes
+Version 3.7 (Apr 13, 2021)
+    • New Effects: Hollow Box, Electric Edges, Smooth Edges
+    • Improved the Oscillate effect (it’s much easier to adjust now!)
+    • New frame rate options: 18fps, 20fps
+    • Added Thai and Malay translations
+Version 3.6.2 (Feb 1, 2021)
+    Bug fixes and performance improvements
+Version 3.6.1 (Dec 17, 2020)
+    • Brand new Effect Browser with search, favorites, recently used effects, and presets!
+    • New Effects: Hexagon Tile Rotate, Hexagon Tile Shift
+    • Improved Effects: Dots, Turbulence, Luma Key, Motion Blur, Flip Layer, Solid Matte
+    • Most effects have been fine-tuned: Clearer parameter names and more sensible numeric scales
+    • New Effect Guide includes a detailed explanation and instructions for each effect
+    • On iPhone, when editing a shape, Lock Aspect Ratio and Size from Center buttons are now available
+    • Apple M1 Support! Alight Motion now runs on Mac, and we’ve improved the user experience when using a mouse
+    • Basic keyboard support for Mac and iPad: ⌘Z to Undo, ⇧⌘Z to Redo, ⌘A to select all, ⌘D to deselect, and left/right arrow keys to scroll timeline by one frame
+    • Media Browser now supports photos and videos in shared albums
+    • Lots of bug fixes and performance improvements
+Version 3.6 (Dec 15, 2020)
+    • Brand new Effect Browser with search, favorites, recently used effects, and presets!
+    • New Effects: Hexagon Tile Rotate, Hexagon Tile Shift
+    • Improved Effects: Dots, Turbulence, Luma Key, Motion Blur, Flip Layer, Solid Matte
+    • Most effects have been fine-tuned: Clearer parameter names and more sensible numeric scales
+    • New Effect Guide includes a detailed explanation and instructions for each effect
+    • On iPhone, when editing a shape, Lock Aspect Ratio and Size from Center buttons are now available
+    • Apple M1 Support! Alight Motion now runs on Mac, and we’ve improved the user experience when using a mouse
+    • Basic keyboard support for Mac and iPad: ⌘Z to Undo, ⇧⌘Z to Redo, ⌘A to select all, ⌘D to deselect, and left/right arrow keys to scroll timeline by one frame
+    • Media Browser now supports photos and videos in shared albums
+    • Lots of bug fixes and performance improvements
+Version 3.5.3 (Nov 15, 2020)
+    Bug fixes and performance improvements
+Version 3.5.2 (Oct 22, 2020)
+    • New Effects: Linear Streak, Spin Streak, Zoom Streak.
+    • Improved Effect: Bend.
+    • Improved vector point keyframe indicators.
+    • Warn if there are missing fonts when opening a project.
+    • Disable the HEVC export option for phones that don’t support HEVC encoding (it was mistakenly enabled, and would cause export to fail if selected).
+    • Support for system fonts and custom fonts installed at the system level (to use this feature, first enable it in the side menu on the Alight Motion home screen).
+    • Fix issue where custom fonts could not be imported if a font of the same name was already installed at the system level.
+    • Fix incorrect rendering of PNG images with transparency on some devices.
+    • Free some space by using device storage more efficiently.
+    • Bug Fixes and Performance Improvements.
+Version 3.5.1 (Oct 21, 2020)
+    • New Effects: Linear Streak, Spin Streak, Zoom Streak.
+    • Improved Effect: Bend.
+    • Improved vector point keyframe indicators.
+    • Warn if there are missing fonts when opening a project.
+    • Disable the HEVC export option for phones that don’t support HEVC encoding (it was mistakenly enabled, and would cause export to fail if selected).
+    • Support for system fonts and custom fonts installed at the system level (to use this feature, first enable it in the side menu on the Alight Motion home screen).
+    • Fix issue where custom fonts could not be imported if a font of the same name was already installed at the system level.
+    • Fix incorrect rendering of PNG images with transparency on some devices.
+    • Free some space by using device storage more efficiently.
+    • Bug Fixes and Performance Improvements.
+Version 3.5 (Oct 20, 2020)
+    • New Effects: Linear Streak, Spin Streak, Zoom Streak
+    • Improved Effect: Bend
+    • Improved vector point keyframe indicators
+    • Warn if there are missing fonts when opening a project
+    • Disable HEVC option on phones that don’t support HEVC encoding (it was mistakenly enabled, and would cause export to fail if selected).
+    • Support for system fonts and custom fonts installed at the system level (to use this feature, first enable it in the side menu on the Alight Motion home screen).
+    • Fix issue where custom fonts could not be imported if a font of the same name was already installed at the system level.
+    • Fix incorrect rendering of PNG images with transparency on some devices
+    • Free some space by using device storage more efficiently
+    • Bug Fixes and Performance Improvements
+Version 3.4.4 (Sep 21, 2020)
+    Bug fixes and performance improvements
+Version 3.4.3 (Sep 14, 2020)
+    • Bug fixes and Performance Improvements
+    • For uninterrupted use of the package download feature (including projects, presets and templates), please update to this version.
+Version 3.4 (Aug 24, 2020)
+    • You can now use keyframe animation with points in vector drawing layers!
+    • Vector drawing layers now support multiple contours
+    • We’ve added new built-in shapes
+    • Two new effects: Glow Scan, Bend
+    • Bug Fixes and Performance Improvements
+Version 3.3 (Jun 15, 2020)
+    • NEW Advanced Animation Easing Curves. Use these to create bounces, springs, repeating loops and more!
+    • New effects: Rays, Bump Map and Palette Map
+    • Blurs overhauled: Fast and Precise Box Blurs have been replaced with Gaussian Blur, a faster higher-quality blur.
+    • Mini color picker improved: Hue selection is much easier!
+    • Try premium effects and features before you buy!
+    • Fix color picker color accuracy problem
+    • Improve shape editing
+    • Lots of other bug fixes and performance improvements
+Version 3.2.1 (May 5, 2020)
+    • Improved effects: Pixelate, 360º Viewer, Swing, Pinch/Bulge
+    • New "Demo" mode limits media shown in browser: handy for live streams and screen recordings
+    • Fix issue with mini media browser sorting
+    • Fix font import issues
+    • Bug fixes and performance improvements
+Version 3.2 (Apr 15, 2020)
+    - New Effects: Stretch Segment, 360º Viewer, Pixelate
+    - Watermark location can be changed to top or bottom of project (except vertical projects)
+    - Bug fixes and performance improvements
+Version 3.1.2 (Mar 20, 2020)
+    It is now possible to export video with alpha transparency on iOS 13 and higher. Make sure your project has a transparent background, and select HEVC as the video codec when exporting.
+
+    This update also fixes several critical bugs, including problems with Review Play, and problems when editing groups.
+Version 3.1 (Mar 18, 2020)
+    • New Effects: Color Temperature, 360º Reorient Sphere, Four-color Gradient
+    • Timeline improvements for more precise trimming, splitting, and keyframe placement
+    • Bug fixes and performance improvements
+Version 3.0.5 (Feb 6, 2020)
+    Bug fixes and performance improvements
+Version 3.0.4 (Jan 25, 2020)
+    Bug fixes and performance improvements
+Version 3.0.3 (Jan 23, 2020)
+    • Add QR code option when sharing a project package
+    • Add localizations for more languages; we now support Arabic, Chinese (Simplified and Traditional), English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Spanish, Turkish, and Vietnamese
+    • Lots of bug fixes and performance improvements
+Version 3.0.2 (Jan 11, 2020)
+    Alight Motion 3.0.2
+    • You can now double-tap a layer in the preview to quickly jump to the most common editing mode for that layer type.
+    • All remaining missing effects have been added (see below for a complete list)
+    • Several effects have been updated or improved
+    • Many bug fixes and performance improvements
+
+    New Effects:
+    • Feather
+    • Move Along Path
+    • Mask Blur
+    • Matte Choker
+    • Glow
+    • Inner Glow
+    • Contour Gradient
+    • Contour Lines
+    • Smooth Bevel
+    • Stroke Taper
+    • Text Spacing
+    • Star Prism (3D)
+    • Channel Remap (HSV)
+    • Lightning
+    • Spectral Map
+    • Inner Blur
+    • Text Transform
+
+    Updated Effects:
+    • Turbulent Displace (add more settings and improve defaults)
+    • Repeat Along Path (fix incorrect spacing between repeated layer copies)
+    • Motion Blur (rotation and scale blur now work correctly in non-square projects such as 16:9)
+    • Drawing Progress (smoother steps)
+
+    As always, we welcome your feedback! Feel free to reach out to us at support@alightcreative.com any time with questions, suggestions or requests.
+Version 3.0.1 (Dec 29, 2019)
+    Alight Motion 3.0.1
+    • You can now replace photo or video media on an existing layer in the Color & Fill panel (very helpful if you're re-using downloaded presets).
+    • We fixed the problem where audio mute (volume set to zero) was sometimes ignored when exporting
+    • We fixed the problem where sometimes you couldn't save to the camera roll
+    • Lots of bug fixes and performance improvements: We've been working hard (and will keep working hard!) to improve stability.
+    To all the users who sent us feedback on the first release, a big thank-you from the whole Alight Motion team: You are helping us make Alight Motion better!
+Version 3.0 (Dec 22, 2019)
+
+Users may also like
+Select objects to compare
+Time Cut: Smooth Slow Motion
+TimeFreeze
+Velomingo: Velocity Edit Maker
+Compose Music Video Editor
+Blurrr-Music Video Editor APP
+Ultralight: Photo Video Editor
+Gacha Animator
+Video Star
+Funimate Video & Motion Editor
+Node Video
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+16 times
+on App Store category pages
+Versions
+
+    6.2.4
+    Current release
+    Jan 29, 2024
+    6.2.3
+    Jan 17, 2024
+    6.2.2
+    Jan 8, 2024
+    6.2.1
+    Dec 11, 2023
+    6.1.1
+    Nov 3, 2023
+    6.1.0
+    Oct 31, 2023
+    6.0.0
+    Oct 9, 2023
+    5.2.1
+    Sep 28, 2023
+    5.1.0
+    Aug 7, 2023
+    5.0.3
+    Aug 4, 2023
+    5.0.2
+    Jul 6, 2023
+    5.0.1
+    Jun 1, 2023
+    5.0.0
+    May 29, 2023
+    4.5.14
+    May 25, 2023
+    4.5.12
+    May 8, 2023
+    4.5.11
+    May 4, 2023
+    4.5.9
+    May 2, 2023
+    4.5.8
+    Apr 27, 2023
+    4.5.7
+    Apr 24, 2023
+    4.5.6
+    Apr 17, 2023
+    4.5.5
+    Apr 3, 2023
+    4.5.4
+    Mar 29, 2023
+    4.5.3
+    Mar 27, 2023
+    4.5.2
+    Mar 24, 2023
+    4.5.1
+    Mar 13, 2023
+    4.5.0
+    Mar 8, 2023
+    4.4.8
+    Feb 27, 2023
+    4.4.7
+    Feb 13, 2023
+    4.4.6
+    Feb 6, 2023
+    4.4.5
+    Feb 1, 2023
+    4.4.3
+    Jan 24, 2023
+    4.4.2
+    Jan 9, 2023
+    4.4.1
+    Dec 19, 2022
+    4.4.1
+    Dec 19, 2022
+    4.4.0
+    Dec 13, 2022
+    4.3.6
+    Dec 5, 2022
+    4.3.5
+    Nov 21, 2022
+    4.3.3
+    Nov 2, 2022
+    4.3.2
+    Oct 24, 2022
+    4.3.1
+    Oct 20, 2022
+    4.3.0
+    Oct 17, 2022
+    4.2.8
+    Oct 10, 2022
+    4.2.7
+    Oct 4, 2022
+    4.2.6
+    Sep 27, 2022
+    4.2.5
+    Sep 13, 2022
+    4.2.4
+    Sep 5, 2022
+    4.2.3
+    Aug 22, 2022
+    4.2.2
+    Aug 11, 2022
+    4.2.1
+    Jul 27, 2022
+    4.2
+    Jun 23, 2022
+    4.1.1
+    May 6, 2022
+    4.1
+    Apr 28, 2022
+    4.0.3
+    Jan 21, 2022
+    4.0.2
+    Nov 19, 2021
+    4.0.1
+    Nov 17, 2021
+    4.0
+    Nov 15, 2021
+    3.10
+    Oct 6, 2021
+    3.9
+    Jul 8, 2021
+    3.8
+    Jun 2, 2021
+    3.7
+    Apr 13, 2021
+    3.6.2
+    Feb 1, 2021
+    3.6.1
+    Dec 17, 2020
+    3.6
+    Dec 15, 2020
+    3.5.3
+    Nov 15, 2020
+    3.5.2
+    Oct 22, 2020
+    3.5.1
+    Oct 21, 2020
+    3.5
+    Oct 20, 2020
+    3.4.4
+    Sep 21, 2020
+    3.4.3
+    Sep 14, 2020
+    3.4
+    Aug 24, 2020
+    3.3
+    Jun 15, 2020
+    3.2.1
+    May 5, 2020
+    3.2
+    Apr 15, 2020
+    3.1.2
+    Mar 20, 2020
+    3.1
+    Mar 18, 2020
+    3.0.5
+    Feb 6, 2020
+    3.0.4
+    Jan 25, 2020
+    3.0.3
+    Jan 23, 2020
+    3.0.2
+    Jan 11, 2020
+    3.0.1
+    Dec 29, 2019
+    3.0
+    Dec 22, 2019
+
+See More
+Top In-App Purchases
+
+    Annual Subscription
+    $30.99
+    Weekly Subscription
+    $4.99
+    Weekly Subscription
+    $4.99
+    Weekly Subscription
+    $1.99
+    Weekly Subscription
+    $4.99
+    Weekly Subscription
+    $0.99
+    Monthly Subscription
+    $6.99
+    Weekly Cloud Subscription
+    $6.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Dec 21, 2019
+
+Worldwide Release Date
+    May 8, 2018
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    6.2.4
+
+Size
+    178.65 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Malay, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Turkish, Vietnamese
+
+Seller
+    Bending Spoons Apps ApS
+
+Company HQ
+    Italy
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.4 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.alightcreative.motion
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Company Website
+
+App ID: 1459833443
+Unified App ID: 1000600000802581
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Alight Motion | data.ai

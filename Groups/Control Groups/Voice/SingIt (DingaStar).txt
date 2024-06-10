@@ -1,0 +1,597 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+SingIt (DingaStar)
+MEDIASCOPEMusic (Applications)Free
+Alerts
+
+DingaStar
+SingIt (DingaStar)
+SingIt (DingaStar)
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+SingIt (DingaStar)
+Sing It Loud! Enjoy K-Pop!
+Music (Applications)
+Free
+iPhone Only
+App Description
+Sing It – Karaoke App
+
+Let's sing the KPOP on Sing It!
+
+
+[SingIt is full of joy on K-POP!]
+
+* The latest releases are immediately updated.
+* Self-recording with various filters and stickers.
+* Sing a duet with friend.
+* SingIt Challenge! Get the Double SingsCoins
+* Social services that communicate with global users.
+* And many events!
+
+
+
+[Sing, recording, edit and share! Also save on my phone~!]
+
+1. Sing & Recording
+- You can set the vocal style to the theme you want to sing.
+- Self-recording and decorating features such as camera filters, stickers, and cover photo settings.
+- You can sing in various ways such as recording audio/video, solo/duet or front/back camera use.
+
+2. Social Music Service
+- [Share] It is easy to share with other SNS such as Facebook, Twitter.
+- [Follow] Follow the users and artists you're interested in to get updates.
+- [Talk] Talk to your favorite artist's fans all over the world!
+- [Social] Listen to other users' songs and leave hearts and comments.
+
+3. SingIt participating
+- [Challenge] If you succeed in the song challenge, you will be able to win a sing.
+- [Events] SingIt's various events such as Challenges, Today's mission song and Auditions are available
+- [Duets] Participate in duet mode on SingIt, share & invite friends.
+
+
+
+[VIP Membership Introduction and Benefits]
+
+1. VIP Membership Benefits
+- You can sing SingIt's special songs and latest songs without limited.
+- You can use SingIt service comfortably without advertising.
+- You can send a message to your favorite Singers on SingIt.
+- You can sing in high-quality accompaniment.
+- You can save the recording file to your phone.
+
+2. VIP Membership Guide
+- Regular subscriptions can be selected monthly or yearly.
+- Once your purchase is confirmed, billing will be charged to your App Store account.
+- If you do not want to be automatically renewed, you must cancel at least 24 hours before renewing your subscription.
+
+
+* Inquiries : cs@mediascope.kr
+* Privacy Policy : http://web.dingastar.com/web/webview/html/term_privacy.do
+* Terms of Service: http://web.dingastar.com/web/webview/html/term_service.do
+
+Ratings
+Displayed Avg Ratings
+3.43
+Total Displayed Ratings
+330
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.5.0 (Jan 13, 2022)
+    Improve heat and performance when singing.
+    Service improvement.
+    The optimization for iOS 15
+Version 3.2.5 (Nov 2, 2020)
+    Modify Login User Interface
+    User Interface bug fix for ios 14
+Version 3.2.4 (Sep 30, 2020)
+    The optimization for iOS 14
+    Applied Sign in With Apple Human Interface Guidelines
+    Add Module Sing in with Apple
+    Stabilization Update and Bug Fixes
+Version 3.2.3 (Jul 16, 2020)
+    Stabilization Update and Bug Fixes
+Version 3.2.2 (Jul 6, 2020)
+    Improve recording quality
+
+    Other bug fixes and stabilizes
+
+Version 3.2.1 (Jun 18, 2020)
+    Fixed sound sync error on some iPhones
+
+    Other stabilization codes applied
+Version 3.2.0 (Jun 8, 2020)
+    Add a Song Challenge Event
+    Sing & Recording functional improvement
+Version 3.1.1 (Mar 30, 2020)
+    Fixed Kakao login error
+
+    Fixed VIP membership page error
+Version 3.1.0 (Jan 6, 2020)
+    Enable singing with full screen
+Version 3.0.7 (Dec 3, 2019)
+    Fixed a crash for users on iOS 13
+Version 3.0.6 (Nov 25, 2019)
+    Fixed a crash for users on iOS 13
+Version 3.0.5 (Sep 27, 2019)
+    Bug fixed and performance improvements
+Version 3.0.4 (Sep 2, 2019)
+    Bug fixed
+Version 3.0.3 (Jul 25, 2019)
+    Functional Improvement and Stabilization
+Version 3.0.2 (Jul 4, 2019)
+    Fixed payment error
+Version 3.0.1 (Jul 3, 2019)
+    Minor bug fixes
+Version 3.0.0 (Jul 1, 2019)
+    DingaStar 3.0 Renewal
+
+    - Changed brand name from DingaStar to SingIt.
+
+    - The design has been changed to improve usability.
+
+
+
+    See you at the better SingIt~
+
+
+Version 2.3.1 (Apr 12, 2019)
+    Improved error when trying to follow other members when VIP account
+Version 2.3.0 (Mar 29, 2019)
+    Minor bug fixes
+Version 2.2.9 (Mar 14, 2019)
+    1.Changed the policy of VIP songs
+    2.Enhanced VIP membership benefits
+    3.The promotion coin provided when you join VIP in specific cases
+Version 2.2.8 (Feb 25, 2019)
+    1. Improved sing by twinkle (1 day free)
+    2. Added twinkle reward for Attendance / video upload / sign up
+    3. Added 'like function' for reply
+    4. Improved 'push function'
+Version 2.2.7 (Feb 14, 2019)
+    1. Changed bottom menu bar
+    2. Improved Twinkle shop & Send gifts UIUX
+    3. Added automatic comment after sending gift
+    4. Minor bug fixes
+Version 2.2.6 (Feb 8, 2019)
+    Bug fixes
+Version 2.2.5 (Jan 24, 2019)
+    - Launched new user chart (Ruby Star)
+    - Adding a present function during video playing.
+    - Change default screen from Sing to Video.
+Version 2.2.4 (Jan 16, 2019)
+    bug fixes
+Version 2.2.3 (Jan 14, 2019)
+    DingaStar coin “Twinkle” is now available.
+    You may send gifts to your favorite DingaStars!
+Version 2.2.2 (Jan 3, 2019)
+    Improved voice monitoring
+Version 2.2.1 (Nov 28, 2018)
+    - Add Agreement to receive a promotional E-mail in setting
+    - Add copyright information
+    - Bug fixes and improvements
+Version 2.2.0 (Nov 11, 2018)
+    - Library for singing changed.
+    - Stabilization update and bug fixes.
+Version 2.1.6 (Sep 29, 2018)
+    - Improved live voice monitoring
+    - Stabilization Update and Bug Fixes
+Version 2.1.5 (Sep 18, 2018)
+    Stabilization Update and Bug Fixes
+Version 2.1.4 (Sep 12, 2018)
+    Stabilization Update and Bug Fixes
+Version 2.1.3 (Aug 30, 2018)
+    - Add an invite feature
+    - Bug fixes and improvements
+Version 2.1.2 (Aug 1, 2018)
+    Stabilization Update and Bug Fixes
+Version 2.1.1 (Jul 28, 2018)
+    Stabilization update and bug fixes
+    Improved singing & recording process (stickers added)
+Version 2.1.0 (Jul 9, 2018)
+    Upgraded Singing UIUX.
+    Improved Singing Performance.
+    Add sticker decoration during recording.
+Version 2.0.2 (Jun 1, 2018)
+    Bug Fixes.
+    Change file download rights.
+Version 2.0.1 (May 24, 2018)
+    Stabilization Update and Bug Fixes
+Version 2.0.0 (May 3, 2018)
+    * More comfortable design and UI are applied.
+    * Live Voice Monitoring Option Added.
+    * Some errors have been fixed.
+Version 1.8.3 (Apr 15, 2018)
+    Stabilization update and bug fixes
+Version 1.8.2 (Apr 6, 2018)
+    Improved sing process
+Version 1.8.1 (Mar 21, 2018)
+    - iPhone X response
+    - Stabilization update and bug fixes
+Version 1.8.0 (Mar 13, 2018)
+    - Stabilization Update and Bug Fixes
+Version 1.7.9 (Feb 3, 2018)
+    - Change AUDIO THEME name
+    - Stabilization update and bug fixes
+Version 1.7.7 (Jan 25, 2018)
+    - Apply profile picture bug fixes
+    - Stabilization update and bug fixes
+Version 1.7.6 (Jan 16, 2018)
+    - Improve to Song form element (intro, verse, bridge etc.)
+    - Stabilization Update and Bug Fixes
+Version 1.7.5 (Dec 29, 2017)
+    - Added AUDIO STYLE (ROOM/HALL/CAVE)
+    - Stabilization Update and Bug Fixes
+Version 1.7.4 (Dec 19, 2017)
+    - Stabilization Update and Bug Fixes
+Version 1.7.3 (Dec 13, 2017)
+    - Stabilization Update and Bug Fixes
+Version 1.7.2 (Dec 6, 2017)
+    - Real time encoding Stabilization
+    - Bug Fixes
+Version 1.7.1 (Nov 30, 2017)
+    - UI change (HOME, MY, PUSH, score screen, etc.)
+    - Change feed name (NEWS)
+    - Add Home menu
+    - Add 1: 1 message page
+    - Apply recommended logic
+    - Add user search
+    - Add user and recording ranking
+    - Add accompaniment evaluation function
+    - Add membership function
+    - Go to search menu
+    - Add Facebook Ad
+    - Stabilization Updates and Bug Fixes
+Version 1.6.3 (Nov 7, 2017)
+    Stabilization Updates and Bug Fixes
+Version 1.6.2 (Oct 24, 2017)
+    Stabilization Updates and Bug Fixes
+Version 1.6.1 (Oct 14, 2017)
+    Stabilization Updates and Bug Fixes
+Version 1.6.0 (Oct 2, 2017)
+    * Simplify the song and burn process
+    * Apply options for recording post-editing
+    * Addition of various image filters and sound filters that can be fun to sing
+    * User-friendly layout changes : Duet invitations, Recording video list
+    * iOS 11 version optimization
+Version 1.5.7 (Sep 15, 2017)
+    Stabilization Updates and Bug Fixes
+Version 1.5.5 (Aug 19, 2017)
+    Stabilization Updates and Bug Fixes
+Version 1.5.4 (Aug 1, 2017)
+    - Stabilization Updates and Bug Fixes.
+Version 1.5.3 (Jul 20, 2017)
+    - Change default page when running app.
+    - MR detail page change.
+    - Paid / free policy change.
+    - Stabilization Updates and Bug Fixes.
+Version 1.5.2 (Jul 5, 2017)
+    - Improve the recording process.
+    - Add Social Services features (duet invitation, follow)
+    - Add karaoke services including ranking, votes, etc.
+    - Stabilization Updates and Bug Fixes.
+Version 1.0.5 (May 19, 2017)
+    Stabilization Updates and Bug Fixes
+Version 1.0.4 (May 9, 2017)
+    Lots of improvements and bug fixes
+Version 1.0.3 (May 2, 2017)
+    Lots of improvements and bug fixes
+Version 1.0.2 (Apr 26, 2017)
+    We have fixed some bugs and improved our app to provide you convenient recording experience.
+Version 1.0.1 (Apr 7, 2017)
+    - Bugs fixed
+    - Application stability
+Version 1.0.0 (Mar 31, 2017)
+
+Users may also like
+Select objects to compare
+SOMESING with K-pop
+노래방 어플(모두의노래방):노래방 노래 부르기
+싱바나(SingVana)-노래방 콜라보 듀엣 커버
+KaraDoReMi - Your Karaoke Pal
+노래방책 - 노래방 번호검색
+Pinply
+악보바다 모바일
+iSing - Sing & Record Karaoke
+nana - Record your music, sing
+노가다 - 노래방 가서 다 부를거야 (노래검색, 저장)
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.5.0
+    Current release
+    Jan 13, 2022
+    3.2.5
+    Nov 2, 2020
+    3.2.4
+    Sep 30, 2020
+    3.2.3
+    Jul 16, 2020
+    3.2.2
+    Jul 6, 2020
+    3.2.1
+    Jun 18, 2020
+    3.2.0
+    Jun 8, 2020
+    3.1.1
+    Mar 30, 2020
+    3.1.0
+    Jan 6, 2020
+    3.0.7
+    Dec 3, 2019
+    3.0.6
+    Nov 25, 2019
+    3.0.5
+    Sep 27, 2019
+    3.0.4
+    Sep 2, 2019
+    3.0.3
+    Jul 25, 2019
+    3.0.2
+    Jul 4, 2019
+    3.0.1
+    Jul 3, 2019
+    3.0.0
+    Jul 1, 2019
+    2.3.1
+    Apr 12, 2019
+    2.3.0
+    Mar 29, 2019
+    2.2.9
+    Mar 14, 2019
+    2.2.8
+    Feb 25, 2019
+    2.2.7
+    Feb 14, 2019
+    2.2.6
+    Feb 8, 2019
+    2.2.5
+    Jan 24, 2019
+    2.2.4
+    Jan 16, 2019
+    2.2.3
+    Jan 14, 2019
+    2.2.2
+    Jan 3, 2019
+    2.2.1
+    Nov 28, 2018
+    2.2.0
+    Nov 11, 2018
+    2.1.6
+    Sep 29, 2018
+    2.1.5
+    Sep 18, 2018
+    2.1.4
+    Sep 12, 2018
+    2.1.3
+    Aug 30, 2018
+    2.1.2
+    Aug 1, 2018
+    2.1.1
+    Jul 28, 2018
+    2.1.0
+    Jul 9, 2018
+    2.0.2
+    Jun 1, 2018
+    2.0.1
+    May 24, 2018
+    2.0.0
+    May 3, 2018
+    1.8.3
+    Apr 15, 2018
+    1.8.2
+    Apr 6, 2018
+    1.8.1
+    Mar 21, 2018
+    1.8.0
+    Mar 13, 2018
+    1.7.9
+    Feb 3, 2018
+    1.7.7
+    Jan 25, 2018
+    1.7.6
+    Jan 16, 2018
+    1.7.5
+    Dec 29, 2017
+    1.7.4
+    Dec 19, 2017
+    1.7.3
+    Dec 13, 2017
+    1.7.2
+    Dec 6, 2017
+    1.7.1
+    Nov 30, 2017
+    1.6.3
+    Nov 7, 2017
+    1.6.2
+    Oct 24, 2017
+    1.6.1
+    Oct 14, 2017
+    1.6.0
+    Oct 2, 2017
+    1.5.7
+    Sep 15, 2017
+    1.5.5
+    Aug 19, 2017
+    1.5.4
+    Aug 1, 2017
+    1.5.3
+    Jul 20, 2017
+    1.5.2
+    Jul 5, 2017
+    1.0.5
+    May 19, 2017
+    1.0.4
+    May 9, 2017
+    1.0.3
+    May 2, 2017
+    1.0.2
+    Apr 26, 2017
+    1.0.1
+    Apr 7, 2017
+    1.0.0
+    Mar 31, 2017
+
+See More
+Top In-App Purchases
+
+    VIP Limited_7Day
+    $0.99
+    VIP
+    $3.49
+    1100 SingCoin
+    $9.99
+    300 SingCoin
+    $2.99
+    3500 SingCoin
+    $28.99
+    200 SingCoin
+    $1.99
+    1700 SingCoin
+    $14.99
+    6000 SingCoin
+    $48.99
+    VIP Plus
+    $27.99
+    100 SingCoin
+    $0.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Music
+
+Initial Release Date
+    Mar 31, 2017
+
+Worldwide Release Date
+    Mar 31, 2017
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    3.5.0
+
+Size
+    56.83 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Korean
+
+Seller
+    MEDIASCOPE Inc.
+
+Company HQ
+    South Korea
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    kr.mediascope.DingaStar
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1211579278
+Unified App ID: 1000600000612186
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+SingIt (DingaStar) | data.ai

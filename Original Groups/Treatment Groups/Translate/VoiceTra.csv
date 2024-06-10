@@ -1,0 +1,47 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,9.0.3,2023-12-07,Minor bug fixes
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,9.0.1,2023-06-02,The animation effect of the mic button has been removed The Hold device to your ear to speak feature has been removed Minor bug fixes
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.9,2023-03-29,Italian and Hindi speech recognition have been supported Italian and Hindi text to speech have been supported The supported OS versions have been updated to iOS iPadOS 14 or later including iOS iPadOS 16
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.8,2022-08-01,Ukrainian translation speech recognition and text to speech have been supported Arabic speech recognition has been supported
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.7.1,2021-12-21,Push to talk has been disabled Speech recognition is now available when pressing down the mic button longer than before The supported OS versions have been updated to iOS13 or later including iOS15
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.6,2021-03-23,Supported Mongolian text to speech The list of languages has been reordered
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.5,2020-12-06,Supported Mongolian speech recognition Notifications for new announcements will now be indicated with a red dot within the app The supported OS versions have been updated to iOS12 or later
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.3,2020-08-12,Supported French and Spanish language identification Supported Nepali text to speech
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.2,2020-04-08,Added a new feature which automatically determines the translation direction between 2 languages Minor bug fixes
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.1.1,2019-12-09,Minor bug fixes
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.1,2019-12-04,Minor bug fixes
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.0.1,2019-10-03,Fixed display bugs in several areas
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,8.0.0,2019-09-30,Language identification feature which automatically detects what language is being spoken has been added The maximum length for speech input has been increased from 10 to 20 seconds The maximum number of characters for text input has been increased from 100 to 250 characters
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,7.2.1,2019-04-24,Minor improvements.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,7.2,2019-03-26,Supported Filipino text to speech. Minor improvements.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,7.1,2018-12-11,Supported French text to speech. You can now change the translation target language by tapping the globe button on the bottom left of the main screen. The supported OS versions have been updated to iOS10 or later .
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,7.0.1,2018-10-31,Filipino speech recognition has been supported. Khmer text to speech has been supported. Improved response time. The supported OS versions have been updated to iOS9 or later .
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,7.0,2018-10-02,Filipino speech recognition has been supported. Khmer text to speech has been supported. Improved response time. The supported OS versions have been updated to iOS9 or later .
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,6.4,2018-06-14,Spanish German and Russian speech synthesis have been supported. Dutch Turkish Hungarian Hindi Portuguese and Malay speech recognition have been disabled. Turkish Hungarian Hindi Polish Malay and Mongolian speech synthesis have been disabled. Minor bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,6.3,2018-04-25,Added a field for Inquiry Number in the settings screen.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,6.2,2018-04-11,Added a notification feature which will display notifications accordingly. The screen displayed during speech input has been updated. Minor bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,6.1,2018-01-25,Speech recognition and synthesis for Chinese Traditional have been supported. Yamaha Corporation s OMOTENASHI GUIDE app can now be activated via VoiceTra.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,6.0,2017-11-22,Screen rotation is now supported for iPads. You can now choose between male female voices for speech output.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.7,2017-09-22,Supports iOS11.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.6,2017-07-03,Khmer speech recognition has been supported. Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.5,2017-05-25,Spanish speech recognition has been supported. Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.4.4,2017-04-26,Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.4.3,2016-12-06,Thai is now officially supported and no longer contains trial versions.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.4.2,2016-09-30,Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.4.1,2016-08-06,Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.4,2016-08-01,Users are now requested to agree to the Terms of Use each time there is an update in the terms.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.3.2,2016-07-13,Now supports speech synthesis and recognition for Brazilian Portuguese.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.3.1,2016-05-31,Some of the languages that were available as trial versions have been officially supported.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.3,2016-05-09,Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.2,2016-02-04,Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.1.1,2015-12-15,Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.1,2015-11-30,Copy operation of the translation result has been supported. Some bugs fixed.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.0.1,2015-10-27,Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,5.0,2015-10-22,update UI
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,4.2,2015-08-12,The compatible OS versions have been changed to iOS7.0 or later. Bug fixes.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,4.1,2015-05-11,Updated for iOS 8 New translatable languages have been added.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,1.1.2,2013-08-14,The operation instructions have been updated.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,1.1.1,2013-06-26,Translation performance stability has been improved.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,1.1.0,2013-04-12,Compatible with iOS 6 and 4 inch displays. Added VoiceOver support. Changed touch operation for using voice input.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,1.0.1,2012-12-21,Translation performance stability has been improved.
+581137577,1000600000629995,VoiceTra,Travel,2012-12-17,2012-12-17,70.52,10,1,0,0,1.0.0,2012-11-29,

@@ -1,0 +1,8 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1497303663,1000800000192706,Speak Translate Translator,Utilities,2020-02-03,2020-02-03,102.71,1,1,0,1,8.0,2023-12-13,Enhanced the Language translation process Minor Improvements in UI for better Usability,0,0,0,0,0,0,0,0
+1497303663,1000800000192706,Speak Translate Translator,Utilities,2020-02-03,2020-02-03,102.71,1,1,0,1,7.0,2022-11-05,Added Document Translator to translate PDF and Text Documents Improved UI Experience for Better Usability Added Upgrade Screen to Remove Ads and Access Full Functionality,0,0,0,0,1,0,0,0
+1497303663,1000800000192706,Speak Translate Translator,Utilities,2020-02-03,2020-02-03,102.71,1,1,0,1,5.0,2022-09-01,In App Purchase Added Fixed Some Language Translation Bugs,0,0,1,0,0,0,0,0
+1497303663,1000800000192706,Speak Translate Translator,Utilities,2020-02-03,2020-02-03,102.71,1,1,0,1,4.0,2022-08-20,Voice on Speak Button for voice translation Fixed,0,1,0,0,0,0,0,0
+1497303663,1000800000192706,Speak Translate Translator,Utilities,2020-02-03,2020-02-03,102.71,1,1,0,1,3.0,2022-08-16,User Navigation moved to bottom to improve user experience Changed the design of app from previous version Camera Translator added to translate textual photos and images,0,1,0,0,0,0,0,0
+1497303663,1000800000192706,Speak Translate Translator,Utilities,2020-02-03,2020-02-03,102.71,1,1,0,1,2.0,2020-02-27,Few Bugs Fixed Improved UI,0,0,0,0,0,0,0,0
+1497303663,1000800000192706,Speak Translate Translator,Utilities,2020-02-03,2020-02-03,102.71,1,1,0,1,1.0,2020-02-03,,0,0,0,0,0,0,0,0

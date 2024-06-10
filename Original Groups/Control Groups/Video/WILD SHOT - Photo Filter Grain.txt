@@ -1,0 +1,452 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+WILD SHOT - Photo Filter Grain
+Sebastian RothPhoto and Video (Applications)Free
+Alerts
+
+    Sebastian Roth
+
+    WILD SHOT - Photo Filter Grain
+    WILD SHOT - Photo Filter Grain
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+WILD SHOT - Photo Filter Grain
+Photo and Video (Applications)
+Free
+App Description
+Edit your photos with 15+ retro effects and professional color looks.
+
+− More than 200 filters are available for editing in this app.
+
+− Apply Film Burn, Film Grain, ...
+
+− Add a subtitle to your image as you know it from old movies. This subtitle can be placed at the bottom of the image.
+
+All Free Features:
+− Professional filters
+− Film grain
+− Filmburn/ Light leaks
+− Retro dust & scratches effects
+− Date stamp
+− Chromatic aberration
+− Vintage subtitle text
+− Vintage frames
+− Brightness, Contrast, Shadows or Tint settings
+− Motion blur effect
+− Draw glitter or sparkle texture
+
+Most functionality is free to use. If you upgrade to a premium account, you unlock:
+− Use more than 200 presets in 20+ filter packs
+− The filters are constantly updated and improved
+
+These features are available through an In-App purchase:
+Start filtering today and use all pro features for one week completely free of charge. After the one week free trial this subscription automatically renews for $7.99 (or equivalent) per 1 year subscription unless canceled at least 24 hours before the end of the trial period. You can subscribe and pay through your iTunes Account at confirmation of purchase. Your subscription automatically renews unless cancelled at least 24 hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by you and auto-renewal may be turned off by going to your Account Settings, after purchase. Buying in App Purchases requires an active Internet connection.
+
+Further information:
+Technical support: developer@sebastianroth.org
+Buying in App Purchases requires an active Internet connection.
+Terms of Use: http://sebastianroth.org/terms/
+Privacy Policy: http://sebastianroth.org/privacy/
+Ratings
+Displayed Avg Ratings
+4.47
+Total Displayed Ratings
+706
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.3.26 (Apr 11, 2022)
+    bug fixes
+Version 1.3.25 (Oct 21, 2021)
+    Preparing a new feature & Bug fixes
+Version 1.3.24 (Sep 8, 2021)
+    Bug Fixes
+Version 1.3.23 (Jul 16, 2021)
+    Faster saving in the new editor
+Version 1.3.22 (May 11, 2021)
+    Improving the HSL feature in the "new editor"
+Version 1.3.21 (May 5, 2021)
+    Use the HSL editing feature with the new editor
+Version 1.3.20 (Apr 21, 2021)
+    New frames
+Version 1.3.19 (Apr 8, 2021)
+    - Introducing a new design
+    - New photo editor
+    - Filter live video
+Version 1.3.18 (Jun 3, 2020)
+    - Click on the edited preview photo to see the original
+    - "TINT"-effect improved
+Version 1.3.17 (May 31, 2020)
+    UX imrovement
+Version 1.3.15 (May 15, 2020)
+    - Adding new lens flares
+    - Bug Fixes
+Version 1.3.14 (May 14, 2020)
+    Improving memory usage
+Version 1.3.13 (May 12, 2020)
+    - New Lens Flares
+    - New Digital Grain Effect
+Version 1.3.12 (Apr 1, 2020)
+    Improving the user experience
+Version 1.3.11 (Feb 7, 2020)
+    Improved export of photos with frames
+Version 1.3.10 (Jan 13, 2020)
+    - New filter
+    - Performance Update
+Version 1.3.9 (Dec 11, 2019)
+    This update improves some filters
+Version 1.3.8 (Nov 19, 2019)
+    This update fixes some bugs and improves the stability of the App
+Version 1.3.7 (Nov 2, 2019)
+    Performance improvements
+Version 1.3.6 (Oct 28, 2019)
+    New Filter
+Version 1.3.5 (Oct 23, 2019)
+    Bug Fixes
+Version 1.3.4 (Oct 22, 2019)
+    Introducing Editing Tips
+Version 1.3.3 (Oct 18, 2019)
+    Improved Layout
+Version 1.3.2 (Oct 16, 2019)
+    - Editing settings are copied to the clipboard after saving
+    - Improved Layout
+    - Bug Fixes
+Version 1.3.1 (Oct 13, 2019)
+    - Preview filters
+    - New effects
+    - Filters optimized
+Version 1.3.0 (Oct 10, 2019)
+    Improved ease-of-use
+Version 1.2.6 (Oct 2, 2019)
+    - Multi-line support for text
+    - New frame
+Version 1.2.5 (Sep 26, 2019)
+    New frames
+Version 1.2.4 (Sep 20, 2019)
+    IOS 13 dark mode
+Version 1.2.3 (Sep 13, 2019)
+    - Frames
+    - Date Stamp
+Version 1.2.2 (Sep 10, 2019)
+    Layout improvement
+Version 1.2.1 (Sep 8, 2019)
+    - two finger zoom
+    - erase painted textures
+    - filters were revised
+    - new dust textures
+Version 1.1.14 (Sep 3, 2019)
+    - Contrast editing
+    - Design adjustments
+Version 1.1.13 (Aug 21, 2019)
+    - Adjusting the intensity of a filter also possible in the filter overview
+    - Faster selection of lightleaks
+Version 1.1.12 (Aug 9, 2019)
+    - 10 new "island" filter
+    - Bug fixes
+Version 1.1.11 (Aug 6, 2019)
+    - New Filmburn Effects
+Version 1.1.10 (Jul 31, 2019)
+    - Revision of several filters
+    - New App Icon
+Version 1.1.9 (Jul 22, 2019)
+    - All filters have been revised
+Version 1.1.8 (Jul 16, 2019)
+    - Adjust the intensity of film grain
+Version 1.1.7 (Jul 12, 2019)
+    - Adjust the intensity of flares and dust effects
+    - Simplified glitter effects application
+Version 1.1.6 (Jul 8, 2019)
+    - This update contains new textures that can be applied with the paint brush
+    - New language: Turkish
+Version 1.1.5 (Jun 27, 2019)
+    New editing effect
+Version 1.1.4 (Jun 15, 2019)
+    - 10 new filters
+    - Draw and hatch areas and fill them with textures
+    - Edit the Brightness
+Version 1.1.3 (Jun 7, 2019)
+    New feature: Draw lines on your photo
+Version 1.1.2 (May 29, 2019)
+    - Tap the filter again to show the original image
+    - Enlarge text added to an image with two fingers
+    - New App Icon
+Version 1.1.1 (May 23, 2019)
+    Improved performance and memory usage
+Version 1.1.0 (May 17, 2019)
+    - Improved design
+    - Language Filipino is added
+Version 1.0.5 (May 14, 2019)
+    Bug Fixes
+Version 1.0.4 (May 7, 2019)
+    Improvement of some filters
+Version 1.0.3 (Apr 30, 2019)
+    Save images with a high resolution.
+    The app now supports the languages: Chinese (Simplified), French, German, Italian, Russian, Spanish (Mexico) and Spanish (Spain).
+Version 1.0.2 (Apr 27, 2019)
+    Adjust the intensity of a filter. Faster select filters from an overview.
+
+Users may also like
+Select objects to compare
+PRESETS: Photo Filters, Editor
+Filterious Photo Filters
+RetroCam: Vintage Film Camera
+I Love Film - Grain Filter
+Pretty Retro: photo filters
+Tone Studio Photo & Vid Editor
+RNI Films: Photo & RAW Editor
+Kuji Cam - Vintage Camera
+CALLA CAM
+Vintage Video VHS Photo Editor
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.3.26
+    Current release
+    Apr 11, 2022
+    1.3.25
+    Oct 21, 2021
+    1.3.24
+    Sep 8, 2021
+    1.3.23
+    Jul 16, 2021
+    1.3.22
+    May 11, 2021
+    1.3.21
+    May 5, 2021
+    1.3.20
+    Apr 21, 2021
+    1.3.19
+    Apr 8, 2021
+    1.3.18
+    Jun 3, 2020
+    1.3.17
+    May 31, 2020
+    1.3.15
+    May 15, 2020
+    1.3.14
+    May 14, 2020
+    1.3.13
+    May 12, 2020
+    1.3.12
+    Apr 1, 2020
+    1.3.11
+    Feb 7, 2020
+    1.3.10
+    Jan 13, 2020
+    1.3.9
+    Dec 11, 2019
+    1.3.8
+    Nov 19, 2019
+    1.3.7
+    Nov 2, 2019
+    1.3.6
+    Oct 28, 2019
+    1.3.5
+    Oct 23, 2019
+    1.3.4
+    Oct 22, 2019
+    1.3.3
+    Oct 18, 2019
+    1.3.2
+    Oct 16, 2019
+    1.3.1
+    Oct 13, 2019
+    1.3.0
+    Oct 10, 2019
+    1.2.6
+    Oct 2, 2019
+    1.2.5
+    Sep 26, 2019
+    1.2.4
+    Sep 20, 2019
+    1.2.3
+    Sep 13, 2019
+    1.2.2
+    Sep 10, 2019
+    1.2.1
+    Sep 8, 2019
+    1.1.14
+    Sep 3, 2019
+    1.1.13
+    Aug 21, 2019
+    1.1.12
+    Aug 9, 2019
+    1.1.11
+    Aug 6, 2019
+    1.1.10
+    Jul 31, 2019
+    1.1.9
+    Jul 22, 2019
+    1.1.8
+    Jul 16, 2019
+    1.1.7
+    Jul 12, 2019
+    1.1.6
+    Jul 8, 2019
+    1.1.5
+    Jun 27, 2019
+    1.1.4
+    Jun 15, 2019
+    1.1.3
+    Jun 7, 2019
+    1.1.2
+    May 29, 2019
+    1.1.1
+    May 23, 2019
+    1.1.0
+    May 17, 2019
+    1.0.5
+    May 14, 2019
+    1.0.4
+    May 7, 2019
+    1.0.3
+    Apr 30, 2019
+    1.0.2
+    Apr 27, 2019
+
+See More
+Top In-App Purchases
+
+    MEMBERSHIP
+    $9.99
+    PROFESSIONAL
+    $6.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Apr 19, 2019
+
+Worldwide Release Date
+    Apr 19, 2019
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    1.3.26
+
+Size
+    240.53 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Alemão, Chinês simplificado, Coreano, Espanhol, Filipino, Francês, Inglês, Italiano, Polonês, Russo, Turco, Árabe
+
+Seller
+    Sebastian Roth
+
+Content Rating
+    Rated +4
+
+Family Sharing
+    Yes
+
+Requirement
+    Requer o iOS 14.0 ou posterior. Compatível com iPhone, iPad e iPod touch.
+
+Bundle ID
+    sebastianroth.photocolor
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1455977740
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+WILD SHOT - Photo Filter Grain | data.ai

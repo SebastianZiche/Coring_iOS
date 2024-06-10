@@ -1,0 +1,343 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Daily Transformation Journal
+DAILY TRANSFORMATIONSocial Networking (Applications)Free
+Alerts
+
+    DAILY TRANSFORMATION
+
+    Daily Transformation Journal
+    Daily Transformation Journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Daily Transformation Journal
+Social Networking (Applications)
+Free
+App Description
+Daily Transformation Journal is a Mobile application where app can help you practice four things you will thrive with Jesus things i.e. L.I.F.E.: Listen, Inquire, Fellowship, Express.
+Listen: God is speaking and He wants to walk daily with us. In this section, user will write down the prayer requests he want to keep bringing to god. Make sure user mark the prayer answered when God answers your prayer.
+Inquire: Read the bible each day to meet with God and inquire of Him. In this user will write down a topic that generally describes what he learned use the acrostic S.O.A.P. i.e., Scripture, Observation, Application and Prayer to record what God has shown you.
+• Scripture: - Record the main Bible verse
+• Observation: - Record the circumstances you observed in the verses.
+• Application: - Describe how you will be different today because of what you have just read.
+• Prayer: - Record a prayer of commitment and help applying what you learned.
+Fellowship: In this activity, find a group of Jesus followers who would like to read and study the Bible together. Share a meal as you gather. App can have instruction and Weekly Fellowship Meeting pages to record what you learn as you gather. There are three parts to a meeting and plan that each part takes equal time.
+• Looking Back: - Example of how I applied last week’s goal
+• Looking Up: - Which verse spoke the most to me and why? Another verse creates questions?
+• Looking ahead: - What is God asking you to do? And Who do I need to share this truth?
+Express: This section included help for expressing story and a place to write down the names of those with whom you are sharing Jesus’ love
+Ratings
+Displayed Avg Ratings
+5
+Total Displayed Ratings
+5
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.16 (Jan 13, 2024)
+    Bug fixes
+Version 1.15 (Dec 14, 2023)
+    - Added Spanish language support.
+    - Choose language on Welcome screen (new users) or in App Settings (existing users).
+    - Access Bible in Spanish when selecting the Spanish language.
+    - Improved Application Auto-Update feature.
+    - Enhanced L.I.F.E Activities Create Entry Design.
+    - Under-the-hood optimizations for better performance and stability.
+Version 1.14 (Oct 23, 2023)
+    New features have been introduced in the latest version of the application to enhance the overall user experience and provide more interactive and engaging functionalities.
+
+    Features Added
+    - Enhanced Social Media Experience: Introducing a wall feature where users can share Scriptures, My Story, and Universal Story with DTJ users.
+    - Sharing: Users can easily share the DTJ application with others, as well as share My Story and Universal Story using the sharing option.
+    - Post Like: Users now have the ability to like wall posts and comments.
+    - Notifications: Push and In-App notifications are now available for likes, comments, and other post activities.
+
+    Enhancements and Bug fixes
+    - User Agreement and Privacy Policy
+    - L.I.F.E create entry UI design
+Version 1.13 (Sep 15, 2023)
+    New features have been introduced in the latest version of the application to enhance the overall user experience and provide more interactive and engaging functionalities.
+
+    - Enhanced Social Media Experience: Introducing a wall feature where users can share Scriptures, My Story, and Universal Story with DTJ users.
+    - Admin User Capabilities: Admin users can now create custom posts with images and text.
+    - Sharing Functionality: Users can easily share the DTJ application with others, as well as share My Story and Universal Story using the sharing option.
+    - Post Like Feature: Users now have the ability to like wall posts and comments.
+    - Notifications: Push and In-App notifications are now available for likes, comments, and other post activities.
+    - Group Wall Feature: Admin users can create and share posts in groups through the wall feature.
+    - Updated User Agreement and Privacy Policy: The login screen now displays the updated user agreement and privacy policy.
+Version 1.12 (Jul 13, 2023)
+    - New home screen design with UI enhancements
+    - Like and comment notifications
+    - Delete bookmark option added
+    - Undo button for clearing highlighted text
+    - Clear all notification option
+    - Swipe gestures for deleting entries and answering prayers
+    - Ability to like comments
+    - Delete option for comments
+    - Navigate to Wall Post via Post label
+Version 1.11 (Jun 9, 2023)
+    * The "In-App Notifications" feature was added.
+    * Custom posts with description and URL capabilities for DTJ admin.
+    * The delete option for Inquiring and Fellowship entries. Users can delete one or multiple entries.
+    * The delete option for group wall posts, including the DTJ wall.
+    * The entry restore option is in the Fellowship section.
+    * Cosmetic Improvements and Bug Fixes: This update includes bug fixes and enhancements in the notification screen and the Fellowship autosave feature.
+Version 1.10 (May 15, 2023)
+    1. DTJ wall posts feature- Users can post their scriptures, my story video, and universal story on the wall
+    2. Like and comment feature- Users can like or comment on wall posts
+    3. Push notifications - Real-time push notifications
+    4. In-app notifications- in-app notifications for various activities e.g. new messages in the chat, new wall posts, survey reminders and sharing, etc.
+    5. Admin features- Approve or Decline user's comments in DTJ group wall posts
+    6. Bugs fixes and UI enhancement.
+Version 1.9 (Apr 13, 2023)
+    *    Chat with Individual Contacts – User can chat one to one conversations now.
+    *    Group Chat UI – The user will be able to view the enhanced Group Chat UI.
+    *    Notification badge on the Device's home screen – The user will be able to see the red notification badge on the screen.
+    *    Training Videos (YouTube video links on 88 screens) – Inquiring and Fellowship Chapters will contain the YouTube video links.
+    *    DTJ Videos Gallery -Fellowship and Inquiring training YouTube videos.
+    *    Cosmetic Improvements and Bug Fixes- Bug fixes and enhancements in L.I.F.E. sections.
+Version 1.8 (Mar 25, 2023)
+    * Chat with Individual Contacts – User can chat one to one conversation now
+    * Group Chat UI – User will be able to view the enhanced Group Chat UI
+    * Notification badge on Device's home screen – User will be able to see the red notification badge on screen
+    * Training Videos (YouTube videos links on 88 screens) – Inquiring and Fellowship Chapters will contain the YouTube video links
+    * DTJ Videos Gallery -Fellowship and Inquiring training YouTube videos
+Version 1.7 (Feb 2, 2023)
+    Users will get notified via a red dot badge if there is an unread message in the DTJ channel.
+    Users can see entries on Inquiring in the offline mode.
+    Users now can edit Inquiring in the offline mode.
+    UI enhancements and bug fixes.
+Version 1.5 (Dec 29, 2022)
+    * While offline, you will be able to see the previous and next three days reading from the current date in inquiring section.
+    * Create inquiring notes while you are offline which will be synced when the network is available.
+    * Now we can also access the inquiring reading plan from the previous year to the next year and vice versa.
+    * Some fixes and enhancements.
+Version 1.4 (Nov 26, 2022)
+    * Login with email
+
+    * Font size setting in app
+
+    * Phone number update in profile
+
+    * Avoid scrollbar on home screen
+
+    * Added a search tool to find a phrase from the Bible
+
+    * Scripture a person chose that day in their Inquire journal entry to be “My daily verse...”
+
+    * Bookmark and highlight feature added.
+
+    * Now, We can also see other than today's inquiring plan.
+
+    * Some bug fixes
+Version 1.3 (Aug 26, 2022)
+    Adding functionality like Login with email, Font setting and Update phone number. Also some bug fixes.
+Version 1.2 (Apr 15, 2022)
+    Some bug fixes
+Version 1.1 (Dec 1, 2021)
+    * Reading plan change in Fellowship and Listen
+
+    * Increased the fonts size
+
+    * Enabled sharing in Inquire and Fellowship
+
+    * Made the Fellowship and Inquire entry editable
+
+    * Made most of the fields of the Fellowship entry non-mandatory
+
+    * Bible reading plan page range changes
+
+    * App share link text changed
+
+    * Fellowship placeholder text changed
+
+    * Fetched Inquire scripture reading for the day of the entry which is edited
+
+    * Some bug fixes
+Version 1.0 (Jan 27, 2021)
+
+Users may also like
+Select objects to compare
+Caballus Full Horse Experience
+TMF Community
+The Art of Leadership Academy
+Irresistible Church Network
+Homeschool Better Together
+Soulcon Challenge
+Podcast Video Maker 4Instagram
+Heart & Soil Community
+STAND FIRM
+UP-Messenger
+IQ Classifications
+Genre: Books & Reference
+Subgenre: Religion
+Religion
+Apps that provide users with digital religious contents such as Bible and Quran.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.16
+    Current release
+    Jan 13, 2024
+    1.15
+    Dec 14, 2023
+    1.14
+    Oct 23, 2023
+    1.13
+    Sep 15, 2023
+    1.12
+    Jul 13, 2023
+    1.11
+    Jun 9, 2023
+    1.10
+    May 15, 2023
+    1.9
+    Apr 13, 2023
+    1.8
+    Mar 25, 2023
+    1.7
+    Feb 2, 2023
+    1.5
+    Dec 29, 2022
+    1.4
+    Nov 26, 2022
+    1.3
+    Aug 26, 2022
+    1.2
+    Apr 15, 2022
+    1.1
+    Dec 1, 2021
+    1.0
+    Jan 27, 2021
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jan 27, 2021
+
+Worldwide Release Date
+    Jan 27, 2021
+
+Last Updated Time
+    Apr 21, 2024
+
+Version
+    1.16
+
+Size
+    40.08 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Inglés
+
+Seller
+    DAILY TRANSFORMATION
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 13.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    com.droisys.dtjapp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1543662137
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Daily Transformation Journal | data.ai

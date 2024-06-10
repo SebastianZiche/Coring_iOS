@@ -1,0 +1,258 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Minutes: AI Voice Notes
+Brandon ThioProductivity (Applications)Free
+Alerts
+
+    Brandon Thio
+
+    Minutes: AI Voice Notes
+    Minutes: AI Voice Notes
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Minutes: AI Voice Notes
+Powerful Speech Recognition
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+Embrace the future of speech-to-text technology. Powered by OpenAI's Whisper technology, Minutes turns your iPhone or iPad into a portable audio recorder and transcriber, making it easy to capture and share personal notes, classroom lectures, meeting minutes, and more.
+
+Minutes gives you the flexibility to choose between the latest and greatest Whisper model (hosted on OpenAI's servers), or opt for smaller models that enable offline usage. This ensures that you can transcribe anytime, anywhere, regardless of your internet connectivity.
+
+Minutes empowers you to go beyond simple text conversion by integrating the capabilities of OpenAI's ChatGPT, allowing you to generate comprehensive transcript summaries, extract key points, identify action items, follow-up questions, and explore related topics. Seamlessly export your insights directly to Notion, enabling seamless collaboration and organization.
+
+Other Features
+• Start transcribing real-time audio with a single tap.
+• Organise transcriptions into folders.
+• Transcribe audio directly from your Photos Library, Files App, and even YouTube URLs.
+• Copy to clipboard or export as TXT, SRT and M4A.
+• Support for 40+ languages (see https://help.openai.com/en/articles/7031512-whisper-api-faq).
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Ratings
+Displayed Avg Ratings
+4.35
+Total Displayed Ratings
+23
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.0.2 (Sep 4, 2023)
+    Bug fixes and performance improvements, most notably:
+    • Fixed a bug causing the export functionality to truncate transcripts on occassion.
+Version 2.0.1 (Jul 17, 2023)
+    Partially addressed crashes occurring in the background while recording audio. Investigations revealed that the crashes were caused by the operating system terminating the app when a user exits it.
+
+    Since transcription is a resource-intensive task, the system restricts apps from performing such tasks in the background. To mitigate this issue, the update now cancels the transcription process when a user quits Minutes. However, on slower devices and/or larger models, the cancellation may take more than a few seconds, causing the app to be terminated anyway.
+
+    A comprehensive solution is under development, involving significant changes to the user workflow. As a temporary workaround to avoid app termination, it is advised not to quit and reopen Minutes repeatedly while recording. For instance, if you wish to conserve battery, exit Minutes after starting the recording, and only open the app to pause/stop the recording. I apologise for any inconvenience caused!
+Version 2.0 (Jul 7, 2023)
+    Minutes 2.0 comes with 2 major new features exclusive to Pro subscribers, as well as numerous bug fixes and improvements across the board.
+
+    • Automate the Generate Summary → Export to Notion workflow. Minutes can now be configured to automatically generate summaries of new transcripts and export them to a Notion database of your choice, even when the app is in the background.
+
+    • Minutes can now be configured to produce transcriptions at the word level, i.e. every word in the transcript will have a timestamp, much like subtitles on a Karaoke machine.
+Version 1.0.8 (Jun 16, 2023)
+    - Hot-fix for a bug that caused navigation to be broken on iPhones running iOS 16.3 and below. Apologies for any inconvenience caused!
+Version 1.0.7 (Jun 13, 2023)
+    This version mainly includes bug fixes and improvements to both performance and user experience:
+    • Exporting transcript summaries to Notion now supports arbitrary lengths without any issues. Previously, excessively long summaries caused export failures.
+    • Loading indicators have been added to provide visual feedback during the process of regenerating transcript summaries and exporting them to Notion.
+    • A confirmation dialog will now appear when appropriate, ensuring a smoother transcription experience. The alert will be presented in two main scenarios:
+    1. Before transcribing imported audio/video files or downloaded YouTube videos.
+    2. Before starting a recording when low on credits.
+    *No confirmation is needed when the transcription is free, e.g. Minutes Pro subscribers using offline models
+    • Minutes should now be available on Macs with Apple Silicon. Transcribe even faster on Macs, especially when using offline models.
+Version 1.0.6 (Jun 12, 2023)
+    This version mainly includes bug fixes and improvements to both performance and user experience:
+    • Exporting transcript summaries to Notion now supports arbitrary lengths without any issues. Previously, excessively long summaries caused export failures.
+    • Loading indicators have been added to provide visual feedback during the process of regenerating transcript summaries and exporting them to Notion.
+    • A confirmation dialog will now appear when appropriate, ensuring a smoother transcription experience. The alert will be presented in two main scenarios:
+    1. Before transcribing imported audio/video files or downloaded YouTube videos.
+    2. Before starting a recording when low on credits.
+    *No confirmation is needed when the transcription is free, e.g. Minutes Pro subscribers using offline models 
+Version 1.0.5 (Jun 3, 2023)
+    - Fixed a bug where certain files could not be transcribed due to a file format conversion failure.
+    - Added a loading indicator when fetching the audio stream from a YouTube URL.
+    - Added a loading indicator when preparing videos from Photos Library .
+Version 1.0.1 (May 25, 2023)
+    - Fixed various navigation glitches on smaller devices
+
+Users may also like
+Select objects to compare
+ScribeAI - Speech to Text
+VoxNote - AI Speech to text
+Whisper Memo Dictation
+Speech To Text & Whisper
+Whisper : Speech to Text
+Access Scholar Articles
+linkbe
+Life Balance
+Dictation App-Dictate Anywhere
+Track & Analyze
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Other Utility & Productivity
+Other Utility & Productivity
+Other utility & productivity apps that do not fit other existing Utility & Productivity subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.0.2
+    Current release
+    Sep 4, 2023
+    2.0.1
+    Jul 17, 2023
+    2.0
+    Jul 7, 2023
+    1.0.8
+    Jun 16, 2023
+    1.0.7
+    Jun 13, 2023
+    1.0.6
+    Jun 12, 2023
+    1.0.5
+    Jun 3, 2023
+    1.0.1
+    May 25, 2023
+
+See More
+Top In-App Purchases
+
+    36,000 Credits
+    $7.99
+    Pro (1 Year)
+    $9.99
+    Pro (1 Month)
+    $1.99
+    3,600 Credits
+    $1.29
+    10,800 Credits
+    $3.29
+
+About
+
+Required Devices
+    iPhone, iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    May 24, 2023
+
+Worldwide Release Date
+    May 24, 2023
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.0.2
+
+Size
+    34.78 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Brandon Thio
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.brandonthio.minutes
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1627915461
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Minutes: AI Voice Notes | data.ai

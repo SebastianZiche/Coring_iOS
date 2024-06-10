@@ -1,0 +1,8 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+991552607,0,Video Speed Editor Slow Fast,Photo and Video,2015-06-04,2015-06-04,45.73,21,0,0,1,1.6,2021-02-07,Fix an issue of video cutting to the right some times.,0,0,0,0,0,0,0,0
+991552607,0,Video Speed Editor Slow Fast,Photo and Video,2015-06-04,2015-06-04,45.73,21,0,0,1,1.5,2020-04-24,Fix audio overlap issue,0,0,1,0,0,0,0,0
+991552607,0,Video Speed Editor Slow Fast,Photo and Video,2015-06-04,2015-06-04,45.73,21,0,0,1,1.4,2020-04-21,Fixed audio upload issue,0,1,0,0,0,0,0,0
+991552607,0,Video Speed Editor Slow Fast,Photo and Video,2015-06-04,2015-06-04,45.73,21,0,0,1,1.3,2020-04-12,Support for latest iOS and devices Preview the video while trimming each part,0,1,0,0,0,0,0,0
+991552607,0,Video Speed Editor Slow Fast,Photo and Video,2015-06-04,2015-06-04,45.73,21,0,0,1,1.2,2016-02-11,iOS9 Support,0,0,0,0,0,0,0,0
+991552607,0,Video Speed Editor Slow Fast,Photo and Video,2015-06-04,2015-06-04,45.73,21,0,0,1,1.1,2015-08-06,Fixed the video preview issue that happens in iOS 8.4 Added help video. Tap on the button to see help video.,0,0,0,0,0,0,0,0
+991552607,0,Video Speed Editor Slow Fast,Photo and Video,2015-06-04,2015-06-04,45.73,21,0,0,1,1.0,2015-06-04,,0,0,0,0,0,0,0,0

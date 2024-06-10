@@ -1,0 +1,272 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Whisper Notes - Speech To Text
+Yeonni LeeProductivity (Applications)$5.99
+Alerts
+
+    Yeonni Lee
+
+    Whisper Notes - Speech To Text
+    Whisper Notes - Speech To Text
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Whisper Notes - Speech To Text
+Transcrição Offline e Precisa.
+Productivity (Applications)
+$5.99
+App Description
+Whisper Notes: Usa o modelo Whisper para transcrever voz em texto, com alta precisão, rapidez e sem conexão.
+
+- Sem rede, o que significa que sua privacidade em voz e texto não será exposta a ninguém.
+- Suporta mais de 80 idiomas e cenários de mistura de idiomas, sem problemas com a combinação de português e inglês.
+- Sem assinaturas/compras internas/anúncios, apenas um pagamento único para uso vitalício.
+
+Você pode usá-lo como um gravador de notas de voz, capturar inspirações ou liberar suas mãos para converter longos discursos em texto e depois enviar para seus amigos, com precisão muito superior ao reconhecimento de voz do sistema.
+
+■ Por que fazer isso?
+
+Já existem muitas ferramentas baseadas no Whisper no mercado, por que criar outra? A razão é simples:
+
+1. Às vezes tenho um sonho estranho e ao acordar quero gravá-lo, mas é difícil escrever com os olhos pesados. Desejo uma ferramenta que possa inserir rapidamente a voz e convertê-la em texto.
+
+2. Quando um amigo me envia uma mensagem e preciso responder algo longo, mas estou na rua ou comendo, quero poder responder rapidamente sem enviar uma mensagem de voz.
+
+Portanto, este produto busca um equilíbrio entre precisão e velocidade: usar o maior modelo possível, mas sem esperar minutos para completar a transcrição. Normalmente, você insere um discurso e em alguns segundos pode copiar o texto e responder. Se você busca precisão extrema (o que levaria a uma velocidade de transcrição muito lenta), Whisper Notes talvez não seja para você.
+
+■ Contato
+myfancoo at gmail dot com
+Ratings
+Displayed Avg Ratings
+4.68
+Total Displayed Ratings
+98
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.2.0 (Feb 1, 2024)
+    - accelerated model response time.
+    - ranscription completion notification.
+Version 1.1.9 (Jan 18, 2024)
+    - Adicionado ajustes para a qualidade de gravação e ganho de entrada.
+Version 1.1.8 (Jan 11, 2024)
+    - now it's easier to play and pause the recorded audio.
+Version 1.1.7 (Dec 29, 2023)
+    - Sharing and exporting are now easier.
+Version 1.1.6 (Dec 19, 2023)
+    - you can now specify the language for transcription.
+    - a faster, smaller model has been added, and you can switch models as needed.
+Version 1.1.5 (Dec 11, 2023)
+    - you can now export audio by long pressing the message.
+    - the animation in transcription is more beautiful now.
+Version 1.1.4 (Nov 29, 2023)
+    - fix the issue with large file transcription.
+    - resolve the issue of playback from earphone.
+Version 1.1.3 (Jul 21, 2023)
+    - You can import audio files now.
+Version 1.1.2 (Jun 16, 2023)
+    - now you can continue recording even after the screen is turned off.
+Version 1.1.1 (Jun 14, 2023)
+    - fine-tune UI.
+    - add privacy statement.
+    - automatically fold overlong message.
+Version 1.1.0 (Jun 6, 2023)
+    - automatically copy to clipboard after transcription.
+    - allow recording upon opening the app.
+Version 1.0.9 (May 29, 2023)
+    - you can now long press to edit or share message.
+    - major changes to the UI interface, hope you will like it. :)
+Version 1.0.8 (May 23, 2023)
+    - different background color for archived sound messages.
+Version 1.0.3 (May 11, 2023)
+    - add feature to archive your voice, click bubble to play it back.
+Version 1.0.2 (Apr 18, 2023)
+    - add cofig page.
+Version 1.0.1 (Apr 7, 2023)
+    - fix UI issue for transcribe history.
+    - (support for import audio will be in next version sorry)
+Version 1.0 (Apr 4, 2023)
+
+Users may also like
+Select objects to compare
+Whisper Memos - Speech to text
+Whisperboard
+Whisper : Speech to Text
+MLC Chat
+Speech To Text & Whisper
+Immersive Translate for Safari
+Foresee: Predictions Tracker
+OpenCat
+Paxo: AI Meeting Notes
+Moe Memos
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.2.0
+    Current release
+    Feb 1, 2024
+    1.1.9
+    Jan 18, 2024
+    1.1.8
+    Jan 11, 2024
+    1.1.7
+    Dec 29, 2023
+    1.1.6
+    Dec 19, 2023
+    1.1.5
+    Dec 11, 2023
+    1.1.4
+    Nov 29, 2023
+    1.1.3
+    Jul 21, 2023
+    1.1.2
+    Jun 16, 2023
+    1.1.1
+    Jun 14, 2023
+    1.1.0
+    Jun 6, 2023
+    1.0.9
+    May 29, 2023
+    1.0.8
+    May 23, 2023
+    1.0.3
+    May 11, 2023
+    1.0.2
+    Apr 18, 2023
+    1.0.1
+    Apr 7, 2023
+    1.0
+    Apr 4, 2023
+
+See More
+About
+
+Required Devices
+    Mac, iPhone, iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    Apr 4, 2023
+
+Worldwide Release Date
+    Apr 4, 2023
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    1.2.0
+
+Size
+    639.82 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Português, Alemão, Checo, Chinês simplificado, Chinês tradicional, Coreano, Croata, Dinamarquês, Eslovaco, Espanhol, Finlandês, Francês, Hebraico, Hindi, Holandês, Indonésio, Inglês, Italiano, Japonês, Malaio, Polonês, Russo, Sueco, Tailandês, Turco, Ucraniano, Vietnamita, Árabe
+
+Seller
+    Yeonni Lee
+
+Content Rating
+    Rated +4
+
+Family Sharing
+    Yes
+
+Requirement
+    Exige o iOS 16.0 ou posterior. Compatível com iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2ª geração), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3ª geração), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Pro de 11 polegadas, iPad Pro de 11 polegadas Wi‑Fi + Cellular, iPad Pro de 12,9 polegadas (3ª geração), iPad Pro de 12,9 polegadas (3ª geração) Wi‑Fi + Cellular, iPad mini (5ª geração), iPad mini (5ª geração) Wi‑Fi + Cellular, iPad Air (3ª geração), iPad Air (3ª geração) Wi‑Fi + Cellular, iPad Pro de 11 polegadas (2ª geração), iPad Pro de 11 polegadas (2ª geração) Wi‑Fi + Cellular, iPad Pro de 12,9 polegadas (4ª geração), iPad Pro de 12,9 polegadas (4ª geração) Wi‑Fi + Cellular, iPad Air (4ª geração), iPad Air (4ª geração) Wi‑Fi + Cellular, iPad Air (8ª geração), iPad Air (8ª geração) Wi‑Fi + Cellular, iPad Pro (11 pol.) (3ª geração), iPad Pro (11 pol.) (3ª geração) Wi‑Fi + Cellular, iPad Pro (12,9 pol.) (5ª geração), iPad Pro (12,9 pol.) (5ª geração) Wi‑Fi + Cellular, iPad mini (6ª geração), iPad mini (6ª geração) Wi‑Fi + Cellular, iPad (9ª geração), iPad (9ª geração) Wi‑Fi + Cellular, iPad Air (5ª geração), iPad Air (5ª geração) Wi‑Fi + Cellular, iPad (10ª geração), iPad (10ª geração) Wi‑Fi + Cellular, iPad Pro (11 polegadas) (4ª geração), iPad Pro (11 polegadas) (4ª geração) Wi‑Fi + Cellular, iPad Pro (12,9 polegadas) (6ª geração) e iPad Pro (12,9 polegadas) (6ª geração) Wi‑Fi + Cellular.
+
+Bundle ID
+    com.mazzystar.WhisperMemo
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6447090616
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Whisper Notes - Speech To Text | data.ai
+				
+				
+				
+				
+				
+	

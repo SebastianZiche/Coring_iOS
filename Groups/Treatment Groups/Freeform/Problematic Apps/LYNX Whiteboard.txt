@@ -1,0 +1,338 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+LYNX Whiteboard
+SAHARA PRESENTATION SYSTEMS LTDEducation (Applications)Free
+Alerts
+
+    SAHARA PRESENTATION SYSTEMS LTD
+
+    LYNX Whiteboard
+    LYNX Whiteboard
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+LYNX Whiteboard
+Education (Applications)
+Free
+App Description
+Introducing LYNX Whiteboard, the ultimate tool for idea sharing and collaboration with your team or classmates. LYNX Whiteboard is designed to enhance your productivity and creativity by providing you with a virtual whiteboard that you can access from anywhere.
+
+With LYNX Whiteboard, you can easily sketch, draw, write, and erase just like you would on a physical whiteboard. Whether you’re working on a project, presenting an idea, or teaching a class, LYNX Whiteboard has everything you need to make your collaboration sessions more effective.
+
+-- LYNX for Business --
+
+Brainstorming sessions: Collaborate with colleagues to generate new ideas and strategies, and capture them all on your virtual whiteboard.
+Presentations: Use LYNX Whiteboard to create engaging presentations that showcase your ideas and data, and share them with your team or clients.
+Project planning: Organize your thoughts, tasks, and timelines on a virtual whiteboard, and collaborate with your team to stay on track.
+
+-- LYNX for Education --
+Lesson planning: Use LYNX Whiteboard to create interactive lessons that engage students with multimedia, diagrams, and games, and collaborate with other teachers to share your best practices.
+Group projects: Work with classmates to brainstorm, plan, and create projects using a virtual whiteboard, and collaborate in real-time from anywhere.
+Virtual tutoring: Use LYNX Whiteboard to provide virtual tutoring sessions, and collaborate with students to help them learn and solve problems.
+
+-- LYNX for Families --
+
+Creative projects: Use LYNX Whiteboard to sketch out ideas for art, design, or writing projects, and collaborate with friends or family members to refine your vision.
+Organization: Keep track of schedules, grocery lists, and other important information by creating a shared whiteboard for your family to access from anywhere.
+Virtual game nights: Use LYNX Whiteboard to play charades and other drawing games with friends and family.
+
+FEATURES
+
+-- Easy to Use Interface --
+LYNX Whiteboard has an intuitive interface that makes it easy to start using right away. You can create a new board with just a few taps, and start sketching, drawing, or writing immediately.
+
+-- Variety of Pen Styles and Sizes --
+From ink pens, handwriting recognition and highlighters to rainbow pens and erasers, LYNX Whiteboard has everything you need to create a stylish and engaging presentation.
+
+-- Multi-touch --
+LYNX Whiteboard supports up to 10 people all collaborating simultaneously on the board.
+
+-- Customizable Backgrounds --
+You can choose from a range of backgrounds for your whiteboard, including plain white, gridlines, music score or an image from the media search. This makes it easy to tailor your whiteboard to your specific needs.
+
+-- Sharing and Collaboration --
+LYNX Whiteboard makes it easy to share your whiteboard with others, whether you’re working on a project with colleagues, teaching a class, or presenting an idea. You can invite others to view your board, or share it as a PDF.
+
+-- LYNX Cloud Storage --
+Whiteboards can be saved to LYNX Cloud, so you can access them from anywhere, anytime. This means you can pick up right where you left off, even if you switch devices or locations.
+
+-- Multi-Device Support --
+LYNX Whiteboard works across multiple devices, including smartphones, tablets, and computers. This means you can start working on one device, and pick up where you left off on another.
+
+-- Extensive File Support --
+Use all your existing presentation files and documents. LYNX Whiteboard supports PowerPoint, MS Word, Google Docs, SMART Notebook, PDF and more.
+
+-- No Ads --
+LYNX Whiteboard is completely ad-free.
+
+LYNX Whiteboard is perfect for teams, students, teachers, and anyone who needs to collaborate and share ideas. With its intuitive interface, and comprehensive features, it’s the ultimate tool for boosting productivity and creativity. Try LYNX Whiteboard today, and take your collaboration sessions to the next level.
+Ratings
+Displayed Avg Ratings
+4.08
+Total Displayed Ratings
+24
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+See More
+What's New
+
+Version 8.2.6 (Jan 3, 2024)
+    Minor bug fixes
+Version 8.2.4 (Nov 22, 2023)
+    Minor bug fixes
+Version 8.2.3 (Nov 15, 2023)
+    new media player controls, new snap alignment options
+Version 8.1.3 (Sep 19, 2023)
+    Minor bug fixes
+Version 8.1.2 (Aug 17, 2023)
+    Added snap guidelines, and file management options in the file browser. 
+Version 8.0.7 (May 30, 2023)
+    Fixed issue with the palm reject option blocking the use of the eraser
+    Fixed opening a sharable file from the dashboard
+Version 8.0.6 (May 16, 2023)
+    Major new version
+Version 7.7.12 (Feb 21, 2023)
+    Major backend upgrade
+Version 7.6.5 (Apr 27, 2022)
+    Bug fixes
+Version 7.6.4 (Apr 9, 2022)
+    Various minor bug fixes
+Version 7.6.3 (Mar 11, 2022)
+    Import .flipchart files
+Version 7.3.10 (Aug 9, 2021)
+    Fix two crashes
+Version 7.2.5 (Apr 14, 2021)
+    * Can now open YouTube videos in the system browser from internal player
+    * The select tool is now always the default when changing presentation mode
+    * Can now search cloud drives for content
+    * Fixed playing YouTube videos
+    * Fixed issue saving imported PDF when name is not changed
+    * Fixed issue saving out backgrounds when they do not fill the page
+    * Fixed issue importing links between pages
+    * When opening a PDF document directly, the default page size is now set correctly
+Version 7.2.4 (Mar 25, 2021)
+    Added user facing warnings for some error conditions
+    Improved eraser and palm erase
+    Improved handwriting performance
+    Added option for setting font for handwriting recognitions
+    Updated translations
+    Fixed issue with PDF export when presentation pages are not a uniform size
+    Fixed issue with underline being incorrectly applied to text
+Version 7.1.5 (Dec 12, 2020)
+    New toolbar layout,
+    File type icon overlays on the home dashboard,
+    Improved text handling,
+    Fixed crashes,
+Version 7.0.14 (Oct 20, 2020)
+    Fix for a iOS crash,
+    Updated translations,
+Version 7.0.13 (Oct 13, 2020)
+    Improved detection of screen sizes,
+    Improved support for importing complex backgrounds,
+    Fixed crash on iOS when adding media items,
+    Fixed rare crash when saving,
+    Updated translations,
+Version 7.0.12 (Oct 3, 2020)
+    German and Swedish translations updated
+Version 7.0.11 (Oct 1, 2020)
+    Stability improvements
+Version 7 (Sep 30, 2020)
+    New user interface
+Version 6 (Aug 1, 2018)
+    Reworked user interface,
+    Online handwriting and maths recognition,
+    Improved stability,
+Version 5.3 (Oct 16, 2017)
+
+Users may also like
+Select objects to compare
+Presenter 10
+SchoolTool
+Simple Power Grader
+Teacher Tapp
+j2launch
+Blue's Blocs
+now>press>play
+iTeacher App
+Kaligo
+STABILO® EduPen
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    8.2.6
+    Current release
+    Jan 3, 2024
+    8.2.4
+    Nov 22, 2023
+    8.2.3
+    Nov 15, 2023
+    8.1.3
+    Sep 19, 2023
+    8.1.2
+    Aug 17, 2023
+    8.0.7
+    May 30, 2023
+    8.0.6
+    May 16, 2023
+    7.7.12
+    Feb 21, 2023
+    7.6.5
+    Apr 27, 2022
+    7.6.4
+    Apr 9, 2022
+    7.6.3
+    Mar 11, 2022
+    7.3.10
+    Aug 9, 2021
+    7.2.5
+    Apr 14, 2021
+    7.2.4
+    Mar 25, 2021
+    7.1.5
+    Dec 12, 2020
+    7.0.14
+    Oct 20, 2020
+    7.0.13
+    Oct 13, 2020
+    7.0.12
+    Oct 3, 2020
+    7.0.11
+    Oct 1, 2020
+    7
+    Sep 30, 2020
+    6
+    Aug 1, 2018
+    5.3
+    Oct 16, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Education
+
+Initial Release Date
+    Oct 16, 2017
+
+Worldwide Release Date
+    Oct 16, 2017
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    8.2.6
+
+Size
+    124.17 mb
+
+Only 32 Bit
+    No
+
+Seller
+    SAHARA PRESENTATION SYSTEMS LTD
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Nécessite iOS 14.0 ou une version ultérieure. Compatible avec l’iPhone, l’iPad et l’iPod touch.
+
+Bundle ID
+    uk.co.clevertouch.Lynx
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1260946498
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+LYNX Whiteboard | data.ai

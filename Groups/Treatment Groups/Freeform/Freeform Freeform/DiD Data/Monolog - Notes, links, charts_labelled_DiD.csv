@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1572787859,0,Monolog Notes links charts,Productivity,2021-07-30,2021-07-30,36.19,4,0,0,1,1,0,1,0,0,0,0,0,0,0,month_1,1,0,341,446.0
+1572787859,0,Monolog Notes links charts,Productivity,2021-07-30,2021-07-30,36.19,4,0,0,1,8,0,0,1,0,0,0,0,0,0,month_2,1,0,371,446.0
+1572787859,0,Monolog Notes links charts,Productivity,2021-07-30,2021-07-30,36.19,4,0,0,1,1,0,0,0,1,0,0,0,0,0,month_3,1,0,401,446.0
+1572787859,0,Monolog Notes links charts,Productivity,2021-07-30,2021-07-30,36.19,4,0,0,1,5,0,0,0,0,1,0,0,0,0,month_4,1,0,431,446.0
+1572787859,0,Monolog Notes links charts,Productivity,2021-07-30,2021-07-30,36.19,4,0,0,1,3,0,0,0,0,0,1,0,0,0,month_5,1,1,461,446.0
+1572787859,0,Monolog Notes links charts,Productivity,2021-07-30,2021-07-30,36.19,4,0,0,1,2,0,0,0,0,0,0,1,0,0,month_6,1,1,491,446.0
+1572787859,0,Monolog Notes links charts,Productivity,2021-07-30,2021-07-30,36.19,4,0,0,1,2,0,0,0,0,0,0,0,1,0,month_7,1,1,521,446.0
+1572787859,0,Monolog Notes links charts,Productivity,2021-07-30,2021-07-30,36.19,4,0,0,1,1,0,0,0,0,0,0,0,0,1,month_8,1,1,551,446.0

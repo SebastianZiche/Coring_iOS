@@ -1,0 +1,5 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1561928917,0,Voice Translator AI,Reference,2021-05-12,2021-05-12,146.16,1,0,0,1,1.4,2023-05-19,Transcribe Audio to Text feature added Upload Audio and translate Performance improvements Bug fixes
+1561928917,0,Voice Translator AI,Reference,2021-05-12,2021-05-12,146.16,1,0,0,1,1.3,2023-04-07,Optimisation for iOS 16 Bug fixes
+1561928917,0,Voice Translator AI,Reference,2021-05-12,2021-05-12,146.16,1,0,0,1,1.2,2022-02-26,Bug fixes Translation performance improvements Price decreased
+1561928917,0,Voice Translator AI,Reference,2021-05-12,2021-05-12,146.16,1,0,0,1,1.1,2021-10-08,Performance improvements Bugs fixed

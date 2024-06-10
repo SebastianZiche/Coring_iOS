@@ -1,0 +1,403 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Butaca TV - Watch Movies
+Veranda EntertainmentEntertainment (Applications)Free
+Alerts
+
+Butaca TV
+Butaca TV - Watch Movies
+Butaca TV - Watch Movies
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Butaca TV - Watch Movies
+Spanish-language movies & TV
+Entertainment (Applications)
+Free
+App Description
+Butaca TV brings you closer to your culture. In Butaca you will find award-winning contemporary and classic films, documentaries, and TV programs from Latin America and the Caribbean
+
+
+
+Watch hundreds of popular Spanish language movies for free. Our service is legal and allows you to stream our content with a simple click with no credit cards and no subscription required. Choose what you want to watch, when you want to watch it, with fewer ads than regular TV. From new films to classics there is something for everybody; Download now and start streaming for free, today!
+Ratings
+Displayed Avg Ratings
+4.13
+Total Displayed Ratings
+45
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.5.41 (Dec 14, 2023)
+    - Fixed bugs.
+    - Changed some features.
+    - Higher app performances.
+Version 2.0.9 (Sep 26, 2023)
+    - Hotfix: clean promotion data when entering the app.
+    - Fixed bugs.
+    - Updated some features.
+Version 2.0.8 (Aug 3, 2023)
+    - Fixed bugs.
+    - Updated some features.
+    - Higher performance.
+Version 2.0.6 (Jul 13, 2023)
+    - Fixed bugs.
+    - Higher app performance.
+    - Updated some features.
+Version 2.0.5 (Nov 18, 2022)
+    - Fixed bugs.
+    - Updated some features.
+    - Higher performance.
+    - Hotfix: crash on some devices.
+Version 2.0 (Nov 17, 2022)
+    - Fixed bugs.
+    - Updated some features.
+    - Higher performance.
+Version 1.10.86 (Oct 18, 2022)
+    - Hotfix: The cast feature is not working with the Chromecast.
+Version 1.0.84 (Oct 6, 2022)
+    - Fixed video play error on iOS 16.
+    - Fixed other issues.
+    - Higher app performance.
+Version 1.10.81 (Aug 18, 2022)
+    - Fixed bugs.
+    - Updated some features.
+    - Higher app performances.
+Version 1.10.73 (Jun 9, 2022)
+    - Fixed bugs.
+    - Updated some features.
+    - Higher app performances.
+Version 1.10.71 (Jun 7, 2022)
+    - Fixed bugs.
+    - Higher performances.
+Version 1.10.68 (May 27, 2022)
+    - Fixed bugs.
+    - Higher app performances.
+Version 1.10.65 (May 26, 2022)
+    - Fixed bugs.
+    - Updated UI/UX.
+    - Higher app performances.
+Version 1.10.56 (May 11, 2022)
+    - Fixed bugs.
+    - Updated some features.
+    - Implemented account deletion.
+    - Higher performances.
+Version 1.10.52 (May 3, 2022)
+    - Fixed bugs.
+    - Fixed my list loading forever.
+    - Updated some features.
+    - Higher app performances.
+Version 1.10.50 (Apr 22, 2022)
+    - Fixed bugs.
+    - Separate the Google Services.
+    - Updated some features.
+    - Higher app performances.
+Version 1.10.40 (Apr 12, 2022)
+    - Fixed bugs.
+    - Added the sync to continue watching across devices via Firestore.
+    - Added more events to sync resume continue watching.
+    - Increase timeout for the video player. 
+Version 1.10.35 (Apr 5, 2022)
+    - Fix bugs.
+    - Updated some features.
+    - Higher performance.
+Version 1.10.32 (Mar 17, 2022)
+    - Fix bugs.
+    - Updated some features.
+    - Higher performance.
+Version 1.4.13 (Mar 3, 2022)
+    - Fixed bugs.
+    - Updated some features.
+    - Higher app performance.
+Version 1.4.10 (Feb 16, 2022)
+    - Fixed bugs.
+    - Optimized some features.
+    - Higher app performance.
+Version 1.4.5 (Nov 28, 2021)
+    Improve the continue watching feature.
+    Fixed bugs.
+    Improved stability.
+Version 1.4.3 (Nov 19, 2021)
+    Fixed bugs and improved stability.
+Version 1.4.2 (Nov 4, 2021)
+    Fixed bugs and improved stability.
+Version 1.4.1 (Oct 20, 2021)
+    Fixed bugs and improved stability.
+Version 1.4.0 (Oct 7, 2021)
+    Fixed bugs and improved stability.
+Version 1.3.2 (Aug 21, 2021)
+    Improved stability.
+Version 1.3.1 (Aug 8, 2021)
+    Fixed bugs and improved stability.
+Version 1.3.0 (Aug 2, 2021)
+    Fixed bugs and improved stability.
+Version 1.2.7 (Jun 24, 2021)
+    Fixed bugs and improved stability.
+Version 1.2.5 (May 30, 2021)
+    Fixed bugs and improved stability.
+Version 1.2.4 (May 24, 2021)
+    Fixed bugs and improved stability.
+Version 1.2.3 (May 16, 2021)
+    Fixed bugs and improved stability.
+Version 1.2.2 (May 12, 2021)
+    Fixed bugs and improved stability.
+Version 1.2.1 (May 8, 2021)
+    Improved stability.
+Version 1.2.0 (May 5, 2021)
+    Fixed bugs and improved stability.
+Version 1.1.3 (Mar 18, 2021)
+    Improved stability.
+Version 1.1.2 (Mar 16, 2021)
+    Fixed bugs and improved stability.
+Version 1.1.1 (Feb 6, 2021)
+    Fixed bugs and improved stability.
+Version 1.0.7 (Jan 23, 2021)
+    Fixed bugs and improved stability.
+Version 1.0.4 (Jan 12, 2021)
+    Fixed bugs and improved stability
+Version 1.0.3 (Jan 7, 2021)
+    Improved stability
+Version 1.0.2 (Jan 6, 2021)
+    Improved stability.
+Version 1.0.1 (Dec 30, 2020)
+
+Users may also like
+Select objects to compare
+FlixLatino
+FreeTV
+Sofa Time: TV Shows & Movies
+Movie Premieres
+TodoMovies
+ShowFlix - TV Shows
+Canela.TV - Series and Movies
+Picardía Nacional: Cine MX
+Runtime TV
+My Movies & TV Shows Watchlist
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.5.41
+    Current release
+    Dec 14, 2023
+    2.0.9
+    Sep 26, 2023
+    2.0.8
+    Aug 3, 2023
+    2.0.6
+    Jul 13, 2023
+    2.0.5
+    Nov 18, 2022
+    2.0
+    Nov 17, 2022
+    1.10.86
+    Oct 18, 2022
+    1.0.84
+    Oct 6, 2022
+    1.10.81
+    Aug 18, 2022
+    1.10.73
+    Jun 9, 2022
+    1.10.71
+    Jun 7, 2022
+    1.10.68
+    May 27, 2022
+    1.10.65
+    May 26, 2022
+    1.10.56
+    May 11, 2022
+    1.10.52
+    May 3, 2022
+    1.10.50
+    Apr 22, 2022
+    1.10.40
+    Apr 12, 2022
+    1.10.35
+    Apr 5, 2022
+    1.10.32
+    Mar 17, 2022
+    1.4.13
+    Mar 3, 2022
+    1.4.10
+    Feb 16, 2022
+    1.4.5
+    Nov 28, 2021
+    1.4.3
+    Nov 19, 2021
+    1.4.2
+    Nov 4, 2021
+    1.4.1
+    Oct 20, 2021
+    1.4.0
+    Oct 7, 2021
+    1.3.2
+    Aug 21, 2021
+    1.3.1
+    Aug 8, 2021
+    1.3.0
+    Aug 2, 2021
+    1.2.7
+    Jun 24, 2021
+    1.2.5
+    May 30, 2021
+    1.2.4
+    May 24, 2021
+    1.2.3
+    May 16, 2021
+    1.2.2
+    May 12, 2021
+    1.2.1
+    May 8, 2021
+    1.2.0
+    May 5, 2021
+    1.1.3
+    Mar 18, 2021
+    1.1.2
+    Mar 16, 2021
+    1.1.1
+    Feb 6, 2021
+    1.0.7
+    Jan 23, 2021
+    1.0.4
+    Jan 12, 2021
+    1.0.3
+    Jan 7, 2021
+    1.0.2
+    Jan 6, 2021
+    1.0.1
+    Dec 30, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Dec 29, 2020
+
+Worldwide Release Date
+    Mar 14, 2023
+
+Last Updated Time
+    Mar 6, 2024
+
+Version
+    2.5.41
+
+Size
+    82.87 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Veranda Ent Inc
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.butacatv.butacaApp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1543956774
+Unified App ID: 1000800000186549
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Butaca TV - Watch Movies | data.ai

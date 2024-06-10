@@ -1,0 +1,53 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.30,2023-12-25,Fixed bugs in notifications,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.29,2023-11-17,Performance improvement,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.28,2023-10-15,Fixed task widget,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.27,2023-07-17,Error correction,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.26,2023-06-23,Minor performance improvements,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.25,2023-06-06,Improved user experience,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.24,2023-05-31,Fixed an error when launching the application,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.23,2023-05-26,Fixes have been made to improve the user experience,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.21.1,2023-04-11,Error correction,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.20.1,2023-03-30,Added statistics available on iOS 15 and higher . Improved habit creation,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.19.1,2023-03-18,Improved user experience,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.18,2023-03-11,Bugs fixed,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.17,2023-02-27,bug fixing,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.16,2023-02-11,bugs fixed,0,0,0,0,0,0,0,1
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.15,2023-01-30,Fixed: error when working with a large number of lists errors in onboarding,0,0,0,0,0,0,0,1
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.14,2022-12-24,bugs fixed and user experience improved,0,0,0,0,0,0,1,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.13.1,2022-12-20,Fixed errors in the motivation function,0,0,0,0,0,1,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.12.1,2022-12-17,bug fixes increased application stability,0,0,0,0,0,1,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.11,2022-12-14,A new function I Motivation has been added. It has its own characters analyzes your tasks and based on them motivates you throughout the day in a way that suits you. Depending on the length of your day I Motivation will send you up to 5 notifications per day based on how well you are doing with your current tasks. Fixed a bug that in some cases the result of the day is zero,0,0,0,0,0,1,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.10,2022-11-29,improved user experience and bug fixes,0,0,0,0,0,1,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.9,2022-11-09,improved user experience bugs fixed,0,0,0,0,1,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.8,2022-11-01,improved UX improved app stability bugs fixed,0,0,0,0,1,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.7,2022-10-07,improved interaction with the subscription bugs fixed,0,0,0,1,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.5,2022-08-30,added ability to add many reminders for habits,0,0,1,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.4,2022-08-18,improved user interface fixed bugs,0,1,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.3,2022-08-14,improved user interface bugs fixed,0,1,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.2,2022-08-10,improved user experience error correction,0,1,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.1,2022-08-07,New: Added the ability to quickly jump to a created task Improved: When creating a task the selected one will be automatically installed date on the calendar Subtasks can now be completed edited and rearranged,0,1,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,2.0,2022-08-02,improved design improved user experience,0,1,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.26,2022-07-25,improved memory handling improved work with a large number of regular tasks improved user experience bugs fixed,1,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.25,2022-07-20,improved design bugs fixed,1,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.24,2022-07-17,improved design bugs fixed,1,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.22,2022-02-17,regular tasks,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.21,2021-11-30,fixed bug with empty menu,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.20,2021-11-28,added work with lists improved design,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.19,2021-11-09,Fixed a bug when working with tables,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.18,2021-10-14,fixed sorting in the journal fixed crash on the journal screen,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.17,2021-10-06,Fixed a bug when working without the Internet,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.16,2021-09-18,Fixed a bug in notifications when restoring a backup,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.15,2021-09-17,In this version we have added: free Backups feature the ability to leave feedback directly from the application ability to contact technical support from the application Purchase screens have been completely redesigned: improved design added subscription end date added an indicator showing which tariff was purchased from you added a button to go to subscription management,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.14,2021-08-23,We have improved the application made it more stable and reliable. This update has improved: design and user experience.,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.13,2021-08-22,We have improved the application made it more stable and more reliable. This update has improved: design and user experience.,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.11,2021-08-20,We have improved the application made it more stable and more reliable. This update has improved: design and user experience.,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.9,2021-08-17,We have improved the application made it more stable and more reliable. This update has improved: design and user experience.,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.8,2021-08-15,Improved user experience,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.7,2021-08-12,Improved display of time and dates Added new languages Bugs fixed,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.6,2021-07-10,Added new features: tasks without date and notes,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.5,2021-06-28,1 Task and habit widgets 2 Dark theme 3 Comments on tasks 4 Bugs fixed,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.4,2021-06-11,Improved user experience,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.3,2021-06-10,Bugs fixed,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.2,2021-06-09,Bugs fixed and user experience improved,0,0,0,0,0,0,0,0
+1568885358,0,Daily planner Life organizer,Productivity,2021-08-10,2021-06-05,54.7,7,0,0,1,1.1,2021-06-05,Bugs fixed,0,0,0,0,0,0,0,0

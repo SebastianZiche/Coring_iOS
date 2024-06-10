@@ -1,0 +1,7 @@
+SELECT application_id, title, description FROM `epf_application` WHERE LOWER(description) LIKE '%whiteboard%' AND itunes_release_date <= '2020-06-22' 
+
+
+
+
+
+SELECT application_id, title, description FROM `epf_application` WHERE (LOWER(title) LIKE '%whiteboard%' OR LOWER(title) LIKE '%canvas%') AND itunes_release_date <= '2020-06-22' 

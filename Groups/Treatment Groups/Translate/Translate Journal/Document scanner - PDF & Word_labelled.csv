@@ -1,0 +1,56 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,7.3,2023-09-10,User experience improvement,0,0,1,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,7.2,2023-09-05,User experience update,0,0,1,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,7.1,2023-08-14,user experience improvement interface updates,0,1,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,7.0,2023-06-11,Fixed crash in History Changes in UI UX improvement,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.9,2023-05-03,Security improvements,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.8,2023-04-24,Unlimited usage for everyone,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.7,2023-01-28,Changes: audio plays correctly in every recognized text document preview is correctly displayed in each scan Changed tab order. The scanner got closer. improved interface new functionality: scanner to pdf file directly,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.6,2022-11-20,New app feature: image scanner,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.5,2022-11-15,User experience improvement. Ability to copy every single value in tables and barcode scanners results. Now open app from feature you last used.,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.4,2022-11-14,Added barcode scanner. Find merchant details out in 1 scan! Less ads,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.3,2022-09-06,User experience improvement,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.2,2022-08-23,Added new feature: receipt scanner Improved document format recognition,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.1,2022-08-15,User experience improvements,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,6.0,2022-08-10,New feature: Export scanned documents to pdf files,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,5.9,2022-07-29,Updated app description,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,5.6,2022-06-28,Fixed issue in converting images to MS Word document,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,5.4,2022-06-18,Japanese Korean localizations,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,5.3,2022-05-27,Fixed showing menu view to share text files and audio for iPad,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,5.2,2022-05-06,Interface update,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,5.1,2022-04-17,Forms scanner improvement,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,5.0,2022-04-15,Interface update,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.9,2022-04-13,Crash fix,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.8,2022-04-12,Interface updates Forms recognition improvement Accuracy improvement User experience improvement,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.7,2022-03-29,Interface update,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.6,2022-03-22,New icon,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.5,2022-01-22,Handwritten style OCR is supported exclusively for English Chinese Simplified French German Italian Portuguese Spanish New localizations Improvement to increase accuracy rate,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.4,2022-01-17,Interface updates,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.3,2022-01-13,Fixed bug for premium customers. No advertising for premium customers.,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.2,2022-01-11,User interface update,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.1,2022-01-09,Critical bug fix,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,4.0,2021-12-28,Localizations: Brazil Portuguese Mexico Spanish,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,3.9,2021-12-13,Added Excel xlsx export for simple forms,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,3.8,2021-12-09,forms recognition improvement,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,3.6,2021-10-17,added translate feature translate 20 pages at a time translated text to audio,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,3.5,2021-09-14,Audio player redesign,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,3.4,2021-07-12,Localizations,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,3.3,2021-05-30,app engine improvements,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,3.2,2021-05-29,Scan up to 20 pages at a time in one text file Cropping images before recognition Option to share text audio images User interface improvement Playing audio while screen is locked,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,3.1,2021-04-27,Bug fixes UX improvements in Dark mode App transparency tracking respect,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,3.0,2021-04-15,New features: Text to speech with audio player male and female voices History re design New share options. Text image audio and application link :,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,2.6,2021-03-15,Interface updates,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,2.5,2021-02-22,UX improvement Crash fix,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,2.4,2021-02-14,User interface update,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,2.3,2020-08-31,Fixed crash,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,2.2,2020-08-25,Supported languages: Dutch English French German Italian Portuguese and Spanish.,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,2.1,2020-03-30,Interface updates,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,2.0,2020-03-07,new interface new OCR algorithm unlimited premium version interface updates,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,1.7,2019-08-02,Fixed bug for premium users,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,1.6,2019-07-28,new API version previous version 1.5 is deprecated,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,1.5,2018-10-04,new device support,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,1.4,2018-06-30,fixed iPad crash,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,1.3,2018-06-24,fixed history gallery fixed ocr in landscape orientation,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,1.2,2018-06-23,free usage,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,1.1,2018-06-16,Added sample interface,0,0,0,0,0,0,0,0
+1385568760,0,Document scanner PDF Word,Productivity,2018-06-17,2018-06-14,36.74,13,0,0,1,1.0,2018-06-14,,0,0,0,0,0,0,0,0

@@ -1,0 +1,10 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1600717808,1000800000156947,Haema Diary,Lifestyle,2022-01-20,2022-01-20,22.59,2,1,0,1,1.4.0,2024-01-10,Multiple photos widget function added,0,0,0,0,0,0,0,0
+1600717808,1000800000156947,Haema Diary,Lifestyle,2022-01-20,2022-01-20,22.59,2,1,0,1,1.3.0,2023-12-04,Added backup and font functions,0,0,0,0,0,0,0,0
+1600717808,1000800000156947,Haema Diary,Lifestyle,2022-01-20,2022-01-20,22.59,2,1,0,1,1.2.0,2023-04-09,Movie search API changes,0,0,0,0,0,0,0,0
+1600717808,1000800000156947,Haema Diary,Lifestyle,2022-01-20,2022-01-20,22.59,2,1,0,1,1.1.4,2022-06-26,Minor error fixes,0,0,0,0,0,0,0,0
+1600717808,1000800000156947,Haema Diary,Lifestyle,2022-01-20,2022-01-20,22.59,2,1,0,1,1.1.3,2022-06-21,error correction Fixed an error where the app would turn off when writing long text records. Fixed an error where the photo was not visible,0,0,0,0,0,0,0,0
+1600717808,1000800000156947,Haema Diary,Lifestyle,2022-01-20,2022-01-20,22.59,2,1,0,1,1.1.2,2022-06-17,Diary Write edit movie and book reviews Correct errors,0,0,0,0,0,0,0,0
+1600717808,1000800000156947,Haema Diary,Lifestyle,2022-01-20,2022-01-20,22.59,2,1,0,1,1.1.1,2022-02-15,Fix image invisible error,0,0,0,0,0,0,0,0
+1600717808,1000800000156947,Haema Diary,Lifestyle,2022-01-20,2022-01-20,22.59,2,1,0,1,1.1,2022-02-05,Error fixes and stability improvements,0,0,0,0,0,0,0,0
+1600717808,1000800000156947,Haema Diary,Lifestyle,2022-01-20,2022-01-20,22.59,2,1,0,1,1.0,2022-01-20,,0,0,0,0,0,0,0,0

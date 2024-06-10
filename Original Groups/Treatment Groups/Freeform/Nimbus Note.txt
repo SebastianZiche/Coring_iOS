@@ -1,0 +1,942 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Nimbus Note
+Nimbus Web Productivity (Applications)Free
+Alerts
+
+Nimbus Note
+Nimbus Note
+Nimbus Note
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Nimbus Note
+Useful notepad and organizer
+Productivity (Applications)
+Free
+App Description
+Powerful notes app and organizer that helps you gather and organize your information — all in one place. There’s no need to spend time searching for your notes anymore. Create text notes, scan documents and make to-do lists. Synchronize it all with Nimbus Note for future viewing and editing on other devices.
+
+Conveniently manage your notes
+
+- Create notes in the editor with formatting support — bold, strike, underline, etc.
+- Add pictures, audio, video, documents, and other types of files.
+- Scan and digitise any paper documents and pictures using the camera device. The text recognition feature will let you work with scanned files as well as regular notes.
+
+Organize your notes
+
+- Workspaces - separate personal information from the work-related kind. Create separate databases of notes (with own folders and tags) for different purposes within a single account;
+- Create folders and subfolders;
+- Add context to notes using tags;
+- Use special color labels to make most relevant notes and folders stand out from the list;
+- Add most important notes to Favorites;
+
+Group collaboration on notes
+
+- Invite other people to collaborate on notes;
+- Assign editing rights to each participant (admin, can edit, or reading only);
+
+Get complete control over your workflow and daily errands
+
+- Add to-do lists to your notes;
+- Set time reminders for your tasks;
+
+Your notes available anywhere, anytime
+
+- All of your notes are available on any of your devices — anytime, anywhere;
+- Create a note on your iPhone, add to that note on your Mac, and finish it later in a browser;
+- Offline access to your notes.
+
+Document scanner in your phone
+
+- Scan documents, pictures, handwritten notes;
+- Auto-define document borders;
+- Special filters allow making the document black and white or enhance the colors;
+
+Security
+
+- Nimbus Note is optionally protected with an additional passcode;
+
+Powerful search
+
+- Nimbus Note can search through not only text but also images;
+- Search for text in docs/xls/html/ppt and pdf files;
+- The unique search snippets will let you see the required text fragment without opening the note itself;
+- You can find entire words as well as word fragments (for example, the search will find "conscious" in "consciousness");
+
+Continued use of GPS running in the background can dramatically decrease battery life.
+
+Also Available Nimbus Pro:
+
+- 1 GB of new uploads each month;
+- Large attached files;
+- Premium support;
+- More information in every note;
+- Searching for text in images;
+- More workspaces;
+- Advanced encryption;
+- OCR - getting text from images;
+- Search in images and documents;
+
+$3.99 monthly, $39.99 annually
+
+Price may vary by location. Subscriptions will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. You will not be able to cancel the subscription once activated. Manage your subscriptions in Account Settings after purchase.
+
+Privacy Policy - https://nimbus.everhelper.me/privacy.php
+
+Terms and Conditions - https://nimbus.everhelper.me/terms-and-conditions.php
+Ratings
+Displayed Avg Ratings
+4.37
+Total Displayed Ratings
+1.2k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 9.9.0 (Nov 28, 2022)
+    We’ve added support for comments for the task. Open the task in detail view and add new comments or reply to existing ones;
+Version 9.8.0 (Nov 14, 2022)
+    We are constantly working on improving our application and in this release, Nimbus Note has become even faster and more stable;
+Version 9.7.2 (Nov 3, 2022)
+    - Added a detailed view with the ability to add a description to the task. Tap on a task to open it in detailed view.
+Version 9.6.1 (Oct 5, 2022)
+    We have added support for push notifications for task lists. Now, if you are appointed as responsible for the task or someone make any changes to your task, you will immediately know about it without opening the application;
+Version 9.5.0 (Sep 19, 2022)
+    - Added support for widgets for task lists. In widgets, you can view tasks, mark them as completed, and create new tasks;
+    - We've added widget support for pages. You can use a widget with quick access to a single page, a quick-page-creation widget, or a widget with a list of pages (6 last pages from a folder);
+Version 9.4.1 (Sep 6, 2022)
+    A number of fixes and optimizations
+Version 9.4.0 (Sep 1, 2022)
+    - a number of fixes and optimizations
+Version 9.3.0 (Aug 17, 2022)
+    - You can select the screen that will open when the application starts. For example, you can specify that the application always starts from a task list or folders. You can select the screen in Settings;
+    - Added the ability to create new task lists directly from the dashboard without reference to notes. You can transfer the list to the desired note if needed;
+    - Improved performance and fixed minor bugs;
+Version 9.2.8 (Jul 25, 2022)
+    - some improvements;
+Version 9.2.7 (Jul 15, 2022)
+    - Fixed the critical issue where the app was not opening for some users after upgrading;
+    - Added a new shortcut for quickly creating tasks. Just select the desired task list and when the shortcut is triggered, you will only need to enter the name of the task to create it;
+    - Added a new object to the editor - List of tasks. You will be able to create lists and add tasks to it. You can add labels, dates and mention members who are responsible for the tasks;
+    - We have added a dashboard of tasks - a single place where all tasks from all workspace pages are aggregated. You can view tasks and change their status & task attributes;
+Version 9.2.6 (Jul 14, 2022)
+    - Added a new shortcut for quickly creating tasks. Just select the desired task list and when the shortcut is triggered, you will only need to enter the name of the task to create it;
+    - Added a new object to the editor - List of tasks. You will be able to create lists and add tasks to it. You can add labels, dates and mention members who are responsible for the tasks;
+    - We have added a dashboard of tasks - a single place where all tasks from all workspace pages are aggregated. You can view tasks and change their status & task attributes;
+Version 9.1.9 (Apr 28, 2022)
+    - Improved performance and fixed minor bugs
+Version 9.1.7 (Mar 7, 2022)
+    We've added support for internal page reminders. Add the date / time after @ and specify when you need to be reminded (for example, 15 minutes or one hour before the selected date / time).
+Version 9.1.6 (Feb 25, 2022)
+    - Improvements to tags: added the ability to change tags from the list of pages and made it easier to add tags through search;
+    - Fixed the issue when previews were displayed incorrectly in bookmarks;
+    - Ability to add links to comments.
+Version 9.1.3 (Feb 4, 2022)
+    - We are constantly working on improving our application and in this release, Nimbus Note has become even faster and more stable;
+Version 9.1.1 (Jan 26, 2022)
+    - Added History of notes changes. Now you can view versions of a note for different periods of time and restore the desired version in one tap;
+    - Added the ability to export notes to HTML;
+Version 9.0.0 (Jan 17, 2022)
+    - We are constantly working on improving our application and in this release, Nimbus Note has become even faster and more stable;
+Version 8.9.2 (Dec 30, 2021)
+    We are constantly working on improving our application and in this release, Nimbus Note has become even faster and more stable;
+Version 8.9.0 (Dec 16, 2021)
+    We are constantly working on improving our application and in this release, Nimbus Note has become even faster and more stable.
+Version 8.8.4 (Nov 18, 2021)
+    - Fixed some bugs
+Version 8.8.2 (Nov 16, 2021)
+    - Fixed some bugs
+Version 8.8.1 (Nov 15, 2021)
+    - Fixed some bugs
+Version 8.8.0 (Nov 10, 2021)
+    - Added support for Toggles - collapsible lists. You can add them through the editor panel;
+    - Now you can create Siri shortcuts for Nimbus Note! Select Nimbus Note in the list of applications and create a shortcut for your desired actions (e.g., creating a note or opening a workspace);
+    - Added Split mode support. Now you can open two notes at the same time and work in them;
+Version 8.7.1 (Oct 27, 2021)
+    - Fixed some bugs
+Version 8.7.0 (Oct 25, 2021)
+    - Now, when you open a folder, you can immediately see the notes from subfolders. Just activate the Show notes from subfolders option in the note list settings;
+    - Now you can change the default folder for new notes by opening the folder menu and selecting Set as default for new notes;
+Version 8.6.0 (Oct 19, 2021)
+    - We have added support for inline comments. Now, you can comment not only entire blocks, but also separate fragments of text. Just select the text you want and tap on Add comment;
+    - We have separated resolved comments from regular ones. Now, to see comments that have already been resolved, you need to select the corresponding option in the note menu;
+    - We have updated the screen for getting public links. Now you can not only copy a public link, but also immediately set a password for the link;
+    - Now you can change the name of personal organizations and their subdomains directly from the application. To do this, go to the account menu and select Change organization info;
+Version 8.5.0 (Aug 27, 2021)
+    - We've optimized the process of moving notes between workspaces;
+    - Optimized and accelerated the process of duplicating notes;
+Version 8.4.2 (Aug 12, 2021)
+    - We've added the ability to send note content via email. To do this, select the appropriate item in the note sharing menu;
+    - We've added a new filter: past reminders. Now, even if you miss your time reminder, you can still find it. The new filter is available under Sorting and Filtering in the note list;
+    - Added the ability to change the app language through the application settings;
+    - Added the ability to change the alignment for new pictures in the Application Settings - Editor;
+    - Added the ability to enable the Full Width option in the Application Settings - Editor;
+    - Fixed some bugs;
+Version 8.4.0 (Jul 19, 2021)
+    We've added the ability to annotate PDF documents. To do this, open the document and select Edit;
+    - We've added the ability to customize the bottom bar of the application to your liking. You can swap the buttons, e.g. remove the search icon and add the Tags icon instead. This can be done through Settings - Bottom panel view;
+    - We've added spellcheck support to the editor. It can be disabled in Settings - Editor;
+    - We've added the ability to sort by tags in the sorting menu. AND operator - you will only see notes with all the selected tags. OR operator - you will see all notes that contain at least one of the selected tags;
+    - Now, if you record an audio file, you can use text recognition to save the recording transcript separately! To do this, you need to tap on the desired file, then select Speech recognizer from the menu and choose the language in which the audio was recorded;
+    - As you know, we have added the ability to show folders and tags in the note card. Now they are clickable - tap on a folder or tag and this will immediately take you to the corresponding list of notes;
+Version 8.3.3 (Jun 9, 2021)
+    - Now, you can enable tags and note folder display in the notes list. This can be done through the Settings for the appearance of the notes list;
+    - We've added the ability to expand and collapse folders / subfolders in one tap. You can do this on the Folders screen in the settings;
+Version 8.3.2 (Jun 3, 2021)
+    - Now, you can choose which form the link will be saved as when sharing from a browser: a regular link, a bookmark or an article (if it is found by the link);
+    - We have added a convenient panel to the note, which will allow you to change the folder and add tags in a just few clicks;
+    - Fixed some old bugs;
+Version 8.3.0 (May 18, 2021)
+    - We've added the ability to add comments on notes! To add a comment, tap on the desired block and click Comment. You can add comments on text blocks as well as on files, pictures, and so on.
+    - Fixed some bugs;
+Version 8.2.3 (Apr 16, 2021)
+    We've added support for hints. Now, you can create new hints and edit current ones;
+Version 8.2.1 (Apr 2, 2021)
+    - now, when moving or copying a note from the list of notes, you can select not only the organization and workspace, but also the desired folder.
+Version 8.2.0 (Mar 28, 2021)
+    - We've added the ability to search within a note. Just open a note and select Find in note from the menu;
+    - We've updated the Note information screen. Now you can:
+    change the creation and modification dates of the note
+    see the number of characters and words in the note
+    set or change the source link of the note
+    Remember, the Note information screen can be accessed from the note menu.
+    - We have added the ability to edit pictures: draw various shapes on them, make annotations and so on. To do this, go to the editor, tap on the desired picture and select edit.
+    - Now you can hide a note's date in the notes list. To do this, tap on the View variant icon and uncheck the Show date option.
+Version 8.1.6 (Mar 7, 2021)
+    - We've made a serious optimization to the processes of opening and creating notes - the speed has increased more than twice!
+    - We've added support for Apple Stylus - now you can write with a stylus directly in your note, and the handwritten font will be converted to a printed one.
+    - Now you can choose where the cursor will be positioned when creating a note: either in the title or the body of the note. You can find this option under application settings - Editor item.
+Version 8.1.5 (Mar 4, 2021)
+    - We've made a serious optimization to the processes of opening and creating notes - the speed has increased more than twice!
+    - We've added support for Apple Stylus - now you can write with a stylus directly in your note, and the handwritten font will be converted to a printed one.
+    - Now you can choose where the cursor will be positioned when creating a note: either in the title or the body of the note. You can find this option under application settings - Editor item.
+Version 8.1.2 (Feb 21, 2021)
+    - Now, when adding a picture to a note, a preview is created automatically
+    - We've optimized content pasting in notes through the clipboard and sharing. Now, text formatting and structure are preserved
+    - Google sign in fix
+Version 8.1.0 (Feb 12, 2021)
+    - Now, when adding a picture to a note, a preview is created automatically;
+    - We've optimized content pasting in notes through the clipboard and sharing. Now, text formatting and structure are preserved;
+Version 8.0.2 (Jan 19, 2021)
+    - We've added support for Trash when working with deleted notes. Now, after deleting notes, you can find them in the trash where they can be either completely deleted or restored. The trash can be found on the folder list page;
+    - Fixed some old bugs and crashes;
+Version 8.0.0 (Jan 15, 2021)
+    - We've added support for Trash when working with deleted notes. Now, after deleting notes, you can find them in the trash where they can be either completely deleted or restored. The trash can be found on the folder list page;
+    - Fixed some old bugs and crashes;
+Version 7.9.4 (Dec 17, 2020)
+    - fixed some bugs
+Version 7.9.3 (Dec 16, 2020)
+    - fixed some bugs with passcode
+Version 7.9.2 (Dec 12, 2020)
+    - we've added a date support in mentions. Use @ to add a date and time to your note using a convenient calendar.
+    - fixed a number of minor bugs and issues.
+Version 7.9.1 (Dec 7, 2020)
+    Fixed some bugs
+Version 7.9.0 (Dec 6, 2020)
+    - We've added the ability to save scanned documents to PDF. You can select the desired type of saving through the Settings - Document Scanner menu.
+    - Now, you can add videos from the gallery to your note, instead of just pictures, as it was before.
+    - In addition to the standard black Oled theme, you can now choose the new Branded Dark theme. You can change the theme through the Settings - Appearance - Dark theme menu.
+    - Fixed some problems with Split mode
+Version 7.8.0 (Nov 24, 2020)
+    - adding an audio recording to your notes is now much more convenient! Now you can record audio while writing in a note at the same time. Even if you hide the application during recording, the recording will not stop. You can also play ready-made audio recordings directly in the note instead of on a separate page (as it was before).
+    - we've added support for Split mode in Nimbus Note for iPad. Now, you can open Nimbus Note and other applications on the same screen. Moreover, you will be able to interact with other applications. For example, you can drag and drop images from Unsplash directly into a note.
+Version 7.7.1 (Nov 12, 2020)
+    - we've fixed the problem when clicking on a link in iPad didn't work
+    - fixed some other bugs
+Version 7.7.0 (Nov 10, 2020)
+    - now you can disallow editing a note and enable Read-Only mode. To do this, select the Read-only item in the note menu.
+    - fixed some bugs
+Version 7.6.0 (Oct 27, 2020)
+    We've added a note converter that changes notes from the old editor format to the new one. To convert a note from the old editor, tap on it and select Convert to new format.
+Version 7.4.6 (Oct 16, 2020)
+    We've fixed the issue with displaying PDF files
+Version 7.4.5 (Oct 14, 2020)
+    We've fixed the issue where the note would independently reload when editing on iPad
+    An issue where Nimbus Note could crash while sharing from other apps has been fixed
+Version 7.4.4 (Oct 11, 2020)
+    bug fixes and performance improvements
+Version 7.4.3 (Oct 10, 2020)
+    bug fixes and performance improvements
+Version 7.4.2 (Oct 5, 2020)
+    Fixed some bugs
+Version 7.4.1 (Oct 2, 2020)
+    Fixed some bugs
+Version 7.4.0 (Sep 27, 2020)
+    We are pleased to inform you about updates to the document scanner. Now automatic border detection works much more accurately, making it more convenient to use the scanner. We also want to remind you that Nimbus Note has functionality for extracting text from images, as well as searching in pictures. These will allow you to use the scanner to its full potential.
+Version 7.3.1 (Sep 20, 2020)
+    iOS 14 optimizations and bug fixing
+Version 7.2.2 (Sep 15, 2020)
+    - Full sync improvements
+Version 7.2.1 (Sep 11, 2020)
+    - We have added iPad support to the app. Landscape orientation, two-column mode, full-screen mode for the editor - all of this is included in the new version
+    - We've added mention support. Type @ or tap on the proper button in the editor panel and you can mention a member or link to a different workspace, folder or note
+    - Fixed some bugs and problems
+Version 7.1.3 (Aug 15, 2020)
+    Fixed some bugs
+Version 7.1.1 (Aug 9, 2020)
+    1. We've added dark theme maintenance to the app. By default, the choice of the theme depends on the system settings, but you can also change this in the application settings.
+    2. Now, when sharing in Nimbus Note, you can choose the workspace and folder in which the note will be created.
+    3. Fixed some bugs.
+Version 7.0.7 (Jul 16, 2020)
+    UI fixes for iOS 12
+Version 7.0.6 (Jul 15, 2020)
+    Major updates in design - new views for list of notes, projects, note views, and more.
+    Reworked navigation - relocated the “Create a new note” button, as well as switching between folders, searches, tags, etc.
+    Support for organizations - in the new list of projects you will be able to switch between personal and business organizations.
+    The synchronization function has been significantly improved.
+Version 6.9.1 (Jun 6, 2020)
+    fixed some bugs
+Version 6.8.2 (May 23, 2020)
+    fixes some bugs
+Version 6.7 (May 1, 2020)
+    We updated the design for reminders.
+    Fixed some bugs
+Version 6.6.2 (Apr 14, 2020)
+    Fixed some bugs
+Version 6.6.1 (Apr 11, 2020)
+    Fixed some bugs
+Version 6.6 (Apr 8, 2020)
+    We returned the possibility of sharing to Nimbus Note
+    Fixed some bugs
+Version 6.5.3 (Apr 1, 2020)
+    Sync improvements
+Version 6.5.2 (Mar 28, 2020)
+    iOS 13.4 camera crash fix
+Version 6.5 (Mar 26, 2020)
+    - sync improvements
+    - bugs fixing
+Version 6.4.3 (Mar 6, 2020)
+    Fixed sync bugs
+Version 6.4.2 (Mar 5, 2020)
+    - Full sync improved
+    - Fixed some bugs
+Version 6.3.3 (Feb 19, 2020)
+    Some synchronisation errors fixed
+Version 6.3.2 (Feb 14, 2020)
+    Sync Improvements
+    Fixed some bugs
+Version 6.2.3 (Jan 31, 2020)
+    Fixed some bugs
+Version 6.2.2 (Jan 7, 2020)
+    fixed some bugs
+Version 6.2.1 (Jan 6, 2020)
+    Fixed some bugs
+Version 6.1.6 (Dec 6, 2019)
+    fixed some bugs
+Version 6.1 (Nov 27, 2019)
+    Fixed some bugs
+Version 6.0 (Oct 31, 2019)
+    - Huge update! New editor: markdown support, embedded files, quotes, code snippets and more;
+    - Realtime sync and realtime note editing;
+    - Many old bugs were fixed;
+Version 4.5 (Mar 21, 2019)
+    - Now you can move notes between projects
+    - Stability improved
+    - UI improvements
+Version 4.4 (Feb 4, 2019)
+    Some fixes in synchronization process
+Version 4.3 (Jan 29, 2019)
+    Some bugs fixed
+Version 4.2 (Jan 24, 2019)
+    Some errors fixed in workspace functionality
+Version 4.1 (Jan 15, 2019)
+    Few bugs fixed in notes with reminders
+Version 4.0 (Jan 12, 2019)
+    1) Workspaces - separate personal information from the work-related kind. Create separate databases of notes (with own folders and tags) for different purposes within a single account;
+
+    2) Group work - invite other people to collaborate on notes;
+
+    3) Fixed some other bugs and problems;
+Version 3.8.12 (Oct 2, 2018)
+    Fixes for iOS 12
+Version 3.8.10 (Aug 14, 2018)
+    - Some bugs fixed
+    - Improved translations
+Version 3.8.6 (Jul 28, 2018)
+    - Some bugs fixed
+Version 3.8.5 (Jul 16, 2018)
+    - Some bugs fixed
+    - Stability improved
+Version 3.8 (Jul 11, 2018)
+    - You can add checkboxes to the notes
+    - Fixed some bugs
+Version 3.7 (May 8, 2018)
+    - New camera - scan documents and enhance their quality using special filters. You can then pull text from the pictures using the OCR feature (text recognition);
+    - Scan business cards and turn them into convenient digital contact notes;
+    - Fixed some bugs;
+Version 3.6.7 (Jan 16, 2018)
+    - Optimize for iPhone 10;
+    - Fixed bugs;
+Version 3.6.6 (Nov 28, 2017)
+    - Fixed some bugs;
+Version 3.6.5 (Nov 16, 2017)
+    - Fixed some bugs;
+Version 3.6.4 (Oct 31, 2017)
+    - You can search in documents (for Nimbus Pro);
+    - Fixed some bugs.
+Version 3.6.3 (Oct 9, 2017)
+    Fixed some bugs
+Version 3.6.2 (Sep 29, 2017)
+    Optimization for iOS 11
+Version 3.6.1 (Aug 31, 2017)
+    - Fixed some bugs;
+Version 3.6.0 (Aug 16, 2017)
+    New Feature! Encryption - You can encrypt any notes you need (text+files) with special encrypt keys and passwords;
+
+    Fixed many old bugs;
+Version 3.5.0 (Mar 22, 2017)
+    Premium feature: searching for text in images;
+    Premium feature: OCR - possibility to pull text from images;
+    Search snippets - you can view the words you search for without going to the actual note;
+    Highlighting of the words found in the note;
+    Improved note list;
+    Fixed many old bugs with sync and reminders;
+Version 3.4.7 (Nov 17, 2016)
+    Fixed some bugs
+Version 3.4.6 (Nov 13, 2016)
+    - Possibility to edit multiple notes using long tap;
+    - New category - Favorites, for adding most important notes;
+    - Siri integration - you can use Nimbus Text comment to create notes and reminders;
+    - Possibility to add multiple pictures at once;
+    - Full screen mode in clip notes;
+    - Possibility to create public links for folders;
+    - Possibility to hide completed to-do tasks;
+Version 3.4.5 (Oct 5, 2016)
+    Fixed some bugs
+Version 3.4.4 (Oct 4, 2016)
+    Fixed some bugs
+Version 3.4.3 (Sep 30, 2016)
+    Fixed some bugs
+Version 3.4.2 (Sep 24, 2016)
+    Fixed problem with camera in iOS 10
+Version 3.4.1 (Sep 12, 2016)
+    - Fixed proglem with passcode;
+    - Fixed problem with iOS 10;
+Version 3.4 (Sep 3, 2016)
+    - Added web-clipper for clip information from Internet;
+    - Fixed some problem with full sync;
+    - You can set time-out for the passcode feature;
+    - Fixed some other bugs;
+Version 3.3 (Jul 6, 2016)
+    - Fixed some bugs with audio;
+    - Fixed some bugs with note sharing;
+    - Fixed some problems with attachments;
+Version 3.2 (Jun 14, 2016)
+    Possibility to select default window appearance (folder list, specific folder or list of tags);
+    Possibility to change default action for right swipe (create a note, open a list of folders or tags);
+    Possibility to assign a color label to notes and folders;
+    Possibility to save text in Nimbus Note from other applications;
+    E-mail for sending notes;
+    Remembering where you stopped reading a note;
+    3D Touch support;
+    Possibility to send notes to e-mail.
+Version 3.0.1 (Jun 10, 2016)
+    Fixed some bugs
+Version 3.0 (May 19, 2016)
+    New design: panel with folders, tags etc. was moved to the left menu, providing for a cleaner look and more convenient access.
+    Significant improvements in the editor;
+    Optimization for iPhone 6;
+    New ways to view your notes: Cards, Only titles, Title + Desc etc.
+
+    Improved functionality of Places: possibility to view all note locations, fast notes on the map etc.
+    Lots of other improvements and corrections.
+Version 2.6.2 (Mar 21, 2016)
+    Fixed urgent bug with sync
+Version 2.6.1 (Nov 17, 2015)
+    Fixed bugs with sync
+Version 2.6 (Oct 13, 2015)
+    - Improved editor; Fixed some bugs;
+Version 2.5 (Sep 2, 2015)
+    - Autosync;
+    - Fixed some bugs with cursor;
+    - You can move notes to subfolder;
+    - You can change default name of notes;
+    - Fixed bugs;
+Version 2.4 (Jul 15, 2015)
+    Fixed urgent bug
+Version 2.3 (Jul 9, 2015)
+    We improved editor
+    You only need to click on the required text fragment to begin editing.
+    Fixed bugs
+Version 2.2 (May 29, 2015)
+    Fixed bug with painter
+    Fixed some bugs with attachments
+    Time Reminders
+    Location Reminders
+Version 2.1 (Mar 9, 2015)
+    Fixed bug with TODO
+Version 2.0 (Oct 27, 2014)
+    - Bugs fixed
+    - Some improvements
+Version 1.9 (Oct 10, 2014)
+    Optimize for iOS 8
+Version 1.8 (Sep 24, 2014)
+    Fixed bugs
+    Some improvements
+Version 1.7 (Sep 2, 2014)
+    Fixed bugs
+
+    Some improvements
+Version 1.6 (Aug 20, 2014)
+    Fixed bugs
+
+    Some improvements
+Version 1.5 (Jul 19, 2014)
+    Fixed urgent bugs
+Version 1.4 (Jul 13, 2014)
+    Fixed some bugs
+Version 1.3 (Jul 6, 2014)
+    Subfolder support
+Version 1.2 (Jun 19, 2014)
+    Added Russian localization
+
+    Added Ukrainian localization
+Version 1.1.1 (Jun 16, 2014)
+    Fixed critical bug
+Version 1.1 (Jun 4, 2014)
+    - Record voice and video notes
+    - Fleksy keyboard
+    - TODO task priorities
+    - Double tap for edit notes
+    - Fixed bug with clipboard
+Version 1.0 (Mar 21, 2014)
+
+Users may also like
+Select objects to compare
+Amplenote
+UpNote - notes, diary, journal
+Notesnook: Private note taking
+Walling
+Dynalist
+DEVONthink To Go 3
+Anytype: Private Notes
+Standard Notes
+Notejoy
+Hypernotes by Zenkit
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+36 times
+on App Store category pages
+Versions
+
+    9.9.0
+    Current release
+    Nov 28, 2022
+    9.8.0
+    Nov 14, 2022
+    9.7.2
+    Nov 3, 2022
+    9.6.1
+    Oct 5, 2022
+    9.5.0
+    Sep 19, 2022
+    9.4.1
+    Sep 6, 2022
+    9.4.0
+    Sep 1, 2022
+    9.3.0
+    Aug 17, 2022
+    9.2.8
+    Jul 25, 2022
+    9.2.7
+    Jul 15, 2022
+    9.2.6
+    Jul 14, 2022
+    9.1.9
+    Apr 28, 2022
+    9.1.7
+    Mar 7, 2022
+    9.1.6
+    Feb 25, 2022
+    9.1.3
+    Feb 4, 2022
+    9.1.1
+    Jan 26, 2022
+    9.0.0
+    Jan 17, 2022
+    8.9.2
+    Dec 30, 2021
+    8.9.0
+    Dec 16, 2021
+    8.8.4
+    Nov 18, 2021
+    8.8.2
+    Nov 16, 2021
+    8.8.1
+    Nov 15, 2021
+    8.8.0
+    Nov 10, 2021
+    8.7.1
+    Oct 27, 2021
+    8.7.0
+    Oct 25, 2021
+    8.6.0
+    Oct 19, 2021
+    8.5.0
+    Aug 27, 2021
+    8.4.2
+    Aug 12, 2021
+    8.4.0
+    Jul 19, 2021
+    8.3.3
+    Jun 9, 2021
+    8.3.2
+    Jun 3, 2021
+    8.3.0
+    May 18, 2021
+    8.2.3
+    Apr 16, 2021
+    8.2.1
+    Apr 2, 2021
+    8.2.0
+    Mar 28, 2021
+    8.1.6
+    Mar 7, 2021
+    8.1.5
+    Mar 4, 2021
+    8.1.2
+    Feb 21, 2021
+    8.1.0
+    Feb 12, 2021
+    8.0.2
+    Jan 19, 2021
+    8.0.0
+    Jan 15, 2021
+    7.9.4
+    Dec 17, 2020
+    7.9.3
+    Dec 16, 2020
+    7.9.2
+    Dec 12, 2020
+    7.9.1
+    Dec 7, 2020
+    7.9.0
+    Dec 6, 2020
+    7.8.0
+    Nov 24, 2020
+    7.7.1
+    Nov 12, 2020
+    7.7.0
+    Nov 10, 2020
+    7.6.0
+    Oct 27, 2020
+    7.4.6
+    Oct 16, 2020
+    7.4.5
+    Oct 14, 2020
+    7.4.4
+    Oct 11, 2020
+    7.4.3
+    Oct 10, 2020
+    7.4.2
+    Oct 5, 2020
+    7.4.1
+    Oct 2, 2020
+    7.4.0
+    Sep 27, 2020
+    7.3.1
+    Sep 20, 2020
+    7.2.2
+    Sep 15, 2020
+    7.2.1
+    Sep 11, 2020
+    7.1.3
+    Aug 15, 2020
+    7.1.1
+    Aug 9, 2020
+    7.0.7
+    Jul 16, 2020
+    7.0.6
+    Jul 15, 2020
+    6.9.1
+    Jun 6, 2020
+    6.8.2
+    May 23, 2020
+    6.7
+    May 1, 2020
+    6.6.2
+    Apr 14, 2020
+    6.6.1
+    Apr 11, 2020
+    6.6
+    Apr 8, 2020
+    6.5.3
+    Apr 1, 2020
+    6.5.2
+    Mar 28, 2020
+    6.5
+    Mar 26, 2020
+    6.4.3
+    Mar 6, 2020
+    6.4.2
+    Mar 5, 2020
+    6.3.3
+    Feb 19, 2020
+    6.3.2
+    Feb 14, 2020
+    6.2.3
+    Jan 31, 2020
+    6.2.2
+    Jan 7, 2020
+    6.2.1
+    Jan 6, 2020
+    6.1.6
+    Dec 6, 2019
+    6.1
+    Nov 27, 2019
+    6.0
+    Oct 31, 2019
+    4.5
+    Mar 21, 2019
+    4.4
+    Feb 4, 2019
+    4.3
+    Jan 29, 2019
+    4.2
+    Jan 24, 2019
+    4.1
+    Jan 15, 2019
+    4.0
+    Jan 12, 2019
+    3.8.12
+    Oct 2, 2018
+    3.8.10
+    Aug 14, 2018
+    3.8.6
+    Jul 28, 2018
+    3.8.5
+    Jul 16, 2018
+    3.8
+    Jul 11, 2018
+    3.7
+    May 8, 2018
+    3.6.7
+    Jan 16, 2018
+    3.6.6
+    Nov 28, 2017
+    3.6.5
+    Nov 16, 2017
+    3.6.4
+    Oct 31, 2017
+    3.6.3
+    Oct 9, 2017
+    3.6.2
+    Sep 29, 2017
+    3.6.1
+    Aug 31, 2017
+    3.6.0
+    Aug 16, 2017
+    3.5.0
+    Mar 22, 2017
+    3.4.7
+    Nov 17, 2016
+    3.4.6
+    Nov 13, 2016
+    3.4.5
+    Oct 5, 2016
+    3.4.4
+    Oct 4, 2016
+    3.4.3
+    Sep 30, 2016
+    3.4.2
+    Sep 24, 2016
+    3.4.1
+    Sep 12, 2016
+    3.4
+    Sep 3, 2016
+    3.3
+    Jul 6, 2016
+    3.2
+    Jun 14, 2016
+    3.0.1
+    Jun 10, 2016
+    3.0
+    May 19, 2016
+    2.6.2
+    Mar 21, 2016
+    2.6.1
+    Nov 17, 2015
+    2.6
+    Oct 13, 2015
+    2.5
+    Sep 2, 2015
+    2.4
+    Jul 15, 2015
+    2.3
+    Jul 9, 2015
+    2.2
+    May 29, 2015
+    2.1
+    Mar 9, 2015
+    2.0
+    Oct 27, 2014
+    1.9
+    Oct 10, 2014
+    1.8
+    Sep 24, 2014
+    1.7
+    Sep 2, 2014
+    1.6
+    Aug 20, 2014
+    1.5
+    Jul 19, 2014
+    1.4
+    Jul 13, 2014
+    1.3
+    Jul 6, 2014
+    1.2
+    Jun 19, 2014
+    1.1.1
+    Jun 16, 2014
+    1.1
+    Jun 4, 2014
+    1.0
+    Mar 21, 2014
+
+See More
+Top In-App Purchases
+
+    Nimbus Pro
+    $7.99
+    Nimbus Pro
+    $71.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Mar 21, 2014
+
+Worldwide Release Date
+    Mar 21, 2014
+
+Last Updated Time
+    Feb 16, 2024
+
+Version
+    9.9.0
+
+Size
+    89.54 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, German, Japanese, Russian, Spanish
+
+Seller
+    Nimbus Web, Inc
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    bvb.Nimbus-Notes
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 828918459
+Unified App ID: 1000800000072884
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Nimbus Note | data.ai

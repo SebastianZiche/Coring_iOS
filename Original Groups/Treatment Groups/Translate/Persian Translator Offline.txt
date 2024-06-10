@@ -1,0 +1,306 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Persian Translator Offline
+XungReference (Applications)Free
+Alerts
+
+    Persian Translator Offline
+    Persian Translator Offline
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Persian Translator Offline
+مترجم انگلیسی - ترجمه
+Reference (Applications)
+Free
+App Description
+English to Persian, Farsi to English Translator & Dictionary app with ability to search similar sentences & expressions.
+
+Offline Translator
+More than 100K words, sentences & expressions
+Auto language detection
+Easy to use, fast, works offline.
+Pronunciation with human voice.
+Find related sentences, phrases, words.
+Word correction for mistyped words.
+Tap word to see its meaning in popup window.
+Review words and expressions with History & Favorites.
+
+
+
+***Upgrade to Premium to unlock advanced features***
+- Ad-free experience
+- Unlimited translation
+- No limit on input text length
+
+You can pay once for Premium
+or choose from 2 subscription options
+- a yearly subscription (comes with 3-day free trial).
+- a monthly subscription.
+
+– Payment will be charged to iTunes Account at confirmation of purchase.
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy Policy: https://xung.app/privacy-policy/
+Terms: https://xung.app/terms
+Ratings
+Displayed Avg Ratings
+4.72
+Total Displayed Ratings
+18.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 12.14.14 (Dec 4, 2022)
+    fix a crash when using voice translation feature on iOS 16
+Version 12.13.81 (Feb 10, 2022)
+    - iOS 15 full compatibility
+    - Fix translation API issue
+Version 12.13.12 (Dec 30, 2019)
+    - fix some bugs on iOS13
+    - update screenshots 
+Version 12.12.97 (Oct 21, 2019)
+    - iOS13 support
+    - Offline translator is now available
+    - fix some deprecated APIs
+    - fix some UI bugs
+
+Version 12.12.53 (Feb 16, 2019)
+    - bugfix: "translate long sentence did not work"
+    - auto height search box (better for long text)
+    - fix a bug related to ads
+Version 12.11.99 (Jul 10, 2018)
+    - support multiple selections
+    - fix a lot of deprecated API
+    - stability improvements and bug fixes
+Version 12.11.62 (Feb 5, 2018)
+    bugfixes for iPhone X
+Version 12.11.61 (Feb 1, 2018)
+    fix layout for iPhone X
+Version 12.11.47 (Oct 8, 2017)
+    remove annoying popup when translating
+Version 12.11.45 (Sep 30, 2017)
+    iOS 11 optimization
+Version 12.11.05 (Mar 27, 2017)
+    bugfixes
+Version 12.9.51 (Jun 23, 2016)
+    bugfixes & improvements
+Version 12.9.10 (Feb 18, 2016)
+    - New pretty UI
+    - Offline dictionary added
+    - Bugfixes
+Version 12.7.8 (Oct 23, 2015)
+    - Bugfix: Translator is not available
+    - iPad multitasking support
+    - Improve UI
+Version 12.3.0 (Jun 9, 2015)
+    - Bugfixes
+    - History
+    - Loading indicators
+    - Easier to select text
+Version 12.0.4 (May 5, 2015)
+
+Users may also like
+Select objects to compare
+Fastdic - Fast Dictionary
+Persian Dictionary Offline
+English to Persian Translator
+504 English Dictionary 2024
+English Listening - 6mins
+Longman Dictionary of English
+Persian Dictionary - Leitnary
+English Conversation Practice
+WordUp - Vocabulary Builder
+Special English Listening
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    12.14.14
+    Current release
+    Dec 4, 2022
+    12.13.81
+    Feb 10, 2022
+    12.13.12
+    Dec 30, 2019
+    12.12.97
+    Oct 21, 2019
+    12.12.53
+    Feb 16, 2019
+    12.11.99
+    Jul 10, 2018
+    12.11.62
+    Feb 5, 2018
+    12.11.61
+    Feb 1, 2018
+    12.11.47
+    Oct 8, 2017
+    12.11.45
+    Sep 30, 2017
+    12.11.05
+    Mar 27, 2017
+    12.9.51
+    Jun 23, 2016
+    12.9.10
+    Feb 18, 2016
+    12.7.8
+    Oct 23, 2015
+    12.3.0
+    Jun 9, 2015
+    12.0.4
+    May 5, 2015
+
+See More
+Top In-App Purchases
+
+    Pro Version
+    $19.99
+    Yearly Premium
+    $9.99
+    Monthly Premium
+    $2.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    May 5, 2015
+
+Worldwide Release Date
+    May 6, 2015
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    12.14.14
+
+Size
+    87.85 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Russian, Vietnamese
+
+Seller
+    Xung Le
+
+Company HQ
+    Vietnam
+
+Content Rating
+    Rated 9+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.gnux.trans.fa
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 989676330
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Persian Translator Offline | data.ai

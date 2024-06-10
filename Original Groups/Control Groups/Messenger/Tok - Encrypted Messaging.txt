@@ -1,0 +1,452 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Tok - Encrypted Messaging
+ONIONET TECHNOLOGY CORPSocial Networking (Applications)Free
+Alerts
+
+    ONIONET TECHNOLOGY CORP
+
+    Tok - Encrypted Messaging
+    Tok - Encrypted Messaging
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+No data is available.
+Loading
+Loading lots of data (this could take a moment).
+Tok - Encrypted Messaging
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+What is Tok?
+Tok is easy-to-use software that adopts peer-to-peer communication, end-to-end encryption technologies. With Tok, you can send messages, photos, videos and files of any type without anyone else listening in. Tok's goal is to connect the world freely!
+
+Why use Tok:
+• Do not required phone number: Automatically generate random super-long ID, does not associate any real-name information.
+• Invisible IP: Hidden IP address by onion routing, unable to track your location.
+• Peer-to-Peer encrypted message: Automatically generates super-long key.
+• Without any central server: No third party can listen in your conversation information.
+• Text, picture and voice messages support
+• Chat in group with your friends
+Ratings
+Displayed Avg Ratings
+4.56
+Total Displayed Ratings
+617
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.0.2 (May 19, 2023)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 3.0.0 (May 3, 2023)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 2.6.0 (Jun 7, 2020)
+    What's New:
+    - Invite new TOKer rewards;
+    - Invite new members to paid group with bonus;
+    - Fix bugs and improve general performance.
+Version 2.5.1 (May 29, 2020)
+    Whats New:
+    - Fix bugs and improve general performance.
+Version 2.4.0 (May 11, 2020)
+    Whats New:
+    - Support to set annual fee and 17+ tag for group.
+    - Show ID level in group.
+    - Fix bugs and improve general performance.
+Version 2.3.0 (Apr 25, 2020)
+    Whats New:
+    - Add deposit level.
+    - Add report disgusting pictures.
+    - Fix bugs and improve general performance.
+Version 2.1.0 (Mar 31, 2020)
+    Whats New:
+    - Fix bugs of pictures and videos.
+Version 2.0.0 (Mar 17, 2020)
+    Whats New:
+    - Exchange T and TOK.
+    - Deposit of exchange.
+    - Fix bugs and improve general performance.
+Version 1.13.2 (Jan 24, 2020)
+    Whats New:
+    - Fix bugs and improve general performance.
+Version 1.13.1 (Jan 22, 2020)
+    Whats New:
+    - Fix bugs and improve general performance.
+Version 1.13.0 (Jan 12, 2020)
+    What's New:
+    - Optimize message sending and receiving deeply.
+    - Fix bugs and improve general performance.
+Version 1.12.3 (Dec 31, 2019)
+    What's New:
+    - Add ability to add Admins.
+    - Add QR code to receive TOK coin.
+    - Fix bugs and improve general performance.
+Version 1.12.2 (Dec 15, 2019)
+    What's New:
+    - Add Speak for group members.
+    - Add the ability to send TOK coin
+    - Draw one speaker to reward 40% TOK of the group income every week.
+    - Fix bugs and improve general performance.
+Version 1.12.0 (Nov 27, 2019)
+    What's New:
+    - Add Speak.
+    - Fix bugs and improve general performance.
+Version 1.11.4 (Nov 18, 2019)
+    Whats New:
+    - Add wallet.
+    - Fix bugs and improve general performance.
+Version 1.11.3 (Nov 5, 2019)
+    Whats New:
+    - Fix bugs and improve general performance.
+Version 1.11.2 (Oct 27, 2019)
+    Whats New:
+    - Fix bugs and improve general performance.
+Version 1.11.1 (Oct 22, 2019)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 1.11.0 (Oct 20, 2019)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 1.10.1 (Oct 11, 2019)
+    What's New:
+    - Add Proxy Setting and Bootstrap Nodes Setting.
+    - Optimize Network connection.
+    - Fix bugs and improve general performance.
+Version 1.10.0 (Oct 6, 2019)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 1.9.3 (Sep 26, 2019)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 1.9.2 (Sep 17, 2019)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 1.9.1 (Sep 12, 2019)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 1.9.0 (Sep 10, 2019)
+    What's New:
+    1. Smoother reading experience.
+    2. Support public group historical news.
+    3. Support for removing group members from the member information page.
+    4. Fix bugs and improve general performance.
+Version 1.8.3 (Aug 29, 2019)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 1.8.2 (Aug 23, 2019)
+    What's New:
+    - Block the information of join group and left group in public group.
+    - Add French, Russian and German language support.
+    - Fix bugs and improve general performance.
+Version 1.8.1 (Aug 20, 2019)
+    What's New:
+    - Fix bugs and improve general performance.
+Version 1.8.0 (Aug 7, 2019)
+    What's New:
+    - Add a list for 50 Popular Public Groups
+    - Add Tok News for service notification
+    - Blacklist of group members
+    - Bug fixes and other minor improvements.
+Version 1.7.1 (Jul 31, 2019)
+    Bug fixes and other minor improvements.
+Version 1.7.0 (Jul 26, 2019)
+    What's New:
+    - Public Group and Private Group are available.
+    - Share Public Group with group ID.
+    - Add ability to stop Group Spam.
+    - Add ability to stop duplicate friend requests.
+    Bug fixes and other minor improvements.
+Version 1.6.0 (Jul 15, 2019)
+    What's New:
+    - Groups can up to 100,000 members.
+    - Some minor adjustments in Me panel.
+Version 1.5.1 (Jul 8, 2019)
+    What's New:
+    - Improve FindFriendBot to Neverland to get new friends more efficient.
+    - Add ability to connect bot rapidly.
+Version 1.5.0 (Jun 27, 2019)
+    Whats New:
+    - Improving files sending and files receiving.
+    - Fix bugs and improve general performance.
+Version 1.4.1 (Jun 20, 2019)
+    Whats New:
+    - Fix bugs and improve general performance.
+Version 1.4.0 (Jun 19, 2019)
+    Whats New:
+    - Add ability to send messages automatically when contract comes online.
+    - Fix bugs and improve general performance.
+Version 1.3.2 (Jun 12, 2019)
+    Whats New:
+    - Fix bugs and improve general performance.
+Version 1.3.1 (Jun 5, 2019)
+    Whats New:
+    - Add ability to send encrypted offline files to friends.
+    - Add ability to send encrypted files in groups.
+    - Fix bugs and improve general performance.
+Version 1.3.0 (Jun 1, 2019)
+    Whats New:
+    - Support group chat.
+    - Add a switch to switch between TCP/UDP.
+    - Fix bugs and improve general performance.
+Version 1.2.2 (May 16, 2019)
+    Whats New:
+    - Fix bugs and improve general performance.
+Version 1.2.1 (May 2, 2019)
+    Whats New:
+    - Support for audio and video calls.
+    - Fix bugs and improve general performance.
+Version 1.2.0 (Apr 25, 2019)
+    Whats New:
+    - Support for sending offline messages to friends by adding OfflineMessageBot.
+    - Fix bugs and improve general performance.
+Version 1.1.1 (Apr 14, 2019)
+    Whats New:
+    - Change the details to conform to Tox Client Standard.
+    - Fix bugs and improve general performance.
+Version 1.1.0 (Apr 4, 2019)
+    Whats New:
+    - New feature: Find Friend Bot, looking for like-minded new friends.
+    - Fix bugs and improve general performance.
+Version 1.0.0 (Mar 19, 2019)
+
+Users may also like
+Select objects to compare
+Antidote ー Private Messenger
+SafeSwiss® Encrypted Messenger
+Crypviser Secure Messenger
+StealthTalk Private Messenger
+Blitz – Secure Chat
+Jami
+ChatSecure Messenger
+AnyTalk Messenger
+SimpleX Chat: secure messenger
+Siskin IM
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+N/A
+Store Revenue Rank
+N/A
+Loading
+Loading lots of data (this could take a moment).
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.0.2
+    Current release
+    May 19, 2023
+    3.0.0
+    May 3, 2023
+    2.6.0
+    Jun 7, 2020
+    2.5.1
+    May 29, 2020
+    2.4.0
+    May 11, 2020
+    2.3.0
+    Apr 25, 2020
+    2.1.0
+    Mar 31, 2020
+    2.0.0
+    Mar 17, 2020
+    1.13.2
+    Jan 24, 2020
+    1.13.1
+    Jan 22, 2020
+    1.13.0
+    Jan 12, 2020
+    1.12.3
+    Dec 31, 2019
+    1.12.2
+    Dec 15, 2019
+    1.12.0
+    Nov 27, 2019
+    1.11.4
+    Nov 18, 2019
+    1.11.3
+    Nov 5, 2019
+    1.11.2
+    Oct 27, 2019
+    1.11.1
+    Oct 22, 2019
+    1.11.0
+    Oct 20, 2019
+    1.10.1
+    Oct 11, 2019
+    1.10.0
+    Oct 6, 2019
+    1.9.3
+    Sep 26, 2019
+    1.9.2
+    Sep 17, 2019
+    1.9.1
+    Sep 12, 2019
+    1.9.0
+    Sep 10, 2019
+    1.8.3
+    Aug 29, 2019
+    1.8.2
+    Aug 23, 2019
+    1.8.1
+    Aug 20, 2019
+    1.8.0
+    Aug 7, 2019
+    1.7.1
+    Jul 31, 2019
+    1.7.0
+    Jul 26, 2019
+    1.6.0
+    Jul 15, 2019
+    1.5.1
+    Jul 8, 2019
+    1.5.0
+    Jun 27, 2019
+    1.4.1
+    Jun 20, 2019
+    1.4.0
+    Jun 19, 2019
+    1.3.2
+    Jun 12, 2019
+    1.3.1
+    Jun 5, 2019
+    1.3.0
+    Jun 1, 2019
+    1.2.2
+    May 16, 2019
+    1.2.1
+    May 2, 2019
+    1.2.0
+    Apr 25, 2019
+    1.1.1
+    Apr 14, 2019
+    1.1.0
+    Apr 4, 2019
+    1.0.0
+    Mar 19, 2019
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Mar 19, 2019
+
+Worldwide Release Date
+    Mar 21, 2019
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    3.0.2
+
+Size
+    62.53 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Russian, Simplified Chinese
+
+Seller
+    Onionet Technology Corporation
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.insight.tok
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1455803201
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Tok - Encrypted Messaging | data.ai

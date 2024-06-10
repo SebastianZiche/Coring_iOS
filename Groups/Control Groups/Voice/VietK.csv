@@ -1,0 +1,14 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.4.1,2024-01-13,Resolves some known issues
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.4.0,2024-01-11,Change UI
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.3.0,2023-08-21,Supports players with NAS capabilities
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.2.9,2023-06-01,Fixes some known issues.
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.2.8,2023-05-23,Modified tablet interface Supports offline YouTube video search
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.2.6,2021-01-19,Version 1.2.6 Date: January 18 2021 Works best with locomotive version V1.3 RC2 and above Improve YouTube Soundcloud Mixcloud music operations faster and more stable
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.2.5,2020-09-30,Version 1.2.45 Date: September 29 2020 Supports full system installation for the player directly from iPhone iPad Search by Vietnamese without accents and abbreviations Arrange search results more logically Works with locomotive versions from V1.2 RC1 and above
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.2.4,2020-08-19,Version 1.2.4 Date: August 19 2020 Supports full system installation for the player directly from the Tablet replacing the touch screen. Search by Vietnamese without accents and abbreviations Arrange search results more logically Works with locomotive versions from V1.2 RC1 and above
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.2.1,2020-05-18,Version 1.2.1 Date: May 18 2020 Supports full system installation for the player directly from the Tablet replacing the touch screen. Works with locomotive versions from V1.2 RC1 and above
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.1.3,2020-03-19,Update: Smart YouTube search suggestions Larger image of the singer
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.1.2,2020-01-06,Version 1.1.2 Date: January 6 2019 UPDATE Fix the error of locomotive connection loss when used for a long time Full screen mode Support selecting Soundcloud and Mixcloud songs Smart YouTube search suggestions based on community data
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.1.0,2019-10-11,Support both iPhone and iPad. Bug fixes.
+1478097908,1000800000186832,VietK,Entertainment,2019-10-01,2019-10-01,39.08,4,1,0,0,1.0.1,2019-10-01,

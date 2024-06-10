@@ -1,0 +1,375 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Siskin IM
+Tigase, Inc.Social Networking (Applications)Free
+Alerts
+
+    Tigase, Inc.
+
+    Siskin IM
+    Siskin IM
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Siskin IM
+Social Networking (Applications)
+Free
+App Description
+Siskin IM is a lightweight, powerful XMPP client developed by Tigase, Inc. It provides an easy way to start using the XMPP Protocol (formerly known as Jabber) if you've never used it before. Veterans of the protocol will find many features here they are familiar with along with enhancements to reduce data use and extend battery life.
+
+- Control multiple accounts from a single application and sign into all your XMPP accounts at once.
+- Message Archive supported: Access chat history from the server.
+- Support for joining and creating chatrooms for multi-party collaboration.
+- Automated status management; no need to change status every time you put your phone down.
+- In band registration; Sign into and create a new account on your favorite XMPP/jabber server!
+- Push Notifications: Never miss another message.
+- Photos and other files easy sharing in private chats and in group chats, even with people using different XMPP clients.
+- Vcard support: robust user profiles.
+- VoIP: You can call your friends.
+
+Welcome to XMPP: Welcome to Siskin IM!
+Ratings
+Displayed Avg Ratings
+3.87
+Total Displayed Ratings
+97
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 7.3.3 (Mar 27, 2023)
+    Added support for message moderation in channels.
+    Fixed issue with missing contacts in sharing view.
+    Improved support for VoiceOver.
+Version 7.3.2 (Jan 20, 2023)
+    Updated application logo and icon.
+Version 7.3.1 (Dec 20, 2022)
+    Minor improvements and bugfixes.
+Version 7.3 (Aug 5, 2022)
+    Minor improvements, fixes, and Deutch and Spanish translations.
+Version 7.2 (Apr 5, 2022)
+    Improved VoIP support and fixed OMEMO support in channels.
+Version 7.1 (Feb 14, 2022)
+    This version contains bug fixes for:
+    - push notifications
+    - OMEMO support
+    - avatar publication
+    - channel creation (MUC)
+    - marking messages as read
+Version 7.0.1 (Dec 9, 2021)
+    This version contains bug fixes for encryption settings in chats and changing a limit on the size of the downloaded file.
+Version 7.0 (Dec 1, 2021)
+    This version contains improvements for iOS 15, bugfixes, and new features
+Version 6.4 (Mar 15, 2021)
+    Improved support for OMEMO
+Version 6.3 (Feb 26, 2021)
+    Fixes and improvements
+Version 6.2 (Jan 11, 2021)
+    Added support for OMEMO in group chats and improved VoIP calls.
+Version 6.1 (Nov 12, 2020)
+    Added scaling of shared media files, support for /me command and improvements to VoIP calls.
+Version 6.0 (Sep 4, 2020)
+    Added support for next generation group chats (MIX)
+    Improved support for VoIP
+    Added support for last message correction and message retraction
+    Improved push notifications
+Version 5.8.1 (Mar 20, 2020)
+    This version contains minor fixes and improvements.
+Version 5.8 (Mar 11, 2020)
+    This version contains minor fixes and improvements.
+Version 5.7 (Mar 6, 2020)
+    This version contains minor fixes and improvements.
+Version 5.6 (Feb 17, 2020)
+    The version contains minor fixes and improvements related to file sharing.
+Version 5.5 (Jan 27, 2020)
+    Added support for encrypted file transfer
+    Improved file and photo transfer
+    Changed UI of chats
+    Added support for blocking contacts
+    Improved push notifications support
+    Added link previews
+Version 5.4 (Nov 26, 2019)
+    Added support for changing the avatar of group chat (if server supports that) and fixed minor bugs.
+Version 5.3 (Oct 25, 2019)
+    This version contains adjustments for iOS13, improvements to OMEMO, the speedup in reconnection to the XMPP servers, support for queuing message to be sent and other minor improvements. 
+Version 5.2 (Aug 17, 2019)
+    The new version contains improvements in handling Push notifications and experimental support for push notifications for group chats and XMPP URI.
+Version 5.1 (Jul 10, 2019)
+    This version improves the stability of the application and contains fixes for found issues.
+Version 5.0 (Jun 7, 2019)
+    Added support for OMEMO end-to-end encryption
+Version 4.0 (Mar 29, 2019)
+    This is a big update with cool new features such as:
+    - dark mode (with many colors to choose from)
+    - VoIP (now you can call your friends)
+    - improved group chat support
+Version 3.2 (Jan 22, 2019)
+    This is a bugfix release solving an issue with changing user avatar.
+Version 3.1 (Jan 14, 2019)
+    This is a bugfix release with a few minor improvements to make use of Tigase Messenger easier.
+Version 3.0 (Aug 7, 2018)
+    The main focus in this version was put on fast start and fast reconnections to chat servers and overall reliability improvements.
+    Changes in this version:
+    • Added support for Quickstart: XEP-0395
+    • Added caching for SCRAM credentials and DNS results
+    • Various bug fixes and crash fixes
+Version 2.3 (Dec 28, 2017)
+    Bug fixes and improvements related to image sharing and XML processing.
+Version 2.2 (Dec 14, 2017)
+    Bug fixes related to self-signed SSL certificates:
+    - creation of an account on the server with self-signed certificate
+    - Addition of an existing account on the server with self-signed certificate
+Version 2.1 (Dec 8, 2017)
+    Minor GUI updates.
+Version 2.0 (Nov 27, 2017)
+    Tigase Messenger v2.0 brings many bigfixes and enhancements as well as new features.
+
+    New features:
+    - Message Archive Support
+    - Push Notification Support
+    - Vcard Support
+    - Photos and other files easy sharing
+
+    Fixes:
+    - Connectivity errors are now displayed on device to indicate and display failure conditions.
+    - When devices reconnect to servers, they will synchronize messages using XEP-0313 Message Archive Management if enabled on both device and server.
+    - Fixed crash from missing data when updating avatar.
+    - Fixed crash on processing incoming stanza while disconnecting, or opening chat with text unable to parse to a URL.
+    - Fixed crash when receiving messages in MUC while chat was open.
+    - Improved badge refresh rate.
+    - Fixed crash while viewing file preview and download file size set to unlimited.
+    - Fixed delay between detection of disconnection and delivery of push notification.
+    - Fixed visual bug displaying large text on smaller device in some setting menus.
+    - Fixed issue where delivery receipt messages could bounce back as errors.
+    - Application now updates information from roster pushes correctly.
+    - Modified dispatch queue usage to prevent a race condition when creating a chat from device.
+    - Improved JID comparison to prevent chats with same JID and different content showing in seperate chats in recent chat list.
+    - Improved database access and fixed concurrency issues from db timeout issues.
+    - Improved stability of application after download failure due to connectivity issues.
+    - Fixed crashing when updating roster views.
+    - Fixed crash when opening MUC while client is fetching messages from MUC server.
+    - Fixed issue where recent screen could hang during message synchronization.
+Version 1.1 (Jul 20, 2017)
+    Many bug fixes and minor improvements related to account creation and reconnection issues.
+Version 1.0 (May 31, 2017)
+
+Users may also like
+Select objects to compare
+Monal - XMPP chat
+Snikket
+ChatSecure Messenger
+Kedr
+FluffyChat
+SafeSwiss® Encrypted Messenger
+SimpleX Chat: secure messenger
+Delta Chat
+Skred Messenger
+Element X - Secure messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    7.3.3
+    Current release
+    Mar 27, 2023
+    7.3.2
+    Jan 20, 2023
+    7.3.1
+    Dec 20, 2022
+    7.3
+    Aug 5, 2022
+    7.2
+    Apr 5, 2022
+    7.1
+    Feb 14, 2022
+    7.0.1
+    Dec 9, 2021
+    7.0
+    Dec 1, 2021
+    6.4
+    Mar 15, 2021
+    6.3
+    Feb 26, 2021
+    6.2
+    Jan 11, 2021
+    6.1
+    Nov 12, 2020
+    6.0
+    Sep 4, 2020
+    5.8.1
+    Mar 20, 2020
+    5.8
+    Mar 11, 2020
+    5.7
+    Mar 6, 2020
+    5.6
+    Feb 17, 2020
+    5.5
+    Jan 27, 2020
+    5.4
+    Nov 26, 2019
+    5.3
+    Oct 25, 2019
+    5.2
+    Aug 17, 2019
+    5.1
+    Jul 10, 2019
+    5.0
+    Jun 7, 2019
+    4.0
+    Mar 29, 2019
+    3.2
+    Jan 22, 2019
+    3.1
+    Jan 14, 2019
+    3.0
+    Aug 7, 2018
+    2.3
+    Dec 28, 2017
+    2.2
+    Dec 14, 2017
+    2.1
+    Dec 8, 2017
+    2.0
+    Nov 27, 2017
+    1.1
+    Jul 20, 2017
+    1.0
+    May 31, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    May 31, 2017
+
+Worldwide Release Date
+    May 31, 2017
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    7.3.3
+
+Size
+    29.43 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, German, Polish, Spanish
+
+Seller
+    Tigase, Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    org.tigase.messenger.mobile
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1153516838
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Siskin IM | data.ai

@@ -1,0 +1,4 @@
+SELECT application_id, title, description FROM `epf_application` WHERE LOWER(description) LIKE '%messenger%' OR WHERE LOWER(description) LIKE %chat% AND itunes_release_date <= '2020-02-23'
+
+
+SELECT application_id, title, description FROM `epf_application` WHERE LOWER(title) LIKE '%messenger%' AND itunes_release_date <= '2020-02-23';

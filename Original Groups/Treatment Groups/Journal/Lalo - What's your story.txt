@@ -1,0 +1,384 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Lalo - What's your story?
+Lalo Services, Inc.Lifestyle (Applications)Free
+Alerts
+
+    Lalo Services, Inc.
+
+    Lalo - What's your story?
+    Lalo - What's your story?
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Lalo - What's your story?
+Memories, Stories, Memorials
+Lifestyle (Applications)
+Free
+iPhone Only
+App Description
+Lalo gives families a safe place to connect, share pictures, and tell stories using voice or text journaling, pictures, and video.
+
+Capsules
+Create private spaces to connect with close family and friends. Lalo is the perfect way to capture special moments, discover family history, and memorialize loved ones you've lost.
+
+Stories
+Share stories using pictures, video, voice, and text. A single place to store your most treasured memories. Use our story prompts to help discover new stories from your friends, or family.
+
+Privacy
+Lalo makes it easy to only share with the people you want. We don't capture, sell, or share your personal data.
+
+Contact us anytime: info@lalo.app
+Ratings
+Displayed Avg Ratings
+5
+Total Displayed Ratings
+8
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.4.6 (Jul 4, 2023)
+    We are closing Lalo! Added instructions for how to download your data.
+Version 1.4.5 (Jul 1, 2023)
+    - Added colorizer mini app
+    - Added Instagram integration
+Version 1.4.4 (Jun 2, 2023)
+    - Added colorizer mini app
+    - Added Instagram integration"
+Version 1.4.2 (May 18, 2023)
+    - Added ability to create memorials
+    - Fixed Bugs"
+Version 1.4.1 (Mar 8, 2023)
+    Added "Stickers" to allow folks express themselves quickly
+Version 1.4.0 (Feb 28, 2023)
+    Performance Improvements and Bug fixes here and there
+Version 1.3.8 (Feb 25, 2023)
+    - Added “Quick Posts” to allow folks a way to quickly message each other
+    - Improved the experience for prompts
+    - Bug fixes here and there
+Version 1.3.5 (Feb 12, 2023)
+    - We now have Video Editing!
+    - You can show love by “hearting” a post
+    - Prompts for Couples, get to know your significant other
+    - You can now add captions, time, and place to your images to capture richer memories
+    - Some bug fixes too
+Version 1.3.4 (Jan 26, 2023)
+    - Added new Badges
+    - Now have the ability to remove a member from a capsule
+Version 1.3.2 (Jan 6, 2023)
+    Added prompts for interviewing relatives, getting to know your friends or remembering a loved one.
+Version 1.3.1 (Dec 29, 2022)
+    - Premium subscription plan
+    - Lots of bug fixes
+    - A few surprises
+Version 1.3.1 (Dec 29, 2022)
+    - Premium subscription plan
+    - Lots of bug fixes
+    - A few surprises
+Version 1.3.0 (Nov 14, 2022)
+    - Added ability to login with your Apple or Google account
+    - You can now download images and videos from every post
+    - Squashed some bugs
+Version 1.2.9 (Oct 31, 2022)
+    - Added richer tutorials
+    - Launched badges!
+    - Fixed bugs
+Version 1.2.8 (Oct 25, 2022)
+    - Fixed some bugs
+Version 1.2.7 (Oct 23, 2022)
+    - Fixed some bugs
+Version 1.2.6 (Oct 17, 2022)
+    - Fixed some bugs
+Version 1.2.5 (Oct 10, 2022)
+    - Support for guest users
+    - Redesign some screens and colors
+    - Other bug fixes
+Version 1.2.4 (Oct 4, 2022)
+    - Choose the order of your photos and videos in a memory
+    - Memories can be slideshows when you add audio with photos
+    - Other bug fixes
+Version 1.2.3 (Sep 12, 2022)
+    - Create richer memories using multiple text, images, videos with voiceover audio
+    - Invite friends and family using selected memories
+    - Fixed various bugs and issues
+Version 1.2.2 (Sep 2, 2022)
+    A few bug fixes
+Version 1.2.1 (Aug 26, 2022)
+    - UI/UX improvements
+    - Bug fixes
+Version 1.2.0 (Aug 20, 2022)
+    - New homepage
+    - Invite friends to capsules
+    - Comment on posts
+    - Edit posts
+Version 1.1.3 (Jul 16, 2022)
+    - Support video memory post from google photo
+    - Bug fixes & UI improvements
+Version 1.1.2 (Jul 6, 2022)
+    -Updated store listing for various countries
+Version 1.1.0 (Jun 25, 2022)
+    - Fixed issues with Home Page auto-scroll
+    - Improved support for languages
+Version 1.0.8 (Jun 22, 2022)
+    - Google Photos Integration for uploading images and video
+    - Language support for Prompts in over 30 languages
+Version 1.0.9 (Jun 22, 2022)
+    -Added filters to help with search in Google Photos
+    -Increased character limit for text posts to 1,000 characters
+    -Fixed various bugs
+Version 1.0.7 (May 25, 2022)
+    - Improved image editing, filters and cropping experience
+    - Optional push notifications
+    - In app tutorials
+    - Better experience for returning users
+Version 1.0.5 (May 22, 2022)
+    - Improved image editing, filters and cropping experience
+    - Optional push notifications
+    - In app tutorials
+    - Better experience for returning users
+Version 1.0.6 (May 22, 2022)
+    - Improved image editing, filters and cropping experience
+    - Optional push notifications
+    - In app tutorials
+    - Better experience for returning users
+Version 1.0.4 (May 7, 2022)
+    - Image cropping and image editing
+    - Mother's Day prompts
+Version 1.0.3 (Apr 14, 2022)
+    - Conversation prompts to help folks tell their story.
+    - Enhanced onboarding to make it easier for new users.
+    - Fixed a bunch of bugs (thank you for the feedback!)
+Version 1.0.2 (Mar 25, 2022)
+    - Update to notifications alert icon
+    - Improvement of audio component styling
+Version 1.0.1 (Mar 15, 2022)
+    We’ve updated the app to fix some bugs and improve performance.
+Version 1.0 (Mar 8, 2022)
+
+Users may also like
+Select objects to compare
+Bloom - The Modern Matchmaker
+Lookback: Moments & Memories
+Chptr - Remember Them Forever
+Diem | The Daily Photo Journal
+Kin App
+MemLife: Journal & Memoir
+Notabli - Family Social
+ForKeeps - Keep Memories Alive
+Wavy: Private Photo Sharing
+Generation Transfer
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.4.6
+    Current release
+    Jul 4, 2023
+    1.4.5
+    Jul 1, 2023
+    1.4.4
+    Jun 2, 2023
+    1.4.2
+    May 18, 2023
+    1.4.1
+    Mar 8, 2023
+    1.4.0
+    Feb 28, 2023
+    1.3.8
+    Feb 25, 2023
+    1.3.5
+    Feb 12, 2023
+    1.3.4
+    Jan 26, 2023
+    1.3.2
+    Jan 6, 2023
+    1.3.1
+    Dec 29, 2022
+    1.3.1
+    Dec 29, 2022
+    1.3.0
+    Nov 14, 2022
+    1.2.9
+    Oct 31, 2022
+    1.2.8
+    Oct 25, 2022
+    1.2.7
+    Oct 23, 2022
+    1.2.6
+    Oct 17, 2022
+    1.2.5
+    Oct 10, 2022
+    1.2.4
+    Oct 4, 2022
+    1.2.3
+    Sep 12, 2022
+    1.2.2
+    Sep 2, 2022
+    1.2.1
+    Aug 26, 2022
+    1.2.0
+    Aug 20, 2022
+    1.1.3
+    Jul 16, 2022
+    1.1.2
+    Jul 6, 2022
+    1.1.0
+    Jun 25, 2022
+    1.0.8
+    Jun 22, 2022
+    1.0.9
+    Jun 22, 2022
+    1.0.7
+    May 25, 2022
+    1.0.5
+    May 22, 2022
+    1.0.6
+    May 22, 2022
+    1.0.4
+    May 7, 2022
+    1.0.3
+    Apr 14, 2022
+    1.0.2
+    Mar 25, 2022
+    1.0.1
+    Mar 15, 2022
+    1.0
+    Mar 8, 2022
+
+See More
+Top In-App Purchases
+
+    Lalo Subscription
+    $10.99
+    Lalo Subscription
+    $1.99
+    One-Time Purchase
+    $17.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Mar 8, 2022
+
+Worldwide Release Date
+    Apr 12, 2022
+
+Last Updated Time
+    Feb 18, 2024
+
+Version
+    1.4.6
+
+Size
+    119.90 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Lalo Services, Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    app.lalo
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1611788474
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Lalo - What's your story? | data.ai

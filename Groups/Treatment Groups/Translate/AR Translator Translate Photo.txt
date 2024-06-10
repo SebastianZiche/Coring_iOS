@@ -1,0 +1,456 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+AR Translator: Translate Photo
+BrainMountReference (Applications)Free
+Alerts
+
+    AR Translator: Translate Photo
+    AR Translator: Translate Photo
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+AR Translator: Translate Photo
+Text, word, camera & AR modes
+Reference (Applications)
+Free
+App Description
+AR Translator will instantly extract the text from the camera's video stream and translate it into any of 100+ languages (no need to take a photo).
+The special augmented reality mode will accurately replace the foreign language labels that are found in your photos with labels in your native language.
+
+You no longer need to manually enter phone numbers, e-mail addresses and web pages printed on business cards, documents, and magazines. Just point your camera at the relevant document, and this information instantly becomes clickable.
+
+INNOVATIVE AI TECHNOLOGY
+
+The app uses our own AI-powered text recognition (OCR) technology. The artificial neural network that is built using deep learning algorithms runs right on your phone. This allows you to scan text incredibly quickly and efficiently.
+
+FEATURES
+
+● Offline OCR text grabber
+
+● No need to select text
+The app itself identifies the block of text in the video stream that you want to capture.
+
+● Language auto-detection
+You don't need to select the language of the scanned text. The language is always determined automatically.
+
+● Translation into 100+ languages (Internet connection required)
+
+● Instant translation of text from a video stream
+
+● Translation of photos and images in augmented reality mode
+
+● Ability to listen to translations
+
+● Ability to copy the translation or scanned text and transfer it to other apps
+
+SUPPORTED LANGUAGES
+
+Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Burmese, Catalan, Cebuano, Chinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish, Dutch, Esperanto, Estonian, Farsi, Fijian, Filipino (Tagalog), Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian, Nyanja, Pashto, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Serbian, Sesotho, Shona, Sindhi, Sinhalese, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu
+
+SUBSCRIPTION INFORMATION
+
+* The number of real-time translations and picture translations is limited. In order to translate without restrictions, you must purchase a subscription.
+
+* The following auto-renewable subscriptions are available:
+1) Weekly subscription
+2) Monthly subscription
+3) Annual subscription
+
+* Your subscription with a free trial period will be automatically converted into a paid subscription unless automatic renewal is turned off at least 24 hours before the expiration of the free trial period.
+
+* Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current subscription period.
+
+* Payment will be charged to your Apple ID account.
+
+* You can manage your subscriptions, cancel a free trial, and disable the auto-renew feature at any time by going to the App Store account settings after the purchase.
+
+Terms of Service:
+https://ar-translator.com/terms
+
+Privacy Policy:
+https://ar-translator.com/privacy
+Ratings
+Displayed Avg Ratings
+4.61
+Total Displayed Ratings
+30.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.08 (Jul 1, 2023)
+    Bug fixes and performance improvements.
+
+
+
+    *** Are you having any problems or have ideas? Contact us at hello@ar-translator.com ***
+
+Version 3.07 (Jun 26, 2023)
+    Bug fixes and performance improvements.
+
+
+
+    *** Are you having any problems or have ideas? Contact us at hello@ar-translator.com ***
+Version 3.06 (Jun 13, 2023)
+    Bug fixes and performance improvements.
+
+    *** Are you having any problems or have ideas? Contact us at hello@ar-translator.com ***
+Version 3.05 (May 22, 2023)
+    Enhanced "VIDEO" mode for fast visual translations of paragraphs. We highly recommend giving it a try!
+
+    *** Are you having any problems or have ideas? Contact us at hello@ar-translator.com ***
+Version 3.04 (May 7, 2023)
+    Bug fixes and performance improvements.
+
+
+
+    *** Are you having any problems or have ideas? Contact us at hello@ar-translator.com ***
+Version 3.03 (May 3, 2023)
+    Bug fixes and improvements.
+Version 3.02 (Apr 4, 2023)
+    - Improved support for Arabic and Hebrew.
+
+    - Bug fixes and performance improvements.
+
+
+    *** Are you having any problems or have ideas? Contact us at hello@ar-translator.com ***
+Version 3.01 (Mar 16, 2023)
+    - Enhanced OCR performance.
+
+    - Expanded support for numerous languages, such as Chinese, Japanese, Korean, Thai, and more.
+Version 2.65 (Aug 26, 2022)
+    Bug fixes and performance improvements
+Version 2.64.3 (Jun 8, 2022)
+    Bug fixes and performance improvements
+Version 2.64.2 (Apr 12, 2022)
+    Bug fixes and performance improvements
+Version 2.64.1 (Apr 5, 2022)
+    Bug fixes and performance improvements
+Version 2.64 (Mar 29, 2022)
+    Bug fixes and performance improvements
+Version 2.63 (Nov 19, 2021)
+    Bug fixes and performance improvements
+Version 2.62 (Aug 19, 2021)
+    Bug fixes and performance improvements
+Version 2.61 (Aug 5, 2021)
+    Bug fixes and performance improvements
+Version 2.60 (May 15, 2021)
+    Bug fixes and performance improvements
+Version 2.50 (Mar 9, 2021)
+    Added offline translation function.
+Version 2.34 (Jan 22, 2021)
+    Bug Fixes & Performance Improvements.
+Version 2.33 (Jan 4, 2021)
+    Fixed iPhone 12 compatibility issues.
+Version 2.32 (Oct 31, 2020)
+    Bug fixes and performance improvements
+Version 2.31 (Oct 3, 2020)
+    Bug fixes and performance improvements
+Version 2.30 (Sep 29, 2020)
+    Bug fixes and performance improvements
+Version 2.23 (Jul 7, 2020)
+    Bug fixes and performance improvements
+Version 2.22 (Jul 3, 2020)
+    Bug fixes and performance improvements
+Version 2.21 (Jun 19, 2020)
+    Bug fixes and performance improvements
+Version 2.20 (Jun 16, 2020)
+    Bug fixes and performance improvements
+Version 2.14 (Jun 3, 2020)
+    Bug fixes and performance improvements
+Version 2.13 (Jun 1, 2020)
+    Bug fixes and performance improvements
+Version 2.12 (Apr 30, 2020)
+    Bug fixes and performance improvements
+Version 2.11 (Apr 21, 2020)
+    Bug fixes and performance improvements
+Version 2.10 (Apr 8, 2020)
+    - New AR mode for translating words and phrases. Just point the camera at a word and instantly see how it is translated.
+Version 2.01 (Mar 16, 2020)
+    Bug fixes and performance improvements
+Version 2.0 (Feb 28, 2020)
+    - Added translation of typed text
+
+    - Improved user interface
+Version 1.22 (Jan 3, 2020)
+    Bug fixes and performance improvements
+Version 1.21 (Dec 29, 2019)
+    Bug fixes and performance improvements
+Version 1.20 (Dec 7, 2019)
+    Bug fixes and stability improvements
+Version 1.12 (Nov 14, 2019)
+    - Optimization for iOS 13 / iPadOS 13
+
+    - Stability improvements and bug fixes
+
+
+
+    Should you have any questions, please do not hesitate to contact us: contact@ar-translator.com.
+Version 1.11 (Sep 18, 2019)
+    Bug fixes and performance improvements.
+Version 1.10 (Sep 2, 2019)
+    Bug fixes and performance improvements.
+Version 1.01 (Aug 15, 2019)
+    - Stability improvements and bug fixes
+Version 1.0 (Aug 6, 2019)
+
+Users may also like
+Select objects to compare
+Camera Translator: Translate +
+Translator - AI Translate
+Photo Translator: Translate+
+Translate Now - Photo
+UDictionary Translator
+Voice Translator: AI Translate
+Yandex Translate
+Translate Now - AI Translator
+Talk & Translate Translator
+Dialog - Translate Speech
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+72 times
+on App Store category pages
+Versions
+
+    3.08
+    Current release
+    Jul 1, 2023
+    3.07
+    Jun 26, 2023
+    3.06
+    Jun 13, 2023
+    3.05
+    May 22, 2023
+    3.04
+    May 7, 2023
+    3.03
+    May 3, 2023
+    3.02
+    Apr 4, 2023
+    3.01
+    Mar 16, 2023
+    2.65
+    Aug 26, 2022
+    2.64.3
+    Jun 8, 2022
+    2.64.2
+    Apr 12, 2022
+    2.64.1
+    Apr 5, 2022
+    2.64
+    Mar 29, 2022
+    2.63
+    Nov 19, 2021
+    2.62
+    Aug 19, 2021
+    2.61
+    Aug 5, 2021
+    2.60
+    May 15, 2021
+    2.50
+    Mar 9, 2021
+    2.34
+    Jan 22, 2021
+    2.33
+    Jan 4, 2021
+    2.32
+    Oct 31, 2020
+    2.31
+    Oct 3, 2020
+    2.30
+    Sep 29, 2020
+    2.23
+    Jul 7, 2020
+    2.22
+    Jul 3, 2020
+    2.21
+    Jun 19, 2020
+    2.20
+    Jun 16, 2020
+    2.14
+    Jun 3, 2020
+    2.13
+    Jun 1, 2020
+    2.12
+    Apr 30, 2020
+    2.11
+    Apr 21, 2020
+    2.10
+    Apr 8, 2020
+    2.01
+    Mar 16, 2020
+    2.0
+    Feb 28, 2020
+    1.22
+    Jan 3, 2020
+    1.21
+    Dec 29, 2019
+    1.20
+    Dec 7, 2019
+    1.12
+    Nov 14, 2019
+    1.11
+    Sep 18, 2019
+    1.10
+    Sep 2, 2019
+    1.01
+    Aug 15, 2019
+    1.0
+    Aug 6, 2019
+
+See More
+Top In-App Purchases
+
+    Premium Translator
+    $4.99
+    Premium Translator
+    $9.99
+    Premium Translator
+    $39.99
+    Premium Translator
+    $6.99
+    Premium Translator
+    $49.99
+    Premium Translator
+    $4.99
+    Premium Translator
+    $4.99
+    Premium Translator
+    $6.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Aug 6, 2019
+
+Worldwide Release Date
+    Aug 7, 2019
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    3.08
+
+Size
+    272.07 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    BrainMount Ltd
+
+Company HQ
+    Cyprus
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi-Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi‑Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi-Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi-Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, and iPod touch (7th generation).
+
+Bundle ID
+    com.inversemetric.artranslator
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1465903782
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+AR Translator: Translate Photo | data.ai

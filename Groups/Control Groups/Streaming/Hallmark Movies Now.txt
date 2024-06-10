@@ -1,0 +1,619 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Hallmark Movies Now
+HallmarkEntertainment (Applications)Free
+Alerts
+
+Hallmark Movies Now
+Hallmark Movies Now
+Hallmark Movies Now
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Hallmark Movies Now
+Watch Hallmark movies & series
+Entertainment (Applications)
+Free
+App Description
+Hallmark Movies Now includes hundreds of hours of engaging, commercial-free content full of meaningful moments, laughter, and heart. Watch original movies, series, and exclusive content from Hallmark Channel, Hallmark Movies & Mysteries, and Hallmark Hall of Fame. Plus, a selection of heartfelt Hollywood favorites. All commercial-free for as low as $4.99/month—that’s two months free with an annual subscription.
+
+It’s easy to get started! Download today to start your FREE TRIAL and watch instantly!
+
+• Your favorite Hallmark Channel original movies, series and specials
+• Captivating whodunnits from Hallmark Movies & Mysteries
+• The library of Hallmark Hall of Fame movies
+• Handpicked Hollywood favorites, including movies and series with emotionally rich storytelling and engaging characters
+
+Features include:
+• Feel-good movies & shows
+• Exclusive content you can’t see anywhere else
+• 100% commercial-free content
+• New titles added all the time
+• Watch anytime & anywhere
+• Support for 3D Touch
+• Airplay to stream movies to an Apple TV
+
+Choose a Hallmark Movies Now subscription that’s right for you:
+• Annual Subscription: $59.99 (Two Months FREE!)
+• Monthly Subscription: $5.99
+• Subscriptions are automatically renewed until cancelled
+
+Subscribers’ Automatic-Renewal Feature:
+Your subscription will be charged to your iTunes account at the end of your free trial and will automatically renew unless auto-renew is turned off at least 24 hours before the end of your current period. Your iTunes account will automatically be charged at the same price for renewal, as stated above, within 24 hours prior to the end of the current period.
+
+You can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase.
+
+Hallmark Movies Now is part of Crown Media Family Networks, a wholly owned subsidiary of Hallmark Cards, Inc. For more information, please read our privacy & security policy and terms of service.
+
+https://www.hmnow.com/privacypolicy
+
+https://www.hmnow.com/termsandconditions
+
+http://corporate.crownmedia.com/#/
+Ratings
+Displayed Avg Ratings
+4.38
+Total Displayed Ratings
+11.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.103.0 (Feb 28, 2024)
+    Search page promos not rendered in app
+    Nav Bar Style Implementation not supporting Liquid expressions
+Version 8.92.0 (Oct 25, 2023)
+    Introducing Download to Go: Seamlessly download and enjoy your favorite episodes and movies offline, anytime, anywhere.
+    Bug Fixes:
+    Push Notifications now properly lead to the show or movie page instead of the home page. Happy watching!
+Version 8.84.4 (Jul 19, 2023)
+    GA4 is enabled
+    Datazoom New Collector is introduced
+Version 8.68.3 (Nov 21, 2022)
+    Improvements and Bug Fixes
+Version 8.1.54 (Jun 9, 2022)
+    Improvements and Bug Fixes
+Version 8.1.51 (Apr 19, 2022)
+    Improvements and Bug Fixes
+Version 8.1.29 (36246) (Oct 5, 2021)
+    Performance Fixes
+Version 8.1.24 (Sep 8, 2021)
+    Improvements and Bug Fixes
+Version 8.1.20 (36237) (Jul 29, 2021)
+    Improvements and Bug Fixes
+Version 8.1.13 (36236) (Jun 24, 2021)
+    Improvements and Bug Fixes
+Version 8.1.7 (36233) (May 18, 2021)
+    Improvements and Bug Fixes.
+Version 8.1.4 (Apr 12, 2021)
+    Improvements and bug fixes.
+Version 8.1.2 (Mar 30, 2021)
+    Improvements and bug fixes.
+Version 8.0.0 (Mar 4, 2021)
+    New Layout
+Version 7.0.2 (Jan 6, 2021)
+    This release includes bug fixes and performance improvements. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 7.0.1 (Sep 14, 2020)
+    This release includes bug fixes and performance improvements. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 7.0.0 (Aug 13, 2020)
+    This release includes bug fixes and performance improvements. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 6.0.5 (Jun 4, 2020)
+    This release includes bug fixes and performance improvements. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 6.0.4 (Apr 30, 2020)
+    This release includes bug fixes and performance improvements. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 6.0.3 (Apr 2, 2020)
+    This release includes bug fixes and performance improvements. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 6.0.2 (Mar 11, 2020)
+    We improved the experience of Hallmark Movies Now. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 6.0.1 (Feb 25, 2020)
+    This release includes bug fixes and backend improvements. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 6.0.0 (Jan 29, 2020)
+    This release includes bug fixes, backend improvements and menu enhancements. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 5.5.0 (Oct 29, 2019)
+    This release includes bug fixes and backend improvements. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 5.4.1 (Nov 12, 2018)
+    We've made changes to Hallmark Movies Now designed to make your viewing experience more enjoyable. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 5.4 (Oct 17, 2018)
+    We've made changes to Hallmark Movies Now designed to make your viewing experience more enjoyable. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 5.3 (Sep 19, 2018)
+    We've made changes to Hallmark Movies Now designed to make your viewing experience more enjoyable. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 5.2 (Jun 19, 2018)
+    We've made designed changes to Hallmark Movies Now to make your viewing experience more enjoyable. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 5.1.1 (Jun 1, 2018)
+    We regularly update our app to make your viewing experience even more enjoyable. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 5.1 (May 30, 2018)
+    We regularly update our app to make your viewing experience even more enjoyable. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 5.0.5 (Apr 10, 2018)
+    This update fixes the crashing issue users on iOS 9.3.5 were experiencing. Please contact us at support@hmnow.com if you have any problems and we will gladly help you.
+Version 5.0.4 (Mar 21, 2018)
+    We regularly update our app to make your viewing experience even more enjoyable. Please contact us at support@hmnow.com if you have any problems and we will gladly help you out.
+Version 5.0.3 (Dec 6, 2017)
+    We regularly update our app to make your viewing experience even more enjoyable. Please contact us at support@hmnow.com if you have any problems and we will gladly help you out.
+Version 5.0.2 (Nov 3, 2017)
+    Welcome to Hallmark Movies Now featuring hundreds of hours of engaging, commercial-free content full of meaningful moments, laughter and heart.
+    Start your 7-Day FREE TRIAL today to enjoy unlimited, commercial-free streaming of the Hallmark content you love, including movies from the beloved Hallmark Hall of Fame library, captivating movies, series and specials from Hallmark Channel and Hallmark Movies & Mysteries, and handpicked Hollywood favorites!
+Version 5.0.1 (Oct 16, 2017)
+    Welcome to Hallmark Movies Now featuring hundreds of hours of engaging, commercial-free content full of meaningful moments, laughter and heart.
+    Start your 7-Day FREE TRIAL today to enjoy unlimited, commercial-free streaming of the Hallmark content you love, including movies from the beloved Hallmark Hall of Fame library, captivating movies, series and specials from Hallmark Channel and Hallmark Movies & Mysteries, and handpicked Hollywood favorites!
+Version 5.0 (Oct 11, 2017)
+    Welcome to Hallmark Movies Now featuring hundreds of hours of engaging, commercial-free content full of meaningful moments, laughter and heart.
+    Start your 7-Day FREE TRIAL today to enjoy unlimited, commercial-free streaming of the Hallmark content you love, including movies from the beloved Hallmark Hall of Fame library, captivating movies, series and specials from Hallmark Channel and Hallmark Movies & Mysteries, and handpicked Hollywood favorites!
+Version 4.7.2 (Jul 5, 2017)
+    As always, we’ve made performance improvements and updates to make Feeln an even better place.
+
+    Thanks for using Feeln! Please email support@feeln.com if you have any problems with this or any of our other apps and we will gladly help you out.
+Version 4.7.1 (Apr 25, 2017)
+    In this update, we are excited to present a live visual search which serve up instant results with images when you start searching for titles throughout our extensive content library.
+
+    As always, we’ve made performance improvements and updates to make Feeln an even better place.
+
+    Thanks for using Feeln! Please email support@feeln.com if you have any problems with this or any of our other apps and we will gladly help you out.
+Version 4.7.0 (Apr 4, 2017)
+    A few minor updates to make Feeln an even better place.
+
+    Thanks for using Feeln! Please email support@feeln.com if you have any problems with this or any of our other apps and we will gladly help you out.
+Version 4.6.1 (Mar 21, 2017)
+    - You are now able to use TouchID during login
+    - Our paywall has been updated to show a sizzle reel of our many movies and series
+    - Improved the messaging throughout the app
+    - General improvements
+
+    Thanks for using Feeln! Please email support@feeln.com if you have any problems with this or any of our other apps and we will gladly help you out.
+Version 4.6.0 (Mar 2, 2017)
+    -There's a new message to make it clearer when films are added or removed from Watchlist.
+    -We added messaging to let you know if you have a version of the app that is no longer supported and how to update to the latest version.
+    -Some users were experiencing a crash on iOS 8 which is fixed.
+    -Added subscription renewal information into the app
+
+    Thanks for using Feeln! Please email support@feeln.com if you have any problems with this or any of our other apps and we will gladly help you out.
+Version 4.5.0 (Jan 26, 2017)
+    In this update, we're excited to bring you Feeln’s own widget with direct access to our newest movies and shows. We also made a few minor updates to make Feeln an even better place.
+
+    Thanks for using Feeln! Please email support@feeln.com if you have any problems with this or any of our other apps and we will gladly help you out.
+Version 4.4.3 (Jan 9, 2017)
+    A few minor updates to make Feeln an even better place.
+
+    Thanks for using Feeln! Please email support@feeln.com if you have any problems with this or any of our other apps and we will gladly help you out.
+Version 4.4.2 (Sep 16, 2016)
+    In this update, we're excited to bring you:
+
+    -iOS 10 compatibility
+    -Updates to Airplay: Turn on/off while watching a movie, improved onscreen display and lock screen playback controls when using Airplay.
+    -Added a :15 rewind button to quickly rewind back in :15 increments
+    -Fixed login issues affecting some users
+
+    We hope you're enjoying our previous updates which include support for Airplay, 3D touch, Chromecast, and Spotlight search! Please email support@feeln.com if you have any problems with this or our other apps and we will gladly help you out.
+Version 4.4.1 (Jul 20, 2016)
+    This update contains bug fixes and improves performance on older iPads.
+
+    We hope you're enjoying our previous updates which include support for Airplay, 3D touch, Chromecast, and Spotlight search! Please email support@feeln.com if you have any problems with this or our other apps and we will gladly help you out.
+Version 4.4 (Jun 28, 2016)
+    We've been working hard to make Feeln even better for you and are thrilled to bring you the following in this update:
+
+    +Feeln has all NEW streaming technology! This will provide a much improved streaming experience that also eliminates the "black screen" issue some users have reported.
+    +Feeln now supports AIRPLAY! You can stream to your Apple TV from your iPhone, iPad or iPod Touch.
+    +Various bug fixes
+
+    We hope you're enjoying our previous updates which include support for 3D touch, Chromecast, and Spotlight search! Please email support@feeln.com if you have any problems and we will gladly help you out.
+Version 4.3.4 (May 2, 2016)
+    +Fixed a bug that was preventing films from restarting in the correct place under certain conditions.
+
+    We hope you're enjoying our previous updates which include support for 3D touch, Chromecast, and Spotlight search! We've got more great updates to improve your viewing experience coming soon!
+
+    If you encounter any issues, please contact us at support@feeln.com and we will gladly help you out.
+Version 4.3.3 (Apr 19, 2016)
+    +Improvements to the app
+
+    We hope you're enjoying our previous updates which include support for 3D touch, Chromecast, and Spotlight search!
+
+    If you encounter any issues, please contact us at support@feeln.com and we will gladly help you out.
+Version 4.3.2 (Mar 29, 2016)
+    This update brings you the following:
+
+    +Close Caption support for Chromecast! While casting, tap the closed caption button on screen to display captions.
+    +Fixed a bug where some films were not displaying closed captions in the app
+
+    And you can still enjoy our previous updates which include support for 3D touch, Chromecast, and Spotlight search.
+
+    If you encounter any issues, please contact us at support@feeln.com and we will gladly help you out.
+Version 4.3.1 (Mar 7, 2016)
+    In this update, we're happy to bring you:
+    +Closed Captions! After you start playing a movie, just tap the screen to bring up the player controls and tap the closed caption button to turn them on and off.
+
+    And from our previous updates you can continue to enjoy: 3D Touch, search for movies to watch right from Spotlight search, and if you have a Chromecast device, streaming is an easy tap away!
+
+    If you encounter any issues, please contact us at support@feeln.com and we will gladly help you out.
+Version 4.3 (Jan 4, 2016)
+    Happy New Year! We've been working hard on new features and improvements and are excited to bring you the following in our 4.3 update:
+
+    + iPhone 6s and 6s Plus users can take advantage of the hardware's 3D touch feature. Press and hold on the app icon to quickly jump to various shortcuts including resuming the last movie you were watching! In the app you can press and hold to get a "Peek" at a movie and press harder to "Pop" and start playback. You can also press and hold on a category to get a "Peek" at the contents within that category and press harder to "Pop" the category in to view.
+    + Enhanced the app launch user experience.
+    + Improved in app sign up process.
+    + Various bug fixes.
+
+    And from our previous updates: Search for movies to watch right from Spotlight search. Type in a movie or actor's name and results from Feeln will show right in Spotlight! If you have a Chromecast device, streaming is an easy tap away!
+
+    If you encounter any issues, please contact us at support@feeln.com and we will gladly help you out.
+Version 4.2 (Oct 31, 2015)
+    -Spotlight search integration for iOS 9 - search for your favorite movies, TV shows or actors available on Feeln right in Spotlight search.
+    -Various bug fixes
+Version 4.1 (Sep 29, 2015)
+    We appreciate all of the feedback you've given us so far on the new app and we've worked hard to bring you some exciting new features and fixes for this update.
+
+    New for v4.1:
+
+    -Now with Chromecast support!
+    -Compatible with iOS 9.
+    -Improved streaming playback.
+    -Various user interface tweaks.
+    -Progress bars integrated in to the Resume button as well as on your Watchlist and TV episodes to show you where you left off.
+    -Various bug fixes and stability improvements.
+
+    And all of these exciting updates from 4.0:
+
+    - The new Feeln app has been completely rebuilt from the ground up based on feedback from our audience.
+    - Finding and watching the movies and shows you love is faster and easier than ever before.
+    - Watch a new Hallmark Hall of Fame streaming premiere every month.
+    - Sign up in the app and start watching instantly or sign in with your existing account
+Version 4.0 (Aug 10, 2015)
+    - The new Feeln app has been completely rebuilt from the ground up based on feedback from our audience.
+    - Finding and watching the movies and shows you love is faster and easier than ever before.
+    - Watch a new Hallmark Hall of Fame streaming premiere every month.
+    - Sign up in the app and start watching instantly or sign in with your existing account
+Version 3.0.2 (Nov 6, 2014)
+    * The log in issue some users were experiencing is fixed. Thank you for your patience and feedback.
+    * Now with 100% more Rainbow Brite!
+    * New movies this month include: The full Rocky series (Rocky 1-5), Apollo 13, Racing Stripes and more.
+Version 3.0.1 (Oct 11, 2014)
+    Compatibility with iOS 8
+    Added ability to reset forgotten password
+    Fixed login with special characters and other bug fixes
+Version 3.0 (Sep 11, 2014)
+    • SpiritClips has a new name: Feeln - with a dramatically enhanced selection of movies, shows, documentaries and original series to entertain and move your family.
+    • We’ve rebuilt and redesigned the app from the ground up to make it run faster, better, and help you find content more easily.
+    • Improved video playback
+    • Dozens of bug fixes based on your feedback. Please keep your comments coming.
+Version 2.3 (Mar 27, 2014)
+    Significant performance enhancements - Speedy loading!
+
+    Vast UI improvements - Friendly browse and search!
+
+    Spiffed-up new look - So handsome!
+
+    bug fixes - No need to call the exterminator!
+Version 2.2.4 (Feb 19, 2014)
+    - Access to View History
+    - Ability to Select and View "Favorites"
+    - Improved Loading Performance
+    - Enhanced Streaming Performance
+    - Bug Fixes
+Version 2.2.3 (Jan 13, 2014)
+    Bug fixes and performance enhancements.
+Version 2.2.2 (Dec 15, 2013)
+    • Pause Resume
+    • Bug Fixes
+    • Updated for iOS 7
+Version 2.2.1 (Aug 26, 2013)
+    • Bug Fixes
+    • Performance Enhancements
+Version 2.2 (Aug 1, 2013)
+    • Bug fixes
+Version 2.1 (Jul 19, 2013)
+    • Performance enhancements
+    • Bug fixes
+Version 2.0 (Jul 10, 2013)
+    • Access To Hollywood Classics & Hallmark Hall of Fame Movies
+    • New Short Films and documentaries
+    • Redesigned user interface with updated, user-friendly navigation
+    • New name, SpiritClips from Hallmark, and logo
+Version 1.0 (Oct 18, 2011)
+
+Users may also like
+Select objects to compare
+Hallmark TV
+Hallmark Movie Checklist
+Frndly TV
+UP Faith & Family
+Lifetime Movie Club
+PureFlix
+My UPtv
+GAcommunity
+GFAM Movie Checklist
+Lifetime: TV Shows & Movies
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    8.103.0
+    Current release
+    Feb 28, 2024
+    8.92.0
+    Oct 25, 2023
+    8.84.4
+    Jul 19, 2023
+    8.68.3
+    Nov 21, 2022
+    8.1.54
+    Jun 9, 2022
+    8.1.51
+    Apr 19, 2022
+    8.1.29 (36246)
+    Oct 5, 2021
+    8.1.24
+    Sep 8, 2021
+    8.1.20 (36237)
+    Jul 29, 2021
+    8.1.13 (36236)
+    Jun 24, 2021
+    8.1.7 (36233)
+    May 18, 2021
+    8.1.4
+    Apr 12, 2021
+    8.1.2
+    Mar 30, 2021
+    8.0.0
+    Mar 4, 2021
+    7.0.2
+    Jan 6, 2021
+    7.0.1
+    Sep 14, 2020
+    7.0.0
+    Aug 13, 2020
+    6.0.5
+    Jun 4, 2020
+    6.0.4
+    Apr 30, 2020
+    6.0.3
+    Apr 2, 2020
+    6.0.2
+    Mar 11, 2020
+    6.0.1
+    Feb 25, 2020
+    6.0.0
+    Jan 29, 2020
+    5.5.0
+    Oct 29, 2019
+    5.4.1
+    Nov 12, 2018
+    5.4
+    Oct 17, 2018
+    5.3
+    Sep 19, 2018
+    5.2
+    Jun 19, 2018
+    5.1.1
+    Jun 1, 2018
+    5.1
+    May 30, 2018
+    5.0.5
+    Apr 10, 2018
+    5.0.4
+    Mar 21, 2018
+    5.0.3
+    Dec 6, 2017
+    5.0.2
+    Nov 3, 2017
+    5.0.1
+    Oct 16, 2017
+    5.0
+    Oct 11, 2017
+    4.7.2
+    Jul 5, 2017
+    4.7.1
+    Apr 25, 2017
+    4.7.0
+    Apr 4, 2017
+    4.6.1
+    Mar 21, 2017
+    4.6.0
+    Mar 2, 2017
+    4.5.0
+    Jan 26, 2017
+    4.4.3
+    Jan 9, 2017
+    4.4.2
+    Sep 16, 2016
+    4.4.1
+    Jul 20, 2016
+    4.4
+    Jun 28, 2016
+    4.3.4
+    May 2, 2016
+    4.3.3
+    Apr 19, 2016
+    4.3.2
+    Mar 29, 2016
+    4.3.1
+    Mar 7, 2016
+    4.3
+    Jan 4, 2016
+    4.2
+    Oct 31, 2015
+    4.1
+    Sep 29, 2015
+    4.0
+    Aug 10, 2015
+    3.0.2
+    Nov 6, 2014
+    3.0.1
+    Oct 11, 2014
+    3.0
+    Sep 11, 2014
+    2.3
+    Mar 27, 2014
+    2.2.4
+    Feb 19, 2014
+    2.2.3
+    Jan 13, 2014
+    2.2.2
+    Dec 15, 2013
+    2.2.1
+    Aug 26, 2013
+    2.2
+    Aug 1, 2013
+    2.1
+    Jul 19, 2013
+    2.0
+    Jul 10, 2013
+    1.0
+    Oct 18, 2011
+
+See More
+Top In-App Purchases
+
+    Annual
+    $59.99
+    Feeln
+    $5.99
+    Feeln
+    $35.99
+    Annual subscription
+    $59.99
+    Monthly Subscription
+    $5.99
+    Monthly
+    $5.99
+    Hallmark Movies Now (Monthly)
+    $5.99
+    Hallmark Movies Now (Annual)
+    $59.99
+
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Oct 19, 2011
+
+Worldwide Release Date
+    Oct 19, 2011
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    8.103.0
+
+Size
+    61.77 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Hallmark Labs, LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 9+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.spiritclips.sc
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 472567577
+Unified App ID: 1000600000626427
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Hallmark Movies Now | data.ai

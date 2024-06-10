@@ -1,0 +1,13 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8,app_function
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,2.0.4,2023-02-02,Changed Japanese App name.,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,2.0.3,2023-02-01,Changed Japanese App name. Terms of use some display changes were made.,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,2.0.2,2023-01-02,Fixed minor bug in Japanese notation Changed link to English home page and App store Minor changes to the settings screen,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,2.0.1,2022-11-25,Improved memory leakage Improved small bug after billing,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,2.0.0,2022-11-15,Addition of Japanese language through localization. Improved redundant parts of the code. Added a request for application support. The calendar display which tends to be unstable has been reduced from a two year display to only a three month display.,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,1.2.4,2022-10-26,Size of a few SF Symbols changed.,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,1.2.3,2022-10-03,Added alert that saving is not possible in offline environments,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,1.2.2,2022-10-02,Fixed the calendar layout.,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,1.2.1,2022-09-26,Support for exchange rate changes,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,1.1.1,2022-09-18,minor correction store bug fixes,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,1.0.3,2022-09-02,Fixed the link to AppStore and the method of getting time.,0,0,0,0,0,0,0,0,0
+1641826811,0,1year Later Diary,Lifestyle,2022-09-01,2022-09-01,3.38,2,0,0,1,1.0.2,2022-09-01,,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,589 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+TeleGuard
+SwisscowsSocial Networking (Applications)Free
+Alerts
+
+TeleGuard
+TeleGuard
+TeleGuard
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+TeleGuard
+TeleGuard - secure messenger
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+Anonymity guaranteed - no registration
+
+There is no connection to a telephone number and no collection of user identification data. The TeleGuard-ID is your very personal identification number that you need in order to connect with your friends. Every TeleGuard user receives an ID number and a QR code, which can be sent out to get in touch with others.
+
+
+Designed to be the most secure messenger in the world
+
+TeleGuard's focus is on protecting privacy and confidential communication. TeleGuard is the secure messenger from Swisscows. Swisscows has set itself the task of protecting its users from data misuse in every situation. As the smartphone is the most widely used medium in the world nowadays, a secure messenger is indispensable.
+
+Highly secure and modern server
+
+All servers are located in the data centers in Switzerland. A complex encryption system is used for all transmitted data and absolutely no user data is stored on the servers. Everything is absolutely anonymous.
+
+That's why TeleGuard is better than the others
+
+TeleGuard encrypts every message and voice call with the one of the best encryption algorithm currently available: SALSA 20. Since our servers are in Switzerland, we are not subject to the data protection laws of the EU / USA and do not have to pass on any data.
+
+How is my privacy secured?
+
+HTTPS, end-to-end encryption, deletion of messages from the server after reading. No user data, neither IP address nor other, is recorded or stored.
+
+Functions
+
+• Send text and voice messages
+• Share pictures and videos
+• Video and voice telephony
+• Send files
+• Create groups
+• The identity of contacts can be verified by scanning the QR code.
+
+Support
+
+If you have further questions, you will find our FAQs here: teleguard.com/en#faq
+Ratings
+Displayed Avg Ratings
+4.16
+Total Displayed Ratings
+425
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.3.0 (Feb 21, 2024)
+    - Lots of minor improvements
+Version 3.2.2 (Feb 9, 2024)
+    - Added pastel and gradient colors to customize the theme
+    - Improved usability of media messages
+    - Lots of minor improvements
+Version 3.2.1 (Dec 30, 2023)
+    - Added Urdu localization
+    - Lots of minor improvements
+Version 3.2.0 (Dec 5, 2023)
+    - Improved profiles design (contact, group chat, channel)
+    - Lots of minor improvements
+Version 3.1.1 (Oct 24, 2023)
+    - Lots of minor improvements
+Version 3.1.0 (Oct 4, 2023)
+    - When calling a contact who is already in call, a dialog is now displayed with the option to request a call back
+    - Lots of minor improvements
+Version 3.0.3 (Aug 3, 2023)
+    - Lots of minor improvements
+Version 3.0.2 (Jul 19, 2023)
+    - Lots of minor improvements
+Version 3.0.1 (Jun 19, 2023)
+    - Ability to partially select the text of the message (available in the context menu)
+    - Lots of minor improvements
+Version 3.0.0 (Jun 4, 2023)
+    - The speed of processing offline messages has been significantly improved
+    - Sending photos and videos in a media message has been made possible
+    - Extensive improvement of the reply system to messages:
+    - Correct display of replies to messages with attachments.
+    - Possibility to add any attachments to the reply as well as to reply with a voice message
+    - Jumping to the original message by tapping on the reply (if still available in the dialogue)
+    - Reconnection of calls in case of short network interruptions (e.g. change from WLAN to mobile internet)
+    - Lots of minor improvements
+Version 2.5.2 (Mar 17, 2023)
+    - Lots of minor improvements
+Version 2.5.1 (Mar 13, 2023)
+    - Аdded FAQ
+    - Lots of minor improvements
+Version 2.5.0 (Feb 27, 2023)
+    - Possibility to block/unblock a contact
+    - Ability to leave a group chat while retaining chat history
+    - Option to disable push notifications for a specific contact or group chat
+    - Lots of minor improvements
+Version 2.4.1 (Jan 30, 2023)
+    Comprehensive improvement of interaction with messages containing attachments (photos, videos, files), added features:
+    - Cancel sending
+    - Cancel file or video download
+    - Start background video download directly from thumbnail
+    Improved server connection stability
+    Lots of minor improvements
+Version 2.4.0 (Dec 22, 2022)
+    - Ability to set the background for all chats (in the theme settings) and for each chat individually (in the contact / group profile)
+    - Added a tab to the emoji/sticker panel to search and quickly send short animations (GIF)
+    - Added holiday decoration (can be disabled in theme settings)
+    - Lots of minor improvements
+Version 2.3.2 (Nov 28, 2022)
+    - Minor improvements
+Version 2.3.1 (Nov 15, 2022)
+    - Many minor improvements
+Version 2.3.0 (Oct 30, 2022)
+    - Major design overhaul
+    - Colour adaptation of the interface
+    - IP telephony for calling mobile and landline phones
+    - Many minor improvements
+Version 2.2.3 (Sep 12, 2022)
+    - Redesigned personal profile screen
+    - Redesigned PIN code entry screen
+    - Added the ability to view the profile of the contact who sent the invitation
+    - Added channel search by id
+    - Added the ability to share a link to a web view channel
+    - Fixed incorrect display of the date of the message in some cases
+    - Lots of minor improvements
+Version 2.2.2 (Aug 31, 2022)
+    - Improved the app protection function with a pin code: now you can set the idle time after which the app will be locked, also added an instant lock button
+    - Redesigned the application start screen before registering or restoring from a backup
+    - Removed dislikes in channels
+    - Lots of minor improvements
+Version 2.2.1 (Jul 1, 2022)
+    - added setting to auto-delete message history for chats (in the chat or contact profile)
+    - added ability to locally clear group chat history (in the profile of group chat)
+    - fixed a bug where images could not be zoomed in
+    - minor improvements
+Version 2.2.0 (Jun 20, 2022)
+    - Added the ability to buy personal TeleGuard ID (new section in settings)
+    - Added the ability of the flexible clearing of caches (new section in settings)
+    - Minor improvements
+Version 2.1.0 (Jun 10, 2022)
+    - Added the ability to pin messages in chats
+    - Added the ability to share/forward to multiple chats
+    - Redesigned all dialogs, first of all for invites
+    - Many minor improvements
+Version 2.0.1 (Apr 27, 2022)
+    - Added synchronisation between multiple devices
+    - Updated input field and menu for pinning attachments.
+    - Added self-deleting messages, available when holding the send button
+    - Many small improvements
+Version 2.0.0 (Apr 25, 2022)
+    - Added synchronisation between multiple devices
+    - Updated input field and menu for pinning attachments.
+    - Added self-deleting messages, available when holding the send button
+    - Many small improvements
+Version 1.9.4 (Mar 25, 2022)
+    - Minor improvements
+Version 1.9.3 (Feb 24, 2022)
+    - Added the ability to hide author and content in push notifications (settings -> privacy)
+    - Fixed bugs when some links or GIFs broke the display of messages (grey screen)
+    - Added donation ability
+    - Updated terms of use for clubs
+Version 1.9.2 (Jan 28, 2022)
+    - Added the ability to block a contact (he will not be able to send you an invitation, call or send a message until he is unblocked). To block contact just delete him or use new button in the invite dialogue.
+    - Minor improvements
+Version 1.9.1 (Jan 11, 2022)
+    - Fixed launch problem on iOS 12
+    - Added group calls up to 4 members
+    - Unsuccessfully sent messages now will be re-sent
+    - Added an ability to go to message from media tabs in profiles
+    - Minor bug fixes and interface improvements
+Version 1.9.0 (Dec 29, 2021)
+    - Added group calls up to 4 members
+    - Unsuccessfully sent messages now will be re-sent
+    - Added an ability to go to message from media tabs in profiles
+    - Minor bug fixes and interface improvements
+Version 1.8.1 (Dec 7, 2021)
+    - New design for the welcome screen. New users will be able to quickly set up the backup autocreation schedule and optionally attach phone
+    - Voice message now will be paused on incoming call with the option to continue recording after the call ends
+    - Fixed bug when draft has stuck after message sent
+    - Added Armenian, Hungarian and Latvian languages
+    - Minor bug fixes and interface improvements
+Version 1.8.0 (Nov 22, 2021)
+    - New design for all profiles (contact, group chat, club) with media tabs for quick access to images, videos, files, etc,
+    - Improved drafts, currently they will be saved after app closing
+    - Minor bug fixes and interface improvements
+Version 1.7.0 (Oct 4, 2021)
+    - Added optional phone number binding. You can quickly find contacts among your phonebook who already using TeleGuard (with the linked number)
+    - Added the ability to mark a chat as read or unread in the swipe menu
+    - Added the ability to accelerate listening of the voice messages
+    - Call panel design updated
+    - Minor bug fixes and interface improvements
+Version 1.6.2 (Sep 4, 2021)
+    - New design for settings
+    - New design for voice messages player
+    - Improved calls stability
+    - Added Bulgarian language
+    - Text message limit extended to 4096 symbols
+    - Voice message limit extended to 20 minutes
+    - Minor bug fixes and interface improvements
+Version 1.6.1 (Aug 18, 2021)
+    - Added typing status
+    - Added extended menu in image and video viewers for the fast sharing to an another chat
+    - Minor bug fixes and interface improvements
+Version 1.6.0 (Aug 1, 2021)
+    - Massive redesign (registration, conversation, profile, image viewer, popup menu, etc.)
+    - Added swipe action for channels
+    - Minor bug fixes and interface improvements
+Version 1.5.3 (Jul 12, 2021)
+    ==== 1.5.3 ====
+    - Added swipe actions for the contacts and chats (swipe left to delete or right for the more actions)
+    - Added swipe action for a messages to fast reply
+    - Added possibility to share contact or club with your contacts
+    - Added setting to disable clubs notifications
+    - Minor bug fixes and interface improvements
+Version 1.5.2 (Jun 24, 2021)
+    ==== 1.5.2 ====
+    - Added parental control to hide public content (currently affect only on a clubs)
+    - Added button for quick scroll to the last message in conversation
+    - Added setting for manual control of using biometric at the lock screen
+    - Improved reconnection stability
+    - Fixed bug when first video call does not sounds in speakerphone
+    - Minor bug fixes and interface improvements
+Version 1.5.1 (Jun 6, 2021)
+    ==== 1.5.1 ====
+    - Added fingerprint/face id support
+    - Added categories and languages for clubs
+    - Added czech language
+    - Minor bug fixes and interface improvements
+Version 1.5.0 (Jun 1, 2021)
+    - Improved calls stability
+    - Currently calls will receive in the "Low power mode"
+    - Added the ability to toggle between portrait and landscape orientations in the image and video viewers
+    - Minor bug fixes and interface improvements
+Version 1.4.1 (May 15, 2021)
+    - Added the compact collage of thumbnails in message with multiple images
+    - Image viewer currently opens with all images of message with ability to slide to next or previous
+    - Improved connection to server stability
+    - Fixed bug when call panel has stuck after a call reject
+    - Fixed bug when music has stopped after an application start
+    - Minor bug fixes and interface improvements
+Version 1.4.0 (May 6, 2021)
+    ==== 1.4.0 ====
+    - Added dark theme
+    - Added the ability to toggle sorting mode in contact list (alphabetically and by activity)
+    - Added loading of avatars and nicknames for the unknown members in group chat
+    - Added the ability to share image to the third party app
+    - Minor interface bug fixes and improvements
+Version 1.3.1 (Apr 19, 2021)
+    - Added invisible mode (allows to hide the online status and reading confirmation)
+    - Added bluetooth devices support for the audio call
+    - Added alphabet shortcuts to the contact list
+    - Added progress indicator for the uploading file/media content
+    - Improved design for the file/media messages preview itemsa
+    - Improved design for the sticker panel
+    - Added the ability to share image to the third party app
+    - Minor interface bug fixes and improvements
+Version 1.3.0 (Apr 2, 2021)
+    - Added the ability to backup and restore an account (including to another device)
+Version 1.2.1 (Mar 22, 2021)
+    - Improvements and fixes for clubs
+    - If you have created a club and it was disappeared - it should come back
+    - Fixed case when connection status text stuck in value "Connection to server"
+Version 1.2.0 (Mar 10, 2021)
+    - Added social clubs
+Version 1.1.2 (Mar 7, 2021)
+    - Minor bug fixes
+Version 1.1.0 (Feb 13, 2021)
+    - Added last visit dates in the contact list view
+    - Added display of invited users in the group info
+    - Added possibility to back to a chat during call in progress
+    - Added possibility to hide an author of the forwarded message
+    - Added possibility to add a comment in sharing
+    - Added image/video loading progress indicator
+    - Added possibility to share contact (standard vcard format)
+    - Redesigned file message
+    - Redesigned audio player
+    - Fixed resizing image viewport
+    - Fixed saving image/video, now it will be saved to gallery
+    - Fixed incorrect badge count
+    - Fixed bug when shared file name has non latin symbols
+    - Minor bug fixes
+Version 1.0.4 (Feb 3, 2021)
+    - Voice message will play in speaker when proximity sensor has affected
+    - Added possibility to delete call messages
+    - Added welcome dialogue to help add the first contact
+    - Added setting to disable the incoming message sound when application in foreground
+    - Fixed interaction with silent mode
+Version 1.0.3 (Jan 28, 2021)
+    - Fixed bug with the encrypted text after invite has been accepted
+    - Fixed case when message can duplicate
+    - Added possibility to pick video from gallery
+    - Shared video will send as video message
+    - Single emoji will show as sticker
+Version 1.0.2 (Jan 22, 2021)
+    - Added possibility to auto hold the voice record by swipe up
+    - The group chat creation has been redesigned for the better usability
+Version 1.0.1 (Jan 21, 2021)
+    - Improved sounds
+    - Added new localizations for push notification
+    - Minor interface improvements
+    - Bugfixes
+Version 1.0.0 (Jan 19, 2021)
+
+Users may also like
+Select objects to compare
+Knuddels - chat and flirt
+Threema. The Secure Messenger
+Threema Work. For Companies
+Skred Messenger
+Popcorn - Dating, Chat & mehr
+Twiq - Anonymous Chat
+Snoggle - Dating & Single App
+Kedr
+twinme private messenger
+Ginlo Private
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.3.0
+    Current release
+    Feb 21, 2024
+    3.2.2
+    Feb 9, 2024
+    3.2.1
+    Dec 30, 2023
+    3.2.0
+    Dec 5, 2023
+    3.1.1
+    Oct 24, 2023
+    3.1.0
+    Oct 4, 2023
+    3.0.3
+    Aug 3, 2023
+    3.0.2
+    Jul 19, 2023
+    3.0.1
+    Jun 19, 2023
+    3.0.0
+    Jun 4, 2023
+    2.5.2
+    Mar 17, 2023
+    2.5.1
+    Mar 13, 2023
+    2.5.0
+    Feb 27, 2023
+    2.4.1
+    Jan 30, 2023
+    2.4.0
+    Dec 22, 2022
+    2.3.2
+    Nov 28, 2022
+    2.3.1
+    Nov 15, 2022
+    2.3.0
+    Oct 30, 2022
+    2.2.3
+    Sep 12, 2022
+    2.2.2
+    Aug 31, 2022
+    2.2.1
+    Jul 1, 2022
+    2.2.0
+    Jun 20, 2022
+    2.1.0
+    Jun 10, 2022
+    2.0.1
+    Apr 27, 2022
+    2.0.0
+    Apr 25, 2022
+    1.9.4
+    Mar 25, 2022
+    1.9.3
+    Feb 24, 2022
+    1.9.2
+    Jan 28, 2022
+    1.9.1
+    Jan 11, 2022
+    1.9.0
+    Dec 29, 2021
+    1.8.1
+    Dec 7, 2021
+    1.8.0
+    Nov 22, 2021
+    1.7.0
+    Oct 4, 2021
+    1.6.2
+    Sep 4, 2021
+    1.6.1
+    Aug 18, 2021
+    1.6.0
+    Aug 1, 2021
+    1.5.3
+    Jul 12, 2021
+    1.5.2
+    Jun 24, 2021
+    1.5.1
+    Jun 6, 2021
+    1.5.0
+    Jun 1, 2021
+    1.4.1
+    May 15, 2021
+    1.4.0
+    May 6, 2021
+    1.3.1
+    Apr 19, 2021
+    1.3.0
+    Apr 2, 2021
+    1.2.1
+    Mar 22, 2021
+    1.2.0
+    Mar 10, 2021
+    1.1.2
+    Mar 7, 2021
+    1.1.0
+    Feb 13, 2021
+    1.0.4
+    Feb 3, 2021
+    1.0.3
+    Jan 28, 2021
+    1.0.2
+    Jan 22, 2021
+    1.0.1
+    Jan 21, 2021
+    1.0.0
+    Jan 19, 2021
+
+See More
+Top In-App Purchases
+
+    Small coffee
+    $0.99
+    100$
+    $109.99
+    20$
+    $22.99
+    5$
+    $5.99
+    TeleGuard ID
+    $5.99
+    Big coffee
+    $5.99
+    Medium coffee
+    $3.99
+    Channel
+    $5.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jan 19, 2021
+
+Worldwide Release Date
+    Jan 17, 2021
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    3.3.0
+
+Size
+    100.21 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Armenian, Bulgarian, Czech, Dutch, French, German, Hebrew, Hungarian, Italian, Japanese, Korean, Kyrgyz, Latvian, Mongolian, Persian, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Turkish, Ukrainian, Urdu
+
+Seller
+    Swisscows AG
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.1 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    ch.swisscows.messenger.teleguardapp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1505636751
+Unified App ID: 1000800000165353
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+TeleGuard | data.ai

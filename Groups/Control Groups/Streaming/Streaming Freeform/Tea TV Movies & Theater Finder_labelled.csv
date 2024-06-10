@@ -1,0 +1,5 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1473735169,0,Tea TV Movies Theater Finder,Entertainment,2019-07-24,2019-07-23,31.97,1,0,0,0,1.3,2024-01-16,Urgent update for New Google consent management requirements for serving ads in the EEA and UK This is a hot fix update to prepare for version 2.0 coming next month,0,0,0,0,0,0,0,0
+1473735169,0,Tea TV Movies Theater Finder,Entertainment,2019-07-24,2019-07-23,31.97,1,0,0,0,1.2,2021-03-11,Fix a major issue related to loading movie details. Enhance performance while loading movie categories now load faster . Some UI UX Improvement. Reducing the number of ads.,0,0,0,0,0,0,0,0
+1473735169,0,Tea TV Movies Theater Finder,Entertainment,2019-07-24,2019-07-23,31.97,1,0,0,0,1.1,2020-08-18,Fix UI issue on iOS 13.6. Performance enhancements. Optimize the Refresh rate.,0,0,0,0,0,0,0,0
+1473735169,0,Tea TV Movies Theater Finder,Entertainment,2019-07-24,2019-07-23,31.97,1,0,0,0,1.0,2019-07-23,,0,0,0,0,0,0,0,0

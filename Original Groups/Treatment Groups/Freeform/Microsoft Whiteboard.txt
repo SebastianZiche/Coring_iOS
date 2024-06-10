@@ -1,0 +1,731 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Microsoft Whiteboard
+MicrosoftProductivity (Applications)Free
+Alerts
+
+Microsoft Whiteboard
+Microsoft Whiteboard
+Microsoft Whiteboard
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Microsoft Whiteboard
+Your digital smartboard
+Productivity (Applications)
+Free
+App Description
+Update : The App performance has been significantly improved & there are also a ton of other features which have been added. Check out the “What’s new” section for more details!!
+
+Microsoft Whiteboard provides a freeform intelligent canvas where individuals & teams alike can ideate, create, and collaborate visually via the cloud. Designed for touch, type & pen, it lets you write or draw as smoothly as you would with ink, you can even type in text, add sticky notes or notes grid to express your ideas & use reactions to visually communicate your thoughts. It enhances teamwork by allowing all team members to edit the canvas in real time, no matter where they are. Get started quickly by inserting a pre-built template or draw your own flowchart using our expansive shapes library. No matter what your use case, we have the right set of tools for you and all your work stays safe in the cloud, ready to be picked back up from another location or device.
+
+-- Create freely, work naturally –
+Microsoft Whiteboard provides an infinite canvas where imagination has room to grow: draw, type, add a sticky note or a notes grid, move them around – it’s all possible. The touch-first, pen-first interface frees your ideas from the keyboard, and the intelligent inking technology transforms your doodles into great-looking shapes and lines that can be copied, pasted and combined with other objects. Moreover, you can also, ink on your sticky notes & text boxes and magically see the ink get converted to text using Apple Scribble functionality (on iPads with Apple Pencil).
+
+
+--Collaborate in real time, wherever you are—
+Microsoft Whiteboard brings every member of a team together working from their own devices across the globe. On the Whiteboard canvas, you can also see what your teammates are doing in real time and start collaborating on the same area. It’s about getting everyone on the same page – or board.
+
+--Save automatically, resume seamlessly –
+Forget having to take photos of your whiteboards, or marking them with “Do Not Erase.” With Microsoft Whiteboard, your brainstorming sessions are saved automatically to the Microsoft cloud, so you can pick up where you left off, whenever – and wherever – inspiration strikes next.
+
+
+
+What’s new:
+
+• Improved App Performance & Reduction in crashes which has been a strong customer ask.
+
+• Modern look and feel:
+1. Streamlined user experience - an unobtrusive app UI maximizes your canvas space.
+2. Creation gallery - a highly discoverable, simple way of finding and using objects and features in the application.
+
+• Interactive content features:
+3. 40+ customizable templates – get started quickly and collaborate, brainstorm, and ideate with brand new templates.
+4. Shapes & Lines - Choose from an expansive library of shapes & lines to visually collaborate & ideate with your team members
+5. Reactions - provide lightweight, contextual feedback with a set of fun reactions.
+
+• Inking features:
+6. Apple Scribble – Ink on text boxes & sticky notes and see your ink strokes magically convert to text (on iPads with Apple pencil)
+7. Ink arrows – smoothly draw single and double-sided arrows using ink to better facilitate diagramming.
+
+Dichiarazione di accessibilità: https://www.microsoft.com/it-it/accessibility/declarations
+Ratings
+Displayed Avg Ratings
+4.46
+Total Displayed Ratings
+36.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 24.10103.0.9116 (Jan 6, 2024)
+    1. Intune Company Portal version [19.0.1] support for access by work & school accounts
+    2. Updated app user interface for iPads
+    3. Ability to jumpstart an empty board using refreshed templates
+    4. Expanded reaction set on iPads
+    5. Enhanced ink color picker on iPads & iPhones
+Version 23.11204.0.9111 (Dec 6, 2023)
+    Updated app user interface for iPads
+    Ability to jumpstart an empty board on iPads using templates
+    Expanded reaction set on iPads
+    Enhanced ink color picker on iPads & iPhones
+Version 23.10927.0.9107 (Oct 5, 2023)
+    1. Updated app user interface for iPads
+    2. Ability to jumpstart an empty board on iPads using templates
+    3. Expanded reaction set on iPads
+    4. Enhanced ink color picker on iPads & iPhones
+    5. Canvas object duplication functionality from object menu
+    6. Optimized copy/paste support across whiteboards & to other M365 apps
+Version 23.10717.1.9104 (Sep 19, 2023)
+    1. Minimum supported OS version increased to iOS 14.5 & iPadOS 14.5
+    2. Canvas object duplication functionality from object menu
+    3. Optimized copy/paste support across whiteboards & to other M365 apps
+    4. Ability to initiate Timer on iPads & view initiated Timer on iPhones
+    5. Ability to reorganize notes in note grid
+Version 23.107170.9100 (Aug 4, 2023)
+    1. Minimum supported OS version increased to iOS 14.5 & iPadOS 14.5
+    2. Canvas object duplication functionality from object menu
+    3. Optimized copy/paste support across whiteboards & to other M365 apps
+    4. Ability to initiate Timer on iPads & view initiated Timer on iPhones
+    5. Ability to reorganize notes in note grid
+Version 23.10529.0.9099 (Jun 27, 2023)
+    1. Canvas object duplication functionality from object menu
+    2. Optimized copy/paste support across whiteboards & to other M365 apps
+    3. Eraser size increase based on erase velocity (applicable when point eraser is selected)
+    4. Ability to initiate Timer on iPads & view initiated Timer on iPhones
+    5. Ability to search through list of templates on iPads
+    6. Ability to reorganize notes in note grid
+Version 23.10117.0.9071 (Feb 10, 2023)
+    1. Author & coauthor attribution for sticky notes (Note: This functionality can be disabled for a specific whiteboard by the board owner by going to Settings menu -> Authors while the whiteboard is open)
+Version 22.11028.0.9070 (Nov 12, 2022)
+    1. Fix for existing boards not loading on iOS/iPadOS 15.6
+Version 22.10922.0.9062 (Oct 4, 2022)
+    1. Fix for existing boards not loading on iOS/iPadOS 15.6
+Version 22.10801.0.9061 (Aug 19, 2022)
+    1. Optimized palm rejection to reduce accidental movements while writing using Apple Pencil on iPads
+
+    2. Landscape mode support on iPhones
+Version 22.10712.0.9055 (Jul 21, 2022)
+    1. Optimized palm rejection to reduce accidental movements while writing using Apple Pencil on iPads
+    2. Ruler functionality on iPads
+    3. Ability to erase portion of ink strokes on both iPhones & iPads
+    4. Landscape mode support on iPhones
+    5. Optimized ink toolbar & submenus on iPhones
+    6. Ability to drag notes in & out of notes grid
+Version 22.10628.0.9054 (Jul 5, 2022)
+    This version adds the following functionalities:
+    1. Optimized palm rejection to reduce accidental movements while writing using Apple Pencil on iPads
+    2. Ruler functionality on iPads
+    3. Ability to erase portion of ink strokes on both iPhones & iPads
+    4. Optimized ink modification/smoothening when writing on both iPhones & iPads
+    5. Updated in-app Whiteboard Help hub
+Version 22.10406.0.9050 (Apr 13, 2022)
+    Bug fixes and performance improvement.
+Version 22.10208.0.9044 (Mar 12, 2022)
+    - Stability improvements & Bug Fixes
+Version 22.10201.0.9040 (Feb 16, 2022)
+    - Option to open a board shared via a sharelink directly in the iOS App
+    - Ability to open a board being viewed on Web (whiteboard.microsoft.com) directly in the iOS App
+Version 21.11212.0.9036 (Jan 17, 2022)
+    This version adds the following functionalities/updates:
+
+    1. Ability to insert multiple images stored locally onto the whiteboard
+    2. Ability to insert image using device camera
+    3. Performance improvements
+    4. Bug fixes
+Version 21.11118.0.9025 (Nov 23, 2021)
+    1. Improved App Performance & Reduction in crashes which has been a strong customer ask.
+    2. Apple Scribble – Ink on text boxes & sticky notes and see your ink strokes magically convert to text (on iPads with Apple pencil).
+    3. Ink arrows – smoothly draw single and double-sided arrows using ink to better facilitate diagramming.
+    4. Streamlined user experience - an unobtrusive app UI maximizes your canvas space.
+    5. Creation gallery - a highly discoverable, simple way of finding and using objects and features in the application.
+    6. 40+ customizable templates.
+    7. Expansive library of Shapes & Lines.
+    8. Reactions.
+Version 21.11115.0.9023 (Nov 17, 2021)
+    1. Improved App Performance & Reduction in crashes which has been a strong customer ask.
+    2. Apple Scribble – Ink on text boxes & sticky notes and see your ink strokes magically convert to text (on iPads with Apple pencil).
+    3. Ink arrows – smoothly draw single and double-sided arrows using ink to better facilitate diagramming.
+    4. Streamlined user experience - an unobtrusive app UI maximizes your canvas space.
+    5. Creation gallery - a highly discoverable, simple way of finding and using objects and features in the application.
+    6. 40+ customizable templates.
+    7. Expansive library of Shapes & Lines.
+    8. Reactions.
+Version 21.11026.0.9020 (Oct 29, 2021)
+    1. Improved App Performance & Reduction in crashes which has been a strong customer ask.
+
+    2. Apple Scribble – Ink on text boxes & sticky notes and see your ink strokes magically convert to text (on iPads with Apple pencil).
+
+    3. Ink arrows – smoothly draw single and double-sided arrows using ink to better facilitate diagramming.
+
+    4. Streamlined user experience - an unobtrusive app UI maximizes your canvas space.
+
+    5. Creation gallery - a highly discoverable, simple way of finding and using objects and features in the application.
+
+    6. 40+ customizable templates.
+
+    7. Expansive library of Shapes & Lines.
+
+    8. Reactions.
+Version 21.11008.0.9018 (Oct 19, 2021)
+    Enhanced App Experience..!!
+Version 21.10913.0.5785 (Sep 25, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10823.2.5777 (Sep 11, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10823.1.5770 (Sep 2, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10823.0.5761 (Sep 1, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10726.0.5744 (Aug 25, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10628.0.5709 (Jul 28, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10601.0.5694 (Jun 30, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10503.0.5659 (Jun 2, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10405.0.5651 (May 5, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10308.0.5635 (Apr 7, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10208.0.5610 (Mar 10, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10111.1.5586 (Feb 18, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 21.10111.0.5565 (Feb 9, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 20.11214.1.5552 (Feb 1, 2021)
+    This release contains regular bug fixes and quality improvements.
+Version 20.11214.0.5532 (Jan 11, 2021)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.11020.1.5506 (Dec 14, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.11105.0.5469 (Nov 16, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10922.1.5451 (Oct 19, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10922.0.5431 (Oct 5, 2020)
+    Send dig selv en mailoversigt over enhver tavle – alle er automatisk oprettet ud fra dine skabeloner, lister og notegitre! Efter din næste klasse, dit næste møde eller din næste brainstormingssession, skal du bruge denne oversigt til at gennemgå dit whiteboard-indhold i en mail og nemt holde styr på tildelte opfølgningselementer. Prøv denne funktion i menuen Indstillinger!
+
+    Denne version indeholder også regelmæssige fejlrettelser og kvalitets forbedringer.
+Version 20.10908.0.5422 (Sep 22, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10824.0.5403 (Sep 8, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10810.0.5392 (Aug 24, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10727.0.5366 (Aug 12, 2020)
+    Send dig selv en mailoversigt over enhver tavle – alle er automatisk oprettet ud fra dine skabeloner, lister og notegitre! Efter din næste klasse, dit næste møde eller din næste brainstormingssession, skal du bruge denne oversigt til at gennemgå dit whiteboard-indhold i en mail og nemt holde styr på tildelte opfølgningselementer. Prøv denne funktion i menuen Indstillinger!
+
+    Denne version indeholder også regelmæssige fejlrettelser og kvalitets forbedringer.
+Version 20.10713.0.5338 (Jul 28, 2020)
+    Tjek genvejsmenuernes nye layout! Såfremt du logger på med en EDU-konto, præsenteres du også for Klistermærker-menuens nye udseende! Denne version indeholder også regelmæssige fejlrettelser og kvalitetsforbedringer.
+Version 20.10630.0.5323 (Jul 15, 2020)
+    Denne version indeholder almindelige fejlrettelser og kvalitetsforbedringer, herunder et nyt layout til menuen Indstillinger!
+Version 20.10615.0.5289 (Jun 30, 2020)
+    1. Forbedret understøttelse af betinget adgang for logon, invitation, åbning af tavler og synkronisering.
+    2. Ny fejlmeddelelse ved forsøg på logon med en arbejdskonto, uden at appen Microsoft Authenticator er installeret.
+    3. Rettet nedbrud ved logon, når der kræves en pinkode.
+    4. Generelle fejlrettelser og forbedringer.
+Version 20.10601.1.5253 (Jun 16, 2020)
+    Kræver nu iOS 12.0 eller nyere. Du kan nu tildele skabelonelementer til dine teammedlemmer, og whiteboard medtager automatisk disse i din mailoversigt. Denne version indeholder også almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10601.0.5241 (Jun 15, 2020)
+    Kræver nu iOS 12.0 eller nyere. Du kan nu tildele skabelonelementer til dine teammedlemmer, og whiteboard medtager automatisk disse i din mailoversigt. Denne version indeholder også almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10518.0.5186 (Jun 1, 2020)
+    Kræver nu iOS 12.0 eller nyere. Du kan nu tildele skabelonelementer til dine teammedlemmer, og whiteboard medtager automatisk disse i din mailoversigt. Denne version indeholder også almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10420.2.5136 (May 20, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10420.1.5102 (May 12, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10420.0.5074 (May 5, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10406.1.5042 (Apr 29, 2020)
+    Figurer! Indsæt et link på dit whiteboard, hvorefter vi genererer en miniature automatisk baseret på dit link. Denne version indeholder også regelmæssige fejlrettelser og kvalitets forbedringer.
+Version 20.10406.0.5006 (Apr 21, 2020)
+    Figurer! Indsæt et link på dit whiteboard, hvorefter vi genererer en miniature automatisk baseret på dit link. Denne version indeholder også regelmæssige fejlrettelser og kvalitets forbedringer.
+Version 20.10309.4985 (Apr 15, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10309.0 (Mar 28, 2020)
+    Denne udgivelse indeholder almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10224.0 (Mar 10, 2020)
+    Se det nye og farverige whiteboardikon! Denne version indeholder også almindelige fejlrettelser og kvalitetsforbedringer.
+Version 20.10210.0 (Mar 1, 2020)
+    Fejlrettelser og generelle kvalitetsforbedringer.
+Version 20.10127.0 (Feb 16, 2020)
+    Fejlrettelser og generelle kvalitetsforbedringer.
+Version 20.10113.0 (Feb 8, 2020)
+    Fejlrettelser og generelle kvalitetsforbedringer.
+Version 19.11216.0 (Jan 18, 2020)
+    Denne version indeholder opdateringer, der kan hjælpe dig med at administrere din håndskrift.
+    • Få nemmere adgang til farver med farvevælgeren til håndskrift. Vælg en håndskrift, og tryk på farvepaletten for at ændre farven på håndskriften.
+    • Den mindste pen er nu tyndere, hvilket gør det nemmere at skrive lille skrift.
+    • Overstregningstuscherne er nu tykkere, så du nemmere kan fremhæve dine noter.
+    • Smukseringen af håndskrift er forbedret for flere sprog, bl.a. tysk, spansk og nederlandsk.
+    • Flere fejlrettelser og forbedringer!
+Version 19.11125.0 (Dec 18, 2019)
+    Denne version indeholder opdateringer, der kan hjælpe dig med at administrere din håndskrift.
+    • Få nemmere adgang til farver med farvevælgeren til håndskrift. Vælg en håndskrift, og tryk på farvepaletten for at ændre farven på håndskriften.
+    • Den mindste pen er nu tyndere, hvilket gør det nemmere at skrive lille skrift.
+    • Overstregningstuscherne er nu tykkere, så du nemmere kan fremhæve dine noter.
+    • Smukseringen af håndskrift er forbedret for flere sprog, bl.a. tysk, spansk og nederlandsk.
+    • Flere fejlrettelser og forbedringer!
+Version 19.11104.1 (Dec 5, 2019)
+    Fejlrettelser og generelle kvalitetsforbedringer.
+Version 19.11021.0 (Nov 13, 2019)
+    Flere nye funktioner, der kan hjælpe dig med at strukturere dine idéer!
+    • Lister: Tilføj tekstlister direkte på lærredet.
+    • Notegitre: Organiser dine noter med et notegitter.
+    • Nye skabeloner: Forstå dine kunder bedre med de nye skabeloner til empatikort og oprettelse af personaer.
+    • Fejlrettelser: Ud over almindelige fejlrettelser har vi løst to større fejl, som forhindrede nogle brugere i at redigere tekst eller dele tavler.
+    • Stakke: Vi har fjernet muligheden for at oprette nye objektstakke ud fra brugerfeedback. Vi arbejder på at finde nye metoder til at gruppere indhold på en tavle inden for den nærmeste fremtid.
+Version 19.11007.1 (Oct 24, 2019)
+    Denne version indeholder opdateringer, der gør det meget nemmere at organisere idéer og strukturere møder
+
+    Skabeloner: Nu i offentlig prøveversion. Du kan indsætte samarbejdsskabeloner på lærredet til brainstorming, sprint-planlægning og meget mere.
+
+
+    Mange fejlrettelser, herunder flere forbedringer af hjælp til handicappede.
+Version 19.11007.0 (Oct 22, 2019)
+    Denne version indeholder opdateringer, der gør det meget nemmere at organisere idéer og strukturere møder
+
+    Skabeloner: Nu i offentlig prøveversion. Du kan indsætte samarbejdsskabeloner på lærredet til brainstorming, sprint-planlægning og meget mere.
+
+
+    Mange fejlrettelser, herunder flere forbedringer af hjælp til handicappede.
+Version 19.10909.1 (Oct 3, 2019)
+    Fejlrettelser og generelle kvalitetsforbedringer.
+Version 19.10909.0 (Sep 25, 2019)
+    Fejlrettelser og generelle kvalitetsforbedringer.
+Version 10.10825.0 (Sep 19, 2019)
+    Forbedret valg og grupperingslogik for at gøre det nemmere at se og forstå det valgte indhold
+Version 19.10811.0 (Sep 9, 2019)
+    Objekt fastgørelse: Juster lærredet, så det nemt kan justeres, når du bevæger det rundt med indstillingen for objekt fastgørelse aktiveret.
+Version 19.10715.1 (Aug 21, 2019)
+    Vi har tilføjet understøttelse af over 40 sprog, så det er nemmere at udtrykke og dele idéer på dit foretrukne sprog.
+Version 19.10715.0.2 (Aug 1, 2019)
+    This release contains bug fixes and improvements
+Version 19.10701.1.0 (Jul 24, 2019)
+    This release contains bug fixes and improvements 
+Version 19.10701.0.3 (Jul 16, 2019)
+    Our latest release has several exciting new features:
+    • Toolbar Docking: You can change your toolbar location to left, right, or bottom using the settings menu.
+    • Tool Tips: Press and hold on buttons in the toolbar or context menus to see a description of their functionality.
+    • Accessibility Checker: There's a full refresh of the accessibility checker which should make it much easier to ensure that your content is understandable for everyone.
+Version 19.10617.0.3 (Jul 8, 2019)
+    We've added rotation snapping on all items, so it should be much easier to align your work and to scale and rotate items independently. We've also improved keyboard navigation by making the new side panels used throughout the app accessibility landmarks.
+Version 19.10521.2.0 (Jun 26, 2019)
+    Bug fixes 
+Version 19.10521.1.0 (Jun 21, 2019)
+    EDU customers can now use education-themed stickers to collect poll responses and give feedback in real-time
+Version 19.10521.2 (Jun 12, 2019)
+    Settings and its sub-menus are now in a full height side panel, providing a more consistent user experience across devices, features, and platforms!
+Version 19.10505.3 (May 24, 2019)
+    Bug fixes and general polish to improve your Whiteboard experience
+Version 1.19104223 (May 10, 2019)
+    We have a lot of exciting improvements in this release:
+
+    Meeting Invite: Your meetings now appear as suggested contacts so you can invite all participants with a single tap
+    Selections: Selection visual enhancements make it much more obvious what content is selected
+    Highlighter Colors: New highlighter color and thickness options help you emphasize your points
+    Education: Education customers will also see the send to OneNote menus in an easy to use side panel
+Version 1.19103115 (Apr 25, 2019)
+    Sign in with a Work or School account to use Ink Beautification, a new Intelligence feature activated by the context menu wand button that transforms any handwritten notes into more legible ink strokes.
+
+    Also in this update:
+    - Un-synced changes are now called out more clearly in the board picker to make sure you don't lose your work. 
+    - There's an improved accessibility experience when sending a Whiteboard to OneNote.
+Version 1.19101281 (Mar 1, 2019)
+    We've redesigned the people picker! It's now easier to find and invite contacts to a board, or share your board using a web link. We also had a big focus on fixing bugs over the last several weeks, so we hope you enjoy a more stable, usable, and accessible experience with this update.
+Version 1.19101103 (Feb 6, 2019)
+    The board picker has a whole new look! It's now easier to find boards you've been invited to join as board titles, last modified dates, and collaboration status are all more visible. We've addressed a bug that occasionally caused a loading issue at start-up for certain devices. Plus there are several animation improvements and bug fixes throughout the app.
+Version 1.1811121 (Dec 20, 2018)
+    •Your most recently selected colors are now applied to newly created text and sticky notes so that you only have to set your preferred colors once
+    •Find the content you want to be working on more quickly with improved board ordering in the board picker
+    •Presence bubbles make it easier to understand the edits of remote participants
+Version 1.1811105 (Dec 6, 2018)
+    We hear you! Lots of highly anticipated changes with this release
+    • Customize your ink color and thickness with new pen colors and thickness levels.
+    • Change your board background color and gridline pattern. Includes the option for a black background to reduce eye strain.
+    • Type text directly on your board to let those without pen or touch contribute more easily.
+    • Usability, performance and bug fixes.
+
+    Plus check out this new preview features if you log in with an EDU account on iPad:
+    • Send whiteboards directly to your OneNote Class Notebooks for safe keeping.
+
+    Have any suggestions? We're all ears. Send us your feedback through our in-app support (Whiteboard->Settings->Send Feedback)
+Version 1.1811022.2 (Nov 21, 2018)
+    Bug fixes and performance improvements
+Version 1.1811022.1 (Nov 15, 2018)
+    Lot's of new Whiteboard goodness in this release. Smash that UPDATE button to:
+    •Lock any image to the whiteboard background and never worry about accidentally erasing, moving or having to recreate template-like content again.
+    •Make sure your whiteboard is easy for people of all abilities to read and edit with a new Accessibility Checker.
+    •Access improved sticky note editing experience. Just double tap to add text & let your ideas flow fast.
+    •Your recognized shapes and tables now have a hand-drawn effect applied to them to help you impress your peers with your penmanship.
+    •When opening a whiteboard, we now show you a fancy loading animation to help pass the time (and so you don't sit wondering if anything is happening).
+    •A sprinkling of usability, performance and bug fixes to make your whiteboarding experience a bit more polished.
+Version 1.1811022 (Nov 13, 2018)
+    Lot's of new Whiteboard goodness in this release. Smash that UPDATE button to:
+    •Lock any image to the whiteboard background and never worry about accidentally erasing, moving or having to recreate template-like content again.
+    •Make sure your whiteboard is easy for people of all abilities to read and edit with a new Accessibility Checker.
+    •Access improved sticky note editing experience.  Just double tap to add text & let your ideas flow fast.
+    •Your recognized shapes and tables now have a hand-drawn effect applied to them to help you impress your peers with your penmanship.
+    •When opening a whiteboard, we now show you a fancy loading animation to help pass the time (and so you don't sit wondering if anything is happening).
+    •A sprinkling of usability, performance and bug fixes to make your whiteboarding experience a bit more polished.
+Version 1.1810913.2 (Nov 9, 2018)
+    Bug fixes and performance improvements
+Version 1.1810913.1 (Nov 7, 2018)
+    Bug fixes and performance improvements
+Version 1.1810913 (Oct 29, 2018)
+    We listened to your feedback and optimized the UI to improve your whiteboard drawing and collaboration experience. We have also included performance improvements and bug fixes to make it even better.
+
+    Have any suggestions? We're all ears. Send us your feedback through our in-app support (Whiteboard->Settings->Send Feedback)
+Version 1.0 (Sep 24, 2018)
+
+Users may also like
+Select objects to compare
+Simple Whiteboard by Qrayon
+Explain Everything Whiteboard
+Scribble Together Whiteboard
+Whiteboard - Infinity Canvas
+LiquidText
+QuickNotes X: Notes, AI & PDF
+Blankbook - Paper Note
+Post-it®
+Nebo: Note Taking & Notebook
+Pencil Paper Notebook: Penbook
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    24.10103.0.9116
+    Current release
+    Jan 6, 2024
+    23.11204.0.9111
+    Dec 6, 2023
+    23.10927.0.9107
+    Oct 5, 2023
+    23.10717.1.9104
+    Sep 19, 2023
+    23.107170.9100
+    Aug 4, 2023
+    23.10529.0.9099
+    Jun 27, 2023
+    23.10117.0.9071
+    Feb 10, 2023
+    22.11028.0.9070
+    Nov 12, 2022
+    22.10922.0.9062
+    Oct 4, 2022
+    22.10801.0.9061
+    Aug 19, 2022
+    22.10712.0.9055
+    Jul 21, 2022
+    22.10628.0.9054
+    Jul 5, 2022
+    22.10406.0.9050
+    Apr 13, 2022
+    22.10208.0.9044
+    Mar 12, 2022
+    22.10201.0.9040
+    Feb 16, 2022
+    21.11212.0.9036
+    Jan 17, 2022
+    21.11118.0.9025
+    Nov 23, 2021
+    21.11115.0.9023
+    Nov 17, 2021
+    21.11026.0.9020
+    Oct 29, 2021
+    21.11008.0.9018
+    Oct 19, 2021
+    21.10913.0.5785
+    Sep 25, 2021
+    21.10823.2.5777
+    Sep 11, 2021
+    21.10823.1.5770
+    Sep 2, 2021
+    21.10823.0.5761
+    Sep 1, 2021
+    21.10726.0.5744
+    Aug 25, 2021
+    21.10628.0.5709
+    Jul 28, 2021
+    21.10601.0.5694
+    Jun 30, 2021
+    21.10503.0.5659
+    Jun 2, 2021
+    21.10405.0.5651
+    May 5, 2021
+    21.10308.0.5635
+    Apr 7, 2021
+    21.10208.0.5610
+    Mar 10, 2021
+    21.10111.1.5586
+    Feb 18, 2021
+    21.10111.0.5565
+    Feb 9, 2021
+    20.11214.1.5552
+    Feb 1, 2021
+    20.11214.0.5532
+    Jan 11, 2021
+    20.11020.1.5506
+    Dec 14, 2020
+    20.11105.0.5469
+    Nov 16, 2020
+    20.10922.1.5451
+    Oct 19, 2020
+    20.10922.0.5431
+    Oct 5, 2020
+    20.10908.0.5422
+    Sep 22, 2020
+    20.10824.0.5403
+    Sep 8, 2020
+    20.10810.0.5392
+    Aug 24, 2020
+    20.10727.0.5366
+    Aug 12, 2020
+    20.10713.0.5338
+    Jul 28, 2020
+    20.10630.0.5323
+    Jul 15, 2020
+    20.10615.0.5289
+    Jun 30, 2020
+    20.10601.1.5253
+    Jun 16, 2020
+    20.10601.0.5241
+    Jun 15, 2020
+    20.10518.0.5186
+    Jun 1, 2020
+    20.10420.2.5136
+    May 20, 2020
+    20.10420.1.5102
+    May 12, 2020
+    20.10420.0.5074
+    May 5, 2020
+    20.10406.1.5042
+    Apr 29, 2020
+    20.10406.0.5006
+    Apr 21, 2020
+    20.10309.4985
+    Apr 15, 2020
+    20.10309.0
+    Mar 28, 2020
+    20.10224.0
+    Mar 10, 2020
+    20.10210.0
+    Mar 1, 2020
+    20.10127.0
+    Feb 16, 2020
+    20.10113.0
+    Feb 8, 2020
+    19.11216.0
+    Jan 18, 2020
+    19.11125.0
+    Dec 18, 2019
+    19.11104.1
+    Dec 5, 2019
+    19.11021.0
+    Nov 13, 2019
+    19.11007.1
+    Oct 24, 2019
+    19.11007.0
+    Oct 22, 2019
+    19.10909.1
+    Oct 3, 2019
+    19.10909.0
+    Sep 25, 2019
+    10.10825.0
+    Sep 19, 2019
+    19.10811.0
+    Sep 9, 2019
+    19.10715.1
+    Aug 21, 2019
+    19.10715.0.2
+    Aug 1, 2019
+    19.10701.1.0
+    Jul 24, 2019
+    19.10701.0.3
+    Jul 16, 2019
+    19.10617.0.3
+    Jul 8, 2019
+    19.10521.2.0
+    Jun 26, 2019
+    19.10521.1.0
+    Jun 21, 2019
+    19.10521.2
+    Jun 12, 2019
+    19.10505.3
+    May 24, 2019
+    1.19104223
+    May 10, 2019
+    1.19103115
+    Apr 25, 2019
+    1.19101281
+    Mar 1, 2019
+    1.19101103
+    Feb 6, 2019
+    1.1811121
+    Dec 20, 2018
+    1.1811105
+    Dec 6, 2018
+    1.1811022.2
+    Nov 21, 2018
+    1.1811022.1
+    Nov 15, 2018
+    1.1811022
+    Nov 13, 2018
+    1.1810913.2
+    Nov 9, 2018
+    1.1810913.1
+    Nov 7, 2018
+    1.1810913
+    Oct 29, 2018
+    1.0
+    Sep 24, 2018
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 24, 2018
+
+Worldwide Release Date
+    Sep 25, 2018
+
+Last Updated Time
+    Mar 6, 2024
+
+Version
+    24.10103.0.9116
+
+Size
+    35.68 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Afrikaans, Albanian, Amharic, Arabic, Azerbaijani, Basque, Bosnian, Bulgarian, Cambodian, Catalan, Croatian, Czech, Danish, Dutch, Estonian, Filipino, Finnish, French, Galician, Georgian, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Laotian, Latvian, Lithuanian, Macedonian, Malay, Malayalam, Norwegian Bokmål, Norwegian Nynorsk, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Simplified Chinese, Slovak, Slovenian, Spanish, Swedish, Tamil, Telugu, Thai, Traditional Chinese, Turkish, Ukrainian, Uzbek, Vietnamese
+
+Seller
+    Microsoft Corporation
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.microsoft.whiteboard
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1352499399
+Unified App ID: 1000600000667251
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Microsoft Whiteboard | data.ai

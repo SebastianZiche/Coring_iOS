@@ -1,0 +1,286 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+DayColor - Diary & Planner
+Dreamkit Co., Ltd.Lifestyle (Applications)$1.99
+Alerts
+
+    Dreamkit Co., Ltd.
+
+    DayColor - Diary & Planner
+    DayColor - Diary & Planner
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+DayColor - Diary & Planner
+日記 + 倒數日 + 待辦事項
+Lifestyle (Applications)
+$1.99
+iPhone Only
+App Description
+“DayColor”同時管理“日記、倒數日、待辦事項'”。
+輕鬆方便地記錄您在日常生活中看到、享受和感受到的一切。
+
+◆主要特點◆
+
+# 用自己的顏色記錄難忘的時刻。
+
+我認為可以根據每個人的經驗以多種方式解釋顏色。想像並表達你自己的顏色。我們準備了各種顏色、字體和貼紙。以自己的方式設計你的一天，讓平凡的一天變得特別。
+
+# 用照片和顏色記錄你的一天。
+
+如果您有想要珍惜的照片和文字，請使用“照片日記”，如果您想表達自己的感受並輕鬆設計，請嘗試使用“彩色日記”。
+
+# 不要忘記重要的事情。
+
+除了日記，還有“倒數日”和“待辦事項'”功能一起使用。用簡單的方式整理你複雜的頭腦，為即將到來的重要日子提前計劃。這將是一段快樂的回憶。
+
+# 你可以很容易地看到回憶。
+
+通過日曆視圖和時間線視圖，您可以一目了然地看到這個月的重要回憶和情緒。並且，嘗試將日記與事件聯繫起來。您可以按事件查看記憶。
+
+◆ 其他 ◆
+
+• 提供時間戳和天氣信息輸入。
+• 提供各種“倒數日”類型。 （生日、週年紀念日、最後一天、過去一天、每年重複、每月重複、每週重複等）
+• 鎖定功能（密碼、Touch ID、Face ID）
+• 手動備份和恢復支持
+• 暗模式
+
+◆ Bug report ◆
+E-mail : hello@daycolor.app
+Ratings
+Displayed Avg Ratings
+4.6
+Total Displayed Ratings
+68
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.1.13 (Oct 20, 2022)
+    - Fixed a bug where the calendar didn't fit in certain countries.
+    - Fixed a bug where 'Traditional Chinese' settings could not be set in certain regions.
+    - Other bug fixes and stabilization.
+Version 1.1.12 (Sep 29, 2022)
+    - iOS16 optimization.
+    - Other bug fixes.
+Version 1.1.11 (Sep 23, 2022)
+    - Performance improvements and optimizations
+Version 1.1.9 (Sep 8, 2022)
+    - Fixed a bug where other diaries were displayed.
+    - Optimized file backup/restore.
+Version 1.1.7 (Sep 5, 2022)
+    - Chinese (Traditional) bug fixed.
+    - Other bug fixes.
+Version 1.1.6 (Jul 4, 2022)
+    - Fixed bug related to sending mail.
+    - Changed some menu names.
+    - Other bug fixes.
+Version 1.1.5 (Jul 3, 2022)
+    - Network optimization
+    - Stabilization and other bug fixes
+Version 1.1.2 (Jun 24, 2022)
+    - Added dark mode function. (Please use the 'Dark Mode' button at the top of the 'More' tab.)
+    - Fixed a bug where the text color was only displayed in white in the timeline.
+    - Fixed a bug where the photo of the diary linked to D-Day was displayed differently.
+    - Some UI layout changes.
+Version 1.1.1 (Jun 17, 2022)
+    - Fixed a bug where the app did not run in some countries.
+    - Fixed a bug where the app would close when attaching a photo.
+    - Fixed a bug where photos were visible in the photo diary without photos.
+Version 1.1.0 (Jun 15, 2022)
+    - Change the app name.
+    - Changed the way to change the app language.
+    - Added app introduction page. (Behance)
+    - Compatible with iPhone SE resolution.
+    - App stabilization and optimization.
+Version 1.0.2 (Jun 8, 2022)
+    - Fixed a bug where the lock function sometimes did not work.
+    - Fixed a bug where edited photos are registered as originals.
+    - Fixed a bug that resprings when attaching a photo.
+    - Change the tab name.
+    - App stabilization and optimization.
+Version 1.0.1 (Jun 6, 2022)
+    - Fixed a bug where iCloud photos could not be attached.
+    - Fixed Event date calculation bug.
+    - Other bug fixes and optimizations
+Version 1.0 (Jun 2, 2022)
+
+Users may also like
+Select objects to compare
+볼라고 - 커뮤니티 눈팅 종결자
+My Luv for couples
+페이어블
+Momently - Journal / Diary
+HEUTE IST... - TAGEBUCH
+밥 일기
+soso note : daily journal
+DayDiary - Diary, Note
+McClockface: Retro Flip Clock
+Lock Screen Widgets Live
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.1.13
+    Current release
+    Oct 20, 2022
+    1.1.12
+    Sep 29, 2022
+    1.1.11
+    Sep 23, 2022
+    1.1.9
+    Sep 8, 2022
+    1.1.7
+    Sep 5, 2022
+    1.1.6
+    Jul 4, 2022
+    1.1.5
+    Jul 3, 2022
+    1.1.2
+    Jun 24, 2022
+    1.1.1
+    Jun 17, 2022
+    1.1.0
+    Jun 15, 2022
+    1.0.2
+    Jun 8, 2022
+    1.0.1
+    Jun 6, 2022
+    1.0
+    Jun 2, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Jun 2, 2022
+
+Worldwide Release Date
+    Jun 2, 2022
+
+Last Updated Time
+    Apr 19, 2024
+
+Version
+    1.1.13
+
+Size
+    371.49 mb
+
+Only 32 Bit
+    No
+
+Languages
+    日文, 簡體中文, 繁體中文, 英文, 韓文
+
+Seller
+    Dreamkit Co., Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系統需求：iOS 14.0 或以上版本。相容裝置：iPhone、iPad、iPod touch。
+
+Bundle ID
+    com.dreamkitcorp.iColorz
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1623719373
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+DayColor - Diary & Planner | data.ai

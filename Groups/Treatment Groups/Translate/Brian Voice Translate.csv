@@ -1,0 +1,6 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+6444111379,0,Brian Voice Translate,Productivity,2022-11-19,2022-11-19,53.1,1,0,0,0,1.4,2023-01-15,Fix bugs change UI Home screen
+6444111379,0,Brian Voice Translate,Productivity,2022-11-19,2022-11-19,53.1,1,0,0,0,1.3,2022-12-01,Fix bugs
+6444111379,0,Brian Voice Translate,Productivity,2022-11-19,2022-11-19,53.1,1,0,0,0,1.2,2022-11-28,Fix bug select language
+6444111379,0,Brian Voice Translate,Productivity,2022-11-19,2022-11-19,53.1,1,0,0,0,1.1,2022-11-23,Add Offline mode translate. Update UI to select other language Add banner Ads in the Home screen
+6444111379,0,Brian Voice Translate,Productivity,2022-11-19,2022-11-19,53.1,1,0,0,0,1.0,2022-11-19,

@@ -1,0 +1,85 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.1.4,2023-12-15,iOS Calendar access permission check fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.1.3,2023-10-14,bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.1.2,2023-02-04,iCloud sync improvements iCloud backup file import bug fixed,0,0,0,0,0,0,0,1
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.1.1,2022-10-09,iOS16 compatible new theme New Hope,0,0,0,1,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.1.0,2022-09-17,iOS16 compatible bug fixes,0,0,1,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.11,2022-01-08,iPad layout improvements minor bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.10,2021-10-23,Fix errors that may occur when saving data,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.9,2021-10-03,when app did enter background state save the writing journal automatically cloud sync performance improvements bug fixes performance improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.8,2021-09-12,new feature PDF Export fix crash that may occur when updating data,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.7,2021-09-03,fix crash that may occur when updating data,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.5,2021-08-21,chat layout display error in search performance improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.4,2021-08-03,Chat Layout with Emoticon New Theme July Sky Release Bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.3,2021-07-20,supports iPad split screen checklist reorder bug fixes change to premium purchase subscription minor bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.2,2021-06-29,monthly view iCloud sync improvements performance improvements bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.1,2021-06-22,bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,2.0.0,2021-06-19,folders renewal carousel layout end time context menu iPad multitasking performance improvements bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.9.1,2021-06-10,context menu bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.8.1,2021-03-17,iOS14 Widget improvements bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.8.0,2021-03-03,iOS14 Widget bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.11,2021-02-01,perforamance improvements sync backup restore improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.10,2020-08-05,new theme Linen line spacing option monthly calendar improvements app db library update performance improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.9,2020-07-12,iCloud sync error handling crash re fixes Google Drive backup crash fixes Chinese translation improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.8,2020-06-12,iCloud sync error handling crash re fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.7,2020-06-09,iCloud sync error handling crash re fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.6,2020-06-07,iCloud sync error handling crash re fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.5,2020-06-05,app database crash fixes iCloud sync error handling bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.4,2020-06-04,iCloud sync crash re fixes bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.3,2020-06-03,iCloud synchronization error handling crash fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.2,2020-06-02,use device light dark mode option bold underline text color text background tool bar bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.1,2020-05-13,bug fixes performance improvement,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.7.0,2020-04-28,new feature Term bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.6.7,2020-04-07,today extension improvements add Chinese simplified font bug fixes performance improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.6.6,2020-03-30,new theme Blue Wood iPad full screen option bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.6.5,2020-03-16,new theme Dark Chocolate rich text format bold underline color... bug fixes rich text format improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.6.4,2020-03-11,new theme Black text size option improvement color bar label bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.6.3,2020-03-07,fixed a bug that does not display the checklist within the folder text background color,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.6.2,2020-03-06,a year ago a post display change color bar order bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.6.1,2020-02-26,fixed the entry deletion error in the folder,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.6.0,2020-02-25,new feature Folder new theme Lime bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.5.4,2020-02-06,More Summary Photos memory usage improvements iCloud full synchronization improvements data backup restore improvements bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.5.3,2020-01-30,Color Bar Labels performance improvements bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.5.2,2020-01-21,rewarded premium bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.5.1,2020-01-15,new layout Quote move to the selected month calendar photos reorder bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.5.0,2020-01-09,iPad screen layout improvements performance improvements bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.4.8,2019-12-12,hashtags support search improvements bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.4.7,2019-12-04,performance improvements bug fixes premium trial 2 weeks a week,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.4.6,2019-11-27,color bar filtering by color app database related crash fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.4.5,2019-11-23,app database related crash fixes text color bug fixes passcode unlock animation option,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.4.4,2019-11-20,new themes Merry Xmas Night Blues bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.4.3,2019-11-12,fixed text line truncation error in entry read edit view,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.4.2,2019-11-11,supports Rich Text Format bold underline color haptic feedback bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.4.1,2019-10-31,Japanese gradient color bar bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.4.0,2019-10-24,new feature More Summary Photos Location bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.9,2019-10-16,new feature color bar checklist bullet preference All filter improvements and bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.8,2019-10-08,fixed a crash related number of photos add iCloud full sync menu,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.7,2019-10-02,new feature separators layout for each entry bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.6,2019-09-27,notification feature iOS 13 support bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.5,2019-09-11,new input type checklist iCloud sync performance speed improvements bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.4,2019-08-27,fixed the crash that occurs when a user who does not have photo access shares an entry fixed errors when adding iCloud photos bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.3,2019-08-24,photo quality preference iOS 13 support bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.2,2019-08-18,search filter improvement weather temperature main screen date weekday display improvement small performance improvement photo theme added two photos google drive user authorization bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.1,2019-08-11,theme Photo with user photos insert time in text long press time button search improvements include location bugs fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.3.0,2019-08-02,connect to iOS calendar Holidays Birthdays ready for iOS 13 bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.2.8,2019-07-25,new theme Photo minor bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.2.7,2019-07-12,text color bug modified in dark theme,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.2.6,2019-07-10,text display bug fixes in entry edit view,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.2.5,2019-07-08,new layout Map bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.2.4,2019-06-29,add locations to diary entries multiple photos selection bug fixes performance improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.2.3,2019-06-15,new theme Cotton Candy recurring to do advanced options bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.2.2,2019-06-10,New layout Magazine Change premium features Font removal feature Performance improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.2.1,2019-06-01,Various fonts Premium bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.2.0,2019-05-21,New feature Summary bug fixes performance improvements,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.1.7,2019-05-15,Google Drive connection bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.1.6,2019-05-13,new layout To do new theme Core Iron bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.1.5,2019-05-03,Layout Photo Chinese Simplified added bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.1.4,2019-04-27,Export feature TXT Photos More theme Black Queen bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.1.3,2019-04-22,today extension Today added more themes andante lavender number of text lines preference modified iCloud backup entry time bug fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.1.2,2019-04-16,bug fixes crash fixes iCloud sync error fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.1.1,2019-04-12,new theme Mediterranean performance improvements bug crash fixes,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.1.0,2019-04-06,more themes are available spacing for texts 3 steps first day of the week options bugs fixed,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.0.3,2019-04-01,supports text size preference iCloud sync error handling improvement crashes fixed bugs fixed,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.0.2,2019-03-29,iCloud sync crash fixed bug fixed,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.0.1,2019-03-27,bug fixed iCloud sync error message optimizations,0,0,0,0,0,0,0,0
+1457149632,0,DayMore Modern Diary,Lifestyle,2019-03-25,2019-03-25,63.47,4,0,0,1,1.0.0,2019-03-25,,0,0,0,0,0,0,0,0

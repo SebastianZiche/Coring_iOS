@@ -1,0 +1,49 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.9.5,2023-05-26,Bug fixes Enhance performance of object recognition,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.9.4,2023-02-21,1. Support European Portuguese for voice recognition and speech. 2. Correct UI for the latest iOS and WatchOS. 3. Performance improvements,0,0,0,0,0,0,0,1
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.9.3,2020-04-03,Fix UI for dark mode,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.9.2,2020-03-31,1. Support more languages 2. Bug fix and UI improvements,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.9.1,2019-06-24,Improve the logic for voice recognition.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.9.0,2019-01-22,1. Improve the performance of voice recognition. 2. Fix UI issues for iPad.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.8.9,2018-09-17,1. Fix a crash after launch. 2. Correct UI issues for latest iPhone models.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.8.8,2018-08-27,1. UX UI enhancement much easier to use. 2. Bug fix for the iMessage app.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.8.7,2018-06-08,Fix a crash during voice recognition.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.8.6,2018-05-10,Fix the freezing issue during voice recognition.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.8.5,2018-03-23,Fix UI issues for the iPad version.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.8.3,2018-03-21,1. Provide advanced AI model for object recognition. 2. Improve accuracy for object recognition. 3. Fix logic of language settings.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.8.2,2018-02-01,1. Improve the accuracy of object recognition. 2. Fix a crash while translating.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.8.1,2017-12-13,1. Add copy and share options to the direct translate results. 2. Voice over for selected words in result text.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.7.2,2017-11-30,1. Fix the crash during voice recognition. 2. Enhance performance while using camera to recognise objects.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.7.1,2017-11-07,1. Recognise objects using your camera or from a photo then translate 2. Fully support iPhone X UI 3. Support more native languages 4. For the watch app you can hear the voice from the native speaker.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.7.0,2017-09-26,1. New icon and colours for the UI. 2. For any new users the translate functions will be subscription based chose from paid monthly 1 month free trial or yearly 1 week free trial . 3. For any existing users Have installed v1.6.0 or earlier everything is free!,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.6.0,2017-07-17,Fix the crash for the Watch and iMessage apps.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.5.5,2017-07-06,1. Improve UX in the history details view. 2. Add indicator while recognising voice. 3. Minor bug fix.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.5.4,2017-06-28,Support 3D Touch preview to the conversation history.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.5.3,2017-06-15,1. Can select any language to hear in the history result. 2. Enhance user experience design.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.5.2,2017-05-24,Correct unreadable text in translated result.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.5.1,2017-05-22,Fix a potential crash during translation.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.5.0,2017-03-22,1. Speed up the translation process. 2. Fix UI issues for the history list. 3. Add voice over function to the Watch app.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.9,2017-01-27,1. New interpretation mode speak to any foreigners. 2. Volume and speed are adjustable from settings. 3. Improve network connectivity.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.8,2016-12-13,New layout design with tap bar much easier to use! Native UI support for iPad is finally here! Add recently used languages to the settings list. Support all device orientations for iPad.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.7,2016-11-17,Address the crash running on iOS 9.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.6,2016-11-10,1. Correct source language default settings. 2. Improve UI to make it easier to translate.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.5,2016-11-04,1. Show more useful information before recording voice. 2. Fix a crash while using recording and speech recognition.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.4,2016-11-02,1. Add support for iMessage. 2. Include powerful Speech Recognition convert language voices into text. 3. Allow changing languages settings from translate view. 4. Speed up performance.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.3,2016-09-30,Remove all full screen Ads which are just horrible! Show more information about Voice Over.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.2,2016-09-26,Fix a crash when running in iOS 10.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.1,2016-09-15,1. Recompile for iOS 10 2. Update fonts to display more languages 3. Allowing copy of translated results,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.4.0,2016-08-23,These cool features are free for this version: Voice Over To 3 translation Speech Control.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.9,2016-07-09,Bug fix for the voice over speech.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.8,2016-06-01,Bug fix for the iOS 9.3.2,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.7,2016-05-19,Performance enhancement and minor bug fix.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.6,2016-05-05,1. Control the speed and volume while listening to the results. 2. Listen to the results even when your device is mute. 3. Enhance the performance of the watch app.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.5,2016-02-03,1. Support 3D Touch preview and short cuts. 2. Search history via Spotlight 3. Easier to select language 4. Speed enhancement. 5. Bug Fixing.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.4,2015-05-13,Improve the translation results from the watch.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.3,2015-04-10,1. Fully support Apple Watch! 2. Minor bug fixing.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.2,2015-02-03,Voice and speech functions are now absolutely FREE!,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.1,2014-12-06,1. Voice Over function added Listen to translations for 34 languages! 2. All Ads are removed. 3. Miner bug fixing.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.3.0,2014-11-11,1. New easy to use UI design for iPhone 6 6 2. You can recommend this app to your friends easily. 3. Option to remove the Ads.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.2.0,2014-04-09,Fix issue when sharing with Facebook in iOS7.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.1.1,2014-04-03,Bug fix and performance enhancement.,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.1,2014-03-03,Fully support iOS7,0,0,0,0,0,0,0,0
+768642496,0,Multi Translate Voice,Travel,2013-12-06,2013-12-06,37.13,7,0,1,0,1.0,2013-12-06,,0,0,0,0,0,0,0,0

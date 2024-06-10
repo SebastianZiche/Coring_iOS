@@ -1,0 +1,460 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Anytype: Private Notes
+Any AssociationProductivity (Applications)Free
+Alerts
+
+Anytype: Private Notes
+Anytype: Private Notes
+Anytype: Private Notes
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Anytype: Private Notes
+Productivity (Applications)
+Free
+App Description
+Anytype is your everyday companion to help you take back ownership of your digital life - starting with your notes, documents, tasks, and ideas. Everything you create in Anytype is E2E encrypted, offline-accessible, and p2p synced. Anytype supports block-based editing, templates, tables, databases, bookmarks, code snippets, and more.
+
+Why use Anytype?
+
+PRIVATE & SECURE BY DESIGN
+We use state-of-the-art technologies to shard, hash, and protect your data, which is decrypted by a key that only you know. That means that nobody - whether hackers, governments, or Anytype - can access your data.
+
+
+OFFLINE-FIRST
+
+Whether on an airplane or in the woods, you never have to worry about a good Internet connection to use Anytype. All features & functionalities are supported offline, and synced in your local network.
+
+
+OPEN CODE FOR AN OPEN FUTURE
+Our repositories are open for anyone to verify our promises. Please join our contributors' community to learn how you can contribute: https://github.com/orgs/anyproto/discussions
+
+SEAMLESS SYNC BETWEEN DEVICES
+
+Your account data will sync across devices in your local network that have Anytype installed - no need for cloud-based sync.
+
+YOURS TO OWN, FOREVER
+
+Anything you create on anytype is saved on-device. Self-hosting is possible, which means you can never be blocked from your own data or account.
+
+With Anytype, you can:
+-Quickly jot down notes and ideas and connect them to your local knowledge graph
+-Safekeep digital versions of your essential documents and take them with you on the go
+-Save & organize bookmarks from the web
+-Seamlessly connect your thoughts in a knowledge graph
+-Find out more at: anytype.io
+
+
+Our code base: https://github.com/anyproto
+Ratings
+Displayed Avg Ratings
+4.63
+Total Displayed Ratings
+269
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 0.27.1 (Jan 22, 2024)
+    Bug fixes
+    - Fixed: Can't choose exact date in Date relation
+    - Fixed: Can't add a relation to set via +
+    - Other small fixes
+Version 0.27.0 (Dec 22, 2023)
+    Happy December, Anytypers! To celebrate a great year, we’re happy to announce one final release to cap off 2023. With that, we wish you a very happy festive season and a great start to 2024.
+    Here’s what’s in store:
+
+    
+
+New Features:
+
+    - Backlinks v1: Now live!
+
+    Backlinks and forward links have been implemented as relations on all platforms, and can be found in the relations panel of any object.
+
+By default, if an object already has backlinks, the backlinks will be displayed as a featured relation, indicating the number of backlinks and - when clicked the linked objects. If an object has no backlinks, the relation will not be featured, but can be located in your relations panel.
+
+
+    - Object Creation from Widget
+    
+It’s now possible to create new objects directly from the widgets you’ve added to your homsecreen. Slide left to reveal the new widget + button. Any objects created in this manner will automatically be added to the widget you’ve selected.
+
+
+
+    - Configurable Network Settings
+    
+Configurable settings for self-hosting and local-only mode for your data have been introduced on all platforms! To change your sync settings, log out of your account and tap the settings wheel in the top right of the window. There, you’ll see options to choose Self-hosting or Local-only.
+
+
+
+
+    Improvements:
+
+    - Redesigned Navigation Panel
+
+    The navigation panel has been redesigned for a sleeker experience in line with SwiftUI standards. A back button has been added to the navigation panel, meanwhile the search button is only visible from the homescreen, and replaced with a widget (homescreen) button in object view.
+    
+
+    - Set & Collection creation now supported in Editor
+    By using the /set or /collection commands, you can create a new set or collection from mobile.
+
+    - Grouping added to Recently Edited / Recently Opened Widgets
+    
+For easier navigation, when opening Recently Edited or Recently Opened widgets, your objects will be grouped according to ‘Today’, ‘Yesterday’, ‘Previous 7 days’ and ‘Older’.
+
+
+    - Sharing Extension Contextual Tips Implemented
+    
+For users creating bookmarks or sharing links in the app, we’ve implemented some tips that indicate how to install the iOS sharing extension for easier copying of web content to Anytype.
+
+
+    - Redesigned App Update Popup
+    For outdated versions of the app, we’ve redesigned the popup prompt to remind users to update versions.
+
+
+
+    Bug fixes
+    - Fixed: Sharing extension button now works more smoothly and does not automatically open Anytype app
+    - Fixed: Opened .jpg files no longer reupload as larger .jpeg files (Thanks, Phoebus!)
+    - Fixed: Profile image no longer is distorted after upload
+Version 0.26.0 (Nov 21, 2023)
+    Hello, Anytypers! Throughout September and October, we were hard at work putting together this release, packed with new features to carry you right through to the holiday season.
+    Here’s what’s in store:
+
+    New Features:
+    - Multispaces
+    They’re here! The crowning jewel across all platforms for this release is the introduction of multispaces, which will allow you to separate which objects, widgets, and eventually - users - comprise your space.
+
+    Spaces are synced across your devices, and you can toggle between them by selecting your profile image in the bottom navigation bar. To manage your space settings, including default object type, wallpapers, storage and deletion, tap the space widget at the top of your homescreen.
+
+    - Sharing Extension
+    iOS share sheet has also been delivered with this release, permitting you to share text or URL content directly to Anytype. Text can be saved as either new Note objects or text blocks within an existing object. URLs meanwhile, can be saved as new Bookmark objects or text blocks within an existing object. You’ll be prompted to select the target space and object when using the share sheet function.
+
+    Improvements:
+
+    - Redesigned Settings Menu for Sets & Collections
+    Tapping the settings menu in any set or collection now opens a sleek, minimal menu with options to adjust the view name, or open sub-menus to manage the view type, displayed relations, filters, and sorts.
+
+    - Default Type selection now possible for Collections & Sets by Relation
+    For Collections & Set by Relation, tapping the down caret next to the ‘New’ button will allow you to adjust which type is implemented by default when creating new objects. Tapping on any type will open a preview of all templates you’ve created for that type, which you can also select from this menu. Finally, you can also select ‘edit’ from this menu to edit or duplicate any of your existing templates.
+
+    - First version of localized iOS interface
+    Thanks to the help of our contributors, six new languages are available on the iOS interface! These include: simplified Chinese, Indonesian, Norwegian, Brazilian Portuguese, Spanish, and Ukrainian. If you’d like to contribute to the translation of your own native language on mobile, you can get started here!
+
+    Bugs fixes:
+    - Fix navigation view appearing in editor.
+    - Shake to undo sensitivity improvements.
+    - Link to object (Note) does not display the name.
+    - Unable to make changes in object after opening object settings.
+    - Project object preview has an incorrect icon.
+    - Editor’s loading / shimmering state has a light background color.
+    - Code blocks don't show the right language.
+    - Copy/pasting a toggle block only pastes the header
+Version 0.25.1 (Sep 20, 2023)
+    Greetings, Anytype iOS fans! This month, we’re shipping several little polishes to make the iOS experience smoother, as we prep for some big drops in our next releases.
+    Here’s what’s in store:
+
+    *New Features:*
+    - Default types & templates now supported in Collections & Sets-by-Relation
+    Your default object type (and its default template) will now be applied to objects newly created in collections and sets-by-relation. This update is part of a larger project to make template and type management intuitive on iOS, so expect more updates here in our next release.
+
+    *Improvements:*
+    - Deleted Objects Visible in Read-Only Mode
+    It’s now possible to open and preview objects that have been moved to bin. Deleted objects will show a trash can icon in the object header, and must be restored in order to edit.
+
+    - Updated Onboarding Flow
+    We’ve adjusted the text and sequence of the onboarding flow to make it simpler for users creating new Anytype accounts on mobile, with an emphasis on the Recovery Phrase.
+
+    - Icon placeholders removed from all search screens
+    Previously, objects with no icon would show a placeholder icon in search menus. These placeholder icons have now been removed for minimal clutter.
+
+    *Fixes:*
+    - Login problems fixed
+Version 0.24.1 (Aug 18, 2023)
+    Happy mid-August, Anytypers!
+
+    This month, we’ve focused on delivering some serious upgrades to your templates workflows on iOS, in addition to a few polishes and fixes. Let’s go!
+
+    New Features:
+
+    Templates can now be previewed & selected from sets
+
+    Upon opening any set, you’ll find that the ‘New’ button to create objects now has a new toggle button on its right. By tapping on this toggle, you’ll open a menu which displays previews of all templates that you’ve created for this type.
+    From here, you can select the template you wish to proceed with (including a ‘blank’ template).
+
+    Introduction of editing & duplicating options for templates
+
+    From the above menu you can long-press any template preview, which will generate a new menu which gives you the options to edit or duplicate the template. Tapping ‘Edit template’ will open the template in the editor, and any changes you make will be synced on all devices.
+
+    In case you like the structure of one of your templates and just want to have a slightly modified option, you can tap ‘Duplicate’ which will, as the name implies, create a duplicate of the template you’ve selected.
+
+    Default templates can be defined for each set view
+
+    In addition to the ‘edit’’ and ‘duplicate’ function, you can also choose whether you’d like to apply a template by default to the given set view. This means that each time you create a new object from set, the default template will be auto-applied.
+
+    Introduction of Recently Edited widget
+
+    Previously you had the option of ‘Recents’ as a widget, which displayed recently opened objects on your device, and was not synced to other devices. Now, you can choose between ‘Recently Opened’ if you’re fine with the current functionality, or alternatively, you can choose ‘Recently Edited’ as a widget source. Note that only the latter option will be synced cross-device due to the distributed nature of the application.
+
+    Improvements:
+
+    Colorful recovery phrase
+
+    We’ve injected a dose of color to your recovery phrase screen for purposes of 1) joy and 2) greater consistency with the desktop experience.
+
+    Introduced limits on text in recovery phrase input field
+
+    It is no longer possible to input an infinite string of text in the recovery phrase window - we have introduced limits of 12 words with maximum 8-characters each, whose standards are consistent with those of the BIP-39 protocol used to generate user recovery phrases.
+
+    Fixes:
+
+    Fixed: Deleted files now appear in the bin.
+Version 0.24.0 (Aug 16, 2023)
+    Happy mid-August, Anytypers!
+
+    This month, we’ve focused on delivering some serious upgrades to your templates workflows on iOS, in addition to a few polishes and fixes. Let’s go!
+
+    New Features:
+
+    Templates can now be previewed & selected from sets
+
+    Upon opening any set, you’ll find that the ‘New’ button to create objects now has a new toggle button on its right. By tapping on this toggle, you’ll open a menu which displays previews of all templates that you’ve created for this type.
+    From here, you can select the template you wish to proceed with (including a ‘blank’ template).
+
+    Introduction of editing & duplicating options for templates
+
+    From the above menu you can long-press any template preview, which will generate a new menu which gives you the options to edit or duplicate the template. Tapping ‘Edit template’ will open the template in the editor, and any changes you make will be synced on all devices.
+
+    In case you like the structure of one of your templates and just want to have a slightly modified option, you can tap ‘Duplicate’ which will, as the name implies, create a duplicate of the template you’ve selected.
+
+    Default templates can be defined for each set view
+
+    In addition to the ‘edit’’ and ‘duplicate’ function, you can also choose whether you’d like to apply a template by default to the given set view. This means that each time you create a new object from set, the default template will be auto-applied.
+
+    Introduction of Recently Edited widget
+
+    Previously you had the option of ‘Recents’ as a widget, which displayed recently opened objects on your device, and was not synced to other devices. Now, you can choose between ‘Recently Opened’ if you’re fine with the current functionality, or alternatively, you can choose ‘Recently Edited’ as a widget source. Note that only the latter option will be synced cross-device due to the distributed nature of the application.
+
+    Improvements:
+
+    Colorful recovery phrase
+
+    We’ve injected a dose of color to your recovery phrase screen for purposes of 1) joy and 2) greater consistency with the desktop experience.
+
+    Introduced limits on text in recovery phrase input field
+
+    It is no longer possible to input an infinite string of text in the recovery phrase window - we have introduced limits of 12 words with maximum 8-characters each, whose standards are consistent with those of the BIP-39 protocol used to generate user recovery phrases.
+
+    Fixes:
+
+    Fixed: Deleted files now appear in the bin.
+Version 0.23.4 (Jul 19, 2023)
+    The crowning feature of this release is our new onboarding flow, which has been designed to orient new users with the concepts of spaces, identities, and fundamentals regarding how we protect your data.
+    While this flow is primarily targeted towards new users who are experiencing Anytype for the first time on iOS, veteran users will also notice some snazzy updates to the interface upon logging in and out of the app.
+Version 0.23.0 (Jul 14, 2023)
+    The crowning feature of this release is our new onboarding flow, which has been designed to orient new users with the concepts of spaces, identities, and fundamentals regarding how we protect your data.
+    While this flow is primarily targeted towards new users who are experiencing Anytype for the first time on iOS, veteran users will also notice some snazzy updates to the interface upon logging in and out of the app.
+Version 0.22.0 (Jun 15, 2023)
+Version 0.22.1 (Jun 15, 2023)
+    Greetings Anytypers, and welcome to our first release in the App store! We couldn’t be more excited to kick off our app store launch with this huge update which includes an integrated Anysync protocol, plus spaces, widgets, and collections.
+    Before we get to the good stuff, an important note:
+
+    If you were a member of the alpha testing community before mid-May 2023, you will need to perform an account migration via your desktop device before using this version. The previous iOS version is no longer valid and will not sync with your other devices. For detailed instructions, please update to the latest version of the legacy desktop app.
+
+    New Features:
+
+    Widgets
+
+    With widgets, you now have the ability to customize your homescreen. Widgets can be comprised of ‘Favorites’, ‘Recents’, ‘Sets’, ‘Collections’, or any object in your anytype. Change the widget view by long tapping any widget, or add or delete widgets by tapping the ‘Edit Widgets’ button.
+    Any changes you make on your iOS homescreen will reflect on your desktop sidebar, and vice versa.
+
+    Spaces
+
+    Spaces are here! Your bottom navigation menu now shows your space icon; tapping it will open your space and profile settings where you can adjust your space name and icon.
+
+    Collections
+
+    Another friendly addition you’ll notice in this release is that of Collections: folder-like structures whose UI presents similarly with that of sets, but which can include any object of your choosing.
+    To create a collection, simply tap the plus button and select ‘Collection’ as your object type. From there, any object can be linked to this collection or created directly from the collection itself. We hope you’ll enjoy this feature!
+
+    ‘About screen’ redesign
+
+    Our about screen has been redesigned with much more robust options for navigating support, including release notes, community and documentation links, and a ‘Contact us’ option.
+
+    Fixes:
+
+    Fixed: WEBP images now supported
+    Fixed: Relation blocks of uninstalled relations are now updating to correctly reflect deleted states
+    Fixed: App icon options in the Appearance menu are correctly highlighting when selected
+    Fixed: It is no longer possible to reference the current object when using @ mentinos
+    Fixed: Haptic feedback has been disabled while scrolling in DnD mode
+    Fixed: Set title input UX now includes a ‘Done’ button
+    Fixed: ‘Logout’ and ‘Account delete’ window titles are now displaying correctly
+
+Users may also like
+Select objects to compare
+Omnivore: Read-it-later
+Logseq
+Amplenote
+Mem - AI Notes, Search & Chat
+Notesnook: Private note taking
+Twos: Remember & Share Things
+Superlist - Tasks & Lists
+Routine: Calendars & Tasks
+Raindrop.io
+Tana Capture
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    0.27.1
+    Current release
+    Jan 22, 2024
+    0.27.0
+    Dec 22, 2023
+    0.26.0
+    Nov 21, 2023
+    0.25.1
+    Sep 20, 2023
+    0.24.1
+    Aug 18, 2023
+    0.24.0
+    Aug 16, 2023
+    0.23.4
+    Jul 19, 2023
+    0.23.0
+    Jul 14, 2023
+    0.22.0
+    Jun 15, 2023
+    0.22.1
+    Jun 15, 2023
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jun 15, 2023
+
+Worldwide Release Date
+    Jul 14, 2023
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    0.27.1
+
+Size
+    132.88 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Português, Alemão, Chinês simplificado, Espanhol, Francês, Indonésio, Inglês, Italiano, Norueguês bokmål, Russo, Ucraniano
+
+Seller
+    Any Association
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requer o iOS 15.0 ou posterior. Compatível com iPhone, iPad e iPod touch.
+
+Bundle ID
+    io.anytype.app
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6449487029
+Unified App ID: 1000800000193138
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Anytype: Private Notes | data.ai

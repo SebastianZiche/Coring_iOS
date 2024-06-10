@@ -1,0 +1,8 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1500583555,0,Transcribe voice to text,Productivity,2021-09-02,2021-09-02,60.66,7,0,0,1,2.2,2023-08-08,Fixed some bugs increased stability,0,0,0,0,0,0,0,0
+1500583555,0,Transcribe voice to text,Productivity,2021-09-02,2021-09-02,60.66,7,0,0,1,2.1,2023-06-23,Bug fixes,0,0,0,0,0,0,0,0
+1500583555,0,Transcribe voice to text,Productivity,2021-09-02,2021-09-02,60.66,7,0,0,1,2.0,2023-06-14,Fixed some bugs increased stability,0,0,0,0,0,0,0,0
+1500583555,0,Transcribe voice to text,Productivity,2021-09-02,2021-09-02,60.66,7,0,0,1,1.1.2,2022-03-07,Bug fixes Better issue handling,0,0,0,0,0,0,0,0
+1500583555,0,Transcribe voice to text,Productivity,2021-09-02,2021-09-02,60.66,7,0,0,1,1.1.1,2021-12-24,Better issue handling Bug fixes,0,0,0,0,0,0,0,0
+1500583555,0,Transcribe voice to text,Productivity,2021-09-02,2021-09-02,60.66,7,0,0,1,1.1,2021-12-02,You can now make use of the live audio transcription service! This allows you to convert your audio to text as you are recording. Currently available in English Dutch French and German. Other improvements: Better issue handling Bug fixes,0,0,0,0,0,0,0,0
+1500583555,0,Transcribe voice to text,Productivity,2021-09-02,2021-09-02,60.66,7,0,0,1,1.0.1,2021-09-15,Bug fixes that caused some crashes on certain devices.,0,0,0,0,0,0,0,0

@@ -1,0 +1,101 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,8.7,2023-12-06,Picture in picture mode is now available! Visual improvements for video preview experience New icon indicates which videos require sign in Better display for large text sizes Various performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,8.6,2023-09-19,Visual improvements Better support for larger text Bug fixes to improve stability
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,8.5,2023-06-27,Fixed bugs related to Apple TV App tracking. Various improvements to the look and feel. Improved FF and REW in the video player.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,8.4,2023-04-05,Performance improvements and bug fixes.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,8.3,2023-02-20,Fixed a bug that caused video to switch between landscape and portrait mode Fixed a sign in bug for YouTube TV subscribers Improved user interface to meet accessibility standards
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,8.2,2022-12-09,Performance improvements and bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,8.1.2,2022-10-04,Performance improvements and bug fixes.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,8.1,2022-09-23,Performance improvements and bug fixes.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.12.0,2022-06-08,Performance Improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.11.0,2022-04-05,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.9.2,2022-02-08,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.9.1,2021-12-18,Fixed an issue that prevented some users from fully loading the app. Other performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.9,2021-11-03,Fixed several bugs that prevented some users from casting video Fixed several bugs related to TV Provider activation
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.8.1,2021-08-26,We ve made some improvements to the casting experience with more fixes on the way!
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.8,2021-08-10,New location permissions for Live TV Bug fixes and performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.7,2021-04-29,Support for App Tracking Transparency Other bug fixes and improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.6,2021-03-11,Fixed a bug that prevented the app from fully loading on iOS 14.5. Added a Still Watching screen after several hours without screen interaction. Improved the search screen s usability. Fixed miscellaneous bugs.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.5,2021-02-05,Bug fixes and minor visual improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.4,2020-12-17,Performance improvements and bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.3.1,2020-09-17,Bug fixes and performance improvements.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.3.0,2020-09-01,Search! Yes we ve added in app search to make finding your favorite shows and movies even easier.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.2.0,2020-07-12,Performance improvements Users can now sign in with their TV provider through Apple s single sign on
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.1.1,2020-05-24,Improved casting experience
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,7.1.0,2020-05-15,Improved casting experience Fixed visual bugs on iPhone 11 family Reduced number of ads shown before live sports Updated look and feel
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.9.0,2020-03-10,Fixed a delay in the live stream Refreshed look and feel Web links now open in the app instead of the browser Improvements to the casting experience Other bug fixes and performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.8.0,2020-02-05,Bug fixes and performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.7.2,2020-01-18,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.7.0,2019-12-20,Additional privacy settings and updated privacy policy
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.6.0,2019-12-06,Bug fixes and improvements.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.5.1,2019-11-04,General improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.5.0,2019-11-01,General improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.4.0,2019-09-28,You can now watch 10 minutes of Live TV per day before signing in with your TV Provider! We made other improvements related to the sign in process and general app stability.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.3.2,2019-09-21,Improved the casting experience on iOS 13
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.3,2019-08-24,Performance and visual improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.2,2019-07-13,We ve fixed some of the most common bugs and made other stability and visual improvements.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.1.1,2019-05-11,New app who dis Long time no update. But the wait is over. Here s the ALL NEW TNT APP! SHINY NEW DESIGN We ve redesigned the whole app from the ground up. Take it for a spin and get a whiff of that new app smell. EXPLORE YOUR FAVORITES A new curated experience means it s now easier than ever to find and dig into your favorite shows and live sports our always fresh collections of your favorite movies! BETTER. AUNT. STABLES The look and feel isn t all that s changed. Under the hood we rebuilt how we stream video on your phone to make it faster and more stable so you can watch all. day. long. STAY TUNED We re just getting started. Keep an eye out for new features and Original content coming soon!
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,5.0.0,2019-03-07,New app who dis Long time no update. But the wait is over. Here s the ALL NEW TNT APP! SHINY NEW DESIGN We ve redesigned the whole app from the ground up. Take it for a spin and get a whiff of that new app smell. EXPLORE YOUR FAVORITES A new curated experience means it s now easier than ever to find and dig into your favorite shows and live sports our always fresh collections of your favorite movies! BETTER. AUNT. STABLES The look and feel isn t all that s changed. Under the hood we rebuilt how we stream video on your phone to make it faster and more stable so you can watch all. day. long. STAY TUNED We re just getting started. Keep an eye out for new features and Original content coming soon!
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.18.0,2018-12-28,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.16.0,2018-11-27,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.15.0,2018-10-10,General improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.14.0,2018-09-14,Skip commercial breaks with new interactive ads available on select shows Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.12.5,2018-07-11,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.12.4,2018-07-03,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.12.2,2018-06-07,Bug Fixes General Improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.11.2,2018-04-20,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.11.1,2018-04-14,Introduced home based authentication for Xfinity customers Fixed sign in issues for PS Vue and Consolidated Communications customers You can now receive In app messages Removed the white home indicator during video playback on iPhone X Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.10.1,2018-03-16,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.10.0,2018-03-14,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.9.1,2018-02-23,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.9.0,2018-02-15,You can now find our live sports from the TV App!
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.8.0,2018-01-25,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.7.2,2018-01-11,We fixed a bug related to the navigation in some show sections.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.7.0,2017-11-30,Go deeper into some shows with articles games and more Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.6.1,2017-11-09,Various bug fixes and usability improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.6.0,2017-10-03,Various bug fixes and usability improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.5.1,2017-09-23,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.5.0,2017-09-07,Push and in app notifications Easier to keep track of which episode you last watched Search for or quickly browse TV Providers
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.4.0,2017-08-10,Show logos and other visual improvements Continue watching your last video more easily Search for answers to FAQs Dismiss video controls by tapping the screen
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.3.0,2017-07-21,Easier to send feedback in app Cellular data usage is on by default
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.2.2,2017-07-08,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.2.0,2017-06-29,We ve heard your feedback and made the following improvements! Faster loading time HDMI to TV support More stability
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.1.1,2017-05-27,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.1.0,2017-05-23,We ve addressed some of the most common feedback: Live TV is closer to real time Cellular streaming is easier to enable Improved stability
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.0.3,2017-05-18,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.0.1,2017-05-12,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,4.0.0,2017-05-04,Welcome to the all new TNT app! Video playback is in beautiful HD and more stable than ever. You can now cast to Chromecast and Fire TV Airplay support is on the way . You can even start watching live sports and full episodes before signing in with your TV provider. We ve also added select TBS shows in our new Spotlight section. We hope you enjoy these exciting new features and many more!
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.9,2017-02-08,New TNT look!
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.8.1,2016-11-22,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.8,2016-11-16,Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.7,2016-11-06,Tapping a video ad now pauses the video instead of linking out of the app.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.6.2,2016-10-07,Fixed a bug that prevented some images from loading
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.6.1,2016-09-05,Fixed a bug related to TV Provider authentication on iPad.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.6,2016-08-03,Faster loading time. More ways to watch your favorite shows! If it s not available in our app we ll tell you where to find it.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.5,2016-05-11,Bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.4,2016-01-25,Shorter commercial breaks New TNT branding Various bug fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.3,2015-11-16,Bug fixes and performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.2.1,2015-10-16,Live TV fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.2,2015-10-02,Fixed a bug with Live TV playback in iOS 9 Improved Continue Watching experience now more reliable when resuming videos across devices
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.1,2015-08-18,Improved stability and performance Faster loading time More easily save your place when exiting a video Removed an incorrect warning about network connectivity issues
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.0.2,2015-07-08,A volume related bug that was affecting some users has been fixed.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,2.0,2015-06-18,Completely new design and features. Universal app that works on all devices.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.9.0,2015-03-18,Updated TV Provider authentication Performance improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.8.1,2014-08-14,Thank you for all the feedback about Watch TNT we re listening so please keep the feedback coming. Please tell your friends and be sure to share! Now resume your favorite TNT shows and movies while have access to your viewing history across multiple devices Viewing Enhancements Performance Improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.8,2014-07-07,Thank you for all the feedback about Watch TNT we re listening so please keep the feedback coming. Please tell your friends and be sure to share! Now resume your favorite TNT shows and movies while have access to your viewing history across multiple devices Viewing Enhancements Performance Improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.7.4,2014-05-19,Thank you for all the feedback about Watch TNT we re listening so please keep the feedback coming. Please tell your friends and be sure to share! Viewing Enhancements Performance Improvements Bug Fixes
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.7.3,2013-09-19,Performance Enhancements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.6.8.2,2013-07-31,Ability to view both the East and West live feeds of TNT after authenticating Continue where you left off when viewing full episodes the app will save your place! Enhanced Social Sharing Features New WATCH TNT Interface
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.6.8.1,2013-07-29,Ability to view both the East and West live feeds of TNT after authenticating Continue where you left off when viewing full episodes the app will save your place! Enhanced Social Sharing Features New WATCH TNT Interface
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.6.7,2013-05-17,Improved Performance
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.6.6,2013-03-22,User Experience Enhancements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.6.5,2013-03-13,Performance Enhancements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.6.4,2013-02-16,Improved User Experience Performance Optimization
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.6.3,2012-09-24,Closed captioning support
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.6.2,2012-09-13,Audio Enhancements Performance Improvements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.3.1,2012-07-07,User Experience Enhancements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.3,2012-06-14,Improved Performance
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.2,2012-05-07,Enhanced User Experience Improved Performance Improved Messaging
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.1,2012-02-02,GetGlue Integration Performance Upgrades User Experience Enhancements
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.0.1,2011-10-25,Improved stability.
+460494135,1000600000444089,Watch TNT,Entertainment,2011-09-09,2011-09-08,71.22,1,1,0,0,1.0,2011-09-08,

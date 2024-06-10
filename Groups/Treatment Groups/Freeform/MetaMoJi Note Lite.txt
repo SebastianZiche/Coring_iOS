@@ -1,0 +1,446 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MetaMoJi Note Lite
+MetaMoJiProductivity (Applications)Free
+Alerts
+
+Note Anytime
+MetaMoJi Note Lite
+MetaMoJi Note Lite
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MetaMoJi Note Lite
+Productivity (Applications)
+Free
+App Description
+MetaMoJi Note is a cross-platform note taking app, PDF annotation tool, and a digital scrapbook for your life. Sketch your ideas visually with stylish pens and ink, take notes, or annotate imported PDF documents. MetaMoJi Note is a virtual whiteboard for sketching, annotation, scrapbooking or digital mashup. Premium upgrades include voice recording, handwriting recognition and text conversion, automatic synchronization of documents, and a shared drive.
+
+MetaMoJi Note is the only note-taking app available across all major mobile platforms. Winner of multiple awards: Tabby Award for Best Personal Productivity App - Silver Stevie® Award for International Business - Finalist for Appy Award for Productivity - #1 Productivity App in Japan
+
+Capture, share, and access your inspiration anywhere, anytime!
+
+Key Features
+• Intuitive and flexible navigation
+• Take notes or sketch your ideas with a variety of pens, paper layouts and graphics, including calligraphy pens and special pastel inks
+• 50X scaling ability - scale your document up to a whiteboard or down to a sticky note while still maintaining 100% visual integrity
+• Import a PDF file, mark it up as needed, and save it as another PDF file
+• Share creations by email or upload to Twitter, Facebook or Tumblr
+• Sync all folders or selected folders to the MetaMoJi Cloud, a cloud service that allows you to save and manage your documents (up to 2GB for free)
+• Save drawings as individual JPEG graphics in the items library for later use
+• Scale, rotate, or move text boxes anywhere in your work space
+• Interactively browse the web from within the app and mark up sites
+• Built-in spell checker
+• Premium feature: Voice recording and audio editing to associate sound bits to pages or parts of your document or composition.
+
+MetaMoJi Note Lite is free to download and use. MetaMoJi Note adds the great features above, along with voice memo, audio editing, text formatting, and password protection capabilities. The Gold Service offers advanced cloud storage, auto sync, and unlimited access to optional inks, premium items, papers and note styles for more professional results.
+
+Here are some ways to use MetaMoJi Note for your personal and business life:
+• Generate quick notes and to-do lists
+• Mark up and sign contracts and critical business documents
+• Use as a dynamic whiteboard to brainstorm and present
+• PDF and photo annotation
+• Review/edit documents and share feedback through email
+• Capture and markup website pages
+• Sketch drawings
+• Outline an essay, article or story
+• Create your own “Pinterest” board and share via social networks
+• Digital scrapbooking
+• Play games
+• Design flyers or greeting cards
+• Draw a flowchart
+• Maintain a digital calendar
+• Compile recipes
+• Create a party invitation
+
+Learn more:
+More about MetaMoJi Note: http://noteanytime.com/en/quick_guide.html
+Support: http://noteanytime.com/en/support.html
+Twitter: https://twitter.com/noteanytime
+Facebook: https://www.facebook.com/NoteAnytime
+YouTube: http://www.youtube.com/user/NoteAnytime
+Contact us: http://noteanytime.com/en/contact.html
+Ratings
+Displayed Avg Ratings
+3.69
+Total Displayed Ratings
+1.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.10.4 (Jun 29, 2018)
+    - Bug fixes
+Version 3.10.3 (Jun 18, 2018)
+    - Added a function to export notes in folder
+    - Bug fixes
+Version 3.10.2 (Jan 15, 2018)
+    - Bug fixes
+Version 3.10.1 (Sep 8, 2017)
+    [3.10.1]
+    - Bug fixes
+
+    [3.10.0]
+    - Removed “Send to SNS” (use “Send to Application”)
+    - Bug fixes
+Version 3.10.0 (Aug 9, 2017)
+    [3.10.0]
+    - Removed “Send to SNS” (use “Send to Application”)
+    - Bug fixes
+
+    [3.9.2]
+    - Fixed text operations on iOS 10
+    - Minor bug fixes
+
+    [3.9.1]
+    - Added Apple Pencil mode
+    - Bug fixes
+Version 3.9.3 (Apr 14, 2017)
+    [3.9.3]
+    - Updated for the Google Drive API change; Support iOS9 or later to import MS Office files
+    - Bug fixes
+
+    [3.9.2]
+    - Fixed text operations on iOS 10
+    - Minor bug fixes
+
+    [3.9.1]
+    - Added Apple Pencil mode
+    - Bug fixes
+Version 3.9.2 (Jan 30, 2017)
+    [3.9.2]
+    - Fixed text operations on iOS 10
+    - Minor bug fixes
+
+    [3.9.1]
+    - Added Apple Pencil mode
+    - Bug fixes
+Version 3.9.1 (Sep 14, 2016)
+    [3.9.1]
+    - Added Apple Pencil mode
+    - Bug fixes
+Version 3.7.4 (Jun 10, 2016)
+    [3.7.4]
+    - Bug fixes
+
+    [3.7.3]
+    - Bug fixes for iOS 9
+
+    [3.6.0]
+    - MetaMoJi ID
+    - Bug fixes
+Version 3.7.3 (Nov 9, 2015)
+    [3.7.3]
+    - Bug fixes for iOS 9
+
+    [3.6.0]
+    - MetaMoJi ID
+    - Bug fixes
+Version 3.7.2 (Oct 29, 2015)
+    [3.7.2]
+    - Bug fixes
+
+    [3.7.1]
+    - Bug fixes
+
+    [3.6.1]
+    - Bug fixes
+
+    [3.6.0]
+    - MetaMoJi ID
+    - Bug fixes
+Version 3.7.1 (Sep 2, 2015)
+    [3.7.1]
+    - Bug fixes
+
+    [3.6.1]
+    - Bug fixes
+
+    [3.6.0]
+    - MetaMoJi ID
+    - Bug fixes
+Version 3.6.1 (May 15, 2015)
+    [3.6.1]
+    - Bug fixes
+
+    [3.6.0]
+    - MetaMoJi ID
+    - Bug fixes
+Version 3.6.0 (Apr 24, 2015)
+    [3.6.0]
+    - MetaMoJi ID
+    - Bug fixes
+
+    [3.5.3]
+    - Added ads
+    - Bug fixes
+Version 3.5.3 (Apr 1, 2015)
+    -Added ads
+    -Bug fixes
+Version 3.2.1 (Oct 30, 2014)
+    [3.2.1]
+    - Bug fixes
+
+    [3.2.0]
+    - Updated for iOS 8
+    - Added more timing to Auto Sync
+    - Bug fixes
+Version 3.2.0 (Oct 9, 2014)
+    - Updated for iOS 8
+    - Added more timing to Auto Sync
+    - Bug fixes
+Version 3.1.0 (Aug 12, 2014)
+    - Changed application name
+Version 3.0.2 (Jul 11, 2014)
+    [3.0.2]
+
+    - Bug fixes
+
+
+
+    [3.0.1]
+
+    - Changed UI design
+
+    - Smart cropping tool
+
+    - Bookmarks for web units
+
+    - Bug fixes
+Version 3.0.1 (Jul 6, 2014)
+    [3.0.1]
+    - Changed UI design
+    - Smart cropping tool
+    - Bookmarks for web units
+    - Bug fixes
+Version 2.1.1 (Mar 25, 2014)
+    [2.1.1]
+    Bug fixes
+
+    [2.1.0]
+    New features:
+    - Send to iTunes
+    - Add Copied Text
+    Updates:
+    - Improved UI for Shared Drive
+    - Opacity for highlighter pen
+    - Changed menu structure
+    - Added new options for zoom box
+    Bug fixes
+Version 2.1 (Feb 19, 2014)
+    New features:
+    - Send to iTunes
+    - Add Copied Text
+    Updates:
+    - Improved UI for Shared Drive
+    - Opacity for highlighter pen
+    - Changed menu structure
+    - Added new options for zoom box
+    Bug fixes
+Version 2.0.1 (Dec 17, 2013)
+
+Users may also like
+Select objects to compare
+Blankbook - Paper Note
+Notes Writer: Note Taking PDF
+ZoomNotes Lite
+Flexcil Note & Good PDF Reader
+Inkflow Visual Notebook
+Smart Note Notepad - Draw Memo
+Nebo: Note Taking & Notebook
+NoteTaker, Note taking app
+Bamboo Paper
+Simple Notes - Notepad Manager
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.10.4
+    Current release
+    Jun 29, 2018
+    3.10.3
+    Jun 18, 2018
+    3.10.2
+    Jan 15, 2018
+    3.10.1
+    Sep 8, 2017
+    3.10.0
+    Aug 9, 2017
+    3.9.3
+    Apr 14, 2017
+    3.9.2
+    Jan 30, 2017
+    3.9.1
+    Sep 14, 2016
+    3.7.4
+    Jun 10, 2016
+    3.7.3
+    Nov 9, 2015
+    3.7.2
+    Oct 29, 2015
+    3.7.1
+    Sep 2, 2015
+    3.6.1
+    May 15, 2015
+    3.6.0
+    Apr 24, 2015
+    3.5.3
+    Apr 1, 2015
+    3.2.1
+    Oct 30, 2014
+    3.2.0
+    Oct 9, 2014
+    3.1.0
+    Aug 12, 2014
+    3.0.2
+    Jul 11, 2014
+    3.0.1
+    Jul 6, 2014
+    2.1.1
+    Mar 25, 2014
+    2.1
+    Feb 19, 2014
+    2.0.1
+    Dec 17, 2013
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 17, 2013
+
+Worldwide Release Date
+    Dec 17, 2013
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    3.10.4
+
+Size
+    110.25 mb
+
+Only 32 Bit
+    No
+
+Languages
+    俄文, 德文, 意大利文, 日文, 法语, 波兰文, 简体中文, 繁体中文, 英语, 荷兰文, 葡萄牙文, 西班牙文, 韩文
+
+Seller
+    MetaMoJi Corporation
+
+Company HQ
+    Japan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 7.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    com.metamoji.noteanytimel
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App License Url
+
+Company Website
+
+App ID: 763225933
+Unified App ID: 1000600000003990
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MetaMoJi Note Lite | data.ai

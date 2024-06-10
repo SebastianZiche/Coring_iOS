@@ -1,0 +1,424 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Transcription - AI Dictation
+Verbatim LLCProductivity (Applications)Free
+Alerts
+
+Speech to Text - AI Dictation
+Transcription - AI Dictation
+Transcription - AI Dictation
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Transcription - AI Dictation
+Speech to Text & Voice Rec.
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+Transcribe your voice memos and videos with ease using Speech to Text - AI Dictation. Our advanced speech recognition technology provides high-quality transcriptions that are easy to read and edit.
+
+
+
+Main Features:
+
+• Auto-transcribe text while recording
+
+• Import audio and video files for transcription
+
+• Highlight key points for easy review
+
+• Punctuate, capitalize, and break paragraphs automatically
+
+• Differentiate between speakers
+
+• Search text to quickly locate important information
+
+• Playback at adjustable speeds
+
+• Edit text to correct errors
+
+• Convert recordings to various formats: MP3, M4A, AIFC, WAV, and more
+
+• Transcribe in real-time with high accuracy (when online)
+
+• Export to png, txt, word, and other formats
+
+• Supports 30+ languages and dialects
+
+• Import files from other apps and Dropbox
+
+• Export raw text to your favorite text editing app
+
+• Synchronize unlimited files with our app
+
+• No ads!
+
+
+
+We take security and privacy seriously and will never transfer your data to third parties. You have full control to delete your data from your account. Need help? Contact us through the in-app help center and we'll respond promptly.
+
+
+
+then the payment will be charged to your Apple ID account once you confirm your purchase. The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours before the end of the current period. You can manage and cancel your subscriptions through the App Store account settings after purchase.
+
+
+
+Privacy policy URL: https://www.luyingou.com/privacy.html?locale=en
+
+User agreement website: https://www.luyingou.com/user.html?locale=en
+Ratings
+Displayed Avg Ratings
+4.82
+Total Displayed Ratings
+6.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.7.2 (Feb 19, 2024)
+    Optimize AI speech recognition model;
+Version 3.6.9 (Dec 8, 2023)
+    Optimize the text-to-speech function;
+Version 3.6.7 (Oct 9, 2023)
+    - Optimize accuracy in recognizing minority languages;
+
+    - Enhance software usability and smoothness;
+Version 3.6.6 (Sep 22, 2023)
+    - Optimize accuracy in recognizing minority languages;
+
+    - Enhance software usability and smoothness;
+Version 3.6.5 (Sep 11, 2023)
+    - Optimize English AI recognition accuracy;
+Version 3.6.3 (Aug 29, 2023)
+    - Added an in-app font size option.
+
+    - Introduced a new feature to locate lost audio files, preventing data loss due to software crashes or unexpected shutdowns.
+Version 3.6.0 (Jul 26, 2023)
+    - Bug fixes and performance optimizations;
+Version 3.5.2 (Jul 11, 2023)
+    Optimize transcription accuracy
+Version 3.2.1 (May 18, 2023)
+    【Added】Simultaneous interpretation;
+
+    【Added】Extract videos from short video platforms through links and convert them to text on the fly;
+
+    【Added】Record audio with background sound.
+Version 3.2.0 (May 10, 2023)
+    Optimize the recognition accuracy and add hot words.
+Version 3.1.1 (Apr 27, 2023)
+    Optimize viewing of text page stuttering issues
+
+    Add more dialects such as Taiwanese, Cantonese, and Japanese to submit paraphrases
+Version 3.1.0 (Apr 24, 2023)
+    New Cantonese, Chinese Dialects and other languages identification
+Version 2.8.2 (Apr 10, 2023)
+    Fix the bug that the member still can't export the text after opening
+Version 2.8.0 (Apr 3, 2023)
+    Optimize the cloud file transfer rate.
+
+    Optimize the fluency of cutting recording.
+
+    Optimize the duration of importing super-large video.
+Version 2.7.9 (Mar 28, 2023)
+    Fixed some errors.
+Version 2.7.8 (Mar 27, 2023)
+    Bug fixes and improvements.
+Version 2.7.7 (Mar 20, 2023)
+    - we fixed some bugs with text editing and saving
+Version 2.7.6 (Mar 15, 2023)
+    - we fixed some bugs with text editing and saving
+Version 2.7.5 (Mar 13, 2023)
+    - we fixed some bugs with text editing and saving
+Version 2.7.4 (Mar 10, 2023)
+    Optimize transcription efficiency.
+
+    Add more languages.
+Version 2.7.3 (Mar 8, 2023)
+    - we fixed some bugs with text editing and saving
+Version 2.7.2 (Mar 2, 2023)
+    • Bug fixes and improvements
+Version 2.7.1 (Feb 28, 2023)
+    - we fixed some bugs with text editing and saving
+Version 2.7.0 (Feb 26, 2023)
+    - we fixed some bugs with text editing and saving
+Version 2.6.4 (Feb 2, 2023)
+    1.新增WIFI导入功能，局域网内导入音频更加方便
+
+    2.优化删除会员页冗余代码
+
+    3.提升文字转写语音在超长文本情况下 速度过慢的问题
+Version 2.6.3 (Jan 31, 2023)
+    1.修复高清录音机在删除录音后，标记没被删除
+
+    2.新增首月订购促销优惠
+
+    3.优化导入大视频文件过于缓慢的问题
+
+    4.优化会员页的特权图标显示不正确问题
+Version 2.6.1 (Jan 26, 2023)
+    1.新增新用户购买会员可首月优惠折扣的功能
+
+    2.修复flac格式的音频 分割或裁剪后时长不准确的问题
+
+    3.其他细节优化
+Version 2.5.9 (Jan 19, 2023)
+    1.优化录音双声道音色问题
+
+    2.优化录音片段流过快的问题
+
+    3.修复录音过程中 接受来电或微信语音消息等问题。
+
+    4.修复低端机 如iPhone 7 在录音时音频时长不变化的bug
+
+    5.修复文字配音 闽南话男女错乱的问题
+
+    6.修复启动图在部分机型显示位置错乱问题，已兼容所有iPhone机型
+
+    7.优化低端机访问音频详情时因频谱造成的200毫秒白屏卡顿问题
+Version 2.5.7 (Jan 17, 2023)
+    1.修复音频详情的音频波动图不流畅滚动问题
+
+    2.优化logo细致问题
+Version 2.5.4 (Jan 13, 2023)
+Version 2.5.4 (Jan 13, 2023)
+    1.优化录音双声道音色问题
+
+    2.优化录音片段流过快的问题
+
+    3.修复录音过程中 接受来电或微信语音消息等问题。
+
+    4.修复低端机 如iPhone 7 在录音时音频时长不变化的bug
+
+    5.修复文字配音 闽南话男女错乱的问题
+
+    6.修复启动图在部分机型显示位置错乱问题，已兼容所有iPhone机型
+
+    7.优化低端机访问音频详情时因频谱造成的200毫秒白屏卡顿问题
+
+Users may also like
+Select objects to compare
+讯飞听见-录音转文字实时语音翻译
+小鹿声文-录音转文字实时语音翻译
+LectMate: 实时录音转文字翻译专家
+译妙蛙翻译官-语音视频屏幕字幕实时同声翻译器
+Transcribe: speech to text
+iTourTranslator
+录音转文字
+Audio Transcribe
+我们的翻译官-实时语音翻译字幕在线会议工具
+有道云笔记-笔记扫描效率办公
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Other Utility & Productivity
+Other Utility & Productivity
+Other utility & productivity apps that do not fit other existing Utility & Productivity subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.7.2
+    Current release
+    Feb 19, 2024
+    3.6.9
+    Dec 8, 2023
+    3.6.7
+    Oct 9, 2023
+    3.6.6
+    Sep 22, 2023
+    3.6.5
+    Sep 11, 2023
+    3.6.3
+    Aug 29, 2023
+    3.6.0
+    Jul 26, 2023
+    3.5.2
+    Jul 11, 2023
+    3.2.1
+    May 18, 2023
+    3.2.0
+    May 10, 2023
+    3.1.1
+    Apr 27, 2023
+    3.1.0
+    Apr 24, 2023
+    2.8.2
+    Apr 10, 2023
+    2.8.0
+    Apr 3, 2023
+    2.7.9
+    Mar 28, 2023
+    2.7.8
+    Mar 27, 2023
+    2.7.7
+    Mar 20, 2023
+    2.7.6
+    Mar 15, 2023
+    2.7.5
+    Mar 13, 2023
+    2.7.4
+    Mar 10, 2023
+    2.7.3
+    Mar 8, 2023
+    2.7.2
+    Mar 2, 2023
+    2.7.1
+    Feb 28, 2023
+    2.7.0
+    Feb 26, 2023
+    2.6.4
+    Feb 2, 2023
+    2.6.3
+    Jan 31, 2023
+    2.6.1
+    Jan 26, 2023
+    2.5.9
+    Jan 19, 2023
+    2.5.7
+    Jan 17, 2023
+    2.5.4
+    Jan 13, 2023
+    2.5.4
+    Jan 13, 2023
+
+See More
+Top In-App Purchases
+
+    Speech-to-Text™ - Monthly
+    $8.99
+    Speech-to-Text™ - Quarter
+    $24.99
+    Speech-to-Text™ - 12 months
+    $39.99
+    Live Speech-to-Text™ - Forever
+    $59.99
+    Speech-to-Text™ - week
+    $3.99
+    Live Speech-to-Text™ - Forever
+    $49.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jan 20, 2023
+
+Worldwide Release Date
+    Jan 20, 2023
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    3.7.2
+
+Size
+    79.29 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    继承 曾
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.zhuziluyin.app
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1659963973
+Unified App ID: 1000800000160889
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Transcription - AI Dictation | data.ai

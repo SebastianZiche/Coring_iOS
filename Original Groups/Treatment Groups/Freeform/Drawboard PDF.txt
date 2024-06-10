@@ -1,0 +1,687 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Drawboard PDF
+Drawboard Pty LtdProductivity (Applications)Free
+Alerts
+
+    Drawboard Pty Ltd
+
+    Drawboard PDF
+    Drawboard PDF
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Drawboard PDF
+Productivity (Applications)
+Free
+App Description
+Powerful PDF tools at your fingertips. The latest PDF technology and software for a better experience. With an intuitive UI designed for delight – there’s a better way to PDF!
+
+Do your best work with Drawboard.
+
+- Dynamic PDF tools that feel good to use
+- Multi-platform access and storage. Where you are, your work is.
+- Paperless. A way of working for a sustainable future
+
+TOOLS FOR EVERY JOB
+Fast, responsive, and accurate markup tools. Draw with best-in-class ink for flawless Apple Pencil hand-feel and finally replace pen and paper.
+
+CROSS-PLATFORM ACCESS ON ANY DEVICE
+Upload your annotated PDFs to the cloud and mark up with others in real time with instant sync. Go Pro in-app for additional storage capacity.
+
+WORK YOUR WAY
+Customize your workspace by docking your favorite tools and build a toolbar that works for you!
+
+MORE
+- Text review markup - freehand highlighter, text highlighter, underline, strikeout, squiggly on PDF.
+- Insert text and shapes - cloud tool, rectangle, ellipse, line, arrow, polygon and polyline on PDF.
+- Insert images and camera photos onto PDFs.
+- Create blank PDFs or from an image.
+- Write, annotate, ink and draw on PDFs.
+- Customize and edit annotation colors, stroke widths, and opacities.
+- Create new blank PDF documents of different size, color, orientation and page count.
+- Insert, rotate and delete PDF pages.
+- Open, read, mark up and save large and complex PDF documents.
+Ratings
+Displayed Avg Ratings
+4.74
+Total Displayed Ratings
+35
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.0.1 (Feb 21, 2024)
+    Bug Fixes
+
+    * Fixed alignment issues that could cause some annotations to be misplaced or not appear.
+    * Fixed a bug where changes outside the app might not appear when reopening a file.
+    * Fixed problems when removing a file from the app while the file is open.
+    * Fixed pasting pages.
+    * Fixed a problem that could cause a cloud tool to create non-cloud rectangles.
+Version 2.0.0 (Feb 18, 2024)
+    This version offers a completely overhauled document save system, to improve data reliability and prevent loss in the event of save failures, and even app crashes.
+
+    * New autosave process in which changes are saved to a backup location within seconds.
+    * New "Save to..." dialogs if saving to the original file fails, now you can save your changes to a new location.
+    * Recovery dialogs when re-opening after a crash or save failure to restore unsaved changes.
+    * Completely rewritten how we operate with third-party storage like iCloud, OneDrive and Google Drive including adding Revert and Reload options so you can pick up changes that may have occurred on another device.
+
+    Plus many other technical improvements, including:
+
+    * Faster updates on the canvas, particularly for pages with many annotations
+    * Faster document loading including incremental loading for pages with thousands of annotations
+    * Read-only documents can now be opened in-place instead of requiring a copy to a readable location
+    * Fixed crashes that could occur when deleting annotations
+    * Fixed crashes that could occur when uploading, renaming or moving files
+    * Fixed deadlocks that could occur when other applications on the system attempted to read from a file that was open in Drawboard PDF
+Version 1.28.1 (Dec 22, 2023)
+    Improved performance when many pen annotations are selected
+Version 1.28.0 (Dec 17, 2023)
+    Features
+    * Canvas context menu, quickly perform page actions or insert new annotations
+
+    Bug Fixes
+    * Fixed issues when dragging annotations between pages
+    * Fixed issues when using drag and drop to add images onto the canvas
+    * Fixed issues affecting pasted annotations on rotated pages
+    * Fixed visual issues affecting note and audio note annotations on rotated pages
+    * Fixed a bug where a pasting a page could occur on a document where pages changes should be disabled
+Version 1.27.0 (Dec 4, 2023)
+    Features
+    * New export flow, including options to flatten all annotations and compress the document
+    * Added support for rotating pages in the left side panel
+
+    Bug Fixes
+    * Fixed a crash that could occur from re-ordering pages in the left side panel
+    * Fixed an issue where iCloud files could not be opened in-place
+    * Fixed an issue where annotations could appear on incorrect pages after a page re-order
+    * Fixed an issue where text on rotated pages could not be resized correctly
+Version 1.26.1 (Nov 24, 2023)
+    Bug Fixes:
+
+    * Fixed a bug where opening files could fail with the message "This file is not supported for builtin conversion."
+Version 1.26.0 (Nov 21, 2023)
+    Features
+    * Font, alignment and formatting options now available when creating Text and Callout annotations
+
+    Improvements
+    * Text annotations automatically resize to fit their contents and can scale to easily increase/decrease font size
+    * Text annotations can be created with a single tap, in addition to dragging out their bounds
+    * Improved messaging when a read-only file must be copied to a writeable location before opening
+
+    Bug Fixes
+    * Fixed an issue where editing rotated text would change the rotation and bounds during editing
+    * Fixed display of tool properties at the narrowest screen widths
+Version 1.25.0 (Nov 7, 2023)
+    Features
+    * New design for the tool editor, including a preview to display your adjustments and collapsible sections
+
+    Bug Fixes
+    * Fixes an issue that prevents changes made to cloud documents while offline from syncing when a network becomes available
+    * Fixes an issue that may cause in progress changes to a cloud document to be cancelled
+Version 1.24.0 (Oct 3, 2023)
+    Improvements:
+
+    * Image annotations can be created on the page with a single tap in addition to dragging out their bounds
+Version 1.23.0 (Sep 26, 2023)
+    Features
+    * Bottom bar redesign – keep navigation and viewing controls tidy at the bottom of the screen
+    * Ink to shape – create squares, ellipses, polygons with a press-and-hold at the end of pen lines
+    * Line patterns – add identifying patterns to lines and arrows to clarify complex plans and diagrams
+
+    Bug Fixes
+    * Fix a problem where zooming into text boxes could create blurry or mis-sized elements when editing
+    * Fixed callout text exporting incorrectly rotated on rotated pages
+
+    Improvements
+    * Combine the separate "Trash", "Remove" and "Delete" actions into a single "Delete" action that can take appropriate action based on how your files are stored, after warning you about what will happen
+    * Cursor keys now work to scroll the Canvas
+Version 1.22.0 (Sep 5, 2023)
+    Features
+    * Added support for creating hyperlinks on cloud documents
+    * Added support for creating links to a specific area on a page
+    * Added support for dragging and dropping pages between documents
+
+    Bug Fixes
+    * Fixed an issue where selecting and moving multiple annotations at a time could take minutes to process
+Version 1.21.0 (Aug 9, 2023)
+    Features
+    * Added Ruler for drawing straight lines and angles with pen tools and measuring calibrated distances
+    * Added "cloud" line style for polygons
+
+    Bug Fixes
+    * Fixed a crash that could occur when the selection had zero width
+Version 1.20.0 (Jul 26, 2023)
+    Features
+    * Added Email Upload feature for Pro users (accessed from the user profile menu at the top-left of the dashboard)
+Version 1.19.0 (Jul 10, 2023)
+    Features
+    * Added new "Calligraphy" pen for beautiful lettering with a hand written feel
+    * You can now set your profile image from the Account Details screen
+
+    Bug Fixes
+    * Opening tool properties while the page navigator is visible won't cause tool properties to fail on iPhone
+    * Fixed a flicker that could occur when dragging annotations around on the canvas.
+Version 1.18.2 (Jun 19, 2023)
+    Fixes
+    * Fixed the dismissal of the New Document sheet after creation
+    * Fixed the What's New badge count
+Version 1.18.0 (Jun 14, 2023)
+    Features
+    * Learn more about advanced annotation and PDF file capabilities in "Explore Pro" (accessed from the learning menu at the top-right of the canvas)
+
+    Fixes
+    * Fixes an issue when editing text annotations where the the left/right arrows would nudge the annotation instead of moving the cursor
+Version 1.17.0 (Jun 7, 2023)
+    Features
+    * New sort and filter options on your files list to better organize your PDFs
+    * Add tags to your PDFs in Drawboard Cloud to organize your PDFs across your devices.
+
+    Improvements
+    * Annotation snapping is now on by default
+Version 1.16.0 (May 17, 2023)
+    * Audio notes: record/attach sound files to your documents
+    * Cut/copy/page pages: edit document pages from the canvas pages panel
+    * New document from clipboard: easily create new documents from copied pages
+    * Snapping: perfectly align vertices, centers and edges between shapes (toggle from bottom-right canvas options)
+    * Z-order: bring to front/send to back
+    * Convert text markup: switch between selection, underline, highlight and more from the selection toolbar
+Version 1.14.0 (Mar 22, 2023)
+    Features
+
+    * Text selections and markups are now resizable
+
+    Bug Fixes
+
+    * Fixed text appearing at the wrong angle on rotated pages
+    * Fixed some issues with bookmark title editing
+    * Fixed some situations where the app could crash or misbehave in scenarios involving popovers and split screen
+    * Fixed Canvas navigation bar display issues on iPad mini
+Version 1.13.1 (Mar 2, 2023)
+    Bug Fixes
+    * Addressed an issue that could cause reopening local files to fail
+
+    Improvements
+    * Improved button layout and readability in some popover
+Version 1.13.0 (Mar 1, 2023)
+    Features:
+
+    - Added a new "Lite" subscription tier for cheaper access to our most popular tools and features
+    - Export files with compression to reduce file sizes
+    - Import from Microsoft 365 documents to PDF
+
+    Improvements:
+
+    - Fixed some issues causing slow performance on the Canvas for some users
+    - Files from third-party drives (e.g. OneDrive or Google Drive) are now imported, instead of opened in place, fixing unexpected loss of changes and version conflicts
+
+    Bug fixes:
+
+    - Fixed mirroring to Apple TV
+    - Fixed validation issues when editing bookmarks
+    - Receiving a link to a cloud file should work even if you're viewing another file
+Version 1.12.1 (Feb 17, 2023)
+    Features
+    * Keyboard shortcuts are now available on the Canvas including cut/copy/paste, undo/redo, delete and 1-9 to select tools
+    * Password protected PDFs can now be opened
+    * Custom line endings for line and arrow annotations
+Version 1.12.0 (Feb 14, 2023)
+    Features
+    * Keyboard shortcuts are now available on the Canvas including cut/copy/paste, undo/redo, delete and 1-9 to select tools
+    * Password protected PDFs can now be opened
+    * Custom line endings for line and arrow annotations
+Version 1.11.1 (Dec 16, 2022)
+    Bug fixes:
+
+    * Fixed a crash that could occur when reconnecting to the network
+    * Fixed a crash that could occur when creating ink annotations
+    * Fixed an issue where annotations made from other clients while you're offline might not appear without closing and reopening
+    * Fixed an issue where "Saving a local copy" of a cloud document might not download all annotations 
+Version 1.11.0 (Dec 13, 2022)
+    Features
+    * Selection boxes and highlights have an improved design with better usability on touch devices
+    * Search, sort and filter options are available in the Annotations List (available from the left-drawer on the Canvas)
+Version 1.10.0 (Nov 29, 2022)
+    Features:
+
+    * Invite links to Drawboard Cloud documents will now open and accept directly in the app instead of needing to accept via web
+
+    Improvements:
+
+    * The fullscreen toggle will now hide more controls for a clean reading or distraction free annotating experience (controls can be revealed again with a tap)
+    * Exporting a Drawboard Cloud file will ensure all images and measurement scales for all pages in the document are downloaded before exporting
+Version 1.9.0 (Nov 13, 2022)
+    Features:
+
+    * Annotations List: quickly see all your annotations from a list in the left drawer on the Canvas
+    * Support for form text fields, radio buttons and checkboxes
+
+    Improvements:
+
+    * Ongoing work to improve the performance of ink annotations
+
+    Bugs:
+
+    * Fixed an issue that could prevent annotations synchronizing with the cloud. To fully resolve this problem, some cloud files will automatically download again the next time they are opened.
+Version 1.8.1 (Oct 10, 2022)
+    Bug Fixes
+    * Fixed a problem where cloud annotations would fail to download after downloading a document.
+    * Fixed a problem when multiple documents were open in split screen, only the latest would save reliably.
+Version 1.8.0 (Oct 5, 2022)
+    Features
+
+    * Image annotations can now be created via drag-and-drop from other applications
+
+    Bug Fixes
+
+    * The z-order of annotations should be preserved correctly when saving to files
+    * Exporting cloud documents will download all cloud annotations before export
+    * Annotations deleted in cloud documents should not reappear when viewed in Safari or Preview
+
+    Improvements
+
+    * Very long lines drawn using ink tools should update faster
+    * Screens explaining Drawboard subscriptions have been updated to show more of the benefits
+Version 1.7.1 (Sep 15, 2022)
+    Bug fix:
+
+    * Fixed a problem where a copy of an annotation could be left behind after moving.
+Version 1.7.0 (Sep 14, 2022)
+    Features
+
+    * Night mode and Invert mode can now be used to customize document appearance on the Canvas
+    * Annotating with Apple Pencil or fingers can now be toggled from the Canvas
+
+    Bug Fixes
+
+    * Addressed some minor iOS 16 display issues
+    * Corrected some situations where images in cloud files could fail to load
+Version 1.6.0 (Aug 25, 2022)
+    Features
+
+    * Current page and position will be remembered for each document and restored on reopening
+    * Partial erase for ink annotations
+    * What's New and Support options available from the navigation bar on the Canvas
+
+    Bug fixes
+
+    * Fixed issue where cloud documents were incorrectly limited to 100 files
+
+    Improvements
+
+    * File-related actions available on the Canvas from the improved "Title" menu
+    * Smoother scrolling and faster loading for pages with lots of annotations
+    * Annotations can be dragged between pages
+Version 1.5.1 (Aug 9, 2022)
+    Bug Fix:
+
+    * Better display and handling of subscription plan types.
+Version 1.5.0 (Aug 1, 2022)
+    Features
+    * Added Note annotation tool
+    * Added Hyperlinks annotation tool and handling of links within the current document
+
+    Bug Fixes
+    * Tool properties popup should display correctly when you have large numbers of tools in your toolbar
+    * Fixed a bug that could cause some uploads to fail
+
+    Improvements
+    * Selecting an annotation when multiple annotations are very close together should be more precise
+    * Dashed and dotted linestyles are available on more annotation types
+    * Creating a document or annotation from an image can now use images from the camera or a file, in addition to images from your photo library.
+Version 1.4.0 (Jul 19, 2022)
+    Features
+    * New document backgrounds, including background colors, lined paper, graph paper, music staves, grids and dot patterns
+    * Signature tool for saving personal signatures and simplifying repeated data like name and date
+
+    Bug Fixes
+    * "Add new page" button should now work correctly on iPhones
+
+    Improvements
+    * Undo/redo should be more reliable on cloud documents
+Version 1.3.0 (Jun 28, 2022)
+    Features
+    * Measurement annotations including line length, polyline length, rectangular area and polygon area
+    * Callout annotations
+    * Dashed and dotted linestyles
+    * Laser pointer tool
+    * Enhanced Color Picker for detailed color selection
+    * Pen setting to enable or disable pressure sensitivity
+    Bug Fixes
+    * Fixed text box display on rotated pages
+    * Fixed some uncommon crashes on opening a document
+    Improvements
+    * Improved rendering of annotations when viewed in other apps
+Version 1.2.1 (May 16, 2022)
+    Bug Fixes
+
+    * Fixed a crash affecting some users when searching.
+
+    Improvements
+
+    * Better layout and controls for search and bookmarks in landscape on iPhones.
+Version 1.2.0 (May 12, 2022)
+    Added search and navigation capabilities to the left drawer on the canvas, including:
+
+    * Full-text document search
+    * Bookmarks (also known as Outline)
+    * Resizable thumbnail navigator on iPad
+
+    A new "Copy to Drawboard" action can now be enabled in system Share sheets to ensure files are copied to the Drawboard folder or Cloud when opening.
+Version 1.1.1 (Apr 6, 2022)
+    * Fixed a problem preventing use of the "Select color" and "Replace tool" panels
+    * Fixed a crash when some annotation properties cannot not be read
+Version 1.1.0 (Apr 4, 2022)
+    Features
+
+    * Support for upcoming Drawboard Cloud changes
+
+    Bug Fixes
+
+    * Fixed a bug where minimum zoom might not allow viewing large page sizes
+    * Fixed a bug where cloud annotations were exported as rectangles
+Version 1.0.5 (Mar 17, 2022)
+    Bug Fixes
+    * Fixes a bug where tools could be lost on logout
+    * Fixes document opening issues on macOS
+
+    Improvements
+    * Updates to files on shared drives should be detected without needing to restart the app
+Version 1.0.4 (Feb 22, 2022)
+    Improvements
+    - Increased reliability during open-from and save-to operations on third-party drives, including OneDrive
+    - Enhanced autosave functionality for faster and more frequent saves
+    - Added Reveal in Files action in context menu for local files
+    - Improved handling of pen annotations on imported documents
+
+    Bug fixes
+    - Various bug fixes including exported text box annotations, and rectangles and polygons with transparent fills.
+    - Resolved various annotation and inking issues
+    - Other minor bug fixes and enhancements
+Version 1.0.3 (Jan 23, 2022)
+    Features
+    - Users can now delete their account from settings
+    - Various bug fixes
+
+    Bug Fixes
+    - Fixed an issue where the user couldn't view their available cloud storage capacity
+    - Fixed an issue where the user could not upload documents shortly after deleting a document
+    - Fixed an issue where text in a text box would be removed upon font size change
+    Fixed an issue where text box reverts to original state upon edit on a cloud document
+    - Fixed page layout issues on iPhone
+    - Fixed menu layout issues on iPad Mini
+    - Fixed an issue where annotations would flicker
+    - Redo not working for some text annotations in some cases
+    - Measurement calibrations are now updated instantly when changed in Windows or Web.
+
+    Improvements
+    - 'Open in Drawboard PDF' action from other apps now take the user directly to the new document's canvas.
+    - Improved the order in which edits are applied to annotations when syncing with the cloud.
+    - Polyline annotations that are made on Windows and Web will now show side lengths on iOS
+    - The new document name field now has a default name
+    - Improved reliability and accuracy of uploads
+Version 1.0.2 (Dec 19, 2021)
+    Features
+    * Added support for double tap controls on Apple Pencil 2nd Gen
+
+    Bug Fixes
+    * Fixed a crash bug when loading documents with large numbers of annotations.
+    * Fixed an issue affecting saving image annotations to local files.
+    * Fixes for pen annotations made in other apps.
+Version 1.0 (Dec 6, 2021)
+
+Users may also like
+Select objects to compare
+Markup – Highlight & Annotate
+MarginNote 3
+Bluebeam Revu for iPad
+Bluebeam Cloud
+Highlights: PDF Reader & Notes
+Flexcil Note & Good PDF Reader
+UPDF - AI-Powered PDF Editor
+LiquidText
+PDF Viewer - Annotation Expert
+Bluebeam Vu for iPad
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.0.1
+    Current release
+    Feb 21, 2024
+    2.0.0
+    Feb 18, 2024
+    1.28.1
+    Dec 22, 2023
+    1.28.0
+    Dec 17, 2023
+    1.27.0
+    Dec 4, 2023
+    1.26.1
+    Nov 24, 2023
+    1.26.0
+    Nov 21, 2023
+    1.25.0
+    Nov 7, 2023
+    1.24.0
+    Oct 3, 2023
+    1.23.0
+    Sep 26, 2023
+    1.22.0
+    Sep 5, 2023
+    1.21.0
+    Aug 9, 2023
+    1.20.0
+    Jul 26, 2023
+    1.19.0
+    Jul 10, 2023
+    1.18.2
+    Jun 19, 2023
+    1.18.0
+    Jun 14, 2023
+    1.17.0
+    Jun 7, 2023
+    1.16.0
+    May 17, 2023
+    1.14.0
+    Mar 22, 2023
+    1.13.1
+    Mar 2, 2023
+    1.13.0
+    Mar 1, 2023
+    1.12.1
+    Feb 17, 2023
+    1.12.0
+    Feb 14, 2023
+    1.11.1
+    Dec 16, 2022
+    1.11.0
+    Dec 13, 2022
+    1.10.0
+    Nov 29, 2022
+    1.9.0
+    Nov 13, 2022
+    1.8.1
+    Oct 10, 2022
+    1.8.0
+    Oct 5, 2022
+    1.7.1
+    Sep 15, 2022
+    1.7.0
+    Sep 14, 2022
+    1.6.0
+    Aug 25, 2022
+    1.5.1
+    Aug 9, 2022
+    1.5.0
+    Aug 1, 2022
+    1.4.0
+    Jul 19, 2022
+    1.3.0
+    Jun 28, 2022
+    1.2.1
+    May 16, 2022
+    1.2.0
+    May 12, 2022
+    1.1.1
+    Apr 6, 2022
+    1.1.0
+    Apr 4, 2022
+    1.0.5
+    Mar 17, 2022
+    1.0.4
+    Feb 22, 2022
+    1.0.3
+    Jan 23, 2022
+    1.0.2
+    Dec 19, 2021
+    1.0
+    Dec 6, 2021
+
+See More
+Top In-App Purchases
+
+    Pro Plus
+    $8.99
+    Pro Plus
+    $79.99
+    Pro Lite
+    $38.99
+    Pro Lite
+    $4.99
+    Pro Unlimited
+    $139.99
+    Pro Unlimited
+    $15.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 6, 2021
+
+Worldwide Release Date
+    Dec 6, 2021
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    2.0.1
+
+Size
+    115.66 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Inglés
+
+Seller
+    Drawboard Pty Ltd
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 15.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    com.drawboard.drawboardpdf
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1086503728
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Drawboard PDF | data.ai

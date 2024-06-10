@@ -1,0 +1,17 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.14.14,2022-12-04,fix a crash when using voice translation feature on iOS 16,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.13.81,2022-02-10,iOS 15 full compatibility Fix translation API issue,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.13.12,2019-12-30,fix some bugs on iOS13 update screenshots,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.12.97,2019-10-21,iOS13 support Offline translator is now available fix some deprecated APIs fix some UI bugs,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.12.53,2019-02-16,bugfix: translate long sentence did not work auto height search box better for long text fix a bug related to ads,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.11.99,2018-07-10,support multiple selections fix a lot of deprecated API stability improvements and bug fixes,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.11.62,2018-02-05,bugfixes for iPhone X,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.11.61,2018-02-01,fix layout for iPhone X,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.11.47,2017-10-08,remove annoying popup when translating,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.11.45,2017-09-30,iOS 11 optimization,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.11.05,2017-03-27,bug fixes,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.9.51,2016-06-23,bugfixes improvements,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.9.10,2016-02-18,New pretty UI Offline dictionary added Bugfixes,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.7.8,2015-10-23,Bugfix: Translator is not available iPad multitasking support Improve UI,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.3.0,2015-06-09,Bugfixes History Loading indicators Easier to select text,0,0,0,0,0,0,0,0
+989676330,0,Persian Translator Offline,Reference,2015-05-06,2015-05-05,87.85,3,0,0,1,12.0.4,2015-05-05,,0,0,0,0,0,0,0,0

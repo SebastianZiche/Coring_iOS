@@ -1,0 +1,12 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,2.0.5,2023-05-21,Added possibility to share a drawing.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,2.0.4,2023-04-22,Updated cards design on Boards screen. Increased maximum zoom scale for the canvas.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,2.0.3,2023-04-14,Some bug fixes for the Adding Space indicator.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,2.0.2,2023-04-09,Now additional space isn t added automatically you have to drag an indicator until it becomes green.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,2.0.1,2020-11-17,Bug fixes.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,2.0.0,2020-11-15,Add different segments for boards. Further drawing zoom in out. Multiple windows support. Thumbnails on Boards screen. Content menus for boards. Bug fixes.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,1.2.2,2020-06-02,Search improvements for Desks.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,1.2.1,2020-05-22,UI improvements when in dark mode.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,1.2.0,2020-05-12,Bug fixes and ui improvements.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,1.1.0,2020-05-02,UI improvements.
+1481601790,0,Infinite Board,Productivity,2020-04-18,2020-04-18,0.97,1,0,0,0,1.0,2020-04-18,

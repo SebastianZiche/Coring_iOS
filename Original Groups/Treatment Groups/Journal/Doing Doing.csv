@@ -1,0 +1,20 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,3.0.0,2021-09-24,add iPad Version solve widget issue in iOS 15
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,2.1.1,2021-09-07,update internal info
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,2.0.1,2021-05-12,Enable adjusting font size Enable changing languages Korean English
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,2.0.0,2021-05-01,English is added for global users Writing diary is available improved UX add a new font add ATT
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.8.8,2021-01-20,Fixed some bugs on the notification page
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.8.7,2021-01-17,When a schedule is postponed a function has been added to select the date to be postponed.
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.8.6,2021-01-07,Fixed some bugs related to creation page
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.8.5,2020-12-22,Added 4 types of fonts Improved widget background UI in dark mode Fixed an issue where both sides were cut off on the date selection calendar screen
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.8.4,2020-12-14,Modification of widget UX modification so that tasks with entered status are also visible in the list When adding a to do change the date selection to calendar format.
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.8.3,2020-12-05,Bug fixes
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.8.2,2020-12-01,Bug fixes
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.8.1,2020-11-28,Change the location of Today s Mood and add color! The highlighter color of the widget changes depending on your mood of the day Fixed errors related to font pages
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.8.0,2020-11-24,iOS 14 home screen widget support! Change overall view sorting by month
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.7.0,2020-11-05,Added font customization function Improved color blur phenomenon when capturing
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.6.7,2020-10-05,Supports ios14 push notification function Fix some bugs
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.6.4,2020-10-02,Improved user experience
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.6.3,2020-10-01,Fixed bug related to reminder notification function
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.6.2,2020-09-30,Added push notification function for reminders added Admob SDK to serve ads minor design improvements cell size added updates to screenshot images and improved readability.
+1533035570,0,Doing Doing,Lifestyle,2020-09-26,2020-09-26,58.16,2,0,0,0,1.0,2020-09-26,

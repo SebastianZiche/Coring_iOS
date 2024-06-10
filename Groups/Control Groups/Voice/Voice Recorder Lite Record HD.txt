@@ -1,0 +1,385 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Voice Recorder Lite: Record HD
+LiveBirdBusiness (Applications)Free
+Alerts
+
+Voice Recorder by LiveBird
+Voice Recorder Lite: Record HD
+Voice Recorder Lite: Record HD
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Voice Recorder Lite: Record HD
+HD Audio Recording & Playback
+Business (Applications)
+Free
+App Description
+Live sound with its true feelings. Enjoy recording, playback and audio editing with Voice Recorder. We have fine tuned it for your day-to-day activities. Attending something important and want to record it
+for later playback, Voice Recorder will allow you to record your meetings, lectures, and other events with codec noise reduction technology. You can record anything within 10-100 meters around you.
+
+Edit the recording as per your need and save it for later playback. Voice Recorder has multiple playback options helping you decide how you want to hear your recording. Developed specially for Apple, it plays just as excellent with Apple EarPods as it plays with our old earphones.
+
+You can auto upload and even share the recording on cloud (Dropbox) in seconds.
+
+Voice Recorder is an easy to use and handy app to record the meeting, lecture, music and many more. The interface is designed to make it quick. With single tap you can record and share the recordings.
+
+Enjoy sound, record, edit, play and listen!
+
+List of Features
+
+# Audio Recorder
+- Quality options: (Low:8KHz, Medium:22.05KHz, High:44.1KHz)
+- Format options: (WAV, CAF, M4A)
+- External input device support : Bluetooth Mic, Other External Mic (Tested with Tascam mic)
+- Background recording support
+
+(New)
+- Continue recording into existing recordings.
+- Call Interruption handling - Recording will continue after a call or other interruption.
+
+# Audio Player
+- Quick audio player
+- Playback controls (Fast backward, Fast backward)
+- External output device support (Bluetooth and External speaker devices)
+- Background audio playing
+
+# Audio Trimming
+- Select a part of recording and trim it.
+
+# Sharing
+- Email recordings
+- Dropbox sharing (Auto upload recording support)
+- Upload to iCloud Drive
+- Import recordings to computer with iTunes file sharing
+- Airdrop sharing with iOS and Mac devices.
+
+# Universal App
+- Support for both iPhone and iPad devices.
+
+# AVAILABLE IN 11 DIFFERENT LANGUAGE
+English, Español, Français, Deutsch, Português (Br.),Português, Italiano, 中文 (Simplified), Русский, 日本語, 한국어
+Ratings
+Displayed Avg Ratings
+4.53
+Total Displayed Ratings
+275k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.1 (Feb 12, 2024)
+    We're excited to announce a fresh update for Voice Recorder, now fully compatible with iOS 17! Our team has been hard at work making sure that your experience is smoother and more reliable. Here’s what you can expect in the latest version:
+
+    iOS 17 Compatibility: We’ve fine-tuned Voice Recorder to ensure seamless performance on the latest iOS version. Enjoy all the new features and enhancements of iOS 17 without any hiccups.
+    Bug Fixes: We’ve ironed out those pesky bugs that might have been interrupting your recording experience. Your sessions should now be more stable than ever.
+    Performance Improvements: We’ve made under-the-hood improvements to make the app faster and more responsive. Record, playback, and edit without any lag.
+
+    Thank you for choosing Voice Recorder for your audio recording needs. We’re constantly striving to make our app better, and your feedback plays a crucial part in that process. If you’ve enjoyed using the app, consider leaving us a review in the App Store. It helps us a lot, and we really appreciate it.
+
+    Stay tuned for more updates, and happy recording!
+Version 8.0 (Dec 3, 2023)
+    - Compatible with iOS 17.
+    - Bug fixes and Improvements.
+
+    Thank you for using Voice Recorder! If you have a moment to leave a review in the App Store, we would really appreciate it.
+Version 7.0.1 (Jan 31, 2023)
+    - Audio Converter Improvements.
+    - Other Bug fixes and Improvements.
+
+    Thank you for using Voice Recorder! If you have a moment to leave a review in the App Store, we would really appreciate it.
+Version 7.0 (Jan 25, 2023)
+    - Audio Converter Improvements.
+    - Other Bug fixes and Improvements.
+
+    Thank you for using Voice Recorder! If you have a moment to leave a review in the App Store, we would really appreciate it.
+Version 6.1 (Sep 8, 2021)
+    Hi friends!
+
+    We have updated Voice Recorder for better performances to you. In today's update, we have taken up some edgy part for smooth flexibility with improvisations. We have also made it full compatible with latest iOS. We did localization improvements for 中国人, française, Deutsch, italiana, 日本, 한국인, português, русский, española.
+Version 6.0 (Aug 11, 2021)
+    Hi friends!
+
+    We have updated Voice Recorder for better performances to you. In today's update, we have taken up some edgy part for smooth flexibility with improvisations. We have also made it full compatible with latest iOS.
+
+    We are sure y'are loving Voice Recorder. Please do Rate us! It's always an inspiration for us to have your feedbacks, and motivate us to make it even more better and perfect!
+
+    If you have, drop a question at support@livebirdtechnologies.com
+Version 5.0 (Jan 30, 2020)
+    - Dropbox API update.
+    - Support of External Bluetooth Audio play.
+    - Compatibility for new iPhones and iPads.
+    - Bug fixes and improvements.
+Version 4.0.1 (May 28, 2019)
+    - Bug fixes for Car Bluetooth Connectivity.
+    - Dropbox API update.
+    - Support of External Bluetooth Audio play.
+    - Compatibility for new iPhones and iPads.
+    - Bug fixes and improvements.
+Version 4.0 (May 21, 2019)
+    - Bug fixes for Car Bluetooth Connectivity.
+    - Dropbox API update.
+    - Support of External Bluetooth Audio play.
+    - Compatibility for new iPhones and iPads.
+    - Bug fixes and improvements.
+Version 3.5.1 (Sep 4, 2017)
+    - Minor Bug fixes and Improvements.
+Version 3.5 (May 25, 2017)
+    - Improvements and bug fixes.
+
+    Thank you for using Voice Recorder! If you have a moment to leave a review in the App Store we would really appreciate it.
+Version 3.4 (Mar 31, 2017)
+    - Compatible with iOS 10.3.
+    - Improvements.
+
+    Thank you for using Voice Recorder! If you have a moment to leave a review in the App Store we would really appreciate it.
+Version 3.3.1 (Feb 15, 2017)
+    - Improvements.
+
+    Thank you for using Voice Recorder! If you have a moment to leave a review in the App Store we would really appreciate it.
+Version 3.3 (Feb 5, 2017)
+    - Improvements.
+
+    Thank you for using Voice Recorder! If you have a moment to leave a review in the App Store we would really appreciate it.
+Version 3.2 (Jan 27, 2017)
+    - Automatically transfer files from lite app to pro app.
+    - Bug fixes and Improvements.
+    - UI Enhancement.
+
+    Thank you for using Voice Recorder! If you have a moment to leave a review in the App Store we would really appreciate it.
+Version 3.1 (Oct 4, 2016)
+    Thanks to everyone for your support. This update brings new features and Improvements.
+
+    + Audio Converter (convert to mp3 and m4a).
+    + Bug fixes and Improvements.
+    + UI Enhancements
+    + Compatible with iOS 10.
+
+    + AVAILABLE IN 11 DIFFERENT LANGUAGE
+    English, Español, Français, Deutsch, Português (Br.),Português, Italiano, 中文 (Simplified), Русский, 日本語, 한국어
+
+    If you have a moment, please leave us a review on iTunes to encourage others to install Voice Recorder.
+Version 3.0 (Oct 3, 2016)
+    Thanks to everyone for your support. This update brings new features and Improvements.
+
+    + Audio Converter (convert to mp3 and m4a).
+    + Bug fixes and Improvements.
+    + UI Enhancements
+    + Compatible with iOS 10.
+
+    + AVAILABLE IN 11 DIFFERENT LANGUAGE
+    English, Español, Français, Deutsch, Português (Br.),Português, Italiano, 中文 (Simplified), Русский, 日本語, 한국어
+
+    If you have a moment, please leave us a review on iTunes to encourage others to install Voice Recorder.
+Version 2.1 (Aug 16, 2016)
+    Thanks to everyone for your support.
+
+    + Bug fixes and major improvements.
+    + 3D touch support (Start Recording).
+    + Easily file sharing between lite version to pro version.
+Version 2.0.1 (Dec 22, 2015)
+    -iOS 9 compatibility.
+    - Bug fixes and performance improvements.
+Version 1.0.0 (Jan 14, 2015)
+
+Users may also like
+Select objects to compare
+Phone Call Recorder Free of Ad
+Call Recorder Lite for iPhone
+Easy Voice Recorder
+TapeACall: Call Recorder
+Call Recorder - Record Voice
+Phone Call Recorder-Recording
+Audio Recorder & Voice Memos
+Call Recorder for Me ·
+Rev Call Recorder
+Call Recorder App ◎ GETCALL
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    8.1
+    Current release
+    Feb 12, 2024
+    8.0
+    Dec 3, 2023
+    7.0.1
+    Jan 31, 2023
+    7.0
+    Jan 25, 2023
+    6.1
+    Sep 8, 2021
+    6.0
+    Aug 11, 2021
+    5.0
+    Jan 30, 2020
+    4.0.1
+    May 28, 2019
+    4.0
+    May 21, 2019
+    3.5.1
+    Sep 4, 2017
+    3.5
+    May 25, 2017
+    3.4
+    Mar 31, 2017
+    3.3.1
+    Feb 15, 2017
+    3.3
+    Feb 5, 2017
+    3.2
+    Jan 27, 2017
+    3.1
+    Oct 4, 2016
+    3.0
+    Oct 3, 2016
+    2.1
+    Aug 16, 2016
+    2.0.1
+    Dec 22, 2015
+    1.0.0
+    Jan 14, 2015
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Jan 14, 2015
+
+Worldwide Release Date
+    Jan 14, 2015
+
+Last Updated Time
+    Mar 3, 2024
+
+Version
+    8.1
+
+Size
+    35.69 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish
+
+Seller
+    LiveBird Technologies Private Limited
+
+Company HQ
+    India
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.livebird.VoiceRecorderLite
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 955000203
+Unified App ID: 1000600000609271
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Voice Recorder Lite: Record HD | data.ai

@@ -1,0 +1,28 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,2.0.8,2023-06-27,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,2.0.7,2023-06-21,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,2.0.6,2023-03-08,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,2.0.5,2022-12-30,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,2.0.4,2022-01-07,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,2.0.3,2021-07-05,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,2.0.2,2021-01-28,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,2.0.1,2021-01-12,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,2.0.0,2021-01-11,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.9.9,2020-09-16,Bug fixes and performance improvement,0,0,0,0,0,0,1,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.9.8,2020-08-25,Bug fixes and performance improvement,0,0,0,0,0,0,1,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.9.7,2020-07-21,Bug fixes and performance improvement,0,0,0,0,1,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.9.6,2020-02-08,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.9.5,2020-01-18,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.9.4,2019-07-25,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.9.3,2019-06-22,Bug fixes and performance improvement. Fixed UI bug when rotating iPad. Added haptic function when pressing Record button in Apple Watch.,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.9.2,2019-06-12,Fixed recording button bug when split screen on iPad.,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.9,2019-05-25,Bug fixes and performance improvement Fix app crash bug when mono recording.,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.8,2019-04-19,Bug fixes and performance improvement,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.7,2019-04-06,Change application icon to previous.,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.6,2019-03-28,Change application icon. App optimization.,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.5,2019-01-31,Fixed a bug in playback control. Fixed a playback bug when moving to the playing screen in the file list. Support for iPad multitasking. Change to translation of wrong language. Watch app Added file name change function. Minor bugfixes.,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.4,2019-01-09,Fixed file transfer error in other apps. Open from the Files app.,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.3,2019-01-05,Added direct recording from Apple Watch. Minor bug fixes.,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.2,2018-12-18,Minor bug fixes. App icon change,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.1,2018-11-16,Bug fixes,0,0,0,0,0,0,0,0
+1344740222,1000800000027365,AVR X Voice Recorder,Utilities,2018-11-10,2018-11-09,36.89,22,1,0,0,1.0,2018-11-09,,0,0,0,0,0,0,0,0

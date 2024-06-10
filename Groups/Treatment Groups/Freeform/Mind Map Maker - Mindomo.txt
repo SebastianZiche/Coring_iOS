@@ -1,0 +1,996 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Mind Map Maker - Mindomo
+Expert Software Applications SrlProductivity (Applications)Free
+Alerts
+
+Mind Map & Concept Map Maker - Mindomo
+Mind Map Maker - Mindomo
+Mind Map Maker - Mindomo
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Mind Map Maker - Mindomo
+Mind Map and Concept Map maker
+Productivity (Applications)
+Free
+App Description
+Mindomo is a seamlessly designed mind mapping app for Mac and iOS.
+
+
+Unleash the power of your ideas with mind mapping and concept mapping.
+
+Capture your thoughts directly on mind maps, turn them into presentations on the fly, and share them with others. Synchronize your maps to the cloud, from any device.
+
+The Mindomo platform creates a powerful environment where you can easily collaborate with others by sharing ideas and working together on mind maps in real time. No matter where you go, you can creatively bring your ideas to life.
+
+Our Highlighted Features are:
+
+Catchy
+
+- Interactive presentations straight from your mind maps
+- Unlimited maps and folders which can be edited, shared and exported
+
+Mobile
+
+- Offline work and sync
+- Seamless synchronization
+- Real time collaboration
+
+Fun
+
+- Multiple layouts (circular, concept, org chart)
+- Map customization by adding icons, colors, styles and map themes
+- Image embedding on map topics
+- Visualization of notes, links or tasks on topics
+- Full map history, undo and redo functions
+
+* Terms of Use: https://www.mindomo.com/terms-of-use.htm
+* Privacy Policy: https://www.mindomo.com/privacy.htm
+Ratings
+Displayed Avg Ratings
+4.66
+Total Displayed Ratings
+3.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.8.0 (Feb 6, 2024)
+    - Bug fixing
+Version 5.7.8 (Jan 27, 2024)
+    - Bugfixing: issue related to errors encountered when attempting to attach a file
+Version 5.7.7 (Jan 23, 2024)
+    - Added functionality: Mindomo AI for generating AI mind maps (brainstorming, pros and cons, swot analysis) from scratch using text inputs
+Version 5.7.5 (Jan 13, 2024)
+    - Bug fixes and performance improvements
+Version 5.7.2 (Dec 19, 2023)
+    - Bugfixing
+Version 5.7.1 (Dec 16, 2023)
+    - Bugfixing: rendering issues when swiping up on the context menu
+Version 5.7.0 (Dec 14, 2023)
+    - Bugfixing: issue related to unsaved notes
+Version 5.6.9 (Dec 10, 2023)
+    - Added functionality: Step into the future of content creation with cutting-edge AI, enhancing your creative journey like never before.
+Version 5.6.7 (Nov 22, 2023)
+    - Added functionality: customizable image alignment (top, bottom, left, right) and rounded images within topics
+Version 5.6.5 (Nov 10, 2023)
+    - Bug fixing
+Version 5.6.4 (Nov 7, 2023)
+    - Bug fixing
+Version 5.6.3 (Nov 2, 2023)
+    - Added functionality: Link to a Diagram
+Version 5.6.2 (Oct 26, 2023)
+    - Added functionality: Cloud notifications - tasks & assignments, diagram permission requests, and shared diagrams
+Version 5.6.1 (Oct 4, 2023)
+    - Bug fixing: issue related to brush size changing in Quickdraw
+
+Version 5.6.0 (Sep 30, 2023)
+    - Added new templates in Italian
+Version 5.5.9 (Sep 13, 2023)
+    Added functionality: Fishbone (Ishikawa) diagram
+Version 5.5.8 (Sep 6, 2023)
+    Bug fixing: issue related to diagrams disappearing after being moved into a folder
+Version 5.5.5 (Aug 22, 2023)
+    - Redesign search results appearance
+Version 5.5.4 (Aug 15, 2023)
+    Improved app performances regarding saving diagram data
+Version 5.5.3 (Aug 2, 2023)
+    - Improvement to app startup time
+Version 5.5.2 (Jul 26, 2023)
+    - Redesigned Dashboard appearance 
+Version 5.5.0 (Jul 21, 2023)
+    - Bug fixing: issue related to undo/redo changes made by moving topics
+
+    - Bug fixing: issue related to opening diagrams that contain summaries
+Version 5.4.9 (Jul 7, 2023)
+    - Bug fixing
+Version 5.4.8 (Jun 30, 2023)
+    - Bug fixing
+Version 5.4.7 (Jun 9, 2023)
+    - Bug fixing
+Version 5.4.6 (Jun 7, 2023)
+    - Bug fixing
+Version 5.4.5 (May 28, 2023)
+    - Updated translations for Swedish
+Version 5.4.4 (May 26, 2023)
+    - Redesigned user interface
+Version 5.4.1 (May 9, 2023)
+    Updated translations for Danish
+Version 5.4.0 (May 4, 2023)
+    Bug fix: issue related to creating Organigrams, Concept Maps and Mind Map Templates
+Version 5.3.9 (Apr 26, 2023)
+
+
+    Updated translations for Portuguese
+Version 5.3.8 (Apr 22, 2023)
+    - Added new connection ending: Half Arrow Line
+
+    - Bug fix: issue related to auto-repositioning of Zigzag connection
+
+    - Updated translations for Spanish
+Version 5.3.7 (Apr 12, 2023)
+    - Added new relationship types: Zigzag, Single Angle
+
+    - Added new concept map connection types: Zigzag, Single Angle
+
+    - Updated drawing for relationships
+Version 5.3.4 (Apr 2, 2023)
+    Bugfixing - issue related to freezing large mind maps when zoomed-in
+Version 5.3.3 (Mar 19, 2023)
+    - New layout mechanism that allows for more accurate topic positioning
+
+    - Improved drawing for boundaries and summaries
+
+    - Added option for multiple timelines on the same diagram
+
+    - Implemented read only feature
+Version 5.3.1 (Mar 9, 2023)
+    - Bug fixing
+Version 5.3.0 (Feb 24, 2023)
+    Added functionality: multiple hyperlinks on a topic
+
+    Added functionality: link to topic 
+Version 5.2.9 (Feb 9, 2023)
+    - Updated the application framework to improve its performance.
+Version 5.2.8 (Jan 31, 2023)
+    - Bug fixing
+Version 5.2.6 (Jan 25, 2023)
+    - Bug fixing
+Version 5.2.5 (Jan 20, 2023)
+    - Added functionality: Speech-to-text feature
+Version 5.2.4 (Jan 13, 2023)
+    - Bug fixing
+Version 5.2.3 (Jan 5, 2023)
+
+
+    Added functionality: extract text from an image
+Version 5.2.2 (Dec 28, 2022)
+    - Bug fixing
+Version 5.2.2 (Dec 28, 2022)
+    - Bug fixing
+Version 5.2.1 (Dec 22, 2022)
+    - Added functionality: Quick Recap notifications
+Version 5.2.0 (Nov 28, 2022)
+    Added translations for Portuguese, Russian and Spanish.
+Version 5.1.9 (Nov 15, 2022)
+    - Bug fix: issue related to resource syncing
+Version 5.1.8 (Nov 12, 2022)
+    - Added functionality: create a custom presentation using the presenter editor
+Version 5.1.7 (Nov 11, 2022)
+    - Updated diagram templates for all categories
+
+    - Bugfixing: issue related to exporting map as pdf
+
+    - Improved export png quality
+
+    - Bugfixing: issue related to empty topic title with icons not centered well.
+Version 5.1.5 (Oct 29, 2022)
+    Bugfixing: issue related to inheriting text style from multi-color themes
+
+    Bugfixing: issue related to editing a relationship label
+Version 5.1.4 (Oct 19, 2022)
+    - Added functionality: Presentation player
+Version 5.1.2 (Oct 4, 2022)
+    - Bug fixing: issue related to the erroneous sizing and positioning of topics on certain templates.
+Version 5.1.1 (Sep 30, 2022)
+    - Bug fixing
+Version 5.0.9 (Sep 24, 2022)
+    - Added functionality: search inside mind maps
+Version 5.0.8 (Sep 13, 2022)
+    - Bug fixing: issue related to preview of mind maps saved on device.
+Version 5.0.7 (Sep 10, 2022)
+    - Added functionality: common searches suggestions when taping the search bar
+Version 5.0.6 (Sep 8, 2022)
+    - Added functionality: support fixed topic size feature.
+Version 5.0.3 (Sep 5, 2022)
+    - Added functionality: search in templates.
+Version 5.0.2 (Aug 24, 2022)
+    - Added functionality: search in templates.
+Version 5.0.1 (Aug 20, 2022)
+    - Improvement to the loading time of Cloud section.
+
+    - Added functionality: search through mind maps on Cloud section.
+Version 4.9.9 (Aug 13, 2022)
+    - Bugfix: issue related to app crashes due to the device Norwegian language
+Version 4.9.8 (Aug 12, 2022)
+    - Updated the application framework to improve its performance
+Version 4.9.7 (Aug 6, 2022)
+    - Bugfix: issue related to moving files on local device.
+    - Improvement for selection of images in Insert Image
+Version 4.9.6 (Aug 3, 2022)
+    - Added Summary functionality, available on single and multiple topics.
+
+    - Added new topic shapes and connection endings
+Version 4.9.5 (Jul 30, 2022)
+    - Added Summary functionality, available on single and multiple topics.
+
+    - Added new topic shapes and connection endings
+Version 4.9.3 (Jul 25, 2022)
+    - Added functionality: dashboard search for mind maps saved on the device
+Version 4.9.0 (Jul 7, 2022)
+    - Bug fix: issue related to changing the connection style when applying a topic style
+
+    - Bug fix: issue related to the pattern and start/end style of arrow-type connections
+
+    - Bug fix: issue related to drawing the boundaries for the Organigram Charts layouts
+
+    - Improved drawing of the connections for concept diagrams
+Version 4.8.7 (Jun 25, 2022)
+    - Added Assignments functionality
+Version 4.8.6 (Jun 22, 2022)
+    - Bug fixing
+Version 4.8.5 (Jun 16, 2022)
+    - Bugfix: issue related to adding a new line at the boundary label
+
+    - Bugfix: issue related to navigation/zoom throughout diagram when diagram contains boundaries
+Version 4.8.4 (Jun 10, 2022)
+    - Added functionality to include multiple topics in a boundary
+
+    - Added functionality to add boundary label
+Version 4.8.2 (May 6, 2022)
+    - Improved Notes editing functionality
+Version 4.8.0 (Apr 22, 2022)
+    - Bugfix: issue preserving spacing and the number of new lines in the notes panel when opening a diagram created from the cloud in the mobile app
+
+    - Bugfix: issue related to creating diagrams starting from a template
+Version 4.7.9 (Apr 15, 2022)
+    - Added new audio recording functionality: you can record audio files directly on Mindomo and save them as audio files attached to your topics
+
+    - Added new audio player functionality to listen to attached audio files, recordings, etc.
+
+    - Added new drawing functionality: you can draw your sketch, and then save it as an image on your topics
+Version 4.7.7 (Mar 8, 2022)
+    - Added icon to view template information on topic
+
+    - Updated diagram templates for all categories
+Version 4.7.6 (Mar 2, 2022)
+    Improved template diagrams
+Version 4.7.5 (Feb 7, 2022)
+    Faster loading time and interaction on large diagrams.
+Version 4.7.3 (Jan 19, 2022)
+    - Added new templates
+
+    - Added Color Picker functionality
+
+    - Added option to copy-paste text from/in the mobile app and into/from other apps
+
+    - Added new connection line type (straight arrow)
+
+    - Added option to sort diagrams by their names/ modification dates
+Version 4.7.2 (Jan 6, 2022)
+    Fixed the problem that files could not be opened or shared in some specific cases.
+Version 4.6.9 (Dec 22, 2021)
+    - Improved native experience in terms of responsiveness, quicker navigation, improved zoom in/out functionality
+
+    - Added functionality that allows you to split your between Mindomo and other apps and have them opened simultaneously in different windows
+    - Added new topic shapes: Cloud, Shield, Heart, Star, Diamond, Tear
+Version 4.6.8 (Dec 17, 2021)
+    - Improved native experience in terms of responsiveness, quicker navigation, improved zoom in/out functionality
+
+    - Added functionality that allows you to split your between Mindomo and other apps and have them opened simultaneously in different windows
+Version 4.6.7 (Dec 15, 2021)
+    - Improved native experience in terms of responsiveness, quicker navigation, improved zoom in/out functionality
+
+    - Added functionality that allows you to split your between Mindomo and other apps and have them opened simultaneously in different windows
+Version 4.6.4 (Nov 24, 2021)
+    Bugfix: issue with image synchronization between cloud and device
+Version 4.6.3 (Oct 20, 2021)
+    Added option to purchase cloud subscriptions with Apple Pay
+Version 4.6.2 (Oct 12, 2021)
+    Bug fixing
+Version 4.6.1 (Oct 4, 2021)
+    Added support for iOS15 & iPadOS15
+Version 4.6.0 (Sep 18, 2021)
+    Bug fixing
+Version 4.5.8 (Jul 23, 2021)
+    Added support section
+Version 4.5.6 (Jul 20, 2021)
+    Improved zoom functionality
+    Fixed topic dragging issues
+    Added floating keyboard functionality
+Version 4.5.5 (Jun 11, 2021)
+    Update to the latest cloud version
+Version 4.5.4 (May 7, 2021)
+    - Notes editor improvements 
+Version 4.5.3 (Mar 31, 2021)
+    - Bug fixing
+Version 4.5.2 (Mar 17, 2021)
+    - Added timeline map format
+Version 4.5.0 (Feb 23, 2021)
+    - Added Ghost User functionality 
+Version 4.4.7 (Feb 15, 2021)
+    - Improvements to PDF export and mind map preview
+Version 4.4.6 (Feb 12, 2021)
+    - Bug fixing
+Version 4.4.5 (Feb 6, 2021)
+    - Bug fixing
+Version 4.4.4 (Feb 4, 2021)
+    - Bug fixing
+    - Implemented dark mode color scheme on the app
+Version 4.4.3 (Jan 25, 2021)
+    - Implemented undo for comments and votes
+
+    - Implemented undo in collaboration
+
+    - Added more mind map templates for Education and Work/Personal usage
+Version 4.4.2 (Jan 15, 2021)
+    - Bug fixing
+Version 4.4.0 (Jan 7, 2021)
+    - Bug fixing
+Version 4.3.9 (Dec 18, 2020)
+    - Bug fixing
+Version 4.3.8 (Nov 17, 2020)
+    - Bug fixing
+Version 4.3.7 (Nov 13, 2020)
+    - Bug fixing
+    - Added login with Apple functionality
+Version 4.3.6 (Nov 5, 2020)
+    - Bug fixing
+Version 4.3.5 (Oct 28, 2020)
+    - Bug fixing
+Version 4.3.4 (Oct 27, 2020)
+    - Bug fixing
+    - Upgrade to the latest React Native
+Version 4.3.2 (Sep 30, 2020)
+    - Bug fixing
+Version 4.3.0 (Sep 24, 2020)
+    - Bug fixing
+Version 4.2.9 (Sep 22, 2020)
+    - Bug fixing
+Version 4.2.8 (Sep 21, 2020)
+    - Bug fixing
+Version 4.2.7 (Sep 16, 2020)
+    - Bug fixing
+Version 4.2.6 (Sep 12, 2020)
+    - Bug fixing
+Version 4.2.5 (Sep 9, 2020)
+    1. Fixed sharing map with attachments issues
+
+    2. Updated map theme saving mechanism
+
+    3. Fixed issue with positioning map background image
+
+    4. Fixed issue with opening maps with the native application
+Version 4.2.4 (Sep 7, 2020)
+    1. New MOM file format based on JSON
+
+    2. Improved auto-save mechanism to update map after each change
+
+    3. Show offline/online status of cloud maps
+
+    4. Added option to share a map with attachments directly from Device
+
+    5. Removed underscore dependency
+Version 4.2.3 (Jul 16, 2020)
+    - Bug fixing
+Version 4.2.2 (Jul 10, 2020)
+    - Added option to view and edit comments from the cloud version
+
+    - Added option to view mind map attachments from the cloud version
+
+    - Bug fixing
+Version 4.2.1 (Jul 2, 2020)
+    - Bug fixing
+Version 4.1.8 (Jun 19, 2020)
+    - Bug fixing
+Version 4.1.6 (Jun 3, 2020)
+    - Synchronize resources attached to maps between device and Cloud
+
+    - Added option to Share map with attachments - the shared map will include all resources attached to the map
+
+    - Fixed: Map names containing a dot (.) were not visible to the application
+Version 4.1.5 (May 28, 2020)
+    - Added mind map templates for Education and Work/Personal usage
+
+    - Added new topic shapes: arrow left, arrow right, arrow left rounded, arrow right rounded
+Version 4.1.4 (May 14, 2020)
+    - Added new colorful themes
+
+    - Added multicolor themes with different fill and border colors
+
+    - Added new topic shape: Drop
+
+    - Icons are displayed with the style of the topic
+
+    - Removed favicons shown when adding hyperlinks, the globe icon will always be displayed instead
+Version 4.1.3 (May 11, 2020)
+    - Bug fixing
+Version 4.1.2 (Apr 21, 2020)
+    - Device maps can be accessed via file manager
+
+    - Open maps from email/external storage with Mindomo
+Version 4.1.1 (Apr 14, 2020)
+    - added option to share cloud maps via email/external provider
+
+    - added option to discard local changes for cloud maps
+
+    - fixed map name rendering for non-ASCII characters
+
+    - handled illegal characters in maps
+
+    - improved preview rendering mechanism for maps
+Version 4.1.0 (Apr 10, 2020)
+    - Bug fixing
+Version 4.0.9 (Apr 6, 2020)
+    - Multiple language support: Finnish, Dutch, Russian, Japanese
+
+    - Show map preview
+    - Bug fixing
+
+    - Added customizable connections on the concept map
+Version 4.0.5 (Apr 1, 2020)
+    - new design of the app
+
+    - added iPhone support
+    - accommodating for all screen sizes
+
+    - login with Google accounts
+    - multiple language support: German, Italian, Norwegian, Danish, Swedish, Portuguese
+Version 3.0.23 (Jan 16, 2019)
+Version 3.0.22 (Dec 8, 2018)
+Version 3.0.21 (Feb 19, 2018)
+Version 3.0.20 (Nov 4, 2017)
+Version 3.0.19 (Oct 11, 2017)
+Version 3.0.18 (Mar 24, 2016)
+    - bug fixes
+Version 3.0.17 (Jan 26, 2016)
+    - bug fixes
+Version 3.0.16 (Dec 28, 2015)
+    - concept map support
+Version 3.0.15 (Nov 5, 2015)
+    - visualization for concept map connection labels
+Version 3.0.14 (Sep 10, 2015)
+    - new mind map themes
+    - language support for Norwegian, Danish, Swedish, Finnish and Dutch
+Version 3.0.13 (Jul 14, 2015)
+    - login with Microsoft Live and Clever
+Version 3.0.12 (May 26, 2015)
+    - Bug fix for local maps
+Version 3.0.11 (May 21, 2015)
+    - Log in using MC Education
+    - Bug fixes and many other enhancements
+Version 3.0.1 (Jan 28, 2015)
+    - Completely redesigned UI
+    - Log in using Google, Facebook and Yahoo
+    - Easier way to synchronize maps with cloud
+    - Many other enhancements
+Version 3.0.0 (Dec 13, 2014)
+    - Completely redesigned UI
+    - Log in using Google, Facebook and Yahoo
+    - Easier way to synchronize maps with cloud
+    - Many other enhancements
+Version 2.2.5 (Oct 10, 2014)
+    Fixed iOS 8 crash
+Version 2.2.4 (Sep 10, 2014)
+    Fixed bugs.
+Version 2.2.3 (Aug 12, 2014)
+    Bug fixes
+Version 2.2.2 (Jun 24, 2014)
+    Bug fixes
+Version 2.2.1 (Mar 15, 2014)
+    Bug fixes
+Version 2.2.0 (Feb 24, 2014)
+    Bug fixes
+Version 2.1.0 (Feb 5, 2013)
+    - Labels can be placed on relationships between topics
+
+    - Camera roll images can be added to topics
+
+    - Your camera pictures can be inserted in a mind map
+Version 2.0.0 (Sep 19, 2012)
+    - Presentation mode for maps
+    - Share local and cloud maps
+    - Export maps as image and PDF
+    - E-mail map file
+    - Open mom files in app
+Version 1.1 (Jul 19, 2012)
+    Collapse/Expand menu for visibility of subtopics at multiple levels
+
+    Open map link in browser to view it on app
+
+    Display of the map title in the top toolbar
+
+    Added labels to show the status of the cloud maps
+
+    Added Help button with Mindomo Guide for iPad
+
+    Bugfixes
+Version 1.0.0 (May 25, 2012)
+
+Users may also like
+Select objects to compare
+SimpleMind - Mind Mapping
+Mind Mapping - MindMeister
+Flowdia Diagrams
+MindNode - Mind Map & Outline
+miMind
+MindSpace - Mind Map
+Xmind - Mind Map & Brainstorm
+Lucidchart
+GitMind: AI Mind Map, Outline
+ThinkSpace: Next-gen Mind Map
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.8.0
+    Current release
+    Feb 6, 2024
+    5.7.8
+    Jan 27, 2024
+    5.7.7
+    Jan 23, 2024
+    5.7.5
+    Jan 13, 2024
+    5.7.2
+    Dec 19, 2023
+    5.7.1
+    Dec 16, 2023
+    5.7.0
+    Dec 14, 2023
+    5.6.9
+    Dec 10, 2023
+    5.6.7
+    Nov 22, 2023
+    5.6.5
+    Nov 10, 2023
+    5.6.4
+    Nov 7, 2023
+    5.6.3
+    Nov 2, 2023
+    5.6.2
+    Oct 26, 2023
+    5.6.1
+    Oct 4, 2023
+    5.6.0
+    Sep 30, 2023
+    5.5.9
+    Sep 13, 2023
+    5.5.8
+    Sep 6, 2023
+    5.5.5
+    Aug 22, 2023
+    5.5.4
+    Aug 15, 2023
+    5.5.3
+    Aug 2, 2023
+    5.5.2
+    Jul 26, 2023
+    5.5.0
+    Jul 21, 2023
+    5.4.9
+    Jul 7, 2023
+    5.4.8
+    Jun 30, 2023
+    5.4.7
+    Jun 9, 2023
+    5.4.6
+    Jun 7, 2023
+    5.4.5
+    May 28, 2023
+    5.4.4
+    May 26, 2023
+    5.4.1
+    May 9, 2023
+    5.4.0
+    May 4, 2023
+    5.3.9
+    Apr 26, 2023
+    5.3.8
+    Apr 22, 2023
+    5.3.7
+    Apr 12, 2023
+    5.3.4
+    Apr 2, 2023
+    5.3.3
+    Mar 19, 2023
+    5.3.1
+    Mar 9, 2023
+    5.3.0
+    Feb 24, 2023
+    5.2.9
+    Feb 9, 2023
+    5.2.8
+    Jan 31, 2023
+    5.2.6
+    Jan 25, 2023
+    5.2.5
+    Jan 20, 2023
+    5.2.4
+    Jan 13, 2023
+    5.2.3
+    Jan 5, 2023
+    5.2.2
+    Dec 28, 2022
+    5.2.2
+    Dec 28, 2022
+    5.2.1
+    Dec 22, 2022
+    5.2.0
+    Nov 28, 2022
+    5.1.9
+    Nov 15, 2022
+    5.1.8
+    Nov 12, 2022
+    5.1.7
+    Nov 11, 2022
+    5.1.5
+    Oct 29, 2022
+    5.1.4
+    Oct 19, 2022
+    5.1.2
+    Oct 4, 2022
+    5.1.1
+    Sep 30, 2022
+    5.0.9
+    Sep 24, 2022
+    5.0.8
+    Sep 13, 2022
+    5.0.7
+    Sep 10, 2022
+    5.0.6
+    Sep 8, 2022
+    5.0.3
+    Sep 5, 2022
+    5.0.2
+    Aug 24, 2022
+    5.0.1
+    Aug 20, 2022
+    4.9.9
+    Aug 13, 2022
+    4.9.8
+    Aug 12, 2022
+    4.9.7
+    Aug 6, 2022
+    4.9.6
+    Aug 3, 2022
+    4.9.5
+    Jul 30, 2022
+    4.9.3
+    Jul 25, 2022
+    4.9.0
+    Jul 7, 2022
+    4.8.7
+    Jun 25, 2022
+    4.8.6
+    Jun 22, 2022
+    4.8.5
+    Jun 16, 2022
+    4.8.4
+    Jun 10, 2022
+    4.8.2
+    May 6, 2022
+    4.8.0
+    Apr 22, 2022
+    4.7.9
+    Apr 15, 2022
+    4.7.7
+    Mar 8, 2022
+    4.7.6
+    Mar 2, 2022
+    4.7.5
+    Feb 7, 2022
+    4.7.3
+    Jan 19, 2022
+    4.7.2
+    Jan 6, 2022
+    4.6.9
+    Dec 22, 2021
+    4.6.8
+    Dec 17, 2021
+    4.6.7
+    Dec 15, 2021
+    4.6.4
+    Nov 24, 2021
+    4.6.3
+    Oct 20, 2021
+    4.6.2
+    Oct 12, 2021
+    4.6.1
+    Oct 4, 2021
+    4.6.0
+    Sep 18, 2021
+    4.5.8
+    Jul 23, 2021
+    4.5.6
+    Jul 20, 2021
+    4.5.5
+    Jun 11, 2021
+    4.5.4
+    May 7, 2021
+    4.5.3
+    Mar 31, 2021
+    4.5.2
+    Mar 17, 2021
+    4.5.0
+    Feb 23, 2021
+    4.4.7
+    Feb 15, 2021
+    4.4.6
+    Feb 12, 2021
+    4.4.5
+    Feb 6, 2021
+    4.4.4
+    Feb 4, 2021
+    4.4.3
+    Jan 25, 2021
+    4.4.2
+    Jan 15, 2021
+    4.4.0
+    Jan 7, 2021
+    4.3.9
+    Dec 18, 2020
+    4.3.8
+    Nov 17, 2020
+    4.3.7
+    Nov 13, 2020
+    4.3.6
+    Nov 5, 2020
+    4.3.5
+    Oct 28, 2020
+    4.3.4
+    Oct 27, 2020
+    4.3.2
+    Sep 30, 2020
+    4.3.0
+    Sep 24, 2020
+    4.2.9
+    Sep 22, 2020
+    4.2.8
+    Sep 21, 2020
+    4.2.7
+    Sep 16, 2020
+    4.2.6
+    Sep 12, 2020
+    4.2.5
+    Sep 9, 2020
+    4.2.4
+    Sep 7, 2020
+    4.2.3
+    Jul 16, 2020
+    4.2.2
+    Jul 10, 2020
+    4.2.1
+    Jul 2, 2020
+    4.1.8
+    Jun 19, 2020
+    4.1.6
+    Jun 3, 2020
+    4.1.5
+    May 28, 2020
+    4.1.4
+    May 14, 2020
+    4.1.3
+    May 11, 2020
+    4.1.2
+    Apr 21, 2020
+    4.1.1
+    Apr 14, 2020
+    4.1.0
+    Apr 10, 2020
+    4.0.9
+    Apr 6, 2020
+    4.0.5
+    Apr 1, 2020
+    3.0.23
+    Jan 16, 2019
+    3.0.22
+    Dec 8, 2018
+    3.0.21
+    Feb 19, 2018
+    3.0.20
+    Nov 4, 2017
+    3.0.19
+    Oct 11, 2017
+    3.0.18
+    Mar 24, 2016
+    3.0.17
+    Jan 26, 2016
+    3.0.16
+    Dec 28, 2015
+    3.0.15
+    Nov 5, 2015
+    3.0.14
+    Sep 10, 2015
+    3.0.13
+    Jul 14, 2015
+    3.0.12
+    May 26, 2015
+    3.0.11
+    May 21, 2015
+    3.0.1
+    Jan 28, 2015
+    3.0.0
+    Dec 13, 2014
+    2.2.5
+    Oct 10, 2014
+    2.2.4
+    Sep 10, 2014
+    2.2.3
+    Aug 12, 2014
+    2.2.2
+    Jun 24, 2014
+    2.2.1
+    Mar 15, 2014
+    2.2.0
+    Feb 24, 2014
+    2.1.0
+    Feb 5, 2013
+    2.0.0
+    Sep 19, 2012
+    1.1
+    Jul 19, 2012
+    1.0.0
+    May 25, 2012
+
+See More
+Top In-App Purchases
+
+    Mindomo Premium
+    $35.99
+    Mindomo Premium
+    $65.99
+    Mindomo Premium Subscription
+    $65.99
+    Mindomo Premium Subscription
+    $35.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    May 25, 2012
+
+Worldwide Release Date
+    May 25, 2012
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    5.8.0
+
+Size
+    135.11 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Expert Software Applications Srl
+
+Company HQ
+    Romania
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.4 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.EXswap.Mindomo
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 526684279
+Unified App ID: 1000800000141461
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Mind Map Maker - Mindomo | data.ai

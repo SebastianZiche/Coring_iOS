@@ -1,0 +1,16 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.9.9,2023-02-04,An dialog has been added to reward type advertisements.,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.9.8,2022-06-29,We added a No Questions Page .,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.9.7,2022-04-07,Changed domain.,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.9.6,2021-11-08,Added dialog alert in not network status.,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.9.5,2021-03-24,Add ad tracking verification code.,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.9.3,2020-07-27,Added Marketing Web page for app ads.txt.,0,0,0,0,0,1,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.9.2,2020-05-16,We changed the advertising algorithm.,0,0,1,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.9,2020-05-11,Updated Framework library.,0,0,1,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.8,2018-10-10,Alarm bug fixed.,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.7,2018-07-13,Added question list mode. Best Question Popularity Question Added question reate buttion. Alarm bug fixed.,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.5,2017-12-28,Alarm bug fixed.,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.4,2017-12-15,Add lock function Add alarm function,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.2,2017-10-19,Append Language. Language English korean Japanese español Portuguese BR Italian Czech language Deutsch French Greek Russian Hungarian Dutch Turkish Simplified Chinese Indonesian Polish Serbian,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.1,2017-09-13,Added login function. Added Chinese simplified translation,0,0,0,0,0,0,0,0
+1261734566,0,Question Diary,Lifestyle,2017-07-22,2017-07-22,9.71,18,0,0,0,1.0,2017-07-22,,0,0,0,0,0,0,0,0

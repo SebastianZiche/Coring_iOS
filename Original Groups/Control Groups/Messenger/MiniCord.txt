@@ -1,0 +1,619 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MiniCord
+Maxime RuysSocial Networking (Applications)Free
+Alerts
+
+    Maxime Ruys
+
+    MiniCord
+    MiniCord
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MiniCord
+Social Networking (Applications)
+Free
+App Description
+Want a simple and quick way to send messages to your friends on the Discord app? Download MiniCord now, we support notifications and support for sending new messages.
+
+We also support reading messages from all your favourite Discord servers and even your private direct messages!
+
+Discord Server: https://discord.gg/R5vFY65
+
+--UPCOMING FEATURES--
+-Voice Chat Support
+-Change profile details too in settings menu
+-Emoji Support
+-Send voice messages in chats
+-Change your profile status
+-Change your status(online/do not disturb/offline)
+-See other people's profile status
+-See other people's status(online/do not disturb/offline)
+
+Current Features:
+--2FA support(only when using the QR Code Login/Phone Login)
+--QR Login Support
+--Reply to messages
+--Reactions
+--Send messages
+--View messages
+--Access your servers, dms
+--Access group chats in dms
+--Access channels in Server
+--Change some settings in the settings menu
+
+Contact: maximeruys20@gmail.com
+Website: https://miniseries-apps.com/
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://miniseries-apps.com/minicord/privacy_policy.txt
+Ratings
+Displayed Avg Ratings
+2.67
+Total Displayed Ratings
+308
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 9.91.1 (Feb 9, 2024)
+    --NEW--
+    * New Custom Keyboard
+    * Opening of Web Links
+    * Improved Settings Screen
+    * Bug Fixes
+Version 9.91 (Oct 31, 2023)
+    --NEW--
+    - Complete rewrite from scratch
+    - Fixed 2FA Support
+    - Added QR Login [EXPERIMENTAL FEATURE]
+    - Bug fixes
+    - More Stability
+Version 9.9.59 (Apr 21, 2023)
+    --NEW--
+    - Small Bugfixes
+Version 9.9.57 (Nov 11, 2022)
+    -- NEW --
+    - ADDED Sync option to the mobile app to make login easier and faster
+    - Increased Servers, DMs and Messages limit
+Version 9.9.56 (Nov 7, 2022)
+    -- NEW --
+    - FIXED sudden login crashes
+    - ADDED small UI change
+Version 9.9.55 (Oct 3, 2022)
+    --NEW--
+    - ADDED The ability to quickly login on your phone through Discord.
+Version 9.9.33 (Sep 17, 2022)
+    --NEW--
+    - DMs are now Ordered
+    - Fixed QR login on previous watchOS's
+    - Fixed Profile Picture not showing in settings
+    - Updated API endpoints
+    - HOTFIX DM Sorting Bug
+Version 9.9.3 (Sep 16, 2022)
+    --NEW--
+    - DMs are now Ordered
+    - Fixed Profile Picture not showing in settings
+    - Updated API endpoints
+    - Improved Login
+    - Added Server Limit Settings
+Version 9.9.1 (Jul 30, 2022)
+    --NEW--
+    -FIXED Flicktype Support
+Version 9.9 (Sep 24, 2021)
+    Discord Server: https://discord.gg/R5vFY65
+
+    - FIXED Login not working
+    - FIXED QR Code not generating
+
+    --UPCOMING FEATURES--
+    -Voice Chat Support
+    -Emoji support
+    -Change profile details too in settings menu
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.8 (Jul 23, 2021)
+    Discord Server: https://discord.gg/R5vFY65
+
+    - FIXED Login not working
+    - ADDED Detail View for messages
+    - ADDED an option to delete messages
+
+    --UPCOMING FEATURES--
+    -Voice Chat Support
+    -Emoji support
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.7.3 (May 15, 2021)
+    Discord Server: http://support.miniseriesapps.com/
+
+    --HOTFIX--
+    - ADDED Logout Button for Errors
+
+    --UPCOMING FEATURES--
+    -Voice Chat Support
+    -Emoji support
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.7.2 (Jan 23, 2021)
+    Discord Server: http://support.miniseriesapps.com/
+
+    --HOTFIX--
+    - FIXED Discord join bug
+
+    --UPCOMING FEATURES--
+    -Voice Chat Support
+    -Emoji support
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.7 (Jan 14, 2021)
+    Discord Server: https://discord.gg/u2XqTx2ZES
+
+    --NEW--
+    - ADDED Support for Older Devices
+    - Small Alert Bug Fixes
+
+    --UPCOMING FEATURES--
+    -Voice Chat Support
+    -Emoji support
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.6 (Jan 13, 2021)
+    Discord Server: https://discord.gg/u2XqTx2ZES
+
+    --NEW--
+    - ADDED Ability To View Reactions
+    - ADDED Complications
+    - FIXED Message loading Rate Limit Bug fixed
+    - FIXED Rate limit error message being displayed multiple times
+    - FIXED Missing access message being displayed multiple times
+
+    --UPCOMING FEATURES--
+    -Voice Chat Support
+    -Emoji support
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.5 (Jan 4, 2021)
+    Discord Server: https://discord.gg/u2XqTx2ZES
+
+    --HOTFIX--
+    -login captcha bug fixed (reason was due to not removing the test account)
+    -error message are being displayed in detail which give more context
+    -Timezones are fixed now
+
+
+
+    --UPCOMING FEATURES--
+
+    -Voice Chat Support
+    -Adding Reactions to messages
+    -Emoji support
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.4 (Jan 3, 2021)
+    Discord Server: https://discord.gg/u2XqTx2ZES
+
+    --NEW--
+    -Servers are sorted now
+    -Lag Reduced
+    -Error Messages are now displayed
+
+
+    --UPCOMING FEATURES--
+
+    -Voice Chat Support
+    -Adding Reactions to messages
+    -Emoji support
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.4 (Jan 3, 2021)
+    Discord Server: https://discord.gg/u2XqTx2ZES
+
+    --NEW--
+    -Servers are sorted now
+    -Lag Reduced
+    -Error Messages are now displayed
+
+
+    --UPCOMING FEATURES--
+
+    -Voice Chat Support
+    -Adding Reactions to messages
+    -Emoji support
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.3 (Dec 21, 2020)
+    Discord Server: https://discord.gg/u2XqTx2ZES
+    --NEW--
+    -QR Login NOW Supported
+    -Auto Fill login is now Supported
+    -Removed small bugs
+    -Added iOS version to make the app more stable
+
+    --UPCOMING FEATURES--
+    -Voice Chat Support
+    -Adding Reactions to messages
+    -Emoji support
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+    -Gif/Video support
+Version 9.2 (Dec 12, 2020)
+    Discord Server: https://discord.gg/u2XqTx2ZES
+
+    --HOTFIX--
+    -Fixed scrolling bug
+
+    --UPCOMING FEATURES--
+    -Voice Chat Support
+    -Adding Reactions to messages
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+
+Version 9.0 (Dec 9, 2020)
+    Official Discord Server Of The App: https://discord.gg/u2XqTx2ZES
+
+    --NEW--(Complete Rewrite from Scratch)
+    -Newest FlickType Is Supported
+    -New easier to use UI.
+    -Crashing bugs have been fixed because this is a complete rewrite. If you still experience any crashing bugs then please send me a mail to maximeruys20@gmail.com and I'll try to help.
+    -Bug with Servers/DMs/Messages not loading and displaying an empty box has been fixed.
+    -Settings Menu has been added
+    => you can now switch flicktype on/off
+    => you can set the amount of servers/dms/messages that have to be loaded
+
+    --UPCOMING UPDATE--
+    -Voice Chat Support
+    -Adding Reactions to messages
+    -Change profile details too in settings menu
+    -2FA support
+    -Send voice messages in chats
+    -Change your profile status
+    -Change your status(online/do not disturb/offline)
+    -See other people's profile status
+    -See other people's status(online/do not disturb/offline)
+Version 8.0 (Aug 29, 2020)
+    -- NEW --
+    -NOTIFICATION SUPPORT
+Version 7.0 (Jul 31, 2020)
+    -- NEW --
+    - NEW UI
+    - BUG FIXES
+Version 6.1 (Apr 11, 2020)
+    --NEW--
+    * new UI
+    * attachment bug fixes
+    * more bug fixes
+Version 5.6 (Apr 2, 2020)
+    --NEW--
+    * UI CHANGES
+    * IMG SUPPORT
+Version 5.4 (Apr 1, 2020)
+    --NEW--
+    * Fixed most of the crashing bugs
+    * Added profile details in settings
+Version 5.2 (Mar 30, 2020)
+    --NEW--
+    * NAME CHANGED
+    * UI UPDATE
+    * NEW ICON
+Version 5.1 (Mar 7, 2020)
+    --NEW--
+    * ADDED ABILITY TO REMOVE MESSAGES
+    * FIXED MENTIONS BUGS
+Version 4.8 (Feb 27, 2020)
+    --NEW--
+    * MENTIONS BUGS FIXED
+    * MENTIONS COLORS
+Version 4.5 (Feb 22, 2020)
+    --NEW--
+    *GROUP DM SUPPORT
+    *USER PROFILE PICTURE BUG FIXES
+Version 4.0 (Feb 16, 2020)
+    --NEW--
+
+    * Entirely re-written from Scratch
+    * Updated UI
+    * Crash Bugs FIXED
+    * Message Sending bugs FIXED
+Version 3.0 (Feb 10, 2020)
+    ---NEW---
+    * FlickType Keyboard Support
+    * Fixed Crash Bugs.
+Version 2.0 (Feb 9, 2020)
+    --NEW--
+    * Ability to send messages
+    * Whole new UI!
+    * Fixed some crashes and bugs
+Version 1.0 (Feb 6, 2020)
+
+Users may also like
+Select objects to compare
+Watch for Discord
+WatchMessage for Messenger
+Pigeon for Telegram
+WristWeb for Facebook
+barq.social
+Tik Watch
+Chroncord
+Lens for Watch
+Guilded - community chat
+Beeper Cloud
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+10 times
+on App Store category pages
+Versions
+
+    9.91.1
+    Current release
+    Feb 9, 2024
+    9.91
+    Oct 31, 2023
+    9.9.59
+    Apr 21, 2023
+    9.9.57
+    Nov 11, 2022
+    9.9.56
+    Nov 7, 2022
+    9.9.55
+    Oct 3, 2022
+    9.9.33
+    Sep 17, 2022
+    9.9.3
+    Sep 16, 2022
+    9.9.1
+    Jul 30, 2022
+    9.9
+    Sep 24, 2021
+    9.8
+    Jul 23, 2021
+    9.7.3
+    May 15, 2021
+    9.7.2
+    Jan 23, 2021
+    9.7
+    Jan 14, 2021
+    9.6
+    Jan 13, 2021
+    9.5
+    Jan 4, 2021
+    9.4
+    Jan 3, 2021
+    9.4
+    Jan 3, 2021
+    9.3
+    Dec 21, 2020
+    9.2
+    Dec 12, 2020
+    9.0
+    Dec 9, 2020
+    8.0
+    Aug 29, 2020
+    7.0
+    Jul 31, 2020
+    6.1
+    Apr 11, 2020
+    5.6
+    Apr 2, 2020
+    5.4
+    Apr 1, 2020
+    5.2
+    Mar 30, 2020
+    5.1
+    Mar 7, 2020
+    4.8
+    Feb 27, 2020
+    4.5
+    Feb 22, 2020
+    4.0
+    Feb 16, 2020
+    3.0
+    Feb 10, 2020
+    2.0
+    Feb 9, 2020
+    1.0
+    Feb 6, 2020
+
+See More
+Top In-App Purchases
+
+    MiniCord Pro (Yearly)
+    $6.99
+    MiniCord Pro (Monthly)
+    $0.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone
+
+Category
+    Social Networking
+
+Initial Release Date
+    Feb 5, 2020
+
+Worldwide Release Date
+    Feb 5, 2020
+
+Last Updated Time
+    Feb 27, 2024
+
+Version
+    9.91.1
+
+Size
+    9.80 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Englisch
+
+Seller
+    Maxime Ruys
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 16.0 und watchOS 9.0 (oder neuer). Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    com.pixeldevelopers.discbotapp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Feb 5, 2020)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1497954327
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MiniCord | data.ai

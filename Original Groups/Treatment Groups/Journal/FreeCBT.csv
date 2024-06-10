@@ -1,0 +1,6 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1516063390,0,FreeCBT,Health and Fitness,2020-05-28,2020-05-31,18.68,1,0,0,0,2.3.2,2023-08-30,This release adds two new translations contributed by FreeCBT users. Added European Portuguese translation. Thank you miguelmf! Added Farsi translation. Thank you ali73! The settings screen now displays the completeness of each existing translation.
+1516063390,0,FreeCBT,Health and Fitness,2020-05-28,2020-05-31,18.68,1,0,0,0,2.3.1,2022-12-27,Added a show detailed descriptions button to the list of cognitive distortions.
+1516063390,0,FreeCBT,Health and Fitness,2020-05-28,2020-05-31,18.68,1,0,0,0,2.3.0,2022-12-20,Added backup restore functionality. Save your FreeCBT exercises to a backup file and use that file to move your data to a new device or recover if your app data is erased. Added export functionality. Save your FreeCBT exercises as markdown plain text comma separated values or JSON files. Lots of behind the scenes app maintenance and updates.
+1516063390,0,FreeCBT,Health and Fitness,2020-05-28,2020-05-31,18.68,1,0,0,0,2.2.3,2021-03-02,Improved support for non English languages
+1516063390,0,FreeCBT,Health and Fitness,2020-05-28,2020-05-31,18.68,1,0,0,0,1.0,2020-05-31,

@@ -1,0 +1,57 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,6.7,2024-02-06,I have made improvements to reduce data usage.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,6.6,2024-01-24,We have fixed the issue where messages pinned with a pin were not displaying.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,6.4,2023-12-19,We have reduced data usage.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,6.3,2023-12-06,This update primarily includes internal improvements.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,6.2,2023-12-03,Minor bug fixes and optimizations have been made.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,6.1,2023-11-01,We have fixed a bug that caused the app to crash when attempting to make voice posts.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,6.0,2023-09-04,Fixed an issue where the message list was difficult to update.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,5.9,2023-08-29,We ve fixed a bug where the app was crashing frequently.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,5.8,2023-08-10,Fixed an issue where sending images in DMs would fail and an issue where the number of DM notifications was incorrect.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,5.7,2023-07-31,We have fixed the issue where you couldn t send PNG images via direct messages.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,5.6,2023-07-24,We ve made minor improvements.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,5.4,2021-06-27,Added My Music features.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,5.3,2021-05-07,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,5.2,2021-04-01,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,5.1,2020-11-15,Implemented random message function.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,5.0,2020-10-16,Added support for widgets.,0,0,0,0,0,0,0,1
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.9,2020-10-05,You can now include up to 4 photos in your post only compatible with iOS14 .,0,0,0,0,0,0,0,1
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.8,2020-09-24,A questionnaire function has been added.,0,0,0,0,0,0,0,1
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.7,2020-09-21,bug fix.,0,0,0,0,0,0,0,1
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.6,2020-09-15,bug fix.,0,0,0,0,0,0,1,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.5,2020-09-10,You can now operate the app during a call.,0,0,0,0,0,0,1,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.4,2020-08-21,A call function was added.,0,0,0,0,0,0,1,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.3,2020-08-10,Added support for hash tags.,0,0,0,0,0,1,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.2,2020-07-28,bug fix.,0,0,0,0,0,1,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.1,2020-07-21,bug fix.,0,0,0,0,1,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,4.0,2020-06-23,bug fix.,0,0,0,0,1,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.9,2020-06-16,bug fix.,0,0,0,1,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.8,2020-04-24,Support for dark mode.,0,0,1,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.7,2020-04-14,bug fix.,0,1,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.6,2020-04-02,bug fix.,0,1,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.5,2020-03-26,bug fix.,0,1,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.4,2020-03-19,bug fix.,1,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.3,2020-03-09,bug fix.,1,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.2,2020-03-02,bug fix.,1,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.1,2020-02-25,bug fix.,1,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,3.0,2020-02-14,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.9,2020-01-31,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.8,2020-01-24,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.7,2020-01-04,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.6,2019-12-16,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.5,2019-12-04,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.4,2019-11-21,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.3,2019-11-07,bug fix.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.2,2019-11-04,Added the ability to favorite users. Also the operation speed has been improved.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.1,2019-10-17,Implemented a notification screen for likes and replies. Various other improvements have been made.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,2.0,2019-10-04,Fixed the bug.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.9,2019-09-30,You can now see past posts.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.8,2019-09-25,Added categories to the bulletin board.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.7,2019-08-26,Added voice self introduction function.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.5,2019-08-20,Fixed a bug related to displaying the number of unread items.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.6,2019-08-20,Implemented the like function.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.4,2019-08-10,The number of unread messages is now displayed in the message list.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.3,2019-08-01,Made minor corrections.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.2,2019-07-17,Bug fixes,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.1,2019-07-06,A search screen has been implemented.,0,0,0,0,0,0,0,0
+1470725326,0,みどりチャット,Social Networking,2019-07-04,2019-07-04,88.17,2,0,0,1,1.0,2019-07-04,,0,0,0,0,0,0,0,0

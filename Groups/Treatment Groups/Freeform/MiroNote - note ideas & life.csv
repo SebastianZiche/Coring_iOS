@@ -1,0 +1,28 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,2.1.1,2023-07-01,1 fix some bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,2.1.0,2023-06-25,1 fix some bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,2.0.1,2023-04-07,1 modify the help page of Notion Integration refine the process.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,2.0,2023-03-31,fix some bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.9.9,2023-03-23,1 Support Dropbox upload image to Dropbox before synced to Notion. 2 add help link in Notion Configuration page.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.9.8,2023-03-15,1 change notion configuration page add help page.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.9.7,2023-03-14,1 fix some bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.9.6,2023-03-10,1 fix bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.9.5,2023-03-05,1 fix backup images bugs. save raw image to icloud drive. 2 change ui interface of input.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.9.4,2023-02-24,1 add sync to notion.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.9.3,2023-02-10,1 fix edit bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.9.1,2023-01-31,1 add no more then 6 photos in one note. 2 fix bugs when indent a line.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.9,2023-01-23,1 fix some bugs. 2 add top and untop to tags. 3 change input format of tag page.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.8.1,2023-01-06,1 fix edit note bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.8.0,2023-01-04,1 move tags to menu. 2 fix animation error of sync button.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.7.1,2022-12-28,1 fix bug can not show photos in map mode.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.7.0,2022-12-26,1 fix some note edit bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.6.1,2022-12-18,1 fix some bugs. 2 add multiple images to diary.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.6.0,2022-12-08,1 change the name path to pinned . All pinned tags will show in left menu. 2 fix some bugs in pinned. 3 add daily to note.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.4.1,2022-11-27,1 fix some language errors. 2 modify data format.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.4.0,2022-11-24,1 fix search notes error. 2 add list view and share to social media to path app.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.3,2022-11-20,1 add new app path which users can add photos to map. 2 fix some bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.2.1,2022-11-11,fix some memories app bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.2,2022-11-02,1 add memories app and fix some bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.1,2022-10-27,1 add todo and fix some bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.0.2,2022-10-19,1 add todo notes can transform to a todo item. 2 fix note edit bugs.
+1634722656,0,MiroNote note ideas life,Lifestyle,2022-10-12,2022-10-12,86.2,2,0,0,0,1.0.1,2022-10-12,

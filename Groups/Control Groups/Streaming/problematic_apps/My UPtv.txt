@@ -1,0 +1,348 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+My UPtv
+Up Entertainment, LLCEntertainment (Applications)Free
+Alerts
+
+    Up Entertainment, LLC
+
+    My UPtv
+    My UPtv
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+My UPtv
+Never Miss A Show or Movie
+Entertainment (Applications)
+Free
+App Description
+From funny sitcoms and heartwarming dramas to romantic movies, Christmas movies, and our UPtv Premiere Movie events…there is everything you love about UPtv in the NEW My UPtv app!
+
+- Set reminders for your favorite shows.
+
+- View a 7-day UPtv programming schedule.
+
+- Access even more videos from the programs you love, including behind the scenes and exclusive content.
+
+Browse the app to discover new UPtv programs… or learn about titles you can also stream on UP Faith & Family (*subscription required). Add your favorite programs to your personal collection to easily access them later, set calendar reminders, and mark titles that you've watched.
+Ratings
+Displayed Avg Ratings
+3.69
+Total Displayed Ratings
+159
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.9.51 (Jan 17, 2024)
+    -FIXED: Crashes for some users when setting calendar reminders.
+    -IMPROVED: When logging into the app, the e-mail field is no longer CaPs sensitive.
+Version 3.9.4 (Oct 28, 2023)
+    -ADDED: You can now access exclusive videos from the home screen.
+Version 3.9.3 (Sep 20, 2023)
+    -FIXED: Episode count was off by one. Not anymore.
+    -FIXED: Tidied up the app logo so it wouldn't collide with the program carousel on tablets.
+    -TWEAKED: Made a minor text color correction in the e-mail opt-in messaging so it was easier to read.
+    -ENHANCED: Made it so videos would pause when you left the screen you were on. No more audio playing in the background.
+    -ADDED: Short video titles below the scenes and other exclusive videos.
+Version 3.9.2 (Sep 11, 2023)
+    - FIXED: An issue with the Trivia leaderboard.
+Version 3.9.1 (Aug 24, 2023)
+    Minor user experience enhancements. Thanks for using the My UPtv app!
+Version 3.9 (Aug 17, 2023)
+    - IMPROVED: get more real-time updates where you need them most.
+    - ENHANCED: you can now watch videos in landscape mode.
+    - FIXED: various bugs.
+    - OPTIMIZED: tidied up some code to make it even faster.
+Version 3.8 (Mar 13, 2023)
+    - Make adjustments to the airing times so if a content has multiple future airing times, the correct next airing time is showing right after that content finishes airing
+    - The message "next question in..." inside a Watch Party has now a counter that accounts for the amount of time that is left going from seconds and minutes until hours and days
+    - In the bottom bar the button is now saying Trivia instead of Party and will also be highlighted when there is active content to be seen
+    - The stunt event view will now will only show episodes that will yet be airing within the schedule of that event
+    - We've added episodes to the seasonal strips
+    - Fix a bug where episodes that didn't have the episode number were showing NaN instead of the number
+    - Fix a bug where the content cover arts were being swapped with each other
+Version 3.7 (Jan 19, 2023)
+    - General bug fixes and improvements
+Version 3.6 (Jan 6, 2023)
+    - Fixes an error that was locking users out of the app
+Version 3.5 (Dec 28, 2022)
+    - Fixes a bug that was showing empty content on the home screen for some users
+    - Other fixes and general improvements
+Version 3.5 (Dec 28, 2022)
+    - Fixes a bug that was showing empty content on the home screen for some users
+    - Other fixes and general improvements
+Version 3.4 (Dec 22, 2022)
+    - You can now add a profile picture when participating in a Watch Party;
+    - Fixed a bug that could be preventing some users of opening the app;
+    - Other general fixes and performance improvements.
+Version 3.3 (Dec 16, 2022)
+    Bug fixes and general performance improvements
+Version 3.2 (Dec 12, 2022)
+    - Whoops! We fixed a bug that caused the schedule and programs to crash when trying to load.
+Version 3.1 (Dec 9, 2022)
+    - Addded Watch Party (quizzing) functionality
+    - Optimized video playback stability
+    - Optimized schedule updates
+    - Resolved some errors that arose when users tapped certain programs items in the schedule tab
+    - Other bug fixes and optimizations to make it a more UPlifting user experience
+Version 3.0 (Nov 1, 2022)
+    This is our biggest UPdate yet!
+
+    - ADDED: Shows and episodes. Set reminders for our shows (including the ability to set daily reminders for any particular show).
+    - ADDED: 7-day schedule. View what's airing for the next week and quickly set reminders from the schedule view.
+    - ADDED: Additional tune-in notification options. Set reminders for shows/episodes -- including options for daily tune-in reminders, next episode reminders, and reminders for new episodes (when applicable)
+    - ADDED: More videos. Watch scenes and exclusive videos.
+    - ADDED: Greater ability to edit your reminders and the items that you've favorited or marked as watched.
+Version 2.03 (May 2, 2022)
+    -Updated error messaging when a user enters an invalid e-mail address during the password reset process.
+Version 2.02 (Oct 20, 2021)
+    Never miss a movie with the My UPtv Movies app!
+
+
+
+    FIXED! In some views, the watched indicator or favorite indicators wouldn't display properly.
+
+    FIXED! Squashed some bugs which caused crashes on devices using iOS 12 and iOS 13.
+Version 2.00 (Aug 26, 2021)
+    Never miss a movie with the My UPtv Movies app!
+
+    NEW! Mark movies as watched, even if they don't have additional upcoming airings.
+    NEW! Discover when movies are also available to stream on UP Faith & Family (*subscription required / free trial available)
+
+    Improved status alerts / confirmations and user experience.
+Version 1.50 (Apr 19, 2021)
+    We want to ensure you never miss a movie and get all of your UPtv movie reminders.
+
+    With this new version, tune-in reminders via app notifications are faster and more reliable.
+
+    Thanks for using the My UPtv Movies app!
+
+    COMING SOON: We will extend how long a movie is discoverable via search so you can more easily mark it as 'watched'.
+Version 1.05 (Mar 23, 2021)
+    We want to ensure your never miss a movie. Please ensure notifications are enabled to receive your personal movie tune-in reminders.
+
+    ADDED: a message will appear if notifications are disabled instructing the user how to enable them so that reminders can be received.
+
+    Thanks for using the My UPtv Movies app!
+Version 1.04 (Jan 21, 2021)
+    -Minor enhancements to make your UPtv movie experience even better!
+
+    We hope you're enjoying the My UPtv Movies app! Enjoy romantic premiere movies every Sunday at 7 PM ET on UPtv!
+Version 1.03 (Dec 31, 2020)
+    • By popular demand, users can now indicate which movies they’ve already watched. These titles will display a green checkmark icon in the browse views.
+
+    • Movies that are in the user’s favorites collection also now have a heart icon in the browse views.
+
+    • Improved network detection.
+
+    • Users will receive a notification when a new version of the My UPtv Movies app is available to download.
+
+    • Other app enhancements.
+Version 1.01 (Nov 11, 2020)
+    -Video player fix
+
+    -Minor app improvements
+
+
+    COMING SOON: Checklist feature addition
+Version 1.0 (Nov 1, 2020)
+
+Users may also like
+Select objects to compare
+GFAM Movie Checklist
+GAcommunity
+UP Faith & Family
+Hallmark Movie Checklist
+Frndly TV
+Hallmark TV
+Hallmark Movies Now
+TBN: Watch TV Live & On Demand
+BYUtv: Stream Live TV & Movies
+MeTV App
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.9.51
+    Current release
+    Jan 17, 2024
+    3.9.4
+    Oct 28, 2023
+    3.9.3
+    Sep 20, 2023
+    3.9.2
+    Sep 11, 2023
+    3.9.1
+    Aug 24, 2023
+    3.9
+    Aug 17, 2023
+    3.8
+    Mar 13, 2023
+    3.7
+    Jan 19, 2023
+    3.6
+    Jan 6, 2023
+    3.5
+    Dec 28, 2022
+    3.5
+    Dec 28, 2022
+    3.4
+    Dec 22, 2022
+    3.3
+    Dec 16, 2022
+    3.2
+    Dec 12, 2022
+    3.1
+    Dec 9, 2022
+    3.0
+    Nov 1, 2022
+    2.03
+    May 2, 2022
+    2.02
+    Oct 20, 2021
+    2.00
+    Aug 26, 2021
+    1.50
+    Apr 19, 2021
+    1.05
+    Mar 23, 2021
+    1.04
+    Jan 21, 2021
+    1.03
+    Dec 31, 2020
+    1.01
+    Nov 11, 2020
+    1.0
+    Nov 1, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Oct 31, 2020
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    3.9.51
+
+Size
+    45.71 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Up Entertainment, LLC
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    io.ionic.uptv-movie-checklist
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1537010244
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+My UPtv | data.ai

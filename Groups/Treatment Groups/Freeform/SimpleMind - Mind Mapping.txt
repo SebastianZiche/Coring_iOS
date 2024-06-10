@@ -1,0 +1,1043 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+SimpleMind - Mind Mapping
+ModelMaker ToolsProductivity (Applications)Free
+Alerts
+
+SimpleMind mind mapping
+SimpleMind - Mind Mapping
+SimpleMind - Mind Mapping
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+SimpleMind - Mind Mapping
+Capture your ideas and notes
+Productivity (Applications)
+Free
+App Description
+Mind mapping helps you organize your thoughts, remember information and generate new ideas. We've created a beautiful, intuitive app, so you can mind map wherever you are and whenever you want.
+
+
+
+Free Functionality
+
+• Everything you need to get started with mind mapping.
+
+• No ads.
+
+• No data collection.
+
+• No need to sign up for an account.
+
+• Upgrade to full functionality is a one-time single purchase.
+
+
+
+Highlights
+
+• Easy to use.
+
+• Continuously fine-tuned based on customer feedback.
+
+• Trustworthy and reliable: 14+ years of updates and improvements.
+
+• Used in a wide range of applications: business, education, legal and medical.
+
+• Tools to help you maintain overview.
+
+
+
+Create
+
+○ place topics anywhere you want in the free-form layout
+
+○ or use auto layout - great for brainstorming
+
+○ reorganize and restructure using drag, rotate, re-arrange or reconnect
+
+○ use checkboxes, progress bars, auto-numbering
+
+○ connect any two topics with a crosslink
+
+○ label relations
+
+○ virtually unlimited page size and number of elements
+
+○ supports multiple Mind Maps on one page
+
+
+
+Add media and documents
+
+○ images and photos
+
+○ notes
+
+○ icons (stock, emojis or custom)
+
+○ link to a topic, mind map, contact, file or webpage
+
+○ voice memos
+
+○ videos
+
+
+
+Seamless synchronization using clouds
+
+○ sync mind maps with your iPads and iPhones
+
+○ sync mind maps across platforms. For example with Mac - as a separate purchase
+
+○ sync using iCloud, Dropbox, OneDrive, Google Drive, 坚果云 - Nutstore and Nextcloud
+
+
+
+Share your Mind Map
+
+○ for example as PDF or Image
+
+○ outline, can be imported in word processors
+
+○ create a slideshow to present your Mind Map (Tablet only)
+
+○ print
+
+○ export to Reminders or Calendar
+
+
+
+Style your mind map
+
+○ change the appearance by selecting one of the 15+ style sheets
+
+○ create your own style sheets
+
+○ style every detail, exactly how you want it
+
+○ change borders, lines, colors, background color, the checkbox color, and much more
+
+
+
+Maintain overview
+
+○ collapse and expand branches
+
+○ hide or show branches or topics
+
+○ block out distractions with autofocus
+
+○ highlight branches by displaying branch borders
+
+○ visually group topics with group borders
+
+○ organize your Mind Maps in folders
+
+○ outline view
+
+○ search
+
+Ratings
+Displayed Avg Ratings
+4.34
+Total Displayed Ratings
+8.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.3.2 (Jan 23, 2024)
+    • Switch to another layout scheme inside an auto layout. For example start in horizontal layout and switch to a linear layout.
+    • On iPad: improved layout options picker.
+    • On iPad: customize toolbar commands.
+    • On iPhone: full screen command available on toolbar.
+    • Labels are included in outline exports and when copying as text.
+    • General improvements and bug fixes.
+Version 2.3.0 (Jan 8, 2024)
+    • Switch to another layout scheme inside an auto layout. For example start in horizontal layout and switch to a linear layout.
+    • On iPad: customize toolbar commands.
+    • On iPhone: full screen command available on toolbar.
+    • Labels are included in outline exports and when copying as text.
+    • General improvements and minor bug fixes.
+
+    Now available with Free Functionality:
+    • Icon picker with basic set of icons.
+    • Basic Style Inspector functions.
+    • Auto numbering.
+    • Open any external mind map file in read-only Viewer Mode.
+Version 2.2.0 (Aug 28, 2023)
+    • New Matrix auto layout, great for displaying information compact.
+    • Add Labels in Topics to add additional information
+    • Automatic Left/Right Text Alignment in auto-layouts. Optionally disable this via Preferences
+    General.
+    • Create a New Mind Map from what’s copied to your Clipboard.
+    • Use your downloaded custom fonts in Preferences – Fonts.
+    • Turkish Language supported.
+Version 2.1.1 (Apr 19, 2023)
+    • Images can be cropped to a shape: circle, rounded etc.
+    • Add multiple cross-links between any two topics.
+    • Exchange with ChatGPT using Copy & Paste
+    • Creating a new Mind Map on iCloud Drive lets you input the file name.
+    • Full text search on iCloud Drive supported.
+    • Minor bug fixes and improvements
+Version 2.1.0 (Apr 11, 2023)
+    • Images can be cropped to a shape: circle, rounded etc.
+    • Add multiple cross-links between any two topics.
+    • Creating a new Mind Map on iCloud Drive lets you input the file name.
+    • Full text search on iCloud Drive supported.
+    • Without InApp purchase external mind maps can be viewed in read-only mode.
+    • Minor bug fixes and improvements
+Version 2.0.1 (Jan 31, 2023)
+    • Native iCloud support
+
+    • Link to mind maps and documents in iCloud
+
+    • iOS 16 supported
+
+    • Bug reported on v2.0.0 fixed
+Version 2.0.0 (Jan 9, 2023)
+    • Native iCloud support
+    • Link to mind maps and documents in iCloud
+    • iOS 16 supported
+    • General improvements and minor bug fixes.
+Version 1.32.1 (Sep 10, 2022)
+    • “Add Image in Topic” or “Add Image” adds the image directly to the mind map. No need to select thumbnail size or the linked image size.
+
+    • The image now maintains the same quality when resizing. Enlarging the image increases the number of pixels ensuring the image still looks good.
+
+    • An “Image in Topic” can be as large as 640*640.
+
+    • “Add Linked Image” adds an image as in previous versions: a thumbnail in the mind map opens a full-size image.
+
+    • Use Preferences to set the default size and density for new images.
+
+    • On iPad, view and edit Notes in a Note panel on the right side of the screen. Use “Note” in the menu to open or close the panel.
+
+    • Linking to documents is now available in the Local and the Files tab. Add links to documents on your device or iCloud etc., links can be opened on that device only.
+
+    • Linking to mind maps is now available in the Files tab as well. Links can be opened on that device only.
+
+    • Improved look of Labels.
+
+    • SimpleMind supports Quick Look thumbnails and previews. When using the Files app (or other apps that support Quick Look) you’ll see a thumbnail or preview for .smmx Mind Map files.
+
+    • General improvements and minor bug fixes.
+    • iOS 11/12 related crash bug fixed.
+Version 1.32.1 (Sep 10, 2022)
+    • “Add Image in Topic” or “Add Image” adds the image directly to the mind map. No need to select thumbnail size or the linked image size.
+
+    • The image now maintains the same quality when resizing. Enlarging the image increases the number of pixels ensuring the image still looks good.
+
+    • An “Image in Topic” can be as large as 640*640.
+
+    • “Add Linked Image” adds an image as in previous versions: a thumbnail in the mind map opens a full-size image.
+
+    • Use Preferences to set the default size and density for new images.
+
+    • On iPad, view and edit Notes in a Note panel on the right side of the screen. Use “Note” in the menu to open or close the panel.
+
+    • Linking to documents is now available in the Local and the Files tab. Add links to documents on your device or iCloud etc., links can be opened on that device only.
+
+    • Linking to mind maps is now available in the Files tab as well. Links can be opened on that device only.
+
+    • Improved look of Labels.
+
+    • SimpleMind supports Quick Look thumbnails and previews. When using the Files app (or other apps that support Quick Look) you’ll see a thumbnail or preview for .smmx Mind Map files.
+
+    • General improvements and minor bug fixes.
+    • iOS 11/12 related crash bug fixed.
+Version 1.32.0 (Sep 7, 2022)
+    • “Add Image in Topic” or “Add Image” adds the image directly to the mind map. No need to select thumbnail size or the linked image size.
+
+    • The image now maintains the same quality when resizing. Enlarging the image increases the number of pixels ensuring the image still looks good.
+
+    • An “Image in Topic” can be as large as 640*640.
+
+    • “Add Linked Image” adds an image as in previous versions: a thumbnail in the mind map opens a full-size image.
+
+    • Use Preferences to set the default size and density for new images.
+
+    • On iPad, view and edit Notes in a Note panel on the right side of the screen. Use “Note” in the menu to open or close the panel.
+
+    • Linking to documents is now available in the Local and the Files tab. Add links to documents on your device or iCloud etc., links can be opened on that device only.
+
+    • Linking to mind maps is now available in the Files tab as well. Links can be opened on that device only.
+
+    • Improved look of Labels.
+
+    • SimpleMind supports Quick Look thumbnails and previews. When using the Files app (or other apps that support Quick Look) you’ll see a thumbnail or preview for .smmx Mind Map files.
+
+    • General improvements and minor bug fixes.
+
+Version 1.31.0 (Jan 10, 2022)
+    • The style sheets have been updated with a fresh new look.
+    • The built-in style sheets support dark mode, meaning if you switch to dark mode the style sheet will as well.
+    • Making your own custom style sheets has been made easier with the new stylesheet editor.
+    • Advanced Search options added - search for icons, checkbox or date.
+    • General improvements and minor bug fixes.
+Version 1.30.3 (Nov 8, 2021)
+    • Edit (embedded) Apple Pencil drawings
+    • Support for screenshots to capture the entire mind map as a Full Page PDF.
+    • Bugs reported on v1.30.2 fixed
+Version 1.30.2 (Oct 16, 2021)
+    • Bugs reported on v1.30.0 fixed
+    • Add Apple pencil drawings as images.
+    • Use the new Full Screen Button to easily switch to full screen.
+    • The icon inspector shows recently used icons and all icons used in this mind map.
+    • Reorder stocks icons and stylesheets.
+    • Google Drive now includes “Shared with me”.
+    • Word wrap improved for far east languages.
+    • Maximum thumbnail size increased to 640 pixels.
+    • Thumbnails can be locked to a fixed position via the lock icon.
+    • Swipe from the side to open the list with mind maps. Swipe from other side to open the inspector.
+Version 1.30.0 (Oct 11, 2021)
+    • Add Apple pencil drawings as images.
+
+    • Use the new Full Screen Button to easily switch to full screen.
+
+    • The icon inspector shows recently used icons and all icons used in this mind map.
+
+    • Reorder stocks icons and stylesheets.
+
+    • Google Drive now includes “Shared with me”.
+
+    • Word wrap improved for far east languages.
+
+    • Maximum thumbnail size increased to 640 pixels.
+
+    • Thumbnails can be locked to a fixed position via the lock icon.
+
+    • Swipe from the side to open the list with mind maps. Swipe from other side to open the inspector.
+Version 1.29.2 (Jun 5, 2021)
+    Fixed issue that only occurs on iPads running iOS 12
+Version 1.29.1 (Jun 3, 2021)
+    Auto Derive Stroke Color added to Style Inspector
+    Minor bugs fixed
+Version 1.29.0 (May 3, 2021)
+    • New brainstorm bar: designed to quickly get ideas on the canvas. It frees you from having to think about where each idea belongs within your mind map, and enables you to focus on idea generation. Once done, order your ideas using drag and drop.
+Version 1.28.3 (Mar 3, 2021)
+    • Thai translation
+
+    • UI modernized
+
+    • Long press to see context menus, for example in the mind map explorer, stylesheets etc.
+
+    • Three-finger gestures supported
+Version 1.28.1 (Dec 11, 2020)
+    • Built-in cloud support for OneDrive.
+
+    • Sort Local Mind Maps by name or date.
+
+    • New command Checkboxes
+    Reset state. Checkboxes are unchecked, progress bars are set to 0.
+
+    • Minor bug fixes.
+
+    • This update requires iOS 11.0 or later.
+Version 1.28.0 (Dec 7, 2020)
+    • Built-in cloud support for OneDrive.
+    • Sort Local Mind Maps by name or date.
+    • New command Checkboxes
+    Reset state. Checkboxes are unchecked, progress bars are set to 0.
+    • Minor bug fixes.
+    • This update requires iOS 11.0 or later.
+Version 1.27.1 (Sep 28, 2020)
+    • New Linear layout, great for making simple timelines.
+
+    • New Radial layout.
+
+    • New Stylesheet “Colored Circles”, looks great with the new radial layout.
+
+    • New Stylesheet “Blue Steel”, with a cool flat look.
+
+    • Use emojis icons in topics.
+
+    • New Topic border styles: circle, left arrow, right arrow and parallelogram.
+
+    • Topics support minimum width and height, this allows manual sizing of topics.
+
+    • iPhoneLink removed.
+
+    • Bug fixes and other minor improvements.
+Version 1.27.0 (Aug 24, 2020)
+    • New Linear layout, great for making simple timelines.
+
+    • New Radial layout.
+
+    • New Stylesheet “Colored Circles”, looks great with the new radial layout.
+
+    • New Stylesheet “Blue Steel”, with a cool flat look.
+
+    • Use emojis icons in topics.
+
+    • New Topic border styles: circle, left arrow, right arrow and parallelogram.
+
+    • Topics support minimum width and height, this allows manual sizing of topics.
+
+    • iPhoneLink removed.
+
+    • Bug fixes and other minor improvements.
+Version 1.26.0 (Apr 21, 2020)
+    New Mind Map from a template. 11 predefined templates available or add your own templates.
+    Export topics with checkboxes to Reminders.
+    Export topics with a date as events to Calendar or .ics
+    Path style “rounded” added.
+    Transparent .png image export.
+Version 1.25.1 (Dec 6, 2019)
+    Bug fixes.
+Version 1.25.0 (Dec 2, 2019)
+    • We’ve added a style panel so you can easily style topics, lines, and more. Simply tap the brush icon or select “style” from the overflow menu. The style panel is stays visible next to your mind map – every change you’ll make is immediately visible.
+    • Tap once in blank space to display the mind map style when the style panel is open.
+    • Improved color picker
+    • iOS 13 Dark mode supported
+Version 1.24.0 (Sep 2, 2019)
+    Bug fixes.
+Version 1.23.2 (Jul 12, 2019)
+    Bug fixes.
+Version 1.23.1 (Jul 10, 2019)
+    Bug fixes.
+Version 1.23.0 (Apr 15, 2019)
+    • Open Mind Maps from Files app.
+    • Wysiwyg rich text support in Note, Topics and Labels.
+    • Additional styling options for Mind Maps.
+    • Bugs fixed in Nextcloud and Nutstore cloud support.
+    • Other minor bug fixes.
+Version 1.22.0 (Dec 4, 2018)
+    • Explorers have improved folder navigation.
+    • Topic toolbar: Long press paste button for paste options Paste as Central Theme and Paste Text as List.
+    • Delete command on Relation toolbar.
+    • Removed options for shadow support in mind maps.
+    • Bug fixed: local voice memo stored on Nextcloud or Nutstore would not play back.
+    • Bug fix for Nextcloud servers that have path at the end of the server url.
+Version 1.21.0 (Aug 22, 2018)
+    • Crosslinks can be used to make a summary or merge paths.
+    • Nextcloud support added. Use your own Nextcloud based cloud server to synchronize mind maps across devices.
+    • 坚果云 – Nutstore cloud support added. Use this Chinese cloud service to synchronize mind maps across devices.
+    • Manually toggle the crosslink style via the relation toolbar to style as “normal” hierarchy or crosslink.
+    • Maximum image thumbnail size increased to 480 pixels.
+    • Working around Dropbox time outs when synchronizing.
+Version 1.20.2 (Mar 23, 2018)
+    Bug fixes
+Version 1.20.0 (Feb 13, 2018)
+    • Bug fix: not all buttons on iPad toolbar would visible.
+    • Bug fix: visibility of auto numbering and date text on dark backgrounds.
+Version 1.19.0 (Dec 5, 2017)
+    • iOS 11 support.
+    • iOS 11: Drag drop support from other apps (Safari, Photos etc)
+    • Link to Contact by phone number or email address. On iPad from iOS 9, on iPhone from iOS 10.
+    • iOS11: Convert the bookmarks (table of contents) in a .pdf document to a mind map.
+    • New Top-Down auto layout directions, Top-RightToLeft and Bottom-RightToLeft.
+    • Super script and sub script markdown support ^^super^^ ,,sub,,
+    • iPad: Typography keyboard toolbar for topics and labels. Buttons with bold, italic etc.
+    • iPhone: bold, italic and underline added to inplace editor context menu.
+    • Outliner shows dates and has a filter to show only topics with a date set.
+    • On iPad the outliner is embedded in the mind map editor.
+    • Default Word Wrap (long press wrap tool or Ctrl+W).
+    • Finder-like sorting in Dropbox and Google Drive listings.
+    • Several minor bugs fixed.
+Version 1.18.0 (Aug 8, 2017)
+    • Progress bar checkboxes (0% – 100%) and Roll-up progress checkboxes (progress automatically calculated by averaging progress from children).
+    • Set a date for a topic.
+    • Insert Sibling Topic: similar to add sibling, but orders new sibling before current topic in parent. In auto layout mode the position on the mind map page is set accordingly.
+Version 1.17.0 (Jul 17, 2017)
+    • Print and Export Mind Map or just Selected branches.
+    • Tiled (multi-page) printing with auto rotate.
+    • Print Outline. Print a mind map as hierarchy, Checklist, or notes report. More options available.
+    • Open Outline In… Similar options as Print Outline.
+    • The font used in Print / Open Outline is adjustable in Preferences
+    Fonts.
+    • Optionally disable markdown based rich text in Preferences
+    General.
+    • Check boxes displayed in outliner – hierarchy mode.
+    • Additional modes in Outliner for Checklist, TODO list and DONE list. This turns the Outliner into a live TODO/Checklist.
+    • Outliner moved from Topic toolbar to Tools menu.
+    • Full Apple APFS file system system support.
+    • Bug fixed: when editing text it was not wrapped within the work area.
+Version 1.16.2 (Apr 28, 2017)
+    • Fix for Dropbox synchronization issues that occur after you upgrade your device to iOS 10.3.
+Version 1.16.1 (Apr 23, 2017)
+    • Authentication bugs fixed.
+    • Russian translation updated.
+Version 1.16 (Apr 19, 2017)
+    • Labels can have Call-out styles.
+    • Tapered line styles for lines
+    • Normal, reversed and Auto Tapered line style
+    • Standard style sheet Natural + Colors uses Auto Tapered line style.
+    • Rich Text in topics and labels using syntax similar to mark down.
+    • Word Wrap tool maintains paragraphs and lists (mark down syntax).
+    • Option to control the Word Wrapping when adding topics and labels.
+    • New Flat Stock Icons, existing icons available on “Classic” tab
+    • Rectangular lasso selection.
+    • Auto scroll support for tools, moving elements and lasso selection.
+    • Copy across clouds e.g. between Dropbox, Google Drive.
+    • Added png image export quality (Normal, Medium, High, Extra High).
+    • Automatic transfer of SimpleMind Free Mind Maps on initial run.
+    • Dropbox v2 API supported.
+    • New Google authentication.
+    • Fix to save the map before Exporting Mind Map to Cloud.
+    • Fix sporadic crashes when pressing Done on Snap Options on iPad.
+Version 1.15 (Nov 29, 2016)
+    • Use Google Drive to synchronize with other devices
+    • Diamond and Cloud border shapes
+    • Rounded corners in angled paths
+    • Redesigned Preferences panel
+    • Performance improvement for large mind maps
+    • Using standard iOS image picker for picking images
+    • Pick Image from Clouds
+    • Bug fix: memory leaks fixed
+Version 1.14 (Jul 18, 2016)
+    Split view support
+    Outliner - replacing "Reorder topics" view
+    Angled relation paths
+    Adjustable relation paths - drag to adjust the path
+    New build-in style sheet: Chart (angled paths + arrows)
+    Style sheet editor: create new style sheets or customize the build-in style sheets
+    Bug fixed that made Cross links appear initially as a straight line
+Version 1.13 (May 2, 2016)
+    Layout Direction options (Auto, Left, Right, Top, Bottom, Manual) for auto layout modes.
+    Snap to guide lines and/or grid, available from "Snap Options" in tools drop down.
+    (Tinted) Collapsed and Hidden topic markers are clickable tools, also when the topic is not selected (see image below).
+    Option "Display Hide tool for topics" (in Global Style Options) shows hide tool for topic and moves collapse tool and collapse markers to opposite side (see image above).
+    Long press Hide/show tool shows hide/show options (hide children , full hide etc.)
+    Bug fixed in positioning hidden topics for auto horizontal and vertical layouts.
+    Bug fixed when pasting in auto layout.
+    Bug fixed related to hidden topics in auto layout.
+    iPad Pro support.
+Version 1.12 (Mar 7, 2016)
+    Several bugs fixed in Dropbox integration.
+    Embedded images
+    Tinted Checkboxes
+    Natural + Colors style added
+    Improved Top Down auto layout
+    Stylesheet preview images
+    Collapse marker depending on layout and relative position
+    Dbl Click in empty space adds central theme when nothing is selected
+    Collapse marker depending on layout and relative position
+    Work around a bug in adobe pdf viewer for borderless topics overlapping normal paths
+    Performance improvement for long dashed lines and low zoom factors.
+    Bug fix: partial invisible text
+    Bug fix: new topic initial colors in inplace editor
+    Chinese (Simplified) translation.
+    Chinese (Traditional) translation.
+    French translation.
+Version 1.11 (Nov 26, 2015)
+    Auto Layout added: Horizontal, Vertical, List, Top Down.
+    Use drag-drop to rearrange Topic order in auto layout modes.
+    Default Layout Mode for new Mind Maps in Global Style Options.
+    External Keyboard navigation with arrow keys improved.
+    Warning to prevent loosing local changes when disconnecting from Dropbox.
+    iOS9 compatibility bugs fixed.
+    Several bugs fixed in Dropbox integration.
+Version 1.10.1 (Nov 13, 2015)
+    Fix in-app purchase receipt check.
+Version 1.10 (Oct 22, 2015)
+    Multiple Selection support for all relevant commands.
+    Long Press on rotate tool invokes Rotate and Flip commands.
+    Support external keyboard shortcuts for editing operations.
+    Added Open In... to Share menu to export and open mind maps in other apps.
+    iOS 5 support discontinued.
+    Fixed bug where picking custom colors for a floating Text element could crash the app.
+    Several iOS9 compatibility problems fixed, some causing long delays.
+    Several bugs fixed.
+Version 1.9.9 (Sep 14, 2015)
+    Voice Memos can be added to topics.
+    Global Editor Scale Factor setting, e.g. to accommodate for bad eyesight.
+    Toolbar above keyboard added on the iPad.
+    Branch Hull support added.
+    Transparent fill color for topics and text added.
+    Manual online/offline switch for Dropbox.
+    iOS 4 support discontinued.
+    Several bugs fixed.
+Version 1.9.5 (Jun 1, 2015)
+    Czech translation (Special thanks go to T-Mobile for providing this).
+    Several bugs fixed.
+Version 1.9.0 (Apr 14, 2015)
+    Redesigned Dropbox support. Direct open from / save to Dropbox
+    Custom title and larger thumbnail for local Mind Maps.
+    New tool to rotate branches attached to a topic.
+    Link topic to document (e.g. pdf,docx,pptx) in Dropbox.
+    Preview linked documents and Open In... other apps.
+    Add images to Mind Map from Photos, Camera or Dropbox.
+    Maximum image size now selectable and unrestricted.
+    Allow either embedding or linking of inserted images.
+    Additional style options.
+    Russian translation.
+    Previously deprecated Web Folder support has now been removed.
+    Several bugs fixed.
+Version 1.8.3 (May 27, 2014)
+    Implemented iOS7 styling.
+    Full screen Presentation Mode.
+    Support for custom icons.
+    Additional layout options for strict horizontal and vertical layout.
+    Images in Mind Map show a button that will open a larger preview window.
+    New topics get a checkbox if the parent topic contains a checkbox.
+    A relation can be selected and deleted without also deleting associated topics.
+    Deprecated Save to Web functionality now removed.
+    The out-of-date editor help has been removed in favor of online help.
+    Minor bug fixes.
+Version 1.8.0 (Dec 28, 2013)
+    Support for inserting snippets of plain text into the mind map.
+    Each visible item in the mind map has a style and can be customized (e.g. colors, font)
+    Preset styles, either built-in or user created.
+    Support for clickable checkboxes inside topics.
+    Italian translation.
+Version 1.7.5 (Oct 16, 2013)
+    Fixes for iOS7.
+
+    Allows customized styling of a mind map.
+
+    Brazilian-Portuguese translation.
+Version 1.7.0 (Jul 22, 2013)
+    Minor bug fixes.
+    Insert Images or Photos in topics.
+    Reorder numbering.
+Version 1.6.9 (Apr 22, 2013)
+    Minor bug fixes.
+    Korean translation.
+Version 1.6.6 (Jan 20, 2013)
+    Fix broken handling of adding a node while still editing text.
+    Bug fixes in external keyboard handling.
+    Export outline as HTML text via Mail and Dropbox.
+    Autonumbering for nodes.
+Version 1.6.5 (Dec 17, 2012)
+    Support for iOS 6 and iPhone 5.
+    Infinite page size for mind maps.
+    Japanese translation.
+    AirPrint supported.
+    Word wrap, notes and collapse tools enabled for every version.
+    New color picker to freely select any color for a node.
+    Remember last selected colors in palette.
+    Emit notes in plain text export.
+    Allow export as PDF, PNG, Freemind, OPML and text to Dropbox.
+    Allow specifying the folder when saving or exporting to Dropbox
+    Emit Freemind 0.9.0 compatible files + exporter bug fixes + note import/export.
+    Trash can voor deleted mind maps and folders.
+    Assorted bug fixes.
+Version 1.6.1 (Aug 8, 2012)
+    Bug fixes.
+
+    Backup all Local Mind Maps via Mail.
+
+    Custom Style Sheet import via Dropbox.
+
+    Note marker + note editing button on a node added.
+
+    Use latest Dropbox SDK.
+
+    Updated German and Dutch translations.
+Version 1.6.0 (Apr 23, 2012)
+    Problems solved
+
+    o Performing a mind map layout could crash app.
+
+    o Auto save no longer interrupts editing and dragging
+
+    o iOS 4.2 supported again (e.g. iPhone 3G and iPod 2G).
+
+
+
+    New Features
+
+    o Add Notes on topics.
+
+    o Link Topic to web-pages.
+
+    o Open en save Mind Maps to Dropbox.
+
+    o Automatic download mind maps stored in your Dropbox that have changed.
+
+    o Word wrap tool for easy line breaking.
+
+    o Add Central theme, enables multiple Mind Maps per page.
+
+    o Navigation history on iPad in menu bar, on iPhone in tools actions.
+
+    o New map from selection, creates new mind map containing the selected topic and its children.
+
+    o Linked map from selection, create a new mind map containing the selected topic and its children and links the active mind to the new mind map.
+
+    o Fonts are adjustable per level (central theme, main branch, other levels).
+
+    o Basic Freemind v0.9 rich text support 
+Version 1.5.5 (Oct 19, 2011)
+    o iOS 5 related fixes i.e. switching tabs in mind maps list would make toolbars disappear.
+    o Minimum supported iOS version is now 4.3, we were forced to drop support for iOS version 4.2 and below.
+    o "Send via Mail" and "Share via Web" allow selecting attachment formats. (Full version only)
+    o "Send via Mail" adds attaching Outline text, opml and freemind formats. (Full version only)
+    o SimpleMind Maps, opml and freemind maps can be opened from the Mail app or any other app that supports the "Open with" feature. (Full version only)
+    o New "Soft Colors" visual style.
+    o New Level Based styles "Aqua Levels" and "Spring Levels".
+    o With Level Based styles, colors are assigned based per level (hierarchy) rather than per branch.
+    o New Stock Icons - thumbs up / down (Full version only)
+    o Document links created with SimpleMind desktop are displayed. Web-page links are active.
+    o A problem causing an seemingly endless "freeze" was solved.
+Version 1.5.2 (Sep 2, 2011)
+    Fix for local folders not saving when '&','
+Version 1.5.1 (Aug 22, 2011)
+    Mind Map and Folder list now always saved correctly on exit.
+    Improved Dutch translation.
+    Minor bug fixes.
+Version 1.5.0 (Jul 3, 2011)
+    Folders to organize your list of mind maps.
+
+    Support for custom styles created with SimpleMind Desktop.
+Version 1.3.1 (Apr 22, 2011)
+    Fixes bug that could lead to loss of a mind map data content when an out of memory event arrived while watching the help.
+    Fixes bug that could lead to the last edit action not being saved when using a four finger side swipe to switch apps on iOS4.3
+    Fixes bug that would import a mind map twice when selecting "Open in SimpleMind" from e.g. the mail app.
+Version 1.3.0 (Mar 30, 2011)
+    Universal app
+    In app purchase of full functionality
+    Search Mind Maps on Title or Topics
+    Assign Icon to Topic
+    Hyperlink Topics to other Mind Maps
+    Manage Mind Maps on Web server (delete / overwrite)
+Version 1.2.1 (Dec 19, 2010)
+    Greatly reduced the tool cloud around the selected node.
+
+    Tapping on the mind map background will hide the tool cloud.
+Version 1.2.0 (Dec 7, 2010)
+    Multi-line text in topics
+    Hide/Show subtopics via button on topic border
+    Add subtopic by clicking or dragging creator pads floating around the selected topic
+    Tap already selected topic to get a toolbar and access:
+    - Clipboard: Cut/Copy/Paste
+    New style called "Compact Gray Scale" added
+    Performance improvements
+    Removed save to camera roll, now exclusive to full version.
+Version 1.1.2 (May 26, 2010)
+    Improve mind map exchange with SimpleMind Desktop for Mac OS X.
+
+    Minor bug fixes and program code clean up.
+Version 1.1 (Nov 17, 2009)
+    Support for exchanging Mind Maps with the SimpleMind Desktop edition for Windows PCs.
+Version 1.0.9 (Jun 26, 2009)
+    Fixes for compatibility with iPhone OS 3.0.
+
+    Automatic save every 2 minutes to prevent loss of data.
+Version 1.0.8 (Mar 14, 2009)
+    o Fixed ghosting of large diagrams and stability improved.
+
+    o Implemented "Export to SimpleMind" requested by customers who bought the paid SimpleMind edition.
+
+    o Limit size of diagram to what available memory allows.
+
+    o Zoom handling improved.
+
+    o Full support for Unicode characters in photo album images.
+
+    o Keyboard Auto-Correct now adheres to setting in global keyboard settings.
+Version 1.05 (Feb 23, 2009)
+Version 1.1 (iPhone OS 3.0 Tested)
+    Support for exchanging Mind Maps with the SimpleMind Desktop edition for Windows PCs.
+
+Users may also like
+Select objects to compare
+MindNode - Mind Map & Outline
+Mind Mapping - MindMeister
+Mind Map Maker - Mindomo
+Xmind - Mind Map & Brainstorm
+Flowdia Diagrams
+Lucidchart
+MindSpace - Mind Map
+ThinkSpace: Next-gen Mind Map
+GitMind: AI Mind Map, Outline
+miMind
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+2 times
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    2.3.2
+    Current release
+    Jan 23, 2024
+    2.3.0
+    Jan 8, 2024
+    2.2.0
+    Aug 28, 2023
+    2.1.1
+    Apr 19, 2023
+    2.1.0
+    Apr 11, 2023
+    2.0.1
+    Jan 31, 2023
+    2.0.0
+    Jan 9, 2023
+    1.32.1
+    Sep 10, 2022
+    1.32.1
+    Sep 10, 2022
+    1.32.0
+    Sep 7, 2022
+    1.31.0
+    Jan 10, 2022
+    1.30.3
+    Nov 8, 2021
+    1.30.2
+    Oct 16, 2021
+    1.30.0
+    Oct 11, 2021
+    1.29.2
+    Jun 5, 2021
+    1.29.1
+    Jun 3, 2021
+    1.29.0
+    May 3, 2021
+    1.28.3
+    Mar 3, 2021
+    1.28.1
+    Dec 11, 2020
+    1.28.0
+    Dec 7, 2020
+    1.27.1
+    Sep 28, 2020
+    1.27.0
+    Aug 24, 2020
+    1.26.0
+    Apr 21, 2020
+    1.25.1
+    Dec 6, 2019
+    1.25.0
+    Dec 2, 2019
+    1.24.0
+    Sep 2, 2019
+    1.23.2
+    Jul 12, 2019
+    1.23.1
+    Jul 10, 2019
+    1.23.0
+    Apr 15, 2019
+    1.22.0
+    Dec 4, 2018
+    1.21.0
+    Aug 22, 2018
+    1.20.2
+    Mar 23, 2018
+    1.20.0
+    Feb 13, 2018
+    1.19.0
+    Dec 5, 2017
+    1.18.0
+    Aug 8, 2017
+    1.17.0
+    Jul 17, 2017
+    1.16.2
+    Apr 28, 2017
+    1.16.1
+    Apr 23, 2017
+    1.16
+    Apr 19, 2017
+    1.15
+    Nov 29, 2016
+    1.14
+    Jul 18, 2016
+    1.13
+    May 2, 2016
+    1.12
+    Mar 7, 2016
+    1.11
+    Nov 26, 2015
+    1.10.1
+    Nov 13, 2015
+    1.10
+    Oct 22, 2015
+    1.9.9
+    Sep 14, 2015
+    1.9.5
+    Jun 1, 2015
+    1.9.0
+    Apr 14, 2015
+    1.8.3
+    May 27, 2014
+    1.8.0
+    Dec 28, 2013
+    1.7.5
+    Oct 16, 2013
+    1.7.0
+    Jul 22, 2013
+    1.6.9
+    Apr 22, 2013
+    1.6.6
+    Jan 20, 2013
+    1.6.5
+    Dec 17, 2012
+    1.6.1
+    Aug 8, 2012
+    1.6.0
+    Apr 23, 2012
+    1.5.5
+    Oct 19, 2011
+    1.5.2
+    Sep 2, 2011
+    1.5.1
+    Aug 22, 2011
+    1.5.0
+    Jul 3, 2011
+    1.3.1
+    Apr 22, 2011
+    1.3.0
+    Mar 30, 2011
+    1.2.1
+    Dec 19, 2010
+    1.2.0
+    Dec 7, 2010
+    1.1.2
+    May 26, 2010
+    1.1
+    Nov 17, 2009
+    1.0.9
+    Jun 26, 2009
+    1.0.8
+    Mar 14, 2009
+    1.05
+    Feb 23, 2009
+    1.1 (iPhone OS 3.0 Tested)
+    N/A
+
+See More
+Top In-App Purchases
+
+    Unlock Pro Functionality
+    $10.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Feb 23, 2009
+
+Worldwide Release Date
+    Feb 23, 2009
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.3.2
+
+Size
+    30.34 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Dutch, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Turkish
+
+Seller
+    xpt Software & Consulting B.V.
+
+Company HQ
+    Netherlands
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    nl.xpt.simplemindexpress
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 305727658
+Unified App ID: 1000600000437420
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+SimpleMind - Mind Mapping | data.ai

@@ -1,0 +1,321 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Delightful: Gratitude Journal
+Rene DeAndaLifestyle (Applications)Free
+Alerts
+
+    Rene DeAnda
+
+    Delightful: Gratitude Journal
+    Delightful: Gratitude Journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Delightful: Gratitude Journal
+Daily gratitude for self care
+Lifestyle (Applications)
+Free
+iPhone Only
+App Description
+Delightful is a gratitude journal to record 3 good things from your day. Journal more & discover happiness in your day to day life. Your entries are all private and stored on your device. Practice daily gratitude today!
+
+Delightful gives you the following features all free forever:
+▶ Backup journal entries in CSV format
+▶ Set daily gratitude reminder time - so you don't miss an entry
+▶ Daily quote Today Widget
+▶ Daily quotes for motivation & inspiration in your day
+▶ Daily life & gratitude idea prompts that you can turn on & off in settings
+▶ Create gratitude entries for past days
+▶ Calendar view to find old gratitude entries faster
+▶ Choose a dark or light theme
+
+New Delightful Extra features are available with one-time purchase:
+▶ Privacy Lock with Touch ID / Face ID depending on your device
+▶ Search Entries by Keyword
+▶ Flashback Today Widget
+
+*** Translated & available in these languages: Spanish, French, German, & Vietnamese ***
+
+Have questions, feedback, or want to say hello?
+Email us: support@delightfuljournal.com
+Ratings
+Displayed Avg Ratings
+4.79
+Total Displayed Ratings
+1.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.2.2 (Dec 31, 2021)
+    General app improvements. Also if you aren't a fan of quotes, you can now hide the quote section on the home page with a toggle setting in the app's Settings page.
+
+    If you have any issues, please email me directly at support@delightfuljournal.com for help. Thank you & hope you are all well!
+Version 1.1.5 (Dec 12, 2021)
+    Fix for date issue when creating past entries from the calendar screen. Some UX updates.
+
+    If you still have issues, please email me directly at support@delightfuljournal.com for help. Thank you & hope you are all well!
+Version 1.1.4 (Jun 9, 2020)
+    Fix for In-app purchase bug not unlocking premium features properly. Sorry!
+
+    If you faced this issue after paying for the premium features, please use one of the "Restore" buttons to unlock premium. If you still have issues after that, please email me directly rene@delightful.me for help. Thank you & hope you are all well!
+Version 1.1.3 (Apr 29, 2020)
+    NEW:
+    - Simplify the main page quote design, you can still share the daily quote easily with the Share button just below the quote
+Version 1.1.2 (Apr 14, 2020)
+    NEW:
+    - Improve app navigation with bottom tabs - create past entries like always in the Calendar tab
+    - Improve theming throughout the app with UI/UX improvements to Calendar tab
+    - Improve daily quote push notifications
+Version 1.0.4 (Dec 28, 2019)
+    NEW:
+    - New free daily quote Today Widget & quote notifications
+    - Updated Settings page layout in the app
+    - New Delightful Pro features available via one-time purchase: Biometric Privacy Lock, Search Entries by Keyword, Flashback Today Widget
+
+    Delightful Pro is on sale through the holidays & the next month!
+
+    Thank you for your time & Happy Holidays! - Rene DeAnda
+Version 1.0.2 (Dec 20, 2019)
+    NEW:
+    - New free daily quote Today Widget
+    - New Delightful Pro features available via one-time purchase: Biometric Privacy Lock, Search Entries by Keyword, Flashback Today Widget
+    - ALL other features are still FREE forever
+
+    This app is created by a single developer, if you have found value in this app please share the app with others and/or support via Delightful Pro purchase so I can continue to build new features for the free & pro versions.
+
+    Reviews help too! Thank you for your time & Happy Holidays! - Rene DeAnda
+Version 0.10.2 (Dec 4, 2019)
+    > Improved the UI / UX throughout the app, especially the calendar view - now you can do all the same things for an entry as from the main view.
+    > You can now click on an entry to open the view/edit page for the entry.
+Version 0.9.2 (Nov 4, 2019)
+    Improved UI throughout the app.
+    Now includes daily quote that is sharable as an image. :)
+    Create entries for past days from the Calendar screen.
+
+    Love the app? Rate us! Your feedback means a lot & helps others find Delightful.
+    If you have any problems, thoughts or comments please feel free to email me: rene@delightful.me.
+Version 0.8.3 (Sep 21, 2019)
+    NEW in this release:
+    *No more text limit for entries!
+    *Now you can backup your entries to CSV!
+    *Translated into Spanish, French, German, & Vietnamese
+Version 0.8.2 (Sep 13, 2019)
+    NEW in this release:
+    **No more text limit for entries!
+    **Now you can backup your entries to CSV!
+    **Translated into Spanish, French, German, & Vietnamese
+
+    Last release:
+    **New FREE Dark theme!
+    **Ability to turn on/off daily prompts
+    **Show prompts when creating entries for past days
+
+    Thank you for using Delightful! Please email me with any issues: rene@delightful.me :)
+Version 0.7.0 (Aug 19, 2019)
+    New in this version:
+    **New FREE Dark theme!
+    **Ability to turn on/off daily prompts
+    **Show prompts when creating entries for past days
+    **UI improvements
+
+    Thank you for using Delightful!
+Version 0.6.0 (Mar 18, 2019)
+    New in v0.6.0:
+    > Added several more journal prompts
+    > Increased character count to 200
+    > Bug fixes & UI improvements
+Version 0.5.5 (Aug 23, 2018)
+    Small bug fixes
+Version 0.5.2 (Jul 25, 2018)
+    Fixed a bug that showed up when creating multiple "Past" entries in a row
+Version 0.5.1 (Jul 24, 2018)
+
+Users may also like
+Select objects to compare
+Grateful: A Gratitude Journal
+Morning! - Gratitude Journal
+Optimism — a gratitude journal
+Gratitude Journal 365
+Gratitude Journal (new)
+Gratitude On The Go
+Daily Gratitude Guided Journal
+Gratitude Journal - Mahalo
+Brighter : A Prompted Journal
+Whole: Self-Care Habit Builder
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Calendar & Reminders
+Calendar & Reminders
+Apps that can be used as a calendar or reminder so that users would not forget their schedules.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.2.2
+    Current release
+    Dec 31, 2021
+    1.1.5
+    Dec 12, 2021
+    1.1.4
+    Jun 9, 2020
+    1.1.3
+    Apr 29, 2020
+    1.1.2
+    Apr 14, 2020
+    1.0.4
+    Dec 28, 2019
+    1.0.2
+    Dec 20, 2019
+    0.10.2
+    Dec 4, 2019
+    0.9.2
+    Nov 4, 2019
+    0.8.3
+    Sep 21, 2019
+    0.8.2
+    Sep 13, 2019
+    0.7.0
+    Aug 19, 2019
+    0.6.0
+    Mar 18, 2019
+    0.5.5
+    Aug 23, 2018
+    0.5.2
+    Jul 25, 2018
+    0.5.1
+    Jul 24, 2018
+
+See More
+Top In-App Purchases
+
+    Delightful Extras
+    $6.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Jul 24, 2018
+
+Worldwide Release Date
+    Aug 1, 2018
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    1.2.2
+
+Size
+    13.26 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Spanish, Vietnamese
+
+Seller
+    Rene DeAnda
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.4 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    today.Delightful
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1414957610
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Delightful: Gratitude Journal | data.ai

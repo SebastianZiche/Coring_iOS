@@ -1,0 +1,816 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+PBS: Watch TV & Documentaries
+PBSEntertainment (Applications)Free
+Alerts
+
+PBS for iPad
+PBS: Watch TV & Documentaries
+PBS: Watch TV & Documentaries
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+PBS: Watch TV & Documentaries
+Live News and Exclusive Series
+Entertainment (Applications)
+Free
+App Description
+Get the PBS App and stream heartwarming shows like All Creatures Great & Small and Call the Midwife, plus new documentary series like Ken Burns’ American Buffalo. The PBS App features the latest news, live TV from your local PBS station, award-winning documentaries, and iconic series. Download the PBS App and stream thousands of full-length episodes anytime, anywhere!
+
+Streaming and watching TV is made easy with the PBS App. Watch series you love and discover brand new shows, live or on demand, with PBS’s streaming app available on your mobile phone, tablet, or Smart TV.
+
+Unlike conventional streaming apps, PBS lets you access local TV live! Stream local content with the PBS App livestream and discover your favorite local PBS station shows.
+
+Stay up to date with the latest news; watching shows like Frontline, PBS NewsHour, and Washington Week. Catch up on your favorite British dramas with Masterpiece classics including complete seasons of Miss Scarlet & the Duke, World on Fire, Endeavour, and Sanditon. Learn about history and science with new episodes of Finding Your Roots, Antiques Roadshow, Nature, and NOVA. Discover exciting musical performances watching Great Performances and Austin City Limits. You never have to miss a show with brand new videos and episodes added daily to the PBS App.
+
+WHAT DO YOU GET WITH THE PBS APP?
+
+STREAM LOCAL & LIVE TV
+- Connect to your local PBS station and watch your local station livestream
+- Tune in to the latest from your local community on the PBS App
+- Stream your local station TV channel live anytime
+
+WATCH TV SHOWS ON DEMAND
+- Watch TV shows on demand with the PBS App
+- TV shows of all genres - from drama and romance to murder and mystery
+- Watch a new series and your all-time favorites
+- Save episodes of your favorite TV shows to a custom watchlist
+
+STREAM A VARIETY OF CONTENT
+- Watch a new TV show or explore videos from the PBS archives
+- Stream specially curated playlists, short films, interviews, extras, and more
+- Binge TV shows of all genres on the PBS App
+- Watch films, documentaries and TV shows
+
+WATCH TV SERIES ACROSS MULTIPLE GENRES
+- Enjoy the best of streaming and entertainment with PBS
+- Drama: All Creatures Great and Small, Miss Scarlet and the Duke, Poldark, Vienna Blood, Grantchester, Sanditon, World on Fire, Baptiste, Call the Midwife, Jamestown, and more.
+- Foreign Dramas: Professor T, Seaside Hotel, The Paris Murders, and Luna and Sophie.
+- News & Public Affairs: Programs from PBS NewsHour, Frontline, Amanpour and Company, Firing Line, and Washington Week.
+- Award-Winning Films & Documentaries: Discover new perspectives with Ken Burns, Independent Lens, POV, Reel South, and the PBS Short Film Festival.
+- History: Antiques Roadshow, American Experience, American Masters, Origin of Everything, and Finding Your Roots, and more.
+- Arts & Performances: Great Performances, Live from Lincoln Center, Austin City Limits, Now Hear This, Sound Field, and more.
+- Science & Nature: Explore astonishing new worlds from NOVA, Nature, Deep Look, Expedition, and more.
+
+WATCH MORE WITH PBS PASSPORT
+Passport is an added benefit of station membership. By donating to your local PBS station you can:
+- Stream an expanded library of acclaimed PBS programming
+- Extended and exclusive access to 1,500+ episodes of your favorite shows
+- Watch past and current seasons of popular shows like All Creatures Great and Small, Endeavour, and Sanditon
+- Binge watch new TV series and your favorite PBS programs, like Finding Your Roots
+- Stream early releases and special collections, like Ken Burns films and Antiques Roadshow.
+
+WHAT’S NEW ON PBS
+
+All Creatures Great & Small S4
+Ken Burns American Buffalo
+World on Fire S2
+Spy in the Ocean
+Funny Woman
+
+Watch TV anywhere and stream PBS shows today.
+
+LEARN MORE
+- PBS App: https://www.pbs.org/pbs-app/
+- PBS Passport: https://pbs.org/getpassport
+- PBS Support: https://help.pbs.org/
+Ratings
+Displayed Avg Ratings
+4.89
+Total Displayed Ratings
+219k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.15.0 (Feb 5, 2024)
+    - Addition of a "Continue Watching" area at the top of all Show Details screens, so users can start or resume watching a series more easily
+    - Addition of a "Continuous Play" feature at the end of videos, so users can now watch episodes of their favorite shows back-to-back without leaving the video player
+    - Bug fixes
+Version 5.14.3 (Oct 25, 2023)
+    - Bug fixes
+Version 5.14.2 (Oct 12, 2023)
+    - Bug fixes
+Version 5.14.1 (Sep 11, 2023)
+    - Bug fixes
+Version 5.14.0 (Aug 31, 2023)
+    - New "Continue Watching" row on the Home screen for signed-in users
+    - New "Top 10 Shows Today" row on the Home screen for all users
+    - Minor UI improvements and bug fixes
+Version 5.13.1 (Jun 29, 2023)
+    - Bug fixes
+Version 5.13.0 (Jun 27, 2023)
+    - Addition of new rows of local shows and videos in "My Station"
+    - Live TV UI/UX improvements in "My Station"
+    - Bug fixes
+Version 5.12.2 (Apr 24, 2023)
+    - UI improvements for the Profile screen, Privacy Policy, Terms of Use, and Closed Captioning Support
+Version 5.12.1 (Mar 3, 2023)
+    - Live TV schedule is now available in the "My Station" area of the app
+    - Sign in and profile improvements
+    - Bug fixes
+Version 5.11.1 (Feb 28, 2022)
+    - Added support for Quick Actions, including "Watch Live TV", "Search", and "My List"
+Version 5.11.0 (Jan 4, 2022)
+    - Bug fixes
+Version 5.10.1 (Nov 29, 2021)
+    - Minor UI updates
+Version 5.10.0 (Oct 26, 2021)
+    - Architectural improvements for future livestream features and support
+    - Social sharing improvements
+    - Minor UI bug fixes
+Version 5.9.1 (Sep 20, 2021)
+    - iOS 15 compatibility improvements
+Version 5.9.0 (Sep 14, 2021)
+    - Added support for sharing shows or videos directly from the app to messages, social media, and more
+    - New areas in the app to browse Masterpiece, Ken Burns, PBS Digital Studios, or Walter's Choice content, all in one place
+    - Improved resume watching functionality
+Version 5.8.2 (Aug 23, 2021)
+    - Bug fixes
+Version 5.8.1 (Aug 9, 2021)
+    - Improved video player
+    - Fix for occasional double audio after watching a video and disconnecting from AirPlay
+    - Fix for video progress sometimes resetting after tapping "Done" quickly
+Version 5.7.5 (Jul 7, 2021)
+    Small update to Passport images for better visibility
+Version 5.7.4 (Jun 7, 2021)
+    - Fix for occasional video playback error
+    - VoiceOver improvement
+Version 5.7.3 (Apr 7, 2021)
+    - Fix for the app occasionally not loading for some users
+Version 5.7.2 (Feb 25, 2021)
+    - Bug fix for app occasionally getting stuck on loading screen
+    - Fix for top app crash
+Version 5.7.1 (Feb 11, 2021)
+    - Fix for occasional app crashes
+Version 5.7.0 (Jan 25, 2021)
+    - Improved VoiceOver support
+Version 5.6.0 (Nov 2, 2020)
+    - Added support for Canadian users
+Version 5.5.2 (Oct 13, 2020)
+    - Fix for occasional app crash after enabling Picture in Picture mode
+Version 5.5.1 (Sep 15, 2020)
+    - Added support for streaming Live TV via Chromecast
+Version 5.5.0 (Sep 8, 2020)
+    - Live TV is now available for select PBS stations
+    - Improvements around saved video progress
+Version 5.4.6 (Aug 18, 2020)
+    - Fix for occasional app crashes
+    - Performance improvements
+Version 5.4.5 (Jul 21, 2020)
+    Fix for occasional app crashes due to memory issues
+Version 5.4.4 (Jul 19, 2020)
+    Fix for occasional crashes due to memory issues
+Version 5.4.3 (Jul 18, 2020)
+    Fix for occasional app crashes while playing a video.
+Version 5.4.2 (Jul 15, 2020)
+    - Fix for some users not being able to sign in with their PBS account
+Version 5.4.1 (Jul 14, 2020)
+    - Fix for Chromecast not working on Passport videos
+Version 5.4.0 (Jul 9, 2020)
+    Improved video player:
+    - Added skip forward/back buttons
+    - Added volume controls
+    - Added AirPlay controls
+    - Larger buttons for easy touch controls
+    - Updated Chromecast playback controls
+    - Improved Chromecast reliability
+    Note: The Chromecast button is no longer available in the video player, but is still accessible from the top header in the app.
+Version 5.3.1 (Jul 6, 2020)
+    Fix for occasional app crashes when resetting the password associated with a PBS account.
+Version 5.3.0 (Jun 30, 2020)
+    Features a new and persistent navigation menu. Users can now access "Home", "Shows", "Search", "My List", and "My Station" easily within the app.
+Version 5.2.2 (Jun 4, 2020)
+    Added support for using Face ID and Touch ID to Sign in with Apple
+    Fixed an issue with Available Member Benefits sometimes reflecting the incorrect PBS station in the Profile area
+Version 5.2.1 (May 19, 2020)
+    Fixed issue with Search occasionally returning inaccurate results
+Version 5.2.0 (May 14, 2020)
+    Added support for Sign in with Apple
+    Fixed issue with Show collections being empty
+    Fixed issue with Search occasionally returning inaccurate results
+Version 5.1.1 (Apr 22, 2020)
+    Bug fixes.
+Version 5.1.0 (Feb 6, 2020)
+    - Updated "Watchlist" and "Favorite Shows" to "My List - Videos" and "My List - Shows"
+    - Fixed several issues causing app crashes
+Version 5.0.1 (Jan 23, 2020)
+    * Expanded screen space on notched devices & removed white bar at bottom of screen
+    * “Preview Preview” and “Play Episode” buttons now appear on related videos
+    * Fixed an issue where partially watched videos may resume from the wrong point
+    * Fixed invisible text in search field when in dark mode
+    * Fixed multiple layout bugs on tablets when changing orientation
+    * Fixed issue where some videos may fail to play after ads
+    * Fixed multiple app crashes/freezes
+Version 5.0.0 (Nov 4, 2019)
+    PBS has a brand new look! We’ve launched a refreshed brand and updated colors, fonts, and the look-and-feel used throughout the app.
+Version 4.2.0 (Sep 23, 2019)
+    * Added links on videos and seasons back to their parent show
+    * Added links to improved TV station schedules
+    * Fixed multiple display issues when in iOS 13 Dark Mode
+    * Fixed broken "Collection" links on show screens
+    * Fix issues with multiple sponsorship videos being played when resuming app after screen lock
+    * Fixed incorrect messages when trying to recreate an existing account
+    * Fixed broken link to PBS help site
+    * Fixed delay when returning to app after stopping Chromecast playback 
+Version 4.1.10 (Sep 16, 2019)
+    * Fixed an app crash when internet connectivity is lost during playback
+    * Updated Google Cast software for iOS 13 compatibility
+    Note: This version does not support Chromecast's bluetooth "guest mode"
+Version 4.1.9 (Aug 19, 2019)
+    * White Apple “Home” bar at the bottom of the screen during video playback is now hidden
+    * Fixed an issue that would cause some videos not to play or load slowly on some attempts
+    * Fixed issue with some items resizing incorrectly when changing iPad orientation
+    * Fixed issue where some users are periodically signed out
+    * Fixed several issues with Chromecast playback controls
+    * Fixed multiple issues when adding/removing favorite shows and videos
+    * Fixed occasional app crashes on various screens
+    * Fixed incorrect error message when trying to sign up with an existing email address
+Version 4.1.8 (Apr 30, 2019)
+    - Update to remove empty show seasons when browsing
+    - Updated keyboard type for sign-in on tablets
+    - Fix for favorite shows not showing up immediately when added for some users
+    - Fix for Facebook login issues
+    - Fixes for multiple app crashes
+    - Other minor fixes
+Version 4.1.5 (Jan 28, 2019)
+    - Fix for Chromecast not working for some users with Passport videos
+    - Fix for multiple closed caption issues when using Chromecast
+    - Fix for Chromecast controls on mobile device not syncing correctly
+    - Fix for player controls being disabled after returning from picture-in-picture mode on iPad
+    - Fix for videos starting again at the beginning on Chromecast after pressing "Done" on iPhone/iPad
+Version 4.1.4 (Jan 15, 2019)
+    Fix for broken Facebook sign-in
+Version 4.1.3 (Dec 18, 2018)
+    - Fix for Chromecast disconnecting when iOS screen is locked and unlocked
+    - Fix for some partially watched videos playing from the beginning on Chromecast
+    - Fix for users breaking when certain backend station info is changed
+    - Update to use newest version of Google Sign In
+Version 4.1.2 (Nov 7, 2018)
+    Updates for Apple Universal Search and "TV" app integration
+Version 4.1.1 (Oct 31, 2018)
+    Fix for Chromecast not working on iOS 12 devices
+Version 4.1.0 (Oct 29, 2018)
+    - Finally added the ability to pause or exit playback during sponsorship messages ("ads"). Sorry that took so long. Thanks for all of the feedback.
+    - Fixed multiple Chromecast playback issues (more fixes are coming soon)
+    - Fixed an occasional crash when tapping the “Preview” button on video screens
+    - Fixed an issue with the closed captioning (CC) control being disabled based on iOS system settings
+    - Fixed an issue with duplicated videos showing up on some collection screens
+    - Fixed an issue where an empty "More Episodes" row appeared on some video screens
+    - Fixed some season links/images that did not go to the seasons picker screen
+    - Added the app version in the settings section
+    - Several other small UI fixes
+Version 4.0.1 (Jun 14, 2018)
+    Fixed: A bug for some you that upgraded from an old version where you were not logged in. We were unable to identify your local station and manually selecting it wasn’t working. Sorry about all of that! The app should auto-localize you just fine now.
+
+    Fixed: A Chromecast bug where some of you would hear audio but would not see video after sponsorship messages played. You should now both hear AND SEE your videos, which we think is a much better experience.
+
+    What’s new:
+    - Browse through episodes faster with shows organized by seasons
+    - Watch a preview for the next episode before you dive in with a “preview” button on videos
+    - Explore new themed collections within select shows
+    - New “Spotlight” collection on the homescreen highlights popular new videos
+    - “My Videos” page now includes your favorite shows
+    - Each show will now feature similar shows you might also like
+
+    What’s improved:
+    - Row titles are now tappable to see all the content within that section
+    - Improved video labels include video type, season, and more
+Version 4.0.0 (Jun 7, 2018)
+    What’s new:
+    - Browse through episodes faster with shows organized by seasons
+    - Watch a preview for the next episode before you dive in with a “preview” button on videos
+    - Explore new themed collections within select shows
+    - New “Spotlight” collection on the homescreen highlights popular new videos
+    - “My Videos” page now includes your favorite shows
+    - Each show will now feature similar shows you might also like
+
+    What’s improved:
+    - Row titles are now tappable to see all the content within that section
+    - Improved video labels include video type, season, and more
+Version 3.3.3 (Mar 5, 2018)
+    Fix for "Resume Watching" feature
+Version 3.3.2 (Feb 13, 2018)
+    Bug fixes
+Version 3.3.1 (Jan 16, 2018)
+    * Bug fixes for Chromecast
+Version 3.3.0 (Dec 15, 2017)
+    Bug fixes and video playback improvements
+Version 3.2.7 (Jul 27, 2017)
+    Bug fixes
+Version 3.2.6 (Jun 19, 2017)
+    *Chromecast continues playing when app is in background or screen is off
+    *Chromecast no longer pauses when scrubbing back or forward in video
+    *Renamed "Browse" screen to "Home"
+Version 3.2.5 (May 10, 2017)
+    Fix for "Continue Watching" feature on iOS 10.3
+Version 3.2.4 (Mar 31, 2017)
+    Bug fixes
+Version 3.2.2 (Feb 28, 2017)
+    Bug fixes
+Version 3.2.1 (Oct 1, 2016)
+    * Bug fix for Spotlight Search
+Version 3.2 (Sep 29, 2016)
+    * Browsing for "New Videos" and "Featured Videos" on iPhone
+    * Progress bars for previously started videos viewable across the app
+    * Improvements to general app performance
+    * Dozens of minor UI improvements
+    * Better messaging throughout app
+    * Lots of bug fixes and stability improvements
+Version 3.1.1 (Aug 18, 2016)
+    * Minor improvements
+    * Bug fixes
+Version 3.1 (Aug 12, 2016)
+    * Fix for chromecast bug
+    * Minor bug fixes
+    * Minor UI updates
+Version 3.0 (Jul 15, 2016)
+    A completely redesigned interface to make finding and watching the shows you love even easier. Including...
+    - Simplified Browse page for easily finding shows
+    - Updated Shows page to explore PBS shows by genre
+    - Improved station screen to help you connect with and support your local PBS station
+    - Improved video playback
+    - Bug fixes
+Version 2.2.1 (Feb 3, 2016)
+    * PBS content now available in iOS Spotlight Search for iOS 9!
+    * reduced size of app since last update
+    * minor bug fixes
+Version 2.2.0 (Dec 15, 2015)
+    * bug fixes and performance improvements
+    * video player crash fixes
+Version 2.1.2 (Nov 5, 2015)
+    - minor bug fixes
+Version 2.1.1 (Oct 1, 2015)
+    * adds station affiliation
+    * fixes app crashes for iOS 9
+Version 2.1.0 (Sep 11, 2015)
+    * new TV Schedules design for iPad! View multiple days at once to discover the programming from your local PBS station.
+    * minor bug fixes
+    * app crash fixes
+Version 2.0.1 (Jun 22, 2015)
+    * fix for welcome video bug on iPhone 4 and 4s
+    * chromecast bug fixes
+    * app crash fixes
+
+    Thank you for your feedback on the new app so far! Stay tuned for more updates to TV Schedules, Search and more coming soon based on your feedback.
+
+    Thank you for your PBS Support!
+Version 2.0 (Jun 9, 2015)
+    This update brings many new and improved features to the PBS Video app including:
+    - Chromecast integration
+    - Improved Watchlist section to resume watching videos and save videos for later
+    - Major design updates
+
+    Thank you for supporting PBS!
+Version 1.8 (Oct 30, 2014)
+    Fixed issue where new content was not refreshing every day
+Version 1.7.9 (Aug 13, 2014)
+    TV schedule fixes
+Version 1.7.8 (Apr 18, 2014)
+    Fixed remaining crash issues.
+Version 1.7.7 (Mar 31, 2014)
+    Fixed application crash.
+Version 1.7.6 (Jan 29, 2014)
+    TV Schedule bug fixes.
+Version 1.7.5 (Jan 6, 2014)
+    Bug fixes.
+Version 1.7.4 (May 28, 2013)
+    Bug fixes.
+Version 1.7.3 (Dec 12, 2012)
+    Bug Fixes
+Version 1.7.2 (Nov 27, 2012)
+    - Bug Fixes
+    - Other minor performance updates
+Version 1.7.1 (Nov 1, 2012)
+    - Enhanced User Experience for iPhone 5 users
+    - Fixed re-orientation bug
+Version 1.7 (Oct 10, 2012)
+    -Redesigned video player
+    -Vastly improved video playback performance
+Version 1.6.1 (Sep 12, 2012)
+    Performance Improvements
+Version 1.6 (Jun 12, 2012)
+    Based on user feedback, we've made the following updates to improve your experience:
+
+    *New features in 1.6*
+    See More Local Programming - Now find all your favorite local PBS programming in its own tab in the Programs section
+    Global Search - Easily find any local or national Program (no more endless scrolling!)
+
+    *Other Improvements*
+    More stable video playback
+    Other User Interface improvements
+Version 1.5 (Apr 11, 2012)
+    New in this version:
+    - Minimum iOS version changed to iOS 4.3 in order to address video stability issues
+    - various bug fixes
+Version 1.4 (Jan 3, 2012)
+    Improved Stability for iOS 5
+Version 1.3.2 (Nov 30, 2011)
+    - Now requires iOS 4.2 to ensure best video playback experience
+    - Numerous bug fixes and performance enhancements
+Version 1.3.1 (Oct 18, 2011)
+    * iOS 5 Ready!
+    * Fixed Add Reminder bug that caused App to hang for iOS 5 users.
+    * various bugfixes and improvements
+Version 1.3 (Oct 3, 2011)
+    You spoke, and we listened!
+
+    This update contains numerous experience enhancements and bug fixes.
+
+    *** Also new in this version - Pick up where you left off! When signed in on your phone and tablet, video you watch on one device can be resumed on the other. Simply tap the ♥ icon.
+
+
+Version 1.2 (Apr 16, 2011)
+    ** 5/1/2011 Fixed an issue on our side for better handle the US territories, including Puerto Rico. **
+
+    Now with support for AirPlay, multitasking and a fix for the audio slide switch.
+
+    What's new in version 1.2:
+    - Enjoy streaming video on AirPlay supported devices like an AppleTV connected TV.
+    - Quickly resume your program or browsing after switching away.
+    - Consistent sound without wondering which mode you've selected for the slide switch.
+
+    More changes in 1.2
+    - SEVERAL performance enhancements
+    - NEW icon for the Programs menu
+    - IMPROVED alert messages for rights restricted content
+    - IMPROVED network detection and messaging
+    - IMPROVED episode browsing experience
+Version 1.1 (Dec 15, 2010)
+    * Improved Performance
+
+    * Improved Network Detection / Messages
+
+    * Improved Handing of Web Pages
+Version 1.0.2 (Nov 5, 2010)
+    - Addresses "unable to connect" errors reported by PBS viewers
+    - Better performance
+Version 1.01 (Oct 25, 2010)
+    Increased server capacity for improved performance and availability (10/26/10).
+
+    Program Search now includes searching anywhere within the title and description.
+
+    Learn more about PBS mobile resources at www.pbs.org/services/mobile.
+Version 3.2.3 (Oct 25, 2010)
+    Bug fixes
+Version 1.0 (Oct 20, 2010)
+
+Users may also like
+Select objects to compare
+Acorn TV: Watch British Series
+BBC America
+BritBox: The Best British TV
+WATCH TCM
+Smithsonian Channel
+The Criterion Channel
+Nat Geo TV: Live & On Demand
+HISTORY: Shows & Documentaries
+Hallmark TV
+TV Guide: Streaming & Live TV
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.15.0
+    Current release
+    Feb 5, 2024
+    5.14.3
+    Oct 25, 2023
+    5.14.2
+    Oct 12, 2023
+    5.14.1
+    Sep 11, 2023
+    5.14.0
+    Aug 31, 2023
+    5.13.1
+    Jun 29, 2023
+    5.13.0
+    Jun 27, 2023
+    5.12.2
+    Apr 24, 2023
+    5.12.1
+    Mar 3, 2023
+    5.11.1
+    Feb 28, 2022
+    5.11.0
+    Jan 4, 2022
+    5.10.1
+    Nov 29, 2021
+    5.10.0
+    Oct 26, 2021
+    5.9.1
+    Sep 20, 2021
+    5.9.0
+    Sep 14, 2021
+    5.8.2
+    Aug 23, 2021
+    5.8.1
+    Aug 9, 2021
+    5.7.5
+    Jul 7, 2021
+    5.7.4
+    Jun 7, 2021
+    5.7.3
+    Apr 7, 2021
+    5.7.2
+    Feb 25, 2021
+    5.7.1
+    Feb 11, 2021
+    5.7.0
+    Jan 25, 2021
+    5.6.0
+    Nov 2, 2020
+    5.5.2
+    Oct 13, 2020
+    5.5.1
+    Sep 15, 2020
+    5.5.0
+    Sep 8, 2020
+    5.4.6
+    Aug 18, 2020
+    5.4.5
+    Jul 21, 2020
+    5.4.4
+    Jul 19, 2020
+    5.4.3
+    Jul 18, 2020
+    5.4.2
+    Jul 15, 2020
+    5.4.1
+    Jul 14, 2020
+    5.4.0
+    Jul 9, 2020
+    5.3.1
+    Jul 6, 2020
+    5.3.0
+    Jun 30, 2020
+    5.2.2
+    Jun 4, 2020
+    5.2.1
+    May 19, 2020
+    5.2.0
+    May 14, 2020
+    5.1.1
+    Apr 22, 2020
+    5.1.0
+    Feb 6, 2020
+    5.0.1
+    Jan 23, 2020
+    5.0.0
+    Nov 4, 2019
+    4.2.0
+    Sep 23, 2019
+    4.1.10
+    Sep 16, 2019
+    4.1.9
+    Aug 19, 2019
+    4.1.8
+    Apr 30, 2019
+    4.1.5
+    Jan 28, 2019
+    4.1.4
+    Jan 15, 2019
+    4.1.3
+    Dec 18, 2018
+    4.1.2
+    Nov 7, 2018
+    4.1.1
+    Oct 31, 2018
+    4.1.0
+    Oct 29, 2018
+    4.0.1
+    Jun 14, 2018
+    4.0.0
+    Jun 7, 2018
+    3.3.3
+    Mar 5, 2018
+    3.3.2
+    Feb 13, 2018
+    3.3.1
+    Jan 16, 2018
+    3.3.0
+    Dec 15, 2017
+    3.2.7
+    Jul 27, 2017
+    3.2.6
+    Jun 19, 2017
+    3.2.5
+    May 10, 2017
+    3.2.4
+    Mar 31, 2017
+    3.2.2
+    Feb 28, 2017
+    3.2.1
+    Oct 1, 2016
+    3.2
+    Sep 29, 2016
+    3.1.1
+    Aug 18, 2016
+    3.1
+    Aug 12, 2016
+    3.0
+    Jul 15, 2016
+    2.2.1
+    Feb 3, 2016
+    2.2.0
+    Dec 15, 2015
+    2.1.2
+    Nov 5, 2015
+    2.1.1
+    Oct 1, 2015
+    2.1.0
+    Sep 11, 2015
+    2.0.1
+    Jun 22, 2015
+    2.0
+    Jun 9, 2015
+    1.8
+    Oct 30, 2014
+    1.7.9
+    Aug 13, 2014
+    1.7.8
+    Apr 18, 2014
+    1.7.7
+    Mar 31, 2014
+    1.7.6
+    Jan 29, 2014
+    1.7.5
+    Jan 6, 2014
+    1.7.4
+    May 28, 2013
+    1.7.3
+    Dec 12, 2012
+    1.7.2
+    Nov 27, 2012
+    1.7.1
+    Nov 1, 2012
+    1.7
+    Oct 10, 2012
+    1.6.1
+    Sep 12, 2012
+    1.6
+    Jun 12, 2012
+    1.5
+    Apr 11, 2012
+    1.4
+    Jan 3, 2012
+    1.3.2
+    Nov 30, 2011
+    1.3.1
+    Oct 18, 2011
+    1.3
+    Oct 3, 2011
+    1.2
+    Apr 16, 2011
+    1.1
+    Dec 15, 2010
+    1.0.2
+    Nov 5, 2010
+    1.01
+    Oct 25, 2010
+    3.2.3
+    Oct 25, 2010
+    1.0
+    Oct 20, 2010
+
+See More
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Oct 25, 2010
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    5.15.0
+
+Size
+    58.95 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Public Broadcasting Service
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    org.pbs.playeripad
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 398349296
+Unified App ID: 1000600000443733
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+PBS: Watch TV & Documentaries | data.ai

@@ -1,0 +1,590 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Mori Journal
+美乐 陈Lifestyle (Applications)Free
+Alerts
+
+    美乐 陈
+
+    Mori Journal
+    Mori Journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Mori Journal
+Lifestyle (Applications)
+Free
+iPhone Only
+App Description
+We may all once had a small notebook, fully written with a variety of handwriting styles and filled with cute stickers.
+
+Deep inside our memory, this notebook is precious, since all our moments of happiness and sadness were remarked and engraved in it.
+
+Years past by, perhaps we have already forgotten which corner in time this small notebook is hidden. Also we no longer have spare time to write down our daily life. However, we still would love a warm place for our memory, no matter sweet or bitter, to stay.
+
+Mori journal, an application decided to record your life/work anytime and anywhere. Simply switch between private and open mode to lock your secrets. Hundreds of talented journalists are now gathering in Mori Community and they’d love to share their journal writing techniques.
+
+Hand-painted cute stickers, tape brush, lovely fonts, colourful backgrounds, are all waiting for you to explore! Create your very own customized electrical notebook just right here, right now!
+
+We cannot stop how time flies, yet we can learn to record it better. We believe that Mori will become an amazing discovery of yours.
+
+Mori Journal, an application that records life with you.
+Ratings
+Displayed Avg Ratings
+4.94
+Total Displayed Ratings
+263k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.3.7 (Feb 26, 2022)
+    ·修复了多选贴纸点击无反应的问题，批量添加更方便；
+    ·修复了无法更换头像的问题，美美的头像换起来；
+    ·你的「世界」又可以发布动态啦，据说分享动态可以带来快乐呢！
+    冲鸭小可爱们，快来Mori手帐记录你的精致生活吧！
+
+    使用过程中有任何问题或建议，请通过“我的-我要吐槽”进行反馈，Mori酱会及时为你服务！
+    如果你喜欢Mori手帐，请留下好评鼓励我们还可以把我推荐给你身边的朋友哦~
+Version 4.3.6 (Aug 17, 2021)
+    ·修复了多选贴纸点击无反应的问题，批量添加更方便；
+    ·修复了无法更换头像的问题，美美的头像换起来；
+    ·你的「世界」又可以发布动态啦，据说分享动态可以带来快乐呢！
+    冲鸭小可爱们，快来Mori手帐记录你的精致生活吧！
+
+    使用过程中有任何问题或建议，请通过“我的-我要吐槽”进行反馈，Mori酱会及时为你服务！
+    如果你喜欢Mori手帐，请留下好评鼓励我们还可以把我推荐给你身边的朋友哦~
+Version 4.3.5 (Jul 21, 2021)
+    修复部分已知问题优化产品体验
+Version 4.3.2 (Apr 21, 2021)
+    修复部分手机无法提交打印订单的问题
+Version 4.3.1 (Apr 9, 2021)
+    修复部分已知bug，优化用户体验
+Version 4.3.0 (Dec 26, 2020)
+    修复bug，优化用户体验。
+Version 4.2.9 (Dec 2, 2020)
+    修復閃退的問題
+    適配全面屏
+Version 4.2.8 (Dec 16, 2019)
+    修復列印服務支付失敗的問題
+Version 4.2.7 (Oct 25, 2019)
+    Fix crashes on iOS 13
+Version 4.2.6 (Oct 23, 2019)
+    bugfix for iOS 13 
+Version 4.2.5 (Oct 25, 2018)
+    1、修复了已知Bug
+    2、兼容 iOS12，修复模版无法预览问题
+Version 4.2.3 (Jul 2, 2018)
+    修复订单下单失败的问题~
+Version 4.2.2 (Jun 28, 2018)
+    The new version has made Mr.Bug become a lovelorn boy, and he became quiet eventually.
+    1. 【Face ID】-facial recognition，you can open up the memo with a big smile.
+    2.【Editing Optimization】-The text will never be cut off with no reason.
+    3. 【Printing stability】-A more successful upload surprised you a lot.
+Version 4.2.1 (May 29, 2018)
+    1、New printing function;
+
+    2、New print mode in editor, select this mode will contain print margins;
+
+    3、Solving known problems.
+Version 4.2.0 (May 23, 2018)
+    1、New printing function;
+
+    2、New print mode in editor, select this mode will contain print margins;
+
+    3、Solving known problems.
+Version 4.1.1 (Apr 17, 2018)
+    1. Add custom cover function for "Sharing Journal Book";
+    2. Optimize the view of the list of journals.
+Version 4.0.4 (Apr 2, 2018)
+    1、New Journal-sharing system;
+    2、Stickers can be added to your favorites；
+    3、Support deleting the purchased templates and fonts.
+Version 4.0.3 (Mar 30, 2018)
+    1、New Journal-sharing system;
+    2、Stickers can be added to your favorites；
+    3、Support deleting the purchased templates and fonts.
+Version 4.0.2 (Mar 26, 2018)
+    1、New Journal-sharing system;
+    2、Stickers can be added to your favorites；
+    3、Support deleting the purchased templates and fonts.
+Version 4.0.1 (Mar 23, 2018)
+    1、New Journal-sharing system;
+    2、Stickers can be added to your favorites；
+    3、Support deleting the purchased templates and fonts.
+Version 3.6.5 (Mar 9, 2018)
+    Improve performance
+Version 3.6.4 (Mar 6, 2018)
+    Improve performance
+Version 3.6.3 (Mar 3, 2018)
+    Improve performance
+Version 3.6.2 (Feb 27, 2018)
+    Improve performance
+Version 3.6.1 (Feb 19, 2018)
+    1. New recycle Bin
+    2. Support setting material transparency
+    3. Upgrade brush editing
+Version 3.6.0 (Feb 9, 2018)
+    1. New recycle Bin
+    2. Support setting material transparency
+    3. Upgrade brush editing
+Version 3.5.1 (Feb 3, 2018)
+    1.Mori 手帐APP内版面改版
+    2.支持有多手帐本
+    3.可查看他人公开手帐本＆分享整本手帐本
+    4.新增【附近】频道
+Version 3.4.3 (Jan 12, 2018)
+    Version 3.4
+    1. Add 18 beautiful journal covers
+    2.Three kinds of journal preview view, new search function of the journal
+    3. Journal material can be copied
+    4. Support for replacing personal space background
+    5.Support for viewing personal space visitors
+    6.Add a personal tag, let your friends know you faster
+Version 3.4.2 (Jan 11, 2018)
+    Version 3.4
+    1. Add 18 beautiful journal covers
+    2.Three kinds of journal preview view, new search function of the journal
+    3. Journal material can be copied
+    4. Support for replacing personal space background
+    5.Support for viewing personal space visitors
+    6.Add a personal tag, let your friends know you faster
+Version 3.4.1 (Jan 5, 2018)
+    Version 3.4
+    1. Add 18 beautiful journal covers
+    2.Three kinds of journal preview view, new search function of the journal
+    3. Journal material can be copied
+    4. Support for replacing personal space background
+    5.Support for viewing personal space visitors
+    6.Add a personal tag, let your friends know you faster
+Version 3.4.0 (Jan 4, 2018)
+    Version 3.4
+    1. Add 18 beautiful journal covers
+    2.Three kinds of journal preview view, new search function of the journal
+    3. Journal material can be copied
+    4. Support for replacing personal space background
+    5.Support for viewing personal space visitors
+    6.Add a personal tag, let your friends know you faster
+Version 3.3.1 (Dec 22, 2017)
+    - improve performance
+Version 3.3.0 (Dec 11, 2017)
+    - Adapt to iPhoneX
+    - New mobile login and account binding
+    - Friends feature, looking for a good friend
+    - Hot square can see the timeline of good friends
+    - Support timeline, topic, space sharing
+    - Personal space privacy permissions
+Version 3.2.2 (Nov 22, 2017)
+    - improve performance
+Version 3.2.1 (Nov 8, 2017)
+    - bug fix
+Version 3.2.0 (Nov 1, 2017)
+    - support for dynamic publishing of plain text and multi-graphs
+    - Search can be targeted when publishing dynamic
+    - Massive long page template
+Version 3.1.2 (Oct 22, 2017)
+    - bug fix
+Version 3.1.1 (Oct 20, 2017)
+    - New hot square, support for sending real-time information
+    - Add topic tags to find interesting things
+Version 3.1.0 (Oct 19, 2017)
+    - New hot square, support for sending real-time information
+    - Add topic tags to find interesting things
+Version 3.0.1 (Sep 23, 2017)
+    - Dual editors , support for paging editing and long chart editing
+    - Fixed some bugs
+Version 3.0.0 (Sep 18, 2017)
+    - New  editor, update the paper paging system
+
+    - Fonts, brushes, text editing and picture saving optimization
+
+    - new model mall, more high-quality exquisite template  in Mori
+
+    - Added Mori artist system, everyone is the artist of life
+Version 2.6.5 (Aug 7, 2017)
+    - improve experience
+Version 2.6.4 (Jul 26, 2017)
+    - improve experience
+Version 2.6.3 (Jul 22, 2017)
+    - bug fix
+Version 2.6.2 (Jun 26, 2017)
+    - improve experience
+Version 2.6.1 (Jun 20, 2017)
+    - bug fix
+Version 2.6.0 (Jun 19, 2017)
+    - Advanced text editing
+    - Manage the side notes of the journal
+    - Quick create new schedule and To Do list in journal
+    - The list to be sorted by the cut-off time
+    - Experience editing optimization, increase the "move up and down", "bottom" shortcut keys operation
+Version 2.5.1 (Jun 4, 2017)
+    - bug fix
+Version 2.5.0 (May 30, 2017)
+    - Newly added comment feature
+    - New Notification Centre
+Version 2.4.1 (May 20, 2017)
+    - Support setting password
+    - Support inserting schedules and to-do lists
+Version 2.4.0 (May 16, 2017)
+    - Support setting password
+    - Support inserting schedules and to-do lists
+Version 2.3.2 (May 9, 2017)
+    - Bug fixes
+Version 2.3.1 (May 6, 2017)
+    - Bug fixes
+Version 2.3.0 (Apr 30, 2017)
+    - Schedule planning
+    - To-do list
+    - More exquisite design of filofax
+    - Bug fixes
+Version 2.2.2 (Mar 28, 2017)
+    - Fix some bugs
+Version 2.2.1 (Mar 22, 2017)
+    - Fix some bugs
+Version 2.2.0 (Mar 20, 2017)
+    - Support for multiple languages
+    - The brush editor optimization
+    - Fix some bugs
+Version 2.1.0 (Mar 3, 2017)
+    - 新增贴纸镜面翻转
+    - 新增模版管理
+    - 底部水印优化
+    - 用户反馈体验优化
+    - Mori手帐操作体验优化
+Version 2.0.1 (Feb 6, 2017)
+    1，修复iOS8.1系统作品偶尔出现黑底的问题
+Version 2.0.0 (Jan 24, 2017)
+    - Mori手帐全新品牌&UI重磅上线
+    - 修复一些已知问题
+Version 1.2.3 (Jan 16, 2017)
+    1. 提升稳定性
+Version 1.2.2 (Jan 10, 2017)
+    1. 提高稳定性
+Version 1.2.1 (Dec 23, 2016)
+    - 保存时自动读取标题
+    - 自动记忆上次使用的素材分类
+    - 背景添加分类
+    - 优化了网络不好的情况下编辑作品的体验
+    - 优化了素材缓存
+    - 修复了一些已知问题，提高了稳定性
+Version 1.2.0 (Dec 17, 2016)
+    - 贴纸现在支持多选插入
+    - 新增新手引导，帮助你成为大神
+    - 文本编辑面板体验优化，增加全屏显示
+    - 图片全屏面板增加拍照
+    - 迷你面板增加分类显示
+    - 保存机制大幅优化
+    - 若干UI细节优化
+    - 修复了一些已知问题
+Version 1.1.1 (Dec 7, 2016)
+    - 修复微信登录用户看不到作品的问题
+Version 1.1.0 (Dec 4, 2016)
+    - 增加通知中心
+    - 增加PUSH推送
+    - 调整了一些 UI 界面
+    - 优化了一些已知问题
+Version 1.0.1 (Nov 24, 2016)
+
+Users may also like
+Select objects to compare
+Time Diary
+若柔手帐-超治愈的花样笔记本
+Diary - Private Note With Lock
+Moo日记 - 你的心情树洞
+Lemon Diary-journaling app
+Diary-Journal with lock
+Card Diary - Journal, Diary
+Grid Diary - Journal, Planner
+吾记 - 日记本,记事本
+Bujo - Bullet Journal&Planner
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.3.7
+    Current release
+    Feb 26, 2022
+    4.3.6
+    Aug 17, 2021
+    4.3.5
+    Jul 21, 2021
+    4.3.2
+    Apr 21, 2021
+    4.3.1
+    Apr 9, 2021
+    4.3.0
+    Dec 26, 2020
+    4.2.9
+    Dec 2, 2020
+    4.2.8
+    Dec 16, 2019
+    4.2.7
+    Oct 25, 2019
+    4.2.6
+    Oct 23, 2019
+    4.2.5
+    Oct 25, 2018
+    4.2.3
+    Jul 2, 2018
+    4.2.2
+    Jun 28, 2018
+    4.2.1
+    May 29, 2018
+    4.2.0
+    May 23, 2018
+    4.1.1
+    Apr 17, 2018
+    4.0.4
+    Apr 2, 2018
+    4.0.3
+    Mar 30, 2018
+    4.0.2
+    Mar 26, 2018
+    4.0.1
+    Mar 23, 2018
+    3.6.5
+    Mar 9, 2018
+    3.6.4
+    Mar 6, 2018
+    3.6.3
+    Mar 3, 2018
+    3.6.2
+    Feb 27, 2018
+    3.6.1
+    Feb 19, 2018
+    3.6.0
+    Feb 9, 2018
+    3.5.1
+    Feb 3, 2018
+    3.4.3
+    Jan 12, 2018
+    3.4.2
+    Jan 11, 2018
+    3.4.1
+    Jan 5, 2018
+    3.4.0
+    Jan 4, 2018
+    3.3.1
+    Dec 22, 2017
+    3.3.0
+    Dec 11, 2017
+    3.2.2
+    Nov 22, 2017
+    3.2.1
+    Nov 8, 2017
+    3.2.0
+    Nov 1, 2017
+    3.1.2
+    Oct 22, 2017
+    3.1.1
+    Oct 20, 2017
+    3.1.0
+    Oct 19, 2017
+    3.0.1
+    Sep 23, 2017
+    3.0.0
+    Sep 18, 2017
+    2.6.5
+    Aug 7, 2017
+    2.6.4
+    Jul 26, 2017
+    2.6.3
+    Jul 22, 2017
+    2.6.2
+    Jun 26, 2017
+    2.6.1
+    Jun 20, 2017
+    2.6.0
+    Jun 19, 2017
+    2.5.1
+    Jun 4, 2017
+    2.5.0
+    May 30, 2017
+    2.4.1
+    May 20, 2017
+    2.4.0
+    May 16, 2017
+    2.3.2
+    May 9, 2017
+    2.3.1
+    May 6, 2017
+    2.3.0
+    Apr 30, 2017
+    2.2.2
+    Mar 28, 2017
+    2.2.1
+    Mar 22, 2017
+    2.2.0
+    Mar 20, 2017
+    2.1.0
+    Mar 3, 2017
+    2.0.1
+    Feb 6, 2017
+    2.0.0
+    Jan 24, 2017
+    1.2.3
+    Jan 16, 2017
+    1.2.2
+    Jan 10, 2017
+    1.2.1
+    Dec 23, 2016
+    1.2.0
+    Dec 17, 2016
+    1.1.1
+    Dec 7, 2016
+    1.1.0
+    Dec 4, 2016
+    1.0.1
+    Nov 24, 2016
+
+See More
+Top In-App Purchases
+
+    18元素材
+    $2.99
+    1元素材
+    $0.99
+    8元素材
+    $0.99
+    6元素材
+    $0.99
+    12元素材
+    $1.99
+    3元素材
+    $0.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Nov 24, 2016
+
+Worldwide Release Date
+    Nov 24, 2016
+
+Last Updated Time
+    Feb 21, 2024
+
+Version
+    4.3.7
+
+Size
+    131.78 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Simplified Chinese, Traditional Chinese
+
+Seller
+    美乐 陈
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.shouzhang.com
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1163980954
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Mori Journal | data.ai

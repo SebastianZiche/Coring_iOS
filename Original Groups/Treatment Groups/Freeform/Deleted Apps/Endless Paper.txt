@@ -1,0 +1,378 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Endless Paper
+EpiphanieProductivity (Applications)$9.99
+Alerts
+
+    Epiphanie
+
+    Endless Paper
+    Endless Paper
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Endless Paper
+Infinite canvas to grow ideas
+Productivity (Applications)
+$9.99
+iPad Only
+App Description
+Introducing Endless Paper, an all-new kind of app featuring an infinite canvas which lets you take handwritten notes, create immersive art pieces, explore and grow ideas visually, and so much more…
+Deliberately simple yet powerful, incredibly fast, Endless Paper is as natural to use as pen & paper without the limitations of physical media.
+
+Whether you are a student taking notes, an artist wanting to explore uncharted territories, or a manager brainstorming on your next project, Endless Paper is a versatile tool to help you think and communicate visually.
+
+HIGHLIGHTS
+• A truly infinite canvas
+• Ultra-crisp drawings at any zoom factor
+• Create vast and expansive universes while occupying a minimal storage footprint
+• Bookmarks to quickly navigate your canvas
+• Drag and drop pictures from basically any app, including images with transparency
+• Broadcast a live version of your canvas to the web
+• Unlimited undo and redo
+• Data integrity: continuous auto-save coupled with an archiving system
+• An interaction model that minimizes error and cognitive load
+• Designed and optimized for iPad and Apple Pencil
+• Powered by Fractile: Metal-accelerated, 64-bit vector rendering engine
+
+DRAWN BY INFINITY
+If you've been itching to know the techniques employed in creating the fascinating infinite zoom videos that are trending on social media, your search is over. Endless Paper's infinite canvas challenges you to think beyond isolated artworks, empowering you to weave an expansive tapestry of interconnected stories told in a new long-form format that extends beyond panels. For the first time ever, artists have the ability to accumulate a lifetime's worth of creations into one cohesive masterpiece. It liberates you from the constraints of traditional media, while still delivering a drawing and painting experience that closely resembles traditional methods.
+
+SPATIAL WHITEBOARD
+Have you ever started sketching an idea only to find out you won't have enough room to finish? Problem solved.
+But here's the secret perk: Endless Paper let's you organize your content spatially. Everything in its right place. You can focus on the minute details of your project and quickly step back to see the big picture. It gives a sense of place to your work without artificial separation between documents. Every capability available at the document level seamlessly extends to any level. It all just works in a surprisingly consistent way.
+
+DECEPTIVELY SIMPLE, INCREDIBLY POWERFUL
+Endless Paper is designed to be natural to use. But this is no purposeless minimalism. Interactions are as simple as possible in order to minimize errors and cognitive load. This lets you dedicate 100% of your brain to the task at hand. Interactions feel second nature, especially important in stressful situations or when you hand over your iPad to someone who has never used the app before.
+
+DESIGNED FOR IPAD AND APPLE PENCIL
+The tailor-made Fractile vector rendering engine delivers an unparalleled level of performance: Whenever you are panning, zooming or writing, you always get ultra-crisp, retina quality, vector rendering at a silky smooth 120 fps, even with millions of strokes simultaneously on screen.
+Canvases accumulating years’ worth of drawings and notes will open instantly. No sweat.
+It all participates in an almost unreal, magical experience.
+
+REACTIVE SUPPORT TEAM
+Embark on your endless journey today, and don't hesitate to connect with us at support@endlesspaper.app or simply use the integrated "Email Us" function for any questions, suggestions, or ideas to enhance Endless Paper.
+We are dedicated to assisting you and truly appreciate feedback!
+
+Artworks by @gregcicle, @the.ogarno, @vaskange, @ty_tyler_art_work, @digitalbobert, @pabloandrespozo and @codiesimpsonart.
+Ratings
+Displayed Avg Ratings
+3.05
+Total Displayed Ratings
+391
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.4.5 (Feb 20, 2024)
+    This version brings more improvements to the stroke rendering quality, as well as a few minor bug fixes and new messages to alert you if you don’t have enough storage space or if the auto-saving process has been compromised.
+Version 1.4.4 (Jan 15, 2024)
+    This update brings significant improvements to the stroke’s rendering quality.
+Version 1.4.3 (Dec 22, 2023)
+    This version introduces a new setting to let you draw with your finger instead of the Apple Pencil.
+
+    It also contains important bug fixes regarding new features introduced in version 1.4.0:
+    - The ability to create and work on multiple canvases, and quickly switch between them.
+    - A redesigned bookmark menu with folders (including nested folders).
+    - A bullet journal grid for neat writing and drawing.
+    - A new export feature to share your canvas as a high-resolution image.
+Version 1.4.2 (Dec 11, 2023)
+    This update once again contains important bug fixes regarding new features introduced in version 1.4.0:
+    - The ability to create and work on multiple canvases, and quickly switch between them.
+    - A redesigned bookmark menu with folders (including nested folders).
+    - A bullet journal grid for neat writing and drawing.
+    - A new export feature to share your canvas as a high-resolution image.
+Version 1.4.1 (Dec 8, 2023)
+    This update contains important bug fixes regarding new features introduced in version 1.4.0:
+    - The ability to create and work on multiple canvases, and quickly switch between them.
+    - A redesigned bookmark menu with folders (including nested folders).
+    - A bullet journal grid for neat writing and drawing.
+    - A new export feature to share your canvas as a high-resolution image.
+Version 1.4.0 (Dec 5, 2023)
+    We are proud to present Endless Paper 1.4.0.
+
+    This version introduces highly requested features, including:
+    - The ability to create and work on multiple canvases, and quickly switch between them.
+    - A redesigned bookmark menu with folders (including nested folders).
+    - A bullet journal grid for neat writing and drawing.
+    - A new export feature to share your canvas as a high-resolution image.
+
+    Additionally, this update brings:
+    - A reorganized layout for the Options and Info tabs.
+    - As usual, numerous bug fixes and optimizations.
+
+    We hope you'll enjoy these exciting new features!
+Version 1.3.3 (Nov 28, 2023)
+    Be prepared, as this could be our final minor update before unveiling...
+    But enough about the very, very near future, in this release we’ve implemented some minor bug fixes, as usual, and added a new button for you to easily leave a review.
+Version 1.3.2 (Oct 30, 2023)
+    Following the remarkable success of our previous update, we're continuing in the same vein for version 1.3.2 and are excited to present additional minor bug fixes.
+Version 1.3.1 (Oct 9, 2023)
+    Following extensive and unwavering dedication, we are delighted to present to you the latest evolution of our app: version 1.3.1. 
+    But let's not skim over the details; here's the comprehensive list of features meticulously crafted for your benefit:
+    • Addressed minor bug fixes.
+Version 1.3.0 (Jul 7, 2023)
+    We've been hard at work, and we're thrilled to bring you a feature-packed update with Endless Paper 1.3!
+    Here's what you can expect in this release:
+    • Ruler: Now you can effortlessly draw straight lines and easily snap to other strokes for precise creations.
+    • Eraser: Choose to selectively erase content by layer (foreground or background) or zoom level (above or below), giving you more control over your artwork.
+    • Eyedropper: Quickly sample and select colors from existing drawings or pictures, making it a breeze to maintain consistency in your creations.
+    • Archiving system: Safeguard your valuable work by backing up and exporting your canvas to other users and devices, ensuring your art is always secure.
+    • Apple Pencil hover: Enjoy the convenience of previewing exactly where your stroke will fall, available on supported iPads, for a more intuitive drawing experience.
+    • Left-handed mode: We apologize for the delay, but left-handed mode is finally here.
+    • Image workflow improvements: We've made it easier than ever to work with images, including the ability to replace images, transparency-aware picking, and automatic pruning of unused images.
+    • User manual: We now have a comprehensive user manual. You can now quickly access guidance and instructions directly within the app.
+    • Redo shortcut: To complement the handy undo shortcut, double tap with 3 fingers anywhere on the screen to trigger a redo.
+    • Tons of bug fixes and optimizations: We've diligently addressed numerous bugs and optimized the app to provide you with a smoother and more reliable experience.
+    We can't wait for you to explore these new features and enhancements in Endless Paper 1.3.
+    Your feedback has been invaluable in shaping this update, and we're grateful for your continued support. Happy creating!
+Version 1.2.3 (May 1, 2023)
+    Adds a button to access the user manual and adds a button to request access to experimental features.
+Version 1.2.2 (Aug 29, 2022)
+    This update includes some important fixes for large canvases, improves image loading and allows to display more images simultaneously on the screen.
+Version 1.2.1 (Feb 8, 2022)
+    This update includes some important fixes as well as improvement to fullscreen mode & HSB color chooser.
+Version 1.2.0 (Jul 1, 2021)
+    This update introduces an advanced HSB color chooser to let you use any color you want.
+Version 1.1.5 (Jun 4, 2021)
+    Makes the Broadcast popover more accessible. Thanks Tony!
+Version 1.1.4 (May 28, 2021)
+    Fixes a rare crash when using the color wheel.
+Version 1.1.3 (Apr 20, 2021)
+    Fixes an issue where a rapid succession of short pinch gestures to unzoom would trigger an undo. Thanks JJ!
+Version 1.1.2 (Apr 1, 2021)
+    Fixes a crash when starting the application while connected to an external screen or screen recording is ON. Thanks Audrey!
+Version 1.1.1 (Mar 26, 2021)
+    Fixes a crash when starting the application while connected to an external screen or screen recording is ON. Thanks Andrey!
+Version 1.1.0 (Mar 23, 2021)
+    This update adds a brand new color chooser, lets you add tons of images & includes important fixes
+
+    Color chooser:
+    - Each tool now has its own dedicated palette, no more scrolling back & forth to choose a color!
+    - Quick access palette now has 6 user-customizable colors
+    - New color wheel with nearly 120 hand-picked colors: tap on a selected color (or double tap an unselected one) to display the brand new color wheel
+    - New palette management: save your favorite color palette for reuse, drag & drop to reorder, swipe to delete
+
+    More images please:
+    Since you folks seem to enjoy adding pictures to your canvas, we really went the extra mile to let you add tons of images:
+    - just like in open world games, we stream & offload images in & out of memory as you navigate on your canvas
+    - we generate low res versions of your picture and we seamlessly transition to the full res version as you zoom in
+
+    We've also fixed a few crashes in broadcast, eraser & bookmarks.
+
+Version 1.0.7 (Mar 30, 2020)
+Version 1.0.6 (Dec 21, 2019)
+Version 1.0.5 (Dec 12, 2019)
+Version 1.0.4 (Dec 10, 2019)
+Version 1.0.3 (Nov 28, 2019)
+Version 1.0.2 (Nov 19, 2019)
+Version 1.0.1 (Nov 17, 2019)
+Version 1.0.0 (Oct 30, 2019)
+
+Users may also like
+Select objects to compare
+Puddle Sketch
+Muse — canvas for thinking
+Infinite Pro: Endless Zoom Art
+Taskheat — project flowchart
+mymind – Extend your mind
+Hypernotes by Zenkit
+DoMarks
+Scan Thing: Scan Anything
+Blankbook - Paper Note
+Things 3 for iPad
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.4.5
+    Current release
+    Feb 20, 2024
+    1.4.4
+    Jan 15, 2024
+    1.4.3
+    Dec 22, 2023
+    1.4.2
+    Dec 11, 2023
+    1.4.1
+    Dec 8, 2023
+    1.4.0
+    Dec 5, 2023
+    1.3.3
+    Nov 28, 2023
+    1.3.2
+    Oct 30, 2023
+    1.3.1
+    Oct 9, 2023
+    1.3.0
+    Jul 7, 2023
+    1.2.3
+    May 1, 2023
+    1.2.2
+    Aug 29, 2022
+    1.2.1
+    Feb 8, 2022
+    1.2.0
+    Jul 1, 2021
+    1.1.5
+    Jun 4, 2021
+    1.1.4
+    May 28, 2021
+    1.1.3
+    Apr 20, 2021
+    1.1.2
+    Apr 1, 2021
+    1.1.1
+    Mar 26, 2021
+    1.1.0
+    Mar 23, 2021
+    1.0.7
+    Mar 30, 2020
+    1.0.6
+    Dec 21, 2019
+    1.0.5
+    Dec 12, 2019
+    1.0.4
+    Dec 10, 2019
+    1.0.3
+    Nov 28, 2019
+    1.0.2
+    Nov 19, 2019
+    1.0.1
+    Nov 17, 2019
+    1.0.0
+    Oct 30, 2019
+
+See More
+About
+
+Required Devices
+    iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    Oct 30, 2019
+
+Worldwide Release Date
+    Nov 9, 2019
+
+Last Updated Time
+    Mar 6, 2024
+
+Version
+    1.4.5
+
+Size
+    5.33 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Epiphanie
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPad.
+
+Bundle ID
+    xyz.there4iam.Endless-Paper
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1294105620
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Endless Paper | data.ai

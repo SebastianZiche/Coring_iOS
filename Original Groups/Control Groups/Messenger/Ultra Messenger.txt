@@ -1,0 +1,554 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Ultra Messenger
+Ultracorp Technologies, Inc.Social Networking (Applications)Free
+Alerts
+
+    Ultracorp Technologies, Inc.
+
+    Ultra Messenger
+    Ultra Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Ultra Messenger
+Access Anyone
+Social Networking (Applications)
+Free
+App Description
+Ultra Messenger: A P2P Marketplace for on-demand professional services.
+
+Ultra Messenger offers direct messaging and calling with a diverse range of professionals worldwide: from doctors to dance instructors, lawyers to language tutors, architects to artists, and much much more. Simple, on-demand access to individual professionals, anytime you need them.
+
+The app is free to download. Sellers on Ultra Messenger set a price for their time (per minute for calls, per message for texts) and you talk directly with them, paying only when you communicate with a seller.
+
+How it works:
+
+- Use usernames for privacy; no phone numbers shared, and all communications use a data connection avoiding SMS/MMS fees.
+- Connect with voice/video calls and send texts, voice, photo, or video messages. Free for personal contacts, or at the listed price for monetized users.
+- Ultra Messenger supports real-time translation of messages in 15 languages. Add users easily via usernames, QR codes, or social links.
+- Pay only for what you use, no subscriptions or recurring billing, with clear upfront pricing.
+
+For Sellers: Become a verified seller on Ultra Messenger if you're 18 or older and from a participating region. Set your price for messages and calls, with users paying as they connect with you. Enhance your reach with a personalized ultra.bio link and unique QR codes. Manage your availability with ease, receive direct deposits monthly in over 120 countries, and ensure every interaction is monetized, allowing you to concentrate on delivering high-value services on the platform.
+
+Download the app and create an account to get started.
+
+To learn more visit ultramessenger.com.
+
+Follow us on social media: @ultramessenger on Facebook, X, YouTube, and TikTok. @ultra.messenger on Instagram.
+Ratings
+Displayed Avg Ratings
+4.62
+Total Displayed Ratings
+13
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.9.2 (Feb 27, 2024)
+    Bug fixes and improvements
+Version 2.9.1 (Feb 8, 2024)
+    -Updated payment options
+    -Bug fixes and improvements. 
+Version 2.9.0 (Feb 6, 2024)
+    -Adds a new Requests tab to allow users to post requests for services and receive proposals.
+    -Bug fixes and improvements.
+    -Performance improvement. 
+Version 2.8.3 (Jan 23, 2024)
+    -Bug fixes and improvements
+Version 2.8.2 (Jan 15, 2024)
+    Bug fixes and improvements. 
+Version 2.8.1 (Dec 30, 2023)
+    -Fixes a bug related to Discovery video performance.
+    -Adds an alert for users when starting a new paid conversation. 
+Version 2.7.4 (Dec 27, 2023)
+    -New and Improved Video Call Experience
+    -Bug Fixes And Improvements
+Version 2.7.3 (Dec 20, 2023)
+    -Updated wallet design and experience.
+    -Bug fixes and improvements.
+Version 2.7.2 (Dec 14, 2023)
+    This releases includes several bug fixes and improvements.
+Version 2.6.5 (Nov 16, 2023)
+    - Enables reordering cover media via long tap and drag.
+    - Adds the ability to swipe back to exit another users profile.
+    - Improves discovery load times.
+    - Bug fixes and improvements.
+Version 2.6.2 (Nov 6, 2023)
+    Required security update. 
+Version 2.6.0 (Oct 31, 2023)
+    - Adds an inbox feature for recently added contacts.
+    - Clicking on a suggested user navigates to their profile.
+    - You can now delete cover media after you upload it.
+    - Updates how payments are displayed for monetized users.
+    - Bug fixes and improvements.
+Version 2.5.2 (Oct 30, 2023)
+    - Adds "New Contacts" tile to inbox to show you who recently added you.
+    - Adds "Suggested Users" to inbox and search results.
+    - Adds Knowledge Base inside the app under menu.
+    - A lot of bug fixes and improvements.
+Version 2.5.1 (Oct 23, 2023)
+    - Complete redesign of profile section.
+    - Adds portrait cover videos feature to profiles.
+    - Updates sent message color.
+    - Made adding and editing profile pictures easier.
+    - Normalized screen transitions throughout the app.
+Version 2.5.0 (Oct 16, 2023)
+    - Makes major improvements to the call experience.
+    - Normalized use of display names across the app.
+    - Improved design of initial onboarding screens.
+    - Bug fixes and improvements.
+Version 2.4.4 (Oct 8, 2023)
+    Hot fix to resolve a bug that is preventing some users from being able to save profile their profile settings. 
+Version 2.4.3 (Oct 6, 2023)
+    - Fixes a bug where audio messages in chats looped after playing
+    - Enables dynamic text resizing based on phone’s accessibility settings.
+    - Adds Global Search to Inbox to allow for easy discovery of new accounts to connect with.
+    - Adds a cool new Slate color as our primary blue.
+    - Clearer terminology added to Wallet.
+    - New Monetization area added to Settings to allow for easy configuration and setup of payment account.
+Version 2.4.2 (Sep 29, 2023)
+    - Updates to the app’s design system.
+    - Fixes a rare issue when navigating to a chat from a user’s profile.
+    - Removes several unused assets, reducing app download size.
+    - Simplifies the Contacts tab with a unified search experience.
+Version 2.4.1 (Sep 28, 2023)
+    - Adds setting for disabling media downloads on cellular data connections
+    - Uses system default fonts.
+    - Adds text to clarify valid usernames during signup.
+    - Makes the edit profile picture button larger to improve tapping.
+    - Bug fixes and improvements. 
+Version 2.4.0 (Sep 25, 2023)
+    - Profile links are now editable.
+    - Profile images can now be zoomed in.
+    - Images are now automatically downloaded to chat.
+    - Confirmation dialog for deleting cover images added.
+    - Bug fixes and improvements.
+Version 2.3.3 (Sep 17, 2023)
+    - Introduces a simpler, faster onboarding process for new users.
+    - Fixes a bug related to push notifications on iOS.
+    - Fixes a bug related to price updates.
+    - Updates QR code designs to improve scan feature.
+    - Changes verification indicator to monetization indicator.
+    - Removes splash screen animation to increase app load speed.
+    - Made slight changes to text colors on metadata and form fields to improve readability.
+    - Fixes some bugs around call ringing on iOS.
+    - Adds ability to reorder social links on profiles.
+    - Fixes a bug where the keyboard wasn’t minimizing after being opened on iOS chats.
+Version 2.3.2 (Aug 29, 2023)
+    Avatars in chat are now clickable.
+    Simplified price update process.
+    Fixed auto-scroll issue on cover images.
+    Added support for ultra.bio links throughout the app.
+    Improved language settings. 
+Version 2.3.1 (Aug 20, 2023)
+    Makes changes to the message reaction interactions to be more intuitive.
+    Clarifies the input validation for new usernames during signup.
+    Fixes a bug that was preventing image/video messages from being downloaded on certain devices.
+    Fixes a bug that was causing some users inbox message to display in an incorrect order.
+Version 2.2.9 (Aug 9, 2023)
+    Improved search: Now you can search by usernames and bio keywords.
+
+    Added categories, location, and DOB as optional profile attributes for all users.
+
+    New ultra.bio short links: We've added a new domain with super fast landing pages for profiles and short links to make sharing via social media easier. Claim your ultra.bio link today.
+
+    Removed user modes: Some of you wrote in to say that the different modes for monetized accounts and regular accounts was a bit confusing (thanks to everyone who highlighted this, you were right). So we went ahead and removed them entirely. Now everyone is the same user type, and if you enable monetization, you get a blue check and see a few extra things on your normal account (like your earnings and top customers).
+
+    Introducing UltraAI. A new version of AI powered by OpenAI's ChatGPT engine. This first version opens the door to us adding a lot of the requested AI features that people have been requesting.
+
+    Beyond features, we've made a large number of small improvements to the internal workings of the app (that's why this release took a while) so the app is now much faster, smoother, and more stable. And we'll also be able to release new features much faster thanks to this work. 
+Version 2.2.3 (Jun 12, 2023)
+    Bug fixes and improvements. 
+Version 2.2.0 (May 17, 2023)
+    Bug fixes and improvements.
+Version 2.1.9 (May 3, 2023)
+    Updated Payments section for verified users to improve clarity.
+
+    Bug fixes and improvements. 
+Version 2.1.7 (Apr 13, 2023)
+    Added availability to allow verified users to turn on/off calls. 
+Version 2.1.6 (Mar 21, 2023)
+    Improved video call experience.
+    Added more localization strings for non-English languages.
+    Fixed other bugs. 
+Version 2.1.4 (Mar 7, 2023)
+    New video call experience.
+    Streamlined sign up process.
+    Improved app performance.
+Version 2.1.2 (Mar 2, 2023)
+    Updated design of login/signup and onboarding screens
+    Added new service provider for transactional email for registered users. 
+Version 2.1.0 (Feb 16, 2023)
+    Added privacy screen that blocks screen recording video during calls.
+    Improved Earnings screen for Pro users.
+    Fixed an issue related to social sign on via Facebook.
+    Improved email verification experience for new users. 
+Version 2.0.8 (Feb 6, 2023)
+    Fixed an issue related to ring notifications on lock screens. 
+Version 2.0.6 (Jan 27, 2023)
+    Hot fix to solve an issue where call prices were not displaying on profiles for Pro users.
+    Also fixed an issue where update app notifications were displaying too frequently. 
+Version 2.0.4 (Jan 21, 2023)
+    Hot fix to repair an issue with the call counter.
+
+    Added update reminders tool to inform users when new app updates are released. 
+Version 2.0.2 (Jan 18, 2023)
+    Hot fix to solve an issue related to call ringing.
+
+    Improved layout of profile pages. 
+Version 2.0.1 (Jan 12, 2023)
+    Hot fix: Resolved a bug that was causing a link error on first app launch in some cases.
+Version 2.0.0 (Jan 8, 2023)
+    Upgrade to Ultra Messenger version 2.0.
+
+    -Complete redesign of the look and feel of the app to improve user-friendliness, accessibility, and aesthetic appeal.
+
+    -Improved user reporting features for verified users.
+
+    -Added whole app translation and real-time two-way message translation supporting 15 languages: English, Chinese, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese, Romanian, Spanish, Tagalog, Thai, and Vietnamese.
+
+    -Expanded profile pages to enable outbound links, clearer pricing descriptions, and easier access to promotional tools.
+
+    -Upgraded the QR code experience to allow for simple generative holographic QR codes to share anywhere, or use as a phone lock screen wallpaper.
+
+    -Made it easier for new users to share their profile and find contacts.
+
+    -Added a floating wallet module in chat so that users can easily see their credit spending in real-time.
+
+    -Improved the user experience of sending and receiving voice/video/photo messages.
+
+    -Added online now, last online, typing indicator, delivered/read receipt features to chat.
+
+    -Added Delete Message and Delete Conversation capabilities.
+
+    -Added Deactivate Account option to Delete Account page.
+
+    -Improved video call experience.
+
+    -Improved audio call experience.
+
+    -Improved onboarding with social sign on and a faster sign up process, with the option for immediate account verification.
+
+    -Added richer analytics with data visualization under a new Earnings section for verified users to track the spending on them.
+
+    -Upgraded the notification experience to include additional notifications for key in-app events, clearer push notifications for spending events, and in-line message notifications for price changes, call receipts, and missed calls.
+
+    -Improved app performance, stability, load time, and security.
+
+    -Made improvements to in-app deep linking.
+Version 1.3.3 (Dec 3, 2022)
+    Fixed a bug relating to Single Sign On that was preventing users from completing registration.
+
+    Fixed a bug related to first app load that was displaying an error link in some cases. 
+Version 1.3.3 (Dec 3, 2022)
+    Fixed a bug relating to Single Sign On that was preventing users from completing registration.
+
+    Fixed a bug related to first app load that was displaying an error link in some cases. 
+Version 1.3.0 (Nov 23, 2022)
+    Updated QR Code design and new social sharing options.
+
+    Fixed a bug related to deep linking to improve profile link experience. 
+Version 1.2.8 (Nov 18, 2022)
+    Improved sign up and sign on experience. Now users can sign up with their preferred SSO provider (Apple, Google, Facebook, Twitter) and have one click sign in. Existing users can add social sign on to their account in Settings.
+
+    Additionally, bug fixes and improvements to user experience. 
+Version 1.2.7 (Oct 25, 2022)
+    Updated profile design.
+    Add up to 8 links to your profile.
+    Offline mode.
+    UX improvements. 
+Version 1.2.3 (Sep 30, 2022)
+    Bug fixes and improvements to call experience.
+Version 1.1.6 (Sep 23, 2022)
+    Fixes a critical bug that was preventing phones from ringing during incoming calls. 
+Version 1.1.5 (Aug 26, 2022)
+    Notification sounds fixed
+    Some other improvements
+Version 1.1.4 (Aug 3, 2022)
+    bug fixed
+Version 1.1.3 (Jul 21, 2022)
+    Add contacts by QR code.
+    Hyperlinks activated.
+    Improved search functionality.
+    Delete account in settings.
+    Keyboard improvements.
+Version 1.0.8 (May 30, 2022)
+    Search user Issue resolved
+Version 1.0.7 (May 22, 2022)
+    Improvements
+Version 1.0.5 (Apr 26, 2022)
+
+Users may also like
+Select objects to compare
+SnapYou
+Slyd.in
+Hash.chat
+Avenue: Influencer Brand Deals
+yoke - make content; get paid
+Konektr
+Oranum Broadcaster
+mavn creators
+Tapp.co
+Vimma - for Content Creators
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.9.2
+    Current release
+    Feb 27, 2024
+    2.9.1
+    Feb 8, 2024
+    2.9.0
+    Feb 6, 2024
+    2.8.3
+    Jan 23, 2024
+    2.8.2
+    Jan 15, 2024
+    2.8.1
+    Dec 30, 2023
+    2.7.4
+    Dec 27, 2023
+    2.7.3
+    Dec 20, 2023
+    2.7.2
+    Dec 14, 2023
+    2.6.5
+    Nov 16, 2023
+    2.6.2
+    Nov 6, 2023
+    2.6.0
+    Oct 31, 2023
+    2.5.2
+    Oct 30, 2023
+    2.5.1
+    Oct 23, 2023
+    2.5.0
+    Oct 16, 2023
+    2.4.4
+    Oct 8, 2023
+    2.4.3
+    Oct 6, 2023
+    2.4.2
+    Sep 29, 2023
+    2.4.1
+    Sep 28, 2023
+    2.4.0
+    Sep 25, 2023
+    2.3.3
+    Sep 17, 2023
+    2.3.2
+    Aug 29, 2023
+    2.3.1
+    Aug 20, 2023
+    2.2.9
+    Aug 9, 2023
+    2.2.3
+    Jun 12, 2023
+    2.2.0
+    May 17, 2023
+    2.1.9
+    May 3, 2023
+    2.1.7
+    Apr 13, 2023
+    2.1.6
+    Mar 21, 2023
+    2.1.4
+    Mar 7, 2023
+    2.1.2
+    Mar 2, 2023
+    2.1.0
+    Feb 16, 2023
+    2.0.8
+    Feb 6, 2023
+    2.0.6
+    Jan 27, 2023
+    2.0.4
+    Jan 21, 2023
+    2.0.2
+    Jan 18, 2023
+    2.0.1
+    Jan 12, 2023
+    2.0.0
+    Jan 8, 2023
+    1.3.3
+    Dec 3, 2022
+    1.3.3
+    Dec 3, 2022
+    1.3.0
+    Nov 23, 2022
+    1.2.8
+    Nov 18, 2022
+    1.2.7
+    Oct 25, 2022
+    1.2.3
+    Sep 30, 2022
+    1.1.6
+    Sep 23, 2022
+    1.1.5
+    Aug 26, 2022
+    1.1.4
+    Aug 3, 2022
+    1.1.3
+    Jul 21, 2022
+    1.0.8
+    May 30, 2022
+    1.0.7
+    May 22, 2022
+    1.0.5
+    Apr 26, 2022
+
+See More
+Top In-App Purchases
+
+    1,000 Credits
+    $150
+    20 Credits
+    $3
+    300 Credits
+    $45
+    100 Credits
+    $15
+    5,000 Credits
+    $749
+    5000_credit_package
+    $749
+    1000_credit_package
+    $150
+    300_credit_package
+    $45
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Apr 26, 2022
+
+Worldwide Release Date
+    Apr 26, 2022
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.9.1
+
+Size
+    180.48 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Ultracorp Technologies, Inc.
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.ultracorptechnologies.messenger
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1591786519
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Ultra Messenger | data.ai

@@ -1,0 +1,40 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,4.9,2024-02-27,This version includes several bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,4.8,2024-01-19,This version includes several bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,4.6,2023-03-29,This version includes several bug fixes and performance improvements,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,4.5,2023-03-16,Add Localization Support This version includes several bug fixes and performance improvements,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,4.4,2022-12-17,Support for iOS 16 Support Theme Light Dark Mode This version includes several bug fixes and performance improvements,0,0,0,0,0,1,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,4.3,2022-09-09,Sharing feature now free This version includes several bug fixes and performance improvements,0,0,1,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,4.2,2022-02-26,Display Light Dark Appearance Support This version includes several bug fixes and performance improvements,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,4.1,2022-02-05,This version includes several bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,4.0,2022-01-24,This version includes several bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.9,2021-07-27,This version includes several bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.8,2021-06-02,This version includes several bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.7,2021-05-11,This version includes several bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.6,2021-02-22,This version includes several bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.5,2020-11-12,This version includes several bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.4,2020-08-04,Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.3,2020-06-13,Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.2,2020-04-29,Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.1,2020-04-26,Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,3.0,2020-03-11,Support iOS 13 Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.9,2018-09-21,Support iOS 12,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.8,2018-04-14,Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.7,2017-11-10,Support for iPhone X Support for iOS 11 Dropbox sharing issue resolved,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.6,2017-07-27,Minor bug fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.5,2016-04-18,Resolved Dropbox sharing issue,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.4,2016-02-16,Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.3,2016-02-11,Minor bug fixes Add new features Improvement in performance,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.2,2016-01-17,Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.1,2016-01-11,Support for iOS 9 Added New Features Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,2.0,2014-12-20,Support for iOS 8 iPhone 6 iPhone 6 Plus Added Dropbox sharing feature Added New Features Minor Bug Fixes,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.9,2014-01-04,Minor bug fixes.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.8,2013-12-19,Minor bug fixes.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.7,2013-12-02,Bug Fixes.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.6,2013-11-06,Bug fixes. Add iOS 7 Support.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.5,2013-08-26,Bug fixes. Convert audio into mp3 format. Add record audio quality support. Improve double tap audio. Trim audio with backup your original audio.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.4,2013-06-04,Bug Fixes.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.3,2013-05-23,Bug Fixes.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.2,2013-05-01,Bug Fixes.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.1,2013-03-21,Support iPad. Bug Fixes.,0,0,0,0,0,0,0,0
+594760304,0,Voice Memos Voice Recorder,Utilities,2013-01-31,2013-01-31,100.38,13,0,0,1,1.0,2013-01-31,,0,0,0,0,0,0,0,0

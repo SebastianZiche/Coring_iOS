@@ -1,0 +1,51 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,12.14.23,2023-12-24,fix a critical crash on iOS 17,0,0,0,0,0,1,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,12.13.78,2022-02-08,iOS 15 full support Fix translation API bug,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.45,2020-01-21,New feature: Auto detect language Bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.43,2019-10-31,Sorry for frequent updates this update is to fix a critical crash in last version,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.42,2019-10-18,iOS13 support fix UI bugs on iOS 13 fix some deprecated APIs,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.40,2019-07-09,support Chinese Traditional language fix bugs related to Manage Translators improve camera translator,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.38,2019-02-11,add ability to enable disable translators upgrade in app purchases code if you lose your Premium upgrade please try Restore Previous Purchases,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.37,2018-12-03,bugfix: Google Translate doesn t work better support for multi line text fix some UI bugs,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.35,2018-09-24,iOS12 compatibility add Paste button fix bugs related to Microsoft Translator Baidu Translate on iOS 12 improve Photo Recognition especially for Arabic text Faster performance,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.29,2018-09-15,iOS 12 compatibility a bug fix for Baidu Translate,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.28,2018-09-03,bugfix: translations may not be shown when translate too fast memory performance optimization,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.27,2018-08-30,Fix Naver Baidu Translate causing translation not shown Fix progress view Optimize memory for better performance Other bugfixes improvements,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.25,2018-07-13,fix critical crash in previous version when loading ad failed. stability improvements some other bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.23,2018-06-23,fix deprecated APIs improve camera translation optimize memory usage for better performance other bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.21,2018-05-14,add speaker button for source text move ad banner to bottom optimize memory to make the app run smoother other bugfixes improvements,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.14,2018-05-03,Nicer photo cropping Fix bugs related to speech recognition Improve app stability,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.11,2018-04-06,Can subscribe to Premium monthly or yearly bugfixes improvements,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.9,2018-03-17,Fix translating bugs of Microsoft Translator Baidu Translate,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.8,2018-02-05,UI bugfixes for iPhone X,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.7,2018-01-29,iOS 11 further optimization Fix bugs for iPhone X,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.7.0,2017-10-09,Less ads iOS 11 optimizations,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.6.9,2017-08-29,bugfixes improvements,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.6.7,2017-08-14,Improve UI Fix a critical crash,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.6.4,2017-08-08,improve UI bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.6.3,2017-07-25,Voice translation bugfixes improvements,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.6.0,2017-07-14,better text input for multiline text bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.5.9,2017-07-04,bugfixes improvements,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.5.7,2017-06-30,Support Translating Photo Improve UI Bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.5.4,2017-06-25,bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.5.3,2017-06-05,crash bugfixes change app name to Translate Box,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.5.2,2017-06-03,bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.4.7,2017-05-29,Bug fixes Yearly subscription,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.4.6,2017-05-24,Glosbe dictionary added ability to subscribe to Pro Version,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.4.4,2017-05-19,remove misleading information in Remove Ads screen,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.4.3,2017-05-16,reorder translators fix bugs related to Yandex translate,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.3.9,2017-04-13,crash bugfix,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.3.7,2017-02-27,fix crashes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.3.4,2017-02-17,bug fixes UI improvements,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.3.3,2017-02-04,bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.2.9,2017-01-05,add Baidu Translate,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.2.7,2016-12-19,iOS 10 support Fix UI,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.2.2,2016-06-23,bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.2.1,2016-06-07,support long text fix login issue,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.1.8,2016-04-14,bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.1.7,2016-03-19,pretty UI ability to add your own translation,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.1.3,2016-01-21,better pretty UI bug fixes,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.1.2,2015-12-18,fix a bug related to Microsoft translator,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.1.0,2015-12-11,Ability to remove ads,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.0.6,2015-11-23,Fix bug related to Google Translate,0,0,0,0,0,0,0,0
+1031029942,0,Translator Translate Box,Reference,2015-11-17,2015-11-17,58.31,3,0,0,1,1.0.5,2015-11-17,,0,0,0,0,0,0,0,0

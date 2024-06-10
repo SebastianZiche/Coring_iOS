@@ -1,0 +1,380 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Lifely: timeline maker journal
+Sheep Apps IncLifestyle (Applications)Free
+Alerts
+
+    Sheep Apps Inc
+
+    Lifely: timeline maker journal
+    Lifely: timeline maker journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Lifely: timeline maker journal
+5 minute journal & daily five
+Lifestyle (Applications)
+Free
+iPhone Only
+App Description
+WHAT IS LIFELY
+
+Lifely is a diary with lock that allows to track achievements, significant memories, milestones and other important moments in a simple and convenient form of a single timeline, while performing a minimum of actions. The app instantly synchronizes with the server and uses reliable data encryption algorithms to protect your data.
+
+HOW IT WORKS
+
+Lifely provides the ability to quickly look back and navigate events and dates. This is achieved by zoom and scroll capabilities. With just a few gestures you can easily time hop to any period of life. There is an ability to track events both in a general timeline or any other stories you've created (for example, business, travel, family etc.).
+
+SECURITY
+
+Lifely is a super secure diary, that guarantees lifetime safety of your data. Just use Apple sign in and your memories will remain on our servers forever, even if you reinstall the application or change your device. All your data is strongly encrypted. The encryption algorithms are so flawless that even our developers do not have the technical ability to read someone's data, no matter how much they want to.
+
+Terms of Use: https://sheep-apps.com/lifely/terms-of-use
+Privacy Policy: https://sheep-apps.com/lifely/privacy-policy
+Ratings
+Displayed Avg Ratings
+4.86
+Total Displayed Ratings
+28
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.14.0 (Dec 15, 2023)
+    - NEW FEATURE: stories renamed to tags
+    - NEW FEATURE: ability to add several tags to event
+    - Several UI improvements across the app
+Version 2.13.2 (Nov 30, 2023)
+    - Multiple general UX/UI enhancements
+Version 2.13.1 (Oct 16, 2023)
+    - Multiple general UX/UI enhancements
+Version 2.13.0 (Oct 6, 2023)
+    - NEW FEATURE: mood
+    - NEW FEATURE: version history
+    - Multiple general UX/UI enhancements
+Version 2.12.1 (Sep 9, 2023)
+    - Event & Memory sharing as image
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.12.0 (Aug 11, 2023)
+    - NEW FEATURE: rewarded ads
+    - NEW FEATURE: export to TXT
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.11.0 (Jul 30, 2023)
+    - NEW FEATURE: intervals
+    - New stories design
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.10.1 (Jul 19, 2023)
+    - Several UI improvements across the app
+    - Bug fixes and stability improvements
+Version 2.10.0 (Jun 30, 2023)
+    - NEW FEATURE: memories (aka stories)
+    - NEW FEATURE: adding music to events
+    - NEW FEATURE: settings for events content
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.9.2 (Jun 28, 2023)
+    - NEW FEATURE: memories (aka stories)
+    - NEW FEATURE: adding music to events
+    - NEW FEATURE: settings for events content
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.9.1 (Jun 26, 2023)
+    - NEW FEATURE: memories (aka stories)
+    - NEW FEATURE: adding music to events
+    - NEW FEATURE: settings for events content
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.9.0 (Jun 12, 2023)
+    - NEW FEATURE: memories (aka stories)
+    - NEW FEATURE: adding music to events
+    - NEW FEATURE: settings for events content
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.8.1 (Jan 22, 2023)
+    - Timeline performance optimization
+    - Attached photos reordering by long press
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.8.0 (Nov 9, 2022)
+    - Timeline performance optimization
+    - Attached photos reordering by long press
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.7.2 (Sep 18, 2022)
+    - New UX/UI for event creating
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.7.1 (Sep 16, 2022)
+    - New UX/UI for event creating
+    - Multiple general UX/UI enhancements
+    - Bug fixes and stability improvements
+Version 2.7.0 (Sep 2, 2022)
+    - Increasing the speed of events opening
+    - Ability to attach multiple photos to an event
+    - Several UI improvements across the app
+    - New cloud with stronger encryption
+    - Bug fixes and stability improvements
+Version 2.6.0 (Jul 30, 2022)
+    - Customizable timeline importances
+    - Fixes of unintentional side-gallery openings
+    - Ability to create events for any date in past (even before a birthday)
+    - French, German, Spanish and Portuguese localizations
+    - Lots of minor bug fixes
+Version 2.5.2 (Jun 15, 2022)
+    - Minor bug fixes
+Version 2.5.1 (May 25, 2022)
+    - Stable version for offline mode
+    - New encrypted server
+    - Bottom sheets improvements
+    - Cool branded splash-screen
+    - Lots of minor bug fixes
+Version 2.4.2 (May 5, 2022)
+    - New design for feature suggesting
+    - General design improvements
+    - Lots of minor bug fixes
+Version 2.4.1 (Apr 16, 2022)
+    - General design improvements
+    - Lots of minor bug fixes
+    - Timeline improvements
+    - Performance improvements
+Version 2.4.0 (Mar 25, 2022)
+    - General design improvements
+    - Lots of minor bug fixes
+    - Timeline improvements
+    - Performance improvements
+Version 2.3.6 (Feb 26, 2022)
+    - General design improvements
+    - Lots of minor bug fixes
+    - Performance improvements
+Version 2.3.5 (Feb 4, 2022)
+    - General design improvements
+    - Lots of minor bug fixes
+    - Performance improvements
+Version 2.3.4 (Jan 12, 2022)
+    UI and bugs fixes
+Version 2.3.3 (Dec 28, 2021)
+    Small fixes
+Version 2.3.1 (Dec 16, 2021)
+    - Offline support
+    - Ability to download image
+    - Export and import events and stories
+    - Double tap to zoom
+
+Users may also like
+Select objects to compare
+Timelines - Life Chapters
+MemLife: Journal & Memoir
+Timeline - Diary and Notes
+Timeline...
+When was that? | Private Diary
+Mysaic
+Logg: Personal Journal & Diary
+Haptic Journal
+Life : Personal Diary, Journal
+Bullet Diary Journal with Lock
+IQ Classifications
+Genre: Lifestyle
+Subgenre: Other Lifestyle
+Other Lifestyle
+Other lifestyle apps that do not fit other existing Lifestyle subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.14.0
+    Current release
+    Dec 15, 2023
+    2.13.2
+    Nov 30, 2023
+    2.13.1
+    Oct 16, 2023
+    2.13.0
+    Oct 6, 2023
+    2.12.1
+    Sep 9, 2023
+    2.12.0
+    Aug 11, 2023
+    2.11.0
+    Jul 30, 2023
+    2.10.1
+    Jul 19, 2023
+    2.10.0
+    Jun 30, 2023
+    2.9.2
+    Jun 28, 2023
+    2.9.1
+    Jun 26, 2023
+    2.9.0
+    Jun 12, 2023
+    2.8.1
+    Jan 22, 2023
+    2.8.0
+    Nov 9, 2022
+    2.7.2
+    Sep 18, 2022
+    2.7.1
+    Sep 16, 2022
+    2.7.0
+    Sep 2, 2022
+    2.6.0
+    Jul 30, 2022
+    2.5.2
+    Jun 15, 2022
+    2.5.1
+    May 25, 2022
+    2.4.2
+    May 5, 2022
+    2.4.1
+    Apr 16, 2022
+    2.4.0
+    Mar 25, 2022
+    2.3.6
+    Feb 26, 2022
+    2.3.5
+    Feb 4, 2022
+    2.3.4
+    Jan 12, 2022
+    2.3.3
+    Dec 28, 2021
+    2.3.1
+    Dec 16, 2021
+
+See More
+Top In-App Purchases
+
+    Full access for 1 month
+    $3.99
+    Full access for 1 year
+    $26.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Aug 12, 2021
+
+Worldwide Release Date
+    Aug 12, 2021
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.14.0
+
+Size
+    86.22 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Portuguese, Russian, Spanish
+
+Seller
+    Sheep Apps Inc
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.sheep-apps.lifely
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1579863000
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Lifely: timeline maker journal | data.ai

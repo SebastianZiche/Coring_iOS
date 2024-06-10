@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8,app_function
+1635770040,0,Super Simple Diary Journal,Lifestyle,2022-07-29,2022-07-29,59.19,2,0,0,1,2.2.0,2023-12-06,Performance improvements. Updated design.,0,0,0,0,0,1,0,0,0
+1635770040,0,Super Simple Diary Journal,Lifestyle,2022-07-29,2022-07-29,59.19,2,0,0,1,2.1.0,2023-11-01,Performance improvements.,0,0,0,0,1,0,0,0,0
+1635770040,0,Super Simple Diary Journal,Lifestyle,2022-07-29,2022-07-29,59.19,2,0,0,1,2.0.2,2023-09-16,Performance improvements.,0,0,1,0,0,0,0,0,0
+1635770040,0,Super Simple Diary Journal,Lifestyle,2022-07-29,2022-07-29,59.19,2,0,0,1,2.0.0,2023-07-11,Added premium plan. Bug fixes and performance improvements.,1,0,0,0,0,0,0,0,1
+1635770040,0,Super Simple Diary Journal,Lifestyle,2022-07-29,2022-07-29,59.19,2,0,0,1,1.3.0,2022-10-23,You can now backup restore data. Updated design. Minor improvements.,0,0,0,0,0,0,0,0,0
+1635770040,0,Super Simple Diary Journal,Lifestyle,2022-07-29,2022-07-29,59.19,2,0,0,1,1.2.0,2022-08-22,Added photo list page.,0,0,0,0,0,0,0,0,0
+1635770040,0,Super Simple Diary Journal,Lifestyle,2022-07-29,2022-07-29,59.19,2,0,0,1,1.1.0,2022-08-21,Added ability to enable authentication. Added ability to search.,0,0,0,0,0,0,0,0,0
+1635770040,0,Super Simple Diary Journal,Lifestyle,2022-07-29,2022-07-29,59.19,2,0,0,1,1.0.0,2022-07-29,,0,0,0,0,0,0,0,0,0

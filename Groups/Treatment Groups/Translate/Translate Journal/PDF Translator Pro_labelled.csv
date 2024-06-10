@@ -1,0 +1,27 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.29,2024-01-10,Added QR code support,0,0,0,0,0,0,1,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.28,2023-09-06,Pairing made easier with QR Code support,0,0,1,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.27,2023-08-31,updated voices,0,0,1,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.25,2023-08-21,updated network stability,0,1,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.24,2023-07-16,stability fixes,1,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.22,2023-07-06,reduced services loading times,1,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.21,2023-07-05,stability improvements,1,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.19,2023-07-03,improved stability when using the scanner features,1,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.18,2023-06-29,improved file handling,1,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.17,2023-05-24,app loading improvements,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.16,2023-05-13,stability fixed,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.15,2023-04-17,Stability fixes and improvements,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.14,2022-11-20,improved page organizer,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.13,2022-11-12,improved stability,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.12,2022-11-09,improved stability,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.10,2022-11-06,improved files loading,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.9,2022-11-01,updated scanner,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.8,2022-09-30,updated store page,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.7,2022-09-28,updated app visuals,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.6,2022-09-19,improved camera stability,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.5,2022-09-16,improved login,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.4,2022-09-08,stability improvements,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.3,2022-08-13,improved stability,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.2,2022-04-06,updated scanner function,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.1,2022-04-04,you can now scan documents and arbitrary text,0,0,0,0,0,0,0,0
+1609232374,1000800000179357,PDF Translator Pro,Productivity,2022-03-09,2022-03-09,122.71,1,1,0,1,1.0.0,2022-03-09,,0,0,0,0,0,0,0,0

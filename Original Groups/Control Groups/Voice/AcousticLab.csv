@@ -1,0 +1,8 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1382478687,0,AcousticLab,Utilities,2020-07-23,2020-07-23,14.89,2,0,0,1,1.1.4,2023-12-28,Bug Fixed.
+1382478687,0,AcousticLab,Utilities,2020-07-23,2020-07-23,14.89,2,0,0,1,1.1.3,2023-06-09,Support Bluetooth Headsets. Bug Fixed.
+1382478687,0,AcousticLab,Utilities,2020-07-23,2020-07-23,14.89,2,0,0,1,1.1.2,2021-08-19,Bug fixed.
+1382478687,0,AcousticLab,Utilities,2020-07-23,2020-07-23,14.89,2,0,0,1,1.1.1,2021-08-15,FFT bug fixed.
+1382478687,0,AcousticLab,Utilities,2020-07-23,2020-07-23,14.89,2,0,0,1,1.1.0,2021-03-14,FFT Bug fixed.
+1382478687,0,AcousticLab,Utilities,2020-07-23,2020-07-23,14.89,2,0,0,1,1.0.1,2021-02-26,Bug fixed. Audio data analysis File format selection.
+1382478687,0,AcousticLab,Utilities,2020-07-23,2020-07-23,14.89,2,0,0,1,1.0.0,2020-07-23,

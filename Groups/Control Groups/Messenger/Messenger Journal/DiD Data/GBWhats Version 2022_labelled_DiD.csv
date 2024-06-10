@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1628290410,1000800000143441,GBWhats Version 2022,Social Networking,2022-07-18,2022-07-18,38.57,15,1,0,1,0,0,1,0,0,0,0,0,0,0,month_1,0,0,360,465.0
+1628290410,1000800000143441,GBWhats Version 2022,Social Networking,2022-07-18,2022-07-18,38.57,15,1,0,1,0,0,0,1,0,0,0,0,0,0,month_2,0,0,390,465.0
+1628290410,1000800000143441,GBWhats Version 2022,Social Networking,2022-07-18,2022-07-18,38.57,15,1,0,1,0,0,0,0,1,0,0,0,0,0,month_3,0,0,420,465.0
+1628290410,1000800000143441,GBWhats Version 2022,Social Networking,2022-07-18,2022-07-18,38.57,15,1,0,1,0,0,0,0,0,1,0,0,0,0,month_4,0,0,450,465.0
+1628290410,1000800000143441,GBWhats Version 2022,Social Networking,2022-07-18,2022-07-18,38.57,15,1,0,1,0,0,0,0,0,0,1,0,0,0,month_5,0,1,480,465.0
+1628290410,1000800000143441,GBWhats Version 2022,Social Networking,2022-07-18,2022-07-18,38.57,15,1,0,1,2,0,0,0,0,0,0,1,0,0,month_6,0,1,510,465.0
+1628290410,1000800000143441,GBWhats Version 2022,Social Networking,2022-07-18,2022-07-18,38.57,15,1,0,1,1,0,0,0,0,0,0,0,1,0,month_7,0,1,540,465.0
+1628290410,1000800000143441,GBWhats Version 2022,Social Networking,2022-07-18,2022-07-18,38.57,15,1,0,1,1,0,0,0,0,0,0,0,0,1,month_8,0,1,570,465.0

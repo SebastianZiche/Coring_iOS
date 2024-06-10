@@ -1,0 +1,7 @@
+SELECT application_id, title, description FROM `epf_application` WHERE (LOWER(description) LIKE '%tv%' AND LOWER(description) LIKE '%movies%') AND itunes_release_date <= '2020-02-23' 
+
+
+
+
+
+SELECT application_id, title, description FROM `epf_application` WHERE (LOWER(title) LIKE '%stream%' OR LOWER(title) LIKE '%tv%') AND itunes_release_date <= '2020-02-23' 

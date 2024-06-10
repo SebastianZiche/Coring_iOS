@@ -1,0 +1,498 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Grapherex - Secure Messenger
+GRAPHEREX LIMITEDSocial Networking (Applications)Free
+Alerts
+
+    GRAPHEREX LIMITED
+
+    Grapherex - Secure Messenger
+    Grapherex - Secure Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Grapherex - Secure Messenger
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+Grapherex is the app with secure messenger, cryptocurrency wallet and many other useful features.
+
+
+
+Secure Messenger
+
+It's a really simple and convenient way to send text messages, voice messages, photos, videos, stickers, files and even money. Also you have to know that you use it with end-to-end encryption. Ohh! It means that you can send information highly secure.
+
+
+
+Simple & free
+
+You can register simply with your phone number, integrate your contacts book and start messaging straight away.
+
+
+
+Call & Video
+
+Voice and video calls take advantage of the same end-to-end encryption that is used for messaging and multimedia sharing. Your voice and video calls are always private and work without the server but on a peer-to-peer basis.
+
+
+
+Cryptocurrency wallet
+
+Open a single cryptocurrency wallet to safely store, send and receive crypto currency with Grapherex right on your device. Only you hold the private key and can access your account. Your data and funds are protected by E2E encryption and state-of-art information security technologies.
+
+Ratings
+Displayed Avg Ratings
+5
+Total Displayed Ratings
+14
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.21 (Dec 6, 2023)
+    1. Improved push notifications for locked chats
+    2. New maintenance screen to update the app
+    3. New lock screen for locked chats
+    4. New feature "Clear chat" in "Note to self"
+    5. Push notification reply
+    6. Improved KYT and Travel rule
+    7. Bug fixes
+Version 1.20 (Nov 15, 2023)
+    General improvements & bug fixes
+Version 1.19 (Oct 31, 2023)
+    - new feature "Clear chat"
+    - new feature "Export chat"
+    - new information buttons
+    - new feature "Locked chats"
+    - bug fixes and general improvements
+Version 1.18 (Oct 4, 2023)
+    - Bug fixes
+    - New features: Buy & Sell
+Version 1.17 (Sep 5, 2023)
+    Bug fixes and general improvements
+Version 1.16 (Jul 5, 2023)
+    - Added Transaction history on the messenger chat screen
+    - Added view hidden wallets list from "Overview" screen
+    - New emoji reactions
+    - Bug fixes and general improvements
+Version 1.15 (Jun 29, 2023)
+    Bug fixes and general improvements
+Version 1.14 (Apr 18, 2023)
+    1. View wallets name on new fields
+    2. Update send success screen
+    3. New transactions status
+    4. Pull to refresh on the wallet
+    5. Messenger update
+    6. Hide wallet status pic
+    7. Update info text
+    8. Hidden/Show wallet swipe update
+    9. Bug fix
+Version 1.13.1 (Apr 13, 2023)
+    Fixed app display name
+Version 1.13 (Apr 11, 2023)
+    1. Updated UX
+    2. Faster loading speed
+    3. Bug fixes
+Version 1.12 (Mar 8, 2023)
+    1. Hidden wallet update
+    2. UX update
+    3. SWAP UI update
+    4. SELF status
+    5. Fixes
+Version 1.11 (Feb 16, 2023)
+    1. New coins (wallet, send, swap). Available in wallet module after passing KYC
+    Swap now is available for the following coins:
+    USDT; UNI; SHIB; WETH;WBTC; USDC; LINK; DAI; SAND; APE; CHZ; AXS; AAVE; MANA; CRV; TUSD; QNT; BAT; SNX; GRT; LRC; 1INCH; MKR; ENJ; BTT; BAL; USDP; COMP; GNO; ENS; ROSE; YFI; ANKR; OMG; GMT; AMP; GALA
+    2. Bug fixes
+Version 1.10 (Jan 27, 2023)
+    Release notes 1.10
+    1. UID in the contact profile
+    2. ERC20 short description
+    3. New coins for SWAP
+    4. New coins for SEND & WALLET
+    5. Linked wallet for network fee
+    6. Redesign of wallets and SWAP ERC20 coins
+    7. Images for new coins
+    8. Bug fixes
+    9. Refactoring
+Version 1.9 (Jan 16, 2023)
+    1. SWAP - coins exchange
+    2. Bug fixes
+    3. Fee timeout
+    4. New info messages
+    5. Application version available on settings
+    6. Create wallet from Swap
+    7. New coins
+Version 1.8.1 (Dec 23, 2022)
+    Bug fixes and general enhancements 
+Version 1.8.1 (Dec 23, 2022)
+    Bug fixes and general enhancements 
+Version 1.8 (Dec 20, 2022)
+    ERC20 wallets
+    ERC20 send/receive
+    List of all transactions for all coins
+    Push notifications - refinement
+    Bug fixes
+Version 1.7 (Dec 7, 2022)
+    Captcha
+    Chat/Contact info/Gallery/Transactions history from chat
+    Bugfix
+Version 1.6.1 (Nov 28, 2022)
+    Bug fixes and general enhancements
+Version 1.6.2 (Nov 28, 2022)
+    Bug fixes and general enhancements
+Version 1.6 (Nov 21, 2022)
+    Fingerprint
+    Pagination
+    Design updates
+    Reworking the dark theme
+    Hidden wallets
+    Bug fix
+    Percentage in total balance
+Version 1.5.1 (Nov 7, 2022)
+    Bug fixes and general enhancements
+Version 1.5 (Nov 6, 2022)
+    Bug fixes and general enhancements.
+Version 1.4 (Nov 3, 2022)
+    Sending by contact
+    Sending by ID
+    Sending from chat
+    Swipe send
+    Sending from a profile
+    Pull to refresh
+    Bug fix
+Version 1.3 (Oct 13, 2022)
+    Added notification alerts
+    Added new coins
+    Bug Fixes and Optimization
+    Added skeleton content preloader
+Version 1.2.1 (Oct 3, 2022)
+    Bug fixes and general enhancements.
+Version 1.2 (Sep 19, 2022)
+    Bug fixes and general enhancements.
+Version 1.1.54 (Aug 31, 2022)
+    Added wallet Dashboard with key financial indicators
+    Redesigned Wallet functionality and added new features
+    Redesigned and optimized UI of the main and auxiliary screens
+    Added general information about the coin
+    Added work with the chart and detailed analytics for the coin
+    Added newsfeed module
+    Added work with profile, settings and account creation
+    Add mechanism of KYC verification
+    The wallet creation mechanism has been changed, and the ability to add local names for the wallet has been added
+    Changed transaction history
+    Added Dark theme mode
+    Optimized work with the wallet and fixed bugs
+Version 1.1.53 (Aug 5, 2022)
+    Bug fixes and general enhancements.
+Version 1.1.49 (Mar 23, 2022)
+    Bug fixes and general enhancements.
+Version 1.1.47 (Dec 22, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.45.1 (Oct 1, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.39.1 (Sep 22, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.33.1 (Sep 14, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.19.1 (Jul 28, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.16.1 (Jul 13, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.15.1 (Jul 9, 2021)
+    - The reference information on coins has been added;
+    - The list of all available coins in the service has been dispalyed;
+    - Support for currency exchange rates (USD, EUR, GBP, RUB, JPY, CNY) has been added;
+    - Wallet security has been improved;
+    - The process of creating a wallet and saving key information has been optimized;
+    - The password recovery process has been improved;
+    - A mechanism for fast verification of transactions using Pin code/Face Id has been implemented;
+    - Updating the transaction history;
+    - Transaction statuses have been implemented;
+    - The UI has been improved
+    - - The reference information on coins has been added;
+    - The list of all available coins in the service has been dispalyed;
+    - Support for currency exchange rates (USD, EUR, GBP, RUB, JPY, CNY) has been added;
+    - Wallet security has been improved;
+    - The process of creating a wallet and saving key information has been optimized;
+    - The password recovery process has been improved;
+    - A mechanism for fast verification of transactions using Pin code/Face Id has been implemented;
+    - Updating the transaction history;
+    - Transaction statuses have been implemented;
+    - Bug fixes and general enhancements.
+Version 1.1.10 (Jun 15, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.9 (Jun 11, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.8 (Apr 29, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.6 (Apr 21, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.5 (Apr 17, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.4 (Mar 30, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.3 (Mar 23, 2021)
+    Bug fixes and general enhancements.
+Version 1.1.2 (Mar 9, 2021)
+    Bug fixes and general enhancements.
+Version 1.0.4 (Feb 11, 2021)
+    Bug fixes and general enhancements.
+Version 1.0.3 (Feb 10, 2021)
+    Bug fixes and general enhancements.
+Version 1.0.2 (Jan 26, 2021)
+    Bug fixes and general enhancements.
+Version 1.0.1 (Jan 16, 2021)
+    Bug fixes and general enhancements.
+
+Users may also like
+Select objects to compare
+Crypviser Secure Messenger
+WalletChat
+IMMUNE Messenger
+StealthTalk Private Messenger
+Spixi IM & Wallet
+Landa Messenger
+BChat Messenger
+Circles - Encrypted E2E VOIP +
+Doot Messenger
+SafeSwiss® Encrypted Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.21
+    Current release
+    Dec 6, 2023
+    1.20
+    Nov 15, 2023
+    1.19
+    Oct 31, 2023
+    1.18
+    Oct 4, 2023
+    1.17
+    Sep 5, 2023
+    1.16
+    Jul 5, 2023
+    1.15
+    Jun 29, 2023
+    1.14
+    Apr 18, 2023
+    1.13.1
+    Apr 13, 2023
+    1.13
+    Apr 11, 2023
+    1.12
+    Mar 8, 2023
+    1.11
+    Feb 16, 2023
+    1.10
+    Jan 27, 2023
+    1.9
+    Jan 16, 2023
+    1.8.1
+    Dec 23, 2022
+    1.8.1
+    Dec 23, 2022
+    1.8
+    Dec 20, 2022
+    1.7
+    Dec 7, 2022
+    1.6.1
+    Nov 28, 2022
+    1.6.2
+    Nov 28, 2022
+    1.6
+    Nov 21, 2022
+    1.5.1
+    Nov 7, 2022
+    1.5
+    Nov 6, 2022
+    1.4
+    Nov 3, 2022
+    1.3
+    Oct 13, 2022
+    1.2.1
+    Oct 3, 2022
+    1.2
+    Sep 19, 2022
+    1.1.54
+    Aug 31, 2022
+    1.1.53
+    Aug 5, 2022
+    1.1.49
+    Mar 23, 2022
+    1.1.47
+    Dec 22, 2021
+    1.1.45.1
+    Oct 1, 2021
+    1.1.39.1
+    Sep 22, 2021
+    1.1.33.1
+    Sep 14, 2021
+    1.1.19.1
+    Jul 28, 2021
+    1.1.16.1
+    Jul 13, 2021
+    1.1.15.1
+    Jul 9, 2021
+    1.1.10
+    Jun 15, 2021
+    1.1.9
+    Jun 11, 2021
+    1.1.8
+    Apr 29, 2021
+    1.1.6
+    Apr 21, 2021
+    1.1.5
+    Apr 17, 2021
+    1.1.4
+    Mar 30, 2021
+    1.1.3
+    Mar 23, 2021
+    1.1.2
+    Mar 9, 2021
+    1.0.4
+    Feb 11, 2021
+    1.0.3
+    Feb 10, 2021
+    1.0.2
+    Jan 26, 2021
+    1.0.1
+    Jan 16, 2021
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jan 12, 2021
+
+Worldwide Release Date
+    Jan 12, 2021
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    1.21
+
+Size
+    117.83 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Englisch
+
+Seller
+    GRAPHEREX LIMITED
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 14.0 oder neuer. Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    app.grapherex
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1542360019
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Grapherex - Secure Messenger | data.ai

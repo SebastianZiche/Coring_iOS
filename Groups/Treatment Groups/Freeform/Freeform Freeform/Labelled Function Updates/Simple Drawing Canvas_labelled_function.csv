@@ -1,0 +1,5 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8,app_function
+1590961350,0,Simple Drawing Canvas,Graphics & Design,2021-10-19,2021-10-19,1.43,1,0,0,0,2.1,2022-01-15,Made adjustments to icon description and screenshot.,0,0,0,0,0,0,0,0,0
+1590961350,0,Simple Drawing Canvas,Graphics & Design,2021-10-19,2021-10-19,1.43,1,0,0,0,2.0,2022-01-11,Added save draft feature.,0,0,0,0,0,0,0,0,0
+1590961350,0,Simple Drawing Canvas,Graphics & Design,2021-10-19,2021-10-19,1.43,1,0,0,0,1.2,2021-11-09,Modified undo feature. Support URL and Privacy Policy URL were changed.,0,0,0,0,0,0,0,0,0
+1590961350,0,Simple Drawing Canvas,Graphics & Design,2021-10-19,2021-10-19,1.43,1,0,0,0,1.1,2021-10-20,,0,0,0,0,0,0,0,0,0

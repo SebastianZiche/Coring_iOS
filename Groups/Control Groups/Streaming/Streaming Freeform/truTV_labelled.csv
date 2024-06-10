@@ -1,0 +1,88 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,8.7,2023-12-06,Picture in picture mode is now available! Visual improvements for video preview experience New icon indicates which videos require sign in Better display for large text sizes Various performance improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,8.6,2023-09-19,Visual improvements Better support for larger text Bug fixes to improve stability,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,8.5,2023-06-27,Fixed bugs related to Apple TV App tracking. Various improvements to the look and feel. Improved FF and REW in the video player.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,8.4,2023-04-05,Performance improvements and bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,8.3,2023-02-13,Fixed a bug that caused video to switch between landscape and portrait mode Fixed a sign in bug for YouTube TV subscribers Improved user interface to meet accessibility standards,0,0,0,0,0,0,0,1
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,8.2,2022-12-09,Performance improvements and bug fixes,0,0,0,0,0,1,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,8.1.2,2022-10-04,Performance improvements and bug fixes,0,0,0,1,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,8.1,2022-09-16,Performance improvements and bug fixes,0,0,1,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,8.0,2022-09-12,Performance improvements,0,0,1,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.12,2022-06-08,Performance Improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.11.0,2022-04-05,Performance improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.9.2,2022-02-08,Performance improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.9.1,2021-12-18,Fixed an issue that prevented some users from fully loading the app. Other performance improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.9,2021-11-03,Fixed several bugs that prevented some users from casting video Fixed several bugs related to TV Provider activation,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.8.1,2021-08-25,We ve made some improvements to the casting experience with more fixes on the way!,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.8,2021-08-09,New location permissions for Live TV Bug fixes and performance improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.7,2021-04-29,Support for App Tracking Transparency Other bug fixes and improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.6,2021-03-11,Fixed a bug that prevented the app from fully loading on iOS 14.5. Added a Still Watching screen after several hours without screen interaction. Improved the search screen s usability. Fixed miscellaneous bugs.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.5,2021-02-05,Bug fixes and minor visual improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.4,2020-12-17,Performance improvements and bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.3.1,2020-09-17,Bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.3.0,2020-09-01,Search! Yes we ve added in app search to make finding your favorite shows even easier.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.2.0,2020-07-10,Performance improvements Users can now sign in with their TV provider through Apple s single sign on,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.1.1,2020-05-24,Improved stability and performance,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.1.0,2020-05-15,Improved casting experience Fixed visual bugs on iPhone 11 family Reduced number of ads shown before live sports Updated look and feel,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,7.0,2020-03-30,ALL NEW APP ALL NEW APP! Introducing the new and improved truTV APP! SHINY NEW DESIGN Same great shows with a fresh new look. BETTER. AUNT. STABLES Under the hood we made video streaming faster and more stable so you ll see less freezing less crashing less buffering you know less of all the bad stuff.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.4.0,2020-02-03,Additional privacy settings.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.3.8,2019-12-20,Additional privacy settings and updated privacy policy.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.3.5,2019-09-25,Chromecast update and improvements to dark mode display.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.3.4,2019-08-22,Improved ad experience.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.3.3,2019-08-06,Bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.3.2,2019-06-28,We ve added the ability to swipe back from series pages for improved navigation along with some bug fixes and performance improvements to make our app even better.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.3.1,2019-06-05,New video player design that is as fancy as it is functional a few bug fixes that maybe only we noticed hopefully and a few changes to make push notifications from us a little less pushy.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.2.3,2019-05-06,Improved deep linking performance improvements and bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.2.2,2019-04-02,Bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.2.1,2019-03-06,Bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.2,2019-02-14,We ve made it even easier to find your favorite truTV shows!,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.1.5,2018-12-20,Bug fixes and performance improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.1.4,2018-11-05,Bug fixes and performance improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.1.3,2018-09-26,Bug fixes and performance improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.1.2,2018-08-30,Bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.1.1,2018-08-22,Bug fixes and performance improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.1,2018-07-18,Chromecast support,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.0.4,2018-06-19,Improvements to the ad player,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.0.3,2018-05-24,Fixes to the TV provider authentication process,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.0.2,2018-05-14,Improvements to Quality of Experience measurements.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.0.1,2018-04-16,Fixed a bug causing there to be no sound in certain cases while watching truTV live streams.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,6.0,2018-04-09,Redesigned interface will make watching your favorite truTV shows even easier!,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.3.6,2017-12-11,Bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.3.5,2017-10-19,Bug fixes.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.3.4,2017-09-20,Bug fixes.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.3.3,2017-09-13,Bug fixes and stability improvements.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.3.2,2017-08-28,Bug fixes and stability improvements.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.3.1,2017-05-01,Updated some iMessage stickers.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.3,2017-04-19,Fixed a bug causing sound not to play for videos when the silent switch is activated on a device. Added new iMessage stickers for Talk Show the Game Show.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.9,2017-03-21,New design New Stickers,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.8,2017-01-04,Bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.7,2016-11-18,Bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.6,2016-11-07,truMoji sticker packs for Messages have been added.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.5,2016-08-22,Bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.4,2016-07-18,Bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.3,2016-07-12,Bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.2,2016-05-02,Stability improvements,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.1,2016-03-25,Fixes bug in live video playback on iPad.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.2.0,2016-02-17,A new home screen that provides easier access to the most recent full episodes and clips. Closed captioning support for clips . Closed captioning must be enabled in your iOS device settings: General Accessibility Subtitles Captioning,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.1.1,2015-02-01,Bug fix to social section.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.1,2014-12-20,Enables free full episode viewing for select full episodes and fixes bugs with series display.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,5.0,2014-10-26,It s a new Watch truTV app for the NEW truTV!,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,4.2.1,2014-05-21,Fixes a bug in the Most Recent content section.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,4.2,2014-05-14,Adds new show notification capabilities expands the offerings of full episodes enhances performance and fixes minor bugs.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,4.1.1,2014-04-04,Bug fixes for video playback.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,4.1.0,2014-03-27,An enhanced user interface expanded show schedules and bug fixes have been added.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,4.0.0,2013-11-13,Brand new app design Now watch truTV LIVE on your device Watch East or West Coast feed,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,2.6.1,2013-08-22,New home page easier access to videos bug fixes.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,2.5.1,2013-03-05,Added iPhone 5 and iOS 6 support Native iOS6 Facebook support Updated video controls closed caption support Allows app to app deeplinking to series pages Navigation updates Thanks for downloading our app!,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,2.5,2012-09-24,Added support for Closed Captioning major update to Adobe Pass and Authentication should fix most authentication issues fix for users who are logged out upon update and can t log back in Thank you for downloading!,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,2.4,2012-08-23,Integration with Fanhattan! Fanhattan users can browse truTV2GO content and go straight to their favorite truTV shows! Fixed login bugs for cable providers Addressed startup crashing issues,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,2.3,2012-05-24,addressed issue where Cable Providers were not appearing in the full episode login screen fixed error with video controls not appearing on full episodes added new TV Providers see description for updated list fixed bugs in social sections addressed stability and performance issues Thank you for downloading our app please take a minute to rate us and provide us with feedback in your reviews.,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,2.2,2011-12-30,Twitter native sign on integration iOS 5.0 only upgraded live conversation feeds fixed issue with muted videos upgraded authentication library provides smoother login process stability improvements and bug fixes Thanks again for downloading and using our app!,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,2.1.2,2011-10-27,fixes for iOS 5 crashes fixes bugs in schedule section navigation performance enhancements fixes for video playback audio issues Thank you for downloading our app!,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,2.1.1,2011-09-22,Full episodes when you login with your TV provider Participating TV providers include AT T U Verse Comcast Xfinity Cox Dish DirecTV Optimum Suddenlink Verizon with more on the way! As of 9 16 2011 Improved interface,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,2.0,2011-08-15,New improved interface Live chat conversation Hundreds more video clips Schedule reminders Browse by show or category,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,1.1.0.0,2011-05-04,splash loading screens content serving performance increases bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,1.0.6.0,2010-12-23,fixed video timeout bug,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,1.0.5.0,2010-12-16,bit.ly integration for sharing performance increases app stability improvements bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,1.0.1.0,2010-11-17,improved performance increased app stability various bug fixes,0,0,0,0,0,0,0,0
+396972659,1000600000547781,truTV,Entertainment,2011-07-16,2010-10-31,71.19,1,1,0,0,1.0,2010-10-15,,0,0,0,0,0,0,0,0

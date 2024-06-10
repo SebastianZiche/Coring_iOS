@@ -1,0 +1,292 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+WriteMapper 2: Mind Map
+BETTERWEBPAGESProductivity (Applications)Free
+Alerts
+
+    BETTERWEBPAGES
+
+    WriteMapper 2: Mind Map
+    WriteMapper 2: Mind Map
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+WriteMapper 2: Mind Map
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+AS SEEN ON
+
+Forbes, Cult of Mac, The Next Web, MakeUseOf, MacAlert!, Apple RSS, Envato Blog, Duct Tape Marketing, AppleBase, GeekZone
+
+A WRITEMAP OUTLINE PAINTS A THOUSAND WORDS
+
+WriteMapper was built to leverage the visual nature of mind maps to give you a bird's-eye view of your writing structure. Just one glance is all it takes for you to get a good feel for the flow of your work.
+
+In doing so, you get a comprehensive yet clear picture of what's going on in your content. And, if you need to rearrange your writing sequences or move stuff around, it's as simple as drag and drop.
+
+BRAINSTORM YOUR WAY THROUGH WRITER’S BLOCK
+
+Ever write down the title, and then face a mental struggle with the rest of the blank page? WriteMapper helps you overcome writer's block by turning your writing process into a brainstorming exercise.
+
+This allows you to rapidly and relentlessly generate ideas and points for your writing. Just spend a couple minutes on this quick-fire process, and before you know it, you'll have a fully-formed content structure all ready to go!
+
+DISTRACTION-FREE WRITING
+
+Each node on the mind map has a content section you can jump in to edit at anytime. Besides being able to style and format your writing however you like, you can also edit the title of this sub-point from this view as well.
+
+The distraction-free writing mode helps you shift gears from the all-aspects-considered nature of the mind map outline, to the focused task of detailing the contents of the individual sub-point you're zoomed in on.
+
+PLAYS WELL WITH TEAMMATES
+
+WriteMapper uses the nested structure of a mind map to automatically create and export a text document for you, right in your computer's file system. You can choose from a variety of file formats, including Markdown, HTML, Microsoft Word, plain text and Rich Text Format.
+
+You can then edit the exported document in your text editing app of choice, to give that final draft the polish it needs to bring it to completion. With this supercharged content generation workflow, you'll get your writing done in no time at all!
+
+HIGHLY PRAISED
+
+"WriteMapper is an invaluable tool for those who write for a living." — Mihir Patkar, MakeUseOf
+
+"It has the perfect balance of elegance and features, and the text-editor itself is killer." — Charlie Sorrel, Cult of Mac
+
+"WriteMapper is such a powerful tool. This workflow is so logical and intuitive." — Michael Levy
+
+ALL THE POWER OF IOS
+
+WriteMapper was reworked from the ground up to be deeply integrated with and optimised for an incredible experience on your iPhone. Here’s a couple of features and capabilities which we’ve leveraged from the power of iOS, the world’s most advanced mobile operating system, to help you do your best work:
+
+1. Dark Mode
+On iOS 13, dark mode in the app will now sync with the dark mode setting on your device, directly adapting to whatever theme you're currently using.
+
+2. Haptic Touch
+Use of the Taptic Engine on your device allows WriteMapper to now also deliver haptic feedback upon interaction with elements in the app.
+
+3. Pure Black Theme
+For iPhones with OLED displays, you can now choose to use a Pure Black dark mode theme instead, which gives a visually stunning effect.
+
+4. Files
+With the help of the new Files app, you can easily save, sync and access your WriteMaps (.writemap files) across devices.
+
+5. Drag and Drop
+Rearrange the nodes in your WriteMap by dragging them around, the experience of which is now also accentuated by Taptic Engine feedback.
+
+WRITEMAPPER ON YOUR OTHER DEVICES
+
+Get WriteMapper for your Mac or Windows desktop computer to experience the full power of working on your .writemap files across your devices (sold separately), accessing your WriteMaps using your preferred cloud syncing service.
+
+NEED HELP?
+
+Didn’t find what you were looking for, have questions or need help? Get in touch with us or visit our website for an extensive list of support articles which might be able to help.
+Ratings
+Displayed Avg Ratings
+3.62
+Total Displayed Ratings
+8
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.10.1 (Feb 23, 2022)
+    Fixed background colors of editor toolbar buttons.
+Version 2.10.0 (Mar 28, 2020)
+    Here's what's we've worked on in this update:
+
+    - Increased the frequency of periodic autosaving of your work by the app.
+    - Fixed an issue where block embeds in the content editor were sometimes hard to exit out of.
+    - Fixed a bug where search results would be obscured in certain situations.
+    - Fixed issue where tooltip menus were shown misaligned in some scenarios.
+
+    WriteMapper 2.10 is available as a free update for past WriteMapper customers, on all platforms. New customers can take the free trial for a spin to test out the latest features we released today, by downloading the desktop app from our website, or by getting the iPhone app and iPad app from the App Store.
+
+    We hope you'll find these new features useful!
+Version 2.9.1 (Nov 27, 2019)
+    This update contains the following bug fixes and improvements:
+
+    - Fixed bug where WriteMaps that contain multiple images might not export the images to a Word document in the same order.
+    - Fixed issue where exported images sometimes export nodes with ellipses when they actually shouldn’t.
+    - Fixed bug where WriteMaps that had certain characters in the title would not actually save the file.
+    - Fixed bug where tapping the cursor while creating new WriteMap didn’t reveal the expected menu.
+Version 2.9.0 (Oct 4, 2019)
+    Hot off the heels following the release of WriteMapper 2.8 introducing the iPhone version, comes another update improving upon the app's capabilities as a productivity tool. Here's what's new in this release:
+
+    Improvements:
+    - Added link to User Guide in tutorial WriteMaps.
+    - Select the root node when “Toggle Node Info” is tapped, if in WriteMap view.
+
+    Bug Fixes:
+    - Fixed bug on iPhone version where selecting Cancel from the Select Snapshot menu leads to an empty menu popping up.
+    - Set minimum zoom more consistently across both portrait and landscape orientations.
+    - Fixed alignment of Preferences menu on iPhone version, for 5.8-inch displays.
+    - On iPhone, ensure node topic text entry on the WriteMap view is not blocked by the toolbar when adding a new node.
+
+    WriteMapper 2.9 is available as a free update for past WriteMapper customers. New customers can take the free trial for a spin to test out the latest features we released today, by getting the iPhone app from the App Store.
+
+    We hope you'll find these new features useful!
+Version 2.8.1 (Sep 28, 2019)
+    Fixed an issue with Dark Mode not working on the release version of the app available on the App Store. 
+Version 2.8.0 (Sep 25, 2019)
+
+Users may also like
+Select objects to compare
+Escape - Mind Map & Outline
+mindlib (Mindmap, Notizen)
+Mindscope - Thought Organizer
+Mindify- Mind Mapping
+Mind mapping - Starlink
+Diagrams Notepad 3
+Mindmap Maker
+MindThread
+Relanote
+Headspace Lite
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.10.1
+    Current release
+    Feb 23, 2022
+    2.10.0
+    Mar 28, 2020
+    2.9.1
+    Nov 27, 2019
+    2.9.0
+    Oct 4, 2019
+    2.8.1
+    Sep 28, 2019
+    2.8.0
+    Sep 25, 2019
+
+See More
+Top In-App Purchases
+
+    7-day Trial
+    $0
+    Full App
+    $10.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 25, 2019
+
+Worldwide Release Date
+    Sep 25, 2019
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    2.10.1
+
+Size
+    6.28 mb
+
+Only 32 Bit
+    No
+
+Languages
+    영어
+
+Seller
+    BETTERWEBPAGES
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 10.0 버전 이상이 필요. iPhone, iPad 및 iPod touch와(과) 호환.
+
+Bundle ID
+    com.gx.writemapperforiphone
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1480670651
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+WriteMapper 2: Mind Map | data.ai

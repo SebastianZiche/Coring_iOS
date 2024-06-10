@@ -1,0 +1,311 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+EverMemo - Fastest Note
+MiidiiProductivity (Applications)Free
+Alerts
+
+    EverMemo - Fastest Note
+    EverMemo - Fastest Note
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+EverMemo - Fastest Note
+Fastest Note
+Productivity (Applications)
+Free
+App Description
+Hi, we are back.
+
+EverMemo is a simple memo pad which can quickly record and share your ideas. No matter you are taking notes or writing dairy, it will make perfect record for you. It also can synchronize to Evernote, make sure the notes never lost. It can completely replace the system built-in Notes！
+
+【Features】
+・ The extremely clear interface and card layout, make you more efficient on recording and searching notes
+・ Perfectly synchronization to Evernote, protect your ideas never lost
+・ Offline accessible, easy to use anytime and anywhere
+・ Cloud input with w.evermemo.cc, more convenient to use
+・ Easy to share Memo to Weibo, weChat, Facebook etc.
+・ Powerful features: Sticky, Colorful memo, Calculator, Reminder, Password protection etc
+・ Share your Memo to Global users of EverMemo with built-in Mocha community
+
+【About Mocha】
+Mocha is open for everyone, you can anonymously share any notes to anyone, and make your ideas more valuable.
+
+【Awards】
+· Best New Apps of Apple App Store Productivity Category
+· Strongly recommended by China famous media "AppSolution"
+· Recommended by Japan famous media "Lifehacker"
+Ratings
+Displayed Avg Ratings
+4.55
+Total Displayed Ratings
+1.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.10.10 (May 17, 2021)
+    - Bugfixes and optimizes.
+Version 3.10.8 (Jan 13, 2021)
+    -Update the Crash Report service, please upgrade to the latest
+Version 3.10.7 (Nov 26, 2020)
+    - Fixed the problem that the reminder and colored notes cannot be used after unlocking pro
+    - Fixed the problem that the keyboard covers the editing area when typing
+Version 3.10.6 (Oct 22, 2020)
+    -Fix the cursor jumping problem of editing content
+Version 3.10.5 (May 18, 2020)
+    - Fixed some buttons disappearing from the settings interface on iPad
+Version 3.10.4 (May 14, 2020)
+    - Fixed the issue that the Editor on the iPad does not display the Share to Mocha button
+    - Adjust UI
+    - Version 4.0 is under development
+Version 3.10.3 (May 1, 2020)
+    Fix the problem that the first time you enter the Memo crash when displaying prompt
+Version 3.10.2 (Apr 30, 2020)
+    -Fix evernote sync and crash issues
+Version 3.10.1 (Apr 18, 2020)
+    -Fix Evernote logout issue
+    -Fixed the issue that long press logo to quickly paste clipboard content to Memo
+Version 3.10 (Apr 12, 2020)
+    - Support iPad
+    - Support dark mode
+    - Update the color of memo
+    - Fix time display error after synchronizing notes
+Version 3.9 (Apr 4, 2020)
+    -Update in-app icons
+    -Update Evernote SDK
+    -Fix password lock usage
+    -Fix sharing notes issue
+    -Fixed some interface layout adaptation issues
+Version 3.8 (Mar 30, 2020)
+    - Compatible with iOS 13
+Version 3.7.1 (May 12, 2018)
+    - iPhone X support
+    - Redesign Memo detail page
+    - Bug fix
+
+    I still love you , Memoers
+Version 3.7.0 (Apr 24, 2017)
+    Add 3D touch:
+    - Add new Memo
+    - Paste the content to new Memo
+    - Browse the Mocha
+
+    Summer is coming:)
+Version 3.6.0 (Mar 16, 2017)
+    Hi, The spring is coming (I'm the GOT fans ^_^ )
+
+    Bug fix:
+    - Remind can now normal use
+    - Cloud input fix.You can visit the w.evermemo.cc to use it.
+    - Fix iPhone Plus splash screen
+    - When you set the "open a new memo when start" , the keyboard will auto pop-up
+    - Mocha browsing experience improvement
+
+    In Next version:
+    - iPad support
+    - Support TouchID unlocked
+
+    See you next version
+    Yours, Plidezus Leo
+Version 3.5.4 (Jan 17, 2017)
+
+Users may also like
+Select objects to compare
+长图便签-记录美好一键分享朋友圈
+专注笔记：备忘录·日记本·记事本
+Metion: Markdown Notes
+Card.Note - 多彩卡片笔记
+Marklist - Manage Later Things
+flomo浮墨-极简卡片笔记、轻便签与日记备忘
+PDF Mpjex - Editor for pdf
+iNote - ideas Note & Notebook
+Twilar
+Metaslip: Note & Zettelkasten
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    3.10.10
+    Current release
+    May 17, 2021
+    3.10.8
+    Jan 13, 2021
+    3.10.7
+    Nov 26, 2020
+    3.10.6
+    Oct 22, 2020
+    3.10.5
+    May 18, 2020
+    3.10.4
+    May 14, 2020
+    3.10.3
+    May 1, 2020
+    3.10.2
+    Apr 30, 2020
+    3.10.1
+    Apr 18, 2020
+    3.10
+    Apr 12, 2020
+    3.9
+    Apr 4, 2020
+    3.8
+    Mar 30, 2020
+    3.7.1
+    May 12, 2018
+    3.7.0
+    Apr 24, 2017
+    3.6.0
+    Mar 16, 2017
+    3.5.4
+    Jan 17, 2017
+
+See More
+Top In-App Purchases
+
+    密码保护
+    $0
+    彩色便签
+    $0
+    计算器
+    $0
+    设置提醒
+    $0
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jan 17, 2017
+
+Worldwide Release Date
+    Jan 17, 2017
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    3.10.10
+
+Size
+    11.54 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Simplified Chinese, Traditional Chinese
+
+Seller
+    Hangzhou Midi Technology Co., Ltd.
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 9.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    lab.mud.evermemo
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1175912897
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+EverMemo - Fastest Note | data.ai

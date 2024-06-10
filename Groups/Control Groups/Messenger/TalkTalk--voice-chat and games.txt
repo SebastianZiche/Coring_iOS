@@ -1,0 +1,490 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+TalkTalk--voice-chat and games
+MoleSocial Networking (Applications)Free
+Alerts
+
+    TalkTalk--voice-chat and games
+    TalkTalk--voice-chat and games
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+TalkTalk--voice-chat and games
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+A new way of making friends appears! Come experience it in Ludo Room and Party Room!
+Ratings
+Displayed Avg Ratings
+3.15
+Total Displayed Ratings
+79
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.2.5 (Feb 3, 2024)
+    1.Add wealth level function
+    2. Bug fixes and experience optimization
+Version 3.2.4 (Jan 12, 2024)
+    Optimize the badge system
+Version 3.2.3 (Dec 29, 2023)
+    Game center upgraded.Come and play games with your friends!
+Version 3.2.2 (Dec 9, 2023)
+    1. Add new Intimate Relations, you can form a CP or confidant relationship with your friends
+    2. Bug fixes and experience optimization
+Version 3.2.1 (Nov 10, 2023)
+    1.A new room battle function has been added, go and experience it now
+    2. Bug fixes and experience optimization
+Version 3.2.0 (Nov 1, 2023)
+    Bug fixes and experience optimization
+Version 3.1.9 (Oct 18, 2023)
+    Bug fixes and experience optimization
+Version 3.1.8 (Oct 14, 2023)
+    1.Online family chat room, come and chat with friends
+    2.Bug fixes and experience optimization
+Version 3.1.7 (Sep 6, 2023)
+    1.New 15 mik
+    and 15+1 mik
+    2. Bug fixes and experience optimization
+Version 3.1.6 (Aug 22, 2023)
+    1.VIP system upgrade
+    2. Bug fixes and experience optimization
+Version 3.1.5 (Aug 3, 2023)
+    1. Expand room admin authority
+    2. Bug fixes and experience optimization
+    3. Surprise Box added, there will be surprises when you send them 
+Version 3.1.3 (Jul 9, 2023)
+    1. Bug fixes and experience optimization
+
+    2. Added snapchat login
+Version 3.1.2 (Jun 22, 2023)
+    Bug fixes and experience optimization
+Version 3.1.1 (Jun 13, 2023)
+    Bug fixes and experience optimization
+Version 3.1.0 (Jun 6, 2023)
+    Provides more ways to make friends. Come and find your soulmate!
+Version 3.0.8 (Jun 1, 2023)
+    1. Added the function of deleting accounts.
+
+    2. Support for Hindi and Indonesian languages.
+Version 3.0.6 (May 14, 2023)
+    1. Optimized the logic of loading images.
+    2. Solved the problem of gift effect display range.
+Version 3.0.5 (Apr 21, 2023)
+    1.Fixed the login bug
+Version 3.0.2 (Apr 3, 2023)
+    1. Optimized the issue of gift effects covering the ludo game display.
+    2. Adjusted the display order of some popups.
+    3. Improved the refresh mechanism when the network is stuck in the app.
+Version 3.0.1 (Mar 18, 2023)
+    1. Optimized the display of inviting users into the room
+
+    2. Modified the display logic of the user's prompt to enter the room
+
+    3. Optimized parts of the UI effect
+Version 2.9.1 (Mar 17, 2023)
+    1.Bug fix
+Version 2.8.1 (Feb 23, 2023)
+    1. Added online customer service system
+
+    ‏ 2. Optimized some bugs in user information
+Version 2.7.1 (Feb 15, 2023)
+    1. Optimized the special effects of gifts and props in the room
+
+    ‏ 2. Added online customer service system
+
+    ‏ 3. Optimized some bugs in user information
+Version 2.6.1 (Jan 17, 2023)
+    1. Optimized the list of recommended users on the anchor side.
+
+    2. Added questionnaires for user experience.
+Version 2.5.1 (Dec 30, 2022)
+    1.Bug fix
+
+    2. optimize pop-up window interaction, when the balance is insufficient
+Version 2.5.1 (Dec 30, 2022)
+    1.Bug fix
+
+    2. optimize pop-up window interaction, when the balance is insufficient
+Version 2.4.0 (Dec 17, 2022)
+    1. Added a new language in APP-Turkish.
+
+    2. Opened up a new region - Turkey Region.
+
+    3. Removed the function of Magic Seed.
+
+    4. Added new function for users to modify their country.
+
+    5. Optimized some known problems.
+Version 2.3.1 (Nov 14, 2022)
+    1. Added new areas to support localized contents for users from different countries.
+
+    2. Fixed some bugs to improve user experience.
+Version 2.2.3 (Oct 17, 2022)
+    minor improvements and bug fixes.
+Version 2.2.2 (Sep 29, 2022)
+    ‏1. Changed the style of the front page
+
+    ‏2. Added the "Treasure Hunt" game
+
+    ‏3. Added First recharge package, which has great value
+
+    ‏4. Added " Mystery Seeds" function
+
+    ‏5. Optimized the style of the pop-up window and the pop-up order
+
+    ‏6. Optimized the process of calling and answering 1v1 matching
+
+    ‏7. Optimized the floating screen in the app, you can swipe it away by swiping left and right
+Version 2.2.1 (Sep 26, 2022)
+    1. Changed the style of the front page
+
+    ‏2. Added the "Treasure Hunt" game
+
+    ‏3. Added First recharge package, which has great value
+
+    ‏4. Added " Mystery Seeds" function
+
+    ‏5. Optimized the style of the pop-up window and the pop-up order
+
+    ‏6. Optimized the process of calling and answering 1v1 matching
+
+    ‏7. Optimized the floating screen in the app, you can swipe it away by swiping left and right
+Version 2.1.2 (Aug 25, 2022)
+    ‏ 1. Optimized rocket levels ​​and interface
+
+    ‏ 2. Fixed several bugs
+
+    ‏ 3. Optimized the interface of matching function
+Version 2.1.1 (Aug 22, 2022)
+    1. Added the function of 1v1 chat with anchor
+
+
+
+    ‏ 2. Adjusted the user's level upgrade and improved the upgrade speed
+
+
+
+    ‏ 3. Added coins for ludo and the super big winner
+
+
+
+    ‏ 4. Added the function of setting time for reporting and blocking
+
+
+
+    ‏ 5. Added search function to details in wallet
+
+
+
+    ‏ 6. Added the function of officially awarding badges
+
+
+
+    ‏ 7. Optimized the amount display of the gift interface
+
+
+
+    ‏ 8. Optimized the interface to invite users into the room
+
+
+
+    ‏ 9. Optimized the details of some existing functions
+
+Version 2.0.2 (Aug 3, 2022)
+    minor bug fixes.
+Version 2.0.1 (Jul 25, 2022)
+    ‏ 1. Added visitor login function
+
+    ‏ 2. The rocket function has been added to the chat room
+
+    ‏ 3. Optimized the time settings for kicking people out of the room
+
+    ‏ 4. Added equipment that will be given after newcomer sign in
+
+    ‏ 5. Added the system messages in the app
+Version 1.5.2 (Apr 29, 2022)
+    lucky packet function add-in!
+Version 1.5.1 (Apr 25, 2022)
+    1.functions based on intimacy relations.
+    2.chat-room background is customizable now
+    3.national flag could be changed.
+    4. watch-gift could be rewarded in chat room.
+    5.private message is able to be deleted.
+    6.received gifts list displayed
+    7. better authorization management for locked room.
+    8. better gift sending display order.
+Version 1.4.1 (Apr 12, 2022)
+    1.user experience improvements.
+    2.now your can minimize the in-room games.
+Version 1.3.1 (Apr 8, 2022)
+    In-room game - betting coins on the turntable
+    In-room game - blackjack
+    In-room music player
+    better in-app massager
+    Recommend hosts/users for new users
+    Brand new emojis
+    Added statistics for anchor
+    Free gifts for all of you!
+Version 1.0.7 (Mar 13, 2022)
+
+Users may also like
+Select objects to compare
+Ahlan TopOne-Group Voice Chat
+Lama-Voice Chat Rooms
+Binmo-Group Voice Chat Rooms
+Heya - Video chat.Live.Friends
+YoHo - Group Voice Chat
+Woohoo - Voice Chat&Play Games
+Echo-Group Voice Chat Rooms
+KreamBottle
+دردشة صوتية جماعية خليجية Sawa
+SUGO: Voice Live Chat Party
+IQ Classifications
+Genre: Social Media
+Subgenre: Other Social
+Other Social
+Other social apps that do not fit in other existing Social subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.2.5
+    Current release
+    Feb 3, 2024
+    3.2.4
+    Jan 12, 2024
+    3.2.3
+    Dec 29, 2023
+    3.2.2
+    Dec 9, 2023
+    3.2.1
+    Nov 10, 2023
+    3.2.0
+    Nov 1, 2023
+    3.1.9
+    Oct 18, 2023
+    3.1.8
+    Oct 14, 2023
+    3.1.7
+    Sep 6, 2023
+    3.1.6
+    Aug 22, 2023
+    3.1.5
+    Aug 3, 2023
+    3.1.3
+    Jul 9, 2023
+    3.1.2
+    Jun 22, 2023
+    3.1.1
+    Jun 13, 2023
+    3.1.0
+    Jun 6, 2023
+    3.0.8
+    Jun 1, 2023
+    3.0.6
+    May 14, 2023
+    3.0.5
+    Apr 21, 2023
+    3.0.2
+    Apr 3, 2023
+    3.0.1
+    Mar 18, 2023
+    2.9.1
+    Mar 17, 2023
+    2.8.1
+    Feb 23, 2023
+    2.7.1
+    Feb 15, 2023
+    2.6.1
+    Jan 17, 2023
+    2.5.1
+    Dec 30, 2022
+    2.5.1
+    Dec 30, 2022
+    2.4.0
+    Dec 17, 2022
+    2.3.1
+    Nov 14, 2022
+    2.2.3
+    Oct 17, 2022
+    2.2.2
+    Sep 29, 2022
+    2.2.1
+    Sep 26, 2022
+    2.1.2
+    Aug 25, 2022
+    2.1.1
+    Aug 22, 2022
+    2.0.2
+    Aug 3, 2022
+    2.0.1
+    Jul 25, 2022
+    1.5.2
+    Apr 29, 2022
+    1.5.1
+    Apr 25, 2022
+    1.4.1
+    Apr 12, 2022
+    1.3.1
+    Apr 8, 2022
+    1.0.7
+    Mar 13, 2022
+
+See More
+Top In-App Purchases
+
+    1000 COINS
+    $0.99
+    10000 COINS
+    $9.99
+    50000 COINS
+    $49.99
+    100000 COINS
+    $99.99
+    1999 COINS
+    $0.99
+    5000 COINS
+    $4.99
+    11000 COINS
+    $10.99
+    6000 COINS
+    $5.99
+    95000 COINS
+    $94.99
+    31000 COINS
+    $30.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Mar 12, 2022
+
+Worldwide Release Date
+    Mar 12, 2022
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    3.2.5
+
+Size
+    356.33 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Hindi, Indonesian, Traditional Chinese, Turkish
+
+Seller
+    MOLE HK LIMITED
+
+Company HQ
+    Hong Kong
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.mole.talktalk2
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1607016086
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+TalkTalk--voice-chat and games | data.ai

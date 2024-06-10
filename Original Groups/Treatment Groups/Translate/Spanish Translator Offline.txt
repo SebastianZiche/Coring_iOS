@@ -1,0 +1,329 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Spanish Translator Offline
+XungReference (Applications)Free
+Alerts
+
+Spanish Translator Offline
+Spanish Translator Offline
+Spanish Translator Offline
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Spanish Translator Offline
+Translate & Learn Spanish
+Reference (Applications)
+Free
+App Description
+English to Spanish & Spanish to English offline translator app with 200K bilingual English-Spanish sentences.
+
+Includes more than 200K words, sentences & expressions
+Work offline
+Auto language detection
+Easy to use, fast, works offline.
+Pronunciation with human voice.
+Ability to find sentences, phrases, related words.
+Word correction for mistyped words.
+Tap word to see its meaning in popup window.
+Review words and expressions with History & Favorites.
+------------------------------
+
+Upgrade to Premium to remove ads and enjoy unlimited translations.
+
+You can pay once for Premium
+or choose from 2 subscription options
+- a yearly subscription. (comes with 3-day free trial)
+- a monthly subscription.
+
+– Payment will be charged to iTunes Account at confirmation of purchase.
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy Policy: https://xung.app/privacy-policy/
+Terms: https://xung.app/terms/
+Ratings
+Displayed Avg Ratings
+4.64
+Total Displayed Ratings
+24.0k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 12.14.10 (Nov 22, 2022)
+    fix a hang bug when using voice translation feature
+Version 12.14.05 (Nov 8, 2022)
+    fix a crash on iOS 16
+Version 12.13.83 (Feb 14, 2022)
+    fix translation API bug
+Version 12.13.76 (Jan 20, 2022)
+    - iOS15 full support
+    - Bug fixes & UI improvements
+Version 12.13.10 (Nov 26, 2019)
+    - iOS13 fully support
+    - Offline translation for Premium users
+    - fix some UI bugs and deprecated APIs
+Version 1212.77 (Jun 24, 2019)
+    - add share button for translation
+    - add speaker button for source text
+    - easier to tap on speaker buttons
+    - fix bugs when copying text
+Version 12.12.35 (Dec 6, 2018)
+    - bug fix: Translating long text did not work
+    - add monthly, yearly subscriptions.
+Version 12.12.23 (Oct 19, 2018)
+    - iOS12 compatibility
+    - multiline search box
+    - option to reverse translation direction when language detection failed
+Version 12.12.00 (Jul 4, 2018)
+    - fix a critical crash in previous version.
+    - fix some deprecated APIs
+    - new splash screen
+    - stability improvements
+Version 12.11.90 (Jun 22, 2018)
+    - support multi-selection
+    - move ad banner to top
+    - other bugfixes & improvements
+Version 12.11.88 (Jun 18, 2018)
+    - support multi-selection
+    - auto load last word when app launches
+    - improve app stability
+    - fix deprecated API
+    - bug fixes
+Version 12.11.61 (Feb 12, 2018)
+    fix layout for iPhone X
+Version 12.11.50 (Oct 13, 2017)
+    remove annoying popup when translating
+Version 12.11.34 (Aug 13, 2017)
+    Search by Voice (Speech Recognition)
+    Bugfixes & Improvements
+Version 12.9.99 (Feb 22, 2017)
+    Bugfixes
+    UI Improvements
+Version 12.9.66 (Sep 2, 2016)
+    bugfixes & improvements
+Version 12.9.36 (May 23, 2016)
+    - improvements & bugfixes
+Version 12.9.17 (Mar 14, 2016)
+    - offline dictionary
+    - better UI
+Version 12.7.8 (Oct 23, 2015)
+    - Fix "Translator is not available"
+Version 12.3.1 (Jul 8, 2015)
+    - Bugfixes
+    - Search History
+    - Easier to select text
+Version 12.0.2 (May 5, 2015)
+
+Users may also like
+Select objects to compare
+iSpanish - Spanish Translator
+Spanish Translator + ©
+Spanish - English Translator
+Spanish Learning for Beginners
+Spanish Verb Conjugator
+ConjuGato – Spanish Verbs
+SpanishDictionary.com Learning
+Spanish – English Dictionary
+Learn Spanish Language Offline
+Learn Spanish with flashcards!
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    12.14.10
+    Current release
+    Nov 22, 2022
+    12.14.05
+    Nov 8, 2022
+    12.13.83
+    Feb 14, 2022
+    12.13.76
+    Jan 20, 2022
+    12.13.10
+    Nov 26, 2019
+    1212.77
+    Jun 24, 2019
+    12.12.35
+    Dec 6, 2018
+    12.12.23
+    Oct 19, 2018
+    12.12.00
+    Jul 4, 2018
+    12.11.90
+    Jun 22, 2018
+    12.11.88
+    Jun 18, 2018
+    12.11.61
+    Feb 12, 2018
+    12.11.50
+    Oct 13, 2017
+    12.11.34
+    Aug 13, 2017
+    12.9.99
+    Feb 22, 2017
+    12.9.66
+    Sep 2, 2016
+    12.9.36
+    May 23, 2016
+    12.9.17
+    Mar 14, 2016
+    12.7.8
+    Oct 23, 2015
+    12.3.1
+    Jul 8, 2015
+    12.0.2
+    May 5, 2015
+
+See More
+Top In-App Purchases
+
+    1 month Premium
+    $5.99
+    1 Year Premium
+    $14.99
+    Pro Version
+    $19.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    May 5, 2015
+
+Worldwide Release Date
+    May 6, 2015
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    12.14.10
+
+Size
+    208.48 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Russian, Vietnamese
+
+Seller
+    Xung Le
+
+Company HQ
+    Vietnam
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.gnux.trans.es
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 984498840
+Unified App ID: 1000600000791731
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Spanish Translator Offline | data.ai

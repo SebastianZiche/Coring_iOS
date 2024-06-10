@@ -1,0 +1,99 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.77,2024-02-16,Completely removed advertising
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.76,2024-02-06,Completely removed advertising
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.75,2024-01-17,VoiceOver completely revised
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.74,2024-01-15,VoiceOver completely revised
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.73,2024-01-11,VoiceOver completely renewed
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.72,2023-11-28,New ! Dictate App now recognizes your custom words.
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.71,2023-11-20,New ! Dictate App now recognizes your custom words.
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.61,2023-11-07,Fix for broken dictation commands on iOS 17
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.55,2023-07-06,Minor bug fixes
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.54,2023-06-28,Minor bug fixes
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.53,2023-06-16,Added feature: Auto Delete Text on Record Improved cross device license handling
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.52,2023-02-24,Added feature: Auto Delete Text on Record Improved cross device license handling
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.51,2023-02-15,Added record on launch feature
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.50,2023-01-23,Fixed screen update issue under iOS16
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.41,2022-11-17,Fixed watch recording issue under iOS16
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.40,2022-10-11,iOS 16 ready Automatic punctuation
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.32,2022-07-01,Performance improvements in dictation core and file transcription New language selection assistant
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.30,2022-02-25,Performance improvements in dictation core and file transcription New language selection assistant
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.23,2021-09-25,iOS15 Fixes New! Added text file export import printing Bugfix: Fixed Apple Watch sync issues
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.21,2021-09-23,iOS15 Fixes New! Added text file export import printing Bugfix: Fixed Apple Watch sync issues
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.22,2021-09-23,iOS15 Fixes New! Added text file export import printing Bugfix: Fixed Apple Watch sync issues
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.20,2021-09-18,iOS15 Fixes New! Added text file export import printing Bugfix: Fixed Apple Watch sync issues
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.11,2021-08-09,New! Custom word list for English US Bugfix: Solved spontaneous dictation termination Bugfix: Solved a rare subscriptions problem
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.10,2021-08-06,New! Custom word list for English US Bugfix: Solved spontaneous dictation termination Bugfix: Solved a rare subscriptions problem
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.02,2021-06-30,Files App can now play dictate recordings Minor bug fixes on watch
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,3.00,2021-04-21,New Design
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.997,2021-04-16,GUI improvements Added localizations
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.996,2021-04-07,Performance improvements
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.995,2021-04-05,Fixed cursor positioning problem Fixed translation problem with signs Added copy to clipboard button to translation view
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.994,2021-04-03,Fixed an keyboard editing issue
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.993,2021-03-25,Fixed a crash issue
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.992,2021-03-24,Fixed editing problem Fixed jumping button bug
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.991,2021-03-18,Many small bug fixes
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.99,2021-03-10,Audio file support Fixed sample rate problems on some devices Fixed subscription problems on some devices
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.98,2021-03-09,Audio file support Local text files accessible via Files App Input level display Dynamic text sizes Configurable button sizes Complete rewrite from ground up
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.97,2021-03-01,Audio file support Local text files accessible via Files App Input level display Dynamic text sizes Configurable button sizes Complete rewrite from ground up
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.96,2021-02-25,Audio file support Local text files accessible via Files App Input level display Dynamic text sizes Configurable button sizes Complete rewrite from ground up
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.95,2021-02-24,Audio file support Local text files accessible via Files App Input level display Dynamic text sizes Configurable button sizes Complete rewrite from ground up
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.44,2020-11-28,Improved iCloud storage support Backups now also available on local file storage Minor bug fixes
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.42,2020-10-13,Fixed broken offline dictation support Apple Watch Support Fixed save text bug
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.40,2020-10-12,Apple Watch Support Fixed save text bug
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.38,2020-10-05,Apple Watch Support Fixed save text bug
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.36,2020-08-06,Fixed a rare text loss problem Transcription of audio files Auto copy translated text into clipboard Translate screen is now editable Auto copy to clipboard is now configurable
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.34,2020-07-28,Transcription of audio files Auto copy translated text into clipboard Translate screen is now editable Auto copy to clipboard is now configurable
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.32,2020-07-20,Support for iCloud Drive Fixed keyboard editing bug
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.30,2020-07-10,Support for iCloud Drive Improved VoiceOver tags Many bug fixes
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.29,2020-07-04,Support for iCloud Drive Improved VoiceOver tags Many bug fixes
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.16,2020-04-10,Changed global shortcuts to less common shortcuts Added audio level monitor
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.24,2020-03-30,Introduced universal purchases
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.23,2020-02-26,Bugfixes Cursor handling for text insertion Save text when leaving app
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.21,2020-02-12,Translation Function Offline dictation iOS 13.3
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.20,2020-02-08,Offline dictation support requires iOS 13.3 for: English US CA UK IN German Spanish US MX ES Italian Portuguese BR Russian Turkish Chinese
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.14,2020-01-29,New ! Translation Function
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.13,2020-01-22,New ! Translation Function
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.12,2019-11-27,Stability improvements
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.11,2019-11-26,Fixed Range error problem
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.04,2019-11-22,Fixed recording crash Recover Voiceover volume after recording Corrected Voiceover labels for 13.2 Added support for Shortcuts App
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.03,2019-11-20,Fixed recording crash Recover Voiceover volume after recording Corrected Voiceover labels for 13.2 Added support for Shortcuts App
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.02,2019-11-15,Fixed recording crash Recover Voiceover volume after recording Corrected Voiceover labels for 13.2 Added support for Shortcuts App
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,2.01,2019-11-13,Fixed recording crash Recover Voiceover volume after recording Corrected Voiceover labels for 13.2 Added support for Shortcuts App
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.999,2019-11-12,Removed edit button now simply click into text field Fixed letter capitalization issues Voiceover labels corrected
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.998,2019-11-09,iOS 13.2 Bugfix where transcription stopped after a while.
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.997,2019-09-23,iOS 13 Dark mode support and bug fixes
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.996,2019-07-18,New! Zone languages iTunes text sharing Disable silence timeout
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.995,2019-07-13,Improved help resources: Added user manual FAQ
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.994,2019-06-27,Fixed iOS 10 layout bug and Pro recovery crash Improved iCloud error handling Improved Voiceover support Fixed rare crash during dictation
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.993,2019-06-11,Improved purchase recovery Fixed font size bug Added help for getting dictate permissions right Operation without Siri possible US English and CA English now allow offline dictation
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.991,2019-06-01,Crash bugfix Clear notification badge
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.99,2019-05-28,iCloud: Bugfixes and improvements. Reduced rating requests.
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.98,2019-05-15,iCloud: Bugfixes and improvements. Reduced rating requests.
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.97,2019-03-27,iCloud Support: Seamlessly synchronize your text across all your devices
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.96,2019-03-21,iCloud Support: Seamlessly synchronize your text across all your devices
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.95,2018-12-17,iCloud Support: Seamlessly synchronize your text across all your devices
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.90,2018-10-17,New ! iCloud Support: Seamlessly synchronize your text across all your devices
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.80,2018-06-12,AirPods Support Increased maximum font size to 100 for visual impaired persons
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.74,2018-05-08,External microphone bugfix
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.73,2018-03-17,External microphone bugfix
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.72,2018-03-15,External microphone bugfix
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.71,2018-03-12,Insert dictation now possible Autolock disabled Auto copy to clipboard on termination Voice Over compatible Button sizes on iPad increased
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.70,2018-03-08,Insert dictation now possible Autolock disabled Auto copy to clipboard on termination Voice Over compatible Button sizes on iPad increased
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.60,2017-11-29,iPhone X support Bug fix: Text is now again stored across sessions New Feature: Added 3 independent text zones
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.41,2017-09-26,Fixed edit bug Removed sound Tested for iOS 11
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.40,2017-07-22,Support for bluetooth A2DP und HFP profiles
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.31,2017-07-05,Added microphone support for wireless and wired headsets
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.30,2017-06-22,Added microphone support for wireless and wired headsets
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.29,2017-04-05,Added text size support
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.28,2017-03-22,Fixed a crash issue
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.27,2017-01-25,Timeout now 60 sec after last spoken word Fixed bug when network status changed
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.24,2017-01-17,Timeout now 60 sec after last spoken word Fixed bug when network status changed
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.23,2017-01-13,Fixed timeout problem
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.22,2017-01-10,Fixed timeout problem
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.20,2016-12-15,added rating feedback function
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.17,2016-12-07,improvements in notification module
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.15,2016-11-30,added message functionality
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.10,2016-10-18,New in Voice to text : New text is now appended by default Added separate Clear text button Added Edit text button Added acoustic feedback when recording stops Text now is stored restored when app quits Bug fixes: fixed autoscroll bug fixed crash issue with IAP
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.07,2016-09-26,minor bug fixes
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.06,2016-09-15,added in app purchase localizations
+1124772331,1000800000167436,Dictation Speech to text,Productivity,2016-09-15,2016-09-13,15.56,16,1,0,1,1.05,2016-09-13,null

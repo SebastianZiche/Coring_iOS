@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+323683333,0,French Translator Dictionary,Education,2009-07-23,2009-07-23,84.03,7,0,0,1,0,0,1,0,0,0,0,0,0,0,month_1,0,0,4737,4842.0
+323683333,0,French Translator Dictionary,Education,2009-07-23,2009-07-23,84.03,7,0,0,1,0,0,0,1,0,0,0,0,0,0,month_2,0,0,4767,4842.0
+323683333,0,French Translator Dictionary,Education,2009-07-23,2009-07-23,84.03,7,0,0,1,0,0,0,0,1,0,0,0,0,0,month_3,0,0,4797,4842.0
+323683333,0,French Translator Dictionary,Education,2009-07-23,2009-07-23,84.03,7,0,0,1,0,0,0,0,0,1,0,0,0,0,month_4,0,0,4827,4842.0
+323683333,0,French Translator Dictionary,Education,2009-07-23,2009-07-23,84.03,7,0,0,1,0,0,0,0,0,0,1,0,0,0,month_5,0,1,4857,4842.0
+323683333,0,French Translator Dictionary,Education,2009-07-23,2009-07-23,84.03,7,0,0,1,0,0,0,0,0,0,0,1,0,0,month_6,0,1,4887,4842.0
+323683333,0,French Translator Dictionary,Education,2009-07-23,2009-07-23,84.03,7,0,0,1,0,0,0,0,0,0,0,0,1,0,month_7,0,1,4917,4842.0
+323683333,0,French Translator Dictionary,Education,2009-07-23,2009-07-23,84.03,7,0,0,1,0,0,0,0,0,0,0,0,0,1,month_8,0,1,4947,4842.0

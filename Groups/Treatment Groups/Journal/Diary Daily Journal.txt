@@ -1,0 +1,447 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Diary: Daily Journal
+bondaviLifestyle (Applications)Free
+Alerts
+
+試行錯誤
+Diary: Daily Journal
+Diary: Daily Journal
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Diary: Daily Journal
+Another Fruitful Day
+Lifestyle (Applications)
+Free
+iPhone Only
+App Description
+This is an app designed to make each day a bit more fulfilling by keeping a diary, being mindful of daily goals, and fostering positive habits.
+It also serves as a simple one-word memo or a one-line diary.
+
+
+
+■ Features and Highlights
+1. Write a Diary
+Whether you write every day like a journal or whenever inspiration strikes, here is the place to do it.
+Unlike a paper diary, even if you miss a day, you won't have blank pages, making it suitable for those with sporadic writing habits.
+You can use it as a simple one-line diary or compose longer entries.
+
+
+2. Manage Your Goals
+Naturally establish positive habits and attitudes, such as "Parenting is challenging, but I'll still focus on the positives."
+
+
+3.Word Analysis
+Analyze the words you use in your diary to gain insights into which words are frequently used and which are associated with high satisfaction days.
+
+
+4. Notifications for Action and Awareness:
+Receive reminders to uphold your chosen principles or attitudes, especially during critical moments such as in parenting to remind yourself again "parenting is challenging, but I'll still focus on the positives," or any other aspects of life.
+Reminders can also be sent just to remind you to write something for the day.
+
+
+5. App Lock with Passcode
+Protect your privacy by setting a passcode lock for the app, since diaries are meant to be personal and private.
+
+
+6. 3-Year, 5-Year, 10-Year Diary
+Access past entries to see what you wrote on the same date in previous years.
+You can view your past entries on a monthly basis as well.
+
+All of these features are available for free, with no ads.
+
+
+
+Every day, taking even small actions and learning from mistakes can make your daily life gradually richer, even if it's just by 1% each week.
+As you accumulate these small victories, you'll likely find yourself thinking, "Hmm, today was a good day!"
+We sincerely hope this app can be a helpful tool in making your everyday life a little bit more fulfilling in this way.
+Ratings
+Displayed Avg Ratings
+4.8
+Total Displayed Ratings
+2.2k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 0.13.0 (Oct 9, 2023)
+    Thanks for using our app!
+    We consistently release updates to enhance its quality.
+    If there's anything you'd like us to improve or fix, please feel free to share your thoughts with us!
+Version 0.12.0 (Apr 6, 2023)
+    Bug fixes
+Version 0.11.0 (Feb 7, 2023)
+    Added translation
+Version 0.10.0 (Nov 23, 2022)
+    「日々の試行錯誤を後押しするアプリ」というコンセプトで作り始めたこのアプリですが、ユーザーの方々に話を伺ったところ、もうコンセプトが清々しいほどに机上の空論であることが判明したので、アプリ名を変更しました。
+
+    ■ アップデートしたこと
+    - アプリ名を「試行錯誤」から「日記」に変更しました。
+    - それに伴い、色々なことが少しずつ変わりました。
+Version 0.9.2 (Oct 10, 2022)
+    日記の良さの一つは、自分以外誰も興味のないであろうことでも、思う存分に書ける点にあると思います。
+    理解や共感を求めずに書ける場所があるのは、とてもいいことのような気がします。
+
+
+    ■ アップデートしたこと
+    - 画面が少し綺麗になりました
+Version 0.9.1 (Oct 2, 2022)
+    不良高校生にとっての生傷と、プログラマーにとっての不具合は、きっと似たようなものです。
+    守りに入らず、攻めることができた証なのですから。
+
+    ■ アップデートしたこと
+    - たくさんのアップデートに伴って生じた不具合を修正しました
+Version 0.8.0 (Jul 27, 2022)
+    少し昔の本を読んでいたら、｢サラリイマン｣ という言葉が出てきました。
+    ｢サラリーマン｣ ではなく。
+    なんとなくいい言葉だと思いました。
+
+    (最近、｢アップデート欄にアップデートと関係のないことを書かねばならない｣ という、必要のないルールを自らに課しています)
+
+
+    ■ アップデートしたこと
+    - 深夜3時までは、デフォルトで前日の記録になるようになりました
+    - 日記を思い出す通知のパターンが増えました
+    - アプリの安定性が高まりました
+
+    bondavi株式会社　戸田
+Version 0.7.0 (May 16, 2022)
+    少しでいいので、人間らしさのあるアプリが作りたいと考えています。
+    人間は完璧ではありませんが、それでも人間らしさがあるのは悪いことではないと思います。
+
+    ■ アップデートしたこと
+    - 検索でヒットする日記がない時、「一つも記録がない → インストールしたばかりの人」と勘違いして「インストールありがとうございます」という的外れな感謝をするという、｢ありがとうございます｣ が口癖になっており、場面を問わず自動的に発動する人のような不具合を修正しました
+Version 0.6.2 (May 3, 2022)
+    「地道に堅実に、安定した人生が一番だと思います」
+    という人もいれば、
+    「安定を求める人生なんて、俺はまっぴらだね！」
+    という人もいます。
+
+    どちらの考えもあっていいと思います。
+
+    しかしながら、ことアプリケーションに関しては、いつだって安定性は高いに越したことはないと思います。
+
+
+    ■ アップデートしたこと
+    - アプリの安定性が向上しました
+
+    ■ その他にアップデートしたこと
+    - バックアップを作成するスピードが速くなりました
+Version 0.6.1 (Apr 8, 2022)
+    選択肢が増えるのは、必ずしも良いことではありません。
+
+    必要なものはちゃんとあって、それでいて余分なものは目に入らない。
+    一つ一つの問題をしっかり見極めて、そういう適切な選択肢を用意できればいいなと思います。
+
+    ■ アップデートしたこと
+    - メモの表示を全文・短くから選べるようになりました
+
+    ■ その他にアップデートしたこと
+    - 行動・意識したことを完全に削除できるようになりました
+Version 0.6.0 (Mar 7, 2022)
+    私は味付け海苔がとても好きです。
+    しかし、味付け海苔が好きだからこそ、心を鬼にして言わねばならないことがあります。
+
+    味付け海苔は、「味付け」海苔ではなく、「味付き」海苔と呼ぶべきだと思うのです。
+
+    「味付き」海苔ならばその主役は海苔にならざるを得ないでしょうが、「味付け」海苔ならば、主役の座が「味をつけた者」に移る可能性が生じます。
+    「味をつけた誰か」の存在を、私たちは「味付け海苔」というネーミングから感じるためです。
+
+    たしかに、味付け職人の存在を尊重することも重要です。
+    しかし、真に優れたものづくりとは、創造者の存在を感じさせないものであるとも考えられます。
+
+    それを食べようとする時、目の前の海苔に味をつけている誰かの存在を思いもしない。
+
+    まるで、既に味のついた状態の海苔が、音も立てずに天から舞い降りてきたかのように。
+
+    人類が生まれる前から、その祖先が生まれる前から、いえ、地球にあらゆる生命の起源が生まれるそのずっと前から、その海苔はごま油の風味をまとっていたかのように。
+
+    そんな神秘的な海苔こそが、味付け海苔の究極と言えるのではないでしょうか。
+
+
+    ■ アップデートしたこと
+    - 「最近よく使った言葉は『海苔』です」といった、特に役には立たないけれども少しだけ興味深い機能が追加されました
+
+
+    ■ その他にアップデートしたこと
+    - 「先月のこの日は、こんなことを書いていました」といった、やはり役には立たないけれでも少しだけ興味深い機能が追加されました
+    - 画面が少し綺麗になりました
+    - 有象無象の不具合を修正しました
+Version 0.5.0 (Feb 5, 2022)
+    最近のMacBookには、Touch IDなるものが搭載されており、指の指紋でログインできるようになっています。
+    しかし、私は生まれつき指紋が薄いせいか、何度試しても一向に反応しません。
+
+    アプリ開発者にとってこの性質は、決して有益とは言えません。
+    MacBookを開くたびにTouch IDに翻弄され、あらゆる開発作業の第一歩が「思い通りに行かない」という心理から始まる、絶望的開発ライフの受け入れを余儀なくされるでしょう。
+    ですが一方、例えば犯罪者にとっては、そうではありません。
+    指紋が決定的証拠になって逮捕されることを防ぎうります。
+    それは、生死を分ける重要な資質となるでしょう。
+
+    さて、この事実を踏まえた私の前には、二つの選択肢があります。
+
+    1. 指紋が命取りになる類の犯罪に身を染め、世紀の大悪党として活躍する
+    2. Touch IDに翻弄されながらも、小物なアプリ開発者として開発を続ける
+
+
+    この選択肢は、ある小説家の本に書いてあった話を思い出させました。
+    「本を読まずに楽しく暮らす人生と、本とともに過ごして不幸になっていく人生。たとえどんなに不幸になっても、本を読める方がいいに決まっている。そんなの、当たり前じゃないですか」
+
+
+    という訳で、毎日MacBookを開き、Touch IDに拒絶された後、たくさんのコードを書きました。
+
+
+    ■ アップデートしたこと
+    - データのバックアップ・復元ができるようになりました
+    - 日記に画像が入れられるようになりました
+    - 画面が全体的に少し綺麗になりました
+    - このアプリを動かしているコード (プログラミング文) が、ぐっと美しくなりました
+    - 画面ロックが効かないことがある問題を修正しました
+    - その他いろいろなバグを直しました
+Version 0.4.0 (May 22, 2021)
+    たくさんアップデートしました！
+    本アプリも、試行錯誤しながら少しずつ良いアプリにできたらいいなと思います。
+
+    ■ アップデートしたこと
+    - メモ欄が大きくなりました
+    - メモが少し入力しやすくなりました
+    - 全体的に見た目が少し綺麗になりました
+    - 下書きが自動で保存されるようになりました
+    - 行動・意識することが、7日間で一区切りするようになりました
+    - 記録を検索できるようになりました
+    - 一覧画面でメモが長い時、省略して表示されるようになりました
+    - 一日の記録を消せるようになりました
+Version 0.3.0 (Jul 28, 2020)
+    学校で、たくさんのことを学びます。
+    足し算引き算、文字の読み書きから、微分方程式、仮定法過去の文法まで。
+
+    でも、学校にいる間にも卒業した後も、どんどん時間が経って、それらを一つずつ忘れていきます。
+    そうやって、やがて学校で学んだ全てを忘れてしまったとします。(もったいないですね)
+    その時に残った何かがあるのならば、それが教育というもの。
+
+    なんだそうです。
+
+
+    ■ アップデートしたこと
+    - ｢習得｣ という機能が追加されました
+
+    ■ その他にアップデートしたこと
+    - 通知が設定できるようになりました
+    - 画面ロックの設定ができるようになりました
+    - 午前3時まで前日に記録されるようになりました
+    - 一日の途中で一部だけ評価したり、メモだけ残したりできるようになりました
+    - 平均点がちゃんと出るようになりました
+Version 0.2.0 (Jun 23, 2020)
+    私は歴史がとても嫌いでした。
+    「歴史」というものを、「テストで点を取るために、心の底からどうでもいいおじさん達の名前や年代を覚えること」だと捉えていたからだと思います。
+
+    ですが、歴史だから必ずつまらない、という訳でもなさそうです。
+
+    友人の元恋人の話を持ち出して「なんか、一癖ある人ばっかり付き合うよね」と馬鹿にしているのは、なかなか楽しいものです。（他人事だと余計に楽しいですね）
+    考えてみれば、これもまた歴史なのだと思います。
+
+    人によっては関心の対象が小野妹子かもしれませんし、友人の元恋人「夜行性のYuko」かもしれませんし、自分自身なのかもしれません。
+
+    いずれにしても、「関心のある歴史」がある、というのは悪いことではなさそうです。
+
+
+    ■ アップデートしたこと
+    - 追加・削除した、行動・意識の履歴が表示されるようになりました
+
+    ■ その他にアップデートしたこと
+    - 記録一覧画面で、スクロールしなくても「記録する」ボタンが押せるようになりました
+    - 「行動・意識することは翌日以降入力できます」の説明を追加しました
+    - 一度削除した行動・意識を再度登録しようとすると、「同じ名前の項目があります」と表示される濡れ衣バグを直しました
+    - 行動・意識することは5個以上作成できないと言っておきながら、前日ではできてしまう詰めの甘さが目立ったバグを直しました
+Version 0.1.0 (Jun 9, 2020)
+
+Users may also like
+Select objects to compare
+DotHabit - Visualize Habits
+DrawerJournal - Diary & Notes
+できたログ-習慣化の手助けをする行動記録アプリ
+MY BUCKET LIST 100
+Routine Task Timer
+Your Rules
+ごほうび。
+Kamidana - your phone's shrine
+やりたくない
+シズリー 習慣化&目標達成アプリ
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    0.13.0
+    Current release
+    Oct 9, 2023
+    0.12.0
+    Apr 6, 2023
+    0.11.0
+    Feb 7, 2023
+    0.10.0
+    Nov 23, 2022
+    0.9.2
+    Oct 10, 2022
+    0.9.1
+    Oct 2, 2022
+    0.8.0
+    Jul 27, 2022
+    0.7.0
+    May 16, 2022
+    0.6.2
+    May 3, 2022
+    0.6.1
+    Apr 8, 2022
+    0.6.0
+    Mar 7, 2022
+    0.5.0
+    Feb 5, 2022
+    0.4.0
+    May 22, 2021
+    0.3.0
+    Jul 28, 2020
+    0.2.0
+    Jun 23, 2020
+    0.1.0
+    Jun 9, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Jun 9, 2020
+
+Worldwide Release Date
+    Jun 9, 2020
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    0.13.0
+
+Size
+    53.85 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Simplified Chinese, Traditional Chinese
+
+Seller
+    bondavi Inc.
+
+Company HQ
+    Japan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    jp.bondavi.intend
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1516581656
+Unified App ID: 1000800000056694
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Diary: Daily Journal | data.ai
+				
+				
+				
+				
+				
+	

@@ -1,0 +1,38 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.41,2023-05-13,Adds support for Spanish Russian and Chinese.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.4,2023-04-25,Fixes a problem with vignette sliders.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.39,2023-04-15,Add your favorite images in Adjusts.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.38,2023-03-19,Fixes a problem with modes.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.37,2023-03-05,Adds more adjustments,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.36,2023-02-20,Added the option to save LUT .cube files.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.35,2023-01-08,Fixes a problem when restoring faces.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.34,2023-01-07,Adds an option for restoring faces in old images Black White to Color,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.33,2022-12-05,Fixes a problem when saving images.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.32,2022-10-05,Reduces the size of the app.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.31,2022-10-03,Solves a problem when saving videos on old devices.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.3,2022-09-20,Fixes a problem when saving images.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.29,2022-05-07,Fixes a problem when resetting the adjustments.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.28,2022-05-03,Improves video matching.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.26,2022-01-29,Adds denoise to B W Colorize.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.25,2022-01-23,Solves a problem when saving the image from BW Colorize.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.23,2021-10-28,Adds Settings Info,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.22,2021-01-21,Improves colors transfer,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.2,2021-01-05,Improves matching and colorize methods with noise reduction.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.19,2020-11-22,Fixes a memory issue on old devices.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.18,2020-11-19,Solves a problem when opening videos. Please if you have still problems when opening images videos you can contact me directly: enriqueg gmail.com,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.17,2020-11-18,Better saving images and videos now you can share your results.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.16,2020-11-15,Adds Colorize B W Images,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.15,2020-10-07,Fixes a problem with the image render.,0,0,0,0,0,0,0,1
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.14,2020-10-05,Fixes a problem when saving images.,0,0,0,0,0,0,0,1
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.12,2020-09-02,Fixes a problem with video in Direct Match,0,0,0,0,0,0,1,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.11,2020-08-31,Improved image and video picker.,0,0,0,0,0,0,1,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.1,2020-08-30,Steal colors using LUT image tables.,0,0,0,0,0,0,1,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,2.0,2020-08-26,Changes in the interface and improvements.,0,0,0,0,0,0,1,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,1.8,2019-12-20,Solves a problem with image quality,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,1.7,2019-12-19,Adjusts sliders,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,1.6,2019-10-27,Better interface fixes bugs,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,1.5,2019-08-16,Improves colors transfer,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,1.4,2019-03-17,Fixes a crash when importing big images,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,1.2,2019-03-06,Long press for comparing before and after. Supports Landscape Zoom in the target image,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,1.1,2019-02-23,Transfers image and video colors to image and video.,0,0,0,0,0,0,0,0
+1452475491,0,MatchColors AI,Photo and Video,2019-02-17,2019-02-17,424.31,4,0,0,1,1.0,2019-02-17,,0,0,0,0,0,0,0,0

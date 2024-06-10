@@ -1,0 +1,379 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Saba Chat
+SabaChat, Inc.Social Networking (Applications)Free
+Alerts
+
+    SabaChat, Inc.
+
+    Saba Chat
+    Saba Chat
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Saba Chat
+Build or join your community
+Social Networking (Applications)
+Free
+App Description
+SabaChat is a social platform for business and serious community builders. Providing advanced public and private group chat features and strong management capability for the community owners.
+
+SabaChat users can invite their friends and other people via phone number or email and share exciting photos and videos. Our cloud is hosted on amazon AWS in US regions.
+
+SabaChat users can create or join communities. When join community, the owner of the community will get notified and need to approve the member to join.
+
+When creating communities, user could create from templates designed for different types of communities and bring the power of the instant messaging and social sharing into every aspect of your life.
+
+The default community is for hobby or discussion like stock market. Your privacy is being taken care of, your personal information can be set hidden, and you can even have different names and profile photos in different communities. Only approved friend can send direct message to you.
+
+You can create community for workspace, your team or your companies. In this type, everyone in the community sees each other and does collaboration easily. Everyone in the same workspace can message each other directly.
+
+You can also create community for service. In this type, you can assign multiple representatives. After your clients join the community, they can only see the representatives, not other clients. This could be used for customer/service or communication with contractors.
+
+User can send secrete and self destroying messages with anonymous identities where messages and photos are only available for 30 seconds after they are read. That is why we called the app after Saba, which is the name of a type of Japanese fish. It is said that fish has a short term memory. In the secret messaging, even the name of the sender is masked for more privacy protection.
+
+Have questions? Please reach out to our support team support@sabachat.io
+Ratings
+Displayed Avg Ratings
+4.8
+Total Displayed Ratings
+10
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.4.9 (Mar 4, 2024)
+    Bug Fixing and Performance Optimization
+Version 1.4.8 (Feb 7, 2024)
+    Using Google reCAPTCHA
+Version 1.4.7 (Feb 5, 2024)
+    Add graphical verification code for modifying phone number/email address.
+Version 1.4.6 (Sep 1, 2023)
+    Improved community features.
+Version 1.4.5 (Mar 7, 2023)
+    . Improved community features.
+Version 1.4.2 (May 20, 2022)
+    . Improved community features.
+Version 1.3.9 (May 9, 2022)
+    . Improved community features.
+Version 1.3.8 (May 1, 2022)
+    . Improved community features.
+Version 1.3.6 (Nov 20, 2021)
+    . Improved community features.
+Version 1.3.5 (Aug 28, 2021)
+    . Improved community features.
+Version 1.3.4 (Jun 11, 2021)
+    . Improved chat features.
+Version 1.3.3 (Jun 8, 2021)
+    . Improved chat features.
+Version 1.3.2 (Jun 5, 2021)
+    . Improved chat features.
+Version 1.3.1 (Jun 4, 2021)
+    . Improved chat features.
+Version 1.3.0 (Apr 7, 2021)
+    . Improved chat features.
+Version 1.2.9 (Feb 27, 2021)
+    . Improved chat features.
+Version 1.2.8 (Jan 22, 2021)
+    . Overall improvement.
+Version 1.2.7 (Jan 16, 2021)
+    . Overall improvement.
+Version 1.2.6 (Jan 7, 2021)
+    . Overall improvement.
+Version 1.2.5 (Dec 30, 2020)
+    . Fixed a bug of giving the app access to a limited number of photos in iOS 14.
+    . Improved search through chats.
+Version 1.2.4 (Dec 16, 2020)
+    . Overall improvement.
+Version 1.2.3 (Dec 2, 2020)
+    . Overall improvement.
+Version 1.2.2 (Nov 21, 2020)
+    . Enhanced chat features
+Version 1.2.1 (Nov 17, 2020)
+    . Enhanced chat features
+Version 1.2.0 (Nov 15, 2020)
+    . Enhanced chat features
+Version 1.1.2 (Oct 28, 2020)
+    . Enhanced chat features
+Version 1.1.0 (Sep 25, 2020)
+    . Enhanced chat features
+    . Urgent fix for iOS 14 update 
+Version 1.0.6 (Sep 9, 2020)
+    . Enhanced message delivery confirmation for multiple users in group chat (read / unread status). This feature is for selected business community only.
+    . Started to support message translation in group chat (English / Chinese). Press and hold the message and choose "Translate" from the menu.
+    . Added PDF sharing feature (for selected business community only).
+    . Added alert push notifications (to community admin) when new users apply to join the community.
+Version 0.6.60 (Oct 1, 2019)
+    . Enhanced chat history checking.
+    . Enhanced PDF viewing and saving.
+    . Overall improvement.
+Version 0.6.59 (Sep 21, 2019)
+    . Overall improvement.
+    . Login enhancement.
+Version 0.6.58 (Aug 31, 2019)
+    . Overall improvement.
+    . Enhanced QR code.
+    . Enhanced community admin features.
+Version 0.6.57 (Aug 20, 2019)
+    . Overall improvement.
+    . Using link and QR code to join the community directly.
+    . UI improvement for home/branding view.
+Version 0.6.56 (Aug 13, 2019)
+    . Overall improvement.
+    . Improve in privacy by adding setting for user to hide phone number or email in a community.
+Version 0.6.55 (Aug 6, 2019)
+    . Overall improvement. Add in current trading day earnings calendar(optional) and popular group chart on the community home page.
+Version 0.6.54 (Jul 27, 2019)
+    . Overall improvement.
+Version 0.6.53 (Jul 20, 2019)
+    . Overall improvement.
+Version 0.6.52 (Jul 18, 2019)
+    . Overall improvement.
+Version 0.6.51 (Jul 5, 2019)
+    . Overall improvement.
+Version 0.6.50 (Jun 27, 2019)
+    . Fixed the display of turning message notification on / off.
+    . Able to display long text of chat title.
+    . Easier and quicker to enter a community.
+    . Overall improvement.
+Version 0.6.38 (Jun 22, 2019)
+    . Minor UI improvement.
+Version 0.6.35 (Jun 20, 2019)
+    . Improved the templates of creating communities.
+Version 0.6.29 (Jun 19, 2019)
+
+Users may also like
+Select objects to compare
+TrueFriends - First We Chat!
+WeWe Phone
+Live Chat Roulette
+Private & Secure Messaging LYK
+Adult chat - talk to strangers
+AnyTalk Messenger
+CChat: Samtal och meddelanden
+Edify Messenger
+HiMe App
+weBelong: Call with fav ppl
+IQ Classifications
+Genre: Social Media
+Subgenre: Voice Chat Room
+Voice Chat Room
+Apps that allow users to engage in live voice chat in a virtual room or channel where they can join online parties, play games and sing karaoke etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.4.9
+    Current release
+    Mar 4, 2024
+    1.4.8
+    Feb 7, 2024
+    1.4.7
+    Feb 5, 2024
+    1.4.6
+    Sep 1, 2023
+    1.4.5
+    Mar 7, 2023
+    1.4.2
+    May 20, 2022
+    1.3.9
+    May 9, 2022
+    1.3.8
+    May 1, 2022
+    1.3.6
+    Nov 20, 2021
+    1.3.5
+    Aug 28, 2021
+    1.3.4
+    Jun 11, 2021
+    1.3.3
+    Jun 8, 2021
+    1.3.2
+    Jun 5, 2021
+    1.3.1
+    Jun 4, 2021
+    1.3.0
+    Apr 7, 2021
+    1.2.9
+    Feb 27, 2021
+    1.2.8
+    Jan 22, 2021
+    1.2.7
+    Jan 16, 2021
+    1.2.6
+    Jan 7, 2021
+    1.2.5
+    Dec 30, 2020
+    1.2.4
+    Dec 16, 2020
+    1.2.3
+    Dec 2, 2020
+    1.2.2
+    Nov 21, 2020
+    1.2.1
+    Nov 17, 2020
+    1.2.0
+    Nov 15, 2020
+    1.1.2
+    Oct 28, 2020
+    1.1.0
+    Sep 25, 2020
+    1.0.6
+    Sep 9, 2020
+    0.6.60
+    Oct 1, 2019
+    0.6.59
+    Sep 21, 2019
+    0.6.58
+    Aug 31, 2019
+    0.6.57
+    Aug 20, 2019
+    0.6.56
+    Aug 13, 2019
+    0.6.55
+    Aug 6, 2019
+    0.6.54
+    Jul 27, 2019
+    0.6.53
+    Jul 20, 2019
+    0.6.52
+    Jul 18, 2019
+    0.6.51
+    Jul 5, 2019
+    0.6.50
+    Jun 27, 2019
+    0.6.38
+    Jun 22, 2019
+    0.6.35
+    Jun 20, 2019
+    0.6.29
+    Jun 19, 2019
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jun 19, 2019
+
+Worldwide Release Date
+    Jun 22, 2019
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    1.4.9
+
+Size
+    209.58 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese, Traditional Chinese
+
+Seller
+    SabaChat, Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 9.0 or later. Compatible with iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi‑Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi-Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi-Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi-Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, iPod touch (6th generation), and iPod touch (7th generation).
+
+Bundle ID
+    io.sabachat.im
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1462788306
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Saba Chat | data.ai

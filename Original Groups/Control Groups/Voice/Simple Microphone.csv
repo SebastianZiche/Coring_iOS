@@ -1,0 +1,4 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1493896874,0,Simple Microphone,Utilities,2020-08-27,2020-08-27,30.43,1,0,0,0,1.2.2,2023-02-23,Fixed for iOS ver 16
+1493896874,0,Simple Microphone,Utilities,2020-08-27,2020-08-27,30.43,1,0,0,0,1.2.1,2020-09-25,Updated for iOS14
+1493896874,0,Simple Microphone,Utilities,2020-08-27,2020-08-27,30.43,1,0,0,0,1.0,2020-08-27,

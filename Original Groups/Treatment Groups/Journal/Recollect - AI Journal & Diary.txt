@@ -1,0 +1,481 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Recollect - AI Journal & Diary
+Bryan AndersonHealth and Fitness (Applications)Free
+Alerts
+
+    Bryan Anderson
+
+    Recollect - AI Journal & Diary
+    Recollect - AI Journal & Diary
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Recollect - AI Journal & Diary
+Private Personalized Prompts
+Health and Fitness (Applications)
+Free
+iPhone Only
+App Description
+Recollect is private AI journaling app. It uses on-device machine learning to safely and privately help you journal. It creates prompts for the people in your life. It suggests photos you might want to write about.
+
+We designed Recollect because we love journaling. The app is designed to help you journal. All over the app, little suggestions will appear that are meant to help you write more.
+We use on-device machine learning to power our intelligent features. That means that all your data is 100% private and never sent anywhere.
+
+• AI prompts about your life and your relationships
+• Private on-device AI helps suggest photos or videos you might be likely to write about.
+• Prompts are personalized and intelligent. They'll even ask you about specific people in your life. "Are you still angry at your boss?"
+• Reminders help you maintain a consistent habit
+• You can easily attach videos, audio, or Live Photos to your entries.
+• Home Screen widget prompts
+• For You Recommendations: Helps find entries you would be likely to read about
+• Map/Calendar/Photo/List views for past entries
+• The design is beautiful for all entries. If you write a lot or just a little: every entry is still gorgeous.
+• Unlimited Journals: think of these as folders or books
+• Tags: Easily tag entries so you can find them later
+• People: Automatically tag your entries by the people you write about.. Kind of like how you would tag a face in a photo.
+• Import entries from Day One
+
+Private and Safe
+• Synced with iCloud
+• Supports end-to-end encryption
+• FaceID/TouchID and Passcode
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://www.recollectjournalapp.com/privacy
+
+Purchase required for use.
+Ratings
+Displayed Avg Ratings
+4.69
+Total Displayed Ratings
+26
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.6.3 (Feb 2, 2024)
+    Audio Transcription and playback. Scroll through the words spoken in your audio recording. Click on a sentence or word and your audio will scrub to that location.
+    Updates to the editor view and bug fixes related to saving entries.
+Version 1.6 (Jan 25, 2024)
+    Audio Transcription and playback. Scroll through the words spoken in your audio recording. Click on a sentence or word and your audio will scrub to that location.
+    Updates to the editor view and bug fixes related to saving entries.
+Version 1.5.1 (Jan 2, 2024)
+    Journaling Suggestions API from Apple.
+    Audio recording transcription
+Version 1.5 (Dec 9, 2023)
+    Journaling Suggestions API from Apple. 
+Version 1.4.5 (Oct 26, 2023)
+    Improvements to suggestions
+    Daily Reminders
+Version 1.3.1 (Oct 18, 2023)
+    Daily Reminders!
+    Prompts on the Home Screen! (iOS 17 Widgets)
+    Show person prompts less/more
+    Hide person prompts for individual people
+    Press and hold people prompts for options
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Updated Design for journal and people views!
+
+    Updated onboarding screen
+
+    Also:
+    Updates to support iOS 17
+Version 1.3 (Oct 17, 2023)
+    Daily Reminders!
+    Prompts on the Home Screen! (iOS 17 Widgets)
+    Show person prompts less/more
+    Hide person prompts for individual people
+    Press and hold people prompts for options
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Updated Design for journal and people views!
+
+    Updated onboarding screen
+
+    Also:
+    Updates to support iOS 17
+Version 1.2.12 (Oct 6, 2023)
+    Prompts on the Home Screen! (iOS 17 Widgets)
+    Show person prompts less/more
+    Hide person prompts for individual people
+    Press and hold people prompts for options
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Updated Design for journal and people views!
+
+    Updated onboarding screen
+
+    Also:
+    Updates to support iOS 17
+Version 1.2.11 (Oct 5, 2023)
+    New Suggestions view!
+    Prompts on the Home Screen! (iOS 17 Widgets)
+    Show person prompts less/more
+    Hide person prompts for individual people
+    Press and hold people prompts for options
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Updated Design for journal and people views!
+
+    Updated onboarding screen
+
+    Also:
+    Updates to support iOS 17
+Version 1.2.6 (Oct 1, 2023)
+    New Suggestions view!
+    Show person prompts less/more
+    Hide person prompts for individual people
+    Press and hold people prompts for options
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Updated Design for journal and people views!
+
+    Updated onboarding screen
+
+    Also:
+    Updates to support iOS 17
+Version 1.2.5 (Sep 28, 2023)
+    New Suggestions view!
+    Show person prompts less/more
+    Hide person prompts for individual people
+    Press and hold people prompts for options
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Updated Design for journal and people views
+
+    Updated onboarding screen
+
+    Also:
+    Updates to support iOS 17
+Version 1.2.4 (Sep 26, 2023)
+    New Suggestions view!
+    Show person prompts less/more
+    Hide person prompts for individual people
+    Press and hold people prompts for options
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Updated Design for journal and people views
+
+    Also:
+    Updates to support iOS 17
+Version 1.2.2 (Sep 22, 2023)
+    New Suggestions view!
+    Show person prompts less/more
+    Hide person prompts for individual people
+    Press and hold people prompts for options
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Also:
+    Updates to support iOS 17
+Version 1.2.3 (Sep 22, 2023)
+    New Suggestions view!
+    Show person prompts less/more
+    Hide person prompts for individual people
+    Press and hold people prompts for options
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Also:
+    Updates to support iOS 17
+Version 1.2.1 (Sep 18, 2023)
+    New Suggestions view!
+    Pull to refresh allows you to generate new prompts on-demand
+
+    Also:
+    Updates to support iOS 17
+Version 1.1.9 (Sep 8, 2023)
+    New Suggestions view!
+    Recollect has always provided suggestions in the form of photos and prompts. While we were happy with the functionality they provided, we realized that the suggestions view was confusing for many people. With the new design, it's easier than ever to write in your journal.
+    Scroll through your best photos and videos and prompts.
+    This is only the beginning for Suggestions in Recollect!
+
+    Also:
+    -Updates to the purchases screen.
+Version 1.1.8 (Aug 29, 2023)
+    New Suggestions view!
+    Recollect has always provided suggestions in the form of photos and prompts. While we were happy with the functionality they provided, we realized that the suggestions view was confusing for many people. With the new design, it's easier than ever to write in your journal.
+    Scroll through your best photos and videos and prompts.
+    This is only the beginning for Suggestions in Recollect!
+
+    Also:
+    -Updated how often certain prompts are getting displayed. Will be fine tuning this further at a later date.
+Version 1.1.7 (Aug 7, 2023)
+    New Suggestions view!
+    Recollect has always provided suggestions in the form of photos and prompts. While we were happy with the functionality they provided, we realized that the suggestions view was confusing for many people. With the new design, it's easier than ever to write in your journal.
+    Scroll through your best photos and videos and prompts.
+    This is only the beginning for Suggestions in Recollect!
+
+    Also:
+    -Added promo code entry
+Version 1.1.6 (Aug 1, 2023)
+    New Suggestions view!
+    Recollect has always provided suggestions in the form of photos and prompts. While we were happy with the functionality they provided, we realized that the suggestions view was confusing for many people. With the new design, it's easier than ever to write in your journal.
+    Scroll through your best photos and videos and prompts.
+    This is only the beginning for Suggestions in Recollect!
+
+    Also:
+    -Fixing currency symbols
+Version 1.1.5 (Jul 21, 2023)
+    New Suggestions view!
+    Recollect has always provided suggestions in the form of photos and prompts. While we were happy with the functionality they provided, we realized that the suggestions view was confusing for many people. With the new design, it's easier than ever to write in your journal.
+    Scroll through your best photos and videos and prompts.
+    This is only the beginning for Suggestions in Recollect!
+
+    Also:
+    -Improvements to onboarding
+Version 1.1.3 (Jul 13, 2023)
+    New Suggestions view!
+    Recollect has always provided suggestions in the form of photos and prompts. While we were happy with the functionality they provided, we realized that the suggestions view was confusing for many people. With the new design, it's easier than ever to write in your journal.
+    Scroll through your best photos and videos and prompts.
+    This is only the beginning for Suggestions in Recollect!
+
+    Also:
+    -better onboarding screens
+Version 1.1.2 (Jul 12, 2023)
+    New Suggestions view!
+    Recollect has always provided suggestions in the form of photos and prompts. While we were happy with the functionality they provided, we realized that the suggestions view was confusing for many people. With the new design, it's easier than ever to write in your journal.
+    Scroll through your best photos and videos and prompts.
+    This is only the beginning for Suggestions in Recollect!
+
+    Also:
+    -Added introductory offer
+Version 1.1.1 (Jul 8, 2023)
+    New Suggestions view!
+    Recollect has always provided suggestions in the form of photos and prompts. While we were happy with the functionality they provided, we realized that the suggestions view was confusing for many people. With the new design, it's easier than ever to write in your journal.
+    Scroll through your best photos and videos and prompts.
+    This is only the beginning for Suggestions in Recollect!
+
+    Also:
+    -Updated onboarding
+Version 1.1 (Jul 6, 2023)
+    New Suggestions view!
+    Recollect has always provided suggestions in the form of photos and prompts. While we were happy with the functionality they provided, we realized that the suggestions view was confusing for many people. With the new design, it's easier than ever to write in your journal.
+    Scroll through your best photos and videos and prompts.
+    This is only the beginning for Suggestions in Recollect!
+Version 1.0.6 (Jun 25, 2023)
+    Updated onboarding a little bit. Preparing for big updates to the Suggestions screen!
+Version 1.0.5 (Jun 22, 2023)
+    Updates to the store front and onboarding!
+Version 1.0.4 (Jun 10, 2023)
+    Fixing a few bugs in onboarding. We'll be working on an entirely new onboarding experience over the next few weeks. And then we've got some exciting updates to the Write tab.. it will be much easier and we're excited for you to see what we've got coming!
+Version 1.0.3 (May 19, 2023)
+    We've updated the onboarding experience
+
+Users may also like
+Select objects to compare
+Mineral - Gratitude Journal
+Journal - Diary & Mood Tracker
+Introspect: The AI Journal
+Highlights: Private Journal
+Peak: Fitness Widgets
+Clearful - Journal & Diary
+KnownWell - AI Journal & Diary
+Nuits: White Noise Soundscapes
+JustTrack - Numbers & Habits
+Supersonic: Run, Walk, Get Fit
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    1.6.3
+    Current release
+    Feb 2, 2024
+    1.6
+    Jan 25, 2024
+    1.5.1
+    Jan 2, 2024
+    1.5
+    Dec 9, 2023
+    1.4.5
+    Oct 26, 2023
+    1.3.1
+    Oct 18, 2023
+    1.3
+    Oct 17, 2023
+    1.2.12
+    Oct 6, 2023
+    1.2.11
+    Oct 5, 2023
+    1.2.6
+    Oct 1, 2023
+    1.2.5
+    Sep 28, 2023
+    1.2.4
+    Sep 26, 2023
+    1.2.2
+    Sep 22, 2023
+    1.2.3
+    Sep 22, 2023
+    1.2.1
+    Sep 18, 2023
+    1.1.9
+    Sep 8, 2023
+    1.1.8
+    Aug 29, 2023
+    1.1.7
+    Aug 7, 2023
+    1.1.6
+    Aug 1, 2023
+    1.1.5
+    Jul 21, 2023
+    1.1.3
+    Jul 13, 2023
+    1.1.2
+    Jul 12, 2023
+    1.1.1
+    Jul 8, 2023
+    1.1
+    Jul 6, 2023
+    1.0.6
+    Jun 25, 2023
+    1.0.5
+    Jun 22, 2023
+    1.0.4
+    Jun 10, 2023
+    1.0.3
+    May 19, 2023
+
+See More
+Top In-App Purchases
+
+    Monthly Subscription
+    $6.99
+    Early bird Lifetime
+    $79.99
+    Lifetime
+    $169.99
+    Discounted Annual Subscription
+    $21.99
+    Medium Tip
+    $10.99
+    Small Tip
+    $2.99
+    Pizza
+    $18.99
+    Yearly Subscription
+    $40.99
+
+About
+
+Required Devices
+    iPhone, iPad
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    May 16, 2023
+
+Worldwide Release Date
+    May 16, 2023
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    1.6.3
+
+Size
+    189.51 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Albanian, Dutch, French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Turkish
+
+Seller
+    Bryan Anderson
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 17.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.lemonthing.remember
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1617505834
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Recollect - AI Journal & Diary | data.ai

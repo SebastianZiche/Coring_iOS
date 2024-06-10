@@ -1,0 +1,341 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+VoiceTranscribe-Speech to Text
+palmmobProductivity (Applications)Free
+Alerts
+
+    palmmob
+
+    VoiceTranscribe-Speech to Text
+    VoiceTranscribe-Speech to Text
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+VoiceTranscribe-Speech to Text
+Voice Memo to Text
+Productivity (Applications)
+Free
+App Promotional Text
+Voice to Text,Live Transcribe,Voice memo.
+App Description
+Effortlessly transcribe your voice memos and videos using VoiceTranscribe, leveraging advanced AI (Artificial Intelligence) and speech recognition technology. You only need to tap a button to provide easily readable and editable transcriptions.
+
+
+
+Key Features:
+
+-Transcribe in real-time while recording, with a preview.
+
+-Import files from other applications and Dropbox for transcription, with no audio format limitations.
+
+-Support for over 100 languages and dialects.
+
+-Editable transcribed text, exportable in formats such as txt and Word.
+
+-Intelligent voice recorder with multiple native recording modes.
+
+-Audio editing capabilities: audio splitting, merging, compression, format conversion, speed adjustment, volume adjustment, and stereo synthesis.
+
+-Text-to-speech conversion, featuring an intelligent voiceover tool with various selectable voices.
+
+-Ad-free experience.
+
+
+
+Designed with privacy in mind
+
+Voice Recorderr Converter is 100% safe for your audio and documents. Audio processing is done locally on your device. Unlike other applications, Sound Recorder does not process files on remote servers. Unlike other applications, Sound Recorder does not process files on remote servers.
+
+
+
+Subscription Instructions：
+
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+
+Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account
+
+Privacy Policy: http://www.palmmob.cn/yinsi/luyinyinsiiiosen.html
+
+User Agreement: http://www.palmmob.cn/yinsi/luyinyonghuiosen.html
+Ratings
+Displayed Avg Ratings
+4.4
+Total Displayed Ratings
+48
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.1.0 (Feb 22, 2024)
+    Thank you for using our product, this version is updated as follows:
+    1. Optimize the large AI speech transcription model, increase the types of transcribed speech, and improve the speed and accuracy of transcription;
+    2. Fix known bugs and improve user experience.
+Version 2.0.5 (Sep 21, 2023)
+    Thank you for using our products. The updates to this version are as follows:
+    1. The transcribed text can be edited;
+    2. Submit large transcribed files to the background for transcription and notify you of the completion of the transcription;
+    3. Fix known bugs and improve user experience.
+Version 2.0.4 (Sep 15, 2023)
+    Fix known problems and optimize the operating experience of some functions.
+Version 2.0.3 (Aug 19, 2023)
+    1. Added language options for text-to-speech;
+    2. Optimize recording to text;
+    3. Fix known bugs.
+Version 2.0.2 (Aug 2, 2023)
+    1. Optimize the parameter configuration of the recorder, making the recording more intelligent;
+    2. Text-to-speech, adding more timbre options;
+    3. Optimize recording to text, audio input and audio export;
+    4. Fix known problems.
+Version 2.0.1 (Jul 10, 2023)
+    1. Optimize the recorder and add more recording modes;
+    2. Text to speech, adding more timbre options;
+    3. Increase the accuracy of audio-to-text conversion, and improve the fluency of real-time audio-to-text conversion;
+    4. Fix known bugs.
+Version 2.0.0 (Jun 8, 2023)
+    A major version update is coming!
+    1. Brand-new recorder, recording operation is more convenient and sound quality is clearer
+    2. Add recording to text, real-time recording transcription, import audio transcription, unlimited format
+    3. Add text-to-speech, a variety of timbres to choose from, and you can adjust the speech rate and intonation, which is an artifact of dubbing
+    4. Optimize audio editing tools such as audio clipping and audio synthesis
+Version 1.3.0 (Nov 27, 2022)
+    1. Adjust the UI for a better user experience;
+    2. Fix known bugs.
+Version 1.2.2 (Aug 16, 2022)
+    1. Fix known bugs.
+Version 1.2.1 (Jun 28, 2022)
+    1. Fix known bugs.
+Version 1.2.0 (May 17, 2022)
+    1. File cloud storage;
+    2. Voice to text supports batch transcription in the background;
+    3. UI optimization, better experience;
+    4. Fix known bugs.
+Version 1.1.8 (Apr 9, 2022)
+    1.修复已知Bug, 改善用户体验.
+Version 1.1.7 (Jan 6, 2022)
+    1.新增音频剪辑;
+    2.修复已知bug.
+Version 1.1.6 (Nov 6, 2021)
+    1.修复已知bug, 改善用户体验.
+Version 1.1.5 (Oct 16, 2021)
+    1.修复已知bug, 提升用户体验。
+Version 1.1.4 (Oct 9, 2021)
+    1.修复已知问题,改善用户体验.
+Version 1.1.3 (Sep 18, 2021)
+    1.修复已知问题, 体验更佳.
+Version 1.1.1 (Aug 28, 2021)
+    1.适配iPad；
+    2.修复bug，用户体验更佳！
+Version 1.1.0 (Aug 24, 2021)
+    1.修复反馈的bug；
+    2.调整UI，体验更佳。
+
+Users may also like
+Select objects to compare
+扫描文件王-学习办公扫描仪与文件管理器
+Transcribe: speech to text
+FastAI-智能AI写作助手Chat人工智能GPT机器人
+PDF Photos:Convert Edit PDF
+Voice Recorder~Recording app
+茗享-轻松便捷
+Orange Diary-Gratitude Journal
+手机清理-手机管家清理助手
+Daily Plan-Tasks&Lists
+知识产权-云葫芦
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.1.0
+    Current release
+    Feb 22, 2024
+    2.0.5
+    Sep 21, 2023
+    2.0.4
+    Sep 15, 2023
+    2.0.3
+    Aug 19, 2023
+    2.0.2
+    Aug 2, 2023
+    2.0.1
+    Jul 10, 2023
+    2.0.0
+    Jun 8, 2023
+    1.3.0
+    Nov 27, 2022
+    1.2.2
+    Aug 16, 2022
+    1.2.1
+    Jun 28, 2022
+    1.2.0
+    May 17, 2022
+    1.1.8
+    Apr 9, 2022
+    1.1.7
+    Jan 6, 2022
+    1.1.6
+    Nov 6, 2021
+    1.1.5
+    Oct 16, 2021
+    1.1.4
+    Oct 9, 2021
+    1.1.3
+    Sep 18, 2021
+    1.1.1
+    Aug 28, 2021
+    1.1.0
+    Aug 24, 2021
+
+See More
+Top In-App Purchases
+
+    Voice Recorder Premium Yearly
+    $109.99
+    Voice Recorder Premium quarter
+    $32.99
+    Recording to text 20-hour
+    $64.99
+    Recording to text 5-hour
+    $20.99
+    Recording to text 10-hour
+    $32.99
+    Recording to text 1-hour
+    $5.99
+    Voice Recorder Premium Quarter
+    $42.99
+    Voice Recorder Premium Monthly
+    $20.99
+    Voice Recorder Premium Yearly
+    $54.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jul 31, 2021
+
+Worldwide Release Date
+    Jul 31, 2021
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.1.0
+
+Size
+    78.55 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese, Traditional Chinese
+
+Seller
+    Wuhan bayesian network technology co., LTD
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.1 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.palmmob.memoios
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1578403495
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+VoiceTranscribe-Speech to Text | data.ai

@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1477667318,0,TheArchiveTV,Entertainment,2019-08-10,2019-10-09,83.06,7,0,0,1,0,0,1,0,0,0,0,0,0,0,month_1,0,0,1007,1112.0
+1477667318,0,TheArchiveTV,Entertainment,2019-08-10,2019-10-09,83.06,7,0,0,1,0,0,0,1,0,0,0,0,0,0,month_2,0,0,1037,1112.0
+1477667318,0,TheArchiveTV,Entertainment,2019-08-10,2019-10-09,83.06,7,0,0,1,1,0,0,0,1,0,0,0,0,0,month_3,0,0,1067,1112.0
+1477667318,0,TheArchiveTV,Entertainment,2019-08-10,2019-10-09,83.06,7,0,0,1,0,0,0,0,0,1,0,0,0,0,month_4,0,0,1097,1112.0
+1477667318,0,TheArchiveTV,Entertainment,2019-08-10,2019-10-09,83.06,7,0,0,1,0,0,0,0,0,0,1,0,0,0,month_5,0,1,1127,1112.0
+1477667318,0,TheArchiveTV,Entertainment,2019-08-10,2019-10-09,83.06,7,0,0,1,0,0,0,0,0,0,0,1,0,0,month_6,0,1,1157,1112.0
+1477667318,0,TheArchiveTV,Entertainment,2019-08-10,2019-10-09,83.06,7,0,0,1,1,0,0,0,0,0,0,0,1,0,month_7,0,1,1187,1112.0
+1477667318,0,TheArchiveTV,Entertainment,2019-08-10,2019-10-09,83.06,7,0,0,1,0,0,0,0,0,0,0,0,0,1,month_8,0,1,1217,1112.0

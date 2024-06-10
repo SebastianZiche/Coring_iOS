@@ -1,0 +1,16 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.100,2023-05-01,Bug Fixes
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.90,2023-04-08,View restore recently deleted images for 30 days Added Spanish translation Small design changes Bug Fixes
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.80,2022-12-22,Bug Fixes
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.70,2022-06-05,Location saved with photos Leak Pixel effect improvements Option to hide West logo on the camera screen Small bug fixes
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.60,2022-04-22,Updated West Texture New Camera Launcher widget quickly opens the camera displays how many photos have been taken Tapping the Gallery widget goes to the selected photo in app Small bug fixes design changes performance improvements
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.50,2022-04-09,New pro options: auto save to library default filter Photos are saved to library with original date lens information etc. Small bug fixes design changes performance improvements
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.41,2022-03-07,Layout fixes for smaller devices Bug fixes
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.4,2022-03-06,New updated effects: light leak blur fisheye threshold bloom neon Design updates Bug fixes report a bug feature
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.3,2021-08-10,Updated Light leak effect Images are now shared in order Small interface updates
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.2,2021-05-31,Light leaks bloom and a slight blur can be added through the new effects tab. Home screen widgets showing random photos from your West library. Capture button animates when taking a photo. Bug fixes performance improvements.
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2.1,2021-05-13,Updated lens selection and introduced a dedicated flip camera button. Fixed an issue that would sometimes rotate an image on import. Fixed a few other bugs and made some general improvements.
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,2,2021-05-07,West v2 is totally new! A new interface new filters and so much more. Follow westcameraapp for more updates.
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,1.2,2020-06-22,Minor improvements bug fixes Updated welcome guide
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,1.1,2020-06-16,Bug Fixes
+1517310923,0,WEST film effects,Photo and Video,2020-06-15,2020-06-15,124.6,2,0,0,1,1.0,2020-06-15,

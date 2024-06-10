@@ -1,0 +1,273 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Group Transcribe
+MicrosoftProductivity (Applications)Free
+Alerts
+
+    Group Transcribe
+    Group Transcribe
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Group Transcribe
+En Microsoft Garage-produkt
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+Group Transcribe tillhandahåller avskrift och översättning i realtid för möten och konversationer i person. Funktionen drivs av toppmodern tal- och språkteknik samt ett format för ljudindata från flera enheter. Tack vare att projektet möjliggör mycket exakt talarattribution kan konversationsdeltagarna se vem som sa vad – på det språk deltagarna föredrar.
+
+Med Group Transcribe kan du ansluta med din telefon och följa konversationen på ditt eget språk så att alla kan bli mer fokuserade och produktiva.
+
+Förbättrad transkriptionnoggrannhet i realtid:
+– Högre noggrannhet tack vare att alla kan ansluta till konversationen med sina egna telefoner
+– Högtalarattribution för att se vem som sade vad på enheten i realtid
+– Fungerar bra även när du tillämpar social distansering
+– Stöder språk för 80+ nationella inställningar
+
+Öka produktiviteten i arbete och studier:
+– Starta en konversation från telefonen och bjud enkelt in andra att ansluta*
+– Spara avskriften automatiskt efter varje session
+– Enkelt dela avskrifterna med andra
+– Bläddra bland och visa tidigare avskrifter från startskärmen
+
+Var mer närvarande i en konversation:
+– Håll fokuset uppe utan att skriva anteckningar eller trycka för att prata
+– Följ konversationen i realtid på det språk du föredrar
+– Läs transkriptionen på det språk du valt
+– Gör konversationer och möten tillgängliga
+
+* Varje användare behöver ha och använda sin egen enhet nära till hands för att få en upplevelse av högsta kvalitet
+
+Group Transcribe stöder följande talade språk i 80+ nationella inställningar, däribland: arabiska, bulgariska, katalanska, kantonesiska, kinesiska (förenklad), kinesiska (traditionell), kroatiska, tjeckiska, danska, nederländska, engelska, estniska, filippinska, finska, franska, tyska, grekiska, hindi, indonesiska, irländska, italienska, japanska, koreanska, litauiska, lettiska, malaysiska, maltesiska, norska, polska, portugisiska, rumänska, ryska, spanska, slovakiska, slovenska, svenska, thailändska, turkiska, vietnamesiska och fler
+
+Group Transcribe drivs med den senaste tal- och språktekniken som används av Microsoft-produkter som Office och Teams.
+
+Krav:
+– iOS 12 och senare
+– Prata i din egen enhet*
+
+Begäran om användarbehörighet:
+– Nätverksåtkomst: Group Transcribe behöver åtkomst till Wi-Fi-eller mobildata för att kunna transkribera eller översätta tal
+– Mikrofon: Group Transcribe behöver mikrofonåtkomst för att kunna transkribera och översätta talet. Ljudet lagras inte efter det att transkriptionen har bearbetats
+
+
+
+Kontraktsammanfattning (https://aka.ms/GroupTranscribeContractSummary)
+*Grupp Transcribe-appen är utformad för konversationer med flera enheter.
+Ratings
+Displayed Avg Ratings
+3.94
+Total Displayed Ratings
+190
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 23.10.1 (Nov 9, 2023)
+    Lade till meddelande och information om tillbakadragandet av Group Transcribe och dess borttagning från App Store.
+Version 22.10.2 (Oct 27, 2022)
+    Felkorrigeringar och allmänna förbättringar.
+Version 22.8.1 (Aug 18, 2022)
+    Felkorrigeringar och allmänna förbättringar.
+Version 22.7.1 (Aug 4, 2022)
+    Felkorrigeringar och allmänna förbättringar.
+Version 22.3.1 (Mar 10, 2022)
+    Felkorrigeringar och allmänna förbättringar.
+Version 22.2.1 (Mar 2, 2022)
+    Felkorrigeringar och allmänna förbättringar.
+Version 22.1.1 (Jan 21, 2022)
+    Felkorrigeringar och allmänna förbättringar.
+Version 21.10.1 (Oct 8, 2021)
+    Felkorrigeringar och allmänna förbättringar.
+Version 21.9.1 (Oct 5, 2021)
+    Felkorrigeringar och allmänna förbättringar.
+Version 21.6.2 (Jun 30, 2021)
+    Felkorrigeringar och allmänna förbättringar.
+Version 21.5.2 (Jun 8, 2021)
+    Felkorrigeringar och allmänna förbättringar.
+Version 21.3.1 (Apr 5, 2021)
+    Nya språk: filippinska, indonesiska, malaysiska och vietnamesiska
+
+    Felkorrigeringar och allmänna förbättringar.
+Version 21.2.1 (Mar 8, 2021)
+    Felkorrigeringar och allmänna förbättringar.
+
+Users may also like
+Select objects to compare
+Notta-Transcribe Voice to Text
+AI MINUTES
+Speech to Text+
+FirstSeed Calendar
+kintone
+文字スキャン - 画像テキスト読み取り変換
+Drafts
+撮るだけ文字認識
+PDF余白調整
+Svadilfari
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    23.10.1
+    Current release
+    Nov 9, 2023
+    22.10.2
+    Oct 27, 2022
+    22.8.1
+    Aug 18, 2022
+    22.7.1
+    Aug 4, 2022
+    22.3.1
+    Mar 10, 2022
+    22.2.1
+    Mar 2, 2022
+    22.1.1
+    Jan 21, 2022
+    21.10.1
+    Oct 8, 2021
+    21.9.1
+    Oct 5, 2021
+    21.6.2
+    Jun 30, 2021
+    21.5.2
+    Jun 8, 2021
+    21.3.1
+    Apr 5, 2021
+    21.2.1
+    Mar 8, 2021
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Mar 3, 2021
+
+Worldwide Release Date
+    Mar 3, 2021
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    23.10.1
+
+Size
+    44.81 mb
+
+Only 32 Bit
+    No
+
+Languages
+    svenska, arabiska, danska, engelska, finska, franska, förenklad kinesiska, hebreiska, hindi, indonesiska, italienska, japanska, katalanska, koreanska, nederländska, norska bokmål, polska, portugisiska, ryska, spanska, thailändska, traditionell kinesiska, turkiska, tyska
+
+Seller
+    Microsoft Corporation
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Kräver iOS 12.0 eller senare. Kompatibel med iPhone, iPad och iPod touch.
+
+Bundle ID
+    com.microsoft.transcribe
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1527145885
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Group Transcribe | data.ai

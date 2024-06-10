@@ -1,0 +1,419 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Voice Recorder, Audio Memos
+XiaolingUtilities (Applications)Free
+Alerts
+
+    Voice Recorder, Audio Memos
+    Voice Recorder, Audio Memos
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Voice Recorder, Audio Memos
+Voice Recorder
+Utilities (Applications)
+Free
+App Description
+“Voice Recorder” is your ultimate solution for recording with high-quality sound, that easily records interviews, speeches, lectures, meetings, and inspirations, while also offering more editing capabilities such as Trim, Copy/Cut/Paste, Split, Join, Insert, and Mix.
+
+For your advanced needs, we developed “Speech to text”, “Noise reduction”, and “Monitor” features so that you can convert speech to text, reduce noise for clearer voice, and listening while recording.
+
+Advanced Features:
+
+Noise Reduction
+Reduce the noise of recording for a clearer voice.
+
+Monitor
+Listening while recording, real-time or delayed, it's up to you.
+
+Speech to Text
+Support for 30 languages and long-duration recordings.
+
+Skip Silence
+Remove silent regions in recorded clips with one click.
+
+Audio Editor
+Trim, Copy/Cut/Paste, Split, Join, Insert, Mix.
+
+Voice Changer
+Speed, Pitch, Fade in, Fade out, Mute.
+
+Markers
+Mark key points to quickly find what you need.
+
+Audio Recovery
+Operation error! Recover the edited recording to the original at any time.
+
+Audio Sharing
+Share recordings by Email, Messages, Facebook, Twitter, YouTube, Instagram, and Snapchat.
+
+Audio Manager
+Manage recordings by categories, Folders, Favorites, Trash, also built-in search and sort features.
+
+
+Privacy Policy: https://xiaoling.app/privacy
+Terms of Use: https://xiaoling.app/terms
+Ratings
+Displayed Avg Ratings
+4.41
+Total Displayed Ratings
+21.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.3.3 (Jan 4, 2024)
+    Bug fixes and improvements.
+Version 5.3.2 (Dec 18, 2023)
+    Bug fixes and improvements.
+Version 5.3.1 (Dec 15, 2023)
+    Bug fixes and improvements.
+Version 5.2.7 (Dec 13, 2023)
+    Bug fixes and improvements.
+Version 5.2.6 (Oct 9, 2023)
+    Bug fixes and improvements.
+Version 5.2.5 (Sep 27, 2023)
+    Bug fixes and improvements.
+Version 5.2.4 (Apr 11, 2023)
+    - 问题修复及性能优化
+Version 5.2.2 (Sep 2, 2022)
+    - 功能改进与性能优化
+Version 5.2.1 (Aug 16, 2022)
+    - BUG修复
+Version 5.2 (Aug 11, 2022)
+    - 优化用户操作体验
+Version 5.1 (Jul 29, 2022)
+    - 性能优化与改进
+Version 5.0 (Jun 16, 2022)
+    - 全新界面
+    - 功能改进与性能优化
+Version 4.2 (Jan 28, 2021)
+    Bug Fixes.
+Version 4.1.1 (Oct 1, 2020)
+    Bug Fixes.
+Version 4.1 (Sep 26, 2020)
+    1. New OS Support;
+    2. Bug Fixes.
+Version 4.0.3 (Aug 30, 2020)
+    Bug Fixes.
+Version 4.0.2 (Aug 11, 2020)
+    修复已知问题。
+Version 4.0.1 (Jun 18, 2020)
+    深景模式主题切换
+Version 4.0 (May 14, 2020)
+    本更新包含稳定性和性能提升。
+Version 3.9.4 (Apr 15, 2020)
+    本更新包含稳定性和性能提升。
+Version 3.9.3 (Mar 27, 2020)
+    本更新包含稳定性和性能提升。
+Version 3.9.2 (Feb 26, 2020)
+    本更新包含稳定性和性能提升。
+Version 3.9.1 (Feb 8, 2020)
+    本更新包含稳定性和性能提升。
+Version 3.9 (Jan 17, 2020)
+    问题已解决
+Version 3.7.1 (Dec 19, 2019)
+    本次更新修复了几个已知问题并提升了应用稳定性。
+Version 3.7 (Nov 1, 2019)
+    本次更新修复了几个已知问题并提升了应用稳定性。
+Version 3.6.2 (Oct 29, 2019)
+    本更新包含稳定性和性能提升。
+Version 3.6.1 (Oct 22, 2019)
+    本次更新修复了几个已知问题并提升了应用稳定性。
+Version 3.6 (Oct 18, 2019)
+    语音转文字
+    问题已解决
+Version 3.5 (Oct 16, 2019)
+    本更新包含稳定性和性能提升。
+    1、智能剪辑；
+    2、只在说话时录音；
+    3、语音转文字。
+Version 3.4 (Oct 7, 2019)
+    1、智能剪辑；
+    2、问题修复。
+Version 3.3.1 (Sep 27, 2019)
+    所报告的问题已解决。
+Version 3.3 (Sep 12, 2019)
+    Support New OS
+Version 3.2.1 (Aug 30, 2019)
+    随机播放
+Version 3.2 (Aug 23, 2019)
+    iCloud 云盘
+Version 3.1 (Jul 27, 2019)
+    • 小组件
+    • 标记
+    • 当前时间
+Version 3.0.1 (Jul 13, 2019)
+    • 在指定时间录音
+    • 无声音时自动暂停
+    • 与选择的音频混合录制
+    • 听你说话时的声音
+    • 通过蓝牙麦克风录音
+Version 3.0 (Jul 9, 2019)
+    • 在指定时间录音
+    • 无声音时自动暂停
+    • 与选择的音频混合录制
+    • 听你说话时的声音
+    • 通过蓝牙麦克风录音
+Version 2.0 (Jul 19, 2018)
+    1. New Themes;
+    2. Folders Support;
+    3. Favorites Support;
+    4. Trash Support;
+    5. Waveform;
+    6. Audio Editing;
+Version 1.2 (Feb 20, 2017)
+    1. Themes;
+    2. Pause Recording;
+    3. In Minutes Stop Playing;
+    4. Repeat Playback;
+    5. Previous and Next Recording;
+    6. Playing Animation.
+Version 1.0 (Dec 1, 2016)
+
+Users may also like
+Select objects to compare
+AVR X - Voice Recorder
+Recorder Plus - Audio Editor
+Voice Recorder & Memos Pro
+Voice recorder: Audio editor
+Recorder for iPhone
+Voice recorder - Voz
+Voice Recorder - Dictaphone
+Voice Recorder - Audio Memos
+Voice Recorder－Audio Memos Арр
+Voice Memo Recorder & Changer
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.3.3
+    Current release
+    Jan 4, 2024
+    5.3.2
+    Dec 18, 2023
+    5.3.1
+    Dec 15, 2023
+    5.2.7
+    Dec 13, 2023
+    5.2.6
+    Oct 9, 2023
+    5.2.5
+    Sep 27, 2023
+    5.2.4
+    Apr 11, 2023
+    5.2.2
+    Sep 2, 2022
+    5.2.1
+    Aug 16, 2022
+    5.2
+    Aug 11, 2022
+    5.1
+    Jul 29, 2022
+    5.0
+    Jun 16, 2022
+    4.2
+    Jan 28, 2021
+    4.1.1
+    Oct 1, 2020
+    4.1
+    Sep 26, 2020
+    4.0.3
+    Aug 30, 2020
+    4.0.2
+    Aug 11, 2020
+    4.0.1
+    Jun 18, 2020
+    4.0
+    May 14, 2020
+    3.9.4
+    Apr 15, 2020
+    3.9.3
+    Mar 27, 2020
+    3.9.2
+    Feb 26, 2020
+    3.9.1
+    Feb 8, 2020
+    3.9
+    Jan 17, 2020
+    3.7.1
+    Dec 19, 2019
+    3.7
+    Nov 1, 2019
+    3.6.2
+    Oct 29, 2019
+    3.6.1
+    Oct 22, 2019
+    3.6
+    Oct 18, 2019
+    3.5
+    Oct 16, 2019
+    3.4
+    Oct 7, 2019
+    3.3.1
+    Sep 27, 2019
+    3.3
+    Sep 12, 2019
+    3.2.1
+    Aug 30, 2019
+    3.2
+    Aug 23, 2019
+    3.1
+    Jul 27, 2019
+    3.0.1
+    Jul 13, 2019
+    3.0
+    Jul 9, 2019
+    2.0
+    Jul 19, 2018
+    1.2
+    Feb 20, 2017
+    1.0
+    Dec 1, 2016
+
+See More
+Top In-App Purchases
+
+    Monthly Subscription
+    $9.99
+    Yearly Subscription
+    $49.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Utilities
+
+Initial Release Date
+    Dec 1, 2016
+
+Worldwide Release Date
+    Dec 1, 2016
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    5.3.3
+
+Size
+    24.07 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Catalan, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Slovak, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+Seller
+    Shanghai Xiaoling Technology Co., Ltd.
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 and watchOS 4.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    cn.linfei.SimpleRecorder
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Dec 1, 2016)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1177522900
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Voice Recorder, Audio Memos | data.ai

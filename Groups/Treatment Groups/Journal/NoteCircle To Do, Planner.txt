@@ -1,0 +1,1051 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+NoteCircle: To Do, Planner
+Kyoungok ParkProductivity (Applications)Free
+Alerts
+
+    Kyoungok Park
+
+    NoteCircle: To Do, Planner
+    NoteCircle: To Do, Planner
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+NoteCircle: To Do, Planner
+Tareas,Calendario,Recordatorio
+Productivity (Applications)
+Free
+App Description
+Looking for a powerful task manager and to-do list app that's trusted by over 1 million users worldwide? NoteCircle is the perfect solution.
+
+If you've tried multiple productivity apps but haven't found one that suits your needs, give NoteCircle a try. This beautiful app lets you manage all your daily tasks, weekly routines, events, and checklists in one convenient place.
+
+Why You'll Love NoteCircle:
+
+Beautiful Design:
+
+NoteCircle's elegant design is optimized for both iPhone and iPad.
+Our unique side tab interface gives you the satisfying feeling of using a paper to-do list.
+
+Effortless Planning:
+
+Easily plan and manage your weekly schedule with a simple swipe through the week to view and manage your tasks.
+Seamlessly integrate your Google and Apple Calendars with NoteCircle to manage all your events in one place.
+
+
+Powerful Features:
+
+Keep track of your progress with a monthly overview that shows completed tasks, upcoming events, and more.
+Set up weekly goals and priorities to stay on track and achieve your objectives.
+
+
+NoteCircle is always free, giving you access to all of its powerful features. If you're looking for even more advanced capabilities, upgrade to NoteCircle Premium for the ultimate task management experience.
+
+You can manage and cancel the auto-renew subscription at any time from the account settings on iTunes (post-purchase), but we are unable to issue refunds for any pay periods that have already been billed.
+
+Homepage: https://www.genaufactory.com/notecircle
+Terms: https://www.genaufactory.com/genau-terms-conditions
+Privacy: https://www.genaufactory.com/genau-data-privacy
+Ratings
+Displayed Avg Ratings
+4.51
+Total Displayed Ratings
+3.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.89 (Feb 19, 2024)
+    In this release, we've introduced enhancements to the following features:
+    - Fixed Event bugs
+Version 2.88 (Feb 5, 2024)
+    In this release, we've introduced enhancements to the following features:
+    - Fixed Routine bugs
+Version 2.86 (Jan 29, 2024)
+    In this release, we've introduced enhancements to the following features:
+    - Fixed pending todo bugs
+Version 2.85 (Jan 5, 2024)
+    In this release, we've introduced enhancements to the following features:
+    - Fixed minor issues
+Version 2.82 (Jan 1, 2024)
+    In this release, we've introduced enhancements to the following features:
+    - Calendar sync improvement
+Version 2.84 (Jan 1, 2024)
+    In this release, we've introduced enhancements to the following features:
+    - Google Calendar sync improvement
+Version 2.81 (Dec 19, 2023)
+    In this release, we've introduced enhancements to the following features:
+    - Fixed crash bugs
+Version 2.80 (Dec 16, 2023)
+    In this release, we've introduced enhancements to the following features:
+    - Fixed minor bugs
+Version 2.79 (Dec 14, 2023)
+    In this release, we've introduced enhancements to the following features:
+    - New feature: Anonymous account
+    - Fixed sorting bugs
+Version 2.78 (Dec 11, 2023)
+    In this release, we've introduced enhancements to the following features:
+    - In-App purchase updates
+    - Fixed minor bugs
+Version 2.77 (Dec 6, 2023)
+    In this release, we've introduced enhancements to the following features:
+    - Fixed Event date bugs
+    - Fixed issues with Apple Calendar and Reminders Sync
+Version 2.76 (Dec 5, 2023)
+    In this release, we've introduced enhancements to the following features:
+    - Fixed issues with Apple Calendar and Reminders Sync
+    - Settings: Improved management of reminders
+Version 2.75 (Nov 29, 2023)
+    In this release, we've introduced enhancements to the following features:
+    - Improved performance
+    - Enhanced sorting capabilities
+Version 2.74 (Nov 23, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Fixed bugs in widgets
+    - Enabled icon recommendation functionality for 'Routine', 'Event', and 'Checklist' features
+Version 2.73 (Nov 10, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Fixed minor bugs
+Version 2.71 (Oct 27, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Improved To-Do and Checklist functionalities
+Version 2.70 (Oct 22, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Added a date to the Todo list on Widgets
+    - Improved Apple Reminders
+Version 2.69 (Oct 17, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Fixed minor bugs
+    - Copy improvement
+Version 2.68 (Sep 30, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Fixed date bugs in Event
+Version 2.67 (Sep 24, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Fixed Event bugs
+Version 2.66 (Sep 22, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Event improvement
+Version 2.65 (Sep 12, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Settings improvement
+Version 2.64 (Sep 2, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Event feature improvement
+Version 2.63 (Aug 22, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Fixed 'Add Tasks' bugs
+    - Fixed crash bugs
+Version 2.62 (Aug 17, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Fixed minor bugs
+Version 2.61 (Aug 10, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Calendar sync improvements
+Version 2.59 (Aug 4, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Apple Calendar Sync improvements
+Version 2.58 (Jul 27, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Performance improvements
+Version 2.57 (Jul 26, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Page navigation improvements
+Version 2.56 (Jul 20, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Fixed design bugs
+Version 2.55 (Jul 14, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Sync Apple Reminders
+    - Premium menu controls
+Version 2.54 (Jun 25, 2023)
+    In this release, we have implemented enhancements to the following features:
+    - Resolved issues with the bi-weekly routine functionality
+    - Updated Spanish copy
+Version 2.53 (Jun 10, 2023)
+    In this release, we have made improvements to the following features
+    - Fixed Mac page bugs
+Version 2.52 (Jun 8, 2023)
+    In this release, we have made improvements to the following features
+    - Fixed Apple calendar bugs
+Version 2.51 (May 31, 2023)
+    In this release, we have made improvements to the following features
+    - Fixed monthly routine bugs
+    - Performance improvement
+Version 2.50 (May 20, 2023)
+    In this release, we have made improvements to the following features
+    - Fixed minor bugs
+    - Performance improvement
+Version 2.49 (May 10, 2023)
+    In this release, we have made improvements to the following features
+    - Subscription bug fixes.
+    - Performance improvement
+Version 2.48 (Apr 30, 2023)
+    In this release, we have made improvements to the following features
+    - Performance improvement
+    - Fixed minor bugs
+Version 2.47 (Apr 17, 2023)
+    In this release, we have made improvements to the following features
+    - Performance improvement
+    - Fixed minor bugs
+Version 2.46 (Apr 4, 2023)
+    In this release, we have made improvements to the following features
+    - fixing report bugs
+Version 2.45 (Mar 24, 2023)
+    In this release, we have made improvements to the following features
+    - fixing the date bugs
+Version 2.44 (Mar 2, 2023)
+    In this release, we improved the features below
+    - Todo tab bug fixes
+    - Performance improvement
+Version 2.43 (Feb 24, 2023)
+    In this release, we improved the features below
+    - Todo tab bug fixes
+    - Performance improvement
+Version 2.42 (Feb 11, 2023)
+    In this release, we improved the features below
+    - Checklist bug fixes
+    - Widget improvement
+Version 2.41 (Feb 8, 2023)
+    In this release, we improved the features below
+    - Event bug fixes
+    - Japanese and German copy updates
+    - Crash bug fixes
+Version 2.40 (Feb 3, 2023)
+    In this release, we improved the features below
+    - Apple Calendar: Recurring event bug fixes
+    - Monthly report: Enable to count both to-dos and routines
+    - Payment crash fixes
+    - iPad bug fixes
+Version 2.39 (Feb 1, 2023)
+    In this release, we improved the features below
+    - iPad version: Today button bug fixes
+    - Event list improvement
+Version 2.38 (Jan 29, 2023)
+    In this release, we improved the features below
+    - iPad version bug fixes
+    - Routine improvement
+Version 2.37 (Jan 27, 2023)
+    In this release, we improved the features below
+    - Checklist performance improvement
+    - Calendar Sync improvement
+Version 2.36 (Jan 24, 2023)
+    In this release, we improved the features below
+    - German & French copy updates
+    - Mac version updates
+    - Checklist: layout bug fixes
+    - Performance improvement
+Version 2.35 (Jan 16, 2023)
+    In this release, we improved the features below
+    - Performance improvement
+    - Time format updates
+    - Tutorial video
+Version 2.34 (Jan 4, 2023)
+    In this release, we improved the features below
+    - Widget bug fixes
+Version 2.34 (Jan 4, 2023)
+    In this release, we improved the features below
+    - Widget bug fixes
+Version 2.33 (Jan 3, 2023)
+    In this release, we improved the features below
+    - Event tab: enable to see the previous year's events on the Calendar view.
+Version 2.31 (Dec 24, 2022)
+    In this release, we improved the features below
+    - Someday improvement
+Version 2.30 (Dec 17, 2022)
+    In this release, we improved the features below
+    - Routine: new icons
+    - Event: performance improvement
+Version 2.29 (Dec 10, 2022)
+    In this release, we improved the features below
+    - Todo: Sort by priority
+    - DE, KO, JP copy updates
+Version 2.28 (Dec 4, 2022)
+    In this release, we improved the features below
+    - Button bug fixes, Layout bug fixes.
+Version 2.27 (Nov 28, 2022)
+    In this release, we improved the features below
+    - iPhone 14 Pro layout fixes
+    - Enable sending tasks between Todo and Checklist
+Version 2.26 (Nov 10, 2022)
+    In this release, we improved the features below
+    - Dark/Light/System mode bug fixes. 
+Version 2.25 (Nov 7, 2022)
+    In this release, we improved the features below
+    - Widget improvement: Enable to add checklists
+Version 2.24 (Nov 3, 2022)
+    In this release, we improved the features below
+    - Todo: Enable to sort by time
+Version 2.23 (Oct 31, 2022)
+    In this release, we improved the features below
+    - Google & Apple calendar improvement
+Version 2.22 (Oct 11, 2022)
+    In this release, we improved the features below
+    - Light/Dark mode improvement
+    - Copy updates
+    - To-do order logic updates
+Version 2.21 (Oct 2, 2022)
+    In this release, we improved the features below
+    - Pending todo improvement
+Version 2.19 (Sep 19, 2022)
+    In this release, we improved the features below
+    - Light/Dark mode improvement
+Version 2.18 (Sep 1, 2022)
+    In this release, we improved the features below
+    - Add 'Monthly goal' feature
+Version 2.17 (Aug 21, 2022)
+    In this release, we improved the features below
+    - Monthly report bug fix
+    - Widget dark mode
+    - iPad view mode update
+Version 2.16 (Aug 11, 2022)
+    In this release, we improved the features below
+    - Fixed crash bugs
+Version 2.15 (Aug 3, 2022)
+    In this release, we improved the features below
+    - Enable to pause/resume routines
+    - Bug fix: Email sign-in 
+Version 2.14 (Jul 26, 2022)
+    In this release, we improved the features below
+    - Fixed checklist bugs
+    - Dark mode updates: Report view, Colors
+Version 2.13 (Jul 21, 2022)
+    In this release, we improved the features below.
+    - Fixed iPad page bug
+    - Copy updates
+Version 2.08 (Jun 24, 2022)
+    In this release, we improved the features below
+    - Add a monthly event list on the Event's calendar view.
+    - Enable to set a biweekly routine
+    - Fix the checklist UI bug in the dark mode.
+Version 2.07 (Jun 20, 2022)
+    Fixed UI bugs in dark mode.
+    Enable to use Dark/Light mode in the More tab.
+Version 2.06 (Jun 11, 2022)
+    Fixed bugs on the Event tab.
+    Dark mode updates for the iPad version.
+Version 2.05 (Jun 2, 2022)
+    In this release, we improved the features below
+    - Dark mode
+    - Add more Icons for Events
+Version 2.04 (May 23, 2022)
+    In this update, we improved the features below
+    - Todo: performance improvement of reordering tasks.
+    - Enable to move routines to tomorrow with quick menus.
+    - Monthly Report updates.
+Version 2.03 (May 13, 2022)
+    In this release, we improved the features below.
+    - Fixed the pending todos bugs.
+    - Moved the routine report to the Routine tab.
+Version 2.02 (May 3, 2022)
+    In this release, we updated the app like below.
+    Routine - Enable to set a time without reminders
+    Todo - Implement a quick link that users are allowed to delete, edit, and move to tomorrow's list without opening a new page.
+    Todo (Premium) - Pending tasks where users can manage tasks that are not assigned to a specific day yet.
+    Google Calendar - bug fixes and improvement.
+Version 2.01 (Apr 7, 2022)
+    In this release, we fixed and improved the features below.
+    - Apple Calendar: enable to sync all events
+    - Weekly Goal: enable to review of weekly goals and note down how they went.
+Version 2.00 (Mar 25, 2022)
+    In this release, we fixed and improved the features below.
+    - Widget: update the layout
+    - Google Calendar: enable to sync all events
+    - Email sign-in: fix bugs 
+Version 1.99 (Mar 9, 2022)
+    Fixed Google sync bugs
+Version 1.98 (Mar 3, 2022)
+    Fixed todo list order bug
+Version 1.97 (Mar 1, 2022)
+    iPad version improvement
+Version 1.95 (Feb 23, 2022)
+    Mac / iPad improvement
+    Performance improvement
+Version 1.94 (Feb 19, 2022)
+    Performance improvement / iPad, Mac optimization
+Version 1.93 (Feb 18, 2022)
+    Copy updates and fixed small issues
+Version 1.92 (Feb 13, 2022)
+    Fixed small issues and improvements
+Version 1.91 (Feb 10, 2022)
+    fixed routine progress bugs
+Version 1.90 (Feb 9, 2022)
+    Routine improvement
+    - Enable to set monthly routines
+Version 1.89 (Feb 4, 2022)
+    Weekly goal improvement
+    - Enable to see & add goals of previous/next weeks
+Version 1.88 (Jan 26, 2022)
+    Bugfix - Delete your account and small issues
+Version 1.87 (Jan 20, 2022)
+    Widget improvements and fix small issues. 
+Version 1.86 (Jan 16, 2022)
+    Event tab improvement
+Version 1.85 (Jan 9, 2022)
+    Fix small bugs and improvement
+Version 1.84 (Jan 8, 2022)
+    Monthly report improvement and fix small bugs
+Version 1.83 (Dec 27, 2021)
+    French localization
+Version 1.82 (Dec 22, 2021)
+    Calendar sync improvements
+Version 1.81 (Dec 17, 2021)
+    Localization: German 
+Version 1.80 (Dec 11, 2021)
+    Improvement Weekly goals
+Version 1.78 (Dec 6, 2021)
+    Fixed pending todo issues
+Version 1.76 (Nov 30, 2021)
+    Bug fixes and improvements
+Version 1.75 (Nov 24, 2021)
+    Bug fixes and improvements
+Version 1.74 (Nov 9, 2021)
+    Increase the max characters of to-dos, weekly goals.
+    Fix bugs in Apple Calendar integration.
+Version 1.73 (Nov 2, 2021)
+    Bug fixes and improvements
+Version 1.72 (Oct 24, 2021)
+    Bug fixes and improvements
+Version 1.71 (Oct 22, 2021)
+    Bug fixes and improvements
+Version 1.70 (Oct 18, 2021)
+    Portuguese localization (Brazil)
+    Bug fixes and improvements
+Version 1.69 (Oct 12, 2021)
+    Bug fixes and improvements
+Version 1.68 (Oct 8, 2021)
+    Bug fixes and improvements
+Version 1.67 (Aug 28, 2021)
+    Enable to set a reminder for events(non-repeat events only)
+Version 1.66 (Aug 18, 2021)
+    Enable a repeat option for an event
+Version 1.65 (Aug 8, 2021)
+    bug fixes and performance improvements
+Version 1.64 (Aug 5, 2021)
+    bug fixes and performance improvements
+Version 1.63 (Jul 20, 2021)
+    Routine list design improvement
+    bug fixes and performance improvements
+Version 1.62 (Jul 2, 2021)
+    bug fixes and performance improvements
+Version 1.61 (Jun 26, 2021)
+    bug fixes and performance improvements
+Version 1.60 (Jun 10, 2021)
+    bug fixes and performance improvements
+Version 1.59 (Jun 6, 2021)
+    bug fixes and performance improvements
+Version 1.58 (Jun 2, 2021)
+    bug fixes and performance improvements
+Version 1.52 (May 29, 2021)
+    bug fixes and performance improvements
+Version 1.53 (May 29, 2021)
+    bug fixes and performance improvements
+Version 1.50 (May 18, 2021)
+    Fixed small bugs
+Version 1.49 (May 15, 2021)
+    Fix bugs in the calendar view.
+Version 1.48 (May 5, 2021)
+    Fixed notification bugs
+    Fixed layout issues on Event tab for iOS 13.0 users
+Version 1.47 (Apr 26, 2021)
+    Bug fixes and performance enhancements
+Version 1.46 (Apr 23, 2021)
+    Bug fixes and performance enhancements
+Version 1.45 (Apr 21, 2021)
+    Fixed performance issues
+Version 1.43 (Apr 6, 2021)
+    Enable to set a weekly goal.
+    Fix reminder bug in iPad.
+Version 1.42 (Mar 30, 2021)
+    Widget improvement - load data weekly
+Version 1.41 (Mar 21, 2021)
+    Fixed bugs
+Version 1.40 (Mar 13, 2021)
+    iPad - layout improvement
+    Routine order improvement
+Version 1.39 (Mar 12, 2021)
+    Routine
+    - Enable to update date of routines in Todo tab.
+    - Update design of routine progress
+Version 1.38 (Feb 27, 2021)
+    Add new icons for routines.
+Version 1.37 (Feb 21, 2021)
+    NotePlus Subscribers
+    - Report improvement (Mark today, Add calendar mode)
+    - Add calendar mode to Event tab.
+Version 1.36 (Feb 6, 2021)
+    NotePlus(premium users)
+    - Enable to change the order of Checklists
+    - Fixed crash issues of pending todos
+    - Enable to delete done items of Checklist
+Version 1.33 (Jan 24, 2021)
+    Common
+    - Fixed notification bugs
+    - Fixed crash issues.
+
+    Routine
+    - Add a reminder
+
+Version 1.32 (Jan 23, 2021)
+    Common
+    - Fixed notification bugs
+    - Fixed crash issues.
+
+    Routine
+    - Add a reminder
+Version 1.29 (Jan 21, 2021)
+    NotePlus (premium user)
+    - Enable to change the order of routines
+    - Enable to hide the pending todos
+Version 1.28 (Jan 16, 2021)
+    Premium features
+    - Create checklist / Set priorities / Monthly overview / Roll-over tasks
+
+    Routine tab
+    - Sort by created date
+    - Add more icons
+
+    Todo weekly view
+    - Add a mark to today
+Version 1.26 (Jan 12, 2021)
+    Premium features
+    - Create checklist / Set priorities / Monthly overview / Roll-over tasks
+
+    Routine list
+    - Sort by created date
+
+    Todo weekly view
+    - Add a mark to today
+Version 1.25 (Dec 15, 2020)
+    Fixed crash issues
+Version 1.24 (Nov 24, 2020)
+    Fixed UI bugs and crashes
+Version 1.23 (Nov 21, 2020)
+    Setting a priority of notes on your Widget.
+    - For example, you can set routines to be always on the top.
+
+    Setting start and end dates for events.
+    - You can set up an event for multiple days.
+Version 1.22 (Nov 12, 2020)
+    - Routine: The order of routine's progress aligns with days of the week
+    - Localization: Korean
+Version 1.21 (Nov 7, 2020)
+    - Fixed layout issues 
+Version 1.20 (Nov 6, 2020)
+    - Improve the layouts on high-resolution devices
+    - Routine: Fix a bug
+Version 1.19 (Nov 4, 2020)
+    - Calendar view: Fixed bugs
+    - Routine: Present the days of the week accordingly by the user's setting
+    - Todo: Sorted completed tasks by time
+Version 1.18 (Oct 31, 2020)
+    - Fix Notification crashes
+    - Present routine icons on the widget
+    - Present events on the widget
+Version 1.17 (Oct 27, 2020)
+    - iOS14 Widget is available!
+    - Add new Routine Icons: meditation, study, plant
+    - Add Notification feature to Todo, Event 
+Version 1.16 (Sep 30, 2020)
+    - Being able to manage tasks of the coming weeks.
+    - Fixed crash issues
+    - Month view improvement
+Version 1.15 (Sep 27, 2020)
+    - Add 'Start week on Monday or Sunday'
+    - Email link register
+    - Fix font color issues in Dark Mode
+Version 1.14 (Sep 20, 2020)
+    - Increase character limits
+    - Routine: add icons, remove frequency section
+    - Improve the order of event list by date
+    - Improve the order of todo list
+Version 1.13 (Sep 13, 2020)
+    - Fixed crash issues
+Version 1.12 (Sep 7, 2020)
+    - Fixed small bugs
+    - Add a calendar view mode
+    - Add a setting page
+Version 1.1 (Sep 1, 2020)
+    We fixed small bugs
+Version 1.0 (Aug 27, 2020)
+
+Users may also like
+Select objects to compare
+Mindlist — To Do List & Tasks
+Smart Tasks - Lists Made Easy
+Tiimo - Visual Daily Planner
+To Do List - Tasks & Reminders
+Eden: Daily Self Care Routine
+Dawn - Minimal Calendar
+TickTick:To-Do List & Calendar
+MinimaList: To Do List &Widget
+Actions by Moleskine Studio
+Tweek: Minimal To Do List
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Calendar & Reminders
+Calendar & Reminders
+Apps that can be used as a calendar or reminder so that users would not forget their schedules.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+5 times
+on App Store category pages
+Versions
+
+    2.89
+    Current release
+    Feb 19, 2024
+    2.88
+    Feb 5, 2024
+    2.86
+    Jan 29, 2024
+    2.85
+    Jan 5, 2024
+    2.82
+    Jan 1, 2024
+    2.84
+    Jan 1, 2024
+    2.81
+    Dec 19, 2023
+    2.80
+    Dec 16, 2023
+    2.79
+    Dec 14, 2023
+    2.78
+    Dec 11, 2023
+    2.77
+    Dec 6, 2023
+    2.76
+    Dec 5, 2023
+    2.75
+    Nov 29, 2023
+    2.74
+    Nov 23, 2023
+    2.73
+    Nov 10, 2023
+    2.71
+    Oct 27, 2023
+    2.70
+    Oct 22, 2023
+    2.69
+    Oct 17, 2023
+    2.68
+    Sep 30, 2023
+    2.67
+    Sep 24, 2023
+    2.66
+    Sep 22, 2023
+    2.65
+    Sep 12, 2023
+    2.64
+    Sep 2, 2023
+    2.63
+    Aug 22, 2023
+    2.62
+    Aug 17, 2023
+    2.61
+    Aug 10, 2023
+    2.59
+    Aug 4, 2023
+    2.58
+    Jul 27, 2023
+    2.57
+    Jul 26, 2023
+    2.56
+    Jul 20, 2023
+    2.55
+    Jul 14, 2023
+    2.54
+    Jun 25, 2023
+    2.53
+    Jun 10, 2023
+    2.52
+    Jun 8, 2023
+    2.51
+    May 31, 2023
+    2.50
+    May 20, 2023
+    2.49
+    May 10, 2023
+    2.48
+    Apr 30, 2023
+    2.47
+    Apr 17, 2023
+    2.46
+    Apr 4, 2023
+    2.45
+    Mar 24, 2023
+    2.44
+    Mar 2, 2023
+    2.43
+    Feb 24, 2023
+    2.42
+    Feb 11, 2023
+    2.41
+    Feb 8, 2023
+    2.40
+    Feb 3, 2023
+    2.39
+    Feb 1, 2023
+    2.38
+    Jan 29, 2023
+    2.37
+    Jan 27, 2023
+    2.36
+    Jan 24, 2023
+    2.35
+    Jan 16, 2023
+    2.34
+    Jan 4, 2023
+    2.34
+    Jan 4, 2023
+    2.33
+    Jan 3, 2023
+    2.31
+    Dec 24, 2022
+    2.30
+    Dec 17, 2022
+    2.29
+    Dec 10, 2022
+    2.28
+    Dec 4, 2022
+    2.27
+    Nov 28, 2022
+    2.26
+    Nov 10, 2022
+    2.25
+    Nov 7, 2022
+    2.24
+    Nov 3, 2022
+    2.23
+    Oct 31, 2022
+    2.22
+    Oct 11, 2022
+    2.21
+    Oct 2, 2022
+    2.19
+    Sep 19, 2022
+    2.18
+    Sep 1, 2022
+    2.17
+    Aug 21, 2022
+    2.16
+    Aug 11, 2022
+    2.15
+    Aug 3, 2022
+    2.14
+    Jul 26, 2022
+    2.13
+    Jul 21, 2022
+    2.08
+    Jun 24, 2022
+    2.07
+    Jun 20, 2022
+    2.06
+    Jun 11, 2022
+    2.05
+    Jun 2, 2022
+    2.04
+    May 23, 2022
+    2.03
+    May 13, 2022
+    2.02
+    May 3, 2022
+    2.01
+    Apr 7, 2022
+    2.00
+    Mar 25, 2022
+    1.99
+    Mar 9, 2022
+    1.98
+    Mar 3, 2022
+    1.97
+    Mar 1, 2022
+    1.95
+    Feb 23, 2022
+    1.94
+    Feb 19, 2022
+    1.93
+    Feb 18, 2022
+    1.92
+    Feb 13, 2022
+    1.91
+    Feb 10, 2022
+    1.90
+    Feb 9, 2022
+    1.89
+    Feb 4, 2022
+    1.88
+    Jan 26, 2022
+    1.87
+    Jan 20, 2022
+    1.86
+    Jan 16, 2022
+    1.85
+    Jan 9, 2022
+    1.84
+    Jan 8, 2022
+    1.83
+    Dec 27, 2021
+    1.82
+    Dec 22, 2021
+    1.81
+    Dec 17, 2021
+    1.80
+    Dec 11, 2021
+    1.78
+    Dec 6, 2021
+    1.76
+    Nov 30, 2021
+    1.75
+    Nov 24, 2021
+    1.74
+    Nov 9, 2021
+    1.73
+    Nov 2, 2021
+    1.72
+    Oct 24, 2021
+    1.71
+    Oct 22, 2021
+    1.70
+    Oct 18, 2021
+    1.69
+    Oct 12, 2021
+    1.68
+    Oct 8, 2021
+    1.67
+    Aug 28, 2021
+    1.66
+    Aug 18, 2021
+    1.65
+    Aug 8, 2021
+    1.64
+    Aug 5, 2021
+    1.63
+    Jul 20, 2021
+    1.62
+    Jul 2, 2021
+    1.61
+    Jun 26, 2021
+    1.60
+    Jun 10, 2021
+    1.59
+    Jun 6, 2021
+    1.58
+    Jun 2, 2021
+    1.52
+    May 29, 2021
+    1.53
+    May 29, 2021
+    1.50
+    May 18, 2021
+    1.49
+    May 15, 2021
+    1.48
+    May 5, 2021
+    1.47
+    Apr 26, 2021
+    1.46
+    Apr 23, 2021
+    1.45
+    Apr 21, 2021
+    1.43
+    Apr 6, 2021
+    1.42
+    Mar 30, 2021
+    1.41
+    Mar 21, 2021
+    1.40
+    Mar 13, 2021
+    1.39
+    Mar 12, 2021
+    1.38
+    Feb 27, 2021
+    1.37
+    Feb 21, 2021
+    1.36
+    Feb 6, 2021
+    1.33
+    Jan 24, 2021
+    1.32
+    Jan 23, 2021
+    1.29
+    Jan 21, 2021
+    1.28
+    Jan 16, 2021
+    1.26
+    Jan 12, 2021
+    1.25
+    Dec 15, 2020
+    1.24
+    Nov 24, 2020
+    1.23
+    Nov 21, 2020
+    1.22
+    Nov 12, 2020
+    1.21
+    Nov 7, 2020
+    1.20
+    Nov 6, 2020
+    1.19
+    Nov 4, 2020
+    1.18
+    Oct 31, 2020
+    1.17
+    Oct 27, 2020
+    1.16
+    Sep 30, 2020
+    1.15
+    Sep 27, 2020
+    1.14
+    Sep 20, 2020
+    1.13
+    Sep 13, 2020
+    1.12
+    Sep 7, 2020
+    1.1
+    Sep 1, 2020
+    1.0
+    Aug 27, 2020
+
+See More
+Top In-App Purchases
+
+    Mensual
+    $2.99
+    Anual
+    $12.99
+    De por vida
+    $33.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Aug 27, 2020
+
+Worldwide Release Date
+    Aug 27, 2020
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    2.89
+
+Size
+    30.50 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Español, Alemán, Coreano, Francés, Inglés, Japonés, Portugués
+
+Seller
+    Kyoungok Park
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 15.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    com.thegenau.NoteCircle
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+App ID: 1528859917
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+NoteCircle: To Do, Planner | data.ai

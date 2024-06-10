@@ -1,0 +1,709 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+QTranslate Translator
+RockCat StudioReference (Applications)Free
+Alerts
+
+    QTranslate Translator
+    QTranslate Translator
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+QTranslate Translator
+Text, Voice, Image translate
+Reference (Applications)
+Free
+App Description
+*** Major update version 6.0 ***
+*** Your beloved translator app ***
+*** Cumulative downloads have reached 4 million ***
+
+QTranslate is a highly accurate translator app with supported more than 30+ languages. Translate by text, voice and photo (A.I. Image Text Recognition) are supported. The translation system is powered by the AI - deep learning algorithm, therefore, QTranslate is able to do translation super fast and accurate.
+
+QTranslate is your daily indispensable tool for learning languages, traveling, reading foreign languages and business use.
+
+The main function:
+- Text mode: Just type in any languages and translate, that all! Simple to use!
+- Travel mode: Use speech recognition as input and do translation, the translated records are show in a chatting box, chats with foreigner in real-time.
+- Image Text Recognition: Simply snap and translate.
+- Voice function:
+- Supports more than 30+ languages.
+- Supports American and British English pronunciation.
+- Supports Cantonese and Putonghua pronunciations.
+- Adjustable vocal speed.
+- Supports an ancient Chinese language (Wen Yan Wen ), for those who are really love Chinese history and culture.
+- "Bookmark" and "History" functions:
+- Bookmark any translated words or sentences for quick review later.
+- Add note for each bookmark.
+- iCloud backup/restore all bookmarks.
+- Instantly share translation results via whatsapp, email, wechat, and more.
+- Customisable user interface theme.
+- Full screen text function.
+- Supports translation languages: Chinese (Simplified/ Traditional), English, Japanese, Korean, Thai, Vietnamese, French, Spanish, Italian, German, Russian, Portuguese, Dutch, Filipino, Finnish, Greek, Malay, Norwegian, Indonesian, Arabic, Polish, Bulgarian, Estonian, Danish, Czech, Slovenian, Swedish and Hungarian etc.
+Ratings
+Displayed Avg Ratings
+4.68
+Total Displayed Ratings
+6.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.2.0 (Feb 13, 2024)
+    *** Update ***
+
+    - Code improvements
+Version 6.1.0 (Jan 16, 2024)
+    ** Update **
+
+    - Minor fix
+Version 6.0.2 (Jan 9, 2024)
+    *** Update ***
+
+    - Minor bug fix.
+Version 6.0.0 (Oct 21, 2023)
+    *** Major update version 6.0 ***
+
+    - New: Based on the SwiftUI architecture, all source code has been rewritten to achieve the best performance on the iOS system.
+    - New: New interface design. Customisable user interface theme, select background images, text color and size, etc.
+    - New: Automatic language detection.
+    - New: Quick search function (Google or Baidu).
+    - New: Create multiple conversation topics in the conversation translation page.
+    - New: Ancient Chinese language (Wen Yan Wen ) texts can be translated into many different languages.
+    - New: Backup or restore bookmarks using the latest iCloud technology.
+    - New: Import bookmarks from the old version.
+    - New: Full screen text function.
+Version 5.90 (Aug 7, 2023)
+    ***** Important Update *****
+
+    - Fixed all the voice recognition problems
+    - Fixed all the Text-to-Speech problems
+    - Fixed English Accent saving problems
+    - Fixed image translate problems
+    - Minor code fix.
+Version 5.80 (Aug 1, 2023)
+    ***** Important Update *****
+
+    - Fixed all the voice recognition problems
+    - Fixed all the Text-to-Speech problems
+    - Fixed English Accent saving problem
+    - Minor code fix.
+Version 5.50 (Apr 3, 2023)
+    *** Major Update ***
+
+    - UI improvement.
+    - Code improvement.
+Version 5.40 (Feb 7, 2023)
+    *** Major Update ***
+
+    - Fixed some performance issues.
+Version 5.34 (Jan 3, 2023)
+    *** Major Update ***
+
+    - Improvement.
+    - Fixed some performance code.
+Version 5.33.5 (Nov 10, 2022)
+    *** Major Update ***
+
+    - Improvement.
+    - Fixed some performance code.
+Version 5.33.0 (Sep 22, 2022)
+    *** Minor Update ***
+
+    - Improvement.
+    - Minor code fixed.
+Version 5.31.0 (Sep 4, 2022)
+    *** Minor Update ***
+
+    - Minor code fixed.
+Version 5.30.0 (Jul 31, 2022)
+    *** Minor Update ***
+
+    - Minor code fixed.
+Version 5.29.7 (Jul 5, 2022)
+    *** Minor Update ***
+
+    - Minor code fixed.
+Version 5.29.6 (Jun 27, 2022)
+    *** Minor Update ***
+
+    - Minor code fixed.
+Version 5.29.5 (Apr 10, 2022)
+    *** Minor Update ***
+
+    - Minor code fixed.
+Version 5.29.4 (Mar 28, 2022)
+    *** Minor Update ***
+
+    - Minor code fixed.
+Version 5.29.1 (Feb 15, 2022)
+    *** Major Update ***
+
+    - Fixed some views overlap problem.
+    - Minor code fixed.
+Version 5.28 (Feb 11, 2022)
+    *** Major Update ***
+
+    - Minor code fixed.
+    - Better UI.
+Version 5.27.1 (Jul 1, 2021)
+    *** Important Major Update ***
+    *** Update Immediately ***
+
+    - For better service. We have upgraded our translate server in new version.
+    - Older version will no longer work.
+    - Minor UI fix.
+Version 5.26.1 (Jun 24, 2021)
+    *** Major Bug fix ***
+
+    - Fixed reward status bugs
+    - Fixed some UI text mistake
+Version 5.26 (Jun 23, 2021)
+    *** Major Bug fix ***
+
+    - Fixed reward status bugs
+    - Fixed some UI text mistake
+Version 5.25 (Jun 12, 2021)
+    *** Major update ***
+    *** Please update as soon as possible ***
+
+    - Fixed Features add-on reward video problem.
+    - Some coding improvement.
+Version 5.24 (May 8, 2021)
+    *** Major update ***
+
+    - Some bugs fixed.
+Version 5.23 (May 5, 2021)
+    *** Major update ***
+
+    - Speed improvement.
+    - Minor fix.
+Version 5.22 (Mar 31, 2021)
+    *** Major update ***
+
+    - Speed improvement.
+    - Minor fix.
+Version 5.20 (Mar 2, 2021)
+    *** Minor update ***
+
+    - Minor improvement.
+Version 5.18.1 (Feb 25, 2021)
+    *** Minor update ***
+
+    - Minor improvement .
+Version 5.16.1 (Jun 25, 2020)
+    *** Major update ***
+
+    - Fixed the Speak Translate window re-open problem.
+Version 5.15 (May 18, 2020)
+    *** Major update ***
+    - Fixed the problem of "Text Recognition" In-app purchase on iOS 13.
+    - Added "More apps", display more cool apps developed by us.
+Version 5.14 (May 11, 2020)
+    - Minor fix.
+Version 5.13.7 (Apr 20, 2020)
+    - Fixed some UI issue on iOS 13 or later
+    - Minor fix
+Version 5.13.4 (Jan 4, 2019)
+    - Minor UI fix.
+Version 5.13.3 (Nov 9, 2018)
+    - Support more UI languages: English, Chinese, Japanese, Korean, French, German, Italian, Russian, Spanish, Thai, Vietnamese.
+    - Minor fix.
+Version 5.13.2 (Sep 26, 2018)
+    *** Improvement ***
+
+    - Text recognition: improve photo editing ability, make it easy to crop any part of the image.
+Version 5.13 (Sep 9, 2018)
+    *** Major Update ***
+
+    - Text Recognition is available for all countries: China, Hong Kong, Macao, Taiwan, Japan and other countries etc...
+    - Improved the speed of Text Recognition.
+    - Some UI improvements.
+Version 5.12.2 (Aug 15, 2018)
+    - Minor fix.
+Version 5.12.1 (Aug 6, 2018)
+    *** Important Update ***
+
+    - Added Image Text Recognition function. (Simply take a image and then translate. e.g. Food menu, street sign, shopping label, document etc...)
+    - Minor fix.
+Version 5.11.2 (Aug 1, 2018)
+    -Fixed multiple translate problem.
+Version 5.11 (Jul 9, 2018)
+    - Support iPad now!
+    - Fixed icon problem on Copy Button.
+    - Minor fix.
+Version 5.10 (Jun 19, 2018)
+    - Added more supports languages: Arabic, Polish, Bulgarian, Estonian, Danish, Czech, Slovenian, Swedish and Hungarian.
+    - Added copy button for input and output boxes.
+    - Minor fix.
+Version 5.7.1 (Jun 5, 2018)
+    *** 重要更新 ***
+    - 增加了旅行對話模式，容易地跟外國人用說話對答及即時翻譯。
+    - 輕微修復介面。
+Version 5.6.4 (May 18, 2018)
+    小修復:
+    - 按下箭頭按鈕能夠交換翻譯語言
+    - 去掉選擇語言的原文及結果不能相同的警告
+Version 5.6.3 (Mar 28, 2018)
+    *** 重大更新 ***
+
+    - 翻譯輸入最高多達500個字
+    - 增加語音輸入功能
+    - 發聲功能
+    - 增加美式/英式英語發音
+    - 增加粵語/普通話發音
+    - 增加調節發聲速度功能
+    - "喜愛"(Bookmark)收藏功能
+    - 增加筆記功能，每一個喜愛可以添加筆記作記錄
+    - 增加雲端備份/恢復所有喜愛數據功能
+    - 增加即時分享翻譯結果功能
+Version 5.5.1 (Feb 1, 2018)
+    ***重大更新***
+    - 改進用戶界面.
+    - 提高了翻譯速度
+Version 5.4 (Jun 18, 2016)
+    -輕微修正.
+Version 5.3 (Dec 15, 2015)
+    *** 重要: 請馬上更新 ***
+    - 所有舊版本5.3之前, 將很快不能用.
+    - 提高我們的服務器.
+    - 輕微的修正.
+Version 5.2 (Aug 5, 2015)
+    重要修正:
+
+    語言聲音已修正! (需要IOS 7.1或已上)
+Version 5.1.1 (Mar 7, 2015)
+    重大更新:
+    - 增加英語學習(450+ 免費句子).
+    - 修正列表刪除問題.
+    - 其他輕微的修正.
+Version 5.0.3 (Sep 22, 2014)
+    -新的App Logo.
+    -輸入文本發聲功能.
+Version 5.0.1 (Jun 4, 2014)
+    -輕微修正
+Version 5.0 (May 16, 2014)
+    -5.0版本, 重大更新!
+    -整個App重新編碼, 更好的性能.
+    -要點更新, 新增加翻譯 文言文->中文 和 中文->文言文, 中文科學生必備.
+    -新增加語言: 印尼語.
+    -更好的繪圖.
+    -增加Apps推薦目錄.
+Version 4.6 (May 17, 2013)
+    -主要修復.
+    -修正加載屏幕大小問題.
+Version 4.5 (Nov 19, 2012)
+    -支持iPhone 5的屏幕尺寸
+Version 4.4 (Nov 2, 2012)
+    -輕微的修正.
+Version 4.3 (Sep 9, 2012)
+    -重要修正，請盡快更新!
+Version 4.2 (Aug 9, 2012)
+    -輕微的修復
+Version 4.1 (Jul 14, 2012)
+    -輕微的修復
+Version 4.0 (Jul 2, 2012)
+    重大更新:
+    -新增主題轉換 (6種色彩賓紛的顏色).
+    -增加最近記錄和喜愛列表的存儲數目.
+Version 3.6.7 (May 14, 2012)
+    輕微修復.
+Version 3.6.6 (Apr 13, 2012)
+    -解決系統超載問題
+Version 3.6.5 (Mar 20, 2012)
+    -Minor fix
+Version 3.6.4 (Mar 7, 2012)
+    -Minor fix.
+Version 3.6.3 (Dec 5, 2011)
+    -新增韓語界面.
+
+    -支援更多翻譯語言(19):中文(簡/繁),英語,日語,韓語,法語,西班牙語,意大利語,德語,俄羅斯語,葡萄牙語, 菏蘭語, 菲律賓語,芬蘭語,希臘語,馬來語,挪威語,泰語和越南語。
+Version 3.6.2 (Nov 18, 2011)
+    重要更新! 請刪除特快翻譯3.5或之前版本, 他們已經不能使用.
+    -請重新安裝特快翻譯3.6.2 
+Version 3.6 (Nov 8, 2011)
+    重要更新! 請刪除特快翻譯3.5或之前版本, 他們已經不能使用.
+
+    -請重新安裝特快翻譯3.6.
+
+Version 3.5 (Oct 13, 2011)
+    -重要源代碼修復.
+Version 3.4 (Sep 2, 2011)
+    -重要源代碼修復.
+Version 3.3 (Jul 19, 2011)
+    - 界面輕微修正.
+    - 支援日語界面.
+Version 3.2 (Jun 14, 2011)
+    重要更新:
+    - 增加 "喜愛收藏" 功能。
+    - 增加 "翻譯紀錄" 功能。
+    - 界面更改。
+    - 使用説明更新。
+Version 3.1 (May 30, 2011)
+    -只是輕微修正.
+Version 3.0 (May 20, 2011)
+    重大更新! 終於有發聲功能！
+    我們很高興地公佈，特快翻譯現在增加了發聲功能，可以把翻譯結果用不同的語言讀出來。
+
+    主要更改：
+    -發聲功能。
+    -清除圖像更改了。 
+Version 2.1 (May 3, 2011)
+    更改 RockCat Studio 公司標誌
+
+Version 2.0.2 (Apr 20, 2011)
+    -輕微修正界面。
+Version 2.0.1 (Apr 4, 2011)
+    -輕微修改輸出欄
+Version 2.0 (Mar 16, 2011)
+    重要更新:
+    1. 支援繁體中文和简体中文界面.
+    2. 更改App圖標.
+Version 1.5 (Feb 16, 2011)
+    -轻微修正法语翻译. 
+Version 1.4 (Feb 5, 2011)
+    新增功能:
+
+    1. 复制文字 - 手指轻扫输入/结果栏由右至左.
+    2. 粘贴文字 - 手指轻扫输入栏由左至右.
+    3. 点输入栏外可以关闭键盘. 
+Version 1.0
+Version 1.1
+Version 1.3
+
+Users may also like
+Select objects to compare
+Translators - voice and photo
+随身译-英汉互译中英文翻译软件
+Translator - Speak & scanphoto
+英语翻译官-学英语必备中英文翻译词典
+翻译全能王-中文日文图片扫描翻译器
+Scanning translation
+出国翻译官- 多语言语音翻译聊天交友
+AI Translator-photo translate
+Translate Expert - Translator
+cnTranslate：Chinese Translator
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    6.2.0
+    Current release
+    Feb 13, 2024
+    6.1.0
+    Jan 16, 2024
+    6.0.2
+    Jan 9, 2024
+    6.0.0
+    Oct 21, 2023
+    5.90
+    Aug 7, 2023
+    5.80
+    Aug 1, 2023
+    5.50
+    Apr 3, 2023
+    5.40
+    Feb 7, 2023
+    5.34
+    Jan 3, 2023
+    5.33.5
+    Nov 10, 2022
+    5.33.0
+    Sep 22, 2022
+    5.31.0
+    Sep 4, 2022
+    5.30.0
+    Jul 31, 2022
+    5.29.7
+    Jul 5, 2022
+    5.29.6
+    Jun 27, 2022
+    5.29.5
+    Apr 10, 2022
+    5.29.4
+    Mar 28, 2022
+    5.29.1
+    Feb 15, 2022
+    5.28
+    Feb 11, 2022
+    5.27.1
+    Jul 1, 2021
+    5.26.1
+    Jun 24, 2021
+    5.26
+    Jun 23, 2021
+    5.25
+    Jun 12, 2021
+    5.24
+    May 8, 2021
+    5.23
+    May 5, 2021
+    5.22
+    Mar 31, 2021
+    5.20
+    Mar 2, 2021
+    5.18.1
+    Feb 25, 2021
+    5.16.1
+    Jun 25, 2020
+    5.15
+    May 18, 2020
+    5.14
+    May 11, 2020
+    5.13.7
+    Apr 20, 2020
+    5.13.4
+    Jan 4, 2019
+    5.13.3
+    Nov 9, 2018
+    5.13.2
+    Sep 26, 2018
+    5.13
+    Sep 9, 2018
+    5.12.2
+    Aug 15, 2018
+    5.12.1
+    Aug 6, 2018
+    5.11.2
+    Aug 1, 2018
+    5.11
+    Jul 9, 2018
+    5.10
+    Jun 19, 2018
+    5.7.1
+    Jun 5, 2018
+    5.6.4
+    May 18, 2018
+    5.6.3
+    Mar 28, 2018
+    5.5.1
+    Feb 1, 2018
+    5.4
+    Jun 18, 2016
+    5.3
+    Dec 15, 2015
+    5.2
+    Aug 5, 2015
+    5.1.1
+    Mar 7, 2015
+    5.0.3
+    Sep 22, 2014
+    5.0.1
+    Jun 4, 2014
+    5.0
+    May 16, 2014
+    4.6
+    May 17, 2013
+    4.5
+    Nov 19, 2012
+    4.4
+    Nov 2, 2012
+    4.3
+    Sep 9, 2012
+    4.2
+    Aug 9, 2012
+    4.1
+    Jul 14, 2012
+    4.0
+    Jul 2, 2012
+    3.6.7
+    May 14, 2012
+    3.6.6
+    Apr 13, 2012
+    3.6.5
+    Mar 20, 2012
+    3.6.4
+    Mar 7, 2012
+    3.6.3
+    Dec 5, 2011
+    3.6.2
+    Nov 18, 2011
+    3.6
+    Nov 8, 2011
+    3.5
+    Oct 13, 2011
+    3.4
+    Sep 2, 2011
+    3.3
+    Jul 19, 2011
+    3.2
+    Jun 14, 2011
+    3.1
+    May 30, 2011
+    3.0
+    May 20, 2011
+    2.1
+    May 3, 2011
+    2.0.2
+    Apr 20, 2011
+    2.0.1
+    Apr 4, 2011
+    2.0
+    Mar 16, 2011
+    1.5
+    Feb 16, 2011
+    1.4
+    Feb 5, 2011
+    1.0
+    N/A
+    1.1
+    N/A
+    1.3
+    N/A
+
+See More
+Top In-App Purchases
+
+    Image Text Recognition: 120
+    $2.99
+    Image Text Recognition: 30
+    $0.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Jan 11, 2011
+
+Worldwide Release Date
+    Jan 11, 2011
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    6.2.0
+
+Size
+    12.31 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Italian, Japanese, Korean, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Vietnamese
+
+Seller
+    RockCat Studio Limited
+
+Company HQ
+    Hong Kong
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.rockcatstudio.quicktranslatechinese
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 412833632
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+QTranslate Translator | data.ai
+				
+				
+				
+				
+				
+	

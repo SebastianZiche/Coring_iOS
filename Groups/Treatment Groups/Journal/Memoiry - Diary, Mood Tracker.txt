@@ -1,0 +1,254 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Memoiry - Diary, Mood Tracker
+Duy Anh NgacLifestyle (Applications)Free
+Alerts
+
+    Duy Anh Ngac
+
+    Memoiry - Diary, Mood Tracker
+    Memoiry - Diary, Mood Tracker
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Memoiry - Diary, Mood Tracker
+Stay in tune with emotions
+Lifestyle (Applications)
+Free
+iPhone Only
+App Description
+Memoiry is mood tracker, daily diary which helps you prioritize your mental well-being. You can track your moods, reflect on your day, and stay mindful throughout your journey. Memoiry is designed to make it easy for you to focus on your mental health, all while keeping your personal information secure and private.
+
+No big company or investors here. Memoiry is self funded and developed by a single person
+
+Memoiry is modern, fully featured daily diary with many useful features in a simple, intuitive interface:
+
+- Mood tracker: Create, customize & pick your mood anytime you like to track & understand your emotional state and improve your mental well-being
+- Write about your day: Enhance your daily journal entries with visual context. Our app allows you to add photos to your entries and remember every detail
+- Goals: Create & customize new goals and challenge yourself everyday to become the better version of yourself
+- Charts and stats: Stay in tune with your emotions and mental health. Use the Charts and Stats to analyze your moods over time and gain valuable insights and self-reflect on what you did & achieved
+- Free sync: sync your data to multiple devices, your data is always with you
+- Keep it safe: Keep you records secure. The use of Cloud Kit and Core Data means that only you can access your information. We can't read your records and no one else can either
+- Many more exciting features coming soon
+
+Memoiry has world-class privacy, with no third-party analytics, no tracking, no ads.
+
+Premium plan removes limits on certain features. If you choose to purchase Memoiry Premium, payment will be charged to your Apple ID account at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Current price for Memoiry Premium is $1.99 USD per month or $19.99 USD per year.
+
+Privacy policy: https://www.memoiry.app/privacy
+Terms & Conditions: https://www.memoiry.app/terms
+
+Proudly made in Hanoi, Vietnam.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version v0.4.1 (Apr 22, 2023)
+    Bugs:
+    - Fix "Delete" & "Archive" buttons in Goals Form doing nothing
+    - Various underlying issues which in rare cases can cause crashes
+Version v0.4.0 (Apr 12, 2023)
+    New features:
+    - Add a location to an entry
+    - Additional statistics:
+    - Mood occurrence during week
+    - Mood time occurrence
+
+    Improvements:
+    - Behind the scene improvement related to app performance
+    - View a full photo from the entry details by tapping on it
+    - Reorganized the order of the charts & stats
+    - Small visual improvements
+    - Add button to hide keyboard
+
+    Bugs:
+    - Remove “to replace” mood from replacement options list
+Version v0.3.1 (Apr 4, 2023)
+    - Fix multiple typos
+Version v0.3.0 (Mar 31, 2023)
+    New features:
+    - Goals: Create & customize long terms goals and challenge yourself everyday to become the better version of yourself
+    - Goals statistics: View your progress so far and keep your streak going to build a habit
+
+    Improvements:
+    - Remove unnecessary screens and to save a few taps 
+Version 0.2.1 (Mar 27, 2023)
+    Improvements:
+    - Average mood chart is now being split into two distinct charts (Average mood line chart & Stacked bar chart by mood type)
+
+    Bug fixes:
+    - During an entry creation, sometimes a replaced photo is being saved along side with a newly selected one which can cause an app crash if selected from "Photo Gallery" tab
+    - This type of photos don't belong to any entry and will be automatically removed
+Version 0.2.0 (Mar 25, 2023)
+
+Users may also like
+Select objects to compare
+Emotion Tracker: Moodup
+How We Feeling?
+MooDiaryApp
+Fliari - Mood Tracker, Journal
+Pawff - Doggy Log
+Trends - Life Tracker
+MoodMate - Mood Diary
+Mood Journal - Moodity
+Heart Diary: Mood Emotion
+Luna Focus
+IQ Classifications
+Genre: Health & Fitness
+Subgenre: Health Monitor
+Health Monitor
+Apps that monitor the user's vital medical signs or status of chronic diseases via connected devices.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    v0.4.1
+    Current release
+    Apr 22, 2023
+    v0.4.0
+    Apr 12, 2023
+    v0.3.1
+    Apr 4, 2023
+    v0.3.0
+    Mar 31, 2023
+    0.2.1
+    Mar 27, 2023
+    0.2.0
+    Mar 25, 2023
+
+See More
+Top In-App Purchases
+
+    Premium Monthly Subscription
+    $6.99
+    Premium Annual Subscription
+    $54.99
+
+About
+
+Required Devices
+    iPhone
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Mar 25, 2023
+
+Worldwide Release Date
+    Mar 25, 2023
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    v0.4.1
+
+Size
+    8.42 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Duy Anh Ngac
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.duyanhngac.Memoiry
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6445971860
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Memoiry - Diary, Mood Tracker | data.ai

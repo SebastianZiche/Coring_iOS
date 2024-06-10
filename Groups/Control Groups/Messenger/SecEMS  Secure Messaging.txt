@@ -1,0 +1,529 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+SecEMS : Secure Messaging
+TrustmobiSocial Networking (Applications)Free
+Alerts
+
+    Trustmobi
+
+    SecEMS : Secure Messaging
+    SecEMS : Secure Messaging
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+SecEMS : Secure Messaging
+security privacy encrypting
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+“I’ve been using SecEMS for a couple of months now. Finally, a secure SMS and messaging app that works as it should, and even looks better than other Messenger apps. This is the way all messenger apps should work, safely encrypting voice & text messages and not storing our personal details.” - Gannett Clarke
+
+Privacy is possible,SecEMS is private communication platform to everyone.
+Help you chat with friends around the world.
+
+SecEMS is the most secure instant messaging app that features end-to-end encryption, so your messages can only be read by the intended recipients, with no data logged on SecEMS’s servers.
+Using SecEMS, you can communicate instantly while avoiding SMS fees, create groups so that you can chat in real time with all your friends at once, and share media all types of disappearing content with complete privacy — messages, photos, videos, and even files.It’s secure, superfast, simple, fast, free and synced across all your devices.SecEMS is not only a safe chat, but also an encrypted messenger.
+###Features###
+SECURE: SecEMS offers Secret Chats. The messages can be programmed to self-destruct automatically from both participating devices. This way you can send all types of disappearing content — messages, photos, audios, videos and even files. Secret Chats use end-to-end encryption to ensure that a message can only be read by its intended recipient.
+
+PRIVACY: We take your privacy seriously and will never give third parties access to your data. SecEMS has security features that keep your privacy with password authentication and data encryption. It is the best place to hide your personal photos, videos and documents.
+
+Private Cloud: SecEMS seamlessly syncs across all your devices, so you can always securely access your data. Safe and efficient private cloud, allowing you to access your information anytime, anywhere.
+
+GROUP CHAT & SHARING: With SecEMS, you can form large group chats and broadcast lists of up to 100 members, quickly share large audios, videos, documents (.doc, .ppt, .zip, etc.), and send an unlimited amount of photos to your friends.
+
+FAST: SecEMS is the fastest messaging app on the market because it uses a distributed infrastructure with data centers positioned around the globe to connect users to the closest possible server.
+
+RELIABLE: Built to deliver your messages in the minimum bytes possible, SecEMS is the most reliable messaging system ever made. It works even on the weakest mobile connections.
+
+### SUPPORT ###
+Please visit http://app.secems.net for more information. You can also reach us via support@secems.net or on Twitter @secems – we’re happily awaiting your feedback!
+Ratings
+Displayed Avg Ratings
+4.16
+Total Displayed Ratings
+232
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.2.2 (Apr 23, 2023)
+    1. Fixed occasional repetition of received messages;
+    2. Add account logout function on the setting page;
+    3. Modify known bugs;
+Version 6.2.1 (Jan 13, 2023)
+    1. Fixed the bug of keyboard blocking chat messages;
+    2. tableview for iOS15,
+Version 6.2.0 (Jan 6, 2023)
+    1. Fix some bugs;
+    2. Optimize the relevant logic.
+Version 6.1.9 (Jan 15, 2021)
+    1. Optimize for iOS 14.3
+    2. Open registration function
+    3. Ordinary members can send 50 messages a day, and senior members can chat freely
+    4. Ordinary members can't build a group, senior members can create a close friend group without restriction
+Version 6.1.9 (Jan 15, 2021)
+    1. Optimize for iOS 14.3
+    2. Open registration function
+    3. Ordinary members can send 50 messages a day, and senior members can chat freely
+    4. Ordinary members can't build a group, senior members can create a close friend group without restriction
+Version 6.1.8 (Oct 29, 2020)
+    1. Adapt to iOS 14.
+    2. Fixed the issue that the phone automatically locks the screen when playing voice.
+Version 6.1.7 (Apr 24, 2020)
+    Fixed an issue with text message typesetting errors.
+Version 6.1.6 (Apr 4, 2020)
+    1.VIP added voice conference, video 1 to 1, video conference function
+    2.Support sending location messages
+    3. Added automatic identification of message content and phone number
+    4.New documents and files that can never be burned can be shared to other applications
+    5.Add send to view original image
+    6.Add new safe to import local documents and files
+    7.New documents and files in the safe can be exported to the local phone
+    8.Optimize the message withdrawal record, and the text message can be re-edited within 2 minutes
+    9.optimize the group details page, the group owner avatar is the first
+    10. Fix known bugs and optimize user experience
+Version 6.1.5 (Sep 20, 2019)
+    Improve the stability of the app on iOS 13
+Version 6.1.4 (Aug 28, 2019)
+    - Optimize user experience.
+    - Fixed known bugs.
+Version 6.1.3 (Jul 1, 2019)
+    1. VIP support group message withdrawal and cancellation message burning
+    2. Support picture horizontal screen view
+    3. Support for sending GIF maps
+    4. Optimize the proportion of sent pictures
+    5. Optimize user experience and modify known bugs
+Version 6.1.2 (Dec 5, 2018)
+    - Optimized messaging mechanism.
+Version 6.1.1 (Nov 28, 2018)
+    - Fixed an issue where data could not be viewed during the upgrade process.
+Version 6.1.0 (Nov 23, 2018)
+    - Increased encryption strength and enhanced security.
+    - Increase group message burnout time.
+    - Support PC simultaneous online.
+    - Fix known bugs and enhance system stability.
+Version 6.0.2 (Sep 30, 2018)
+    1.Optimization function
+    2.Fix some known bugs
+Version 6.0.1 (Jun 1, 2018)
+    1.VIP added voice call function
+    2.Added group news and pictures slide to read it
+    3.Added sharing features, you can directly from the browser to share the link into the secems
+    4.Added iOS 11 local file Send function
+    5.Added the new message number on the chat interface
+    6.Bug fixes and improvements
+Version 6.0.0 (May 2, 2018)
+    1. New design user interface
+    2. Added group @ notification function
+    3. Added chat-top function
+    4. Enhanced data security
+    5. Bug fixes and improvements
+Version 5.6.5 (Mar 4, 2018)
+    1、Interface optimization；
+    2、Fix BUG.
+Version 5.6.4 (Dec 6, 2017)
+    1、Interface optimization；
+    2、Fix BUG.
+Version 5.6.3 (Nov 19, 2017)
+    1、 Adapt to iOS 11.1 upgrade ;
+    2、 Fixed BUG .
+Version 5.6.2 (Nov 14, 2017)
+    1.Solve the upgrade crash problem;
+    2.Fit to iPhone X ;
+    3.modify the known bug.
+Version 5.6.1 (Nov 9, 2017)
+    1. New group @ function;
+    2. Modify the known bug.
+Version 5.6.0 (Apr 24, 2017)
+    1. Support Spanish.
+    2. Fixed the crash when select the videos from Photos.
+Version 5.5.6 (Nov 10, 2016)
+    1. Can chat with SecEMS Assistant about any problems in use.
+    2. Can modify the name of groups.
+    3. Optimize user experience.
+    4. Adaptation iOS 10. To enhance system stability.
+    5. Fixed some known issues.
+Version 5.5.5 (Sep 8, 2016)
+    1. Support https.
+    2. Repair guest password security vulnerabilities.
+Version 5.5.4 (Aug 6, 2016)
+    1.Support View larger clear avatar;
+    2.Support hide the telephone for your friends;
+    3.Support swiping left to make as read in chat list;
+    4.Support automatically jump to unread messages in group chat;
+    5.Optimized the conflict between app voice and background music.
+    6.Repair the bug of the messages do not self-destruct occasionally;
+Version 5.5.3 (Apr 16, 2016)
+    1. Add the function of inquiry chats history by date;
+    2. Support TouchID for authentication;
+    3. Support send message to group;
+    4. Support view Big avatar picture;
+    5. VIP send the file limit up to 50M;
+    6. Support to send videos select from Photos;
+Version 5.5.2 (Jan 22, 2016)
+    1 Optimized Emoji;
+    2 Change the way of purchase Vip;
+    3 Repire bugs;
+Version 5.5.1 (Nov 7, 2015)
+    1.Repire bugs；
+Version 5.5.0 (Oct 27, 2015)
+    1 Vault folder can be set visibility for guest state;
+    2 Increase the custom expression;
+    3 VIP can download the expression package;
+Version 5.4.2 (Sep 23, 2015)
+    1. Cloud file display pictures, video thumbnail;
+    2. Cloud file send to friend;
+    3. Cloud upload new photos and videos from Photos;
+    4. Displays the page image thumbnails for link;
+Version 5.4.1 (Aug 22, 2015)
+    1. You can add a new note in Vault;
+    2. Support gesture sliding to return;
+    3. Add the function of revoke and revoke destruct for Messages;
+    4. Repaire bugs to enhance the system stability;
+Version 5.4.0 (Aug 5, 2015)
+    1. Group Chats: Intimate friends dynamic, secure sharing;
+    2. Safe and efficient private cloud;
+    3. Support file transfer between friends, such as video, mp3, picture, office document;
+    4. Support office document viewing;
+    5. Allowing members to accrue points and redeem them against cloud services;
+Version 5.3.2 (Apr 25, 2015)
+    1.Support gesture password;
+    2.In Safe, you can create folders and move files of the same type between folders;
+    3.In Safe, you can delete and rename the folder which is not default folder;
+    4.In Safe, you can import photos from system albums;
+    5.In Safe, you can take photos, record videos or audio files;
+    6.In Safe, you can send files to friends;
+    7.Text and links in Messages can be added to the Text Files folder in Safe.
+Version 5.3.0 (Mar 17, 2015)
+    1. Store and transfer cell phone number with encryption;
+    2. Add the function of setting friend remarks;
+    3. Add the function of scanning QR code to add friends;
+    4. Add the function of safe;
+Version 5.2.0 (Jan 30, 2015)
+    1. The more user-friendly interface;
+    2. Adjust the setting place of message destruct time and set different destruct time for friends;
+    3. Add QR code scanning;
+    4. You can set your nickname and the nickname will be displayed in your contacts of friends;
+    5. Adjust setting interface;
+    6. Add sending percentage of photo, voice, video;
+Version 5.1.1 (Jan 7, 2015)
+    Repair bugs of losing messages under the condition of network instability to make sure messages won't be lost and to enhance system stability.
+Version 5.1.0 (Dec 10, 2014)
+    1.Adapt iPhone 6, iPhone 6 Plus;
+    2.Add message of URL type;
+    3.Repair bugs to enhance system stability;
+Version 5.0.1 (Nov 11, 2014)
+    1, Repair the handwriting input method collapse problem
+    2, Repair the unread count inaccurate problem
+    3, Repair receive push information may collapse problem
+    4, Repair the voice playback problems
+Version 5.0.0 (Nov 4, 2014)
+    1. Add three message types including voice, video, picture,
+    2. new UI design and repair bugs on iOS 8.
+Version 4.1.2 (Jun 11, 2014)
+    1. Adaptation ios7;
+
+    2. fixes bugs;
+Version 4.1.1 (Apr 25, 2013)
+    bugs fixed
+Version 4.1 (Apr 9, 2013)
+    . Improvements and bug fixes
+    . Support English 
+Version 4.0 (Mar 13, 2013)
+    . Optimized user interface
+
+    . Send free encrypted SMS over network
+Version 3.0.3 (Mar 29, 2012)
+    1、Changed the encryption methods 。
+Version 3.0.2 (Dec 28, 2011)
+    1.Modify the password security protection strategy。
+
+    2.Fixed a bug for text input box does not appear in some cases. 
+Version 3.0.1 (Nov 30, 2011)
+    Support ios5.0
+Version 3.0 (Nov 21, 2011)
+    1、Added the new fuction of sending secret SMS directly.
+    2、Added the new function of adding friends.
+    3、Added the new function of preset password .
+    4、Added the new function of identity recongnition.
+    5、 Made the interface more beautiful.
+Version 2.1 (Aug 3, 2011)
+    upgraded the encryption algorithm
+Version 2.0 (Oct 2, 2010)
+    1. New version2.0 support sending & receiving secret SMS between iPhones. The receiver-iPhone need not connect the network when decrypting the secret SMS.
+
+    This new mechanism will be more safer and faster, it will deliver a better experience to the user.
+
+    2. Update all of the user interfaces, more conciser and easier to use.
+Version 1.0.4 (May 28, 2010)
+    1. Support more 10 kinds of languages
+
+    2. Optimized some features and resolved some problems.
+Version 1.0.1 (Apr 27, 2010)
+
+Users may also like
+Select objects to compare
+火星语
+Crait - Secure Communication
+Cipchat - Encrypted Messenger
+玄玑
+蝉鸣 - 自由自在的畅聊
+Crait Lite - Secure Chat
+蝙蝠-私密通讯软件
+酷信即时通讯
+Let's Talk Im
+机器人点点
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    6.2.2
+    Current release
+    Apr 23, 2023
+    6.2.1
+    Jan 13, 2023
+    6.2.0
+    Jan 6, 2023
+    6.1.9
+    Jan 15, 2021
+    6.1.9
+    Jan 15, 2021
+    6.1.8
+    Oct 29, 2020
+    6.1.7
+    Apr 24, 2020
+    6.1.6
+    Apr 4, 2020
+    6.1.5
+    Sep 20, 2019
+    6.1.4
+    Aug 28, 2019
+    6.1.3
+    Jul 1, 2019
+    6.1.2
+    Dec 5, 2018
+    6.1.1
+    Nov 28, 2018
+    6.1.0
+    Nov 23, 2018
+    6.0.2
+    Sep 30, 2018
+    6.0.1
+    Jun 1, 2018
+    6.0.0
+    May 2, 2018
+    5.6.5
+    Mar 4, 2018
+    5.6.4
+    Dec 6, 2017
+    5.6.3
+    Nov 19, 2017
+    5.6.2
+    Nov 14, 2017
+    5.6.1
+    Nov 9, 2017
+    5.6.0
+    Apr 24, 2017
+    5.5.6
+    Nov 10, 2016
+    5.5.5
+    Sep 8, 2016
+    5.5.4
+    Aug 6, 2016
+    5.5.3
+    Apr 16, 2016
+    5.5.2
+    Jan 22, 2016
+    5.5.1
+    Nov 7, 2015
+    5.5.0
+    Oct 27, 2015
+    5.4.2
+    Sep 23, 2015
+    5.4.1
+    Aug 22, 2015
+    5.4.0
+    Aug 5, 2015
+    5.3.2
+    Apr 25, 2015
+    5.3.0
+    Mar 17, 2015
+    5.2.0
+    Jan 30, 2015
+    5.1.1
+    Jan 7, 2015
+    5.1.0
+    Dec 10, 2014
+    5.0.1
+    Nov 11, 2014
+    5.0.0
+    Nov 4, 2014
+    4.1.2
+    Jun 11, 2014
+    4.1.1
+    Apr 25, 2013
+    4.1
+    Apr 9, 2013
+    4.0
+    Mar 13, 2013
+    3.0.3
+    Mar 29, 2012
+    3.0.2
+    Dec 28, 2011
+    3.0.1
+    Nov 30, 2011
+    3.0
+    Nov 21, 2011
+    2.1
+    Aug 3, 2011
+    2.0
+    Oct 2, 2010
+    1.0.4
+    May 28, 2010
+    1.0.1
+    Apr 27, 2010
+
+See More
+Top In-App Purchases
+
+    1 month
+    $0.99
+    Yearly Subscription
+    $25.99
+    Monthly Subscription
+    $1.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Apr 28, 2010
+
+Worldwide Release Date
+    Apr 28, 2010
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    6.2.2
+
+Size
+    253.32 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    Trustmobi Software Co., Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 8.0 or later. Compatible with iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi‑Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi-Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi‑Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi‑Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, iPod touch (6th generation) and iPod touch (7th generation).
+
+Bundle ID
+    com.trustmobi.SecretSMSpro
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 368185529
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+SecEMS : Secure Messaging | data.ai

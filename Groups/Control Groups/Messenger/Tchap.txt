@@ -1,0 +1,387 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Tchap
+DINUMSocial Networking (Applications)Free
+Alerts
+
+Tchap
+Tchap
+Tchap
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+No data is available.
+Loading
+Loading lots of data (this could take a moment).
+Tchap
+Social Networking (Applications)
+Free
+App Description
+Tchap is an instant messaging service designed for communications between French government officials, to exchange sensitive or less sensitive information, on the go or from an office workstation.
+
+Tchap allows you to chat with one-on-one and group messages, and to share files like any instant messenger, with a built-in directory of user agents, simultaneous use on multiple devices, with a high level of security and confidentiality of private exchanges.
+
+Tchap is reserved for state officials and people invited into a professional conversation with a state official.
+Ratings
+Displayed Avg Ratings
+2.79
+Total Displayed Ratings
+29
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.6.2 (Jan 3, 2024)
+    Cette version apporte les nouveautés et corrections suivantes :
+
+    Fonctionnalités :
+    - Activation de la signature croisée automatiquement à la création de compte
+
+    Améliorations :
+    - Actualisation de l'état de la signature croisée dans l'interface des réglages de sécurité après son activation
+    - Intégration des améliorations et corrections de Element 1.11.4
+    - Message d'erreur en français lors de l'échec d'invitation dans un salon d'un externe non présent dans l'annuaire
+    - Message régulier d'incitation à l'activation de la sauvegarde automatique
+    - Désactivation de la taille de police dynamique si l'affichage en bulle n'est pas activé
+
+    Corrections :
+    - La liste des salons ne se fige plus si on quitte un salon depuis un geste glissé sur la liste des salons
+    - Conserver les enrichissements de texte quand on utilise la taille de police dynamique
+    - L'application ne plante plus quand le salon contient un message supprimé (était dû à un effet de bord de la taille de police dynamique)
+    - L'application ne plante plus quand on quitte un salon dont on est le dernier administrateur depuis le menu d'actions rapides
+Version 2.6.1 (Dec 14, 2023)
+    Cette version apporte les nouveautés et corrections suivantes :
+
+    Fonctionnalités :
+    - Activation de la signature croisée automatiquement à la création de compte
+
+    Améliorations :
+    - Actualisation de l'état de la signature croisée dans l'interface des réglages de sécurité après son activation
+    - Intégration des améliorations et corrections de Element 1.11.4
+    - Message d'erreur en français lors de l'échec d'invitation dans un salon d'un externe non présent dans l'annuaire
+    - Message régulier d'incitation à l'activation de la sauvegarde automatique
+    - Désactivation de la taille de police dynamique si l'affichage en bulle n'est pas activé
+
+    Corrections :
+    - La liste des salons ne se fige plus si on quitte un salon depuis un geste glissé sur la liste des salons
+    - Conserver les enrichissements de texte quand on utilise la taille de police dynamique
+    - L'application ne plante plus quand le salon contient un message supprimé (était dû à un effet de bord de la taille de police dynamique)
+    - L'application ne plante plus quand on quitte un salon dont on est le dernier administrateur depuis le menu d'actions rapides
+Version 2.5.0 (Oct 23, 2023)
+    Cette version apporte les nouveautés et corrections suivantes :
+
+    Nouveautés :
+    • la visualisation et la participation aux sondages
+    • le message d'erreur de connexion propose un lien vers la page d'état des services Tchap
+
+    Améliorations :
+    • l'activation automatique de la zone de saisie mail lors de la création d'une conversation directe
+    • en thème sombre, les titres de section des paramètres sont maintenant visibles
+    • amélioration de certains textes d'interface
+    • améliorations basées sur Element
+
+    Corrections :
+    • la fonctionnalité “Inviter à rejoindre Tchap” fonctionne à nouveau correctement
+    • la gestion des favoris depuis la liste générale des salons a été corrigée : l'interface ne se fige plus
+    • lors de la création de discussions directes avec des externes, ces discussions ne sont plus masquées en attendant que l'externe rejoigne le salon
+    • corrections basées sur Element
+Version 2.4.7 (Jul 20, 2023)
+    Cette version de Tchap apporte les nouveautés suivantes :
+    • possibilité de transmettre des informations supplémentaires lors de l'envoi de rapports d'erreur
+    • améliorations du module de chiffrement
+Version 2.4.6 (Jul 3, 2023)
+    Cette version de Tchap apporte les nouveautés suivantes :
+    • amélioration de la fiabilité et des performances de l'application
+    • déplacement du bouton "Se déconnecter" dans les paramètres utilisateur
+    • suppression de la possibilité de créer des Espaces
+    • amélioration de l'interface dans les paramètres de "Sécurité et vie privée"
+Version 2.4.5 (May 22, 2023)
+    Cette version de Tchap apporte les nouveautés suivantes :
+    • amélioration de la fiabilité et des performances de l'application
+    • amélioration de la gestion des clés de chiffrement
+    • amélioration d'éléments d'interface
+    • ajout de l'accès à la nouvelle FAQ dans le menu principal
+    • rétablissement de l'option d'affichage des messages en bulles
+    • rétablissement de l'envoi de rapport Rageshake
+Version 2.4.0 (Apr 18, 2023)
+    Cette version de Tchap apporte les nouveautés suivantes :
+    • amélioration de la fiabilité et des performances de l'application
+    • possibilité d'envoyer des messages vocaux
+    • possibilité d'activer la sauvegarde automatique de messages
+    • restoration des possibilités de partage depuis un message
+Version 2.2.3 (Feb 23, 2023)
+    La version 2.3.3 de Tchap est disponible.
+
+    Améliorations :
+    • possibilité de réinitialiser son mot de passe sans déconnecter tous ses autres appareils
+
+    Corrections :
+    • un utilisateur invité ne peut plus créer un salon ou inviter un autre utilisateur
+Version 2.2.2 (Dec 13, 2022)
+    Bienvenue dans la nouvelle version 2.2.2 de Tchap iOS !
+    L'apparence et l’organisation de votre application évoluent pour améliorer votre expérience d'utilisation.
+
+    Au programme des changements :
+    - Un nouvel écran principal
+    - Modification des parcours de création de compte, de connexion et de mot de passe oublié
+    - Amélioration du menu des paramètres
+
+    Egalement, des correctifs ont été apportés :
+    - Correction de bugs spécifiques à iOS 16
+    - Correction de crashs occasionnels
+    - Corrections sur les couleurs du mode sombre
+    - Correction de bug de clavier à la création d'une room
+    - Correction de l'icône des forums dans l'annuaire
+Version 2.0.5 (Aug 2, 2022)
+    Bienvenue dans la nouvelle version de Tchap !
+    L'apparence et l’organisation de votre application évoluent.
+
+    Au programme :
+    - Un message vous amuse ou vous semble pertinent ? Réagissez en sélectionnant un emoji.
+    - Les onglets font leur retour pour séparer vos messages directs des autres salons.
+    - Les bulles de messages.
+    - Des améliorations fonctionnelles.
+Version 1.2.3 (Mar 15, 2022)
+    Cette version corrige un problème observé sur l'affichage et l'accès de certaines pieces jointes
+Version 1.2.2 (Sep 20, 2021)
+    - Mise à jour de la politique de sécurité
+Version 1.2.1 (Apr 19, 2021)
+    - Introduction de la gestion de "mes favoris" permettant la conservation des messages.
+    - Ajout de l'option "Transférer" lors de la sélection d'un message.
+    - Les membres d'un salon dont le compte a expiré sont grisés et déplacés en fin de liste.
+    - Améliorations des performances et corrections de bugs mineurs.
+Version 1.1.1 (Mar 10, 2021)
+    Cette version permet aux administrateurs d'inviter de nouveaux membres dans leurs salons privés en partageant un lien.
+    Elle apporte également des améliorations et la correction de problèmes mineurs.
+Version 1.1.0 (Dec 3, 2020)
+    Cette version introduit une nouvelle présentation des salons afin de faciliter la distinction entre les salons privés, les salons privés ouverts aux externes et les salons forum.
+    Elle apporte également des améliorations et la correction de problèmes mineurs.
+Version 1.0.28 (Sep 3, 2020)
+    Cette version introduit la vérification interactive de vos appareils afin de faciliter le partage de clés de chiffrement entre eux.
+    Elle apporte également des améliorations et la correction de problèmes mineurs.
+Version 1.0.27 (Aug 28, 2020)
+    Cette version introduit la vérification interactive de vos appareils afin de faciliter le partage de clés de chiffrement entre eux.
+    Elle apporte également des améliorations et la correction de problèmes mineurs.
+Version 1.0.26 (Aug 27, 2020)
+    Cette version introduit la vérification interactive de vos appareils afin de faciliter le partage de clés de chiffrement entre eux.
+    Elle apporte également des améliorations et la correction de problèmes mineurs.
+Version 1.0.21 (Jan 29, 2020)
+    Cette version apporte des améliorations et la correction de problèmes mineurs.
+    Elle supporte également le partage des documents via Tchap.
+Version 1.O.18 (Nov 6, 2019)
+    Cette version met à jour les paramètres de configuration utilisés lors des connexions sécurisées.
+    Elle contient également quelques améliorations et corrections de problèmes mineurs.
+Version 1.0.17 (Oct 1, 2019)
+    Cette version optimise les échanges entre les membres de la communauté Tchap et les utilisateurs externes invités dans Tchap. Elle permet notamment à l’administrateur d’un salon d'autoriser ou d’interdire l’entrée dans le salon à des utilisateurs externes.
+    Par ailleurs cette version autorise l’envoi d’invitations par email.
+    Enfin, elle contient quelques améliorations et corrections de problèmes mineurs.
+Version 1.0.15 (Sep 12, 2019)
+    Cette version permet la sélection et l'envoi de fichiers autres que des photos dans un salon. Elle contient également d'autres améliorations et corrige des problèmes mineurs.
+Version 1.0.13 (Jul 4, 2019)
+    Cette version corrige un problème observé avec VoiceOver afin de pouvoir accepter les conditions d'utilisation lors d'une création de compte. Elle corrige également d'autres problèmes mineurs.
+Version 1.0.10 (Apr 29, 2019)
+    Cette version supporte la gestion automatique des mots de passe par le système.
+    Le dernier message reçu est maintenant affiché lors de l'entrée dans un salon.
+    Le problème de disparition injustifiée des badges de notifications est également corrigé.
+Version 1.0.9 (Apr 9, 2019)
+
+Users may also like
+Select objects to compare
+Olvid
+Famileo
+Kozikaza - Travaux Déco Maison
+Knockk : Make friends & Outing
+THE SORORITY
+KidiCom Chat™ (FR)
+propertips
+TixeoClient
+KidiConnect (pour les parents)
+Be Sport
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+N/A
+Store Revenue Rank
+N/A
+Loading
+Loading lots of data (this could take a moment).
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.6.2
+    Current release
+    Jan 3, 2024
+    2.6.1
+    Dec 14, 2023
+    2.5.0
+    Oct 23, 2023
+    2.4.7
+    Jul 20, 2023
+    2.4.6
+    Jul 3, 2023
+    2.4.5
+    May 22, 2023
+    2.4.0
+    Apr 18, 2023
+    2.2.3
+    Feb 23, 2023
+    2.2.2
+    Dec 13, 2022
+    2.0.5
+    Aug 2, 2022
+    1.2.3
+    Mar 15, 2022
+    1.2.2
+    Sep 20, 2021
+    1.2.1
+    Apr 19, 2021
+    1.1.1
+    Mar 10, 2021
+    1.1.0
+    Dec 3, 2020
+    1.0.28
+    Sep 3, 2020
+    1.0.27
+    Aug 28, 2020
+    1.0.26
+    Aug 27, 2020
+    1.0.21
+    Jan 29, 2020
+    1.O.18
+    Nov 6, 2019
+    1.0.17
+    Oct 1, 2019
+    1.0.15
+    Sep 12, 2019
+    1.0.13
+    Jul 4, 2019
+    1.0.10
+    Apr 29, 2019
+    1.0.9
+    Apr 9, 2019
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Apr 9, 2019
+
+Worldwide Release Date
+    Apr 9, 2019
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.6.2
+
+Size
+    122.36 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Englisch, Französisch
+
+Seller
+    DINSIC
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 14.0 oder neuer. Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    fr.gouv.tchap
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1446253779
+Unified App ID: 1000800000159796
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Tchap | data.ai

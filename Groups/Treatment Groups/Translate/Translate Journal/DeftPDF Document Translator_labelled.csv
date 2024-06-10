@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1641314751,0,DeftPDF Document Translator,Productivity,2022-09-15,2022-09-15,41.35,40,0,0,1,1.8,2023-02-08,Minor fixes for scanned documents processing,0,0,0,0,0,0,0,0
+1641314751,0,DeftPDF Document Translator,Productivity,2022-09-15,2022-09-15,41.35,40,0,0,1,1.6,2023-01-26,Minor fixes for scanned document translation,0,0,0,0,0,0,0,0
+1641314751,0,DeftPDF Document Translator,Productivity,2022-09-15,2022-09-15,41.35,40,0,0,1,1.5,2023-01-25,Minor fixes of Scanned document translation,0,0,0,0,0,0,0,0
+1641314751,0,DeftPDF Document Translator,Productivity,2022-09-15,2022-09-15,41.35,40,0,0,1,1.3,2023-01-14,Fixed API connection bug other minor bug fixes.,0,0,0,0,0,0,0,0
+1641314751,0,DeftPDF Document Translator,Productivity,2022-09-15,2022-09-15,41.35,40,0,0,1,1.2,2022-12-15,Interface Multi language support had been added 40 languages: Afrikaans Amharic Arabic Bulgarian Czech Danish German Greek Spanish Estonian English Persian Finnish French Hindi Hungarian Indonesian Italian Hebrew Japanese Korean Lithuanian Latvian Malay Dutch Polish Portuguese Romanian Russian Slovak Slovenian Serbian Swedish Swahili Thai Turkish Ukrainian Vietnamese Chinese Zulu .,0,0,0,0,0,0,0,0
+1641314751,0,DeftPDF Document Translator,Productivity,2022-09-15,2022-09-15,41.35,40,0,0,1,1.1.2,2022-09-19,Added correct preview images for the App,0,0,0,0,0,0,0,0
+1641314751,0,DeftPDF Document Translator,Productivity,2022-09-15,2022-09-15,41.35,40,0,0,1,1.1,2022-09-16,1. Fixed translated document share functionality on iPad 2. Added new Screenshots,0,0,0,0,0,0,0,0
+1641314751,0,DeftPDF Document Translator,Productivity,2022-09-15,2022-09-15,41.35,40,0,0,1,1.0,2022-09-15,,0,0,0,0,0,0,0,0

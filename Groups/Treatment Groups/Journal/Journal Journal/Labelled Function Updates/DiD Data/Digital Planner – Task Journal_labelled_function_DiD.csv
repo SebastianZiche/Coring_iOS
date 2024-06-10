@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1632352471,0,Digital Planner Task Journal,Productivity,2022-07-01,2022-07-01,122.31,12,0,0,1,2,1,1,0,0,0,0,0,0,0,month_1,1,0,372,477.0
+1632352471,0,Digital Planner Task Journal,Productivity,2022-07-01,2022-07-01,122.31,12,0,0,1,0,0,0,1,0,0,0,0,0,0,month_2,1,0,402,477.0
+1632352471,0,Digital Planner Task Journal,Productivity,2022-07-01,2022-07-01,122.31,12,0,0,1,0,0,0,0,1,0,0,0,0,0,month_3,1,0,432,477.0
+1632352471,0,Digital Planner Task Journal,Productivity,2022-07-01,2022-07-01,122.31,12,0,0,1,0,0,0,0,0,1,0,0,0,0,month_4,1,0,462,477.0
+1632352471,0,Digital Planner Task Journal,Productivity,2022-07-01,2022-07-01,122.31,12,0,0,1,1,1,0,0,0,0,1,0,0,0,month_5,1,1,492,477.0
+1632352471,0,Digital Planner Task Journal,Productivity,2022-07-01,2022-07-01,122.31,12,0,0,1,1,1,0,0,0,0,0,1,0,0,month_6,1,1,522,477.0
+1632352471,0,Digital Planner Task Journal,Productivity,2022-07-01,2022-07-01,122.31,12,0,0,1,0,0,0,0,0,0,0,0,1,0,month_7,1,1,552,477.0
+1632352471,0,Digital Planner Task Journal,Productivity,2022-07-01,2022-07-01,122.31,12,0,0,1,0,0,0,0,0,0,0,0,0,1,month_8,1,1,582,477.0

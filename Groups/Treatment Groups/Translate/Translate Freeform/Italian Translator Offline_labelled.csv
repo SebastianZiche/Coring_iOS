@@ -1,0 +1,10 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1015324056,0,Italian Translator Offline,Reference,2016-07-04,2016-07-04,149.14,3,0,0,1,12.14.13,2022-11-30,Fix a crash on iOS 16 when using voice translation feature.,0,0,0,0,0,1,0,0
+1015324056,0,Italian Translator Offline,Reference,2016-07-04,2016-07-04,149.14,3,0,0,1,12.13.75,2022-01-14,iOS 15 full support Bug fixes UI improvements,0,0,0,0,0,0,0,0
+1015324056,0,Italian Translator Offline,Reference,2016-07-04,2016-07-04,149.14,3,0,0,1,12.13.13,2020-01-24,iOS 13 full compatibility Offline translation for Premium users move search box to top bug fixes,0,0,0,0,0,0,0,0
+1015324056,0,Italian Translator Offline,Reference,2016-07-04,2016-07-04,149.14,3,0,0,1,12.12.46,2019-01-10,bugfix: translate long sentence did not work move search box to bottom easier for one hand use auto height search box better for long text add monthly yearly subscription options for Premium upgrade,0,0,0,0,0,0,0,0
+1015324056,0,Italian Translator Offline,Reference,2016-07-04,2016-07-04,149.14,3,0,0,1,12.12.18,2018-09-21,iOS 12 compatibility support multiple selection support changing translation direction when language detection failed option to star translation other features bugfixes,0,0,0,0,0,0,0,0
+1015324056,0,Italian Translator Offline,Reference,2016-07-04,2016-07-04,149.14,3,0,0,1,12.11.62,2018-02-08,bugfixes for iPhone X,0,0,0,0,0,0,0,0
+1015324056,0,Italian Translator Offline,Reference,2016-07-04,2016-07-04,149.14,3,0,0,1,12.11.52,2017-10-15,iOS 11 optimization Voice search bug fixes,0,0,0,0,0,0,0,0
+1015324056,0,Italian Translator Offline,Reference,2016-07-04,2016-07-04,149.14,3,0,0,1,12.11.05,2017-03-28,bug fixes,0,0,0,0,0,0,0,0
+1015324056,0,Italian Translator Offline,Reference,2016-07-04,2016-07-04,149.14,3,0,0,1,12.9.55,2016-07-04,,0,0,0,0,0,0,0,0

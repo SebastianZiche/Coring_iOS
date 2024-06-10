@@ -1,0 +1,261 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Whisperboard
+Igor TarasenkoProductivity (Applications)Free
+Alerts
+
+    Igor Tarasenko
+
+    Whisperboard
+    Whisperboard
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Whisperboard
+Transcribe Speech Seamlessly
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+Harness the power of OpenAI's revolutionary Whisper technology with WhisperBoard, your go-to app for effortless voice recording and accurate transcription. Whether you're a professional, student, or anyone in between, our app turns your spoken words into written text with unmatched precision.
+
+Why WhisperBoard?
+
+- Advanced Transcription: Utilizes the latest OpenAI Whisper technology for top-notch accuracy.
+- Absolutely Free: Enjoy high-quality transcription without any cost.
+- User-Friendly Interface: Simple, intuitive design makes voice recording and transcription a breeze.
+
+Key Features:
+
+Effortless Recording: Tap to record; we'll handle the rest.
+High Precision: Expect accurate transcription, even with complex vocabulary.
+Fast and Reliable: Get your transcription quickly, without compromising quality.
+Multi-Use Application: Ideal for lectures, meetings, interviews, or personal notes.
+Experience Whisper Technology First-Hand
+
+With WhisperBoard, experience the future of speech recognition. Our app is more than just a tool; it's a productivity booster. Ideal for professionals, students, journalists, and anyone who values efficiency.
+
+Download WhisperBoard Today!
+
+Step into a world where your voice creates written magic. Try WhisperBoard now and embrace the convenience and accuracy of our audio transcription technology.
+Ratings
+Displayed Avg Ratings
+4.45
+Total Displayed Ratings
+66
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.11.8 (Dec 25, 2023)
+    The app now disables GPU usage by default. This change prevents crashes that happen when you minimize the app. You can turn the GPU back on in the settings by using a new toggle.
+Version 1.11.6 (Dec 14, 2023)
+    Improves microphone switching and recording configuration.
+Version 1.11.5 (Dec 3, 2023)
+    Fixed small errors and enhanced the settings screen.
+Version 1.10.3 (Jul 9, 2023)
+    Fix for model download.
+Version 1.10.2 (Jun 19, 2023)
+    Fixes for iPad version of the app and some UI improvements.
+Version 1.9.4 (May 7, 2023)
+    Fixes several issues and crashes
+    Now, instead of going to recording details screen directly after finishing recording - it will first show popup asking.
+Version 1.9.5 (May 7, 2023)
+    Fixes bugs related to background recording and incorrect duration of recordings.
+Version 1.9.3 (Apr 28, 2023)
+    Fix to resolve the problem of transcription not appearing.
+Version 1.9.0 (Apr 24, 2023)
+    Sharing: Now you can easily share audio from other apps into WhisperBoard.
+    Improved Background Mode: WhisperBoard now works a bit longer when app is minimised and is able to resume work in background.
+    Performance Improvements: Have updated the libraries used in WhisperBoard, resulting in faster and more accurate transcription of your audio recordings.
+    Bug Fixes: Fixed several minor bugs and improved the overall stability of the app.
+    Update now to enjoy these new features and improvements in WhisperBoard!
+Version 1.7.2 (Apr 4, 2023)
+    Get ready for an enhanced WhisperBoard experience with our latest update! Here's what's new:
+
+    - Refreshed Design: Enjoy a sleek, user-friendly interface that elevates your voice recording and transcription experience.
+    - Bug Fixes: We've squashed those pesky bugs to ensure smoother performance and improved stability.
+    - Speedy Transcriptions & Reduced Memory Footprint: Experience faster transcriptions while using less device memory, thanks to our optimized algorithms.
+    - Expanded Model Support: Choose from Medium and Large models to suit your transcription needs, boosting accuracy and customization.
+    - Import & Export Audios: Effortlessly import audio files for transcription or export your recordings, making it easy to manage your audio data.
+    - Language Selection: Tailor your transcription experience by setting your preferred language for even more accurate results.
+
+    Update to the latest Whisperboard version now and enjoy these fantastic new features that make recording, transcribing, and managing your audio data easier than ever!
+Version 1.1 (Jan 9, 2023)
+    I've added a model select screen and made a few UI improvements to make your experience even better.
+Version 1.0 (Dec 28, 2022)
+Version 1.0 (Dec 28, 2022)
+    I've added a model select screen and made a few UI improvements to make your experience even better.
+
+Users may also like
+Select objects to compare
+Whisper Notes - Speech To Text
+Whisper : Speech to Text
+Whisper Memos - Speech to text
+Paxo: AI Meeting Notes
+Speech To Text & Whisper
+Lexi: write well by talking
+Pal - AI Chat Client
+MLC Chat
+Private LLM - Local AI Chatbot
+Funnel: Quick Capture
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.11.8
+    Current release
+    Dec 25, 2023
+    1.11.6
+    Dec 14, 2023
+    1.11.5
+    Dec 3, 2023
+    1.10.3
+    Jul 9, 2023
+    1.10.2
+    Jun 19, 2023
+    1.9.4
+    May 7, 2023
+    1.9.5
+    May 7, 2023
+    1.9.3
+    Apr 28, 2023
+    1.9.0
+    Apr 24, 2023
+    1.7.2
+    Apr 4, 2023
+    1.1
+    Jan 9, 2023
+    1.0
+    Dec 28, 2022
+    1.0
+    Dec 28, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 28, 2022
+
+Worldwide Release Date
+    Dec 28, 2022
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.11.8
+
+Size
+    98.86 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Igor Tarasenko
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    me.igortarasenko.Whisperboard
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1661442906
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Whisperboard | data.ai

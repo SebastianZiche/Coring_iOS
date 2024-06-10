@@ -1,0 +1,591 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Spanish Dictionary - Dict Box
+XungReference (Applications)Free
+Alerts
+
+    Spanish Dictionary - Dict Box
+    Spanish Dictionary - Dict Box
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Spanish Dictionary - Dict Box
+English Spanish Translation
+Reference (Applications)
+Free
+App Description
+Dict Box - Powerful English to Spanish & Spanish to English dictionary & translator app.
+
+Includes more than 500K words and expressions
+Easy to use, fast, works offline.
+Ability to translate words directly in web browser and other apps.
+Offline pronunciation.
+English dictionary & thesaurus with examples and explanations
+Ability to search sentences, phrases, related words
+Image search, picture dictionary
+Word correction for mistyped words
+Tap word to see its meaning in popup window
+Ability to install more dictionaries & more languages
+Support Stardict format
+Links with popular web dictionaries (Oxford dictionaries, Cambridge, Wiki, etc)
+Word reminder
+Review words with pictures
+
+*************************
+
+Upgrade to Premium to remove ads, install more dictionaries & unlock all features.
+
+You can choose onetime payment for Premium
+or choose from 2 subscription options
+
+- a yearly subscription. (comes with 3-day free trial)
+- a monthly subscription.
+
+– Payment will be charged to iTunes Account at confirmation of purchase.
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+
+Privacy Policy: https://evolly.app/privacy-policy/
+Terms: https://evolly.app/terms-of-service/
+Ratings
+Displayed Avg Ratings
+4.69
+Total Displayed Ratings
+12.0k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 12.13.72 (Jan 13, 2022)
+    - iOS15 full support
+    - Bug fixes & UI improvements
+Version 12.13.15 (Jan 18, 2020)
+    - iOS 13 full compatibility
+    - bugfix "Image Search did not work"
+Version 12.12.10 (Aug 15, 2018)
+    - show preview translation when search
+    - option to change default English accent (US, UK, AU)
+    - save/restore last state of Flashcards
+    - fix navigation bar bug on iOS 11
+    - other bugfixes and improvements
+Version 12.11.61 (Feb 1, 2018)
+    fix layout for iPhone X
+Version 12.11.45 (Sep 28, 2017)
+    iOS 11 optimizations
+Version 12.11.24 (Jul 12, 2017)
+    bugfixes for IAP & improvements
+Version 12.11.18 (Jun 24, 2017)
+    bugfixes & improvements
+    allow to pay monthly and yearly for Premium Version
+Version 12.9.93 (Feb 2, 2017)
+    critical bugfix
+    widget to translate word in clipboard
+Version 12.9.64 (Aug 23, 2016)
+    bugfixes
+Version 12.9.36 (May 22, 2016)
+    Fix Image Search
+    Bring back Live Translation
+    Improvements
+Version 12.6.11 (Oct 8, 2015)
+    - Bugfixes for iOS9
+    - Live Translation for iOS8 & iOS7
+    - A lot of improvements & bugfixes
+Version 11.8.0 (May 16, 2015)
+    Fixed crash iOS 8
+Version 11.7.0 (May 7, 2015)
+    - Bugfixes
+    - New UI for ‘Review words with Pictures’
+    - Better topbar
+    - Word reminder
+    - Ability to select image from Photo camera
+Version 11.1.0 (Mar 16, 2015)
+    - Better top bar
+    - Better quick search view
+    - Double tap for quick search
+    - Two fingers tap for dictionary selection
+    - Word suggestion option
+    - Support landscape mode
+    - New feature: Ability to select another image
+    - New feature: Ability to pronounce a word list continuously in background
+    - Better UI for web dictionaries
+    - Better UI for iPhone version
+Version 9.37.1 (Nov 12, 2014)
+    - iOS8 compatibility
+    - Instantly translate if the text is not found in dictionaries
+    - Save translator settings for next use
+    - Ability to add words to multiple bookmark lists
+    - Minor bugfixes & improvements
+Version 9.30.0 (Aug 9, 2014)
+    - Ability to add word in to different bookmark lists
+
+    - Ability to import/export word lists from/to Dropbox
+
+    - Fix crash bug on iPad air, iPhone 5S
+
+    - Show/sort word count in history
+Version 9.25.0 (Jun 7, 2014)
+    - Search without entering accents
+    - Fix crash bug on iPad air, iPhone 5S
+    - Highlight tapped word
+    - Memory & Performance optimization
+    - Fix conflicts between tap & double tap
+    - Show/sort word count in history
+    - Export word lists to Dropbox
+    - Flashcards: support learning words by frequency in multiple languages
+    - Flashcards: ability to delete word in flashcards list
+Version 9.12.0 (Apr 13, 2014)
+    - bugfixes
+    - ability to disable advanced tap mode
+    - ability to share meaning
+Version 9.8.0 (Apr 3, 2014)
+    - UI adjustments
+
+    - Tap Mode is set as Default
+
+    - New icon
+
+    - Auto pronunciation option
+
+    - Better dictionary/content quality
+
+    - Better tap mode -> Ability to select 2 or 3 words
+
+    - bugfixes
+Version 9.5.1 (Mar 7, 2014)
+    Ability to create multiple word lists and manage them (copy,select,arrange,…)
+    Ability to sync all word lists across multiple devices with Dropbox
+    Search words across all words list (History, Notes, …)
+    Ability to shuffle/edit flash cards
+    Ability to change image if the image doesn’t match
+    Faster offline sound downloading
+    Ability to change speed of flashcards
+    Option to enable/disable auto hide bottom bar
+    Minor improvements + bugfixes
+Version 8.0.4 (Nov 25, 2013)
+    - Beautiful UI for iOS7
+    - Ability to quickly navigate between dictionaries
+    - No more stopping background music when speaking words
+    - Random crash bug fix
+    - Better animation when search
+    - Prettier icon
+Version 7.14.6 (Oct 22, 2013)
+    - iOS 7 bugfixes
+    - Better image quality for Picture Dictionary
+    - Better UI for taking note
+    - Introduce auto clipboard mode to show meaning of word in clipboard right after app opens
+    - Ability to filter Spanish words when search
+Version 7.12.3 (Oct 4, 2013)
+    - iOS 7 bugfixes
+    - Landcape mode for iPhone
+    - Freeze bugfix
+    - view Flash Cards as List
+    - UI Improvements
+Version 7.11 (Sep 25, 2013)
+    - iOS 7 bugfixes
+    - Freeze bugfix
+    - Flash Cards improvements
+    - UI Improvements
+Version 7.10.2 (Sep 17, 2013)
+    - iOS 7 support & bugfixes
+    - WOW, Flash Cards
+    - Ability to add new words to Dictionary
+    - Ability to backup/restore wordbooks (history,bookmarks,notes) with Dropbox
+    - More dictionaries
+    - UI improvements
+    - Glosbe integration
+    - Bugfixes
+Version 7.8.1 (Sep 11, 2013)
+    - Ability to backup/restore wordbooks (history,bookmarks,notes) with Dropbox
+
+    - More dictionaries
+
+    - UI improvements
+
+    - Glosbe integration
+
+    - Bugfixes
+Version 7.2 (Jul 27, 2013)
+    - UI revamp
+
+    - Speaker UI redesign: play sound directly inside dictionary
+
+    - Ability to play sound directly in wordbooks
+
+    - Ability to search notes content
+
+    - Minor UI changes and bugfixes
+
+    - Support URL SCHEMA
+Version 6.23 (Jul 2, 2013)
+    - Ability to disable bad pictures
+
+    - Minor UI adjustments
+
+    - Gooogle translate integration
+
+    - ability to select to translate with gooogle translate
+
+    - ability to back from online mode to offline mode (iPhone)
+
+    - toolbars redesigned
+
+    - iPad UI revamp
+
+    - ability to sort bookmarks, history, notes by name and date
+
+    - double tap to quickly navigate to new dictionary
+
+    - various bug fixes
+Version 6.18 (May 8, 2013)
+    - ability to select to translate with gooogle translate
+
+    - ability to back from online mode to offline mode (iPhone)
+
+    - toolbars redesigned
+
+    - iPad UI revamp
+
+    - ability to sort bookmarks, history, notes by name and date
+
+    - double tap to quickly navigate to new dictionary
+
+    - various bug fixes
+Version 6.11.2 (Mar 12, 2013)
+    - add English sound button to bottom bar so you don't have to scroll up to listen pronunciation
+    - add word to history when "quick look up"
+    - fix a critical bug on iPad iOS4
+Version 6.9 (Mar 5, 2013)
+    - iPad - redesign: bookmarks, history, notes now can be viewed while viewing word meaning.
+
+    - add English sound button to bottom bar so you don't have to scroll up to listen pronunciation
+
+    - faster searching at the first launch
+Version 6.5.1 (Feb 19, 2013)
+    - add ability to add note to a word
+    - able to go back/forward when looking up web dictionaries
+    - relayout icons, no more annoying buttons on the right side
+    - minor bugfixes and improvements
+Version 6.3 (Jan 16, 2013)
+    - removed bottom adbanner to make app run faster
+    - support synonyms and related words -> more meaning show when looking up a word
+    - show meaning in the word list when looking up
+    - nicer & better UI for preferences
+    - introduce paste button, so you can easily paste the word from clipboard into search box.
+    - better UI for quick lookup bar
+    - minor bugfixes
+Version 5.9.6 (Dec 19, 2012)
+    5.9
+    - Faster startup
+    - Introduce Link Mode for fast looking up
+    - Allow to instantly show/hide the dictionary inside content view
+    - better UI Experience for iPad
+    - better UI for speakers
+    - Minor bugfixes
+
+    5.5
+    - Picture dictionary
+    - Big content mode for iPhone
+    - UI improvement
+    - Fix change font size bug
+    - Fix Adbanner bug for paid users
+    - Bugfixes
+Version 5.4 (Nov 10, 2012)
+    - Picture dictionary
+    - Big content mode for iPhone
+    - UI improvement
+    - Fix change font size bug
+    - Bugfixes
+Version 4.8.6 (Sep 23, 2012)
+    - iOS6, iPhone 5 support
+Version 4.7.4 (Aug 19, 2012)
+    - bugfixes
+Version 4.6.11 (Jul 20, 2012)
+    - new icon
+    - bugfixes
+    - smaller word suggestion area
+Version 4.6 (Jun 4, 2012)
+    - add "word suggestion" feature
+    - allow to bookmark words
+    - show number of words of dictionaries
+Version 4.5 (Apr 27, 2012)
+    - removable AD Banner
+Version 4.3.1 (Feb 17, 2012)
+    - iPad natively support
+Version 3.9.6 (Oct 26, 2011)
+    - bugfixs
+Version 3.9.5 (Oct 26, 2011)
+    - editable recent word list
+Version 3.9 (Sep 21, 2011)
+    - new online dicts
+    - new offline dicts
+    - new UI
+Version 2.0 (May 12, 2011)
+    - new dictionaries
+    - high performance
+    - new GUI
+Version 1.0 (Mar 11, 2011)
+
+Users may also like
+Select objects to compare
+Diccionario español.
+Spanish – English Dictionary
+SpanishDictionary.com Learning
+Dictionary & Translator
+ConjuGato – Spanish Verbs
+Spanish-English dict. - DIC-o
+Diccionario Inglés Español
+Spanish Verb Conjugator
+inglés.com
+Spanish Translator + ©
+IQ Classifications
+Genre: Books & Reference
+Subgenre: Dictionary
+Dictionary
+Apps where users can check words' meaning, pronunciation, origin and usage.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+No data is available.
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+2 times
+on App Store category pages
+Versions
+
+    12.13.72
+    Current release
+    Jan 13, 2022
+    12.13.15
+    Jan 18, 2020
+    12.12.10
+    Aug 15, 2018
+    12.11.61
+    Feb 1, 2018
+    12.11.45
+    Sep 28, 2017
+    12.11.24
+    Jul 12, 2017
+    12.11.18
+    Jun 24, 2017
+    12.9.93
+    Feb 2, 2017
+    12.9.64
+    Aug 23, 2016
+    12.9.36
+    May 22, 2016
+    12.6.11
+    Oct 8, 2015
+    11.8.0
+    May 16, 2015
+    11.7.0
+    May 7, 2015
+    11.1.0
+    Mar 16, 2015
+    9.37.1
+    Nov 12, 2014
+    9.30.0
+    Aug 9, 2014
+    9.25.0
+    Jun 7, 2014
+    9.12.0
+    Apr 13, 2014
+    9.8.0
+    Apr 3, 2014
+    9.5.1
+    Mar 7, 2014
+    8.0.4
+    Nov 25, 2013
+    7.14.6
+    Oct 22, 2013
+    7.12.3
+    Oct 4, 2013
+    7.11
+    Sep 25, 2013
+    7.10.2
+    Sep 17, 2013
+    7.8.1
+    Sep 11, 2013
+    7.2
+    Jul 27, 2013
+    6.23
+    Jul 2, 2013
+    6.18
+    May 8, 2013
+    6.11.2
+    Mar 12, 2013
+    6.9
+    Mar 5, 2013
+    6.5.1
+    Feb 19, 2013
+    6.3
+    Jan 16, 2013
+    5.9.6
+    Dec 19, 2012
+    5.4
+    Nov 10, 2012
+    4.8.6
+    Sep 23, 2012
+    4.7.4
+    Aug 19, 2012
+    4.6.11
+    Jul 20, 2012
+    4.6
+    Jun 4, 2012
+    4.5
+    Apr 27, 2012
+    4.3.1
+    Feb 17, 2012
+    3.9.6
+    Oct 26, 2011
+    3.9.5
+    Oct 26, 2011
+    3.9
+    Sep 21, 2011
+    2.0
+    May 12, 2011
+    1.0
+    Mar 11, 2011
+
+See More
+Top In-App Purchases
+
+    Premium Version
+    $19.99
+    Premium Version Monthly
+    $4.99
+    Premium Version Yearly
+    $9.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Mar 11, 2011
+
+Worldwide Release Date
+    Mar 11, 2011
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    12.13.72
+
+Size
+    313.06 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Vietnamese
+
+Seller
+    Xung Le
+
+Company HQ
+    Vietnam
+
+Content Rating
+    Rated 9+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.gnux.dictboxensp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 425093522
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Spanish Dictionary - Dict Box | data.ai

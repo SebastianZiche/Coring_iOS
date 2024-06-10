@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1601025363,0,MindMix Social Journal,Health and Fitness,2022-01-05,2022-01-05,61.89,1,0,0,1,1,0,1,0,0,0,0,0,0,0,month_1,0,0,188,293.0
+1601025363,0,MindMix Social Journal,Health and Fitness,2022-01-05,2022-01-05,61.89,1,0,0,1,0,0,0,1,0,0,0,0,0,0,month_2,0,0,218,293.0
+1601025363,0,MindMix Social Journal,Health and Fitness,2022-01-05,2022-01-05,61.89,1,0,0,1,0,0,0,0,1,0,0,0,0,0,month_3,0,0,248,293.0
+1601025363,0,MindMix Social Journal,Health and Fitness,2022-01-05,2022-01-05,61.89,1,0,0,1,0,0,0,0,0,1,0,0,0,0,month_4,0,0,278,293.0
+1601025363,0,MindMix Social Journal,Health and Fitness,2022-01-05,2022-01-05,61.89,1,0,0,1,0,0,0,0,0,0,1,0,0,0,month_5,0,1,308,293.0
+1601025363,0,MindMix Social Journal,Health and Fitness,2022-01-05,2022-01-05,61.89,1,0,0,1,0,0,0,0,0,0,0,1,0,0,month_6,0,1,338,293.0
+1601025363,0,MindMix Social Journal,Health and Fitness,2022-01-05,2022-01-05,61.89,1,0,0,1,0,0,0,0,0,0,0,0,1,0,month_7,0,1,368,293.0
+1601025363,0,MindMix Social Journal,Health and Fitness,2022-01-05,2022-01-05,61.89,1,0,0,1,0,0,0,0,0,0,0,0,0,1,month_8,0,1,398,293.0

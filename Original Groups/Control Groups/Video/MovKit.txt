@@ -1,0 +1,415 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MovKit
+ReafoPhoto and Video (Applications)Free
+Alerts
+
+    MovKit
+    MovKit
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MovKit
+Video editor for crop and flip
+Photo and Video (Applications)
+Free
+App Description
+MovKit is a video editing app that can easily and single-handedly accomplish a variety of video processing tasks, such as inversion, rotation, trimming to square or 16:9 frame sizes, and speeding up to modify voice pitch.
+
+■ Modifying video playback speed
+Playback speed can be adjusted however you like, whether to speed it up or playback in slow motion.
+Frame rates can be modified in a range from 0.1x to 10x.
+
+■ Change voice pitch in sync with playback speed
+Voice pitch can be modified in sync with playback speed.
+By speeding up playback speed, voice pitch rises, while playing in slow motion results in a lower pitch.
+Also available is a mode that maintains voice pitch even when playback speed is modified.
+
+■ Trimming clip duration
+Video clip duration can be trimmed to designated lengths.
+
+■ Trimming frame size
+Video clips can be trimmed to designated frame sizes.
+Available sizes are:
+• Square
+• 16:9 ( or 9:16 )
+• 4:3 (or 9:16)
+By pinching with 2 fingers when trimming, you can expand the frame size.
+
+■ Inverting video clips
+Video clips can be inverted vertically and horizontally.
+
+■ Rotating video clips
+Video clips can be rotated in 90° increments.
+
+■ Change video clip audio levels
+Audio levels of video clips can be modified.
+Through this function, a​ clip's audio can be muted and made silent.
+
+■ Add a BGM track
+The following types of tracks can be added as BGM.
+• iPod tracks saved to your device
+• Audio of videos saved to your device can be used as BGM.
+
+Added BGM tracks can be applied within a designated range and audio level.
+
+■ BGM playback speed
+You can choose between two modes: changing the audio pitch of the BGM in sync with changes to the video clip's playback speed, or playing the BGM at its normal playback speed.
+Ratings
+Displayed Avg Ratings
+4.29
+Total Displayed Ratings
+154
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.3 (Jan 11, 2024)
+    - Fixed minor bugs.
+Version 5.2 (Dec 27, 2022)
+    - Fixed minor bugs.
+Version 5.1 (Nov 21, 2022)
+    - Fixed minor bugs.
+Version 5.0 (Nov 7, 2022)
+    - Fixed colors of emojis when the video is HDR.
+Version 4.9 (Oct 27, 2022)
+    - Fixed minor bugs.
+Version 4.8 (Aug 8, 2022)
+    - Fixed minor bugs.
+Version 4.7 (Aug 5, 2022)
+    - Fixed minor bugs.
+Version 4.6 (May 13, 2022)
+    - Fixed minor bugs.
+    + HDR video to SDR exporting.
+Version 4.5 (Apr 7, 2022)
+    - Fixed bugs.
+Version 4.4 (Mar 8, 2022)
+    - Fixed minor bugs.
+Version 4.3 (Mar 3, 2022)
+    + Added new filter.
+Version 4.2 (Feb 18, 2022)
+    - Fixed minor bugs.
+Version 4.1 (Feb 11, 2022)
+    - Fixed minor bugs.
+    + Added a new frame.
+Version 4.0 (Nov 20, 2021)
+    - Fixed minor bugns.
+Version 3.9 (Nov 3, 2021)
+    - Fixed bugs.
+Version 3.8 (Sep 29, 2021)
+    - Fixed minor bugs.
+Version 3.7 (Jul 12, 2021)
+    - Fixed minor bugs.
+Version 3.6 (Jul 7, 2021)
+    - Fixed minor bugs.
+Version 3.5 (Jun 6, 2021)
+    - Fixed minor bugs.
+Version 3.4 (Nov 25, 2020)
+    - Fixed minor bugs.
+Version 3.3 (Oct 13, 2020)
+    - Fixed minor bugs.
+    + Store font which is used last time.
+Version 3.2 (Oct 3, 2020)
+    - Fixed minor bugs.
+Version 3.1 (Sep 18, 2020)
+    - Fixed minor bugs.
+    + Swipe the track of seek bar for detail seeking.
+Version 3.0 (Sep 2, 2020)
+    - Fixed the bug that screen trimming size and exporting size was different.
+    - Fixed minor bugs.
+Version 2.9 (Aug 25, 2020)
+    - Fixed minor bugs.
+    + Tweak filter parameters.
+Version 2.8 (Aug 17, 2020)
+    + Improved some UI.
+    + New features.
+    + Filter
+    + Decoration frame
+Version 2.7 (Jan 7, 2020)
+    - Fixed minor bugs.
+Version 2.6 (Nov 5, 2019)
+    - Fixed minor bugs.
+Version 2.5 (Feb 2, 2019)
+    - Fixed minor bugs.
+Version 2.4 (Feb 1, 2019)
+    - Fixed minor bugs.
+Version 2.3 (Jan 30, 2019)
+    - Fixed minor bugs.
+Version 2.2 (Jan 28, 2019)
+    - Fixed minor bugs.
+Version 2.1 (Feb 14, 2018)
+    - Fixed minor bugs.
+Version 2.0 (Jan 18, 2018)
+    - Fixed bugs.
+Version 1.9 (Aug 18, 2017)
+    - Fixed minor bugs.
+Version 1.8 (Aug 16, 2017)
+    - Fixed bugs.
+Version 1.7 (Dec 4, 2016)
+    - Fixed bugs
+    + Added christmas songs
+Version 1.6 (Nov 15, 2016)
+    - Fixed bugs
+    + Add new song
+Version 1.5 (Oct 7, 2016)
+    + Add new a song for BGM
+Version 1.4 (Oct 5, 2016)
+    - Add preset songs
+Version 1.3 (Oct 1, 2016)
+    + [New] Add text on your video.
+    - Fixed munor bugs
+Version 1.2 (Aug 31, 2016)
+    - Fixed bugs
+Version 1.1 (Aug 24, 2016)
+    - Improved minor UIs
+Version 1.0 (Aug 20, 2016)
+
+Users may also like
+Select objects to compare
+MyEditor - Easy Video Editor!
+MixClip - Video Editor
+Nu-Movie Player ~ Export video
+Video Captions App - Telorain
+Video Rotate & Video Flip
+BlackVideo (One-Touch Rec!)
+PICSCAM
+MoviPic - Movie to Photo
+PhotoFrame フォトフレーム
+Video To Photo -Video to image
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    5.3
+    Current release
+    Jan 11, 2024
+    5.2
+    Dec 27, 2022
+    5.1
+    Nov 21, 2022
+    5.0
+    Nov 7, 2022
+    4.9
+    Oct 27, 2022
+    4.8
+    Aug 8, 2022
+    4.7
+    Aug 5, 2022
+    4.6
+    May 13, 2022
+    4.5
+    Apr 7, 2022
+    4.4
+    Mar 8, 2022
+    4.3
+    Mar 3, 2022
+    4.2
+    Feb 18, 2022
+    4.1
+    Feb 11, 2022
+    4.0
+    Nov 20, 2021
+    3.9
+    Nov 3, 2021
+    3.8
+    Sep 29, 2021
+    3.7
+    Jul 12, 2021
+    3.6
+    Jul 7, 2021
+    3.5
+    Jun 6, 2021
+    3.4
+    Nov 25, 2020
+    3.3
+    Oct 13, 2020
+    3.2
+    Oct 3, 2020
+    3.1
+    Sep 18, 2020
+    3.0
+    Sep 2, 2020
+    2.9
+    Aug 25, 2020
+    2.8
+    Aug 17, 2020
+    2.7
+    Jan 7, 2020
+    2.6
+    Nov 5, 2019
+    2.5
+    Feb 2, 2019
+    2.4
+    Feb 1, 2019
+    2.3
+    Jan 30, 2019
+    2.2
+    Jan 28, 2019
+    2.1
+    Feb 14, 2018
+    2.0
+    Jan 18, 2018
+    1.9
+    Aug 18, 2017
+    1.8
+    Aug 16, 2017
+    1.7
+    Dec 4, 2016
+    1.6
+    Nov 15, 2016
+    1.5
+    Oct 7, 2016
+    1.4
+    Oct 5, 2016
+    1.3
+    Oct 1, 2016
+    1.2
+    Aug 31, 2016
+    1.1
+    Aug 24, 2016
+    1.0
+    Aug 20, 2016
+
+See More
+Top In-App Purchases
+
+    Remove watermark
+    $5.99
+    Remove Ads
+    $3.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Aug 20, 2016
+
+Worldwide Release Date
+    Aug 20, 2016
+
+Last Updated Time
+    Feb 22, 2024
+
+Version
+    5.3
+
+Size
+    80.63 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    REAFO CO., LTD.
+
+Company HQ
+    Japan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    net.reafo.app.MovKit
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1143763548
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MovKit | data.ai

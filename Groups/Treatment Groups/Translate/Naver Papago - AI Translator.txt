@@ -1,0 +1,756 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Naver Papago - AI Translator
+NAVERReference (Applications)Free
+Alerts
+
+Naver Papago Translate
+Naver Papago - AI Translator
+Naver Papago - AI Translator
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Naver Papago - AI Translator
+A smart AI translator
+Reference (Applications)
+Free
+App Description
+Whenever you need translation during your travels, business trips or while studying a language just bring Papago, a smart parrot who can translate multiple languages for you.
+
+▶ What does ‘Papago’ mean?
+In Esperanto, Papago refers to a parrot, a bird with language abilities.
+Papago supports 13 languages : Korean, English, Japanese, Chinese (Simplified/Traditional), Spanish, French, Vietnamese, Thai, Indonesian, Russian, German and Italian.
+
+▶ Main features
+1) Text Translation
+Real-time text translation for phrases and words
+
+2) Image Translation
+Automatic recognition and translation of text in the image by taking a picture and pressing the button
+
+3) Voice Translation
+Real-time voice translation to both text and audio
+
+4) Offline translation
+Can translate even in offline
+
+5) Conversation Translation
+Simultaneously speak in each other’s language when talking one-on-one with a foreigner
+
+6) Handwriting Translation
+Handwriting translation that finds the correct word and translation when you write using your finger
+
+7) Website Translation
+Automatic translation for all content when you include the URL of a foreign website
+
+8) Edu
+Taking a picture of the passage you want to study will create a
+My Note that you can use to study passages and words
+
+9) Dictionary
+Dictionary information provided to check additional meanings other than initial translation results
+
+Be confident anytime, anywhere with your translating partner Papago!
+
+Papago Facebook Like : https://www.facebook.com/NaverPapago
+Papago Instagram Follow : https://www.instagram.com/papago_naver/
+
+
+※ Speech recognition permission provided by the mobile OS is used to provide voice translation and dialog translation in Vietnamese, Thai, Indonesian, Russian, and Italian. If you use voice translation or dialog translation in these languages after granting speech recognition permission, only voice data will be sent to Apple as per Apple's policy; no other information will be sent.
+
+
+
+
+
+※ Supporting iOS 14.1 or above
+
+※ Available on PC and mobile. https://papago.naver.com
+
+※ For app-related issues and errors: https://goo.gl/9LZLRe
+
+
+
+Developer Contact No.:
+
+1588-3820
+
+
+
+178-1, Green Factory, Jeongja-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, Seoul
+Ratings
+Displayed Avg Ratings
+4.54
+Total Displayed Ratings
+50.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.10.8 (Feb 8, 2024)
+    - Arabic translation now supported (text, voice, and conversation translation)
+    - Option to display Dictionary info with text translation
+Version 1.10.7 (Jan 30, 2024)
+    - Arabic translation now supported (text, voice, and conversation translation)
+    - Option to display Dictionary info with text translation
+Version 1.10.6 (Dec 19, 2023)
+    - App stability improvements
+Version 1.10.5 (Dec 18, 2023)
+    - App stability improvements
+Version 1.10.4 (Dec 12, 2023)
+    - App stability improvements
+Version 1.10.3 (Nov 25, 2023)
+    - [Edu] Provides `Straighten skewed images` option in Study camera
+    - App stability improvements
+Version 1.10.2 (Oct 31, 2023)
+    Improved text translation usability
+    - Now provides a line break feature (optional) and a variety of convenience functions
+    - User-friendly UI for large screens as well
+Version 1.10.1 (Oct 22, 2023)
+    Improved text translation usability
+
+    - Now provides a line break feature (optional) and a variety of convenience functions
+    - User-friendly UI for large screens as well
+Version 1.10.0 (Oct 16, 2023)
+    Improved text translation usability
+    - Now provides a line break feature (optional) and a variety of convenience functions
+    - User-friendly UI for large screens as well
+Version 1.9.24 (Jul 28, 2023)
+    - Edu provides a 'hide kanji/furigana' function when learning Japanese words
+    - Image Translation 'Language Recommendation' function provided
+    - App OS minimum supported version change: iOS 14.1 or later
+Version 1.9.23 (Jun 12, 2023)
+    - App stability improvements
+Version 1.9.22 (Jun 7, 2023)
+    - App stability improvements
+Version 1.9.21 (May 8, 2023)
+    Support PDF for Image Translation
+Version 1.9.20 (Mar 23, 2023)
+    - App stability improvements
+Version 1.9.19 (Mar 14, 2023)
+    - Image translation UI improved
+    - [Edu] New Vocabulary feature
+    : Save words in Edu and Translation mode.
+    : Collect your saved words in Vocabulary.
+    : Study words using Flashcard and Keep listening
+Version 1.9.18 (Mar 6, 2023)
+    - Image translation UI improved
+    - [Edu] New Vocabulary feature
+    : Save words in Edu and Translation mode.
+    : Collect your saved words in Vocabulary.
+    : Study words using Flashcard and Keep listening
+Version 1.9.16 (Jan 25, 2023)
+    - Add pronunciations for the translated image
+    - App stability improvements
+Version 1.9.15 (Dec 10, 2022)
+    - Korean - Chinese Study Camera added
+    - Study camera PDF support
+    Study PDF files with the Study Camera!
+    - Image Translation improved
+    Dictionary will be provided when translating Image.
+    Food Information will be provided when translating Korean food menu.
+Version 1.9.14 (Nov 28, 2022)
+    - Korean - Chinese Study Camera added
+    - Study camera PDF support
+    Study PDF files with the Study Camera!
+    - Image Translation improved
+    Dictionary will be provided when translating Image.
+    Food Information will be provided when translating Korean food menu.
+Version 1.9.13 (Oct 26, 2022)
+    - [Edu] Korean - Japanese language expanded
+    - New widget on the lock screen for iOS16+
+Version 1.9.12 (Oct 7, 2022)
+    - [Edu] Korean - Japanese language expanded
+    - New image translation languages (German, Italian)
+    - New app icon editing settings
+Version 1.9.11 (Oct 5, 2022)
+    - [Edu] Korean - Japanese language expanded
+    - New image translation languages (German, Italian)
+    - New app icon editing settings
+Version 1.9.10 (Sep 21, 2022)
+    - App stability improvements
+Version 1.9.9 (Aug 21, 2022)
+    - Real-time image translation is provided.
+    - [Edu] Save phrases and sentences in Notes with the highlighter.
+    - [Edu] The dictionary's information on term definitions has been improved.
+Version 1.9.8 (Aug 12, 2022)
+    - Real-time image translation is provided.
+    - [Edu] Save phrases and sentences in Notes with the highlighter.
+    - [Edu] The dictionary's information on term definitions has been improved.
+Version 1.9.7 (Jun 13, 2022)
+    - App stability improvements 
+Version 1.9.6 (Jun 3, 2022)
+    - A translation evaluation feature has been added.
+Version 1.9.5 (May 2, 2022)
+    - Text translation is supported with Papago Mini.
+    - You can listen to the pronunciation of each sentence in Study Notes.
+    - Recently used languages are provided as language pairs.
+    - Clipboard pasting is supported for text translation.
+Version 1.9.4 (Apr 7, 2022)
+    - App stability improvements 
+Version 1.7.9 (Sep 29, 2021)
+    - Image translation languages have been added.
+    Indonesian, Russian, French, Spanish
+Version 1.7.5 (Mar 26, 2021)
+    - Supporting retranslation and original restoration features
+    : Pressing the swap language button translates the translation result in reverse.
+    : After retranslation, you can go back to the previous translation by pressing the restore button.
+    - Widget style and transparency settings added
+    - Supports new languages for 'Translation on image'
+    : Translation to Spanish/French/Russian/German/Italian has been added.
+Version 1.7.4 (Mar 5, 2021)
+    - App stability improvements
+Version 1.7.3 (Jan 28, 2021)
+    - Provides Papago mini "image translation"
+    - "Traditional Chinese" image translation and listen to pronunciation added
+    - In-app "Dark Mode" setting feature added (OS 13.0 or higher) 
+Version 1.7.2 (Dec 14, 2020)
+    - App stability improvements 
+Version 1.7.1 (Dec 4, 2020)
+    - App stability improvements
+Version 1.7.0 (Nov 26, 2020)
+    - Provides Dark Mode
+
+    : Select Dark Mode in OS Settings. 
+Version 1.6.3 (Nov 3, 2020)
+    - 'Translate Text on Image' released
+    : Translations will appear on image that you shot.
+    - "Detect language" for image translation available
+Version 1.6.2 (Oct 29, 2020)
+    - 'Translate Text on Image' released
+    : Translations will appear on image that you shot.
+    - "Detect language" for image translation available
+Version 1.6.1 (Sep 18, 2020)
+    - Honorific translation "Chinese→Korean, Japanese" available
+    - Chinese Pinyin input feature has been added
+    - Offline translation feature improved (Language file update required.)
+    - Supporting iOS 14.0 and conversation widget
+Version 1.6.0 (Sep 16, 2020)
+    - Honorific translation "Chinese→Korean, Japanese" available
+    - Chinese Pinyin input feature has been added
+    - Offline translation feature improved (Language file update required.)
+    - Supporting iOS 14.0 and conversation widget
+Version 1.5.7 (Jul 24, 2020)
+    - Image translation in "Vietnamese and Thai" added
+    - Honorific translation in "English → Japanese, Korean ↔ Japanese" available
+
+Version 1.5.6 (Jun 8, 2020)
+    - App stability improvements
+Version 1.5.5 (Apr 24, 2020)
+    - Papago Mini improved (Provides Listen to pronunciation, dictionary information, and offline translation)
+    - Provides Papago Mini Dark Mode (iOS 13 or higher)
+Version 1.5.4 (Feb 27, 2020)
+    - "Part of speech" in dictionary information supported in multiple languages
+    - Added offline translation pronunciation listening
+Version 1.5.3 (Jan 22, 2020)
+    - GYM menu applied (Supporting iOS 11 or above)
+    : GYM is a service of participating in making Papago better.
+    - Usability improved and stabilized
+Version 1.5.2 (Dec 11, 2019)
+    - App stabilization
+Version 1.5.1 (Nov 27, 2019)
+    - App stabilization
+Version 1.5.0 (Nov 6, 2019)
+    - Offline translation feature released (English, Korean, Japanese, Chinese), Supportng iPhone 5S or above
+    - Added Korean Pronunciation written in English
+Version 1.4.6 (Sep 25, 2019)
+    - App stabilization
+Version 1.4.5 (Aug 12, 2019)
+    - Added full translation feature for image translation (English, Korean, Chinese)
+
+
+
+Version 1.4.4 (Jun 19, 2019)
+    - Added dictionary information and examples while translating sentences
+    - Dictionary information provided when touching a word of translated text (iOS 11.0 or higher)
+    - Improved share feature
+Version 1.4.3 (Jun 17, 2019)
+    - Added dictionary information and examples while translating sentences
+    - Dictionary information provided when touching a word of translated text (iOS 11.0 or higher)
+    - Improved share feature
+Version 1.4.2 (May 9, 2019)
+    - Image translation available in full or partial (Japanese)
+    - Added audio and conversation translation for supported language (4 including Thai and Italian)
+Version 1.4.1 (Apr 29, 2019)
+    - Image translation available in full or partial (Japanese only)
+    - Added audio and conversation translation for supported language (4 including Thai and Italian)
+Version 1.4.0 (Mar 4, 2019)
+    - Added full translation feature for image translation (Japanese only)
+    - Added "crop, rotate" feature when translating images on device
+Version 1.3.4 (Jan 17, 2019)
+    - Honorific translation feature has been added (English>Korean available)
+    - Recently used language displayed
+    - Quick action feature available
+    - App stabilization
+Version 1.3.3 (Jan 15, 2019)
+    - Honorific translation feature has been added (English>Korean available)
+    - Recently used language displayed
+    - Quick action feature available
+Version 1.3.2 (Dec 19, 2018)
+    - Optimized for iPhone XR and XS MAX
+Version 1.3.1 (Nov 6, 2018)
+    - Website translation service added (English, Japanese, Chinese, Korean)
+Version 1.3.0 (Oct 3, 2018)
+    - German and Italian translation have been added
+    - (Image Translation Mode) Handwriting input for Japanese, Chinese and Korean have been added
+Version 1.2.8 (Aug 3, 2018)
+    - App Stabilization
+    - Japanese character recognition function improvement
+Version 1.2.6 (Jul 11, 2018)
+    ■ Add handwriting input function for Japanese, Chinese, and Korean (text mode)
+Version 1.2.5 (May 29, 2018)
+    ■ Russian translation has been added
+Version 1.2.4 (May 21, 2018)
+    ■ App stabilization
+Version 1.2.3 (May 18, 2018)
+    ■ Japanese Furigana check feature added
+    ■ App stabilization
+Version 1.2.2 (May 17, 2018)
+    ■ Japanese Furigana check feature added
+Version 1.2.1 (Mar 22, 2018)
+    ■ Minor bug fixes and other small improvements
+Version 1.2.0 (Feb 26, 2018)
+    ■ Papago Kids Now Open
+Version 1.1.9 (Feb 12, 2018)
+    ■ Bug fixes
+Version 1.1.8 (Jan 16, 2018)
+    ■ iPad supported
+Version 1.1.7 (Dec 6, 2017)
+    ■ Repeat feature added
+    ■ Voice speed options improved
+    ■ Input language recommendation options added
+Version 1.1.6 (Oct 30, 2017)
+    ■ Bug fixes
+Version 1.1.5 (Sep 28, 2017)
+    ■ French voice recognition service added
+    ■ Chinese (Traditional), Thai and Indonesian phonetics services added
+    ■ Supports iOS 11
+Version 1.1.4 (Sep 12, 2017)
+    ■ Bug fixes
+Version 1.1.3 (Sep 9, 2017)
+    ■ Bug fixes
+Version 1.1.2 (Sep 8, 2017)
+    ■ Chinese (Traditional), Vietnamese, Thai, Indonesian added
+    ■ Shortcut link to dictionary entry word added
+    ■ Adjustments in phonetic volume
+Version 1.1.1 (Aug 3, 2017)
+    ■ Bug fixes
+Version 1.1.0 (Jul 19, 2017)
+    ■ Limit in number of characters removed (up to 5,000)
+    ■ Design style improved
+    ■ Input phrase phonetics and listening feature added
+    ■ Kor/Eng translation engine updated
+Version 1.0.18 (Jul 6, 2017)
+    ■ Spanish and French phonetics service added
+    ■ Bug fixes
+Version 1.0.17 (May 30, 2017)
+    ■ Improved Japanese/English translation quality with N2MT
+    ■ Improved storage method of partner phrasebooks
+Version 1.0.16 (May 2, 2017)
+    ■ Bug fixes
+Version 1.0.15 (Apr 28, 2017)
+    ■ Bug fixes
+Version 1.0.13 (Apr 27, 2017)
+    ■ Added dictionary (*Text translation)
+    ■ Spanish voice recognition service added
+    ■ Added papago partners (GS25, Hyundai Dept. Store)
+Version 1.0.14 (Apr 27, 2017)
+    ■ Bug fixes
+Version 1.0.12 (Apr 26, 2017)
+    ■ Added dictionary (*Text translation)
+    ■ Spanish voice recognition service added
+    ■ Added papago partners (GS25, Hyundai Dept. Store)
+Version 1.0.11 (Mar 30, 2017)
+    ■ Added new languages, including Spanish and French (*Text translation only)
+    ■ Added on/off switch for saving history
+    ■ Added papago Widget in iOS
+    ■ Improved voice recognition animation UI
+Version 1.0.10 (Feb 24, 2017)
+    ■ Share to translate - Share with papago from any application to translate!
+    ■ Separated Favorite and History menu
+    ■ Phonetic transcriptions can be copied
+    ■ Improved phrasebook UI - phonetic transcription shown
+Version 1.0.9 (Jan 24, 2017)
+    Bug fixes
+Version 1.0.8 (Jan 19, 2017)
+    ■ Much better speech recognition animation
+    ■ Translate while listening to music
+    ■ papago partners - Phrasebook for police force
+Version 1.0.7 (Dec 20, 2016)
+    ■ Improved the logic of instant translation
+Version 1.0.6 (Dec 14, 2016)
+    ■ Translation quality improved by applying N2MT on Korean/Chinese
+    ■ Added phonetic transcription
+Version 1.0.5 (Dec 2, 2016)
+    Bug fixes
+Version 1.0.4 (Nov 29, 2016)
+    ■ Added language suggestion (for text translation)
+    ■ Added text paste function in initial page
+Version 1.0.3 (Oct 22, 2016)
+    Bug Fixes
+Version 1.0.2 (Oct 20, 2016)
+    ■ Naver LABS has implemented deep learning algorithms to improve English/Korean translation quality
+    ■ Removed loading message for voice recognition
+    ■ Added sharing features
+    ■ Changed text input mode design
+    ■ Added on/off settings for Instant Translation
+Version 1.0.1 (Sep 10, 2016)
+    Bug correction and stabilization
+Version 1.0.0 (Sep 5, 2016)
+    null
+
+Users may also like
+Select objects to compare
+Eggbun: Learn Korean Fun
+TEUIDA Learn Korean & Japanese
+Korean language learning games
+Speak - Language Learning
+Learn Korean! - Hangul
+Write It! Korean
+LingoDeer - Learn Languages
+Korean Dictionary - Dict Box
+말해보카: 영단어, 문법, 리스닝, 스피킹, 영어 공부
+TTMIK: Audio
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+3 times
+on App Store homepage
+21 times
+on App Store category pages
+Versions
+
+    1.10.8
+    Current release
+    Feb 8, 2024
+    1.10.7
+    Jan 30, 2024
+    1.10.6
+    Dec 19, 2023
+    1.10.5
+    Dec 18, 2023
+    1.10.4
+    Dec 12, 2023
+    1.10.3
+    Nov 25, 2023
+    1.10.2
+    Oct 31, 2023
+    1.10.1
+    Oct 22, 2023
+    1.10.0
+    Oct 16, 2023
+    1.9.24
+    Jul 28, 2023
+    1.9.23
+    Jun 12, 2023
+    1.9.22
+    Jun 7, 2023
+    1.9.21
+    May 8, 2023
+    1.9.20
+    Mar 23, 2023
+    1.9.19
+    Mar 14, 2023
+    1.9.18
+    Mar 6, 2023
+    1.9.16
+    Jan 25, 2023
+    1.9.15
+    Dec 10, 2022
+    1.9.14
+    Nov 28, 2022
+    1.9.13
+    Oct 26, 2022
+    1.9.12
+    Oct 7, 2022
+    1.9.11
+    Oct 5, 2022
+    1.9.10
+    Sep 21, 2022
+    1.9.9
+    Aug 21, 2022
+    1.9.8
+    Aug 12, 2022
+    1.9.7
+    Jun 13, 2022
+    1.9.6
+    Jun 3, 2022
+    1.9.5
+    May 2, 2022
+    1.9.4
+    Apr 7, 2022
+    1.7.9
+    Sep 29, 2021
+    1.7.5
+    Mar 26, 2021
+    1.7.4
+    Mar 5, 2021
+    1.7.3
+    Jan 28, 2021
+    1.7.2
+    Dec 14, 2020
+    1.7.1
+    Dec 4, 2020
+    1.7.0
+    Nov 26, 2020
+    1.6.3
+    Nov 3, 2020
+    1.6.2
+    Oct 29, 2020
+    1.6.1
+    Sep 18, 2020
+    1.6.0
+    Sep 16, 2020
+    1.5.7
+    Jul 24, 2020
+    1.5.6
+    Jun 8, 2020
+    1.5.5
+    Apr 24, 2020
+    1.5.4
+    Feb 27, 2020
+    1.5.3
+    Jan 22, 2020
+    1.5.2
+    Dec 11, 2019
+    1.5.1
+    Nov 27, 2019
+    1.5.0
+    Nov 6, 2019
+    1.4.6
+    Sep 25, 2019
+    1.4.5
+    Aug 12, 2019
+    1.4.4
+    Jun 19, 2019
+    1.4.3
+    Jun 17, 2019
+    1.4.2
+    May 9, 2019
+    1.4.1
+    Apr 29, 2019
+    1.4.0
+    Mar 4, 2019
+    1.3.4
+    Jan 17, 2019
+    1.3.3
+    Jan 15, 2019
+    1.3.2
+    Dec 19, 2018
+    1.3.1
+    Nov 6, 2018
+    1.3.0
+    Oct 3, 2018
+    1.2.8
+    Aug 3, 2018
+    1.2.6
+    Jul 11, 2018
+    1.2.5
+    May 29, 2018
+    1.2.4
+    May 21, 2018
+    1.2.3
+    May 18, 2018
+    1.2.2
+    May 17, 2018
+    1.2.1
+    Mar 22, 2018
+    1.2.0
+    Feb 26, 2018
+    1.1.9
+    Feb 12, 2018
+    1.1.8
+    Jan 16, 2018
+    1.1.7
+    Dec 6, 2017
+    1.1.6
+    Oct 30, 2017
+    1.1.5
+    Sep 28, 2017
+    1.1.4
+    Sep 12, 2017
+    1.1.3
+    Sep 9, 2017
+    1.1.2
+    Sep 8, 2017
+    1.1.1
+    Aug 3, 2017
+    1.1.0
+    Jul 19, 2017
+    1.0.18
+    Jul 6, 2017
+    1.0.17
+    May 30, 2017
+    1.0.16
+    May 2, 2017
+    1.0.15
+    Apr 28, 2017
+    1.0.13
+    Apr 27, 2017
+    1.0.14
+    Apr 27, 2017
+    1.0.12
+    Apr 26, 2017
+    1.0.11
+    Mar 30, 2017
+    1.0.10
+    Feb 24, 2017
+    1.0.9
+    Jan 24, 2017
+    1.0.8
+    Jan 19, 2017
+    1.0.7
+    Dec 20, 2016
+    1.0.6
+    Dec 14, 2016
+    1.0.5
+    Dec 2, 2016
+    1.0.4
+    Nov 29, 2016
+    1.0.3
+    Oct 22, 2016
+    1.0.2
+    Oct 20, 2016
+    1.0.1
+    Sep 10, 2016
+    1.0.0
+    Sep 5, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Sep 5, 2016
+
+Worldwide Release Date
+    Sep 5, 2016
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    1.10.8
+
+Size
+    215.55 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Indonesian, Italian, Japanese, Korean, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Vietnamese
+
+Seller
+    NAVER Corp.
+
+Company HQ
+    South Korea
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.1 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.naver.papago
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1147874819
+Unified App ID: 1000600000550859
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Naver Papago - AI Translator | data.ai

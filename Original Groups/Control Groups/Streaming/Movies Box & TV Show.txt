@@ -1,0 +1,341 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Movies Box & TV Show
+BarbQueEntertainment (Applications)Free
+Alerts
+
+Movies Box & TV Show
+Movies Box & TV Show
+Movies Box & TV Show
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Movies Box & TV Show
+Entertainment (Applications)
+Free
+App Description
+- Discover Now Playing / Popular / Top / Trending / Upcoming / Best Of Years Movies & TV Shows
+- Quick search for movies and TV series by title
+- Watch trailers and other videos
+- Create your own watchlists for movies
+- TV series calendar
+- Detailed information about movies and TV series
+- Rate Movies/TV shows in app and explore other rating
+- Complete list of episodes for TV series with complete information about the episodes
+- Search for services where you can buy, rent, stream films and series
+- Watch videos (HD fullsreen) about movies and TV shows without leaving the app
+- Profiles of actors with their full filmography
+- Simple and user-friendly application interface
+- Browsing history
+- No account required
+
+Disclaimer:
+In the application, you cannot watch films and series for free, but you can find in the application a complete description of the series and films and also the service on which you can watch them.
+
+All movies information and images are from TMDB.org licensed under CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/
+
+This app uses the TMDb API but is not endorsed or certified by TMDb: https://www.themoviedb.org/documentation/api/terms-of-use
+Ratings
+Displayed Avg Ratings
+4.24
+Total Displayed Ratings
+29.0k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.1.9 (Feb 15, 2024)
+    - fixed some critical errors.
+    - update popular Tv Show recommendation.
+    - added new Top Movie Lists.
+    - fixed other bugs.
+Version 1.1.8 (Jan 10, 2024)
+    - added Advanced Search.
+    - added ability to change watch dates for movies and TV series episodes.
+    - fix crash in calendar tab.
+    - added new Top Movie Lists.
+    - fixed other bugs.
+Version 1.1.7 (Sep 21, 2023)
+    - added directors to Movies.
+    - added creators to TV Series.
+    - added sorting for top lists.
+    - other minor corrections and additions.
+    - added new Top Movie Lists.
+    - fixed other bugs.
+Version 1.1.6 (Aug 9, 2023)
+    - added a list of series that you haven't started watching yet.
+    - added new Top Movie Lists.
+    - fixed other bugs.
+Version 1.1.5 (Feb 19, 2023)
+    - added Lifetime subscription.
+    - added context menu in the calendar.
+    - added recommendation section to context menu.
+    - added new Top Movie Lists.
+    - fixed other bugs.
+Version 1.1.4 (Sep 29, 2022)
+    - Series list changed. Added a list with all your series, and another list that includes the series you started watching.
+    - fixed sorting in the list of movies to watch.
+    - added new Top Movie Lists.
+    - fixed other bugs.
+Version 1.1.3 (Jul 31, 2022)
+    - fixed portrait mode for iPad.
+    - added 30+ new Top Movie Lists.
+    - added minor improvements.
+    - fixed other bugs.
+Version 1.1.2 (May 3, 2022)
+    - Added New Top Movie Lists.
+    - fix other bugs.
+Version 1.1.1 (Feb 16, 2022)
+    - A new item "All Episodes” has been added to the context menu .
+    - Added Best Movies of 2022.
+    - Added New Top Movie Lists.
+    - fix other bugs.
+Version 1.1.0 (Nov 29, 2021)
+    - Added statistics for your account. (time spent watching movies / TV series, favorite genres, etc.)
+    - The list of the best TV series has been changed.
+    - Added New Top Movie Lists.
+    - fix other bugs.
+Version 1.0.9 (Oct 31, 2021)
+    - Added original titles to movies.
+    - fix crashes.
+    - fix other bugs.
+Version 1.0.8 (Sep 18, 2021)
+    - Added search by name of Movies and TV series in the lists.
+    - Added lists of the Top Movies and TV shows.
+    - fix other bugs.
+Version 1.0.7 (Aug 17, 2021)
+    - Added the ability to mark an entire season of the series as watched.
+    - Added the ability to change the sorting order of series.
+    - fix other bugs.
+Version 1.0.6 (Jul 29, 2021)
+    - now you can choose a random Movie or TV Series from your lists.
+    - fix other bugs
+Version 1.0.5 (Jul 17, 2021)
+    - Producers, directors and so on were added to the actors.
+    - Added display of user ratings of films and TV series on posters.
+    - fix other bugs.
+Version 1.0.4 (Jun 30, 2021)
+    - Added to the Movies / TvShows a list of producers, directors, etc.
+    - Added counting of the number of movies in your lists.
+    - Added a cast in Series by seasons.
+    - fix other bugs.
+Version 1.0.3 (Jun 21, 2021)
+    - Interface settings have been changed.
+    - Added Context Menu in Actor profiles.
+    - fix other bugs.
+Version 1.0.2 (May 24, 2021)
+    - Added the ability to choose the time of notifications about the release of new episodes of TV series.
+    - Fixed a bug with the launch of the video.
+    - Added display of user ratings on the page with movies and TV shows.
+    - Added display of the number of viewed episodes of TV series.
+    - fix other bugs.
+Version 1.0.1 (May 17, 2021)
+    - added Context Menu in Search
+    - fixed notifications
+    - fixed search (now new pages are loaded correctly)
+    - fixed filter by genre in own lists
+    - fix bugs 
+
+Users may also like
+Select objects to compare
+123Play
+Movies Now! Stream+ In Theater
+Zeflix
+Fetchfruit : Movies And Series
+Show Box & TV Movie Hub Cinema
+Soap.2Days
+Movies Box
+CornTime
+Vozee
+Tea TV Movies & Theater Finder
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+144 times
+on App Store category pages
+Versions
+
+    1.1.9
+    Current release
+    Feb 15, 2024
+    1.1.8
+    Jan 10, 2024
+    1.1.7
+    Sep 21, 2023
+    1.1.6
+    Aug 9, 2023
+    1.1.5
+    Feb 19, 2023
+    1.1.4
+    Sep 29, 2022
+    1.1.3
+    Jul 31, 2022
+    1.1.2
+    May 3, 2022
+    1.1.1
+    Feb 16, 2022
+    1.1.0
+    Nov 29, 2021
+    1.0.9
+    Oct 31, 2021
+    1.0.8
+    Sep 18, 2021
+    1.0.7
+    Aug 17, 2021
+    1.0.6
+    Jul 29, 2021
+    1.0.5
+    Jul 17, 2021
+    1.0.4
+    Jun 30, 2021
+    1.0.3
+    Jun 21, 2021
+    1.0.2
+    May 24, 2021
+    1.0.1
+    May 17, 2021
+
+See More
+Top In-App Purchases
+
+    1 Month Subscription
+    $0.99
+    3 Months Subscription
+    $3.99
+    6 Months Subscription
+    $7.99
+    12 Months Subscription
+    $13.99
+    Lifetime Subscription
+    $17.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    May 13, 2021
+
+Worldwide Release Date
+    May 13, 2021
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.1.9
+
+Size
+    39.42 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Englisch
+
+Seller
+    Vlad Khodiachiy
+
+Content Rating
+    Rated 9+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 10.3 oder neuer. Kompatibel mit iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPhone SE (1. Generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2. Generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3. Generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, 12,9" iPad Pro, 12,9" iPad Pro Wi‑Fi + Cellular, 9,7" iPad Pro, 9,7" iPad Pro Wi‑Fi + Cellular, iPad (5. Generation), iPad (5. Generation) Wi‑Fi + Cellular, 12,9" iPad Pro (2. Generation), 12,9" iPad Pro (2. Generation) Wi‑Fi + Cellular, 10,5" iPad Pro, 10,5" iPad Pro Wi‑Fi + Cellular, iPad (6. Generation), iPad (6. Generation) Wi‑Fi + Cellular, 11" iPad Pro, 11" iPad Pro Wi‑Fi + Cellular, 12,9" iPad Pro (3. Generation), 12,9" iPad Pro (3. Generation) Wi‑Fi + Cellular, iPad mini (5. Generation), iPad mini (5. Generation) Wi‑Fi + Cellular, iPad Air (3. Generation), iPad Air (3. Generation) Wi‑Fi + Cellular, iPad (7. Generation), iPad (7. Generation) Wi‑Fi + Cellular, 11" iPad Pro (2. Generation), 11" iPad Pro (2. Generation) Wi‑Fi + Cellular, 12,9" iPad Pro (4. Generation), 12,9" iPad Pro (4. Generation) Wi‑Fi + Cellular, iPad Air (4. Generation), iPad Air (4. Generation) Wi‑Fi + Cellular, iPad (8. Generation), iPad (8. Generation) Wi‑Fi + Cellular, 11" iPad Pro (3. Generation), 11" iPad Pro (3. Generation) Wi‑Fi + Cellular, 12,9" iPad Pro (5. Generation), 12,9" iPad Pro (5. Generation) Wi‑Fi + Cellular, iPad mini (6. Generation), iPad mini (6. Generation) Wi‑Fi + Cellular, iPad (9. Generation), iPad (9. Generation) Wi‑Fi + Cellular, iPad Air (5. Generation), iPad Air (5. Generation) Wi‑Fi + Cellular, iPad (10. Generation), iPad (10. Generation) Wi‑Fi + Cellular, 11" iPad Pro (4. Generation), 11" iPad Pro (4. Generation) Wi‑Fi + Cellular, 12,9" iPad Pro (6. Generation), 12,9" iPad Pro (6. Generation) Wi‑Fi + Cellular und iPod touch.
+
+Bundle ID
+    com.VKH.Movies.Box
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1564334567
+Unified App ID: 1000800000170852
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Movies Box & TV Show | data.ai

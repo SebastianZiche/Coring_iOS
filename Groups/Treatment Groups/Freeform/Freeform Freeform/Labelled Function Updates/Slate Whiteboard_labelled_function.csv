@@ -1,0 +1,5 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8,app_function
+1448146897,0,Slate Whiteboard,Education,2019-01-03,2019-01-03,10.94,8,0,0,0,1.0.3,2019-04-27,Fixes a bug indicating the selected color after rotation or switching back to the app from another app,0,0,0,0,0,0,0,0,0
+1448146897,0,Slate Whiteboard,Education,2019-01-03,2019-01-03,10.94,8,0,0,0,1.0.2,2019-01-15,Fixes a bug displaying text with multiple lines Accounts for device width when showing thumbnails of previous sketches,0,0,0,0,0,0,0,0,0
+1448146897,0,Slate Whiteboard,Education,2019-01-03,2019-01-03,10.94,8,0,0,0,1.0.1,2019-01-09,Fixes a crash that would sometimes happen when creating a text box.,0,0,0,0,0,0,0,0,0
+1448146897,0,Slate Whiteboard,Education,2019-01-03,2019-01-03,10.94,8,0,0,0,1.0,2019-01-03,,0,0,0,0,0,0,0,0,0

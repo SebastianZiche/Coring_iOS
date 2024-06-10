@@ -1,0 +1,412 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+みどりチャット
+YUTA MIYOSHISocial Networking (Applications)Free
+Alerts
+
+    YUTA MIYOSHI
+
+    みどりチャット
+    みどりチャット
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+No data is available.
+Loading
+Loading lots of data (this could take a moment).
+みどりチャット
+ラインID交換OKの掲示板アプリ
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+Welcome to Midori Chat, the secret chat board that everyone's using. Let's have casual conversations with many people!
+
+※This app is not intended for posting information related to dating, so please refrain from such posts. Also, posting IDs of other SNS directly on the bulletin board is prohibited.
+Ratings
+Displayed Avg Ratings
+4.35
+Total Displayed Ratings
+5.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.7 (Feb 6, 2024)
+    I have made improvements to reduce data usage.
+Version 6.6 (Jan 24, 2024)
+    We have fixed the issue where messages pinned with a pin were not displaying.
+Version 6.4 (Dec 19, 2023)
+    We have reduced data usage.
+Version 6.3 (Dec 6, 2023)
+    This update primarily includes internal improvements.
+Version 6.2 (Dec 3, 2023)
+    Minor bug fixes and optimizations have been made.
+Version 6.1 (Nov 1, 2023)
+    We have fixed a bug that caused the app to crash when attempting to make voice posts.
+Version 6.0 (Sep 4, 2023)
+    Fixed an issue where the message list was difficult to update.
+Version 5.9 (Aug 29, 2023)
+    We've fixed a bug where the app was crashing frequently.
+Version 5.8 (Aug 10, 2023)
+    Fixed an issue where sending images in DMs would fail and an issue where the number of DM notifications was incorrect.
+Version 5.7 (Jul 31, 2023)
+    We have fixed the issue where you couldn't send PNG images via direct messages.
+Version 5.6 (Jul 24, 2023)
+    We've made minor improvements.
+Version 5.4 (Jun 27, 2021)
+    Added My Music features.
+Version 5.3 (May 7, 2021)
+    bug fix.
+Version 5.2 (Apr 1, 2021)
+    bug fix.
+Version 5.1 (Nov 15, 2020)
+    Implemented random message function.
+Version 5.0 (Oct 16, 2020)
+    Added support for widgets.
+Version 4.9 (Oct 5, 2020)
+    You can now include up to 4 photos in your post (only compatible with iOS14).
+Version 4.8 (Sep 24, 2020)
+    A questionnaire function has been added.
+Version 4.7 (Sep 21, 2020)
+    bug fix.
+Version 4.6 (Sep 15, 2020)
+    bug fix.
+Version 4.5 (Sep 10, 2020)
+    You can now operate the app during a call.
+Version 4.4 (Aug 21, 2020)
+    A call function was added.
+Version 4.3 (Aug 10, 2020)
+    Added support for hash tags.
+Version 4.2 (Jul 28, 2020)
+    bug fix.
+Version 4.1 (Jul 21, 2020)
+    bug fix.
+Version 4.0 (Jun 23, 2020)
+    bug fix.
+Version 3.9 (Jun 16, 2020)
+    bug fix.
+Version 3.8 (Apr 24, 2020)
+    Support for dark mode.
+Version 3.7 (Apr 14, 2020)
+    bug fix.
+Version 3.6 (Apr 2, 2020)
+    bug fix.
+Version 3.5 (Mar 26, 2020)
+    bug fix.
+Version 3.4 (Mar 19, 2020)
+    bug fix.
+Version 3.3 (Mar 9, 2020)
+    bug fix.
+Version 3.2 (Mar 2, 2020)
+    bug fix.
+Version 3.1 (Feb 25, 2020)
+    bug fix.
+Version 3.0 (Feb 14, 2020)
+    bug fix.
+Version 2.9 (Jan 31, 2020)
+    bug fix.
+Version 2.8 (Jan 24, 2020)
+    bug fix.
+Version 2.7 (Jan 4, 2020)
+    bug fix.
+Version 2.6 (Dec 16, 2019)
+    bug fix.
+Version 2.5 (Dec 4, 2019)
+    bug fix.
+Version 2.4 (Nov 21, 2019)
+    bug fix.
+Version 2.3 (Nov 7, 2019)
+    bug fix.
+Version 2.2 (Nov 4, 2019)
+    ユーザーをお気に入りする機能を追加しました。
+    また、動作速度を改善しました。
+Version 2.1 (Oct 17, 2019)
+    いいねとリプライの通知画面を実装しました。
+    その他様々な改善を行いました。
+Version 2.0 (Oct 4, 2019)
+    不具合を修正しました。
+Version 1.9 (Sep 30, 2019)
+    過去の投稿が見れるようになりました。
+Version 1.8 (Sep 25, 2019)
+    掲示板にカテゴリを追加しました。
+Version 1.7 (Aug 26, 2019)
+    音声による自己紹介機能を追加しました。
+Version 1.5 (Aug 20, 2019)
+    未読件数表示に関する不具合を修正しました。
+Version 1.6 (Aug 20, 2019)
+    いいね機能を実装しました。
+Version 1.4 (Aug 10, 2019)
+    メッセージ一覧に未読件数が表示されるようになりました。
+Version 1.3 (Aug 1, 2019)
+    軽微な修正を行いました。
+Version 1.2 (Jul 17, 2019)
+    不具合修正
+Version 1.1 (Jul 6, 2019)
+    さがす画面を実装しました。
+Version 1.0 (Jul 4, 2019)
+
+Users may also like
+Select objects to compare
+ひま友とおしゃべり！チャットsnsは かまってちゃん
+ひま友チャット - 友達探しトークチャットSNS
+スーパーひまちゃ
+ひまチャット - 最強チャットで今すぐ暇つぶし！
+MONIE (モニー) - 友達探し掲示板SNS
+ダラチャ：メル友とマッチングできる出会いチャットアプリ
+電話で友達探しひまチャット掲示板 - PartyChat
+よっ友チャット - 出会わない系チャットトークアプリ
+匿名電話チャットアプリ - アノニム
+朝に消えるマッチングチャット：Chat（ちゃっと）わん！！
+IQ Classifications
+Genre: Social Media
+Subgenre: Other Social
+Other Social
+Other social apps that do not fit in other existing Social subgenres.
+Downloads Rank
+N/A
+Store Revenue Rank
+N/A
+Loading
+Loading lots of data (this could take a moment).
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    6.7
+    Current release
+    Feb 6, 2024
+    6.6
+    Jan 24, 2024
+    6.4
+    Dec 19, 2023
+    6.3
+    Dec 6, 2023
+    6.2
+    Dec 3, 2023
+    6.1
+    Nov 1, 2023
+    6.0
+    Sep 4, 2023
+    5.9
+    Aug 29, 2023
+    5.8
+    Aug 10, 2023
+    5.7
+    Jul 31, 2023
+    5.6
+    Jul 24, 2023
+    5.4
+    Jun 27, 2021
+    5.3
+    May 7, 2021
+    5.2
+    Apr 1, 2021
+    5.1
+    Nov 15, 2020
+    5.0
+    Oct 16, 2020
+    4.9
+    Oct 5, 2020
+    4.8
+    Sep 24, 2020
+    4.7
+    Sep 21, 2020
+    4.6
+    Sep 15, 2020
+    4.5
+    Sep 10, 2020
+    4.4
+    Aug 21, 2020
+    4.3
+    Aug 10, 2020
+    4.2
+    Jul 28, 2020
+    4.1
+    Jul 21, 2020
+    4.0
+    Jun 23, 2020
+    3.9
+    Jun 16, 2020
+    3.8
+    Apr 24, 2020
+    3.7
+    Apr 14, 2020
+    3.6
+    Apr 2, 2020
+    3.5
+    Mar 26, 2020
+    3.4
+    Mar 19, 2020
+    3.3
+    Mar 9, 2020
+    3.2
+    Mar 2, 2020
+    3.1
+    Feb 25, 2020
+    3.0
+    Feb 14, 2020
+    2.9
+    Jan 31, 2020
+    2.8
+    Jan 24, 2020
+    2.7
+    Jan 4, 2020
+    2.6
+    Dec 16, 2019
+    2.5
+    Dec 4, 2019
+    2.4
+    Nov 21, 2019
+    2.3
+    Nov 7, 2019
+    2.2
+    Nov 4, 2019
+    2.1
+    Oct 17, 2019
+    2.0
+    Oct 4, 2019
+    1.9
+    Sep 30, 2019
+    1.8
+    Sep 25, 2019
+    1.7
+    Aug 26, 2019
+    1.5
+    Aug 20, 2019
+    1.6
+    Aug 20, 2019
+    1.4
+    Aug 10, 2019
+    1.3
+    Aug 1, 2019
+    1.2
+    Jul 17, 2019
+    1.1
+    Jul 6, 2019
+    1.0
+    Jul 4, 2019
+
+See More
+Top In-App Purchases
+
+    プレミアムオプション
+    $14.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jul 4, 2019
+
+Worldwide Release Date
+    Jul 4, 2019
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    6.7
+
+Size
+    88.17 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese
+
+Seller
+    YUTA MIYOSHI
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    info.gamestudio.MidoriChat
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1470725326
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+みどりチャット | data.ai

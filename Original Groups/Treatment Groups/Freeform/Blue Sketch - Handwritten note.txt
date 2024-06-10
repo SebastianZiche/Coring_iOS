@@ -1,0 +1,513 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Blue Sketch - Handwritten note
+Hituzi ANDOProductivity (Applications)Free
+Alerts
+
+    Hituzi ANDO
+
+    Blue Sketch - Handwritten note
+    Blue Sketch - Handwritten note
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Blue Sketch - Handwritten note
+Sketch your idea!
+Productivity (Applications)
+Free
+App Description
+Sketch your idea!
+You can write freely and quickly because it is handwritten.
+You can concentrate on writing because it is the minimum function that can write only white lines on the blue canvas.
+
+Functions List:
+
+- Can be used as a notebook or notepad
+
+- Pen tool: draw a line
+
+- Straight line tool
+
+- Rectangle and Ellipse Tools
+
+- Switch between solid/dotted lines
+
+- Can change the size of the pen
+
+- Undo / Redo
+
+- Can change the page size
+
+- Can scale the page
+
+- Image sharing: Share an image as PNG, JPG, or PDF format. Also, you can share monochrome converted images.
+
+- List documents
+
+- List recently opened documents
+
+- Organize: Document folders
+
+- Sort documents and folders
+
+- Title documents and folders
+
+- Delete the document then put it into the trash box.
+
+- Restore the deleted document from the trash box.
+
+- Delete the document entirely in the trash box.
+
+- Copy documents: You can duplicate the document. Tap the copy button at the bottom right of the note screen to duplicate it.
+
+- Read-only mode: While in read-only mode, you can disable writing and prevent erroneous operations. You can change the settings by tapping the title on the note screen.
+
+- Option to use only Apple Pencil: Only available for iPad compatible with Apple Pencil.
+
+- Double tap the Apple Pencil 2 to smoothly switch between pen and eraser.
+
+- Can turn off/on the function the app puts the device into a sleep state if you don't touch the screen for a certain period while the page is displayed.
+
+About In-App Purchase:
+
+The first 20 pages can be used free of charge. After that, adding pages will be paid content.
+Please support the developer.
+Ratings
+Displayed Avg Ratings
+4.58
+Total Displayed Ratings
+335
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.2.0 (Oct 7, 2023)
+    Change:
+    - You can now change directly to the tool you want to switch to.
+
+    Bug fix:
+    - Fixed a bug that the UI slightly overlaps with Dynamic Island.
+Version 3.1.2 (Jun 1, 2023)
+    Bug fix:
+    Fixed some UI bugs.
+Version 3.1.0 (Jan 19, 2023)
+    The eraser tool has been revived!
+Version 3.0.2 (Jan 16, 2023)
+    ver.3.0.2
+
+    Bug fix:
+    Fixed minor UI bugs.
+
+    ver.3.0.0
+
+    New Feature:
+    - Rectangle and Ellipse tools have been added!
+    - The background grid can now be turned on and off.
+
+    Change:
+    - The Eraser tool has been removed for future functionality. If you want to delete a path, please use the Selection tool or Undo.
+    - New App icon.
+
+    Bug fix:
+    Other minor fixes have been made.
+Version 3.0.0 (Jan 11, 2023)
+    New Feature:
+    - Rectangle and Ellipse tools have been added!
+    - The background grid can now be turned on and off.
+
+    Change:
+    - The Eraser tool has been removed for future functionality. If you want to delete a path, please use the Selection tool or Undo.
+    - New App icon.
+
+    Bug fix:
+    Other minor fixes have been made.
+Version 2.4.8 (Dec 8, 2022)
+    Bug fix:
+    Fixed a bug that prevented some stylus pens from working.
+Version 2.4.8 (Dec 8, 2022)
+    Bug fix:
+    Fixed a bug that prevented some stylus pens from working.
+Version 2.4.6 (May 12, 2022)
+    Change:
+    - Changed that the selection tool selects objects completely enclosed only.
+    - Changed to display Yes / No dialog when the new button is pressed.
+Version 2.4.4 (Apr 27, 2022)
+    Bug fix:
+    Fixed a bug where the purchase screen would close as soon as it was opened when offline.
+Version 2.4.2 (Mar 31, 2022)
+    Bug fix:
+    Fixed a bug that the title disappears when you tap the title of the document.
+Version 2.4.0 (Mar 24, 2022)
+    You can now list recently opened documents.
+
+    Change:
+    - You can now move directly from the canvas screen to the folder list screen.
+    - You can now move directly from the canvas screen to the purchase screen.
+    - Changed some UI.
+Version 2.4.0 (Mar 24, 2022)
+    You can now list recently opened documents.
+
+    Change:
+    - You can now move directly from the canvas screen to the folder list screen.
+    - You can now move directly from the canvas screen to the purchase screen.
+    - Changed some UI.
+Version 2.3.0 (Nov 11, 2021)
+    - Added the selection tool! You can now select multiple paths and delete them all at once.
+    - Added ON/OFF option for the pen pressure.
+    - If you are using the keyboard, you can now create new document with cmd+N, undo with cmd+Z, and redo with cmd+shift+Z.
+
+    Change:
+    - Changed the minimum size of the eraser.
+    - Changed that you cannot undo to the state before the document was loaded.
+
+    Bug fix:
+    Fixed some minor bugs.
+Version 2.2.2 (Oct 1, 2021)
+    - Supported iOS 15.
+    - Changed the minimum supported OS to iOS 14.1.
+    - Changed the default page size to A1.
+    - Fixed some display bugs.
+Version 2.2.0 (May 17, 2021)
+    You can add a timestamp to a file name when exporting.
+Version 2.1.6 (May 13, 2021)
+    Bug fix:
+    Fixed a crash bug.
+Version 2.1.4 (May 12, 2021)
+    Bug fix:
+    Fixed a bug that unnecessary lines (dust) may be drawn when scrolling or zooming.
+Version 2.1.1 (Feb 15, 2021)
+    Fixed some minor bugs, such as a bug that caused the display to collapse when the device orientation was changed while displaying gesture instructions.
+Version 2.1.0 (Dec 20, 2020)
+    - You can now change the size of the pen and eraser.
+    - The GUI is hidden while writing.
+Version 2.0.0 (Oct 5, 2020)
+    Version 2 released! Blue Sketch has been upgraded!
+
+    - Can change the page size
+    - Can scale the page
+    - Can export the entire page
+    - The trash box has been implemented
+    - Can turn off/on the function the app puts the device into a sleep state if you don't touch the screen for a certain period while the page is displayed
+    - Good news for Apple Pencil 2 users! Double tap the Apple Pencil to smoothly switch between pen and eraser
+
+    [Important Notice]
+    From this version, adding pages will be paid content.
+    Free gift for the first 20 pages!
+    In addition, you can use the documents you have created so far for free.
+    Please support the developer.
+Version 1.2.4 (Jul 27, 2020)
+    Improved performance when using Apple Pencil.
+Version 1.2.3 (Jun 28, 2020)
+    Fixed that it is not case-sensitive when sorting by title.
+Version 1.2.2 (May 22, 2020)
+    FIXED:
+    - Fixed a bug that first written line cannot be undone.
+    - Fixed a bug that sometimes an unintended straight line was drawn.
+Version 1.2.1 (May 17, 2020)
+    Improved performance.
+Version 1.2.0 (May 4, 2020)
+    NEW FEATURES:
+    - You can sort documents and folders in ascending or descending order.
+    - Save the sort settings of document and folder list.
+
+    FIXED:
+    - Fixed a bug of UI.
+Version 1.1.8 (Apr 29, 2020)
+    FIXED:
+    Fixed a bug that could not be erased with the eraser.
+Version 1.1.7 (Apr 26, 2020)
+    NEW FEATURES:
+    - Enhanced export function: Previously, only PNG output was possible, but now it is also possible to output in JPG and PDF format. Also, you can output monochrome converted images.
+
+    FIXED:
+    - Fixed the problem that the operation becomes heavy when writing heavily in one document.
+Version 1.1.6 (Apr 19, 2020)
+    NEW FEATURES:
+    - Added the option to use only Apple Pencil.
+
+    FIXED:
+    - Fixed a crash bug when exporting and then saving an image.
+Version 1.1.5 (Apr 1, 2020)
+    Added two new features!
+    - Read-only mode: While in read-only mode, you can disable writing and prevent erroneous operations. You can change the settings by tapping the title on the note screen.
+    - Copy documents: You can duplicate the document. Tap the copy button at the bottom right of the note screen to duplicate it.
+Version 1.1.4 (Mar 4, 2020)
+    Improved performance.
+Version 1.1.3 (Feb 27, 2020)
+    Improved writing and drawing comfort!
+Version 1.1.2 (Feb 26, 2020)
+    Bug Fixed:
+    Fixed a bug that the eraser doesn't erase cleanly.
+Version 1.1.1 (Feb 24, 2020)
+    You can easily draw dotted and straight lines!
+Version 1.1.0 (Feb 21, 2020)
+    New Feature:
+    You can organize your notes by folder!
+Version 1.0.8 (Jan 31, 2020)
+    Fixed bugs.
+Version 1.0.7 (Jan 30, 2020)
+    Modified the layout of the collection page.
+Version 1.0.6 (Jan 12, 2020)
+    You can title your canvas!
+Version 1.0.5 (Jan 9, 2020)
+    - Fixed a bug of export function.
+    - Performance improvements.
+Version 1.0.4 (Jan 8, 2020)
+    Fixed to maintain aspect ratio when rotating canvas.
+Version 1.0.3 (Jan 6, 2020)
+    New:
+    - You can sort collections.
+
+    Fix:
+    - Fixed a bug that the background became transparent when exporting images.
+    - Fixed the layout.
+Version 1.0.2 (Dec 22, 2019)
+    Fixed bugs.
+Version 1.0.1 (Dec 20, 2019)
+    Fixed bugs.
+Version 1.0.0 (Dec 19, 2019)
+
+Users may also like
+Select objects to compare
+Archisketch
+Draft Paper
+Structure Graphing
+iPocket Draw Lite
+ArchiTouch 3D - Home Design
+HomeCAD — Design your home
+Autodesk FormIt
+Planit2d Lite
+Arrette Sketch drafting tools
+WoodPicker
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.2.0
+    Current release
+    Oct 7, 2023
+    3.1.2
+    Jun 1, 2023
+    3.1.0
+    Jan 19, 2023
+    3.0.2
+    Jan 16, 2023
+    3.0.0
+    Jan 11, 2023
+    2.4.8
+    Dec 8, 2022
+    2.4.8
+    Dec 8, 2022
+    2.4.6
+    May 12, 2022
+    2.4.4
+    Apr 27, 2022
+    2.4.2
+    Mar 31, 2022
+    2.4.0
+    Mar 24, 2022
+    2.4.0
+    Mar 24, 2022
+    2.3.0
+    Nov 11, 2021
+    2.2.2
+    Oct 1, 2021
+    2.2.0
+    May 17, 2021
+    2.1.6
+    May 13, 2021
+    2.1.4
+    May 12, 2021
+    2.1.1
+    Feb 15, 2021
+    2.1.0
+    Dec 20, 2020
+    2.0.0
+    Oct 5, 2020
+    1.2.4
+    Jul 27, 2020
+    1.2.3
+    Jun 28, 2020
+    1.2.2
+    May 22, 2020
+    1.2.1
+    May 17, 2020
+    1.2.0
+    May 4, 2020
+    1.1.8
+    Apr 29, 2020
+    1.1.7
+    Apr 26, 2020
+    1.1.6
+    Apr 19, 2020
+    1.1.5
+    Apr 1, 2020
+    1.1.4
+    Mar 4, 2020
+    1.1.3
+    Feb 27, 2020
+    1.1.2
+    Feb 26, 2020
+    1.1.1
+    Feb 24, 2020
+    1.1.0
+    Feb 21, 2020
+    1.0.8
+    Jan 31, 2020
+    1.0.7
+    Jan 30, 2020
+    1.0.6
+    Jan 12, 2020
+    1.0.5
+    Jan 9, 2020
+    1.0.4
+    Jan 8, 2020
+    1.0.3
+    Jan 6, 2020
+    1.0.2
+    Dec 22, 2019
+    1.0.1
+    Dec 20, 2019
+    1.0.0
+    Dec 19, 2019
+
+See More
+Top In-App Purchases
+
+    10 pages
+    $0.99
+    30 pages
+    $1.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 18, 2019
+
+Worldwide Release Date
+    Dec 18, 2019
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    3.2.0
+
+Size
+    11.79 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese
+
+Seller
+    Masaki Ando
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.1 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.hituzi.BlueSketch
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1491913803
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Blue Sketch - Handwritten note | data.ai

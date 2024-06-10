@@ -1,0 +1,439 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Lekh: intelligent whiteboard
+LEKHAPPProductivity (Applications)Free
+Alerts
+
+    Lekh: intelligent whiteboard
+    Lekh: intelligent whiteboard
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Lekh: intelligent whiteboard
+Diagramming & Collaboration
+Productivity (Applications)
+Free
+App Description
+Lekh is an online whiteboard and intelligent diagramming tool for iPad, iPhone and Mac. It empowers you to express your ideas simply by sketching shapes with your finger. The best in class shape recognition technology of the Lekh will recognize your rough sketches and will convert them into shapes.
+
+You can use Lekh to:
+• Draw diagrams on device in offline mode
+• Online whiteboarding for visual collaboration
+
+Offline mode:
+You can use the offline mode to draw diagrams. You can use smart drawing mode to simply sketch and get high quality diagrams like flowchart, block diagrams, system architecture and mindmaps. You can also drag drop shapes from the shape library to create diagrams like UML, Network, UI Wireframe, flow chart, organizational chart, business process diagram, venn diagram, mind maps and any kind of illustrations.
+
+Online mode:
+You get a shared canvas (we call it Lekh Board) on which multiple users can draw at the same time. You can draw anything on it. You can draw all kinds of diagrams that you can draw in offline mode or you can simply scribble on it. You can also add sticky notes on the canvas. You can control the sharing of the board that means you can set write permission or read only permission to others.
+
+Use the online mode for following:
+• Store your drawings on the cloud and access them from other devices such as desktop, any mobile device etc.
+• Collaborate with others in real time. Multiple users can draw the canvas at the same time.
+• Share your drawings with others.
+
+Lekh’s powerful and unique shape recognition engine can recognize various shapes and connections. Draw shapes and connections by dragging your finger on iPad/iPhone and the Lekh will recognize drawing and will convert them magically into beautiful shapes.
+
+These shapes will be recognized: Line, Polyline, Polygon, Bezier Curve, Circle, Ellipse, Rectangle, Triangle, All types of connection lines between shapes, drawing / erasing arrows etc. For the full list please check in-app help.
+
+You can export the drawings in various formats. The supported formats are jpg, png, pdf, svg and Lekh.
+
+We appreciate every feedback we receive. Your constant interest and improvement ideas keep the updates coming.
+
+Check out https://lekh.app for more info.
+
+Reach out to us at info@lekhapp.com for any query.
+
+Visit our youtube channel https://www.youtube.com/channel/UCiNazNZGwEkefO_kJXXdX6g for video demos.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Ratings
+Displayed Avg Ratings
+4.3
+Total Displayed Ratings
+81
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.4.7 (Jan 30, 2024)
+    Adding a settings for default font size
+Version 3.4.6 (Jan 12, 2024)
+    Bug fixes
+Version 3.4.2 (Dec 16, 2023)
+    Adding canvas scaling option
+Version 3.4.1 (Dec 6, 2023)
+    - Adding option of flipping shapes for line and poly lines
+Version 3.4.0 (Dec 2, 2023)
+    Custom Shape Library. You can save your shapes into your shape library.
+Version 3.3.5 (Nov 18, 2023)
+    - Now you can export without opening a board.
+    - You can bulk export all boards in a folder
+    - Remember previous export settings
+Version 3.2.5 (Jun 24, 2023)
+    bug fixes
+Version 3.2.4 (Jun 11, 2023)
+    Adding a setting to prevent the screen to turn off while canvas is open
+Version 3.2.3 (Jun 3, 2023)
+    Bug fixes
+Version 3.2.2 (Jun 1, 2023)
+    Bug fixes
+Version 3.2.1 (May 3, 2023)
+    Bug fixes
+Version 3.2.0 (Apr 20, 2023)
+    - New UI for the canvas screen
+    - Mouse support: mouse wheel scroll, right click to open context menu, Cmd +left mouse drag to scroll etc
+    - Keyboard support: Various shortcut keys
+    - Pencil mode: draw with pencil and scroll with finger touch
+Version 3.1.1 (Dec 14, 2022)
+    - Stability fixes
+    - Sign in with Apple
+    - Option to delete account
+Version 3.1.0 (Sep 14, 2022)
+    - Removing the requirement of In-App-Purchase to export files
+    - Adding a tag to show integration details of Lekh Diagram with other softwares
+Version 3.0.0 (May 10, 2022)
+    Cloud and collaboration feature. Now you can store your drawings in the cloud and share them with other users. Also multiple remote users can draw and collaborate in real time.
+Version 2.4.1 (Apr 26, 2022)
+    Bug fixes
+Version 2.4.0 (Apr 19, 2022)
+    - Support for infinite canvas
+    - Scribbling mode. Draw without shape recognition
+    - Erase mode. Erase shapes by dragging touch on screen
+Version 2.3.6 (Nov 10, 2021)
+    Bug fix for z-index of shapes getting messed up in few cases
+Version 2.3.5 (Sep 18, 2021)
+    Adding UML in shape template
+Version 2.3.4 (Sep 8, 2021)
+    - Minor bug fixes
+    - Added more details about the Lekh Board on the Lekh Board tab
+Version 2.3.3 (Jul 25, 2021)
+    Minor bug fixes
+Version 2.3.2 (Jul 13, 2021)
+    - Bug fixes
+    - Shape recognition improvement
+Version 2.3.1 (Jun 29, 2021)
+    - Multi stroke shape recognition. You can draw each side of a polygon or poly line separately. Draw a line and then draw another from the ending of the previous line, now both lines will be joined.
+
+    - Increasing accuracy of the shape recognition.
+
+    - Recognizing connection of any kind. Now you can draw any connection and the Lekh Diagram will recognize the connection. You can even draw connection using multiple strokes of drawing.
+
+    - Adding a page to show the details of Lekh Board app
+Version 2.3.0 (Dec 7, 2020)
+    - User interface re-design.
+    - Support for multiple pages in a single diagram file.
+    - Page size support. Now you can set a fixed page size of a canvas for example A4, A3, Letter etc.
+    - Support different types of arrows at the end of a connection line.
+    - Support for setting margin lines on canvas.
+    - Support for drag and drop from shape library to canvas.
+    - Grid lines on any background.
+    - Change canvas orientation (landscape and portrait) for fixed page size.
+Version 2.2.11 (Sep 14, 2020)
+    Adding a setting option to not reduce resolution of inserted image
+Version 2.2.10 (Jul 28, 2020)
+    - Container shapes in shape library.
+    - Adding a settings to use pencil for drawing in selection mode.
+Version 2.2.9 (Jul 11, 2020)
+    Fix for purchase dialog not showing text in dark mode
+Version 2.2.8 (Jul 3, 2020)
+    - Ability to add text anywhere on connection line
+    - Ability to move text on connection line
+    - Ability to add text on curve connection
+    - Ability to move the connection end point anywhere on shape
+    - Import using Files app
+    - Export using iOS native export UI
+Version 2.2.6 (Sep 12, 2019)
+    Improved interaction with selected shapes on canvas. Now drag the corners to resize shapes and drag the rotation icon to rotate.
+Version 2.2.5 (Feb 26, 2018)
+    - Fix for shape help option not showing in some cases
+    - Improvement in shape recognition
+Version 2.2.4 (Feb 17, 2018)
+    - Shape template library for UI wireframing
+    - Ability to add font awesome icons into diagram
+    - Search in shape library
+    - Copy-paste: long press on shape to get copy option
+    - Snap to alignment lines
+    - Fix dropbox integration
+Version 2.2.3 (Feb 15, 2017)
+    Fixing a bug of not drawing shape library properly in some cases.
+Version 2.2.2 (Feb 12, 2017)
+    Enhancing shape library with following icons - aws, azure, gcp, network infrastructure, citrix, signs and pictograph, office, server rack and web icons
+Version 2.2.1 (Dec 10, 2016)
+    Text alignment: you can set vertical or horizontal text alignment.
+Version 2.1 (Feb 17, 2015)
+    • iOS 8 compatible
+    • Enabling grouping/un-grouping of shapes. After selecting multiple shapes, the shape menu will provide grouping functionality.
+    • Minor improvement in stroke and color popovers
+Version 2.0 (Dec 6, 2013)
+    • iOS 7 compatible
+    • Library of basic and flowchart shapes
+    • Snap to grid capability
+    • Auto grow canvas and improved canvas zooming experience
+    • New input mode - scrolling. Scroll canvas with one finger pan
+Version 1.3.1 (Sep 7, 2013)
+    Fix for font and text problem in SVG export
+Version 1.3.0 (Apr 9, 2013)
+    • Enabling resizing of shape independently in horizontal and vertical directions (tap black dot on selection rectangle, a dotted rectangle will appear, then drag the dotted rectangle)
+
+    • Integration with Box. Diagrams can be exported to Box and can be imported from Box
+
+    • Fix Dropbox export. If diagram file already exists, then update the same file rather than creating a new file.
+
+    • Misc bug fixes
+Version 1.2.0 (Mar 4, 2013)
+    iPhone support
+    Zooming drawing canvas
+    bug fixes
+Version 1.0.1 (Dec 7, 2012)
+    Following bug fixes:
+    Fix for layout issue when app starts in landscape mode in IOS6,
+    Fix for performance issue on retina display iPads,
+    Few other minor bug fixes
+
+Version 1.0 (Nov 27, 2012)
+
+Users may also like
+Select objects to compare
+Diagrams Notepad 3
+XDiagram Create flowcharts
+Flow Chart, Block Diagram
+MindFlow - Struct Flow Diagram
+Flowdia Diagrams
+System Designer
+TouchDraw 2
+PureFlow
+Grafio 4 - Diagram Maker
+ThinkSpace: Next-gen Mind Map
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.4.7
+    Current release
+    Jan 30, 2024
+    3.4.6
+    Jan 12, 2024
+    3.4.2
+    Dec 16, 2023
+    3.4.1
+    Dec 6, 2023
+    3.4.0
+    Dec 2, 2023
+    3.3.5
+    Nov 18, 2023
+    3.2.5
+    Jun 24, 2023
+    3.2.4
+    Jun 11, 2023
+    3.2.3
+    Jun 3, 2023
+    3.2.2
+    Jun 1, 2023
+    3.2.1
+    May 3, 2023
+    3.2.0
+    Apr 20, 2023
+    3.1.1
+    Dec 14, 2022
+    3.1.0
+    Sep 14, 2022
+    3.0.0
+    May 10, 2022
+    2.4.1
+    Apr 26, 2022
+    2.4.0
+    Apr 19, 2022
+    2.3.6
+    Nov 10, 2021
+    2.3.5
+    Sep 18, 2021
+    2.3.4
+    Sep 8, 2021
+    2.3.3
+    Jul 25, 2021
+    2.3.2
+    Jul 13, 2021
+    2.3.1
+    Jun 29, 2021
+    2.3.0
+    Dec 7, 2020
+    2.2.11
+    Sep 14, 2020
+    2.2.10
+    Jul 28, 2020
+    2.2.9
+    Jul 11, 2020
+    2.2.8
+    Jul 3, 2020
+    2.2.6
+    Sep 12, 2019
+    2.2.5
+    Feb 26, 2018
+    2.2.4
+    Feb 17, 2018
+    2.2.3
+    Feb 15, 2017
+    2.2.2
+    Feb 12, 2017
+    2.2.1
+    Dec 10, 2016
+    2.1
+    Feb 17, 2015
+    2.0
+    Dec 6, 2013
+    1.3.1
+    Sep 7, 2013
+    1.3.0
+    Apr 9, 2013
+    1.2.0
+    Mar 4, 2013
+    1.0.1
+    Dec 7, 2012
+    1.0
+    Nov 27, 2012
+
+See More
+Top In-App Purchases
+
+    Lekh Premium for one month
+    $3.99
+    Lekh Premium for one year
+    $34.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Nov 27, 2012
+
+Worldwide Release Date
+    Nov 27, 2012
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    3.4.7
+
+Size
+    14.69 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    LEKHAPP LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.4 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.avabodh.lekh
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 576124115
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Lekh: intelligent whiteboard | data.ai

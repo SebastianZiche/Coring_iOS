@@ -1,0 +1,121 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.84,2023-10-22,Improving photo sharing from other apps like Google Photos,0,0,0,1,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.82,2023-10-18,Fixing crash on iOS 13,0,0,0,1,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.80,2023-10-17,Minor fixes for Dust and Time Stamp tools,0,0,0,1,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.78,2023-10-12,Resolving startup crashes on devices running iOS 13,0,0,0,1,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.76,2023-10-11,Fixed brown lines that sometimes appear in exported images when Vintage lens tool is used,0,0,0,1,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.74,2023-10-07,Maintenance update,0,0,0,1,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.72,2023-10-06,Fixing sharing from Photos for some videos Fixing export bugs,0,0,0,1,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.70,2023-09-27,Fixing sharing from Photos app on iOS 17,0,0,0,1,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.68,2023-09-24,Fixed RAW editing behaviour on iOS 17,0,0,1,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.66,2023-09-06,Video play pause. Introducing the video countdown button: track your videos easily tap it to play pause wherever you like,0,0,1,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.64,2023-08-27,Maintenance update,0,0,1,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.60,2023-08-13,Fixing Social Share option on the purchase screen,0,1,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.54,2023-08-10,Improved stability of media sharing from the Photos app,0,1,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.52,2023-07-31,HDR video export improvement Fixed update of video asset during export,0,1,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.50,2023-07-27,Adding an asset to the RNI Films album when updating an existing asset during export,1,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.48,2023-07-19,Ability to set more refined values for tool sliders,1,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.46,2023-07-09,Ability to update existing asset or save as new Improved sharing from Photos app,1,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.44,2023-06-02,Minor UI improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.42,2023-05-30,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.40,2023-05-25,Forcing all HDR videos to play in SDR mode to provide high fidelity editing experience,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.38,2023-05-23,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.28,2023-04-13,Fixing photo export issues that may prevent saving pictures in some circumstances,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.26,2023-04-07,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.24,2023-04-05,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.20,2023-03-06,Fixing video export on older devices,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.18,2023-02-26,Video grading got more tools: Clarity Sharpen Soften,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.16,2023-02-21,Improved editing experience when sharing photos from the Photos app minor edit feed enhancements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.14.2,2023-02-17,This update brings support of Vintage Lens and Vignette to your video grading pipeline. Try them out today! Also fixing video export crash on some devices.,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.12,2023-02-10,Performance improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.8,2023-02-09,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.4,2023-02-03,Fixing appearance of the RAW images in the viewport,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,4.0.0.0,2023-02-01,The app now supports video grading beta . More video focused tools and features will be added later,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.32,2023-01-27,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.30,2023-01-21,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.28,2023-01-08,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.26,2022-12-11,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.25,2022-11-27,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.24,2022-11-19,Bug fixes and improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.23,2022-10-18,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.22,2022-10-10,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.21,2022-10-08,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.20,2022-10-06,Productivity improvement: it is now possible to send image for editing in RNI FILMS app directly from the Photos app via Share Sheet.,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.19,2022-10-03,RAW edits can now be applied to non RAW images and vice versa,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.18,2022-09-11,Maintenance release,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.17,2022-09-08,Improved slider functionality for PRE WARMTH and PRE TINT tools for RAW images,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.16,2022-08-18,Compatibility compliance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.15,2022-05-30,Sharpen tool bugfix,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.14,2022-05-23,Usability improvement: double tap on tool slider will resets its value to default,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.13,2022-04-30,Fixing bug in films and tools feeds on some devices introduced in version 3.0.12,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.12,2022-04-27,Improved export quality on modern devices,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.11,2022-04-06,Maintenance release,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.10,2022-04-04,Minor Unlock button bugfix,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.9,2022-03-28,fixing bug with default highlight value for raw images,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.8,2022-03-22,Replacing crop rotate rations 3 2 and 2 3 with 16 9 and 9 16 respectively,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.7,2022-03-21,Minor crop rotate alignment improvement,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.6,2022-02-18,Fixing rare issue when multiple RNI FIlms albums get created when exporting to Camera Roll,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.5,2022-01-11,bug fixes,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.4,2021-12-31,bug fixes,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,3.0.3,2021-12-30,making Date Stamp optional other improvements and bugfixes,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.26,2021-04-03,Updating 3rd party SDKs,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.25,2021-03-25,Updating app privacy details,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.24,2021-01-12,Fixing export to Instagram,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.23,2020-12-21,Improving support for ProRAW files,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.22,2020-11-11,crop rotate screen improvements for iPhone 12,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.21,2020-10-28,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.20,2020-10-27,Improved quality of Sharpen tool,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.19,2020-10-23,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.18,2020-10-18,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.17,2020-10-16,Picker improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.16,2020-10-14,Picker improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.15,2020-10-11,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.14,2020-10-06,Bugfixes and improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.13,2020-10-02,Facebook share fix Fixing opening of some RAW images,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.12,2020-09-24,Fixing Facebook share unlock for Slide filter pack,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.11,2020-09-23,Fixing image orientation for some exported images on iPads,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.10,2020-09-22,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.9,2020-08-29,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.8,2020-06-25,Maintenance release,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.7,2020-06-21,maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.6,2020-06-12,Maintenance update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.5,2020-03-23,maintenance release,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.4,2020-02-13,Improvements and bugfixes,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.2,2019-12-30,iPad support bugfixes and improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0.1,2019-12-28,iPad support ho ho ho... we re working continuously on fixing bugs and improving the app performance,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,2.0,2019-12-23,iPad support,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.41,2019-11-30,minor enhancments,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.40,2019-11-27,Fixed timestamp of exported images,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.39,2019-11-11,Fixed burst photo export Improved metadata export,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.38,2019-11-06,Performance improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.36,2019-11-04,Fixing Strength tool for RAW images,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.35,2019-10-25,Photo picker improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.34,2019-10-15,Bugfixes and improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.33,2019-10-12,Bugfixes and improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.32,2019-10-06,fixing purchase restore,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.31,2019-10-05,Bugfixes and improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.3,2019-10-02,Bugfixes and improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.2,2019-09-30,Some fixes and improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.1,2019-09-25,iOS 13 support,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.9.0,2019-04-30,Added RAW support for a number of third party camera apps. Improved render quality for RAW preview in the editor. A number of other minor fixes and improvements.,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.8.2,2019-03-11,Fixed iPhone 5S bug when the first loaded photo wouldn t show up on the screen Fixed crop rotate and viewport bugs for some portrait orientation images,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.8,2019-02-25,Use last edits feature to help you dealing with multiple photos Increased Pre Warmth and Pre Tint value ranges for RAW files Fixes and improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.7.2,2018-12-29,We now support RAW hooray! High quality JPEG export RNI Films specific IPTC tags are now saved along with other image metadata upon export iOS 12 optimised tested Bug fixes and performance improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.7.1,2018-12-07,We now support RAW hooray! High quality JPEG export RNI Films specific IPTC tags are now saved along with other image metadata upon export iOS 12 optimised tested Bug fixes and performance improvements,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.7.0,2018-11-08,We now support RAW hooray! High quality JPEG export RNI Films specific IPTC tags are now saved along with other image metadata upon export iOS 12 optimised tested Many other improvements and bug fixes,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.6.3,2018-06-20,Bigger better viewport for more immersive editing experience Improved image picker Crop Rotate is now available as a tool finally! Fixed a bug that sometimes caused image picker to crash after photo library contents update Fixed layout issues in emulation mode on iPad,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.6.2,2018-06-19,Bigger better viewport for more immersive editing experience Improved image picker Crop Rotate is now available as a tool finally! Fixed a bug that sometimes caused image picker to crash after photo library contents update,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.6.1,2018-06-18,Bigger better viewport for more immersive editing experience Improved image picker Crop Rotate is now available as a tool finally! Fixed a bug that sometimes caused image picker to crash after the new photos have been added to the photo library,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.6,2018-06-14,Bigger better viewport for more immersive editing experience Improved image picker Crop Rotate is now available as a tool finally!,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.5,2017-11-03,Added Strength adjustment to adjust the strength of the film profile Fixed some layout issues on iPhone X Bug fixes and performance improvements Not supported on iPhone 4s and older,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.4.6,2017-09-26,This is maintenance update that fixes some recent issues: Image orientation issue when exporting to Instagram Slide Pack unlock issue via Facebook share Export to Facebook Odd glitch when flicking through categories in iOS 11,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.4.5.2,2017-08-04,Fixed bug when grain is not applied to exported image Fixed image preview size when Display Zoom is enabled in device Settings,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.4.5,2017-08-01,Images are now processed in real time with immediate visual feedback. This feature requires device with A7 chip or newer Vignette is now available on iPhone 4S,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.4.4,2017-06-26,Added support for the upcoming iOS 11.,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.4.3,2017-06-20,Added Colibri button to the home screen. Updated Flashback button. Minor bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.4.2,2017-06-12,Updated app screenshots. Bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.4.1,2016-10-06,Metadata was striped off of images exported to camera roll. This is now fixed.,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.3.2,2016-08-04,fixed issue with in app purchase when filter pack remains locked once transaction has been completed under some circumstance. Please use Restore my purchases in Settings menu to unlock previously purchased filter packs that were affected by this problem fixed previews in photo library picker on iPads,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.2.1,2016-05-27,In this version: RNI Flashback button added. Nice and beautiful Fuji Natura film added into the Negative section. Kodak Portra 400 Normalised film added into the Negative section. Some of the existing films have been updated for better accuracy and aesthetics. Various bug fixes performance improvements. Please email us at support reallyniceimages.com if having any issues.,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.1,2015-11-04,In this version: Brightness tool updated to better preserve highlights. Film Grain tool added. Yes real film grain no digital noise no BS. Dust Scratches tool added. For iPhone 5 and higher only Vignette tool on iPhone 4s removed for the sake of grain. Sorry guys it s not powerful enough to run both. Some existing film profiles improved for higher accuracy and better performance in highlights. The app now remembers which film category you ve used last. Images are now auto saved in Camera Roll when sharing to social networks. Images saved to Camera Roll are now stored in a dedicated RNI Films album. Various bug fixes performance improvements. Please email us at support reallyniceimages.com if having any issues.,0,0,0,0,0,0,0,0
+1017098672,0,RNI Films Photo RAW Editor,Photo and Video,2015-08-09,2015-08-09,66.87,1,0,0,1,1.0,2015-08-09,,0,0,0,0,0,0,0,0

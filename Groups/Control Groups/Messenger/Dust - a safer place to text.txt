@@ -1,0 +1,817 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Dust - a safer place to text
+Radical AppBusiness (Applications)Free
+Alerts
+
+Dust: Privacy & Security Suite
+Dust - a safer place to text
+Dust - a safer place to text
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Dust - a safer place to text
+The ease of a text: the safety
+Business (Applications)
+Free
+iPhone Only
+App Description
+CYBER DUST: The safer place to text
+Co-Founded by Mark Cuban
+
+OVERVIEW
+CYBER DUST gives you control over your digital life. We believe online life is real life, so only you should control what is known about you. Our users are protected—free from worry of prying eyes, data mining, sketchy hackers, and the paranoia that your words could come back to haunt you—freedom for everything that makes you, YOU.
+
+ENCRYPTED MESSENGER
+For everyday texting and sharing photos with friends, family and colleagues, or exchanging more sensitive information such as credit cards, social security numbers, bank information, wire transfer instructions, passwords, or medical records – CYBER DUST is the most secure private texting & messaging application.
+
+1) Unsend any message, anytime
+2) Detects and notifies you if a screenshot is taken
+3) Automatically erases history after 24 hours
+
+Rest assured knowing CYBER DUST conversations are heavily encrypted and not accessible by anyone, not even us. You can even erase messages off THEIR phone in real-time. Once a message is deleted on CYBER DUST it can never be recovered, period. Send secret texts.
+
+OWN YOUR WORLD
+
+Download CYBER DUST to take control of your privacy and cyber security. To learn more about CYBER DUST, visit our website at https://www.useDust.com
+
+For more information, see our https://www.usedust.com/terms and https://www.usedust.com/privacy-policy.
+Ratings
+Displayed Avg Ratings
+4.56
+Total Displayed Ratings
+5.6k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 7.3.1 (Mar 20, 2024)
+    Bug fixes and process improvements
+Version 7.3.0 (Jun 20, 2023)
+    * gif messages and blasts support
+    * better url preview handling for blasts
+Version 7.2.3 (May 13, 2023)
+    * fix action sheet styling
+    * image resize to support all 
+Version 7.2.0 (Oct 14, 2022)
+    * new email passwordless login
+Version 7.1.7 (Jul 23, 2022)
+    * theme and formatting fixes from sdk updates
+Version 7.1.5 (May 19, 2022)
+    blast bug fixes
+Version 7.1.4 (Apr 13, 2022)
+    bug fixes
+Version 7.1.3 (Mar 10, 2022)
+    bug fixes
+Version 7.1.2 (Nov 2, 2021)
+    group chat user profiles are clickable
+    security certificate updates
+Version 7.1.0 (Aug 23, 2021)
+    * server connection fix
+Version 7.0.9 (Jul 26, 2021)
+    * bug fix on edit profile
+Version 7.0.8 (May 24, 2021)
+    * blast notifications badge
+Version 7.0.7 (Apr 21, 2021)
+    Bug fix delete blasts.
+Version 7.0.6 (Mar 30, 2021)
+    Bug fix, background color matching text on blast compose and profile.
+Version 7.0.5 (Mar 13, 2021)
+    Added support for link previews in blasts.
+Version 7.0.3 (Dec 12, 2020)
+    Link detection in text blasts
+Version 7.0.1 (Oct 27, 2020)
+    Fix followers not loading in contacts tab.
+    Fix followers tap not working
+    Fix crash on enabling notifications in Settings tab
+Version 7.0.0 (Oct 3, 2020)
+    Fix crash on sign in and sign out
+    Update SSL certificates.
+Version 6.0.6 (Sep 9, 2020)
+    Introducing Blasts!  
+    Share pictures and thoughts with all your followers. Blasts expire after 24 hours just like messages. We also streamlined the UI. 
+    We hope you enjoy it and blast away!
+Version 6.0.5 (Jun 7, 2020)
+    Show list of blocked users.
+Version 6.0.4 (Mar 13, 2020)
+    Bug fixes and enhancements.
+Version 6.0.3 (Jan 12, 2020)
+    New themes are now available in Profile -> Themes
+    Support for sending and receiving GIF
+Version 6.0.2 (Dec 11, 2019)
+    Themes
+    Go to Profile and change the color scheme
+Version 6.0.1 (Oct 25, 2019)
+    Added support for video messages.
+    Bug fixes and enhancements.
+Version 6.0.0 (Sep 30, 2019)
+    Bug fixes and enhancements.
+Version 5.9.0 (Jul 21, 2019)
+    Bug fixes and performance improvements.
+Version 5.8.0 (Jun 26, 2019)
+    Bug fixes and performance improvements
+Version 5.7.0 (Apr 29, 2019)
+    Thanks for choosing Dust! Watchdog has evolved into Watchdog Pro!
+    • Introducing: Watchdog Pro
+    - You can upgrade to Watchdog Pro, at any time
+    - By providing an email, you will receive real time alerts if your email was compromised in a data breach, as long as you are a Watchdog Pro user!
+    • Dusted some bugs that were causing issues.
+Version 5.6.1 (Apr 17, 2019)
+    Thanks for choosing Dust! We’re excited to share the next chapter of our journey together. Dust has evolved into a Privacy & Security Suite
+    • Introducing: Watchdog
+    - Type in your email, and find out if your info has been compromised in a data breach
+    • Introducing: Stealth Search
+    - Your first step to privately searching the web
+    • A new home experience
+    - The new home screen allows you to pick from our suite of privacy products
+    • Dusted some bugs that were causing issues.
+Version 5.6.0 (Apr 15, 2019)
+    Thanks for choosing Dust! We’re excited to share the next chapter of our journey together. Dust has evolved into a Privacy & Security Suite
+    • Introducing: Watchdog
+    - Type in your email, and find out if your info has been compromised in a data breach
+    • Introducing: Stealth Search
+    - Your first step to privately searching the web
+    • A new home experience
+    - The new home screen allows you to pick from our suite of privacy products
+    • Dusted some bugs that were causing issues.
+Version 5.5.0 (Apr 2, 2019)
+    Thanks for choosing Dust!  We've got some new things to share we hope you'll like:
+    • New Invite tab:
+    - The invite experience has been enhanced.  You can now share your invite on other apps by tapping "Share" in the Invite tab.
+    - When someone clicks your invite link and signs up, they are automatically added as a contact!
+    • Dusted some bugs that were causing issues.
+Version 5.4.1 (Apr 1, 2019)
+    Thanks for using Dust! This version has a fix for a crash some users were seeing.
+Version 5.4.0 (Mar 23, 2019)
+    Thanks for choosing Dust! We've been working on some new things based on your feedback:
+    • Quality of life improvements:
+    - Tap Contacts or Chats buttons to scroll to the top of the respective screens.
+    - New messages button will appear when you receive a new message while reading older ones. Tapping this will scroll you to the new message.
+    • Dusted some bugs that were causing issues.
+Version 5.3.1 (Mar 19, 2019)
+    Thanks for choosing Dust! This version has a fix for a crash some users encountered when trying to invite friends to use Dust.
+Version 5.3.0 (Mar 18, 2019)
+    Thanks for choosing Dust! We've been working on some new things based on your feedback:
+    • You can now permanently delete your account from the settings tab. We hope to see you dusting again soon!
+    • We moved some code around to make start-up faster, and the app more reliable! Dust on!
+    • Dusted some nasty bugs that were causing crashes.
+Version 5.2.1 (Mar 5, 2019)
+    Thanks for using Dust! This version has some bug fixes and enhancements!
+Version 5.2.0 (Mar 4, 2019)
+    Thanks for using Dust! We hear your feedback and are continuing to make improvements to the app. This update contains:
+    • Added presence back to chat room, so you can see who is online and offline
+    • Profile pictures are now being cached, resulting in faster loads and less downloading!
+    • Bug fixes and enhancements
+Version 5.1.0 (Feb 18, 2019)
+    Thanks for using Dust! We've been hard at work to bring you some new things!
+    • You can now hide chat rooms! Simply swipe on the row and click hide to remove chat rooms.
+    • We've upgraded our code to Swift 4.2!
+    • Fixed an issue where some users did not hear the out of app notification sound
+    • Other bug fixes and enhancements
+Version 5.0.4 (Feb 4, 2019)
+    Thanks for using Dust! This version has some bug fixes and enhancements
+Version 5.0.3 (Jan 31, 2019)
+    Thanks for using Dust! This update includes:
+    • Preview photos before you send them in the chat room
+    • The chat room now supports Dynamic Type, and adjusts to your preferred reading size
+    • Vibration and sound for in-app notifications. Support for out of app notifications is coming soon.
+    • Bug fixes and enhancements
+Version 5.0.2 (Jan 28, 2019)
+    Bug fixes and enhancements
+Version 5.0.1 (Jan 23, 2019)
+    We wanted to refocus our mission of being a no frills, ultra secure, and easy to use messenger. Our team took your feedback, and we’ve been diligently working away so we can continue to bring you the world’s most secure messenger.
+
+    Storageless encrypted messaging you control. No proof. No tracking. No fear.
+Version 4.1.3 (Dec 14, 2018)
+    Bug fixes and performance enhancements.
+Version 4.1.2 (Apr 5, 2018)
+    Bug fixes and performance enhancements.
+Version 4.1.1 (Mar 22, 2018)
+    Bug fixes and performance enhancements.
+Version 4.1.0 (Feb 28, 2018)
+    Bug fixes and performance enhancements.
+Version 4.0.7 (Nov 13, 2017)
+    Earn Tokens by creating a GMT wallet, daily logins, and logging in 7 days in a row, and use them to unlock premium features to enhance your Dust experience.
+
+    Bug fixes and performance enhancements.
+Version 4.0.6 (Nov 10, 2017)
+    Earn Tokens by creating a GMT wallet, daily logins, and logging in 7 days in a row, and use them to unlock premium features to enhance your Dust experience.
+
+    Bug fixes and performance enhancements.
+Version 4.0.5 (Sep 21, 2017)
+    Bug fixes and performance enhancements.
+Version 4.0.4 (Sep 12, 2017)
+    Bug fixes and performance enhancements.
+Version 4.0.3 (Sep 8, 2017)
+    Bug fixes and performance enhancements.
+Version 4.0.2 (Sep 6, 2017)
+    Connect easier - Added "add all" button in connect tab.
+    Bug fixes and performance enhancements.
+Version 4.0.1 (May 15, 2017)
+    Contact List Made Easy - New contact list lets you separate your Dust contacts from all other contacts
+
+    Bug Fixes & Performance enhancements
+Version 3.1.0 (Oct 24, 2016)
+    Favorites - mark your favorite people to message on Dust
+
+    All New Camera - brand new camera with hundreds of editing features
+
+    Enhanced Invites - Invite friends from the contacts tab and they'll be immediately connected to you after download
+
+    Bug Fixes & Performance enhancements
+Version 3.0.2 (Oct 6, 2016)
+    We update the app regularly for better experience. Get the latest version for all of the available features and improvements. Thanks for using Dust!
+Version 3.0.1 (Sep 15, 2016)
+    Everything you've been waiting for because your privacy is important!
+
+    - All New Design making Dust super easy to use
+    - Your messages now last for 24 hours OR you can still set everything to "Delete When Read” — your choice
+    - Erase your messages off other people’s phones at any time!
+    - Easier to find and message any friend or contact
+    - Enhanced security. Messages still never touch permanent storage
+    - & Much More!
+Version 3.0 (Sep 9, 2016)
+    Everything you've been waiting for because your privacy is important!
+
+    - All New Design making Dust super easy to use
+    - Your messages now last for 24 hours OR you can still set everything to "Delete When Read” — your choice
+    - Erase your messages off other people’s phones at any time!
+    - Easier to find and message any friend or contact
+    - Enhanced security. Messages still never touch permanent storage
+    - & Much More!
+Version 2.9.7 (May 6, 2016)
+    - Imoji stickers
+    - Bug fixes and improvements!
+Version 2.9.6 (Mar 31, 2016)
+    - Performance improvements and bug fixes
+    - Security upgrades
+Version 2.9.5 (Mar 21, 2016)
+    - A new way to build a following and network privately
+    - All new Discovery
+    - New tutorial and sign pp
+Version 2.9.4 (Jan 19, 2016)
+    - Minor bug fixes
+    - Performance improvements
+Version 2.9.3 (Jan 6, 2016)
+    - New blast view
+    - View public blasts you've sent
+    - View other users' public blasts on their profiles
+    - Many more new features
+Version 2.9.2 (Dec 3, 2015)
+    Bug fixes
+Version 2.9.1 (Nov 13, 2015)
+    Bug fixes and performance improvements
+Version 2.9.0 (Oct 30, 2015)
+    - Messages and Blasts are delivered faster than ever
+    - Performance Upgrades
+    - Minor other bug fixes
+Version 2.8.6 (Oct 7, 2015)
+    - Notifications can be disabled for specific Group Dusts
+    - Added support for Peek and Pop for User profiles
+    - Enabled pasting images & GIFs into Text Blast and Reply in Swipe View and Dust rooms
+    - Now supporting GIFs in the Share Via extension
+    - App shortcuts have been enabled for iPhone 6S/6S+
+    - Bug fixes
+Version 2.8.5 (Sep 26, 2015)
+    - Optimized for iOS 9
+    - Minor bug fixes
+    - Performance improvements
+Version 2.8.4 (Sep 14, 2015)
+    - Minor bug fixes
+    - Performance improvements
+Version 2.8.3 (Aug 22, 2015)
+    - Easily share your profile to your social networks and contacts
+    - New invitations to send to your contacts and followers on other networks
+    - You now have the option to hide blast preview
+    - Blasts that are not marked public do not have previews
+    - UI updates
+    - Bug fixes and performance improvements
+Version 2.8.2 (Aug 4, 2015)
+    A critical bug fix to address a crash that a limited number of users experienced with our recent update.
+Version 2.8.1 (Jul 23, 2015)
+    Dusts, blasts, and groups separated into their own tabs
+    Navigate the app easily with the new floating action menu
+    Preview what kind of content you have in each dust room with preview icons
+    Preview blast messages before opening them
+    View blast messages easily by swiping between them.
+    Preview URLs sent in a text blast before opening in your web browser
+    Add text to videos
+    A blocked user cannot send you messages AND will not receive any of your dusts or blast
+    Manage incoming messages and alerts:
+    - You will only receive a blast or re-blast once, no matter how many of your friends re-blast it
+    - You can now completely disable notifications for blast messages or choose to receive periodic batch notifications
+    - Removed banner alerts inside the app
+    - Bug Fixes
+Version 2.8.0 (Jul 22, 2015)
+    Dusts, blasts, and groups separated into their own tabs
+    Navigate the app easily with the new floating action menu
+    Preview what kind of content you have in each dust room with preview icons
+    Preview blast messages before opening them
+    View blast messages easily by swiping between them.
+    Preview URLs sent in a text blast before opening in your web browser
+    Add text to videos
+    A blocked user cannot send you messages AND will not receive any of your dusts or blast
+    Manage incoming messages and alerts:
+    - You will only receive a blast or re-blast once, no matter how many of your friends re-blast it
+    - You can now completely disable notifications for blast messages or choose to receive periodic batch notifications
+    - Removed banner alerts inside the app
+Version 2.7.6 (Jul 2, 2015)
+    Performance improvements.
+Version 2.7.5 (Jun 8, 2015)
+    Bug fixes
+Version 2.7.4 (May 21, 2015)
+    Bug fixes
+Version 2.7.3 (May 8, 2015)
+    - Preview user profile pictures and bios when you Add a Friend
+    - Share from Photos and urls from your favorite browser via our new Share Extension
+    - New security enhancement prevents AirPlay mirroring when using Cyber Dust
+    - Bug fixes
+Version 2.7.2 (Apr 22, 2015)
+    - Improved Search feature
+    - Awesome new image filters
+    - Bug fixes & performance improvements
+Version 2.7.0 (Mar 18, 2015)
+    - Finer control on what types of messages you receive from users
+    - Auto URL shortening on Blasts
+    - Reblast messages from other users
+    - Bug fixes
+Version 2.6.1 (Mar 3, 2015)
+    - Bug fixes
+Version 2.6.0 (Feb 17, 2015)
+    - Introducing "Recommend" - Suggest a user to your friends and followers
+    - Expanded Group Chat for an unlimited number of Friends
+    - Save photos and videos taken on CD to your device
+    - User bios and enhanced profiles
+    - New Discover and Chatters sections to immediately connect with others
+Version 2.5.4 (Jan 23, 2015)
+    - View a list of all your Followers
+    - Improved finding Friends in your Contacts list
+    - Added option to open URLs in Safari
+    - Added option to disable notifications when users add you as a Friend
+    - Bug fixes and performance improvements
+Version 2.5.3 (Jan 11, 2015)
+    Bug fixes and performance improvements
+Version 2.5.2 (Jan 7, 2015)
+    - New indicator for blast messages in Dust rooms
+    - Access Popular Users list from the More tab
+    - Bug fixes and perfomance improvements
+Version 2.5.1 (Dec 19, 2014)
+    Bug fixes and performance enhancements.
+Version 2.5 (Dec 5, 2014)
+    - Video! Record and send or blast video messages!
+    - Add a profile picture
+    - Detection of who can and cannot screenshot
+    - Lots of new emojis
+    - Connect with celebrities and other popular users via the Popular Page
+    - Add events to device’s calendar a date sent in a dust room
+    - Add new contact to device from phone numbers sent in a dust room
+    - Open up maps from an address sent in a dust room
+    - New and improved interface
+    - Bug fixes
+Version 2.4.6 (Sep 17, 2014)
+    Updated for iOS 8 compatibility
+Version 2.4.5 (Sep 12, 2014)
+    - New and improved invite screen with new ways to share the app with you friends.
+    - Blast all followers with a single button press
+    - Manually re-sync your contacts to add friends
+    - Several bug fixes and optimizations
+Version 2.4.3 (Aug 20, 2014)
+    - Adds a "Tap to Pin" message indicator
+    - Improved User feedback form
+    - Invite friends via Facebook fixed
+    - Several other minor bug fixes
+Version 2.4.2 (Aug 8, 2014)
+    - Add a plus sign + next to a username when sending a message to allow the recipient to click and add the user as a friend immediately. Example: "add +ryanozo as a friend he's awesome!"
+    - Minor bug fixes
+    - Performance enhancements 
+Version 2.4.1 (Jul 24, 2014)
+    Minor bug fixes
+Version 2.4 (Jun 19, 2014)
+    - Create Custom Groups for Blast messages (ie. Family, Co-workers, Best Friends)
+    - Adding and Inviting Friends is easier than ever
+    - Pin multiple sent messages
+    - New and improved sign-up process
+    - Optimization for enhanced performance
+    - UI enhancements
+Version 2.3 (May 21, 2014)
+    - Pin your sent messages to remember conversations (for your eyes only)
+    - Blast locations to your friends
+    - Tap in-app notifications to move between chats
+    - Invite all friends option
+    - Chat in landscape mode
+    - UI Improvements
+    - Bug Fixes
+    - & More! 
+Version 2.2.1 (May 2, 2014)
+    -Minor Bug Fixes
+
+    New in 2.2 +
+
+    - Add Text on Photos
+    - Delete Friends
+    - Delete Chats
+    - Send Clickable URL's
+    - Send and Receive GIF's
+    - Speed Enhancements
+
+
+Version 2.2 (Apr 30, 2014)
+    - Add Text on Photos
+    - Delete Friends
+    - Delete Chats
+    - Send Clickable URL's
+    - Send & Receive GIF's
+    - Speed enhancements
+    - Bug Fixes
+
+    + Much More!
+Version 2.1 (Apr 2, 2014)
+    - Tutorials added
+    - UI Updates
+    - Separation of username from chat content (Prevents tying a screenshot to a user)
+    - Minor Bug Fixes
+Version 2.0.1 (Mar 9, 2014)
+    - Fixed dropped messages error
+    - Available in Canada
+    - Minor Bug Fixes
+Version 2.0 (Feb 27, 2014)
+    Welcome to Cyber Dust 2.0
+
+    - All New Logo and Design
+    - New Camera
+    - Send Mass Photo's and Text to Multiple Friends
+    - Add and Invite Facebook friends
+    - Sent and Read confirmations
+    - New and Improved way to Add Friends
+    + Much More! 
+Version 1.0.2 (Dec 15, 2013)
+    - Bug Fixes
+    - Dust! (Text & Photos)
+Version 1.0.1 (Dec 2, 2013)
+    Bug Fixes
+Version 1.0 (Nov 21, 2013)
+
+Users may also like
+Select objects to compare
+Confide - Private messenger
+AWS Wickr
+Wire • Secure Messenger
+Silent Phone
+Element Messenger
+Pryvate Messenger
+Private Encrypted Email Tuta
+MINNECT
+Trillian
+Wickr Enterprise
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    7.3.1
+    Current release
+    Mar 20, 2024
+    7.3.0
+    Jun 20, 2023
+    7.2.3
+    May 13, 2023
+    7.2.0
+    Oct 14, 2022
+    7.1.7
+    Jul 23, 2022
+    7.1.5
+    May 19, 2022
+    7.1.4
+    Apr 13, 2022
+    7.1.3
+    Mar 10, 2022
+    7.1.2
+    Nov 2, 2021
+    7.1.0
+    Aug 23, 2021
+    7.0.9
+    Jul 26, 2021
+    7.0.8
+    May 24, 2021
+    7.0.7
+    Apr 21, 2021
+    7.0.6
+    Mar 30, 2021
+    7.0.5
+    Mar 13, 2021
+    7.0.3
+    Dec 12, 2020
+    7.0.1
+    Oct 27, 2020
+    7.0.0
+    Oct 3, 2020
+    6.0.6
+    Sep 9, 2020
+    6.0.5
+    Jun 7, 2020
+    6.0.4
+    Mar 13, 2020
+    6.0.3
+    Jan 12, 2020
+    6.0.2
+    Dec 11, 2019
+    6.0.1
+    Oct 25, 2019
+    6.0.0
+    Sep 30, 2019
+    5.9.0
+    Jul 21, 2019
+    5.8.0
+    Jun 26, 2019
+    5.7.0
+    Apr 29, 2019
+    5.6.1
+    Apr 17, 2019
+    5.6.0
+    Apr 15, 2019
+    5.5.0
+    Apr 2, 2019
+    5.4.1
+    Apr 1, 2019
+    5.4.0
+    Mar 23, 2019
+    5.3.1
+    Mar 19, 2019
+    5.3.0
+    Mar 18, 2019
+    5.2.1
+    Mar 5, 2019
+    5.2.0
+    Mar 4, 2019
+    5.1.0
+    Feb 18, 2019
+    5.0.4
+    Feb 4, 2019
+    5.0.3
+    Jan 31, 2019
+    5.0.2
+    Jan 28, 2019
+    5.0.1
+    Jan 23, 2019
+    4.1.3
+    Dec 14, 2018
+    4.1.2
+    Apr 5, 2018
+    4.1.1
+    Mar 22, 2018
+    4.1.0
+    Feb 28, 2018
+    4.0.7
+    Nov 13, 2017
+    4.0.6
+    Nov 10, 2017
+    4.0.5
+    Sep 21, 2017
+    4.0.4
+    Sep 12, 2017
+    4.0.3
+    Sep 8, 2017
+    4.0.2
+    Sep 6, 2017
+    4.0.1
+    May 15, 2017
+    3.1.0
+    Oct 24, 2016
+    3.0.2
+    Oct 6, 2016
+    3.0.1
+    Sep 15, 2016
+    3.0
+    Sep 9, 2016
+    2.9.7
+    May 6, 2016
+    2.9.6
+    Mar 31, 2016
+    2.9.5
+    Mar 21, 2016
+    2.9.4
+    Jan 19, 2016
+    2.9.3
+    Jan 6, 2016
+    2.9.2
+    Dec 3, 2015
+    2.9.1
+    Nov 13, 2015
+    2.9.0
+    Oct 30, 2015
+    2.8.6
+    Oct 7, 2015
+    2.8.5
+    Sep 26, 2015
+    2.8.4
+    Sep 14, 2015
+    2.8.3
+    Aug 22, 2015
+    2.8.2
+    Aug 4, 2015
+    2.8.1
+    Jul 23, 2015
+    2.8.0
+    Jul 22, 2015
+    2.7.6
+    Jul 2, 2015
+    2.7.5
+    Jun 8, 2015
+    2.7.4
+    May 21, 2015
+    2.7.3
+    May 8, 2015
+    2.7.2
+    Apr 22, 2015
+    2.7.0
+    Mar 18, 2015
+    2.6.1
+    Mar 3, 2015
+    2.6.0
+    Feb 17, 2015
+    2.5.4
+    Jan 23, 2015
+    2.5.3
+    Jan 11, 2015
+    2.5.2
+    Jan 7, 2015
+    2.5.1
+    Dec 19, 2014
+    2.5
+    Dec 5, 2014
+    2.4.6
+    Sep 17, 2014
+    2.4.5
+    Sep 12, 2014
+    2.4.3
+    Aug 20, 2014
+    2.4.2
+    Aug 8, 2014
+    2.4.1
+    Jul 24, 2014
+    2.4
+    Jun 19, 2014
+    2.3
+    May 21, 2014
+    2.2.1
+    May 2, 2014
+    2.2
+    Apr 30, 2014
+    2.1
+    Apr 2, 2014
+    2.0.1
+    Mar 9, 2014
+    2.0
+    Feb 27, 2014
+    1.0.2
+    Dec 15, 2013
+    1.0.1
+    Dec 2, 2013
+    1.0
+    Nov 21, 2013
+
+See More
+Top In-App Purchases
+
+    Watchdog Pro - One Month
+    $0.99
+    Watchdog Pro - One Year
+    $9.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Nov 21, 2013
+
+Worldwide Release Date
+    Apr 3, 2014
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    7.3.1
+
+Size
+    59.29 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Radical App LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.mentionmobile.cyberdust
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 690158616
+Unified App ID: 1000600000652093
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Dust - a safer place to text | data.ai

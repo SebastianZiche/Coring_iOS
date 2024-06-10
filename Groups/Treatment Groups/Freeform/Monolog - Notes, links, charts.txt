@@ -1,0 +1,955 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Monolog - Notes, links, charts
+澍 王Productivity (Applications)Free
+Alerts
+
+    澍 王
+
+    Monolog - Notes, links, charts
+    Monolog - Notes, links, charts
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Monolog - Notes, links, charts
+Productivity (Applications)
+Free
+App Description
+Welcome to Monolog, it's your knowledge treasury and creative toolkit.
+
+The Magic of Bidirectional Links: Unlike conventional note-taking apps, Monolog introduces a unique bidirectional linking feature. This allows you to effortlessly jump from one note to another related note, weaving an interconnected web of knowledge. Each of your notes can serve as a reference for others, linking all your ideas and insights, facilitating a seamless flow of thoughts.
+
+Clear Structure with Hierarchical Tags: Knowledge has depth and breadth. Monolog's hierarchical tagging offers you a more expressive way to organize notes. This granularity and categorization make your content more structured, helping you build a logically coherent knowledge mansion.
+
+Efficient Review Mechanism: Learning and memory require continuous effort and review. Monolog's spaced repetition ensures that your knowledge is reinforced, making learning more profound.
+
+Panoramic View with Statistics: Beyond just capturing knowledge, Monolog provides a rich statistical feature, ranging from heatmaps to pie charts, offering a comprehensive perspective of your learning journey and knowledge structure.
+
+Protecting Your Privacy and Continuity: Monolog uses iCloud for storage, ensuring your data is neither stored on the developer's servers nor accessible to others, offering you the utmost privacy protection. This also guarantees the app's longevity, allowing you to use it with peace of mind.
+
+Monolog, more than just a note-taking app, it's the spark of your thoughts, the bridge of your knowledge, and the generator of your inspiration. Experience now, and never let any moment of inspiration slip away.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Ratings
+Displayed Avg Ratings
+4.65
+Total Displayed Ratings
+454
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.17.0 (Feb 7, 2024)
+    ## [1.17.0] - 2024-02-07
+
+    ### Added
+    - Introduced a browser extension for creating quick notes or clipping articles from web pages. Available for download from the Chrome Store or [here](https://monolognotes.com/en/chrome_extension/) after approval.
+
+    ### Optimized
+    - Note template editing now utilizes a new editor
+    - Added the ability to create new notes with plain text from the clipboard
+
+    ### Fixed
+    - Images added to notes from the clipboard or by drag & drop are now correctly uploaded to the cloud.
+    - New notes now correctly create review reminders.
+    - Fixed an issue where clicking on bidirectional links at the bottom of notes focused incorrectly
+    - Fixed the issue where the second column layout did not display in split-screen mode
+    - Fixed incorrect escaping when converting to Markdown
+Version 1.16.7 (Nov 21, 2023)
+    ## [1.16.7] - 2023-11-20
+
+    ### Optimized
+    - New note-saving mechanism
+    - New triple-column view on iPad and Mac
+
+    ### Added
+    - Editor now supports task lists and tables
+
+    ### Fixed
+    - Fixed an issue with exporting notes as images
+    - Fixed an occasional freeze on app launch
+Version 1.16.6 (Oct 24, 2023)
+    ## [1.16.6] - 2023-10-23
+
+    ### Added
+    - New notes list page with added functionalities like multi-selection, sorting, filtering, and swipe actions.
+    - Search optimization
+    - New user tutorial
+
+    ### Fixed
+    - Some issues causing crashes
+Version 1.16.5 (Aug 20, 2023)
+    ## [1.16.5] - 2023-08-20
+
+    ### Fixed
+
+    - Fixed a few bugs
+
+    ---
+Version 1.16.3 (Aug 18, 2023)
+    ## [1.16.3] - 2023-08-15
+
+    ### Fixed
+
+    - Fixed a few bugs
+Version 1.16.2 (Aug 9, 2023)
+    ## [1.16.2] - 2023-08-09
+
+    ### Fixed
+
+    - Fixed an issue where tags could not be created on some os versions
+Version 1.16.0 (Jul 30, 2023)
+    New version alert! Elevate your writing experience:
+    1. Introducing our WYSIWYG Markdown editor. See format changes as you type without needing a separate preview. Supports all common Markdown elements like headings, lists, and more.
+    2. View backlinks and smart backlinks directly below your notes, no longer tucked away in the sidebar.
+    3. More control over your backlinks! Customize their display titles in your notes without altering the original titles.
+    4. Enhanced note importing with added support for importing from HTML files.
+    5. Want more granularity in reviewing notes? Set review times down to the hour now!
+
+    Update now for these fresh features!
+Version 1.15.10 (Mar 4, 2023)
+    What's New in 1.15.10
+    - A few bug fixes.
+Version 1.15.9 (Mar 3, 2023)
+    What's New in 1.15.9
+    - A few bug fixes.
+Version 1.15.8 (Feb 8, 2023)
+    What's New in 1.15.8
+    - A few bug fixes.
+Version 1.15.6 (Jan 21, 2023)
+    What's New in 1.15.6
+    - Optimized Card UI
+    - Optimized Widgets UI
+    - a few bug fixes
+Version 1.15.5 (Dec 31, 2022)
+    Happy New Year! What's New in 1.15.5
+    - a few bug fixes
+Version 1.15.4 (Dec 21, 2022)
+    What's New in 1.15.4
+    - a few bug fixes
+Version 1.15.3 (Dec 12, 2022)
+    What's New in 1.15.3
+    - App Widgets are available for all users on iOS 16 devices
+    - bug fixes
+Version 1.15.2 (Nov 14, 2022)
+    What's New in 1.15.2
+    - More custom fonts available for download
+    - Audible notes can switch different voices correctly
+    - a few bug fixes
+Version 1.15.1 (Oct 31, 2022)
+    What's New in 1.15.1
+    - a few bug fixes
+Version 1.15.0 (Oct 28, 2022)
+    What's New in 1.15.0
+    - You can import external files as notes. Plain text and markdown files are currently supported.
+    - UI improvements
+    - A few bug fixes
+Version 1.14.15 (Oct 21, 2022)
+    v1.14.15
+    - Optimized web clipper;
+    - a few bug fixes;
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.13 (Oct 18, 2022)
+    v1.14.13
+    - a few bug fixes
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.14 (Oct 18, 2022)
+    v1.14.14
+    - a few bug fixes
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.12 (Oct 10, 2022)
+    v1.14.12
+    - a few bug fixes
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.11 (Sep 28, 2022)
+    v1.14.11
+    - a few bug fixes
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.10 (Sep 23, 2022)
+    v1.14.10
+    - added markdown format buttons for Editor
+    - optimized for iOS 16 paste control
+    - a few bug fixes
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.9 (Aug 16, 2022)
+    v1.14.9
+    - A few bug fixes.
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.8 (Aug 11, 2022)
+    v1.14.8
+    - A few bug fixes.
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.7 (Aug 9, 2022)
+    v1.14.7
+    - Optimized exporting note as image;
+    - Fixed a bug that causes incorrect note connections;
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.6 (Aug 7, 2022)
+    v1.14.6
+    - Notes that haven't converted to Markdown can show content in compatibility mode;
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.5 (Aug 6, 2022)
+    v1.14.5
+    - A few bug fixes;
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.2 (Aug 3, 2022)
+    v1.14.2
+    - Fixed a bug that causes exiting edit mode;
+    - Fixed a bug that sometimes editor toolbar buttons can't be tapped;
+
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.1 (Aug 2, 2022)
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.14.0 (Jul 31, 2022)
+    MAJOR UPDATE:
+    - Full support for Markdown notes, free upgrade for all users;
+    - Convert old notes to Markdown;
+    - Web Clipper also supports converting to Markdown format and saving;
+    - New "Sync Blocks" feature to automatically sync changes in notes, already used in comments and highlights;
+Version 1.13.11 (Jul 15, 2022)
+    This version includes a few minor updates.
+Version 1.13.10 (Jun 14, 2022)
+    This version includes a few minor updates.
+Version 1.13.9 (Jun 1, 2022)
+    This version includes a few minor updates
+
+    Recent Updates:
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+Version 1.13.8 (May 18, 2022)
+    This version includes a few minor updates
+
+    Recent Updates:
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+Version 1.13.7 (May 6, 2022)
+    This version includes a few minor updates
+    - Added new voices for Audible Notes
+    - Added word count for notes
+
+    Recent Updates:
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+Version 1.13.6 (Apr 22, 2022)
+    This version includes a few minor updates.
+
+    Recent Updates:
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+Version 1.13.5 (Apr 18, 2022)
+    This version includes a few minor updates.
+
+    Recent Updates:
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+
+Version 1.13.4 (Apr 14, 2022)
+    This version includes a few minor updates.
+
+    Recent Updates:
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+Version 1.13.3 (Apr 4, 2022)
+    This version includes a few minor updates.
+
+    Recent Updates:
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+Version 1.13.3 (Apr 4, 2022)
+    This version includes a few minor updates.
+
+    Recent Updates:
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+Version 1.13.2 (Apr 1, 2022)
+    This version includes a few minor updates.
+
+    Recent Updates:
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+Version 1.13.0 (Mar 26, 2022)
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+
+    Recent Updates:
+    - Web Clipper can now work in the background;
+    - Added Web View for Web Clipped Notes;
+    - Added Note Template feature. You can pre-create templates and insert them into notes.
+Version 1.13.0 (Mar 26, 2022)
+    - You can now share notes as image;
+    - Added Live Text button in Editor;
+
+    Recent Updates:
+    - Web Clipper can now work in the background;
+    - Added Web View for Web Clipped Notes;
+    - Added Note Template feature. You can pre-create templates and insert them into notes.
+Version 1.12.0 (Mar 20, 2022)
+    - Web Clipper can now work in the background;
+    - Added Web View for Web Clipped Notes;
+    - Added Note Template feature. You can pre-create templates and insert them into notes.
+
+    Recent Updates:
+
+    - You can export notes to Markdown now. By default it's Github flavored Markdown but you can also choose other compatible styles like [[]] roam-like links.
+    - Pinned notes will appear in the sidebar for quick access.
+    - Referenced links and tags in notes will reflect changes when modified.
+    - Linked References and Unlinked References will highlight all relevant links.
+Version 1.11.1 (Mar 13, 2022)
+    - You can export notes to Markdown now. By default it's Github flavored Markdown but you can also choose other compatible styles like [[]] roam-like links.
+    - Pinned notes will appear in the sidebar for quick access.
+    - Referenced links and tags in notes will reflect changes when modified.
+    - Linked References and Unlinked References will highlight all relevant links.
+
+    Recent Updates:
+    - Added Split View at Note detail page;
+    - Added Linked References and Unlinked References at Note detail page;
+    - Added search inside note content;
+    - Many other small updates.
+Version 1.11.0 (Mar 10, 2022)
+    - You can export notes to Markdown now. By default it's Github flavored Markdown but you can also choose other compatible styles like [[]] roam-like links.
+    - Pinned notes will appear in the sidebar for quick access.
+    - Referenced links and tags in notes will reflect changes when modified.
+
+    Recent Updates:
+    - Added Split View at Note detail page;
+    - Added Linked References and Unlinked References at Note detail page;
+    - Added search inside note content;
+    - Many other small updates.
+Version 1.10.0 (Mar 4, 2022)
+    - Added Split View at Note detail page;
+    - Added Linked References and Unlinked References at Note detail page;
+    - Added search inside note content;
+    - Many other small updates.
+
+    Recent updates:
+    - Optimized search experience.
+    - Search results will get proper highlights.
+Version 1.9.1 (Feb 23, 2022)
+    - optimized Note Card preview text.
+    - fixed a bug related to sharing contents into Monolog from other apps.
+    - fixed a gesture conflit at Note Detail Page.
+
+    Recent updates:
+    - Optimized search experience.
+    - Search results will get proper highlights.
+Version 1.9.0 (Feb 18, 2022)
+    - Optimized search experience.
+    - Search results will get proper highlights.
+
+    Recent updates:
+
+    - Added a new page for managing all hashtags;
+    - Added tag suggestions when editing a note;
+    - Added keyboard shortcuts to select and insert tags and mentions;
+    - Optimized search results ranking when editing a note.
+    - Fixed swipe gesture conflicts in "Recent Deleted" page.
+Version 1.8.1 (Feb 14, 2022)
+    - Fixed swipe gesture conflicts in "Recent Deleted" page.
+
+    Recent updates:
+
+    - Added a new page for managing all hashtags;
+    - Added tag suggestions when editing a note;
+    - Added keyboard shortcuts to select and insert tags and mentions;
+    - Optimized search results ranking when editing a note.
+Version 1.8.0 (Feb 11, 2022)
+    - Added a new page for managing all hashtags;
+    - Added tag suggestions when editing a note;
+    - Added keyboard shortcuts to select and insert tags and mentions;
+    - Optimized search results ranking when editing a note.
+Version 1.7.5 (Feb 4, 2022)
+    - fixed a potential bug that may cause TabBar hidden inappropriately.
+
+    RECENT UPDATES:
+    - Added Share Extension for iOS, which means you can share links or texts in Safari or other apps into Monolog. Be sure to add Monolog in your share list.
+    - Added code highlight for Web Clipper. The code snippets from your clipped articles now have better styles.
+    - Added Topic Review feature. In addition to scheduled daily reviews, you can choose a tag and review notes under this tag at any time.
+    - Added Audible Notes feature. You can turn notes into speech, add them to a playlist and listen to them while in transit, before bed, or any time you want. Alternatively you can set a sleep timer and it will automatically stop playing after the scheduled time. Audible notes are available to all notes and note reviews.
+    - Added the ability to create notes with corresponding hashtags from tag detail page.
+    - Optimized UI for note cards.
+    - Fixed some other issues.
+    - Optimized Share actions from system extension;
+    - made sidebar refreshable. 
+Version 1.7.4 (Jan 29, 2022)
+    - Optimized Share actions from system extension;
+    - made sidebar refreshable.
+
+    RECENT UPDATES:
+    - Added Share Extension for iOS, which means you can share links or texts in Safari or other apps into Monolog. Be sure to add Monolog in your share list.
+    - Added code highlight for Web Clipper. The code snippets from your clipped articles now have better styles.
+    - Added Topic Review feature. In addition to scheduled daily reviews, you can choose a tag and review notes under this tag at any time.
+    - Added Audible Notes feature. You can turn notes into speech, add them to a playlist and listen to them while in transit, before bed, or any time you want. Alternatively you can set a sleep timer and it will automatically stop playing after the scheduled time. Audible notes are available to all notes and note reviews.
+    - Added the ability to create notes with corresponding hashtags from tag detail page.
+    - Optimized UI for note cards.
+    - Fixed some other issues.
+Version 1.7.3 (Jan 25, 2022)
+    - Added ability to create notes with corresponding hashtags from tag detail page.
+    - Optimized UI for note cards.
+    - Fixed some other issues.
+
+    RECENT UPDATES:
+    - Added Share Extension for iOS, which means you can share links or texts in Safari or other apps into Monolog. Be sure to add Monolog in your share list.
+    - Added code highlight for Web Clipper. The code snippets from your clipped articles now have better styles.
+    - Added Topic Review feature. In addition to scheduled daily reviews, you can choose a tag and review notes under this tag at any time.
+    - Added Audible Notes feature. You can turn notes into speech, add them to a playlist and listen to them while in transit, before bed, or any time you want. Alternatively you can set a sleep timer and it will automatically stop playing after the scheduled time. Audible notes are available to all notes and note reviews.
+Version 1.7.2 (Jan 24, 2022)
+    - Added ability to create notes with corresponding hashtags from tag detail page.
+    - Optimized UI for note cards.
+    - Fixed some other issues.
+
+    RECENT UPDATES:
+    - Added Share Extension for iOS, which means you can share links or texts in Safari or other apps into Monolog. Be sure to add Monolog in your share list.
+    - Added code highlight for Web Clipper. The code snippets from your clipped articles now have better styles.
+    - Added Topic Review feature. In addition to scheduled daily reviews, you can choose a tag and review notes under this tag at any time.
+    - Added Audible Notes feature. You can turn notes into speech, add them to a playlist and listen to them while in transit, before bed, or any time you want. Alternatively you can set a sleep timer and it will automatically stop playing after the scheduled time. Audible notes are available to all notes and note reviews.
+Version 1.7.1 (Jan 11, 2022)
+    - Added Share Extension for iOS, which means you can share links or texts in Safari or other apps into Monolog. Be sure to add Monolog in your share list.
+    - Added code highlight for Web Clipper. The code snippets from your clipped articles now have better styles.
+
+    RECENT UPDATES:
+
+    - Added Topic Review feature. In addition to scheduled daily reviews, you can choose a tag and review notes under this tag at any time.
+
+    - Added Audible Notes feature. You can turn notes into speech, add them to a playlist and listen to them while in transit, before bed, or any time you want. Alternatively you can set a sleep timer and it will automatically stop playing after the scheduled time. Audible notes are available to all notes and note reviews.
+Version 1.6.0 (Dec 29, 2021)
+    v1.6.0 has two major updates:
+
+    - Added Topic Review feature. In addition to scheduled daily reviews, you can choose a tag and review notes under this tag at any time.
+
+    - Added Audible Notes feature. You can turn notes into speech, add them to a playlist and listen to them while in transit, before bed, or any time you want. Alternatively you can set a sleep timer and it will automatically stop playing after the scheduled time. Audible notes are available to all notes and note reviews.
+Version 1.5.3 (Dec 21, 2021)
+    v1.5.3 is a minor update with the following fixes:
+    - Optimized error reporting on iCloud sync issues.
+    - Note detail page will re-layout after note is edited.
+    - Added a page for untagged notes.
+
+    RECENT UPDATES:
+    - Adds "Recently Deleted" section where previously deleted notes could be restored or permanently deleted.
+    - Adds export ability to txt, rtfd and html formats.
+    - Adds "auto-export" ability for premium users that exports a note to iCloud Drive every time it's saved.
+    - Adds iCloud Sync indicator for premium users that displays synchronization progress and errors.
+    - User nickname and avatar are now able to sync through iCloud.
+    - Optimized download logic for attachments stored in iCloud Drive.
+    - Images pasted into editor can now be correctly resized.
+    - Allows magnification and drag in Image Preview.
+    - Optimized side menu UI.
+Version 1.5.2 (Dec 9, 2021)
+    This is a minor update containing a few bug fixes.
+
+    RECENT UPDATES:
+    - Adds "Recently Deleted" section where previously deleted notes could be restored or permanently deleted.
+    - Adds export ability to txt, rtfd and html formats.
+    - Adds "auto-export" ability for premium users that exports a note to iCloud Drive every time it's saved.
+    - Adds iCloud Sync indicator for premium users that displays synchronization progress and errors.
+    - User nickname and avatar are now able to sync through iCloud.
+    - Optimized download logic for attachments stored in iCloud Drive.
+    - Images pasted into editor can now be correctly resized.
+    - Allows magnification and drag in Image Preview.
+    - Optimized side menu UI.
+Version 1.5.0 (Dec 3, 2021)
+    - Adds "Recently Deleted" section where previously deleted notes could be restored or permanently deleted.
+    - Adds export ability to txt, rtfd and html formats.
+    - Adds "auto-export" ability for premium users that exports a note to iCloud Drive every time it's saved.
+    - Adds iCloud Sync indicator for premium users that displays synchronization progress and errors.
+    - User nickname and avatar are now able to sync through iCloud.
+    - Optimized download logic for attachments stored in iCloud Drive.
+    - Images pasted into editor can now be correctly resized.
+    - Allows magnification and drag in Image Preview.
+    - Optimized side menu UI.
+Version 1.4.1 (Nov 12, 2021)
+    - Optimized for note assets storage. Notes with attachments now take less disk space and sync is faster.
+    - For new users, this new storage method is provided by default.
+    - For old users, an optimization option is provided for free.
+    - Export ability into txt files for all existing notes is also available during the optimization. More export options is coming in future releases.
+    - Provided new options for the web clipper.
+    - a few other fixes.
+Version 1.3.4 (Nov 1, 2021)
+    This update fixed a bug related to note editing.
+
+    RECENT UPDATE:
+    - Newly designed note editor, combining note-taking and web clipping pages.
+    - Will detect http link and present web clipper when the app enters foreground
+    - Fixed a few bugs when clipping certain sites
+    - Added "Cancel" button when clipping a web page
+    - Fixed the bug when switching between portrait mode and landscape mode
+Version 1.3.3 (Oct 26, 2021)
+    This update contains a few bug fixes.
+
+    RECENT UPDATE:
+    - Newly designed note editor, combining note-taking and web clipping pages.
+    - Will detect http link and present web clipper when the app enters foreground
+    - Fixed a few bugs when clipping certain sites
+    - Added "Cancel" button when clipping a web page
+    - Fixed the bug when switching between portrait mode and landscape mode
+Version 1.3.2 (Oct 22, 2021)
+    This update contains a few bug fixes.
+
+    RECENT UPDATE:
+    - Newly designed note editor, combining note-taking and web clipping pages.
+    - Will detect http link and present web clipper when the app enters foreground
+    - Fixed a few bugs when clipping certain sites
+    - Added "Cancel" button when clipping a web page
+    - Fixed the bug when switching between portrait mode and landscape mode
+Version 1.3.1 (Oct 19, 2021)
+    This update contains a few bug fixes.
+
+    RECENT UPDATE:
+    - Newly designed note editor, combining note-taking and web clipping pages.
+    - Will detect http link and present web clipper when the app enters foreground
+    - Fixed a few bugs when clipping certain sites
+    - Added "Cancel" button when clipping a web page
+    - Fixed the bug when switching between portrait mode and landscape mode
+Version 1.3.0 (Oct 17, 2021)
+    - Newly designed note editor, combining note-taking and web clipping pages.
+    - Will detect http link and present web clipper when the app enters foreground
+    - Fixed a few bugs when clipping certain sites
+    - Added "Cancel" button when clipping a web page
+    - Fixed the bug when switching between portrait mode and landscape mode
+Version 1.2.7 (Oct 8, 2021)
+    - a few bug fixes
+Version 1.2.6 (Oct 2, 2021)
+    *** 25% OFF LIMITED Oct 1 - Oct7 ***
+
+    - a few bug fixes
+Version 1.2.5 (Sep 30, 2021)
+    *** 25% OFF LIMITED Oct 1 - Oct7 ***
+
+    - a few bug fixes
+Version 1.2.4 (Sep 21, 2021)
+    - Optimized for iOS 15
+Version 1.2.3 (Sep 14, 2021)
+    - optimized UI on iPad
+Version 1.2.2 (Sep 12, 2021)
+    - optimized note detail UI, added sidebar to show backlinks
+    - a few bug fixes
+Version 1.2.1 (Sep 8, 2021)
+    The new version 1.2 is focused on UI and note input optimization. In v1.2.0
+
+    - Optimized Note Card UI
+    - Added Sidebar Menu for hashtags
+    - Fixed a few bugs
+
+    v1.2.1 fixed some more bugs
+Version 1.1.3 (Aug 27, 2021)
+    - When mentioning a note, the mention text will be its title if applicable
+    - Optimized image resizing
+Version 1.1.2 (Aug 26, 2021)
+    - "Edit Mention" button can now present correctly
+    - A few other minor fixes
+Version 1.1.1 (Aug 24, 2021)
+    - a few bug fixes
+Version 1.1.0 (Aug 22, 2021)
+    - Added highlight marker for notes
+    - A few bug fixes
+Version 1.0.11 (Aug 17, 2021)
+    - a few bug fixes
+    - added feedback method
+Version 1.0.10 (Aug 16, 2021)
+    - rich texts will be reformatted when pasting into input
+    - added clear format button
+Version 1.0.9 (Aug 15, 2021)
+    - a few bug fixes
+Version 1.0.8 (Aug 13, 2021)
+    - A few bug fixes
+Version 1.0.7 (Aug 12, 2021)
+    - a few bug fixes
+Version 1.0.6 (Aug 11, 2021)
+    - removed unnecessary prompt during background saving
+Version 1.0.3 (Aug 5, 2021)
+    - You can create new notes on the fly when mentioning a note that doesn't exist.
+    - A few bugs fixed.
+
+Users may also like
+Select objects to compare
+Metaslip: Note & Zettelkasten
+DoMemo - Simple Notes System
+SiYuan
+事线 - 串事成线
+Mindbox: 全平台 All in one 资料收藏夹
+Top Tags-Collect&Read Later
+瓦尔登 - 待办、目标和笔记
+众山小读书笔记 - 留下阅读的痕迹
+Again_最纯净的稍后阅读器
+专注笔记：备忘录·日记本·记事本
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+12 times
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    1.17.0
+    Current release
+    Feb 7, 2024
+    1.16.7
+    Nov 21, 2023
+    1.16.6
+    Oct 24, 2023
+    1.16.5
+    Aug 20, 2023
+    1.16.3
+    Aug 18, 2023
+    1.16.2
+    Aug 9, 2023
+    1.16.0
+    Jul 30, 2023
+    1.15.10
+    Mar 4, 2023
+    1.15.9
+    Mar 3, 2023
+    1.15.8
+    Feb 8, 2023
+    1.15.6
+    Jan 21, 2023
+    1.15.5
+    Dec 31, 2022
+    1.15.4
+    Dec 21, 2022
+    1.15.3
+    Dec 12, 2022
+    1.15.2
+    Nov 14, 2022
+    1.15.1
+    Oct 31, 2022
+    1.15.0
+    Oct 28, 2022
+    1.14.15
+    Oct 21, 2022
+    1.14.13
+    Oct 18, 2022
+    1.14.14
+    Oct 18, 2022
+    1.14.12
+    Oct 10, 2022
+    1.14.11
+    Sep 28, 2022
+    1.14.10
+    Sep 23, 2022
+    1.14.9
+    Aug 16, 2022
+    1.14.8
+    Aug 11, 2022
+    1.14.7
+    Aug 9, 2022
+    1.14.6
+    Aug 7, 2022
+    1.14.5
+    Aug 6, 2022
+    1.14.2
+    Aug 3, 2022
+    1.14.1
+    Aug 2, 2022
+    1.14.0
+    Jul 31, 2022
+    1.13.11
+    Jul 15, 2022
+    1.13.10
+    Jun 14, 2022
+    1.13.9
+    Jun 1, 2022
+    1.13.8
+    May 18, 2022
+    1.13.7
+    May 6, 2022
+    1.13.6
+    Apr 22, 2022
+    1.13.5
+    Apr 18, 2022
+    1.13.4
+    Apr 14, 2022
+    1.13.3
+    Apr 4, 2022
+    1.13.3
+    Apr 4, 2022
+    1.13.2
+    Apr 1, 2022
+    1.13.0
+    Mar 26, 2022
+    1.13.0
+    Mar 26, 2022
+    1.12.0
+    Mar 20, 2022
+    1.11.1
+    Mar 13, 2022
+    1.11.0
+    Mar 10, 2022
+    1.10.0
+    Mar 4, 2022
+    1.9.1
+    Feb 23, 2022
+    1.9.0
+    Feb 18, 2022
+    1.8.1
+    Feb 14, 2022
+    1.8.0
+    Feb 11, 2022
+    1.7.5
+    Feb 4, 2022
+    1.7.4
+    Jan 29, 2022
+    1.7.3
+    Jan 25, 2022
+    1.7.2
+    Jan 24, 2022
+    1.7.1
+    Jan 11, 2022
+    1.6.0
+    Dec 29, 2021
+    1.5.3
+    Dec 21, 2021
+    1.5.2
+    Dec 9, 2021
+    1.5.0
+    Dec 3, 2021
+    1.4.1
+    Nov 12, 2021
+    1.3.4
+    Nov 1, 2021
+    1.3.3
+    Oct 26, 2021
+    1.3.2
+    Oct 22, 2021
+    1.3.1
+    Oct 19, 2021
+    1.3.0
+    Oct 17, 2021
+    1.2.7
+    Oct 8, 2021
+    1.2.6
+    Oct 2, 2021
+    1.2.5
+    Sep 30, 2021
+    1.2.4
+    Sep 21, 2021
+    1.2.3
+    Sep 14, 2021
+    1.2.2
+    Sep 12, 2021
+    1.2.1
+    Sep 8, 2021
+    1.1.3
+    Aug 27, 2021
+    1.1.2
+    Aug 26, 2021
+    1.1.1
+    Aug 24, 2021
+    1.1.0
+    Aug 22, 2021
+    1.0.11
+    Aug 17, 2021
+    1.0.10
+    Aug 16, 2021
+    1.0.9
+    Aug 15, 2021
+    1.0.8
+    Aug 13, 2021
+    1.0.7
+    Aug 12, 2021
+    1.0.6
+    Aug 11, 2021
+    1.0.3
+    Aug 5, 2021
+
+See More
+Top In-App Purchases
+
+    Annual plan
+    $14.99
+    Monthly plan
+    $1.99
+    Lifetime Plan
+    $49.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    Jul 30, 2021
+
+Worldwide Release Date
+    Jul 30, 2021
+
+Last Updated Time
+    Feb 22, 2024
+
+Version
+    1.17.0
+
+Size
+    36.19 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Englisch, Japanisch, Tradit. Chinesisch, Vereinf. Chinesisch
+
+Seller
+    澍 王
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 16.0 oder neuer. Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    com.marveltechs.Monolog
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1572787859
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Monolog - Notes, links, charts | data.ai

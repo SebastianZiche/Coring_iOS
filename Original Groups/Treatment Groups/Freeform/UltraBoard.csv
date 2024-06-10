@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1547214365,0,UltraBoard,Utilities,2021-01-04,2021-01-04,76.24,2,0,0,1,1.3.5,2021-06-07,Fixed bug now you can change WhiteBoard to BlackBoard BlackBoard to WhiteBoard in each board screen.
+1547214365,0,UltraBoard,Utilities,2021-01-04,2021-01-04,76.24,2,0,0,1,1.3.4,2021-05-29,Fixed bugs especially UI for the main view.
+1547214365,0,UltraBoard,Utilities,2021-01-04,2021-01-04,76.24,2,0,0,1,1.3,2021-02-08,Added sharing function.
+1547214365,0,UltraBoard,Utilities,2021-01-04,2021-01-04,76.24,2,0,0,1,1.2.3,2021-01-22,Fixed a bug for page segue .
+1547214365,0,UltraBoard,Utilities,2021-01-04,2021-01-04,76.24,2,0,0,1,1.2.2,2021-01-22,Fixed bug the first line sometimes disappears when using eraser . Fixed UI only for iPhone . Fixed App Store preview movie for iPad and screen shots for iPhone and iPad .
+1547214365,0,UltraBoard,Utilities,2021-01-04,2021-01-04,76.24,2,0,0,1,1.1,2021-01-15,Added saving function.
+1547214365,0,UltraBoard,Utilities,2021-01-04,2021-01-04,76.24,2,0,0,1,1.0.3,2021-01-09,Fixed bugs. Buttons layout sometimes collapsed.
+1547214365,0,UltraBoard,Utilities,2021-01-04,2021-01-04,76.24,2,0,0,1,1.0.2,2021-01-08,Added color picker. Added label for line width next to slider . Improved UX now you can easily know which color you have selected.

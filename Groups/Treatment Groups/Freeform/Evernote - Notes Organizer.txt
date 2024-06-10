@@ -1,0 +1,3377 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Evernote - Notes Organizer
+EvernoteProductivity (Applications)Free
+Alerts
+
+Evernote
+Evernote - Notes Organizer
+Evernote - Notes Organizer
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Evernote - Notes Organizer
+Note pad, to-do list, planner
+Productivity (Applications)
+Free
+App App Store Notes
+Lecture to follow? Novel to write? Project to plan? Getting organised has never been easier! Jot down your thoughts, make a to-do-list, annotate a PDF document - it’s quick and simple to get things in order with Evernote. And the best part? All your notes sync between your devices, meaning you can stay on top of things wherever you are!
+App Description
+Capture ideas when inspiration strikes. Bring your notes, to-dos, and schedule together to tame life’s distractions and accomplish more—at work, at home, and everywhere in between.
+
+Evernote syncs to all your devices, so you can stay productive on the go. Tackle your to-do list with Tasks, connect your Google Calendar to stay on top of your schedule, and see your most relevant information quickly with a customizable Home dashboard.
+
+---
+
+“Use Evernote as the place you put everything… Don’t ask yourself which device it’s on—it’s in Evernote” – The New York Times
+
+“When it comes to taking all manner of notes and getting work done, Evernote is an indispensable tool.” – PC Mag
+
+---
+
+CAPTURE IDEAS
+• Write, collect, and capture ideas as searchable notes, notebooks, and to-do lists.
+• Clip interesting articles and web pages to read or use later.
+• Add different types of content to your notes: text, docs, PDFs, sketches, photos, audio, web clippings, and more.
+• Use your camera to scan and organize paper documents, business cards, whiteboards, and handwritten notes.
+
+GET ORGANIZED
+• Manage your to-do list with Tasks—set due dates and reminders, so you never miss a deadline.
+• Connect Evernote and Google Calendar to bring your schedule and your notes together.
+• See your most relevant information instantly on the Home dashboard.
+• Create separate notebooks to organize receipts, bills, and invoices.
+• Find anything fast—Evernote's powerful search can even find text in images and handwritten notes.
+
+
+ACCESS ANYWHERE
+• Sync your notes and notebooks automatically across any computer, phone, or tablet.
+• Start work on one device and continue on another without missing a beat.
+
+EVERNOTE IN EVERYDAY LIFE
+• Keep a journal to keep your thoughts organized.
+• Go paperless by scanning receipts and important documents.
+
+EVERNOTE IN BUSINESS
+• Keep everyone up to date by capturing meeting notes and sharing notebooks with your team.
+• Bring people, projects, and ideas together with shared Spaces.
+
+EVERNOTE IN EDUCATION
+• Keep track of lecture notes, exams, and assignments so you don’t miss important details.
+• Create notebooks for each class and keep everything organized.
+
+---
+
+Also available from Evernote:
+
+EVERNOTE PERSONAL
+• 10 GB of new uploads each month
+• Unlimited number of devices
+• Create and manage tasks
+• Connect one Google Calendar account
+• Access your notes and notebooks offline
+
+EVERNOTE PROFESSIONAL
+• 20 GB of new uploads each month
+• Unlimited number of devices
+• Create, manage, and assign tasks
+• Connect multiple Google Calendar accounts
+• Access your notes and notebooks offline
+• Home dashboard - Full customization
+
+--
+
+Price may vary by location. Subscriptions will be charged to your credit card through your iTunes account. Where applicable, your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. Subscriptions may not be cancelled for refund except as provided in Evernote's Commercial Terms. Manage your subscriptions in Account Settings after purchase.
+
+---
+
+Privacy Policy: https://evernote.com/legal/privacy.php
+Terms of Service: https://evernote.com/legal/tos.php
+Commercial terms: https://evernote.com/legal/commercial-terms
+Ratings
+Displayed Avg Ratings
+4.31
+Total Displayed Ratings
+193k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 10.79.0 (Mar 5, 2024)
+    Fixes:
+    - Fixed an issue where the unsync device screen on tablet was not resizing correctly in landscape mode.
+    - Fixed an issue where recurring tasks repeating after completion were not being updated in the notes once completed.
+Version 10.77.0 (Feb 20, 2024)
+    Fixes:
+    - Fixed an issue where changes to tasks within a note were not reflected in the Tasks section
+Version 10.76.1 (Feb 14, 2024)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.76.0 (Feb 13, 2024)
+    Fixes:
+    - Fixed an issue where stacks weren't shown during searches in the Notebook list
+    - Fixed an issue causing some filters in the Filtered Notes Widget to not work properly
+Version 10.75.0 (Feb 6, 2024)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.68.0 (Jan 30, 2024)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.67.0 (Jan 23, 2024)
+    Fixes:
+    - Offline notes now display correctly in the Offline section after being downloaded.
+    - Shortcuts Widget on the Home Screen no longer prompts for login on iOS/iPadOS if the user is already logged.
+    - Search functionality in Offline Notebooks is now working as expected.
+Version 10.66.0 (Jan 16, 2024)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.65.1 (Jan 10, 2024)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.64.0 (Jan 3, 2024)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.62.3 (Dec 27, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.62.2 (Dec 19, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.62.0 (Dec 12, 2023)
+    Fixes:
+    - Fixed an issue with filters limiting the selection of custom dates to the current date
+    - Fixed the arrow icon and sorting order of the Sort by function for notebooks
+    - Fixed an issue causing the app to crash when deleting a restored note from the notes widget
+    - Fixed an issue causing the note cards in the notes widget to duplicate
+Version 10.61.2 (Dec 5, 2023)
+    Fixes:
+    - Fixed an issue causing the app to freeze when moving a note
+Version 10.61.1 (Dec 1, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.61.0 (Nov 28, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.60.1 (Nov 22, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.60.0 (Nov 21, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.59.0 (Nov 15, 2023)
+    Fixes:
+    - Fixed an issue preventing the user from opening the Space directory from the side menu;
+    - Fixed a color mismatch issue in the Notebook header when switching between light and dark mode;
+    - Fixed an issue causing the title of a note to duplicated when selecting a template;
+Version 10.58.1 (Nov 6, 2023)
+    Fixes:
+    - Fixed an issue that caused the options related to Saved Search to disappear
+    - Fixed an issue that caused the app to freeze when creating a Sketch
+Version 10.57.2 (Oct 26, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.57.1 (Oct 25, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.56.3 (Oct 18, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.56 (Oct 9, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+
+    New Features:
+    - Introducing AI-Powered Search! Simply ask a question and AI-Powered Search will immediately give you a direct and succinct written answer based on the content of your notes. Coming soon!
+Version 10.55.1 (Sep 29, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.55 (Sep 25, 2023)
+    Fixes:
+    - Performance improvements and miscellaneous bug fixes
+Version 10.54.1 (Sep 18, 2023)
+    Bug Fixes:
+    - Fixed an issue where recurring tasks were not supported.
+Version 10.54 (Sep 11, 2023)
+    Bug Fixes:
+    - Miscellaneous bug fixes and improvements
+Version 10.53.3 (Sep 1, 2023)
+    Bug Fixes:
+    - Fixed a bug causing an increase in note creation time.
+Version 10.53.2 (Aug 24, 2023)
+    Bug Fixes:
+    - Fixed a bug causing an increase in note creation time.
+Version 10.53.1 (Aug 14, 2023)
+    Bug fixes:
+    - Fixed a sketchpad duplication bug.
+    - Fixed the layout of the Insert menu in landscape mode on some devices.
+    - Fixed a bug that could cause new Sketch notes to be created inside the default notebook instead of the selected notebook.
+    - Fixed a bug that could prevent you from typing in the "Find in note" field.
+    - Fixed an untimely debug message that could appear after login.
+    - Fixed Japanese typing delay during real-time collaboration sessions.
+    - Fixed a bug that was causing the sidebar to flash when scrolling over expanded Notebooks, Tags, and Spaces.
+Version 10.53 (Aug 8, 2023)
+    Bug fixes:
+    - Fixed a bug that could cause the sketchpad content to be duplicated when opening the app.
+    - Fixed the layout of the Insert menu, which could get partially hidden by the notch in landscape mode on some devices.
+    - Fixed a bug that could cause new Sketch notes to be created inside the default notebook instead of the selected notebook.
+    - Fixed a bug that could prevent you from typing in the "Find in note" field.
+    - Fixed an untimely debug message that could appear after login.
+    - Fixed the changes propagation delay that could appear when typing Japanese characters during a real-time collaboration session.
+Version 10.52.2 (Jul 27, 2023)
+    Fixed:
+    - Miscellaneous bug fixes
+Version 10.52.1 (Jul 14, 2023)
+    Fixed:
+    - Miscellaneous bug fixes
+Version 10.52 (Jul 11, 2023)
+    Fixed:
+    - Miscellaneous bug fixes
+Version 10.51.2 (Jun 22, 2023)
+    Fixed:
+    - Miscellaneous bug fixes
+Version 10.51.1 (May 31, 2023)
+    This release contains important parts of the puzzle as we prepare to roll out the AI Note Cleanup feature. We hope you are as excited as we are about this powerful new feature.
+    Coming soon on all your devices!
+Version 10.51 (May 17, 2023)
+    This release contains important parts of the puzzle as we prepare to roll out the AI Note Cleanup feature. We hope you are as excited as we are about this powerful new feature.
+    Coming soon on all your devices!
+Version 10.50.4 (May 8, 2023)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.50.3 (Apr 27, 2023)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.50.2 (Apr 13, 2023)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.50.1 (Apr 11, 2023)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.50 (Apr 3, 2023)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.49.2 (Mar 31, 2023)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.49 (Mar 13, 2023)
+    Fixed
+
+    - Miscellaneous bug fixes
+
+Version 10.48 (Feb 8, 2023)
+    New
+
+    - You can now set a recurring task to be due a specific length of time after you last marked it as completed. That way, if you're running a little behind on something that needs to be done "every 30 days" (for example), the whole series will automatically update.
+Version 10.47 (Jan 25, 2023)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.46 (Jan 5, 2023)
+    New
+
+    - Introducing backlinks! Now you can see which notes link to the one you're working in, so it's easier to connect ideas and keep your information organized.
+Version 10.45.2 (Dec 13, 2022)
+    New
+    - Now you can easily add links to other notes in Evernote right from the Insert menu.
+    - We've upgraded how you can view note links in Evernote. Instead of a boring old link, you can choose to see either a preview of the note's contents, a text link, or the note's title.
+    - You can now select different default views for links and attachments inside a note. Just open the Notes section of the Settings menu and choose your preferred way of viewing images, links to other notes, YouTube videos, and Google Drive files.
+    - We're continuing to improve recurring tasks, thanks to your feedback! Now on the "Custom" recurrence screen, you can say when you want the recurrence to start, as well as choose from more specific monthly recurrence options, such as "the 2nd Thursday".
+    - New! Offline Notes on mobile allows Personal, Professional and Teams users to select specific notes to access offline on mobile—without having to download an entire notebook.
+Version 10.45.2 (Dec 13, 2022)
+    New
+    - Now you can easily add links to other notes in Evernote right from the Insert menu.
+    - We've upgraded how you can view note links in Evernote. Instead of a boring old link, you can choose to see either a preview of the note's contents, a text link, or the note's title.
+    - You can now select different default views for links and attachments inside a note. Just open the Notes section of the Settings menu and choose your preferred way of viewing images, links to other notes, YouTube videos, and Google Drive files.
+    - We're continuing to improve recurring tasks, thanks to your feedback! Now on the "Custom" recurrence screen, you can say when you want the recurrence to start, as well as choose from more specific monthly recurrence options, such as "the 2nd Thursday".
+    - New! Offline Notes on mobile allows Personal, Professional and Teams users to select specific notes to access offline on mobile—without having to download an entire notebook.
+Version 10.45 (Dec 8, 2022)
+    New
+    - Now you can easily add links to other notes in Evernote right from the Insert menu.
+    - We've upgraded how you can view note links in Evernote. Instead of a boring old link, you can choose to see either a preview of the note's contents, a text link, or the note's title.
+    - You can now select different default views for links and attachments inside a note. Just open the Notes section of the Settings menu and choose your preferred way of viewing images, links to other notes, YouTube videos, and Google Drive files.
+    - We're continuing to improve recurring tasks, thanks to your feedback! Now on the "Custom" recurrence screen, you can say when you want the recurrence to start, as well as choose from more specific monthly recurrence options, such as "the 2nd Thursday".
+    - New! Offline Notes on mobile allows Personal, Professional and Teams users to select specific notes to access offline on mobile—without having to download an entire notebook.
+Version 10.44 (Nov 16, 2022)
+    New
+    - Creating tasks just got easier! Type "()" inside a note, followed by some text, and the app will automatically turn it into a task for you.
+    - Setting due dates for your tasks is now one click quicker, since we added "today" and "tomorrow" options in the task details window.
+Version 10.43.1 (Nov 10, 2022)
+    New
+
+    - We're making the most of the new iOS 16 by adding support for Lock Screen Widgets! Now you can skip all your phone’s distractions and stay focused on exactly what you need to know right now. See your most recent note or next three tasks—without even unlocking your phone. Or create a new note, task, scan, or search with a single tap. Accessing your most important information has never been quicker...or easier.
+    - New note settings: Choose starting cursor position (note body or title) and completed checklist appearance.
+    - We've made it easier for Personal, Professional, and Teams customers to share notes linked to calendar events with all meeting participants.
+Version 10.43 (Nov 3, 2022)
+    New
+
+    - We're making the most of the new iOS 16 by adding support for Lock Screen Widgets! Now you can skip all your phone’s distractions and stay focused on exactly what you need to know right now. See your most recent note or next three tasks—without even unlocking your phone. Or create a new note, task, scan, or search with a single tap. Accessing your most important information has never been quicker...or easier.
+    - New note settings: Choose starting cursor position (note body or title) and completed checklist appearance.
+    - We've made it easier for Personal, Professional, and Teams customers to share notes linked to calendar events with all meeting participants.
+Version 10.42 (Oct 17, 2022)
+    Fixed
+    - Performance and stability improvements
+    - Miscellaneous bug fixes
+Version 10.41 (Oct 3, 2022)
+    Fixed
+    - Additional improvements to offline notebook download time
+    - Performance and stability improvements
+    - Miscellaneous bug fixes
+Version 10.40 (Sep 20, 2022)
+    Fixed
+
+    - Miscellaneous bug fixes
+Version 10.39 (Aug 31, 2022)
+    Fixed
+    - Improvement to offline notebook download speed
+    - Miscellaneous bug fixes
+Version 10.38 (Aug 18, 2022)
+    New
+    - We've added a new filter to the Tasks view to show you only your recurring tasks.
+    - Creating tasks just got easier! Type "()" inside a note, followed by some text, and the app will automatically turn it into a task for you.
+Version 10.37.1 (Aug 5, 2022)
+    New
+    - Work faster on iPad with new keyboard shortcuts.
+    - The app will now auto-populate new note titles when you tap into the title field. "Sounds cool," we hear you say, "but what does it mean?" It's like this: Let's say the first line of content in your note is something like "Team meeting, June 23rd." Simply tap in the title field and the app will instantly make that your note's title, without any extra effort on your part. You can change it later if you want, but think of the time you'll save!
+    - We added a mini sidebar to make it easier than ever to navigate the app on your iPad.
+Version 10.37 (Aug 4, 2022)
+    New
+    - Work faster on iPad with new keyboard shortcuts.
+    - The app will now auto-populate new note titles when you tap into the title field. "Sounds cool," we hear you say, "but what does it mean?" It's like this: Let's say the first line of content in your note is something like "Team meeting, June 23rd." Simply tap in the title field and the app will instantly make that your note's title, without any extra effort on your part. You can change it later if you want, but think of the time you'll save!
+    - We added a mini sidebar to make it easier than ever to navigate the app on your iPad.
+Version 10.36 (Jul 22, 2022)
+    New
+    - Teams customers can now filter by stack in the search bar or the filtered notes widget.
+    - New widget alert! Keep a list of your Evernote shortcuts right on your device's home screen, so you can get to your favorite notes quicker.
+Version 10.35 (Jul 5, 2022)
+    New
+    - One of your most requested features is here! Now when you add a due date to a task, you'll have the option to make it repeat. Choose from preset options like daily or weekly, or set your own custom recurrence.
+    - Tired of using the Insert button to add hyperlinks to your notes? We get it. But now all you need to do is copy a URL, highlight some text, and select Paste. We love how much time it saves, and we think you will too.
+
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.34.1 (Jun 15, 2022)
+    New
+    - Great news for iOS users: Evernote widgets are here to speed up your day! Add them to your device's home screen to see your notes at a glance and take action on them. Choose from three different styles, depending on how you like to use Evernote, or add all three to really stay on top of your day.
+Version 10.34 (Jun 8, 2022)
+    New
+    - Great news for iOS users: Evernote widgets are here to speed up your day! Add them to your device's home screen to see your notes at a glance and take action on them. Choose from three different styles, depending on how you like to use Evernote, or add all three to really stay on top of your day.
+Version 10.33 (May 25, 2022)
+    New
+    - We tweaked some things under the hood to make connecting and disconnecting Google Calendar accounts even zippier.
+    - You can now filter by stack when searching within Evernote or using the filtered notes widget. (It's not ready for Teams customers yet, but we're working on it.)
+Version 10.32.2 (May 17, 2022)
+    Fixed
+    - Stability and performance improvements
+Version 10.32 (May 11, 2022)
+    Fixed
+    - Stability and performance improvements
+Version 10.31 (May 2, 2022)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.30.1 (Apr 14, 2022)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.30 (Apr 4, 2022)
+    Fixed
+    - Miscellaneous bug fixes
+Version 10.29 (Mar 16, 2022)
+    Fixed
+
+    - Sometimes, the app was a little too quick to reset if it was sitting in the background. Now everything will be right where you left it, even if you come back hours later.
+Version 10.28 (Mar 7, 2022)
+    Fixed
+    - The app would send you an email every time someone shared a note or notebook with you, which was good. But that email would just say you'd received a "chat," which was not so good. So we fixed it to give you the information you need up front.
+    - Miscellaneous bug fixes
+Version 10.27 (Feb 16, 2022)
+    New
+    - We've improved the layout of Home on tablets and large-screen phones so you can see more of your content in one view. The app now automatically adjusts the number of columns to make the most of your larger screen.
+Version 10.26 (Feb 2, 2022)
+    Fixed
+
+    - Numerous bug fixes
+Version 10.25 (Jan 20, 2022)
+    New
+    - When you have Evernote and Google Calendar connected, Evernote can now remind you when it’s time to take meeting notes, or open an existing note, so you never miss a detail.
+
+    Fixed
+    - Numerous bug fixes and stability improvements
+Version 10.24 (Jan 5, 2022)
+    New
+    - We heard you! Now see ONLY tasks assigned to you, or tasks you've created that aren't assigned to anyone else, by clicking My Tasks in your Tasks view. That'll make it easier to focus on what you have to get done.
+    - We added an icon to make it easier to see which is your default notebook. You'll see it everywhere you would normally select a notebook, such as the notebook list or when moving a note. Hey, it's the little things.
+    - We polished things up so it's easier to see the overflow menu (bottom sheet) on your iPad.
+    - Your Home dashboard now loads even faster, thanks to some tweaks we made under the hood.
+
+    Fixed
+    - When you create a note linked to a calendar event, it contains a blank task to get you started. But those placeholder tasks were also showing up in your Tasks view, which was a big mess. So we fixed it.
+    - You can now tap a link in a task to open a note in Evernote. That'll make it easier for you to pick up right where you left off.
+Version 10.23.1 (Dec 15, 2021)
+    New
+    - You can now see your tasks grouped by: Assigned by me, Assigned to me, Assigned to others, and Unassigned. That'll make it easier to stay on top of things.
+
+    Fixed
+    - URLs in the Tasks view weren't opening when you tapped on them. We fixed that.
+Version 10.23 (Dec 9, 2021)
+    New
+    - You can now see your tasks grouped by: Assigned by me, Assigned to me, Assigned to others, and Unassigned. That'll make it easier to stay on top of things.
+
+    Fixed
+    - URLs in the Tasks view weren't opening when you tapped on them. We fixed that.
+Version 10.22 (Dec 2, 2021)
+    New
+    - We increased the maximum length of a task title from 300 characters to 1000. That's *checks notes*... 700 more characters for you to make use of.
+    - We polished some things under the hood to make the Flagged, Due Date, and Assigned tabs in the Tasks view a little zippier.
+
+    Fixed
+    - Fix for an occasional crash after selecting a search filter
+    - Resolved an issue with the note snippet appearing cut off if the note contained both Tasks and emojis
+    - Fixed an issue where clipped images wouldn't always display right away
+Version 10.21 (Nov 11, 2021)
+    New
+
+    - We're pretty proud of the background images we provided for Home (after all, we took those photos ourselves!). But you might prefer to see more widgets and not have a background image instead. Now the choice is yours when you tap Customize.
+    - You can now assign tasks to anyone with an email address—even if they're not an Evernote customer. They'll see them on a special web page where they can mark (and unmark them) as complete without having to create an account.
+
+    Fixed
+
+    - Fixed an issue where the 'Save' button was occasionally unresponsive when trying to save a camera note
+    - Fixed an issue where the web clipper would sometimes fail when attempting to share from Photos app
+Version 10.20 (Oct 27, 2021)
+    New
+    - Search just got smarter! If you're in a notebook or space and click into the search bar, the app will start your search in that notebook or space by default.
+    - When you filter your tags, you can now choose whether or not to include any child tags (the ones nested under a main tag) as well. Because even though we all love children, sometimes they just get in the way.
+    - You can now reveal and edit an encrypted block of text without permanently decrypting it first. The text will be re-encrypted as soon as you navigate to a different note, so your sensitive data stays hidden.
+
+    Fixed
+    - Sometimes, if you closed a note and then reopened it, the edit button would disappear. But things should be back to normal now.
+    - The Assigned tab in the Tasks view wasn't grouping your tasks by who they were assigned to. That was disappointing, but on the bright side, we fixed it.
+    - We spotted a rare bug that may have been preventing you from adding a due date to a task from within a note. It should be smooth sailing now, though.
+    - If you marked a task as complete from the Tasks view, the due date, reminder, and assignee would disappear. That wasn't very helpful, so we fixed it.
+Version 10.19 (Oct 13, 2021)
+    New
+    - When you take a picture in Evernote, the app can now also save a copy to your device's camera roll.
+    - To help you find what you're looking for even quicker, you'll now see a list of suggested filters at the top of the note list after you perform a search or add a filter.
+    - We've improved how the app handles hyperlinks in tasks, so you can tap on more links in more places, and do more with them. For example: URLs in task titles, and links in tasks within a note. There's a whole lot more, but you get the idea.
+    - If you're in the By Due Date tab in the Tasks view, tasks in each section are now sorted by due date, so it's easier to see what you need to work on first.
+    - We made some changes to the way the app handles dragging-and-dropping and copying-and-pasting files between apps. Because it's important to play well with others.
+
+    Fixed
+    - Occasionally, not every image you scanned into Evernote would be saved. That was a big fail, but thankfully it's now a thing of the past.
+    - We tinkered with the note editor to iron out a few annoying bugs that were buzzing around.
+    - Occasionally, the app would crash when you tapped on a URL. That was kind of embarrassing, but on the bright side, we fixed it.
+    - We took careful aim and blasted a few Calendar bugs into the cosmic void.
+    - Occasionally, Chinese or Japanese words would disappear from a note. Thankfully, that's a thing of the past now.
+Version 10.18 (Sep 23, 2021)
+    New
+    - We've trained the app to be better at recognizing links in your notes. Now it'll automatically convert web URLs, phone numbers, and email addresses to clickable links; and links can also open local files and default apps (we're looking at you, Zoom). You don't even have to include the "https://"!
+
+    Fixed
+    - Occasionally, the app would crash when you tapped on a URL. That was kind of embarrassing, but on the bright side, we fixed it.
+Version 10.17 (Sep 14, 2021)
+    New:
+    - Big news: You can now add codeblocks and dividers to your tables!
+    - We're making Home even more useful for you. Notes, tasks, tags, and notebooks widgets now have an icon at the top-right so you can create a new entry with one click, right from the widget.
+
+
+    Fixed:
+    - The app will now continue recording audio after your device auto-locks, even if you have a passcode enabled.
+Version 10.16 (Aug 25, 2021)
+    New
+    - New widget alert! Make your Home dashboard even more useful by adding the new Filtered Notes widget. See the content you really need, such as all notes with a task, all notes with a reminder due today, and much more. All in one place. (Available with Evernote Personal, Professional and Teams plans.)
+
+    Fixed
+    - Filtering your view to show notes containing tasks would only show you notes you had already deleted. That wasn't very helpful, since you probably deleted them for a reason, so we fixed it.
+    - Tapping on "Go to note" from the tasks detail screen wouldn't actually take you to the note. That was a bit embarrassing, but it's now a thing of the past.
+    - Notes no longer show up in your tasks list once the last task in them has been completed. They'll still be in your note list, but now it's easier to see what you still need to do.
+    - Miscellaneous bug fixes
+    - Stability and performance improvements
+Version 10.15 (Aug 12, 2021)
+    New
+    - We made some adjustments under the hood to improve web clipping on iOS. Clips now sync in the background, and the whole experience is faster and more stable.
+    - Show your notebooks some love. Swipe right on a notebook in the list to unlock more menu options or download it for offline access.
+
+    Fixed
+    - We tweaked some things under the hood to make Tasks even more useful for you.
+Version 10.14 (Jul 28, 2021)
+    Fixed
+    - If you're not a fan of Dark Mode, you might have noticed that the color of the 'Add' button in Shared with Me was a little... dark. Things should be back to normal now, though.
+    - The search results screen used to jump when you were scrolling through it. This was less than ideal, but on the bright side, we fixed it.
+    - Now and then, your avatar icon would appear cut off in the Share dialog. Since the only thing you want clipped is a web page, we fixed that.
+    - We squashed a rare bug that was causing the app to crash when accessing Tasks.
+    - If you left a shared notebook containing tasks, all your tasks would disappear, not just those that had been shared with you. Admittedly, this was a bit of an overreaction, but on the bright side, we fixed it.
+    - The app sometimes wouldn't allow you to move a task to a different note from the details screen, but you should be off to the races now.
+    - The app would sometimes send you a reminder notification before the time you had set, but now that's a thing of the past.
+Version 10.13.2 (Jul 22, 2021)
+    In case you missed it, check out our newest subscription plans:
+
+    Evernote Personal—Keep your home and family life on track
+    - Sync your notes to unlimited devices and work offline.
+    - See all your tasks in a summarized view and set due dates and reminders.
+    - Connect calendars from your primary Google Calendar account.
+    - Add the new Tasks widget to Home and personalize your layout.
+
+
+    Evernote Professional—Tackle any project at work or at home
+    - Everything in Evernote Personal, plus:
+    - Assign tasks to other people.
+    - Connect calendars from multiple Google Calendar accounts.
+    - Customize Home with multiple pinned notes and scratch pads.
+    - Search using Boolean operators and geo location.
+
+    You can now Connect Evernote and Google Calendar to get more done—available with our Personal, Professional, and Teams plans:
+
+    - Create notes for calendar events and access them quickly later—all from the calendar widget in Home.
+
+
+    - Prep for meetings easily, ahead of time or on the spot. One click sets up a logically structured note for you, complete with event details—like date and attendees—which you can search for later.
+
+    Please note: Tasks is no longer in Early Access and is now officially released. This means that more advanced aspects of the feature are now limited to specific Evernote plans. For more plan details, visit evernote.com/compare-plans.
+Version 10.13.1 (Jul 16, 2021)
+    New:
+    - Stability and performance improvements.
+
+    Fixed:
+    - Reduced occurrence of notes incorrectly showing as 'View Only'
+    - Miscellaneous bug fixes.
+Version 10.13 (Jul 6, 2021)
+    New
+    - Customize options for the new note button in Settings > Create Button
+    - Stability and performance improvements.
+
+    Fixed
+    - Miscellaneous bug fixes.
+Version 10.12 (Jun 22, 2021)
+    New
+    - Stability and performance improvements.
+
+    Fixed
+    - Miscellaneous bug fixes.
+Version 10.11 (Jun 3, 2021)
+    Early access to Tasks has started rolling out and will be available to you over the coming weeks.
+
+    Tasks in Evernote help you stay on top of it all by making your notes more actionable and giving your to-dos the context you need.
+
+    Notes and tasks make each other more useful:
+
+    - Add tasks directly to your notes to keep the things you need to do with the information you need to get them done.
+    - Streamline your workflow—when notes and tasks live together, there’s no need to keep switching between your notes and a dedicated task manager.
+    - Avoid information overload by capturing the details, actions, and decisions you need in one convenient place.
+
+    Take control of your day:
+
+    - See the right task, at the right time. Unlike standard checklists, you can set due dates and reminders on each of your tasks.
+    - Get alerts for tasks even when you’re not in Evernote, so important action items never fall through the cracks.
+    - Quickly focus on what matters most by flagging important tasks.
+
+    Master your priorities:
+
+    - Get a summarized view of everything you need to do, or immerse yourself in the context of what you need to do now.
+    - Work your way—sort tasks by note, due date, or flagged status and use filters to focus on what you need in the moment.
+    - Changes to your tasks update instantly across every view and on all your devices.
+
+    Get early access to Tasks and start each day confident that you have a clear path to tackling everything on your plate.
+Version 10.10 (May 25, 2021)
+    New:
+    - You no longer need perfect punctuation to get the search results you want. For example, searching for "checkin" will show you results for "check-in", "check.in", "check_in" and "check'in".
+    - Evernote Business customers can now search inside shared notes.
+
+
+    Fixed:
+    - The app would sometimes crash if it was open for a long time in offline mode. But now it'll wait patiently for you.
+    - Notes would sometimes take too long to open, but now that's a thing of the past.
+    - If you zoomed in on a note, the app would sometimes carry over that zoom setting to your next note. But every note is unique, so we put a stop to it.
+    - Miscellaneous bug fixes.
+Version 10.9 (Apr 28, 2021)
+    Fixed:
+    - Issue with notes sometimes not scrolling
+    - Miscellaneous bug fixes
+    - Stability and performance improvements
+Version 10.8.2 (Apr 17, 2021)
+    New:
+    - Home is now available on iOS! It's a one-stop dashboard that puts the information you need front and center—neatly organized and instantly available.
+    - Home consists of widgets that display your content in a convenient and streamlined view. All customers have a notes widget, a scratch pad widget, and a recently captured widget.
+    - Evernote Premium and Evernote Business customers have additional widget options, as well as the ability to customize the appearance of their Home.
+    - One of your most-requested features is here! You can now search inside PDF files.
+    - You can now apply search filters from the Notes view, to help you find what you need faster.
+
+
+    Fixed:
+    - We've made some adjustments so it's even easier for you to edit tables on your phone or tablet.
+    - Sometimes, the app wouldn't let you create a new note from the Notes view, but it should be smooth sailing now.
+    - If you were viewing a long list of search results while in Snippet view, you would sometimes see a few false results at the bottom of the list.
+
+    Coming Soon:
+    - Search shared notes in Evernote Business via Work Chat.
+    - Improving search functionality by giving it the ability to recognize differences in punctuation (e.g., “O’Neil” vs. “oneil”).
+
+Version 10.8 (Apr 15, 2021)
+    New:
+    - Home is now available on iOS! It's a one-stop dashboard that puts the information you need front and center—neatly organized and instantly available.
+    - Home consists of widgets that display your content in a convenient and streamlined view. All customers have a notes widget, a scratch pad widget, and a recently captured widget.
+    - Evernote Premium and Evernote Business customers have additional widget options, as well as the ability to customize the appearance of their Home.
+    - One of your most-requested features is here! You can now search inside PDF files.
+    - You can now apply search filters from the Notes view, to help you find what you need faster.
+
+
+    Fixed:
+    - We've made some adjustments so it's even easier for you to edit tables on your phone or tablet.
+    - Sometimes, the app wouldn't let you create a new note from the Notes view, but it should be smooth sailing now.
+    - If you were viewing a long list of search results while in Snippet view, you would sometimes see a few false results at the bottom of the list.
+
+    Coming Soon:
+    - Search shared notes in Evernote Business via Work Chat.
+    - Improving search functionality by giving it the ability to recognize differences in punctuation (e.g., “O’Neil” vs. “oneil”).
+Version 10.7.1 (Apr 6, 2021)
+    New:
+    - You can now change the background color and pattern for your sketches.
+    - Stability and performance improvements.
+
+    Fixed:
+    - The ‘done’ and ‘undo’ buttons would sometimes get stuck behind the status bar at the top of your screen, but now they’ll stay within reach at all times.
+    - The Reminders tab would sometimes disappear after you changed the sort options for a notebook, but not anymore.
+
+
+    Coming Soon:
+    - Home is a better way to start your day in Evernote, and it’s coming soon to iOS!
+
+Version 10.7 (Mar 29, 2021)
+    New:
+    - You can now change the background color and pattern for your sketches.
+    - Stability and performance improvements.
+
+    Fixed:
+    - The ‘done’ and ‘undo’ buttons would sometimes get stuck behind the status bar at the top of your screen, but now they’ll stay within reach at all times.
+    - The Reminders tab would sometimes disappear after you changed the sort options for a notebook, but not anymore.
+
+
+    Coming Soon:
+    - Home is a better way to start your day in Evernote, and it’s coming soon to iOS!
+Version 10.6 (Mar 9, 2021)
+    New:
+    - One of your most-requested features is here: Now you can edit tables on your phone or tablet!
+    - We tidied up the navigation menu to make it easier for you to get around. All Notes is now called Notes, and we rearranged the list items so you can find what you need faster.
+    - Evernote Business customers: Don’t want to see every single notebook in a space? No problem! You can now turn that off (or back on again) in Settings > Notebooks.
+
+
+    Fixed:
+    - The app would occasionally crash when you tried to print something. Now there’s nothing stopping you.
+    - Selecting “Larger text” in your phone’s Accessibility settings meant that some Evernote menu items would be cut off. That defeated the whole purpose of using larger text, so we fixed it.
+    - Notes would sometimes flash while you were scrolling through them in Card view. Very annoying, but now a thing of the past.
+    - Sometimes, the thumbnail wouldn’t update after you edited a handwritten note. But it should be smooth sailing now.
+
+
+    Coming Soon:
+    - Customize the background color and pattern for your handwritten notes and sketches.
+Version 10.5.1 (Feb 26, 2021)
+    Fixed:
+    - Issue with notebooks not appearing when in a Space
+    - Stability and performance improvements
+Version 10.5 (Feb 9, 2021)
+    New:
+    - Searching inside shared notebooks is back.
+
+    Fixed:
+    - We fixed an issue with the snippet view note preview not showing the text you had just entered into a note.
+    - Cutting and pasting attachments into a new note would sometimes result in an error, so we fixed it.
+    - We fixed an issue where notes would sometimes appear to be blank when you opened them.
+    - If you thought you had missed some Work Chat notifications, you were right. But you should see them all now.
+    - If you tried to share a PDF or audio file, the keyboard would unhelpfully get in your way, but no longer.
+    - Sometimes, the date and time rows would flicker when you were setting a reminder. Very annoying, but thankfully now a thing of the past.
+Version 10.4 (Jan 15, 2021)
+    Fixed:
+    - You would sometimes see an error when trying to open a note link, but not anymore.
+    - We fixed an issue where the app would crash if you entered special characters in the search bar while you were offline.
+    - We fixed an issue related to stacks not always appearing in the left sidebar.
+    - We fixed a problem where PDFs you had captured with ScanSnap would sometimes disappear.
+    - We squashed a swarm of tiny bugs that, individually, didn’t amount to much but, collectively, were pretty annoying.
+    - We polished some things under the hood to make the app more responsive and more stable.
+Version 10.3 (Jan 5, 2021)
+    Fixed:
+    - Pasting images would result in duplicate images
+    - When using search filters in dark mode the screen would sometimes flash to light mode
+    - Notes would sometimes save in default notebook instead of the selected notebook
+    - Offline notebooks would occasionally get stuck during the download process
+    - Performance improvements for the left sidebar
+    - Users now receive email notifications immediately when a note is shared with them
+
+    Coming Soon:
+    - Table editing
+    - Apple Watch support
+    - Search in PDF files
+    - iOS Widget
+Version 10.2 (Nov 30, 2020)
+    New:
+    - Print a note
+    - Apply filters to search results
+    - Add a tag when using the mobile clipper
+    - Add multiple attachments to a note at the same time
+    - Advanced editing options
+    - Move notes into shared notebooks
+    - Google Drive integration
+
+    Fixed:
+    - Keyboard would occasionally flash when in "All Notes" view
+    - Issue where the reminders badge was not aligned correctly in the note list
+    - Occasional crashes when searching in work chat
+    - Issue with exporting notes
+    - Notebooks occasionally would not appear correctly in the notebook list
+    - Fixed an issue where some notes would appear as view-only
+
+    Coming Soon:
+    - Table editing
+    - Apple Watch support
+    - Search in PDF files
+    - iOS Widget
+    - Share a note via email
+Version 10.1 (Oct 29, 2020)
+    New:
+    - Sort options in search results
+    - Open password protected PDF files
+    - Offline notebooks now continue downloading in the background
+
+    Fixed:
+    - Note appears zoomed in when switching between notes
+    - Issue with loading a large number of search results
+    - Note would not always open at the top of the note
+    - Edit button would flicker when adding attachments
+    - Sharing a PDF file would sometimes open the keyboard
+    - Issue with occasional note conflicts
+    - Miscellaneous bug fixes
+    - Stability and performance improvements
+Version 10.0.4 (Oct 8, 2020)
+    Welcome to the new Evernote for iOS! We’ve rebuilt the app from the ground up to make it easier for you to create notes quickly, customize them however you like, find them in an instant, and take them wherever you go.
+
+
+    Editor
+
+    - You now have more control over your notes’ appearance. Use semantic headers and tables to give structure to your notes. Or change fonts, colors, and highlights to add a personal touch.
+    - Checklists now get the VIP treatment they deserve. You can add list items, indent them, move them around—and enjoy the satisfaction of crossing them off with a single tap.
+    - Adding rich content (like audio, photos, attachments, and sketches) is quicker and easier with the new, multi-function Insert button.
+    - We redesigned the formatting toolbar to put your most-used options front and center. Bold/italic/underline, header level, font sizes and colors, multiple highlighter options, subscript/superscript, alignment, hyperlinking, and more—all right there at your fingertips.
+
+
+    Search
+
+    - Save time—and taps. Get real-time search suggestions as you type to find what you're looking for faster.
+    - Filter your searches by tag, attachment, PDF, URL, and more. So even the most elusive notes will now appear at your command.
+    - Is searching your Evernote superpower? Like to combine keywords, tags, or locations to find exactly what you need? Now you can save those searches and use them over and over again with just one tap.
+
+
+    UI
+
+    - The main screen has a cleaner, more modern look, so it’s easier on the eyes—and easier for you to get stuff done.
+    - We redesigned the document scanner to streamline how you capture information with your camera. In a flash, the app now automatically recognizes documents, Post-it(R) notes, whiteboards, or business cards, scans them for readable text, suggests the best options for capturing them, and adds them to your notes. Ta da!
+    - We’ve introduced nested tags to give you even more ways to organize and find information.
+
+
+    Foundation
+
+    - This update moves the app to a new codebase that’s more stable and reliable, for fewer hang/crash errors.
+    - That new codebase means we can fix bugs quicker and release new features more often (yep, we’ve got some cool things already in development—join our Beta Program for a sneak peek!).
+    - Syncing data across different platforms and devices is smoother and more seamless than before.
+
+    This is a big update that we’re really proud of—and it’s just the start. We’re going to keep working hard, releasing updates, and finding new ways to simplify your life.
+Version 10.0.3 (Oct 2, 2020)
+    Welcome to the new Evernote for iOS! We’ve rebuilt the app from the ground up to make it easier for you to create notes quickly, customize them however you like, find them in an instant, and take them wherever you go.
+
+
+    Editor
+
+    - You now have more control over your notes’ appearance. Use semantic headers and tables to give structure to your notes. Or change fonts, colors, and highlights to add a personal touch.
+    - Checklists now get the VIP treatment they deserve. You can add list items, indent them, move them around—and enjoy the satisfaction of crossing them off with a single tap.
+    - Adding rich content (like audio, photos, attachments, and sketches) is quicker and easier with the new, multi-function Insert button.
+    - We redesigned the formatting toolbar to put your most-used options front and center. Bold/italic/underline, header level, font sizes and colors, multiple highlighter options, subscript/superscript, alignment, hyperlinking, and more—all right there at your fingertips.
+
+
+    Search
+
+    - Save time—and taps. Get real-time search suggestions as you type to find what you're looking for faster.
+    - Filter your searches by tag, attachment, PDF, URL, and more. So even the most elusive notes will now appear at your command.
+    - Is searching your Evernote superpower? Like to combine keywords, tags, or locations to find exactly what you need? Now you can save those searches and use them over and over again with just one tap.
+
+
+    UI
+
+    - The main screen has a cleaner, more modern look, so it’s easier on the eyes—and easier for you to get stuff done.
+    - We redesigned the document scanner to streamline how you capture information with your camera. In a flash, the app now automatically recognizes documents, Post-it(R) notes, whiteboards, or business cards, scans them for readable text, suggests the best options for capturing them, and adds them to your notes. Ta da!
+    - We’ve introduced nested tags to give you even more ways to organize and find information.
+
+
+    Foundation
+
+    - This update moves the app to a new codebase that’s more stable and reliable, for fewer hang/crash errors.
+    - That new codebase means we can fix bugs quicker and release new features more often (yep, we’ve got some cool things already in development—join our Beta Program for a sneak peek!).
+    - Syncing data across different platforms and devices is smoother and more seamless than before.
+
+    This is a big update that we’re really proud of—and it’s just the start. We’re going to keep working hard, releasing updates, and finding new ways to simplify your life.
+Version 10.0.2 (Sep 26, 2020)
+    Welcome to the new Evernote for iOS! We’ve rebuilt the app from the ground up to make it easier for you to create notes quickly, customize them however you like, find them in an instant, and take them wherever you go.
+
+
+    Editor
+
+    - You now have more control over your notes’ appearance. Use semantic headers and tables to give structure to your notes. Or change fonts, colors, and highlights to add a personal touch.
+    - Checklists now get the VIP treatment they deserve. You can add list items, indent them, move them around—and enjoy the satisfaction of crossing them off with a single tap.
+    - Adding rich content (like audio, photos, attachments, and sketches) is quicker and easier with the new, multi-function Insert button.
+    - We redesigned the formatting toolbar to put your most-used options front and center. Bold/italic/underline, header level, font sizes and colors, multiple highlighter options, subscript/superscript, alignment, hyperlinking, and more—all right there at your fingertips.
+
+
+    Search
+
+    - Save time—and taps. Get real-time search suggestions as you type to find what you're looking for faster.
+    - Filter your searches by tag, attachment, PDF, URL, and more. So even the most elusive notes will now appear at your command.
+    - Is searching your Evernote superpower? Like to combine keywords, tags, or locations to find exactly what you need? Now you can save those searches and use them over and over again with just one tap.
+
+
+    UI
+
+    - The main screen has a cleaner, more modern look, so it’s easier on the eyes—and easier for you to get stuff done.
+    - We redesigned the document scanner to streamline how you capture information with your camera. In a flash, the app now automatically recognizes documents, Post-it(R) notes, whiteboards, or business cards, scans them for readable text, suggests the best options for capturing them, and adds them to your notes. Ta da!
+    - We’ve introduced nested tags to give you even more ways to organize and find information.
+
+
+    Foundation
+
+    - This update moves the app to a new codebase that’s more stable and reliable, for fewer hang/crash errors.
+    - That new codebase means we can fix bugs quicker and release new features more often (yep, we’ve got some cool things already in development—join our Beta Program for a sneak peek!).
+    - Syncing data across different platforms and devices is smoother and more seamless than before.
+
+    This is a big update that we’re really proud of—and it’s just the start. We’re going to keep working hard, releasing updates, and finding new ways to simplify your life.
+Version 10.0.1 (Sep 22, 2020)
+    Welcome to the new Evernote for iOS! We’ve rebuilt the app from the ground up to make it easier for you to create notes quickly, customize them however you like, find them in an instant, and take them wherever you go.
+
+
+    Editor
+
+    - You now have more control over your notes’ appearance. Use semantic headers and tables to give structure to your notes. Or change fonts, colors, and highlights to add a personal touch.
+    - Checklists now get the VIP treatment they deserve. You can add list items, indent them, move them around—and enjoy the satisfaction of crossing them off with a single tap.
+    - Adding rich content (like audio, photos, attachments, and sketches) is quicker and easier with the new, multi-function Insert button.
+    - We redesigned the formatting toolbar to put your most-used options front and center. Bold/italic/underline, header level, font sizes and colors, multiple highlighter options, subscript/superscript, alignment, hyperlinking, and more—all right there at your fingertips.
+
+
+    Search
+
+    - Save time—and taps. Get real-time search suggestions as you type to find what you're looking for faster.
+    - Filter your searches by tag, attachment, PDF, URL, and more. So even the most elusive notes will now appear at your command.
+    - Is searching your Evernote superpower? Like to combine keywords, tags, or locations to find exactly what you need? Now you can save those searches and use them over and over again with just one tap.
+
+
+    UI
+
+    - The main screen has a cleaner, more modern look, so it’s easier on the eyes—and easier for you to get stuff done.
+    - We redesigned the document scanner to streamline how you capture information with your camera. In a flash, the app now automatically recognizes documents, Post-it(R) notes, whiteboards, or business cards, scans them for readable text, suggests the best options for capturing them, and adds them to your notes. Ta da!
+    - We’ve introduced nested tags to give you even more ways to organize and find information.
+
+
+    Foundation
+
+    - This update moves the app to a new codebase that’s more stable and reliable, for fewer hang/crash errors.
+    - That new codebase means we can fix bugs quicker and release new features more often (yep, we’ve got some cool things already in development—join our Beta Program for a sneak peek!).
+    - Syncing data across different platforms and devices is smoother and more seamless than before.
+
+    This is a big update that we’re really proud of—and it’s just the start. We’re going to keep working hard, releasing updates, and finding new ways to simplify your life.
+Version 10.0 (Sep 16, 2020)
+    Welcome to the new Evernote for iOS! We’ve rebuilt the app from the ground up to make it easier for you to create notes quickly, customize them however you like, find them in an instant, and take them wherever you go.
+
+
+    Editor
+
+    - You now have more control over your notes’ appearance. Use semantic headers and tables to give structure to your notes. Or change fonts, colors, and highlights to add a personal touch.
+    - Checklists now get the VIP treatment they deserve. You can add list items, indent them, move them around—and enjoy the satisfaction of crossing them off with a single tap.
+    - Adding rich content (like audio, photos, attachments, and sketches) is quicker and easier with the new, multi-function Insert button.
+    - We redesigned the formatting toolbar to put your most-used options front and center. Bold/italic/underline, header level, font sizes and colors, multiple highlighter options, subscript/superscript, alignment, hyperlinking, and more—all right there at your fingertips.
+
+
+    Search
+
+    - Save time—and taps. Get real-time search suggestions as you type to find what you're looking for faster.
+    - Filter your searches by tag, attachment, PDF, URL, and more. So even the most elusive notes will now appear at your command.
+    - Is searching your Evernote superpower? Like to combine keywords, tags, or locations to find exactly what you need? Now you can save those searches and use them over and over again with just one tap.
+
+
+    UI
+
+    - The main screen has a cleaner, more modern look, so it’s easier on the eyes—and easier for you to get stuff done.
+    - We redesigned the document scanner to streamline how you capture information with your camera. In a flash, the app now automatically recognizes documents, Post-it(R) notes, whiteboards, or business cards, scans them for readable text, suggests the best options for capturing them, and adds them to your notes. Ta da!
+    - We’ve introduced nested tags to give you even more ways to organize and find information.
+
+
+    Foundation
+
+    - This update moves the app to a new codebase that’s more stable and reliable, for fewer hang/crash errors.
+    - That new codebase means we can fix bugs quicker and release new features more often (yep, we’ve got some cool things already in development—join our Beta Program for a sneak peek!).
+    - Syncing data across different platforms and devices is smoother and more seamless than before.
+
+    This is a big update that we’re really proud of—and it’s just the start. We’re going to keep working hard, releasing updates, and finding new ways to simplify your life.
+Version 8.24.6 (Jun 4, 2020)
+    Fixed:
+    We came; we saw; we conquered bugs.
+Version 8.24.5 (Apr 29, 2020)
+    Fixed:
+    We came; we saw; we conquered bugs.
+Version 8.24.4 (Mar 25, 2020)
+    Fixed:
+    We came; we saw; we conquered bugs.
+Version 8.24.3 (Dec 18, 2019)
+    New:
+    Dark mode in Evernote is now set through system settings in iOS 13
+
+    Fixed:
+    We came; we saw; we conquered bugs.
+Version 8.24.2 (Nov 7, 2019)
+    New:
+    Dark mode in Evernote is now set through system settings in iOS 13
+
+    Fixed:
+    We came; we saw; we conquered bugs.
+Version 8.24.1 (Oct 10, 2019)
+    New:
+    Dark mode in Evernote is now set through system settings in iOS 13
+
+    Fixed:
+    We came; we saw; we conquered bugs.
+Version 8.24 (Sep 20, 2019)
+    New:
+    -Remember when you were a kid, anxiously counting down the days until your birthday? That’s how we feel waiting for iOS 13. For now, we’re busy tweaking the app to get ready for all the cool new features.
+Version 8.23 (Aug 21, 2019)
+    Fixed:
+    - Occasionally, images you'd captured with your device's camera wouldn’t show up when you opened a note. They were there all along, but now you’ll be able to see them too.
+    - We also fixed some specific issues that were causing the app to misbehave.
+Version 8.22 (Jun 24, 2019)
+    Fixed:
+
+    - Bug fixes and performance improvements = the name of our new band.
+Version 8.21 (Jun 11, 2019)
+    Improved
+
+    - If the app seems a little zippier now, it’s not your imagination. We made some tweaks so your notes will load faster.
+    - We take data security very seriously, so we made some updates to keep your information even more secure.
+
+    Fixed
+
+    - If you share a note with more than two people, you can now see all their email addresses on the share screen. That’ll help avoid any awkward sharing accidents.
+    - Photos you add using the camera icon will now appear in chronological order. So “Wedding 2019” will appear after “Spring Break 2015”. Just like real life.
+    - 'Unlock with Face ID’ will now let you create a photo note using 3D Touch. It didn’t do that before, which went against the whole spirit of ‘unlock.'
+    - When you created an offline notebook, you sometimes got a message saying “Notebook downloading.” Was it downloading anything? No, but it won’t say that anymore.
+Version 8.20 (Apr 24, 2019)
+    - It was a day like any other. Until you tried to create a note in a shared notebook, and the app suddenly crashed. You fell to your knees, pounded your fists on the floor, and cried out in despair, “Whyyy? Why, in the name of all that is good and decent, can’t they just fix that?” We’ve got great news: we fixed that.
+Version 8.19.1 (Apr 5, 2019)
+    Bug fixes and miscellaneous improvements
+Version 8.19 (Mar 21, 2019)
+    Fixed:
+    - Fix for app crash when switching between multiple accounts
+    - Fix for app crash when searching through shared notebooks
+Version 8.18 (Mar 8, 2019)
+    Improved:
+    - Tired of waiting to load and search your offline notebooks? We hear you. That’ll all happen much quicker now.
+    - Dark Mode is seriously awesome, and it’s getting better every day. For example, your handwritten notes might have been a little hard to see, but not anymore.
+
+    Fixed:
+    - Sometimes there was a screen glitch when you reopened the app. So we just went ahead and fixed the glitch. Problem is solved from your end.
+    - Occasionally, some of the formatting icons would just up and disappear while you were editing. Which was not helpful in the slightest.
+    - Are you someone who creates huge offline notebooks? Worried about them not downloading fast enough? Well it won’t be a problem now.
+Version 8.17.3 (Jan 10, 2019)
+    You told us you love Templates, so we’ve made it even easier for you to use them. Now you can view our gallery of templates—plus any you’ve saved—right inside the app. Just click on the “Template” button when you create a new note to see them all. Oh yeah, you know we’re doin’ our happy dance.
+
+    FYI, they look great with Dark Mode too.
+Version 8.17.2 (Dec 18, 2018)
+    Improved:
+    - You said you love Dark Mode, so we’re polishing it up to make it even better.
+    - Now you can double tap your Apple Pencil to quickly switch between tools in Ink and Skitch.
+
+    Fixed:
+    - If you’re wondering why the app was asking for your Apple ID, so were we. But it’s all in the past now.
+    - Sometimes viewing lists of notes, tags, and notebooks would cause the app to crash, which was kind of embarrassing. But it should be smooth sailing now.
+    - Using the passcode lock would sometimes sign you out of your account. It’s secure, but we’ll admit it was a bit of an overreaction.
+    - The navigation sidebar was covering your device’s clock, which was not helpful. What time is it? Time to fix that!
+Version 8.17.1 (Nov 28, 2018)
+    Various tiny fixes to stop crashes and catch bugs.
+Version 8.17 (Nov 15, 2018)
+    New!
+    * You asked for a dark mode in Evernote, and it’s finally here! Welcome to the dark side—lightsabers not included.
+    * Small optimizations in registration experience
+
+    Fixed
+    * We fixed some specific issues that might have been getting in your way, like printing weirdness, images that didn’t attach properly, and misbehaving cursors. We agree they were annoying, but it should be smooth sailing now.
+Version 8.16.6 (Nov 2, 2018)
+    New:
+    • Are blank notes getting you down? Say hello to templates. Now, when you create a note, you can format it with one of 30+ templates. Stay tuned for more.
+    • We’ve added support for Siri Shortcuts in iOS 12 to make Evernote even more flexible! You can now create custom voice commands to: view a note, notebook, space, or saved search; create a new camera note or audio note; copy a note link to the clipboard; or print the current note. Whew!
+    Fixed:
+    • If you were using split view on iPad, dragging an image into a note would make it scroll to the top, which was super annoying. Now the cursor will stay right where you left it.
+    • Somewhere along the way, the app forgot how to save reminders that didn’t have a due date. But now everything is back the way it used to be.
+    • We had an issue where you could see the note list or last note after you reloaded the app, even if the passcode lock was enabled. That was a big fail, but we fixed it.
+    • Adding images to a note in a joined notebook would sometimes cause a crash, but no more.
+Version 8.16.5 (Oct 26, 2018)
+    New:
+    • Are blank notes getting you down? Say hello to templates. Now, when you create a note, you can format it with one of 30+ templates. Stay tuned for more.
+    • We’ve added support for Siri Shortcuts in iOS 12 to make Evernote even more flexible! You can now create custom voice commands to: view a note, notebook, space, or saved search; create a new camera note or audio note; copy a note link to the clipboard; or print the current note. Whew!
+    Fixed:
+    • If you were using split view on iPad, dragging an image into a note would make it scroll to the top, which was super annoying. Now the cursor will stay right where you left it.
+    • Somewhere along the way, the app forgot how to save reminders that didn’t have a due date. But now everything is back the way it used to be.
+    • We had an issue where you could see the note list or last note after you reloaded the app, even if the passcode lock was enabled. That was a big fail, but we fixed it.
+    • Adding images to a note in a joined notebook would sometimes cause a crash, but no more.
+Version 8.16.4 (Oct 2, 2018)
+    New:
+    • Are blank notes getting you down? Say hello to templates. Now, when you create a note, you can format it with one of 30+ templates. Stay tuned for more.
+    • We’ve added support for Siri Shortcuts in iOS 12 to make Evernote even more flexible! You can now create custom voice commands to: view a note, notebook, space, or saved search; create a new camera note or audio note; copy a note link to the clipboard; or print the current note. Whew!
+
+    Fixed:
+    • If you were using split view on iPad, dragging an image into a note would make it scroll to the top, which was super annoying. Now the cursor will stay right where you left it.
+    • Somewhere along the way, the app forgot how to save reminders that didn’t have a due date. But now everything is back the way it used to be.
+    • We had an issue where you could see the note list or last note after you reloaded the app, even if the passcode lock was enabled. That was a big fail, but we fixed it.
+    • Adding images to a note in a joined notebook would sometimes cause a crash, but no more.
+Version 8.16.3 (Sep 26, 2018)
+    New:
+    • Are blank notes getting you down? Say hello to templates. Now, when you create a note, you can format it with one of 30+ templates. Stay tuned for more.
+    • We’ve added support for Siri Shortcuts in iOS 12 to make Evernote even more flexible! You can now create custom voice commands to: view a note, notebook, space, or saved search; create a new camera note or audio note; copy a note link to the clipboard; or print the current note. Whew!
+    Fixed:
+    • If you were using split view on iPad, dragging an image into a note would make it scroll to the top, which was super annoying. Now the cursor will stay right where you left it.
+    • Somewhere along the way, the app forgot how to save reminders that didn’t have a due date. But now everything is back the way it used to be.
+    • We had an issue where you could see the note list or last note after you reloaded the app, even if the passcode lock was enabled. That was a big fail, but we fixed it.
+    • Adding images to a note in a joined notebook would sometimes cause a crash, but no more.
+Version 8.16.2 (Sep 25, 2018)
+    New:
+    • Are blank notes getting you down? Say hello to templates. Now, when you create a note, you can format it with one of 30+ templates. Stay tuned for more.
+    • We’ve added support for Siri Shortcuts in iOS 12 to make Evernote even more flexible! You can now create custom voice commands to: view a note, notebook, space, or saved search; create a new camera note or audio note; copy a note link to the clipboard; or print the current note. Whew!
+    Fixed:
+    • If you were using split view on iPad, dragging an image into a note would make it scroll to the top, which was super annoying. Now the cursor will stay right where you left it.
+    • Somewhere along the way, the app forgot how to save reminders that didn’t have a due date. But now everything is back the way it used to be.
+    • We had an issue where you could see the note list or last note after you reloaded the app, even if the passcode lock was enabled. That was a big fail, but we fixed it.
+    • Adding images to a note in a joined notebook would sometimes cause a crash, but no more.
+Version 8.16.1 (Sep 24, 2018)
+    New:
+    • Are blank notes getting you down? Say hello to templates. Now, when you create a note, you can format it with one of 30+ templates. Stay tuned for more.
+    • We’ve added support for Siri Shortcuts in iOS 12 to make Evernote even more flexible! You can now create custom voice commands to: view a note, notebook, space, or saved search; create a new camera note or audio note; copy a note link to the clipboard; or print the current note. Whew!
+
+    Fixed:
+    • If you were using split view on iPad, dragging an image into a note would make it scroll to the top, which was super annoying. Now the cursor will stay right where you left it.
+    • Somewhere along the way, the app forgot how to save reminders that didn’t have a due date. But now everything is back the way it used to be.
+    • We had an issue where you could see the note list or last note after you reloaded the app, even if the passcode lock was enabled. That was a big fail, but we fixed it.
+    • Adding images to a note in a joined notebook would sometimes cause a crash, but no more.
+Version 8.16 (Sep 17, 2018)
+    New:
+    • We’ve added support for Siri Shortcuts in iOS 12 to make Evernote even more flexible! You can now create custom voice commands to: view a note, notebook, space, or saved search; create a new camera note or audio note; copy a note link to the clipboard; or print the current note. Whew!
+
+    Fixed:
+    • If you were using split view on iPad, dragging an image into a note would make it scroll to the top, which was super annoying. Now the cursor will stay right where you left it.
+    • Somewhere along the way, the app forgot how to save reminders that didn’t have a due date. But now everything is back the way it used to be.
+    • We had an issue where you could see the note list or last note after you reloaded the app, even if the passcode lock was enabled. That was a big fail, but we fixed it.
+    • Adding images to a note in a joined notebook would sometimes cause a crash, but no more.
+Version 8.15.1 (Aug 16, 2018)
+    New:
+    • Notice anything different about us? We’ve updated our look to reflect our renewed purpose: helping you focus on what matters most. You’ll see a new design style, color palette, and fonts—we even gave our elephant a makeover!
+    • Now there’s one easy place to find everything that’s been shared with you, including notes and notebooks. It’s called “Shared with Me,” and you can find it in the Notebook list right under “Reminders.” We think you’ll love it.
+
+    Experiment:
+    • We’re testing a new, quicker way for you to take pictures and add photos in Evernote. Let us know what you think!
+
+    Fixed:
+    • Logging out of multiple accounts on the iPad sometimes caused a crash. That was a bit of an overreaction, but on the bright side, we fixed it.
+    • Sometimes, double-tapping an open note on your iPad would make the app hang. Things should be back to normal now though.
+    • The context feature wasn’t giving you as many results on iOS as it did on other platforms. That really wasn’t fair but we’ve cleared things up.
+    • We fixed an issue where images you drew in the Windows version didn’t look right on iOS. Because shouldn’t we all just get along?
+    • We gave the app a speed boost for iPad. Note snippets were refreshing every time you edited a note, which was a bit excessive. But it’s all under control now.
+Version 8.15 (Aug 14, 2018)
+    New:
+    • Notice anything different about us? We’ve updated our look to reflect our renewed purpose: helping you focus on what matters most. You’ll see a new design style, color palette, and fonts—we even gave our elephant a makeover!
+    • Now there’s one easy place to find everything that’s been shared with you, including notes and notebooks. It’s called “Shared with Me,” and you can find it in the Notebook list right under “Reminders.” We think you’ll love it.
+
+    Experiment:
+    • We’re testing a new, quicker way for you to take pictures and add photos in Evernote. Let us know what you think!
+
+    Fixed:
+    • Logging out of multiple accounts on the iPad sometimes caused a crash. That was a bit of an overreaction, but on the bright side, we fixed it.
+    • Sometimes, double-tapping an open note on your iPad would make the app hang. Things should be back to normal now though.
+    • The context feature wasn’t giving you as many results on iOS as it did on other platforms. That really wasn’t fair but we’ve cleared things up.
+    • We fixed an issue where images you drew in the Windows version didn’t look right on iOS. Because shouldn’t we all just get along?
+    • We gave the app a speed boost for iPad. Note snippets were refreshing every time you edited a note, which was a bit excessive. But it’s all under control now.
+Version 8.14 (Jul 17, 2018)
+    New:
+    • Now you can use Siri to set reminders in Evernote. Try “Hey Siri, remind me to leave work at 5PM in Evernote.” Yep, our integration just got even more awesome.
+    • We’ve polished things up with a few design tweaks, so it’s easier to focus on your notes.
+
+    Fixed:
+    • When you scrolled through your list of tags, the keyboard would stop you from seeing all the way to the bottom. Bad keyboard! Very bad!
+    • If you had a lot of notes on your iPhone X (and we mean A LOT!), scrolling through the whole list would sometimes cause the app to crash. And that’s no way to treat a power user, is it?
+    • When you opened a note from the suggested search results, you could play an audio file but the controls were missing. Now you’re back in the driver’s seat.
+    • If you copied and pasted a table from Excel, it would show up as an image that you couldn’t edit. The only constant in life is change, so we fixed that.
+    • Split View is great on the iPad, but closing and reopening Evernote would sometimes cause a note to disappear. Since disappearing is only good if you’re a magician, we squashed that bug.
+    • Sometimes the keyboard wouldn’t pop up if you were trying to share and edit a note. Things should be back to normal now though.
+    • Your photos would stop uploading to a note as soon as you clicked Done. That’s probably not what you wanted, so now they’ll quietly upload in the background.
+    • When you locked your iPad in landscape mode, the Evernote camera wouldn’t stay with you. That made your pictures look weird, so we fixed the glitch.
+Version 8.13.2 (Jul 11, 2018)
+    Numerous bug fixes and improvements
+Version 8.13.1 (Jun 22, 2018)
+    Numerous bug fixes and improvements
+Version 8.13 (Jun 8, 2018)
+    Experiments:
+    • We’re trying out some suggestions when you’re setting reminders to make them faster and easier to use for all of those tasks, to-dos, and projects.
+    • We’re shaking things up by placing the icons for tags and reminders on top of the note editing toolbar, so organizing your notes and setting reminders is always top of mind.
+
+    New:
+    • We’ve made some improvements to search and you can now sort by relevance, so you can see the things that are, well, more relevant to what you’re looking for.
+    • You now have the power to annotate HEIC files. (In case you’re not up on the lingo, it’s the format sorcery Apple uses to make their images higher quality yet smaller in size.)
+    • In your settings, you now have the option to turn auto-add location on or off as you please.
+
+    Fixes:
+    • If you had a lot of offline notebooks, sometimes that slowed you down when you were creating or loading notes. But we fixed that, so you should be off to the races now.
+    • When you tried to drag and drop from other apps, your note would suddenly (and annoyingly) scroll the top. Now things will stay put.
+    • You connected Evernote and LinkedIn and were happily scanning business cards, but the profile photos of your contacts weren’t appearing. Which really got in the way of the whole ‘putting a face to the name’ thing.
+    • We’ve made changes so that notes will not be shown in iMessage or the iOS widget when pin lock is enabled.
+    • We’ve also fixed some of the specific issues that were causing the app to crash.
+Version 8.12 (May 18, 2018)
+    New:
+    - If your bluetooth headphones also have a microphone (*cough* Apple AirPods *cough*), you'll be happy to know you can now use them to record audio into Evernote.
+    - Good news for Premium and Business customers: You love the Context feature, so we've brought it back. Reunion tour!
+    - We've tweaked the note list view so you always know where you are (and when). Now, the month and year stays pinned helpfully at the top as you browse your notes. Or if you use the scrollbar, a box automagically appears so you can leap from month to month like a gazelle.
+    - We've cleaned up the sharing menu to make it easier for you to share your notes and generate links so other people can view them. The previous options are still there too, we just brought the good stuff to the front. Let us know what you think!
+
+    Fixed:
+    - You may have been getting an error message when you tried to view your recent notes in the widget. That's probably not what you were hoping for, but we've fixed it now.
+    - When you looked at a note's preview in the note list, any bullets you had would appear above the text, not next to it where you'd expect. Weird, right? It all looks good now though.
+    - We took care of some of the top sync and copy & paste issues that were getting in your way.
+Version 8.11.1 (Apr 21, 2018)
+    Experiments:
+    - We’re mixing things up with the tab bar by testing a few new options, so be sure to let us know your thoughts!
+
+    Fixed:
+    - When sharing notebooks, there was a problem with selecting the right account in the suggest list, but it’s now a thing of the past.
+    - When you clipped notes, it unfortunately sometimes created duplicates, proving that twice isn’t always as nice. But we’re now back to the normal state of one clip, one note.
+    - The app would crash after sharing a note via Work Chat, but we’ve fixed that now. Because nothing should stand in the way of sharing a great idea.
+    - Sometimes the content of your note simply wouldn’t load. But we’ve cleared things up, so it should be nothing but smooth sailing and speedy loading from here.
+    - Sometimes tapping on an attachment in a note wouldn’t open it. All attachments should now open correctly, as you would expect.
+    - Various other tiny fixes to stop crashes and catch bugs.
+Version 8.11 (Apr 20, 2018)
+    Experiments:
+    - We’re mixing things up with the tab bar by testing a few new options, so be sure to let us know your thoughts!
+
+    Fixed:
+    - When sharing notebooks, there was a problem with selecting the right account in the suggest list, but it’s now a thing of the past.
+    - When you clipped notes, it unfortunately sometimes created duplicates, proving that twice isn’t always as nice. But we’re now back to the normal state of one clip, one note.
+    - Sometimes tapping on an attachment in a note wouldn’t open it. All attachments should now open correctly, as you would expect.
+    - The app would crash after sharing a note via Work Chat, but we’ve fixed that now. Because nothing should stand in the way of sharing a great idea.
+    - Sometimes the content of your note simply wouldn’t load. But we’ve cleared things up, so it should be nothing but smooth sailing and speedy loading from here.
+    - Various other tiny fixes to stop crashes and catch bugs.
+Version 8.10.1 (Mar 26, 2018)
+    New:
+    Now you can see the word count and size of your note by tapping the (i) at the top right of your note. Writers rejoice!
+    Lots of updates to the 'Manage Tags' (Account > Settings) section! It now includes total tag count, number of notes associated with tags, and the ability to rename tags.
+
+    Fixed:
+    Simplify formatting is once again removing font, color, and size formats.
+    Web clips will now always appear in a note when viewed—as you’d expect.
+    We’ve addressed the top issues causing the app to crash.
+Version 8.10 (Mar 16, 2018)
+    New:
+    Now you can see the word count and size of your note by tapping the (i) at the top right of your note. Writers rejoice!
+    Lots of updates to the 'Manage Tags' (Account > Settings) section! It now includes total tag count, number of notes associated with tags, and the ability to rename tags.
+
+    Fixed:
+    Simplify formatting is once again removing font, color, and size formats.
+    Web clips will now always appear in a note when viewed—as you’d expect.
+    We’ve addressed the top issues causing the app to crash.
+Version 8.9.2 (Mar 12, 2018)
+    Numerous bug fixes and improvements including
+    - a fix for an intermittent sync error when the default notebook is created
+    - a fix for opening public note links in notes
+    - a fix for a top crashing issue
+Version 8.9.1 (Feb 16, 2018)
+    Numerous bug fixes and improvements including
+    - a fix for an intermittent sync error when the default notebook is created
+    - a fix for opening public note links in notes
+    - a fix for a top crashing issue
+Version 8.9 (Feb 8, 2018)
+    Misc bug fixes and performance improvements:
+    – Fixes for top crash and sync issues
+    – Fixes for deep linking issues
+    – Fixes for share count issues
+Version 8.8.1 (Jan 24, 2018)
+    • Advanced auto-formatting options (including code block and tables!). Go to Account > Settings > Notes
+    • Misc bug fixes and performance improvements:
+    • Fixed top crash and sync issues
+    • Fixed an issue where lines made with Apple Pencil appear jagged
+    • Fixed an issue with quoted searches not returning exact results
+    • Fixed an issue with the note list briefly showing before PIN lock activates
+Version 8.8 (Jan 18, 2018)
+    • Advanced auto-formatting options (including code block and tables!). Go to Account > Settings > Notes
+    • Misc bug fixes and performance improvements:
+    • Fixes for top crash and sync issues
+    • Fixed an issue where lines made with Apple Pencil appear jagged
+    • Fixed an issue with quoted searches not returning exact results
+    • Fixed an issue with the note list briefly showing before PIN lock activates
+Version 8.7.1 (Dec 20, 2017)
+    Misc bug fixes and performance improvements
+Version 8.7 (Dec 14, 2017)
+    Misc bug fixes and performance improvements
+Version 8.6 (Nov 17, 2017)
+    Drag and Drop for iPad
+    - Drop content into Evernote to create new notes
+    - Drop content into existing notes
+    - Drag content from notes into other apps
+
+    Improved editor
+    - Notes load faster
+    - New layout for wide tables
+
+    Numerous bug fixes. Notably:
+    - Fixed a crash on Apple Watch
+    - Fixed a bug where the back icon sometimes wouldn’t appear on iPad
+Version 8.5.1 (Oct 25, 2017)
+    Changes to Notebook navigation
+    Notebooks are now accessible by
+    * Tapping back button
+    * Swiping from the left
+    You can enable/disable recent notebooks in Account > Settings > Notebooks
+
+    Misc bug fixes and perf improvements
+Version 8.5 (Oct 18, 2017)
+    Changes to Notebook navigation
+    Notebooks are now accessible by:
+    - Tapping back button
+    - Swiping left
+    You can enable/disable recent notebooks in Account > Settings > Notebooks
+
+    Misc bug fixes and perf improvements
+Version 8.4.1 (Sep 28, 2017)
+    Bug fixes and misc updates for iOS 11
+    Use Siri with Evernote: Create, update, and find notes
+    Updated Watch App: Improved performance, create audio notes
+Version 8.4 (Sep 18, 2017)
+    Updates for iOS 11
+    Use Siri with Evernote: Create, update, and find notes
+    Updated Watch App: Improved performance, create audio notes
+    Misc bug fixes and performance improvements
+Version 8.3 (Aug 8, 2017)
+    Fixed an issue where the app would perform slowly on iPad.
+    Fixed an issue where content from one note might replace content in another.
+    Fixed an issue where content in offline notebooks would not download.
+Version 8.2.2 (May 30, 2017)
+    Numerous bug fixes and improvements
+Version 8.2.1 (May 1, 2017)
+    A change which will make app resume faster for some users.
+    Fixed an issue where some table columns appear compressed.
+    Fixed an intermittent issue where some notes are blank on initial load.
+Version 8.2 (Apr 10, 2017)
+    Performance improvements:
+    The app and camera launch faster, and notes and tags load faster. Scrolling through your list of notes is smoother and more responsive.
+
+    Enhanced business cards:
+    Include both sides and easily update fields when you scan business cards.
+
+    Access reminders more quickly:
+    Tap the clock up top, to the right of the search bar. Reminders are now listed by due date, not date created or updated.
+
+    Added Norwegian language support.
+    Made numerous bug fixes and improvements, including several crashes.
+Version 8.1 (Feb 13, 2017)
+    • Peek into notes in note lists using 3D Touch
+    • Set or change reminder dates by swiping on notes in note lists
+    • Sync improvements
+    • Numerous bug fixes and improvements
+Version 8.0.4 (Feb 2, 2017)
+    Bug fixes and miscellaneous improvements
+
+    8.0:
+    Evernote 8.0 for iPhone, iPad, and iPod touch, is a complete redesign emphasizing speed and simplicity. Capture your thoughts with ease, and find what you're looking for faster than ever. Bring beauty and clarity to your notes with an improved editing experience. We’re really excited. We hope you are too.
+
+    Quickly navigate between main sections of the app with the tab bar
+    - Sections: Notes, Search, Note Creation (+), Shortcuts, and Account
+    - Work Chat is now nested inside the Account tab
+
+    Find your content more easily with the new note list
+    - Browse notes and identify your images quickly with newly designed note previews
+    - Switch between small, medium (default), or large previews by tapping Note List Options (in the overflow ‘…’ menu)
+    - Filter note lists by tags: Tap the tag icon to select and apply tag filters
+    - Filter note lists by reminders: Tap the reminder icon to view just your reminder notes
+    - Manually sync: Pull down on the note list
+
+    Switch between notebooks quickly
+    - Tap the name of the notebook at the top of the screen to get to your notebook list
+
+    Create new notes with a multi-function + button
+    - Tap the + button to get right into the note editor
+    - Press and hold to view more note creation options
+    - Press and drag to quickly create Audio, Photo, or Reminder notes
+
+    Beautify your notes with a better formatting and styling options
+    - Change your text size to small, medium, or large
+    - Change text color! (Swipe left for shades of gray)
+    - Swipe the keyboard down to save and enter View mode
+
+    2 ways to search
+    - Search within a notebook by tapping in the search field at the top of the note list
+    - Search your entire account from the search tab (see results for notes, notebooks, and tags)
+
+    Easy access to shortcuts
+    - Access your shortcuts straight from the tab bar
+    - Shortcuts area also shows your most recently viewed notes
+
+    Switch between business and personal views
+    - Evernote Business users can switch between personal and business accounts from the account tab. Just tap your name and select the account you want to view
+    - Or, you can press and hold the Account tab to quickly switch accounts
+
+    View notes by tag in new ways
+    - Filter any note list by one or more tags. Tap the tag icon next to the search field in a note list
+    - Jump to a tag from the search tab (see matching tags as suggestions as you type)
+    - Tag management has been moved into Account tab > Settings > Manage Tags. This is a simplified list, where you can delete tags or add a tag to Shortcuts
+Version 8.0.3 (Jan 26, 2017)
+    Bug fixes and miscellaneous improvements
+
+    8.0:
+    Evernote 8.0 for iPhone, iPad, and iPod touch, is a complete redesign emphasizing speed and simplicity. Capture your thoughts with ease, and find what you're looking for faster than ever. Bring beauty and clarity to your notes with an improved editing experience. We’re really excited. We hope you are too.
+
+    Quickly navigate between main sections of the app with the tab bar
+    - Sections: Notes, Search, Note Creation (+), Shortcuts, and Account
+    - Work Chat is now nested inside the Account tab
+
+    Find your content more easily with the new note list
+    - Browse notes and identify your images quickly with newly designed note previews
+    - Switch between small, medium (default), or large previews by tapping Note List Options (in the overflow ‘…’ menu)
+    - Filter note lists by tags: Tap the tag icon to select and apply tag filters
+    - Filter note lists by reminders: Tap the reminder icon to view just your reminder notes
+    - Manually sync: Pull down on the note list
+
+    Switch between notebooks quickly
+    - Tap the name of the notebook at the top of the screen to get to your notebook list
+
+    Create new notes with a multi-function + button
+    - Tap the + button to get right into the note editor
+    - Press and hold to view more note creation options
+    - Press and drag to quickly create Audio, Photo, or Reminder notes
+
+    Beautify your notes with a better formatting and styling options
+    - Change your text size to small, medium, or large
+    - Change text color! (Swipe left for shades of gray)
+    - Swipe the keyboard down to save and enter View mode
+
+    2 ways to search
+    - Search within a notebook by tapping in the search field at the top of the note list
+    - Search your entire account from the search tab (see results for notes, notebooks, and tags)
+
+    Easy access to shortcuts
+    - Access your shortcuts straight from the tab bar
+    - Shortcuts area also shows your most recently viewed notes
+
+    Switch between business and personal views
+    - Evernote Business users can switch between personal and business accounts from the account tab. Just tap your name and select the account you want to view
+    - Or, you can press and hold the Account tab to quickly switch accounts
+
+    View notes by tag in new ways
+    - Filter any note list by one or more tags. Tap the tag icon next to the search field in a note list
+    - Jump to a tag from the search tab (see matching tags as suggestions as you type)
+    - Tag management has been moved into Account tab > Settings > Manage Tags. This is a simplified list, where you can delete tags or add a tag to Shortcuts
+Version 8.0.2 (Jan 22, 2017)
+    Bug fixes and miscellaneous improvements
+
+    8.0:
+    Evernote 8.0 for iPhone, iPad, and iPod touch, is a complete redesign emphasizing speed and simplicity. Capture your thoughts with ease, and find what you're looking for faster than ever. Bring beauty and clarity to your notes with an improved editing experience. We’re really excited. We hope you are too.
+
+    Quickly navigate between main sections of the app with the tab bar
+    - Sections: Notes, Search, Note Creation (+), Shortcuts, and Account
+    - Work Chat is now nested inside the Account tab
+
+    Find your content more easily with the new note list
+    - Browse notes and identify your images quickly with newly designed note previews
+    - Switch between small, medium (default), or large previews by tapping Note List Options (in the overflow ‘…’ menu)
+    - Filter note lists by tags: Tap the tag icon to select and apply tag filters
+    - Filter note lists by reminders: Tap the reminder icon to view just your reminder notes
+    - Manually sync: Pull down on the note list
+
+    Switch between notebooks quickly
+    - Tap the name of the notebook at the top of the screen to get to your notebook list
+
+    Create new notes with a multi-function + button
+    - Tap the + button to get right into the note editor
+    - Press and hold to view more note creation options
+    - Press and drag to quickly create Audio, Photo, or Reminder notes
+
+    Beautify your notes with a better formatting and styling options
+    - Change your text size to small, medium, or large
+    - Change text color! (Swipe left for shades of gray)
+    - Swipe the keyboard down to save and enter View mode
+
+    2 ways to search
+    - Search within a notebook by tapping in the search field at the top of the note list
+    - Search your entire account from the search tab (see results for notes, notebooks, and tags)
+
+    Easy access to shortcuts
+    - Access your shortcuts straight from the tab bar
+    - Shortcuts area also shows your most recently viewed notes
+
+    Switch between business and personal views
+    - Evernote Business users can switch between personal and business accounts from the account tab. Just tap your name and select the account you want to view
+    - Or, you can press and hold the Account tab to quickly switch accounts
+
+    View notes by tag in new ways
+    - Filter any note list by one or more tags. Tap the tag icon next to the search field in a note list
+    - Jump to a tag from the search tab (see matching tags as suggestions as you type)
+    - Tag management has been moved into Account tab > Settings > Manage Tags. This is a simplified list, where you can delete tags or add a tag to Shortcuts
+Version 8.0.1 (Jan 18, 2017)
+    Bug fixes and miscellaneous improvements
+
+    8.0:
+    Evernote 8.0 for iPhone, iPad, and iPod touch, is a complete redesign emphasizing speed and simplicity. Capture your thoughts with ease, and find what you're looking for faster than ever. Bring beauty and clarity to your notes with an improved editing experience. We’re really excited. We hope you are too.
+
+    Quickly navigate between main sections of the app with the tab bar
+    - Sections: Notes, Search, Note Creation (+), Shortcuts, and Account
+    - Work Chat is now nested inside the Account tab
+
+    Find your content more easily with the new note list
+    - Browse notes and identify your images quickly with newly designed note previews
+    - Switch between small, medium (default), or large previews by tapping Note List Options (in the overflow ‘…’ menu)
+    - Filter note lists by tags: Tap the tag icon to select and apply tag filters
+    - Filter note lists by reminders: Tap the reminder icon to view just your reminder notes
+    - Manually sync: Pull down on the note list
+
+    Switch between notebooks quickly
+    - Tap the name of the notebook at the top of the screen to get to your notebook list
+
+    Create new notes with a multi-function + button
+    - Tap the + button to get right into the note editor
+    - Press and hold to view more note creation options
+    - Press and drag to quickly create Audio, Photo, or Reminder notes
+
+    Beautify your notes with a better formatting and styling options
+    - Change your text size to small, medium, or large
+    - Change text color! (Swipe left for shades of gray)
+    - Swipe the keyboard down to save and enter View mode
+
+    2 ways to search
+    - Search within a notebook by tapping in the search field at the top of the note list
+    - Search your entire account from the search tab (see results for notes, notebooks, and tags)
+
+    Easy access to shortcuts
+    - Access your shortcuts straight from the tab bar
+    - Shortcuts area also shows your most recently viewed notes
+
+    Switch between business and personal views
+    - Evernote Business users can switch between personal and business accounts from the account tab. Just tap your name and select the account you want to view
+    - Or, you can press and hold the Account tab to quickly switch accounts
+
+    View notes by tag in new ways
+    - Filter any note list by one or more tags. Tap the tag icon next to the search field in a note list
+    - Jump to a tag from the search tab (see matching tags as suggestions as you type)
+    - Tag management has been moved into Account tab > Settings > Manage Tags. This is a simplified list, where you can delete tags or add a tag to Shortcuts
+Version 8.0 (Jan 17, 2017)
+    Evernote 8.0 for iPhone, iPad, and iPod touch, is a complete redesign emphasizing speed and simplicity. Capture your thoughts with ease, and find what you're looking for faster than ever. Bring beauty and clarity to your notes with an improved editing experience. We’re really excited. We hope you are too.
+
+    Quickly navigate between main sections of the app with the tab bar
+    - Sections: Notes, Search, Note Creation (+), Shortcuts, and Account
+    - Work Chat is now nested inside the Account tab
+
+    Find your content more easily with the new note list
+    - Browse notes and identify your images quickly with newly designed note previews
+    - Switch between small, medium (default), or large previews by tapping Note List Options (in the overflow ‘…’ menu)
+    - Filter note lists by tags: Tap the tag icon to select and apply tag filters
+    - Filter note lists by reminders: Tap the reminder icon to view just your reminder notes
+    - Manually sync: Pull down on the note list
+
+    Switch between notebooks quickly
+    - Tap the name of the notebook at the top of the screen to get to your notebook list
+
+    Create new notes with a multi-function + button
+    - Tap the + button to get right into the note editor
+    - Press and hold to view more note creation options
+    - Press and drag to quickly create Audio, Photo, or Reminder notes
+
+    Beautify your notes with a better formatting and styling options
+    - Change your text size to small, medium, or large
+    - Change text color! (Swipe left for shades of gray)
+    - Swipe the keyboard down to save and enter View mode
+
+    2 ways to search
+    - Search within a notebook by tapping in the search field at the top of the note list
+    - Search your entire account from the search tab (see results for notes, notebooks, and tags)
+
+    Easy access to shortcuts
+    - Access your shortcuts straight from the tab bar
+    - Shortcuts area also shows your most recently viewed notes
+
+    Switch between business and personal views
+    - Evernote Business users can switch between personal and business accounts from the account tab. Just tap your name and select the account you want to view
+    - Or, you can press and hold the Account tab to quickly switch accounts
+
+    View notes by tag in new ways
+    - Filter any note list by one or more tags. Tap the tag icon next to the search field in a note list
+    - Jump to a tag from the search tab (see matching tags as suggestions as you type)
+    - Tag management has been moved into Account tab > Settings > Manage Tags. This is a simplified list, where you can delete tags or add a tag to Shortcuts
+Version 7.18.1 (Oct 25, 2016)
+    Bug fixes and miscellaneous improvements
+Version 7.18 (Oct 21, 2016)
+    Bug fixes and miscellaneous improvements
+Version 7.17.2 (Oct 4, 2016)
+    New:
+    • Saving a shared note from the iMessage app will now open the main Evernote app
+
+    Fixed:
+    • Simplify formatting in notes returns
+    • Search highlighting in images returns
+    • iPad external keyboard shortcuts for inserting date and time are back
+    • Private note links are generated properly again
+    • Copying and pasting while sketching with the Apple Pencil has been fixed
+    • PDFs created with ScanSnap scanners display properly again
+    • Attempting to create a new note while listening to music in iOS 10 no longer causes a crash
+    • Squashed a bunch of bugs
+Version 7.17.1 (Sep 13, 2016)
+    New for iOS 10:
+    • Share a note without leaving Messages! Add our new app in the App Store for iMessage.
+    • You can show more or show less from the Evernote widget on the iOS Search screen.
+
+    Numerous bug fixes and improvements
+Version 7.17 (Sep 12, 2016)
+    New for iOS 10:
+    • Share a note without leaving Messages! Add our new app in the App Store for iMessage.
+    • You can show more or show less from the Evernote widget on the iOS Search screen.
+
+    Numerous bug fixes and improvements
+Version 7.16.1 (Sep 4, 2016)
+    Numerous bug fixes and improvements
+
+    7.16:
+    • Improved note editing
+    - Copy and paste more easily
+    - Redesigned checkbox styling
+    - Swipe down to close keyboard
+    - Tap the paper clip to launch the iOS Document Picker to add files from iCloud Drive or other file storage apps installed on your device
+
+    • Improved annotation, especially when using the Apple Pencil
+    • Improved sync performance
+    • Squashed a bunch of bugs, as always
+Version 7.16 (Aug 30, 2016)
+    • Improved note editing
+    - Copy and paste more easily
+    - Redesigned checkbox styling
+    - Swipe down to close keyboard
+    - Tap the paper clip to launch the iOS Document Picker to add files from iCloud Drive or other file storage apps installed on your device
+
+    • Improved annotation, especially when using the Apple Pencil
+    • Improved sync performance
+    • Squashed a bunch of bugs, as always
+Version 7.15 (Jun 24, 2016)
+    New:
+    • Passcode lock is now free for all users!
+    • Business feature: Send business card contacts to Salesforce
+    • Plus / Premium feature: Improved Offline Notebook toggles and indicators
+
+    Fixed:
+    • Improved Clipper functionality when saving from iBooks
+    • Improved panning and zooming smoothness in note sketches
+    • Squashed a bunch of bugs, as always
+Version 7.14 (Jun 6, 2016)
+    • Improved Search Suggestions screen
+    • Reduced sync conflicts when editing a note across multiple devices
+    • Fixed issue where very large attachments caused sync errors
+    • Fixed several top crashes
+    • Squashed a bunch of bugs, as always
+Version 7.13.1 (May 5, 2016)
+    • Fixed issue where shortcuts to new, unsynced notes caused the app to crash on launch
+    • Fixed issue where audio playback would stop when app launched
+Version 7.13 (Apr 18, 2016)
+    New:
+    • Add photos to notes in the order selected from your camera roll
+
+    Fixed:
+    • Improved VoiceOver support for note editing
+    • Fixed issue where the text formatting bar disappeared after inserting a photo into a note
+    • Fixed issue where an extra character was being added to saved search names
+    • Squashed a bunch of bugs, as always
+Version 7.12 (Mar 21, 2016)
+    Bug fixes and miscellaneous improvements
+Version 7.11.1 (Feb 25, 2016)
+    Fixed a prevalent app crash
+
+    7.11:
+
+    New:
+    • Add tags when using the Clipper extension
+    • Sign in using 1Password app extension
+    • Write faster with new Keyboard Shortcuts on iPad
+    • Sketch quick charts with right angle shape recognition
+
+    Fixed:
+    • Improved sync performance
+    • Improved VoiceOver support
+    • Made the Clipper extension faster and more reliable
+    • Fixed issue where the top of note lists or reminders were getting hidden behind the navigation bar
+    • Fixed issue where PIN entry was blocked by the keyboard
+    • Fixed issue where business card notes lacked some functionality when opened from the home screen
+    • Squashed a bunch of bugs, as always
+Version 7.11 (Feb 22, 2016)
+    New:
+    • Add tags when using the Clipper extension
+    • Sign in using 1Password app extension
+    • Write faster with new Keyboard Shortcuts on iPad
+    • Sketch quick charts with right angle shape recognition
+
+    Fixed:
+    • Improved sync performance
+    • Improved VoiceOver support
+    • Made the Clipper extension faster and more reliable
+    • Fixed issue where the top of note lists or reminders were getting hidden behind the navigation bar
+    • Fixed issue where PIN entry was blocked by the keyboard
+    • Fixed issue where business card notes lacked some functionality when opened from the home screen
+    • Squashed a bunch of bugs, as always
+Version 7.10 (Jan 26, 2016)
+    New:
+    • Added Keyboard Shortcuts on iPad
+    • Zoom, pan, and snap-to-shape in sketches
+
+    Fixed:
+    • Camera captures documents more quickly and accurately
+    • Improved reliability when moving notes into shared or business notebooks
+    • Improved reliability when downloading notebooks for offline use
+    • Updated share extension including a fix for NYTimes clipping
+    • We squashed a bunch of bugs, as always
+Version 7.9.2 (Dec 14, 2015)
+    New:
+    • Added 3D Touch Peek & Pop on all note lists, including search results
+    • Added an audio quick note button to the home screen
+    • Made it easier to view section details on the home screen: turning on "Show Details" in settings for any section will actually show the details with no hidden minimum thresholds. Got one tag? We'll show it to you if that's what you want to see.
+    • Now you can access search directly from the Today Widget
+
+    Fixed:
+    • The photo picker was a bit dated and clunky; so we improved the resolution and made it easier to access all photos, moments, and iCloud photo libraries
+    • Peeking into a note no longer makes it "recently viewed" - you need to open the note completely to do that
+    • We squashed a bunch of bugs, as always
+Version 7.9.1 (Nov 23, 2015)
+    • Numerous bug fixes and improvements
+
+    7.9:
+    • Add a colorful sketch to your notes
+    • Do more things at once with multitasking on supported iPads
+    • Updated for iPad Pro and Apple Pencil
+
+    Super secret scanner giveaway! On Twitter, follow @Evernote, then send us a direct message containing the words "scanner giveaway” for your chance to win a ScanSnap Evernote Edition scanner (normally sells for $495). Tweet before 11:59:59 PM Pacific Standard Time on November 25, 2015 to enter. Ships to US addresses only. Winner will be randomly selected and notified on Twitter. Good luck!
+Version 7.9 (Nov 4, 2015)
+    • Add a colorful sketch to your notes
+    • Do more things at once with multitasking on supported iPads
+    • Updated for iPad Pro and Apple Pencil
+Version 7.8.1 (Oct 19, 2015)
+    • Dive into Evernote search right from the iPhone Home screen with the new Search Quick Action
+    • Numerous bug fixes and improvements
+    • Tell us how you like this newest version at https://evernote.com/forum-ios
+Version 7.8 (Sep 26, 2015)
+    New for iOS 9:
+    • Spotlight Search for personal notes
+    • Open linked websites without leaving Evernote with the new Safari View Controller
+
+    New 3D Touch features for iPhone 6s and iPhone 6s Plus:
+    • Quick Actions from the iPhone Home screen: New Note, Take Photo, and Set Reminder
+    • Peek into linked websites with a light press, then press a little deeper to Pop into the site
+    • Peek into notes and Work Chats from the Evernote home screen
+
+    Numerous bug fixes and improvements
+
+    Tell us how you like this newest version at https://evernote.com/forum-ios
+Version 7.7.11 (Sep 1, 2015)
+    • Improved camera performance for iPhone 6 Plus
+    • Numerous bug fixes
+    Note: This is the last version that will support iOS 7 or iOS 8.0.x.
+
+    Tell us how you like this newest version at https://evernote.com/forum-ios
+Version 7.7.10 (Aug 17, 2015)
+    Updated note lists on iPhone
+    • New quick note button lets you create text, photo, or reminder notes right from your note lists
+    • Reminders now appear at the top of your note lists
+
+    Numerous bug fixes and improvements
+
+    Tell us how you like this newest version at https://evernote.com/forum-ios
+Version 7.7.9 (Jul 21, 2015)
+    Numerous bug fixes and improvements
+
+    Tell us how you like this newest version at https://evernote.com/forum-ios
+Version 7.7.8 (Jul 2, 2015)
+    Numerous bug fixes and improvements
+
+    Tell us how you like this newest version at https://evernote.com/forum-ios
+Version 7.7.7 (Jun 12, 2015)
+    Numerous bug fixes and improvements
+
+    One security fix — learn more at https://evernote.com/security-ios
+
+    Tell us how you like this newest version at https://evernote.com/forum-ios
+Version 7.7.6 (May 28, 2015)
+    - Numerous bug fixes and improvements
+Version 7.7.5 (May 5, 2015)
+    Numerous bug fixes and improvements
+
+    7.7.4:
+
+    Unlimited monthly uploads with Evernote Premium
+    - Premium subscribers can now keep more notes, more photos, and more files in Evernote without worrying about space.
+
+    Introducing Evernote Plus
+    - A new subscription tier that gives you many of the fundamentals to unlock more productivity. 1GB of monthly uploads, offline notebooks, mobile passcode, and emailing into Evernote.
+
+    Evernote for Apple Watch improvements
+
+    Numerous bug fixes and improvements
+
+    One security fix -- learn more at https://evernote.com/security/updates/#ios
+Version 7.7.4 (May 2, 2015)
+    Numerous bug fixes and improvements
+
+    7.7.3:
+
+    Unlimited monthly uploads with Evernote Premium
+    - Premium subscribers can now keep more notes, more photos, and more files in Evernote without worrying about space.
+
+    Introducing Evernote Plus
+    - A new subscription tier that gives you many of the fundamentals to unlock more productivity. 1GB of monthly uploads, offline notebooks, mobile passcode, and emailing into Evernote.
+
+    Evernote for Apple Watch improvements
+
+    Numerous bug fixes and improvements
+
+    One security fix -- learn more at https://evernote.com/security/updates/#ios
+Version 7.7.3 (Apr 30, 2015)
+    Numerous bug fixes and improvements
+
+    7.7.2:
+
+    Unlimited monthly uploads with Evernote Premium
+    - Premium subscribers can now keep more notes, more photos, and more files in Evernote without worrying about space.
+
+    Introducing Evernote Plus
+    - A new subscription tier that gives you many of the fundamentals to unlock more productivity. 1GB of monthly uploads, offline notebooks, mobile passcode, and emailing into Evernote.
+
+    Evernote for Apple Watch improvements
+
+    Numerous bug fixes and improvements
+
+    One security fix -- learn more at https://evernote.com/security/updates/#ios
+Version 7.7.2 (Apr 29, 2015)
+    Unlimited monthly uploads with Evernote Premium
+    - Premium subscribers can now keep more notes, more photos, and more files in Evernote without worrying about space.
+
+    Introducing Evernote Plus
+    - A new subscription tier that gives you many of the fundamentals to unlock more productivity. 1GB of monthly uploads, offline notebooks, mobile passcode, and emailing into Evernote.
+
+    Evernote for Apple Watch improvements
+
+    Numerous bug fixes and improvements
+
+    One security fix -- learn more at https://evernote.com/security/updates/#ios
+Version 7.7.1 (Apr 12, 2015)
+    - Evernote for Apple Watch improvements
+    - Camera enhancements
+    - Numerous bug fixes
+
+    7.7:
+    New Camera functionality
+    - Auto-capture: Point the camera at docs, whiteboards, and business cards
+    - Business cards: Connect to LinkedIn to get more info when scanning cards
+    - Review, crop, and rotate images before saving
+
+    Evernote for Apple Watch
+    - Dictate notes into Apple Watch and they'll be transcribed and synced to Evernote
+    - See recently created, updated, and viewed notes
+    - Dictate searches and see results on your Apple Watch
+    - Create reminders and get notified about items due today
+
+    More improvements
+    - Suggested notes in Today widget
+    - Mark reminder notifications as complete or snooze the reminder for an hour
+    - Start a work chat from the home screen
+    - Numerous bug fixes and improvements
+Version 7.7 (Apr 2, 2015)
+    New Camera functionality
+    - Auto-capture: Point the camera at docs, whiteboards, and business cards
+    - Business cards: Connect to LinkedIn to get more info when scanning cards
+    - Review, crop, and rotate images before saving
+
+    Evernote for Apple Watch
+    - Dictate notes into Apple Watch and they'll be transcribed and synced to Evernote
+    - See recently created, updated, and viewed notes
+    - Dictate searches and see results on your Apple Watch
+    - Create reminders and get notified about items due today
+
+    More improvements
+    - Suggested notes in Today widget
+    - Mark reminder notifications as complete or snooze the reminder for an hour
+    - Start a work chat from the home screen
+    - Numerous bug fixes and improvements
+Version 7.6.6 (Mar 26, 2015)
+    Evernote for Apple Watch
+    - Dictate notes into Apple Watch and they'll be transcribed and synced to Evernote
+    - See recently created, updated, and viewed notes
+    - Dictate searches and see results on your Apple Watch
+    - Create reminders and get notified about items due today
+
+    Other improvements
+    - Suggested notes in Today widget
+    - Mark reminder notifications as complete or snooze the reminder for an hour
+    - Numerous bug fixes and improvements
+Version 7.6.5 (Feb 26, 2015)
+    - New Shared Notes icon in the Work Chat screen shows a list of all items shared with you
+    - Add a profile image and update your Work Chat display name in Settings
+    - Improved stability and reliability of camera and note views
+    - Numerous bug fixes and improvements
+Version 7.6.4 (Jan 20, 2015)
+    - Reduced frequently reported app hangs and crashes, including "hang on launch" and "blank note" issues
+    - Added Work Chat as a configurable section on the home screen
+    - Improved document camera recognition
+    - Bug fixes and miscellaneous improvements
+Version 7.6.3 (Dec 17, 2014)
+    Bug fixes and miscellaneous improvements
+Version 7.6.2 (Nov 20, 2014)
+    Work Chat: a new way to share and collaborate in Evernote
+    - Share notes and notebooks in-app
+    - Give view or edit permission when you share a single note
+    - Chat with individuals or groups about things you’re working on
+    - See when others are viewing or editing notes in your account and start chats with them
+    Updated Today widget with recently viewed notes
+    Bug fixes
+Version 7.6.1 (Nov 10, 2014)
+    Numerous performance improvements and bug fixes
+
+    7.6.0:
+    Work Chat
+    - Send messages to share notes and discuss things you’re working on without leaving Evernote
+
+    Premium feature: Context
+    - Context displays notes, articles, and people related to what you’re working on
+    - View related articles from The Wall Street Journal and other sources and related people from LinkedIn and your business
+Version 7.6.0 (Oct 31, 2014)
+    Work Chat
+    - Send messages to share notes and discuss things you’re working on without leaving the app
+
+    Premium feature: Context
+    - Context displays notes, articles, and people related to what you’re working on
+    - View related articles from The Wall Street Journal and other sources and related people from LinkedIn and your business
+
+    Bug fixes
+Version 7.5.1 (Sep 29, 2014)
+    Bug fixes
+Version 7.5.0 (Sep 17, 2014)
+    Clip content to Evernote from anywhere on your phone from the share menu
+    - Save photos, documents, and web pages as notes
+    - File them in any business or personal notebook
+
+    Create different kinds of notes from your Notification Center with the new widget
+
+    Premium
+    - Use Touch ID to unlock your passcode-protected account with your finger
+    - Rediscover useful content from your account in the Related Notes section
+    - Automatically keep business notebooks up to date with push notifications
+Version 7.4.2 (Jul 21, 2014)
+    - Create private note links from the Share menu
+    - Automatically set an alarm when adding a reminder
+    - Various bug fixes and improvements
+Version 7.4.1 (Jun 28, 2014)
+    Bug fixes
+Version 7.4.0 (Jun 6, 2014)
+    Evernote Business users can access their business notebooks and published notebooks more easily
+    Checkboxes in notes are now easier to tap
+
+    Business card scanning improvements:
+    - Added ability to capture back side of business cards
+    - Networkers can follow up through email and LinkedIn after every scanned card
+    - Added icon shortcuts to contact info in Business Card Notes
+
+    Numerous performance improvements and bug fixes
+Version 7.3.5 (May 10, 2014)
+    Numerous performance improvements and bug fixes
+Version 7.3.4 (May 6, 2014)
+    Business card scanning improvements:
+    - No-tap camera mode with automatic business card detection: just point the camera at the card
+    - Easier to save scanned business cards to your contacts and address book
+
+    Better with LinkedIn
+    - Connect Evernote to LinkedIn and get 1 year of unlimited business card scanning -- connect from the business card camera mode
+    - Send LinkedIn connect requests to the people whose business cards you scan
+
+    Numerous performance improvements and bug fixes
+Version 7.3.3 (Apr 4, 2014)
+    Share notebooks more easily with redesigned share screens
+    Capture better business card photos with new auto capture
+
+    Bug fixes
+    - Several fixes for note saving logic
+    - Multiple crash fixes
+Version 7.3.2 (Mar 21, 2014)
+    Presentation Mode updates
+    - View and play audio, video, and office docs in Presentation Mode
+    - Open web links from notes without exiting Presentation Mode
+
+    Business card improvements
+    - Quickly send a request to connect on LinkedIn
+    - Improved handling of names and phone numbers
+    - Save an individual business card to your contacts
+
+    Other updates
+    - Improved performance
+    - Added word wrap when adding text annotation to images and PDFs
+    - Create and find notebooks more easily in the Notebooks screen
+    - Select multiple photos to add to a note in our updated image chooser
+    - Various bug fixes
+
+    We hope you enjoy the latest version of Evernote. Please rate us in the App Store. 
+Version 7.3.1 (Feb 24, 2014)
+    - Move notes more easily with recently used notebooks now displayed at top of your list
+    - Evernote now remembers your most recently used camera mode
+
+    Bug fixes
+    - Note editor should no longer flash when downloading new content
+    - App should no longer get stuck with image or attachment view open after a search
+    - Improved auto title and calendar interactions
+    - Several fixes for issues with swipe navigation
+    - Several crash fixes
+Version 7.3.0 (Jan 30, 2014)
+    Redesigned home screen with new customization options
+    - Choose from three color themes: Light, Dark, and Classic
+    - All users can now add, remove, and rearrange sections
+    - Show or hide details for each section
+
+    Save business card scans to your contacts automatically
+    Set audio note quality to optimize for sound or file size
+
+    Bug fixes:
+    - Improved sync performance
+    - Fixed an issue causing some users to never see card scan results
+    - Audio notes will no longer save as corrupted files in certain cases
+    - Numerous stability improvements
+Version 7.2.1 (Dec 18, 2013)
+    Bug fixes:
+    - Note list should now reload properly after duplicating a note
+    - Fix for a crash on upgrade related to contact data import
+    - Fixes an intermittent crash while editing contact notes
+    - Several search bug fixes
+Version 7.2.0 (Dec 12, 2013)
+    Premium Feature: Business card scanning
+    - Use the new Business Card camera mode to scan your business cards
+    - Evernote instantly turns the snapshot into an editable contact note
+    - Connect to LinkedIn and your Address Book for richer results
+    - Set Evernote to automatically email your information to your new contact
+    - Free users preview: scan up to 5 business cards
+
+    Premium Feature: Presentation Mode
+    - Use AirPlay (or a cable) to present your notes to an audience
+    - 14-day complementary preview for Free users
+    - Evernote Business
+    - Create notes more quickly by choosing a default business notebook for quicknotes
+
+    - New 'Duplicate' option creates a copy of a note
+    - Refer friends to Evernote and earn Premium and other rewards
+    - Sync button added to the home screen
+Version 7.1.2 (Nov 13, 2013)
+    Bug fixes
+Version 7.1.1 (Nov 1, 2013)
+    Bug fixes
+Version 7.1 (Oct 22, 2013)
+    Places
+    - See your notes displayed on a map
+
+    New Premium feature
+    - Customize your homescreen layout
+
+    Saved Search Improvements
+    - Create new Saved Searches from the search results screen
+    - Remove a Saved Search by swiping left
+
+    And more
+    - Numerous bug fixes and enhancements
+Version 7.0.3 (Oct 9, 2013)
+    Bug fixes
+Version 7.0.2 (Sep 27, 2013)
+    Bug fixes
+
+    New in 7.0.1:
+
+    Post-it® Note Camera
+    - Snap a photo of a Post-it® Note to digitize and enhance your handwritten to-dos and ideas
+    - Automatically assign notebooks, tags and Reminders to different colors of Post-it® Notes
+    - Add multiple Post-it® Note snapshots to a single note
+    - Search through handwritten text in images
+
+    Introducing the Evernote Market
+    - Browse our new curated collection of products designed to help you live better and work smarter
+
+    Numerous bug fixes
+Version 7.0.1 (Sep 26, 2013)
+    Post-it® Note Camera
+
+    - Snap a photo of a Post-it® Note to digitize and enhance your handwritten to-dos and ideas
+
+    - Automatically assign notebooks, tags and Reminders to different colors of Post-it® Notes
+
+    - Add multiple Post-it® Note snapshots to a single note
+
+    - Search through handwritten text in images
+
+
+
+    Introducing the Evernote Market
+
+    - Browse our new curated collection of products designed to help you live better and work smarter
+
+
+
+    Numerous bug fixes
+Version 7.0 (Sep 18, 2013)
+    The completely redesigned Evernote
+
+    Beautiful new look inspired by the clean, simplicity of iOS 7
+    • Smart layout shows only the features you need
+    • Quickly jump to your most recent notes from the home screen
+    • New audio recorder gives you space to type while you listen
+
+    Fast access to the app's most used features
+    • New: Take a note immediately with Quicknote
+    • New: Create a Reminder right from the home screen
+    • New: Snap a quick photo note with one tap
+    • New: Redesigned note editor for faster and easier notes
+
+    Markup: Add arrows, shapes and text to images and PDFs
+    Background sync: Notes are always kept up-to-date
+    AirDrop: Share notes with people around you through AirDrop
+Version 5.4.3 (Aug 15, 2013)
+    Numerous bug fixes
+Version 5.4.2 (Aug 4, 2013)
+    Bug fixes
+Version 5.4.1 (Jul 27, 2013)
+    Bug Fixes
+Version 5.4 (Jul 18, 2013)
+    - Add Shortcuts on your iOS device; sync to access them anywhere
+    - Mark up images, PDFs, and entire notes with Skitch integration
+    - See notes you recently viewed along the bottom of any note
+    - Premium users: view Related Notes at the bottom of their notes
+    - Get the latest news and updates from Evernote in the Announcements section
+    - Submit a support request from directly within the app
+Version 5.3.2 (Jun 20, 2013)
+    Bug fixes
+Version 5.3.1 (May 24, 2013)
+    Bug Fixes
+
+
+
+    New in 5.3
+
+    Reminders: Never forget important and in-progress notes
+
+    • Adding a reminder pins the note to the top of your note list
+
+    • Add a due date to receive in-app and email notifications
+
+    • Mark notes as Done when you complete them
+
+
+
+    Enhanced security with XAuth
+
+    • View all applications that access your account from Evernote Web Settings
+
+
+
+    Business: toggle between personal and business tags in the tag view
+
+
+
+    Numerous bug fixes, including:
+
+    • Fix for an issue causing certain large notes to duplicate on sync
+
+    • Fix for several offline search issues
+Version 5.3 (May 23, 2013)
+    Reminders: Never forget important and in-progress notes
+    • Adding a reminder pins the note to the top of your note list
+    • Add a due date to receive in-app and email notifications
+    • Mark notes as Done when you complete them
+
+    Enhanced security with XAuth
+    • View all applications that access your account from Evernote Web Settings
+
+    Business: toggle between personal and business tags in the tag view
+
+    Numerous bug fixes, including:
+    • Fix for an issue causing certain large notes to duplicate on sync
+    • Fix for several offline search issues
+Version 5.2.3 (Mar 6, 2013)
+    Security alert: All current Evernote users must reset their passwords. It only takes a minute. After installing this update, launch the app and follow the on-screen instructions. Please do not create a new Evernote account. If you have any trouble, contact Evernote Support: http://evernote.com/support
+Version 5.2.2 (Mar 2, 2013)
+    New in 5.2.2
+    This update addresses a security issue that requires you to reset your password. Details on blog.evernote.com
+Version 5.2.1 (Mar 1, 2013)
+    New in 5.2.1
+
+    Bug fixes
+
+    New in 5.2
+
+    Snippets
+    • New iPad Snippet View is great for quickly scanning your notes
+
+    Better PDF Viewing
+    • New PDF viewer
+    • Multipage preview screen for PDFs
+    • Search inside of your PDFs to find what you need
+    • Turn your iPad to get a 2-page view
+    • New rotation lock option lets you lock your view
+
+    Formatting Options
+    • Simplify Text: Cleans up formatting. Great for web clips.
+    • Plain Text: Converts the note into plain text
+
+    Evernote Business
+    • Business Notebooks can be set as Offline Notebooks
+    • View your company’s Business Library from your iOS device
+
+    The Trunk
+    • See hundreds of partners that expand your Evernote experience in the Trunk on iPad
+
+    Other Improvements
+    Open PDFs and images in email, airprint and other supported apps
+
+    Better handling of large note uploads and timeout issues
+    Various bug fixes
+Version 5.2 (Feb 28, 2013)
+    We are aware that some users are experiencing crashes on upgrade. We are testing a fix for this issue and will get a new version to you as quickly as possible. In the meantime, uninstalling and reinstalling the app should resolve the issue. We apologize for the inconvenience.
+
+    Snippets
+    • New Snippet View is great for quickly scanning your notes
+
+    Better PDF Viewing
+    • New PDF viewer
+    • Multipage preview screen for PDFs
+    • Search inside of your PDFs to find what you need
+    • Turn your iPad to get a 2-page view
+    • New rotation lock option lets you lock your view
+
+    Formatting Options
+    • Simplify Text: Cleans up formatting. Great for web clips.
+    • Plain Text: Converts the note into plain text
+
+    Evernote Business
+    • Business Notebooks can be set as Offline Notebooks
+    • View your company’s Business Library from your iPad
+
+    The Trunk
+    • See hundreds of partners that expand your Evernote experience in the Trunk
+
+    Other Improvements
+    • Open PDFs and images in email, airprint and other supported apps
+    • Better handling of large note uploads and timeout issues
+    • Various bug fixes
+Version 5.1.2 (Dec 21, 2012)
+    Bug fixes
+Version 5.1.1 (Dec 19, 2012)
+    Bug fixes
+Version 5.1 (Dec 6, 2012)
+    New in 5.1
+
+    - Evernote Business support, including new Business Notebook design
+    - Sort by created date and note counts in all note lists
+    - Premium users can hide the Premium View
+    - Numerous bug fixes and stability improvements
+Version 5.0 (Nov 8, 2012)
+    New in version 5
+
+    • New home screen features quick access to notes, notebooks, tags, places, and Premium features
+    • Create new notes with fewer taps using home screen quick note buttons
+    • Note list redesigned with new card style to showcase note content
+    • Added ability to quickly create new notebooks from the Notebooks list
+    • Places displays notes on a zoomable map
+    • Evernote Premium view lets you access Premium features and account status
+    • New unified shared notebook list shows your notebooks and ones shared with you
+
+    New iPad features:
+    • Added notebook stack support in Notebooks view
+    • List of recently viewed, edited and created notes appear on the home screen for easy multi-tasking
+
+    Numerous bug fixes and stability improvements
+Version 4.4.1 (Sep 19, 2012)
+    - Support for the larger display on the iPhone 5 lets you see more notes
+    - Added native Facebook sharing on iOS 6
+    - Numerous bug fixes and improvements
+Version 4.4 (Aug 24, 2012)
+    Multi-shot camera
+    - Camera now lets you add multiple snapshots to a single note
+
+    Page Camera
+    - Designed for snapshots of physical pages
+    - Fixes contrast and shadows so that your handwriting is searchable in Evernote
+    - Optimized for the new Evernote Smart Notebook by Moleskine
+
+    Evernote Smart Notebook by Moleskine
+    - Photos taken of the Smart Notebook using the Page Camera are instantly skew corrected
+    - Photos of pages containing the new Moleskine Smart Stickers are automatically tagged and filed
+
+    Numerous improvements
+    - Faster download times
+    - Improved PDF support on iPad
+    - Various bug fixes
+Version 4.3.1 (Aug 8, 2012)
+    New in 4.3.1
+
+    Numerous bug fixes, including:
+
+    - App should no longer crash when an offline notebook download is interrupted
+
+    - App should no longer crash when creating a new note from the search results screen
+
+    - Users should no longer have problems opening notebooks in certain languages
+
+
+
+    New in 4.3
+
+    - Start editing a note simply by tapping into the note body
+
+    - Increased stability and improved performance during sync
+
+    - Numerous bug fixes and enhancements
+Version 4.3 (Aug 6, 2012)
+    New in 4.3:
+    • Start editing a note simply by tapping into the note body
+    • Increased stability and improved performance during sync
+    • Numerous bug fixes and enhancements
+Version 4.2.2 (Jun 22, 2012)
+    Improved voiceover accessibility support
+    Additional bug fixes
+Version 4.2.1 (May 25, 2012)
+    New in 4.2.1
+    Numerous bug fixes and improvements
+
+
+    New in 4.2:
+
+    Major note editor upgrade and redesign for iOS 5 on iPhone
+    • Easy access to attachment features
+    • Improved placement of text styling and formatting options
+    • Redesigned note info screen
+    • More powerful note editing capabilities
+
+    Improved checkbox functionality for iOS 5 on iPhone
+    • Added support for checkbox indentation
+    • Create a checkbox list by adding a new line after the first box
+
+    Improved attachments
+    • Added support for Photo Stream images
+    • Redesigned audio recorder
+
+    Note Editor settings
+    • Option to turn off note auto-titling
+    • Option to turn off automatic Save to Camera Roll function
+
+    Numerous bug fixes and enhancements
+Version 4.2.0 (May 8, 2012)
+    Major note editor upgrade and redesign for iOS 5 on iPhone
+    • Easy access to attachment features
+    • Improved placement of text styling and formatting options
+    • Redesigned note info screen
+    • More powerful note editing capabilities
+
+    Improved checkbox functionality for iOS 5 on iPhone
+    • Added support for checkbox indentation
+    • Create a checkbox list by adding a new line after the first box
+
+    Improved attachments
+    • Added support for Photo Stream images
+    • Redesigned audio recorder
+
+    Note Editor settings
+    • Option to turn off note auto-titling
+    • Option to turn off automatic Save to Camera Roll function
+
+    Numerous bug fixes and enhancements
+Version 4.1.9 (Mar 15, 2012)
+    New for iPad -- Retina display optimized interface
+    Checkbox improvements for iPad
+    --- Checkboxes now support indentation
+    --- New lines after a checkbox will automatically insert a box
+    New -- Note title suggestions:
+    --- Tap title to view suggested note titles
+    --- Suggestions refine as you add your own title
+    Significant updates to text editing on the iPad
+    Performance improvements
+    Numerous bug fixes, including:
+    --- Resolved sync issue that caused an "Unknown error u11" for some users
+    --- When editing, holding and releasing text now displays the Select menu
+    --- Improved handling of spaces at the beginning of notes
+    Numerous stability improvements
+Version 4.1.8 (Feb 7, 2012)
+    New in version 4.1.8
+
+    ● NEW: Predictive note titles - untitled notes are assigned a title based on location, time and other contextual info
+    ● Note editing performance improvements
+    ● Easier access to notebook sharing options
+    ● Improved ability to apply styles, edit, copy, and paste within notes
+    ● Fixed numerous synchronization issues
+    ● Improved login and registration experience
+    ● Fixed cropping problems
+    ● Improved stability
+
+
+    New in version 4.1.7
+
+    ● Improved stability
+    ● Addressed some sync errors
+
+    ● Users can share notebooks and manage the sharing members of notebooks on both iPhone and iPad.
+
+    ● Easier access to offline-notebooks (Premium only)
+
+
+
+    New in version 4.1.6
+
+    ● Added new rich text editor for iPad running iOS 5
+    ● Added the ability to stop sharing notes
+    ● Many other assorted bug fixes
+Version 4.1.7 (Dec 20, 2011)
+    New in version 4.1.7
+
+    ● Improved stability
+    ● Addressed some sync errors
+    ● Users can share notebooks and manage the sharing members of notebooks on both iPhone and iPad.
+    ● Easier access to offline-notebooks (Premium only)
+
+
+    New in version 4.1.6
+
+    ● Added new rich text editor for iPad running iOS 5
+    ● Added the ability to stop sharing notes
+    ● Many other assorted bug fixes
+
+
+    New in version 4.1.5
+
+    ● iOS 4.1.5 addresses the top issues reported over the last few weeks.
+    ● Improved handling of fonts and styles on repeated edits
+    ● Fixed endless pending sync loop caused by sync interruption
+    ● Fixed crash when opening a view-only linked notebook
+    ● Fixed crash when opening embedded browser
+    - Editing on iPad allows spaces without text
+    - Enabled the ability to copy text from a note in view mode
+    - Fixed problem where hitting space placed the cursor on the previous line
+    ● Double-byte space no longer disappear or change to single-byte space`
+    ● Fixed crash on devices using iOS v3.1.3
+Version 4.1.6 (Nov 23, 2011)
+    New in version 4.1.6
+
+
+
+    ● Added new rich text editor for iPad running iOS 5
+
+    ● Added the ability to stop sharing notes
+
+    ● Many other assorted bug fixes
+
+
+
+
+
+    New in version 4.1.5
+
+
+
+    ● iOS 4.1.5 addresses the top issues reported over the last few weeks.
+
+    ● Improved handling of fonts and styles on repeated edits
+
+    ● Fixed endless pending sync loop caused by sync interruption
+
+    ● Fixed crash when opening a view-only linked notebook
+
+    ● Fixed crash when opening embedded browser
+
+    - Editing on iPad allows spaces without text
+
+    - Enabled the ability to copy text from a note in view mode
+
+    - Fixed problem where hitting space placed the cursor on the previous line
+
+    ● Double-byte space no longer disappear or change to single-byte space`
+
+    ● Fixed crash on devices using iOS v3.1.3
+
+
+
+
+
+    New in version 4.1.4
+
+
+
+    ● Fixed iOS5 crashes when dragging the text selection markers.
+
+    ● Fixed iOS5 crashes when the magnifying glass comes up.
+
+    ● Fixed iOS5 crash when downloading/syncing offline notebooks.
+
+    ● Fixed attachments and images being removed from notes during edit.
+
+    ● Reduces the Pending Synchronization issues introduced with iOS5, and retroactively fixes issues for customers that have notes currently in a Pending Sync state.
+
+
+
+
+
+    New in version 4.1.3
+
+
+
+    ● Fixes for iOS 5
+
+    ● Fixed line spacing for text notes
+
+    ● Default font set to Helvetica
+
+
+
+
+
+
+
+    New in version 4.1.2
+
+
+
+    ● Create and edit notes in notebooks shared with you
+
+    ● Improved copy and paste support
+
+    ● Create and edit checkboxes for lists and to-dos
+
+    ● Improved handling of simplified text
+
+    ● Edit notes that contain encrypted text
+
+    ● Images, files and encryption are in-line in simplified notes
+
+    ● Improved handling of new-lines in notes, new lines are preserved
+
+Version 4.1.5 (Nov 18, 2011)
+    New in version 4.1.5
+
+    ● iOS 4.1.5 addresses the top issues reported over the last few weeks.
+    ● Improved handling of fonts and styles on repeated edits
+    ● Fixed endless pending sync loop caused by sync interruption
+    ● Fixed crash when opening a view-only linked notebook
+    ● Fixed crash when opening embedded browser
+    - Editing on iPad allows spaces without text
+    - Enabled the ability to copy text from a note in view mode
+    - Fixed problem where hitting space placed the cursor on the previous line
+    ● Double-byte space no longer disappear or change to single-byte space`
+    ● Fixed crash on devices using iOS v3.1.3
+
+
+    New in version 4.1.4
+
+    ● Fixed iOS5 crashes when dragging the text selection markers.
+    ● Fixed iOS5 crashes when the magnifying glass comes up.
+    ● Fixed iOS5 crash when downloading/syncing offline notebooks.
+    ● Fixed attachments and images being removed from notes during edit.
+    ● Reduces the Pending Synchronization issues introduced with iOS5, and retroactively fixes issues for customers that have notes currently in a Pending Sync state.
+
+
+    New in version 4.1.3
+
+    ● Fixes for iOS 5
+    ● Fixed line spacing for text notes
+    ● Default font set to Helvetica
+
+
+
+    New in version 4.1.2
+
+    ● Create and edit notes in notebooks shared with you
+    ● Improved copy and paste support
+    ● Create and edit checkboxes for lists and to-dos
+    ● Improved handling of simplified text
+    ● Edit notes that contain encrypted text
+    ● Images, files and encryption are in-line in simplified notes
+    ● Improved handling of new-lines in notes, new lines are preserved
+Version 4.1.4 (Oct 22, 2011)
+    New in version 4.1.4
+
+    ● Fixed iOS5 crashes when dragging the text selection markers.
+    ● Fixed iOS5 crashes when the magnifying glass comes up.
+    ● Fixed iOS5 crash when downloading/syncing offline notebooks.
+    ● Fixed attachments and images being removed from notes during edit.
+    ● Reduces the Pending Synchronization issues introduced with iOS5, and retroactively fixes issues for customers that have notes currently in a Pending Sync state.
+
+
+
+    New in version 4.1.3
+
+    ● Fixes for iOS 5
+    ● Fixed line spacing for text notes
+    ● Default font set to Helvetica
+
+
+
+    New in version 4.1.2
+
+    ● Create and edit notes in notebooks shared with you
+    ● Improved copy and paste support
+    ● Create and edit checkboxes for lists and to-dos
+    ● Improved handling of simplified text
+    ● Edit notes that contain encrypted text
+    ● Images, files and encryption are in-line in simplified notes
+    ● Improved handling of new-lines in notes, new lines are preserved
+Version 4.1.3 (Oct 6, 2011)
+    New in version 4.1.3
+
+    ● Fixes for iOS 5
+    ● Fixed line spacing for text notes
+    ● Default font set to Helvetica
+
+
+    New in version 4.1.2
+
+    ● Create and edit notes in notebooks shared with you
+    ● Improved copy and paste support
+    ● Create and edit checkboxes for lists and to-dos
+    ● Improved handling of simplified text
+    ● Edit notes that contain encrypted text
+    ● Images, files and encryption are in-line in simplified notes
+    ● Improved handling of new-lines in notes, new lines are preserved
+Version 4.1.2 (Oct 3, 2011)
+    New in 4.1.2
+
+    ● Create and edit notes in notebooks shared with you
+    ● Improved copy and paste support
+    ● Create and edit checkboxes for lists and to-dos
+    ● Improved handling of simplified text
+    ● Edit notes that contain encrypted text
+    ● Images, files and encryption are in-line in simplified notes
+    ● Improved handling of new-lines in notes, new lines are preserved
+Version 4.1.1 (Aug 26, 2011)
+    Bug fixes
+Version 4.1.0 (Aug 22, 2011)
+    • Add rich text styles, lists and links to notes (iOS 4.2 and above)
+
+    • Edit existing notes containing simple styles (iOS 4.2 and above)
+
+    • Redesigned New Note and Edit Note screens on iPhone
+
+    • Access Shared Notebooks
+
+    • Tap an image in a note to launch a slideshow
+
+    • Premium users can lock Evernote with a passcode
+
+    • Search within individual notes
+
+    • Redesigned iPad look and feel
+
+    • iPad: Pinch and zoom into the note list
+
+    • iPad: Support for multi-selection of notes for easy sharing and deletion
+
+    • Numerous interface improvements and bug fixes
+Version 4.0.4 (Jun 11, 2011)
+    Bug fixes
+Version 4.0.3 (May 3, 2011)
+    Bug fixes.
+Version 4.0.2 (Apr 5, 2011)
+    Bug fixes
+Version 4.0.1 (Mar 22, 2011)
+    - NEW for the iPad 2: Create snapshot notes using the iPad 2 cameras
+    - iPhone: Added titles, dates and location to image-only notes in the note list
+    - Numerous bug fixes and enhancements
+Version 3.2.1
+    All new for Evernote 3.2
+    - NEW Premium feature - Offline notebooks: Download and store any/all of your notebooks, making them available offline!
+    - Get Evernote Premium from within the app
+    - Any note created or viewed on the device is stored locally for quick access any time
+    - Search through local notes and favorites, even without a network connection
+    - New options for editing rich text notes
+    - Audio note recording time doubled to 20 mins
+    - Search during sync: No more "Already communicating with server" message
+    - Huge performance improvements, tons of bug fixes
+    - Added support for 11 languages
+
+    New for Evernote 3.2.1
+    - Improvements to offline notebooks
+    - Cached data now excluded from iTunes backup to speed synchronization with iTunes
+    - Improved migration from previous version
+    - General bug fixes and improvements
+Version 3.2.2
+    New in Evernote 3.2.2
+    - Bug fixes
+
+    New in Evernote 3.2.1
+    - Improvements to offline notebooks - Cached data now excluded from iTunes backup to speed synchronization with iTunes - Improved migration from previous version - General bug fixes and improvements
+
+    New for Evernote 3.2
+    - NEW Premium feature - Offline notebooks: Download and store any/all of your notebooks, making them available offline!
+    - Get Evernote Premium from within the app
+    - Any note created or viewed on the device is stored locally for quick access any time
+    - Search through local notes and favorites, even without a network connection
+    - New options for editing rich text notes
+    - Audio note recording time doubled to 20 mins
+    - Search during sync: No more "Already communicating with server" message
+    - Huge performance improvements, tons of bug fixes
+    - Added support for 11 languages
+Version 3.2.3
+    Localization improvements
+    faster start time and note loading improvements
+Version 3.3.0
+    • Universal build supports iPhone, iPod touch and iPad
+    • Completely new interface and functionality when running on an iPad
+    • General bug fixes
+Version 3.3.1
+    • Fixed synchronization bug on iPhone and iPod Touch
+    • Fixed search results bug on iPad
+Version 3.3.2
+Version 3.3.4
+Version 3.3.5
+Version 3.3.6
+Version 3.3.7
+Version 3.3.8
+Version 3.3.9
+Version 3.3.10
+Version 3.4.0
+Version 3.4.1
+Version 3.4.2
+Version 4.0
+
+Users may also like
+Select objects to compare
+Notebook - Take notes, To do
+Bear - Markdown Notes
+Obsidian - Connected Notes
+Todoist: To-Do List & Planner
+Agenda: Notes meets Calendar
+Nebo: Note Taking & Notebook
+MindNode - Mind Map & Outline
+Notes Writer: Note Taking PDF
+LiquidText
+Post-it®
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+306 times
+on App Store homepage
+862 times
+on App Store category pages
+Versions
+
+    10.79.0
+    Current release
+    Mar 5, 2024
+    10.77.0
+    Feb 20, 2024
+    10.76.1
+    Feb 14, 2024
+    10.76.0
+    Feb 13, 2024
+    10.75.0
+    Feb 6, 2024
+    10.68.0
+    Jan 30, 2024
+    10.67.0
+    Jan 23, 2024
+    10.66.0
+    Jan 16, 2024
+    10.65.1
+    Jan 10, 2024
+    10.64.0
+    Jan 3, 2024
+    10.62.3
+    Dec 27, 2023
+    10.62.2
+    Dec 19, 2023
+    10.62.0
+    Dec 12, 2023
+    10.61.2
+    Dec 5, 2023
+    10.61.1
+    Dec 1, 2023
+    10.61.0
+    Nov 28, 2023
+    10.60.1
+    Nov 22, 2023
+    10.60.0
+    Nov 21, 2023
+    10.59.0
+    Nov 15, 2023
+    10.58.1
+    Nov 6, 2023
+    10.57.2
+    Oct 26, 2023
+    10.57.1
+    Oct 25, 2023
+    10.56.3
+    Oct 18, 2023
+    10.56
+    Oct 9, 2023
+    10.55.1
+    Sep 29, 2023
+    10.55
+    Sep 25, 2023
+    10.54.1
+    Sep 18, 2023
+    10.54
+    Sep 11, 2023
+    10.53.3
+    Sep 1, 2023
+    10.53.2
+    Aug 24, 2023
+    10.53.1
+    Aug 14, 2023
+    10.53
+    Aug 8, 2023
+    10.52.2
+    Jul 27, 2023
+    10.52.1
+    Jul 14, 2023
+    10.52
+    Jul 11, 2023
+    10.51.2
+    Jun 22, 2023
+    10.51.1
+    May 31, 2023
+    10.51
+    May 17, 2023
+    10.50.4
+    May 8, 2023
+    10.50.3
+    Apr 27, 2023
+    10.50.2
+    Apr 13, 2023
+    10.50.1
+    Apr 11, 2023
+    10.50
+    Apr 3, 2023
+    10.49.2
+    Mar 31, 2023
+    10.49
+    Mar 13, 2023
+    10.48
+    Feb 8, 2023
+    10.47
+    Jan 25, 2023
+    10.46
+    Jan 5, 2023
+    10.45.2
+    Dec 13, 2022
+    10.45.2
+    Dec 13, 2022
+    10.45
+    Dec 8, 2022
+    10.44
+    Nov 16, 2022
+    10.43.1
+    Nov 10, 2022
+    10.43
+    Nov 3, 2022
+    10.42
+    Oct 17, 2022
+    10.41
+    Oct 3, 2022
+    10.40
+    Sep 20, 2022
+    10.39
+    Aug 31, 2022
+    10.38
+    Aug 18, 2022
+    10.37.1
+    Aug 5, 2022
+    10.37
+    Aug 4, 2022
+    10.36
+    Jul 22, 2022
+    10.35
+    Jul 5, 2022
+    10.34.1
+    Jun 15, 2022
+    10.34
+    Jun 8, 2022
+    10.33
+    May 25, 2022
+    10.32.2
+    May 17, 2022
+    10.32
+    May 11, 2022
+    10.31
+    May 2, 2022
+    10.30.1
+    Apr 14, 2022
+    10.30
+    Apr 4, 2022
+    10.29
+    Mar 16, 2022
+    10.28
+    Mar 7, 2022
+    10.27
+    Feb 16, 2022
+    10.26
+    Feb 2, 2022
+    10.25
+    Jan 20, 2022
+    10.24
+    Jan 5, 2022
+    10.23.1
+    Dec 15, 2021
+    10.23
+    Dec 9, 2021
+    10.22
+    Dec 2, 2021
+    10.21
+    Nov 11, 2021
+    10.20
+    Oct 27, 2021
+    10.19
+    Oct 13, 2021
+    10.18
+    Sep 23, 2021
+    10.17
+    Sep 14, 2021
+    10.16
+    Aug 25, 2021
+    10.15
+    Aug 12, 2021
+    10.14
+    Jul 28, 2021
+    10.13.2
+    Jul 22, 2021
+    10.13.1
+    Jul 16, 2021
+    10.13
+    Jul 6, 2021
+    10.12
+    Jun 22, 2021
+    10.11
+    Jun 3, 2021
+    10.10
+    May 25, 2021
+    10.9
+    Apr 28, 2021
+    10.8.2
+    Apr 17, 2021
+    10.8
+    Apr 15, 2021
+    10.7.1
+    Apr 6, 2021
+    10.7
+    Mar 29, 2021
+    10.6
+    Mar 9, 2021
+    10.5.1
+    Feb 26, 2021
+    10.5
+    Feb 9, 2021
+    10.4
+    Jan 15, 2021
+    10.3
+    Jan 5, 2021
+    10.2
+    Nov 30, 2020
+    10.1
+    Oct 29, 2020
+    10.0.4
+    Oct 8, 2020
+    10.0.3
+    Oct 2, 2020
+    10.0.2
+    Sep 26, 2020
+    10.0.1
+    Sep 22, 2020
+    10.0
+    Sep 16, 2020
+    8.24.6
+    Jun 4, 2020
+    8.24.5
+    Apr 29, 2020
+    8.24.4
+    Mar 25, 2020
+    8.24.3
+    Dec 18, 2019
+    8.24.2
+    Nov 7, 2019
+    8.24.1
+    Oct 10, 2019
+    8.24
+    Sep 20, 2019
+    8.23
+    Aug 21, 2019
+    8.22
+    Jun 24, 2019
+    8.21
+    Jun 11, 2019
+    8.20
+    Apr 24, 2019
+    8.19.1
+    Apr 5, 2019
+    8.19
+    Mar 21, 2019
+    8.18
+    Mar 8, 2019
+    8.17.3
+    Jan 10, 2019
+    8.17.2
+    Dec 18, 2018
+    8.17.1
+    Nov 28, 2018
+    8.17
+    Nov 15, 2018
+    8.16.6
+    Nov 2, 2018
+    8.16.5
+    Oct 26, 2018
+    8.16.4
+    Oct 2, 2018
+    8.16.3
+    Sep 26, 2018
+    8.16.2
+    Sep 25, 2018
+    8.16.1
+    Sep 24, 2018
+    8.16
+    Sep 17, 2018
+    8.15.1
+    Aug 16, 2018
+    8.15
+    Aug 14, 2018
+    8.14
+    Jul 17, 2018
+    8.13.2
+    Jul 11, 2018
+    8.13.1
+    Jun 22, 2018
+    8.13
+    Jun 8, 2018
+    8.12
+    May 18, 2018
+    8.11.1
+    Apr 21, 2018
+    8.11
+    Apr 20, 2018
+    8.10.1
+    Mar 26, 2018
+    8.10
+    Mar 16, 2018
+    8.9.2
+    Mar 12, 2018
+    8.9.1
+    Feb 16, 2018
+    8.9
+    Feb 8, 2018
+    8.8.1
+    Jan 24, 2018
+    8.8
+    Jan 18, 2018
+    8.7.1
+    Dec 20, 2017
+    8.7
+    Dec 14, 2017
+    8.6
+    Nov 17, 2017
+    8.5.1
+    Oct 25, 2017
+    8.5
+    Oct 18, 2017
+    8.4.1
+    Sep 28, 2017
+    8.4
+    Sep 18, 2017
+    8.3
+    Aug 8, 2017
+    8.2.2
+    May 30, 2017
+    8.2.1
+    May 1, 2017
+    8.2
+    Apr 10, 2017
+    8.1
+    Feb 13, 2017
+    8.0.4
+    Feb 2, 2017
+    8.0.3
+    Jan 26, 2017
+    8.0.2
+    Jan 22, 2017
+    8.0.1
+    Jan 18, 2017
+    8.0
+    Jan 17, 2017
+    7.18.1
+    Oct 25, 2016
+    7.18
+    Oct 21, 2016
+    7.17.2
+    Oct 4, 2016
+    7.17.1
+    Sep 13, 2016
+    7.17
+    Sep 12, 2016
+    7.16.1
+    Sep 4, 2016
+    7.16
+    Aug 30, 2016
+    7.15
+    Jun 24, 2016
+    7.14
+    Jun 6, 2016
+    7.13.1
+    May 5, 2016
+    7.13
+    Apr 18, 2016
+    7.12
+    Mar 21, 2016
+    7.11.1
+    Feb 25, 2016
+    7.11
+    Feb 22, 2016
+    7.10
+    Jan 26, 2016
+    7.9.2
+    Dec 14, 2015
+    7.9.1
+    Nov 23, 2015
+    7.9
+    Nov 4, 2015
+    7.8.1
+    Oct 19, 2015
+    7.8
+    Sep 26, 2015
+    7.7.11
+    Sep 1, 2015
+    7.7.10
+    Aug 17, 2015
+    7.7.9
+    Jul 21, 2015
+    7.7.8
+    Jul 2, 2015
+    7.7.7
+    Jun 12, 2015
+    7.7.6
+    May 28, 2015
+    7.7.5
+    May 5, 2015
+    7.7.4
+    May 2, 2015
+    7.7.3
+    Apr 30, 2015
+    7.7.2
+    Apr 29, 2015
+    7.7.1
+    Apr 12, 2015
+    7.7
+    Apr 2, 2015
+    7.6.6
+    Mar 26, 2015
+    7.6.5
+    Feb 26, 2015
+    7.6.4
+    Jan 20, 2015
+    7.6.3
+    Dec 17, 2014
+    7.6.2
+    Nov 20, 2014
+    7.6.1
+    Nov 10, 2014
+    7.6.0
+    Oct 31, 2014
+    7.5.1
+    Sep 29, 2014
+    7.5.0
+    Sep 17, 2014
+    7.4.2
+    Jul 21, 2014
+    7.4.1
+    Jun 28, 2014
+    7.4.0
+    Jun 6, 2014
+    7.3.5
+    May 10, 2014
+    7.3.4
+    May 6, 2014
+    7.3.3
+    Apr 4, 2014
+    7.3.2
+    Mar 21, 2014
+    7.3.1
+    Feb 24, 2014
+    7.3.0
+    Jan 30, 2014
+    7.2.1
+    Dec 18, 2013
+    7.2.0
+    Dec 12, 2013
+    7.1.2
+    Nov 13, 2013
+    7.1.1
+    Nov 1, 2013
+    7.1
+    Oct 22, 2013
+    7.0.3
+    Oct 9, 2013
+    7.0.2
+    Sep 27, 2013
+    7.0.1
+    Sep 26, 2013
+    7.0
+    Sep 18, 2013
+    5.4.3
+    Aug 15, 2013
+    5.4.2
+    Aug 4, 2013
+    5.4.1
+    Jul 27, 2013
+    5.4
+    Jul 18, 2013
+    5.3.2
+    Jun 20, 2013
+    5.3.1
+    May 24, 2013
+    5.3
+    May 23, 2013
+    5.2.3
+    Mar 6, 2013
+    5.2.2
+    Mar 2, 2013
+    5.2.1
+    Mar 1, 2013
+    5.2
+    Feb 28, 2013
+    5.1.2
+    Dec 21, 2012
+    5.1.1
+    Dec 19, 2012
+    5.1
+    Dec 6, 2012
+    5.0
+    Nov 8, 2012
+    4.4.1
+    Sep 19, 2012
+    4.4
+    Aug 24, 2012
+    4.3.1
+    Aug 8, 2012
+    4.3
+    Aug 6, 2012
+    4.2.2
+    Jun 22, 2012
+    4.2.1
+    May 25, 2012
+    4.2.0
+    May 8, 2012
+    4.1.9
+    Mar 15, 2012
+    4.1.8
+    Feb 7, 2012
+    4.1.7
+    Dec 20, 2011
+    4.1.6
+    Nov 23, 2011
+    4.1.5
+    Nov 18, 2011
+    4.1.4
+    Oct 22, 2011
+    4.1.3
+    Oct 6, 2011
+    4.1.2
+    Oct 3, 2011
+    4.1.1
+    Aug 26, 2011
+    4.1.0
+    Aug 22, 2011
+    4.0.4
+    Jun 11, 2011
+    4.0.3
+    May 3, 2011
+    4.0.2
+    Apr 5, 2011
+    4.0.1
+    Mar 22, 2011
+    3.2.1
+    N/A
+    3.2.2
+    N/A
+    3.2.3
+    N/A
+    3.3.0
+    N/A
+    3.3.1
+    N/A
+    3.3.2
+    N/A
+    3.3.4
+    N/A
+    3.3.5
+    N/A
+    3.3.6
+    N/A
+    3.3.7
+    N/A
+    3.3.8
+    N/A
+    3.3.9
+    N/A
+    3.3.10
+    N/A
+    3.4.0
+    N/A
+    3.4.1
+    N/A
+    3.4.2
+    N/A
+    4.0
+    N/A
+
+See More
+Top In-App Purchases
+
+    Evernote Personal
+    $11.99
+    Evernote Personal
+    $11.99
+    Evernote Personal Monthly
+    $11.99
+    Monthly Personal Plan
+    $11.99
+    Evernote Premium
+    $11.95
+    Evernote Plus
+    $10
+    Evernote Premium
+    $12
+    Evernote Premium
+    $113.99
+    Evernote Plus
+    $8.95
+    Evernote Plus
+    $10
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jul 11, 2008
+
+Worldwide Release Date
+    Jan 1, 2010
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    10.79.0
+
+Size
+    342.54 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Czech, Danish, Dutch, Finnish, French, German, Indonesian, Italian, Japanese, Korean, Malay, Norwegian Bokmål, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+Seller
+    Evernote Corporation
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.2 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.evernote.iPhone.Evernote
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 281796108
+Unified App ID: 1000600000000708
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Evernote - Notes Organizer | data.ai

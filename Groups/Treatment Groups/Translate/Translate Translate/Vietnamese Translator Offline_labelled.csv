@@ -1,0 +1,17 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.13.86,2022-02-19,iOS 15 full compatibility Bug fixes,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.13.16,2020-02-19,iOS13 full compatibility Offline Translation for Premium Users Fix some deprecated API,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.12.47,2019-01-24,bugfix: translate long sentences did not work auto height multi line search box add monthly yearly subscription options for Premium upgrade,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.12.30,2018-11-05,Add ability to change translation direction when language detection failed Full Vietnamese localization High quality offline English Vietnamese dictionary,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.12.13,2018-08-18,support multi line input support multiple selection bugfixes improvements,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.11.61,2018-02-12,bugfixes for iPhone X,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.11.50,2017-10-13,remove annoying popup when translating,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.11.45,2017-09-27,iOS 11 optimizations,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.11.33,2017-08-04,Search by voice Speech recognition Faster translation Bugfixes,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.9.95,2017-02-08,bug fixes,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.9.55,2016-07-02,bug fixes,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.9.45,2016-06-09,Fix Translator bug,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.7.8,2015-10-29,Fix bugs iPad multitasking support,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.3.0,2015-06-05,Bugfixes History Loading indicators Easier to select text,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.0.5,2015-05-07,Loading indicator Bug fixes Easier to select copy words,0,0,0,0,0,0,0,0
+985568180,1000600000793907,Vietnamese Translator Offline,Reference,2015-04-25,2015-04-25,227.53,2,1,0,1,12.0.0,2015-04-23,,0,0,0,0,0,0,0,0

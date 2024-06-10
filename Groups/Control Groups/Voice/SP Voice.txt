@@ -1,0 +1,424 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+SP Voice
+Ratha SouProductivity (Applications)$1.99
+Alerts
+
+    SP Voice
+    SP Voice
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+SP Voice
+Silently work at best quality
+Productivity (Applications)
+$1.99
+App Description
+Want to record voice memo in highest quality without any notice. This is the app that you need: SP Voice.
+This is one of the best app for record conversations in any meeting without disturbing other.
+No need to place in your pocket or beg, place your device close to the source of voice and record, no one know that you are recording the voice.
+
+With SP Voice, you can record any audio voice without any UI controls appear while the device shows one of the fake backgrounds. Simulate that you are browsing the web, a blog or showing a still image while recording. Moreover, you can show, transparent, or hide all the UI controls to simulate a real spy experience. Addition, you can wirelessly remote this app via Apple watch.
+
+RECORDER
+• Automatic Mode: automatically do record action and other actions when app launch
+• Support upside down interface for even better voice recording quality
+• Highest quality voice recording by placing the device close to the source of voice
+• Ability to limit audio recording duration
+• Choose the audio quality between low, medium, high or best
+• Save recorded files inside app private folder with passcode protection
+
+PLAYER & EDITOR
+• Playback recorded audio at different speed: normal, slow or fast
+• Built-in audio editor to trim or delete audio data
+
+INTERFACE
+• Screen is completely black to simulate the device is turned off
+• Fake other people that you're on other activities by using fake backgrounds
+• Alternative static image slideshow or dynamic rotating clock or interactive web browsing fake backgrounds
+• Ability to your own image fake background
+• Dimmed screen with zero brightness in black background
+• Hideable all UI buttons on the screen
+• Adjustable the visible of the UI transparency
+• Make sure you tap the correct button with haptic feedback support
+
+PASSCODE
+• No one can stop your recording by secure the recording and lock all UI buttons with passcode
+• Support Touch ID and Face ID to unlock passcode
+• Advanced passcode system can lock recorder UI buttons, lock app access when launch, and lock access recorded audio files
+
+ACCESSORIES
+• Support cable and bluetooth earphone for recording and playback
+• Wirelessly remote this app via Apple Watch
+
+SHARING
+• Easy sharing from inside the app or use USB cable for iTunes Files Sharing
+• Direct sharing recorded files to cloud storage
+Ratings
+Displayed Avg Ratings
+4.34
+Total Displayed Ratings
+364
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.1.1 (Oct 8, 2022)
+    • Optimized some interfaces for the latest iOS
+    - Fix audio editor graph scrolling bug
+Version 4.1 (Oct 2, 2022)
+    • New audio editor to trim or delete audio data
+    • New ability to playback recorded audio at different speed
+Version 4.0 (Oct 8, 2020)
+    • Optimized for iOS 14
+    • New audio wave graph
+    • New action button for quickly adjust some settings in recorder UI
+    • Improved app performance and interface
+    • Improved files list interface in landscape
+    • Added option to automatically record new audio file after limit duration is reached
+    • Faster access recorded files without get through Setting menu
+    • Show file size in files list
+    • Updated new compatible web view
+
+    - Fixed bug where record and playback with bluetooth headphone is not working properly
+    - Fixed bug where rarely app show black blank screen when launched
+    - Fixed bug where image background does not show full image in landscape
+    - Fixed bug where image background show distortion image in upside down orientation with notch devices
+Version 3.2 (Jul 16, 2019)
+    • Optimized for latest iOS version
+    • Supported landscape rotation interface
+    • Improved Apple Watch Remote performance by send and receive remote data when Apple Watch is connected only
+    • Improved file renaming system
+    • Improved navigation bar title for newer iOS version
+    • New option to show unsupported audio files in playback list
+    • Fast toggle action switch between fullscreen and non-fullscreen for web background
+Version 3.1.1 (Apr 13, 2019)
+    • Improved dark scheme color for setting view
+    • Added Support fullscreen for web background
+    • Improved web search for invalid URL for web background
+    • Show information to turn on Apple Watch Remote option when launch app on Apple Watch for the first time
+
+    - Fixed bug where some website contents were overlaid by navigation bar
+Version 3.1 (Feb 15, 2019)
+    - Optimized for iPhone XS Max and iPhone XR screen resolution
+    - Optimized for iPad Pro 11" and iPad Pro 12.9" (2018) screen resolution
+    - Add ability to use a single image or images slideshow for image background
+    - Improve audio playback view layout and functions
+    - Improve app stability and performance
+    - Ability to limit audio recording duration
+    - New option to prevent unintentionally touch on Recorder UI after locked
+    - Fix bug where app show incorrect recording duration when duration is more than 60 minutes
+Version 3.0 (May 30, 2018)
+    - Added support Apple Watch Remote
+    - Added support cable earphone and third-party bluetooth earphone for recording and playback
+    - Improve web background URL address bar
+    - Improve and easier to use passcode system
+    - Add option to show action information
+
+    - Fix bug where sometimes app crash when start recording
+    - Fix bug where audio graphs is not visible on iPhone X
+    - Fix bug where sometimes stop recording button not working properly
+    - Fix bug where app crash when tap on error recorded audio file
+    - Fix bug where automatic mode is not working properly after current recording audio is paused
+Version 2.8 (Jan 29, 2018)
+    - Auto apply record action and other actions when app launch with Automatic Mode
+    - Improve clock background interface
+    - Fix bug where phone call app crash and recording audio not saved properly
+    - Fix bug where files not sorted by alphabet on iOS 11
+    - Fix bug where sometimes image slideshow symbol still appear after change to other background
+Version 2.7 (Dec 4, 2017)
+    - Optimized for iPhone X
+    - Added support for Face ID
+    - Improve recording audio quality
+    - Use images background as slideshow
+    - New app icon
+Version 2.6.3 (Jul 6, 2017)
+    - Resolve an issue where some settings is not saved properly
+Version 2.6.2 (Jun 13, 2017)
+    - Resolve critical issue where audio playback toolbar was hidden by audio graphs on iPad devices in the latest update
+Version 2.6.1 (Jun 10, 2017)
+    - Resolve an issue where app crash when selected a blank audio file in playback
+    - Improve audio graphs view on iPhone devices
+Version 2.6 (Feb 10, 2017)
+    - Display audio graph while playback the recorded file
+    - Support file sharing with other activities sharing
+    - Enable all images background by swipe left or right to change
+    - Resolve an issue where phone call interruption cause recording to stop
+    - Resolve an issue where black background with zero brightness is not working
+Version 2.5.4 (Jan 5, 2017)
+    - Resolve critical bug where sometimes app crash when start recording on some newer devices (please relaunch if it crashed, it will work fine after relaunch)
+Version 2.5.3 (Dec 21, 2016)
+    - Minor bug fixes where alert view appear twice where warning occurs
+    - Stability improvement
+Version 2.5.2 (Dec 8, 2016)
+    - Resolve an issue wheres sometimes devices go into sleep mode
+Version 2.5.1 (Dec 2, 2016)
+    - Resolve an issue where UI buttons is not response after app relaunched
+    - Improve interface support for iPad 12.9
+Version 2.5 (Nov 8, 2016)
+    - Haptic feedback support for iPhone 7 and iPhone 7 Plus
+    - Full web browser navigation buttons
+    - Support files sharing to Dropbox
+    - Improve passcode protection system with ability to lock app startup, recorder UI buttons, and view recorded file
+    - Add file delete button for easier file deleting
+    - Various bugs fix and interface improvement
+Version 2.2.1 (Sep 20, 2015)
+    - Support iOS9
+    - Fix an issue where app crashed when tap Cloud Account menu
+Version 2.2 (Sep 4, 2015)
+    - Support files upload to Google Drive
+    - Various bugs fix
+Version 2.1 (Aug 13, 2015)
+    - New clock background
+Version 2.0.1 (Jul 25, 2015)
+    - Minor layout improvement
+Version 2.0 (Jul 21, 2015)
+    - Audio graph indicator for voice level when recording
+    - Optimized for iPhone 6 and iPhone 6 Plus
+    - Optimized for new version of iOS
+    - Passcode for secure the recording and view recorded files
+    - Touch ID is supported with passcode
+    - New best quality audio support
+Version 1.5.1 (Sep 16, 2014)
+    - Various bugs fix
+Version 1.5 (May 25, 2014)
+    - Support iPad
+    - Minor bug fixes
+Version 1.4 (Apr 2, 2014)
+    - Add option to adjust UI transparency
+    - Improve file rename function
+    - Improve file sharing instruction
+    - Various bugs fix
+Version 1.3 (Mar 31, 2014)
+    - NEW: Dynamic interactable web page fake background
+    - Bug fix
+Version 1.2 (Feb 20, 2014)
+    - Can rename recorded files
+    - Improve audio playback interface
+    - UI tweak
+    - Fix: disable auto screen lock not working properly
+Version 1.1 (Feb 1, 2014)
+    - Add your own fake background
+    - Improve performance
+    - Fix: fake background appear immediately after changed
+Version 1.0.1 (Jan 4, 2014)
+    - Add missing iOS 7 fake background
+Version 1.0 (Nov 14, 2013)
+
+Users may also like
+Select objects to compare
+ADSignify - Active Directory
+RPN 28x Calc
+eScan MDM
+TelepaText - editor, speech
+Idrive Remote Access
+Knote - Organized voice notes
+ESP32 Kit
+VNCtalk
+SmartTruckerPro App
+FLILTD LAC
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+3 times
+on App Store category pages
+Versions
+
+    4.1.1
+    Current release
+    Oct 8, 2022
+    4.1
+    Oct 2, 2022
+    4.0
+    Oct 8, 2020
+    3.2
+    Jul 16, 2019
+    3.1.1
+    Apr 13, 2019
+    3.1
+    Feb 15, 2019
+    3.0
+    May 30, 2018
+    2.8
+    Jan 29, 2018
+    2.7
+    Dec 4, 2017
+    2.6.3
+    Jul 6, 2017
+    2.6.2
+    Jun 13, 2017
+    2.6.1
+    Jun 10, 2017
+    2.6
+    Feb 10, 2017
+    2.5.4
+    Jan 5, 2017
+    2.5.3
+    Dec 21, 2016
+    2.5.2
+    Dec 8, 2016
+    2.5.1
+    Dec 2, 2016
+    2.5
+    Nov 8, 2016
+    2.2.1
+    Sep 20, 2015
+    2.2
+    Sep 4, 2015
+    2.1
+    Aug 13, 2015
+    2.0.1
+    Jul 25, 2015
+    2.0
+    Jul 21, 2015
+    1.5.1
+    Sep 16, 2014
+    1.5
+    May 25, 2014
+    1.4
+    Apr 2, 2014
+    1.3
+    Mar 31, 2014
+    1.2
+    Feb 20, 2014
+    1.1
+    Feb 1, 2014
+    1.0.1
+    Jan 4, 2014
+    1.0
+    Nov 14, 2013
+
+See More
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Nov 14, 2013
+
+Worldwide Release Date
+    Nov 14, 2013
+
+Last Updated Time
+    Feb 21, 2024
+
+Version
+    4.1.1
+
+Size
+    21.85 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Ratha Sou
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 9.0 and watchOS 3.0 or later. Compatible with iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi-Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi‑Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi-Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi-Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, iPod touch (6th generation), and iPod touch (7th generation).
+
+Bundle ID
+    com.rathasou.spyvoice
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (May 30, 2018)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 718952607
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+SP Voice | data.ai

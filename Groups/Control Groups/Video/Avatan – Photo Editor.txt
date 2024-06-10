@@ -1,0 +1,1039 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Avatan – Photo Editor
+Leonid IlyaevPhoto and Video (Applications)Free
+Alerts
+
+Avatan
+Avatan – Photo Editor
+Avatan – Photo Editor
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Avatan – Photo Editor
+Effects and face retouch
+Photo and Video (Applications)
+Free
+App Description
+Avatan is a social photo editor.
+
+It enables people to edit photos interacting with each other, while using their own processing elements.
+All the elements are created and added by users to the social network integrated with the photo editor.
+
+EFFECTS
+You have the opportunity to create and save your own, customized effects.
+To create effects, you can use various tools and resources.
+
+RESOURCES
+You can add and use 4 various resources when editing images:
+* Stickers
+* Textures
+* Frames
+* Backgrounds
+
+RETOUCHING
+Moreover, the photo editor features embedded functions for all the necessary types of face retouching and body shape adjustment. This makes it possible to always easily eliminate any imperfections with high quality.
+
+You can save your favorite effects and resources to apply them later while editing your new photos. Due to these multiple options, your edited photos will always be of high quality and special style. Every second an enormous number of users add new effects and resources for editing images on a variety of themes, replenishing their collections. Thus, the range of opportunities offered by the photo editor is constantly growing. The intuitive and convenient interface makes it possible to implement complex processing in simple steps. The entire process is a pure joy.
+
+We offer in-app purchases for Premium, which includes unlimited amount of adding elements to favourites and other features. The amount will be charged to your iTunes account and will vary by plan and country. You’ll see the total price before completing payment.
+
+Premium subscriptions purchased in-app renew monthly or yearly depending on your plan. To avoid renewal, you must turn off auto-renew at least 24 hours before your subscription ends. You can turn off auto-renew at any time from iTunes account settings.
+
+Also we offer in-app purchase Premium One-time. The payment process just one time. After that You get Premium features once for all without other payments. If You have an active Premium subscription and want to get Premium One-time, You need to turn off auto-renew at least 24 hours before your subscription ends. After subscription ends You can buy Premium One-time.
+
+Terms of Use: https://avatanplus.ru/pages/eula
+Privacy Policy: https://avatanplus.ru/pages/privacy-en
+Ratings
+Displayed Avg Ratings
+4.75
+Total Displayed Ratings
+86.9k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.26 (Feb 19, 2024)
+    Bugs fixed, performance improved
+Version 5.25 (Feb 10, 2024)
+    In this version we have fixed a bug when working with the effects editor. We also made some improvements and changes.
+Version 5.24 (Jan 20, 2024)
+    Bugs fixed, performance improved
+Version 5.23 (Nov 14, 2023)
+    We present to your attention a new retouching effect “Heal”
+Version 5.22 (Sep 10, 2023)
+    Bug fixes and performance improvements
+Version 5.20 (Aug 15, 2023)
+    In this version, we fixed the slider in the "Face Width" setting in the "Auto Retouch" effect.
+Version 5.19 (Aug 14, 2023)
+    In this version, we fixed a bug due to which the effects editor did not work. A few other minor bugs have also been fixed.
+Version 5.18 (Jul 30, 2023)
+    Bug fixes and performance improvements
+Version 5.17 (Jul 25, 2023)
+    In this version you can try the new face retouching effect "Texture"
+
+    Thank you for staying with us!
+Version 5.16 (May 15, 2023)
+    In this update, we fixed a bug where the app would freeze when working with retouching.
+Version 5.15 (May 11, 2023)
+    In this version, we have improved the effect for retouching "Concealer"
+Version 5.14 (Apr 2, 2023)
+    We have slightly updated the interface of the main page of the app. Also fixed minor bugs.
+
+    Thank you for staying with us!
+Version 5.13 (Mar 8, 2023)
+    We've fixed a few bugs.
+    The improvements are subtle but important.
+Version 5.12 (Mar 5, 2023)
+    In this version, we've fixed some minor bugs and improved the app's performance. We will continue to update our product to make it more convenient for you.
+Version 5.11 (Feb 23, 2023)
+    In this version, we have added a new function for retouching "Matte"
+    Now you can make the skin in your photos even more perfect!
+Version 5.10 (Feb 16, 2023)
+    Bug fixes and performance improvements
+Version 5.9 (Feb 8, 2023)
+    We fixed a bug where the function of viewing the original photo before processing in the edit mode did not work
+
+    Also fixed a bug that caused the application to crash when opening the "Face" effect
+Version 5.8 (Jan 31, 2023)
+    In this version, we fixed a bug when working with brushes. We also fixed a bug due to which a black background appeared after cropping the video. Also fixed a number of minor bugs.
+Version 5.7 (Jan 19, 2023)
+    This is a technical update.
+    Made improvements in the code. Fixed some minor bugs.
+Version 5.6 (Jan 6, 2023)
+    We have fixed a bug in the work
+    «Acne» effect. The effect now eliminates pimples correctly.
+
+    We also fixed bugs and improved the stability of the application.
+Version 5.5 (Dec 17, 2022)
+    Improved application performance and stability fixed critical bugs that caused the application to crash
+
+    Also fixed a bug that caused the «Wrinkle Remover» effect to work slowly
+Version 5.5 (Dec 17, 2022)
+    Improved application performance and stability fixed critical bugs that caused the application to crash
+
+    Also fixed a bug that caused the «Wrinkle Remover» effect to work slowly
+Version 5.4 (Dec 10, 2022)
+    We fixed some critical bugs:
+    - Fixed a problem due to which the history of stickers did not work correctly
+    - Fixed application crash when working with effects
+    - And also prevented the application from crashing when saving a video
+Version 5.3 (Dec 6, 2022)
+    In this version, we fixed a bug due to which the "Grain" effect did not work correctly.
+Version 5.2 (Nov 23, 2022)
+    In this version, we fixed a bug that caused the "Face" effect to work incorrectly
+
+    Also, a bug was fixed that caused the scrolling to reset inside the photo editor.
+Version 5.1 (Nov 20, 2022)
+    Hello friends!
+
+    In this release, we've added the long-awaited video editor. Now you can edit not only photos but also videos!
+Version 3.5 (Aug 19, 2022)
+    Fixed a bug due to which it was impossible to correctly apply a frame to an edited photo.
+Version 3.4 (Jul 1, 2022)
+    This version fixed a bug when adding items to favorites without authorization
+Version 3.3 (Jan 12, 2022)
+    This version fixes an issue that caused the application to crash when selecting a photo from the library
+Version 3.2 (Jan 9, 2022)
+    In this version, some changes have been added to prevent incorrect operation of the analytics library, as well as some elements of the photo editor
+Version 3.1 (Sep 29, 2021)
+    Fixed bug in Stretch filter
+Version 2.98 (Sep 15, 2021)
+    We are constantly improving our app. In this version, we fixed the incorrect operation of notifications, as well as updated the logic of advertising analytics.
+    Thank you for staying with us!
+Version 2.97 (Aug 9, 2021)
+    Bug fixes and performance improvements
+Version 2.96 (Jul 2, 2021)
+    Now it's even easier to retouch photos. We've added new auto-retouching features!
+
+    We also refreshed the application interface a bit!
+
+    Stay with us :)
+Version 2.95 (Apr 23, 2021)
+    Fixed a bug that could lead to incorrect work of the "Stretch" effect
+Version 2.94 (Apr 21, 2021)
+    Fixed a bug due to which the "Eye brightness" effect could not work
+Version 2.92 (Apr 13, 2021)
+    Fixed a critical bug due to which some sections of the photo editor, effects or resources could not work correctly or not be displayed at all.
+Version 2.91 (Apr 7, 2021)
+    Fixed a bug causing scaling to freeze in some effects. And also implemented the function "Allow Apps to Request to Track"
+Version 2.90 (Feb 6, 2021)
+    Introducing the new and updated «Bloat» effect
+Version 2.89 (Jan 26, 2021)
+    Introducing the new and updated «Stretch» effect
+Version 2.88 (Jan 12, 2021)
+    This version includes bug fixes and some improvements!
+Version 2.87 (Dec 31, 2020)
+    In this update, we slightly reworked how the slider works and made its control even more convenient!
+Version 2.86 (Dec 30, 2020)
+    In this update we:
+
+    - In the section tools have created a new effect "Prism"
+    - Fixed minor bugs and improved stability
+Version 2.85 (Dec 22, 2020)
+    This version includes bug fixes and some improvements!
+
+    Thank you for staying with us!
+Version 2.84 (Dec 16, 2020)
+    In this version, we fixed the incorrect work of the "Vignette" effect
+Version 2.83 (Dec 11, 2020)
+    This version includes the following fixes:
+
+    - fixed a bug that led to incorrect animation of the sides of the working area for photo editing
+
+    - fixed a bug that caused the application to crash when using the tag autocomplete table
+Version 2.82 (Nov 10, 2020)
+    fixed bug in recommended blogs leading to application crash
+Version 2.81 (Sep 20, 2020)
+    prepared for iOS 14
+
+    fixed bugs on news page
+Version 2.80 (Aug 8, 2020)
+    Fixed a bug due to which the application could freeze after applying the frame
+Version 2.79 (Aug 4, 2020)
+    We've added improvements to analytics libraries
+    And also fixed some errors in the interface of the photo editor
+Version 2.78 (Aug 1, 2020)
+    updated analytics library
+Version 2.77 (Jul 30, 2020)
+    updated analytics library
+Version 2.76 (Jul 28, 2020)
+    updated analytics library
+Version 2.75 (Jul 24, 2020)
+    Sign In with Apple
+Version 2.74 (Jul 18, 2020)
+    fixed bug in profile editing page
+Version 2.73 (Jul 11, 2020)
+    updated analytics library
+Version 2.72 (Jul 10, 2020)
+    updated analytics library
+Version 2.71 (Jul 8, 2020)
+    In this version, we fixed some critical bugs
+Version 2.70 (Jul 3, 2020)
+    updated analytics library
+Version 2.69 (Jun 30, 2020)
+    updated analytics library
+Version 2.68 (Jun 26, 2020)
+    updated analytics library
+Version 2.67 (Jun 11, 2020)
+    We have updated the main screen of the app.
+    Also now you can create effects and add resources from the main screen.
+Version 2.66 (Jun 1, 2020)
+    Fixed bug when creating your own effect!
+Version 2.65 (May 28, 2020)
+    We made a complete redesign of the app!
+    Update icon and completely redesigned interface.
+
+    And also added a new languages:
+    Arabic
+    Chinese
+    Greek
+    Hebrew
+    Hindi
+    Japanese
+    Korean
+    Portuguese
+Version 2.64 (May 16, 2020)
+    Now the App is translated into Polish
+Version 2.63 (May 12, 2020)
+    Now the application has been translated into 5 new languages:
+    French
+    Italian
+    Spanish
+    Mexican
+    Thai
+Version 2.62 (May 9, 2020)
+    We added Indonesian localization.
+Version 2.61 (May 6, 2020)
+    In this version, we added the localization of the Turkish language
+Version 2.60 (Apr 23, 2020)
+    - Slightly modified the interface and principle of operation of the new section "Filters"
+    - Also fixed some annoying bugs
+Version 2.59 (Apr 18, 2020)
+    Hi!
+
+    We have created a completely new section for you, consisting of 200 professional filters. We give them to you for free!
+
+    We also continue to work on new editing tools, which you will definitely see in the near future.
+
+    Stay tuned!
+Version 2.58 (Mar 25, 2020)
+    Meet two new effects:
+    - HSL
+    - skin tone
+
+    We also fixed some bugs, including
+    incorrect sorting of photos in the Recent section of the library
+Version 2.57 (Jan 24, 2020)
+    fixes in layout of editor tables
+Version 2.56 (Jan 23, 2020)
+    Made some improvements in design, as well as in the quality of the displayed content.
+Version 2.55 (Dec 26, 2019)
+    add elements to favorites without authorization
+Version 2.54 (Nov 21, 2019)
+    fixed bug in Shine Reduce filter
+
+    new filters were added to the effects creation editor
+Version 2.53 (Oct 26, 2019)
+    We updated the photo editor interface, as well as added several new editing tools!
+Version 2.52 (Oct 8, 2019)
+    fixed bug in face filter
+Version 2.51 (Oct 6, 2019)
+    fixed bug in plasty filter when filter stops reacting to touches
+Version 2.50 (Oct 3, 2019)
+    fixed bug with preset empty name in face filter
+    fixed bug in push notifications on iOS 13
+Version 2.49 (Oct 2, 2019)
+    fixed bug in face filter on iOS 13
+Version 2.48.1 (Oct 1, 2019)
+    We added the ability to save and use the specified settings for the Face effect settings.
+    Now you can use ready-made templates for your ideal face settings!
+Version 2.47.1 (Sep 15, 2019)
+    a history of applied elements for an unauthorized user is added
+Version 2.46 (Aug 29, 2019)
+    fixed bug in curves
+
+    now in the effect creation editor you can use elements from favorites and search
+Version 2.45 (Aug 20, 2019)
+    fixed bug in zoom
+    fixed bug in curves
+    fixed bug in effects
+    on iPad fixed bug when app crashes on other user settings tap
+Version 2.44 (Aug 1, 2019)
+    Stickers applying method was changed
+    Added blending mode option to stickers
+Version 2.43 (Jul 10, 2019)
+    We like to introduce an improved photo editor interface. We have made it even more modern and convenient.
+Version 2.42 (May 22, 2019)
+    fixed application crash bug when logging in to account
+Version 2.41 (May 10, 2019)
+    Fixed a bug on the profile page in the resource tabs
+
+    Other minor bug fixes
+Version 2.40 (Mar 29, 2019)
+    fixed bug when returning to the first page
+
+    fixed bug in tags in own profile
+
+    fixed scroll up bug when returning to feed
+Version 2.39 (Mar 6, 2019)
+    Bug due to which the feed scrolled to top has fixed.
+
+    Bug when no opportunity to edit stickers after effect brush applying, has fixed
+Version 2.38 (Mar 2, 2019)
+    - Effect masking brush added. Now you can choose which areas of processed image would be affected.
+    - Notes list minor loading bug has fixed.
+    - Bug with blog cells UI interaction has fixed.
+Version 2.37 (Feb 20, 2019)
+    We have added the section "Popular blogs"
+    And also fixed some critical bugs.
+Version 2.36 (Feb 5, 2019)
+    Now in your profile, as well as in the profiles of other users, you can see your favorite items. Optionally, you can hide them in the privacy settings!
+Version 2.35 (Jan 15, 2019)
+    Now in your profile, as well as in the profiles of other users, you can see selected items. Optionally, you can hide them in the privacy settings!
+Version 2.34 (Dec 17, 2018)
+    bug fixes
+Version 2.33 (Dec 12, 2018)
+    bug fixes
+Version 2.32 (Dec 6, 2018)
+    bug fixes
+Version 2.31 (Nov 21, 2018)
+    bug fixes
+Version 2.30 (Nov 16, 2018)
+    bug fixes
+Version 2.29 (Nov 13, 2018)
+    bug fixes
+Version 2.28 (Nov 9, 2018)
+    Now in the “Face” effect you can change the shape of the eyebrows!
+Version 2.27 (Oct 23, 2018)
+    bug fixes
+Version 2.26 (Oct 20, 2018)
+    bug fixes
+Version 2.25 (Oct 6, 2018)
+    We have added new features to the «Face» effect.
+Version 2.24 (Sep 29, 2018)
+    bug fixes
+Version 2.23 (Sep 21, 2018)
+    bug fixes
+Version 2.22 (Sep 16, 2018)
+    adapted for iPhone X screen
+    bug fixes
+Version 2.21 (Sep 7, 2018)
+    bug fixes
+Version 2.20 (Aug 31, 2018)
+    bug fixes
+Version 2.19 (Aug 28, 2018)
+    We present to your attention a new cool filter called "Face". You will find it in retouching section!
+Version 2.18 (Jun 27, 2018)
+    bug fixes
+Version 2.17 (May 25, 2018)
+    bug fixes
+Version 2.16 (Apr 25, 2018)
+    Now that you are running out of free add-ons, you do not need to buy a premium, or you can add your favorite resource to your favorites after watching the ad
+Version 2.15 (Apr 16, 2018)
+    bug fixes
+Version 2.14 (Apr 13, 2018)
+    We changed the design of the save screen, as well as improved performance.
+Version 2.13 (Mar 1, 2018)
+    bug fixes
+Version 2.12 (Feb 20, 2018)
+    In this update, we made it possible to add your favorite effects and resources to your favorites right in the photo editor, which would make it even easier to edit your photos!
+Version 2.11 (Jan 31, 2018)
+    Thank you all for your work in Avatan!
+    We are glad to inform about the next update!
+    Now you can use the backgrounds directly in the editor!
+    A lot more interesting is ahead, stay with us :)
+Version 2.10 (Dec 16, 2017)
+    We updated search screen, making it more convenient and beautiful!
+Version 2.9 (Dec 9, 2017)
+    We updated the interface version for the iPad!
+    Also we fixed some bugs!
+Version 2.8 (Nov 11, 2017)
+    Now the effect of "Reshape" has become more convenient! We have added an action history, as well as the ability to scale an edited photo in the function mode "Reshape" and "Refine"
+Version 2.7 (Nov 4, 2017)
+    Now you can select effects and resources right in the editing mode without leaving the photo editor!
+    To do this, we added a search section in which you can easily find the effect or resource you need, whether it's a texture sticker, a background or a frame
+
+    Also we slightly updated the styles of the interface of the photo editor and fixed some critical bugs.
+Version 2.6 (Oct 12, 2017)
+    bug fixes
+Version 2.5 (Oct 6, 2017)
+    - We removed the delay before opening the application. Now the application opens almost instantly
+    - Fixed a problem with the addition of several tags
+    - Added a nice interface for adding items
+    - Fixed bugs
+Version 2.4 (Sep 25, 2017)
+    - Added hints to manage the application
+
+    - Fixed critical bugs
+Version 2.3 (Sep 19, 2017)
+    bug fixes
+Version 2.2 (Sep 7, 2017)
+    bug fixes
+Version 2.1 (Sep 4, 2017)
+    Hello everyone!
+
+    We have a long-awaited update! Our photo editor goes social!
+
+    From now on, you can develop the photo editor yourself by adding your own resources for photo editing.
+
+    Namely:
+    - Create your own effects
+    - Add your own stickers
+    - Add textures
+    - Add frames
+    - Add backgrounds
+
+    And use resources added by other users.
+
+    A social network is now embedded in the photo editor, and the app interface is fully upgraded. It is more modern and convenient than ever before.
+
+    However, this is not an exhaustive list. There are lots of other interesting features and ideas. And we are planning to implement them in the future.
+
+    Enjoy!
+Version 1.34 (Jul 26, 2017)
+    fixed bug in sticker color history
+    bug fixes
+Version 1.33 (Jun 3, 2017)
+    fixed bug in retouch
+    minor bug fixes
+Version 1.32 (May 22, 2017)
+    We are pleased to present you our new application icon!
+
+    Also we're completely renewed the interface of the application on the iPhone.
+    It became even more convenient and stylish.
+
+    And the big news is that we're preparing a new feature-rich update. We have worked hard on it and we sure that you really enjoy it :)
+
+    Stay Tuned!
+Version 1.31 (Mar 21, 2017)
+    fixed reset zoom at applying effect
+    new icon
+    bug fixes
+Version 1.30 (Jan 19, 2017)
+    bug fixes
+Version 1.29 (Jan 2, 2017)
+    bug fixes
+Version 1.28 (Dec 21, 2016)
+    bug fixes
+Version 1.27 (Dec 8, 2016)
+    bug fixes
+Version 1.26 (Nov 4, 2016)
+    bug fixes
+Version 1.25 (Nov 3, 2016)
+    bug fixes
+Version 1.24 (Oct 18, 2016)
+    fixed bug in photo library
+Version 1.23 (Oct 11, 2016)
+    fixed bug of not showing filter in real time
+Version 1.22 (Oct 5, 2016)
+    fixed bug in curves
+Version 1.21 (Sep 30, 2016)
+    fixed bug in photo library
+Version 1.20 (Sep 26, 2016)
+    added iOS 10 compatibility
+    fixed bugs in retouch
+    fixed bugs in photo library
+Version 1.19 (Sep 20, 2016)
+    added curves and levels to basics
+Version 1.18 (Sep 17, 2015)
+    fixed bugs
+Version 1.17 (Aug 16, 2015)
+    added plasty effect
+    fixed bugs in sticker history
+Version 1.16 (Jul 27, 2015)
+    fixed bug in textures on ipad
+    fixed bud in slimming filter
+Version 1.15 (Jul 11, 2015)
+    fixed bug on open on ipad
+    added textures
+Version 1.14 (Jul 2, 2015)
+    Added Stickers
+Version 1.13 (Jun 6, 2015)
+    Fixed retouch crashes
+Version 1.12 (May 15, 2015)
+    Touch Up filters
+Version 1.11 (Apr 8, 2015)
+    fixed bugs
+Version 1.10 (Feb 26, 2015)
+    fixed crash for iphone 4s and iphone 5
+    fixed in-app purchases
+Version 1.9 (Feb 16, 2015)
+    Version for iphone
+Version 1.8 (Aug 28, 2014)
+    Fixed bugs in history, loading and saving photos
+Version 1.7 (Aug 8, 2014)
+    Stickers
+Version 1.6 (May 21, 2014)
+    Retouch effects
+Version 1.5 (May 4, 2014)
+    Fixed library bugs
+
+    Add albums
+
+    Fixed history
+Version 1.4 (Mar 20, 2014)
+    action bugs fixed
+
+    fixed crash when app goes to background
+Version 1.3 (Feb 19, 2014)
+    исправлены
+    алгоритмы открытия/закрытия фильтров Действий
+    фильтр "Резкость"
+    устранено падение при выборе фото
+Version 1.2 (Jan 22, 2014)
+    Fixed library updates
+Version 1.0 (Jan 8, 2014)
+
+Users may also like
+Select objects to compare
+KUNI Cam: Photo Video Editor.
+Pomelo Filters
+RNI Films: Photo & RAW Editor
+Foodie - Filter & Film Camera
+FIMO - Analog Camera
+Liit - Photo & Video Editor
+RetroCam: Vintage Film Camera
+iDrip - Photo extractor
+CALLA CAM
+Dazz Cam - Vintage Camera
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.26
+    Current release
+    Feb 19, 2024
+    5.25
+    Feb 10, 2024
+    5.24
+    Jan 20, 2024
+    5.23
+    Nov 14, 2023
+    5.22
+    Sep 10, 2023
+    5.20
+    Aug 15, 2023
+    5.19
+    Aug 14, 2023
+    5.18
+    Jul 30, 2023
+    5.17
+    Jul 25, 2023
+    5.16
+    May 15, 2023
+    5.15
+    May 11, 2023
+    5.14
+    Apr 2, 2023
+    5.13
+    Mar 8, 2023
+    5.12
+    Mar 5, 2023
+    5.11
+    Feb 23, 2023
+    5.10
+    Feb 16, 2023
+    5.9
+    Feb 8, 2023
+    5.8
+    Jan 31, 2023
+    5.7
+    Jan 19, 2023
+    5.6
+    Jan 6, 2023
+    5.5
+    Dec 17, 2022
+    5.5
+    Dec 17, 2022
+    5.4
+    Dec 10, 2022
+    5.3
+    Dec 6, 2022
+    5.2
+    Nov 23, 2022
+    5.1
+    Nov 20, 2022
+    3.5
+    Aug 19, 2022
+    3.4
+    Jul 1, 2022
+    3.3
+    Jan 12, 2022
+    3.2
+    Jan 9, 2022
+    3.1
+    Sep 29, 2021
+    2.98
+    Sep 15, 2021
+    2.97
+    Aug 9, 2021
+    2.96
+    Jul 2, 2021
+    2.95
+    Apr 23, 2021
+    2.94
+    Apr 21, 2021
+    2.92
+    Apr 13, 2021
+    2.91
+    Apr 7, 2021
+    2.90
+    Feb 6, 2021
+    2.89
+    Jan 26, 2021
+    2.88
+    Jan 12, 2021
+    2.87
+    Dec 31, 2020
+    2.86
+    Dec 30, 2020
+    2.85
+    Dec 22, 2020
+    2.84
+    Dec 16, 2020
+    2.83
+    Dec 11, 2020
+    2.82
+    Nov 10, 2020
+    2.81
+    Sep 20, 2020
+    2.80
+    Aug 8, 2020
+    2.79
+    Aug 4, 2020
+    2.78
+    Aug 1, 2020
+    2.77
+    Jul 30, 2020
+    2.76
+    Jul 28, 2020
+    2.75
+    Jul 24, 2020
+    2.74
+    Jul 18, 2020
+    2.73
+    Jul 11, 2020
+    2.72
+    Jul 10, 2020
+    2.71
+    Jul 8, 2020
+    2.70
+    Jul 3, 2020
+    2.69
+    Jun 30, 2020
+    2.68
+    Jun 26, 2020
+    2.67
+    Jun 11, 2020
+    2.66
+    Jun 1, 2020
+    2.65
+    May 28, 2020
+    2.64
+    May 16, 2020
+    2.63
+    May 12, 2020
+    2.62
+    May 9, 2020
+    2.61
+    May 6, 2020
+    2.60
+    Apr 23, 2020
+    2.59
+    Apr 18, 2020
+    2.58
+    Mar 25, 2020
+    2.57
+    Jan 24, 2020
+    2.56
+    Jan 23, 2020
+    2.55
+    Dec 26, 2019
+    2.54
+    Nov 21, 2019
+    2.53
+    Oct 26, 2019
+    2.52
+    Oct 8, 2019
+    2.51
+    Oct 6, 2019
+    2.50
+    Oct 3, 2019
+    2.49
+    Oct 2, 2019
+    2.48.1
+    Oct 1, 2019
+    2.47.1
+    Sep 15, 2019
+    2.46
+    Aug 29, 2019
+    2.45
+    Aug 20, 2019
+    2.44
+    Aug 1, 2019
+    2.43
+    Jul 10, 2019
+    2.42
+    May 22, 2019
+    2.41
+    May 10, 2019
+    2.40
+    Mar 29, 2019
+    2.39
+    Mar 6, 2019
+    2.38
+    Mar 2, 2019
+    2.37
+    Feb 20, 2019
+    2.36
+    Feb 5, 2019
+    2.35
+    Jan 15, 2019
+    2.34
+    Dec 17, 2018
+    2.33
+    Dec 12, 2018
+    2.32
+    Dec 6, 2018
+    2.31
+    Nov 21, 2018
+    2.30
+    Nov 16, 2018
+    2.29
+    Nov 13, 2018
+    2.28
+    Nov 9, 2018
+    2.27
+    Oct 23, 2018
+    2.26
+    Oct 20, 2018
+    2.25
+    Oct 6, 2018
+    2.24
+    Sep 29, 2018
+    2.23
+    Sep 21, 2018
+    2.22
+    Sep 16, 2018
+    2.21
+    Sep 7, 2018
+    2.20
+    Aug 31, 2018
+    2.19
+    Aug 28, 2018
+    2.18
+    Jun 27, 2018
+    2.17
+    May 25, 2018
+    2.16
+    Apr 25, 2018
+    2.15
+    Apr 16, 2018
+    2.14
+    Apr 13, 2018
+    2.13
+    Mar 1, 2018
+    2.12
+    Feb 20, 2018
+    2.11
+    Jan 31, 2018
+    2.10
+    Dec 16, 2017
+    2.9
+    Dec 9, 2017
+    2.8
+    Nov 11, 2017
+    2.7
+    Nov 4, 2017
+    2.6
+    Oct 12, 2017
+    2.5
+    Oct 6, 2017
+    2.4
+    Sep 25, 2017
+    2.3
+    Sep 19, 2017
+    2.2
+    Sep 7, 2017
+    2.1
+    Sep 4, 2017
+    1.34
+    Jul 26, 2017
+    1.33
+    Jun 3, 2017
+    1.32
+    May 22, 2017
+    1.31
+    Mar 21, 2017
+    1.30
+    Jan 19, 2017
+    1.29
+    Jan 2, 2017
+    1.28
+    Dec 21, 2016
+    1.27
+    Dec 8, 2016
+    1.26
+    Nov 4, 2016
+    1.25
+    Nov 3, 2016
+    1.24
+    Oct 18, 2016
+    1.23
+    Oct 11, 2016
+    1.22
+    Oct 5, 2016
+    1.21
+    Sep 30, 2016
+    1.20
+    Sep 26, 2016
+    1.19
+    Sep 20, 2016
+    1.18
+    Sep 17, 2015
+    1.17
+    Aug 16, 2015
+    1.16
+    Jul 27, 2015
+    1.15
+    Jul 11, 2015
+    1.14
+    Jul 2, 2015
+    1.13
+    Jun 6, 2015
+    1.12
+    May 15, 2015
+    1.11
+    Apr 8, 2015
+    1.10
+    Feb 26, 2015
+    1.9
+    Feb 16, 2015
+    1.8
+    Aug 28, 2014
+    1.7
+    Aug 8, 2014
+    1.6
+    May 21, 2014
+    1.5
+    May 4, 2014
+    1.4
+    Mar 20, 2014
+    1.3
+    Feb 19, 2014
+    1.2
+    Jan 22, 2014
+    1.0
+    Jan 8, 2014
+
+See More
+Top In-App Purchases
+
+    Airbrush
+    $0.99
+    access to all paid effects for avatan plus
+    $21.99
+    Eye Color
+    $0.99
+    Eye Brighten
+    $0.99
+    Wrinkle Remover
+    $0.99
+    Hair Color
+    $1.99
+    access to all paid effects for ipad version
+    $0.99
+    Premium
+    $2.99
+    Premium
+    $14.99
+    Premium One-time
+    $69.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jan 13, 2014
+
+Worldwide Release Date
+    Jan 13, 2014
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    5.26
+
+Size
+    95.72 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Belarusian, French, German, Greek, Hebrew, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Turkish, Ukrainian
+
+Seller
+    Leonid Ilyaev
+
+Company HQ
+    Russia
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    ru.avatan
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 790284480
+Unified App ID: 1000600000513750
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Avatan – Photo Editor | data.ai
+				
+				
+				
+				
+				
+	

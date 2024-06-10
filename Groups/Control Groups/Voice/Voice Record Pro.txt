@@ -1,0 +1,878 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Voice Record Pro
+Dayana NetworksUtilities (Applications)Free
+Alerts
+
+    Voice Record Pro
+    Voice Record Pro
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Voice Record Pro
+Audio Recorder & Sound Editor
+Utilities (Applications)
+Free
+App Description
+Professional Voice Recorder for iPhone, iPad and iWatch! No limitation, Completely FREE!
+
+
+
+Voice Record Pro is a professional voice recorder. It allows you to record voice memos and on-site sounds at unlimited length with configurable quality.
+
+Voice Record Pro can record directly in MP4 (AAC), MP3 (MPEG) and WAV (PCM) formats plus convert function for all supported formats.
+
+
+
+None of the features are limited by in-app purchase, they are all free and without limitation. in-app purchase can be used to remove the bottom advertisement from the app.
+
+
+
+RECORDING:
+
+
+
+- Unlimited recording, the only limit is your device free space.
+
+- Record audio in M4A/AAC format, you can choose the exact quality of the record including bitrate, sample rate, bit depth, number of audio channels and encode quality.
+
+- Record audio in MP3 format, in addition to sample rate, bitrate, bit depth and number of channels you can also set to record MP# in VBR (Variable Bit Rate) or CBR (Constant Bit Rate).
+
+- Record audio in WAV/PCM format, sample rate, bit depth and number of channels can be configured.
+
+- All formats can be set to record audio in silence detection mode, which will only record audio if detected (record level is configurable)
+
+- Ability to enable/disable iOS Voice Processing and mix with background sounds.
+
+- Ability to record in stereo format on supported devices.
+
+- Apply effects while recording
+
+- Add bookmarks during record session
+
+
+
+PLAYBACK:
+
+
+
+- Change playback speed
+
+- Boost audio volume
+
+- Change playback volume and divert into connected devices (AirPlay)
+
+- Jump to previously defined bookmarks and add new ones
+
+- Read and edit notes
+
+- Swipe gestures to short and long jump forward and backward, amount of jump is configurable
+
+- Swipe gestures to previous and next track
+
+- Loop playback on single record or play multiple records in sequence
+
+
+
+STORAGE & EXPORT:
+
+
+
+- Export to and import from Google Drive™, DropBox, Microsoft® OneDrive (personal and business), Box Cloud, iCloud Drive, Amazon S3
+
+- Export to SoundCloud and Custom FTP server
+
+- Post to Any Web base Script
+
+- Import from device Music Library
+
+- Sync records with other nearby devices running this app
+
+- Send to other devices via Bluetooth
+
+- Download directly to PC using built-in web server via local WiFi connection
+
+- Upload from PC using WiFi connection
+
+- WebDav support using WiFi service
+
+- Convert to a movie clip and export to Photo Albums
+
+- Post as a Movie Clip on YouTube
+
+- Export to other apps on your device that can handle the audio file
+
+- Import from other apps
+
+- Send Audio or Movie by email
+
+- Send Audio or Movie by SMS/iMessage
+
+
+
+MODIFICATION:
+
+
+
+- Add notes to records
+
+- Add photo to records
+
+- Add bookmarks to records
+
+- Simple trim and Advanced trim functions
+
+- Modify ID3v2 tags
+
+- Append a record to another record
+
+- Split audio files into separate files based on equal parts, file size or bookmarks
+
+- Join multiple audio records into one
+
+- Apply effects while recording
+
+- Apply effects to the recorded or imported file including:
+
+- Echo
+
+- Volume/Gain
+
+- Pitch & Speed
+
+- Reverb
+
+- Distortion
+
+- 3/6/10 Band Equalizer
+
+- Add reminder alarm for each record
+
+- Color tag audio files
+
+- Convert M4A to and from MP3 to and from WAV
+
+
+
+GENERAL:
+
+
+
+- Protect the app with a passcode
+
+- Create custom movie templates
+
+- Built-in WiFi http server
+
+- Custom categories for better organizing
+
+- Customized swipe to right gestures on each record
+
+- Multiple sort options and deep customization of track lists
+
+
+
+
+
+
+
+and much more. Enjoy.
+
+
+
+Ratings
+Displayed Avg Ratings
+4.74
+Total Displayed Ratings
+24.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.0.0 (Nov 21, 2022)
+    - Added ability to share notes and open them in other apps
+    - Fixed a bug showing incorrect IP address in WiFi Download when device is connected to WiFi and connected to a computer by cable.
+    - Improved compatibility with WatchOS 9
+    - Added an option to change category of each record.
+    - Trim and Effect is now using a completely new routine to apply effects with more precision.
+    - Added dedicated buttons to jump forward and backward, can be removed in settings.
+    - Added support of PCloud
+Version 3.7.5 (Jun 10, 2022)
+    - Added a sign-out button to cloud sources that allow user to sign-out without trying to login.
+Version 3.7.4 (May 1, 2022)
+    - Fixed OneDrive upload of large files for OneDrive Business.
+    - Fixed OneDrive logout
+Version 3.7.3 (Apr 4, 2022)
+    - Fixed a problem causing OneDrive to not work properly.
+    - Fixed SoundCloud upload.
+Version 3.7.1 (Feb 8, 2022)
+    - Improved compatibility with iOS15
+Version 3.6.8 (Jun 10, 2021)
+    - Fixed user interface issue on iPhone 12 Mini
+    - On iOS14.5, recording and playback will not be interrupted on system alerts (e.g. incoming calls) when notification of those alerts are in banner mode (not full screen mode).
+Version 3.6.7 (May 23, 2021)
+    - App will not ask for AdTracking if user purchased no-ad upgrade
+    - Added support of stereo recording to Advanced Engine
+    - Fixed a problem causing "Send By Bluetooth" having trouble finding nearby devices
+Version 3.6.6 (Mar 25, 2021)
+    - Improved Download Link system of sending records by email or messages
+    - Added an option to enable or disable the password protection for Download Links of email or messages
+    - Integrate ad tracking privacy settings
+    - Ask for all necessary permissions at the beginning
+Version 3.6.5 (Dec 8, 2020)
+    - Improved compatibility with iOS14
+Version 3.6.3 (Sep 15, 2020)
+    - Fixed a bug causing Google Drive to not recognize uploaded records if there are more than 256 records.
+
+    - Extended the time that silence detection will record for one seconds after dB dropped under the set value.
+
+Version 3.6.2 (Jun 3, 2020)
+    - Fixed a bug ignoring the setting for adding bookmarks automatically when recording in silence detection mode.
+
+    - Fixed a bug causing watch recorder to stop when screen goes off or app goes into background.
+Version 3.6.1 (May 15, 2020)
+    - Added a new option to set a reminder for record.
+
+    - Added a new setting to set the current clock as title of bookmarks instead of record or playback time.
+
+    - If record has an image, it will be shown in playback panel
+
+    - Fixed a bug causing records with a large image cannot be exported to Google Drive
+
+    - Apply necessary requirements by latest YouTube Terms of service.
+Version 3.5.7 (Dec 11, 2019)
+    - Advanced edit and split is now working as they should for WAV format.
+
+    - Fixed a problem causing OneDrive export and import to not work properly in some countries.
+
+    - Fixed a typo in list of activities in "Swipe Right Actions"
+
+Version 3.5.6 (Nov 19, 2019)
+    - Addressing an issue causing Advanced Edit and Audio Splitter to not work properly on iOS 13.1 and 13.2
+Version 3.5.5 (Nov 1, 2019)
+    -Fixed a problem causing app to crash when coming back from background (iOS 13+)
+Version 3.5.4 (Oct 22, 2019)
+    - Fixed a problem causing PinProtect to not work properly on iOS 13
+    - Fixed a bug causing in-app purchase to crash in some countries
+    - Fixed a bug causing Advanced Edit to crash on iOS 13
+    - Fixed a bug causing Audio Splitter to crash on iOS 13
+Version 3.5.3 (Sep 26, 2019)
+    - Fixed a bug causing Trim and Effects to crash on iOS 13
+
+    - Advanced edit is now full screen on iOS 13
+
+    - Zoom function on Advanced edit improved
+
+    - Fixed a bug causing Advanced Recorder to fail on higher sample rates on iOS 13
+
+Version 3.5.2 (Aug 3, 2019)
+    - Fixed a bug causing add to category before recording to not work properly on iPad
+
+    - Added support of converting spaces to dash, under line or dot when suggesting a file name based on title (thanks J.C)
+
+    - Fixed a bug causing crash or hang in some very rare cases
+
+    - Added support of choosing aws region to Amazon S3 import/export.
+Version 3.4.8 (May 8, 2019)
+    - Added a toolbar to notes dialog to control playback of the track while editing notes.
+    - Playback speed can be changed in Advanced Edit
+    - Export to Facebook has removed
+    - Improved duration accuracy
+    - Added new settings to Display Options to control displaying the empty categories
+    - Added support of importing tracks from music library of the device
+Version 3.4.7 (Jan 27, 2019)
+    - Added a new source to cloud services to allow import or export to another nearby device
+    - OneDrive import/export fixed.
+    - Added support of OneDrive Business.
+    - Fixed a problem causing Advanced Edit function to not work properly on some files in iOS 12.x
+    - Improved the search functionality
+Version 3.4.6 (Nov 17, 2018)
+    - Added progress status to transferring file on watch app
+    - Added support of manual transferring the recorded file from watch to phone
+    - Added an option to watch app to keep track of playback position and resume from that position
+    - Fixed a few minor bugs in watch app
+    - Fixed a problem causing app to crash when deleting an item in some situations
+    - Added an option to sort and display to show the rows in a bigger format
+    - Added an option to list of record operations to edit and manage bookmarks
+    - Added a section to settings to allow maintaining the categories
+    - Improved repair process of WAV formatted files
+    - Fixed a problem causing setting section to cause crash on older devices
+    - Fixed a problem causing main list in check mode to not layout properly
+Version 3.4.2 (Oct 20, 2018)
+    - Watch App: Added support of background recording and playing
+    - Watch App: Compatibility with WatchOS 5 and support new complications
+    - Added language option to transcription service
+Version 3.4.1 (Sep 27, 2018)
+    - Search function now covers notes and bookmarks in addition to title and filename.
+    - Added an option to Settings -> Playback to limit the playback speed rate.
+    - Added transcription service
+    - Improve compatibility with iOS 12
+    - Improve compatibility with new devices iPhone XS, XS Max and XR
+    - A workaround for crash on some devices when browsing iCloud files
+    - Fixed a problem causing search results to be empty on some devices
+Version 3.3.8 (Aug 16, 2018)
+    - Added complication shortcuts to watch app.
+    - Added ability to edit notes from WiFi web interface and added an option in settings to enable or disable this feature.
+    - Fixed a problem causing app to crash if protected with passcode and FaceID enabled.
+Version 3.3.7 (Aug 8, 2018)
+    - Added an accessory button to paste the current recording time in notes when taking notes during recording.
+    - Minor interface improvements
+    - Fixed a bug preventing Audio Joiner to show the target title correctly.
+    - Clarify why sometimes app does not show in list of the apps to have microphone access in Settings ~> Privacy.
+    - Added option of sending movie of the track to other apps.
+    - No more direct Facebook publishing, it has been disabled by Facebook! Option will be removed in next release.
+Version 3.3.6 (Jan 20, 2018)
+    - Fixed a problem causing multi-select toolbar to not appear correctly.
+Version 3.3.5 (Jan 6, 2018)
+    - Fixed a bug causing reorder on options to not work properly.
+    - In record options, now you can select target category for recording. When recording done, it will be moved to selected category.
+    - Added a protection system for M4A recording in advanced engine to recover the record in case of a crash or battery failure. It can be disabled in settings -> Advanced Recording
+    - Added a new VU meter with current playing or recording note
+Version 3.3.4 (Dec 7, 2017)
+    - Added support of cover art in ID3 tags
+    - Minor improvements in user interface
+Version 3.3.3 (Nov 27, 2017)
+    - Fixed a bug preventing transfer of recorded tracks on Apple Watch to iPhone.
+    - Added support of 3D touch quick peek and pop.
+    - Improved search function
+    - Added track of each upload to cloud platforms and show them in options screen
+Version 3.3.2 (Oct 15, 2017)
+    - Fixed a problem causing Dropbox to crash if you login with a business/team account
+    - Improved movie creation templates and added some predefined templates
+    - Fixed a problem causing Facebook to not logout properly when requested
+    - Added a swipe to right function to each record in list, can be customized in settings (available on iOS 11).
+Version 3.3.1 (Oct 5, 2017)
+    - Fixed a problem causing icons to not load properly on iOS 10.3.3 and lower.
+Version 3.3.0 (Oct 4, 2017)
+    - Fixed login issue of Dropbox
+    - Improved compatibility with Box Cloud
+Version 3.2.8 (Sep 29, 2017)
+    - Fixed a problem causing YouTube upload to fail or crash
+    - Fixed a bug that prevented some tracks to play from 3D touch or today widget
+    - Improved compatibility with iOS 11
+    - Improved compatibility with more mp3 files when trimming and appending
+Version 3.2.4 (Sep 20, 2017)
+    - Fixed an issue causing pause/resume function to not work properly when controlling the playback from a headset
+    - Fixed a bug causing Today Widget to not loading in some cases
+    - Fixed a problem causing some mp3 files without proper ID3 tag to not trim, split or edited.
+Version 3.2.2 (Aug 18, 2017)
+    - Added a today widget for easier access
+    - Added an option to set the file format (M4A or MP3) for recording preset setting.
+    - Fixed a bug causing pause function to not work properly while recording in very rare situations
+Version 3.2.1 (Aug 1, 2017)
+    - Fixed a problem causing FTP export to fail in some special cases like using SSL.
+    - Added a customizable sort option for cloud import
+    - Fixed an issue causing system backups to fail on some devices
+    - Added an option to allow deleting files from WiFi interface
+    - Upgraded to Facebook SDK 4.24.0
+    - Better integration with Lock Screen playback controls
+    - Added options to sort section to make the title and file name fields bold
+Version 3.1.9 (May 7, 2017)
+    - Fixed a bug causing audio player to crash if file is not playable
+    - Added a new option to Setting -> Export to let you send email using VRP servers instead of iOS mail client
+    - Fixed a bug on Watch app preventing the audio to continue playing when app goes to background
+    - Added SSL option to FTP Export allowing the connection to be secure in addition to authentication
+    - Added a new option to define a suffix for file name.
+Version 3.1.8 (Apr 27, 2017)
+    - Added an option to ask for bookmark title when adding the bookmark
+    - Fixed a problem causing duration of the MP4/M4A records to be inaccurate after editing with Advanced Edit
+    - Added a new future to Advanced Edit to export a selected slice to a new file
+    - Added a new section to settings to allow creating custom templates for converting records to movie
+    - Added a new engine for playback including an Audio Boost option to increase the volume up to +24 db
+    - Added Input Gain to advanced engine for recording.
+    - Fixed an issue causing some MP3 files to not play to full length
+    - Added a new option to prefix the default title of bookmarks with an index number
+    - Added a new section to Cloud sections to backup some system files like Movie Templates and Effect Presets with ability to restore them on same or other devices.
+    - Fixed a problem preventing playback to resume after interruption.
+    - Fixed a bug within watch app that crashes randomly when browsing the records.
+Version 3.1.4 (Jul 11, 2016)
+    - Fixed an issue preventing remote events (play, pause, etc) to work properly
+    - Added a new option to multi record selector allowing user to join all the records together.
+Version 3.1.3 (Jun 13, 2016)
+    - Added import support of AIF, AIFF and CAF files
+    - Added a new option to split files into several parts
+    - Fixed a bug causing mp3 encoder to crash randomly when recording in mp3 format or converting to mp3
+    - Fixed a bug causing problems with recording engine if calibration has not completed
+    - Fixed a possible issue with mp3 encoder when using advanced recording engine
+Version 3.1.1 (May 17, 2016)
+    - Added spotlight search integration
+    - Fixed an issue causing the playback or recording start from 3d touch before entering the passcode when app is protected with passcode
+    - Added record information (duration, sample rate, etc) to exported meta file
+    - Added color tag that allows you to tag each record with a color for better recognition
+    - Added an option to automatically add a bookmark if recording paused
+    - Added an option to save current playback position and resume from that position if you stop and play again. This option is enabled by default and can be disabled in settings.
+    - Added keyin value for playback speed slider and gain control. Tap on the default button to key in the exact value that you need to set.
+    - Added options in settings to set the jump duration of gain control, playback speed and silence detection.
+    - Added a remote control section to watch app, now you can start, pause or stop a recording remotely from your watch.
+    - Added ability to modify notes while playing a file
+    - Added a new button to keyboard of the notes section to enter current location
+    - Added a Questions & Answers section, contents will be added over time
+    - Added ability to select records in order and play them in same order
+    - Added ability to rename the file and change title while recording
+Version 3.1.0 (Jan 27, 2016)
+    - Fixed a bug causing Advanced Edit to crash on iPhone
+    - Added gestures on VU meters for easier navigation
+    - Fixed a bug that prevents the app to run properly on iPod Touch
+Version 3.0.9 (Jan 16, 2016)
+    - Fixed a bug that caused mail dialog to hang when changing the From Address in ipad
+    - Added a new option to Settings -> Playback to keep the screen ON during playback
+    - Added iCloud Drive support to import/export platforms
+    - Implemented a readable meta file system, when you export a file to a cloud platform, meta data can be read by a simple text viewer
+    - A new set of options added to settings page for controlling the record session that allow you to change the record category, mixing with background audio, voice processing and more
+    - Added support of shortcut action to record instantly from home screen (available on iOS9 with 3D touch devices)
+    - Support of new snap-in screen on iPad
+    - Photo of the record is now uploaded to Sound Cloud as cover photo
+    - Redesigned WiFi download with a better look and ability to upload from PC/Mac to device. Upload can be disabled from settings -> General
+    - Fixed a bug causing restore deleted files to not working properly when a file with same name exist.
+    - Added two options to export settings to prefer sending email and sms by Link, Attachment or ask each time.
+    - Fixed a bug causing Sound Cloud upload to not working properly.
+    - Improved integration of Google Drive, DropBox, OneDrive and Box SDK.
+    - Added support of shrinkable sections, pinch to expand/shrink all sections and related options in sorting menu and general setting
+    - Fixed an issue with some MP4/M4A files that causes them to not play properly or detect the duration in some apps
+    - Trim/Edit is now Trim & Effects, Added Echo, Reverb, Volume, Pitch, Distortion and 3 other equalizers to be applied to the file with preview and export.
+    - Added watch app
+    - Support of new screen size of iPad Pro
+    - By default, we use M4A extension for AAC files for better compatibility with other apps. Option to set it back to MP4 is available in Settings.
+    - Added WebDav support to WiFi service
+    - A new section added to change title dialog to suggest a filename based on entered title.
+    - In notes dialog, you can now increase or decrease the font size
+    - Added import/export to WebDAV server
+    - Added ability to play first and last 3, 5 or 10 seconds of the track when trimming/editing.
+    - Added a new recording engine called 'Advanced Engine', it allows you to monitor the recording session, select input microphone, add on the fly effects and more
+    - Added support of touch ID to unlock the passcode
+    - Added a new option for MP4/M4A file to be fragmented and then combined together when recording finished
+    - Added a new Advanced Converter to convert audio files to and from MP4, MP3 and WAV with configurable settings like resampling, channels and bit rate.
+    - Fixed a bug in ID3 tag editor that causes crash while editing some MP3 files.
+Version 2.8.5 (Jul 9, 2015)
+    - Integration with latest version of Facebook SDK and Graph API 2.0
+    - Improved change of title and file name dialog boxes
+    - Improved media data ready of MP3 converted files and track duration
+    - Added an option to the Sort section to allow placement of the title on top or bottom of each row, same for file size.
+    - Added a new wave form VU for playback and record
+Version 2.8.3 (Mar 17, 2015)
+    - Implemented CDN (using Amazon CF/S3) for email password protected links
+    - Uniform loading and wait views
+    - Added a new option to switch between CBR and VBR when encoding MP3 format
+    - Fixed a bug causing WebExport to not recognize the return code of the HTTP server
+    - Fixed a bug causing WebExport to not authenticate to web server properly
+    - Fixed an issue causing bookmarks to not show properly when delete a bookmark on iOS7
+    - Fixed an issue related to Advanced Edit, prevent the crash if user imported a video file instead of audio and tries to edit it.
+    - Added a new option to record settings to allow choose between "Record" and "MultiRoute" for recording session. In iOS8 Multiroute seems to have less bugs.
+    - Sliders are now more precise, when sliding, pull down to fine tune the value.
+    - Added a new option to stop recording when battery level goes below a certain percent
+    - Fixed a problem causing playback to stop when multiple files checked to play in sequence and device goes to sleep
+    - Fixed a problem causing record process to try to repair a file instead of processing the contents on some slower devices.
+    - Added support of Lock Screen and remote commands from external accessories such as Headset start/stop button.
+    - Fixed a bug in saving password of web upload
+    - Fixed a problem causing bulk import or export to stop if device goes to sleep or app enters background.
+    - Added a new option to keep the playback speed bar at top of screen.
+Version 2.7 (Jan 27, 2015)
+    - Support of iPhone 6 and 6+ screen resolutions
+    - Fixed a bug causing app to crash at startup when library is too large
+    - Added two new movie templates to show only the title or no text at all
+    - Added a new editor called "Advanced Edit" to trim the records with more flexibility. It can also edit the bookmarks.
+    - Added a new option to remember playback speed
+Version 2.6.3 (Dec 7, 2014)
+    - All libraries, APIs, SDKs and components updated to 64 bit code
+    - Added a few shortcuts to change the file name and title
+    - Added support of hide unwanted options
+    - Added passcode support (to protect the app with a 4 digit PIN number)
+    - Crash problem caused by Google API (Google Drive and YouTube) resolved by updating to latest version of Google API.
+Version 2.6 (Nov 6, 2014)
+    New features:
+    - Added support of trash folder with automatic removal and undelete ability.
+    - Added support of sending multiple files by email
+    - Added search function
+    - Added support of jump forward or backward by tapping the slider bar with configurable jump duration
+    - Added support of recording in uncompressed PCM/WAV format with option to convert them to mp3 and mp4
+    - Added support of export movie from MP3 and WAV format records
+    - Added support of high resolution screen size for movies when creating on retina devices
+    - Added support of export to photo album, Facebook, YouTube, append and trim of MP3 files
+    - Added support of export to photo album, Facebook, YouTube, append and trim of WAV files
+    - Added support of Silence Detection
+    - Added support of iD3 Tags
+    - Added a new section in options to show technical information of file
+    - Added a new VU meter with larger time line and record/play indicators
+    - Added support of volume control in playback panel
+    - Added support of sending the audio or video by SMS/iMessage
+
+    Improvements:
+
+    - Fixed a bug in changing file name and title causing the record to be inaccessible if user set a blank name for file name
+    - Capitalize the title by default, same for category names
+    - Improved trimming function with display exact location of trim at the slider bar
+    - By default, Wi-Fi server is not running during app execution, instead, it will be enabled if user clicked on Wi-Fi download section in record operations.
+    - Better support of tracking slider and display the current time for both playback and trimming sliders.
+    - Improved sort system
+    - Better sort handling in import/export lists
+    - Hold any record for 2 seconds and it will play instantly
+    - Bluetooth transfer is now implemented by Multipeer Connectivity Framework which makes it more stable and extends the device-to-device transfer to Infrastructure Wi-Fi, peer-to-peer Wi-Fi and Bluetooth.
+    - Fixed a bug causing the payback to crash when record has bookmarks (iOS 8+)
+    - Fixed a bug causing the box cloud to not authenticate properly
+Version 2.3 (Apr 21, 2014)
+    - Added universal upload of audio or movie to any web based script.
+    - Improved FTP upload process
+    - Added repeat function (loop)
+    - Box Cloud is now supported
+Version 2.2 (Mar 5, 2014)
+    - Added support of spaces in file names
+    - Added support of post to YouTube
+    - Fixed a bug related to DropBox import and export
+    - Fixed a bug related to Google Drive import and export.
+    - Added support of no limit to recording time.
+    - Added support of downloading notes from WiFi page
+Version 2.0 (Oct 29, 2013)
+    - Added support of multiple file export to major clouds
+    - Added recording panel with Bookmarks and Gain control
+    - Added play control panel with Bookmarks, play speed control and notes
+    - Added option to disable uploading meta data to clouds
+    - Added an automated repair system for files that get corrupted (zero duration) due to app crash, device power off, etc. It will work on newly recorded files only.
+    - Added some templates for creating video out of audio file
+    - Improved compatibility with iOS 7
+    - Improved handling of privacy settings in iOS 7
+    - Improved interruption handling
+    - Fixed an issue related to Google Drive when uploading an existing file
+Version 1.7 (Sep 16, 2013)
+    - Fixed a bug related to Facebook export.
+    - Improved Compatibility
+Version 1.6 (Aug 24, 2013)
+    - Added ability to take notes while recording
+    - Added option to remove "vrp-" prefix from exported files.
+    - Added support for importing media from cloud sources like Google Drive™, DropBox and SkyDrive.
+    - Added support of multiple file selection to delete, play or change category.
+    - As of version 1.6, a small meta file will be send with every export allowing all data including photo, notes, category, etc to be restored on import.
+    - Some bugs fixed
+Version 1.5 (Jul 14, 2013)
+    - Fixed a bug related to re-arrangement of tasks
+    - Added photo support to records, photo will also be used when exporting to Facebook and Photo Albums.
+    - Added text based notes to records.
+    - You can now check the recording levels before starting a new record.
+    - A new system added for sending large files by email. Now you have the option to send the file as a link. It will be uploaded to VRP servers and link to that file will be sent by email. Links are password protected.
+    - Added support of sending movie clip of the record by email.
+    - Added support of sending media to FTP servers.
+    - Added file name and photo to WiFi download web page.
+    - Option to change extension of exported files from MP4 to M4A
+    - Fixed a problem causing a small click at the beginning of MP3 converted files.
+    - Now screen will go to lock mode by default. To prevent this on some older devices use the option in settings section.
+Version 1.4 (Apr 16, 2013)
+    - Fixed a bug related to DropBox upload
+
+    - Instant recording option
+
+    - Better support of operations on low free space situations
+
+Version 1.3 (Mar 3, 2013)
+    - Added support of pause function while recording
+    - Added support of sending to other devices via Bluetooth
+    - Added support of send records to SoundCloud
+    - Added support of custom categories and organizing records into those categories
+    - Added support of change the file name
+    - Added support of appending records together
+    - Added support of reordering tasks
+    - Added support of importing records from other apps
+    - Fixed a bug related to missing sound track of video when posted to Facebook
+    - Improvement in video creation process for Photo Album and Facebook
+Version 1.2 (Jan 20, 2013)
+    - Fixed a bug related to DropBox
+    - Fixed a bug related to WiFi interface
+    - Added pause function
+    - Added seek to different positions in playing record
+    - Added trim function
+    - Added instant play to iPad version
+    - Added MP3 convert
+    - Added duplicate function
+Version 1.1 (Oct 10, 2012)
+    - Added support of post to Facebook
+    - Added support of export to other installed apps on your device
+    - Fixed a bug related to Dropbox Export
+    - Fixed a bug related to Google Drive™ Export
+    - Improvement in interface
+    - Added support of iOS6
+    - Added support of iPhone 5 display
+    - Minor bugs fixed
+Version 1.0 (Sep 13, 2012)
+
+Users may also like
+Select objects to compare
+Voice recorder - Voz
+iRecord: Transcribe Voice Memo
+Voice Recorder & Memos Pro
+Voice recorder: Audio editor
+Voice Recorder & Audio Editor
+Recorder Plus - Audio Editor
+Recorder for iPhone
+Voice Recorder: Audio Memos
+Hear Boost: Recording Ear Aid
+Voice Recorder, Audio Memos
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.0.0
+    Current release
+    Nov 21, 2022
+    3.7.5
+    Jun 10, 2022
+    3.7.4
+    May 1, 2022
+    3.7.3
+    Apr 4, 2022
+    3.7.1
+    Feb 8, 2022
+    3.6.8
+    Jun 10, 2021
+    3.6.7
+    May 23, 2021
+    3.6.6
+    Mar 25, 2021
+    3.6.5
+    Dec 8, 2020
+    3.6.3
+    Sep 15, 2020
+    3.6.2
+    Jun 3, 2020
+    3.6.1
+    May 15, 2020
+    3.5.7
+    Dec 11, 2019
+    3.5.6
+    Nov 19, 2019
+    3.5.5
+    Nov 1, 2019
+    3.5.4
+    Oct 22, 2019
+    3.5.3
+    Sep 26, 2019
+    3.5.2
+    Aug 3, 2019
+    3.4.8
+    May 8, 2019
+    3.4.7
+    Jan 27, 2019
+    3.4.6
+    Nov 17, 2018
+    3.4.2
+    Oct 20, 2018
+    3.4.1
+    Sep 27, 2018
+    3.3.8
+    Aug 16, 2018
+    3.3.7
+    Aug 8, 2018
+    3.3.6
+    Jan 20, 2018
+    3.3.5
+    Jan 6, 2018
+    3.3.4
+    Dec 7, 2017
+    3.3.3
+    Nov 27, 2017
+    3.3.2
+    Oct 15, 2017
+    3.3.1
+    Oct 5, 2017
+    3.3.0
+    Oct 4, 2017
+    3.2.8
+    Sep 29, 2017
+    3.2.4
+    Sep 20, 2017
+    3.2.2
+    Aug 18, 2017
+    3.2.1
+    Aug 1, 2017
+    3.1.9
+    May 7, 2017
+    3.1.8
+    Apr 27, 2017
+    3.1.4
+    Jul 11, 2016
+    3.1.3
+    Jun 13, 2016
+    3.1.1
+    May 17, 2016
+    3.1.0
+    Jan 27, 2016
+    3.0.9
+    Jan 16, 2016
+    2.8.5
+    Jul 9, 2015
+    2.8.3
+    Mar 17, 2015
+    2.7
+    Jan 27, 2015
+    2.6.3
+    Dec 7, 2014
+    2.6
+    Nov 6, 2014
+    2.3
+    Apr 21, 2014
+    2.2
+    Mar 5, 2014
+    2.0
+    Oct 29, 2013
+    1.7
+    Sep 16, 2013
+    1.6
+    Aug 24, 2013
+    1.5
+    Jul 14, 2013
+    1.4
+    Apr 16, 2013
+    1.3
+    Mar 3, 2013
+    1.2
+    Jan 20, 2013
+    1.1
+    Oct 10, 2012
+    1.0
+    Sep 13, 2012
+
+See More
+Top In-App Purchases
+
+    No Advertisement
+    $8.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Utilities
+
+Initial Release Date
+    Sep 13, 2012
+
+Worldwide Release Date
+    Sep 13, 2012
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    4.0.0
+
+Size
+    92.12 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Dayana Networks Ltd
+
+Company HQ
+    Canada
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.1 and watchOS 7.6 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.dayananetworks.voicerecordpro
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Jan 17, 2016)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 546983235
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Voice Record Pro | data.ai

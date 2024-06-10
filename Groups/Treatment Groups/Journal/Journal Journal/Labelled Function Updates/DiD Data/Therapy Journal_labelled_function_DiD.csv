@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1604497130,0,Therapy Journal,Health and Fitness,2022-05-22,2022-05-22,61.54,1,0,0,1,4,1,1,0,0,0,0,0,0,0,month_1,1,0,417,522.0
+1604497130,0,Therapy Journal,Health and Fitness,2022-05-22,2022-05-22,61.54,1,0,0,1,1,0,0,1,0,0,0,0,0,0,month_2,1,0,447,522.0
+1604497130,0,Therapy Journal,Health and Fitness,2022-05-22,2022-05-22,61.54,1,0,0,1,1,1,0,0,1,0,0,0,0,0,month_3,1,0,477,522.0
+1604497130,0,Therapy Journal,Health and Fitness,2022-05-22,2022-05-22,61.54,1,0,0,1,2,1,0,0,0,1,0,0,0,0,month_4,1,0,507,522.0
+1604497130,0,Therapy Journal,Health and Fitness,2022-05-22,2022-05-22,61.54,1,0,0,1,1,1,0,0,0,0,1,0,0,0,month_5,1,1,537,522.0
+1604497130,0,Therapy Journal,Health and Fitness,2022-05-22,2022-05-22,61.54,1,0,0,1,2,0,0,0,0,0,0,1,0,0,month_6,1,1,567,522.0
+1604497130,0,Therapy Journal,Health and Fitness,2022-05-22,2022-05-22,61.54,1,0,0,1,1,0,0,0,0,0,0,0,1,0,month_7,1,1,597,522.0
+1604497130,0,Therapy Journal,Health and Fitness,2022-05-22,2022-05-22,61.54,1,0,0,1,2,2,0,0,0,0,0,0,0,1,month_8,1,1,627,522.0

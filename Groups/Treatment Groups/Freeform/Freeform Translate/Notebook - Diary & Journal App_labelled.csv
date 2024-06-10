@@ -1,0 +1,74 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.17,2023-10-26,Added support for Korean.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.16.1,2023-10-02,Made corrections related to advertisements.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.16,2023-09-21,Updated for iOS 17 compatibility.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.15.1,2023-07-24,Minor bug fixes and improvements.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.15,2023-03-27,Now available in German.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.14.1,2023-03-11,Minor bug fixes and improvements.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.14,2023-03-03,Now available in French.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.13,2023-02-10,Spanish language support has been added.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.12.1,2023-02-06,Minor wording corrections were made. Updated advertisements.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.12,2023-01-19,Chinese Simplified is now supported. Fixed a bug that the value was not displayed correctly when changing the passcode lock time.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.11,2022-12-08,Improved performance and stability. Fixes related to advertisements.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.10,2022-11-10,Specification changes were made regarding passcodes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.9,2022-11-04,The settings screens and cells have been modified.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.8,2022-10-17,AirPrint is now supported. You can print out the contents of notes from the action button on the note edit screen for individual notes or from Share All Notes on the settings screen for all notes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.5.1,2022-08-25,Fixed a bug that prevented app icon from being displayed on the iPad. Fixed a bug that cells were not highlighted when tapping cells in the note list screen.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.5,2022-08-16,Changed the timing of when authentication is required to when the app enters the foreground instead of when the app is activated to keep the app consistent. Fixed several minor bugs. Internal structure has been modified. The display method of items on the settings screen has been partially corrected.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.4,2021-12-10,The tap area at the top of the screen when switching between showing and hiding tools in the note list screen has been expanded horizontally. When the tool is hidden you can also switch to show it by tapping the bottom of the screen. Also when the app is restarted it will always start with the tools displayed. Reviewed error handling in the program. Minor corrections were made.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.3,2021-11-10,Added a search function for notes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.2,2021-10-29,Some UI fixes have been made for the iOS15 release. Basic functions have been improved.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.1,2021-09-15,Added the ability to use Face ID or Touch ID to unlock apps.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.0.3,2021-08-06,Added the ability to display an indicator during iCloud sync. Fixed a bug related to iCloud.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.0.2,2021-08-02,When iCloud is not available the status is now displayed in the settings screen. Minor fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.0.1,2021-07-27,Fixed some of the issues related to iCloud syncing.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,4.0,2021-07-06,Added iCloud feature. Now you can sync iCloud with other devices and backup your notes data to iCloud.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.9.1,2021-05-12,Changed the UI of the date control to popup. Basic functions have been improved.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.8,2021-04-09,Update on app tracking.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.7,2020-12-16,Performance improvements.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.6,2020-09-29,Performance improvements.,0,0,0,0,0,0,0,1
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.5.1,2020-08-07,Few bug fixes.,0,0,0,0,0,1,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.5,2020-06-25,Added the Recently deleted function.,0,0,0,0,1,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.4.6,2020-05-14,Performance improvements.,0,0,1,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.4.5,2020-05-09,Performance improvements.,0,0,1,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.4.4,2020-05-07,Performance improvements.,0,0,1,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.4.3,2020-04-20,Performance improvements.,0,1,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.4.2,2020-04-06,Minor fixes.,0,1,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.4.1,2020-03-18,Minor fixes.,1,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.4,2020-03-16,Performance improvements.,1,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.3.1,2019-12-07,Fixed a bug that the date is not displayed when editing the date.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.3,2019-11-27,iOS 13 supported.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.2.2,2019-09-06,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.2.1,2019-07-29,Minor bug fixes and improvements.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.2,2019-07-26,Added cover color feature.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.1,2019-07-19,Added the ability to share all entries. Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,3.0,2019-07-14,Performance improvements. iPhone X supported.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.7,2015-12-19,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.6.5,2015-07-01,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.6.4,2015-06-18,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.6.3,2015-06-08,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.6.2,2015-05-30,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.6.1,2015-05-15,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.6,2015-04-23,Bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.5.1,2014-12-01,Bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.5,2014-11-24,iPhone 6 6 Plus support.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.4,2014-10-20,iOS 8 support,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.3.6,2014-08-09,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.3.5,2014-06-02,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.3.4,2014-05-12,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.3.3,2014-03-22,Bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.3.2,2014-02-18,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.3.1,2014-02-11,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.3,2014-02-05,Bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.2.1,2014-01-24,Remove Ads function was added.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.2,2014-01-16,Bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.1.2,2013-12-08,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.1.1,2013-11-07,Bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.1,2013-10-16,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.0.1,2013-10-01,Few bug fixes.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,2.0,2013-09-26,iOS7 supported,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,1.3.0,2013-07-11,Added display order function.,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,1.2.4,2013-07-01,Few bug fixes,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,1.2.3,2013-06-20,Few bug fixes,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,1.2.2,2013-06-12,Few bug fixes,0,0,0,0,0,0,0,0
+654645301,0,Notebook Diary Journal App,Productivity,2013-06-04,2013-06-05,5.94,7,0,0,1,1.2.1,2013-06-04,,0,0,0,0,0,0,0,0

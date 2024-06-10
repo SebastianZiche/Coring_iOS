@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+360593530,1000600000003109,Notability,Productivity,2010-04-01,2010-04-01,348.88,21,1,0,1,3,2,1,0,0,0,0,0,0,0,month_1,1,0,4485,4590.0
+360593530,1000600000003109,Notability,Productivity,2010-04-01,2010-04-01,348.88,21,1,0,1,2,0,0,1,0,0,0,0,0,0,month_2,1,0,4515,4590.0
+360593530,1000600000003109,Notability,Productivity,2010-04-01,2010-04-01,348.88,21,1,0,1,4,2,0,0,1,0,0,0,0,0,month_3,1,0,4545,4590.0
+360593530,1000600000003109,Notability,Productivity,2010-04-01,2010-04-01,348.88,21,1,0,1,0,0,0,0,0,1,0,0,0,0,month_4,1,0,4575,4590.0
+360593530,1000600000003109,Notability,Productivity,2010-04-01,2010-04-01,348.88,21,1,0,1,0,0,0,0,0,0,1,0,0,0,month_5,1,1,4605,4590.0
+360593530,1000600000003109,Notability,Productivity,2010-04-01,2010-04-01,348.88,21,1,0,1,1,0,0,0,0,0,0,1,0,0,month_6,1,1,4635,4590.0
+360593530,1000600000003109,Notability,Productivity,2010-04-01,2010-04-01,348.88,21,1,0,1,1,0,0,0,0,0,0,0,1,0,month_7,1,1,4665,4590.0
+360593530,1000600000003109,Notability,Productivity,2010-04-01,2010-04-01,348.88,21,1,0,1,4,3,0,0,0,0,0,0,0,1,month_8,1,1,4695,4590.0

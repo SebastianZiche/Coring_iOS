@@ -1,0 +1,316 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Hallmark TV
+HallmarkEntertainment (Applications)Free
+Alerts
+
+Hallmark Channel Everywhere
+Hallmark TV
+Hallmark TV
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Hallmark TV
+Entertainment (Applications)
+Free
+App Description
+Our app has a fresh new look and we can’t wait for you to see it! Watch your favorite Hallmark Channel original shows and movies wherever and whenever you want with the Hallmark TV app! Just launch the app and log in with your cable or satellite provider account. If your cable or satellite provider isn’t currently available, rest assured that we’re working on it and will have them up soon.
+
+Participating providers:
+AT&T U-verse, Spectrum, Xfinity, Cox, DISH, DIRECTV, Verizon, Mediacom, Optimum, Suddenlink, FiOS, WOW! and more.
+
+You’ll have access to the most recent episodes of heartwarming original series after they air on TV like Good Witch, Chesapeake Shores, When Calls the Heart, Home & Family and the best romantic movies. We’re adding more and more content all the time, so it’s only going to get better.
+
+Features
+
+*Live TV: Watch what's currently airing live on Hallmark Channel, Hallmark Movies & Mysteries, Hallmark Drama and easily switch between channels
+*Airplay support: Take the viewing experience from your app to your TV with a tap
+*Watchlist: Add your favorite shows and movies to a list
+*Full TV schedule for Hallmark Channel
+*Hallmark Channel original series and movies, full-length and at your fingertips.
+
+This app features Nielsen proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings.
+
+To learn more about our digital measurement products and your choices in regard to them, please visit http://www.nielsen.com/digitalprivacy for more information.
+Ratings
+Displayed Avg Ratings
+4.61
+Total Displayed Ratings
+23.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.103.0 (Mar 4, 2024)
+    Fixed issue with Closed Caption deactivating when switching from one playback to another
+    Play Movie -> Turn CC on -> Go back -> Play another movie -> Observe that Closed Caption is turned on
+Version 4.1.14 (Nov 9, 2022)
+    Improvements and Bug Fixes
+Version 4.1.13 (Jan 20, 2022)
+    Improvements and Bug Fixes
+Version 4.1.7 (Oct 4, 2021)
+    Performance Improvements
+Version 4.1.6 (Aug 19, 2021)
+    Improvements and Bug Fixes
+Version 3.0.17 (Jul 27, 2021)
+    New layout
+Version 3.0.16 (Mar 31, 2021)
+    bug fixes
+Version 3.0.15 (Nov 5, 2020)
+    Build Updates
+Version 3.0.14 (Oct 7, 2020)
+    Rebranded Elements
+Version 3.0.13 (Mar 16, 2020)
+    Analytics Update
+Version 3.0.7 (Jun 20, 2019)
+    Minor bug fixes
+Version 3.0.5 (Mar 19, 2019)
+    Image updates
+Version 3.0.2 (Oct 2, 2018)
+    *Live Streaming
+    *Updated design
+Version 3.0.0 (Sep 12, 2018)
+    New and improved update!
+Version 2.4.2 (Jan 4, 2018)
+    Single Sign On bug fixed.
+Version 2.4.1 (Dec 28, 2017)
+    We updated the app to make a better viewing experience for you.
+Version 2.4.0 (Aug 30, 2017)
+    We updated the app to make a better viewing experience for you.
+Version 2.3.1 (Jul 5, 2017)
+    We updated the app to make a better viewing experience for you.
+Version 2.3.0 (Feb 16, 2017)
+    We updated the app to make a better viewing experience for you.
+Version 2.2.0 (Jan 12, 2017)
+    We improved misc areas to enhance your viewing experience.
+Version 2.1.0 (Nov 18, 2016)
+    *Single-sign on! If your cable provider supports single-sign on, shows and movies will start right away.
+    *Watch Hallmark with Apple's new TV app to bring your Hallmark content with you across apps and search for show and movies from Siri.
+    *Beautiful new navigation and interface.
+Version 2.0.2.281 (May 4, 2016)
+    iOS bug fixes
+Version 2.0.1.266+3.1.3 (Oct 29, 2015)
+    Hotfix, incorporating AWE iOS Framework Version
+Version 2.0.0. (Aug 11, 2015)
+    -Updated visual design
+    -Developed on new framework
+    -Enhanced promotional opportunities for content & advertisers
+    -Improved tracking/reporting
+Version 1.0.2 (May 1, 2014)
+    Hallmark now supports Comcast’s SEEiT technology. When you see the SEEiT button for a Hallmark show in Twitter, tap the button to launch the Hallmark app.
+Version 1.0.1 (Mar 24, 2014)
+    Minor bug fixes.
+
+    Design improvements.
+Version 1.0.0 (Nov 26, 2013)
+
+Users may also like
+Select objects to compare
+Hallmark Movies Now
+E!
+Frndly TV
+Food Network GO - Live TV
+UP Faith & Family
+Discovery GO
+Nat Geo TV: Live & On Demand
+Animal Planet GO
+OXYGEN
+Freeform TV
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    4.103.0
+    Current release
+    Mar 4, 2024
+    4.1.14 (15166)
+    Nov 9, 2022
+    4.1.13
+    Jan 20, 2022
+    4.1.7
+    Oct 4, 2021
+    4.1.6 (15142)
+    Aug 19, 2021
+    3.0.17
+    Jul 27, 2021
+    3.0.16
+    Mar 31, 2021
+    3.0.15 (15084)
+    Nov 5, 2020
+    3.0.14 (15063)
+    Oct 7, 2020
+    3.0.13 (15020)
+    Mar 16, 2020
+    3.0.7 (14751)
+    Jun 20, 2019
+    3.0.5
+    Mar 19, 2019
+    3.0.2
+    Oct 2, 2018
+    3.0.0
+    Sep 12, 2018
+    2.4.2
+    Jan 4, 2018
+    2.4.1
+    Dec 28, 2017
+    2.4.0
+    Aug 30, 2017
+    2.3.1
+    Jul 5, 2017
+    2.3.0
+    Feb 16, 2017
+    2.2.0
+    Jan 12, 2017
+    2.1.0
+    Nov 18, 2016
+    2.0.2.281
+    May 4, 2016
+    2.0.1.266+3.1.3
+    Oct 29, 2015
+    2.0.0.
+    Aug 11, 2015
+    1.0.2
+    May 1, 2014
+    1.0.1
+    Mar 24, 2014
+    1.0.0
+    Nov 26, 2013
+
+See More
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Jan 31, 2014
+
+Worldwide Release Date
+    Jan 31, 2014
+
+Last Updated Time
+    Mar 6, 2024
+
+Version
+    4.103.0
+
+Size
+    61.26 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Hallmark Channel
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 9+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.hallmarkchannel.everywhere
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 739360888
+Unified App ID: 1000600000657515
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Hallmark TV | data.ai

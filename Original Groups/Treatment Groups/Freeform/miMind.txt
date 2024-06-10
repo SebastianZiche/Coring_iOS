@@ -1,0 +1,395 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+miMind
+CryptoBees LLCProductivity (Applications)Free
+Alerts
+
+    CryptoBees LLC
+
+    miMind
+    miMind
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+miMind
+Easy Mind Mapping
+Productivity (Applications)
+Free
+App Description
+miMind is a powerful tool for organizing your thoughts, laying out schemes, and sharing them with your friends and co-workers. Develop anything from simple bucket lists to professional engineering concepts. The app includes dozens of layouts, color schemes, shapes, patterns, and much more. Once your map is complete you can also share or export it to an image, PDF, text or XML file.
+
+Features:
+- user friendly, intuitive, easy to use/navigate, and unique interfaces,
+- simple, flexible, smart phone and tablet-optimized UI.
+- export to many formats: images (jpeg/jpg, png, tga, bmp/bitmap), pdf, text, xml files
+- no ads/advertisements, no sign-up required
+- multi-level, logical, hierarchical frameworks, many layout schemes
+- rich text formatting
+- lines and curves, shapes (square, rectangle, oval, circle, hexagon, cloud, octagon, etc.)
+- backup to online storage such as google drive, dropbox
+- import from cloud storage
+- copy paste, duplicate, detach reattach nodes
+- undo redo, collapse expand, zoom scroll, crop rotate, drag-n-drop
+- auto-save on exit
+- Freemind file type import
+
+Applications:
+- note taking, scrapbooks, slides, presentation, flash cards
+- project planning and management at work, home and businesses
+- helps with staying focused, goal settings, color-coding, assignments, qualitative analysis, budgeting
+- creative writing: novel, fictions, speech, summary (summarize things)
+- add images, audios and memories
+- Maps: topological networks, not-to-scale road maps, vector drawing
+- Trees: multi-layered tree, binary tree, radix tree, decision tree, family tree
+- Diagrams: graph, flow charts, abstract design, class (UML), state, data flow, complex, venn
+- Lists: To-do list, grocery list, checklist
+- Plan trips and vacations
+- It is for everyone: student, teacher, entrepreneur, artist, professional or hobbyist
+- and much more: Imagination is Limitless.
+
+More info:
+Please visit our webpage to get more info on the product:
+http://mimind.cryptobees.com/
+
+Acknowledgements:
+Cryptobees team would like to thank every individual and every entity who contributed directly or indirectly to realize the product into its current form. A full section on the acknowledgements can be viewed here:
+http://mimind.cryptobees.com/acknowledgements.html
+Ratings
+Displayed Avg Ratings
+4.77
+Total Displayed Ratings
+2.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.13 (Jun 10, 2021)
+    * Bug fixes
+    * UI improvements
+Version 3.11 (May 4, 2021)
+    * Important crash and ANR fixes
+    * Improvements to UI
+Version 3.10 (May 3, 2021)
+    * Fixed cursor/spaces issues
+    * Fixed hyperlink issues
+    * Fixed crashes and ANRs
+    * Improved auto-save
+    * Improved node movement and reattachement
+    * Other bug fixes and UI improvements
+Version 3.05 (Apr 20, 2021)
+    * Emoji support and UI
+    * Smarter hyperlinks with previews
+    * Map font default settings
+    * Text editing history
+    * Improved zoom and scroll gestures
+    * Smart layout adjustments inside node content
+    * Change order of items inside the outline view
+    * PDF and SVG export fixes
+    * Fixed issue with audio recordings
+    * Many other bug fixes and UI improvements
+Version 2.90 (Nov 15, 2020)
+    - Improved exports
+    - Improved schemas
+    - Improved cloud
+    - Other bug fixes and UI improvements.
+Version 2.86 (Oct 4, 2020)
+    - Bug fixes
+    - UI Improvements
+Version 2.83 (Sep 27, 2020)
+    - Fixed Templates
+    - Fixed Grouping colors
+    - Fixed Crashes
+Version 2.80 (Sep 13, 2020)
+    * New Template Library
+    * New UI with dark and light modes
+    * Improved PDF Exports
+    * Bug fixes UI improvements
+Version 2.79 (Sep 9, 2020)
+    * New Template Library
+    * New UI with Dark and Light modes
+    * Orientation control for Advanced PDFs
+    * Improved UI as per material design guidelines.
+    * New translations for various languages.
+    * Many bug fixes and UI improvements.
+Version 2.68 (Jun 30, 2020)
+    - Advanced PDF exports, vector, pagination, outlines and more.
+    - HTML, OPML, Improved SVG exports.
+    - Improved loading speeds
+    - Fixed missing images bug.
+    - Improved multi-select editing.
+    - Bugs fixes, UI improvements.
+Version 2.59 (Apr 4, 2020)
+    - Improved export options.
+    - Add SVG support.
+    - New tree layout with varying line widths.
+    - Improved Speed, UI, and bug fixes.
+Version 2.46 (Feb 5, 2020)
+    - Fixed Google Drive connection issue with some devices
+
+    - Fixed fuzzy line shadows on zoom issue.
+
+    - Fixed an issue with certain shortcut key combination
+
+    - Fixed map disappearing issue.
+
+    - Many other UI improvements and bugs fixes.
+Version 2.43 (Dec 29, 2019)
+    * Crash and ANR fixes
+    * Cloud improvements and fixes
+    * Improved UI
+Version 2.42 (Dec 17, 2019)
+    - Implemented second authentication method for Google Drive when primary fails.
+    - Fixed some menu items and layouts on small screens.
+    - Improved line drawing when zoomed in.
+Version 2.39 (Dec 6, 2019)
+    - Integration with GoogleDrive and DropBox.
+    - Improved UI
+    - Improved performance
+    - Bug fixes.
+Version 2.28 (Jun 6, 2019)
+    - Added line adjustment of curves and corners.
+    - Fixed Hebrew Khmer languages.
+    - Improved quality of fonts.
+    - Fixed UI issues with text and selections.
+    - Other minor bug fixes.
+Version 2.26 (May 15, 2019)
+    - Fixed crashes and improved performance
+    - Some UI improvements
+Version 2.24 (May 9, 2019)
+    * New input support for Arabic, Indian and other languages.
+    * Multi-Select editing
+    * Fixed crashes
+    * Improved UI
+Version 2.15 (Oct 18, 2018)
+    - More themes and smarter presets
+    - Auto-save fix
+    - Bug fixes and UI improvements
+Version 2.07 (Oct 2, 2018)
+    - Improved UI
+    - Better rich text and themes
+    - Bug fixes
+Version 2.04 (Sep 11, 2018)
+    * Implemented Map Themes.
+    * Smarter font styling dialogs.
+    * Better UI look and feel.
+    * Fixed bug with accent characters in file names.
+    * Fixed many bugs and improved UI.
+Version 1.97 (Aug 21, 2018)
+    * Fixed saving of map files with Thai, Chinese, and other characters in the file name.
+    * Smarter outline panel with color indicators to match the nodes in the map.
+    * Fixed saving to images
+    * Fixed crashes
+    * Improved UI
+Version 1.94 (Aug 4, 2018)
+    * Fixed rendering of characters with accents (like Spanish, French, Russian, etc).
+    * Automatically sets the UI Language to the device language on Installation.
+    * Other minor bugs.
+Version 1.9 (Jul 29, 2018)
+
+Users may also like
+Select objects to compare
+Mind Map Maker - Mindomo
+SimpleMind - Mind Mapping
+Flowdia Diagrams
+ThinkSpace: Next-gen Mind Map
+MindSpace - Mind Map
+Mind Mapping - MindMeister
+MindNode - Mind Map & Outline
+Diagrams Notepad 3
+GitMind: AI Mind Map, Outline
+Mind Mapping
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.13
+    Current release
+    Jun 10, 2021
+    3.11
+    May 4, 2021
+    3.10
+    May 3, 2021
+    3.05
+    Apr 20, 2021
+    2.90
+    Nov 15, 2020
+    2.86
+    Oct 4, 2020
+    2.83
+    Sep 27, 2020
+    2.80
+    Sep 13, 2020
+    2.79
+    Sep 9, 2020
+    2.68
+    Jun 30, 2020
+    2.59
+    Apr 4, 2020
+    2.46
+    Feb 5, 2020
+    2.43
+    Dec 29, 2019
+    2.42
+    Dec 17, 2019
+    2.39
+    Dec 6, 2019
+    2.28
+    Jun 6, 2019
+    2.26
+    May 15, 2019
+    2.24
+    May 9, 2019
+    2.15
+    Oct 18, 2018
+    2.07
+    Oct 2, 2018
+    2.04
+    Sep 11, 2018
+    1.97
+    Aug 21, 2018
+    1.94
+    Aug 4, 2018
+    1.9
+    Jul 29, 2018
+
+See More
+Top In-App Purchases
+
+    Full Version
+    $5.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jul 29, 2018
+
+Worldwide Release Date
+    Jul 30, 2018
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    3.13
+
+Size
+    52.24 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    CryptoBees LLC
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.ios.cryptobees.mimind
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1385633717
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+miMind | data.ai

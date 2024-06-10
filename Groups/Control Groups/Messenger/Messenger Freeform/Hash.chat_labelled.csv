@@ -1,0 +1,14 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.11.0,2023-08-07,1. Support login by apple account 2. Support login by google account 3. Fixed several bugs,0,0,0,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.10.0,2023-07-19,Fixed several bugs,0,0,0,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.7.0,2023-07-05,Fixed several bugs,0,0,0,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.6.0,2023-05-18,Fixed serveral bugs,0,0,0,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.5.0,2023-03-12,1. Fixed invalid product id while buying tokens 2. Fixed empty gift list issue,0,0,0,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.4.0,2023-02-09,Fixed several bugs,0,0,0,0,0,0,0,1
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.3.0,2022-09-30,Fixed several bugs,0,0,0,1,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.2.0,2022-09-19,1. Added gift sending feature 2. Separated message rate to different types of message rates in the setting 3. Fixed several bugs,0,0,1,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.1.0,2022-08-12,1. Implement sending bulk messages to multiple users 2. Fixed several bugs,0,1,0,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.0.5,2022-07-25,Minor bug fixes and optimizations.,1,0,0,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.0.3,2022-06-28,Publish comments 1. Add Swedish and Portugal BR languages support 2. Fix several bugs,1,0,0,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.0.2,2022-06-13,1. Fixed several bugs 2. Add Czech language support 3. Support RTL on Hebrew language,0,0,0,0,0,0,0,0
+1617929404,0,Hash.chat,Social Networking,2022-06-02,2022-06-02,63.16,2,0,0,1,1.0.1,2022-06-03,,0,0,0,0,0,0,0,0

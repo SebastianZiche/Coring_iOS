@@ -1,0 +1,426 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Cipchat - Encrypted Messenger
+Guilin Zero and One Software Co., LtdSocial Networking (Applications)Free
+Alerts
+
+    Guilin Zero and One Software Co., Ltd
+
+    Cipchat - Encrypted Messenger
+    Cipchat - Encrypted Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Cipchat - Encrypted Messenger
+End-to-end encrypted messenger
+Social Networking (Applications)
+Free
+App Promotional Text
+End-to-end encryption and burn after reading. Safely escort every message you have.
+App Description
+【Features】
+End-to-end encryption and burn after reading. Safely escort every message you have.
+
+【Encrypted video call】
+Encrypted voice and video calls, free online communication anytime, anywhere.
+
+【Safe Communication】
+Your personal information and address book have been encrypted end-to-end, only you and your friends can view it, and no third party can obtain it, and neither can Cipchat.
+
+【Burn after reading】
+The sent information is automatically eliminated after reading, so there is no need to worry about the content of the chat being leaked.
+
+【Diversified Communication】
+Send text, pictures, GIF, audio, and video in an end-to-end encrypted way for interactive communication, making chat safe everywhere.
+Ratings
+Displayed Avg Ratings
+4.52
+Total Displayed Ratings
+2.5k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.3.80 (Jan 21, 2024)
+    1. Optimize the friend addition function.
+    2. Fix some of the problems already there.
+Version 5.3.78 (Aug 15, 2023)
+    1. Optimize the friend addition function.
+    2. Fix some of the problems already there.
+Version 5.3.77 (Jun 1, 2023)
+    1. Optimize the friend addition function.
+    2. Fix some of the problems already there.
+Version 5.3.76 (Apr 30, 2023)
+    1. Optimize the friend addition function.
+    2. Fix some of the problems already there.
+Version 5.3.75 (Mar 6, 2023)
+    1. Performance improvements for large groups.
+    2. The new camera takes pictures.
+    3. Optimize the chat box freeze problem.
+    4. Optimize incoming call notification reminders.
+    5. Optimize the picture viewing function.
+    6. Fix the problem of font deformation in iOS15.4.1 system.
+Version 5.3.74 (Jan 7, 2023)
+    1. Performance improvements for large groups.
+    2. The new camera takes pictures.
+    3. Optimize the chat box freeze problem.
+    4. Optimize incoming call notification reminders.
+    5. Optimize the picture viewing function.
+    6. Fix the problem of font deformation in iOS15.4.1 system.
+Version 5.3.73 (Oct 26, 2022)
+    1. Performance improvements for large groups.
+    2. The new camera takes pictures.
+    3. Optimize the chat box freeze problem.
+    4. Optimize incoming call notification reminders.
+    5. Optimize the picture viewing function.
+    6. Fix the problem of font deformation in iOS15.4.1 system.
+Version 5.3.73 (Oct 26, 2022)
+    1. Performance improvements for large groups.
+    2. The new camera takes pictures.
+    3. Optimize the chat box freeze problem.
+    4. Optimize incoming call notification reminders.
+    5. Optimize the picture viewing function.
+    6. Fix the problem of font deformation in iOS15.4.1 system.
+Version 5.3.71 (Aug 12, 2022)
+    1. Performance improvements for large groups.
+    2. The new camera takes pictures.
+    3. Optimize the chat box freeze problem.
+    4. Optimize incoming call notification reminders.
+    5. Optimize the picture viewing function.
+    6. Fix the problem of font deformation in iOS15.4.1 system.
+Version 5.3.7 (May 30, 2022)
+    1. Performance improvements for large groups.
+    2. The new camera takes pictures.
+    3. Optimize the chat box freeze problem.
+    4. Optimize incoming call notification reminders.
+    5. Optimize the picture viewing function.
+    6. Fix the problem of font deformation in iOS15.4.1 system.
+Version 5.3.6 (May 21, 2022)
+    1. Performance improvements for large groups.
+    2. The new camera takes pictures.
+    3. Optimize the chat box freeze problem.
+    4. Optimize incoming call notification reminders.
+    5. Optimize the picture viewing function.
+    6. Fix the problem of font deformation in iOS15.4.1 system.
+Version 5.3.5 (May 8, 2022)
+    1. Performance improvements for large groups.
+    2. The new camera takes pictures.
+    3. Optimize the chat box freeze problem.
+    4. Optimize incoming call notification reminders.
+    5. Optimize offline message notification.
+    6. Fix the problem of font deformation in iOS15.4.1 system.
+Version 5.3.3 (Apr 5, 2022)
+    1. Support high-quality pictures and video sending.
+    2. Optimize the voice call reminder.
+    3. Optimize offline message notification.
+    4. Fix some software crashes.
+    5. Added emoji reminder function.
+Version 5.3.2 (Jan 28, 2022)
+    1. Support high-quality pictures and video sending.
+    2. Optimize the voice call reminder.
+    3. Optimize offline message notification.
+    4. Fix some software crashes.
+    5. Added emoji reminder function.
+Version 5.3.1 (Nov 12, 2021)
+    1. Support high-quality pictures and video sending.
+    2. Optimize the voice call reminder.
+    3. Optimize offline message notification.
+    4. Fix some software crashes.
+Version 5.3.0 (Nov 2, 2021)
+    1. Support high-quality pictures and video sending.
+    2. Optimize the voice call reminder.
+    3. Optimize offline message notification.
+    4. Fix some software crashes.
+Version 5.2.0 (Aug 28, 2021)
+    1. Added a new custom avatar function.
+    2. Optimize the issue of freezing when sliding the chat box.
+    3. Solve the problem of not being able to receive offline messages.
+    4. Solve the problem of some software crashes.
+    5. Update multiple software function modules.
+Version 5.1.7 (Jul 10, 2021)
+    1. Added chat screen capture reminder function.
+    2. Added the function of deleting contacts.
+    3. Optimize multiple functions of the group.
+    4. Optimize offline voice call reminder.
+    5. Optimize offline message notification.
+Version 5.1.6 (Jun 6, 2021)
+    1. Added chat screen capture reminder function.
+    2. Added the function of deleting contacts.
+    3. Optimize multiple functions of the group.
+    4. Optimize offline voice call reminder.
+    5. Optimize offline message notification.
+Version 5.1.1 (May 30, 2021)
+    1. Added chat screen capture reminder function.
+    2. Added the function of deleting contacts.
+    3. Optimize multiple functions of the group.
+    4. Optimize offline voice call reminder.
+    5. Optimize offline message notification.
+Version 5.1.0 (May 23, 2021)
+    1. Added chat screen capture reminder function.
+    2. Added the function of deleting contacts.
+    3. Optimize multiple functions of the group.
+    4. Optimize offline voice call reminder.
+    5. Optimize offline message notification.
+Version 5.0.2 (May 9, 2021)
+    1. The speed of sending messages is increased by 10 times.
+    2. The connection speed of voice calls is increased by 8 times.
+    3. Adopt a new UI framework.
+    4. The chat box supports custom wallpaper.
+    5. Optimize the group chat function.
+    6. Optimize the end-to-end encryption module.
+Version 5.0.1 (May 5, 2021)
+    1. The speed of sending messages is increased by 10 times.
+    2. The connection speed of voice calls is increased by 8 times.
+    3. Adopt a new UI framework.
+    4. The chat box supports custom wallpaper.
+    5. Optimize the group chat function.
+    6. Optimize the end-to-end encryption module.
+Version 3.2.0 (Apr 18, 2021)
+    1. Added voice and video encrypted calls.
+    2. Added the function of burning after reading
+    3. Added chat group function.
+    4. Optimize the end-to-end encryption function.
+Version 3.1.0 (Apr 13, 2021)
+    1. Added voice and video encrypted calls.
+    2. Added the function of burning after reading
+    3. Added chat group function.
+    4. Optimize the end-to-end encryption function.
+Version 3.0.2 (Mar 31, 2021)
+    1. Added voice and video encrypted calls.
+    2. Added the function of burning after reading
+    3. Added chat group function.
+    4. Optimize the end-to-end encryption function.
+Version 3.0.1 (Feb 25, 2021)
+    1. Added voice and video encrypted calls.
+    2. Added the function of burning after reading
+    3. Added chat group function.
+    4. Optimize the end-to-end encryption function.
+Version 2.2.0 (May 6, 2020)
+    1. Fix the occasional Network disconnection problem.
+    2. Solve some crash loopholes.
+Version 2.1.0 (Apr 18, 2020)
+    1. Optimize software startup speed.
+    2. Optimize some software functions.
+Version 2.0.0 (Mar 18, 2020)
+    1. Support picture and video sending.
+    2. Fix some crash vulnerabilities.
+Version 1.1.0 (Aug 23, 2019)
+    1. Optimize software performance.
+    2. Fix some bugs.
+Version 1.0.0 (Jul 23, 2019)
+
+Users may also like
+Select objects to compare
+JSPP-Dating，Chat&Make friends
+天籁(加密聊天)
+海鸥-安全加密聊天交友软件
+Ant Messenger
+Yuni: Secret between couples
+事密达-安全加密变声聊天软件
+思语-安全私密的聊天软件
+Sugram畅聊版-安全私密的通信社交软件
+海鸥M
+Tzp
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    5.3.80
+    Current release
+    Jan 21, 2024
+    5.3.78
+    Aug 15, 2023
+    5.3.77
+    Jun 1, 2023
+    5.3.76
+    Apr 30, 2023
+    5.3.75
+    Mar 6, 2023
+    5.3.74
+    Jan 7, 2023
+    5.3.73
+    Oct 26, 2022
+    5.3.73
+    Oct 26, 2022
+    5.3.71
+    Aug 12, 2022
+    5.3.7
+    May 30, 2022
+    5.3.6
+    May 21, 2022
+    5.3.5
+    May 8, 2022
+    5.3.3
+    Apr 5, 2022
+    5.3.2
+    Jan 28, 2022
+    5.3.1
+    Nov 12, 2021
+    5.3.0
+    Nov 2, 2021
+    5.2.0
+    Aug 28, 2021
+    5.1.7
+    Jul 10, 2021
+    5.1.6
+    Jun 6, 2021
+    5.1.1
+    May 30, 2021
+    5.1.0
+    May 23, 2021
+    5.0.2
+    May 9, 2021
+    5.0.1
+    May 5, 2021
+    3.2.0
+    Apr 18, 2021
+    3.1.0
+    Apr 13, 2021
+    3.0.2
+    Mar 31, 2021
+    3.0.1
+    Feb 25, 2021
+    2.2.0
+    May 6, 2020
+    2.1.0
+    Apr 18, 2020
+    2.0.0
+    Mar 18, 2020
+    1.1.0
+    Aug 23, 2019
+    1.0.0
+    Jul 23, 2019
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jul 23, 2019
+
+Worldwide Release Date
+    Jul 28, 2019
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    5.3.80
+
+Size
+    217.72 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Afrikaans, Albanian, Arabic, Azerbaijani, Basque, Bengali, Bosnian, Bulgarian, Burmese, Cambodian, Catalan, Croatian, Czech, Danish, Dutch, Estonian, Filipino, Finnish, French, Galician, German, Greek, Gujarati, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kabyle, Kannada, Kazakh, Korean, Latvian, Lithuanian, Macedonian, Malay, Malayalam, Marathi, Norwegian Bokmål, Pashto, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Serbian, Shona, Simplified Chinese, Slovak, Slovenian, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Traditional Chinese, Turkish, Turkmen, Uighur, Ukrainian, Urdu, Vietnamese, Welsh
+
+Seller
+    Guilin zero and one software co. LTD
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    org.mevideo.chat
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1472339678
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Cipchat - Encrypted Messenger | data.ai

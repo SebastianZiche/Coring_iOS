@@ -1,0 +1,469 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Multi Translate Voice
+XHLIUTravel (Applications)$14.99
+Alerts
+
+    XHLIU
+
+    Multi Translate Voice
+    Multi Translate Voice
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Multi Translate Voice
+Translate Conversation & Text
+Travel (Applications)
+$14.99
+App Description
+Multi Translate is a professional translator and interpreter app able to translate any language into 3 others at the same time.
+
+Just speak with your own voice, Multi Translate will convert it into text then translate/interpret, after which you can listen to the pronunciation for each language, even when your device is mute!
+
+Powered by Google Translate, Multi Translator is a very handy yet powerful professional translator/interpret app including:
+
+* Object Recognition
+With Multi translate, you can just hover your camera in front of an object and it will translate the name of it to other language instantly.
+
+* Free Apple Watch translator App
+Just talk to your watch and it will translate to 3 languages as well, where you can also change the source and target languages, review translator history.
+
+* Free iMessage translator app
+Leverage the dictionary and translator functions while messaging with people speaking different languages. Multi Translate will translate your voice into different language and then send via iMessage. You can also just send the origin text from speech recognition.
+
+* Native UI designs for both iPhone and iPad
+
+Main Functions
+* Smart Interpreter: help you talk to anyone while travelling
+* Speak & Translate: convert any voice into text with Speech Recognition
+* Translate any language to any three other languages with one tap
+* Support 1 to 1 translation
+* Share the translate results via Facebook, Twitter, email or SMS.
+* Pronounce result with VoiceOver
+* Listen to Voice Over of translated results even when your device is mute.
+* Translated history is collected automatically
+* Search translated history via Spotlight
+* Instance adjustable voice speed and volume while listening.
+
+Other Features:
+* Translate both text and voice/speech
+* Support for 100+ languages
+* Supports 3D Touch preview and shortcuts.
+* Custom source and target languages within settings.
+
+*Speech Recognition and Voice Over
+Currently supporting 30+ languages (for more details: https://support.apple.com/en-gb/HT206175)
+
+*Text dictionary/translator (based on Google Translate) currently supporting 100+ languages: https://cloud.google.com/translate/docs/languages
+
+----
+
+Privacy Policy:
+http://xmartcalc.com/AppData/xtPrivacyPolicy.pdf
+
+Terms of service:
+http://www.xmartcalc.com/AppData/xtTerms.pdf
+Ratings
+Displayed Avg Ratings
+4.24
+Total Displayed Ratings
+600
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.9.5 (May 26, 2023)
+    * Bug fixes
+    * Enhance performance of object recognition 
+Version 1.9.4 (Feb 21, 2023)
+    1. Support European Portuguese for voice recognition and speech.
+    2. Correct UI for the latest iOS and WatchOS.
+    3. Performance improvements 
+Version 1.9.3 (Apr 3, 2020)
+    Fix UI for dark mode
+Version 1.9.2 (Mar 31, 2020)
+    1. Support more languages
+    2. Bug fix and UI improvements
+Version 1.9.1 (Jun 24, 2019)
+    Improve the logic for voice recognition. 
+Version 1.9.0 (Jan 22, 2019)
+    1. Improve the performance of voice recognition.
+    2. Fix UI issues for iPad.
+Version 1.8.9 (Sep 17, 2018)
+    1. Fix a crash after launch.
+    2. Correct UI issues for latest iPhone models.
+Version 1.8.8 (Aug 27, 2018)
+    1. UX/UI enhancement, much easier to use.
+    2. Bug fix for the iMessage app.
+Version 1.8.7 (Jun 8, 2018)
+    Fix a crash during voice recognition.
+Version 1.8.6 (May 10, 2018)
+    Fix the freezing issue during voice recognition.
+Version 1.8.5 (Mar 23, 2018)
+    Fix UI issues for the iPad version.
+Version 1.8.3 (Mar 21, 2018)
+    1. Provide advanced AI model for object recognition.
+    2. Improve accuracy for object recognition.
+    3. Fix logic of language settings.
+Version 1.8.2 (Feb 1, 2018)
+    1. Improve the accuracy of object recognition.
+    2. Fix a crash while translating.
+Version 1.8.1 (Dec 13, 2017)
+    1. Add copy and share options to the direct translate results.
+    2. Voice over for selected words in result text.
+Version 1.7.2 (Nov 30, 2017)
+    1. Fix the crash during voice recognition.
+    2. Enhance performance while using camera to recognise objects.
+Version 1.7.1 (Nov 7, 2017)
+    1. Recognise objects using your camera or from a photo then translate
+    2. Fully support iPhone X UI
+    3. Support more native languages
+    4. For the watch app, you can hear the voice from the native speaker.
+Version 1.7.0 (Sep 26, 2017)
+    1. New icon and colours for the UI.
+    2. For any new users, the translate functions will be subscription based, chose from paid monthly (1 month free trial) or yearly (1 week free trial).
+    3. For any existing users (Have installed v1.6.0 or earlier), everything is free!
+Version 1.6.0 (Jul 17, 2017)
+    Fix the crash for the Watch and iMessage apps.
+Version 1.5.5 (Jul 6, 2017)
+    1. Improve UX in the history details view.
+    2. Add indicator while recognising voice.
+    3. Minor bug fix.
+Version 1.5.4 (Jun 28, 2017)
+    Support 3D Touch preview to the conversation history.
+Version 1.5.3 (Jun 15, 2017)
+    1. Can select any language to hear in the history result.
+    2. Enhance user experience design.
+Version 1.5.2 (May 24, 2017)
+    Correct unreadable text in translated result.
+Version 1.5.1 (May 22, 2017)
+    Fix a potential crash during translation.
+Version 1.5.0 (Mar 22, 2017)
+    1. Speed up the translation process.
+    2. Fix UI issues for the history list.
+    3. Add voice over function to the Watch app.
+Version 1.4.9 (Jan 27, 2017)
+    1. New interpretation mode, speak to any foreigners.
+    2. Volume and speed are adjustable from settings.
+    3. Improve network connectivity.
+Version 1.4.8 (Dec 13, 2016)
+    * New layout design with tap bar, much easier to use!
+    * Native UI support for iPad is finally here!
+    * Add recently used languages to the settings list.
+    * Support all device orientations for iPad.
+Version 1.4.7 (Nov 17, 2016)
+    Address the crash running on iOS 9.
+Version 1.4.6 (Nov 10, 2016)
+    1. Correct source language default settings.
+    2. Improve UI to make it easier to translate.
+Version 1.4.5 (Nov 4, 2016)
+    1. Show more useful information before recording voice.
+    2. Fix a crash while using recording and speech recognition.
+Version 1.4.4 (Nov 2, 2016)
+    1. Add support for iMessage.
+    2. Include powerful Speech Recognition, convert language voices into text.
+    3. Allow changing languages settings from translate view.
+    4. Speed up performance.
+Version 1.4.3 (Sep 30, 2016)
+    Remove all full screen Ads, which are just horrible!
+    Show more information about Voice Over.
+Version 1.4.2 (Sep 26, 2016)
+    Fix a crash when running in iOS 10.
+Version 1.4.1 (Sep 15, 2016)
+    1. Recompile for iOS 10
+    2. Update fonts to display more languages
+    3. Allowing copy of translated results
+Version 1.4.0 (Aug 23, 2016)
+    These cool features are free for this version:
+    Voice Over;
+    To 3 translation;
+    Speech Control.
+Version 1.3.9 (Jul 9, 2016)
+    Bug fix for the voice over speech.
+Version 1.3.8 (Jun 1, 2016)
+    Bug fix for the iOS 9.3.2
+Version 1.3.7 (May 19, 2016)
+    Performance enhancement and minor bug fix.
+Version 1.3.6 (May 5, 2016)
+    1. Control the speed and volume while listening to the results.
+    2. Listen to the results even when your device is mute.
+    3. Enhance the performance of the watch app.
+Version 1.3.5 (Feb 3, 2016)
+    1. Support 3D Touch preview and short cuts.
+    2. Search history via Spotlight
+    3. Easier to select language
+    4. Speed enhancement.
+    5. Bug Fixing.
+Version 1.3.4 (May 13, 2015)
+    Improve the translation results from the watch.
+Version 1.3.3 (Apr 10, 2015)
+    1. Fully support Apple Watch!
+    2. Minor bug fixing.
+Version 1.3.2 (Feb 3, 2015)
+    Voice and speech functions are now absolutely FREE!
+Version 1.3.1 (Dec 6, 2014)
+    1. Voice Over function added, Listen to translations for 34 languages!
+    2. All Ads are removed.
+    3. Miner bug fixing.
+Version 1.3.0 (Nov 11, 2014)
+    1. New easy-to-use UI design for iPhone 6/6+
+    2. You can recommend this app to your friends easily.
+    3. Option to remove the Ads.
+Version 1.2.0 (Apr 9, 2014)
+    Fix issue when sharing with Facebook in iOS7.
+Version 1.1.1 (Apr 3, 2014)
+    Bug fix and performance enhancement.
+Version 1.1 (Mar 3, 2014)
+    Fully support iOS7
+Version 1.0 (Dec 6, 2013)
+
+Users may also like
+Select objects to compare
+Anchor Pointer Compass GPS
+Navigate to Photo
+Direction Compass With Maps
+My Altitude: GPS Altimeter
+Dash Cam - Record Trips
+AR Planes: Airplane Tracker
+WikiTrip
+GPS Tracker, Compass, 2D Maps
+This is Germany
+Speed PRO+
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+4 times
+on App Store category pages
+Versions
+
+    1.9.5
+    Current release
+    May 26, 2023
+    1.9.4
+    Feb 21, 2023
+    1.9.3
+    Apr 3, 2020
+    1.9.2
+    Mar 31, 2020
+    1.9.1
+    Jun 24, 2019
+    1.9.0
+    Jan 22, 2019
+    1.8.9
+    Sep 17, 2018
+    1.8.8
+    Aug 27, 2018
+    1.8.7
+    Jun 8, 2018
+    1.8.6
+    May 10, 2018
+    1.8.5
+    Mar 23, 2018
+    1.8.3
+    Mar 21, 2018
+    1.8.2
+    Feb 1, 2018
+    1.8.1
+    Dec 13, 2017
+    1.7.2
+    Nov 30, 2017
+    1.7.1
+    Nov 7, 2017
+    1.7.0
+    Sep 26, 2017
+    1.6.0
+    Jul 17, 2017
+    1.5.5
+    Jul 6, 2017
+    1.5.4
+    Jun 28, 2017
+    1.5.3
+    Jun 15, 2017
+    1.5.2
+    May 24, 2017
+    1.5.1
+    May 22, 2017
+    1.5.0
+    Mar 22, 2017
+    1.4.9
+    Jan 27, 2017
+    1.4.8
+    Dec 13, 2016
+    1.4.7
+    Nov 17, 2016
+    1.4.6
+    Nov 10, 2016
+    1.4.5
+    Nov 4, 2016
+    1.4.4
+    Nov 2, 2016
+    1.4.3
+    Sep 30, 2016
+    1.4.2
+    Sep 26, 2016
+    1.4.1
+    Sep 15, 2016
+    1.4.0
+    Aug 23, 2016
+    1.3.9
+    Jul 9, 2016
+    1.3.8
+    Jun 1, 2016
+    1.3.7
+    May 19, 2016
+    1.3.6
+    May 5, 2016
+    1.3.5
+    Feb 3, 2016
+    1.3.4
+    May 13, 2015
+    1.3.3
+    Apr 10, 2015
+    1.3.2
+    Feb 3, 2015
+    1.3.1
+    Dec 6, 2014
+    1.3.0
+    Nov 11, 2014
+    1.2.0
+    Apr 9, 2014
+    1.1.1
+    Apr 3, 2014
+    1.1
+    Mar 3, 2014
+    1.0
+    Dec 6, 2013
+
+See More
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Travel
+
+Initial Release Date
+    Dec 6, 2013
+
+Worldwide Release Date
+    Dec 6, 2013
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    1.9.5
+
+Size
+    37.13 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, French, German, Japanese, Simplified Chinese, Spanish
+
+Seller
+    XH Liu
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 and watchOS 3.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.xmartsoft.XTranslate
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Apr 16, 2015)
+
+Has iMessage
+    Yes
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 768642496
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Multi Translate Voice | data.ai

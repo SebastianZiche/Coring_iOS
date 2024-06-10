@@ -1,0 +1,797 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Potato Chat
+HorseMenSocial Networking (Applications)Free
+Alerts
+
+Potato chat
+Potato Chat
+Potato Chat
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Potato Chat
+Social Networking (Applications)
+Free
+App Description
+Potato is a messaging app with a focus on speed and security. It’s superfast, simple, secure and free.
+
+You can send an unlimited amount of messages, photos, videos and files of any type (.doc, .zip, .pdf, etc.). Potato groups have up to 200000 members and you can create channels to broadcast messages to an unlimited number of subscribers.
+
+We built Potato to make messaging speedy and safe again, without the usual caveats.
+
+Why Switch to Potato?
+
+FAST: Potato is the fastest messaging app on the market because it uses a distributed infrastructure with data centers positioned around the globe to connect users to the closest possible server.
+
+SECURE: We made it our mission to provide the best security among mass messengers. Potato is based on time-tested algorithms to make security compatible with high-speed delivery and reliability on weak connections.
+
+CLOUD STORAGE: Potato seamlessly syncs across all your devices, so you can always securely access your data. Your message history is stored for free in the Potato cloud. Never lose your data again!
+
+GROUP CHAT & SHARING: With Potato, you can form large group chats and broadcast lists of up to 200000 members, quickly share large videos, documents (.doc, .ppt, .zip, etc.), and send an unlimited amount of photos to your friends.
+
+RELIABLE: Built to deliver your messages in the minimum bytes possible, Potato is the most reliable messaging system ever made. It works even on the weakest mobile connections.
+
+
+PRIVACY: We take your privacy seriously and will never give third parties access to your data.
+
+For those interested in maximum privacy, Potato offers Secret Chats. Secret Chat messages can be programmed to self-destruct automatically from both participating devices. This way you can send all types of disappearing content — messages, photos, videos, and even files. Secret Chats use end-to-end encryption to ensure that a message can only be read by its intended recipient.
+
+SUPPORT: For real-time support, please go to Settings in Potato and select “Ask a Question” to send a message directly to our support volunteers.
+Ratings
+Displayed Avg Ratings
+3.46
+Total Displayed Ratings
+4.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.39.207057 (Feb 2, 2024)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.39.207056 (Jan 24, 2024)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.39.207055 (Dec 29, 2023)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.39.207053 (Dec 21, 2023)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.39.207051 (Dec 17, 2023)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.39.207050 (Nov 29, 2023)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.38.207050 (Oct 4, 2023)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.37.207074 (Jul 11, 2023)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.37.207072 (Jun 21, 2023)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.37.207071 (Jun 8, 2023)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.37.207069 (May 25, 2023)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.37.207066 (Feb 21, 2023)
+    1. User experience optimization
+    2. Fix known bugs 
+Version 2.37.207054 (Jan 31, 2023)
+    1、New interface style
+    2、Signature and status support synchronization to the moments
+    3、User experience optimization
+    4、Fix known bugs
+Version 2.35.207051 (Nov 18, 2022)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.34.207051 (Nov 7, 2022)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.32.207051 (Sep 2, 2022)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.31.207051 (Aug 6, 2022)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.30.207053 (Jul 6, 2022)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.30.207051 (Jun 24, 2022)
+    1. New: group title, external link identification, night mode background theme settings
+    2. Experience optimization of operation feedback, night mode chat, etc.
+    3.Fix known bugs
+Version 2.29.207053 (May 19, 2022)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.29.207051 (May 10, 2022)
+    1. User experience optimization
+    2. Fix known bugs
+Version 2.28.207054 (Mar 15, 2022)
+    1. New: Personal status support stickers, chat background themes
+    2. Dark mode follow system, audio and video call, dialog list optimization, etc.
+    3. Fix known bugs
+Version 2.27.207050 (Feb 4, 2022)
+    1. New functions such as picture editing and voice 2x playback
+    2. Optimization of topic follow system, group message synchronization settings, etc.
+    3. Fix known bugs
+Version 2.24.207051 (Jul 22, 2021)
+    1. Sticker loop switch, custom notifications
+    2.Optimize partial experience
+    3. Fix known bugs
+Version 2.23.207056 (Jun 16, 2021)
+    1.Fix known bugs
+Version 2.23.207054 (Jun 11, 2021)
+    1. Optimize partial experience
+    2. Fix known bugs
+Version 2.22.207060 (May 8, 2021)
+    1.Fix known bugs
+Version 2.22.207051 (Apr 23, 2021)
+    1. Super group hot key creation, friend recommendation, etc.
+    2. Optimize partial experience
+    3. Fix known bugs
+Version 2.21.207072 (Apr 11, 2021)
+    1. Fix known bugs
+Version 2.21.207067 (Mar 24, 2021)
+    1.Fix known bugs
+Version 2.21.207062 (Mar 14, 2021)
+    1.Fix known bugs
+Version 2.21.207052 (Mar 11, 2021)
+    1. Added voice to text, personal status, friend recommendation and etc.
+    2. Optimize partial experience
+    3. Fix known bugs
+Version 2.20.207056 (Dec 30, 2020)
+    1. Addded third-party login, delete contacts in batches, delete accounts immediately, etc.
+    2. Optimize partial experience
+    3. Fix known bugs
+Version 2.19.207054 (Nov 18, 2020)
+    1. Fix known bugs
+Version 2.19.207053 (Nov 10, 2020)
+    1. Fix known bugs
+Version 2.19.207052 (Nov 6, 2020)
+    1. Optimize partial experience
+    2. Fix known bugs
+Version 2.18.207052 (Oct 26, 2020)
+    1. Optimize partial experience
+    2. Fix known bugs
+Version 2.17.207053 (Sep 15, 2020)
+    1.Fixed known bugs.
+Version 2.17.207052 (Sep 4, 2020)
+    1. Added new function of archive and support original format for sending photo
+    2. Optimize partial experience
+    3. Fix known bugs
+Version 2.16.207051 (Jul 21, 2020)
+    1.Add Scan code login, add Group Nearby.
+    2.Fixed known bugs.
+Version 2.15.207050 (Jun 15, 2020)
+    1. New funny stickers and new version of personal and group info.
+    2. Optimize group related and some experience.
+    3. Fixed known bugs.
+Version 2.14.207052 (May 29, 2020)
+    1. Fixed known bugs
+Version 2.14.207051 (May 27, 2020)
+    1. Fixed known bugs
+Version 2.14.207050 (May 6, 2020)
+    1. New Function : Groups Nearby, Complaints.
+    2. Optimiz Contacts and some experience.
+    3. Fixed known bugs
+Version 2.13.207051 (Apr 2, 2020)
+    Fixed known bugs
+Version 2.13.207050 (Mar 25, 2020)
+    1.New Function: Quick reply to calls
+    2.Redesign the Personal Information page and optimize some experience
+    3.Fixed known bugs
+Version 2.12.207050 (Feb 19, 2020)
+    1.Add Mini Program Store, Tap, etc.
+    2.Optimize some experience
+    3.Fixed known bugs
+Version 2.11.207080 (Jan 23, 2020)
+    1.New features: support lottle animation, support to post GIF in Moments, support to delete call history, etc.
+    2.Optimize some experience
+    3.Fixed known bugs
+Version 2.10.207071 (Jan 3, 2020)
+    1.New Function: Report, Group Profile Photo, etc.
+    2.Optimize some experience
+    3.Fixed known bugs
+Version 2.9.207044 (Dec 9, 2019)
+    1.Optimize some experience
+    2.Fixed known bugs
+Version 2.8.207035 (Nov 15, 2019)
+    1.Optimize Some Experience
+    2.Fixed some bugs.
+Version 2.7.207044 (Oct 28, 2019)
+    1.Fixed some known bugs
+Version 2.7.207043 (Oct 24, 2019)
+    1.Adapt to iOS13
+    2.Fixed some known bugs
+    3.Added Guideline for Beginners
+Version 2.6.27034 (Oct 3, 2019)
+    1.Add Function Introduction.
+    2.Optimize Some Experience.
+    3.Fixed some bugs.
+Version 2.5.27038 (Sep 21, 2019)
+    1.Optimize Group Settings and Information
+    2.Optimize Network Connections
+    3.Fixed some bugs
+Version 2.3.27053 (Aug 15, 2019)
+    Fix known bugs
+Version 2.3.27050 (Jul 30, 2019)
+    1. The appearance of the album interface is updated.
+    2. The appearance of the media message is updated.
+    3. Optimize media download speed.
+    4. Fix known bugs.
+Version 2.2.27025 (Jun 28, 2019)
+    1. Redesign the media message display.
+    2. Redesign the display of music player, location, files and other views.
+    3. Fixed several serious crash issues.
+    4.The minimum system version is adjusted to iOS10.
+Version 2.1.27072 (Jun 7, 2019)
+    1. New feature: Video Call, give your friend a Video Call and say hello!
+    2. New interface: We redesigned the settings interface, it seems to be more concise, do you like it?
+    3. New experience: We have optimized some of the existing features.
+    4. Fixed some known bugs.
+Version 1.15.27048 (May 26, 2019)
+    1. New Bots Mall is online.
+    2. Stickers Store re-adjustment.
+    3. Support for quick sharing of Cloud Disk files in chat.
+    4. Fix known bugs.
+Version 1.14.27013 (May 11, 2019)
+    Recent updates:
+    1. Updated the interface experience.
+    2. Adjusted part of the design.
+    3. Fix known bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.13.27033 (May 8, 2019)
+    1. Updated the interface experience.
+    2. Adjusted part of the design.
+    3. Fix known bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.12.27073 (Apr 21, 2019)
+    Recent updates:
+    1.There comes new chat window, recording and stickers will give you new experience.
+    2.Add QR code function, personal QR code, group QR code.
+    3.Fix konwn bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.12.27072 (Apr 18, 2019)
+    1.There comes new chat window, recording and stickers will give you new experience.
+    2.Add QR code function, personal QR code, group QR code.
+    3.Fix konwn bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.11.27054 (Apr 12, 2019)
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.11.27053 (Apr 5, 2019)
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.11.27052 (Mar 27, 2019)
+    1.Group Tag Optimization, support to tag all members.
+    2.Moments video increase to 60 seconds.
+    3.Addition for strangers to view Moments permission.
+    4.Interrelated Optimization of Moments.
+    5.Fixed known important bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.10.27030 (Mar 8, 2019)
+    We have fixed several serious crashes and sorry for the inconvenience.
+
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.10.27029 (Feb 28, 2019)
+    We have re-supported Callkit and your voice calls will be more timely, but these features do not include mainland China.
+
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.10.27028 (Feb 25, 2019)
+    1. The digital coin red packet increases Night mode.
+    2.Long press the "Chats" to jump to the unread conversation.
+    3. Settings and personal information interface optimization experience.
+    4. Moments function optimization experience.
+    5. Fix known bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.9.20015 (Feb 3, 2019)
+    1. We redesigned the appearance of the settings interface to make it look cleaner!
+    2. Now, you can send a digital currency Red Packet to your friends or in a group chat. Let's compare it with luck!
+    3. Fix known bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.7.20027 (Jan 27, 2019)
+    1.There comes the new Moments, and you can share happiness to your friends.
+    2.The personal information has been adjusted, and you can know him more easily.
+    3.Fixed some known bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.6.6 (Dec 14, 2018)
+    1. Accurately Search for Friends to Make Adding Friends Easier
+    2. Important Groups and Channels Can Be Favorited to Contact Dividing Lists
+    3. Asterisk Your Special Focused Friends
+    4. Add A New Function of Alphabetical Index to Quickly Find Your Contacts
+    5. Any comments can be submitted to us through feedback
+    6. About Account and Information Security - Add A New Function of SMS Identifying Code Dynamic Verification
+    7. Overall Visual Adjustment and A New Function of Interactive Animation
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.6.5 (Nov 28, 2018)
+    1. New Function: Digital Wallets.
+    2. Compatible with XS/XS Max.
+    3. User online prompt is enhanced, you can clearly see your friend online states.
+    4. User nearby but offline, for make your personal information safety, we decided to abandon this function.
+    5. A few known bugs fixed.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.6.4 (Nov 18, 2018)
+    1. Modify the font display of some interfaces.
+    2. Fix the message window After selecting more, slide back to flashback.
+    3. Fix notification center push does not disappear.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im.
+Version 1.6.3 (Oct 5, 2018)
+    1. New features: People nearby, You can find people nearby who are using potato now, and say hello to them.
+    2. New features: All members are forbidden to speak, the super group administrators can forbid members to speak, during this time, only group administrators and managers can send messages.
+    3. New features: private conversations are forbidden, the super group managers can forbid any members to create private chats.
+    4. New experience: Contacts and chats interface, we have integrated multiple functions into one button, you can do some operations more quickly.
+    5. Fixed known bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im
+Version 1.6.2 (Sep 11, 2018)
+    1.New function: Bots Mall, which you can have a deeper understanding of the service that our bots can provide for you.
+    2.New language adaption:Kampuchea Language.
+    3.New table bar button style.
+    4.Now you can switch three themes for color matching in the "Appearance" option (Day Classic/Day/Night).
+    5.Now you can customize the keyboard return key to "Send/Replace line" in the "Privacy and Security" option.
+    6.Fixed known bugs.
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im
+Version 1.6.1 (Sep 9, 2018)
+    1.New function: Bots Mall, which you can have a deeper understanding of the service that our bots can provide for you.
+    2.New language adaption:Kampuchea Language.
+    3.New table bar button style.
+    4.Now you can switch three themes for color matching in the "Appearance" option (Day Classic/Day/Night).
+    5.Now you can customize the keyboard return key to "Send/Replace line" in the "Privacy and Security" option.
+    6.Fixed known bugs.
+
+    Thanks for your feedback and suggestions. Remember our email address: admin@potato.im
+Version 1.6.0 (Aug 4, 2018)
+    fix bugs.
+    Thanks for your feedback and suggestions. Our email address is:
+    admin@potato.im
+Version 1.5.11 (Jul 28, 2018)
+    fix bugs.
+    Thanks for your feedback and suggestions. Our email address is:
+    admin@potato.im
+Version 1.5.10 (Jul 27, 2018)
+    fix bugs.
+    Thanks for your feedback and suggestions. Our email address is:
+    admin@potato.im
+Version 1.5.9 (Jul 13, 2018)
+    fix bugs.
+    Thanks for your feedback and suggestions. Our email address is:
+    admin@potato.im
+Version 1.5.8 (Jun 22, 2018)
+    fix bugs.
+Version 1.5.7 (Jun 16, 2018)
+    fix bugs.
+Version 1.5.6 (Jun 8, 2018)
+    fix bugs
+Version 1.5.5 (May 23, 2018)
+    fix bugs.
+Version 1.5.4 (May 16, 2018)
+    fix bugs.
+Version 1.5.3 (Apr 12, 2018)
+    fix bugs.
+Version 1.5.2 (Apr 11, 2018)
+    fix bugs.
+Version 1.5.1 (Mar 20, 2018)
+    fix bugs.
+Version 1.5.0 (Mar 17, 2018)
+    1. we have added some interesting features.
+    2. we've fixed some bugs.
+    3. we modified some of the interfaces.
+Version 1.4.8 (Jan 29, 2018)
+    fix bugs.
+Version 1.4.7 (Jan 15, 2018)
+    We have recently made a big update. If you can't connect after the update of app, please delete the app and download it. The inconvenience to you, please understand!
+Version 1.4.5 (Dec 16, 2017)
+    fix bugs.
+Version 1.4.4 (Dec 1, 2017)
+    fix bugs.
+Version 1.4.3 (Nov 21, 2017)
+    fix bugs.
+Version 1.4.2 (Nov 20, 2017)
+    fix bugs.
+Version 1.4.1 (Nov 18, 2017)
+    1. We have replaced the new server to serve you, so we need you to update your app version in time.
+    2. "Moments" message update function has been optimized, now you can get the fastest interaction between friends.
+    3. We have dealt with some known bugs.
+Version 1.4.0 (Nov 14, 2017)
+    We added the "Moments" experience version, any questions welcome your timely feedback, we also welcome you to eliminate valuable suggestions for improvement.
+Version 1.3.0 (Nov 4, 2017)
+    1.Adaptation iPhoneX.
+    2.Repair password lock BUG.
+Version 1.2.4 (Oct 2, 2017)
+    1.We modified the scan rule for two-dimensional code. All you need to update your app is that it works properly.
+    2.New Apple phone models can now be identified.
+    3.GIF dynamic pictures can be played properly under the iOS11 system.
+Version 1.2.3 (Jul 5, 2017)
+    fix bugs.
+Version 1.2.2 (Jun 6, 2017)
+    Restoring encrypted chat appears in two identical dialogs.
+Version 1.2.1 (May 30, 2017)
+    Rollback the version.
+Version 1.2 (May 27, 2017)
+    We used the new server to serve you.
+    If you can't connect to the server after updating, you can try to delete APP and download it again in AppStore. Thanks for your cooperation.
+Version 1.1.1 (Mar 21, 2017)
+    1. Repair "active sessions" can not identify iPhone7.
+    2. Repair encrypted chat GIF can not play.
+    3. Cancel the super group invite other people into the group, there are local push tips.
+    4. Fix bugs.
+Version 1.1 (Mar 16, 2017)
+    1. Repair into the group chat chat box does not read the number of cumulative, and does not disappear.
+    2. Repair GIF can not be saved, can not click to enlarge the play.
+    3. Repair forwarding messages to their single hook display.
+Version 1.0 (Mar 8, 2017)
+
+Users may also like
+Select objects to compare
+68 Messenger
+紙飛機
+Btok-Blockchain Messenger
+Letstalk IM
+海鸥-安全加密聊天交友软件
+Huo Chat
+圣魔-Plus
+POP - Chat to the future
+Ant Messenger
+UCOO-全球华人聊天交友，游戏约玩，语音直播
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.39.207057
+    Current release
+    Feb 2, 2024
+    2.39.207056
+    Jan 24, 2024
+    2.39.207055
+    Dec 29, 2023
+    2.39.207053
+    Dec 21, 2023
+    2.39.207051
+    Dec 17, 2023
+    2.39.207050
+    Nov 29, 2023
+    2.38.207050
+    Oct 4, 2023
+    2.37.207074
+    Jul 11, 2023
+    2.37.207072
+    Jun 21, 2023
+    2.37.207071
+    Jun 8, 2023
+    2.37.207069
+    May 25, 2023
+    2.37.207066
+    Feb 21, 2023
+    2.37.207054
+    Jan 31, 2023
+    2.35.207051
+    Nov 18, 2022
+    2.34.207051
+    Nov 7, 2022
+    2.32.207051
+    Sep 2, 2022
+    2.31.207051
+    Aug 6, 2022
+    2.30.207053
+    Jul 6, 2022
+    2.30.207051
+    Jun 24, 2022
+    2.29.207053
+    May 19, 2022
+    2.29.207051
+    May 10, 2022
+    2.28.207054
+    Mar 15, 2022
+    2.27.207050
+    Feb 4, 2022
+    2.24.207051
+    Jul 22, 2021
+    2.23.207056
+    Jun 16, 2021
+    2.23.207054
+    Jun 11, 2021
+    2.22.207060
+    May 8, 2021
+    2.22.207051
+    Apr 23, 2021
+    2.21.207072
+    Apr 11, 2021
+    2.21.207067
+    Mar 24, 2021
+    2.21.207062
+    Mar 14, 2021
+    2.21.207052
+    Mar 11, 2021
+    2.20.207056
+    Dec 30, 2020
+    2.19.207054
+    Nov 18, 2020
+    2.19.207053
+    Nov 10, 2020
+    2.19.207052
+    Nov 6, 2020
+    2.18.207052
+    Oct 26, 2020
+    2.17.207053
+    Sep 15, 2020
+    2.17.207052
+    Sep 4, 2020
+    2.16.207051
+    Jul 21, 2020
+    2.15.207050
+    Jun 15, 2020
+    2.14.207052
+    May 29, 2020
+    2.14.207051
+    May 27, 2020
+    2.14.207050
+    May 6, 2020
+    2.13.207051
+    Apr 2, 2020
+    2.13.207050
+    Mar 25, 2020
+    2.12.207050
+    Feb 19, 2020
+    2.11.207080
+    Jan 23, 2020
+    2.10.207071
+    Jan 3, 2020
+    2.9.207044
+    Dec 9, 2019
+    2.8.207035
+    Nov 15, 2019
+    2.7.207044
+    Oct 28, 2019
+    2.7.207043
+    Oct 24, 2019
+    2.6.27034
+    Oct 3, 2019
+    2.5.27038
+    Sep 21, 2019
+    2.3.27053
+    Aug 15, 2019
+    2.3.27050
+    Jul 30, 2019
+    2.2.27025
+    Jun 28, 2019
+    2.1.27072
+    Jun 7, 2019
+    1.15.27048
+    May 26, 2019
+    1.14.27013
+    May 11, 2019
+    1.13.27033
+    May 8, 2019
+    1.12.27073
+    Apr 21, 2019
+    1.12.27072
+    Apr 18, 2019
+    1.11.27054
+    Apr 12, 2019
+    1.11.27053
+    Apr 5, 2019
+    1.11.27052
+    Mar 27, 2019
+    1.10.27030
+    Mar 8, 2019
+    1.10.27029
+    Feb 28, 2019
+    1.10.27028
+    Feb 25, 2019
+    1.9.20015
+    Feb 3, 2019
+    1.7.20027
+    Jan 27, 2019
+    1.6.6
+    Dec 14, 2018
+    1.6.5
+    Nov 28, 2018
+    1.6.4
+    Nov 18, 2018
+    1.6.3
+    Oct 5, 2018
+    1.6.2
+    Sep 11, 2018
+    1.6.1
+    Sep 9, 2018
+    1.6.0
+    Aug 4, 2018
+    1.5.11
+    Jul 28, 2018
+    1.5.10
+    Jul 27, 2018
+    1.5.9
+    Jul 13, 2018
+    1.5.8
+    Jun 22, 2018
+    1.5.7
+    Jun 16, 2018
+    1.5.6
+    Jun 8, 2018
+    1.5.5
+    May 23, 2018
+    1.5.4
+    May 16, 2018
+    1.5.3
+    Apr 12, 2018
+    1.5.2
+    Apr 11, 2018
+    1.5.1
+    Mar 20, 2018
+    1.5.0
+    Mar 17, 2018
+    1.4.8
+    Jan 29, 2018
+    1.4.7
+    Jan 15, 2018
+    1.4.5
+    Dec 16, 2017
+    1.4.4
+    Dec 1, 2017
+    1.4.3
+    Nov 21, 2017
+    1.4.2
+    Nov 20, 2017
+    1.4.1
+    Nov 18, 2017
+    1.4.0
+    Nov 14, 2017
+    1.3.0
+    Nov 4, 2017
+    1.2.4
+    Oct 2, 2017
+    1.2.3
+    Jul 5, 2017
+    1.2.2
+    Jun 6, 2017
+    1.2.1
+    May 30, 2017
+    1.2
+    May 27, 2017
+    1.1.1
+    Mar 21, 2017
+    1.1
+    Mar 16, 2017
+    1.0
+    Mar 8, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Mar 8, 2017
+
+Worldwide Release Date
+    Mar 8, 2017
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    2.39.207057
+
+Size
+    234.22 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Anglais, Arabe, Chinois simplifié, Chinois traditionnel, Coréen, Espagnol, Indonésien, Japonais, Persan, Portugais, Turc, Vietnamien
+
+Seller
+    HorseMen Technologies SA
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Nécessite iOS 12.2 ou une version ultérieure. Compatible avec l’iPhone, l’iPad et l’iPod touch.
+
+Bundle ID
+    org.potatochat.PotatoEnterprise
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1204726898
+Unified App ID: 1000600000779853
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Potato Chat | data.ai

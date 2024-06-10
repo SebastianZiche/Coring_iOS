@@ -1,0 +1,397 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Copy Text On Screen
+MOJALI LLCProductivity (Applications)Free
+Alerts
+
+Copy Text On Screen
+Copy Text On Screen
+Copy Text On Screen
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Copy Text On Screen
+Productivity (Applications)
+Free
+App Description
+The default long press to copy text on a mobile screen or image does not always work. This app helps you extract text/words from a mobile screen by sharing your screenshot with the app or by selecting text from an image.
+
+With its advanced OCR technology, this app allows you to extract text and words from your mobile screen and images. The OCR recognition accuracy is between 99% and 100%, ensuring that you get the exact text you need.
+
+
+Main Features:
+
+• Copy any text on the mobile screen to your clipboard by sharing screenshot with this app.
+• Extract text from any image.
+• Extract text easily from any application including social media apps like Facebook, Twitter, Instagram, Youtube and more by just share screenshot.
+• Extract text on image and read it aloud with text to speech.
+• Recent scans history.
+• Supports 92 languages for text recognition and translations in over 100 languages.
+
+How to use this app to extract Text from screen:
+
+Step 1: Take a screenshot.
+Step 2: Open that screenshot and share with this app.
+Step 3: Select the text by touch and drag on screeenshot and choose the language for OCR recognition.
+Step 4: Please wait while the app performs OCR (Optical Character Recognition) operation to extract the text.
+Step 5: Now you may copy to clipboard or share the extracted text.
+
+Never struggle to copy text from your mobile screen and Image again. Get Copy Text app now and enjoy the ease of extracting text and words from your mobile screen and Images!
+
+You can take screenshots by pressing and holding the 'POWER BUTTON' and 'VOLUME UP BUTTON' at the same time for a second.
+
+
+Subscription Plans
+Unlimited Scans Monthly
+-------------------------
+Unlimited scans
+No ads upto 50 scans per day.
+for one month period.
+monthly 5.99 $
+
+Unlimited Scans Yearly
+----------------------
+Unlimited scans
+No ads upto 50 scans per day.
+for one year period.
+yearly 60.99 $.
+
+
+-----------------
+Payment will be charged to iTunes Account at confirmation of purchase.
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+Account will be charged for renewal as per existing plan rate within 24-hours prior to the end of the current period.
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+-----------------
+
+Privacy Policy: https://gvrapps.com/ios/copytext/privacypolicy
+Terms of Service: https://gvrapps.com/ios/copytext/termsofuse
+Ratings
+Displayed Avg Ratings
+4.61
+Total Displayed Ratings
+16.5k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.2.8 (Aug 25, 2023)
+    1. Camera selection option: Choose between app camera or device camera for capturing images.
+    2. Text to Speech: Now you can listen to the extracted text by tapping on the speaker icon.
+    3. Improved user experience: Enhancements based on user feedback for a smoother experience.
+    4. Bug fixes and performance improvements: Resolved known issues and optimized app performance.
+Version 1.2.7 (Jul 14, 2023)
+    1. UX and UI changes and Bug fixes.
+    2. Performance Improvement.
+Version 1.2.6 (Apr 2, 2023)
+    1. Several bug fixes and Performance improvement.
+Version 1.2.5 (Jan 8, 2023)
+    1. Search on text improved.
+    2. Bug fixes and Performance improvement.
+Version 1.2.4 (Dec 28, 2022)
+    1. Issue while sharing screenshot image fixed.
+    2. Export extracted text as .txt file option.
+    3. Several bug fixes and Performance improvement.
+Version 1.2.4 (Dec 28, 2022)
+    1. Issue while sharing screenshot image fixed.
+    2. Export extracted text as .txt file option.
+    3. Several bug fixes and Performance improvement.
+Version 1.2.3 (Nov 29, 2022)
+    Major new release includes performance improvements, bug fixes and new features.
+    1. Image and Extracted Text shown with resizable split view.
+    2. Multiple column selection option.
+    3. Light and Dark theme option.
+    4. Provided options to backup and restore scans.
+    5. Tibetan language OCR made work.
+    6. Translate text improved.
+    7. UX and UI changes and Stability improvement.
+    8. Several Bug fixes and performance improvement.
+Version 1.2.2 (Jul 22, 2021)
+    1. Text Extraction Accuracy improved.
+    2. Select All Scans by single click to share or delete option.
+    3. Bug fixes and stability improvement.
+Version 1.2.1 (Jul 16, 2021)
+    1. Text Extraction Accuracy improved.
+    2. Gave support for latest iOS version.
+    3. Bug fixes and stability improvement.
+Version 1.2.0 (Sep 4, 2019)
+    1. Image text detection improved.
+    2. Gave support for more languages to detect text on image.
+Version 1.1.9 (Mar 5, 2019)
+    Bug fixes and performance improvement.
+Version 1.1.8 (Feb 23, 2019)
+    Bug fixes and usability improvements.
+Version 1.1.7 (Jan 20, 2019)
+    Bug fixes.
+Version 1.1.6 (Nov 20, 2018)
+    1. New app icon design.
+    2. UI Changes and bug fixes.
+Version 1.1.5 (Oct 10, 2018)
+    1. Offline OCR Process on English and other Latin based languages.
+    2. OCR Process speed improved.
+    3. Switching between image and extracted text simplified.
+    4. Bug fixes.
+Version 1.1.4 (Sep 14, 2018)
+    1. Text Extraction on background.
+    2. Bug fixes.
+Version 1.1.3 (Aug 13, 2018)
+    Security update and bug fixes.
+Version 1.1.2 (Jul 9, 2018)
+    1. Translations in over 100 languages on extracted text.
+    2. Ui changes and bug fixes.
+Version 1.1.1 (Jun 27, 2018)
+    1. Bug Fixes.
+Version 1.1.0 (Jun 16, 2018)
+    1. Gave option to don't show startup popup.
+    2. UX/UI Improvement.
+Version 1.0.9 (Jun 3, 2018)
+    1. Bug fixes.
+Version 1.0.8 (Jun 2, 2018)
+    1. in crop page itself shown option to select language of text on image.
+    2. iphone-x device status bar overlaps issue fixed.
+    3. UX/UI Improvements.
+Version 1.0.7 (May 22, 2018)
+    1. Swipe right of scan page rows to share and delete.
+    2. UI Changes and Bug fixes.
+Version 1.0.6 (May 16, 2018)
+    1. Navigation bar and status bar overlap issue fixed.
+    2. Extracted Text size increased to easy editing.
+    3. Minor bug fixes.
+Version 1.0.5 (May 9, 2018)
+    1.Gave support for older ios devices.
+    2.Bug fixes.
+Version 1.0.4 (Apr 27, 2018)
+    1. bug fixes.
+Version 1.0.3 (Apr 24, 2018)
+    1. Text extraction speed and accuracy improved by optimising image size.
+    2. iphone-x support.
+    3. Minor bug fixes and UI Changes.
+Version 1.0.2 (Mar 15, 2018)
+    1. minor bug fixes - button overlaps with banner advertisement.
+    2. performance improvement.
+Version 1.0.1 (Jan 23, 2018)
+    minor bug fixes.
+Version 1.0.0 (Jan 1, 2018)
+
+Users may also like
+Select objects to compare
+Text Capture: Image to Text
+Text Scanner & Image to Text
+Scanner App-PDF Documents Scan
+Rar Sharp
+CV Resume
+TeleBox:Cloud File Storage
+LetMeBe: Block Apps, IPs/Hosts
+PDF Scanner Pro for Document
+Paste - Endless Clipboard
+Convert Image To PDF tools
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+93 times
+on App Store category pages
+Versions
+
+    1.2.8
+    Current release
+    Aug 25, 2023
+    1.2.7
+    Jul 14, 2023
+    1.2.6
+    Apr 2, 2023
+    1.2.5
+    Jan 8, 2023
+    1.2.4
+    Dec 28, 2022
+    1.2.4
+    Dec 28, 2022
+    1.2.3
+    Nov 29, 2022
+    1.2.2
+    Jul 22, 2021
+    1.2.1
+    Jul 16, 2021
+    1.2.0
+    Sep 4, 2019
+    1.1.9
+    Mar 5, 2019
+    1.1.8
+    Feb 23, 2019
+    1.1.7
+    Jan 20, 2019
+    1.1.6
+    Nov 20, 2018
+    1.1.5
+    Oct 10, 2018
+    1.1.4
+    Sep 14, 2018
+    1.1.3
+    Aug 13, 2018
+    1.1.2
+    Jul 9, 2018
+    1.1.1
+    Jun 27, 2018
+    1.1.0
+    Jun 16, 2018
+    1.0.9
+    Jun 3, 2018
+    1.0.8
+    Jun 2, 2018
+    1.0.7
+    May 22, 2018
+    1.0.6
+    May 16, 2018
+    1.0.5
+    May 9, 2018
+    1.0.4
+    Apr 27, 2018
+    1.0.3
+    Apr 24, 2018
+    1.0.2
+    Mar 15, 2018
+    1.0.1
+    Jan 23, 2018
+    1.0.0
+    Jan 1, 2018
+
+See More
+Top In-App Purchases
+
+    Unlimited Scans Yearly
+    $54.99
+    Unlimited Scans Monthly
+    $4.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jan 1, 2018
+
+Worldwide Release Date
+    Jan 1, 2018
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.2.8
+
+Size
+    67.25 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Inglese
+
+Seller
+    Govarthani Rajesh
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Richiede iOS 10.0 o versioni successive. Compatibile con iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6s Plus, iPhone SE (1ª generazione), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2ª generazione), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3ª generazione), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi-Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro 12,9", iPad Pro 12,9" Wi‑Fi + Cellular, iPad Pro 9,7", iPad Pro 9,7" Wi‑Fi + Cellular, iPad (5ª generazione), iPad (5ª generazione) Wi‑Fi + Cellular, iPad Pro 12,9" (2ª generazione), iPad Pro 12,9" (2ª generazione) Wi‑Fi + Cellular, iPad Pro 10,5", iPad Pro 10,5" Wi‑Fi + Cellular, iPad (6ª generazione), iPad (6ª generazione) Wi‑Fi + Cellular, iPad Pro 11", iPad Pro 11" Wi-Fi + Cellular, iPad Pro 12,9" (3ª generazione), iPad Pro 12,9" (3ª generazione) Wi‑Fi + Cellular, iPad mini (5ª generazione), iPad mini (5ª generazione) Wi‑Fi + Cellular, iPad Air (3ª generazione), iPad Air (3ª generazione) Wi‑Fi + Cellular, iPad (7ª generazione), iPad (7ª generazione) Wi‑Fi + Cellular, iPad Pro 11" (2ª generazione), iPad Pro 11" (2ª generazione) Wi‑Fi + Cellular, iPad Pro 12,9" (4ª generazione), iPad Pro 12,9" (4ª generazione) Wi‑Fi + Cellular, iPad Air (4ª generazione), iPad Air (4ª generazione) Wi‑Fi + Cellular, iPad (8ª generazione), iPad (8ª generazione) Wi‑Fi + Cellular, iPad Pro 11" (3ª generazione), iPad Pro 11" (3ª generazione) Wi-Fi + Cellular, iPad Pro 12,9" (5ª generazione), iPad Pro 12,9" (5ª generazione) Wi-Fi + Cellular, iPad mini (6ª generazione), iPad mini (6ª generazione) Wi-Fi + Cellular, iPad (9ª generazione), iPad (9ª generazione) Wi-Fi + Cellular, iPad Air (5ª generazione), iPad Air (5ª generazione) Wi‑Fi + Cellular, iPad (10ª generazione), iPad (10ª generazione) Wi‑Fi + Cellular, iPad Pro 11" (4ª generazione), iPad Pro 11" (4ª generazione) Wi‑Fi + Cellular, iPad Pro 12,9" (6ª generazione), iPad Pro 12,9" (6ª generazione) Wi‑Fi + Cellular, e iPod touch.
+
+Bundle ID
+    rishi.ocr.copy.text.on.screen.recognition
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1330207906
+Unified App ID: 1000800000235771
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Copy Text On Screen | data.ai

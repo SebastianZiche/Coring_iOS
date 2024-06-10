@@ -1,0 +1,15 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,2.0.5,2023-12-06,bug fixes,0,0,0,0,0,1,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,2.0.0,2023-09-01,bug fixes dark theme improvements,0,0,1,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.10.2,2022-12-07,bug fixes,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.10.0,2022-08-25,bug fixes,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.9.0,2022-02-11,bug fixes menu ui overhaul,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.8.0,2021-03-29,UI overhaul bug fixes,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.7.0,2020-09-10,weather and location bug fixes ui improvements,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.6.0,2020-05-05,scrolling bug fix,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.5.0,2020-05-01,added search feature,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.4.0,2019-10-16,bug fixes ui improvements,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.3.0,2019-04-27,bug fixes you can now add location and weather info to entries,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.2.0,2019-01-05,bug fixes added plain text printing option,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.1.0,2018-10-09,bug fixes,0,0,0,0,0,0,0,0
+1413837253,0,EZ Diary App,Productivity,2018-07-23,2018-07-25,5.16,1,0,0,1,1.0.1,2018-07-25,,0,0,0,0,0,0,0,0

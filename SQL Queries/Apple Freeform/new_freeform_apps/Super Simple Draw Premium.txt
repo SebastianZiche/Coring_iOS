@@ -1,0 +1,565 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Super Simple Draw Premium
+Bao LeiProductivity (Applications)$0.99
+Alerts
+
+    Super Simple Draw Premium
+    Super Simple Draw Premium
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Super Simple Draw Premium
+Quick draw & sketch whiteboard
+Productivity (Applications)
+$0.99
+App Description
+Minimalist drawing app. Supports Apple Pencil (new & old), both portrait & landscape, iPad multitasking, standard iOS share, the latest devices. Pick up & use. Like a white board or scratch paper.
+
+~~Features~~
+• Apple Pencil support
+• iOS 14 Widget support to show case your latest or favorite drawing on home screen
+• Draw in either landscape or portrait
+• Multiple windows and multitasking support on iPadOS/iPad
+• Standard iOS share/action button (copy, save, send to other messaging/social apps)
+• Saving square images for Instagram submission
+
+~~Useful for~~
+• Jotting down notes
+• Illustrate something to friends/coworkers through drawing
+• Draw/sketch something casually
+• Practice some basic drawing skills (drawing straight lines, parallel lines, circles, faces, etc)
+
+~~Making a positive impact~~
+Super Simple Draw started as a way to reduce the use of papers because we believe that the current environmental degradation and the climate change are pressing issues that demand urgent actions. Now we took a step further: for every ~2000 lines you draw, we plant a tree through a partnership with Trees for the Future. Learn more at https://trees.theiosapp.com
+
+The more you draw the more trees we can plant together.
+Ratings
+Displayed Avg Ratings
+4.59
+Total Displayed Ratings
+134
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.6.0 (Jun 22, 2023)
+    Do you ever struggle to color inside the lines? Well, guess what? We've got an update that's going to make it so much easier! Now, the canvas has not one, but two layers! It's like having a secret superpower for your artwork. You can draw the outline on the top layer and color on the bottom layer, and the colors will never cover the outline.
+
+    There are other creative ways to use these two layers. Imagine drawing something sneaky on the bottom layer and then surprising everyone by covering it up with a fantastic creation on the top layer. And when you want to reveal the hidden masterpiece, just erase the top layer and let the magic unfold. You can also make it a guessing game.
+
+    Oh, and speaking of erasers, we've made a small improvement. In the past, it would just cover things up with white color, but now it's a true eraser that actually removes the drawings. When you export your image with a transparent background, the erased area becomes transparent too! No more dull white spots messing up your artwork.
+
+    Other updates in recent versions:
+    - Some Apple Pencil compatibility fixes for iPadOS 16.
+
+Version 3.5.0 (Mar 18, 2021)
+    Now you can paste an image and then draw on top of it. With paste & copy, you can (1) paste an image from a document, (2) edit it, (3) copy it back to the document, all without saving it to Photos.
+
+    --- Other recent updates ---
+    * iOS 14 widget support
+    * Draw a shape with filled color (look for the paint brush button).
+    * Export with transparent background
+    * Now your drawings are helping plant trees. Track the number of trees you contributed to in the menu.
+    * Load an image and draw on top of it
+    * Grid and line backgrounds
+    * Better Apple Pencil support (press harder to get a darker tone)
+    * iPadOS multi-window support
+    * More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    * Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    * Supported 2nd generation Apple Pencil double-tap functions
+    * Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    * Apple Pencil only mode.
+Version 3.4.1 (Feb 15, 2021)
+    Fixed a bug in Apple Pencil Only mode.
+    3.4: Updated menu page.
+
+    --- Other recent updates ---
+    * iOS 14 widget support
+    * Draw a shape with filled color (look for the paint brush button).
+    * Export with transparent background
+    * Now your drawings are helping plant trees. Track the number of trees you contributed to in the menu.
+    * Load an image and draw on top of it
+    * Grid and line backgrounds
+    * Better Apple Pencil support (press harder to get a darker tone)
+    * iPadOS multi-window support
+    * More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    * Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    * Supported 2nd generation Apple Pencil double-tap functions
+    * Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    * Apple Pencil only mode.
+Version 3.4.0 (Feb 14, 2021)
+    Minor updates to menu page.
+
+    --- Other recent updates ---
+    * iOS 14 widget support
+    * Draw a shape with filled color (look for the paint brush button).
+    * Export with transparent background
+    * Now your drawings are helping plant trees. Track the number of trees you contributed to in the menu.
+    * Load an image and draw on top of it
+    * Grid and line backgrounds
+    * Better Apple Pencil support (press harder to get a darker tone)
+    * iPadOS multi-window support
+    * More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    * Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    * Supported 2nd generation Apple Pencil double-tap functions
+    * Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    * Apple Pencil only mode.
+Version 3.3.3 (Feb 7, 2021)
+    Minor improvement to copy to pasteboard feature.
+
+    3.3 - iOS 14 Widget support
+
+    --- Other recent updates ---
+    * Draw a shape with filled color (look for the paint brush button).
+    * Export with transparent background
+    * Now your drawings are helping plant trees. Track the number of trees you contributed to in the menu.
+    * Load an image and draw on top of it
+    * Grid and line backgrounds
+    * Better Apple Pencil support (press harder to get a darker tone)
+    * iPadOS multi-window support
+    * More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    * Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    * Supported 2nd generation Apple Pencil double-tap functions
+    * Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    * Apple Pencil only mode.
+Version 3.3.1 (Oct 17, 2020)
+    3.3.0 - iOS 14 Widget support is here! Showcase your favorite drawing or you latest drawing on the home screen, just like you'd hang your physical arts on the wall!
+    3.3.1 - the placeholder widgets looks nicer now.
+
+    --- Other recent updates ---
+    * Draw a shape with filled color (look for the paint brush button).
+    * Export with transparent background
+    * Now your drawings are helping plant trees. Track the number of trees you contributed to in the menu.
+    * Load an image and draw on top of it
+    * Grid and line backgrounds
+    * Better Apple Pencil support (press harder to get a darker tone)
+    * iPadOS multi-window support
+    * More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    * Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    * Supported 2nd generation Apple Pencil double-tap functions
+    * Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    * Apple Pencil only mode.
+Version 3.3.0 (Sep 27, 2020)
+    iOS 14 Widget support is here! Showcase your favorite drawing or you latest drawing on the home screen, just like you'd hang your physical arts on the wall!
+
+    --- Other recent updates ---
+    # Draw a shape with filled color (look for the paint brush button).
+    # Export with transparent backgroundqq
+    # Now your drawings are helping plant trees. Track the number of trees you contributed to in the menu.
+    # Load an image and draw on top of it
+    # Grid and line backgrounds
+    # Better Apple Pencil support (press harder to get a darker tone)
+    # iPadOS multi-window support
+    # More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    # Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    # Supported 2nd generation Apple Pencil double-tap functions
+    # Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    # Apple Pencil only mode.
+Version 3.2.0 (Sep 8, 2020)
+    Draw a shape with filled color (look for the paint brush button).
+
+    --- Other recent updates ---
+    # Export with transparent background
+    # More colors
+    # Now your drawings are helping plant trees. Track the number of trees you contributed to in the menu.
+    # Load an image and draw on top of it
+    # Grid and line backgrounds
+    # Better Apple Pencil support (press harder to get a darker tone)
+    # iPadOS 13 multi-window support
+    # More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    # Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    # When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    # Supported 2nd generation Apple Pencil double-tap functions
+    # Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    # Apple Pencil only mode.
+Version 3.1.1 (Jul 26, 2020)
+    * Now you can export image with transparent background, so you can use Super Simple Draw to create logos, icons, sprites, or anything that overlays on other images.
+
+    --- Other recent updates ---
+    # More colors
+    # Now your drawings are helping plant trees. Track the number of trees you contributed to in the menu.
+    # Load an image and draw on top of it
+    # Grid and line backgrounds
+    # Better Apple Pencil support (press harder to get a darker tone)
+    # iPadOS 13 multi-window support
+    # More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    # Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    # When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    # Supported 2nd generation Apple Pencil double-tap functions
+    # Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    # Apple Pencil only mode.
+Version 3.0.2 (Jul 5, 2020)
+    * More colors available!
+    * Minor optimization for image loading.
+
+    --- Other recent updates ---
+    # Now your drawings are helping plant trees. Track the number of trees you contributed to in the menu.
+    # Load an image and draw on top of it
+    # Grid and line backgrounds
+    # Better Apple Pencil support (press harder to get a darker tone)
+    # iPadOS 13 multi-window support
+    # More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    # Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    # When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    # Supported 2nd generation Apple Pencil double-tap functions
+    # Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    # Apple Pencil only mode.
+Version 3.0.1 (Jun 17, 2020)
+    # Now your drawings are helping the earth! We plant a tree for every ~2000 lines you draw. Track the number of trees you contributed to in the ••• menu.
+    # Load an image and draw on top of it. So you can either annotate on a photo, or continue working on a previous drawing.
+
+    --- Other recent updates ---
+    # Grid and line backgrounds
+    # Better Apple Pencil support (press harder to get a darker tone)
+    # iPadOS 13 multi-window support
+    # More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    # Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    # When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    # Supported 2nd generation Apple Pencil double-tap functions
+    # Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    # Apple Pencil only mode.
+Version 2.9.1 (Mar 25, 2020)
+    Now you can select grid paper or lined paper as the background.
+
+    --- Other recent updates ---
+    # iPadOS 13 multiple window support! Now you keep many drawings open at the same time, e.g. one for art creation, one for planner/todo list, one for brainstorming, etc.
+
+    # More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    # Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    # When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    # Supported 2nd generation Apple Pencil double-tap functions
+    # Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    # Apple Pencil only mode.
+Version 2.8.1 (Feb 24, 2020)
+    An option in the menu to toggle on and off the ability to increase line thickness by long press.
+
+    --- Other recent updates ---
+    # iPadOS 13 multiple window support! Now you keep many drawings open at the same time, e.g. one for art creation, one for planner/todo list, one for brainstorming, etc.
+
+    # More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+    # Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    # When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    # Supported 2nd generation Apple Pencil double-tap functions
+    # Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    # Apple Pencil only mode.
+Version 2.7.0 (Feb 2, 2020)
+    More colors are supported. Just tap on the color that is currently selected, then there will be a list of similar colors.
+
+    --- Other recent updates ---
+    # iPadOS 13 multiple window support! Now you keep many drawings open at the same time, e.g. one for art creation, one for planner/todo list, one for brainstorming, etc.
+
+    # Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    # When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    # Finer color control.
+    # Supported 2nd generation Apple Pencil double-tap functions
+    # Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    # Apple Pencil only mode.
+Version 2.6.5 (Dec 17, 2019)
+    One more bug fix.
+
+    -- Other recent updates --
+    + iPadOS 13 multiple window support! Now you can have 1 window for art, 1 window for taking notes, 1 window for todo list/planner, 1 window for sketching diagrams...
+    + Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    + When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    + Finer color control.
+    + Supported 2nd generation Apple Pencil double tap functions
+    + Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    + Apple Pencil only mode.
+Version 2.6.3 (Dec 14, 2019)
+    Fixed a bug that in some cases the app starts really slowly.
+
+    -- Other recent updates --
+    + iPadOS 13 multiple window support! Now you can have 1 window for art, 1 window for taking notes, 1 window for todo list/planner, 1 window for sketching diagrams...
+    + Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    + When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    + Finer color control.
+    + Supported 2nd generation Apple Pencil double tap functions
+    + Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    + Apple Pencil only mode.
+Version 2.6.1 (Nov 25, 2019)
+    iPadOS 13 multiple window support! Now you can have 1 window for art, 1 window for taking notes, 1 window for todo list/planner, 1 window for sketching diagrams...
+
+    -- Other recent updates --
+    + Save image with a square canvas (optionally with border). Ideal for publishing on Instagram and Sketch A Day
+    + When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    + Finer color control.
+    + Supported 2nd generation Apple Pencil double tap functions
+    + Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    + Apple Pencil only mode.
+Version 2.5.0 (Sep 23, 2019)
+    * Save image with a square canvas. Ideal for publishing on Instagram and Sketch A Day
+    * Optionally add a border while saving
+
+    -- Other recent updates --
+    + When drawings are saved, they are saved into an album named SuperSimpleDraw.
+    + Finer color control.
+    + Supported 2nd generation Apple Pencil double tap functions
+    + Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    + Apple Pencil only mode.
+Version 2.4.0 (Sep 2, 2019)
+    • When drawings are saved, they are saved into an album named SuperSimpleDraw.
+
+    Other recent updates:
+    • Finer color control.
+    • Supported 2nd generation Apple Pencil double tap functions
+    • Supported the new iPad Pro, and iPhone XS/XS Max/XR.
+    • Apple Pencil only mode.
+Version 2.2.4 (Dec 11, 2018)
+    Fixed a bug that occasionally the buttons overlaps iOS status bar.
+    -- Other recent updates --
+    - 2nd generation Apple Pencil support with double tap functions
+    - Support the new iPad Pro, and iPhone XS/XS Max/XR.
+    - Apple Pencil only mode.
+    - A slider for brush width adjustment.
+Version 2.2.3 (Dec 3, 2018)
+    * Some changes under the hood
+    --Other recent updates--
+    * Supported the new iPad Pro and iPhone XS/XS Max/XR.
+    * Apple Pencil only mode
+    * A slider for brush width adjustment.
+Version 2.2.2 (Nov 13, 2018)
+    * Fixed the double tap support for the 2nd Generation Apple Pencil and the 3rd Generation iPad Pro.
+    --Other recent updates--
+    * A slider for brush width adjustment.
+    * Apple Pencil only mode.
+    * Supported the new iPad Pro and iPhone XS/XS Max/XR.
+Version 2.2.0 (Nov 10, 2018)
+    • Now you can turn on Apple Pencil only mode in the menu - ideal for 3rd generation iPad with 2nd generation Apple Pencil because the Apple Pencil is always charged
+    • Minor tweak for Apple Pencil double tap behavior
+    • Recent updates: 2nd generation Apple Pencil support, 3rd generation iPad + iPhone XS/XS Max support, more colors and brush sizes
+Version 2.1.0 (Nov 3, 2018)
+    * 2018 iPad Pro support
+    * 2nd generation Apple Pencil support - double tap the switch to toggle eraser, color, or show default color palette.
+    Happy drawing on the latest and greatest iPads \{'o'}/
+Version 2.0.2 (Oct 11, 2018)
+    - Supporting drawings with more strokes
+    - Other recent updates: more colors and brush sizes, better Apple Pencil support
+Version 2.0.0 (Oct 4, 2018)
+    • New UI. More colors and more pen sizes.
+    • Easier color control with Apple Pencil.
+    • Ability to submit drawing to Instagram gallery.
+    • Lots of under the hood optimizations.
+Version 1.2.0 (Jul 24, 2018)
+    - Standard iOS share button: save, copy or share to other messaging or social apps.
+    - Other recent updates: Apple Pencil support improvement, undo/redo.
+Version 1.1.3 (Jul 11, 2018)
+    • Improved Apple Pencil support: avoid accidental marks made by finger or wrist
+    • Fixed a bug that after rotation the top of the image might get cut off
+    • Fixed a crasher on iOS 10
+Version 1.1.2 (Jul 7, 2018)
+
+Users may also like
+Select objects to compare
+Inkle Visualizer
+Graph Paper Gen
+SiteOwl Design
+Action Tasks - To Do List
+Aida Wake-Up Alarm
+Turn Touch
+ECUList
+LinkList - Quickly open URL
+mindlib (Mindmap, Notizen)
+Budgerigar
+IQ Classifications
+Genre: Graphic & Design
+Subgenre: Painting
+Painting
+Apps where canvas and brushes are provided for users to create paintings and graphics.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.6.0
+    Current release
+    Jun 22, 2023
+    3.5.0
+    Mar 18, 2021
+    3.4.1
+    Feb 15, 2021
+    3.4.0
+    Feb 14, 2021
+    3.3.3
+    Feb 7, 2021
+    3.3.1
+    Oct 17, 2020
+    3.3.0
+    Sep 27, 2020
+    3.2.0
+    Sep 8, 2020
+    3.1.1
+    Jul 26, 2020
+    3.0.2
+    Jul 5, 2020
+    3.0.1
+    Jun 17, 2020
+    2.9.1
+    Mar 25, 2020
+    2.8.1
+    Feb 24, 2020
+    2.7.0
+    Feb 2, 2020
+    2.6.5
+    Dec 17, 2019
+    2.6.3
+    Dec 14, 2019
+    2.6.1
+    Nov 25, 2019
+    2.5.0
+    Sep 23, 2019
+    2.4.0
+    Sep 2, 2019
+    2.2.4
+    Dec 11, 2018
+    2.2.3
+    Dec 3, 2018
+    2.2.2
+    Nov 13, 2018
+    2.2.0
+    Nov 10, 2018
+    2.1.0
+    Nov 3, 2018
+    2.0.2
+    Oct 11, 2018
+    2.0.0
+    Oct 4, 2018
+    1.2.0
+    Jul 24, 2018
+    1.1.3
+    Jul 11, 2018
+    1.1.2
+    Jul 7, 2018
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jul 7, 2018
+
+Worldwide Release Date
+    Jul 15, 2018
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    3.6.0
+
+Size
+    1.52 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Bao Lei
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.baolei.drawAdFree
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 1407164466
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Super Simple Draw Premium | data.ai

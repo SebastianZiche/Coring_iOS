@@ -1,0 +1,37 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.91,2022-02-20,small upgrades,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.9,2021-12-28,Fix issues with trailers Less ads for more TV shows,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.7,2021-06-07,App Tracking Transparency framework permission request for iOS 14.5 only,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.6,2021-02-04,Shows in dark mode are prettier,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.5,2020-07-27,Improvement in app navigation,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.4,2020-07-25,Improvement when load new shows Upgrade to swift 5,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.3,2020-06-04,Improvements More shows,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.2,2019-11-20,Beautiful new Dark mode Many many bug fixes Plenty of shows,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.1,2019-03-16,Minor improvements,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,4.0,2019-02-24,A new design for Springtime with rounded episode pictures and less ads,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.9,2019-02-07,Fix an issue on the profile photo More Tv Shows,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.8,2019-01-04,Fix issue on the button to get iTunes Show,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.7,2018-10-24,Optimization for iOS 12 More TV Shows and Episodes,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.6,2018-04-23,Fix issue on user photo Less ads,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.5,2018-04-18,It is springtime: we deliver a massive refresh for your favorite TV Shows app,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.4,2018-03-01,Bug fixes and performance improvements,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.3,2017-11-27,Watch your shows on a bigger screen with optimisation for iPhone X,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.2,2017-09-29,Terms of Service added Bug fixing on popular tv shows lists,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.1,2017-04-26,Bug fixes on TV shows next date notifications,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,3.0,2017-04-03,Showflix 3.0 has a brand new interface. It is even better than Stremio! You can now log and chat with binge friends. You can search for series from everywhere in the app.,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.9,2017-01-09,The episode images are back bug fixed !,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.8,2016-12-29,Fixed an issue on Subtitles and secret trivia,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.7,2016-12-15,Trailers can be muted and skipped forward by swiping on the first screen Bug fixing,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.6,2016-12-13,Trailers are now directly displayed on the first screen,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.5,2016-12-04,Performance improvements for serie,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.4,2016-11-29,Better series search experience,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.3,2016-11-09,Subtitles fixed in TV Shows episodes,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.2,2016-11-05,Performance optimization,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.1,2016-10-30,Optimisation for iOS 10,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,2.0,2016-08-13,Chat with a whole TV Show fans community Connect with friends that share the same shows,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,1.5,2016-07-15,Support for Spanish Support for Italian Now you can swipe quicker the shows in Coming Soon,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,1.4,2016-07-05,Now with the trending shows Performance optimisation,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,1.3,2016-06-21,Schedule of the coming shows and episodes,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,1.2,2016-05-31,Trivia Secrets activated Performance improvements,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,1.1,2016-05-13,Now you can buy TV Shows directly inside the app using your iTunes Account Support for French Performance improvments,0,0,0,0,0,0,0,0
+1099086261,0,ShowFlix TV Shows,Entertainment,2016-04-27,2016-04-27,25.42,4,0,0,0,1.0,2016-04-27,,0,0,0,0,0,0,0,0

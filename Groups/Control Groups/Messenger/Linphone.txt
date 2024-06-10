@@ -1,0 +1,826 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Linphone
+Belledonne communicationsSocial Networking (Applications)Free
+Alerts
+
+Linphone
+Linphone
+Linphone
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Linphone
+Social Networking (Applications)
+Free
+App Description
+Linphone is an open source app offering free audio/video calls and text messaging. With Linphone, you can be reachable at any time, even if the app is closed, with a WiFi or 3G/4G internet connection.
+
+Linphone key features:
+* High definition audio and video calls
+* Audio conference calls with various participants
+* Pictures and file sharing
+* Linphone accounts reachable at any time, even if the app is closed (thanks to push notifications)
+* Smart contact list to know whom among your friend is reachable thanks to Linphone
+* Secure communication (encryption options)
+* Compliant with a large number of SIP-compatible VoIP service providers allowing to reach everyone that has a "classic" phone line
+* Group chat now available:
+- Multi-participant groups
+- Multi-device support
+- Intuitive message delivery status
+- Easy management of participants and admins
+
+Warning:
+* Since IOS10, SIP connections in background are no longer allowed. Therefore, only Linphone accounts (sip.linphone.org accounts) can receive calls when the app is closed, thanks to push notifications integrated within our server.
+* Group chat features only available for Linphone accounts (sip.linphone.org accounts).
+
+Linphone is available on the main mobile and desktop operating systems and offers various specific features for advanced users (codecs, transport standard, encryption options, DTMF...). For more information, see Linphone project website: www.linphone.org
+
+Note for developers and professionals:
+Linphone can be rebranded and customized to meet specific needs. Contact Belledonne Communications www.belledonne-communications.com for any specific development query.
+Ratings
+Displayed Avg Ratings
+2.65
+Total Displayed Ratings
+576
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.2.2 (Feb 19, 2024)
+    ## [5.2.2] - 2023-28-12
+    ### Added
+    - Log sending option will now give a link to download the logs, rather than send the whole log file
+    - Taping a notification when app is started now properly opens the conversation
+    - Open call history when taping a missed call notification
+
+    ### Changed
+    - Update linphone SDK to 5.3.20
+
+    ### Fixed
+    - Fix replying to images not displaying the image preview in the reply window
+    - Various UI fixes in chatrooms
+Version 5.2.1 (Dec 28, 2023)
+    ## [5.2.0] - 2023-28-12
+    ### Added
+    - Added extra Czech and Japanese translations
+
+    ### Changed
+    - Update linphone SDK to 5.3.4
+
+    ### Fixed
+    - Re-enabled the G729 audio codec
+Version 5.2.0 (Dec 22, 2023)
+    ## [5.2.0] - 2023-21-12
+    ### Added
+    - Chat messages emoji "reactions"
+    - Hardware video codecs (H264, H265) are now used in priority when possible (SDK)
+
+    ### Changed
+    - Minimum iOS version is now 13
+    - Update linphone SDK to 5.3.1
+
+    ### Fixed
+    - Several crashes in chat conversation when receiving files
+    - Various UI fixes in conference views
+    - Fix crash upon refreshing register
+Version 5.1.1 (Sep 20, 2023)
+    #Changed
+    Update linphone SDK to 5.2.106
+
+    #Fixed
+    - Fix bug that could prevent the creation or logging in of a linphone account using a phone number
+    - Fix UI bug on dark mode when using multiple accounts simultaneously
+    - Fix bug with presence when using a phone number account
+    - Fix bug that would prevent the reception of push notificatins and call after receiving a first push in background
+Version 5.1.0 (Aug 22, 2023)
+    ### Added
+    - In contacts and chat conversations view, show short term presence for contacts whom publish it + added setting to disable it (enabled by default for sip.linphone.org accounts)
+    - Advanced settings - option to prevent the taking of screenshot
+    - Emoji picker in chat conversations
+    - Add Organization label to contacts, and the possibility to filter through it
+    - Possibility to make an attended transfer from one call to another
+    - Contact names, phone numbers and sip addresses are now copyable through with long press action
+
+    ### Changed
+    - Switched Account Creator backend from XMLRPC to FlexiAPI, it now requires to be able to receive a push notification
+    - Chat conversation view (one-to-one and group) completely remade with Swift, with various quality of life improvements.
+    - Minimum iOS version is now 11.2
+    - Update linphone SDK to 5.2.96
+
+    ### Fixed
+    - Several crashes in the chat conversation view and background mode
+    - Url scheme handler : can now properly do a remote configuration when opening a linphone-config:URL from another app
+    - Bug that could cause push notification to stop working after killing the app manually
+Version 5.0.2 (Mar 15, 2023)
+    ### Changed
+    - Update linphone SDK to 5.2.29
+
+    ### Fixed
+    - Performance issue causing a global slowing of the app, especially at launch
+    - Fix several memory leaks and crashes
+Version 5.0.1 (Jan 13, 2023)
+    ### Changed
+    - Update linphone SDK to 5.2.11
+
+    ### Fixed
+    - Makes sure sip.linphone.org accounts have a LIME X3DH server URL for E2E chat messages encryption
+    - Fix potential crash when displaying images received in a chatroom
+    - Fix bug that would cause the previous call to be terminated when resuming another call that was paused
+    - Fix participant video display in conferences when a second participant joined with video enabled
+Version 5.0.0 (Dec 7, 2022)
+    ### Added
+    - Post Quantum encryption when using ZRTP
+    - Conference creation with scheduling, video, different layouts, showing who is speaking and who is muted, etc...
+    - Group calls directly from group chat rooms
+    - Chat rooms can be individually muted (no notification when receiving a chat message)
+    - Outgoing call video in early-media if requested by callee
+    - Call recordings can be exported
+    - Setting to prevent international prefix from account to be applied to call & chat
+    - Add a "Never ask again" option to the "Link my account" pop-up when starting the app
+
+    ### Changed
+    - In-call views have been re-designed
+    - Improved how contact avatars are generated
+    - 3-dots menu even for basic chat rooms with more options
+    - Update linphone SDK to 5.2.0
+
+    ### Fixed
+    - Chatroom appearing as empty when being logged on multiple accounts
+    - Chatroom appearing as empty after playing a video file inside it
+    - Fix potential crash when entering a chatroom
+    - Fix potential crash when accessing to the delivery infos of a message in a group chat.
+    - IMDN logo not properly displayed when transfering or replying to a message with media (voice message, photo...)
+    - Clarified view when sending an image from the galery
+    - Various audio route fixes for CallKit and IOS 16
+Version 5.0.0 (Dec 7, 2022)
+    ### Added
+    - Post Quantum encryption when using ZRTP
+    - Conference creation with scheduling, video, different layouts, showing who is speaking and who is muted, etc...
+    - Group calls directly from group chat rooms
+    - Chat rooms can be individually muted (no notification when receiving a chat message)
+    - Outgoing call video in early-media if requested by callee
+    - Call recordings can be exported
+    - Setting to prevent international prefix from account to be applied to call & chat
+    - Add a "Never ask again" option to the "Link my account" pop-up when starting the app
+
+    ### Changed
+    - In-call views have been re-designed
+    - Improved how contact avatars are generated
+    - 3-dots menu even for basic chat rooms with more options
+    - Update linphone SDK to 5.2.0
+
+    ### Fixed
+    - Chatroom appearing as empty when being logged on multiple accounts
+    - Chatroom appearing as empty after playing a video file inside it
+    - Fix potential crash when entering a chatroom
+    - Fix potential crash when accessing to the delivery infos of a message in a group chat.
+    - IMDN logo not properly displayed when transfering or replying to a message with media (voice message, photo...)
+    - Clarified view when sending an image from the galery
+    - Various audio route fixes for CallKit and IOS 16
+Version 4.6.8 (Oct 28, 2022)
+    ### Fixed
+    - Fixed bug that would make audio messages unplayable on iOS 16
+
+
+    ### Changed
+    - Update linphone SDK to 5.1.67
+Version 4.6.7 (Sep 21, 2022)
+    ### Changed
+    - Update linphone SDK to 5.1.62
+Version 4.6.6 (Sep 2, 2022)
+    ### Changed
+    - Update linphone SDK to 5.1.57
+
+    ### Fixed
+    - Fix bug that could cause video quality to be worse than it should
+    - Fix possible crash when receiving an incoming call
+    - Fix crash when no account is marked as being the "default" one
+    - Various fixes in Contacts view and LDAP search
+Version 4.6.5 (Jul 1, 2022)
+    ### Changed
+    - Update linphone SDK to 5.1.46
+
+    ### Fixed
+    - Application GUI would sometimes break after a failed remote provisioning
+    - Various fixes in Contacts view and LDAP search
+    - Fix possible crash when entering background
+Version 4.6.4 (Jun 9, 2022)
+    ### Changed
+    - Update linphone SDK to 5.1.42
+
+    ### Fixed
+    - Potential crash when searching for contacts while creating a new chatroom
+Version 4.6.3 (Jun 3, 2022)
+    ### Added
+    - New "Contacts" menu in the settings, which allows the use of LDAP configurations
+    - Using new MagicSearch API to improve contacts list performances, and search contacts using LDAP if appropriate
+
+    ### Changed
+    - Update linphone SDK to 5.1.41
+
+    ### Fixed
+    - Prevent read-only 1-1 chat room
+    - Small quality of life fixes for voice recording messages
+Version 4.6.2 (Mar 11, 2022)
+    ### Fixed
+    - Bug preventing the activation of the phone speaker during calls
+    - Bug with "reply" feature in chatrooms
+    - Bug causing IMDNs to be missing in some chatrooms
+    - Update linphone SDK to 5.1.7
+Version 4.6.1 (Feb 14, 2022)
+    - Fix duplicate popup for push on install
+    - Fix crash of ChatInfoView after entering the background/foreground
+    - Fix sending multipart messages in basic chat rooms
+    - Fix conference pause/resume
+    - Fix some UI errors
+Version 4.6.0 (Feb 9, 2022)
+    - ephemeral chat messages
+    - reply & transfert features for chat message
+    - send voice recording as chat message
+    - Updated linphone SDK to 5.1
+Version 4.5.1 (Nov 10, 2021)
+    - Show a dialog to request the user to grant the local network permission, which is required for ICE to operate correctly.
+    - Improve IMDNs performance in chatrooms
+    - Crash when going into the account link menu with no account configured
+    - Crash that could occur when resuming a paused call
+    - Fixed bug that could make push notification stop working when upgrading an older linphone to 4.5.0
+Version 4.5.0 (Jul 9, 2021)
+    - Upgrade to Linphone SDK version 5.0.0
+    - Add option to enable VFS
+    - Ephemeral messages (beta)
+    - Fix several memory leaks
+    - Various crashs and issues.
+Version 4.4.2 (May 19, 2021)
+    - fix some memory leak
+    - fix some bugs
+Version 4.4.1 (May 5, 2021)
+    - update sdk
+    - some fixes
+Version 4.4.0 (Apr 1, 2021)
+    This Linphone release brings major improvements, such as:
+    - automatic handling of some Operating System behaviours
+    - new audio routes API to choose which device to use to capture/play audio
+    - Dark mode
+    - updated privacy policy and general terms
+    - Fiix of some bugs
+Version 4.3.2 (Oct 6, 2020)
+    This version fixes the problem of chat messages.
+Version 4.3.1 (Jul 8, 2020)
+    This version adds the Hungarian translation and fixes the problem of incoming calls.
+Version 4.3.0 (Jun 25, 2020)
+    This version implements the new push notifications mechanisms required by Apple with iOS13. The following modifications have been performed in the Linphone app and change the way incoming calls and messages are notified to the user, when the application is not active in the foreground:
+    - use of PushKit notifications for incoming calls only
+    - changes in the app CallKit integration
+    - development of an app extension dedicated notifications management for incoming messages
+Version 4.2.2 (Mar 3, 2020)
+    This new release of Linphone brings the following improvements:
+    - bug fixes
+Version 4.2.1 (Jan 15, 2020)
+    This new release of Linphone brings the following improvements:
+    - bug fixes
+    - support for 32-bits devices
+Version 4.2 (Dec 10, 2019)
+    This new release of Linphone brings the following improvements:
+    - the overall app performances have been improved to reduce startup time. This will ensure that incoming calls are more timely and reliably notified, even when the app is in the background or closed (requires a sip.linphone.org Linphone account)
+    - the size of the app has significantly been reduced
+    - SHA256 cryptographic hash algorithm has been implemented, for secured authentication of users’ passwords
+    - bug fixes
+Version 4.1 (May 3, 2019)
+    Linphone 4.1 new features :
+    - end-to-end encryption for one-to-one and group instant messages
+    - Video H.265 codec support, based on android MediaCodec
+    - Button to invite contacts to use Linphone by sending them a SMS
+    - Possibility to record calls (audio only), and replay them from the "Recordings" menu
+    - Remote provisioning from a QR-code providing the http(s) url of a provisioning server
+    - Enhanced call and IM notifications
+    - Possibility to send multiple attachments at the same time
+Version 4.0.3 (Nov 14, 2018)
+    -fix "Helium voice" issue on some devices
+Version 4.0.2 (Oct 17, 2018)
+    Bug fixes for IOS12 and bluetooth
+Version 4.0.1 (Jun 28, 2018)
+    - Fix TURN
+    - Start video stream on first call
+    - Fix audio unit management in case of call time out
+    - Fix registration issue with some SIP services (ie: Asterix)
+Version 4.0 (Jun 12, 2018)
+    Group chat now available:
+    - Multi-participant groups
+    - Multi-device support
+    - Intuitive message delivery status
+    - Easy management of participants and admins
+
+    Warning: group chat features only available for Linphone accounts (sip.linphone.org accounts).
+Version 3.16.5 (Jan 2, 2018)
+    CNContact Framework implemented, IOS 11 and Iphone X support and multiples bug fixes
+Version 3.16.4 (May 9, 2017)
+    Major bug fix - crash on launch with specific configuration
+Version 3.16.3 (May 3, 2017)
+    - Chat message behavior optimized
+    - Chat delivery and read states implemented
+    - Minor bugs fix
+    - Perfomances updated
+Version 3.16.2 (Mar 3, 2017)
+    - Link to GPLv2 licence and Linphone privacy policy in About View.
+    - Optimization of Contact Lists
+    - Bug fixes
+Version 3.16.1 (Jan 11, 2017)
+    CallKit support :
+    * You can now Answer call directly from the lockscreen without needing to unlock your phone.
+    * Linphone calls are now treated with the same priority as GSM call. You can now use the double call screen between a Linphone call and a GSM call.
+    * CallKit allows you to answer a Linphone call directly from a bluetooth device.
+Version 3.15.1 (Dec 1, 2016)
+    bug fixes
+Version 3.15 (Nov 10, 2016)
+    * Smart Contact List :
+    In this version, Linphone imports your contacts’ phone numbers from your phone’s address book and automatically tag Linphone users with a Linphone icon. You can filter Linphone users to quickly and clearly see which of your friends are using Linphone.
+    Communicate easily with your friends thanks to this up-to-date list of your Linphone contacts !
+
+    * Updated account manager :
+    Account creation and authentication processes have been reviewed to create new accounts or linked existing accounts with phone numbers. Phone numbers are verified through a 4-digit validation code sent by SMS.
+Version 3.13 (Jun 16, 2016)
+    ### Added
+    - Added "Forgot your password?" link in Linphone account assistant
+    - [Full IPv6 support to comply Apple requirements]
+    - Hardware accelerated H264 codec
+    - Full video HD support for newest devices (iPhone 6, iPhone SE, etc.)
+
+    ### Changed
+    - Enable Neon intrinsics optimizations for speex resampler (ENABLE_ARM_NEON_INTRINSICS)
+    - Push notifications are now configurable per account
+    - Update to latest OpenH264 version to fix issue with Xcode 7.3 and arm64 devices [openh264 issue 2434]
+    - Default transport reset to "UDP" for external accounts in assistant since most providers only support that
+    - Removed deprecated polarssl submodule, using mbedtls instead
+
+    ### Fixed
+    - Fix invalid photo rotation when using Camera for avatars
+    - Fix self avatar save when using camera
+    - Parse user input as SIP address or phone number depending on default account settings: if "substitute + by country code" is set,
+    consider inputs to be phone numbers, otherwise SIP addresses.
+    - Automatically start call when answering from within notification in iOS9+
+    - Contact details view is now scrollable to fix issue on small screens
+    - Unregister accounts in case of application shutdown when remote push notifications are not enabled
+    - Reregister accounts in case of WiFi change
+Version 3.12 (Feb 24, 2016)
+    Rework remote push notifications
+Version 3.11 (Feb 15, 2016)
+    We heard you folks, here's the bug fix wagon:
+    Fix bug: remove “invalid length” error in assistant
+    Fix bug: remove comma from user-agent
+    Fix bug: properly display pad in call which was cropped on small screens
+    Fix bug: update application badge count when answering within notification
+    Fix bug: apply custom transport in assistant
+    Fix crash: iOS6 and 7 devices should not crash anymore.
+    Update About view
+    Update translations
+Version 3.10 (Feb 1, 2016)
+    New material design UI
+Version 2.4 (Oct 26, 2015)
+    - iOS9 support
+    - various bugs fix
+Version 2.3 (Aug 13, 2015)
+    - New file transfer with multiple download / upload simultaneously
+    - Bug fixes
+Version 2.2.5 (Mar 18, 2015)
+    Added DTLS encryption.
+    Fix crash when sliding a chat notification.
+    Add a button to clear the proxy configuration.
+    Some enhancements in the Contacts view for accessibility and sorting.
+Version 2.2.4 (Jan 26, 2015)
+    Lots of changes for this version, brace yourselves:
+    - iPhone 6/6+ are now supported at full resolution
+    - Improved translations and a new language (Arabic) with support of RTL UI
+    - Lots of polish for iOS8 render
+    - The app is now built with arm64
+    - New "Send logs" action for problems debugging
+    - There is now a search bar in the contact list
+    - You can configure a voicemail address to call when long press on "1"
+    - Lots of bugfixes
+Version 2.2.3 (Oct 22, 2014)
+    New release for iOS8 support!
+
+    - Fix crashes and visual glitches in iOS8
+    - Added interactive local notifications for calls and messages
+    - Speed up Opus codec with assembly optimisations
+Version 2.2.2 (Sep 15, 2014)
+    You now have the possibility to specify the UserID for the SIP account.
+
+    Bugfixes:
+
+    - settings migration from older versions are handled better
+
+    - RTCP-XR support for linphone.org-based accounts
+
+    - Automatic video accept is now disabled when only auto-send is checked.
+Version 2.2.1 (Jul 11, 2014)
+    Hot bugfix for message migration problem.
+
+
+
+    New features from 2.2:
+
+    * ZRTP encryption support
+
+    * AVPF support (better network resilience for video)
+
+    * VP8 performance enhancements on both mono- and multi-core
+
+    * Remote XML provisioning
+
+    * Links support and typing indicator in Chat
+
+    * Support for silent pushes on iOS7
+
+    * Bluetooth support with all codecs
+
+    * Other cosmetics and general bugfixes
+Version 2.2 (Jul 10, 2014)
+    * ZRTP encryption support
+    * AVPF support (better network resilience for video)
+    * VP8 performance enhancements on both mono- and multi-core
+    * Remote XML provisioning
+    * Links support and typing indicator in Chat
+    * Support for silent pushes on iOS7
+    * Bluetooth support with all codecs
+    * Other cosmetics and general bugfixes
+Version 2.1.2 (Nov 22, 2013)
+    - Fixed VP8 video quality issue
+    - Better video bitrate handling, should enhance video quality on bumpy networks
+    - Fixed audio ring sometimes not stopping (iOS7)
+    - Fixed some graphical glitches
+    - Exotic characters are now removed from username when creating a new account.
+Version 2.1 (Oct 28, 2013)
+    -iOS7 binaries
+    -New HD Codecs (OPUS and AAC-ELD)
+    -Re-enabled secure connections (TLS, SRTP)
+    -Graphical fixes
+Version 2.0.4 (Apr 26, 2013)
+    -fix video display rotation
+Version 2.0.3 (Apr 9, 2013)
+    - Bluetooth headset support
+
+    - Russian translation added
+
+    - Fix issue with wrong IOUnit category being used causing a no audio issue
+
+    - Fix video decline on iPad
+
+    - Possibility to go to the history from a missed call notification
+
+    - Support PLC for iLBC codec
+
+    - Various bug fixes
+Version 2.0.2 (Jan 17, 2013)
+    - Disabled H.264 and Mpeg4 video codecs.
+    - Activated ICE for sip.linphone.org accounts.
+    - Various bug fixes.
+Version 2.0.1 (Dec 8, 2012)
+    Add preferences
+
+    Fix bugs
+
+    Improve interface
+Version 2.0 (Oct 31, 2012)
+    -New rich user interface with curved style for both iPhone and iPad
+    -Better internationalization (French language support added)
+    -Rich call history
+    -Rich contact integration: allows to add/retrieve SIP contacts
+    -New text and photos messaging (chat) tab, with delivery --status notification.
+    -Account creation assistant
+    -Integrated (in-app) settings
+    -Use of push notification (requires compatible SIP server) for more reliable incoming call or chat notification
+    -Display of advanced call statistics
+    -Integrated ICE support (RFC5246) to allow peer to peer audio & video connections without media relay server.
+    -Low bandwidth mode: make audio calls over EDGE
+Version 1.3 (Jun 14, 2012)
+    Video controls enhancement
+
+    History enhancement
+Version 1.1.1 (Jan 31, 2012)
+    IPAD optimization
+Version 1.1 (Dec 3, 2011)
+    -Video
+    -Multi call
+    -Conferencing
+    -SILK speech codec
+Version 1.0.7 (Sep 16, 2011)
+    -bug fixes
+Version 1.0.6 (Jun 30, 2011)
+    bug fixes
+Version 1.0.5 (May 4, 2011)
+    bug fixes
+Version 1.0.4 (Apr 14, 2011)
+    bug fixes, IOS4.3
+Version 1.0.3 (Oct 15, 2010)
+    -multi task
+    -sip tcp
+
+Version 1.0.2 (Jun 3, 2010)
+    -new dialer buttons
+
+    -new application banner
+
+    -fix outgoing call for non ASCII display name (I.E accent)
+Version 1.0.1 (May 18, 2010)
+    bug fix:Enhanced application behavior if no sip proxy configured
+Version 1.0 (May 11, 2010)
+
+Users may also like
+Select objects to compare
+SessionTalk SIP Softphone
+PortSIP Softphone
+Grandstream Wave
+Acrobits Softphone
+MobileVOIP international calls
+Nextcloud Talk
+Monal - XMPP chat
+Jami
+Siskin IM
+ChatSecure Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.2.2
+    Current release
+    Feb 19, 2024
+    5.2.1
+    Dec 28, 2023
+    5.2.0
+    Dec 22, 2023
+    5.1.1
+    Sep 20, 2023
+    5.1.0
+    Aug 22, 2023
+    5.0.2
+    Mar 15, 2023
+    5.0.1
+    Jan 13, 2023
+    5.0.0
+    Dec 7, 2022
+    5.0.0
+    Dec 7, 2022
+    4.6.8
+    Oct 28, 2022
+    4.6.7
+    Sep 21, 2022
+    4.6.6
+    Sep 2, 2022
+    4.6.5
+    Jul 1, 2022
+    4.6.4
+    Jun 9, 2022
+    4.6.3
+    Jun 3, 2022
+    4.6.2
+    Mar 11, 2022
+    4.6.1
+    Feb 14, 2022
+    4.6.0
+    Feb 9, 2022
+    4.5.1
+    Nov 10, 2021
+    4.5.0
+    Jul 9, 2021
+    4.4.2
+    May 19, 2021
+    4.4.1
+    May 5, 2021
+    4.4.0
+    Apr 1, 2021
+    4.3.2
+    Oct 6, 2020
+    4.3.1
+    Jul 8, 2020
+    4.3.0
+    Jun 25, 2020
+    4.2.2
+    Mar 3, 2020
+    4.2.1
+    Jan 15, 2020
+    4.2
+    Dec 10, 2019
+    4.1
+    May 3, 2019
+    4.0.3
+    Nov 14, 2018
+    4.0.2
+    Oct 17, 2018
+    4.0.1
+    Jun 28, 2018
+    4.0
+    Jun 12, 2018
+    3.16.5
+    Jan 2, 2018
+    3.16.4
+    May 9, 2017
+    3.16.3
+    May 3, 2017
+    3.16.2
+    Mar 3, 2017
+    3.16.1
+    Jan 11, 2017
+    3.15.1
+    Dec 1, 2016
+    3.15
+    Nov 10, 2016
+    3.13
+    Jun 16, 2016
+    3.12
+    Feb 24, 2016
+    3.11
+    Feb 15, 2016
+    3.10
+    Feb 1, 2016
+    2.4
+    Oct 26, 2015
+    2.3
+    Aug 13, 2015
+    2.2.5
+    Mar 18, 2015
+    2.2.4
+    Jan 26, 2015
+    2.2.3
+    Oct 22, 2014
+    2.2.2
+    Sep 15, 2014
+    2.2.1
+    Jul 11, 2014
+    2.2
+    Jul 10, 2014
+    2.1.2
+    Nov 22, 2013
+    2.1
+    Oct 28, 2013
+    2.0.4
+    Apr 26, 2013
+    2.0.3
+    Apr 9, 2013
+    2.0.2
+    Jan 17, 2013
+    2.0.1
+    Dec 8, 2012
+    2.0
+    Oct 31, 2012
+    1.3
+    Jun 14, 2012
+    1.1.1
+    Jan 31, 2012
+    1.1
+    Dec 3, 2011
+    1.0.7
+    Sep 16, 2011
+    1.0.6
+    Jun 30, 2011
+    1.0.5
+    May 4, 2011
+    1.0.4
+    Apr 14, 2011
+    1.0.3
+    Oct 15, 2010
+    1.0.2
+    Jun 3, 2010
+    1.0.1
+    May 18, 2010
+    1.0
+    May 11, 2010
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    May 11, 2010
+
+Worldwide Release Date
+    May 11, 2010
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    5.2.2
+
+Size
+    88.28 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Czech, Dutch, French, Georgian, German, Hungarian, Italian, Japanese, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese, Turkish, Ukrainian
+
+Seller
+    Belledonne communications
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    org.linphone.phone
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 360065638
+Unified App ID: 1000800000178481
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Linphone | data.ai

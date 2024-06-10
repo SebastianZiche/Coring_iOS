@@ -1,0 +1,5 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1577135216,0,TrustCentral Secure Messenger,Social Networking,2022-04-28,2022-04-28,124.94,1,0,0,0,1.0.6,2022-11-07,Increased speed of sending and receiving messages. Added support for Touch ID or Face ID for app access. Application stability improvements and bug fixes.
+1577135216,0,TrustCentral Secure Messenger,Social Networking,2022-04-28,2022-04-28,124.94,1,0,0,0,1.0.5,2022-08-21,Bug fixes.
+1577135216,0,TrustCentral Secure Messenger,Social Networking,2022-04-28,2022-04-28,124.94,1,0,0,0,1.0.4,2022-07-28,Improved invitation flow App reset to erase all identities and relationships Bug fixes and improvements
+1577135216,0,TrustCentral Secure Messenger,Social Networking,2022-04-28,2022-04-28,124.94,1,0,0,0,1.0.0,2022-04-28,

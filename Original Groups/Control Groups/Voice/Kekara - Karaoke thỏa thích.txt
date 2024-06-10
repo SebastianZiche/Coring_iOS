@@ -1,0 +1,400 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Kekara - Karaoke thỏa thích
+KekaraEntertainment (Applications)Free
+Alerts
+
+Kekara - Karaoke Thỏa Thích
+Kekara - Karaoke thỏa thích
+Kekara - Karaoke thỏa thích
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Kekara - Karaoke thỏa thích
+Entertainment (Applications)
+Free
+App Description
+Kekara - ứng dụng karaoke hoàn toàn miễn phí dành cho điện thoại và smart-tv
+
+- Kekara là ứng dụng karaoke hoàn toàn miễn phí dành cho gia đình và bạn bè. Với kho bài hát vô tận và liên tục được cập nhật từ youtube, từ đây các bạn có thể thoải mái cùng với gia đình mình tận hưởng những giây phút karaoke bên nhau thật tuyệt vời.
+
+- Bằng cách cài đặt ứng dụng Kekara lên TV có kết nối internet, bạn có thể điều khiển và chọn bài, ưu tiên hát từ điện thoại của mình trên TV, giống như bạn đang ở phòng karaoke chuyên nghiệp ngay tại nhà mình.
+
+* Tính năng nổi bật của Kekara:
+- Giao diện gần gũi thân thiện
+- Lưu lại danh sách bài hát yêu thích
+- Kết nối loa bluetooth để hát karaoke
+- Điều khiển Kekara trên smart-tv bằng điện thoại của bạn
+- Cho phép hát và nghe trực tiếp từ heaphone
+- Thu âm bài hát
+- Hát song ca
+- Hát live trong phòng hát Karaoke
+- Tải bài hát, hát offline
+- Tạo album
+- Chia sẻ bài hát thu âm với bạn bè
+
+* Hỗ trợ nhiều ngôn ngữ
+- Tiếng Việt
+- Tiếng Anh
+- Tiếng Nhật
+- Tiếng Trung
+
+Chúng tôi sẽ liên tục cập nhật thêm nhiều tính năng mới. Chúng tôi chân thành cảm ơn những lời góp ý hoặc yêu cầu thêm tính năng của các bạn bằng cách vào menu "Ý kiến phản hồi" trong Kekara nhé.
+Ratings
+Displayed Avg Ratings
+4.22
+Total Displayed Ratings
+196
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.0.1 (Feb 7, 2024)
+    Phiên bản 3.0.1 với nhiều tính năng mới.
+    - Sửa lỗi tăng giảm âm lượng nhạc nền và giọng hát
+    - Trả về vang 2 như phiên bản cũ
+    - Sửa các lỗi khác
+Version 3.0.0 (Feb 4, 2024)
+    - Thêm trang top
+    - Cho phép nghe bản thu âm ở chế độ nhạc nền
+    - Thay đổi giao diện trang cộng đồng
+    - Nâng cấp tính năng thu âm, cho phép lùi lại để thu âm lại
+    - Hỗ trợ chỉnh tone nhạc và tăng giảm nhạc nền
+    - Hỗ trợ thêm thư viện hình ảnh
+    - Cho phép chọn ảnh bìa và slides hình
+    - Bổ sung playlist bản thu
+    - ...
+Version 2.3.10 (Jan 14, 2023)
+    - Sửa lỗi đăng nhập zalo
+    - Bỏ chức năng mua tính năng Mic, Thu âm và miễn phí toàn bộ tính năng.
+    - Cho phép chia sẻ bài hát cá nhân lên mạng xã hội.
+    - Sửa các lỗi khác.
+Version 2.3.9 (Mar 24, 2022)
+    Sửa lỗi video không mở rộng toàn màn hình khi ở chế độ fullscreen, và các lỗi khác
+Version 2.3.9 (Mar 24, 2022)
+    Sửa lỗi video không mở rộng toàn màn hình khi ở chế độ fullscreen, và các lỗi khác
+Version 2.3.8 (Mar 5, 2022)
+    - Nâng cấp tìm kiếm trong cộng đồng và tìm kiếm bài hát.
+    - Bổ sung chat với Kekara
+Version 2.3.7 (Dec 25, 2021)
+    - Sửa lỗi echo tự đưa về mặc định khi mở mic.
+    - Sửa lỗi khi viết lời bình dài không gửi được trong phòng hát.
+    - Bổ sung lọc thông báo Kekara.
+    - sửa các lỗi khác.
+Version 2.3.7 (Dec 25, 2021)
+    - Sửa lỗi echo tự đưa về mặc định khi mở mic.
+    - Sửa lỗi khi viết lời bình dài không gửi được trong phòng hát.
+    - Bổ sung lọc thông báo Kekara.
+    - sửa các lỗi khác.
+Version 2.3.6 (Dec 18, 2021)
+    - Sửa lỗi âm thanh của mic bị rú lên khi bắt đầu thu âm và khi hát live.
+    - Sửa lỗi khác.
+Version 2.3.5 (Nov 24, 2021)
+    - Sửa lỗi bị ồ âm thanh khi bắt đầu hát live trong phòng hát.
+    - Nâng cấp cho phép chọn nhiều hiệu ứng âm thanh trong màn hình microphone.
+    - Sửa các lỗi khác.
+Version 2.3.4 (Oct 27, 2021)
+    - Hỗ trợ đăng nhập với Apple account
+    - Sửa lỗi tự động logout app khi tắt app
+    - Sửa lỗi phát video hay bị đứng
+    - Cải tiến tốc độc load bài hát đơn ca và song ca trong phòng hát
+    - Sửa lỗi download bài hat luôn không thành công.
+Version 2.3.3 (Oct 18, 2021)
+    - Sửa lỗi phát video hay bị đứng
+    - Sửa lỗi crash app khi play bài kế tiếp
+    - Cải tiến load bài hát khi hát live trong phòng hát
+    - Hỗ trợ đăng nhập với Apple account
+Version 2.3.2 (Oct 2, 2021)
+    - Sửa lỗi hát song ca lời 1 không nghe tiếng lời 1 trong phòng hát
+    - Thêm tính năng tặng quà cho người hát lời 1 trong phòng hát
+    - Sửa lỗi video bị treo khi qua bài
+    - Sửa các lỗi khác
+Version 2.3.1 (Sep 5, 2021)
+    - Tăng tốc độ load video trong phòng live
+    - Sửa lỗi không live được bài hát
+    - Chỉnh sửa các lỗi khác.
+    - Fix crash app.
+Version 2.3.0 (Aug 10, 2021)
+    - Thêm tính năng phòng hát Kekara - Live room.
+    - Sửa lỗi chỉnh giọng hát bị lệch sau khi thu âm.
+    - Lưu trữ online danh sách yêu thích.
+    - Giảm dung lượng lưu trữ khi thu âm bài hát.
+    - Chỉnh sửa các lỗi khác.
+    - Fix crash app.
+Version 2.2.0 (Aug 19, 2020)
+    - Thêm chức năng song ca
+    - Thêm tính năng tặng quà
+    - Tăng tốc độ up bản thu lên cộng đồng
+    - Tăng tốc độ load video
+    - Cho phép cập nhật ảnh nền trên trang cá nhân
+    - Cho phép xóa tất cả các thông báo
+Version 2.1.1 (Feb 12, 2020)
+    - Fix lỗi payment
+    - Fix lỗi đăng nhập facebook, zalo
+    - Fix lỗi hiển thị chữ trên ô tìm kiếm ios13
+    - Cải thiện công cụ tìm kiếm bài hát
+    - Tăng tốc tốc độ load video
+    - Fix crash app
+    - Thêm mới các tính năng sau:
+    + Hát và nghe trực tiếp từ headphone
+    + Thu âm bài hát
+    + Chia sẻ bài hát với bạn bè
+    + Tải bài hát
+    + Danh sách thu âm
+    + Danh sách bài hát tải về
+    + Cho phép tạo playlist
+
+    Và nhiều tính năng khác ...
+Version 2.1 (Dec 27, 2019)
+    - Fix lỗi đăng nhập facebook, zalo
+    - Fix lỗi hiển thị chữ trên ô tìm kiếm ios13
+    - Cải thiện công cụ tìm kiếm bài hát
+    - Tăng tốc tốc độ load video
+    - Fix crash app
+    - Thêm mới các tính năng sau:
+    + Hát và nghe trực tiếp từ headphone
+    + Thu âm bài hát
+    + Chia sẻ bài hát với bạn bè
+    + Tải bài hát
+    + Danh sách thu âm
+    + Danh sách bài hát tải về
+    + Cho phép tạo playlist
+
+    Và nhiều tính năng khác ...
+Version 2.0 (Dec 18, 2019)
+    - Fix lỗi hiển thị chữ trên ô tìm kiếm ios13
+    - Cải thiện công cụ tìm kiếm bài hát
+    - Tăng tốc tốc độ load video
+    - Fix crash app
+    - Thêm mới các tính năng sau:
+    + Hát và nghe trực tiếp từ headphone
+    + Thu âm bài hát
+    + Chia sẻ bài hát với bạn bè
+    + Tải bài hát
+    + Danh sách thu âm
+    + Danh sách bài hát tải về
+    + Cho phép tạo playlist
+
+    Và nhiều tính năng khác ...
+Version 1.3 (Jun 2, 2019)
+    - Thêm chức năng tìm kiếm bằng giọng nói
+    - Tự động xoay ngang chế độ full màn hình và ngược lại
+    - Thêm tăng giảm âm lượng
+    - Cho phép chọn loa phát
+    - Tăng chất lượng âm thanh và video
+    - Tăng tốc load video
+    - Fix bugs crash app
+Version 1.2 (Apr 23, 2019)
+    - Sửa lỗi crash app
+    - Sửa lỗi không thể tìm bài hát
+    - Sửa lỗi màn hình ở chế độ fullscreen bị bễ layout
+    - Bổ sung thông báo
+    - Nâng cấp trải nghiệm người dùng tốt hơn
+Version 1.1 (Oct 26, 2017)
+    - Fix lỗi crash app khi chọn hoặc xóa danh sách bài hát yêu thích
+    - Chỉnh lại ngôn ngữ mặc định là Việt Nam
+    - Sửa lỗi chính tả
+    - Cài đặt hiễn thị phiên bản trong setting
+    - Fix không tự động next bài hát
+Version 1.0 (Oct 11, 2017)
+
+Users may also like
+Select objects to compare
+LiveKara - Hát Karaoke
+Hát Karaoke - VKara
+Việt Kara - Hát Karaoke online
+CloudKaraoke Soncamedia
+Yokara - Sing Karaoke
+VietK
+Smart Karaoke Remote PRO
+Hakara - Sing karaoke
+Viva Kara
+Nghiện Truyện
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.0.1
+    Current release
+    Feb 7, 2024
+    3.0.0
+    Feb 4, 2024
+    2.3.10
+    Jan 14, 2023
+    2.3.9
+    Mar 24, 2022
+    2.3.9
+    Mar 24, 2022
+    2.3.8
+    Mar 5, 2022
+    2.3.7
+    Dec 25, 2021
+    2.3.7
+    Dec 25, 2021
+    2.3.6
+    Dec 18, 2021
+    2.3.5
+    Nov 24, 2021
+    2.3.4
+    Oct 27, 2021
+    2.3.3
+    Oct 18, 2021
+    2.3.2
+    Oct 2, 2021
+    2.3.1
+    Sep 5, 2021
+    2.3.0
+    Aug 10, 2021
+    2.2.0
+    Aug 19, 2020
+    2.1.1
+    Feb 12, 2020
+    2.1
+    Dec 27, 2019
+    2.0
+    Dec 18, 2019
+    1.3
+    Jun 2, 2019
+    1.2
+    Apr 23, 2019
+    1.1
+    Oct 26, 2017
+    1.0
+    Oct 11, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Oct 11, 2017
+
+Worldwide Release Date
+    Sep 10, 2017
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    3.0.1
+
+Size
+    190.28 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Simplified Chinese, Vietnamese
+
+Seller
+    Tich Nguyen
+
+Company HQ
+    Vietnam
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.flex.kekara
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1282963802
+Unified App ID: 1000800000137317
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Kekara - Karaoke thỏa thích | data.ai

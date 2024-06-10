@@ -1,0 +1,8 @@
+SQL Results Description
+SELECT application_id, title, description FROM `epf_application` WHERE (LOWER(description) LIKE '%journal%' OR LOWER(description) LIKE '%diary%') AND itunes_release_date <= '2020-02-23' 
+
+
+
+SQL Results Title
+SELECT application_id, title, description FROM `epf_application` WHERE (LOWER(title) LIKE '%journal%' OR LOWER(title) LIKE '%diary%') AND itunes_release_date <= '2020-02-23' 
+

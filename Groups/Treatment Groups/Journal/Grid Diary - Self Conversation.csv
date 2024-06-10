@@ -1,0 +1,11 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.5.0,2022-02-22,. Diary can be exported by year . Diary preview can switch date . Diary list editing page can switch date
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.4.0,2021-09-26,. Questions can be added at any time when writing a diary . Grid interface supports random question mode . Supports resetting the diary of a certain day
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.3.0,2021-07-15,. Add data backup and recovery function . Add the function of automatically backing up data to iCloud . Stop automatically capitalizing the first character of words
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.2.4,2021-05-03,Fix a small bug.
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.2.3,2021-02-10,Increase premium trial time up to 15 days.
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.2.1,2020-10-11,. Debug reminder timer picker
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.2.0,2020-09-28,. Update for iOS 14 . Show diary album
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.1.1,2020-08-28,. Find related diaries
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.1.0,2020-07-19,. Add multi books function sort girds in books. . Update book home page UI.
+1515415980,0,Grid Diary Self Conversation,Lifestyle,2020-06-04,2020-06-04,25.9,3,0,0,1,1.0.1,2020-06-16,. Can move the grid which is written by long press . Update some UI details

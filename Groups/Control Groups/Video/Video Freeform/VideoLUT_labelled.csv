@@ -1,0 +1,179 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.15,2024-01-03,Solves a problem when importing LUTs,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.14,2023-12-09,Adds batch LUT processing for videos.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.13,2023-10-06,Solves a problem when saving videos.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.12,2023-10-02,Plays the video audio on Bluetooth headphones and AirPods if they are in use.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.11,2023-10-01,Adds zoom and pan for video. Pinch for zooming video and double tap for reset.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.1,2023-09-28,Fixes a problem with RGB curves.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.09,2023-09-23,Adds delog LUT for new native camera Pro RES LOG format. Adjust Set List icon,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.08,2023-06-16,Polish language support.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.07,2023-06-06,Adds Ukranian language support. Slava Ukraine!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.06,2023-05-19,Adds Charts for LUTs,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.05,2023-04-27,Fixes a problem with presets interface.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.03,2023-04-16,Automatically detects the proper crop angle based on the horizontal orientation.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.02,2023-04-12,Adds video crop,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,4.01,2023-03-30,Improves the vectorscope.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.99,2023-03-24,Improves histogram.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.98,2023-02-26,Fixes a problem with Halation on videos.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.97,2023-02-18,Fixes a problem when sharing LUTs with QR codes.,0,0,0,0,0,0,0,1
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.96,2023-02-01,Solves a problem when reading QR codes.,0,0,0,0,0,0,0,1
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.95,2022-12-13,Solves a problem with filters and curves.,0,0,0,0,0,1,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.94,2022-12-08,Fixes a problem when opening images. Korean translation improvements.,0,0,0,0,0,1,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.93,2022-11-06,Fixes a problem when importing LUTs,0,0,0,0,1,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.92,2022-11-01,Fixes a problem with photo versions,0,0,0,0,1,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.91,2022-10-28,Better RAW Photo processing,0,0,0,0,1,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.9,2022-10-27,Fixes a problem when importing filters.,0,0,0,0,1,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.89,2022-10-21,Fixes a problem when rotating the camera,0,0,0,1,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.88,2022-10-20,Solves a problem when uploading filters.,0,0,0,1,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.86,2022-08-21,Fixes a problem with filters.,0,1,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.85,2022-08-07,Fixes a problem with web page linking.,0,1,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.84,2022-08-04,Improves profiles shared image,0,1,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.83,2022-07-30,Improves profiles sharing,0,1,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.82,2022-07-27,Share and import profiles by QR codes.,0,1,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.81,2022-05-30,Latest Filmic LUTs Presets CONVRT,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.8,2022-05-03,Adds new Match method.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.79,2022-04-15,Adds a new YT video tutorial in Settings.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.78,2021-12-14,Fixes a problem with HSL Curves,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.77,2021-12-09,Improves HDR Video processing.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.76,2021-11-19,Solves a problem with profiles.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.75,2021-11-10,Adds Adjusts Halation,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.74,2021-11-01,Fixes a problem when applying LUTs and recording video.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.73,2021-10-30,Solves some problems with the camera s format,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.72,2021-10-26,Adds HDR video recording and ProRaw shooting to the camera if they are supported by the device.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.71,2021-10-22,Better permissions handling,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.7,2021-10-12,Blur effect Sharpen slider with negative value Adds Presets2 to camera Settings in camera Camera photo shot 16:9,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.69,2021-10-06,Solves a problem with Adjust Match.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.68,2021-09-29,Exports 10 bit HDR,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.67,2021-09-26,This version solves a problem when resetting the presets.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.66,2021-09-23,Solves problem with the new presets.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.65,2021-09-11,Solves a problem with the camera s settings,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.64,2021-08-24,Adds support for Video Passport Adjust Calibrate,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.63,2021-08-21,Solves a problem when rendering HDR video.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.62,2021-08-19,Solves a problem with the Favorites thumbnails,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.6,2021-08-14,Adds Camera presets,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.59,2021-07-27,Menu Match better colors transfer.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.58,2021-07-23,Camera update: Grids and Histogram,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.57,2021-07-10,Simplifies Adjust Combine interface.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.55,2021-07-04,Adds Vectorscope and waveform to old devices.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.53,2021-06-29,Solves a problem when applying Menu Profiles.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.52,2021-06-19,Adds Settings to Open Info. Adjust Channel Mixer,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.51,2021-06-03,Support for German Portuguese and Korean.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.5,2021-05-25,Improves HDR Video workflow.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.49,2021-05-12,Added access to Files for Images and Videos.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.48,2021-04-30,Solves a problem with presets,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.47,2021-04-13,Fixes a problem when formatting .cube files.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.46,2021-04-05,Support for Russian Italian Japanese and French.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.45,2021-04-04,Added support for Spanish and Chinese. Fixes a problem with Showcase,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.44,2021-03-24,Solves a problem with Levels adjustment.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.43,2021-03-11,Improves saved image quality.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.42,2021-03-03,Solves a problem with .cube files when handling HDR videos.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.41,2021-03-02,Corrected display of HDR videos. Note that when saving HDR videos you always have to use HEIV at Encode Save,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.4,2021-02-27,Includes AWB adjustment in exported LUT Added FilmicPRO v3 LUTs to CONVRT group Some improvements on Match,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.38,2021-01-20,Better Vignette adds DGK 18 colors chart detection fixes thumbnails for batch.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.37,2020-12-28,Supports Macbeth chart 24 colors automatic detection and color correction for images and videos. Just use Adjust Chart. Be sure to that the chart is visible when you press the Detect button. As usually you can export the generated color correction as a LUT.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.36,2020-12-23,Solves a problem when importing ProRaw images.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.35,2020-12-12,Solves a problem when picking colours for AWB.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.34,2020-12-11,Auto White Balance find it at Adjusts,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.32,2020-11-24,It solves a problem when playing videos in some devices.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.3,2020-11-05,Solves. problem when changing the camera orientation,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.29,2020-09-20,Fixes a problem with the image render,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.28,2020-09-13,Fixes a problem with the media picker. You can always choose the classic media picker at Settings App Video LUT options,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.27,2020-09-09,Fixes an issue with masks and saving profiles,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.26,2020-09-04,Fixes an issue with HSL tool.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.25,2020-09-02,Fixes a problem with Masks,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.24,2020-08-31,Fixes a problem with color mask.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.23,2020-08-24,It solves a problem when playing videos,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.22,2020-08-23,Pick color mask for images P3 support for images,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.21,2020-08-20,HSL fixes Add favorites presets on Camera.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.2,2020-08-14,Favorites in landscape mode and batch.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.19,2020-07-21,CYBERPUNK presets by wilmer.lens Wilmer Martinez is a photographer who loves turning NYC into a cyberpunk dystopian city. Please check his IG for more images: wilmer.lens,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.18,2020-07-13,Infrared presets by wavegodphotography,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.17,2020-06-19,Fixes a problem with HSL curves,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.16,2020-06-09,Fixes a problem with profiles,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.15,2020-06-07,Improves HSL Curves. Fixes a problem when shooting RAW photos.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.14,2020-05-31,Solves a problem with images and masks,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.13,2020-05-30,Fixes a problem with masks and video,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.12,2020-05-28,Masks,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.11,2020-04-27,Adjusts Levels 3DL files support for importing in Admin.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.1,2020-04-03,Clarity White Vignette,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,3.0,2020-03-30,Showcase feature,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.99,2020-03-23,Solves a problem with Crop.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.98,2020-03-14,Fixes a problem with thumbnails,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.97,2020-03-09,Thumbs by the current image. Also Crop for images.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.96,2020-02-28,Fixes a problem with Wavegod2 Stone preset,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.94,2020-02-19,Camera update if you have any problems with it just use the Settings app Video LUT and choose Simple Camera for reverting to the old one.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.93,2020-02-10,Solves a problem when selecting presets on the camera,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.92,2020-02-08,Favorites,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.91,2020-01-16,Fixes a problem with presets selection.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.9,2020-01-12,Better preset selection,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.8,2020-01-03,Solves a problem with media picker,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.7,2019-12-05,Solves a problem when comparing video before vs after long press on the video player Settings Keep EXIF dates If you have any issues or feature requests contact directly: enriqueg gmail.com,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.6,2019-11-29,This version solves a problem with Open LUT Image. Thanks so much to Jean Luc Haurais for the feedback! Don t hesitate to contact for ideas or issues: enriqueg gmail.com,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.5,2019-11-14,Alternative media picker Use Settings app for choosing Solves a problem with colors when processing videos New presets,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.4,2019-11-11,Vectorscope,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.3,2019-11-09,Some fixes in Organizer. Many thanks to Brett Portaro!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.2,2019-10-27,Some fixes when opening images,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.1,2019-10-13,Film grain for video. Save the video using Encode and Save with a high rate for keeping the grain. Be aware many third party app will compress your video files affecting how grain is displayed. I very much appreciate your help Glenn Upgraded and Kamalky Laureano!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,2.0,2019-09-15,Shares CUBE x33 for Arri tool. Share LUTs to other apps. Many thanks to Arun Kumar Pandey for requests and improvements! Direct contact for requests: enriqueg gmail.com,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.98,2019-08-23,In total more than 150 new presets: Added new Wavegod presets by Rahkim Brown Instagram: wavegodphotography Added new Enhance2 Byron Shelley Duotone2 Stone Lomage and Divided presets. Some improvements on the waveform.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.97,2019-08-06,LUT intensity. Touch down an already selected preset It affects only the LUT. kind of the same as it works on the camera There is also an Overall Intensity in Adjusts but that one affects all adjustments. This LUT intensity value is also registered in Profiles in the same way as any adjustment so if you use profiles just remember that. RGB parade in supported devices. Very grateful to all of you at the Facebook group! Big thanks to Glenn Upgraded for requesting many of these features.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.96,2019-07-14,Neon presets,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.95,2019-07-08,Waveform: If available in your device use the histogram option and then the left button in the histogram view for changing the mode to the waveform.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.94,2019-06-13,1. Changes the order of operations to Convert LUT Adjusts LUT before it was: Adjusts Convert LUT LUT if you want to revert to the old order there is a switch in the Settings app search for VideoLUT 2. 14 New conversion LUTs proposed by FB group members. 3. Solves a problem when exporting LUTs. Thanks to all of you that helped with this release: Justin Tran Rick Yaeger and Glenn Upgraded. Please join our FB group if you have not done it yet!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.93,2019-06-09,Solves a problem with the split filter,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.92,2019-06-01,Small fix in the menu as it had swapped Organize Import vs. Transfer,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.91,2019-05-28,More CONVERT LUTs 40 Use these at Adjust Set Second LUT when necessary! If you have any other LUT that you want to be included just send it over!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.9,2019-05-24,Fixes some problems with presets.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.89,2019-05-07,CMYK Curves Save internally the adjustments as a LUT in a group.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.88,2019-05-04,Adjust LAB Curves Improvements in Adjust Split,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.87,2019-04-29,Adds to Settings search for VideoLUT at Settings app Order imported LUTs alphabetically Skip resetting when importing videos and images Marker when an adjustment has changed. Minor UI fixes.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.86,2019-04-24,Batch Images feature Menu Batch,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.84,2019-04-07,Adds Enhance2 and other presets,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.85,2019-04-07,Fixes a problem with Presets,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.83,2019-04-06,Solves a problem when opening Panasonic RAW images.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.82,2019-03-01,New Presets Wavegod by Rahkim Bryant Sticky Histogram,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.81,2019-02-25,Improved Adjust denoise.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.8,2019-02-20,Adjust Denoise Fixes a problem when using imported cubes as Second LUT,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.79,2019-01-12,Fixes a problem with the video encoder.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.78,2019-01-10,You can rename groups now thanks Ferron Smith for all these suggestions! Export your LUTs multiple selections Solves a problem when importing LUTs thanks ituber.10,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.77,2018-12-29,Don t miss the two new official conversion LUTs from FiLMiC Pro for processing their all new Flat and LOG V2 gamma curves! Find them under Presets CONVRT. Thanks to FiLMiC it has been fantastic! Organize and Import have been merged. Now you can create or select a custom group and import the LUTs directly to it. Use Organize Import menu. Big thanks to Ferron Smith for this! Fixes a problem with Noise Grain in some devices. Fixes a problem with Split Tone. Fixes a problem with new images thumbnails update in the Media Picker. Please join the Facebook group if you have problems or requests.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.76,2018-12-20,New LUTs by FiLMiC Pro: Added two new official conversion LUTs from FiLMiC Pro for processing their all new Flat and LOG V2 gamma curves! Find them under Presets Double LUT: Now you can apply conversion LUTs to your creative LUTs on the fly! Find this feature under Adjust. Long press on the screen to display your original image,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.75,2018-11-27,RGB Curves find them at Adjust Curves scroll the bottom,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.74,2018-11-15,Split Toning HSL colors sliders use them as an alternative to HSL curves,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.73,2018-09-08,Solves some problems with the color wheels,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.72,2018-07-10,Keeps the photo video picker in latest position album etc Keeps the metadata when the original image was a JPEG or HIEC HIEC is saved as max quality JPEG Shares the images no just saves to library Exposure slider problem solved. default value should be zero When exporting LUTs as .cube keeps the name of the original LUT only adds _16 and _32,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.71,2018-06-16,Applies correctly opacity from profiles,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.7,2018-05-29,Fixes a problem when resetting the curves.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.69,2018-05-28,Profiles: Save LUT wheels adjusts and curves in one single profile and apply to video and photos. Vibrance Vignette Sharpness and Noise. Some improvements in interface. Reset everything button.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.68,2018-05-16,Camera update,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.67,2018-04-08,Support for .zip files from Import cloud icon You can have different folders in the zip but just keep one level no folders inside folders Files inside the folders can be .cube or .3dl,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.66,2018-03-31,You can change now the name of any imported LUTs: Organize Tap on the name of any imported LUT 4 types of mask Balance color wheels New LUTS more LUTs at CINE and 3 new groups of conversions LUTS specially for handling LOG Some fixes for the lut name when saving the LUTs to the cloud. You are welcome to join our FB group for requests as I improve and add new features. All requests will be handled! Also follow me at Instagram videolut don t forget to put me some stars here :,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.65,2018-01-12,Removes erroneous slider when editing video files. Use Menu Adjustments Opacity slider instead,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.64,2018-01-09,Camera: Tap again on a selected preset for controlling the LUT intensity.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.63,2017-12-18,Camera changes: Alternative camera view for iPhone X by default as it solves some issues. You can still switch at Settings app VideoLUT 4K recording by default if available in your device Tap for focus,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.62,2017-12-08,In Settings App search for Video LUT there are new 2 switches: Enable 4K recording with the camera if available in your device Change Camera to OpenGL renderer if you have problems displaying the camera.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.61,2017-12-07,Solves a problem with the camera in iPhone X Solves a problem when exporting cubes to iCloud while processing videos. Some important info when exporting cubes to DropBox: You have to enable DropBox in Files app: 1. Open Files App 2. Enable the switch besides DropBox personal It has to be green enabled 3. Press Done on top 4. Close Video LUT if open Open Video LUT 5. Select your LUT 6. Happy exporting!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.6,2017-12-05,Open Camera: Record your videos with your favorites LUTs!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.59,2017-12-01,Now you can import and export .cube files from to iCloud and other online storage services. For importing use menu: Import or Admin:Import.Imported files will appear under Imported .CUBE For exporting current LUT: use Save: Export cube 16 or 32.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.58,2017-11-13,It solves a problem with layout in landscape while displaying video thanks so much to György Balla!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.57,2017-11-10,iPhone X portrait mode support HSL curves available only in Landscape HSL curves applied before the LUT I will let you control this in next version,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.56,2017-10-14,Solves a problem when exporting cubes 32,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.55,2017-09-26,Solves a serious bug when ordering the imported luts in folders.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.54,2017-09-23,Solves a problem when saving portrait oriented images. Thanks so much to David Onuora for reporting and helping me with this. Now you can reorder your luts. Just drag to folders create new folders drag and drop for order your folder. Your folders will appear under Imported Solves a problem with anamorphic video. Thanks to Brian Westfield.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.53,2017-09-16,Solves an issue when videos are located at iCloud,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.52,2017-09-06,Solves a problem when trying to open an image that is not a LUT table. Many thanks to Hürcan Emre Yılmazer and Hitesh Patel for an important change in the color space handling. Please if you like the app tell your friends about it!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.51,2017-09-04,Double tapping on an adjust slider will reset it s value Beautiful CINE presets Thanks so much for your support ideas and nice reviews! Please don t forget to tell your colorist friends about this little app!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.5,2017-08-21,Display Histogram Video Save: Trim Save,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.49,2017-08-14,It solves a problem with image orientation. Don t forget to join our Facebook group for support requests and coming updates! Don t forget to rate the app and tell about it to your friend..it keeps it going!,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.48,2017-08-12,Image support HSL curves adjust menu,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.47,2017-08-10,It solves a problem when exporting cubes 32 A preset in TONES was missing,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.46,2017-07-27,Solves a big problem with color spaces that was at least preventing to export correctly the cubes. Luts with th string in their names where wrong selected.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.45,2017-06-15,Email current LUT as CUBE 16 32 after adjustments applied Now displays in 3D all kind of LUTs. Fixes some bugs.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.44,2016-12-04,iTunes File Transfer enabled. You can transfer .cube .3dl and 512x512 .png LUT tables. Folders and .zip files not supported. Use the Admin button for importing the files after you have transferred them.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.42,2016-11-30,Import LUT png images 512x512 Choose compression when saving Prompt for rating. Rate the app with 5 stars now and get a more new stuff in a week: Prevent to sleep while saving,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.41,2016-11-22,more adjusts better saving quality,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.4,2016-11-13,1. You can now remove imported LUTs by swiping the thumbnail 2. Compare before after effect I m accepting requests for this app send your request ideas issues to talonsodev gmail.com and get them in next version! You can also join the FB group for discussions search for Video LUT in FB.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.3,2016-11-07,Visualise your imported .CUBE and .3DL files in 3D. You can save a snapshot. Export them also as LUT images .png I m accepting requests for this app send your request ideas issues to talonsodev gmail.com and get them in next version! You can also join the FB group for discussions search for Video LUT in FB.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.2,2016-10-30,It solves a serious problem with the menu for 10.1 Keeps the name of the imported cubes 3dl Please if you have problems saving videos contact me at talonsodev gmail.com with video and devices spec . Just leaving reviews don t help me. If you have iPad get instead LUT Master app.,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.1,2016-08-05,Import your own LUTs DaVinci Resolve 3D Cube LUT .cube Autodesk 3D LUT .3dl e.g. send them by mail and choose Open Copy with Video LUT,0,0,0,0,0,0,0,0
+1082340556,0,VideoLUT,Photo and Video,2016-07-22,2016-07-22,243.36,13,0,0,1,1.0,2016-07-22,,0,0,0,0,0,0,0,0

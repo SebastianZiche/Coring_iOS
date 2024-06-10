@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1341136787,1000800000135934,24FPS Aesthetic Video Effects,Photo and Video,2019-06-02,2019-06-02,109.75,16,1,0,1,1,0,1,0,0,0,0,0,0,0,month_1,0,0,1135,1240.0
+1341136787,1000800000135934,24FPS Aesthetic Video Effects,Photo and Video,2019-06-02,2019-06-02,109.75,16,1,0,1,2,0,0,1,0,0,0,0,0,0,month_2,0,0,1165,1240.0
+1341136787,1000800000135934,24FPS Aesthetic Video Effects,Photo and Video,2019-06-02,2019-06-02,109.75,16,1,0,1,2,0,0,0,1,0,0,0,0,0,month_3,0,0,1195,1240.0
+1341136787,1000800000135934,24FPS Aesthetic Video Effects,Photo and Video,2019-06-02,2019-06-02,109.75,16,1,0,1,2,0,0,0,0,1,0,0,0,0,month_4,0,0,1225,1240.0
+1341136787,1000800000135934,24FPS Aesthetic Video Effects,Photo and Video,2019-06-02,2019-06-02,109.75,16,1,0,1,0,0,0,0,0,0,1,0,0,0,month_5,0,1,1255,1240.0
+1341136787,1000800000135934,24FPS Aesthetic Video Effects,Photo and Video,2019-06-02,2019-06-02,109.75,16,1,0,1,1,0,0,0,0,0,0,1,0,0,month_6,0,1,1285,1240.0
+1341136787,1000800000135934,24FPS Aesthetic Video Effects,Photo and Video,2019-06-02,2019-06-02,109.75,16,1,0,1,0,0,0,0,0,0,0,0,1,0,month_7,0,1,1315,1240.0
+1341136787,1000800000135934,24FPS Aesthetic Video Effects,Photo and Video,2019-06-02,2019-06-02,109.75,16,1,0,1,1,0,0,0,0,0,0,0,0,1,month_8,0,1,1345,1240.0

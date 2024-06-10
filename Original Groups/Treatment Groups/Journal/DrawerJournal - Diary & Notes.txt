@@ -1,0 +1,748 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+DrawerJournal - Diary & Notes
+uchidacodeLifestyle (Applications)Free
+Alerts
+
+DrawerJournal - Diary & Notes
+DrawerJournal - Diary & Notes
+DrawerJournal - Diary & Notes
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+DrawerJournal - Diary & Notes
+Timeline Journal for Memories
+Lifestyle (Applications)
+Free
+App Description
+Drawer Journal is your go-to place for creating personal notes on daily events, confidential thoughts, journeys, and emotions. It's an ideal space to keep track of your thoughts, dreams, aspirations, and ideas. Not only can you write journal entries, but you can also enrich them with photographs and audio recordings.
+
+Features:
+
+Ease of Use - Drawer Journal boasts a one-of-a-kind style among diary apps. It lets you jot down entries as if you were posting tweets. Complement your day with pictures and maintain a log to preserve your history. Chronicle your daily activities with ease. Plus, with the option to add photos and voice memos, it doubles as a note keeper, making it incredibly handy for accessing and recording your thoughts.
+
+Stunning UI - With its contemporary design and charming appeal, all the features are user-friendly, allowing you to concentrate on your writing. It is sturdy and easy to navigate. The aesthetically pleasing interface makes it truly spectacular.
+
+Themes and Fonts - Personalize your journal with your favorite colors and background images. Choose from a wide array of themes, including the popular dark mode. Multiple font styles, including adorable cursive fonts, and a complimentary night mode ensure a comfortable writing experience, even at night. The adjustable text size makes it accessible for all ages, including seniors.
+
+Password Protection - Keep your private notes secure with a PIN code or Face/Touch ID. Safeguard your personal journals by setting a PIN code on startup. You won’t have to worry about prying eyes. Perfect for those who find it difficult to express their emotions openly. Using this daily journal app can contribute to maintaining mental wellness.
+
+Backup to Google Drive - Never stress over lost memories. Conveniently backup your diary entries directly to Google Drive.
+
+Powerful Tags Function - Custom tags and the addition of pictures make organization a breeze. Entries are arranged by tags and dates.
+
+View Entries in Timeline, Calendar - The app is excellent for reflecting on the progression of your days.
+
+Other Options - Search entries, create voice diaries, and enjoy flawless offline performance.
+
+Have a question? Want to send us feedback?
+Contact our support team at:
+Email: drawer.diary@gmail.com
+
+We’re eagerly anticipating the release of more features soon!
+
+Thank you.
+
+Privacy Policy: https://drawerjournal.com/en/privacy-policy
+Terms of Use: https://toast-planet.notion.site/toast-planet/9f52ef3afc50477a9a024fa5c9d4e70a
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 6.6.0 (Feb 6, 2024)
+    This update includes the following
+
+    - Performance adjustments
+    - Adjustment of ad placements
+Version 6.5.1 (Jan 26, 2024)
+    Thank you for your continued support. We have fixed an issue with the image compression feature. We appreciate your ongoing support.
+Version 6.4.3 (Nov 20, 2023)
+    This update is a change to the UI regarding tags.
+
+    - Editing and deleting can now be done by swiping.
+    - The behavior when swapping between top and bottom tags by holding down the mouse button has been made more beautiful.
+
+    We are still working on improving the tags, so we will continue to develop the app based on the reviews from our users.
+    Thank you for your continued support of Drawer Journal!
+Version 6.4.2 (Oct 27, 2023)
+    Hello!
+    We are the development team for DrawerJournal.
+    We have added a convenient premium feature this time.
+
+    You can now view posts that do not have tags in the tag screen!
+    You can switch by tapping on "All."
+Version 6.4.0 (Oct 18, 2023)
+    This update primarily focuses on changes to the Premium Plan guidance. We've streamlined the explanations of the benefits on the Premium Plan details screen to make them more concise and user-friendly. We've also adjusted the frequency and timing of notifications to ensure they don't disrupt your diary-writing experience. We're continuously enhancing our app, so we'd be delighted if you could give it a try and explore its features. Additionally, we've brought back the button that lets you switch between weekly and monthly calendar views. You can also switch views by swiping the bottom of the calendar. Choose your preferred method! Please continue to enjoy using our app.
+Version 6.4.1 (Oct 18, 2023)
+    This update resolves a bug that prevented the widget from displaying properly on the latest iOS.
+    We hope you will continue to enjoy the premium plan of Drawer Journal.
+Version 6.3.1 (Sep 8, 2023)
+    This update includes the following changes:
+
+    - We've made changes to our internal processes.
+    - We have revised the way we display advertisements.
+
+    Thank you for your continued support of DrawerJournal.
+Version 6.3.0 (Aug 16, 2023)
+    - You can now customize the app icon! Choose from four carefully selected icons.
+    - Fixed an issue where the background color turned white when setting a background image in dark mode!
+    - We have reviewed the timing and format of ad placements!
+Version 6.2.1 (Aug 14, 2023)
+    - Fixed the color of the settings screen for the "Sky Blue" theme.
+    - Applied the new color theme to the Widget as well.
+    - Adjusted the line spacing on the diary entry screen.
+    - Added types of fonts for both Japanese and English.
+    - An option has been added to replace "Image List" with "Statistics" in the center menu.
+Version 6.1.2 (Jul 11, 2023)
+    Now supports Traditional Chinese
+Version 6.1.1 (Jul 6, 2023)
+    Hello and thank you for visiting the Drawer Journal.
+    Here is this update.
+
+    - Fixed a bug that prevented some link functions from working
+    - Minor fixes related to advertisements
+Version 6.1.0 (Jun 28, 2023)
+    - "Memory Widget" to decorate the home screen with memories
+    - Changed "Back to Today" button so that it can be pressed with a single tap.
+    - User Guide for the Drawer Journal has been enhanced and links have been replaced.
+Version 6.0.1 (Jun 9, 2023)
+    Fixed a bug that caused the text on the screen to become bold when writing a diary entry using Emoji.
+Version 6.0.0 (Jun 5, 2023)
+    - Added the ability to crop images to fit the aspect ratio of the device when setting a background image
+    - Changed the design of the settings screen
+    - Improved Premium Plan screen
+Version 5.2.6 (May 11, 2023)
+    This update fixes a bug related to advertisements.
+Version 5.2.5 (May 7, 2023)
+    ・Added onboarding process for first-time users
+    ・Design changes made in conjunction with the introduction of a free trial for our premium plan
+Version 5.2.0 (Apr 16, 2023)
+    - Added a new tab for image listing (moved analytics screen to settings)
+    - Added image compression feature
+    - Revamped photo details screen
+    - Now you can add photos to your diary entries afterwards!
+    - Fixed bug where themes weren't being applied
+    - Optimized ads
+Version 5.1.0 (Apr 4, 2023)
+    - Add two new spring color themes.
+    - Today Widget is now available!
+    - Bug fixes:
+    - The app no longer crashes when many photos are added.
+    - The send button is now visible even when writing a lot of text.
+    - Change the display size of ads.
+    - Renewal of the premium subscription screen.
+Version 5.0.3 (Mar 9, 2023)
+    Minor Fixes
+    - Adjustment so that the preview and actual text size on the text size setting screen are the same
+    - Optimized startup process
+    - Optimization of ad display
+Version 5.0.2 (Mar 6, 2023)
+    - Margin adjustment between characters
+    - Quick copy function for text
+    - Added font types
+    - Chinese language support
+    - Fixed a bug that prevented links from opening properly
+Version 4.9.1 (Feb 16, 2023)
+    This update includes the following
+
+    Fixed the days of the week displayed in the statistics function's day of the week trends.
+    Fixed the font size of calendar elements
+
+    Thank you for your continued support of the Drawer Journal!
+Version 4.9.0 (Feb 13, 2023)
+    The contents of this update are as follows
+
+    ・The statistics function is now available (the number of tweets in the drawer diary will be visualized).
+    ・Renewal of the tag function (redesign of icons and tabs, easier selection of tags)
+    ・Addition of new themes (3 colors) and fine-tuning of the dark theme
+    ・Share function of the app (we would be happy if you introduce it to your friends)
+    ・Photo size adjustment
+    ・Calendar view toggle button
+Version 4.8.0 (Jan 8, 2023)
+    - Changed background image setting area (area that was popping up at the top of the screen is now within the visible area)
+    - Fixed a bug that prevented posting from being completed when a password was in effect.
+    - Improved the ability to resume a new diary entry even if it is closed in the middle of a new entry.
+    - Changed so that the posting screen can be closed by swiping down or tapping the black background at the top, instead of closing it with the X button
+Version 4.7.7 (Dec 29, 2022)
+    Fixed a bug where the premium banner was not being displayed.
+Version 4.7.7 (Dec 29, 2022)
+    Fixed a bug where the premium banner was not being displayed.
+Version 4.7.3 (Dec 15, 2022)
+    Fixed a bug related to advertisements.
+Version 4.7.0 (Dec 13, 2022)
+    I know it's a little early, but Merry Christmas everyone!
+    We have a special theme available for Christmas only. Please look for it in the appearance settings.
+
+    Also, you can now share and download the day's postings from the top right corner of the screen. Please use it if you have something good to say, or if you want someone to hear it.
+Version 4.6.5 (Nov 20, 2022)
+    Fixed a minor bug.
+Version 4.6.4 (Nov 18, 2022)
+    Hello, it is the season of beautiful autumn leaves.
+    This update fixes the following bugs.
+
+    Fixed a bug in the label screen that the label could not be added later when editing a diary with an image.
+    Fixed a problem in the diary screen where the menu buttons were scrolled out of view depending on the phone's height.
+
+    We will continue to develop this diary application to make it easy to use for everyone. Thank you for your continued support.
+Version 4.6.3 (Nov 6, 2022)
+    This update fixes a bug related to advertisements.
+Version 4.6.2 (Nov 2, 2022)
+    This update includes the following improvements
+
+    Improved performance
+    Improved password loading process
+    Improvements to the Premium screen
+
+    Thank you for your continued support of Drawer Journal.
+Version 4.6.1 (Oct 21, 2022)
+    Fixed a bug in iOS16 that caused the app to close when entering an emoji.
+Version 4.5.2 (Oct 9, 2022)
+    We have removed the ability to turn off ads after seeing a reward ad. On top of that, we have changed the way we serve ads to make it less stressful for you to enjoy your journal. We hope our users will understand this.
+
+    We have also improved the performance of the operation, and we hope you enjoy it.
+Version 4.5.1 (Sep 22, 2022)
+    Hello, this is Uchida from Development.
+    This time, we have stabilized the operation on iOS16.
+
+    We apologize for any inconvenience caused by problems with unlocking passwords in some areas and unexpected ad displays.
+
+    Thank you for your continued support.
+Version 4.5.0 (Sep 15, 2022)
+    Hello, this is Uchida from Development.
+
+    This time, we are changing the way advertisements are shown.
+    Specifically, we have removed the video ads that appear after posting and changed the settings to have some ads appear on each startup.
+
+    Thank you for your continued support for the operation of the drawer journal.
+    Thank you for your continued support.
+Version 4.3.9 (Sep 8, 2022)
+    Hello, this is Uchida, the developer.
+    This is a minor change to the program.
+    Thank you for your continued support.
+Version 4.3.6 (Sep 4, 2022)
+    Hello, this is Uchida from Development.
+
+    This update has improved the program and stabilized its operation. We come across various glitches every time we upgrade the program, but we feel that it is getting better and better each time.
+    I hope you'll continue to follow our not-so-perfect drawer journal.
+Version 4.3.5 (Aug 31, 2022)
+    Hello, this is Uchida from Development.
+    Here is the latest update.
+
+    ・Fixed a problem that background images cannot be set properly.
+    ・Improved the startup speed by improving the program.
+
+    Thank you for your continued support of Drawer Journal.
+Version 4.3.1 (Aug 27, 2022)
+    Hello, this is Uchida from Development.
+
+    We have added the long-awaited Widget and Link functions. We hope you enjoy them. Also, we would appreciate it if you could contact us at drawer.diary@gmail.com if you notice any problems with the newly added functions.
+
+    Here are the general additions we have made
+
+    - Premium member card design
+    - Added a menu for premium plans
+    - Widget functionality
+    - Add a link function.
+
+    Thank you for your continued support of the Drawer Journal!
+Version 4.2.2 (Jul 26, 2022)
+    Hello, this is Uchida from Development.
+
+    We have resolved the issue around advertisements and added a guide on "how to remove advertisements". Since the other day, animals have been appearing in the Drawer Journal. There is also one in the guide we have added this time. The animals help us to explain the parts of the diary that are still difficult to understand in an easy-to-understand and fun way.
+
+    We hope you will continue to use Drawer Journal as an easy-to-use diary application.
+Version 4.2.1 (Jul 19, 2022)
+    For users who have registered for the Drawer Journal Premium, we have fixed a problem in the theme selection screen where users could not use the back button in the upper left corner to return to the previous page.
+Version 4.2.0 (Jul 17, 2022)
+    Update on theme selection feature. The layout has been changed and the actual image has been made easier to follow.
+Version 4.1.3 (Jul 8, 2022)
+    This update resolves a bug and changes the layout of the photo selection screen.
+
+    - Fixed a bug that prevented users from posting from Apple Watch while using the password function.
+    - Fixed a problem that the diary display would be incorrect when half-width numbers are included.
+    - The layout when selecting photos has been changed.
+    - Tapping on the darkened area at the top of the posting screen no longer closes the posting screen.
+    - With this change, you no longer lose the post you are in the middle of writing when you accidentally tap the top of the screen. We have received enthusiastic feedback from users who have experienced the disappointment of accidentally closing the screen when writing a long post, and have decided to implement this feature. Thank you very much.
+Version 4.1.2 (Jul 6, 2022)
+    - Fixed a bug that prevented viewing diaries recorded before August 2021
+    - Changed the order in which images are displayed when three images are submitted
+    - Changed the logic for displaying advertisements
+Version 4.1.0 (Jun 20, 2022)
+    - Change the application icon
+    - This is a masterpiece of our team's designers. It is a fusion of a diary and a drawer, and is so well done that it is a wonder that this icon has not been used before.
+    - Three Premium Themes Added
+    - The three new premium themes "Champagne," "Lavender," and "Deep Purple" are of the highest quality ever, and the other themes that will be affected by these three themes will be the subject of future improvements. We would like to improve all premium themes, and we aim to create a living theme that is not the end of the world.
+    - When a single image is posted on the calendar screen, adjust the size so that the entire image is visible.
+    - We have received many comments from people who take pictures of their food or their dog, but they would have preferred to see the entire picture like before, so we have made this change. Our team holds review meetings every week, so please continue to let us know your various opinions.
+    - Suggestion box: drawer.diary@gmail.com or form in the app
+    - Fixed a bug that prevented playback of the most recently recorded audio when posting audio in succession.
+    - Changed the order of display so that when four images are posted, they are displayed in the following order: top left, top right, bottom left, and bottom right.
+    - Changed the post button to be a little bit larger and to have a more muted color.
+    - We hope that these changes will reduce the number of "I can't press the button...".
+    - Fixed a bug that the password input screen appeared once every two times when the password function was enabled.
+
+    That's all for this time. It is thanks to our users that we are able to enjoy our daily development.
+
+    Thank you for your continued support.
+Version 4.0.2 (Jun 13, 2022)
+    Added the ability to attach multiple photos.
+
+    Thanks again for using it. Keep up the good work with us and the app.
+Version 3.9.4 (Jun 7, 2022)
+    * Change the height of the calendar screen
+    * Fixed a problem in which the date was not displayed correctly on the label screen.
+    * Fixed a bug that dates were not displayed correctly on the label screen.
+Version 3.9.3 (Jun 3, 2022)
+    * Revised the margins.
+    * Simplified the design of the submission screen
+    * Added the ability to attach audio to a post afterwards.
+    * Controlled the momentary screen shake behavior when deleting a post.
+    * We have greatly improved performance.
+    * The compression ratio of photos has been reduced to 0% so that you can enjoy photos in their original quality.
+    * This means that the groundwork for attaching multiple photos is now in place. Look forward to the next update
+Version 3.8.7 (May 26, 2022)
+    Attempted to improve performance
+Version 3.8.3 (May 24, 2022)
+    We have now released an Apple Watch version of Logpoli.
+
+    While walking, cooking, before going to bed...you can record your diary along with the time by simply talking to your Apple Watch at any time.
+
+    This is a very moving experience.
+
+    I use it the most.
+
+    If you have an Apple Watch and are a Logpoli user, please install and try it.
+Version 3.7.0 (May 2, 2022)
+    - Fixed a bug that occurred when selecting tags when rearranging them
+    - Fixed a bug that audio does not play or record on some devices
+    - Fixed a bug that caused time to be out of order when exporting (CSV export is temporarily under construction)
+Version 3.6.3 (Apr 14, 2022)
+    - Added export function for premium members to export diary data in text and CSV format
+    - Implemented a process to insert a pause before deleting a post.
+Version 3.6.1 (Apr 12, 2022)
+    - Added export function for premium members to export diary data in text and CSV format
+    - Implemented a process to insert a pause before deleting a post.
+Version 3.4.0 (Mar 11, 2022)
+    Hello, I guess it has been about a month.
+    I am sending you this humble and useful update.
+    We are mainly updating the label screen.
+    Please enjoy.
+Version 3.3.0 (Feb 15, 2022)
+    Changed so that you won't be asked to enter the password when you change the theme while setting the password.
+    Solved the problem of not being able to unlock the password with TouchID.
+    Solved the problem of not being able to unlock the password with TouchID - Solved the problem of not being able to unlock the password with TouchID - Solved the problem of not being able to display the password lock screen when starting the app for the first time even though the password is being set - Adjusted the layout of the detail screen displayed when tapping on a post with a long text + image - Adjusted the color of the notification bar after setting and unlocking the password
+Version 3.2.2 (Feb 13, 2022)
+    Fixed a small glitch.
+Version 3.1.0 (Feb 11, 2022)
+    In this update, in addition to improving the overall speed of operation, a few useful features have been added.
+
+    Thankfully, the number of supporters is gradually increasing, which makes me very happy.
+    I promise you a comfortable diary life in the future.
+Version 3.0.8 (Jan 19, 2022)
+    Hello, this is Uchida, the developer.
+    In this update, we've added a new feature regarding the detail screen that opens when you tap on a posted image.
+Version 3.0.6 (Jan 12, 2022)
+    In this update, the following issues have been resolved
+
+    After applying the premium theme, the color of the status bar turns black.
+    Text settings are not displayed.
+
+    Thank you for your continued support of Logpoli!
+Version 3.0.5 (Jan 10, 2022)
+    Added premium features
+
+    Added a lot of fonts
+
+    Added theme function
+
+    Improved performance
+Version 2.4.6 (Nov 28, 2021)
+    The long-awaited tag feature is now available in this update.
+
+    - I have a new icon!
+    - Added a super vertical screen to look back at all the posts so far in a list ("All" in the label tag)
+    - If you think this post is special..., you can use the label function to categorize it and look back at it all later
+    - Photos can now be added and deleted later
+Version 2.4.2 (Aug 9, 2021)
+    The heat wave is continuing, how are all the users doing?
+
+    I've recently been moved to a room with air conditioning, so I've been able to develop cheerfully (laughs).
+
+    Now, as for this update
+
+    This time, we have added the photo submission function, which has been requested by many users. Now that you can add photos, the range of expression is much wider, and it's great to record your feelings about sunflowers on the side of the road, a sunny day, or a delicious meal.
+
+    The app's icon has been revamped with the help of an amazing designer. With the help of a very talented designer, the app's icons have been redesigned to create a completely new atmosphere that will make you want to keep using it. I would like to take this opportunity to thank you, thank you!
+
+    We've added an icon at the top of the screen to make it easier to see the month and week views of the calendar, as requested by users. So we added an icon at the top of the screen.
+
+    We've also received a request from a user who wanted to go back to a post he wrote a long time ago, so we've made it possible to travel back in time by tapping on the month part of the calendar.
+
+    .... This is the content of the update.
+
+    In the next update, we are planning to update the backup function and theme selection function. Please look forward to that too!
+Version 2.2.2 (Jul 4, 2021)
+    Drawer Journal is a perfect App to quickly keep your memory and emotion.
+
+    This is just like texting but keep it secret for you.
+
+    You can quickly search for your memory with a search bar.
+
+    This is the simplest diary App to record your memorial days.
+
+    Give it a try today!
+Version 2.1.1 (Jun 30, 2021)
+    いつも引き出し日記をご利用いただき、ありがとうございます。
+    今回のアップデートではバナー広告の出る位置が一部見にくかった問題を修正いたしました。
+Version 2.1 (Jun 29, 2021)
+    今回のアップデートでは
+
+    ・音声ファイルが再生されない不具合を修正
+    ・背景画像が設定できない不具合を解消
+
+    あたりを修正しております。不具合が出てしまうのは本意ではないので、迅速にアップデートさせていただきました。
+    一瞬でもご不便おかけしたユーザーの皆様、すみませんでした。
+
+    今後ともよろしくお願いいたします！
+Version 1.4 (Apr 29, 2021)
+    いつも引き出し日記をご愛用いただきありがとうございます。
+    今回のアップデートは
+
+    - カレンダー画面に今日の日付に戻るボタンを追加
+    - 5種類のフォントを追加
+    - 執筆画面にざっくりとした時間を記録できる機能の追加
+    - App Tracking Transparencyに対応
+
+    …といったお品書きでございます。少し苦戦したところもありましたが、ユーザーの皆様からお寄せいただいたご意見を元に開発を進めております。喜んでいただけるとこちらもうれしいです。
+    今後もじわじわと機能が増えていく予定ですので、おたのしみに！
+Version 1.3 (Apr 2, 2021)
+    いつも引き出し日記をお使いいただきありがとうございます。
+    今回のアップデートでは
+
+    ・週はじめの曜日を「月曜日」「日曜日」から選べるように
+    ・配信される広告がない場合はカレンダー上部の広告スペースを削除
+    ・検索画面のフォントサイズの調整
+    ・カレンダーのデザインを微修正
+
+    あたりを追加しました。
+
+    まだまだ開発中の機能がたくさんあるので、順次アップデート予定です！
+    お楽しみに！
+Version 1.2 (Mar 4, 2021)
+    今回のアップデートでは
+
+    ・広告を非表示にする機能が正しく機能していなかったため不具合を修正しました
+    ・レビュー機能を設定画面に追加しました
+
+    今後ともアップデートによる機能改善に励んでまいりますので、お楽しみに！
+Version 1.1 (Mar 1, 2021)
+    今回のアップデートで以下の機能、情報を追加しました。
+
+    - 広告を非表示にする機能の追加
+    - プライバシーポリシーの更新
+
+    今後もアップデートを通して使いやすいアプリを目指していきますので、お楽しみに！
+
+Users may also like
+Select objects to compare
+Simple Diary - Daily Journal
+DotHabit - Visualize Habits
+TenYear Diary - journal & memo
+My Nikki
+Diary: Daily Journal
+PenCake - simple notes, diary
+TIME HACKER - Time Tracker
+MY BUCKET LIST 100
+Luna diary
+Routine Task Timer
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+2 times
+on App Store category pages
+Versions
+
+    6.6.0
+    Current release
+    Feb 6, 2024
+    6.5.1
+    Jan 26, 2024
+    6.4.3
+    Nov 20, 2023
+    6.4.2
+    Oct 27, 2023
+    6.4.0
+    Oct 18, 2023
+    6.4.1
+    Oct 18, 2023
+    6.3.1
+    Sep 8, 2023
+    6.3.0
+    Aug 16, 2023
+    6.2.1
+    Aug 14, 2023
+    6.1.2
+    Jul 11, 2023
+    6.1.1
+    Jul 6, 2023
+    6.1.0
+    Jun 28, 2023
+    6.0.1
+    Jun 9, 2023
+    6.0.0
+    Jun 5, 2023
+    5.2.6
+    May 11, 2023
+    5.2.5
+    May 7, 2023
+    5.2.0
+    Apr 16, 2023
+    5.1.0
+    Apr 4, 2023
+    5.0.3
+    Mar 9, 2023
+    5.0.2
+    Mar 6, 2023
+    4.9.1
+    Feb 16, 2023
+    4.9.0
+    Feb 13, 2023
+    4.8.0
+    Jan 8, 2023
+    4.7.7
+    Dec 29, 2022
+    4.7.7
+    Dec 29, 2022
+    4.7.3
+    Dec 15, 2022
+    4.7.0
+    Dec 13, 2022
+    4.6.5
+    Nov 20, 2022
+    4.6.4
+    Nov 18, 2022
+    4.6.3
+    Nov 6, 2022
+    4.6.2
+    Nov 2, 2022
+    4.6.1
+    Oct 21, 2022
+    4.5.2
+    Oct 9, 2022
+    4.5.1
+    Sep 22, 2022
+    4.5.0
+    Sep 15, 2022
+    4.3.9
+    Sep 8, 2022
+    4.3.6
+    Sep 4, 2022
+    4.3.5
+    Aug 31, 2022
+    4.3.1
+    Aug 27, 2022
+    4.2.2
+    Jul 26, 2022
+    4.2.1
+    Jul 19, 2022
+    4.2.0
+    Jul 17, 2022
+    4.1.3
+    Jul 8, 2022
+    4.1.2
+    Jul 6, 2022
+    4.1.0
+    Jun 20, 2022
+    4.0.2
+    Jun 13, 2022
+    3.9.4
+    Jun 7, 2022
+    3.9.3
+    Jun 3, 2022
+    3.8.7
+    May 26, 2022
+    3.8.3
+    May 24, 2022
+    3.7.0
+    May 2, 2022
+    3.6.3
+    Apr 14, 2022
+    3.6.1
+    Apr 12, 2022
+    3.4.0
+    Mar 11, 2022
+    3.3.0
+    Feb 15, 2022
+    3.2.2
+    Feb 13, 2022
+    3.1.0
+    Feb 11, 2022
+    3.0.8
+    Jan 19, 2022
+    3.0.6
+    Jan 12, 2022
+    3.0.5
+    Jan 10, 2022
+    2.4.6
+    Nov 28, 2021
+    2.4.2
+    Aug 9, 2021
+    2.2.2
+    Jul 4, 2021
+    2.1.1
+    Jun 30, 2021
+    2.1
+    Jun 29, 2021
+    1.4
+    Apr 29, 2021
+    1.3
+    Apr 2, 2021
+    1.2
+    Mar 4, 2021
+    1.1
+    Mar 1, 2021
+
+See More
+Top In-App Purchases
+
+    DrawerJournal Premium Annual
+    $12.99
+    DrawerJournal Premium Monthly
+    $1.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Feb 16, 2021
+
+Worldwide Release Date
+    Feb 16, 2021
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    6.6.0
+
+Size
+    97.93 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Korean, Simplified Chinese, Traditional Chinese
+
+Seller
+    Yoshihiko Uchida
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 and watchOS 9.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.yoshidayo.drawerDiary
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (May 24, 2022)
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1553585038
+Unified App ID: 1000800000157042
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+DrawerJournal - Diary & Notes | data.ai

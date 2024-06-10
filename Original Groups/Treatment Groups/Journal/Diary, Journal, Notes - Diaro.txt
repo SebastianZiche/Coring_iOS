@@ -1,0 +1,766 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Diary, Journal, Notes - Diaro
+Abhishek KumarLifestyle (Applications)Free
+Alerts
+
+    Abhishek Kumar
+
+    Diary, Journal, Notes - Diaro
+    Diary, Journal, Notes - Diaro
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Diary, Journal, Notes - Diaro
+Your Personal & Secure Diary
+Lifestyle (Applications)
+Free
+App Description
+Diaro is a multi-platform diary, journal, notes app designed to record your activities, daily events, appointments, experiences, thoughts, feelings, secrets and ideas throughout the day and sync data across all your devices & PC. It helps you organize your daily diary/journal entries or notes from the past in the easiest way.
+
+Preserve your special memories, store personal moments & memories or keep track of your life with help of Diaro.
+
+DIARO FEATURES
+
+SECURE & PRIVATE
+Lock & Protect your private diary entries with a PIN, Security code or fingerprint. Protect Privacy with data encryption & passcode
+
+THEMES & LANGUAGES
+Personalize UI with different UI colors & Themes. Multilingual UI(30+ languages), adapted for phones, tablets and web. Simple and intuitive interface
+
+SEARCH & ORGANIZE
+Powerful search and filter functions. Organize diary / journal entries using folders, tags, locations and find records by keyword, filter them by date, tags, folder or even location
+
+MOOD TRACKER ,ATLAS & THROWBACK
+Daily Diary Mood tracker, On this day diary memories / daily diary throwback, Weather info & beautiful Atlas view
+
+BACKUP & RESTORE
+Backup diary entries for easy recovery & restore easily
+
+IMPORT & EXPORT
+Export to PDF, Docx or Txt and print or share them via Diaro App or Diaro Online (PDF, DOCX, CSV & TXT).
+Import data from other popular diary apps : Journey, Evernote, Catch Notes, Flava, Google Keep, Momento, Day One apps
+
+SYNC
+Using Dropbox you can seamlessly sync between the Diaro app on all of your devices and Diaro Online using any web browser
+
+STATISTICS
+Detailed interesting statistics about your diary entries and mood
+
+OTHER FEATURES
+• Automatic Geotagging for new diary entries
+• Calendar view for easy navigation & overview of daily entries
+• Attach & store unlimited amount of photos in your diary
+• Cloud storage & Sync (via Dropbox)
+• Share diary entries and photos via Email, SMS, Twitter, Whatsapp etc.
+• Quickly create a new diary entry from the notification bar icon or widget
+• Multi-window mode (if supported by device)
+• Swipe between your diary entries
+• Speak to write, voice to text
+
+
+DIARO ONLINE
+You can access your Diaro diary entries online on any device using your web browser
+
+ABOUT DIARO
+Trusted by millions of users worldwide, Diaro is the smart, intuitive and most secure way to keep a personal diary. Download now for free and keep your secret diary, diet diary logs, travel diary with stories, sleep journal, photos and maps , wish lists, daily expenses, autobiography or daily life diary notes, securely. You can organize your receipts, invoices, or use it as a homework tracker or assignment planner, organizer, notebook or as simple note-taking app. Keep A Beautiful, Orderly, and Private Journal Of Your Thoughts and Days With Diaro!
+
+Find the FAQs in the Help & Support or contact us at support@diaroapp.com
+
+DIARO PRO FEATURES
+
+Diaro PRO membership is an auto-renewing subscription. Pricing: US$5.99/year. Price may vary by location and are clearly displayed in the app.
+
+• Sync your diary across all your devices and Diaro Online using your Dropbox account
+• Export to PDF & other formats
+• Ad-Free Premium Experience
+• Priority Customer Support
+
++ Payment will be charged to your iTunes account at confirmation of purchase.
++ Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
++ Your account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
++ You can manage your subscription and switch off auto-renewal by accessing your Account Settings after purchase.
++ Any unused portion of a free trial period, if offered, will be forfeited if you purchase a subscription to that publication, where applicable.
+
+Privacy policy: https://www.diaroapp.com/privacy-policy
+
+Terms of use: https://www.diaroapp.com/terms
+Ratings
+Displayed Avg Ratings
+4.64
+Total Displayed Ratings
+21.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.0.2 (Dec 3, 2023)
+    Sync improvements & Sdk updates
+Version 2.0.1 (Dec 1, 2023)
+    Crash fix on new entry date change
+Version 2.0.0 (Nov 30, 2023)
+    Bug fixes and performance enhancements
+Version 1.9.9 (Nov 29, 2023)
+    New Gallery in Entry View
+    Bug fixes & performance enhancements
+Version 1.9.8 (Jul 11, 2023)
+    Bug Fixes
+Version 1.9.7 (Jun 30, 2023)
+    Text Recognition
+    Statistics
+    Bug Fixes
+Version 1.9.6 (Jun 26, 2023)
+    Bug Fixes and Sdk updates
+Version 1.9.5 (Oct 18, 2021)
+    * double quotes search
+    * 12 / 24 hour time display fix
+    * sdk updates & bug fixes
+Version 1.9.3 (Oct 14, 2021)
+    * 12 / 24 hour time display fix
+    * sdk updates
+    * app tracking transparency 
+Version 1.9.4 (Oct 14, 2021)
+    * 12 / 24 hour time display fix
+    * app tracking transparency
+    * sdk updates & bug fixes
+Version 1.9.2 (Jan 21, 2021)
+    * pdf export improvements
+    * sdk updates & bug fixes
+Version 1.9.1 (Dec 7, 2020)
+    * sdk updates
+    * swedish translation updates
+Version 1.9.0 (Nov 25, 2020)
+    * Title can be multiple lines now
+    * Sdk updates and bug fixes
+Version 1.8.9 (Oct 22, 2020)
+    * few bug fixes
+Version 1.8.8 (Oct 7, 2020)
+    * UI improvements
+Version 1.8.7 (Oct 3, 2020)
+    * Bug fixes and UI improvements
+Version 1.8.6 (Sep 30, 2020)
+    * UI improvements
+    * Bug fixes
+Version 1.8.5 (Sep 22, 2020)
+    - Multi select & print, export to pdf ( long press on entries list)
+    - Batch multi select & edit folder, tags, locations
+    - Improved fullscreen mode for a clean & distraction free writing experience
+Version 1.8.4 (Sep 8, 2020)
+    - Export to PDF, TXT, CSV
+    - Layout improvements
+Version 1.8.3 (Sep 4, 2020)
+    * Memory & image loading optimizations
+    * Atlas & photo gallery
+    * Bug fixes
+Version 1.8.2 (Aug 30, 2020)
+    * All photos / media view
+    * Atlas view
+Version 1.8.1 (Aug 28, 2020)
+    * Atlas view 
+Version 1.8.0 (Aug 6, 2020)
+    - Text to speech
+    - Bug fixes
+    - Yearly subscription
+Version 1.7.9 (Aug 4, 2020)
+    * Templates
+    * Moods filter - Side Menu
+    * Text to speech - Read Aloud
+    * Language updates
+    * Timestamp
+    * Bug and crash fixes
+    * Sign in with Apple
+Version 1.7.8 (Aug 1, 2020)
+    * Templates
+    * Moods filter - Side Menu
+    * Text to speech - Read Aloud
+    * Language updates
+    * Timestamp
+Version 1.7.7 (Jun 24, 2020)
+    * dark mode improvements
+    * added few new vector icons
+Version 1.7.6 (Jun 23, 2020)
+    * sort backup zip files by creation date
+    * add mood and weather data in manual backups
+    * fixed folders bug in manual backups
+Version 1.7.5 (Jun 4, 2020)
+    * dark mode improvements
+    * bug fixes and sdk updates
+Version 1.7.4 (Apr 9, 2020)
+    * UI improvements and Bug fixes
+Version 1.7.3 (Apr 6, 2020)
+    * Select between Light, Dark or System appearance mode under settings
+    * Larger entry padding on IPAD
+    * Added Open Sans & San Francisco fonts
+    * UI improvements
+
+Version 1.7.2 (Apr 2, 2020)
+    * On this day / throwback
+    * Dark mode improvements
+    * Bug fixes
+Version 1.7.1 (Apr 1, 2020)
+    * on this day
+    * bug fixes
+Version 1.7.0 (Mar 20, 2020)
+    * weather translation
+Version 1.6.9 (Mar 3, 2020)
+    * profile image size fix on ipad
+    * new weather fonts
+Version 1.6.8 (Feb 20, 2020)
+    * Add entry and photos via 3D touch
+    * Long press on entries list to enable multi-select
+    * Search text highlight
+    * Filter view improvements
+    * Imageview and font optimisations
+    * UI tweaks
+Version 1.6.7 (Feb 12, 2020)
+    * add date & location from photos
+    * option to disable automatic location
+    * option to disable title
+    * photos list scroll fix
+    * layout improvements
+Version 1.6.6 (Feb 5, 2020)
+    * add location automatically while writing an new entry
+    * location search improvements & bug fixes
+    * added search field under locations, tags, moods and folders
+    * non ascii search improvements
+    * chunked upload for backup files
+    * swift 5 port
+Version 1.6.5 (Jan 29, 2020)
+    * Upload backup files to dropbox improvements
+    * New UI & Folder colors
+    * Better image quality 
+Version 1.6.4 (Dec 21, 2019)
+    * layout improvements
+Version 1.6.3 (Dec 16, 2019)
+    * dropbox sdk update
+Version 1.6.1 (Dec 10, 2019)
+    * ipad sideview freeze fix on delete items
+Version 1.6.0 (Nov 17, 2019)
+    * settings for disabling moods and weather
+    * notification settings crash fix
+    * added more UI colors
+    * iphone X and 11 side menu white bar fix
+Version 1.5.9 (Oct 19, 2019)
+    * swipe between entries
+    * added unit settings
+    * google login updates
+    * daily notification display & deletion fixes
+    * dark mode improvements
+    * backup file display format improvements
+Version 1.5.8 (Oct 3, 2019)
+    * dark mode support
+    * bug fixes
+Version 1.5.6 (Sep 28, 2019)
+    * location popup bug fix
+    * sdk updates
+Version 1.5.4 (Aug 27, 2019)
+    * bug fixes and sdk updates
+Version 1.5.3 (Aug 23, 2018)
+    * iphone X crash fix
+    * sdk updates
+Version 1.5.2 (Aug 8, 2018)
+    * bug fixes
+Version 1.5.1 (Apr 5, 2018)
+    * language fixes
+    * mood tracker
+    * weather
+    * various bug fixes
+Version 1.5.0 (Mar 30, 2018)
+    * Crash fixes
+    * Mood and Temperature
+    * Sync improvements
+    * Added Dutch, other language improvements
+    * Icon and UI improvements
+Version 1.4.9 (Mar 27, 2018)
+    * Fahrenheit Celsius fix
+    * Mood and Temperature
+    * Sync improvements
+    * Added Dutch, other language fixes
+    * Icon and UI improvements
+Version 1.4.8 (Mar 26, 2018)
+    *added Dutch
+    *moods & weather infos
+    *bug fixes , UI improvements
+Version 1.4.6 (Dec 21, 2017)
+    * added Portuguese
+    * mute notifications on sync
+    * bug fixes
+Version 1.4.5 (Nov 14, 2017)
+    * Create Location improvement
+    * Swift 4 Port
+    * UI improvements
+    * iOS 10 password crash fix
+    * Calendar first day of week crash fix
+Version 1.4.4 (Nov 8, 2017)
+    * bug fixes
+Version 1.4.3 (Jul 26, 2017)
+    * bug fixes
+    * new fonts
+Version 1.4.2 (Jul 2, 2017)
+    * sync bug fixes
+    * backup & restore improvements
+Version 1.4.1 (Jun 21, 2017)
+    * pull to refresh
+    * faster dropbox sync
+    * russian search bug fix
+    * image compression
+    * lag fix while writing entry
+Version 1.4.0 (Jun 19, 2017)
+    * faster dropbox sync
+    * pull to refresh
+    * image compression
+    * crash fixes
+Version 1.3.8 (May 10, 2017)
+    * google login fix
+    * bug fixes
+Version 1.3.7 (Apr 5, 2017)
+    * tag, folder selection fix
+Version 1.3.5 (Mar 29, 2017)
+    * share image via gallery fix
+    * compress shared image
+Version 1.3.4 (Feb 1, 2017)
+    * ipad crash fix
+Version 1.3.2 (Jan 29, 2017)
+    * select first day of week in calendar
+    * fixed sync problems
+    * added french
+    * fixed sidebar bugs
+Version 1.3.1 (Jan 18, 2017)
+    * bug fixes
+Version 1.3.0 (Jul 28, 2016)
+    - Bug fixes and performance improvements.
+Version 1.2.9 (Jul 21, 2016)
+    - Changed entry view controller to remove duplicate entry issue;
+    - Changed Ads provider;
+    - Removed default reminders error message;
+    - Bug fixes and performance improvements.
+Version 1.2.8 (May 23, 2016)
+    - Bug fixes and improvements.
+
+    Encounter any issue? Open Diaro Settings->Support and choose "Contact developer".
+Version 1.2.7 (May 17, 2016)
+    - Search text highlight;
+    - General bug fixes and improvements.
+
+    Encounter any issue? Open Diaro Settings->Support and choose "Contact developer".
+Version 1.2.6 (May 13, 2016)
+    - Search text highlight;
+    - General bug fixes and improvements.
+
+    Encounter any issue? Open Diaro Settings->Support and choose "Contact developer".
+Version 1.2.5 (May 3, 2016)
+    Bug fixes.
+Version 1.2.4 (Apr 30, 2016)
+    - Adapted Diaro app for iPad multitasking;
+    - Fixed issue with timezone when restoring from backup;
+    - Stability improvements.
+
+    Encounter any issue? Open Diaro Settings->Support and choose "Contact developer".
+Version 1.2.3 (Apr 7, 2016)
+    Bug fixes.
+Version 1.2.2 (Mar 17, 2016)
+    IMPORTANT: Please backup before update!
+    This release syncs only with new Diaro beta versions.
+
+    Fixed backup restore issue;
+    Fixed dates timezone issue;
+    Fixed security code on iPad;
+    Sync improvements.
+Version 1.2.1 (Mar 16, 2016)
+    IMPORTANT: Please backup before update!
+    This release syncs only with new Diaro beta versions.
+
+    - Redesigned Dropbox sync, now works using files;
+    - Large date view in entry list;
+    - Map in entry view;
+    - Calendar in the side menu;
+    - AES-256 SQLCipher for local database and data in Dropbox;
+    - Shows entry local time in a timezone it was created;
+    - Improved app speed;
+    - Many other fixes and improvements.
+Version 1.2.0 (Mar 3, 2016)
+    IMPORTANT: This release syncs only with new Diaro beta versions.
+
+    - Redesigned Dropbox sync, now works using files;
+    - Large date view in entry list;
+    - Map in entry view;
+    - Calendar in the side menu;
+    - AES-256 SQLCipher for local database and data in Dropbox;
+    - Shows entry local time in a timezone it was created;
+    - Improved app speed;
+    - Many other fixes and improvements.
+Version 1.1.1 (Jun 4, 2015)
+    Bug fixes.
+Version 1.1.0 (May 22, 2015)
+    Overall app improvements.
+Version 1.0.10 (Apr 24, 2015)
+    - Changed Google+ sign-in process;
+    - Stability improvements;
+    - Some other fixes.
+Version 1.0.9 (Apr 10, 2015)
+    - Bug fixes and stability improvements.
+Version 1.0.8 (Mar 12, 2015)
+    We have done a lot of improvements and fixed some issues, please BACKUP your data.
+
+    - Fixed current location detection on iOS8;
+    - Stability improvements.
+Version 1.0.7 (Jan 9, 2015)
+    - Swipe left/right between entries;
+    - Other fixes and improvements.
+Version 1.0.6 (Dec 8, 2014)
+    - Added Reminders;
+    - Added Turkish language;
+    - Some accessibility improvements;
+Version 1.0.5 (Nov 19, 2014)
+    - Fixed TouchID issue;
+    - Some minor improvements.
+Version 1.0.3 (Nov 1, 2014)
+    - Added Share Extension (up to 10 photos);
+    - Unlock app with TouchID;
+    - Fixed entry edit in landscape mode;
+    - Some small fixes.
+Version 1.0.1 (Oct 9, 2014)
+    - Fixed an issue with duplicate entries;
+    - Fixed crashes when typing;
+    - Fixed security code issue;
+    - Fixed text size issue;
+    - Added Traditional Chinese and Russian languages;
+    - Optimized for iOS 8;
+    - Some other fixes and improvements.
+Version 1.0.0 (Sep 12, 2014)
+
+Users may also like
+Select objects to compare
+Diary - Journal with password
+Simple Diary - Daily Journal
+Secret Diary With Passcode
+Diarly: Private Daily Journal
+My Diary - Journal with Lock
+Secret Diary With Lock
+Secret Diary: My Private Notes
+Diary ·
+Momento: Private Journal Diary
+Diary - Private Note With Lock
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+3 times
+on App Store category pages
+Versions
+
+    2.0.2
+    Current release
+    Dec 3, 2023
+    2.0.1
+    Dec 1, 2023
+    2.0.0
+    Nov 30, 2023
+    1.9.9
+    Nov 29, 2023
+    1.9.8
+    Jul 11, 2023
+    1.9.7
+    Jun 30, 2023
+    1.9.6
+    Jun 26, 2023
+    1.9.5
+    Oct 18, 2021
+    1.9.3
+    Oct 14, 2021
+    1.9.4
+    Oct 14, 2021
+    1.9.2
+    Jan 21, 2021
+    1.9.1
+    Dec 7, 2020
+    1.9.0
+    Nov 25, 2020
+    1.8.9
+    Oct 22, 2020
+    1.8.8
+    Oct 7, 2020
+    1.8.7
+    Oct 3, 2020
+    1.8.6
+    Sep 30, 2020
+    1.8.5
+    Sep 22, 2020
+    1.8.4
+    Sep 8, 2020
+    1.8.3
+    Sep 4, 2020
+    1.8.2
+    Aug 30, 2020
+    1.8.1
+    Aug 28, 2020
+    1.8.0
+    Aug 6, 2020
+    1.7.9
+    Aug 4, 2020
+    1.7.8
+    Aug 1, 2020
+    1.7.7
+    Jun 24, 2020
+    1.7.6
+    Jun 23, 2020
+    1.7.5
+    Jun 4, 2020
+    1.7.4
+    Apr 9, 2020
+    1.7.3
+    Apr 6, 2020
+    1.7.2
+    Apr 2, 2020
+    1.7.1
+    Apr 1, 2020
+    1.7.0
+    Mar 20, 2020
+    1.6.9
+    Mar 3, 2020
+    1.6.8
+    Feb 20, 2020
+    1.6.7
+    Feb 12, 2020
+    1.6.6
+    Feb 5, 2020
+    1.6.5
+    Jan 29, 2020
+    1.6.4
+    Dec 21, 2019
+    1.6.3
+    Dec 16, 2019
+    1.6.1
+    Dec 10, 2019
+    1.6.0
+    Nov 17, 2019
+    1.5.9
+    Oct 19, 2019
+    1.5.8
+    Oct 3, 2019
+    1.5.6
+    Sep 28, 2019
+    1.5.4
+    Aug 27, 2019
+    1.5.3
+    Aug 23, 2018
+    1.5.2
+    Aug 8, 2018
+    1.5.1
+    Apr 5, 2018
+    1.5.0
+    Mar 30, 2018
+    1.4.9
+    Mar 27, 2018
+    1.4.8
+    Mar 26, 2018
+    1.4.6
+    Dec 21, 2017
+    1.4.5
+    Nov 14, 2017
+    1.4.4
+    Nov 8, 2017
+    1.4.3
+    Jul 26, 2017
+    1.4.2
+    Jul 2, 2017
+    1.4.1
+    Jun 21, 2017
+    1.4.0
+    Jun 19, 2017
+    1.3.8
+    May 10, 2017
+    1.3.7
+    Apr 5, 2017
+    1.3.5
+    Mar 29, 2017
+    1.3.4
+    Feb 1, 2017
+    1.3.2
+    Jan 29, 2017
+    1.3.1
+    Jan 18, 2017
+    1.3.0
+    Jul 28, 2016
+    1.2.9
+    Jul 21, 2016
+    1.2.8
+    May 23, 2016
+    1.2.7
+    May 17, 2016
+    1.2.6
+    May 13, 2016
+    1.2.5
+    May 3, 2016
+    1.2.4
+    Apr 30, 2016
+    1.2.3
+    Apr 7, 2016
+    1.2.2
+    Mar 17, 2016
+    1.2.1
+    Mar 16, 2016
+    1.2.0
+    Mar 3, 2016
+    1.1.1
+    Jun 4, 2015
+    1.1.0
+    May 22, 2015
+    1.0.10
+    Apr 24, 2015
+    1.0.9
+    Apr 10, 2015
+    1.0.8
+    Mar 12, 2015
+    1.0.7
+    Jan 9, 2015
+    1.0.6
+    Dec 8, 2014
+    1.0.5
+    Nov 19, 2014
+    1.0.3
+    Nov 1, 2014
+    1.0.1
+    Oct 9, 2014
+    1.0.0
+    Sep 12, 2014
+
+See More
+Top In-App Purchases
+
+    Diaro Pro 1 Year
+    $8.99
+    Diaro PRO
+    $39.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Sep 12, 2014
+
+Worldwide Release Date
+    Sep 12, 2014
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    2.0.2
+
+Size
+    58.82 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Czech, Dutch, French, German, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Polish, Portuguese, Russian, Simplified Chinese, Slovak, Spanish, Swedish, Tamil, Traditional Chinese, Turkish
+
+Seller
+    Abhishek Kumar
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.pixelcrater.diaro
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 882519460
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Diary, Journal, Notes - Diaro | data.ai

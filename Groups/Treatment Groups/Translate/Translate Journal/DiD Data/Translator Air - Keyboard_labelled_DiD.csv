@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1502909594,0,Translator Air Keyboard,Utilities,2020-04-13,2020-04-13,110.84,33,0,0,1,0,0,1,0,0,0,0,0,0,0,month_1,0,0,1186,1291.0
+1502909594,0,Translator Air Keyboard,Utilities,2020-04-13,2020-04-13,110.84,33,0,0,1,1,0,0,1,0,0,0,0,0,0,month_2,0,0,1216,1291.0
+1502909594,0,Translator Air Keyboard,Utilities,2020-04-13,2020-04-13,110.84,33,0,0,1,0,0,0,0,1,0,0,0,0,0,month_3,0,0,1246,1291.0
+1502909594,0,Translator Air Keyboard,Utilities,2020-04-13,2020-04-13,110.84,33,0,0,1,0,0,0,0,0,1,0,0,0,0,month_4,0,0,1276,1291.0
+1502909594,0,Translator Air Keyboard,Utilities,2020-04-13,2020-04-13,110.84,33,0,0,1,1,0,0,0,0,0,1,0,0,0,month_5,0,1,1306,1291.0
+1502909594,0,Translator Air Keyboard,Utilities,2020-04-13,2020-04-13,110.84,33,0,0,1,0,0,0,0,0,0,0,1,0,0,month_6,0,1,1336,1291.0
+1502909594,0,Translator Air Keyboard,Utilities,2020-04-13,2020-04-13,110.84,33,0,0,1,0,0,0,0,0,0,0,0,1,0,month_7,0,1,1366,1291.0
+1502909594,0,Translator Air Keyboard,Utilities,2020-04-13,2020-04-13,110.84,33,0,0,1,0,0,0,0,0,0,0,0,0,1,month_8,0,1,1396,1291.0

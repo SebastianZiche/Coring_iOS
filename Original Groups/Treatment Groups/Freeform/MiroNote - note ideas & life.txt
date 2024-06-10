@@ -1,0 +1,304 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MiroNote - note ideas & life
+Fillume Technology Co., Ltd.Lifestyle (Applications)Free
+Alerts
+
+    Fillume Technology Co., Ltd.
+
+    MiroNote - note ideas & life
+    MiroNote - note ideas & life
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MiroNote - note ideas & life
+Mirror of life
+Lifestyle (Applications)
+Free
+iPhone Only
+App Description
+MiroNote
+Is a fast and stress-free note-taking application for recording thoughts and life,
+You can use hierarchical tags to label and index the recorded content, eliminating the trouble of classification during recording.
+You can store all data locally or in your icloud drive, miro note will support more types of storage space such as google drive, to ensure data privacy and no loss.
+If you are a Notion user, you can integrate it into the Notion workflow by setting data synchronization with notion. The rapid recording capability of miro note is a supplement to Notion.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+Loading
+Loading lots of data (this could take a moment).
+See More
+What's New
+
+Version 2.1.1 (Jul 1, 2023)
+    1,fix some bugs.
+Version 2.1.0 (Jun 25, 2023)
+    1, fix some bugs.
+Version 2.0.1 (Apr 7, 2023)
+    1, modify the help page of Notion Integration, refine the process.
+Version 2.0 (Mar 31, 2023)
+    fix some bugs.
+Version 1.9.9 (Mar 23, 2023)
+    1, Support Dropbox, upload image to Dropbox before synced to Notion.
+    2, add help link in Notion Configuration page.
+Version 1.9.8 (Mar 15, 2023)
+    1, change notion configuration page, add help page.
+Version 1.9.7 (Mar 14, 2023)
+    1, fix some bugs.
+Version 1.9.6 (Mar 10, 2023)
+    1, fix bugs.
+Version 1.9.5 (Mar 5, 2023)
+    1, fix backup images bugs. save raw image to icloud drive.
+    2, change ui interface of input.
+Version 1.9.4 (Feb 24, 2023)
+    1, add sync to notion.
+Version 1.9.3 (Feb 10, 2023)
+    1, fix edit bugs.
+Version 1.9.1 (Jan 31, 2023)
+    1, add no more then 6 photos in one note.
+    2, fix bugs when indent a line.
+Version 1.9 (Jan 23, 2023)
+    1，fix some bugs.
+    2, add top and untop to tags.
+    3, change input format of tag page.
+Version 1.8.1 (Jan 6, 2023)
+    1, fix edit note bugs.
+Version 1.8.0 (Jan 4, 2023)
+    1,move tags to menu.
+    2,fix animation error of sync button.
+Version 1.8.0 (Jan 4, 2023)
+    1,move tags to menu.
+    2,fix animation error of sync button.
+Version 1.7.1 (Dec 28, 2022)
+    1, fix bug, can not show photos in map mode.
+Version 1.7.0 (Dec 26, 2022)
+    1,fix some note edit bugs.
+Version 1.6.1 (Dec 18, 2022)
+    1, fix some bugs.
+    2, add multiple images to diary.
+Version 1.6.0 (Dec 8, 2022)
+    1, change the name "path" to "pinned". All pinned tags will show in left menu.
+    2, fix some bugs in pinned.
+    3, add daily to note.
+Version 1.4.1 (Nov 27, 2022)
+    1, fix some language errors.
+    2, modify data format.
+Version 1.4.0 (Nov 24, 2022)
+    1, fix search notes error.
+    2, add list view and share to social media to path app.
+Version 1.3 (Nov 20, 2022)
+    1, add new app "path" which users can add photos to map.
+    2, fix some bugs. 
+Version 1.2.1 (Nov 11, 2022)
+    fix some memories app bugs.
+Version 1.2 (Nov 2, 2022)
+    1，add memories app and fix some bugs.
+Version 1.1 (Oct 27, 2022)
+    1, add todo and fix some bugs.
+Version 1.0.2 (Oct 19, 2022)
+    1, add todo, notes can transform to a todo item.
+    2, fix note edit bugs.
+Version 1.0.1 (Oct 12, 2022)
+
+Users may also like
+Select objects to compare
+NSMBC
+Timelines - Life Chapters
+Minimal Diary - Life timeline
+Lifely: timeline maker journal
+百度众包
+送水到府
+Wedding Schedule Maker
+God's Calming Promises To You
+Resin pour! ASMR Epoxy Art
+Watch Faces Gallery + Widgets
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.1.1
+    Current release
+    Jul 1, 2023
+    2.1.0
+    Jun 25, 2023
+    2.0.1
+    Apr 7, 2023
+    2.0
+    Mar 31, 2023
+    1.9.9
+    Mar 23, 2023
+    1.9.8
+    Mar 15, 2023
+    1.9.7
+    Mar 14, 2023
+    1.9.6
+    Mar 10, 2023
+    1.9.5
+    Mar 5, 2023
+    1.9.4
+    Feb 24, 2023
+    1.9.3
+    Feb 10, 2023
+    1.9.1
+    Jan 31, 2023
+    1.9
+    Jan 23, 2023
+    1.8.1
+    Jan 6, 2023
+    1.8.0
+    Jan 4, 2023
+    1.8.0
+    Jan 4, 2023
+    1.7.1
+    Dec 28, 2022
+    1.7.0
+    Dec 26, 2022
+    1.6.1
+    Dec 18, 2022
+    1.6.0
+    Dec 8, 2022
+    1.4.1
+    Nov 27, 2022
+    1.4.0
+    Nov 24, 2022
+    1.3
+    Nov 20, 2022
+    1.2.1
+    Nov 11, 2022
+    1.2
+    Nov 2, 2022
+    1.1
+    Oct 27, 2022
+    1.0.2
+    Oct 19, 2022
+    1.0.1
+    Oct 12, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Oct 12, 2022
+
+Worldwide Release Date
+    Oct 12, 2022
+
+Last Updated Time
+    Feb 19, 2024
+
+Version
+    2.1.1
+
+Size
+    86.20 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese
+
+Seller
+    Fillume Technology Co., Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.fillume.miro
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1634722656
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MiroNote - note ideas & life | data.ai

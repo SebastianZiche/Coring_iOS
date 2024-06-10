@@ -1,0 +1,506 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Post-it®
+3MProductivity (Applications)Free
+Alerts
+
+Post-it
+Post-it®
+Post-it®
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Post-it®
+Brainstorm. Capture. Share.
+Productivity (Applications)
+Free
+iPhone Only
+App App Store Notes
+3M Company’s free app is a terrific solution for organizing and preserving real-world Post-it notes. It’s incredibly easy to use: just snap an image of your notes, then arrange them however you like on virtual boards—or quickly share notes via email or social media.
+App Description
+Use Post-it® Notes anywhere and anytime. Post-it® App brings the simplicity of Post-it® Notes to your iPhone, iPad and Mac. Whether you use Post-it® Notes for teamwork and collaboration, or for reminders and personal note taking, Post-it® App helps you keep the momentum going.
+
+If you work from home or as a student in remote learning, use the Post-it® App to share your ideas with co-workers, structure your assignments and share them with your teacher, or create colorful calendars and share them with your friends.
+
+Simply capture analog notes with your camera or create digital notes right on your device. Arrange, refine and organize ideas anyway you see fit. Collaborate and share notes with co-workers, teachers and friends, or export to your favorite apps and cloud services—including Miro, Trello, Dropbox, iCloud, PowerPoint, Excel, PDF, and more.
+
+Post-it® App features:
+
+• Connect and share ideas from anywhere with co-workers and friends, whether it be a workshop, a brainstorm or you simply want to share notes with each other.
+• Capture more than 200 Post-it® Notes at a time with your camera. All our popular note sizes are supported.
+• Transcribe your notes automatically using Handwriting Recognition. Great for search and exports.
+• Draw, erase, type and change the color of your notes using powerful editing tools.
+• Organize your way—group your ideas by thought or simply organize on a grid.
+• Share to your favorite formats and cloud services to continue working on your ideas digitally—supports Miro, Trello, Dropbox, PowerPoint, Excel, PDF, and more.
+• Use our widget to put your most important notes directly on your home screen.
+• Keep your notes and boards in sync across all your Apple devices with iCloud. You can capture Post-it® Notes with your iPhone and edit the board on your Mac before you share with your team.
+
+Learn more about Post-it® App at post-it.com/app
+Ratings
+Displayed Avg Ratings
+4.7
+Total Displayed Ratings
+28.6k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.2.7 (Feb 19, 2024)
+    - Create a New Board directly from the starting page for an easy and efficient start to your projects
+
+    - Quickly replicate the content of existing boards with the upgraded Duplicate Board feature. Save time on repetitive tasks and streamline your workflow
+
+    - Enhance your text recognition experience with the Retry function, designed to optimize the text recognition process
+
+    - Bug fixes to improve your overall app experience
+Version 5.2.6 (Dec 4, 2023)
+    - Marker and Eraser Size Selection: Customize your note editing experience by choosing the perfect marker and eraser sizes.
+    - Enhanced "What's New" Notification: Stay informed about the latest changes with our updated notification. Detailed information is also available in the "What's New" section within the app's Settings.
+    - Capture SDK Improvements: Improved recognition of lighter-colored text makes it more efficient work with your captures.
+    - Bug Fixes: We've resolved several issues to ensure a smoother user experience.
+Version 5.2.5 (Oct 6, 2023)
+    - To enhance text recognition capabilities within the app, we introduced new OCR service.
+    - From now on you will receive an automatic notification when a new Post-it app version is available, ensuring you're always up to date with the latest features and improvements.
+    - The Brainstorming feature was removed to streamline the user experience and focus on core functionality.
+    - To ensure compatibility and compliance with the latest iOS standards, we have improved security fixes for our app in iOS platform.
+    - Some of the bugs were fixed to increase reliability of our app.
+Version 5.2.4 (Aug 17, 2023)
+    - Important Notice: After August 31st, we will be discontinuing the Brainstorming Session feature. Look out for a notification within the app for more details.
+
+
+
+    - To ensure smoother performance and keep things running seamlessly, we have updated dependency libraries.
+Version 5.2.1 (Dec 6, 2021)
+    • Optimized for iPhones with 120Hz ProMotion displays.
+    • Minor improvements and bug fixes.
+Version 5.2 (Sep 20, 2021)
+    • Add todos, reminders, and ideas directly from the home screen with the new widget plus button.
+    • What’s better than more space for your reminders and ideas? Jot them all down with the new XL widget for iPadOS 15.
+Version 5.1 (Jun 23, 2021)
+    • Structure your ideas in new ways by using empty groups. Empty groups will stay in the board to help you organize and rearrange notes any way you like.
+    • The option to create duplicate boards allows you to use an existing board as a template, or to explore multiple variations of a board without changing the original.
+Version 5.0.1 (May 12, 2021)
+    Minor improvements and bug fixes.
+Version 5.0 (Apr 12, 2021)
+    Connect and share ideas with co-workers and friends:
+
+    • With the new feature called Brainstorming Session you can run a quick workshop, a brainstorm or simply share notes with co-workers and friends.
+    • When you start a new Brainstorming Session other people will be able to contribute their notes to your board.
+    • Share your notes with others by connecting to their session through a QR code, a link or a session ID.
+Version 4.4 (Mar 7, 2021)
+    Discover how your ideas can gain momentum with the new partnership between Post-it® Brand and Miro. Export Post-it® Notes into new Miro boards to visualize, share, and co-create in real time.
+Version 4.3.1 (Dec 20, 2020)
+    4.3.1
+    • Minor bug fixes.
+
+    4.3
+    • Choose between the new fonts in the app to express your ideas.
+    • Structure your thoughts with lists. The app now supports your preferred workflow whether you want to add one idea or multiple ideas per note.
+Version 4.3 (Dec 15, 2020)
+    • Choose between the new fonts in the app to express your ideas.
+    • Structure your thoughts with lists. The app now supports your preferred workflow whether you want to add one idea or multiple ideas per note.
+Version 4.2 (Nov 9, 2020)
+    • Do you use specific Post-it® Notes as group titles or headers during workshops? Now you can drag and drop these notes onto your digital group titles in the app to quickly update the group name and color.
+    • Boards with a lot of notes load faster and transitions are snappier.
+Version 4.1.3 (Oct 23, 2020)
+    Fixed a bug that could make the app crash on iPhone 12.
+Version 4.1.1 (Oct 13, 2020)
+    Minor improvements and bug fixes.
+Version 4.1 (Sep 17, 2020)
+    4.1
+    • Use the new widgets to place important thoughts, ideas and todo items right on your home screen.
+    • With support for Scribble you can use Apple Pencil to write on your digital Post-it® Notes and have the text automatically converted to typed text.
+
+    4.0
+    • Support for all of our popular note sizes. Use both square and rectangular Post-it® Notes in your workshop and capture them all with the app.
+    • Mix and match digital note sizes to create hierarchy, clarity or visual flair.
+    • Align, move and scale text with the enhanced text tool to improve the way you share ideas.
+    • Rectangular Post-it® Notes now also available to order from within the app.
+Version 4.0 (Sep 15, 2020)
+    • Support for all of our popular note sizes. Use both square and rectangular Post-it® Notes in your workshop and capture them all with the app.
+    • Mix and match digital note sizes to create hierarchy, clarity or visual flair.
+    • Align, move and scale text with the enhanced text tool to improve the way you share ideas.
+    • Rectangular Post-it® Notes now also available to order from within the app.
+Version 3.3 (Aug 24, 2020)
+    Minor bug fixes and improvements.
+Version 3.1.1 (May 29, 2020)
+    • Minor bug fixes and improvements
+Version 3.1 (May 4, 2020)
+    • Order Post-it® Notes that work great with the app from our retail partners
+    • Colors, fonts and icons have higher contrasts and better legibility
+    • Thumbnail previews of boards in iCloud make it easier to browse and find your Post-it® Notes
+Version 3.0.3 (Feb 24, 2020)
+    • Improved handwriting recognition
+    • Sound effect added when you delete a note
+    • Minor bug fixes and improvements
+Version 3.0.2 (Jan 22, 2020)
+    Fixed a bug that could result in files not being saved for certain language settings.
+Version 3.0.1 (Dec 19, 2019)
+    Small improvements and bug fixes.
+Version 3.0 (Dec 11, 2019)
+    • Automatically transcribe your notes with Handwriting Recognition. It's great for search and for exporting to formats like Excel and Trello.
+    • A Plain Text export format, made especially for boards with recognized handwriting.
+    • Need a refill? You can now order Post-it® Notes from within the app.
+    • The widget is making a comeback! Star your important notes and have them appear in the Today View Widget for easy access.
+Version 2.3.5 (Nov 22, 2019)
+    Fixed a problem that could occur when preparing existing boards for iCloud sync.
+Version 2.3.4 (Nov 8, 2019)
+    Fixes for context menu on iOS 13.2
+Version 2.3.3 (Nov 6, 2019)
+    • Support for the Logitech Crayon pencil
+    • Minor bug fixes and improvements
+Version 2.3 (Oct 2, 2019)
+    • Introducing Trello Export. Your Post-it® Notes can now take on a new digital shape and extend into Trello. Further your ideas, track tasks and continue the collaboration with your team.
+Version 2.2.1 (Sep 27, 2019)
+    2.2.1
+    • Minor bug fixes and improvements
+
+    2.2
+    • iCloud Sync will keep your notes and boards in sync across all your devices
+    • Optimized for iOS 13 with a gorgeous new Dark Mode, context menus, gestures and much more
+
+    (The Today Widget for favorite notes has been temporarily disabled and will return in an upcoming release.)
+Version 2.2 (Sep 16, 2019)
+    • iCloud Sync will keep your notes and boards in sync across all your devices
+    • Optimized for iOS 13 with a gorgeous new Dark Mode, context menus, gestures and much more
+
+    (The Today Widget for favorite notes has been temporarily disabled and will return in an upcoming release.)
+Version 2.1 (Jul 15, 2019)
+    Minor bug fixes and improvements to export options.
+Version 2.0 (May 3, 2019)
+    • Streamlined UI with improved capture and note editing
+    • Improved scanning engine with higher accuracy
+    • Custom default note color – pick your favorite Post-it® Note color for new digital notes
+Version 1.4 (Jan 23, 2019)
+    • Capture and add Post-it® Notes with Siri Shortcuts
+    • Support for double-tap with Apple Pencil 2
+Version 1.3.3 (Aug 28, 2018)
+    Optimizations and bug fixes for iPhone X
+Version 1.3.2 (Mar 22, 2018)
+    Fix for Apple Pencil tracking issues.
+Version 1.3.1 (Oct 21, 2017)
+    Optimizations for iOS 11 and iPhone 8, along with bug fixes for Today widget and importing of boards
+Version 1.3 (Jun 22, 2017)
+    • Support for a much wider range of analog and digital workflows, for
+    brainstorming or personal note taking with reminders and todos.
+    • All new support for Apple Pencil on iPad Pro.
+    • All new support for Split Screen on iPad, and landscape mode on iPhone.
+    • Full support for iOS sharing extensions in all formats, including
+    Dropbox, Google Drive, OneDrive, iCloud, Evernote, and many more.
+Version 1.2.6 (Nov 24, 2016)
+    Version 1.2.6 adds optimizations for iPhone 7 and iPhone 7 Plus, to capture
+    more notes and farther from the board. It also fixes some minor rendering
+    issues in the capture flow.
+Version 1.2.5 (Sep 15, 2016)
+    Fixes for iOS 10 and iPad Pro.
+Version 1.2.4 (Oct 16, 2015)
+    Optimizations for iPhone 6S and iPhone 6S Plus.
+Version 1.2.3 (Sep 11, 2015)
+    • Streamlined user experience with UI optimizations for common tasks and
+    lots of updates under the hood.
+    • Great new capture demo mode for first-time users, or when you show the
+    app to friends, but do not have any notes at hand.
+    • Minor bug fixes and improvements.
+Version 1.2.2 (May 6, 2015)
+    • Streamlined user experience with UI optimizations for common tasks and lots of updates under the hood.
+    • Great new capture demo mode for first-time users, or when you show the app to friends, but do not have any notes at hand.
+    • Minor bug fixes and improvements.
+Version 1.2.1 (Apr 20, 2015)
+    • Streamlined user experience with UI optimizations for common tasks and lots of updates under the hood.
+    • Great new capture demo mode for first-time users, or when you show the app to friends, but do not have any notes at hand.
+    • Minor bug fixes and improvements.
+Version 1.2 (Apr 7, 2015)
+    • Streamlined user experience with UI optimizations for common tasks and lots of updates under the hood.
+    • Great new capture demo mode for first-time users, or when you show the app to friends, but do not have any notes at hand.
+    • Minor bug fixes and improvements.
+Version 1.1.2 (Dec 21, 2014)
+    1.1
+    • Add new digital notes to continue building on existing boards.
+    • Edit your captured notes quickly and easily to keep your momentum moving
+    forward.
+    • At-a-glance view shows which group a note is in when viewing note
+    details.
+    • Works with Handoff so you can continue collaborating across all supported
+    devices.
+    • Editor’s Pack—upgrade to even more powerful app features like an eraser
+    and additional Post-it® Note colors.
+    1.1.1
+    Minor bug fixes and improvements.
+    1.1.2
+    Minor bug fix in the capture details view.
+Version 1.1.1 (Dec 1, 2014)
+    Minor bugfixes and improvements
+
+    • Add new digital notes to continue building on existing boards.
+    • Edit your captured notes quickly and easily to keep your momentum moving forward.
+    • At-a-glance view shows which group a note is in when viewing note details.
+    • Works with Handoff so you can continue collaborating across all supported devices.
+    • Editor’s Pack—upgrade to even more powerful app features like an eraser and additional Post-it® Note colors.
+Version 1.1 (Nov 20, 2014)
+    • Add new digital notes to continue building on existing boards.
+    • Edit your captured notes quickly and easily to keep your momentum moving forward.
+    • At-a-glance view shows which group a note is in when viewing note details.
+    • Works with Handoff so you can continue collaborating across all supported devices.
+    • Editor’s Pack—upgrade to even more powerful app features like an eraser and additional Post-it® Note colors.
+Version 1.0 (Sep 25, 2014)
+
+Users may also like
+Select objects to compare
+Sticky Notes + Widget Memo
+Sticky Notes App + Note Widget
+Agenda: Notes meets Calendar
+Microsoft Whiteboard
+Notebook - Take notes, To do
+MindNode - Mind Map & Outline
+Flow: Sketch, Draw, Take Notes
+Bear - Markdown Notes
+LiquidText
+Craft: Write docs, AI editing
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+79 times
+on App Store category pages
+Versions
+
+    5.2.7
+    Current release
+    Feb 19, 2024
+    5.2.6
+    Dec 4, 2023
+    5.2.5
+    Oct 6, 2023
+    5.2.4
+    Aug 17, 2023
+    5.2.1
+    Dec 6, 2021
+    5.2
+    Sep 20, 2021
+    5.1
+    Jun 23, 2021
+    5.0.1
+    May 12, 2021
+    5.0
+    Apr 12, 2021
+    4.4
+    Mar 7, 2021
+    4.3.1
+    Dec 20, 2020
+    4.3
+    Dec 15, 2020
+    4.2
+    Nov 9, 2020
+    4.1.3
+    Oct 23, 2020
+    4.1.1
+    Oct 13, 2020
+    4.1
+    Sep 17, 2020
+    4.0
+    Sep 15, 2020
+    3.3
+    Aug 24, 2020
+    3.1.1
+    May 29, 2020
+    3.1
+    May 4, 2020
+    3.0.3
+    Feb 24, 2020
+    3.0.2
+    Jan 22, 2020
+    3.0.1
+    Dec 19, 2019
+    3.0
+    Dec 11, 2019
+    2.3.5
+    Nov 22, 2019
+    2.3.4
+    Nov 8, 2019
+    2.3.3
+    Nov 6, 2019
+    2.3
+    Oct 2, 2019
+    2.2.1
+    Sep 27, 2019
+    2.2
+    Sep 16, 2019
+    2.1
+    Jul 15, 2019
+    2.0
+    May 3, 2019
+    1.4
+    Jan 23, 2019
+    1.3.3
+    Aug 28, 2018
+    1.3.2
+    Mar 22, 2018
+    1.3.1
+    Oct 21, 2017
+    1.3
+    Jun 22, 2017
+    1.2.6
+    Nov 24, 2016
+    1.2.5
+    Sep 15, 2016
+    1.2.4
+    Oct 16, 2015
+    1.2.3
+    Sep 11, 2015
+    1.2.2
+    May 6, 2015
+    1.2.1
+    Apr 20, 2015
+    1.2
+    Apr 7, 2015
+    1.1.2
+    Dec 21, 2014
+    1.1.1
+    Dec 1, 2014
+    1.1
+    Nov 20, 2014
+    1.0
+    Sep 25, 2014
+
+See More
+About
+
+Required Devices
+    iPhone, iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 25, 2014
+
+Worldwide Release Date
+    Sep 25, 2014
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    5.2.7
+
+Size
+    35.46 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    3M Company
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.1 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.mmm.post-it
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 920127738
+Unified App ID: 1000600000450264
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Post-it® | data.ai

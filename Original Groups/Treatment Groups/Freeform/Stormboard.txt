@@ -1,0 +1,340 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Stormboard
+StormboardBusiness (Applications)Free
+Alerts
+
+    Stormboard
+
+    Stormboard
+    Stormboard
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Stormboard
+Business (Applications)
+Free
+App Description
+You can’t always predict when or where you’ll get your best ideas! Never lose track of your best plans or ideas with Stormboard’s digital workspace for remote collaboration. With the Stormboard iOS app for iPhone and iPad, you can create, collaborate, and virtually brainstorm whether you are out for a jog or at dinner with friends.
+
+Stormboard helps teams share sticky notes, documents, videos, files, and whiteboards in a virtual space — perfect for both remote teams and those working in-office. It is an easy-to-use online meeting, brainstorming, and collaboration platform that helps you generate, organize, and prioritize ideas and then create a plan to turn them into action. Eliminate the hassle of maintaining and transcribing physical whiteboards, navigating busy schedules and meeting rooms, or creating paper waste.
+
+By using the Stormboard app on your iPhone or iPad, you can stay connected and in sync with your team — in real time — from anywhere in the world.
+
+Stormboard for iPhone
+
+A new app user interface enables faster, easier collaboration from anywhere. On top of being able to add and edit sticky notes from your mobile device, you can manage your team and workflow through the improved voting system, sticky note assignments, and tasks. Stormboard for iOS allows you to check your Storm activity, take advantage of improved whiteboarding and search functions, create Storms, join Storms, invite users, edit ideas, and more!
+
+Note that the iOS App does not have the same functionality as your desktop version of Stormboard but is meant to be a companion to the full online version.
+
+Stormboard for iPad
+
+Stormboard for iPad works just like our desktop edition but takes advantage of the Tablet pinch and zoom.
+
+Stormboard Features
+
+• Infinite canvas: Create, collaborate, and explore ideas on a cloud-based digital whiteboard with no size limit!
+• Connect remote teams: No matter where the members of your team are located, you can all meet in one space to collaborate in real-time, or on your own time.
+• Smart Templates: Hundreds of smart templates are available to use for business processes like Kanban, Agile, Kaizen, brainstorming, project planning, and more!
+• Generate and capture ideas: Quickly add sticky notes, photos, files, and videos to the shared workspace.
+• Navigate Substorms: Create a Storm within a Storm to help you expand on ideas, add more content, and keep thoughts and tasks organized.
+• Chat: The chat window allows you to communicate with your team members in that specific Storm, no matter what device they are using Stormboard on.
+• Comment on ideas: All ideas have a comment thread allowing your team to clarify, debate, and refine ideas.
+• Prioritize your ideas: Users get 'dots' to vote on their favorite ideas. They can add all their votes to one idea or spread them around. With one click, instantly see what ideas your team likes and dive deeper into the best ideas.
+• Quick reporting: Rather than waiting weeks to transcribe a blurry photo of a whiteboard, you can instantly generate reports that can be used as meeting minutes, presentations, and more!
+• Reduce paper use: Stop rolling up flipcharts you never look at again, or tossing away sticky notes after a meeting.
+• Security: Everything in Stormboard is transmitted over an SSL encrypted connection so no one can intercept your ideas. Enterprise-level security options are also available.
+Ratings
+Displayed Avg Ratings
+2.19
+Total Displayed Ratings
+42
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.1.0 (Aug 16, 2022)
+    More authentication types
+Version 4.0.3 (Nov 22, 2021)
+    This update includes performance improvements and bug fixes to make Stormboard better for you.
+
+    We'd love to hear from you. Send us a message at https://stormboard.com/help/contact-us
+Version 4.0.2 (Aug 26, 2021)
+    This update includes performance improvements and bug fixes to make Stormboard better for you.
+
+    We'd love to hear from you. Send us a message at https://stormboard.com/help/contact-us
+Version 4.0.1 (Aug 16, 2021)
+    This update includes performance improvements and bug fixes to make Stormboard better for you.
+
+    We'd love to hear from you. Send us a message at https://stormboard.com/help/contact-us
+Version 4.0.0 (Jun 23, 2021)
+    NEW DESIGN AND FEATURES! The Stormboard for iOS App has been completely rewritten with a sleek new look, more features, and increased functionality. On iPhone you'll find a clean, streamlined interface that is more aligned with the Mac version. On iPad the app will work exactly the same way as it does on your Mac.
+
+    We know our old version was limited in scope, so we've put all our efforts into creating a powerful and exciting new experience so that you and your team can work better together — from anywhere! 
+Version 3.2.0 (Feb 21, 2019)
+    Update AppStore listing
+    Tour
+    A few bug fixes
+Version 3.0.0 (Sep 14, 2018)
+    We've spent lots of time "under the hood". Loading Storms, editing ideas, and many other things should be much more snappy.
+
+    New things:
+    - Full color and classic mode stickies. Log into the Storm on your PC to update these settings.
+    - Sticky note shapes!
+    - Assign sticky notes to people in your Storms as tasks.
+
+    If you experience issues with our app, please contact us:
+    https://stormboard.com/main/contact
+Version 2.3.0 (Jan 31, 2018)
+    Fixed:
+    • Whiteboards work much better
+    • Image thumbnails
+    • Storm loading improvements
+    • Other styling and stability issues.
+
+    Previous Updates
+    • Keep up to date with the improved "Activity" tab
+    • Manage your tasks across all your storms
+
+    If you experience issues with our app, please contact us:
+    https://www.stormboard.com/main/contact
+Version 2.2.1 (Oct 17, 2017)
+    What's New:
+    • Keep up to date with the improved "Activity" tab
+    • Manage your tasks across all your storms
+
+    Fixed:
+    • No sound when playing video stickies
+    • Idea menu options disappear. But we've found them!
+    • Storm thumbnails on the dashboard will now update at standard intervals. 
+Version 2.2 (Oct 15, 2017)
+    What's New:
+    • Keep up to date with the improved "Activity" tab
+    • Manage your tasks across all your storms
+
+    Fixed:
+    • No sound when playing video stickies
+    • Idea menu options disappear. But we've found them!
+    • Storm thumbnails on the dashboard will now update at standard intervals. 
+Version 2.1.1 (Jul 17, 2017)
+    Fixes an issue with logging in with Facebook.
+Version 2.1.0 (Jun 14, 2017)
+    - Add photos from camera
+    - When creating a storm, select your team
+    - Notifications bug fixes
+Version 2.0.2 (Apr 10, 2017)
+    • Bug Fixes
+Version 2.0.1 (Apr 3, 2017)
+    Bug Fixes
+Version 2.0.0 (Mar 16, 2017)
+    == What's New ==
+    • Speed enhancements
+    • Realtime whiteboards
+
+    == Fixed ==
+    • Issues with logging in via your social accounts
+
+    Over the past few months we've been hard at work rebuilding this app in order to provide a better mobile experience.
+
+    This isn't the end, we have lots more planned for the near future -- Stay tuned!
+
+    We value your feedback, not just on this app, but anything that you want to share with us. So, If you have something to share please email us at feedback@stormboard.com. If you're enjoying the app, please leave us a rating and a review.
+Version 1.2.0 (Aug 14, 2016)
+    • Task assignments and due dates
+    • General usability and bug fixes
+Version 1.1.0 (May 25, 2016)
+    We've fixed a bunch of issues along with a couple new awesome features:
+    • Catch up on storm activity using the new Activity panel
+    • Push Notifications so you can stay current
+Version 1.0 (Jan 27, 2016)
+
+Users may also like
+Select objects to compare
+Marvel — Design and Prototype
+MindManager Go
+Pay.aw
+Mural - Visual Collaboration
+Proto.io
+Justinmind
+Ayoa - Mind Mapping
+Lucidspark
+iProject Viewer
+Aruba Bank App
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.1.0
+    Current release
+    Aug 16, 2022
+    4.0.3
+    Nov 22, 2021
+    4.0.2
+    Aug 26, 2021
+    4.0.1
+    Aug 16, 2021
+    4.0.0
+    Jun 23, 2021
+    3.2.0
+    Feb 21, 2019
+    3.0.0
+    Sep 14, 2018
+    2.3.0
+    Jan 31, 2018
+    2.2.1
+    Oct 17, 2017
+    2.2
+    Oct 15, 2017
+    2.1.1
+    Jul 17, 2017
+    2.1.0
+    Jun 14, 2017
+    2.0.2
+    Apr 10, 2017
+    2.0.1
+    Apr 3, 2017
+    2.0.0
+    Mar 16, 2017
+    1.2.0
+    Aug 14, 2016
+    1.1.0
+    May 25, 2016
+    1.0
+    Jan 27, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Jan 27, 2016
+
+Worldwide Release Date
+    Jan 27, 2016
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    4.1.0
+
+Size
+    43.37 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Inglés
+
+Seller
+    Edistorm Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 15.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    com.stormboard.mobile
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1029518273
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Stormboard | data.ai

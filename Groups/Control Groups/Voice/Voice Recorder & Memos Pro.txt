@@ -1,0 +1,896 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Voice Recorder & Memos Pro
+Lin FeiUtilities (Applications)Free
+Alerts
+
+Recording
+Voice Recorder & Memos Pro
+Voice Recorder & Memos Pro
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Voice Recorder & Memos Pro
+Voice Recorder Pro
+Utilities (Applications)
+Free
+App Description
+录音专业版满足您所有的录音需求，帮助您更高效的工作，包括高品质录音、快速播放、AI智能文件管理、多功能专业剪辑、快速一键共享等功能让录音更专业。
+
+强大的录音模式：
+• 正常录音
+轻松一键开启专业录音，稳定后台运行让您录音更安心。
+• 定时录音
+可预设开始录音的时间与结束录音的时间，让您合理安排录音时间并且轻松管理录音。
+• 混合录音
+可选择音频与录音混合录制。
+• 只在说话时录音
+专业的声控录音模式，只在您说话的时候录音，在低于指定分贝时自动暂停录音，自动优化录音文件大小。
+• 蓝牙耳机录音
+通过AirPods开启硬件主动降噪录音。
+
+专业音频编辑：
+• 多段式音频剪辑
+• 音量调节
+• 音调调节
+• 速度调节
+• 插入新音频
+• 混合音频
+• 拆分音频
+• 合并音频
+• 删除空白
+• 减小噪音
+• 标记重点
+
+高级功能：
+• 应用密码锁
+• 制作铃声
+• 添加语音提醒
+• 语音转文本
+• 多段落循环播放
+• 智能文件管理
+
+音频分享：
+通过微信、QQ、企业微信、钉钉、相册、电子邮件、短信、iTunes、网易云音乐、QQ音乐、微博等共享音频。
+
+云支持：
+可将录音上传到iCloud Drive、百度网盘、腾讯微云等。
+
+多种录音格式：
+MP3、M4A、AAC、MP4、CAF、AIFC、AIFF、WAV
+
+录音专业版同时支持 iPhone、iPad、Mac 和 Apple Watch，用户可以随时通过 iCloud 同步录音文件。
+
+
+隐私政策: https://www.linfei.app/privacy
+使用条款: https://www.linfei.app/terms
+Ratings
+Displayed Avg Ratings
+4.56
+Total Displayed Ratings
+119k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 11.8.4 (Sep 22, 2023)
+    Bug fixes and improvements.
+Version 11.8.3 (Sep 19, 2023)
+    Bug fixes and improvements.
+Version 11.8.2 (Aug 21, 2023)
+    Bug fixes and improvements.
+Version 11.8.1 (Jul 19, 2023)
+    Bug fixes and improvements.
+Version 11.8 (Jul 7, 2023)
+    Bug fixes and improvements.
+Version 11.7.3 (Jun 5, 2023)
+    Bug fixes and improvements.
+Version 11.7.2 (Apr 27, 2023)
+    Bug fixes and improvements.
+Version 11.7.1 (Jul 1, 2022)
+    Bug fixes and improvements.
+Version 11.7 (May 25, 2022)
+    Screen Recording;
+    Set as Ringtone;
+    Bug fixes and improvements.
+Version 11.6.3 (Jan 22, 2022)
+    错误修复与改进。
+Version 11.6.2 (Jan 20, 2022)
+    错误修复与改进。
+Version 11.6.1 (Jan 14, 2022)
+    错误修复与改进。
+Version 11.6 (Dec 18, 2021)
+    1. Voice Changer;
+    2. Bug fixes and improvements.
+Version 11.5.4 (Nov 20, 2021)
+    问题修复和性能优化。
+Version 11.5.3 (Nov 9, 2021)
+    问题修复和性能优化。
+Version 11.5.2 (Nov 5, 2021)
+    1、问题修复和性能优化。
+Version 11.5.1 (Nov 4, 2021)
+    1、问题修复和性能优化。
+Version 11.5 (Sep 24, 2021)
+    1. Noise reduction;
+    2. Delete blank;
+    3. Bug fixes and improvements.
+Version 11.4 (Sep 4, 2021)
+    1. Audo smart recording;
+    2. File loading animation;
+    3. Bug fixes and improvements.
+Version 11.3 (Aug 27, 2021)
+    1. Insert preview;
+    2. Wi-Fi download;
+    3. Bug fixes and improvements.
+Version 11.2 (Jul 9, 2021)
+    1. Widget;
+    2. Bug fixes and improvements.
+Version 11.1 (Jun 16, 2021)
+    1. Global Gain;
+    2. Audio Adjustment;
+    3. File Merger;
+    4. Bug fixes and improvements.
+Version 11.0.3 (May 17, 2021)
+    1. Import Audio;
+    2. Transcription;
+    3. Bug fixes and improvements.
+Version 11.0.2 (May 11, 2021)
+    1. Current Folder;
+    2. Duplicate;
+    3. File Drag and Drop;
+    4. Bug fixes and improvements.
+Version 11.0.1 (Apr 30, 2021)
+    1. It’s easier to operate with New UI interface;
+    2. Trim, split, insert, mix;
+    3. Performance optimization made operation more stable;
+    4. Bug fixes and improvements.
+Version 11.0 (Apr 22, 2021)
+    1. It’s easier to operate with New UI interface;
+    2. Trim, split, insert, mix;
+    3. Performance optimization made operation more stable;
+    4. Bug fixes and improvements.
+Version 10.4.2 (Dec 4, 2020)
+    • Bug fixes and improvements.
+Version 10.4.1 (Nov 11, 2020)
+    • Bug fixes and improvements.
+Version 10.4 (Nov 6, 2020)
+    • Bug fixes and improvements.
+Version 10.3.9 (Oct 9, 2020)
+    • Bug fixes and improvements.
+Version 10.3.8 (Oct 7, 2020)
+    • Bug fixes and improvements.
+Version 10.3.7 (Sep 28, 2020)
+    • Bug fixes and improvements.
+Version 10.3.6 (Sep 27, 2020)
+    • Bug fixes and improvements.
+Version 10.3.4 (Sep 24, 2020)
+    • New OS support;
+    • Bug fixes and improvements.
+Version 10.3.3 (Sep 3, 2020)
+    • Bug fixes and improvements.
+Version 10.3.2 (Aug 25, 2020)
+    • Bug fixes and improvements.
+Version 10.3.1 (Aug 21, 2020)
+    • Bug fixes and improvements.
+Version 10.3 (Aug 17, 2020)
+    • Bug fixes and improvements.
+Version 10.2.2 (Aug 12, 2020)
+    • Bug fixes and improvements.
+Version 10.2.1 (Aug 11, 2020)
+    • Support Widget;
+    • Bug fixes and improvements.
+Version 10.2 (Aug 10, 2020)
+    • Support Widget;
+    • Bug fixes and improvements.
+Version 10.1.2 (Jul 9, 2020)
+    • Bug fixes and improvements
+Version 10.1.1 (Jul 8, 2020)
+    • Bug fixes and improvements
+Version 10.1 (Jun 29, 2020)
+    • Bug fixes and improvements
+Version 10.0.2 (Jun 18, 2020)
+    • Bug fixes and improvements
+Version 10.0.1 (Jun 6, 2020)
+    Voice Recorder Pro 10 brings the following features and improvements:
+    + Newly designed professional audio editor, the independent waveform editing interface is easier to operate
+    + Including many professional functions such as multi-regional audio trimming, tone and speed accommodation, audio split，insert, and mixing
+    + Multiple regions can be set to loop simultaneously
+    + Optimized tag function, revising, and editing are more convenient
+    + Performance and stability improvements
+Version 10.0 (May 29, 2020)
+    Voice Recorder Pro 10.0 brings the following features and improvements:
+    + Newly designed professional audio editor, the independent waveform editing interface is easier to operate.
+    + Including many professional functions such as multi-regional audio trimming, tone and speed accommodation, audio split，insert, and mixing.
+    + Multiple regions can be set to loop simultaneously.
+    + Optimized tag function, revising, and editing are more convenient.
+    + Performance and stability improvements
+Version 9.1.3 (Apr 10, 2020)
+    + Fixed what needed fixing and squished some bugs.
+Version 9.1.2 (Oct 10, 2019)
+    This update contains stability and performance improvements.
+Version 9.1.1 (Sep 28, 2019)
+    Fixed what needed fixing and squished some bugs.
+Version 9.1 (Sep 25, 2019)
+    • Optimized for iOS 13 Dark Mode
+Version 9.0.5 (Aug 28, 2019)
+    This update contains stability and performance improvements.
+Version 9.0.4 (Jun 21, 2019)
+    Fixed the crash during recording after lock screen on some devices.
+Version 9.0.3 (Jun 14, 2019)
+    Stability improvements and bug fixes.
+Version 9.0.2 (Jun 6, 2019)
+    Fixed what needed fixing and squished some bugs.
+Version 9.0.1 (May 7, 2019)
+    Fixed what needed fixing and squished some bugs.
+Version 9.0 (Apr 30, 2019)
+    • New UI design, rich color themes, better user experience
+    • A new design of recording interface on Apple Watch
+    • New "Record only when speaking” is simpler and more intuitive to use
+    • Real-time waveform display during recording
+    • Simplify the edit operation such as trimming, merging, blending, splitting
+    • Unlock with Face ID
+    • Improve performance and stability
+Version 8.4.0 (May 9, 2018)
+    Bug Fixes.
+Version 8.3.9 (Apr 24, 2018)
+    1. Background recording on the watch;
+    2. Bug fixes.
+Version 8.3.8 (Nov 1, 2017)
+    iOS 11
+Version 8.3.7 (Oct 24, 2017)
+    iOS 11
+Version 8.3.6 (Oct 21, 2017)
+    iOS 11
+Version 8.3.4 (Oct 9, 2017)
+    iOS 11
+Version 8.3.3 (Sep 30, 2017)
+    iOS 11
+Version 8.3.2 (Sep 4, 2017)
+    1. Record via Bluetooth Headset;
+    2. Split at Tags;
+    3. Custom Playback Speed;
+    4. Bug Fixes.
+Version 8.3.1 (Aug 29, 2017)
+    1. Record via Bluetooth Headset;
+    2. Split at Tags;
+    3. Tag's Name;
+    4. Custom Playback Speed;
+    5. Custom Stop Playback Minutes;
+    6. More Stable;
+    7. More Intuitive;
+    8. More Languages;
+    9. Bug Fixes.
+Version 8.2 (Dec 20, 2016)
+    Bug Fixes.
+Version 8.1 (Nov 29, 2016)
+    Bug Fixes.
+Version 8.0 (Nov 17, 2016)
+    • Markers;
+    • Themes;
+    • A/B Repeat;
+    • In Minutes Stop Playing;
+    • Append Records for Merge and Mix;
+    • Justify for Mix;
+    • Default Location;
+    • Powerful Watch App.
+Version 7.1.1 (Sep 26, 2016)
+    Release for iOS 10
+Version 7.1 (Sep 21, 2016)
+    Bug Fixes.
+Version 7.0 (Sep 14, 2016)
+    • New UI;
+    • New Format AIFC;
+    • Better Recording Quality;
+    • Split Large Files;
+    • Voice Reminders;
+    • Moments;
+    • Calendar;
+    • Trash;
+    • Playlists;
+    • More Powerful Playback Control；
+    • New Playback Speed ×1.25;
+    • Pause Playing When Headphones Unplugged;
+    • More Batch Operations;
+    • Batch Save Audio to Recordings;
+    • Complications Supported On Apple Watch;
+    • User Experience Improvements;
+    • Bug Fixes.
+Version 6.9.2 (Dec 22, 2015)
+    1, Better support iOS8 and later;
+    2, Fix bugs.
+Version 6.9.1 (Dec 6, 2015)
+    Fixed bugs.
+Version 6.9 (Nov 24, 2015)
+    1, Watch App Localization;
+    2, Support iPad Pro;
+    3, Support Spotlight for iOS 9;
+    4, Input Gain Settable Check;
+    5, Fixes Bugs.
+Version 6.8 (Oct 18, 2015)
+    1, Direct recording and playback for Apple Watch;
+    2, SplitView support for iPad;
+    3, Peek & Pop support for iPhone 6s.
+Version 6.7.2 (Aug 23, 2015)
+    Fix iOS 7 (iPhone) Running Crash Bugs.
+Version 6.7.1 (Aug 13, 2015)
+    1, Fix Bugs
+    2, Adjust Ads
+Version 6.7 (Jul 13, 2015)
+    1, WatchKit Extension
+    2, Adjust Playback Controls
+    3, Adjust Menus
+    4, Loop Play
+Version 6.6.19 (Apr 23, 2015)
+    01, MP4 format
+    02, AMR format
+    03, Import from iTunes or Apps
+    04, Create folder and Move records to it
+    05, iPad Screen rotation
+    06, Any format conversion
+    07, Trim
+    08, Mix
+    09, Make a Ringtone
+    10, Voice Encrypt
+    11, Voice Volume Zoom
+    12, Merge multiple records
+    13, Splice multiple records
+    14, Search
+    15, Loading faster
+Version 6.2.1 (Feb 17, 2015)
+    1, Input Gain
+    2, Smart continue 2 sec
+    3, Handphone / Speaker switch
+    4, Delete a single record
+    5, Open in big files
+    6, Fixed bugs
+Version 6.2.0 (Feb 4, 2015)
+    1, Add M4A format
+    2, Add AIFF format
+    3, Smart(only recording talk) for all format
+    4, Interruption to continue for all format
+    5, Fixed bugs
+Version 6.1.0 (Jan 24, 2015)
+    Download records form iTunes on the Windows OS with default record name.
+Version 6.0.4 (Jan 14, 2015)
+    Fixed bugs.
+Version 6.0.3 (Dec 30, 2014)
+    1, Stability optimization
+    2, Displays the remaining time at playing
+    3, Play rate control
+    4, Hidden the settings bar at running
+    5, UI adjust for iPad
+Version 6.0.2 (Dec 16, 2014)
+    1, two-screen design
+    2, playback speed control
+    3, speaker / headphone automatically switch
+Version 5.2.0 (Oct 30, 2014)
+    1, The new recording animation
+    2, Phone 6, iPhone 6 Plus optimization
+Version 5.1.0 (Oct 8, 2014)
+    1, Support arm64
+    2, Support iOS 8
+    3, Support 4.7-Inch and 5.5-Inch
+    4, Support TouchID
+Version 5.0.0 (Jul 30, 2014)
+    1, Timing recording.
+    2, Headset recording.
+Version 4.0.5 (Jul 17, 2014)
+    1, Formats setting
+
+    2, Permission checks
+
+    3, WiFi download URL encode.
+Version 4.0.4 (Jun 26, 2014)
+    Fixed bugs.
+Version 4.0.3 (Jun 6, 2014)
+    Fixed bugs.
+Version 4.0.2 (May 19, 2014)
+    Fixed bugs.
+Version 4.0.1 (May 7, 2014)
+    Fixed bugs.
+Version 4.0.0 (Mar 27, 2014)
+    1, Support smart recording.
+
+    2, Support loop recording.
+Version 3.5.7 (Mar 22, 2014)
+    Fixed bugs.
+Version 3.5.6 (Jan 3, 2014)
+    Fixed bugs.
+Version 3.5.5 (Dec 5, 2013)
+    Fixed bugs of Video Export
+Version 3.5.4 (Nov 29, 2013)
+    Add Launch URL
+
+
+
+    recordinglite://
+Version 3.5.3 (Nov 14, 2013)
+    Fixed bugs
+Version 3.5.2 (Oct 18, 2013)
+    Fix the bugs running on iOS 7
+Version 3.5.1 (Oct 10, 2013)
+    Drag show time
+Version 3.5.0 (Sep 26, 2013)
+    Support iOS 7
+Version 3.4.1 (Aug 9, 2013)
+    Update Ads SDK
+Version 3.4.0 (Jul 20, 2013)
+    1, Import and convert audio to mp3
+    2, UI optimization
+    3, Support Open in
+    4, Fixed bugs
+Version 3.3.4 (Jun 24, 2013)
+    fullscreen ads.
+Version 3.3.3 (Jun 12, 2013)
+    Fixed bugs.
+Version 3.3.2 (Apr 28, 2013)
+    Fixed bugs.
+Version 3.3.1 (Mar 8, 2013)
+    In-App Verification.
+Version 3.3.0 (Feb 25, 2013)
+    Support Apple Lossless Format.
+Version 3.2.9 (Feb 14, 2013)
+    Localized adjustment
+Version 3.2.8 (Jan 21, 2013)
+    1, Support MP3 recording
+
+    2, Support WAV recording
+
+    3, Converted to MP3 format
+
+    4, Export MP4 format
+
+    5, Fixed playback time bugs
+Version 3.2.7 (Jan 6, 2013)
+    1, Support export mp3 format.
+
+    2, Support export cancel.
+Version 3.2.6 (Dec 13, 2012)
+    1, Localized language modification.
+Version 3.2.5 (Nov 27, 2012)
+    Hidden not yet downloaded files
+Version 3.2.4 (Nov 2, 2012)
+    Fixed bugs.
+Version 3.2.3 (Oct 24, 2012)
+    Repair export stopped unexpectedly error.
+Version 3.2.2 (Oct 9, 2012)
+    Fixed bugs on iOS 6
+Version 3.2.1 (Sep 27, 2012)
+    iOS 6 and iPhone 5 support
+Version 3.2.0 (Sep 18, 2012)
+    Multi-language support
+Version 3.1.1 (Aug 2, 2012)
+    1, Change recording format for MPEG4 AAC
+    2, New recording tips
+    3, Fixed bugs
+Version 3.0.1 (Jul 21, 2012)
+    Fixed bugs.
+Version 3.0 (May 30, 2012)
+    1, Password lock.
+    2, Convert to WAV.
+    3, WiFi download.
+    4, iCloud support.
+    5, File size.
+    6, Fixed bugs.
+Version 2.0 (May 5, 2012)
+    1, Support The new iPad
+    2, Voice memos to modify the name
+    3, Simplified interface
+Version 1.0 (Jan 19, 2012)
+
+Users may also like
+Select objects to compare
+SceneRecord
+AVR X - Voice Recorder
+Voice recorder - Voz
+Voice recorder: Audio editor
+Voice Record Pro
+Voice Recorder－Audio Memos Арр
+Voice Memo Recorder & Changer
+Voice Recorder: Audio Memos
+Recorder Plus - Audio Editor
+Recorder for iPhone
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+32 times
+on App Store category pages
+Versions
+
+    11.8.4
+    Current release
+    Sep 22, 2023
+    11.8.3
+    Sep 19, 2023
+    11.8.2
+    Aug 21, 2023
+    11.8.1
+    Jul 19, 2023
+    11.8
+    Jul 7, 2023
+    11.7.3
+    Jun 5, 2023
+    11.7.2
+    Apr 27, 2023
+    11.7.1
+    Jul 1, 2022
+    11.7
+    May 25, 2022
+    11.6.3
+    Jan 22, 2022
+    11.6.2
+    Jan 20, 2022
+    11.6.1
+    Jan 14, 2022
+    11.6
+    Dec 18, 2021
+    11.5.4
+    Nov 20, 2021
+    11.5.3
+    Nov 9, 2021
+    11.5.2
+    Nov 5, 2021
+    11.5.1
+    Nov 4, 2021
+    11.5
+    Sep 24, 2021
+    11.4
+    Sep 4, 2021
+    11.3
+    Aug 27, 2021
+    11.2
+    Jul 9, 2021
+    11.1
+    Jun 16, 2021
+    11.0.3
+    May 17, 2021
+    11.0.2
+    May 11, 2021
+    11.0.1
+    Apr 30, 2021
+    11.0
+    Apr 22, 2021
+    10.4.2
+    Dec 4, 2020
+    10.4.1
+    Nov 11, 2020
+    10.4
+    Nov 6, 2020
+    10.3.9
+    Oct 9, 2020
+    10.3.8
+    Oct 7, 2020
+    10.3.7
+    Sep 28, 2020
+    10.3.6
+    Sep 27, 2020
+    10.3.4
+    Sep 24, 2020
+    10.3.3
+    Sep 3, 2020
+    10.3.2
+    Aug 25, 2020
+    10.3.1
+    Aug 21, 2020
+    10.3
+    Aug 17, 2020
+    10.2.2
+    Aug 12, 2020
+    10.2.1
+    Aug 11, 2020
+    10.2
+    Aug 10, 2020
+    10.1.2
+    Jul 9, 2020
+    10.1.1
+    Jul 8, 2020
+    10.1
+    Jun 29, 2020
+    10.0.2
+    Jun 18, 2020
+    10.0.1
+    Jun 6, 2020
+    10.0
+    May 29, 2020
+    9.1.3
+    Apr 10, 2020
+    9.1.2
+    Oct 10, 2019
+    9.1.1
+    Sep 28, 2019
+    9.1
+    Sep 25, 2019
+    9.0.5
+    Aug 28, 2019
+    9.0.4
+    Jun 21, 2019
+    9.0.3
+    Jun 14, 2019
+    9.0.2
+    Jun 6, 2019
+    9.0.1
+    May 7, 2019
+    9.0
+    Apr 30, 2019
+    8.4.0
+    May 9, 2018
+    8.3.9
+    Apr 24, 2018
+    8.3.8
+    Nov 1, 2017
+    8.3.7
+    Oct 24, 2017
+    8.3.6
+    Oct 21, 2017
+    8.3.4
+    Oct 9, 2017
+    8.3.3
+    Sep 30, 2017
+    8.3.2
+    Sep 4, 2017
+    8.3.1
+    Aug 29, 2017
+    8.2
+    Dec 20, 2016
+    8.1
+    Nov 29, 2016
+    8.0
+    Nov 17, 2016
+    7.1.1
+    Sep 26, 2016
+    7.1
+    Sep 21, 2016
+    7.0
+    Sep 14, 2016
+    6.9.2
+    Dec 22, 2015
+    6.9.1
+    Dec 6, 2015
+    6.9
+    Nov 24, 2015
+    6.8
+    Oct 18, 2015
+    6.7.2
+    Aug 23, 2015
+    6.7.1
+    Aug 13, 2015
+    6.7
+    Jul 13, 2015
+    6.6.19
+    Apr 23, 2015
+    6.2.1
+    Feb 17, 2015
+    6.2.0
+    Feb 4, 2015
+    6.1.0
+    Jan 24, 2015
+    6.0.4
+    Jan 14, 2015
+    6.0.3
+    Dec 30, 2014
+    6.0.2
+    Dec 16, 2014
+    5.2.0
+    Oct 30, 2014
+    5.1.0
+    Oct 8, 2014
+    5.0.0
+    Jul 30, 2014
+    4.0.5
+    Jul 17, 2014
+    4.0.4
+    Jun 26, 2014
+    4.0.3
+    Jun 6, 2014
+    4.0.2
+    May 19, 2014
+    4.0.1
+    May 7, 2014
+    4.0.0
+    Mar 27, 2014
+    3.5.7
+    Mar 22, 2014
+    3.5.6
+    Jan 3, 2014
+    3.5.5
+    Dec 5, 2013
+    3.5.4
+    Nov 29, 2013
+    3.5.3
+    Nov 14, 2013
+    3.5.2
+    Oct 18, 2013
+    3.5.1
+    Oct 10, 2013
+    3.5.0
+    Sep 26, 2013
+    3.4.1
+    Aug 9, 2013
+    3.4.0
+    Jul 20, 2013
+    3.3.4
+    Jun 24, 2013
+    3.3.3
+    Jun 12, 2013
+    3.3.2
+    Apr 28, 2013
+    3.3.1
+    Mar 8, 2013
+    3.3.0
+    Feb 25, 2013
+    3.2.9
+    Feb 14, 2013
+    3.2.8
+    Jan 21, 2013
+    3.2.7
+    Jan 6, 2013
+    3.2.6
+    Dec 13, 2012
+    3.2.5
+    Nov 27, 2012
+    3.2.4
+    Nov 2, 2012
+    3.2.3
+    Oct 24, 2012
+    3.2.2
+    Oct 9, 2012
+    3.2.1
+    Sep 27, 2012
+    3.2.0
+    Sep 18, 2012
+    3.1.1
+    Aug 2, 2012
+    3.0.1
+    Jul 21, 2012
+    3.0
+    May 30, 2012
+    2.0
+    May 5, 2012
+    1.0
+    Jan 19, 2012
+
+See More
+Top In-App Purchases
+
+    Yearly Subscription
+    $49.99
+    Monthly Subscription
+    $9.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Utilities
+
+Initial Release Date
+    Jan 19, 2012
+
+Worldwide Release Date
+    Jan 19, 2012
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    11.8.4
+
+Size
+    72.17 mb
+
+Only 32 Bit
+    No
+
+Languages
+    丹麦语, 乌克兰文, 俄文, 克罗地亚文, 加泰罗尼亚文, 匈牙利文, 博克马尔文挪威文, 印地文, 印度尼西亚文, 土耳其文, 希伯来文, 希腊文, 德文, 意大利文, 捷克语, 斯洛伐克文, 日文, 法语, 波兰文, 泰文, 瑞典文, 简体中文, 繁体中文, 罗马尼亚文, 芬兰语, 英语, 荷兰文, 葡萄牙文, 西班牙文, 越南文, 阿拉伯文, 韩文, 马来文
+
+Seller
+    Linfei Ltd.
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 12.0 和 watchOS 4.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    cn.winat.EasyVoice
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Jul 13, 2015)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 492995106
+Unified App ID: 1000600000450110
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Voice Recorder & Memos Pro | data.ai

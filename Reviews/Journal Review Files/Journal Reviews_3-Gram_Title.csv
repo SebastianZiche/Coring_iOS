@@ -1,0 +1,9 @@
+ngram,frequency
+"('make', 'available', 'ipad')",9
+"('good', 'start', 'needs')",8
+"('great', 'app', 'needs')",6
+"('please', 'make', 'available')",6
+"('good', 'journal', 'app')",5
+"('great', 'start', 'needs')",5
+"('needs', 'ipad', 'version')",5
+"('please', 'add', 'search')",5

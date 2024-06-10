@@ -1,0 +1,742 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Overdubbing - EasyMixRecorder
+Naoto SasakiMusic (Applications)Free
+Alerts
+
+    Naoto Sasaki
+
+    Overdubbing - EasyMixRecorder
+    Overdubbing - EasyMixRecorder
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Overdubbing - EasyMixRecorder
+easy overdubbing app
+Music (Applications)
+Free
+App Description
+这是一款可用于各种目的的应用程序，例如练习和声、卡拉 OK、人声、作曲和创建 BGM。
+
+◆ 特点
+--高音质（44.1khz / 32bit），可以录制成aif格式。
+--您可以自由设置录制/混合音乐数据的背景并将其作为视频输出到照片应用程序。
+--录制时间没有限制。您可以录制很长时间。
+――可以在录音的同时反馈麦克风声音。
+-- 可以在播放其他应用程序（iTunes 音乐等）的声音的同时进行录音。
+――可以在后台录制/播放。
+--可设置左右平衡（PAN）。
+- 可以设置混响（回声）。
+--可使用蓝牙耳机/扬声器播放。
+--可在 AirPlay 设备上播放。
+--您可以编辑录制的文件，如剪切功能。
+--还有支持演奏的功能，例如节拍器功能和简单的调音器功能。
+――还支持iPad的大屏幕。
+--您可以在 Apple Watch 上开始/停止录音/播放。
+
+◆ 使用方法
+
+◆◆ 录音
+按屏幕底部的 ● 按钮开始录制。再按一次停止。
+
+◆◆ 玩
+按屏幕底部的播放按钮播放录制的声音。
+您可以通过更改音量来更改音量。
+通过改变播放开始位置，停止时会回到播放开始位置。
+
+◆◆效果
+您可以在播放过程中应用效果（音量、左/右平衡、混响）。
+您需要购买效果应用选项来保存和混合应用效果的声音。
+
+◆◆ 重叠录音
+如果要分层录制，请单击加号按钮添加录制/播放曲目。
+添加后，如果打开左侧的录音目标选择，则该轨道将成为录音目标轨道。
+（如果一边播放一边录音，另一首曲目的声音也会被录下来，所以请使用耳机等）
+
+◆◆ 混合
+您可以通过按屏幕右下角的菜单按钮并选择一个混音，将多个录制的曲目合并到一个文件中。混合文件存储在名为 Mix Data 的本地文件中。
+您需要购买效果应用选项来保存和混合应用效果的声音。
+
+◆◆ 节拍器功能
+您可以通过从加号按钮添加节拍器轨道来制作节拍器声音。
+BPM10 --300，可以通过独立调节四种节奏的音量来设置各种节拍。
+节拍器可以从5种类型中选择，咔嗒声可以自由改变。
+可以切换 3 节拍和 4 节拍的设置。
+
+◆◆ 语音反馈功能
+这是一项功能，您可以通过从加号按钮添加反馈音轨，从耳机聆听 iPhone 的麦克风声音。
+
+◆◆ 调谐器功能
+通过从加号按钮添加调谐器轨道，显示麦克风声音的音阶。它可以用作简单的调谐器。
+Ratings
+Displayed Avg Ratings
+2.81
+Total Displayed Ratings
+198
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.57 (Feb 11, 2024)
+    Thank you for always using the app.
+    This version update is as follows.
+
+    [2.57]
+    Fixed an issue where an error occurred when loading from an iOS file.
+
+    [2.56]
+    - Added the ability to read files from the iOS Files app, as requested by many users. (Only M4A format files are accepted)
+    - Fixed a bug in the restore function of purchase function. Please accept my apologies for any inconvenience.
+
+    If you have any requests, please feel free to send them via email from the app's settings menu.
+    We would like to respond as much as possible. Thank you.
+Version 2.56 (Dec 19, 2023)
+    感谢您一直使用该应用程序。
+    本次版本更新如下。
+
+    [2.56]
+    - 根据许多用户的要求，添加了从 iOS 文件应用程序读取文件的功能。 （仅接受M4A格式文件）
+    - 修复了购买功能恢复功能的错误。对于给您带来的任何不便，请接受我的歉意。
+
+    如果您有任何请求，请随时从应用程序的设置菜单通过电子邮件发送。
+    我们希望尽可能做出回应。谢谢。
+Version 2.55 (May 19, 2023)
+    感谢你使用我们的应用程序。
+    本次版本更新如下。
+
+    [2.55]
+    - 一些小错误已被修复。
+
+    如果你有任何要求，请随时从应用程序的设置菜单中向我们发送电子邮件。
+    我们将尽可能地回复。 提前感谢您。
+Version 2.54 (May 6, 2023)
+    感谢你使用我们的应用程序。
+    本次版本更新如下。
+
+    [2.54]
+    - 一些小错误已被修复。
+
+    如果你有任何要求，请随时从应用程序的设置菜单中向我们发送电子邮件。
+    我们将尽可能地回复。 提前感谢您。
+Version 2.53 (Dec 11, 2022)
+    感谢您使用我们的应用程序。
+    本次版本升级如下。
+
+    [2.53]
+    - 修复了导致多个应用程序崩溃的问题。我们对不便表示抱歉。
+
+    如果您有任何要求，您可以从应用程序的设置菜单发送电子邮件，所以请随时与我们联系。
+    我想尽可能多地对应。谢谢你。
+Version 2.52 (Mar 7, 2022)
+    感谢您使用该应用程序。
+    本次版本升级如下。
+
+    [2.52]
+    --修复了一个错误。
+
+    如果您有任何要求，可以从应用程序的设置菜单发送电子邮件，因此请随时与我们联系。
+    我想尽可能地回应。谢谢你。
+Version 2.51 (Mar 6, 2022)
+    感谢您使用该应用程序。
+    本次版本升级如下。
+
+    [2.51]
+    --修复了一个错误。
+
+    如果您有任何要求，可以从应用程序的设置菜单发送电子邮件，因此请随时与我们联系。
+    我想尽可能地回应。谢谢你。
+Version 2.5 (Mar 5, 2022)
+    感谢您使用该应用程序。
+    本次版本升级如下。
+
+    [2.5]
+    --修复了一个错误。
+
+    如果您有任何要求，可以从应用程序的设置菜单发送电子邮件，因此请随时与我们联系。
+    我想尽可能地回应。谢谢你。
+Version 2.4 (Jan 15, 2022)
+    感谢您使用该应用程序。
+    本次版本升级如下。
+
+    [2.4]
+    --增加了一次删除所有记录数据的功能。
+    --增加了广告展示。 （如果您购买了一项功能，它将被隐藏）
+
+    如果您有任何要求，可以从应用程序的设置菜单发送电子邮件，因此请随时与我们联系。
+    我想尽可能地回应。谢谢你。
+Version 2.3 (Nov 7, 2021)
+    感谢您使用该应用程序。
+    本次版本升级如下。
+
+    [2.3]
+    ——进行了多次修复。
+    --支持多种语言。
+
+    如果您有任何要求，您可以从应用程序的设置菜单发送电子邮件，因此请随时与我们联系。
+    我想尽可能多地回应。谢谢你。
+Version 2.2 (Aug 23, 2021)
+    いつもアプリをお使いいただきありがとうございます。
+    今回のバージョンアップは下記となっております。
+
+    【2.2】
+    - カーソルより前/後を削除機能を復活させました。（要望対応）
+    - ドイツ語に対応しました。
+
+    要望などありましたら、アプリの設定メニューからメール送信ができますので、お気軽にお寄せください。
+    可能な限り対応していきたいと思います。よろしくお願いいたします。
+Version 2.1 (May 6, 2021)
+    いつもアプリをお使いいただきありがとうございます。
+    今回のバージョンアップは下記となっております。
+    （過去のバージョンアップ内容も表示しております）
+
+    【2.1】
+    - メトロノームに3拍子を追加しました。（要望対応）
+
+    【2.0.1】
+    - MIX時にアプリが応答不能になる問題を修正しました。ご迷惑をおかけしました。
+
+    【2.0】
+    - アプリを終わらせてもトラックの状態を保持するように修正しました。
+    - 音のズレを完全に無くしました。
+    - 簡単にエフェクト込みでMIXできるように修正しました。（エフェクト込みでMIXするには課金が必要です）
+    - 簡単にエフェクト込みで共有、写真アプリに保存できるように修正しました。（エフェクト込みで共有するには課金が必要です）
+    - その他不具合の修正
+
+    要望などありましたら、アプリの設定メニューからメール送信ができますので、お気軽にお寄せください。
+    可能な限り対応していきたいと思います。よろしくお願いいたします。
+Version 2.0.1 (Mar 10, 2021)
+    いつもアプリをお使いいただきありがとうございます。
+    この度大幅に使い勝手を改善しました。
+    今後ともアプリをよろしくお願いいたします。
+
+    【2.0.1】
+    - MIX時にアプリが応答不能になる問題を修正しました。ご迷惑をおかけしました。
+
+    【2.0】
+    - アプリを終わらせてもトラックの状態を保持するように修正しました。
+    - 音のズレを完全に無くしました。
+    - 簡単にエフェクト込みでMIXできるように修正しました。（エフェクト込みでMIXするには課金が必要です）
+    - 簡単にエフェクト込みで共有、写真アプリに保存できるように修正しました。（エフェクト込みで共有するには課金が必要です）
+    - その他不具合の修正
+
+    要望などありましたら、アプリの設定メニューからメール送信ができますので、お気軽にお寄せください。
+    可能な限り対応していきたいと思います。よろしくお願いいたします。
+Version 2.0 (Mar 7, 2021)
+    いつもアプリをお使いいただきありがとうございます。
+    この度大幅に使い勝手を改善しました。
+    今後ともアプリをよろしくお願いいたします。
+
+    【2.0】
+    - アプリを終わらせてもトラックの状態を保持するように修正しました。
+    - 音のズレを完全に無くしました。
+    - 簡単にエフェクト込みでMIXできるように修正しました。（エフェクト込みでMIXするには課金が必要です）
+    - 簡単にエフェクト込みで共有、写真アプリに保存できるように修正しました。（エフェクト込みで共有するには課金が必要です）
+    - その他不具合の修正
+
+    要望などありましたら、アプリの設定メニューからメール送信ができますので、お気軽にお寄せください。
+    可能な限り対応していきたいと思います。よろしくお願いいたします。
+Version 1.26 (Jan 9, 2020)
+    【1.26】
+    写真アプリに保存時に、画像が出力されない不具合を修正しました。
+    ご迷惑をおかけいたしました。
+
+    【1.25】
+    入力デバイスを選択できるようになりました。（要望対応）
+    録音トラックのメニューから「入力デバイスを変更」を選択することで、
+    現在iPhoneに接続されている入力デバイスを選択することができます。
+
+    要望などありましたら、アプリの設定メニューからメール送信ができますので、お気軽にお寄せください。
+    可能な限り対応していきたいと思います。よろしくお願いいたします。
+Version 1.25 (Jan 5, 2020)
+    【1.25】
+    入力デバイスを選択できるようになりました。（要望対応）
+    録音トラックのメニューから「入力デバイスを変更」を選択することで、
+    現在iPhoneに接続されている入力デバイスを選択することができます。
+
+    【1.24】
+    iOS13でエラーとなっていた問題で、暫定対応しました。ご迷惑をおかけいたしました。
+    暫定対応のため、下記の現象が発生する場合があります。
+    ・録音中の波形表示が表示されない場合があります。
+    ・ローカルファイルを写真アプリに出力する場合、画像がない場合があります。
+
+    引き続き調査し、原因がわかり次第修正版をリリースしようと思います。
+    よろしくお願いいたします。
+Version 1.24 (Sep 30, 2019)
+    【1.24】
+    iOS9系は非対応となりました。
+
+    iOS13でエラーとなっていた問題で、暫定対応しました。ご迷惑をおかけいたしました。
+    暫定対応のため、下記の現象が発生する場合があります。
+    ・録音中の波形表示が表示されない場合があります。
+    ・ローカルファイルを写真アプリに出力する場合、画像がない場合があります。
+
+    引き続き調査し、原因がわかり次第修正版をリリースしようと思います。
+    よろしくお願いいたします。
+Version 1.23 (Aug 5, 2019)
+    いつもご利用ありがとうございます。
+    久しぶりのバージョンアップとなり申し訳ありません。下記の不具合を修正しました。
+
+    - 写真アプリにエクスポート後、Twitterにアップできないことがある不具合を修正しました。
+    （このバージョン以降で新しく録音したデータのみ有効です、古いデータは形式が違うためアップできませんことがあります。）
+    - これ以降を削除、ここより前を削除した場合、画面がおかしくなっていた不具合を修正しました。
+    - iTunesLibraryから読み込んだ後、画面がおかしくなっていた不具合を修正しました。
+
+    その他、要望等あればメールでお寄せください。
+    今後ともアプリをよろしくお願いいたします。
+Version 1.22 (Jan 6, 2019)
+    - Fixed a bug that recording will become double speed. Please accept my apologies for any inconvenience.
+Version 1.21 (Jan 3, 2019)
+    - Fixed the problem that the image becomes strange when supporting to the photo application.
+Version 1.20 (May 6, 2018)
+    - Fixed an issue not output to the photo app.
+    - Fix other minor defects
+Version 1.19 (Jan 29, 2018)
+    Thank you for using it all the time! The contents of this update are as follows.
+
+    【1.19】
+    - Fixed a bug that camera roll output could not be done. Sorry for the inconvenience.
+    (Only audio can be output, image output has not been modified yet)
+
+    If you have any requests, feel free to email us will respond as much as possible.
+    Moreover, it will be the driving force for improvement, so it would be greatly appreciated if you could have a review of only stars.
+    (Since updating will disappear when updating, it will be helpful if you do it again!)
+    Sincerely!
+Version 1.18 (Jan 12, 2018)
+    Thank you for using it all the time! The contents of this update are as follows.
+
+    【1.18】
+    - The setting values ​​of volume, balance and reverb can be saved.
+    - Fixed the problem that unnecessary files keep accumulating in the cache at the time of recording, and it cleared at restart.
+    - It corresponds to the screen size of iPhoneX.
+
+    If you have any requests, feel free to email us will respond as much as possible.
+    Moreover, it will be the driving force for improvement, so it would be greatly appreciated if you could have a review of only stars.
+    (Since updating will disappear when updating, it will be helpful if you do it again!)
+    Sincerely!
+Version 1.17.1 (Aug 28, 2017)
+    Always thank you for the use! This update content is as follows.
+
+    [1.17.1]
+    - I made modifications to be able to do truck reading from a list of local files.
+    - I revised a problem to be rarely terminated abnormally by a pace graph function.
+
+    [1.17]
+    ■I revised the following problem pointed out by a review or an email.
+    - When I added a large number of trucks, a reproduction position slipped off, and indication revised the problem that collapsed.
+    - When I mixed it, I revised the problem with the truck which mixture was not made.
+    - I increased the maximum of the volume.
+    ■I added a pace graph function. I can display the intervals such as voices by a graph. (beta release function)
+    ■After recording, I assumed the function that was automatically stored option setting.
+
+    If there are demands, I cope as much as possible if I can have an email willingly.
+    In addition, I am happy because it becomes the driving force of the improvement when I can have even the review only for stars.
+    (because an evaluation disappears when I update it, it is saved when you can do it again!)
+    Thanks in advance for your help!
+Version 1.17 (Aug 14, 2017)
+    Thank you for always using it! The contents of this update are as follows.
+
+    【1.17】
+    ■ Fixed the following problem pointed out in reviews, mails, etc.
+     - When many tracks were added, the playing position shifted and the display collapsed was corrected.
+     - Fixed a problem where there is a track that does not mix when mixing.
+     - I increased the maximum volume value.
+    ■ Pithograph function was added. You can display the pitch of voices, etc. as a graph. (Β version function)
+    ■ After recording, the function automatically saved is an option.
+
+    【1.16】
+     - Data applied with effects (volume, left / right balance, reverb) will be saved.
+    After setting the effect, select the menu (· · · button) of the track and select "apply effect".
+    This makes it possible to mix effects with data and mix them.
+    We are sorry, but this function will be charged function.
+    Playing effects is possible, so I like it, please buy it.
+
+    If you have any requests, feel free to email us as much as we can.
+    Also, since it will be the driving force for improvement, we appreciate that it can be a reviewer of only stars.
+    (Since the evaluation has disappeared when updating, I will help if I do it again!)
+    Sincerely!
+Version 1.16.1 (May 17, 2017)
+    Thank you for always using it! The contents of this update are as follows.
+
+    【1.16.1】
+    - Fixed an issue where effects could not be applied on some models.
+
+    【1.16】
+    - Data applied with effects (volume, left / right balance, reverb) will be saved.
+    After setting the effect, select the track menu (· · · button) and select "apply effect".
+    This makes it possible to mix with effected data.
+    I am sorry, but this function will be charged function. If you like it, please do buy it.
+
+    If you have any requests, feel free to email us and we will respond as much as possible.
+    Moreover, it will be a driving force for improvement, so it would be greatly appreciated if you could have only a review of stars.
+    (Since updating will disappear when updating, it will be helpful if you do it again!)
+    Sincerely!
+Version 1.16 (May 16, 2017)
+    Thank you for always using it! The contents of this update are as follows.
+    - Data applied with effects (volume, left / right balance, reverb) will be saved.
+    After setting the effect, select the track menu (· · · button) and select "apply effect".
+    This makes it possible to mix with effected data.
+    I am sorry, but this function will be charged function. If you like it, please do buy it.
+
+    If you have any requests, feel free to email us and we will respond as much as possible.
+    Moreover, it will be a driving force for improvement, so it would be greatly appreciated if you could have only a review of stars.
+    (Since updating will disappear when updating, it will be helpful if you do it again!)
+    Sincerely!
+Version 1.15 (May 5, 2017)
+    Thank you for always using it. The contents of this update are as follows.
+
+    - A background image can be set when outputting to the photo application. You can set it from the lower left gear button.
+    - Fixed a problem that the number of seconds decreases when posting to twitter etc. after outputting to the photo app.
+    - Fix other problems
+
+    In the next update, we plan to add a function to save and mix effects such as reverb (DryWet) and pan (LR).
+
+    If you have any requests, feel free to email us and we will respond as much as possible.
+    Moreover, it will be a driving force for improvement, so it would be greatly appreciated if you could have only a review of stars.
+    (Since updating will disappear when updating, it will be helpful if you do it again!)
+    Sincerely!
+Version 1.14 (Apr 3, 2017)
+    Thank you for always using it.
+    The contents of this update are as follows.
+
+    - Fixed the problem that the sound shifted when recording overlying. We apologize for the inconvenience.
+      (Items in the IO buffer have been added to the settings.If this value is set to a smaller value, deviation is reduced)
+    - Fix other problems
+
+    If you have any requests, feel free to email us and we will respond as much as possible.
+    Moreover, it will be a driving force for improvement, so it would be greatly appreciated if you could only review the stars.
+    (Since updating will disappear when updating, it will be helpful if you do it again!)
+    Sincerely!
+Version 1.13 (Mar 21, 2017)
+    Thank you for always using it.
+    The contents of this update are as follows.
+
+    - Fixed an issue that ended abnormally in the local file list.
+    - Added the function to delete local files at once. (Request response)
+
+    If you have any requests, feel free to email us and we will respond as much as possible.
+    Moreover, it will be a driving force for improvement, so it would be greatly appreciated if you could only review the stars.
+    (Since updating will disappear when updating, it will be helpful if you do it again!)
+    Sincerely!
+Version 1.12 (Jan 31, 2017)
+    Thank you for always using it.
+    The contents of this modification are as follows.
+
+    - We made it possible to set the left-right balance (PAN). (Only during playback)
+    - Reverb (echo) can be set. (Only during playback)
+    - Fix other problems
+
+    If you have any requests, feel free to email us will respond as much as possible.
+    In addition, it will be the driving force for improvement, so it would be greatly appreciated if you could have only a review of stars.
+    Sincerely!
+Version 1.11 (Jan 17, 2017)
+    Thank you for always using it.
+    The contents of this modification are as follows.
+
+    - Video export format changed from audio file to movie format.
+    - Fix other problems
+
+    If you have any requests, feel free to email us will respond as much as possible.
+    Moreover, it will be a driving force for improvement, so it would be greatly appreciated if you could have a review of only stars.
+    Sincerely!
+Version 1.10 (Jan 4, 2017)
+    Thank you for always using it.
+    The contents of this modification are as follows.
+
+    - Movie export format changed from mov format to mpeg 4 format. (Request response)
+    - Bluetooth headphone · We made it possible to play with the speaker. (Request response)
+    - Enabled to play on AirPlay device.
+    - Easy usage page added.(for japanese)
+    - Performance improvement of the local file list.
+    - Fix other problems
+
+    If you have any requests, feel free to email us will respond as much as possible.
+    Moreover, it will be a driving force for improvement, so it would be greatly appreciated if you could have only a review of stars.
+    Sincerely!
+Version 1.9 (Oct 31, 2016)
+    As always, thank you for your use.
+    This time of the fixes are as follows.
+
+    - In metronome, it added a BPM measurement function.
+    - It was to be able to freely change the tone of the metronome.
+    - Improvement of UI (was ease of use)
+    - Other bug fixes
+
+    Because it becomes the driving force of improvement, and greatly appreciated even just review star.
+    Sincerely!
+Version 1.8 (Oct 25, 2016)
+    - I added a function to export to photograph application by data.
+    - I relaxed number of the trucks restrictions. (I confine only a reproduction recording truck to two)
+    - I added wave pattern indication to a feedback truck.
+    - Other deficient corrections
+Version 1.7 (Oct 10, 2016)
+    - Added support for AppleWatch
+    (Playback recording control of the stop, and vibration in the metronome)
+    - Fixed some bugs
+Version 1.6 (Oct 3, 2016)
+    - Added file of cut function
+    - Improvement of usability, bug fixes
+Version 1.5 (Sep 26, 2016)
+    - fix bug.
+Version 1.4 (Sep 20, 2016)
+    - Added a simple tuner track , the feedback track .
+    - Added support for iOS10.
+    - During recording of the sound quality , feedback processing , Japanese correspondence , it has been improved such as the operation feeling .
+    - The support email was to be sent . Please send If you have any demand .
+Version 1.3 (Sep 5, 2016)
+    - Bug Fix
+    - Added support for iPad size
+Version 1.2 (Aug 29, 2016)
+    - It was to be able to at the same time recording and playback sound of the other apps in the back-end .
+    - Added a metronome function . (Surcharge optional)
+    - It allowed you to cancel number of the trucks restrictions . (Surcharge optional)
+Version 1.1 (Jun 27, 2016)
+    - 再生・録音ボタンの変更
+    - share機能のバグ修正
+Version 1.0 (Jun 20, 2016)
+
+Users may also like
+Select objects to compare
+MIXOUND - Acapella App
+DubDub recorder
+Spire: Music Recorder & Studio
+WavePad音声編集ソフト
+Anyone Composer
+HandyRecorder
+My Chord - easy play chord
+nana - Record your music, sing
+iWriteMusic SE
+nana - co-creation platform -
+IQ Classifications
+Genre: Entertainment
+Subgenre: Musical Instruments
+Musical Instruments
+Apps that allow users to play virtual musical instruments on their mobile devices.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.57
+    Current release
+    Feb 11, 2024
+    2.56
+    Dec 19, 2023
+    2.55
+    May 19, 2023
+    2.54
+    May 6, 2023
+    2.53
+    Dec 11, 2022
+    2.52
+    Mar 7, 2022
+    2.51
+    Mar 6, 2022
+    2.5
+    Mar 5, 2022
+    2.4
+    Jan 15, 2022
+    2.3
+    Nov 7, 2021
+    2.2
+    Aug 23, 2021
+    2.1
+    May 6, 2021
+    2.0.1
+    Mar 10, 2021
+    2.0
+    Mar 7, 2021
+    1.26
+    Jan 9, 2020
+    1.25
+    Jan 5, 2020
+    1.24
+    Sep 30, 2019
+    1.23
+    Aug 5, 2019
+    1.22
+    Jan 6, 2019
+    1.21
+    Jan 3, 2019
+    1.20
+    May 6, 2018
+    1.19
+    Jan 29, 2018
+    1.18
+    Jan 12, 2018
+    1.17.1
+    Aug 28, 2017
+    1.17
+    Aug 14, 2017
+    1.16.1
+    May 17, 2017
+    1.16
+    May 16, 2017
+    1.15
+    May 5, 2017
+    1.14
+    Apr 3, 2017
+    1.13
+    Mar 21, 2017
+    1.12
+    Jan 31, 2017
+    1.11
+    Jan 17, 2017
+    1.10
+    Jan 4, 2017
+    1.9
+    Oct 31, 2016
+    1.8
+    Oct 25, 2016
+    1.7
+    Oct 10, 2016
+    1.6
+    Oct 3, 2016
+    1.5
+    Sep 26, 2016
+    1.4
+    Sep 20, 2016
+    1.3
+    Sep 5, 2016
+    1.2
+    Aug 29, 2016
+    1.1
+    Jun 27, 2016
+    1.0
+    Jun 20, 2016
+
+See More
+Top In-App Purchases
+
+    Metronome
+    $1.99
+    Apply Effect Function
+    $1.99
+    Cancel the limit of Tracks
+    $1.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Music
+
+Initial Release Date
+    Jun 20, 2016
+
+Worldwide Release Date
+    Jun 20, 2016
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    2.57
+
+Size
+    9.89 mb
+
+Only 32 Bit
+    No
+
+Languages
+    俄文, 德文, 日文, 法语, 简体中文, 繁体中文, 英语, 葡萄牙文, 韩文
+
+Seller
+    Naoto Sasaki
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 14.0 和 watchOS 3.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    com.sasanao.easymixrec
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Oct 11, 2016)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1125724128
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Overdubbing - EasyMixRecorder | data.ai

@@ -1,0 +1,328 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+DoTalk
+DoTalk Holdings Pty LtdSocial Networking (Applications)Free
+Alerts
+
+    DoTalk Holdings Pty Ltd
+
+    DoTalk
+    DoTalk
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+DoTalk
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+The DoTalk app is your all-in-one communication companion, making it fast, easy, and convenient to translate and communicate in over 90 languages. DoTalk multilingual platforms will help connect you with friends and business partners from all over the world and is a must have app for on all your amazing global travel adventures ahead.
+
+Simply log in, or join for free to begin enjoying your DoTalk free features.
+
+Why else should I use the app?
+- You can send private messages in over 90 languages
+- Send media and files
+- Send voice messages
+- Create group chats
+- Make Calls & Video Calls
+- Search People Near & Far
+- DoTalk offers disappearing chats, messages can only be read by its intended recipient
+- Writing a Post in the News Feed that is instantly translated to your friends and followers
+- Access to the DoTalk web version
+
+What are the Premium features?
+
+- Image to text translation
+- On The Go Translation
+- Create group chats with in using 10 different languages
+- Video Calls with subtitle translation
+- Access to the DoTalk web version
+
+DoTalk takes your privacy seriously and will never give any third parties access to your data. You can delete any message you ever sent or received for both sides, at any time and without a trace. DoTalk will never use or sell your data.
+
+Download the DoTalk app now to have everything you need to communicate with anyone, anywhere, anytime!
+
+Our aim is to make DoTalk the “Ultimate Multilingual Messenger” with many more unique features planned in future updates!
+
+Terms and privacy policy: https://static.dotalk2.com/static/term-policy
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.0.72 (Nov 21, 2023)
+    New subscription model and some bug fixes
+Version 1.0.71 (Nov 7, 2023)
+    New subscription model and some bug fixes
+Version 1.0.70 (May 19, 2023)
+    In this build, we fixed Spanish translation and subscription.
+Version 1.0.69 (Apr 27, 2023)
+    In this latest update, we have made significant improvements to the translation accuracy of certain languages.
+Version 1.0.68 (Apr 7, 2023)
+    In this build, we have improved the image translator and link preview.
+Version 1.0.66 (Mar 8, 2023)
+    We have fixed the translation supported languages list and added the functionality to report or block a user for each inappropriate/potentially inappropriate message.
+Version 1.0.65 (Mar 3, 2023)
+    We have fixed the transtration supported languages list and added the functionality to report or block user for each inapproprieate/potentially inapproprieate message.
+Version 1.0.64 (Mar 1, 2023)
+    We have improve the loading speed of videos, check it out!
+Version 1.0.63 (Feb 24, 2023)
+    You can now leverage the power of Open AI - ChatGPT with our SmartTalk feature!
+
+    We also fix some bugs and have some UI updates to bring you a better experience! Enjoy DoTalk!
+Version 1.0.62 (Feb 1, 2023)
+    In this build we have integrated ChatGPT as a premium feature. You can now start asking ChatGPT any questions!
+
+    We have added the ability to copy/forward ChatGPT's responses so that you can make use of the answers from ChatGPT.In this build we have integrated ChatGPT as a premium feature. You can now start asking ChatGPT any questions!
+Version 1.0.60 (Jan 8, 2023)
+    In this release we have added Captcha to prevent SMS spam.
+Version 1.0.58 (Nov 14, 2022)
+    V1.0.58
+    - You can now see the list of followers.
+    - You can now see who likes the post.
+Version 1.0.57 (Oct 29, 2022)
+    In this release, we have fixed the bug of Block User functionality.
+Version 1.0.55 (Oct 25, 2022)
+    V1.0.55
+    - In this release we have some update on sync subscription
+Version 1.0.54 (Oct 17, 2022)
+    V1.0.54
+    In this release we have the below updates:
+
+    - Notification at the App icon for you to be aware of any unread messages you may have
+    - If you use VPN, you may expect a slower connection, and we have put a notification pop-up for this use case
+Version 1.0.53 (Oct 12, 2022)
+    V1.0.53
+    In this release we have fixed the below:
+
+    - Fix the bug of notification
+    - Fix the bug of Image Translator
+Version 1.0.50 (Sep 27, 2022)
+    V1.0.50
+    - Let's Get Started screen to give you a better way to explore DoTalk
+    - We have some minor UI updates
+Version 1.0.48 (Sep 25, 2022)
+    V1.0.48
+    In this build we have the below updates:
+
+    - Let's Get Started screen to give you a better way to explore DoTalk
+    - Add a search box to Language List to make it easier for you to find your language
+    - An improvement on Image Translator, check it out!
+Version 1.0.47 (Sep 21, 2022)
+    Release notes (1.0.47)
+    In this build we have the below updates:
+
+    - You can now report inappropriate posts on News Feed
+    - We have some minor UI and Media link updates
+Version 1.0.45 (Sep 19, 2022)
+    Release Notes (1.0.45)
+    In this build, we have the below updates:
+
+    - Removed "Redeem Gift Code" page and function
+    - On/off chat notification
+Version 1.0.40 (Sep 9, 2022)
+
+Users may also like
+Select objects to compare
+Entiendo - Multilingual Chat
+Trulinco Translator
+Neeo Messenger with Translator
+allgram Messenger
+Potecast
+Don't Go 2 Prison New
+Tendchat
+Qoneqt
+CB One: Real-time fellowship
+TryMe - Challenge platform
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.0.72
+    Current release
+    Nov 21, 2023
+    1.0.71
+    Nov 7, 2023
+    1.0.70
+    May 19, 2023
+    1.0.69
+    Apr 27, 2023
+    1.0.68
+    Apr 7, 2023
+    1.0.66
+    Mar 8, 2023
+    1.0.65
+    Mar 3, 2023
+    1.0.64
+    Mar 1, 2023
+    1.0.63
+    Feb 24, 2023
+    1.0.62
+    Feb 1, 2023
+    1.0.60
+    Jan 8, 2023
+    1.0.58
+    Nov 14, 2022
+    1.0.57
+    Oct 29, 2022
+    1.0.55
+    Oct 25, 2022
+    1.0.54
+    Oct 17, 2022
+    1.0.53
+    Oct 12, 2022
+    1.0.50
+    Sep 27, 2022
+    1.0.48
+    Sep 25, 2022
+    1.0.47
+    Sep 21, 2022
+    1.0.45
+    Sep 19, 2022
+    1.0.40
+    Sep 9, 2022
+
+See More
+Top In-App Purchases
+
+    Monthly Premium Plan
+    $7.99
+    Monthly Premium SmartTalk Plan
+    $16.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Sep 9, 2022
+
+Worldwide Release Date
+    Sep 9, 2022
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    1.0.72
+
+Size
+    140.54 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    DoTalk Holdings Pty Ltd
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.dotalk.newapp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1582289519
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+DoTalk | data.ai

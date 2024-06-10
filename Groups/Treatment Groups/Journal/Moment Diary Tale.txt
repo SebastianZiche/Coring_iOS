@@ -1,0 +1,1521 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Moment Diary Tale
+Utagoe Inc.Lifestyle (Applications)Free
+Alerts
+
+    Utagoe Inc.
+
+    Moment Diary Tale
+    Moment Diary Tale
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Moment Diary Tale
+Lifestyle (Applications)
+Free
+App Description
+Great news!
+
+This is a private diary that makes notes with timestamps! You can take a short note and use it as a private diary, simple business note, diet record, food log, lifetime recording, cash flow record, jotting down what you watch on TV, song titles while you listen to radio...etc.
+
+
+
+Please feel free to ask any questions on below URL. (in English please!)
+http://twitter.com/momentdiary
+
+
+Functions:
+
+- You can take a note. This app adds a timestamp to it. Please remember you can not post it to online social services. This is for private use.
+
+- Exporting your notes to your email address. You can select your intended range of span of dates.
+
+- Backup/Restore function is available. To use this function, WiFi connection is required.
+
+*Backup:
+
+This shows your device's IP address and when you enter it to your web browser on Mac/PC, you can download backup data(.dat) and CSV data(.csv).
+
+*Restore:
+
+After you get backup data(.dat3) on your Mac/PC, you can transfer it to any of your iPhone, iPad, iPod touch. Restoring does not delete existing data. It adds or overwrites data from backup. Please make sure the latest updated entry will be protected when overwriting.
+
+- Passcode (4-digit-numbers) lock supported as a security function. You can easily change on/off of the lock. Please do not forget your passcode. When you forget it, the only way to unlock it is to try entering the numbers until you hit it.
+
+- Picture support. Please go to setting page and turn on 'Picture' switch for this function.
+
+- You can choose three ways for exporting your picture.
+1) email picture with original size,
+2) email smaller picture for mobile phone,
+3) add to photo library of iPhone/iPod touch.
+
+- Changing background color.
+
+- Button positions adjustment for Right-handed or Left-handed users.
+
+- Function for adding photos to past notes.
+
+- Date display option for exporting. You can choose a date display mode from 'every Moment' or 'every Day'. 'every Day' option is for bloggers.
+
+- Time Machine Function which enable you to jump to desired date. Please go to Calendar page and tap the month and year display on the top of the page.
+
+- Favorite icon can be used. Please go to Setting page-> Options->Sub icon, and select 'star' mark.
+
+- Couple Diary (Data sync): It enables to sync your diary to different devices via server. It is easy. Please sync your iPhone-iPad, or share your diary with your friends. Pls. tap the arrow button on the main page (list page) and select 'Couple Diary' to start.
+
+-
+Cloud Storage (Candy free transferring).
+
+Please read followings before you buy:
+
+This is MONTHLY charge.
+Price: Tier 2(1.99USD,1.49GBP,2.79CAD,2.49 AUD,2.99 NZD)/month
+
+- Payment will be charged to iTunes Account at confirmation of purchase.
+
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+
+- No cancellation of the current subscription is allowed during active subscription period.
+
+Privacy policy:
+http://momentdiary.com/privacypolicy.pdf
+
+Terms of use:
+http://momentdiary.com/termsofuse.pdf
+
+-----------
+URL scheme
+-----------
+1. for launch
+momentdiary://?t=URL_encoded_string
+
+2. for launch & write
+momentdiary://?m=edit&t=URL_encoded_string
+
+(for launch & search)
+momentdiary://?m=search&t=URL_encoded_string
+
+-- example for 'food'
+momentdiary://?m=search&t=food
+
+-- example for 'birth day'
+momentdiary://?m=search&t=birth+day
+(white space should be replaced by '+')
+
+-- example for multi-bytes characters '星'
+momentdiary://?m=search&t=%E6%98%9F
+(percent escaped characters can be used)
+
+---
+Many thanks for your feedbacks and have fun!
+Ratings
+Displayed Avg Ratings
+3.7
+Total Displayed Ratings
+937
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 16.1 (Mar 29, 2023)
+    - Update for the latest iOS.
+    - Bug fix for sudden shutdown with text editing.
+
+    Thank you for your kind feedback!
+Version 16.0 (Sep 18, 2022)
+    - iOS16 supported!
+    - Text editor error (crash in editing) solved!
+
+    Thank you very much for your feedback!
+Version 15.6 (Dec 20, 2020)
+    - Fix bug at a couple diay/online backup page.
+    - Trivial bug fixes and performance improvement.
+
+    Thank you for your kind feed backs!
+Version 15.5 (Aug 19, 2020)
+    Bug fixes and performance improvement.
+
+    Thank you for your kind feedbacks!
+Version 15.4 (Aug 18, 2020)
+    - Remove most of ads from the app for faster responses.
+    - Trivial bug fixes.
+
+    Thank you very much for your feedbacks!
+Version 15.3 (Jul 26, 2020)
+    We hope you enjoy Moment Diary on iPhone, iPad, macOS Catalyst, and AppleWatch!
+    For supporting macOS Catalyst and iOS13, we fixed bugs as follows.
+
+    - Fix notification bugs.
+    - Fix the crash problem after purchasing products.
+    - Performance improvement.
+
+    Thank you for kind feedbacks.
+Version 15.2 (Jul 16, 2020)
+    - Moment Diary is now available on MacOS Catalyst!
+    - iOS13 compatible
+    - Fix email exporting function and other issues.
+    - Performance improvement.
+
+    Thank you very much for your kind feedbacks!!
+Version 15.1 (Jun 18, 2020)
+    - Fix the bug of time setting view.
+    - Performance improvement.
+
+    Thank you for your kind feedbacks!
+Version 15.0 (Jun 8, 2020)
+    - Update for Couple Diary. It will work when 24-Hour time is off.
+    - Update for Swift5.
+    Thank you for your kind feedbacks!
+Version 14.9 (Aug 25, 2019)
+    - Bug fix and performance improvement.
+
+    Thank you for your kind feedbacks!!
+Version 14.8 (Apr 8, 2019)
+    - Update video function and format.
+    - Bug fixes.
+
+    Thank you very much for your kind feedbacks!
+Version 14.7 (Dec 18, 2018)
+    - Fixed app shutdown problem when posting multiple video files.
+    - Update video player.
+    - Performance improvement.
+
+    * This app stores all of your memories on local device. Please make a backup by using ‘Couple Diary’ function, PC back or iTunes backup for the case your app is crashed or your iOS device is out of order.
+
+    * If you do not have data backup, it is difficult to restore it.
+
+    Thank you very much for your kind feedbacks.
+Version 14.6 (Dec 16, 2018)
+    - Fixed app shutdown problem when posting video. (Edited video may not be uploaded. Original version is used instead.)
+    - Performance improvement.
+
+    * This app stores all of your memory on local device. Please make a backup by using ‘Couple Diary’ function, PC back or iTunes backup for the case your app is crashed or your iOS device is out of order.
+
+    * If you do not have data backup, it is difficult to restore it.
+
+    Thank you very much for your kind feedbacks.
+Version 14.5 (Nov 29, 2018)
+    - Improvement of photo thumbnails. (For only new pictures.)
+    - Bug fixes and performance improvement.
+
+    
+Thank you very much for your feedbacks!!
+Version 14.4 (Nov 6, 2018)
+    - Bug fix for main list view corruption in using passcode lock.
+    - Other bug fixes and performance improvement.
+    Thank you for your kind feedbacks!
+Version 14.3 (Oct 18, 2018)
+    - Update for font size bug.
+    - Bug fix for push notification for couple diary.
+    - Other bug fixes and performance improvement.
+
+    Thank you for your kind feedbacks!!
+Version 14.2 (Oct 10, 2018)
+    - iOS12 supported.
+    - Bug fix and performance improvement.
+
+    Thank you for your kind feedbacks!!
+Version 14.1 (Jul 31, 2018)
+    Bug fix for calendar view.
+    Performance improvement.
+
+    Thank you for your kind feedbacks!
+Version 14.0 (Jul 9, 2018)
+    Fix issue of passcode lock view display.
+    Bug fixes and performance improvement.
+
+    Thank you for your kind feedbacks!!
+Version 12.9 (Jun 21, 2018)
+    Bug fix and performance improvement.
+    Thank you for your feedbacks.
+Version 12.8 (Jun 11, 2018)
+    - Bug fix for email exporting.
+    - Performance improvement.
+    Thank you for your kind feedbacks!!
+Version 12.7 (Jun 2, 2018)
+    Bug fix for '30 secs voice note'.
+    Performance improvement.
+
+    Thank you for your feedbacks!
+Version 12.6 (May 22, 2018)
+    - Improvement for crashing on iOS11.
+    - Bug fixes.
+
+    Thank you for your feedbacks!
+Version 12.5 (May 7, 2018)
+    Bug fix and performance improvement.
+
+    Thank you for your feedbacks!
+Version 12.3 (Apr 30, 2018)
+    Calendar view issue fixed.
+    Bug fix and performance improvement.
+
+    Thank you for your feedbacks.
+Version 12.2 (Apr 27, 2018)
+    - Performance improvement.
+    - Bug fixes.
+
+    Thank you for your feedbacks!
+Version 12.1 (Apr 2, 2018)
+    - Fix URL scheme problems
+    - Bug fixes and performance improvement.
+
+    Thank you for your kind feedbacks!!
+Version 12.0 (Feb 10, 2018)
+    - Bug fix for PC backup.
+    - Perfomance improvement.
+
+    Thank you for your feedbacks!
+Version 11.9 (Jan 24, 2018)
+    - Performance improvement at launching app.
+    - Bug fixes.
+
+    Thank you for your feedbacks!
+Version 11.8 (Dec 6, 2017)
+    - Photo Library My Photo Stream supported.
+    - Bug fixes.
+
+    Thank you for your feedbacks!
+Version 11.7 (Nov 9, 2017)
+    iPhoneX supported.
+    Bug fix.
+Version 11.6 (Oct 22, 2017)
+    Bug fix for skin setting.
+
+    Thank you for your feedbacks!
+Version 11.5 (Oct 19, 2017)
+    - Bug fixes and performance improvement.
+Version 11.4 (Oct 2, 2017)
+    iOS11 Support.
+
+    - Bug fix for passcode lock for iOS11.
+    - Other bug fixes.
+
+    Please check in-app information for server troubles.
+
+    Thank you for your feedbacks!
+Version 11.3 (Aug 12, 2017)
+    - iCloud is added for selecting photos.
+    - VoiceOver is now available three views: 
+1. Main list view
+2. Calendar view
+3. Writing view
+
+    - Bug fixes and performance improvement.
+
+    Thank you for your kind feedbacks!
+Version 11.2 (May 23, 2017)
+    - Shop page bug fix.
+    - Performance improvement.
+    Thank you for your feedbacks!
+Version 11.1 (Mar 29, 2017)
+    - Bug fix for Couple Diary server (Cloud backup) syncing trouble.
+    - Improve performance and other bug fixes.
+
+    Thank you very much for your kind feedbacks!!
+Version 10.9 (Jan 16, 2017)
+    - New skins and stickers.
+    - Long text can be displayed at the main list view when we tap '...' at the last line of diary entry.
+    - Bug fixes and improve performance.
+
+    Thank you for your kind feedbacks!
+Version 10.8 (Jan 11, 2017)
+    - Pictures are ordered in using multiple photo selection.
+    - Edit icon is displayed on each diary entry at the main list view or calendar view.
+    - Comparison table is shown for checking the difference between premium users and normal users.
+    - Bug fix and performance improvement.
+
+    Thank you very much for your kind feedbacks!!!
+Version 10.7 (Nov 29, 2016)
+    Great News!
+
+    This version supports followings:
+
+    - We can now go to target date of calendar from the main list view!
+    At the main list view, please tap the top-right date label on each diary entry.
+    It leads you to the target date of calendar view!
+
+    - Photos library selection is updated! It makes easier to choose photos and videos!
+
+    - Passcode view: number buttons becomes bigger!
+
+    - Passcode view: Touch ID is updated.
+
+    - For iOS10 users: launching performance is updated.
+
+    - For iOS10 users: push notification is supported when using couple diary.
+
+    - Bug fixes and performance improvement!
+
+    Thank you very much for your kind feedbacks!!
+Version 10.6 (Nov 7, 2016)
+    Great news!!
+
+    Following functions are updated!
+    -Improves monthly calendar performance.
+    -Bug fix for picture and microphone functions.
+
+    We also recently updated following items.
+    -Monthly calendar supports swiping (upward and downward)!
+    -Start weekday of monthly calendar can be changed!!
+    -Day-by-Day calendar is now available!!
+    -Stickers can be managed at shop view. (We can remove or changing order
+    -Improvement performance.
+    -Bug fixes.
+
+    Thank you very much for your kind feedbacks!!
+Version 10.5 (Nov 3, 2016)
+    Great news!!
+    Following functions are updated.
+
+    -Monthly calendar supports swiping (upward and downward)!
+    -Start weekday of monthly calendar can be changed!!
+    -Day-by-Day calendar is now available!!
+    -In-app web-browser is now available for iOS10.
+    -Stickers can be managed at shop view. (We can remove or changing order
+    -Improvement performance.
+    -Bug fixes.
+
+    Thank you very much for your kind feedbacks!!
+Version 10.4 (Nov 2, 2016)
+    Great news!!
+    Following functions are updated.
+
+    -Background image of monthly calendar can be changed!
+    -Monthly calendar supports swiping (upward and downward)!
+    -Start weekday of monthly calendar can be changed!!
+    -Day-by-Day calendar is now available!!
+    -In-app web-browser is now available for iOS10.
+    -Stickers can be managed at shop view. (We can remove or changing order
+    -Improvement performance.
+    -Bug fixes.
+
+    Thank you very much for your kind feedbacks!!
+Version 10.3 (Oct 13, 2016)
+    Great news!!
+
+    - Now main view wallpaper (background image) can be changed!
+    Please put your favorite pictures.
+    (Candy point will be consumed a little if you are not a premium user.)
+
+    Start from a brush button at top-right of main view.
+    If brush button can not be located at the top-right part,
+    please pull down the list or post a diary entry.
+
+    - Diary entry screen is updated to card style.
+    Please enjoy more simple and stylish diary.
+    You can adjust alpha-value of each card when you have a background picture.
+    Please tap the top-right camera button as well.
+
+    - Bug fix for iPad time changer.
+    - Make numbers of calendar bigger.
+    - New skin colors (emerald green and European blue).
+    - Make app startup faster.
+
+    Thank you very much for your kind feedbacks!!
+Version 10.2 (Oct 12, 2016)
+    Great news!!
+
+    - Now main view wallpaper (background image) can be changed!
+    Please put your favorite pictures.
+    (Candy point will be consumed a little if you are not a premium user.)
+
+    Start from a camera button at top-right of main view.
+    If camera button can not be located at the top-right part,
+    please pull down the list or post a diary entry.
+
+    - Diary entry screen is updated to card style.
+    Please enjoy more simple and stylish diary.
+    You can adjust alpha-value of each card when you have a background picture.
+    Please tap the top-right camera button as well.
+
+    - Bug fix for iPad time changer.
+    - Make numbers of calendar bigger.
+    - New skin colors (emerald green and European blue).
+    - Make app startup faster.
+
+    Thank you very much for your kind feedbacks!!
+Version 10.1 (Sep 26, 2016)
+    - Redesigned passcode lock screen! Please check.
+    - Fix graphic bugs.
+    - Other trivial bug fixes and performance improvement.
+
+    Thank you very much for your kind feedbacks!!!
+Version 10.0 (Sep 18, 2016)
+    - iOS10, watchOS 3 supported!
+    - 30 seconds voice note is available with Siri.
+    - Simpler user interface.
+    - Bug fixes.
+
+    Thank you for your kind feedbacks!
+Version 8.9.2 (Sep 9, 2016)
+    - Update setting view.
+    - Bug fix for Text View.
+
+    Thank you for your kind feedbacks!
+Version 8.9.1 (Sep 4, 2016)
+    - Performance improvement & bug fix.
+Version 8.9 (Jul 4, 2016)
+    - Bug fix and improves performance.
+
+    Thank you for your feedbacks!
+Version 8.8 (Apr 27, 2016)
+    ・The selection of photos from the camera roll, has been modified to be easy
+    ・Improvement of performance
+    ・Bug fixes
+    Thank you for your feedbacks!!
+Version 8.7 (Apr 1, 2016)
+    Information of version 8.7:
+    ・Improvement of performance
+    ・Bug fixes
+    Thank you for your feedbacks!!
+Version 8.6 (Mar 14, 2016)
+    Information of version 8.6:
+    ・Improvement of performance
+    ・Bug fixes
+    Thank you for your feedbacks!!
+Version 8.5 (Mar 4, 2016)
+    Information of version 8.5:
+    ・Improvement of performance
+    ・Bug fixes
+    Thank you for your feedbacks!!
+Version 8.4.4 (Feb 26, 2016)
+    ・Improvement of performance
+    ・Bug fixes
+    Thank you for your feedbacks!!
+Version 8.4.3 (Feb 19, 2016)
+    Bug fixes.
+Version 8.4 (Feb 5, 2016)
+    Information of version 8.4:
+    ・Bug fixe
+    ・Improvement of performance
+    Thank you for your feedbacks!!
+Version 8.3 (Nov 18, 2015)
+    Information of version 8.3:
+    ・Bug fixe
+    ・Improvement of performance
+    Thank you for your feedbacks!!
+Version 8.2 (Nov 3, 2015)
+    Information of version 8.2:
+    ・Bug fixe
+    ・Improvement of performance
+    Thank you for your feedbacks!!
+Version 8.1 (Oct 24, 2015)
+    Thank you for using the momentdiary.
+
+    Information of version 8.1:
+    ・Bug fixes of photo display.
+
+    We hope you will enjoy MomentDiary.
+Version 8.0 (Oct 15, 2015)
+    Thank you for using the momentdiary.
+
+    Information of version 8.0:
+    ・A lot of new products have been added to the shop!
+    ・We gave the improvement of performance.
+
+    We hope you will enjoy MomentDiary.
+Version 7.9 (Jul 10, 2015)
+    bug fixes of calender stickers.
+Version 7.8 (Jul 1, 2015)
+    The contents of the premium services more great!
+    When it comes to premium user, you can download items(Stickers and Skins) as you like for limited time.
+    You can use new function : Photo will add automatically to the photo library when you take the picture by the moment diary.
+Version 7.7 (Jun 18, 2015)
+    The contents of the premium services more great!
+    When it comes to premium user, you can download items(Stickers and Skins) as you like for limited time.
+    You can use new function : Photo will add automatically to the photo library when you take the picture by the moment diary.
+Version 7.6 (May 5, 2015)
+    Bug fix for Apple Watch.
+Version 7.5 (Apr 14, 2015)
+    ・Bug fixes.
+
+    ・The rule changes of candy point.
+    -2points at the launch per day.
+    -2points at the entry per day.
+
+    Have FUN!!
+Version 7.4 (Apr 3, 2015)
+    bug fixes of calender stickers.
+Version 7.3 (Mar 21, 2015)
+    improved Performance and bug fixes.
+Version 7.2 (Mar 6, 2015)
+    We have renewed the calendar sticker. Bug fixes.
+Version 7.1 (Jan 29, 2015)
+    ・We've redesigned the settings screen of skins and paper color.
+    ・We've changed the top of the main screen in a simple design.
+    ・When you want to delete, you can now select multiple.
+    ・Start-up time to the diary creation screen is now short.
+    ・Other,improvement of performance.
+Version 6.8 (Dec 15, 2014)
+    The bug fixes in the "photo library" of iOS8.
+Version 6.7 (Oct 22, 2014)
+    The bug fixes in the "map information" and "photo library" of iOS8.
+Version 6.6 (Oct 9, 2014)
+    Updates for iOS8 and cloud storage service. Bug fixes.
+Version 6.5 (Sep 17, 2014)
+    Updates for iOS8 and Bug fixes.
+Version 6.3 (Sep 4, 2014)
+    - Bug fixes and performance improvements.
+Version 6.2 (Jun 12, 2014)
+    Bugs of camera and photo viewing.
+
+    Passcode lock screen adjustment for iPad.
+
+    Other trivial bug fixes.
+
+
+
+    Thank you for your feedbacks!!
+Version 6.1 (Jun 1, 2014)
+    Great NEWS!
+
+    Now we can add more than one picture to each entry!!! Please try it.
+
+    This version also includes following updates!
+
+    - Diary writing reminder is now available! Please take a look at setting page.
+    App icon on home screen will have badge in days you set. (7days as default.)
+
+    - Black colour can be selected for day icon on main list view.
+
+    - Improvement of app performance and speed.
+
+    - Quicker sync with diary server.
+
+    - Setting view is now tab-style. (for iPhone/iPod touch)
+
+    - Overlapping clock and several skins are fixed for iOS7.
+
+    - You can introduce your friends to this app and get candy points! Please take a look at candy point page!
+
+    Thank you very much for your great feedbacks!
+Version 6.0 (Apr 9, 2014)
+    - App launch time becomes faster when your entries has a very long text.
+    - Now you can enter hash-tag stickers onto calendar view.
+    - Multiple image selection from Photo Library.
+    - Bug fixes
+
+    Thank you for your feedbacks!!
+Version 5.9 (Mar 11, 2014)
+    Localisation bug fixes.
+
+
+
+
+
+    - updates in v5.8
+
+
+
+    - Picture slide view has a detail view button (bottom, second button from right).
+
+    - 'And search' is supported in main list view.
+
+    - URL scheme also supports searching.
+
+
+
+    momentdiarytale://?m=search&t=[URL encoded text]
+
+
+
+    -- example for 'food'
+
+    momentdiarytale://?m=search&t=food
+
+
+
+    -- example for 'birth day'
+
+    momentdiarytale://?m=search&t=birth+day
+
+    (white space should be replaced by '+')
+
+
+
+    -- example for multi-bytes characters '星'
+
+    momentdiarytale://?m=search&t=%E6%98%9F
+
+    (percent escaped characters can be used)
+
+
+
+    - Bug fixes
+
+
+
+    Thank you for your feedbacks!
+Version 5.8 (Feb 26, 2014)
+    - Picture slide view has a detail view button (bottom, second button from right).
+    - 'And search' is supported in main list view.
+    - URL scheme also supports 'searching'.
+
+    momentdiarytale://?m=search&t=[URL encoded text]
+
+    -- example for 'food'
+    momentdiarytale://?m=search&t=food
+
+    -- example for 'birth day'
+    momentdiarytale://?m=search&t=birth+day
+    (white space should be replaced by '+')
+
+    -- example for multi-bytes characters '星'
+    momentdiarytale://?m=search&t=%E6%98%9F
+    (percent escaped characters can be used)
+
+    - Bug fixes
+
+    Thank you for your feedbacks!
+Version 5.7 (Jan 13, 2014)
+    Bug fixes
+Version 5.6 (Jan 8, 2014)
+    Happy New Year!
+
+
+
+    We are pleased to release the new version with following items.
+
+
+
+    - Now flat designed icons are available. Classic icons are also available from colour selecting page in setting view.
+
+
+
+    - Bug fix for syncing.
+
+
+
+    - Thumbnail resolution for image is improved.
+
+
+
+    Thank you for your feedbacks!
+Version 5.5 (Dec 17, 2013)
+    - Improve UI for image viewer.
+
+    - Remove ads from candy page.
+
+    - Bug fixes.
+
+
+
+    Thank you for your feedback!
+Version 5.3 (Nov 8, 2013)
+    - Update text localisation.
+    - Update passcode function.
+    - Bug fixes.
+
+    Thank you for your feedbacks!
+Version 5.2.1 (Nov 4, 2013)
+    Bug fix for photo library selection (iOS7)
+Version 5.2 (Oct 27, 2013)
+    - Improve image viewer processing.
+
+    - Sound pause and seeking is now available at its playback view.
+
+    - Bug fix for iPad map viewer.
+
+    - Bug fix for iPad sound playback interface.
+
+    - Added a skin and a sticker set.
+
+
+
+    Thank you for your feedback!!!
+Version 5.1 (Oct 20, 2013)
+    - Bug fix against TextView crashing in tapping when no characters are entered.
+
+
+
+    - Time format in time changing view is set to the same format of your device.
+
+
+
+    Your feedback is really appreciated!
+Version 5.0 (Oct 14, 2013)
+    - Performance improvement.
+    - Design changing for flat components.
+    - Cursor position adjustment for textview.
+    - Split keyboard support
+    - Correct timestamp when you start from edit view.
+    - You can check your Couple Diary password at its changing view.
+
+    Thank you for your feedbacks!!!
+Version 4.8 (Sep 28, 2013)
+    Bug fixes.
+
+    - Main list cell is updated.
+
+    - Mail export function is updated.
+
+    - iPad's export UI is updated.
+
+
+
+    Thank you for your feedbacks.
+Version 4.7 (Sep 21, 2013)
+    - "Fast write before passcode unlock" is now supported!
+
+    If you turn passcode on and your start page is 'write', you can launch this app with write page, passcode lock view is followed after that.
+
+    This is powerful and useful when you wish to jot down things as fast as possible!
+
+    This version includes following updates.
+
+    - UI design is updated for the brand-new OS.
+    - Improve the performance.
+
+    Thank you very much for your feedback!
+Version 4.6 (Aug 20, 2013)
+    - Now you can view web sites in-app browser when you tap each url-link at main list view or calendar view!
+
+
+
+    - Improve performance at Calendar view.
+
+
+
+    - Bug fixes.
+
+
+
+    Thank you for your feedbacks!
+Version 4.5.2 (Jul 25, 2013)
+    Bug fix for memory lack in viewing Pictures.
+
+
+
+    Thank you for your feedbacks!
+Version 4.5.1 (Jul 14, 2013)
+    Bug fix for font displaying.
+
+
+
+    Thank you for your feedbacks!
+Version 4.5 (Jul 5, 2013)
+    - Improve performance.
+    - Bug fixes.
+
+    Thank you for your feedbacks!!
+Version 4.4.1 (Jun 19, 2013)
+    Bug fix.
+    Improve performance.
+
+    Thank you for your feedbacks!
+Version 4.4 (Jun 13, 2013)
+    - Slide photo viewer is now available.
+    - Tiled photo viewer is also available on slide photo viewer.
+    - New url scheme starts from edit mode.
+    ex) momentdiarytail://?t=encoded_your_text&m=edit
+
+    Thank you for your feedbacks!
+
+    For iPad users: please wait for the next ver.4.4.1 it will come in a week. This version 4.4 has a problem in picture viewing. Thank you.
+Version 4.3 (Apr 18, 2013)
+    Calendar page is now available as a start page!
+
+    Fixed bugs.
+
+
+
+    Thank you for your feedbacks.
+Version 4.2 (Mar 19, 2013)
+    - Bug fix
+    - Changes for Setting, Candy, Shopping view.
+Version 4.1 (Feb 4, 2013)
+    Bug Fixes.
+    We added the new function; Tag Sticker.
+Version 4.0 (Dec 6, 2012)
+    Glitch fix for iPhone5 keyboard Landscape.
+Version 3.9 (Nov 29, 2012)
+    - Calendar displays marks and stickers for next month and previous month.
+
+    - Time Trip function is improved.
+
+
+
+    Bug fixes for:
+
+    - Daylight Saving Time.
+
+    - Free stickers expiration popup errors.
+
+    - Free skins and papers selection errors.
+
+    - iPad image selection.
+
+    - Sync functions.
+Version 3.8 (Nov 10, 2012)
+    Bug Fixes
+Version 3.7 (Oct 30, 2012)
+    - Font size changing for writing
+
+    - Improve response time in ShopView.
+
+    - Bug fixes
+Version 3.6 (Oct 20, 2012)
+    Bug fixes for iOS6.
+Version 3.5 (Sep 28, 2012)
+    - iPhone5 support
+    - Bug fixes
+Version 3.4 (May 25, 2012)
+    - Bug fix.
+
+    - Improve launching spee.
+
+    - URL scheme.
+
+    Example:
+
+    momentdiarytale://?t=your_text
+
+Version 2.9 (Mar 30, 2012)
+    This version has following changes.
+
+    - Performance is improved.
+    - Bug fixes.
+
+    Thank you for your feedbacks!
+Version 2.8 (Jan 21, 2012)
+    - Performance is improved when writing entries.
+    - Bug fix for character counter, calendar, and Couple Diary.
+
+    Thank you for your feedbacks!
+Version 2.7 (Dec 8, 2011)
+    * Performace is improved when writing entries.
+
+
+
+    * Black color is added for background paper.
+
+
+
+    * Multi-bytes characters are available for hash tags.
+
+
+
+    * Bug fix for calendar stickers and background colors.
+
+
+
+    * Bug fix for Couple Diary.
+
+
+
+    If you have any questions please take a look at our support page(twitter).
+
+
+
+    http://twitter.com/momentdiary
+
+
+
+    Thank you for your feedbacks!
+
+Version 2.6.3 (Oct 18, 2011)
+    iOS5 camera support
+Version 2.6.2 (Oct 12, 2011)
+    - iOS 5 keyboard support
+    - bug fix for iOS 4.0 and 4.1
+    - font size change for writing.
+
+    Thank you for your feedbacks!
+Version 2.6.1 (Oct 9, 2011)
+    - Bug fix: calendar stickers.
+
+    Pls. make a backup anytime before you update the app.
+    Thank you for your feedbacks!
+Version 2.6 (Sep 15, 2011)
+    Bug fix for iPad2 camera bug.
+
+    Improve process performance in writing a entry.
+
+    Improve process performance at calendar view.
+
+    Add +120 stickers.
+Version 2.5.1 (Aug 31, 2011)
+    Speed up for map(GPS) users.
+
+    Speed up for calendar page with large number of entries.
+
+    Bug fixes.
+Version 2.5 (Aug 23, 2011)
+    add +100 stickers
+Version 2.4.5 (Aug 19, 2011)
+    Bug fix against timestamp problems, calendar stickers/background.
+Version 2.4.3 (Aug 8, 2011)
+    Bug fix for iPad3.2, iOS 3.1.X.
+Version v2.4.1 (Jul 22, 2011)
+    - Changed user interface a little.
+Version 2.4 (Jul 11, 2011)
+    ################
+    Please make a backup of your device by connecting with iTunes
+    before you update the newer version.
+    Thank you!
+    ################
+
+    Great news!
+    v2.4 supports the online backup mode!
+
+    -iPad2 camera support
+    -Online backup mode (please tap an arrow-icon on the top list page and take a look at Backup/CoupleDiary).
+    -Unified date format with Android version.
+    - Badge notification for today's schedule.
+
+    Thank you for your feedbacks! 
+Version 2.3 (Apr 14, 2011)
+    Update news!
+    -----------
+    Pls. sync your iOS device with iTunes and create a backup before you update your application.
+    -----------
+
+    * v2.3 supports "Couple Diary" for easy sync.
+
+    *** Couple Diary ***
+
+    It enables to sync your diary to different devices via server. With your own Diary ID, you can sync iPhone-iPad or share your diary with friends.
+
+    *NOTE: Be careful that your diary and your friends' are mixed after they sync. If you do not want to share your current diary, please download and use other MomentDiary family (Moment Diary, Moment Diary Tale).
+
+    *** How to use it! ***
+
+    - Tap the arrow button on the main page (list page) and select 'Couple Diary'.
+
+    - Please tap 'Create new Diary ID' when you use for the first time. When you already know a Diary ID, please tap 'Start with known Diary ID'.
+
+    - After you setup your "Diary ID" and "Password", you can start to sync your diary.
+
+    * Our server deletes your data if no devices access it during 14 days.
+Version 2.2.2 (Mar 2, 2011)
+    Update news!
+
+    -----------
+
+    Please make a backup or sync with iTunes before you update new version!
+
+    -----------
+
+
+
+    - Calendar sticker supported. Please take a look at calendar page and MomentDiary shop in app.
+
+
+
+    - 'HELP' button added on passcode lock page and setting page.
+
+
+
+    - WindowIE supported in Backup/Restore page.
+
+
+
+    This version has tested passcode lock on following devices:
+
+    iPhone4, iPhone3G, iPhone3GS, iPad(iOS3, iOS4), iPod touch3, 4.
+
+
+
+    Thank you for your feed backs!
+Version 2.2.1 (Feb 12, 2011)
+    Emergent bug fix for passcode lock bug.
+
+    We apologize for the inconvenience.
+
+    -------------------------------------
+    Please make sure to sync your device with iTunes and make backup your device before you update application!
+    -------------------------------------
+
+    We would thank to all users who posted feedbacks to us.
+
+    Thank you!
+Version 2.2 (Feb 4, 2011)
+    Great NEWS!
+
+    -------------------------------------
+    Please make sure to sync your device with iTunes and make backup your device before you update application.
+    -------------------------------------
+
+    MomentDiary v2.2 begins "CANDY POINT" program!!
+    Now you can earn CANDY point by writing your diary and use it for purchasing various skins or future services at MomentDiary shop!!
+
+    There are two ways to earn CANDIES.
+
+    #1. You get 1 CANDY in every time you write a diary.
+    7 CANDIES/DAY at most by this.
+
+    #2. Install and open other Apps listed on MomentDiary shop. You can earn more money by this!!
+
+    This version also supports following functions.
+
+    - Color changing of each day on calendar page.
+
+    - Audio data export.
+
+    - CSV file import.
+
+    - You can send a direct message, claims, or bug reports to developers for quick improvement of MomentDiary.
+
+    - Jump button for the same date of last year or next year.
+
+    - HTTP encoding is used for map links in an export email.
+
+    - Several bugs are fixed.
+
+    - Change display name from 'MomentDiary' to 'MD'.
+
+    - BlueTooth keyboard supported.
+
+    ----
+    If you got a trouble with passcode lock just after updating with new version, pls. make sure your previous version is not running in the background(multitasking).
+
+    How to check it:
+
+    1. Turn your all applications off and go back to home screen.
+    2. Push home button of your device twice and show multitask icons.
+    3. If you find MomentDiary or MD in the list, please remove the icon.
+
+    4. Then please try to restart your MomentDiary once again.
+
+    We appreciate your feedbacks.
+
+    Have fun!
+Version 11.0 (Dec 23, 2010)
+    Bug fixes.
+Version 2.1.2
+
+Users may also like
+Select objects to compare
+Daily Diary - Journal - Moment
+My Nikki
+你的日记
+Personal Diary (Journal) App
+Personal Diary For You!
+LockNote - Encrypted Notepad
+Anniversary calculation
+MyShiftCalendar
+Simple Diary - Daily Journal
+TenYear Diary - journal & memo
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    16.1
+    Current release
+    Mar 29, 2023
+    16.0
+    Sep 18, 2022
+    15.6
+    Dec 20, 2020
+    15.5
+    Aug 19, 2020
+    15.4
+    Aug 18, 2020
+    15.3
+    Jul 26, 2020
+    15.2
+    Jul 16, 2020
+    15.1
+    Jun 18, 2020
+    15.0
+    Jun 8, 2020
+    14.9
+    Aug 25, 2019
+    14.8
+    Apr 8, 2019
+    14.7
+    Dec 18, 2018
+    14.6
+    Dec 16, 2018
+    14.5
+    Nov 29, 2018
+    14.4
+    Nov 6, 2018
+    14.3
+    Oct 18, 2018
+    14.2
+    Oct 10, 2018
+    14.1
+    Jul 31, 2018
+    14.0
+    Jul 9, 2018
+    12.9
+    Jun 21, 2018
+    12.8
+    Jun 11, 2018
+    12.7
+    Jun 2, 2018
+    12.6
+    May 22, 2018
+    12.5
+    May 7, 2018
+    12.3
+    Apr 30, 2018
+    12.2
+    Apr 27, 2018
+    12.1
+    Apr 2, 2018
+    12.0
+    Feb 10, 2018
+    11.9
+    Jan 24, 2018
+    11.8
+    Dec 6, 2017
+    11.7
+    Nov 9, 2017
+    11.6
+    Oct 22, 2017
+    11.5
+    Oct 19, 2017
+    11.4
+    Oct 2, 2017
+    11.3
+    Aug 12, 2017
+    11.2
+    May 23, 2017
+    11.1
+    Mar 29, 2017
+    10.9
+    Jan 16, 2017
+    10.8
+    Jan 11, 2017
+    10.7
+    Nov 29, 2016
+    10.6
+    Nov 7, 2016
+    10.5
+    Nov 3, 2016
+    10.4
+    Nov 2, 2016
+    10.3
+    Oct 13, 2016
+    10.2
+    Oct 12, 2016
+    10.1
+    Sep 26, 2016
+    10.0
+    Sep 18, 2016
+    8.9.2
+    Sep 9, 2016
+    8.9.1
+    Sep 4, 2016
+    8.9
+    Jul 4, 2016
+    8.8
+    Apr 27, 2016
+    8.7
+    Apr 1, 2016
+    8.6
+    Mar 14, 2016
+    8.5
+    Mar 4, 2016
+    8.4.4
+    Feb 26, 2016
+    8.4.3
+    Feb 19, 2016
+    8.4
+    Feb 5, 2016
+    8.3
+    Nov 18, 2015
+    8.2
+    Nov 3, 2015
+    8.1
+    Oct 24, 2015
+    8.0
+    Oct 15, 2015
+    7.9
+    Jul 10, 2015
+    7.8
+    Jul 1, 2015
+    7.7
+    Jun 18, 2015
+    7.6
+    May 5, 2015
+    7.5
+    Apr 14, 2015
+    7.4
+    Apr 3, 2015
+    7.3
+    Mar 21, 2015
+    7.2
+    Mar 6, 2015
+    7.1
+    Jan 29, 2015
+    6.8
+    Dec 15, 2014
+    6.7
+    Oct 22, 2014
+    6.6
+    Oct 9, 2014
+    6.5
+    Sep 17, 2014
+    6.3
+    Sep 4, 2014
+    6.2
+    Jun 12, 2014
+    6.1
+    Jun 1, 2014
+    6.0
+    Apr 9, 2014
+    5.9
+    Mar 11, 2014
+    5.8
+    Feb 26, 2014
+    5.7
+    Jan 13, 2014
+    5.6
+    Jan 8, 2014
+    5.5
+    Dec 17, 2013
+    5.3
+    Nov 8, 2013
+    5.2.1
+    Nov 4, 2013
+    5.2
+    Oct 27, 2013
+    5.1
+    Oct 20, 2013
+    5.0
+    Oct 14, 2013
+    4.8
+    Sep 28, 2013
+    4.7
+    Sep 21, 2013
+    4.6
+    Aug 20, 2013
+    4.5.2
+    Jul 25, 2013
+    4.5.1
+    Jul 14, 2013
+    4.5
+    Jul 5, 2013
+    4.4.1
+    Jun 19, 2013
+    4.4
+    Jun 13, 2013
+    4.3
+    Apr 18, 2013
+    4.2
+    Mar 19, 2013
+    4.1
+    Feb 4, 2013
+    4.0
+    Dec 6, 2012
+    3.9
+    Nov 29, 2012
+    3.8
+    Nov 10, 2012
+    3.7
+    Oct 30, 2012
+    3.6
+    Oct 20, 2012
+    3.5
+    Sep 28, 2012
+    3.4
+    May 25, 2012
+    2.9
+    Mar 30, 2012
+    2.8
+    Jan 21, 2012
+    2.7
+    Dec 8, 2011
+    2.6.3
+    Oct 18, 2011
+    2.6.2
+    Oct 12, 2011
+    2.6.1
+    Oct 9, 2011
+    2.6
+    Sep 15, 2011
+    2.5.1
+    Aug 31, 2011
+    2.5
+    Aug 23, 2011
+    2.4.5
+    Aug 19, 2011
+    2.4.3
+    Aug 8, 2011
+    v2.4.1
+    Jul 22, 2011
+    2.4
+    Jul 11, 2011
+    2.3
+    Apr 14, 2011
+    2.2.2
+    Mar 2, 2011
+    2.2.1
+    Feb 12, 2011
+    2.2
+    Feb 4, 2011
+    11.0
+    Dec 23, 2010
+    2.1.2
+    N/A
+
+See More
+Top In-App Purchases
+
+    Cloud Storage (monthly)
+    $1.99
+    +10 Stickers
+    $1.99
+    +10 Stickers 2
+    $1.99
+    Stickers Expression
+    $1.99
+    Polka Dots
+    $2.99
+    Polka Dots Pink
+    $2.99
+    Giraffe
+    $1.99
+    Zebra Stripe
+    $1.99
+    Leopard
+    $1.99
+    Stickers Lifestyle
+    $1.99
+
+About
+
+Required Devices
+    Mac, Apple Watch, iPhone, iPad
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Dec 23, 2010
+
+Worldwide Release Date
+    Dec 23, 2010
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    16.1
+
+Size
+    13.57 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, German, Japanese, Korean, Polish, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    Tom Sonoda
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.0 and watchOS 6.2 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    net.sonoda.tools2
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Apr 16, 2015)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 410787880
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Moment Diary Tale | data.ai

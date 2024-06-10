@@ -1,0 +1,377 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Diary! SmartDiary
+Hideki OkunoLifestyle (Applications)Free
+Alerts
+
+    Hideki Okuno
+
+    Diary! SmartDiary
+    Diary! SmartDiary
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Diary! SmartDiary
+Private diary of simple, easy
+Lifestyle (Applications)
+Free
+App Description
+Simple and easy operation private diary application.
+
+・Leave memories of daily life with photos easily.
+・You can enter in the calendar the mood and schedule of the day.
+・You can easily display past memories.
+・Passcode lock (Touch ID, Face ID support)
+
+[Other functions]
+・Cover photo setting
+・Calendar display setting (Start Week On, Calendar Position, Cover Photo Size, Transparency)
+・Diary text setting (Font Size, Font Depth, Line Spacing)
+・Theme color setting
+・Notification of forgetting input
+・Support for landscape orientation (iPad only)
+
+[Credit]
+・Designed by Freepik and distributed by Flaticon (https://www.flaticon.com)
+・Icons8 (https://icons8.com)
+・This software includes the work that is distributed in the Apache License 2.0.
+Ratings
+Displayed Avg Ratings
+4.44
+Total Displayed Ratings
+628
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.4.4 (Jan 28, 2024)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs
+Version 1.4.3 (Oct 22, 2023)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs
+Version 1.4.2 (Jun 26, 2023)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs
+Version 1.4.1 (Dec 18, 2022)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed an issue that could cause mark editing to behave incorrectly
+    - Other minor improvements and bug fixes
+Version 1.4.0 (Sep 20, 2022)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Support for iOS/iPad OS 16 (support changed to iOS 12 or later).
+    - Support for Split View and Slide Over on iPad.
+    - Support for swiping left/right in the diary to see the previous/next diary entries.
+    - Support for copy and paste images in the diary.
+    - Added show photos in the album.
+    - Added version history to app version show.
+    - Fixed other minor issues.
+Version 1.3.6 (Mar 31, 2022)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Supports iOS15
+    - Other minor improvements and bug fixes
+Version 1.3.5 (Jan 23, 2022)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Improved the calendar so that when the date changes, the selection also changes to today
+    - Other minor improvements and bug fixes
+Version 1.3.4 (Dec 12, 2021)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs
+Version 1.3.3 (Jul 23, 2021)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs
+Version 1.3.2 (Jun 15, 2021)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs
+Version 1.3.1 (Apr 21, 2021)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs
+Version 1.3.0 (Feb 27, 2021)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed an issue where cover photos and thumbnail images were stretched.
+    ※ It will be improved from the next registration.
+    - Changed the operation buttons of the calendar to move according to the display of the calendar.
+    - Changed the calendar and timeline list view to fill the list with text when there are no images.
+Version 1.2.4 (Aug 4, 2020)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed a problem that may terminate abnormally.
+Version 1.2.3 (Jul 9, 2020)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs
+Version 1.2.2 (Apr 5, 2020)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs.
+Version 1.2.1 (Oct 18, 2019)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed a bug in iOS13
+    - Other minor problems fixed
+Version 1.2.0 (Feb 7, 2019)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Added function to remove ads
+    - Added color selection and history input to mark input
+    - Added function to eliminate diary time
+    - Changed layout of calendar screen
+    - Fixed bug in time zone change
+    - Change the data configuration (Data update will be executed at first startup)
+    - Other minor improvements and problems fixed
+Version 1.1.2 (Nov 16, 2018)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed minor bugs.
+Version 1.1.1 (Nov 7, 2018)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Fixed a bug in diary editing.
+Version 1.1.0 (Sep 27, 2018)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Supports iOS 12.
+    - Added the function to make the first line of the diary a title.
+    - Added function to notify input forgotten.
+    - Added four colors to theme color.
+    - Changes the data structure (data update is executed at first start).
+    - Other minor improvements and bugs fix.
+Version 1.0.1 (Jun 25, 2018)
+    Thank you for always using us.
+    The contents of this time modification are as follows.
+
+    - Minor improvements and bugs fix.
+Version 1.0.0 (May 30, 2018)
+
+Users may also like
+Select objects to compare
+Useful Diary
+Memory: diary with password
+Daily Diary - Journal - Moment
+Piary
+毎日続けられるシンプルな写真付き日記アプリ-Nikky-
+Memory Tiny Photo Diary
+Photo Diary: Journal with lock
+シンプルメモ - 使いやすいノート、日記、メモ帳 (めも)
+myRecipe / レシピ記録アプリ
+My Nikki
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.4.4
+    Current release
+    Jan 28, 2024
+    1.4.3
+    Oct 22, 2023
+    1.4.2
+    Jun 26, 2023
+    1.4.1
+    Dec 18, 2022
+    1.4.0
+    Sep 20, 2022
+    1.3.6
+    Mar 31, 2022
+    1.3.5
+    Jan 23, 2022
+    1.3.4
+    Dec 12, 2021
+    1.3.3
+    Jul 23, 2021
+    1.3.2
+    Jun 15, 2021
+    1.3.1
+    Apr 21, 2021
+    1.3.0
+    Feb 27, 2021
+    1.2.4
+    Aug 4, 2020
+    1.2.3
+    Jul 9, 2020
+    1.2.2
+    Apr 5, 2020
+    1.2.1
+    Oct 18, 2019
+    1.2.0
+    Feb 7, 2019
+    1.1.2
+    Nov 16, 2018
+    1.1.1
+    Nov 7, 2018
+    1.1.0
+    Sep 27, 2018
+    1.0.1
+    Jun 25, 2018
+    1.0.0
+    May 30, 2018
+
+See More
+Top In-App Purchases
+
+    Remove Ads
+    $2.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    May 30, 2018
+
+Worldwide Release Date
+    Jun 2, 2018
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    1.4.4
+
+Size
+    18.46 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Simplified Chinese, Traditional Chinese
+
+Seller
+    Hideki Okuno
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    ssmart.soft.DiaryBook
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1381186388
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Diary! SmartDiary | data.ai

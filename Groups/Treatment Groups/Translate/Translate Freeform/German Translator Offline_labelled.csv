@@ -1,0 +1,10 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+978043126,0,German Translator Offline,Reference,2016-07-07,2016-07-07,164.32,3,0,0,1,12.14.11,2022-11-25,fix a crash on iOS 16,0,0,0,0,0,1,0,0
+978043126,0,German Translator Offline,Reference,2016-07-07,2016-07-07,164.32,3,0,0,1,12.13.78,2022-02-01,iOS 15 full compatibility Bug fixes UI improvements,0,0,0,0,0,0,0,0
+978043126,0,German Translator Offline,Reference,2016-07-07,2016-07-07,164.32,3,0,0,1,12.13.14,2020-01-09,iOS 13 compatibility Offline Translation for Premium Users,0,0,0,0,0,0,0,0
+978043126,0,German Translator Offline,Reference,2016-07-07,2016-07-07,164.32,3,0,0,1,12.12.35,2018-12-01,iOS12 compatibility support multiple selection option to reverse translation direction when language detection failed add monthly yearly subscription options other bugfixes features,0,0,0,0,0,0,0,0
+978043126,0,German Translator Offline,Reference,2016-07-07,2016-07-07,164.32,3,0,0,1,12.11.62,2018-02-06,bugfixes for iPhone X,0,0,0,0,0,0,0,0
+978043126,0,German Translator Offline,Reference,2016-07-07,2016-07-07,164.32,3,0,0,1,12.11.47,2017-10-08,remove annoying popup when translating,0,0,0,0,0,0,0,0
+978043126,0,German Translator Offline,Reference,2016-07-07,2016-07-07,164.32,3,0,0,1,12.11.46,2017-10-03,iOS 11 optimizations,0,0,0,0,0,0,0,0
+978043126,0,German Translator Offline,Reference,2016-07-07,2016-07-07,164.32,3,0,0,1,12.11.07,2017-03-28,bug fixes,0,0,0,0,0,0,0,0
+978043126,0,German Translator Offline,Reference,2016-07-07,2016-07-07,164.32,3,0,0,1,12.9.56,2016-07-07,,0,0,0,0,0,0,0,0

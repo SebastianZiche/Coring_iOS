@@ -1,0 +1,376 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Felo Translator
+Sparticle IncUtilities (Applications)Free
+Alerts
+
+    Sparticle Inc
+
+    Felo Translator
+    Felo Translator
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Felo Translator
+Real-time Translation by AI
+Utilities (Applications)
+Free
+App Description
+Global pioneering technology - RRT (Real-time ReWrite Translate), strikes a perfect balance between the demands for translation speed and accuracy in simultaneous interpretation. It makes simultaneous interpretation possible on a mobile app!
+
+【Key Features】
+
+• Instant translation in over 15 languages: Japanese, Chinese, English, Spanish, German, French, Italian, Russian, Korean, Thai, Czech, Indonesian, Cantonese, Indonesian, Vietnamese;
+
+• Automatically detects the languages spoken by both parties;
+
+• Automatically archives conversations and translation content;
+
+• Female or male voice for simultaneous interpretation.
+
+【Outstanding Advantages of RRT Function】
+Felo's RRT function is a world-first, utilizing the latest AI technology to achieve a dual breakthrough in fast translation and high accuracy. By ingeniously combining two translation processes and considering text styles and contexts, it provides you with more precise and expressive translation results.
+
+【Versatile Applications】
+
+Whether you are engaging in face-to-face communication during international travel, participating in international conferences, seminars, cross-border trade exhibitions, or multinational company meetings, Felo's RRT function will make your communication smoother and more efficient. Furthermore, Felo's real-time translation is a powerful tool for learning foreign languages and practicing speaking. Let Felo be your intelligent translation assistant, ready to meet your language needs and eliminate language barriers in communication.
+
+【Considerate Service】
+
+Our application is filled with intelligence and warmth, just like a caring private translator by your side. Felo Real-time Translation unlocks your global vision instantly!
+
+【Download Now】
+
+Hurry and download Felo Real-time Translation to experience the novel translation experience brought by the RRT function. We look forward to hearing your valuable feedback! If you have any suggestions or questions, don't hesitate to contact us at: support@sparticle.com. We are committed to providing you with the highest quality service and continuously improving the application, making Felo Real-time Translation your most trusted language communication companion. Let's embark on a marvelous journey beyond language barriers together!
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 2.0.1 (Feb 22, 2024)
+    Updates:
+    - Several bug fixes and usability improvements.
+Version 2.0.0 (Feb 6, 2024)
+    Updates:
+    - Changes to the free trial period, with new users receiving 60 minutes of persistent usage time for free immediately upon registration.
+    - Introduction of an invitation system where inviting friends to download and register results in a gift of 60 minutes of usage time.
+    - Correction of known issues.
+Version 1.10.0 (Jan 16, 2024)
+    This update includes:
+    - Improved translation page design, facilitating better differentiation of translation results across various languages.
+    - Several bug fixes and usability improvements.
+Version 1.9.9 (Jan 4, 2024)
+    - Add a user prompt message when the APP starts
+    - Fix some known issues and enhance the stability and performance of the service
+Version 1.9.8 (Dec 21, 2023)
+    This update includes:
+    fix bugs
+Version 1.9.6 (Dec 4, 2023)
+    This update includes:
+
+    - Cloud storage support for history records, enabling multi-device synchronization
+    - Optimized logic for playing translated voice, now supporting queue playback
+    - Fixed audio leakage issue with Bluetooth headphones/earphones
+Version 1.9.5 (Nov 16, 2023)
+    Dear user,
+
+    We sincerely appreciate your ongoing trust and support for Felo products. In the latest update, to better serve you, we have introduced a new mode. For users who exceed the usage limit during the testing period, we have added a recharge feature. By becoming a premium member, you can enjoy unlimited use of our product on a daily basis.
+
+    We are well aware that our growth and progress would not have been possible without your support and companionship. If you have any questions or suggestions, please feel free to contact us at support@sparticle.com. We highly value your feedback and look forward to continuing to provide you with quality service.
+
+    Thank you once again for your understanding and support.
+
+    Best regards,
+    The Felo Team
+Version 1.9.4 (Oct 23, 2023)
+    This Update:
+    ##New Features
+    - Added an automatic save feature.
+    - Added the ability to separately copy the original text and translation.
+    - Added a local translation package management feature.
+
+    ##Fixes
+    - Fixed the app freezing issue on iPads.
+    - Fixed the button malfunctions.
+    - Fixed translation playback glitches.
+Version 1.9.2 (Oct 13, 2023)
+    This update:
+    - Fixed several bugs
+
+    Recent updates:
+    - Added support for Vietnamese
+    - Support for quickly returning to the latest translation record location
+Version 1.9.1 (Sep 26, 2023)
+    Latest Update:
+    - Added support for Vietnamese
+    - Now supports quick return to the latest translation record position
+    - Fixed several bugs
+
+
+    Recent updates:
+    - Added the functionality of long pressing to copy translated text and source text
+    - Added friendly prompts when there is a network error
+    - Optimized the interaction of microphone permission authorization
+Version 1.9 (Sep 7, 2023)
+    Latest Update:
+    Added the ability to long-press to copy translated text and original text.
+    Added friendly prompts for network issues.
+    Optimized the interaction for granting microphone permissions.
+
+
+    Recent Updates:
+    Added support for sharing conversation records.
+    Added support for setting automatic text-to-speech for translations.
+Version 1.8 (Aug 23, 2023)
+    In this update:
+    - Fixed the issue of language switching not working on iOS 14
+
+
+    Recent updates:
+    - Added support for sharing conversation history
+    - Added feature to set automatic reading of translation
+
+Version 1.7 (Aug 8, 2023)
+    In this update:
+    - Fixed a bug where real-time translation may fail under certain circumstances
+
+
+    Recent updates:
+    - Added support for sharing conversation history
+    - Added feature to set automatic reading of translation
+Version 1.6 (Jul 26, 2023)
+    In this update:
+    - Added support for Indonesian, Cantonese, and Czech recognition & translation.
+    - Support for deleting history records has been introduced.
+    - Translation display style has been optimized.
+    - Language switching has been optimized.
+    - Fixed some known issues.
+
+
+    Recent updates:
+    - Added support to share conversation records.
+    - Introduced settings for auto reading translations.
+Version 1.5 (Jul 5, 2023)
+    - Fix the problem that the language recognition is not timely when switching the speaking language
+    - Fix crash problem
+    - Some style updates
+Version 1.4 (Jul 4, 2023)
+    - Fix crash when sharing archived session
+    - Modify model download strategy, remove download/delete interaction, download on demand
+    - Style update
+Version 1.3 (Jun 27, 2023)
+    - Added a pause and resume feature
+    - Improved compatibility with Dark Mode
+    - Introduced archive email sharing feature
+    - Fixed stability issues leading to crashes
+    - Added support for Thai and Traditional Chinese languages
+    - Optimized permission request processes
+Version 1.1 (May 22, 2023)
+    - Fixed the issue of missing translations.
+    - Added internationalization support for 8 languages.
+    - Implemented retry mechanism for translation failures.
+    - Addressed various other known issues.
+
+Users may also like
+Select objects to compare
+ChatX - AI Chat Client
+APTV
+熊猫吃短信2 - 垃圾短信拦截
+App Privacy Insights
+Picroll - Tiny Screen Stitcher
+TEL-U eSIM Data and Calls
+中華電信Wi-Fi全屋通
+Cloudflare One Agent
+Stash - Rule Based Proxy
+AI Book Translator
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    2.0.1
+    Current release
+    Feb 22, 2024
+    2.0.0
+    Feb 6, 2024
+    1.10.0
+    Jan 16, 2024
+    1.9.9
+    Jan 4, 2024
+    1.9.8
+    Dec 21, 2023
+    1.9.6
+    Dec 4, 2023
+    1.9.5
+    Nov 16, 2023
+    1.9.4
+    Oct 23, 2023
+    1.9.2
+    Oct 13, 2023
+    1.9.1
+    Sep 26, 2023
+    1.9
+    Sep 7, 2023
+    1.8
+    Aug 23, 2023
+    1.7
+    Aug 8, 2023
+    1.6
+    Jul 26, 2023
+    1.5
+    Jul 5, 2023
+    1.4
+    Jul 4, 2023
+    1.3
+    Jun 27, 2023
+    1.1
+    May 22, 2023
+
+See More
+Top In-App Purchases
+
+    First Purchase (1 day)
+    $5.99
+    Felo Translator Pro (3 days)
+    $42.99
+    Felo Translator Pro（30 days）
+    $159.99
+    Felo Translator Pro (1 day)
+    $15.99
+    Felo Translator Pro (7 days)
+    $84.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Utilities
+
+Initial Release Date
+    May 17, 2023
+
+Worldwide Release Date
+    May 17, 2023
+
+Last Updated Time
+    Feb 27, 2024
+
+Version
+    2.0.1
+
+Size
+    83.80 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Czech, French, German, Indonesian, Italian, Japanese, Korean, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Vietnamese
+
+Seller
+    Sparticle Inc
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.honso.ai.simulinterp
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6447256759
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Felo Translator | data.ai

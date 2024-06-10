@@ -1,0 +1,872 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Feelyou: Social mood journal
+bajji.incHealth and Fitness (Applications)Free
+Alerts
+
+    bajji.inc
+
+    Feelyou: Social mood journal
+    Feelyou: Social mood journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Feelyou: Social mood journal
+Health and Fitness (Applications)
+Free
+iPhone Only
+App Description
+【Easy and you're not alone, so you can keep going! - One tap, easy self-care】
+Feelyou is a social mood diary application where everyone can share their current emotions with each other.
+
+We hope that taking care of your own mental health will lead to taking care of the people around you, and that it will also lead to a healthier environment in which we live. This is the beginning of this app.
+
+
+【BASIC FUNCTIONS】
+・Choose from 7 types of moods to express your current feelings
+・Show empathy for the other's feelings with 6 types of reactions
+・Look back on the Emotion Log to learn more about yourself
+・Participate in the community and support each other
+・Use statistical data to learn more about yourself
+・Monthly Report
+
+【Terms of Service and Privacy Policy】
+・Terms of service: https://feelyou.app/en/terms
+・Privacy policy: https://feelyou.app/en/privacy_policy
+
+
+【SHARE YOUR STORIES】
+We'd love to connect with you to hear about your Feelyou experiences.
+Please don't hesitate to reach out to us on social if you have any feedback or question:
+・Facebook - https://www.facebook.com/appfeelyou/
+・Instagram - https://www.instagram.com/feelyoumore/
+・Twitter - https://twitter.com/feelyoumore
+・Email - hello@feelyou.app
+Ratings
+Displayed Avg Ratings
+4.69
+Total Displayed Ratings
+710
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.3.9 (Apr 1, 2024)
+    The problem of the login screen being displayed at startup has been resolved.
+
+    The method of selecting the type of feelyou has been changed to a tap method: press and hold the feelyou button, and then tap to select.
+Version 3.3.8 (Mar 26, 2024)
+    Fixed a minor bug.
+    Improved performance.
+Version 3.3.7 (Sep 13, 2023)
+    The DM function has been discontinued.
+Version 3.3.6 (Jun 22, 2023)
+    Temporary release of Premium Plan features.
+Version 3.3.5 (Mar 6, 2023)
+    In this update, we have fixed the following issues:
+    - Unable to send DM stickers
+    - Unable to reply on specific device models
+Version 3.3.4 (Mar 1, 2023)
+    Minor updates/fixes
+Version 3.3.3 (Jan 19, 2023)
+    Fixed problems with new registration and login.
+Version 3.3.2 (Jul 25, 2022)
+    In the Japanese version of the application, some links on the settings page have been updated.
+Version 3.3.1 (Jan 19, 2022)
+    The screen will now automatically refresh when blocking a user.
+Version 3.3.0 (Dec 29, 2021)
+    -You can now check the graphs by watching ads.
+    -The translation button is now displayed on all posts.
+    -Added boosting feature. When you boost after posting, your post will appear at the top in the "Boost" timeline. This is for when you have happy news or something you want everyone to listen. You can use this with Premium membership or by watching ads.
+Version 3.2.1 (Dec 16, 2021)
+    ・Added a language filter to the timeline.
+    ・Added a guide to show that you can translate by tapping the translation icon when you first start the application.
+Version 3.2.0 (Dec 9, 2021)
+    New
+    -The Planet is back with a little new look. The criteria for getting trees has been simplified. You can see it from the tree icon on My Page.
+    -We've introduced a filter on the notification page. You can now filter the notifications you want to see.
+
+    Improvements
+    -Fixed a bug that prevented the language filter from being kept.
+Version 3.1.1 (Dec 2, 2021)
+    DM is back!
+Version 3.1.0 (Nov 28, 2021)
+    -You can now follow hashtags.
+    -You can now receive notifications when a post is made using a hashtag you have followed.
+Version 3.0.1 (Nov 17, 2021)
+    With this update, we improved the following:
+    -Added usage history to the hashtag input screen. The community has been replaced by hashtags, so we hope you’ll continue to use them!
+    -You can now post from the hashtag timeline.
+    -Fixed a bug in the display of the private post icon.
+Version 3.0.0 (Nov 13, 2021)
+    Feelyou App Ver.3 is here!
+    - Implemented “Hashtag” instead of “Community” to make it easier to find common topics.
+    - Improved “Mood labels”. It’s now easier to express your current mood than before.
+    - Added a new concept, “Act of Kindness”. We plan to visualize the accumulation of your kind actions in the app, and plant trees according to this number.
+
+    We look forward to your feedback! hello@feelyou.app
+Version 2.11.2 (Oct 20, 2021)
+    - Fixed the tap area of the three-dot menu in the mood post.
+
+    - Improved detection of false positives when Feelyou-tap.
+Version 2.11.1 (Oct 15, 2021)
+    -Added the "Hot" tab
+    In this tab, the posts are listed in the order of the most recent comments.
+    Visit this tab when you want to join in a friendly conversation with others, or when you want to see what other users are talking about.
+
+    We are working on an update to make the app more helpful for everyone.
+    Hope you feel free to give us feedback
+
+    -Added a checkmark for your language only
+    Now you can filter by language settings on your phone!
+Version 2.11.0 (Oct 10, 2021)
+    ・Improved the order of tabs in the timeline!
+    After many requests, we set "Everyone" to the main page.
+
+    ・Improved the name from Feelyoumore to Follow!
+    Changed the name to be shorter and easier to understand.
+
+    ・Other minor bug fixes
+Version 2.10.2 (Sep 28, 2021)
+    - Switchable the publish destination (everyone/private) for anonymous posts after posting.
+
+    - Notified when there is a new comment on a post you have feelyou/commented on. If annoyed, switchable to push notifications in the settings screen.
+Version 2.10.1 (Sep 15, 2021)
+    - Fix a bug when changing email.
+
+    - Hide the in-app notification when a tree is acquired.
+Version 2.10.0 (Aug 26, 2021)
+    - Fix minor bug
+Version 2.9.3 (Aug 20, 2021)
+    - Fix minor bugs.
+Version 2.9.2 (Aug 13, 2021)
+    - Improved the behavior when updating your profile.
+
+    - Fixed the passcode setting could not be turned off.
+Version 2.9.0 (Aug 4, 2021)
+    ・Russian in the body of the post is now displayed naturally.
+    　Русский язык в теле сообщения теперь отображается естественно.
+    ・Fixed minor bugs.
+Version 2.8.1 (Jul 28, 2021)
+    ・Fixed a bug in the CommunityPage.
+Version 2.8.0 (Jul 20, 2021)
+    ・Fixed a bug in the Mypage.
+Version 2.7.1 (Jul 14, 2021)
+    [Improvements]
+    ・You can now filter language and moods in the FeelyouMore and community timeline!
+    ・You can now select the community on the posting page. So many Feelyousers have requested this, and we hope you use it!
+Version 2.7.0 (Jul 10, 2021)
+    Fixed the following bugs:
+    ・Fixed a bug that caused the app to crash when tapping a community tag.
+    ・Fixed a bug in the reply time display.
+Version 2.6.1 (Jul 1, 2021)
+    [Improvement]
+    ・Filters are now available on the community page.
+    ・Speed up! (Community, FeelyouMore)
+Version 2.6.0 (Jun 24, 2021)
+    [NEW]
+    ・Drafts of posts are now automatically saved!
+
+    [Improvement]
+    ・Speed up! (Timeline, MyPage, Modal popup)
+    ・Corrected the item names on the community page.
+    ・Display the latest post date and time in the community list.
+    ・Notification of the new community is now shown in the announcement.
+    ・Fixed a bug where the display would not refresh after blocking or reporting.
+Version 2.5.1 (Jun 16, 2021)
+    [Improvements]
+    ・Added language filter to tag filter and community filter timeline.
+    ・Fixed a bug in the mood filter.
+    ・Improved the speed of MyDiary display after launching the app.
+Version 2.5.0 (Jun 9, 2021)
+    [NEW]
+    We've added a mood filter!
+    Previously you could only select one emotion, but now you can select multiple emotions simultaneously!
+
+    [Bug fix & Improvements]
+    We're working on speed improvements now! Let us know how it goes.
+    - Overall speed improvement (iOS)
+    - Faster speed when transitioning to the post details screen
+    - UX improvement by introducing skeleton loading
+Version 2.4.1 (May 26, 2021)
+    [NEW]
+    ・You can now filter by tags
+    ・Mood history is added to MyDiary
+
+    [Bug fix & Improvements]
+    ・Fixed bugs in DM keyboard display and picture sending.
+    ・Improved the speed of the first registration.
+Version 2.4.0 (May 20, 2021)
+    [NEW]
+    You can now post Music Link!
+
+    [Bug Fixes and Improvements]
+    Mainly for newly registered users!
+    ・Added description to the posting option.
+    ・Added labels at the bottom menu.
+    ・Fixed other minor bugs.
+Version 2.3.1 (May 17, 2021)
+    The following bugs have been fixed!
+    ・Bug in which past data cannot be acquired in MyPage/TimeLine.
+    ・The background color of the notification list and announcement list is white in dark mode.
+Version 2.3.0 (May 13, 2021)
+    [NEW]
+    ・You can now filter the timeline by your language.
+
+    [Improvements]
+    ・Fixed a bug that caused the freezing of the app when you got a "tree".
+
+    Happy mood tracking in the new version!
+    Share your ideas in the comments and rate Feelyou!
+Version 2.2.0 (Apr 22, 2021)
+    What's new in Feelyou 2.2.0
+
+    * Bug fixes
+
+    Happy mood tracking in the new version!
+    Share your ideas in the comments and rate Feelyou!
+Version 2.1.1 (Apr 14, 2021)
+    What's new in Feelyou 2.1.1
+
+    * Bug fixes
+
+    Happy mood tracking in the new version!
+    Share your ideas in the comments and rate Feelyou!
+Version 2.1.0 (Apr 8, 2021)
+    What's new in Feelyou 2.1.0
+
+    * Bug fixes
+
+    Happy mood tracking in the new version!
+    Share your ideas in the comments and rate Feelyou!
+Version 2.0.2 (Apr 1, 2021)
+    [Bug fix & Improvements]
+    ・Fixed a bug that images could not be expanded in DM
+    ・Fixed a bug that prevented opening the app from push notifications.
+    ・Added a space above the Feelyou button
+    ・Changed the tag icon
+    ・Added tags in the user post list
+    ・Fixed other minor bugs
+Version 2.0.0 (Mar 28, 2021)
+    Hey there. With this update, we have renewed the design to pursue our goal that the app aims for.
+    Our goal is to make mental care "easy" and "fun" for everyone. We'll be working on it step by step, so please look forward to our next update!
+    We're looking forward to your feedback!
+Version 1.17.0 (Mar 11, 2021)
+    How's everyone doing? In this update, we've improved the following!
+    ・Improved app’s running (tab switching, MyPage, settings page, Planet page, etc.). Please let me know how it goes!
+    ・MyDiary posts are now grouped by date.
+Version 1.16.0 (Mar 3, 2021)
+    Thanks for using Feelyou! This update contains some bug fixes and performance improvements.
+    Feelyou helps you to record your precious moments and connect with others who have been there.
+Version 1.15.1 (Feb 25, 2021)
+    [Bug fix & Improvements]
+    ・The translation button is not displayed for posts in your own language.
+    ・Fixed a bug related to the display of notifications.
+Version 1.15.0 (Feb 21, 2021)
+    [NEW]
+    Now you can express your empathy more freely! Press and hold the Feelyou icon to select each one.
+    - Feelyou, Hug, GoodLuck, Wow, Happy, THX
+
+    [Bug fix & Improvements]
+    ・Adjusted the height of the comment form
+    ・You can now receive a push notification when a new group is created.
+    ・Fixed minor bugs
+Version 1.14.1 (Feb 10, 2021)
+    Hey folks! With this update, we've fixed some bugs improved the stability of the app.
+Version 1.14.0 (Feb 6, 2021)
+    [NEW]
+    ・Added a weekly bar chart to the monthly report
+    ・There’s three iPhone widgets to choose from:
+    -Add your mood by simply tapping the mood icon
+    -See your recent mood entries right on your home screen
+    -See your posted days to keep posting and get to know the real you
+
+    [Bug fix & Improvements]
+    ・After posting on the same day, the posting button at the top of the main screen will be hidden.
+    ・Fixed minor bugs
+Version 1.13.1 (Jan 29, 2021)
+    Fixed a bug that prevented scrolling in the emotion filter timeline.
+Version v1.13.0 (Jan 28, 2021)
+    [NEW]
+    ・Whole UI/UX of the timeline on the main page has been changed.
+    ・You can now switch between private and public after mood posting.
+
+    [Bug fix & Improvements]
+    ・Improvements of the performance of My page.
+    ・The app will now automatically reconnect when a network error occurs.
+    ・You can now check the monthly report for the last month or more.
+Version v1.12.2 (Jan 24, 2021)
+    We're always working on making the app better for Feelyousers!!
+    This update includes:
+    ・You can now choose whether or not to accept comments from other users.
+    ・You can now translate each post on a timeline.
+    ・You can now block users from anonymous posts.
+Version v1.11.1 (Jan 15, 2021)
+    We're always working on making the app better for Feelyousers.
+    This update includes:
+    ・UI improvements of each community page
+    ・Fix the problems about the number of post on My Page
+    ・Feelyou reaction is now richer (Try to tap!)
+Version v1.11.0 (Jan 7, 2021)
+    Happy New Year! We hope you're loving Feelyou.
+    This update includes:
+    ・App performance improvements
+    ・Free users also can now check the mood history graph
+Version v1.10.6 (Dec 29, 2020)
+    ・Improvements of speed to display the community screen
+Version v1.10.5 (Dec 26, 2020)
+    ・App icon has been changed winter version.
+    ・Fixed the bug that a red mark under user icon is at wrong position.
+Version v1.10.4 (Dec 21, 2020)
+    [NEW]
+    ・You can now check helpful self-care quotes in the Monthly Report! Hooray!
+    ・Renewal the subscription page. Check it out!
+Version 1.10.3 (Dec 18, 2020)
+    [New Features]
+    ・You can check the mood ratio of the joining community.
+    ・Notify you when your friend starts to use Feelyou by your invitation.
+
+    [Bug Fixes]
+    ・Fix input problems when you access to Message via push notification.
+    ・Fix the problem that you can't see the bottom of the list.
+    ・Fix the problem that the timeline refresh with random moments. 
+Version 1.10.1 (Dec 9, 2020)
+    [New]
+    Have you followed Feelyou's Twitter, Instagram, and Facebook?
+    Added those accounts link in My Page -> Settings. Please follow & comment!
+
+    [Bug fix]
+    Fixed an issue that some users can’t receive push notifications.
+    Please restart the app after updating to 1.10.1 to apply this fix.
+Version 1.10.0 (Dec 5, 2020)
+    [New features]
+    Better community page
+    ・You can now see a list of your joined communities.
+    ・You can now filter by category and language.
+    ・New communities are now picked up.
+
+    [Bug fixes and improvements]
+    ・Improvements of the mood post page.
+    ・Fixed the problem that auto-scroll does not work well when tapping the Home icon at the bottom.
+Version 1.9.2 (Nov 20, 2020)
+    [New features]
+    ・You can now lock the app with PIN code! Set on Setting page-> Privacy.
+    ・You can now delete replies of your posts.
+    ・You can now search a community by its name.
+
+    [Bug fixes & Improvements]
+    ・Fixed the bug that unread mark is not displayed on your profile page when you receive messages.
+    ・Fixed the bug that screen is refreshed while you scroll community posts list down.
+Version 1.9.1 (Nov 16, 2020)
+    [Bug fixes and improvements]
+    ・Fix the issue that user can't sign in by google social login.
+Version 1.9.0 (Nov 14, 2020)
+    [New features]
+    ・Monthly summary is available! Reflect on your mood history for the last month. (For premium)
+    ・You can now turn on/off the dark mode on the app’s settings page.
+
+    [Bug fixes and improvements]
+    ・Fixed the bug that you couldn't Feelyou on a post displayed by tapping on a notification.
+    ・In the "Communities" tab, you can now see the posts of the communities you have joined.
+    ・You can now see the "Community List" page in the bottom menu. The "Planet" page has been moved to the settings page.
+Version 1.8.1 (Nov 7, 2020)
+    [New features]
+    ・Private post function is released as a free feature. Other users can not see them.
+    ・Japanese users can filter posts by languages.
+    ・The guide tour is added for people starting to use feelyou at the first time.
+
+    [Bug fixes & improvements]
+    ・Fixed WeeklyMood display bugs
+    ・Fixed DM stamp keyboard display bugs
+Version 1.8.0 (Oct 30, 2020)
+    [New features]
+    ・You can search for friends from the settings page
+    ・You can switch notifications on/off for each community.
+    ・The number of posts per month is shown in the calendar.
+    ・Improvement of the notifications list UI.
+
+    [Bug fixes & improvements]
+    ・Community pages now load faster.
+    ・Fixed a bug where mood patterns were not displayed in some cases.
+    ・Other minor problems fixed
+Version 1.7.1 (Oct 23, 2020)
+    Dark Mode is available now!!
+    Requires iOS 13.0 or later and don't forget to activate dark mode in device settings.
+Version 1.7.0 (Oct 19, 2020)
+    [New features]
+    ・*For Premium* Create your community! Share your feelings about the topics you are interested in.
+    ・You can now share your mood graphs with friends!
+    ・You can now turn on/off push notifications in detail from the My Page -> Settings page.
+
+    [Bug fixes & improvements]
+    ・You can now translate replies!!
+    ・Five randomly picked posts are inserted into the ALL timeline! You won't miss a post that is related to you.
+    ・We show you the modal window to ask for reviews and feedback.
+    ・Add a special icon to our official accounts(Feelyou Support)
+    ・UX improvements(WeeklyMood and LineChart)
+    ・[For users registered by August 31] You can check whether the current premium feature was given away by us as a promotional campaign.
+Version 1.6.2 (Oct 10, 2020)
+    [Bug fixes & Improvements]
+    Improvement of the setting page UI
+Version 1.6.1 (Oct 7, 2020)
+    [Bug fixes & improvements]
+    ・Fixed an issue where balloons didn't appear when users registered for the first time.
+    ・You will now be notified when there is a post in the community you are following.
+    ・Other minor bug fixes.
+Version 1.6.0 (Oct 2, 2020)
+    [New features]
+    ・New Insights on My Page! You can now see your emotions on each day of the week.
+
+    [Bug fixes & improvements]
+    ・In the DM list, you can delete messages and block someone.
+    ・Hide the images that AI judges to be inappropriate.
+    ・Improve overall performance of the app
+    ・You can now delete your account in the setting page
+    ・Other minor bug fixes
+Version 1.5.2 (Sep 17, 2020)
+    [New Features]
+    !!!! Translation !!!!
+    Thanks for the many requests!! You can now translate the text from the post details. Let's start empathizing with the Feelyousers of the world!
+    *It will be translated into the app's setting language (English, French or Japanese).
+
+    [Bug fixes & Improvements]
+    ・New beautiful setting page
+    ・Improve comment form: It's now easier to type long sentences.
+    ・For French/Japanese: Fixed a bug that post time on MyPage doesn't display properly.
+    ・Fixed a bug that prevented users from toggling the on/off for notification settings and privacy settings.
+    ・You can now crop your profile picture.
+Version 1.5.1 (Sep 12, 2020)
+    [New Features]
+    ・*Language filtering on v 1.5.0 was inactivated*
+    ・Added "French" in the select language page. You can change it from MyPage-> Settings -> Language.
+    ・You can now check the number of unread DMs at the app icon. You won't miss them anymore.
+
+    [Bug fixes & Improvements]
+    ・Fixed a bug that prevented users from tapping "Feelyou" after tapping "comment".
+    ・Improved usability on the Community page and Mood Calendar
+    ・Fixed minor bugs
+Version 1.5.0 (Sep 11, 2020)
+    [New Features]
+    ・Added a language filter(English, French, Japanese) as many requested!!
+    ・Added "French" in the select language page. You can change it from MyPage-> Settings -> Language.
+    ・You can now check the number of unread DMs at the app icon. You won't miss them anymore.
+
+    [Bug fixes & Improvements]
+    ・A new registered user's "memorable post" changed to "emotion" only.
+    ・Fixed a bug that prevented users from tapping "Feelyou" after tapping "comment".
+    ・Improved usability on the Community page and Mood Calendar
+    ・Fixed minor bugs
+Version 1.4.4 (Sep 6, 2020)
+    [Bug Fix]
+    Fixed the issue with scrolling when turning Feelyou on/off.
+Version 1.4.2 (Sep 2, 2020)
+    [Bug fixes & improvements]
+    ・Displays the number of unread replies in the application icon.
+    ・Fixed an issue that prevented some users from registering with their Facebook account.
+    ・Fixed some small bugs.
+Version 1.4.0 (Aug 30, 2020)
+    [New features]
+    ・*For Premium* Added "Calendar" to the mood history on MyPage!
+    ・Added a new "DM" feature requested by many Feelyousers!
+    ・When you tap a community tag in the timeline, you can now see a list of posts from that community.
+
+    [Bug fixes & improvements]
+    ・Updated our Privacy Policy & Terms. You can read them on your setting page.
+    ・The size of the image you can post has been slightly increased.
+    ・Long user names are now shown in shortened form.
+Version 1.3.3 (Aug 22, 2020)
+    Now easier to contact us!!
+    Check out the Setting page and the Support section.
+Version 1.3.1 (Aug 16, 2020)
+    [New features]
+    ・*For Premium* The pie chart has been added to the mood history on MyPage! You can now reflect on your emotional ups and downs for the entire period, 30 days and 7 days.
+    ・Easy invite link for friends - you can now easily invite more Friends to join Feelyou with your invite link!! Just go to the Invite Friends section of Setting in MyPage. When your friends join to Feelyou through your invite link, the secret lovely character will appear on you and your friend's Planet page. All 6 types:)
+    ・The notification will now tell you that you have got a tree.
+
+    [Bug fixes & improvements]
+    ・Planet page: Tap the number of impacts and the number of trees to see the detailed
+Version 1.2.1 (Aug 8, 2020)
+    [Bug fixes & improvements]
+    ・Improvement of the pull-to-refresh action
+    ・Added sticky header on scroll to community page, post list page and Feelyou list page
+    ・+other minor fixes
+Version 1.2.0 (Aug 3, 2020)
+    Hi there, how are you feeling? We're sure you'll choose "Amazing" because we've added a lot of new features!!
+
+    [New features]
+    ・Unread count badge on App icon
+    ・Notification page: Partially displays the post content
+    ・Notification page: The red dot on the tab when there are unread notices
+    ・Notification page: Mark all as read button
+    ・Limit the number of tapping Feelyou to 100 in 24h in terms of digital well-being
+    ・Tapping a push notification will take you to the corresponding post
+    ・You can check other's Village from their user page
+    ・When tapping a Feelyou reaction, you'll get haptic feedback
+    ・Tapping the home icon on the bottom navigation bar will take you to the ALL tab. When tap it again, you will move to the top post.
+    ・Added Private post button on post page（For Premium）
+    ・Added comment form on post detail page
+    ・Mood pattern: When tapping each mood icon, you can check filtered posts with the mood
+    ・Mood pattern: When tapping the detail, each mood units will change from percentages to numbers
+    ・Manage subscription on the settings page
+    ・On the Edit Profile page, change the BIO and Advice input form from Input to TextArea
+
+    [Bug fixes & improvements]
+    ・Fixed a bug that caused some posts to show repeatedly
+
+    Here's what we have so far... but there's more to come!!
+Version 1.1.1 (Jul 23, 2020)
+    ・Minor issues have been fixed
+Version 1.1.0 (Jul 22, 2020)
+    Following issues have been fixed:
+    ・Profile images to be of low quality when logging with Facebook or google
+    ・You can now view larger tree image on My Village
+    ・You can now view larger profile image.
+    ・+other minor fixes
+
+    Thank you for your support and have a wonderful week!
+Version 1.0.4 (Jul 20, 2020)
+    Following issues have been fixed:
+    ・Anonymous post related issues - With this update, anonymous post owners can reply anonymously.
+    ・Scroll issue in User page
+    ・+other minor fixes
+
+    Thank you for your support and have a wonderful week!
+Version 1.0.3 (Jul 16, 2020)
+    Following issues have been fixed:
+    ・Scroll issue
+    ・Profile images quality with Facebook login
+    ・The emotion balloon disappearing issue
+    ・+ other minor fixes
+
+    Thank you for your support and have a wonderful week!
+Version 1.0.0 (Jul 9, 2020)
+
+Users may also like
+Select objects to compare
+Awarefy-CBT/認知行動療法＆抑うつマインドフルネス
+Mental Diary -Feel Diary-
+Penguin Diary :Record & Health
+MoodLog - Simple
+Forest of Night Sheep
+アファメーションで引き寄せる「セルフノート」
+Emotion Tracker: Moodistory
+meditone® Vert
+MOOD PARK
+Yorisoi AI -AI chatbot friends
+IQ Classifications
+Genre: Lifestyle
+Subgenre: Other Lifestyle
+Other Lifestyle
+Other lifestyle apps that do not fit other existing Lifestyle subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.3.9
+    Current release
+    Apr 1, 2024
+    3.3.8
+    Mar 26, 2024
+    3.3.7
+    Sep 13, 2023
+    3.3.6
+    Jun 22, 2023
+    3.3.5
+    Mar 6, 2023
+    3.3.4
+    Mar 1, 2023
+    3.3.3
+    Jan 19, 2023
+    3.3.2
+    Jul 25, 2022
+    3.3.1
+    Jan 19, 2022
+    3.3.0
+    Dec 29, 2021
+    3.2.1
+    Dec 16, 2021
+    3.2.0
+    Dec 9, 2021
+    3.1.1
+    Dec 2, 2021
+    3.1.0
+    Nov 28, 2021
+    3.0.1
+    Nov 17, 2021
+    3.0.0
+    Nov 13, 2021
+    2.11.2
+    Oct 20, 2021
+    2.11.1
+    Oct 15, 2021
+    2.11.0
+    Oct 10, 2021
+    2.10.2
+    Sep 28, 2021
+    2.10.1
+    Sep 15, 2021
+    2.10.0
+    Aug 26, 2021
+    2.9.3
+    Aug 20, 2021
+    2.9.2
+    Aug 13, 2021
+    2.9.0
+    Aug 4, 2021
+    2.8.1
+    Jul 28, 2021
+    2.8.0
+    Jul 20, 2021
+    2.7.1
+    Jul 14, 2021
+    2.7.0
+    Jul 10, 2021
+    2.6.1
+    Jul 1, 2021
+    2.6.0
+    Jun 24, 2021
+    2.5.1
+    Jun 16, 2021
+    2.5.0
+    Jun 9, 2021
+    2.4.1
+    May 26, 2021
+    2.4.0
+    May 20, 2021
+    2.3.1
+    May 17, 2021
+    2.3.0
+    May 13, 2021
+    2.2.0
+    Apr 22, 2021
+    2.1.1
+    Apr 14, 2021
+    2.1.0
+    Apr 8, 2021
+    2.0.2
+    Apr 1, 2021
+    2.0.0
+    Mar 28, 2021
+    1.17.0
+    Mar 11, 2021
+    1.16.0
+    Mar 3, 2021
+    1.15.1
+    Feb 25, 2021
+    1.15.0
+    Feb 21, 2021
+    1.14.1
+    Feb 10, 2021
+    1.14.0
+    Feb 6, 2021
+    1.13.1
+    Jan 29, 2021
+    v1.13.0
+    Jan 28, 2021
+    v1.12.2
+    Jan 24, 2021
+    v1.11.1
+    Jan 15, 2021
+    v1.11.0
+    Jan 7, 2021
+    v1.10.6
+    Dec 29, 2020
+    v1.10.5
+    Dec 26, 2020
+    v1.10.4
+    Dec 21, 2020
+    1.10.3
+    Dec 18, 2020
+    1.10.1
+    Dec 9, 2020
+    1.10.0
+    Dec 5, 2020
+    1.9.2
+    Nov 20, 2020
+    1.9.1
+    Nov 16, 2020
+    1.9.0
+    Nov 14, 2020
+    1.8.1
+    Nov 7, 2020
+    1.8.0
+    Oct 30, 2020
+    1.7.1
+    Oct 23, 2020
+    1.7.0
+    Oct 19, 2020
+    1.6.2
+    Oct 10, 2020
+    1.6.1
+    Oct 7, 2020
+    1.6.0
+    Oct 2, 2020
+    1.5.2
+    Sep 17, 2020
+    1.5.1
+    Sep 12, 2020
+    1.5.0
+    Sep 11, 2020
+    1.4.4
+    Sep 6, 2020
+    1.4.2
+    Sep 2, 2020
+    1.4.0
+    Aug 30, 2020
+    1.3.3
+    Aug 22, 2020
+    1.3.1
+    Aug 16, 2020
+    1.2.1
+    Aug 8, 2020
+    1.2.0
+    Aug 3, 2020
+    1.1.1
+    Jul 23, 2020
+    1.1.0
+    Jul 22, 2020
+    1.0.4
+    Jul 20, 2020
+    1.0.3
+    Jul 16, 2020
+    1.0.0
+    Jul 9, 2020
+
+See More
+Top In-App Purchases
+
+    Feelyou Premium (1 Year)
+    $17.99
+    Feelyou Premium (1 Month)
+    $4.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    Jul 9, 2020
+
+Worldwide Release Date
+    Jul 8, 2020
+
+Last Updated Time
+    Apr 19, 2024
+
+Version
+    3.3.9
+
+Size
+    70.20 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Français, Anglais, Japonais
+
+Seller
+    BAJJI Inc.
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Nécessite iOS 13.4 ou une version ultérieure. Compatible avec l’iPhone, l’iPad et l’iPod touch.
+
+Bundle ID
+    life.bajji.feelyou.prd
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1514725915
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Feelyou: Social mood journal | data.ai

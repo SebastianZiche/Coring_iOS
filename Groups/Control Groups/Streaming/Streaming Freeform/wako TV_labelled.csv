@@ -1,0 +1,131 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,7.0.9,2024-02-09,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,7.0.8,2024-02-06,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,7.0.6,2023-10-23,bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,7.0.5,2022-12-22,bug fixes,0,0,0,0,0,1,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,7.0.4,2022-12-19,bug fixes on old iOS version,0,0,0,0,0,1,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,7.0.3,2022-12-14,Fix iOS 16 issue,0,0,0,0,0,1,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,6.0.3,2022-09-08,bug fixes,0,0,1,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,6.0.1,2022-07-10,bug fixes,1,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,5.1.3,2022-06-02,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,5.1.0,2022-02-21,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,5.0.8,2022-02-09,bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,5.0.7,2021-12-24,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,5.0.5,2021-10-10,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,5.0.4,2021-10-04,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,5.0.3,2021-10-01,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,5.0.2,2021-09-28,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,5.0.1,2021-07-30,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.8.6,2021-05-15,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.8.3,2021-02-21,Fixes issue on Kodi 19,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.8.2,2021-01-19,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.8.0,2021-01-05,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.7.9,2020-12-20,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.7.8,2020-12-08,Bug fixes on iPad,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.7.6,2020-12-01,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.7.5,2020-11-26,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.7.4,2020-11-15,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.7.2,2020-11-10,Fix scrolling issue,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.7.0,2020-11-06,Better handler Kodi connection and remote control,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.6.9,2020-11-05,Fixed no trailer available issue Fixed poster issue Better management of the Kodi HTTP connection when the websocket connection is not available Fixed cast crew issue Other bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.6.8,2020-11-04,Fixed poster issue Better management of the Kodi HTTP connection when the websocket connection is not available Fixed cast crew issue Other bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.6.7,2020-11-03,Fixed poster issue Better management of the Kodi HTTP connection when the websocket connection is not available Fixed cast crew issue Other bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.6.6,2020-10-31,Fixed a bug that displayed the left side menu when it was not supposed to Fixed an issue in playlist Other bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.6.5,2020-10-30,Fix issue on iOS 14 to detect Kodi hosts Better display for tablets and landscape mode other bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.5.9,2020-10-24,Bug fixes Add playlist option from file explorer,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.5.7,2020-10-21,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.5.6,2020-10-20,Displaying list descriptions SIMKL handle on hold TV Anime list SIMKL bug fixes SIMKL TV Shows improvement No longer hides movies during a search You can now choose the provider to search movies on: TMDb default or Trakt. TMDb has better performance because it doesn t require extra queries to get images. Try the one that fit you well. On the movie detail page if you click on a person you ll see all the movies the person is in,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.5.5,2020-10-17,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.4.6,2020-09-16,Lot of changes under the hood. Performance improved Fix cast issue,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.4.5,2020-09-15,Lot of changes under the hood. Performance improved,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.4.4,2020-09-13,Lot of changes under the hood. Performance improved,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.3.2,2020-09-02,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.3.1,2020-08-31,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.3.0,2020-08-24,Fix ads issue for free users,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.2.9,2020-08-23,Fix ads issue for free users,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.2.8,2020-08-19,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.2.7,2020-08-13,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.2.5,2020-08-04,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.2.3,2020-07-17,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.2.2,2020-06-30,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.2.1,2020-06-29,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.1.9,2020-06-19,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.1.7,2020-06-16,Browse and play videos stored on your cloud services like Premiumize.me,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.1.4,2020-06-04,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.1.3,2020-05-23,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.1.2,2020-05-20,Bug fixes Performance Improvement,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.1.1,2020-05-17,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.1.0,2020-05-12,SIMKL.com support Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.0.9,2020-05-11,SIMKL.com support Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.0.8,2020-05-02,Bug fixes Performance Improvement,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.0.7,2020-04-27,Performance Improvement,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.0.5,2020-04-21,Performance Improvement,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.0.2,2020-04-17,Performance Improvement,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.0.1,2020-04-13,Performance Improvement,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,4.0.0,2020-04-11,Performance Improvement,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.8.7,2020-04-10,Make TV Show and Movie page more similar,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.8.6,2020-04-09,Make TV Show and Movie page more similar,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.8.5,2020-04-07,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.8.4,2020-04-06,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.8.2,2020-04-05,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.8.1,2020-03-26,You can now apply filters in TV Shows section,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.8.0,2020-03-23,You can now apply filters in TV Shows section,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.7.9,2020-03-20,You can now apply filters in TV Shows section,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.7.8,2020-03-06,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.7.7,2020-03-05,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.7.6,2020-02-20,New icons,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.7.5,2020-02-19,New icons,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.7.4,2020-01-25,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.7.3,2020-01-24,Chromecast support you can now cast trailers on your chromecast device,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.6.9,2020-01-08,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.6.8,2020-01-04,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.6.7,2020-01-03,New layout for movie and tv shows pages,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.6.6,2019-12-31,New layout for movie and tv shows pages,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.6.4,2019-12-19,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.6.2,2019-12-05,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.6.1,2019-12-02,Better handling larger screens Add iTunes add ons to let you watch your content on iTunes Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.6.0,2019-11-23,Better handling larger screens Add iTunes add ons to let you watch your content on iTunes Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.5.9,2019-11-19,Better handling larger screens Add iTunes add ons to let you watch your content on iTunes Bugfixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.5.8,2019-11-17,Better handling larger screens Add iTunes add ons to let you watch your content on iTunes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.5.7,2019-11-16,Better handling larger screens Add iTunes add ons to let you watch your content on iTunes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.5.6,2019-11-15,Better handling larger screens Add iTunes add ons to let you watch your content on iTunes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.5.5,2019-11-14,Better handling larger screens Add iTunes add ons to let you watch your content on iTunes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.5.4,2019-11-12,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.5.0,2019-11-08,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.4.8,2019-11-04,Fix issue in remote,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.4.7,2019-11-03,Fix dark mode issue,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.4.4,2019-11-02,Resume playback Dark mode,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.4.2,2019-10-30,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.4.1,2019-10-28,Fix playlist issue,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.4.0,2019-10-27,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.3.9,2019-10-22,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.3.8,2019-10-21,Handle Kodi Playlist,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.3.5,2019-10-13,Fix movies marked as watched but are not Improve local notifications Fix search issue Fix iOS 13 notifications issue Other bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.3.0,2019-10-04,Fix volume issue,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.2.9,2019-10-02,Swipe from one episode to another Display more option by swiping items on the home page Custom episode backdrop images Bug fixes Handle volume button,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.2.8,2019-09-30,Control on remote screen Audio stream select Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.2.3,2019-09-23,Fix issue for iOS 13 Fix issue with mark as watched auto Some other minor bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.2.2,2019-09-16,Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.2.1,2019-09-11,Improved subtitles part Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.2.0,2019-09-04,Improved subtitles part Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.1.2,2019-08-14,Rearrange lists. All liked lists will be display under the Explore tab while all personal lists will be under To Watch My Tv Shows Sort By option from Pick a list has been moved into listing section if a personal list is selected Bug fixes,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.1.0,2019-08-11,Global performance improvement Up next includes TV Shows from your watch list In Movies To Watch and My Tv Shows you can now display items from your lists liked lists and from another tract list Save Selected tab from Movies TV Shows Search in list Filters can be used for all movies lists Add Movie Show to lists,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,3.0.5,2019-08-02,Add ons support. Switch hosts easily with kodi select add on. Mark movies episodes as watched automatically on your trakt account. Fix some issues. Improve performance.,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.2.5,2019-05-31,App has been translated to French. More languages will come You can define your own plugin Improve performance,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.1.6,2019-05-15,You can now play directly on Seren And Gaia OpenMeta is not required for this anymore. In pick a list modal you can like a list. Improve performance.,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.1.5,2019-05-14,You can now play directly on Seren And Gaia OpenMeta is not required for this anymore. In pick a list modal you can like a list. Improve performance.,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.1.3,2019-05-07,You can now browse trakt s lists Add an option to show hidden TV Shows in My TV Shows Add an option to hide watched movies in explore list Add an option to open the remote after clicking the play button,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.1.2,2019-05-05,Fix trakt api issue on home page,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.1.0,2019-05-01,Fix TV Shows issue with OpenMeta,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.0.8,2019-04-25,wako is now compatible with OpenMeta and all Open Players fix some issues better performance clean undesirable found sources,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.0.6,2019-04-23,Fix related movies issue,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.0.4,2019-04-15,New interface easier to use Improve performance,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.0.3,2019-04-13,New interface easier to use Improve performance,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,2.0.0,2019-04-09,New interface easier to use Improve performance,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,1.6.3,2019-04-05,Trakt account is not mandatory anymore,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,1.6.2,2019-04-02,Fix sharing issue iPad version,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,1.6.1,2019-03-31,New play on kodi button,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,1.6.0,2019-03-30,Cache more data in case of trakt server interruption,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,1.5.6,2019-03-26,Fix loader doesn t show up,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,1.5.5,2019-03-25,Social sharing View trailer directly on kodi or youtube New movies tv shows lists,0,0,0,0,0,0,0,0
+1456393880,1000800000241214,wako TV,Entertainment,2019-01-03,2019-03-22,37.53,1,1,0,1,1.5.4,2019-03-22,,0,0,0,0,0,0,0,0

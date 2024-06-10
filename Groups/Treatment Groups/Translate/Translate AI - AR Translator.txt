@@ -1,0 +1,341 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Translate AI - AR Translator
+EVOLLYUtilities (Applications)Free
+Alerts
+
+    Translate AI - AR Translator
+    Translate AI - AR Translator
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Translate AI - AR Translator
+Translate Photo, Voice & Text
+Utilities (Applications)
+Free
+App Description
+Translate AI is the all-in-one translation app that makes it easy to communicate with anyone, anywhere.
+
+It translates text, voice, photos, and websites in over 100 languages, even without an internet connection.
+
+
+
+With Translate AI, you can:
+
+Speak and translate in real time: Have conversations with people from all over the world, without having to learn their language.
+
+Translate photos and images: Point your camera at a sign or menu, and Translate AI will instantly translate the text into your language.
+
+Translate websites: Browse websites in any language, and Translate AI will automatically translate the content into your language.
+
+Translate text and clipboard contents: Translate text from any app or website, or simply paste text from your clipboard into Translate AI to get the translation.
+
+Translate AI is the perfect translation app for travelers, students, business professionals, and anyone else who needs to communicate across language barriers.
+
+
+
+PREMIUM SUBSCRIPTIONS
+
+
+√ Completely Ad-free
+√ No limits on text length
+√ Unlimited translation
+√ Unlock all translators
+
+
+* You can pay once or choose from 2 subscription options:
+- a yearly subscription comes with 3-day free trial
+- a monthly subscription
+
+
+– Payment will be charged to iTunes Account at confirmation of purchase.
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+
+Privacy: https://evolly.app/privacy-policy/
+Terms: https://evolly.app/terms-of-service/
+Ratings
+Displayed Avg Ratings
+4.6
+Total Displayed Ratings
+6.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.9 (Nov 6, 2023)
+    Bug fixes & UI improvements
+Version 1.5.5 (Dec 5, 2022)
+    Bug fix: translator doesn't work when using Auto detect feature in text mode
+Version 1.5.2 (Feb 1, 2022)
+    - iOS 15 full support
+    - Fix bugs related to translation API
+Version 1.5.0 (Sep 14, 2021)
+    - Bug fixes
+    - UI improvements
+    - Fix deprecated APIs
+Version 1.4.2 (Apr 19, 2020)
+    - Completely redesign app's UI
+    - add Camera Translator
+    - add Text Translator
+Version 1.3.9 (Nov 23, 2019)
+    iOS 13 fully support
+    Fix some UI bugs and deprecated APIs
+Version 1.3.1 (Jul 20, 2019)
+    - support Traditional Chinese
+    - faster translation for long text
+    - make UI a bit clear
+Version 1.3.0 (May 1, 2019)
+    - Redesign UI to make it clearer
+    - bugfixes
+Version 1.2.8 (Jan 7, 2019)
+    - improve UI: easier to switch between translators
+    - improve translation speed
+    - add monthly/yearly subscription options
+    - bugfixes
+Version 1.2.4 (Sep 26, 2018)
+    - iOS12 compatibility
+    - Fix Baidu Translate & Microsoft Translator on iOS12
+    - other bugfixes & improvements
+Version 1.2.3 (Aug 11, 2018)
+    - hide "Remove Ads" button when loading ad failed.
+    - bugfixes & improvements
+Version 1.2.2 (Aug 3, 2018)
+    - show Status Bar for iPhone X
+    - fix some UI bugs on iPhone X
+    - save/restore last state of Recents/Starred screen
+Version 1.2.1 (Jul 17, 2018)
+    - restore last state of recents/starred screen when it's opened
+    - new splash screen
+    - UI improvements and bug fixes
+Version 1.1.8 (May 18, 2018)
+    - add Baidu translator
+    - fix deprecated APIs
+    - other bugfixes
+Version 1.1.7 (Mar 21, 2018)
+    - ability to star a translation
+    - bugfixes
+Version 1.1.6 (Mar 12, 2018)
+    fix in-app purchase issue
+    automatically translate after user stops speaking
+Version 1.1.4 (Mar 10, 2018)
+    - in-app purchase to remove ads
+    - add Papago Translator
+    - bugfixes
+Version 1.1.3 (Mar 6, 2018)
+    - you now can switch to other translation machines (Microsoft Translator, Yandex Translator, etc)
+    - bugfixes
+Version 1.1.1 (Mar 4, 2018)
+    fix a crash bug
+    fix a UI bug
+Version 1.0.7 (Mar 1, 2018)
+
+Users may also like
+Select objects to compare
+Translator »
+Hi Translate
+zTranslate - Translate Youtube
+Hi Translate - Chat & Camera
+Translate - Pocket Translator
+SayHi Translate
+Professional Translator
+My Translate-Voice
+medict
+RelyVPN - WiFi Proxy Master
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.5.9
+    Current release
+    Nov 6, 2023
+    1.5.5
+    Dec 5, 2022
+    1.5.2
+    Feb 1, 2022
+    1.5.0
+    Sep 14, 2021
+    1.4.2
+    Apr 19, 2020
+    1.3.9
+    Nov 23, 2019
+    1.3.1
+    Jul 20, 2019
+    1.3.0
+    May 1, 2019
+    1.2.8
+    Jan 7, 2019
+    1.2.4
+    Sep 26, 2018
+    1.2.3
+    Aug 11, 2018
+    1.2.2
+    Aug 3, 2018
+    1.2.1
+    Jul 17, 2018
+    1.1.8
+    May 18, 2018
+    1.1.7
+    Mar 21, 2018
+    1.1.6
+    Mar 12, 2018
+    1.1.4
+    Mar 10, 2018
+    1.1.3
+    Mar 6, 2018
+    1.1.1
+    Mar 4, 2018
+    1.0.7
+    Mar 1, 2018
+
+See More
+Top In-App Purchases
+
+    1 month Premium
+    $5.99
+    Go Premium
+    $49.99
+    1 year Premium
+    $29.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Utilities
+
+Initial Release Date
+    Mar 1, 2018
+
+Worldwide Release Date
+    Mar 1, 2018
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.5.9
+
+Size
+    129.38 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    EVOLLY.APP PTE. LTD
+
+Company HQ
+    Vietnam
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    kldev.translatevoice
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1352328874
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Translate AI - AR Translator | data.ai

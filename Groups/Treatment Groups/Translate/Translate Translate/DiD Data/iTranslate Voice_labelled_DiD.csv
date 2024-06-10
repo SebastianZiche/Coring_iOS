@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+522626820,1000600000000755,iTranslate Voice,Reference,2012-05-10,2012-05-10,222.16,24,1,0,1,0,0,1,0,0,0,0,0,0,0,month_1,1,0,2861,2966.0
+522626820,1000600000000755,iTranslate Voice,Reference,2012-05-10,2012-05-10,222.16,24,1,0,1,0,0,0,1,0,0,0,0,0,0,month_2,1,0,2891,2966.0
+522626820,1000600000000755,iTranslate Voice,Reference,2012-05-10,2012-05-10,222.16,24,1,0,1,0,0,0,0,1,0,0,0,0,0,month_3,1,0,2921,2966.0
+522626820,1000600000000755,iTranslate Voice,Reference,2012-05-10,2012-05-10,222.16,24,1,0,1,0,0,0,0,0,1,0,0,0,0,month_4,1,0,2951,2966.0
+522626820,1000600000000755,iTranslate Voice,Reference,2012-05-10,2012-05-10,222.16,24,1,0,1,0,0,0,0,0,0,1,0,0,0,month_5,1,1,2981,2966.0
+522626820,1000600000000755,iTranslate Voice,Reference,2012-05-10,2012-05-10,222.16,24,1,0,1,1,0,0,0,0,0,0,1,0,0,month_6,1,1,3011,2966.0
+522626820,1000600000000755,iTranslate Voice,Reference,2012-05-10,2012-05-10,222.16,24,1,0,1,0,0,0,0,0,0,0,0,1,0,month_7,1,1,3041,2966.0
+522626820,1000600000000755,iTranslate Voice,Reference,2012-05-10,2012-05-10,222.16,24,1,0,1,0,0,0,0,0,0,0,0,0,1,month_8,1,1,3071,2966.0

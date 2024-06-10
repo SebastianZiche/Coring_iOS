@@ -1,0 +1,899 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Sling: Live TV, Sports & News
+Sling TVEntertainment (Applications)Free
+Alerts
+
+Sling Television
+Sling: Live TV, Sports & News
+Sling: Live TV, Sports & News
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Sling: Live TV, Sports & News
+Stream Top TV Shows & Movies
+Entertainment (Applications)
+Free
+App Description
+Stream live TV, sports, news, popular shows, movies & more with Sling TV. Customize your channel lineup and explore thousands of movies and shows On Demand. No hidden fees, no long-term contracts, and no more cable. Pause or customize your live TV streaming service at any time. Try Sling Freestream with hundreds of free Live TV channels, no credit card required.
+
+
+
+
+
+Sling TV Channel Lineups
+
+Choose from 3 base subscriptions, with the flexibility to change based on your viewing needs.
+
+Sling Orange offers 31 channels perfect for families and sports fans.
+
+Sling Blue offers 39 channels perfect for entertainment and news.
+
+Sling Orange & Blue gives you every channel from both packages.
+
+Add Extra TV channel collections based on your interests.
+
+Plus, hundreds of free Live TV channels, with Sling Freestream.
+
+
+
+
+Live Sports
+
+Sling TV has live sports you can’t do without. Watch NCAA college basketball, NFL, MLB, NBA, NHL, college football, MLS soccer, golf, NASCAR, combat sports and more. Catch your favorite live sports on ESPN, ESPN2, ESPN3, TNT, TBS and many more of the top channels on Sling. From college games to pro, soccer to football, it’s all on Sling TV!
+
+
+
+
+Live News
+
+Sling keeps you up to date on breaking news with channels like CNN, FOX, and Bloomberg, plus free channels like ABC News Live. Get the latest news headlines in the U.S and around the world. Add the News Extra package to get breaking news from trusted national networks, financial and economic news and diverse news channels.
+
+
+
+
+Shows, Movies, and Premium Streaming Services
+
+Stream today’s most popular shows and movies live and On Demand. Sign up and start watching channels like Freeform, Investigation Discovery, TBS, TNT and so much more. Customize your channel lineup with premium streaming services like STARZ, AMC+, SHOWTIME, MGM+, Discovery+ and Hallmark Movies Now.
+
+
+
+
+Free Live TV Channels, Shows, Movies and News
+
+Stay informed and entertained with thousands of hours of FREE live TV channels and On Demand TV and movies with Sling Freestream. No credit card required. Stream full seasons of hit shows like Hell’s Kitchen or Forensic Files, watch free movies and see what’s trending for paid Sling subscribers. Simply sign up for a Sling Freestream account on our website and get started with your free TV streaming experience!
+
+
+
+
+Lifestyle
+
+Get your daily dose of gossip, home envy, competition and reality drama. Take on DIY projects with HGTV and satisfy your cravings for new recipes with the Food Network. Plus, get access to Hallmark, Cooking Channel, truTV, TBS and more.
+
+
+
+
+International
+
+Sling TV is one of the best international streaming services in the U.S., offering programs in 22 languages, including Spanish, Hindi & Arabic. Watch live cricket matches + access popular channels like SonyLIV, VOOT, MX ONE & Simply South.
+
+
+
+
+On Demand Movies, and TV Shows
+
+Choose from thousands of binge-worthy shows and movies On Demand. Access hundreds of titles available for On Demand viewing. Rent new blockbuster movies to watch On Demand and purchase the biggest live pay-per-view events to stream on your favorite devices.
+
+
+
+
+Record Live with Cloud DVR Storage
+
+You’ll automatically receive 50 hours of DVR storage with your Sling subscription! If that’s not enough, you can upgrade to DVR Plus and record up to 200 hours of storage. Record your must-watch sports, news and shows, then, watch them on your schedule.
+
+
+
+
+Best Value for Live TV
+
+Sling TV gives you more of the channels you love and less of the ones you don’t when compared to Hulu + Live TV, YouTube TV, Fubo, DirecTV Stream, Amazon Prime, and more. Want free TV? Freestream offers similar content to Tubi, Pluto, Roku TV, and Samsung TV–all the content you love, all for a great deal.
+
+
+
+
+Please note: This app features Nielsen’s proprietary measurement software that will allow you to contribute to market research, like Nielsen’s TV Ratings. Please see www.nielsen.com/digitalprivacy for more information.
+
+
+
+Ratings
+Displayed Avg Ratings
+4.62
+Total Displayed Ratings
+225k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.7.2 (Feb 15, 2024)
+    Fixed a bug where some VOD content would not play, and some Freestream users would not have player controls.
+
+    Fixed bug where sign-out of TV Provider may not work
+
+    Updated Sales and Upgrade flows for improved pricing clarity.
+
+    Other bug fixes and improvements.
+Version 8.6.0 (Jan 30, 2024)
+    Bug fixes and incremental player improvements
+Version 8.5.1 (Jan 19, 2024)
+    Crash fixes during sign-up, logout, and purchase flows.
+    Reduced content on home screen when user cancels navigation away and returns.
+    Fixed refresh of certain content after setting recordings.
+Version 8.4.5 (Jan 3, 2024)
+    - Bug fix for TV Provider login, guide crash due to filters, DVR Storage available, properly display watchlist items
+Version 8.3.5 (Dec 29, 2023)
+    Performance improvements and bug fixes.
+Version 8.3.0 (Nov 15, 2023)
+    Performance improvements and bug fixes.
+Version 8.2.0 (Nov 7, 2023)
+    Performance improvements and bug fixes.
+Version 8.1.3 (Oct 31, 2023)
+    Performance improvements and bug fixes.
+Version 8.0.1 (Oct 3, 2023)
+    Performance improvements and bug fixes.
+Version 7.29.5 (Aug 24, 2023)
+    Performance improvements and bug fixes.
+Version 7.28.1 (Jul 31, 2023)
+    Performance improvements and bug fixes.
+Version 7.27.0 (Jul 17, 2023)
+    Performance improvements and bug fixes.
+Version 7.26.0 (Jul 11, 2023)
+    Performance improvements and bug fixes.
+Version 7.25.2 (Jul 5, 2023)
+    Performance improvements and bug fixes.
+Version 7.24.1 (Jun 28, 2023)
+    Performance improvements and bug fixes.
+Version 7.22.0 (Jun 16, 2023)
+    Bug fixes
+Version 7.20.1 (May 25, 2023)
+    Bug Fixes
+Version 7.19.0 (May 8, 2023)
+    Bug Fixes
+Version 7.18.0 (May 1, 2023)
+    Improvements to Playback
+    Bug Fixes
+Version 7.17.1 (Apr 14, 2023)
+    Improvements to Playback
+    Bug Fixes
+Version 7.16.0 (Mar 23, 2023)
+    Try our NEW Favorite Channel widget. Select up to 4 channels in a mini-guide to display on your iPhone/iPad Home screen.
+    Profiles in Sling are rolling out to all Apple devices
+    Small Bug Fixes
+Version 7.15.0 (Mar 14, 2023)
+    Try our NEW Favorite Channel widget. Select up to 4 channels in a mini-guide to display on your iPhone/iPad Home screen.
+    Profiles on Sling are coming soon to iOS
+    Small Bug Fixes
+Version 7.14.0 (Mar 2, 2023)
+    Try our NEW Favorite Channel widget. Select up to 4 channels in a mini-guide to display on your iPhone/iPad Home screen.
+    Improved Playback
+Version 7.13.0 (Feb 22, 2023)
+    Improvements to Playback
+    Improvements to Sling Widgets
+    Misc Bug Fixes
+Version 7.12.0 (Feb 2, 2023)
+    Misc Bug Fixes
+Version 7.11.2 (Jan 19, 2023)
+    Casting Improvements
+    Other Small Bug Fixes
+Version 7.10.1 (Nov 9, 2022)
+    Introducing Widgets in this version.
+    You can create Widgets for “Watch List”, “Continue Watching” & "Recommended for You" ribbons on your mobile device Home screen.
+    You can create a Lock Screen Widget for quick access to Sling from the Lock screen.
+    Fix for AirTV Setup that was not working for users on iOS 16.
+    For iPads full screen landscape is the default when opening content while in landscape view
+Version 7.7.0 (Oct 1, 2022)
+    Small Bug Fixes
+Version 7.6.0 (Sep 14, 2022)
+    Binge Watching will be becoming available in the App over the next few weeks
+    Support for iOS 16
+Version 7.5.2 (Sep 2, 2022)
+    We've made it easier to subscribe to Sling.
+    Added a Button on the main Splash Screen to enable new users to sign up. 
+Version 7.4.4 (Aug 8, 2022)
+    Improvements to Lookback play (previously played VOD that played earlier on channel schedule)
+    Small Bug Fixes
+    Support for Binge Watching VOD content that is coming soon.
+    AirTV Player Improvements
+Version 7.4.3 (Aug 1, 2022)
+    Improvements to Lookback play (previously played VOD that played earlier on channel schedule)
+    Small Bug Fixes
+    Support for Binge Watching VOD content that is coming soon.
+Version 7.3.0 (Jun 30, 2022)
+    Improved Playback & More Bug Fixes
+Version 7.2.2 (Jun 13, 2022)
+    Brand new app that’s smart, simple and more personalized than ever.
+
+    * All your favorite cable channels including top news, live sports, shows, movies and more for less
+    * Offers ways to watch your local channels for free so you save money and keep your favorite local sports, news and shows
+    * Watch on all major streaming devices, smart TVs, smartphones, tablets, computers and gaming consoles
+    * 50 hours of free DVR storage or upgrade to 200 hours
+    * Includes AirTV Setup
+    * Bug Fixes for New User Interface
+Version 7.1.3 (May 10, 2022)
+    Brand new app that’s smart, simple and more personalized than ever.
+
+    * All your favorite cable channels including top news, live sports, shows, movies and more for less
+    * Offers ways to watch your local channels for free so you save money and keep your favorite local sports, news and shows
+    * Watch on all major streaming devices, smart TVs, smartphones, tablets, computers and gaming consoles
+    * 50 hours of free DVR storage or upgrade to 200 hours
+    * Includes AirTV Setup
+    * Bug Fixes for New User Interface
+
+
+Version 7.1.1 (Apr 20, 2022)
+    Brand new app that’s smart, simple and more personalized than ever
+
+    A better way to watch live TV. All your favorite cable channels including top news, live sports, shows, movies and more for less. SLING helps you save money with ways to watch your local channels for free and provides over 80,000 titles of on-demand entertainment. 50 hours of DVR are included and there are no long-term contracts or hidden fees. Download the SLING app now and start watching.
+
+    * All your favorite cable channels including top news, live sports, shows, movies and more for less
+    * Offers ways to watch your local channels for free so you save money and keep your favorite local sports, news and shows
+    * Watch on all major streaming devices, smart TVs, smartphones, tablets, computers and gaming consoles
+    * 50 hours of free DVR storage or upgrade to 200 hours
+
+Version 6.9.0 (Mar 1, 2022)
+    6.9.0:
+    Improvements to our player and ad interactions
+Version 6.8.0 (Feb 9, 2022)
+    Release of v6.8.0 includes:
+    -Mostly Cosmetic Changes that update new Sling TV Logos
+    -Small bug Fixes
+Version 6.7.0 (Jan 27, 2022)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.6.2 (Jan 11, 2022)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.6.1 (Dec 20, 2021)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.5.11 (Dec 8, 2021)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.5.10 (Nov 30, 2021)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.5.9 (Nov 9, 2021)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.5.8 (Nov 4, 2021)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.5.6 (Sep 23, 2021)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version. NFL RedZone playback fixes.
+Version 6.5.5 (Sep 8, 2021)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.5.4 (Aug 20, 2021)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.5.3 (Aug 4, 2021)
+    Thank You for using SlingTV! We update this App a few times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.5.2 (Jul 27, 2021)
+    Hi Slingers! Thank You for using SlingTV! We update this App a couple times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+
+    -Bug fixes for crashes seen by some while viewing certain ads
+Version 6.5.1 (Jul 22, 2021)
+    Hi Slingers! Thank You for using SlingTV! We update this App a couple times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+
+    We have added the ability to see FREE Local channels & their schedules, brought to you by Locast, in your Sling guide. The Locast channels will appear in your guide but to access the channels you will need to create a Locast account. Locast will need to support channels in your local area. 
+Version 6.5.0 (Jul 20, 2021)
+    Hi Slingers! Thank You for using SlingTV! We update this App a couple times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+
+    Coming Soon!! In coming weeks Sling will be adding the ability to see FREE Local channels & their schedules, brought to you by Locast, in your Sling guide. The Locast channels will appear in your guide but to access the channels you will need to create a Locast account. No additional cost to you but Locast will need to support channels in your local area. 
+Version 6.4.4 (Jul 8, 2021)
+    Hi Slingers! Thank You for using SlingTV! We update this App a couple times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+
+    We just added SlingTV Watch Party to the mobile Sling App for iOS. Watch Live TV While Video Chatting with Friends & Family with Sling!
+Version 6.4.3 (Jun 17, 2021)
+    Hi Slingers! Thank You for using SlingTV! We update this App a couple times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+
+    We just added SlingTV Watch Party to the mobile Sling App for iOS. Watch Live TV While Video Chatting with Friends & Family with Sling!
+Version 6.4.2 (Jun 14, 2021)
+    Hi Slingers! Thank You for using SlingTV! We update this App a couple times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+
+    We just added SlingTV Watch Party to the mobile Sling App for iOS. Watch Live TV While Video Chatting with Friends & Family with Sling!
+Version 6.4.1 (Jun 1, 2021)
+    Hi Slingers! Thank You for using SlingTV! We update this App a couple times a month with new features and bug fixes to make things better for you. Check back often to get the most recent version.
+Version 6.4.0 (May 20, 2021)
+    WatchParty
+Version 6.3.9 (May 13, 2021)
+    You can now cast SlingTV from iOS using Apple AirPlay on TVs/devices that support Airplay. Also many player bug fixes that make viewing content more reliable.
+Version 6.3.8 (Apr 14, 2021)
+    Streaming improvements and defect fixes.
+Version 6.3.7 (Mar 31, 2021)
+    Streaming improvements and defect fixes.
+Version 6.3.6 (Mar 18, 2021)
+    Streaming improvements and defect fixes.
+Version 6.3.5 (Mar 4, 2021)
+    Streaming improvements, defect fixes.
+Version 6.3.4 (Feb 16, 2021)
+    Streaming improvements and defect fixes.
+Version 6.3.3 (Feb 4, 2021)
+    Streaming improvements and defect fixes.
+Version 6.3.1 (Jan 4, 2021)
+    Now you can pause, rewind, and fast forward on more live channels! We've also included streaming improvements, defect fixes.
+Version 6.3.0 (Dec 15, 2020)
+    Now you can pause, rewind, and fast forward on more live channels! We've also included streaming improvements, defect fixes.
+Version 6.2.6 (Dec 10, 2020)
+    Now you can pause, rewind, and fast forward on more live channels! We've also included streaming improvements, defect fixes. 
+Version 6.2.5 (Nov 19, 2020)
+    Now you can pause, rewind, and fast forward on more live channels! We've also included streaming improvements, defect fixes. 
+Version 6.2.4 (Oct 27, 2020)
+    Now you can pause, rewind, and fast forward on more live channels! We've also included streaming improvements, defect fixes. 
+Version 6.2.3 (Oct 21, 2020)
+    Now you can pause, rewind, and fast forward on more live channels! We've also included streaming improvements, defect fixes. 
+Version 6.2.2 (Oct 12, 2020)
+    Defect fixes and streaming improvements. 
+Version 6.2.1 (Oct 1, 2020)
+    Defect fixes, streaming improvements and pause on live.
+Version 6.2.0 (Sep 11, 2020)
+    Streaming improvements and defect fixes.
+Version 6.1.6 (Sep 8, 2020)
+    Streaming improvements and defect fixes.
+Version 6.1.5 (Aug 27, 2020)
+    Streaming Improvements, better AirTV setup and defect fixes.
+Version 6.1.4 (Aug 19, 2020)
+    Streaming improvements and defect fixes.
+Version 6.1.3 (Aug 13, 2020)
+    Streaming improvements and defect fixes.
+Version 6.1.2 (Aug 4, 2020)
+    Streaming improvements and defect fixes.
+Version 6.1.1 (Jul 28, 2020)
+    Improved streaming and defect fixes
+Version 6.1.0 (Jul 21, 2020)
+    Streaming improvements and defect fixes.
+Version 6.0.0 (Jul 15, 2020)
+    Streaming improvements and defect fixes.
+Version 5.15.18 (Jul 9, 2020)
+    Streaming improvements and defect fixes.
+Version 5.15.16 (Jun 26, 2020)
+    Streaming improvements and defect fixes
+Version 5.15.15 (Jun 19, 2020)
+    Streaming improvements and defect fixes
+Version 5.15.14 (Jun 11, 2020)
+    Improved streaming performance and defect fixes.
+Version 5.15.13 (Jun 5, 2020)
+    Streaming improvements and defect fixes
+Version 5.15.12 (Jun 3, 2020)
+    Streaming improvements and defect fixing. 
+Version 5.15.11 (Jun 2, 2020)
+    Streaming improvements and defect fixing. 
+Version 5.15.9 (May 26, 2020)
+    Defect fixes and streaming improvements
+Version 5.15.5 (May 14, 2020)
+    Improved streaming experience and defect fixes.
+Version 5.15.4 (May 11, 2020)
+    Defect fixes and streaming improvements. 
+Version 5.15.3 (May 7, 2020)
+    Defect fixes
+Version 5.15.2 (May 4, 2020)
+    Defect Fixes
+Version 5.14.2 (Apr 27, 2020)
+    Enhanced streaming performance and defect fixes
+Version 5.14.1 (Apr 16, 2020)
+    Defect fixes
+Version 5.14.0 (Apr 15, 2020)
+    Streaming enhancements and defects fixes.
+Version 5.13.2 (Mar 30, 2020)
+    Defect fixes and streaming improvements. 
+Version 5.13.1 (Mar 23, 2020)
+    Defect fixes and streaming improvements. 
+Version 5.13.0 (Mar 4, 2020)
+    This build address performance issues and defect repairs for a better streaming experience.
+Version 5.12.1 (Dec 18, 2019)
+    Performance enhancements and defect fixes.
+Version 5.12.0 (Dec 9, 2019)
+    Defect fixes and improvements
+Version 5.11.2 (Nov 25, 2019)
+    Performance enhancements and bug fixes 
+Version 5.11.1 (Oct 24, 2019)
+    Performance enhancements and bug fixes
+Version 5.11.0 (Sep 26, 2019)
+    Bug fixes and performance enhancements 
+Version 5.10.2 (Sep 9, 2019)
+    Bug fixes and performance improvements.
+Version 5.10.1 (Aug 13, 2019)
+    Improvements to speed and stability 
+Version 5.10.0 (Aug 5, 2019)
+    Improvements to speed and stability.
+Version 5.9.0 (May 30, 2019)
+    Updates to performance and stability.
+Version 5.8.0 (Apr 4, 2019)
+    This update includes various improvements to performance and stability. Happy Streaming!
+Version 5.7.0 (Jan 16, 2019)
+    This update includes various improvements to performance and stability. Happy Streaming!
+Version 5.6.1 (Oct 15, 2018)
+    This update includes support for iPhone XS & XS Max.
+Version 5.6.0 (Sep 4, 2018)
+    This update includes content discovery enhancements on My TV and, as always, additional improvements to performance and stability. Happy Streaming!
+Version 5.5.0 (Jul 18, 2018)
+    This update includes search enhancements, improved Chromecast support, predictive scrolling in grid guide view and, as always, additional improvements to performance and stability. Happy Streaming!
+Version 5.4.0 (Apr 19, 2018)
+    Faster video start times and additional improvements to performance and stability.
+Version 5.3.0 (Dec 4, 2017)
+    To make it easier than ever to see what's on and what's coming up on every channel, we've added a new grid guide option! We've also returned support to connect & display to your TV. And as always, improvements to performance & stability.
+Version 5.2.1 (Nov 2, 2017)
+    Optimization for iPhone X and, as always, improvements to performance and stability.
+Version 5.2.0 (Oct 30, 2017)
+    We strive to keep our app fresh with frequent updates, always improving performance, speed, and stability. Happy Streaming!
+Version 5.1.4 (Sep 11, 2017)
+    We strive to keep our app fresh with frequent updates, always improving performance, speed, and stability. Happy Streaming!
+Version 5.1.2 (Aug 21, 2017)
+    We strive to keep our app fresh with frequent updates, always improving performance, speed, and stability. Happy Streaming!
+Version 5.1.1 (Aug 9, 2017)
+    We strive to keep our app fresh with frequent updates, always improving performance, speed, and stability. Happy Streaming!
+Version 5.1.0 (Jun 22, 2017)
+    Now introducing Cloud DVR support on iOS! And, as always, this update includes a host of improvements to quality, stability, and performance. Happy streaming!
+Version 5.0.5 (May 18, 2017)
+    Bug fixes, improved stability and performance
+Version 5.0.4 (Apr 18, 2017)
+    Sling's new user interface makes it even easier to find the shows, movies, and games you love. This update includes bug fixes and significant performance improvements.
+    If you love Sling TV, please leave a review. Or, send feedback to iOSFeedback@sling.com. Happy streaming!
+Version 4.5.2 (Dec 14, 2016)
+    This update includes major speed, stability, and performance improvements.
+
+    We love to hear from you! If you love Sling TV, please leave a review. Or, send feedback to iOSFeedback@sling.com. Happy streaming!
+Version 4.5.1 (Oct 13, 2016)
+    This update includes improved stability, performance, and load times.
+
+    We love to hear from you! If you love Sling TV, please leave a review, or send us your feedback at iOSfeedback@sling.com
+Version 4.4.0 (Sep 13, 2016)
+    You can now CAST PRO FOOTBALL from your iPhone!
+    This update includes improved stability, performance, load times, and support for iOS 10.
+    We love to hear from you! If you love Sling TV, please leave a review. Or, send feedback to iOSfeedback@sling.com
+Version 4.3.0 (Mar 9, 2016)
+    Major performance upgrades, improved Chromecast speed & stability, and support for great new content such as ‘Local Now’
+    If you love Sling TV, please help by sharing the love and leaving a review
+    Or, send constructive criticism by emailing iOSfeedback@sling.com
+Version 4.2.1 (Nov 30, 2015)
+    Sling TV is about transparency. No tricks or surprises. (Okay, only good surprises!) We heard you loud & clear. So we made a bunch of stability & Chromecast improvements. If you love Sling TV, please take a moment to leave a nice review; it really helps.
+Version 4.2.0 (Oct 28, 2015)
+    Included in this version:
+    Bugs fixes
+    Performance improvements
+    Support for amazing new content
+    Support for iOS 9
+Version 4.1.3 (Jun 16, 2015)
+    64 bit support. Various bug fixes.
+Version 4.1.1 (Apr 13, 2015)
+    Parental Controls are now available. On Demand content is now be displayed in categories for some channels.
+Version 4.1.0 (Apr 6, 2015)
+    Various bug fixes.
+Version 4.0.3 (Feb 24, 2015)
+    Resolved issues preventing some users from seeing video within the app.
+Version 4.0.2 (Feb 5, 2015)
+    Various bug fixes and cosmetic improvements.
+
+    Fix for audio mute issues.
+Version 4.0.0 (Jan 20, 2015)
+Version 5.0.2 (Jan 20, 2015)
+    Bug fix.
+
+Users may also like
+Select objects to compare
+Philo: Live & On-Demand TV
+USA Network
+Frndly TV
+Fubo: Watch Live TV & Sports
+Watch TNT
+XUMO: TV & Movie Streaming
+Freeform TV
+FXNOW: Movies, Shows & Live TV
+Crackle - Movies & TV
+Watch TBS
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    8.7.2
+    Current release
+    Feb 15, 2024
+    8.6.0
+    Jan 30, 2024
+    8.5.1
+    Jan 19, 2024
+    8.4.5
+    Jan 3, 2024
+    8.3.5
+    Dec 29, 2023
+    8.3.0
+    Nov 15, 2023
+    8.2.0
+    Nov 7, 2023
+    8.1.3
+    Oct 31, 2023
+    8.0.1
+    Oct 3, 2023
+    7.29.5
+    Aug 24, 2023
+    7.28.1
+    Jul 31, 2023
+    7.27.0
+    Jul 17, 2023
+    7.26.0
+    Jul 11, 2023
+    7.25.2
+    Jul 5, 2023
+    7.24.1
+    Jun 28, 2023
+    7.22.0
+    Jun 16, 2023
+    7.20.1
+    May 25, 2023
+    7.19.0
+    May 8, 2023
+    7.18.0
+    May 1, 2023
+    7.17.1
+    Apr 14, 2023
+    7.16.0
+    Mar 23, 2023
+    7.15.0
+    Mar 14, 2023
+    7.14.0
+    Mar 2, 2023
+    7.13.0
+    Feb 22, 2023
+    7.12.0
+    Feb 2, 2023
+    7.11.2
+    Jan 19, 2023
+    7.10.1
+    Nov 9, 2022
+    7.7.0
+    Oct 1, 2022
+    7.6.0
+    Sep 14, 2022
+    7.5.2
+    Sep 2, 2022
+    7.4.4
+    Aug 8, 2022
+    7.4.3
+    Aug 1, 2022
+    7.3.0
+    Jun 30, 2022
+    7.2.2
+    Jun 13, 2022
+    7.1.3
+    May 10, 2022
+    7.1.1
+    Apr 20, 2022
+    6.9.0
+    Mar 1, 2022
+    6.8.0
+    Feb 9, 2022
+    6.7.0
+    Jan 27, 2022
+    6.6.2
+    Jan 11, 2022
+    6.6.1
+    Dec 20, 2021
+    6.5.11
+    Dec 8, 2021
+    6.5.10
+    Nov 30, 2021
+    6.5.9
+    Nov 9, 2021
+    6.5.8
+    Nov 4, 2021
+    6.5.6
+    Sep 23, 2021
+    6.5.5
+    Sep 8, 2021
+    6.5.4
+    Aug 20, 2021
+    6.5.3
+    Aug 4, 2021
+    6.5.2
+    Jul 27, 2021
+    6.5.1
+    Jul 22, 2021
+    6.5.0
+    Jul 20, 2021
+    6.4.4
+    Jul 8, 2021
+    6.4.3
+    Jun 17, 2021
+    6.4.2
+    Jun 14, 2021
+    6.4.1
+    Jun 1, 2021
+    6.4.0
+    May 20, 2021
+    6.3.9
+    May 13, 2021
+    6.3.8
+    Apr 14, 2021
+    6.3.7
+    Mar 31, 2021
+    6.3.6
+    Mar 18, 2021
+    6.3.5
+    Mar 4, 2021
+    6.3.4
+    Feb 16, 2021
+    6.3.3
+    Feb 4, 2021
+    6.3.1
+    Jan 4, 2021
+    6.3.0
+    Dec 15, 2020
+    6.2.6
+    Dec 10, 2020
+    6.2.5
+    Nov 19, 2020
+    6.2.4
+    Oct 27, 2020
+    6.2.3
+    Oct 21, 2020
+    6.2.2
+    Oct 12, 2020
+    6.2.1
+    Oct 1, 2020
+    6.2.0
+    Sep 11, 2020
+    6.1.6
+    Sep 8, 2020
+    6.1.5
+    Aug 27, 2020
+    6.1.4
+    Aug 19, 2020
+    6.1.3
+    Aug 13, 2020
+    6.1.2
+    Aug 4, 2020
+    6.1.1
+    Jul 28, 2020
+    6.1.0
+    Jul 21, 2020
+    6.0.0
+    Jul 15, 2020
+    5.15.18
+    Jul 9, 2020
+    5.15.16
+    Jun 26, 2020
+    5.15.15
+    Jun 19, 2020
+    5.15.14
+    Jun 11, 2020
+    5.15.13
+    Jun 5, 2020
+    5.15.12
+    Jun 3, 2020
+    5.15.11
+    Jun 2, 2020
+    5.15.9
+    May 26, 2020
+    5.15.5
+    May 14, 2020
+    5.15.4
+    May 11, 2020
+    5.15.3
+    May 7, 2020
+    5.15.2
+    May 4, 2020
+    5.14.2
+    Apr 27, 2020
+    5.14.1
+    Apr 16, 2020
+    5.14.0
+    Apr 15, 2020
+    5.13.2
+    Mar 30, 2020
+    5.13.1
+    Mar 23, 2020
+    5.13.0
+    Mar 4, 2020
+    5.12.1
+    Dec 18, 2019
+    5.12.0
+    Dec 9, 2019
+    5.11.2
+    Nov 25, 2019
+    5.11.1
+    Oct 24, 2019
+    5.11.0
+    Sep 26, 2019
+    5.10.2
+    Sep 9, 2019
+    5.10.1
+    Aug 13, 2019
+    5.10.0
+    Aug 5, 2019
+    5.9.0
+    May 30, 2019
+    5.8.0
+    Apr 4, 2019
+    5.7.0
+    Jan 16, 2019
+    5.6.1
+    Oct 15, 2018
+    5.6.0
+    Sep 4, 2018
+    5.5.0
+    Jul 18, 2018
+    5.4.0
+    Apr 19, 2018
+    5.3.0
+    Dec 4, 2017
+    5.2.1
+    Nov 2, 2017
+    5.2.0
+    Oct 30, 2017
+    5.1.4
+    Sep 11, 2017
+    5.1.2
+    Aug 21, 2017
+    5.1.1
+    Aug 9, 2017
+    5.1.0
+    Jun 22, 2017
+    5.0.5
+    May 18, 2017
+    5.0.4
+    Apr 18, 2017
+    4.5.2
+    Dec 14, 2016
+    4.5.1
+    Oct 13, 2016
+    4.4.0
+    Sep 13, 2016
+    4.3.0
+    Mar 9, 2016
+    4.2.1
+    Nov 30, 2015
+    4.2.0
+    Oct 28, 2015
+    4.1.3
+    Jun 16, 2015
+    4.1.1
+    Apr 13, 2015
+    4.1.0
+    Apr 6, 2015
+    4.0.3
+    Feb 24, 2015
+    4.0.2
+    Feb 5, 2015
+    4.0.0
+    Jan 20, 2015
+    5.0.2
+    Jan 20, 2015
+
+See More
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Jan 20, 2015
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    8.7.2
+
+Size
+    83.01 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Sling TV LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.1 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.dishdigital.sling
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 945077360
+Unified App ID: 1000600000521608
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Sling: Live TV, Sports & News | data.ai

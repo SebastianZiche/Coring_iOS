@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+635966718,1000600000520353,Memrise Easy Language Learning,Education,2013-05-20,2013-05-20,206.26,22,1,0,1,3,0,1,0,0,0,0,0,0,0,month_1,0,0,3730,3835.0
+635966718,1000600000520353,Memrise Easy Language Learning,Education,2013-05-20,2013-05-20,206.26,22,1,0,1,5,0,0,1,0,0,0,0,0,0,month_2,0,0,3760,3835.0
+635966718,1000600000520353,Memrise Easy Language Learning,Education,2013-05-20,2013-05-20,206.26,22,1,0,1,5,0,0,0,1,0,0,0,0,0,month_3,0,0,3790,3835.0
+635966718,1000600000520353,Memrise Easy Language Learning,Education,2013-05-20,2013-05-20,206.26,22,1,0,1,3,0,0,0,0,1,0,0,0,0,month_4,0,0,3820,3835.0
+635966718,1000600000520353,Memrise Easy Language Learning,Education,2013-05-20,2013-05-20,206.26,22,1,0,1,2,0,0,0,0,0,1,0,0,0,month_5,0,1,3850,3835.0
+635966718,1000600000520353,Memrise Easy Language Learning,Education,2013-05-20,2013-05-20,206.26,22,1,0,1,4,0,0,0,0,0,0,1,0,0,month_6,0,1,3880,3835.0
+635966718,1000600000520353,Memrise Easy Language Learning,Education,2013-05-20,2013-05-20,206.26,22,1,0,1,2,0,0,0,0,0,0,0,1,0,month_7,0,1,3910,3835.0
+635966718,1000600000520353,Memrise Easy Language Learning,Education,2013-05-20,2013-05-20,206.26,22,1,0,1,3,0,0,0,0,0,0,0,0,1,month_8,0,1,3940,3835.0

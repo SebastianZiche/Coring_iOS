@@ -1,0 +1,523 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+SpyChat: Invisible Chat
+Alexey ShevchenkoSocial Networking (Applications)Free
+Alerts
+
+    Alexey Shevchenko
+
+    SpyChat: Invisible Chat
+    SpyChat: Invisible Chat
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+SpyChat: Invisible Chat
+Simple. Secure. Reliable.
+Social Networking (Applications)
+Free
+iPhone Only
+App Promotional Text
+SpyChat: No phone number required, anonymity. Send text and voice, share photos without revealing your number. Traffic is encrypted. Delete, and there are no traces
+App Description
+We invite you to install the most secure messenger for communication – no registration or SMS, no tracking of message status or sending time, no access to the data on your smartphone. We guarantee complete anonymity of data: each chat is encrypted with a unique QR code
+
+Important features of the SpyChat mobile app:
+
+− Non-recurring keys unique from chat to chat.
+− Impossibility of identification. Even the creators of the app will not be able to decrypt encrypted chats and get information about senders and recipients.
+− The keys cannot be intercepted or stolen. The cipher is transmitted between devices via camera scanning a unique password protected QR code – it exists on the screen for only 2 seconds and does not enter the network.
+− No message status or sending time. SpyChat does not know when you sent the message and whether the recipient read it – omitting this unnecessary information excludes the possibility of leaking or copying classified data.
+− Messages are stored on the server in an encrypted form. The app allows deleting the entire chat and all the messages at once as well as individual messages. And there’s nothing left anywhere.
+− No registration. SpyChat is the only app that does not ask for your phone number, email, geolocation or access to the phone book.
+
+Who needs the SpyChat mobile app:
+
+The app is right for everyone who cares about protecting personal information. Among them are:
+
+− Introverts
+− Lovers
+− Business owners
+− Freelancers
+− Lawyers
+− Anyone sharing confidential data
+
+All we want to know about our users is nothing.
+
+We created SpyChat for confidential and secure communication. So we deprived any third parties, including ourselves, of the opportunity to get even the tiniest piece of information about the users. Our messenger will keep your correspondence in utmost secrecy.
+
+Install the SpyChat mobile app right now – restrict access to private information and protect yourself online!
+Ratings
+Displayed Avg Ratings
+4.67
+Total Displayed Ratings
+24
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 7.9.0 (Feb 9, 2024)
+    In this version, we fixed some UI bugs
+Version 7.8.0 (Feb 5, 2024)
+    In this version, we fixed some UI bugs
+Version 7.7.0 (Jan 28, 2024)
+    In this version, we fixed bugs related to connecting to the chat
+Version 7.6.0 (Jan 24, 2024)
+    In this version we fixed bugs in the Media browser
+Version 7.4.1 (Dec 30, 2023)
+    In this version, we've made just a few changes to the app settings screen. Happy New Year! It's not guaranteed that the next one will be better. Let's stay together because we still have many plans. Coming up - the 1-on-1 chat and channel creation feature. Stay tuned for updates.
+Version 7.3.0 (Dec 12, 2023)
+    In this version, we have added support for the German language.
+Version 7.2.1 (Nov 22, 2023)
+    In this version, we made minor changes to the UI.
+Version 7.1.0 (Nov 21, 2023)
+    In this version, we have expanded the analytics.
+Version 7.0.0 (Nov 8, 2023)
+    In this version, we fixed errors in the operation of the media browser.
+Version 6.9.0 (Nov 7, 2023)
+    In this version, we've added the ability to rate our app directly within the app, without the need to go to the App Store.
+Version 6.8.0 (Nov 5, 2023)
+    In this version, we have added support for Polish and Spanish languages.
+Version 6.7.1 (Nov 1, 2023)
+    In this version, we fixed issues that were causing the application to crash.
+Version 6.6.0 (Oct 28, 2023)
+    In this version we have fixed a bug related to image sending and a bug in the media browser.
+Version 6.5.1 (Oct 24, 2023)
+    In this version we have fixed some UI bugs.
+Version 6.3.0 (Oct 16, 2023)
+    In this version, we've implemented password/Face ID login
+Version 6.2.1 (Sep 4, 2023)
+    In this version we have improved the support for the Ukrainian language
+Version 6.1.0 (Sep 3, 2023)
+    In this version we have added support for the Ukrainian language
+Version 6.0.1 (Aug 31, 2023)
+    In this version we have made some changes to the UI
+Version 5.9.0 (Aug 20, 2023)
+    In this version, we have revamped the process of onboarding new users
+Version 5.8.1 (Aug 13, 2023)
+    In this version, we have updated the interface for working with messages. We would like to remind you that in order to, for example, reply to a message or delete it, you need to perform a long press on the respective message in the chat
+Version 5.7.1 (Aug 8, 2023)
+    In this version, we have made improvements to the UI
+Version 5.6.1 (Jul 25, 2023)
+    In this version, we fixed UI bugs.
+Version 5.4.0 (Jun 11, 2023)
+    In this version we have added analytics.
+Version 5.3.9 (Jun 4, 2023)
+    In this version of the application, we have added a machine learning model that can detect toxic and offensive messages. Now we can analyze messages directly on your mobile device before sending them to the chat. This ensures privacy and data protection, as messages are transmitted in an encrypted format. With this enhancement, users can enjoy a safe and friendly interaction within our application. If the model detects that the entered text is toxic or offensive, the user will see a corresponding emoji below the input field.
+Version 5.2.1 (May 28, 2023)
+    In this version, we have improved the UI.
+Version 5.1.0 (May 21, 2023)
+    In this version we have added a message counter.
+Version 5.0.0 (Apr 30, 2023)
+    In this version, we have reduced battery consumption.
+Version 4.9.1 (Apr 18, 2023)
+    In this version, we have reduced battery consumption.
+Version 4.8.1 (Apr 3, 2023)
+    In this version we have improved the UI.
+Version 4.7.0 (Feb 22, 2023)
+    In this version we have improved the UI. Now it is clear in the chat who is the admin and where are your messages.
+Version 4.6.0 (Feb 19, 2023)
+    In this version we fixed some UI bugs.
+Version 4.5.1 (Feb 12, 2023)
+    In this version we have made some improvements to the UI.
+Version 4.4.1 (Feb 1, 2023)
+    In this version we have made some improvements to the UI.
+Version 4.3.1 (Jan 27, 2023)
+    In this version we have made some improvements to the UI.
+Version 4.2.0 (Jan 22, 2023)
+    In this version we have hidden the create and join chat buttons. To create a new chat or join an existing one click on SpyChat_.
+Version 4.1.1 (Jan 16, 2023)
+    In this version as in the previous one we made some improvements in the UI.
+Version 4.0.1 (Jan 11, 2023)
+    In this version as in the previous one we made some improvements in the UI.
+Version 3.9.1 (Jan 6, 2023)
+    In this version as in the previous one we made some improvements in the UI.
+Version 3.8.1 (Jan 1, 2023)
+    In this version we have made some improvements to the UI.
+Version 3.8.1 (Jan 1, 2023)
+    In this version we have made some improvements to the UI.
+Version 3.6.1 (Dec 27, 2022)
+    In this version we fixed some UI bugs.
+Version 3.4.0 (Dec 16, 2022)
+    In this version, we fixed a UI bug related to replying to a photo message.
+    Also to make it easy to see your messages in the feed, we added a "I" label next to the sender's name. 
+Version 3.3.0 (Oct 22, 2022)
+    In this version we fixed some UI issue
+Version 3.2.0 (Oct 10, 2022)
+    In this version, we have refactored from scratch the ability to take a photo with a camera and send it in a message.
+Version 3.1.0 (Sep 10, 2022)
+    In this version, we added fresh new Media browser
+Version 3.0.0 (Jun 24, 2022)
+    In this version, we fixed an annoying bug related to the unread message indicator
+Version 2.9.0 (Jun 21, 2022)
+    In this version we improved the code base of the application for more stable operation of the application.
+    We added
+    - typing now indicator
+    - flag your messages as containing objectionable content
+    - filter the message feed for objectionable content
+    - block the interlocutor in the chat
+    - report message
+Version 2.8.0 (Nov 16, 2021)
+    Hey!
+    Now you can clear the chat.
+Version 2.7.0 (Oct 26, 2021)
+    In this release we have made deleting messages safe.
+Version 2.6.0 (Oct 18, 2021)
+    In this version we did some refactoring in the application code due to which the application began to consume less memory.
+Version 2.5.0 (Oct 10, 2021)
+    In this version we have fixed a bug related to voice messages.
+Version 2.4.0 (Sep 11, 2021)
+    In this version we have improved the mechanism for sending images.
+Version 2.3.0 (Sep 7, 2021)
+    In this version we have made some application code improvements.
+Version 2.2.0 (Aug 14, 2021)
+    In this version, we have improved the loading of messages in the chat.
+Version 2.1.0 (Jul 25, 2021)
+    In this version, we fixed push notifications.
+Version 2.0.0 (Jun 24, 2021)
+    Anniversary 20th version!
+    We've added the ability to send each other voice messages. We also redesigned and improved photo viewer.
+Version 1.8.0 (Dec 30, 2020)
+    In this version we have added hints how to create new chat and to join to existing one.
+Version 1.7.0 (Dec 22, 2020)
+    In this version we have added to the chat screen the hint about how to send photos.
+Version 1.6.0 (Dec 15, 2020)
+    In this version we have added a spinner to the chat screen which is displayed when sending photos.
+Version 1.5.0 (Nov 26, 2020)
+    In this version we have made some changes in the UI. Now, to send a photo, you need to long press `send message` button.
+Version 1.4.0 (Nov 19, 2020)
+    In this version we redesigned sending photos.
+Version 1.3.0 (Nov 11, 2020)
+    In this version, we did the following:
+    - changed the mechanics of the chat screen, made it more intuitive
+    - updated design of buttons for scrolling down and sending pictures
+    - added new message indicator on the chat screen. This is in case you are reading a chat somewhere in the middle and a new message comes in
+    - fixed error displaying message
+    - added the ability to copy a picture from message to the clipboard
+Version 1.2.0 (Sep 8, 2020)
+    In this version we have fixed several bugs, one of them related to the new message indicator.
+    Added animated shading of the picture in the chat.
+    We have adapted the message's response banner in accordance with the existing functionality.
+Version 1.1.9 (Aug 23, 2020)
+    In this version, we added the ability to save the photo that was sent to you in the chat. We also fixed some UI bugs.
+Version 1.1.8 (Aug 17, 2020)
+    You asked and we listened! The possibility to send photo is added.
+Version 1.1.7 (Jul 25, 2020)
+    In this version, we fixed a bug due to which the application crashed when the user tried to connect to the chat. We also redesigned the flow for connecting a user to the chat, which made this process more convenient.
+Version 1.1.6 (Jul 19, 2020)
+    In this version, we fixed the bug of displaying incorrect text on the screen of joining chat with QR code image
+Version 1.1.5 (Jul 13, 2020)
+    Light mode arrived
+Version 1.1.4 (Jul 4, 2020)
+    In this version, we fixed the bug related to displaying the wrong font in the message
+Version 1.1.3 (Jun 27, 2020)
+    In this version, we made loading the chat screen faster, and also added logging of errors to the application code
+Version 1.1.2 (Jun 23, 2020)
+    In this release, we fixed several bugs that caused the application to crash.
+Version 1.1.1 (Jun 6, 2020)
+    We added a hint about how to rename interlocutor in chat.
+Version 1.1.0 (May 29, 2020)
+    You asked and we listened! The possibility to share a QR code is added.
+    Here’s the step-by-step instruction. Create a chat (the button in the upper right corner) and think up a password — a QR code will appear. Tap it with your finger and choose a sharing method. To be on the safe side, we made a hint in the upper right corner.
+    The person on the other end clicks the QR code icon in the upper left corner of the app, scans the QR code or selects received one from you from the photo gallery, enters your password — the chat is created! It’s a good practice to delete the password and QR code from the messages and the photo gallery after that.
+    Also we added a hint about the swipe actions — a vertical bar to the right of the chat name.
+Version 1.0.8 (Apr 29, 2020)
+
+Users may also like
+Select objects to compare
+SpiChat (Lite)
+Incognito Private Messenger
+Inside.me: Знакомства рядом
+Tukan Messenger
+Circles - Encrypted E2E VOIP +
+Знакомства
+WebChat All-in-one IM Browser
+DAOGRAM
+BeProg
+Найти друзей рядом - InParty
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    7.9.0
+    Current release
+    Feb 9, 2024
+    7.8.0
+    Feb 5, 2024
+    7.7.0
+    Jan 28, 2024
+    7.6.0
+    Jan 24, 2024
+    7.4.1
+    Dec 30, 2023
+    7.3.0
+    Dec 12, 2023
+    7.2.1
+    Nov 22, 2023
+    7.1.0
+    Nov 21, 2023
+    7.0.0
+    Nov 8, 2023
+    6.9.0
+    Nov 7, 2023
+    6.8.0
+    Nov 5, 2023
+    6.7.1
+    Nov 1, 2023
+    6.6.0
+    Oct 28, 2023
+    6.5.1
+    Oct 24, 2023
+    6.3.0
+    Oct 16, 2023
+    6.2.1
+    Sep 4, 2023
+    6.1.0
+    Sep 3, 2023
+    6.0.1
+    Aug 31, 2023
+    5.9.0
+    Aug 20, 2023
+    5.8.1
+    Aug 13, 2023
+    5.7.1
+    Aug 8, 2023
+    5.6.1
+    Jul 25, 2023
+    5.4.0
+    Jun 11, 2023
+    5.3.9
+    Jun 4, 2023
+    5.2.1
+    May 28, 2023
+    5.1.0
+    May 21, 2023
+    5.0.0
+    Apr 30, 2023
+    4.9.1
+    Apr 18, 2023
+    4.8.1
+    Apr 3, 2023
+    4.7.0
+    Feb 22, 2023
+    4.6.0
+    Feb 19, 2023
+    4.5.1
+    Feb 12, 2023
+    4.4.1
+    Feb 1, 2023
+    4.3.1
+    Jan 27, 2023
+    4.2.0
+    Jan 22, 2023
+    4.1.1
+    Jan 16, 2023
+    4.0.1
+    Jan 11, 2023
+    3.9.1
+    Jan 6, 2023
+    3.8.1
+    Jan 1, 2023
+    3.8.1
+    Jan 1, 2023
+    3.6.1
+    Dec 27, 2022
+    3.4.0
+    Dec 16, 2022
+    3.3.0
+    Oct 22, 2022
+    3.2.0
+    Oct 10, 2022
+    3.1.0
+    Sep 10, 2022
+    3.0.0
+    Jun 24, 2022
+    2.9.0
+    Jun 21, 2022
+    2.8.0
+    Nov 16, 2021
+    2.7.0
+    Oct 26, 2021
+    2.6.0
+    Oct 18, 2021
+    2.5.0
+    Oct 10, 2021
+    2.4.0
+    Sep 11, 2021
+    2.3.0
+    Sep 7, 2021
+    2.2.0
+    Aug 14, 2021
+    2.1.0
+    Jul 25, 2021
+    2.0.0
+    Jun 24, 2021
+    1.8.0
+    Dec 30, 2020
+    1.7.0
+    Dec 22, 2020
+    1.6.0
+    Dec 15, 2020
+    1.5.0
+    Nov 26, 2020
+    1.4.0
+    Nov 19, 2020
+    1.3.0
+    Nov 11, 2020
+    1.2.0
+    Sep 8, 2020
+    1.1.9
+    Aug 23, 2020
+    1.1.8
+    Aug 17, 2020
+    1.1.7
+    Jul 25, 2020
+    1.1.6
+    Jul 19, 2020
+    1.1.5
+    Jul 13, 2020
+    1.1.4
+    Jul 4, 2020
+    1.1.3
+    Jun 27, 2020
+    1.1.2
+    Jun 23, 2020
+    1.1.1
+    Jun 6, 2020
+    1.1.0
+    May 29, 2020
+    1.0.8
+    Apr 29, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, iPad
+
+Category
+    Social Networking
+
+Initial Release Date
+    Apr 28, 2020
+
+Worldwide Release Date
+    Apr 28, 2020
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    7.9.0
+
+Size
+    31.41 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, German, Polish, Russian, Spanish, Ukrainian
+
+Seller
+    Alexey Shevchenko
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    woof-family.Shtirlitz
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1359039336
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+SpyChat: Invisible Chat | data.ai

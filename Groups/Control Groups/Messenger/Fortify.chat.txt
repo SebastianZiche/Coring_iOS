@@ -1,0 +1,234 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Fortify.chat
+AavidSocial Networking (Applications)Free
+Alerts
+
+    Aavid
+
+    Fortify.chat
+    Fortify.chat
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Fortify.chat
+Social Networking (Applications)
+Free
+App Description
+Fortify is a comprehensive messaging system which incorporates many useful features such as:
+
+1 . Direct one-to-one and group messaging.
+2 . Integration with other collaboration/messaging Apps
+3 . Ability to upload commonly used file types (images, documents, audio and video).
+4 . Notifications.
+5 . User defined badges.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.2.10 (Jan 4, 2023)
+    New Features:
+    - Enabled deep linking
+
+    Bug Fixes:
+    - Fixed: when users forward a message, exit the application, then logs back in, it shows "messages failed to send" message in the forwarding destination.
+Version 1.2.9 (Oct 12, 2022)
+    - Hidden join/exit notifications from room
+Version 1.2.8 (Aug 27, 2022)
+    - Bug fixes
+    - Added user delete account feature
+Version 1.2.7 (Jun 10, 2022)
+    - Added the fortify landing page
+    - Added VOIP voice call
+    - Added Help option
+    - Fix for message forwarding issue
+    - UI issue fixes
+Version 1.2.6 (Apr 17, 2022)
+    - Fix for crash on iOS 14 device
+Version 1.2.5 (Mar 16, 2022)
+    - Landing pages are added
+    - Location sharing
+    - UI fixes
+Version 1.2.4 (Feb 18, 2022)
+    - UI Enhancements
+    - New features:
+(i) Invite friends
+(ii) Notification settings
+Version 1.2.3 (Feb 3, 2022)
+    - Revised URL
+Version 1.2 (Oct 14, 2021)
+    - UI Enhancement.
+    - Minor bug fixes.
+Version 1.1 (Sep 10, 2021)
+    - Addition of functionality to add contacts and initiate messaging with them.
+    - UI enhancements.
+    - Bug fixes.
+
+Users may also like
+Select objects to compare
+Fortify.Space
+Payrue Chat
+holvoxyell
+SiMP - Instant Messaging
+Pixsent
+TrillChat
+DimpleChat - Secure Messenger
+NACENE
+TradeZing
+Doot Messenger
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.2.10
+    Current release
+    Jan 4, 2023
+    1.2.9
+    Oct 12, 2022
+    1.2.8
+    Aug 27, 2022
+    1.2.7
+    Jun 10, 2022
+    1.2.6
+    Apr 17, 2022
+    1.2.5
+    Mar 16, 2022
+    1.2.4
+    Feb 18, 2022
+    1.2.3
+    Feb 3, 2022
+    1.2
+    Oct 14, 2021
+    1.1
+    Sep 10, 2021
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jun 2, 2021
+
+Worldwide Release Date
+    Jun 2, 2021
+
+Last Updated Time
+    Feb 25, 2024
+
+Version
+    1.2.10
+
+Size
+    172.93 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Español, Albanés, Alemán, Búlgaro, Cabilio, Catalán, Chino simplificado, Chino tradicional, Eslovaco, Esperanto, Estonio, Euskera, Francés, Galés, Húngaro, Indonesio, Inglés, Islandés, Italiano, Japonés, Neerlandés, Noruego bokmål, Polaco, Portugués, Ruso, Sueco, Vietnamita
+
+Seller
+    Aavid Knowledge Management Services Pvt. Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 12.1 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    com.aavidmanagement.fortify
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1561544553
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Fortify.chat | data.ai

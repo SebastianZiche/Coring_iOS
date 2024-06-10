@@ -1,0 +1,18 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.2.4,2024-02-14,1. Error correction
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.2.3,2024-01-30,Bug fixed.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.2.2,2024-01-25,1. Bug fix
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.2.0,2023-12-29,Full UI change!
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.2.1,2023-12-29,1. Bug fixed. 2. When players are minimized you can close them by swiping the title.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.1.7,2023-11-01,1. Video loading is faster. 2. Minor bugs have been fixed.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.1.6,2023-09-08,1. Minor bugs have been resolved!
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.1.5,2023-08-17,1. Minor UI changes have been made. 2. Skip time can be adjusted. 3. Minor bugs have been improved.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.1.4,2023-07-27,1. Supports 360p for low data environments that require 360p use. 2. Send great messages to your friends with the Cheer Up for Friends feature! 3. Added in app purchase to remove ads. 4. The advertisement start was changed from after the video ends to before it starts. 5. Minor bugs have been resolved.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.1.3,2023-05-23,1. We have resolved the issue of Geumyoung Karaoke search results not appearing! 2. The loading speed has become unique! 3. Additional minor issues have been resolved!
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.1.1,2023-05-08,1. NearByConnect enables reservation applause and cheering sounds between devices. 2. Improved loading speed 3. Added video and sound sync adjustment function 4. Fix other errors.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.1.0,2023-04-21,1. Some UI styles have been modified. 2. The popular chart function has been strengthened. 3. Added a function to show recently played videos. 4. Solved an issue where the remove button in the playlist s Swipe Action did not work properly.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.0.4,2023-04-16,1. Video can be transmitted according to the screen ratio of an external display! Now if you connect an external monitor you can reserve the next song when your friend sings.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.0.3,2023-04-15,1. Solved the iPhone mute button issue. 2. Solved an issue where the button was not immediately visible when opening the video on iPad.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.0.2,2023-04-13,1. Solved the issue where full screen ads appeared in every video. 2. Added score function.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.0.1,2023-04-10,1. Supports manual landscape mode. 2. Shows popular charts. 3. Fixed an issue where the sound would not stop when returning to the app. 4. Fixed the intermittent play button malfunction. 5. Solved the problem of video thumbnails not loading. 6. Other small errors have been corrected.
+6446870035,0,Neotube Karaoke,Entertainment,2023-04-09,2023-04-09,14.88,2,0,0,1,1.0,2023-04-09,

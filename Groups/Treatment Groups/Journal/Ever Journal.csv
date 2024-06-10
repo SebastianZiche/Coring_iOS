@@ -1,0 +1,8 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1623853314,0,Ever Journal,Lifestyle,2022-11-20,2022-11-20,51.09,2,0,0,1,1.6.0,2023-04-20,Added search feature. Added time machine to the past journal. Added time machine to the future. Fixed some known issues.
+1623853314,0,Ever Journal,Lifestyle,2022-11-20,2022-11-20,51.09,2,0,0,1,1.5.0,2023-03-26,Added Past Today feature. Added user data import and export functionality. Optimized display of picture descriptions. Fixed occasional slow loading issue on diary home page.
+1623853314,0,Ever Journal,Lifestyle,2022-11-20,2022-11-20,51.09,2,0,0,1,1.4.0,2023-01-29,Refined bio article cards UI Fix the problem that toolbar does not attach keyboard
+1623853314,0,Ever Journal,Lifestyle,2022-11-20,2022-11-20,51.09,2,0,0,1,1.3.0,2022-12-24,Optimized the diary large span date jumping experience Optimized image loading performance Optimized the experience of updating the published bio articles Fixed the issue of timestamp display of diary sharing Fixed the issue that Journal page occasionally does not retain its original position Fixed the problem that sliding keyboard emoji causes the keyboard to shrink
+1623853314,0,Ever Journal,Lifestyle,2022-11-20,2022-11-20,51.09,2,0,0,1,1.2.0,2022-12-14,Added journal timestamp feature. Added application lock. Added the dark mode switch option. Fixed some known problems.
+1623853314,0,Ever Journal,Lifestyle,2022-11-20,2022-11-20,51.09,2,0,0,1,1.1.0,2022-11-28,Now you can share your life stories to friends.
+1623853314,0,Ever Journal,Lifestyle,2022-11-20,2022-11-20,51.09,2,0,0,1,1.0.0,2022-11-20,

@@ -1,0 +1,61 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,6.5.2,2021-10-15,Provide more free content,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,6.5.1,2021-09-26,Adapt to iOS15,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,6.5,2021-06-06,Fixed crash when using photo frame feature,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,6.4,2021-06-04,Added cute template feature,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,6.3,2021-06-02,Light effects added,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,6.2,2021-05-31,Retro effect bug fixed,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,6.1.1,2021-05-26,Optimized filter effect,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,6.1,2021-05-19,New feature: retro texture Added 12 sets of filter effects Added countdown trigger function Optimized some details,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,6.0,2021-05-12,Fixed the issue of random movie crashing. New app name: Kuji I hope you like our update thank you,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.5.1,2021-04-26,Optimized the stuttering issue when adjusting the beauty effect,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.5,2021-04-08,Added Blur and Beauty effects Frame material added Optimized the image and video editing process,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.4.2,2020-12-20,Optimized filter effect Optimized timestamp effect,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.4.1,2020-11-05,Optimized retro material,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.4,2020-11-01,Optimized in app purchase,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.3.2,2020-10-25,Fixed the cropping error Optimized the particle effect,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.3.1,2020-10-21,Random film function adds new retro material,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.3,2020-10-20,Fixed the issue of video selection in iOS14 Added retro material,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.2.1,2020-10-02,Optimized the process of random film function,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.2,2020-10-01,Support iOS 14 New feature: random film Fixed the bug of editing photos when the screen is not locked,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.1.2,2020-09-20,Fixed the issue that photos could not be saved without location information,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.1.1,2020-09-11,Fixed the issue that photos could not be saved without obtaining location information,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.1,2020-09-07,Save pictures and videos to add location and time information,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.0.4,2020-08-17,Optimized in app purchase,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.0.3,2020-08-16,Optimized in app purchase,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.0.2,2019-11-14,Optimized for in app purchases,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.0.1,2019-11-12,Optimized image saving,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,5.0,2019-11-11,HD image quality export support,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.8.1,2019-11-07,Optimized HS function,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.8,2019-11-06,New feature: HS Support to adjust the hue and saturation of different photo colors. Fixed some bugs,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.7,2019-10-24,Optimized texture of particles and light leaks,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.6.3,2019-10-21,Change back to original name: PicsFilm Fixed a sharing app bug on iPad,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.6.2,2019-10-19,New updated border material,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.6,2019-10-17,We decided to change his name to Buty Added filter for girls and gourmet Supports black and white theme colors Fixed some bugs on iPad,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.5.3,2019-10-08,Resource Optimization,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.5.2,2019-10-04,Fixed in app purchase popup bug,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.5.1,2019-10-02,Fixed timestamp bug,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.5,2019-09-26,iOS13 support Fixed bug when selecting particle effect UI,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.4.2,2019-09-25,Fixed bug in iOS13 user preset sorting,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.4.1,2019-09-23,iOS13 support Fixed video editing error,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.4,2019-09-21,Video editing feature added,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.3,2019-09-05,UI optimization Remove ads Fix bug,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.2,2019-08-30,Optimized in app purchases,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.1,2019-08-28,Added 8mm camera,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,4.0,2019-08-26,Added default function Now you can save your editing effects and share them with friends Added 12 sets of retro filters,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,3.6,2019-08-08,Optimized image saving Optimized some filters Optimized some UI We will release major updates in the next version,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,3.4,2019-08-02,Optimized timestamp effect,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,3.3,2019-07-30,Optimized some adjustments and border effects,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,3.2,2019-07-27,Added retro effects to real time filters Optimized photo frame generation effect Fixed the bug of taking pictures in horizontal screen Brand new black style interaction design Please share pictures using the hashtag PicsFilm thank you!,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,3.1,2019-07-23,Change the name to:PicsFilm VHS camera supports retro filter effects New undo and restore operations for image editing Added 24 new groups of random particle effects Added 8 sets of retro filters Please share your photos using the hashtag PicsFilm thank you so much!,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,3.0,2019-07-19,Added VHS recorder,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,2.2,2019-07-15,Added clarity function,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,2.1.1,2019-07-10,Fixed layout bug Optimized the photo frame effect,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,2.1,2019-07-09,Film Take up to 4 photos at a time,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,2.0,2019-07-02,V2.0 major update: Support video recording Added 8 sets of retro filters,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,1.7,2019-06-29,Fix the problem of insensitive slider Optimized the real time filter scrolling effect,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,1.6,2019-06-26,Added exposure and focus adjustment functions Added function to view original pictures Added vibration feedback Fixed flash bug,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,1.5,2019-06-24,Added setting function Added retro effect Optimized the vignetting effect,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,1.3,2019-06-19,Fixed an error when taking photos in 1:1 ratio,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,1.2,2019-06-17,Localized language support,0,0,0,0,0,0,0,0
+1468247478,0,Kuji Cam Vintage Camera,Photo and Video,2019-06-14,2019-06-15,122.85,18,0,0,1,1.1,2019-06-15,renew: Fixed the bug of horizontal screen shooting Add startup image,0,0,0,0,0,0,0,0

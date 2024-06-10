@@ -1,0 +1,676 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Journal •
+Saturday Technologies, IncHealth and Fitness (Applications)Free
+Alerts
+
+    Saturday Technologies, Inc
+
+    Journal •
+    Journal •
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Journal •
+Secure Pin Private Note Diary
+Health and Fitness (Applications)
+Free
+iPhone Only
+App Description
+Turtle helps you keep a journal - you can write, draw, talk, record video, or take photos. It's completely private, giving you the space to comfortably express yourself.
+
+FEATURES
+
++ Write
+Rich text editor jam packed with formatting capabilities.
+
++ Draw
+Powerful sketchpad with precision mini-map so you can get the details just right.
+
++ Add Photos
+Enrich your journal with photos.
+
++ Shoot Videos
+Bring your journal to life by directly embedding videos.
+
++ Record Voice Notes
+Attach voice recordings to your journal entries.
+
+
+SOUNDSCAPES
+
+Peaceful sounds get you into a calm headspace while journaling.
+
+That's why Turtle comes with a soundscape builder.
+
+How does it work? Choose the sounds you like (e.g. birds chirping, a fire crackling, etc.), adjust the volumes, and you're ready to relax.
+
+
+MANY MORE FEATURES
+
+- Personalize reminders to keep the habit.
+- Lock journal with Face ID or passcode.
+- Use a custom pin to lock your journal if other people use your phone.
+- Journal templates and prompts to inspire you.
+- Beautiful journal covers.
+- Daily work count writing goal widget.
+- Vine-like video camera.
+- Search your entire journal blazingly fast
+- and more+
+
+---
+
+A clear mind can help us calmly navigate through the chaos of life. But to achieve a clear mind, we need to sort out our thoughts. It can be difficult task, so that's why we built Turtle.
+
+---
+
+BENEFITS OF JOURNALING
+
+Journaling works because it helps you organize your thoughts, realize what's important, and clear your mind of junk. This makes decision-making and progress easier.
+
+However, maintaining a journaling habit can be challenging at times. You may not feel like writing or exploring a certain topic, or you may simply forget to check-in. That's where Turtle comes in as your superpower. It goes beyond traditional writing to offer drawing, voice recordings, and the ability to add photos and videos. You can also play peaceful sounds to create a calming atmosphere and set personalized reminders to ensure journaling becomes a lifelong habit.
+
+Sometimes our thoughts make it harder to reach our true potential. Fear and worrying can keep us safe from real danger, but it can also stop us from doing amazing things. Imagine a world where Michelangelo let a fear of heights stop him from painting; or imagine if 12 year old Justin Bieber let a fear of public singing stop him from making music. This world would be a lot less lively and fun. We believe everyone can make the world a better place in their own unique way, and the first step is to make sure nothing holds you back. That's why you should journal.
+
+---
+
+PRIVACY
+
+Turtle's private journaling experience acts as a sanctuary for the mind. As a result, we do not store your journals on a remote server. Instead, everything is kept on your device and only accessible by you. Uou can also add a passcode or biometric lock to restrict app access on your device.
+
+PREMIUM:
+
+While Turtle is available download and use for free, some features require a subscription. Please see in-app for further information.
+
+Privacy Policy: https://www.saturdaytechnologies.com/privacy
+Terms of Use: https://www.saturdaytechnologies.com/terms
+Ratings
+Displayed Avg Ratings
+4.61
+Total Displayed Ratings
+61
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.30 (Jan 29, 2024)
+    * Search your journal
+    * Use a custom pin instead of your phone's passcode
+    * Bug fixes and improvements
+Version 3.23 (Jan 23, 2024)
+    * Important bug fixes
+Version 3.22 (Jan 13, 2024)
+    Important bug fixes
+Version 3.21 (Nov 30, 2023)
+    Turtle 3.2 is jam-packed with a ton of improvements
+
+    - Added option in settings to increase the base font size.
+
+    - The text-cutoff issue has been fixed.
+
+    - An issue with bold and italic characters has been fixed.
+
+    - Fixed issues with nature sounds.
+
+    - Improved performance and responsiveness of app.
+
+    Happy journaling!
+Version 3.2 (Nov 28, 2023)
+    Turtle 3.2 is jam-packed with a ton of improvements.
+
+    - Added option in settings to increase the base font size.
+    - The text-cutoff issue has been fixed.
+    - An issue with bold and italic characters has been fixed.
+    - Fixed issues with nature sounds.
+    - Improved performance and responsiveness of app.
+
+    Happy journaling!
+Version 3.01 (Aug 25, 2023)
+    NEW — Sketchpad & Soundscapes
+
+    - Sketchpad: draw or paint your heart's desires right inside your journal, along with your existing text, photos, videos, and voice notes.
+
+    - Soundscapes: play relaxing background music—bird chirping, raindrops, fire crackling and more—to get into the right headspace while journaling.
+
+    - Many improvements throughout, including performance upgrades and design tweaks.
+
+    - Many bug fixes, including bugs in the widget.
+
+    - More template options.
+Version 2.92 (Apr 20, 2023)
+    NEW – Important updates to keep your journalling experience top-notch.
+
+    - App lock is now free for all users.
+    - Bug fixes and improvements.
+
+Version 2.91 (Aug 29, 2022)
+    - Bug fixes and improvements
+Version 2.90 (Aug 3, 2022)
+    - Fixed bug that caused misalignment of text and attachments.
+    - Imported photos are no longer cropped.
+    - Choose between system and rounded fonts.
+Version 2.85 (Mar 23, 2022)
+    - Option to hide writing goal from home page
+    - Bug fixes and improvements
+Version 2.80 (Jan 3, 2022)
+    New: GOALS, WIDGETS, iMESSAGE, iOS 15
+
+    Writing goals:
+    • Set a daily writing goal (for example, 100 words/day).
+    • The app automatically updates your word count.
+
+    Widgets:
+    • Choose from two beautiful widgets that show your goal progression.
+
+    iMessage:
+    • Send journaling prompts with friends.
+    • Share the joy of keeping a journal.
+    • Have deeper conversations.
+
+    Other:
+    • Bug fixes
+    • Updates iOS 15
+Version 2.70 (Dec 8, 2021)
+    • Prevent time-out when recording audio or video entries.
+    • Bug fixes and improvements.
+Version 2.63 (Oct 17, 2021)
+    Bug fixes and improvements.
+Version 2.62 (Oct 11, 2021)
+    New: GOALS, WIDGETS, iMESSAGE, iOS 15
+
+    Writing goals:
+    • Set a daily writing goal (for example, 100 words/day).
+    • The app automatically updates your word count.
+
+    Widgets:
+    • Choose from two beautiful widgets that show your goal progression.
+
+    iMessage:
+    • Send journaling prompts with friends.
+    • Share the joy of keeping a journal.
+    • Have deeper conversations.
+
+    Other:
+    • Bug fixes
+    • Updates iOS 15
+Version 2.61 (Sep 24, 2021)
+    New: GOALS, WIDGETS, iMESSAGE, iOS 15
+
+    Writing goals:
+    • Set a daily writing goal (for example, 100 words/day).
+    • The app automatically updates your word count.
+
+    Widgets:
+    • Choose from two beautiful widgets that show your goal progression.
+
+    iMessage:
+    • Send journaling prompts with friends.
+    • Share the joy of keeping a journal.
+    • Have deeper conversations.
+
+    Other:
+    • Bug fixes
+    • Updates iOS 15
+Version 2.60 (Sep 20, 2021)
+    This update is shy, but it likes you. Look at the things it's adding to the app:
+
+    • Family Sharing is now supported when you upgrade. This enables you to share your Turtle Premium subscription with up to 6 family members
+    • Bug fixes and improvements
+    • Performance enhancements
+
+    “Journal writing gives us insights into who we are, who we were, and who we can become.”
+    – Sandra Marinella
+Version 2.51 (Aug 29, 2021)
+    Have you been working out? You look good.
+
+    Here's what's new in Turtle:
+
+    • Bug fixes and improvements
+    • Performance enhancements
+
+    “Journal writing is a voyage to the interior.”
+    ― Christina Baldwin
+Version 2.50 (Aug 26, 2021)
+    Your hair looks great.
+
+    Here's what's new in Turtle:
+
+    • Preview notifications before scheduling them.
+    • Bug fixes and improvements
+
+    "Write hard and clear about what hurts."
+    - Ernest Hemingway
+Version 2.4 (Aug 19, 2021)
+    Hey, this update thinks you smell nice.
+
+    • Templates & prompts to get your juices flowing
+    • Live chat support
+    • Design enhancements
+    • Bug fixes and improvements
+
+    “Keeping a journal of what’s going on in your life is a good way to help you distill what’s important and what’s not.”
+    – Martina Navratilova
+Version 2.03 (Aug 8, 2021)
+    Hey, this update loves you.
+
+    It contains bug fixes, improvements, and minor design enhancements.
+
+    "Keep a diary, and someday it'll keep you."
+    - Mae West
+Version 2.02 (Aug 4, 2021)
+    Hi everyone, this update contains bug fixes and improvements.
+
+    “Journal writing gives us insights into who we are, who we were, and who we can become.” – Sandra Marinella
+Version 2.01 (Jul 30, 2021)
+    We fixed bugs and added improvements to your best friend: Turtle! If only we could fix bugs in our human friends...
+
+    Enjoy!
+
+    ---
+
+    Previous Update
+
+    *** Introducing Turtle v2 ***
+
+    This new version blends breathtaking design and technical sophistication to provide you with a powerful journaling experience.
+
+    New Notepad
+    --------------
+    The redesigned notepad enables you to express yourself with words, photos, videos, and audio.
+
+    • Format color, highlight, font-weight & size.
+    • Insert photos, videos, & audio directly into the text editor.
+    • Delete media with a simple backspace.
+    • Your work is automatically saved while you edit.
+
+    Journal Covers
+    ---------------
+    • Add wallpaper to personalize your journal.
+    • Choose from dozens of beautiful preset options.
+    • Import photos from your device.
+
+    App-wide Lock
+    ---------------
+    You spoke, we listened. Instead of locking individual journals, you can now lock the entire app using FaceID, TouchID, or passcode.
+
+    Shortcuts
+    ---------------
+    Press and hold the app icon to jump right into the notepad.
+
+    More
+    ----------------
+    • The app has a fresh, new look throughout.
+    • New app icon; plus new alternate options.
+    • View all your drafts in a list.
+    • Performance improvements and bug fixes.
+
+Version 2.0 (Jul 27, 2021)
+    *** Introducing Turtle v2 ***
+
+    This new version blends breathtaking design and technical sophistication to provide you with a powerful journaling experience.
+
+    New Notepad
+    --------------
+
+    The redesigned notepad enables you to express yourself with words, photos, videos, and audio.
+
+    • Format color, highlight, font-weight & size.
+    • Insert photos, videos, & audio directly into the text editor.
+    • Delete media with a simple backspace.
+    • Your work is automatically saved while you edit.
+
+    Journal Covers
+    ---------------
+
+    • Add wallpaper to personalize your journal.
+    • Choose from dozens of beautiful preset options.
+    • Import photos from your device.
+
+    App-wide Lock
+    ---------------
+
+    You spoke, we listened. Instead of locking individual journals, you can now lock the entire app using FaceID, TouchID, or passcode.
+
+    Shortcuts
+    ---------------
+    Press and hold the app icon to jump right into the notepad.
+
+    More
+    ----------------
+    • The app has a fresh, new look throughout.
+    • New app icon; plus new alternate options.
+    • View all your drafts in a list.
+    • Performance improvements and bug fixes.
+
+    Until next time!
+Version 1.7 (Jul 7, 2021)
+    Hi everyone, this update contains some tweaks and bug fixes. Enjoy!
+
+    === Previous updates ===
+
+    1.5
+
+    - Rich Text Editor: customize font size, weight, indent, alignment, color, and more!
+    - Minor design enhancements.
+    - Bug fixes and improvements.
+
+    1.4
+
+    - View journal entry characters, words, and timestamps.
+    - Add your name in settings and get a personalized greeting throughout the day.
+    - Minor design changes.
+    - Bug fixes and general improvements.
+
+    1.3
+
+    - Schedule journal reminders.
+    - Sort entries chronologically or in reverse.
+    - Press and hold notes to edit them.
+    - Turtle periodically auto-saves as you type.
+    - Turtle adapts to your system preference (light or dark).
+    - Turtle is redesigned throughout.
+    - Performance improvements and bug fixes.
+Version 1.6 (Jul 2, 2021)
+    Hi folks, we have an awesome for you this week!
+
+    - Rich Text Editor: customize font size, weight, indent, alignment, color, and more!
+    - Minor design enhancements.
+    - Bug fixes and improvements.
+
+    === Previous updates ===
+
+    1.4
+
+    - View journal entry characters, words, and timestamps.
+    - Add your name in settings and get a personalized greeting throughout the day.
+    - Minor design changes.
+    - Bug fixes and general improvements.
+
+    1.3
+
+    - Schedule journal reminders.
+    - Sort entries chronologically or in reverse.
+    - Press and hold notes to edit them.
+    - Turtle periodically auto-saves as you type.
+    - Turtle adapts to your system preference (light or dark).
+    - Turtle is redesigned throughout.
+    - Performance improvements and bug fixes.
+Version 1.5 (Jun 29, 2021)
+    Hi folks, we have an awesome for you this week!
+
+    - Rich Text Editor: customize font size, weight, indent, alignment, color, and more!
+    - Minor design enhancements.
+    - Bug fixes and improvements.
+
+    === Previous updates ===
+
+    1.4
+
+    - View journal entry characters, words, and timestamps.
+    - Add your name in settings and get a personalized greeting throughout the day.
+    - Minor design changes.
+    - Bug fixes and general improvements.
+
+    1.3
+
+    - Schedule journal reminders.
+    - Sort entries chronologically or in reverse.
+    - Press and hold notes to edit them.
+    - Turtle periodically auto-saves as you type.
+    - Turtle adapts to your system preference (light or dark).
+    - Turtle is redesigned throughout.
+    - Performance improvements and bug fixes.
+Version 1.4 (Jun 23, 2021)
+    Hey, everyone! This week, Turtle gets improvements and a couple of neat features.
+
+    - View journal entry characters, words, and timestamps.
+    - Add your name in settings and get a personalized greeting throughout the day.
+    - Minor design changes.
+    - Bug fixes and general improvements.
+
+    === Previous update ===
+
+    Jun 13, 2021
+
+    - Schedule journal reminders.
+    - Sort entries chronologically or in reverse.
+    - Press and hold notes to edit them.
+    - Turtle periodically auto-saves as you type.
+    - Turtle adapts to your system preference (light or dark).
+    - Turtle is redesigned throughout.
+    - Performance improvements and bug fixes.
+Version 1.3 (Jun 13, 2021)
+    Hi, Turtle fam! We have some exciting updates to share with you:
+
+    - Schedule journal reminders.
+    - Sort entries chronologically or in reverse.
+    - Press and hold notes to edit them.
+    - Turtle periodically auto-saves as you type.
+    - Turtle adapts to your system preference (light or dark).
+    - Turtle is redesigned throughout.
+    - Performance improvements and bug fixes.
+
+Users may also like
+Select objects to compare
+Journify - Audio Journal
+Within: Speak, Affirm, Share
+DayNote • Guided Journaling
+Thinkable Mental Wellness
+Journal - Diary & Mood Tracker
+KnownWell - AI Journal & Diary
+Poz Journal
+Eclipse Meditations
+Daily Journal: CBT Self Care
+The Good List: Guided Journal
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.30
+    Current release
+    Jan 29, 2024
+    3.23
+    Jan 23, 2024
+    3.22
+    Jan 13, 2024
+    3.21
+    Nov 30, 2023
+    3.2
+    Nov 28, 2023
+    3.01
+    Aug 25, 2023
+    2.92
+    Apr 20, 2023
+    2.91
+    Aug 29, 2022
+    2.90
+    Aug 3, 2022
+    2.85
+    Mar 23, 2022
+    2.80
+    Jan 3, 2022
+    2.70
+    Dec 8, 2021
+    2.63
+    Oct 17, 2021
+    2.62
+    Oct 11, 2021
+    2.61
+    Sep 24, 2021
+    2.60
+    Sep 20, 2021
+    2.51
+    Aug 29, 2021
+    2.50
+    Aug 26, 2021
+    2.4
+    Aug 19, 2021
+    2.03
+    Aug 8, 2021
+    2.02
+    Aug 4, 2021
+    2.01
+    Jul 30, 2021
+    2.0
+    Jul 27, 2021
+    1.7
+    Jul 7, 2021
+    1.6
+    Jul 2, 2021
+    1.5
+    Jun 29, 2021
+    1.4
+    Jun 23, 2021
+    1.3
+    Jun 13, 2021
+
+See More
+Top In-App Purchases
+
+    Annual
+    $47.99
+    Annual
+    $38.99
+    Annual
+    $38.99
+    Weekly
+    $1.99
+    Monthly - Turtle Premium
+    $4.99
+    Annual - Turtle Premium
+    $23.99
+    Lifetime - Turtle Premium
+    $59.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    Jun 3, 2021
+
+Worldwide Release Date
+    Jun 3, 2021
+
+Last Updated Time
+    Feb 18, 2024
+
+Version
+    3.30
+
+Size
+    25.44 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Saturday Technologies Incorporated
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.thesaturdayapp.journal
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    Yes
+
+App Privacy Policy Url
+
+App ID: 1569737377
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Journal • | data.ai
+				
+				
+				
+				
+				
+	

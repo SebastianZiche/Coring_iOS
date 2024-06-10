@@ -1,0 +1,31 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.7.1,2023-07-13,You can now see what notebook your note lives in while browsing tags.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.7,2023-06-27,Notejoy for iOS now supports adding all editor styles available on desktop including documents color highlight block quotes code blocks dividers and videos.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.6,2023-06-15,Notejoy now offers an auto complete as you type tags in the editor You can now easily rename move or delete notebooks,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.5.2,2023-06-13,Bug fixes,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.5.1,2023-06-11,Bug fixes.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.5,2023-06-08,Fixes notes occasionally not loading.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.4,2023-06-07,Fixes notes occasionally not loading.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.3,2023-06-02,Easily move bullets lists and tasks up down Create note links by typing Mention everyone in comments Login with Microsoft,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.2,2023-05-25,Adds the ability to easily clear a search.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,3.0,2023-05-13,Updated app design and improved look on latest iPhones.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.11,2021-04-22,This update fixes a crash that would occasionally occur when loading the app.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.10,2021-04-10,You can now purchase Notejoy Solo our premium subscription which adds unlimited notebooks personal libraries additional storage password protected notes and so much more.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.8.1,2021-02-04,Added support for emoji in library and notebook names.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.8,2021-01-11,Added support for emoji in library and notebook names.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.7,2020-12-29,Added support for font colors.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.6,2020-12-20,We ve redesigned Notejoy s logo!,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.4,2020-11-26,This release adds support for import notifications and showing your default notebook on load if you hide the Recent view.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.3,2020-11-03,This release includes a few bug fixes including improving the editor in older versions of iOS.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.2,2020-10-31,You can now send notes via email. And we ve improved the layout on iPhone 12.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.1,2020-10-28,Notejoy now supports dark mode!,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,2.0,2020-10-20,This release is packed with new features performance improvements and bug fixes including: You can now take a photo directly from a note Loading the app scrolling through note lists and navigating the sidebar are all now faster than ever We ve brought a ton of our recent desktop releases to mobile including nested notebooks nested tags and hiding sidebar items libraries and tags We fixed a bug that made it difficult to upload an image from your camera roll into a note We improved the cursor position when you tap into edit a note When you click on a Notejoy marketing page link it ll now open in your browser instead of the Notejoy app,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,1.8,2020-03-15,Made it easier to share feedback with the Notejoy team.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,1.7,2019-08-19,Adds support for two factor authentication.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,1.6,2019-06-13,Improved support for iPhone XR and iPhone Xs Max devices.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,1.5,2019-01-28,Adds support for password protected notes.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,1.4,2018-11-20,This release brings tags collapsible libraries and archived notebooks and libraries to the iOS app!,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,1.3,2018-09-03,We re back with a ton of great updates including: Create team libraries notebooks directly from the app s sidebar Indent un indent bullets lists and checklists with new styling bar actions Access help and share feedback from the sidebar user menu,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,1.2,2018-08-15,You can now view uploaded Microsoft Word Excel Powerpoint Google Doc Sheet Slide PDF Audio and Video files right from the iOS app.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,1.1,2018-01-17,Added iPhone X support to make Notejoy look beautiful on the device. Also simplified sign up and added a forgot password option.,0,0,0,0,0,0,0,0
+1158616846,0,Notejoy,Productivity,2017-12-13,2017-12-13,16.65,1,0,0,1,1.0,2017-12-13,,0,0,0,0,0,0,0,0

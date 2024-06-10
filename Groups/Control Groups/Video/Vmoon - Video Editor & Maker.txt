@@ -1,0 +1,474 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Vmoon - Video Editor & Maker
+Sujuan ChenPhoto and Video (Applications)Free
+Alerts
+
+    Vmoon - Video Editor & Maker
+    Vmoon - Video Editor & Maker
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Vmoon - Video Editor & Maker
+Crop,Merge,Combine..Videos
+Photo and Video (Applications)
+Free
+App Description
+Vmoon is a powerful and user-friendly video editing app that is watermark-free and packed with features to meet all your video editing needs on your smartphone!
+
+Vmoon offers a robust and diverse set of video editing tools that allow you to effortlessly bring your creative ideas to life. With its modular design, Vmoon caters to both beginners and professional editors, delivering an outstanding video editing experience. Its intuitive interface and simple operation make it easy for you to get started and create stunning video works with just a few simple steps.
+
+【Features】
+- Video merging: Combine multiple videos into one, with a wide range of transition effects to choose from. Supports mixing videos and images.
+- Video collage: Create video collages by combining multiple videos in a grid layout. You have full control over the playback time and order of each video. Supports mixing videos and images.
+- Text videos: Create popular text-only videos.
+- Image videos: Combine multiple images into a video.
+- Subtitles: Add subtitles to your videos, with a variety of font styles to choose from.
+- Stickers: Add stickers to your videos.
+- Background music: Add multiple music tracks to your videos, with the flexibility to choose specific time intervals. Supports fade-in and fade-out effects.
+- Trimming: Trim videos to retain any desired portion.
+- Speed adjustment: Modify the playback speed of the entire video or specific sections.
+- Filters: Choose from a wide range of beautifully built-in filters; create unique custom filters.
+- Reverse playback.
+- Screen recording: Supports settings for resolution, frame rate, bitrate, and more.
+- Rotation: Freely rotate videos 360 degrees.
+- Cover image: Set a cover image for your videos.
+- Video compression: Compress videos to specified bitrates, frame rates, and resolutions to save storage space.
+- Mosaic: Add mosaic effects at any position and time in the video.
+- Aspect ratio: Adjust the video's aspect ratio to meet different size requirements.
+- Live Photo: Export videos as Live Photos, which can be used as dynamic wallpapers.
+- Export as GIF or PNG.
+- Supports exporting high-definition resolutions such as 1080p and 4K.
+- Supports exporting videos with a high frame rate of 60FPS.
+
+【Contact us】
+Gmail: chentom417@gmail.com
+Your suggestion is very important to me, you can contact me using the feedback in the app.
+
+Automatic renewal statement:
+1. Payment: "Continuous monthly / year" products are auto-renewable products. After confirming the purchase, you will be charged from your Apple iTunes account;
+2. Renewal: 24 hours before the expiration of your subscription period, Apple will automatically deduct the charge from your ITunes account, and the validity period of "Remove ads" will be automatically extended after success;
+3. If you need to cancel the automatic renewal, please turn off the automatic renewal manually in the Apple ID account settings at least 24 hours before the subscription period expires. No charge will be made after closing.
+
+Terms of Service:
+http://common.iuuapp.com/terms_service_env1_vmoon.html
+
+Privacy Policy:
+http://common.iuuapp.com/privacypolicyv1_vmoon.html
+Ratings
+Displayed Avg Ratings
+4.79
+Total Displayed Ratings
+25.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.8.21 (Jun 1, 2023)
+    Fixed known issues and improved stability
+Version 1.8.20 (Mar 1, 2023)
+    Fixed known issues and improved stability
+Version 1.8.19 (Jan 10, 2023)
+    Fixed known issues and optimized the experience
+Version 1.8.17 (Jan 18, 2022)
+    Fixed known issues and optimized the experience
+Version 1.8.17 (Jan 18, 2022)
+    Fixed known issues and optimized the experience
+Version 1.8.16 (Nov 27, 2021)
+    Fixed known issues;
+    Enhance the stability of APP
+Version 1.8.15 (Oct 13, 2021)
+    Suggestions for video processing failure;
+    Fixed other known issues;
+Version 1.8.13 (Jul 27, 2021)
+    Aggravated the effect of the mosaic;
+    Fixed other known issues;
+Version 1.8.12 (May 15, 2021)
+    Fixed the issue that some feature may be black screen;
+    Now, Mosaic can add keyframes;
+Version 1.8.10 (Apr 23, 2021)
+    Fix the issue that black screen may appear in Clip, Gif, Live Photo etc.
+Version 1.8.09 (Mar 31, 2021)
+    Fixed the issue that the screen recording may not be saved;
+    Now you can use the feedback in the APP to submit your questions;
+Version 1.8.08 (Mar 12, 2021)
+    Fixed the issue that possible misalignment of features such as Clip and GIF in iOS14;
+    Fixed the issue that iOS13+ connot select fonts installed by other apps;
+Version 1.8.06 (Mar 9, 2021)
+    Fixed the issue black borders may appear;
+    Fixed known issues;
+Version 1.8.05 (Sep 19, 2020)
+    Optimized for iOS14;
+    Fixed the issue that Splice video may crash;
+Version 1.8.03 (Aug 14, 2020)
+    Fixed the issue that text video is not available;
+    Optimized the accuracy of text recognition;
+Version 1.8.01 (Jul 22, 2020)
+    New: Curve change speed;
+    Fixed the issue of abnormal resolution of iPad screen recording;
+    Fixed other known issues;
+Version 1.7.9 (Jul 8, 2020)
+    New: Screen recording (iOS12+).
+    Fixed: Splice feature may failure.
+Version 1.7.8 (Jul 2, 2020)
+    Transition animation can be apply to all.
+    Fixed Reverse/Livephoto may crash.
+Version 1.7.6 (Jun 26, 2020)
+    Fix the problem that Crop and Clip may fail;
+Version 1.7.4 (Jun 24, 2020)
+    New:
+    Advanced transition
+    Download and install fonts;
+    Import audio from pasteboard;
+
+    Fixed known issues and enhanced stability;
+Version 1.7.3 (May 13, 2020)
+    Added picture-in-picture mode for collage.
+
+    Fix known issues.
+Version 1.7.2 (Apr 8, 2020)
+    New features:
+    Video compression
+    Video export pictures;
+
+    Optimize performance to make your experience smoother;
+Version 1.7.1 (Feb 19, 2020)
+    Fixed some bugs
+Version 1.7.0 (Jan 11, 2020)
+    1. Adapted to iPad;
+    2. Optimize subtitle editing and support automatic subtitle recognition;
+    There are other optimizations ...
+Version 1.6.2 (Oct 31, 2019)
+    Text/sticker:Fix an issue where the input text may be invalid
+Version 1.6.1 (Oct 12, 2019)
+    Fixed issue:
+    1. Exported video may be a black screen problem.
+    2. Album sorting and photo.app inconsistency issues.
+
+    New:
+    Select system fonts, including user-installed fonts (iOS13+).
+Version 1.6.0 (Sep 23, 2019)
+    Hi, iOS 13! dark mode is coming.
+
+    New:
+    1. Stickers
+    2. Background sound cycle
+    3. More text and sticker animation
+    4.60 FPS High Frame Rate
+
+    Optimization:
+    1. Fix the problem of ineffective GIF clipping
+    2. Some operations add tactile feedback to enhance user experience
+Version 1.5.7 (Aug 27, 2019)
+    Optimize and add some transitions;
+    Optimize Merge and Collage;
+Version 1.5.6 (Aug 1, 2019)
+    Optimize the experience and fix bugs
+Version 1.5.5 (Jul 13, 2019)
+    Fix bugs where rotation may be misaligned;
+    Optimize subtitle editing;
+    Add viewing video and image information;
+Version 1.5.4 (Jun 24, 2019)
+    Isn't the color enough? Customization is now supported.
+    Subtitle support sets the background color.
+    Optimize the experience and fix some bugs.
+Version 1.5.3 (May 28, 2019)
+    Fixed some bugs and optimize the experience
+Version 1.5.2 (May 10, 2019)
+    Customize the aspect ratio, and you create videos of any size;
+    Add 2 slice transitions;
+    Optimize the experience & Fixed some bugs;
+Version 1.5.0 (May 1, 2019)
+    New:
+    · Cover: Change the video cover
+    · Rotate: 360° free rotation video
+    · Crop: crop the area that the video needs to display
+
+    Update:
+    · Splice
+    1、Add multiple transitions
+    2、support picture and video mixed splice
+    3、the picture supports 6 kinds of animation effects and duration settings
+    4、the maximum support for 50 fragments
+    · Background sound
+    Support for recording audio in real time
+    · Livephoto
+    Support for selecting album image settings as cover
+Version 1.4.5 (Apr 16, 2019)
+    Optimize experience;
+    Fixed some bugs;
+Version 1.4 (Apr 11, 2019)
+    New:
+    Picture transition;
+    Custom filter;
+    Font import;
+    Language switching;
+
+    Optimization:
+    Extend the length limit of Gif and Livephoto;
+Version 1.3 (Mar 22, 2019)
+    Image video: Generate video with multiple images.
+    Collage can choose video or picture.
+Version 1.2.5 (Mar 17, 2019)
+    [New]
+    Partial speed: You can modify the playback speed in any time range.
+    History: After compositing, the video is automatically saved as a history for continued editing or saving to an album.
+Version 1.2 (Mar 9, 2019)
+    New:
+    Mosaic, which can control the display time and position of the mosaic at will;
+    Import audio from File;
+
+    Optimization:
+    Redesigned the interaction of the captioning function;
+    Livephoto cover may not be a problem of choice;
+    Other problems that may cause crash;
+Version 1.1 (Feb 22, 2019)
+    1. Fix the bug that local audio import may crash
+    2. Optimize the experience
+Version 1.0 (Jan 25, 2019)
+
+Users may also like
+Select objects to compare
+一闪 - Vlog & Video Editing
+视频剪辑 - 视频剪裁 & 视频拼接神器
+video maker-mp3 collage editor
+Live Converter - Live to Gif
+短视频制作-小视频编辑制作器
+Video Editor - Movie Maker
+简影-Video Editor
+GIF制作格式转换器-斗图gif表情包制作神器
+Video production
+Live Photo格式转换器-动态照片转换软件
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.8.21
+    Current release
+    Jun 1, 2023
+    1.8.20
+    Mar 1, 2023
+    1.8.19
+    Jan 10, 2023
+    1.8.17
+    Jan 18, 2022
+    1.8.17
+    Jan 18, 2022
+    1.8.16
+    Nov 27, 2021
+    1.8.15
+    Oct 13, 2021
+    1.8.13
+    Jul 27, 2021
+    1.8.12
+    May 15, 2021
+    1.8.10
+    Apr 23, 2021
+    1.8.09
+    Mar 31, 2021
+    1.8.08
+    Mar 12, 2021
+    1.8.06
+    Mar 9, 2021
+    1.8.05
+    Sep 19, 2020
+    1.8.03
+    Aug 14, 2020
+    1.8.01
+    Jul 22, 2020
+    1.7.9
+    Jul 8, 2020
+    1.7.8
+    Jul 2, 2020
+    1.7.6
+    Jun 26, 2020
+    1.7.4
+    Jun 24, 2020
+    1.7.3
+    May 13, 2020
+    1.7.2
+    Apr 8, 2020
+    1.7.1
+    Feb 19, 2020
+    1.7.0
+    Jan 11, 2020
+    1.6.2
+    Oct 31, 2019
+    1.6.1
+    Oct 12, 2019
+    1.6.0
+    Sep 23, 2019
+    1.5.7
+    Aug 27, 2019
+    1.5.6
+    Aug 1, 2019
+    1.5.5
+    Jul 13, 2019
+    1.5.4
+    Jun 24, 2019
+    1.5.3
+    May 28, 2019
+    1.5.2
+    May 10, 2019
+    1.5.0
+    May 1, 2019
+    1.4.5
+    Apr 16, 2019
+    1.4
+    Apr 11, 2019
+    1.3
+    Mar 22, 2019
+    1.2.5
+    Mar 17, 2019
+    1.2
+    Mar 9, 2019
+    1.1
+    Feb 22, 2019
+    1.0
+    Jan 25, 2019
+
+See More
+Top In-App Purchases
+
+    Remove ads - per year
+    $10.99
+    Remove ads - per month
+    $2.99
+    Remove ads
+    $32.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jan 25, 2019
+
+Worldwide Release Date
+    Jan 26, 2019
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    1.8.21
+
+Size
+    74.35 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Malay, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Turkish, Vietnamese
+
+Seller
+    苏娟 陈
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.csj.video
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1450135969
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Vmoon - Video Editor & Maker | data.ai

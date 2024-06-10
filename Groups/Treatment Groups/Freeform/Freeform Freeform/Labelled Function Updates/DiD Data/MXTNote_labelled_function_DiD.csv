@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1518415738,0,MXTNote,Productivity,2020-12-07,2020-12-07,140.26,1,0,0,0,3,2,1,0,0,0,0,0,0,0,month_1,1,0,582,687.0
+1518415738,0,MXTNote,Productivity,2020-12-07,2020-12-07,140.26,1,0,0,0,4,2,0,1,0,0,0,0,0,0,month_2,1,0,612,687.0
+1518415738,0,MXTNote,Productivity,2020-12-07,2020-12-07,140.26,1,0,0,0,2,2,0,0,1,0,0,0,0,0,month_3,1,0,642,687.0
+1518415738,0,MXTNote,Productivity,2020-12-07,2020-12-07,140.26,1,0,0,0,1,0,0,0,0,1,0,0,0,0,month_4,1,0,672,687.0
+1518415738,0,MXTNote,Productivity,2020-12-07,2020-12-07,140.26,1,0,0,0,2,2,0,0,0,0,1,0,0,0,month_5,1,1,702,687.0
+1518415738,0,MXTNote,Productivity,2020-12-07,2020-12-07,140.26,1,0,0,0,0,0,0,0,0,0,0,1,0,0,month_6,1,1,732,687.0
+1518415738,0,MXTNote,Productivity,2020-12-07,2020-12-07,140.26,1,0,0,0,2,1,0,0,0,0,0,0,1,0,month_7,1,1,762,687.0
+1518415738,0,MXTNote,Productivity,2020-12-07,2020-12-07,140.26,1,0,0,0,4,0,0,0,0,0,0,0,0,1,month_8,1,1,792,687.0

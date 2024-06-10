@@ -1,0 +1,1066 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+VideoLUT
+Katerina AlieksieienkoPhoto and Video (Applications)Free
+Alerts
+
+    VideoLUT
+    VideoLUT
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+VideoLUT
+Color Grading - Videos & Photo
+Photo and Video (Applications)
+Free
+iPhone Only
+App Description
+Transform your videos and images into cinematic masterpieces with VideoLUT, the ultimate color-grading app! With over 2500 presets, you can easily import, edit, and apply LUTs to create stunning videos and photos. Plus, VideoLUT allows you to record videos and take photos with your imported LUTs, giving you the ultimate creative control.
+
+Whether you're a professional filmmaker or a casual iPhone photographer, VideoLUT is the perfect app for you. It comes with powerful editing tools that allow you to color grade your videos and images with ease. You can even create your own LUTs and share them with other users via QR codes or apps like Lumafusion.
+
+VideoLUT supports a variety of LUT formats, including DaVinci Resolve 3D Cube LUT (.cube) and Autodesk 3D LUT (.3dl). You can import .cube, .3dl, and 512x512 .png LUT tables, and save or import cube files to iCloud, Dropbox, and other storage apps.
+
+But that's not all – VideoLUT also lets you visualize LUTs in 3D, export them as LUT images (.png), and share them as .cube 16, 32, or 33 (DaVinci Resolve 3D Cube LUT) with other apps or your desktop. You can also match colors from images and build new LUTs from the result, and use RGB, HSL, CMYK, LAB, and Skin Masks and Curves for added control.
+
+With VideoLUT's auto white balance, Mackbet table detection and correction, split toning, color wheels, and other adjust tools, you have everything you need to perfect your videos and images. Mix multiple LUTs to create new ones, convert Filmic Pro LUTS, and even preprocess RAW photos for added flexibility.
+
+Download VideoLUT today and transform your videos and images into true works of art!
+
+Ratings
+Displayed Avg Ratings
+4.35
+Total Displayed Ratings
+1.2k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.15 (Jan 3, 2024)
+    Solves a problem when importing LUTs
+Version 4.14 (Dec 9, 2023)
+    Adds batch LUT processing for videos.
+Version 4.13 (Oct 6, 2023)
+    Solves a problem when saving videos.
+Version 4.12 (Oct 2, 2023)
+    Plays the video audio on Bluetooth headphones and AirPods, if they are in use. 
+Version 4.11 (Oct 1, 2023)
+    Adds zoom and pan for video. Pinch for zooming video, and double tap for reset.
+Version 4.10 (Sep 28, 2023)
+    Fixes a problem with RGB curves.
+Version 4.09 (Sep 23, 2023)
+    Adds "delog" LUT for new native camera Pro RES LOG format. (Adjust->Set->List icon)
+Version 4.08 (Jun 16, 2023)
+    Polish language support.
+Version 4.07 (Jun 6, 2023)
+    Adds Ukranian language support. Slava Ukraine!
+Version 4.06 (May 19, 2023)
+    Adds Charts for LUTs
+Version 4.05 (Apr 27, 2023)
+    Fixes a problem with presets interface.
+Version 4.03 (Apr 16, 2023)
+    Automatically detects the proper crop angle based on the horizontal orientation.
+Version 4.02 (Apr 12, 2023)
+    Adds video crop
+Version 4.01 (Mar 30, 2023)
+    Improves the vectorscope.
+Version 3.99 (Mar 24, 2023)
+    Improves histogram.
+Version 3.98 (Feb 26, 2023)
+    Fixes a problem with Halation on videos.
+Version 3.97 (Feb 18, 2023)
+    Fixes a problem when sharing LUTs with QR codes.
+Version 3.96 (Feb 1, 2023)
+    Solves a problem when reading QR codes.
+Version 3.95 (Dec 13, 2022)
+    Solves a problem with filters and curves.
+Version 3.94 (Dec 8, 2022)
+    Fixes a problem when opening images.
+    Korean translation improvements.
+Version 3.93 (Nov 6, 2022)
+    Fixes a problem when importing LUTs
+Version 3.92 (Nov 1, 2022)
+    Fixes a problem with photo versions
+Version 3.91 (Oct 28, 2022)
+    Better RAW Photo processing
+Version 3.90 (Oct 27, 2022)
+    Fixes a problem when importing filters.
+Version 3.89 (Oct 21, 2022)
+    Fixes a problem when rotating the camera
+Version 3.88 (Oct 20, 2022)
+    Solves a problem when uploading filters.
+Version 3.86 (Aug 21, 2022)
+    Fixes a problem with filters.
+Version 3.85 (Aug 7, 2022)
+    Fixes a problem with web page linking.
+Version 3.84 (Aug 4, 2022)
+    Improves profiles shared image 
+Version 3.83 (Jul 30, 2022)
+    Improves profiles sharing
+Version 3.82 (Jul 27, 2022)
+    Share and import profiles by QR codes.
+Version 3.81 (May 30, 2022)
+    Latest Filmic LUTs (Presets-CONVRT)
+Version 3.80 (May 3, 2022)
+    Adds new Match method.
+Version 3.79 (Apr 15, 2022)
+    Adds a new YT video tutorial in Settings.
+Version 3.78 (Dec 14, 2021)
+    Fixes a problem with HSL Curves
+Version 3.77 (Dec 9, 2021)
+    Improves HDR Video processing.
+Version 3.76 (Nov 19, 2021)
+    Solves a problem with profiles.
+Version 3.75 (Nov 10, 2021)
+    Adds Adjusts->Halation 
+Version 3.74 (Nov 1, 2021)
+    Fixes a problem when applying LUTs and recording video. 
+Version 3.73 (Oct 30, 2021)
+    Solves some problems with the camera's format
+Version 3.72 (Oct 26, 2021)
+    Adds HDR video recording and ProRaw shooting to the camera, if they are supported by the device.
+Version 3.71 (Oct 22, 2021)
+    Better permissions handling
+Version 3.70 (Oct 12, 2021)
+    - Blur effect (Sharpen slider with negative value)
+    - Adds Presets2 to camera
+    - Settings in camera
+    - Camera photo shot 16:9
+Version 3.69 (Oct 6, 2021)
+    Solves a problem with Adjust->Match.
+Version 3.68 (Sep 29, 2021)
+    Exports 10-bit HDR
+Version 3.67 (Sep 26, 2021)
+    This version solves a problem when resetting the presets.
+Version 3.66 (Sep 23, 2021)
+    Solves problem with the new presets.
+Version 3.65 (Sep 11, 2021)
+    Solves a problem with the camera's settings
+Version 3.64 (Aug 24, 2021)
+    Adds support for Video Passport (Adjust->Calibrate)
+Version 3.63 (Aug 21, 2021)
+    Solves a problem when rendering HDR video. 
+Version 3.62 (Aug 19, 2021)
+    Solves a problem with the Favorites thumbnails
+Version 3.60 (Aug 14, 2021)
+    Adds Camera presets
+Version 3.59 (Jul 27, 2021)
+    Menu->Match better colors transfer.
+Version 3.58 (Jul 23, 2021)
+    Camera update: Grids and Histogram
+Version 3.57 (Jul 10, 2021)
+    Simplifies Adjust->Combine interface.
+Version 3.55 (Jul 4, 2021)
+    Adds Vectorscope and waveform to old devices.
+Version 3.53 (Jun 29, 2021)
+    Solves a problem when applying Menu->Profiles.
+Version 3.52 (Jun 19, 2021)
+    Adds Settings to Open->Info.
+    Adjust->Channel Mixer
+Version 3.51 (Jun 3, 2021)
+    Support for German, Portuguese and Korean. 
+Version 3.50 (May 25, 2021)
+    Improves HDR Video workflow.
+Version 3.49 (May 12, 2021)
+    Added access to Files for Images and Videos. 
+Version 3.48 (Apr 30, 2021)
+    Solves a problem with presets
+Version 3.47 (Apr 13, 2021)
+    Fixes a problem when formatting .cube files.
+Version 3.46 (Apr 5, 2021)
+    Support for Russian, Italian, Japanese and French. 
+Version 3.45 (Apr 4, 2021)
+    Added support for Spanish and Chinese. 
+    Fixes a problem with Showcase
+Version 3.44 (Mar 24, 2021)
+    Solves a problem with Levels adjustment.
+Version 3.43 (Mar 11, 2021)
+    Improves saved image quality.
+Version 3.42 (Mar 3, 2021)
+    Solves a problem with .cube files when handling HDR videos.
+Version 3.41 (Mar 2, 2021)
+    Corrected display of HDR videos. (Note that when saving HDR videos you always have to use HEIV at Encode & Save )
+Version 3.40 (Feb 27, 2021)
+    - Includes AWB adjustment in exported LUT
+    - Added FilmicPRO v3 LUTs (to CONVRT group)
+    - Some improvements on Match
+Version 3.38 (Jan 20, 2021)
+    Better Vignette, adds DGK 18 colors chart detection, fixes thumbnails for batch. 
+Version 3.37 (Dec 28, 2020)
+    Supports Macbeth chart (24 colors) automatic detection and color correction for images and videos. Just use Adjust -> Chart. 
+    Be sure to that the chart is visible when you press the Detect button. As usually, you can export the generated color correction as a LUT.
+Version 3.36 (Dec 23, 2020)
+    Solves a problem when importing ProRaw images.
+Version 3.35 (Dec 12, 2020)
+    Solves a problem when picking colours for AWB.
+Version 3.34 (Dec 11, 2020)
+    Auto White Balance (find it at Adjusts)
+Version 3.32 (Nov 24, 2020)
+    It solves a problem when playing videos in some devices.
+Version 3.30 (Nov 5, 2020)
+    Solves. problem when changing the camera orientation
+Version 3.29 (Sep 20, 2020)
+    Fixes a problem with the image render
+Version 3.28 (Sep 13, 2020)
+    Fixes a problem with the media picker. You can always choose the classic media picker at Settings App - Video LUT options
+Version 3.27 (Sep 9, 2020)
+    Fixes an issue with masks and saving profiles
+Version 3.26 (Sep 4, 2020)
+    Fixes an issue with HSL tool.
+Version 3.25 (Sep 2, 2020)
+    Fixes a problem with Masks
+Version 3.24 (Aug 31, 2020)
+    Fixes a problem with color mask.
+Version 3.23 (Aug 24, 2020)
+    It solves a problem when playing videos
+Version 3.22 (Aug 23, 2020)
+    - Pick color mask for images
+    - P3 support for images
+
+Version 3.21 (Aug 20, 2020)
+    HSL fixes
+    Add favorites presets on Camera.
+Version 3.20 (Aug 14, 2020)
+    Favorites in landscape mode and batch.
+Version 3.19 (Jul 21, 2020)
+    CYBERPUNK presets by @wilmer.lens
+
+    Wilmer Martinez is a photographer who loves turning NYC into a cyberpunk dystopian city.
+    Please check his IG for more images: @wilmer.lens
+
+Version 3.18 (Jul 13, 2020)
+    Infrared presets by @wavegodphotography
+Version 3.17 (Jun 19, 2020)
+    Fixes a problem with HSL curves
+Version 3.16 (Jun 9, 2020)
+    Fixes a problem with profiles
+Version 3.15 (Jun 7, 2020)
+    - Improves HSL Curves.
+    - Fixes a problem when shooting RAW photos.
+Version 3.14 (May 31, 2020)
+    Solves a problem with images and masks
+Version 3.13 (May 30, 2020)
+    Fixes a problem with masks and video
+Version 3.12 (May 28, 2020)
+    Masks
+Version 3.11 (Apr 27, 2020)
+    Adjusts->Levels, 3DL files support for importing in Admin.
+Version 3.1 (Apr 3, 2020)
+    Clarity, White Vignette
+Version 3.0 (Mar 30, 2020)
+    Showcase feature
+Version 2.99 (Mar 23, 2020)
+    Solves a problem with Crop.
+Version 2.98 (Mar 14, 2020)
+    Fixes a problem with thumbnails
+Version 2.97 (Mar 9, 2020)
+    Thumbs by the current image. Also, Crop for images.
+Version 2.96 (Feb 28, 2020)
+    Fixes a problem with Wavegod2->Stone preset
+Version 2.94 (Feb 19, 2020)
+    Camera update, if you have any problems with it just use the Settings app, Video LUT and choose Simple Camera for reverting to the old one.
+Version 2.93 (Feb 10, 2020)
+    Solves a problem when selecting presets on the camera
+Version 2.92 (Feb 8, 2020)
+    Favorites
+Version 2.91 (Jan 16, 2020)
+    Fixes a problem with presets selection.
+Version 2.9 (Jan 12, 2020)
+    Better preset selection
+Version 2.8 (Jan 3, 2020)
+    Solves a problem with media picker
+Version 2.7 (Dec 5, 2019)
+    Solves a problem when comparing video before vs after (long press on the video player)
+    Settings=>Keep EXIF dates
+    If you have any issues or feature requests contact directly: enriqueg@gmail.com
+Version 2.6 (Nov 29, 2019)
+    This version solves a problem with Open-> LUT Image.
+    Thanks so much to Jean Luc Haurais for the feedback!
+
+    Don't hesitate to contact for ideas or issues: enriqueg@gmail.com
+Version 2.5 (Nov 14, 2019)
+    Alternative media picker (Use Settings app for choosing)
+    Solves a problem with colors when processing videos
+    New presets
+Version 2.4 (Nov 11, 2019)
+    Vectorscope
+Version 2.3 (Nov 9, 2019)
+    Some fixes in Organizer. Many thanks to Brett Portaro! 
+Version 2.2 (Oct 27, 2019)
+    Some fixes when opening images
+Version 2.1 (Oct 13, 2019)
+    - Film grain for video. Save the video using "Encode and Save" with a high rate for keeping the grain.
+    Be aware many third party app will compress your video files affecting how grain is displayed.
+    I very much appreciate your help, Glenn Upgraded, and Kamalky Laureano! 
+Version 2.0 (Sep 15, 2019)
+    - Shares CUBE x33 for Arri tool.
+    - Share LUTs to other apps.
+
+    Many thanks to Arun Kumar Pandey for requests and improvements!
+    Direct contact for requests: enriqueg@gmail.com 
+Version 1.98 (Aug 23, 2019)
+    In total more than 150 new presets:
+    Added new Wavegod presets by Rahkim Brown, Instagram: @wavegodphotography
+    Added new Enhance2, Byron, Shelley, Duotone2, Stone, Lomage, and Divided presets.
+    Some improvements on the waveform.
+Version 1.97 (Aug 6, 2019)
+    - LUT intensity. (Touch down an already selected preset) It affects only the LUT. (kind of the same as it works on the camera)
+    There is also an "Overall Intensity" in Adjusts but that one affects all adjustments.
+    This LUT intensity value is also registered in Profiles, in the same way as any adjustment, so if you use profiles just remember that.
+
+    - RGB parade in supported devices.
+
+    Very grateful to all of you at the Facebook group! Big thanks to Glenn Upgraded for requesting many of these features. 
+Version 1.96 (Jul 14, 2019)
+    Neon presets
+Version 1.95 (Jul 8, 2019)
+    Waveform: If available in your device, use the histogram option and then the left button in the histogram view for changing the mode to the waveform.
+Version 1.94 (Jun 13, 2019)
+    1. Changes the order of operations to Convert LUT->Adjusts->LUT, before it was: Adjusts->Convert LUT->LUT
+    (if you want to revert to the old order there is a switch in the Settings app, search for VideoLUT)
+
+
+    2. 14 New conversion LUTs proposed by FB group members.
+
+
+    3. Solves a problem when exporting LUTs.
+
+    Thanks to all of you that helped with this release: Justin Tran, Rick Yaeger, and Glenn Upgraded.
+
+
+    Please join our FB group if you have not done it yet! 
+Version 1.93 (Jun 9, 2019)
+    Solves a problem with the split filter
+Version 1.92 (Jun 1, 2019)
+    Small fix in the menu, as it had swapped Organize&Import vs. Transfer
+Version 1.91 (May 28, 2019)
+    More CONVERT LUTs (40+)
+    Use these at Adjust->Set->Second LUT when necessary!
+    If you have any other LUT that you want to be included just send it over!
+Version 1.90 (May 24, 2019)
+    Fixes some problems with presets.
+Version 1.89 (May 7, 2019)
+    - CMYK Curves
+    - Save internally the adjustments as a LUT in a group.
+Version 1.88 (May 4, 2019)
+    Adjust->LAB Curves
+    Improvements in Adjust->Split
+Version 1.87 (Apr 29, 2019)
+    Adds to Settings (search for VideoLUT at Settings app)
+    - Order imported LUTs alphabetically
+    - Skip resetting when importing videos and images
+
+    Marker when an adjustment has changed.
+    Minor UI fixes.
+Version 1.86 (Apr 24, 2019)
+    Batch Images feature (Menu->Batch)
+Version 1.84 (Apr 7, 2019)
+    Adds Enhance2 and other presets
+Version 1.85 (Apr 7, 2019)
+    Fixes a problem with Presets
+Version 1.83 (Apr 6, 2019)
+    Solves a problem when opening Panasonic RAW images.
+Version 1.82 (Mar 1, 2019)
+    New Presets->Wavegod by Rahkim Bryant
+    Sticky Histogram
+Version 1.81 (Feb 25, 2019)
+    Improved Adjust->denoise.
+Version 1.80 (Feb 20, 2019)
+    - Adjust->Denoise
+    - Fixes a problem when using imported cubes as "Second LUT"
+Version 1.79 (Jan 12, 2019)
+    Fixes a problem with the video encoder.
+Version 1.78 (Jan 10, 2019)
+    - You can rename groups now, thanks Ferron Smith for all these suggestions!
+    - Export your LUTs (multiple selections)
+    - Solves a problem when importing LUTs, thanks @ituber.10
+Version 1.77 (Dec 29, 2018)
+    - Don't miss the two new official conversion LUTs from FiLMiC Pro for processing their all new Flat and LOG V2 gamma curves!
+    Find them under Presets -> CONVRT. Thanks to FiLMiC, it has been fantastic!
+
+    - "Organize" and "Import" have been merged. Now you can create or select a "custom" group and import the LUTs directly to it.
+    Use "Organize & Import" menu. Big thanks to Ferron Smith for this!
+
+    - Fixes a problem with Noise (Grain) in some devices.
+    - Fixes a problem with Split Tone.
+    - Fixes a problem with new images thumbnails update in the Media Picker.
+
+    Please join the Facebook group if you have problems or requests.
+Version 1.76 (Dec 20, 2018)
+    - New LUTs by FiLMiC Pro: Added two new official conversion LUTs from FiLMiC Pro for processing their all-new Flat and LOG V2 gamma curves! Find them under Presets
+    - Double LUT: Now you can apply conversion LUTs to your creative LUTs on the fly! Find this feature under Adjust.
+    - Long press on the screen to display your original image
+Version 1.75 (Nov 27, 2018)
+    RGB Curves find them at Adjust->Curves, scroll the bottom
+Version 1.74 (Nov 15, 2018)
+    - Split Toning
+    - HSL colors sliders (use them as an alternative to HSL curves)
+Version 1.73 (Sep 8, 2018)
+    Solves some problems with the color wheels
+Version 1.72 (Jul 10, 2018)
+    - Keeps the photo / video picker in latest position (album etc)
+    - Keeps the metadata when the original image was a JPEG or HIEC (HIEC is saved as max quality JPEG)
+    - Shares the images (no just saves to library)
+    - Exposure slider problem solved. (default value should be zero)
+    - When exporting LUTs as .cube keeps the name of the original LUT (only adds _16 and _32)
+Version 1.71 (Jun 16, 2018)
+    - Applies correctly opacity from profiles
+Version 1.70 (May 29, 2018)
+    Fixes a problem when resetting the curves.
+Version 1.69 (May 28, 2018)
+    - Profiles: Save LUT, wheels, adjusts and curves in one single profile and apply to video and photos.
+    - Vibrance, Vignette, Sharpness and Noise.
+    - Some improvements in interface.
+    - Reset everything button.
+Version 1.68 (May 16, 2018)
+    Camera update
+Version 1.67 (Apr 8, 2018)
+    - Support for .zip files from Import (cloud icon)
+    You can have different folders in the zip but just keep one level (no folders inside folders)
+    Files inside the folders can be .cube or .3dl
+Version 1.66 (Mar 31, 2018)
+    - You can change now the name of any imported LUTs: Organize->Tap on the name of any imported LUT
+    - 4 types of mask
+    - Balance color wheels
+    - New LUTS (more LUTs at CINE and 3 new groups of conversions LUTS, specially for handling LOG)
+    - Some fixes for the lut name when saving the LUTs to the cloud.
+
+    You are welcome to join our FB group for requests as I improve and add new features.
+    All requests will be handled!
+    Also follow me at Instagram @videolut
+    + don't forget to put me some stars here :)
+Version 1.65 (Jan 12, 2018)
+    Removes erroneous slider when editing video files.
+    (Use Menu->Adjustments, Opacity slider instead)
+Version 1.64 (Jan 9, 2018)
+    Camera: Tap again on a selected preset for controlling the LUT intensity.
+Version 1.63 (Dec 18, 2017)
+    Camera changes:
+    - Alternative camera view for iPhone X by default, as it solves some issues. (You can still switch at Settings app->VideoLUT)
+    - 4K recording by default (if available in your device)
+    - Tap for focus
+Version 1.62 (Dec 8, 2017)
+    In Settings App search for Video LUT, there are new 2 switches:
+
+    - Enable 4K recording with the camera if available in your device
+    - Change Camera to OpenGL renderer if you have problems displaying the camera.
+Version 1.61 (Dec 7, 2017)
+    - Solves a problem with the camera in iPhone X
+    - Solves a problem when exporting cubes to iCloud while processing videos.
+
+    Some important info when exporting cubes to DropBox:
+    You have to enable DropBox in Files app:
+    1. Open Files App
+    2. Enable the switch besides DropBox (personal) It has to be green, enabled
+    3. Press Done on top
+    4. Close Video LUT if open / Open Video LUT
+    5. Select your LUT,
+    6. Happy exporting!
+Version 1.60 (Dec 5, 2017)
+    Open->Camera: Record your videos with your favorites LUTs!
+Version 1.59 (Dec 1, 2017)
+    Now you can import and export .cube files from / to iCloud and other online storage services.
+    For importing use menu: Import or Admin:Import.Imported files will appear under Imported->.CUBE
+    For exporting current LUT: use Save: Export cube 16 or 32.
+Version 1.58 (Nov 13, 2017)
+    It solves a problem with layout in landscape while displaying video, thanks so much to György Balla!
+Version 1.57 (Nov 10, 2017)
+    iPhone X, portrait mode support (HSL curves available only in Landscape)
+    HSL curves applied before the LUT (I will let you control this in next version)
+Version 1.56 (Oct 14, 2017)
+    Solves a problem when exporting cubes 32
+Version 1.55 (Sep 26, 2017)
+    Solves a serious bug when ordering the imported luts in folders.
+Version 1.54 (Sep 23, 2017)
+    Solves a problem when saving portrait oriented images. Thanks so much to David Onuora for reporting and helping me with this.
+    Now you can reorder your luts. Just drag to folders, create new folders, drag and drop for order your folder. Your folders will appear under "Imported"
+    Solves a problem with anamorphic video. Thanks to Brian Westfield.
+Version 1.53 (Sep 16, 2017)
+    Solves an issue when videos are located at iCloud
+Version 1.52 (Sep 6, 2017)
+    Solves a problem when trying to open an image that is not a LUT table.
+    Many thanks to Hürcan Emre Yılmazer and Hitesh Patel for an important change in the color space handling.
+    Please, if you like the app, tell your friends about it!
+Version 1.51 (Sep 4, 2017)
+    - Double tapping on an adjust slider will reset it's value
+    - Beautiful CINE presets
+
+    Thanks so much for your support, ideas and nice reviews!
+    Please, don't forget to tell your colorist friends about this little app!
+Version 1.50 (Aug 21, 2017)
+    -Display->Histogram
+    - Video Save: Trim & Save
+Version 1.49 (Aug 14, 2017)
+    - It solves a problem with image orientation.
+
+    - Don't forget to join our Facebook group for support, requests and coming updates!
+    - Don't forget to rate the app and tell about it to your friend..it keeps it going!
+Version 1.48 (Aug 12, 2017)
+    - Image support
+    - HSL curves (adjust menu)
+Version 1.47 (Aug 10, 2017)
+    - It solves a problem when exporting cubes 32
+    - A preset in TONES was missing
+Version 1.46 (Jul 27, 2017)
+    Solves a big problem with color spaces, that was at least preventing to export correctly the cubes.
+    Luts with "th" string in their names where wrong selected.
+Version 1.45 (Jun 15, 2017)
+    - Email current LUT as CUBE (16 & 32) ( after adjustments applied)
+    - Now displays in 3D all kind of LUTs.
+    - Fixes some bugs.
+Version 1.44 (Dec 4, 2016)
+    iTunes File Transfer enabled. You can transfer .cube, .3dl and 512x512 .png LUT tables.
+    Folders and .zip files not supported.
+    Use the Admin button for importing the files after you have transferred them.
+Version 1.42 (Nov 30, 2016)
+    - Import LUT png images (512x512)
+    - Choose compression when saving
+    - Prompt for rating. Rate the app with 5 stars now and get a more new stuff in a week:)
+    - Prevent to sleep while saving
+Version 1.41 (Nov 22, 2016)
+    more adjusts, better saving quality
+Version 1.40 (Nov 13, 2016)
+    1. You can now remove imported LUTs by swiping the thumbnail
+    2. Compare before/after effect
+
+    I'm accepting requests for this app, send your request/ideas/issues to talonsodev@gmail.com and get them in next version!
+    You can also join the FB group for discussions, search for Video LUT in FB.
+Version 1.3 (Nov 7, 2016)
+    - Visualise your imported .CUBE and .3DL files in 3D. You can save a snapshot.
+    - Export them also as LUT images (.png)
+    I'm accepting requests for this app, send your request/ideas/issues to talonsodev@gmail.com and get them in next version!
+    You can also join the FB group for discussions, search for Video LUT in FB.
+Version 1.2 (Oct 30, 2016)
+    -It solves a serious problem with the menu for 10.1
+    - Keeps the name of the imported cubes/3dl
+    - Please if you have problems saving videos contact me at talonsodev@gmail.com (with video and devices spec).
+    Just leaving reviews don't help me.
+    - If you have iPad get instead "LUT Master" app.
+Version 1.1 (Aug 5, 2016)
+    Import your own LUTs
+
+    - DaVinci Resolve 3D Cube LUT (.cube)
+    - Autodesk 3D LUT (.3dl)
+
+    (e.g. send them by mail and choose Open/Copy with Video LUT)
+Version 1.0 (Jul 22, 2016)
+
+Users may also like
+Select objects to compare
+Cineon
+MatchColors AI
+Dehancer: Color Grading
+Cinema P3 Pro Camera
+Tone Studio Photo & Vid Editor
+Grain – Video Preset Maker
+Super 16 | 16mm Film Сamera
+Filmic Firstlight - Photo App
+Beastcam - Pro Camera
+PICFX Picture Editor & Borders
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.15
+    Current release
+    Jan 3, 2024
+    4.14
+    Dec 9, 2023
+    4.13
+    Oct 6, 2023
+    4.12
+    Oct 2, 2023
+    4.11
+    Oct 1, 2023
+    4.10
+    Sep 28, 2023
+    4.09
+    Sep 23, 2023
+    4.08
+    Jun 16, 2023
+    4.07
+    Jun 6, 2023
+    4.06
+    May 19, 2023
+    4.05
+    Apr 27, 2023
+    4.03
+    Apr 16, 2023
+    4.02
+    Apr 12, 2023
+    4.01
+    Mar 30, 2023
+    3.99
+    Mar 24, 2023
+    3.98
+    Feb 26, 2023
+    3.97
+    Feb 18, 2023
+    3.96
+    Feb 1, 2023
+    3.95
+    Dec 13, 2022
+    3.94
+    Dec 8, 2022
+    3.93
+    Nov 6, 2022
+    3.92
+    Nov 1, 2022
+    3.91
+    Oct 28, 2022
+    3.90
+    Oct 27, 2022
+    3.89
+    Oct 21, 2022
+    3.88
+    Oct 20, 2022
+    3.86
+    Aug 21, 2022
+    3.85
+    Aug 7, 2022
+    3.84
+    Aug 4, 2022
+    3.83
+    Jul 30, 2022
+    3.82
+    Jul 27, 2022
+    3.81
+    May 30, 2022
+    3.80
+    May 3, 2022
+    3.79
+    Apr 15, 2022
+    3.78
+    Dec 14, 2021
+    3.77
+    Dec 9, 2021
+    3.76
+    Nov 19, 2021
+    3.75
+    Nov 10, 2021
+    3.74
+    Nov 1, 2021
+    3.73
+    Oct 30, 2021
+    3.72
+    Oct 26, 2021
+    3.71
+    Oct 22, 2021
+    3.70
+    Oct 12, 2021
+    3.69
+    Oct 6, 2021
+    3.68
+    Sep 29, 2021
+    3.67
+    Sep 26, 2021
+    3.66
+    Sep 23, 2021
+    3.65
+    Sep 11, 2021
+    3.64
+    Aug 24, 2021
+    3.63
+    Aug 21, 2021
+    3.62
+    Aug 19, 2021
+    3.60
+    Aug 14, 2021
+    3.59
+    Jul 27, 2021
+    3.58
+    Jul 23, 2021
+    3.57
+    Jul 10, 2021
+    3.55
+    Jul 4, 2021
+    3.53
+    Jun 29, 2021
+    3.52
+    Jun 19, 2021
+    3.51
+    Jun 3, 2021
+    3.50
+    May 25, 2021
+    3.49
+    May 12, 2021
+    3.48
+    Apr 30, 2021
+    3.47
+    Apr 13, 2021
+    3.46
+    Apr 5, 2021
+    3.45
+    Apr 4, 2021
+    3.44
+    Mar 24, 2021
+    3.43
+    Mar 11, 2021
+    3.42
+    Mar 3, 2021
+    3.41
+    Mar 2, 2021
+    3.40
+    Feb 27, 2021
+    3.38
+    Jan 20, 2021
+    3.37
+    Dec 28, 2020
+    3.36
+    Dec 23, 2020
+    3.35
+    Dec 12, 2020
+    3.34
+    Dec 11, 2020
+    3.32
+    Nov 24, 2020
+    3.30
+    Nov 5, 2020
+    3.29
+    Sep 20, 2020
+    3.28
+    Sep 13, 2020
+    3.27
+    Sep 9, 2020
+    3.26
+    Sep 4, 2020
+    3.25
+    Sep 2, 2020
+    3.24
+    Aug 31, 2020
+    3.23
+    Aug 24, 2020
+    3.22
+    Aug 23, 2020
+    3.21
+    Aug 20, 2020
+    3.20
+    Aug 14, 2020
+    3.19
+    Jul 21, 2020
+    3.18
+    Jul 13, 2020
+    3.17
+    Jun 19, 2020
+    3.16
+    Jun 9, 2020
+    3.15
+    Jun 7, 2020
+    3.14
+    May 31, 2020
+    3.13
+    May 30, 2020
+    3.12
+    May 28, 2020
+    3.11
+    Apr 27, 2020
+    3.1
+    Apr 3, 2020
+    3.0
+    Mar 30, 2020
+    2.99
+    Mar 23, 2020
+    2.98
+    Mar 14, 2020
+    2.97
+    Mar 9, 2020
+    2.96
+    Feb 28, 2020
+    2.94
+    Feb 19, 2020
+    2.93
+    Feb 10, 2020
+    2.92
+    Feb 8, 2020
+    2.91
+    Jan 16, 2020
+    2.9
+    Jan 12, 2020
+    2.8
+    Jan 3, 2020
+    2.7
+    Dec 5, 2019
+    2.6
+    Nov 29, 2019
+    2.5
+    Nov 14, 2019
+    2.4
+    Nov 11, 2019
+    2.3
+    Nov 9, 2019
+    2.2
+    Oct 27, 2019
+    2.1
+    Oct 13, 2019
+    2.0
+    Sep 15, 2019
+    1.98
+    Aug 23, 2019
+    1.97
+    Aug 6, 2019
+    1.96
+    Jul 14, 2019
+    1.95
+    Jul 8, 2019
+    1.94
+    Jun 13, 2019
+    1.93
+    Jun 9, 2019
+    1.92
+    Jun 1, 2019
+    1.91
+    May 28, 2019
+    1.90
+    May 24, 2019
+    1.89
+    May 7, 2019
+    1.88
+    May 4, 2019
+    1.87
+    Apr 29, 2019
+    1.86
+    Apr 24, 2019
+    1.84
+    Apr 7, 2019
+    1.85
+    Apr 7, 2019
+    1.83
+    Apr 6, 2019
+    1.82
+    Mar 1, 2019
+    1.81
+    Feb 25, 2019
+    1.80
+    Feb 20, 2019
+    1.79
+    Jan 12, 2019
+    1.78
+    Jan 10, 2019
+    1.77
+    Dec 29, 2018
+    1.76
+    Dec 20, 2018
+    1.75
+    Nov 27, 2018
+    1.74
+    Nov 15, 2018
+    1.73
+    Sep 8, 2018
+    1.72
+    Jul 10, 2018
+    1.71
+    Jun 16, 2018
+    1.70
+    May 29, 2018
+    1.69
+    May 28, 2018
+    1.68
+    May 16, 2018
+    1.67
+    Apr 8, 2018
+    1.66
+    Mar 31, 2018
+    1.65
+    Jan 12, 2018
+    1.64
+    Jan 9, 2018
+    1.63
+    Dec 18, 2017
+    1.62
+    Dec 8, 2017
+    1.61
+    Dec 7, 2017
+    1.60
+    Dec 5, 2017
+    1.59
+    Dec 1, 2017
+    1.58
+    Nov 13, 2017
+    1.57
+    Nov 10, 2017
+    1.56
+    Oct 14, 2017
+    1.55
+    Sep 26, 2017
+    1.54
+    Sep 23, 2017
+    1.53
+    Sep 16, 2017
+    1.52
+    Sep 6, 2017
+    1.51
+    Sep 4, 2017
+    1.50
+    Aug 21, 2017
+    1.49
+    Aug 14, 2017
+    1.48
+    Aug 12, 2017
+    1.47
+    Aug 10, 2017
+    1.46
+    Jul 27, 2017
+    1.45
+    Jun 15, 2017
+    1.44
+    Dec 4, 2016
+    1.42
+    Nov 30, 2016
+    1.41
+    Nov 22, 2016
+    1.40
+    Nov 13, 2016
+    1.3
+    Nov 7, 2016
+    1.2
+    Oct 30, 2016
+    1.1
+    Aug 5, 2016
+    1.0
+    Jul 22, 2016
+
+See More
+Top In-App Purchases
+
+    VideoLUT PRO
+    $0.99
+    VideoLUT PRO
+    $6.99
+    VideoLUT PRO
+    $9.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jul 22, 2016
+
+Worldwide Release Date
+    Jul 22, 2016
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    4.15
+
+Size
+    243.36 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Italian, Japanese, Korean, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese, Ukrainian
+
+Seller
+    Katerina Alieksieienko
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.2 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.xcstudio.LUT-Master
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1082340556
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+VideoLUT | data.ai

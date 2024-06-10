@@ -1,0 +1,53 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,6.7,2024-02-08,We have made improvements to reduce the amount of communication.,0,0,0,0,0,0,0,1
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,6.6,2024-01-29,Fixed an issue where posts were slow to display on the user details screen.,0,0,0,0,0,0,0,1
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,6.4,2023-12-21,We have reduced the amount of communication.,0,0,0,0,0,1,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,6.3,2023-12-06,We have made internal system improvements.,0,0,0,0,0,1,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,6.2,2023-12-03,Minor bug fixes and optimizations were made.,0,0,0,0,0,1,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,6.1,2023-11-05,Fixed an issue where the app would crash when trying to post a voice.,0,0,0,0,1,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,6.0,2023-09-05,Fixed an issue where the message list was difficult to update.,0,0,1,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,5.8,2023-08-10,Fixed an issue where image sending via DM would fail and an issue where the number of DM notifications would deviate.,0,1,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,5.7,2023-08-01,Fixed an issue where it was not possible to send PNG images via DM.,0,1,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,5.6,2023-07-24,We ve made some minor improvements.,1,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,5.5,2021-06-27,Changed the screenshot.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,5.4,2021-06-23,We have fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,5.3,2021-05-07,We have fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,5.2,2021-04-03,You can now select the posts that are displayed in All . Other bugs have been fixed.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,5.1,2020-11-17,Implemented random message function.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,5.0,2020-10-17,Now supports widgets.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,4.9,2020-10-05,You can now include up to 4 photos in your posts only compatible with iOS14 .,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,4.8,2020-09-24,Added survey function.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,4.7,2020-09-21,Fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,4.6,2020-09-16,You can now post audio.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,4.4,2020-08-21,Added call function.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,4.3,2020-08-10,Supports hashtags.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,4.2,2020-07-28,We have fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,4.1,2020-07-21,Videos can now be posted.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,4.0,2020-06-23,We have improved the operation speed and fixed some bugs.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.9,2020-06-16,Images can now be posted.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.8,2020-04-24,Now supports dark mode.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.7,2020-04-14,We ve made some minor improvements.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.6,2020-04-02,We have fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.5,2020-03-26,Fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.4,2020-03-19,We have fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.3,2020-03-09,Added Everything category.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.2,2020-03-02,You can now see past posts and post destinations on the favorites screen.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.1,2020-02-25,You can now rearrange the bulletin board.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,3.0,2020-02-14,You can now delete the block list and mute list at once. Other improvements have been made.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,2.9,2020-01-31,Fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,2.8,2020-01-24,Implemented login function.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,2.7,2020-01-04,Fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,2.6,2019-12-16,Messages can now be sorted.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,2.5,2019-12-04,Added popularity order to the search screen.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,2.1,2019-11-21,Added block list and mute list.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,2.0,2019-11-07,Fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.9,2019-11-04,Added the ability to favorite users. Also the operation speed has been improved.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.8,2019-10-17,Implemented a notification screen for likes and replies. Various other improvements have been made.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.7,2019-10-03,Fixed the bug.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.6,2019-09-30,You can now see past posts.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.5,2019-09-26,Added bulletin board categories.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.4,2019-08-26,Added voice self introduction function.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.3,2019-08-20,Implemented the like function.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.2,2019-08-18,The number of replies on the bulletin board is now displayed.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.1,2019-08-11,The number of unread messages is now displayed.,0,0,0,0,0,0,0,0
+1473286815,0,きいろチャット,Social Networking,2019-08-04,2019-08-04,88.15,2,0,0,1,1.0,2019-08-04,,0,0,0,0,0,0,0,0

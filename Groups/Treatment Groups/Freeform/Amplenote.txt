@@ -1,0 +1,1103 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Amplenote
+Bonanza.comProductivity (Applications)Free
+Alerts
+
+Amplenote
+Amplenote
+Amplenote
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Amplenote
+Flexible notes and tasks
+Productivity (Applications)
+Free
+App Description
+*** Your security is our priority ***
+- Data security differentiates us from popular to-do list apps
+- All note contents are encrypted at rest on our servers
+- Notes can be Vault Encrypted with a password that's never sent to our servers
+- Your note content is available for download at any time
+
+*** Built on seamless syncing ***
+- Along with data security, accurate syncing is at our core
+- Designed for heavy users who often switch between the same notes on mobile and desktop
+- Our sync is fully compatible with Vault Notes (even though we can't decrypt their content)
+
+***Expression is our cornerstone ***
+- Rich Footnotes that hold text, code, images, or all the above is our flagship feature
+- Easily insert images into notes, or even into text within notes
+- A range of the finest markdown stylings at your disposal
+
+*** Notes and tasks: better together ***
+- Text, code, to-do tasks, and images all live inside the same note
+- Tasks can be customized to recur at flexible intervals or hidden until later
+- Tasks are automatically removed from your to-do list when completed
+
+*** As organized as you are ***
+- Connect notes with bi-directional linking
+- Note tags allow multi-level taxonomy to organize notes
+- Browse these taxonomies like directories
+- Recreate OneNote browsing hierarchies seamlessly
+
+*** Flair for sharing ***
+- Any note can be instantly shared and edited by multiple parties
+- Publish notes (including their Rich Footnotes!) to the web with one tap
+- Shared to-do lists can help a team stay on top of shared responsibilities
+
+*** Built for personal productivity ***
+- Set up any task to repeat relative to when you last got it done
+- Track how much you're getting done over time with our automatic task graph
+- Designate tasks as "Urgent" or "Important" to use proven priority techniques
+
+*** More than ample enough for power users ***
+- Simplified, clean UI is efficiently functional
+- Contextual keyboard toolbar puts the relevant actions at your fingertips
+- Quick opener allows opening any recently used note in ~3 taps
+
+- *** No internet? No problem ***
+- Continue working offline within new or cached notes
+- All work will automatically sync once back online
+
+*** Ample: no more, no less ***
+- We won't settle for becoming bloated with non-essential features
+- We work across mobile and web.
+
+*** Get started instantly ***
+- Use our Evernote Importer to bring your notes from the olden times
+
+*** Account required ***
+- An active Amplenote account is required to use Amplenote.
+- New accounts automatically receive a 14-day free trial of the Pro plan.
+- At the end of the trial period, you may choose between the free plan (Personal) or one of the paid plans.
+- You may purchase an auto-renewing subscription through an In-App Purchase.
+- 1 month and 1 year durations are available for Basic, Pro, and Founder subscription levels.
+- Your subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew (at the duration selected) unless auto-renew is turned off at least 24 hours before the end of the current period.
+- Current subscriptions may not be cancelled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase
+- Privacy policy: https://www.amplenote.com/privacy_policy
+- Terms of use: https://www.amplenote.com/terms_of_service
+Ratings
+Displayed Avg Ratings
+4.48
+Total Displayed Ratings
+170
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.89 (Feb 8, 2024)
+    - Fix opening attachments leaving attachment in loading state in certain cases
+    - Plugin system improvements and fixes
+Version 3.88 (Jan 22, 2024)
+    - Add toolbar button when text is selected for extract content options and replaceText plugin actions
+    - Show toolbar buttons for highlight and strikethrough when cursor is in a list item
+Version 3.87 (Jan 2, 2024)
+    - Use @ to link to other notes, as an easier to type alternative to [[
+    - Misc. note content editor fixed and improvements
+    - Additional plugin feature support
+Version 3.86 (Dec 6, 2023)
+    - Fix templates being listed multiple times in quick search results
+    - Improve caching of external calendar events for display in widgets
+    - Fix for plugin indicator errantly showing after app has been in background for a long time
+    - Fix for plugins not showing up in rare cases after app has been in the background
+Version 3.83 (Oct 24, 2023)
+    - When opening a link to a heading, scroll down so the heading is at the top of the screen
+    - Fix for rare state where note updates aren't downloaded immediately after app has been in background for a long time
+    - Misc. editor and plugin system improvements
+Version 3.82 (Sep 27, 2023)
+    - Fix certain Apple Calendar events preventing calendar from loading
+    - Pending changes to a note that has been made readonly will be copied to a new note, allowing sync to continue without delay
+Version 3.81 (Sep 26, 2023)
+    - Increase speed of background note content updating when there are multiple notes to update
+    - Fix Apple Calendar events in other timezones using incorrect time
+Version 3.80 (Sep 20, 2023)
+    - Various widget fixes and improvements
+    - Additional plugin support
+    - Fix completed blank tasks obscuring other completed tasks on calendar
+Version 3.78 (Sep 6, 2023)
+    - Add indicator when a plugin action is running
+    - Fix repeating instances of events on connected Apple calendars not showing up on calendar
+    - Fix images attached in quick-todo or share-to-note not uploading
+Version 3.77 (Aug 24, 2023)
+    - Add navigation history menu, for quick navigation to previously viewed areas and notes
+Version 3.76 (Aug 15, 2023)
+    - Handle sharing PDFs from Notes app notes to Amplenote
+    - Fix typing in quick add task input on iPhone SE not showing input 
+Version 3.75 (Aug 3, 2023)
+    - Fix all-day tasks from external calendars not being shown on the calendar in some cases
+Version 3.72 (Jul 24, 2023)
+    - Allow expand/collapse of header sections
+    - When viewing a deleted note, show the option to restore it
+    - Fix images/videos not uploading to Rich Footnotes
+    - Fix crash on calendar screen when Google calendar all-day event starts and ends at same second
+    - Allow expand/collapse of header sections
+    - When viewing a deleted note, show the option to restore it
+    - Fix images/videos not uploading to Rich Footnotes
+    - Fix editor not scrolling to cursor position when using keyboard arrows on iPad
+Version 3.71 (Jul 11, 2023)
+    - Display tasks on calendar using selected tag color of source note
+    - Fix some popup menus (date suggestions, note link menu, etc) being cut-off in the quick to-do input
+    - Fix expression suggestions menu not showing in the quick to-do input
+    - Fix some Rich Footnote descriptions being cut-off when viewed in tasks or calendar mode
+    - Fix archived notes not showing up in deleted notes list
+    - Move focus to blank line in note editor when pressing "enter" on keyboard from focused note title field
+    - Support additional plugin functionality
+Version 3.70 (May 26, 2023)
+    - Update tag color picker with additional pre-set options
+    - Additional plugin support
+    - Misc. bug fixes and minor improvements
+Version 3.69 (May 11, 2023)
+    - Add calendar widget on iPad
+    - Assorted widget fixes and improvements
+    - Fix calendar icons on external calendar events not using the correct text color based on event background color
+    - Fix multi-day events on external calendars only showing the first day in non-monthly calendar views
+    - Fix multi-day events on external calendars showing over too many days in monthly view 
+Version 3.68 (May 6, 2023)
+    - Show events on calendar from external calendars using the color set on the external calendar 
+Version 3.67 (May 1, 2023)
+    - Add Quick Actions home screen widget type
+    - Handle newlines in text shared to Amplenote via share extension 
+Version 3.66 (Apr 19, 2023)
+    - Add home screen agenda widgets
+    - Improvements to plugin support
+Version 3.65 (Apr 7, 2023)
+    - Fix placement of Rich Footnote icon in iOS 16.4
+    - Show completed tasks tab in past note versions as it would have appeared when that version was authored
+    - Add support for latest plugin features
+Version 3.64 (Mar 29, 2023)
+    - Add agenda widgets of three sizes
+    - Enable support for plugins for Founder subscribers
+    - Add autocomplete menu when typing `{` expressions
+    - Fix a case where an incorrect merge could occur when an open note with tasks in it was updated frequently while the app was in the background, once the app was foregrounded on a new day
+    - Add highlight and strikethrough formatting options to editor toolbar
+    - Fix keyboard closing after linking to a note using `[[` in jots mode
+Version 3.62 (Feb 2, 2023)
+    - Fix typing fast in an un-persisted daily jot potentially dropping the second character typed
+    - Fix some cases where tapping on a notification would not highlight the corresponding task in the app
+    - Add support for attaching Word, Excel, and PowerPoint files (via sharing to Amplenote)
+    - Remove limit of 10 shortcuts per area (Notes, Jots, Tasks, etc)
+    - Fix content inside angle brackets in note titles not showing in note suggestion lists
+Version 3.61 (Jan 13, 2023)
+    - Add list of notes deleted in last 30 days (after tags in sidebar)
+    - Add dedicated option for archived notes (after tags in sidebar), removing default shortcut to archived notes
+    - Add setting to change first day of the week
+    - Fix calendar Task details screen not showing updated task attributes as they are changed
+    - Fix last time slot of calendar views being obscured by UI Quick to-do or navigation elements
+    - Improve editor scrolling when sharing content to Amplenote 
+Version 3.60 (Jan 7, 2023)
+    - Pasting a link when text range is selected now creates a link
+    - Better handling of enter press at start of table row
+    - Fix task widget popups getting cut off at the bottom of the editor
+Version 3.59 (Dec 22, 2022)
+    - Fix potential duplicate notifications after moving a task between notes
+Version 3.59 (Dec 22, 2022)
+    - Fix potential duplicate notifications after moving a task between notes
+Version 3.58 (Dec 20, 2022)
+    - Fix editor toolbar springing back to start on tablet layouts
+    - Fix 3-pane tablet view cutting off editor in some cases
+Version 3.57 (Dec 15, 2022)
+    - Fix rapid text entry in quick to-do dropping characters in some cases
+    - Fix backspace at start of quick to-do resulting in visual glitches
+    - Table fixes & improvements
+Version 3.56 (Dec 13, 2022)
+    - Initial table implementation for non-Founders
+Version 3.55 (Dec 7, 2022)
+    - Fix drawer status text overlapping content in some cases
+    - Fix drawer toggle button overlapping content on tablets in some cases
+Version 3.54 (Dec 5, 2022)
+    - Add option to lookup tasks on search screen
+    - Allow filtering of Full Search results by tag and category
+    - Fix tapping time suggestion in start at field using entered time instead of tapped suggestion
+    - Fix completed tasks getting moved to today's daily jot with other open tasks
+    - Fix a case where a note is immediately un-focused after placing the cursor in the note
+    - Fix a case where a particularly formed note could impact app performance
+Version 3.51 (Nov 13, 2022)
+    - Add buttons to quickly jump between modes, when focusing app
+    - Add syntax highlighting, indentation, and more to multi-language code editor
+    - Fix uploading images/videos in Rich Footnotes
+    - Fix jot note remaining open after deleting the note in a sub-screen
+Version 3.50 (Oct 19, 2022)
+    - Quick to-do improvements
+    - Add option to select an image or video
+    - Add search for note to add to
+    - Add options to schedule for a specific time
+    - List additional task options that have been added, e.g. via task menu ("!hide", etc)
+    - Restore add top/bottom options removed in 3.48
+    - Minor quick to-do editor fixes and improvements
+    - Enable tables for Founders
+    - Misc bug fixes and minor improvements
+    - Fix a case where the Quick to-do... bar could be missing after foregrounding the app
+    - Fix crash on right click in editor when running on macOS
+Version 3.49 (Oct 10, 2022)
+    - Fix amplenote://notes/NOTE-UUID URLs not opening the specified note
+    - Fix a case where the newest note content from another device doesn't load immediately
+Version 3.48 (Oct 7, 2022)
+    - Update Quick to-do bar to use a full editor
+    - Misc. editor bug fixes and improvements
+    - Adjust report diagnostics option to clarify its purpose
+    - Handle `amplenote://` URLs, e.g. `amplenote://notes` or `amplenote://jots`, when opened in other apps
+    - Handle sharing device screenshots to Amplenote
+Version 3.47 (Sep 16, 2022)
+    - Fix unreadable button in image options popup
+    - Handle PDF files shared from Files
+    - Handle PDF web files shared from Safari
+    - Handle sharing of multiple images or PDFs
+Version 3.46 (Sep 14, 2022)
+    - Added effects when completing tasks
+    - Add some useful home screen quick actions (long press on app icon)
+    - Show an option to open the note new content was added to, unless the note is already open
+    - Allow drawing over existing images. Tap an image to select it, then tap drawing icon in the editor toolbar.
+    - Allow editing of existing drawings (created in 3.46 or later - drawings created in earlier versions will be treated as images).
+Version 3.44 (Aug 9, 2022)
+    - Add options to center, add a caption, and manually size images
+    - Allow filtering a note's backlinks on tags and note references
+Version 3.41 (Jun 23, 2022)
+    - Apply color theme chosen for account (via web app)
+    - Add option to save note reference filters on tasks screen
+    - Add option to save note reference filters in calendar tasks list
+    - Add option to change theme on settings screen
+    - Fix add task bar not showing after using editor toolbar button to hide keyboard
+Version 3.40 (Jun 17, 2022)
+    - Fix editor sometimes scrolling unexpectedly when checking off a task
+    - Fix typing smileys (":)", etc) inserting non-smiley characters
+    - Add filtering by note reference on tasks screen
+    - Add filtering by note reference in calendar tasks list
+Version 3.39 (Jun 9, 2022)
+    - Add option to add drawings to notes when using an iPad
+    - Don't suggest locked notes with many tasks in jots suggestions
+    - Open calendar (https://www.amplenote.com/notes/calendar), tasks, and jots links in-app
+    - Indicate when no tag is applied on jots screen ("All notes" shown)
+Version 3.38 (May 27, 2022)
+    - Fix potential crash on note security screen, introduced in version 3.37
+    - Fix crash when linking to a note in [[ menu on calendar task details screen
+Version 3.37 (May 25, 2022)
+    - Fix crash when pressing note name on calendar event details screen
+    - Fix pasting image files in editor not working
+    - Open note filter links - e.g. https://www.amplenote.com/notes?tag=daily-jots - in app, instead of external browser
+    - Handle links to headings in same note (by scrolling to heading and highlighting it)
+    - Fix left-side drawer menu growing too wide in some cases
+    - Improve performance of calendar 3-day and weekly views
+Version 3.36 (May 19, 2022)
+    - Fix task due date not being clearable when editing a task's details on the calendar
+    - Display editor toolbars inline, above editors, on tablets (and macOS)
+    - Improve performance of calendar month view
+    - Fix a crash when placing the cursor in a jot when running on a mac
+Version 3.35 (May 17, 2022)
+    - Fix a cause of duplicate notifications
+    - Add option for 3-pane layout (tags, notes list, note) in notes section on tablets
+    - Fix display of calendar day names in 3-day and weekly mode
+Version 3.33 (May 11, 2022)
+    - Add 3-day, weekly, and monthly views for calendar
+    - Improve sizing of monthly calendar day selector on tablets
+    - Indicate on calendar where new task created via quick to-do will be added
+    - Show various menus as popups on tablets, rather than full screens
+Version 3.32 (May 2, 2022)
+    - Improve handling of Chinese, Japanese, and Korean search text in full-search
+    - Allow tags in alphabets without lower-case characters, like Chinese
+Version 3.31 (Apr 19, 2022)
+    - Fix "cross out" option not crossing out child items
+    - Fix "cross out" option sometimes changing a crossed out child bullet to be un-crossed out
+    - Hiding a parent task hides children
+    - Fix keyboard toolbar sometimes not showing up when editing a jot
+    - Fix first two numeric items both using number 1
+Version 3.30 (Apr 9, 2022)
+    - Don't auto-hide quick to-do on note editor screen
+    - Fix the "Edit details" option on a task in calendar mode not showing the task's details
+    - Fix subscription required messages not being very readable on a dark background
+Version 3.28 (Apr 5, 2022)
+    - Revamp all navigation to speed up app and reduce overall app size
+    - Add option to keep sidebar open on large (iPad) devices
+    - Fix tapping a task checkbox opening the keyboard when it wasn't already open
+    - Open quick search when pressing cmd+o on an external keyboard
+    - Fix quick to-do bar appearing in middle of screen after editing a note, when running on a mac
+Version 3.26 (Mar 29, 2022)
+    - Allow hybrid collapsible content (bullets, numbers, tasks)
+    - Fix typing in jot notes always scrolling to top note
+Version 3.25 (Mar 23, 2022)
+    - Add option to "cross out" a task, leaving it in place (as a bullet list item) when done
+    - Add option to specify time of day when hiding a task for a number of days using `!hide` task command
+    - Fix "Configure your task domains" message on calendar not being readable in dark mode
+    - Fix removing a note reference from a note not clearing out backlink in referenced note
+    - Allow Slide Over and Split View on iPad
+Version 3.24 (Mar 16, 2022)
+    - Fix frequently repeated tasks (more than 16 times in a month) occasionally not showing up on calendar
+    - Fix a rare case where an oft-repeated task could be duplicated when updating a note from a second client after a long hiatus
+Version 3.23 (Mar 8, 2022)
+    - Fix tasks screen not showing note suggestions or uploading images.
+    - Add option - enabled by default - to show the source of each task on tasks screen.
+Version 3.22 (Mar 2, 2022)
+    - Show suggested actions at the bottom of today's jot note
+Version 3.21 (Feb 12, 2022)
+    - Fix typing "---" on an empty line not inserting a horizontal rule
+    - Clarify limitations of basic and free accounts
+Version 3.20 (Feb 4, 2022)
+    - Fix newly typed characters flickering in some cases on the tasks screen
+    - Don't show form to add a collaborator when note can't be shared
+Version 3.19 (Jan 25, 2022)
+    - Fix crash when viewing source tags in calendar tasks list popup
+Version 3.18 (Jan 21, 2022)
+    - Default to today's daily jot when using quick to-do in jots mode
+    - List tags of currently selected note for quick to-do 
+Version 3.17 (Jan 13, 2022)
+    - Improve handling of linking to headings (by typing "#") in Rich Footnote link input
+    - Don't suggest tags when typing web addresses (or URLs) in Rich Footnote link input
+    - Improve rendering of note headings when grouping by note on tasks screen
+Version 3.16 (Dec 9, 2021)
+    - Fix Outlook calendar events with properties from other applications not showing up on calendar
+Version 3.15 (Dec 2, 2021)
+    - Fix add user button overlapping permissions popup for existing shares
+    - Show shared ancestor tags on share tag screen
+    - Add option to archive all notes with a specific tag
+Version 3.14 (Nov 23, 2021)
+    - Allow tags to be shared, such that any note given that tag is shared
+    - Show tags in quick to-do notes list
+Version 3.13 (Nov 16, 2021)
+    - Update shortcuts when renaming a tag used in shortcuts
+Version 3.12 (Oct 31, 2021)
+    - Indicate when other collaborators are editing a note
+    - Handle note set as default shortcut being deleted
+    - Handle `&tags=` parameters in new note links, e.g. https://www.amplenote.com/notes/new?tags=tag/subtag,second-tag
+    - Fix invite collaborators screen not loading in some cases
+Version 3.11 (Oct 12, 2021)
+    - List note collaborators currently viewing/editing a note
+    - Allow addition (via note menu) of shortcuts to notes in notes mode
+    - Fix setting a task to fixed repeat resetting start time in some cases
+Version 3.10 (Oct 5, 2021)
+    - Add option to group tasks on tasks screen by note creator
+    - Fix handling of "months before" in hide until rules
+    - Show note creator (if not current user) on note details screen
+    - Allow addition/removal of tags on notes that have been shared with you without edit access
+    - Fix tasks in duplicated notes not showing up in tasks/calendar views.
+    - Fix tasks inserted with `[[=` not showing up in tasks/calendar views.
+Version 3.9 (Sep 21, 2021)
+    - Add option to save a note as markdown
+    - Fix videos not displaying while uploading
+    - Show message when file is too large to be uploaded
+    - Show tasks due before the end of this week in "Due this week" tasks filter, even if due before this week
+Version 3.8 (Sep 9, 2021)
+    - Add support for inline videos
+    - Images and videos will now continue uploading in the background
+    - Improve handling of large file uploads
+    - Insert the content of a note instead of a link to the note when using `[[=name]]` syntax (instead of `[[name]]`).
+    - Remove errantly listed `[object Object]` tag in tags list on jots screen
+Version 3.7 (Sep 1, 2021)
+    - Fix notifications for completed repeating tasks not being removed
+    - Add option to delete all notes with a given tag
+    - Add option to merge a tag into another tag
+    - Add tag menu button to sidebar
+Version 3.6 (Aug 25, 2021)
+    - Fix custom duration text being cut off in task detail
+    - Fix crash when editing some tags
+Version 3.5 (Aug 4, 2021)
+    - Add !duration task command
+    - Allow full display of 6 weeks of completed tasks; specific ranges of days via filter menu on completed tasks tab
+    - Show count of notes (including archived) with each tag in side menu
+    - Only show tags that have notes with tasks when "Tasks" is the selected screen
+    - Add visual indicator of applied filters on quick open screen
+Version 3.4 (Jul 21, 2021)
+    - Add option when scheduling tasks on calendar to temporarily override default duration for task domain
+    - Don't show full tag path for child tags in sidebar
+    - Show more details of Google/Outlook events on calendar
+    - Don't show dismissed tasks on calendar
+    - Add option to show/hide tasks in notes created by other users on tasks screen
+Version 3.2 (Jul 13, 2021)
+    - Show completed tasks on calendar
+    - Fix tasks sometimes notifying multiple times, particularly when tasks have been moved between notes
+    - Fix !move command not working on calendar task details screen
+    - Fix future instances of some repeating tasks showing on incorrect day on calendar
+    - Add missing task score colors to tasks displayed on calendar
+    - Fix tag text not allowing Cyrillic characters
+Version 3.1 (Jul 1, 2021)
+    - Fix delete button in task detail
+    - Apply filter groups (e.g. "group:untagged") and tags (e.g. "in:some-tag") in quick-open search text
+    - List total note count - including archived - when no tag or filter has been applied on notes list screen
+    - Add option (on by default) to show all scheduled tasks in calendar views
+Version 3.0 (Jun 18, 2021)
+    - Bullets and tasks can now be collapsed
+    - Links can now be created in Rich Footnote descriptions, using markdown link syntax
+    - Fix editor not resizing when rotating device from portrait to landscape
+Version 2.59 (Jun 9, 2021)
+    - Add option to drawer menu (press your username to expand options) to manually select light or dark mode
+    - Fix error when undoing input in note editor (introduced in 2.58) 
+Version 2.58 (Jun 8, 2021)
+    - Add dark mode
+    - Fix "view" button in notification after adding a task not opening the note the task was added to
+Version 2.57 (Jun 3, 2021)
+    - Add calendar screen
+    - Add quick search entries for top level screens: calendar; jots; notes; and tasks.
+    - Add quick search option to create a new copy when the first matching note is a locked note.
+Version 2.56 (May 22, 2021)
+    - Fix crash introduced in 2.55 when entering text in quick open and tag name in tag input
+Version 2.55 (May 20, 2021)
+    - Fix note editor not keeping cursor in view (broken in version 2.54)
+    - Handle new note links (https://www.amplenote.com/notes/new) in-app
+    - Tasks in locked notes are no longer included on the tasks screen
+    - List headings in current note to link to with `[[#`
+Version 2.54 (May 13, 2021)
+    - Add visual feedback when completing a task
+    - Fix task checkboxes being difficult to press and opening the keyboard
+    - Set when a task starts using the quick to-do bar
+    - Fix image/video attachment on tasks screen
+    - Fix deeply-nested bullet list items not always starting at the first value
+    - Increase uploaded image size from a maximum of 800 by 600 to 1500 in both dimensions
+    - Improve handling of daily jots created at the same time on multiple devices
+    - Misc. editor improvements
+Version 2.52 (Apr 14, 2021)
+    - Handle multiple notes with the same name in jots
+    - Improve performance and stability of jots
+Version 2.51 (Apr 9, 2021)
+    - Fix daily notes older than a week sorting incorrectly in jots
+    - Misc. editor improvements
+Version 2.49 (Mar 29, 2021)
+    - Fix an error when tapping on a notification with app in background
+Version 2.48 (Mar 26, 2021)
+    - Update task "due" time to be called "start" time, to better align with calendar usage
+    - Add option to sort tasks on tasks screen by start time
+    - Improve performance of tasks screen
+    - Fix application of existing tags changing tag color to blue
+    - Misc. editor improvements
+Version 2.47 (Mar 4, 2021)
+    - Fix jots screen freezing in some cases when no tag is selected
+    - Misc. editor improvements
+Version 2.46 (Mar 2, 2021)
+    - Fix Rich Footnote image not uploading correctly in some cases on the tasks screen
+    - Improve handling of background updates when device is locked
+    - Fix note editor screen top-bar icons not appearing in some cases
+Version 2.45 (Feb 24, 2021)
+    - Type [ with text selected to surround the selected text with note link brackets.
+    - Fix next instance of a recurring task not being created until opening the note (if completed on tasks screen)
+    - Misc. editor improvements
+    - Calendar synchronization improvements
+    - Tasks screen performance and stability improvements
+    - Fix notes not updating in the background in some cases when device is locked
+    - Fix editor keyboard shortcuts (command+b, etc) using control key instead of command key 
+Version 2.44 (Jan 16, 2021)
+    - Add support for syncing to multiple connected calendars
+Version 2.43 (Dec 29, 2020)
+    - Fix linking to a heading linking to entire note instead
+    - Fix an error on startup for some users of the previous version
+Version 2.42 (Dec 23, 2020)
+    - Jots and tasks shortcuts are now synchronized between all your devices
+    - Fix toolbar button to insert images in jots mode not opening image picker
+    - Fix toolbar not showing on jots screen in some cases
+    - Misc. editor improvements
+Version 2.41 (Dec 15, 2020)
+    - Type a forward slash (/) in the note link menu to autocomplete tags
+    - Fix potential crash when an invalid tag is encountered
+    - Fix crash when linking to a note with `[[` in tasks view
+    - Misc. editor improvements
+Version 2.40 (Dec 1, 2020)
+    - Fix crash when changing tag color
+Version 2.39 (Nov 21, 2020)
+    - Fix crash on tasks screen
+    - Minor editor improvements
+Version 2.38 (Nov 17, 2020)
+    - Fix enter on search screen not opening the first note
+    - Show previews of YouTube and Twitter in Rich Footnote popups when no description has been provided
+    - Fix error undoing note deletion from popup notification
+Version 2.37 (Nov 8, 2020)
+    - Type # when linking to a note to link to a specific heading in the note
+    - Fix crash when navigating to a link on the tasks screen
+Version 2.36 (Nov 6, 2020)
+    - The content of a linked note is now shown in the Rich Footnote popup when no description has been entered
+    - Add option to search for unlinked references to the backlinks section
+    - Add filtering by tag for notes shown in backlinks section
+Version 2.35 (Oct 23, 2020)
+    - Add task commands menu: type ! after a space in a task to quickly change the task
+    - Improve visibility of task adjust buttons for the current task when the keyboard is open
+    - Fix potential crash when dismissing keyboard via toolbar on jots screen
+Version 2.34 (Oct 17, 2020)
+    - Improve edit tag screen (tap on the tag color circle when viewing a note)
+    - Add blockquote and redo to editor toolbar
+    - Improve note editor on large screen iPad devices with Request Desktop Website enabled
+    - Improve performance of tasks screen for users with a very large number of tasks
+    - Fix potential to get logged out when app is in the background immediately after device is unlocked
+Version 2.33 (Oct 12, 2020)
+    - Add jots functionality
+Version 2.32 (Sep 30, 2020)
+    - Tasks can be scheduled for a general time of day (e.g. "morning" or "afternoon") rather than a specific time
+    - Add support for notifications some time before a task is due
+    - Fix the behavior of return at the end of list items on iOS 14
+Version 2.31 (Sep 6, 2020)
+    - Fix incorrect synchronization of Outlook calendar events in some cases
+    - Tasks screen refreshes updated note content in the background
+    - Added sync status and search button to tasks screen top-bar
+    - Misc. note and tasks editor improvements 
+Version 2.30 (Aug 22, 2020)
+    - Add Unified Task List
+    - Fix images displaying at a fixed height
+    - Fix press on Task Detail expander button moving selection to start of next task
+    - Fix cursor getting stuck at the end of newly inserted links
+Version 2.29 (Aug 13, 2020)
+    - Fix app always launching to notes list (introduced in 2.28)
+Version 2.28 (Aug 12, 2020)
+    - Add option to un-archive archived notes
+    - Misc note editor fixes and improvements
+Version 2.27 (Jul 23, 2020)
+    - Allow editing of hidden task content
+    - Misc note editor fixes and improvements
+    - Fix potential for notes to be stuck showing pending upload of changes
+    - Show more context for backlinks in list hierarchies
+Version 2.26 (Jun 9, 2020)
+    - Remember last selected note editor tab (hidden; completed; backlinks) per-note
+    - Fix some note list display issues (missing border; extra white space; unwrapped preview lines)
+    - Fix some buttons not appearing rounded; update styling of note history screen
+    - Misc note editor fixes and improvements
+Version 2.25 (Jun 1, 2020)
+    - Add backlinks tab to bottom of note editor screen
+    - Fix text in tag inputs being white when device is in dark mode
+Version 2.24 (May 29, 2020)
+    - Move hidden tasks to bottom tab, next to completed tasks
+    - Dismissing a recurring task will now create recurring instances
+Version 2.23 (May 21, 2020)
+    - Create links to other notes - or a new note - quickly with `[[`
+    - Minor note editor optimizations
+Version 2.22 (Apr 28, 2020)
+    - Fix OCR text button on images not inserting text
+    - Handle unnecessary merging when three sequential changes are timed correctly
+    - Misc note editor fixes and improvements
+Version 2.21 (Apr 22, 2020)
+    - Improve note sharing screen
+    - Fix check-list-item buttons occasionally requiring multiple presses
+    - List editors of each specific note version
+    - Misc note editor fixes and improvements 
+Version 2.20 (Mar 19, 2020)
+    - Fix potential crash during upgrade to version 2.19 from earlier versions
+    - Improve handling of enter key in note editor, particularly in relation to auto-correct
+Version 2.19 (Mar 17, 2020)
+    - Add support for scheduling of tasks to external calendars
+Version 2.18 (Feb 14, 2020)
+    - Add embed options to publish note menu
+    - Tag display updates
+    - Improve handling of links to other notes
+    - Misc note editor fixes and improvements
+    - Add embed options to publish note menu
+    - Tag display updates
+    - Improve handling of links to other notes
+    - Misc note editor fixes and improvements
+Version 2.17 (Jan 28, 2020)
+    - Improve sizing of note editor
+    - Fix cursor being obscured by note editor toolbar when typing at the bottom of the screen
+    - Improve publish note menu, adding options for expiration, URL customization, and search indexing
+    - Start typing a note name in the Rich Footnote link field to quickly link to another note
+    - Pressing the sync status text in the drawer menu will list the notes being saved or downloaded
+    - Show mail-to-note option in note menu, if enabled for account
+Version 2.16 (Jan 16, 2020)
+    - Improve note status (locked, secure, shared, public) display in editor
+    - Improve note menu
+    - Increase top-bar button touch area
+    - Reduce app size
+Version 2.15 (Jan 2, 2020)
+    - Misc note editor fixes and improvements
+    - Improve note details screen
+    - Clarify display of locked Vault notes
+    - Improve quick search results
+Version 2.12 (Dec 10, 2019)
+    - Improve side-menu usability in landscape orientations
+    - Improve memory usage and performance when uploading images
+    - Allow uploading of videos as Rich Footnote attachments
+Version 2.11 (Nov 30, 2019)
+    - Fix restoring a note version as a new note displaying as an empty note
+    - Fix cursor occasionally being invisible in empty notes
+    - Fix animation hitch when creating a new note
+    - Speed up transitions into notes and between notes
+Version 2.10 (Nov 27, 2019)
+    - Fix images inserted while offline not displaying after closing and re-opening the note
+    - Indicate when a version was the result of a merge
+    - Misc note editor fixes and improvements
+    - Fix side menu not closing when tapping the menu icon
+Version 2.9 (Nov 19, 2019)
+    - Implement viewing of past note versions, with option to restore a version to a new note
+    - Paginate version history
+    - List existing tags when adding a tag to a note
+    - Misc note editor fixes and improvements
+Version 2.8 (Oct 29, 2019)
+    - Fix auto-correct and auto-capitalize in list items
+    - Fix initial touch in note editor placing cursor at note start
+    - Add options to sign in with Apple (iOS 13+) and Google accounts
+    - Fix sorting of notes on quick-bar note select popup
+Version 2.7 (Oct 16, 2019)
+    - Open links to other notes in app
+    - Minor note editor performance improvements
+    - Allow for tag color selection
+    - Fix handling of return when adding tasks via quick bar
+    - Misc. note editor fixes and improvements
+Version 2.6 (Sep 11, 2019)
+    - Limit tag names to lowercase letters; numbers; "-"; "_"; and "/"
+    - Add option to include a comment when sending a debugging report
+    - Don't show task quick actions until editor is focused
+    - Add "dismiss" option for tasks that took time but weren't "completed"
+    - Show most recently edited notes first in full-search results
+    - Use background fetch to keep notes up to date when app is in the background
+Version 2.5 (Aug 23, 2019)
+    - Fix long notes lists being truncated if device is locked immediately after login and app is subsequently terminated
+
+    - Improve sync handling when device is locked or app is backgrounded
+Version 2.4 (Aug 17, 2019)
+    - Creating a link with the cursor on a word will make the entire word a link
+    - Fix potential to get logged out after updating a note in the background while the device is locked
+Version 2.3 (Aug 8, 2019)
+    - Add support for iPad
+
+    - Fix editor not loading in rare cases when switching to the app
+
+    - Update note content in the background when it's changed on other devices
+
+    - Speed up initial updating when app is launched after long periods of inactivity
+Version 2.2 (Aug 2, 2019)
+    - The editor toolbar now shows the correct options when editing a Rich Footnote description
+    - Minor performance improvement while editing note content
+    - Remove excessive whitespace at top of search screen on some devices
+    - Add option to create public links when sharing notes
+    - Various note editor improvements and bug fixes
+Version 2.1 (Jul 25, 2019)
+    - Add option to include a message when sharing a note
+    - Fix note history not showing up
+    - Expand quick-bar note selection popup to fill screen
+    - Stop sliding the quick-bar on and off screen when the notes list is open
+    - Enable OCR on uploaded images, matching text in images when searching for notes
+Version 2.0 (Jul 23, 2019)
+
+Users may also like
+Select objects to compare
+Twos: Remember & Share Things
+Anytype: Private Notes
+Routine: Calendars & Tasks
+NotePlan - Daily Task Planner
+Logseq
+Nimbus Note
+Mem - AI Notes, Search & Chat
+UpNote - notes, diary, journal
+Walling
+Tana Capture
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.89
+    Current release
+    Feb 8, 2024
+    3.88
+    Jan 22, 2024
+    3.87
+    Jan 2, 2024
+    3.86
+    Dec 6, 2023
+    3.83
+    Oct 24, 2023
+    3.82
+    Sep 27, 2023
+    3.81
+    Sep 26, 2023
+    3.80
+    Sep 20, 2023
+    3.78
+    Sep 6, 2023
+    3.77
+    Aug 24, 2023
+    3.76
+    Aug 15, 2023
+    3.75
+    Aug 3, 2023
+    3.72
+    Jul 24, 2023
+    3.71
+    Jul 11, 2023
+    3.70
+    May 26, 2023
+    3.69
+    May 11, 2023
+    3.68
+    May 6, 2023
+    3.67
+    May 1, 2023
+    3.66
+    Apr 19, 2023
+    3.65
+    Apr 7, 2023
+    3.64
+    Mar 29, 2023
+    3.62
+    Feb 2, 2023
+    3.61
+    Jan 13, 2023
+    3.60
+    Jan 7, 2023
+    3.59
+    Dec 22, 2022
+    3.59
+    Dec 22, 2022
+    3.58
+    Dec 20, 2022
+    3.57
+    Dec 15, 2022
+    3.56
+    Dec 13, 2022
+    3.55
+    Dec 7, 2022
+    3.54
+    Dec 5, 2022
+    3.51
+    Nov 13, 2022
+    3.50
+    Oct 19, 2022
+    3.49
+    Oct 10, 2022
+    3.48
+    Oct 7, 2022
+    3.47
+    Sep 16, 2022
+    3.46
+    Sep 14, 2022
+    3.44
+    Aug 9, 2022
+    3.41
+    Jun 23, 2022
+    3.40
+    Jun 17, 2022
+    3.39
+    Jun 9, 2022
+    3.38
+    May 27, 2022
+    3.37
+    May 25, 2022
+    3.36
+    May 19, 2022
+    3.35
+    May 17, 2022
+    3.33
+    May 11, 2022
+    3.32
+    May 2, 2022
+    3.31
+    Apr 19, 2022
+    3.30
+    Apr 9, 2022
+    3.28
+    Apr 5, 2022
+    3.26
+    Mar 29, 2022
+    3.25
+    Mar 23, 2022
+    3.24
+    Mar 16, 2022
+    3.23
+    Mar 8, 2022
+    3.22
+    Mar 2, 2022
+    3.21
+    Feb 12, 2022
+    3.20
+    Feb 4, 2022
+    3.19
+    Jan 25, 2022
+    3.18
+    Jan 21, 2022
+    3.17
+    Jan 13, 2022
+    3.16
+    Dec 9, 2021
+    3.15
+    Dec 2, 2021
+    3.14
+    Nov 23, 2021
+    3.13
+    Nov 16, 2021
+    3.12
+    Oct 31, 2021
+    3.11
+    Oct 12, 2021
+    3.10
+    Oct 5, 2021
+    3.9
+    Sep 21, 2021
+    3.8
+    Sep 9, 2021
+    3.7
+    Sep 1, 2021
+    3.6
+    Aug 25, 2021
+    3.5
+    Aug 4, 2021
+    3.4
+    Jul 21, 2021
+    3.2
+    Jul 13, 2021
+    3.1
+    Jul 1, 2021
+    3.0
+    Jun 18, 2021
+    2.59
+    Jun 9, 2021
+    2.58
+    Jun 8, 2021
+    2.57
+    Jun 3, 2021
+    2.56
+    May 22, 2021
+    2.55
+    May 20, 2021
+    2.54
+    May 13, 2021
+    2.52
+    Apr 14, 2021
+    2.51
+    Apr 9, 2021
+    2.49
+    Mar 29, 2021
+    2.48
+    Mar 26, 2021
+    2.47
+    Mar 4, 2021
+    2.46
+    Mar 2, 2021
+    2.45
+    Feb 24, 2021
+    2.44
+    Jan 16, 2021
+    2.43
+    Dec 29, 2020
+    2.42
+    Dec 23, 2020
+    2.41
+    Dec 15, 2020
+    2.40
+    Dec 1, 2020
+    2.39
+    Nov 21, 2020
+    2.38
+    Nov 17, 2020
+    2.37
+    Nov 8, 2020
+    2.36
+    Nov 6, 2020
+    2.35
+    Oct 23, 2020
+    2.34
+    Oct 17, 2020
+    2.33
+    Oct 12, 2020
+    2.32
+    Sep 30, 2020
+    2.31
+    Sep 6, 2020
+    2.30
+    Aug 22, 2020
+    2.29
+    Aug 13, 2020
+    2.28
+    Aug 12, 2020
+    2.27
+    Jul 23, 2020
+    2.26
+    Jun 9, 2020
+    2.25
+    Jun 1, 2020
+    2.24
+    May 29, 2020
+    2.23
+    May 21, 2020
+    2.22
+    Apr 28, 2020
+    2.21
+    Apr 22, 2020
+    2.20
+    Mar 19, 2020
+    2.19
+    Mar 17, 2020
+    2.18
+    Feb 14, 2020
+    2.17
+    Jan 28, 2020
+    2.16
+    Jan 16, 2020
+    2.15
+    Jan 2, 2020
+    2.12
+    Dec 10, 2019
+    2.11
+    Nov 30, 2019
+    2.10
+    Nov 27, 2019
+    2.9
+    Nov 19, 2019
+    2.8
+    Oct 29, 2019
+    2.7
+    Oct 16, 2019
+    2.6
+    Sep 11, 2019
+    2.5
+    Aug 23, 2019
+    2.4
+    Aug 17, 2019
+    2.3
+    Aug 8, 2019
+    2.2
+    Aug 2, 2019
+    2.1
+    Jul 25, 2019
+    2.0
+    Jul 23, 2019
+
+See More
+Top In-App Purchases
+
+    Basic Plan - Monthly
+    $7.99
+    Pro Plan - Monthly
+    $11.99
+    Basic Plan - Yearly
+    $69.99
+    Founder Plan - Monthly
+    $24.99
+    Founder Plan - Yearly
+    $239.99
+    Pro Plan - Yearly
+    $119.99
+    Pro Plan - Yearly
+    $69.99
+    Unlimited Plan - Monthly
+    $11.99
+    Unlimited Plan - Yearly
+    $119.99
+    Pro Plan - Monthly
+    $7.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jul 23, 2019
+
+Worldwide Release Date
+    Aug 31, 2019
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    3.89
+
+Size
+    35.92 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Alloy.dev, Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.1 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.amplenote.amplenote
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1436769674
+Unified App ID: 1000800000006196
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Amplenote | data.ai

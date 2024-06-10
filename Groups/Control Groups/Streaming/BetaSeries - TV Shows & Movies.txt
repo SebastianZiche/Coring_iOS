@@ -1,0 +1,1414 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+BetaSeries - TV Shows & Movies
+NetcatsEntertainment (Applications)Free
+Alerts
+
+BetaSeries
+BetaSeries - TV Shows & Movies
+BetaSeries - TV Shows & Movies
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+BetaSeries - TV Shows & Movies
+Watch all your shows
+Entertainment (Applications)
+Free
+App Description
+Note: You can't watch nor download your shows and movies with BetaSeries.
+
+In 10 years of existence, BetaSeries has become your best ally for TV shows: manage your calendar, share your latest episodes watched and discover new shows – within a one million member community.
+
+Features
+-- 
+
+* Fill out your series-lover profile with all the shows you’re watching.
+* Discover new movies and shows to watch very easily.
+* Know what to watch next week with your own episode calendar.
+* Get notified when a new episode or movie is available.
+* Rate and comment your movies, shows and episodes.
+* Discover on what SVoD platforms your episodes and movies are available.
+* Stay at the forefront of the TV news thanks to the articles published on the BetaSeries blog.
+* Find inspiration and respond to your friends’ activity in the news’ feed.
+* Be part of the community, earn badges and experience points.
+
+Many other surprises await you on BetaSeries!
+
+Customizable notifications
+-- 
+
+Don’t want to miss the next Demon Slayer episode or the new House of the Dragon season? You can choose to be notified every day on your phone when new episodes are released.
+
+About BetaSeries
+-- 
+
+BetaSeries is a movies and shows community. Find it on BetaSeries.com, alongside with your fully synchronized account. We are available on social networks if you wish to contact us and share your ideas.
+Ratings
+Displayed Avg Ratings
+4.28
+Total Displayed Ratings
+13.2k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.25.2 (Feb 27, 2024)
+    Thank you for using BetaSeries! To make your use of the application even more enjoyable, we have made some improvements.
+
+    What's new in version 2.25.2
+
+    - Update movie search in profile.
+    - Update iPad layouts.
+    - Add platforms on calendar.
+    - Add a filter to remove not released movies from watchlist.
+    - Various fixes
+
+    We are currently updating and fixing bugs on our app. If you experiment issues with our application, please provide a video or screenshot on support@betaseries.com
+    You can join the BetaSeries community on discord here: https://discord.gg/4Q3avDs
+Version 2.25.1 (Jan 10, 2024)
+    Thank you for using BetaSeries! To make your use of the application even more enjoyable, we have made some improvements.
+
+    What's new in version 2.25.1
+
+    - Add a search bar on shows and movies list in profile.
+    - Fix platforms display on the watchlist.
+    - Fix redirect link to suggest a show.
+    - Fix polls.
+    - Various fixes
+
+    We are currently updating and fixing bugs on our app. If you experiment issues with our application, please provide a video or screenshot on support@betaseries.com
+    You can join the BetaSeries community on discord here: https://discord.gg/4Q3avDs
+Version 2.25 (Jan 3, 2024)
+    Thank you for using BetaSeries! To make your use of the application even more enjoyable, we have made some improvements.
+
+    What's new in version 2.25
+
+    - Revamp design of the app.
+    - Add new filter for subscribed platforms on the watch list (episodes and movies).
+    - Add new filter for subscribed platforms on the profile (shows and movies).
+    - Add platforms when available on movies everywhere.
+    - Various fixes
+
+    We are currently updating and fixing bugs on our app. If you experiment issues with our application, please provide a video or screenshot on support@betaseries.com
+    You can join the BetaSeries community on discord here: https://discord.gg/4Q3avDs
+Version 2.23.1 (Oct 25, 2023)
+    Thank you for using BetaSeries! To make your use of the application even more enjoyable, we have made some improvements.
+
+    What's new in version 2.23.1
+
+    - Add a filter by "time left to watch" on the episodes list.
+    - Add a tutorial for the episodes rating modale and a skip action.
+    - Fix scrolling issues when answering comments.
+    - Fix translations.
+    - Various fixes
+
+    We are currently updating and fixing bugs on our app. If you experiment issues with our application, please provide a video or screenshot on support@betaseries.com
+    You can join the BetaSeries community on discord here: https://discord.gg/4Q3avDs
+Version 2.23 (Oct 9, 2023)
+    Thank you for using BetaSeries! To make your use of the application even more enjoyable, we have made some improvements.
+
+    What's new in version 2.23
+
+    - Update the homepage
+    - Add a new tab called "Community"
+    - Add new info for actors/directors in casting pages.
+    - Various fixes
+
+    We are currently updating and fixing bugs on our app. If you experiment issues with our application, please provide a video or screenshot on support@betaseries.com
+    You can join the BetaSeries community on discord here: https://discord.gg/4Q3avDs
+Version 2.22 (Jul 31, 2023)
+    Thank you for using betaseries! To make your use of the application even more enjoyable, we have made some improvements.
+
+    What's new in version 2.22
+
+    - Fix display of titles on show pages
+    - Add a widget called "Up next"
+    - General fixes
+
+    We are currently updating and fixing bugs on our app. If you experiment issues with our application, please provide a video or screenshot on support@betaseries.com
+    You can join the betaseries community on discord here: https://discord.gg/4Q3avDs
+Version 2.21.2 (Jul 5, 2023)
+    Thank you for using betaseries! To make your use of the application even more enjoyable, we have made some improvements.
+
+    What's new in version 2.21.2
+
+    - Fix scroll issues for iPad
+    - Fix trailers on seasons pages
+    - Fix rating modale display
+    - Update app launch start loading when the launch page is the episodes list.
+    - Update profile page loading, history and shows list on profile.
+    - Add official logos of TV shows (when available)
+
+    We are currently updating and fixing bugs on our app. If you experiment issues with our application, please provide a video or screenshot on support@betaseries.com
+    You can join the betaseries community on discord here: https://discord.gg/4Q3avDs
+Version 2.21.1 (Jun 22, 2023)
+    Thank you for using BetaSeries! To make your use of the application even more enjoyable, we have made some improvements.
+
+    What's new in version 2.21.1
+
+    - Add search bar for casting list.
+    - Add not yet released movies in the watchlist.
+    - Number of episodes to rate removed from the banner.
+    - Fix stars display after rating an episode.
+    - Fix duplicates for archived shows.
+    - Fix video player display.
+    - Fix iPad scroll on the profile.
+    - Others general fixes.
+Version 2.21 (Jun 13, 2023)
+    Thank you for using BetaSeries! To make your use of the application even more enjoyable, we have made some improvements.
+
+    What's new in version 2.21
+
+    - Redesign of series/episodes/movies pages.
+    - Redesign of profile page and addition of statistics.
+    - Redesign of the member's list of series and movies.
+    - Addition and improvement of SVOD platforms for movies and series.
+    - Addition of actor and showrunner pages, as well as search.
+    - Addition of season pages.
+    - Overall update of animations.
+    - Various improvements.
+Version 2.20.6 (Jun 17, 2022)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.20.6
+    ----------------
+
+    - Fixed facebook login
+    - Bug fixes.
+Version 2.20.5 (Jun 14, 2022)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.20.5
+    ----------------
+
+    - Added a spoiler button on the episodes pages.
+    - Added rating notes next to the stars on pages.
+    - Added a blur on the episodes images in the notification page.
+    - Bug fixes.
+Version 2.20.4 (Apr 16, 2022)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.20.4
+    ----------------
+
+    - Updated the embed shows in the article's content.
+    - Fixed the search when the system language of the device is not available.
+    - Bug fixes.
+Version 2.20.3 (Mar 22, 2022)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.20.3
+    ----------------
+
+    - Updated terms of use.
+    - Updated onboarding screen for new coming users.
+    - Added sync of external services.
+    - Added display as lightbox of the posters in shows and movies pages.
+    - Fixed bugs regarding the radio in french and the recommendation section.
+    - Bug fixes.
+Version 2.20.2 (Feb 7, 2022)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.20.2
+    -----------------
+
+    - Added polls for not logged-in users and in spanish and deutsch.
+    - Fixed duplicated articles on the home page.
+    - Fixed trailers on movies’ pages.
+    - Bug fixes.
+Version 2.20.1 (Jan 13, 2022)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.20.1
+    ----------------
+
+    - Fixed display of editorial homepage.
+    - Fixed display of some ads (still in testing phase).
+    - Bug fixes.
+Version 2.20 (Jan 10, 2022)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.20
+    -------------------
+
+    - Updated editorial home.
+    - Added ads (testing phase).
+    - Bug fixes.
+Version 2.19.6 (Dec 13, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.19.6
+    ----------------
+
+    - Added a picture carousel on the show's pages.
+    - Added a secondary title on the show’s pages.
+    - Added a video player for dailymotion.
+    - Added a button to access private messages (via website).
+    - Fixed display of shows and movies on the profile’s page.
+    - Bug fixes.
+Version 2.19.5 (Nov 22, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.19.5
+    ----------------
+
+    - Updated cached data for main tabs.
+    - Added friends list in the user’s profile page.
+    - Bug fixes.
+Version 2.19.4 (Oct 29, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.19.4
+    ---------------
+
+    - Updated article’s content style.
+    - Updated count of shows and movies in the lists of the user profile.
+    - Bug fixes.
+Version 2.19.3 (Oct 14, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.19.3
+    ---------------
+
+    - Updated comments style and added spoiler button.
+    - Updated home banners style.
+    - Updated and added info on the show’s list in the profile page.
+    - Added a filter to sort by last episodes watched on the show’s list in the profile page.
+    - Bug fixes.
+Version 2.19.2 (Oct 5, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.19.2
+    ---------------
+
+    - Updated for iOS 15.
+    - Updated animation of rating popups.
+    - Updated refresh of the episodes to watch list.
+    - Fixed mark as watched action for not released episodes.
+    - Fixed trailer videos.
+    - Fixed web links in notifications.
+    - Bug fixes.
+Version 2.19.1 (Sep 9, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.19.1
+    --------------
+
+    - Added autoscroll of long titles on shows and movies pages.
+    - Added secondary title on tap on a movie’s page.
+    - Updated home section of the app.
+    - Fixed display of shows and movies in the profile when an action is done by the user.
+    - Bug fixes.
+Version 2.19 (Jul 26, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.19
+    -------------
+
+    - Updated homepage content.
+    - Added a next poll button on the poll's block.
+    - Fixed search.
+    - Bug fixes.
+Version 2.18.5 (Jun 28, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.18.5
+    ---------------
+
+    - Add accessibility text size option in the settings.
+    - Fix section title bug in articles.
+    - Bug fixes.
+Version 2.18.4 (May 25, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.18.4
+    ---------------
+
+    - Fixed a bug when loading shows and movies history on the user’s profile page.
+    - Fixed the svod platforms display on the episodes to watch list.
+    - Fixed a bug when loading member’s shows on the user’s profile page.
+    - Fixed a bug when loading a video.
+    - Updated search engine.
+    - Bug fixes.
+Version 2.18.3 (Apr 8, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.18.3
+    --------------
+
+    - Added the SVOD info in the episodes to watch list.
+    - Added the history of watched shows and movies on the user’s profile page.
+    - Added a setting to enable/disable the advanced filters in the search page.
+    - Updated the display of the posters.
+    - Bug fixes.
+Version 2.18.2 (Mar 18, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.18.2
+    ---------------
+
+    - Updated the articles style and display for the German localization.
+    - Added the original country filter in the advanced search.
+    - Added a sort button for the articles’ comments.
+    - Bug fixes.
+Version 2.18.1 (Feb 24, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.18.1
+    --------------
+
+    - Updated the onboarding experience for new users.
+    - Improved the recommendation system.
+    - Bug fixes.
+Version 2.18 (Feb 4, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.18
+    -------------
+
+    - Updated the app for a better experience.
+    - Added a new search with advanced filters.
+    - Fixed edit for comments.
+    - Bug fixes.
+Version 2.17.2 (Jan 14, 2021)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.17.2
+    ---------------
+
+    - Fixed the display of the episodes list.
+    - Fixed the display of the month of January in the calendar.
+    - Fixed the comments loading on a show’s page.
+    - Bug fixes.
+Version 2.17.1 (Dec 22, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.17.1
+    -------------
+
+    - Fixed the general display for iPad.
+    - Added open and closed sections for polls.
+    - Added a search history..
+    - Added new statistics on the profile.
+    - Bug fixes.
+Version 2.17 (Dec 10, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.17
+    ------------
+
+    - Added an iPad version.
+    - Added suggested links for movies and TV shows in the settings.
+    - Fixed a bug where the sound was cut at launch.
+    - Bug fixes.
+Version 2.16.1 (Nov 23, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.16.1
+    --------------
+
+    - Updated display of recommendations.
+    - Added preferred platforms choice to help improve the recommendation system.
+    - Updated search tab to display better choices of shows for the user.
+    - Bug fixes.
+Version 2.16 (Nov 4, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.16
+    ———————
+
+    - Updated badges.
+    - Fixed elevator badge detection.
+    - Fixed a crash when visiting a friend’s page.
+    - Fixed a crash when double tapping on the tab bar.
+    - Bug fixes.
+Version 2.15.9 (Oct 29, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15.9
+    ———————
+
+    - Added new badges for users to collect.
+    - Updated the display of the user’s profile.
+    - Updated the display of shows in articles content.
+    - Bug fixes.
+Version 2.15.8 (Oct 9, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15.8
+    ———————
+
+    - Updated the app for iOS 14.
+    - Updated login to external services.
+    - Updated display of shows in articles content.
+    - Bug fixes.
+Version 2.15.7 (Sep 2, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15.7
+    ———————
+
+    - Added a new icon to give more readability to the hidden episodes and seasons.
+    - Updated the sliders when adding a show.
+    - Bug fixes.
+Version 2.15.6 (Jul 15, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15.6
+    ———————
+
+    - Added the possibility to add platforms the user subscribed to, in the settings menu.
+    - Added an option to enable auto-share when watching an episode.
+    - Added continue and sign-in with Apple.
+    - Updated the recommendation system.
+    - Bug fixes.
+Version 2.15.5 (Jul 2, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15.5
+    ———————
+
+    - Added the possibility to add platforms the user subscribed to, in the settings menu.
+    - Added an option to enable auto-share when watching an episode.
+    - Updated the recommendation system.
+    - Bug fixes.
+Version 2.15.4 (Jun 3, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15.4
+    ———————
+
+    - Updated the recommendation system.
+    - Added the possibility to add a spoiler when writing a comment.
+    - Added a way to navigate to the pages from a comment notification.
+    - Bug fixes.
+Version 2.15.3 (May 14, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15.3
+    ———————
+
+    - Fixed truncated texts in polls.
+    - Fixed Facebook link account bug.
+    - Bug fixes.
+Version 2.15.2 (Apr 22, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15.2
+    ———————
+
+    - Fixed the scrolling bug when marking an episode as watched on the list of episodes to watch.
+    - Bug fixes.
+Version 2.15.1 (Apr 3, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15.1
+    ——————
+
+    - Bug fixes.
+Version 2.15 (Mar 25, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.15
+    ——————
+
+    - Added a recommendation feature for new users and on the search tab.
+    - Added the SVOD platforms info during a search.
+    - Bug fixes.
+Version 2.14.1 (Feb 25, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.14.1
+    ———————
+
+    - Added the showrunner on the shows’ page.
+    - Added the actors on the episodes’ page.
+    - Added the SVOD and VOD information on the shows’ page.
+    - Bug fixes.
+Version 2.14 (Feb 12, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.14
+    ——————
+
+    - Added a filter to display several episodes per series on the list of episodes to watch.
+    - Added the rating feature for finished shows.
+    - Added a button to rate your finished shows on the users’ series list.
+    - Added a separation between archived shows and finished shows.
+    - Added an option in the settings to unsubscribe from the news notifications.
+    - Bug fixes.
+Version 2.13.4 (Jan 31, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.13.4
+    ———————
+
+    - Added a news section on the series and movies pages.
+    - Added articles in the search bar.
+    - Added a button to mark the episodes and seasons as watched directly on the series page.
+    - Added a show rating when the series is ended or archived.
+    - Added a detection for multiple following episodes in the rating feature.
+    - Bug fixes.
+Version 2.13.3 (Jan 14, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.13.3
+    ———————
+
+    - Add swipe-left gesture to close audio player.
+    - Add comments section below the articles content.
+    - Fix display of original movie posters.
+    - Bug fixes.
+Version 2.13.2 (Jan 3, 2020)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.13.2
+    ———————
+
+    - Fix sounds that were stopped when launching the application.
+    - Fix episodes list filters that were not set properly.
+    - Fix display of audio player that was above comments area.
+    - Add year account statistics into user's profile.
+    - Bug fixes.
+Version 2.13.1 (Dec 21, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.13.1
+    ———————
+
+    - Added the rating feature for seasons marked entirely as watched at once.
+    - Updated the audio player for live podcasts.
+    - Bug fixes.
+Version 2.13 (Dec 12, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.13
+    ——————
+
+    - Added an edit option on the users’ comments.
+    - Added more options for the launch tab in the application settings.
+    - Bug fixes.
+Version 2.12.3 (Dec 6, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.12.3
+    ———————
+
+    - Add a slider on podcast to choose the time frame.
+    - Add a swipe to close the audio player.
+    - Add embed tweets in the articles on the homepage.
+
+
+    Update 2.12
+    ——————
+
+    - Added the BetaSeries blog and an audio player on the home screen.
+    - Moved the notifications to the home screen.
+    - Improved loading performance on users’ profile.
+    - Improved loading performance on members’ shows and movies lists.
+    - Added a specific view for favorites on the users’ profile.
+    - Bug fixes.
+Version 2.12.2 (Nov 29, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.12.2
+    ———————
+
+    - Fix a bug regarding the selected launch tab.
+    - Fix the display of the notifications system when logging in.
+    - Minor fixes regarding audio player for podcasts.
+
+
+    Update 2.12
+    ——————
+
+    - Added the BetaSeries blog and an audio player on the home screen.
+    - Moved the notifications to the home screen.
+    - Improved loading performance on users’ profile.
+    - Improved loading performance on members’ shows and movies lists.
+    - Added a specific view for favorites on the users’ profile.
+    - Bug fixes.
+Version 2.12.1 (Nov 24, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.12.1
+    ——————
+
+    - Fix a crash when launching audio player on the home screen.
+
+
+    Update 2.12
+    ——————
+
+    - Added the BetaSeries blog and an audio player on the home screen.
+    - Moved the notifications to the home screen.
+    - Improved loading performance on users’ profile.
+    - Improved loading performance on members’ shows and movies lists.
+    - Added a specific view for favorites on the users’ profile.
+    - Bug fixes.
+Version 2.12 (Nov 22, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.12
+    ——————
+
+    - Added the BetaSeries blog and an audio player on the home screen.
+    - Moved the notifications to the home screen.
+    - Improved loading performance on users’ profile.
+    - Improved loading performance on members’ shows and movies lists.
+    - Added a specific view for favorites on the users’ profile.
+    - Bug fixes.
+Version 2.11.1 (Oct 22, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.11.1
+    ——————
+
+    - Fix a crash at launch.
+    - Fixes related to iOS 13.1.3
+    - Fix registering via FBConnect.
+Version 2.10.1 (Oct 9, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.10.1
+    ——————
+
+    - Improvement and optimization of the search system.
+    - Separation of the members’ search on the profile view.
+    - Added the release date of the episodes on the series’ pages.
+    - Improvement of the posters’ loading performance.
+    - Bug fixes.
+Version 2.10 (Sep 16, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.10
+    ——————
+
+    - Improvement and optimization of the general performance of the application.
+    - Blurred images for the still unwatched episodes on the series tracked by the user.
+    - Added the release date of the episodes on the series’ pages.
+    - Added the total number of episodes and the total duration of the series on the series’ pages.
+    - Added the list of friends who want to see the movie on the movies’ pages.
+    - Added the SVoD links both for the tracked and untracked shows.
+    - Bug fixes.
+Version 2.9.2 (Jul 8, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.9.2
+    ——————
+
+    - Portuguese and Brazilian Portuguese localizations.
+    - Improved loading time.
+    - Correction of the image display in the application.
+    - Bug fixes.
+Version 2.9.1 (Apr 15, 2019)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.9.1
+    ——————
+
+    - Increased font size.
+    - Addition of the number of items next to each section of the series and movies’ pages.
+    - Better images display on the series and movies’ pages.
+    - Improved loading time in the application.
+    - Bug fixes.
+Version 2.9 (Oct 25, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.9
+    ——————
+
+    - New SVoD links on the episodes’ and movies’ pages and on the watchlist.
+    - New sort order on your watchlist to see your episodes and movies available on SVoD.
+    - New statistics on your profile with the remaining time of movies to watch.
+    - New button to minimize the polls on the newsfeed.
+    - Choose to receive the BetaSeries’ newsletters or not, directly from your app settings.
+    - Bug fixes.
+Version 2.8 (Sep 5, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.8
+    —————
+
+    - Polls are now available in the newsfeed.
+    - Bug fixes.
+
+    Update 2.7.2
+    ——————
+
+    - Netflix synchronization is now available in the app’s settings.
+    - Total views of an episode are now displayed.
+    - YouTube shows now appear with a “Play” button in the watchlist.
+    - Bug fixes.
+Version 2.7.2 (Aug 10, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.7.2
+    ——————
+
+    - Netflix synchronization is now available in the app’s settings.
+    - Total views of an episode are now displayed.
+    - YouTube shows now appear with a “Play” button in the watchlist.
+    - Bug fixes.
+Version 2.7.1 (Jul 18, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.7.1
+    ——————
+
+    - New activities on the newsfeed: see the last comments your friends posted.
+    - New no-spoiler tag on your friend’s activity who have seen a movie you want to see.
+    - New information on the shows’ and movies’ pages: movie’s original title, movie’s tagline and number of comments.
+    - Mark movies as watched as soon as they’re released in their original country.
+    - Hide, mark as collected or download subtitles on unreleased episodes.
+    - Bug fixes.
+Version 2.7 (Jul 2, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.7
+    —————
+    - New watchlist for your movies and addition of the films in the calendar.
+    - New feature to check several episodes at once from the show page.
+    - New sharing feature: share your BetaSeries profile or the shows, movies and episodes’ pages.
+    - New options when you mark an episode or movie as watched: rate it, comment it on BetaSeries and share it directly on social networks.
+    - Bug fixes.
+Version 2.6 (Jun 8, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.6
+    ——————
+
+    - New BetaSeries’ logo.
+    - New shows and movies’ pages: find all the informations on your series, episodes and movies on our completely redesigned pages.
+    - Spanish and German localization: BetaSeries is now available in Spanish and German. You can change the language of the app and the shows, episodes or movies’ pages according to your preferences in the settings.
+    - New onboarding during the sign up.
+    - Sort the comments chronologically.
+    - Apply a long pressure to see the subtitles’ full name.
+    - Bug fixes and optimizations.
+Version 2.5.3 (Mar 7, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.5.3
+    ——————
+
+    - You can now sort your shows by preference according to your ratings.
+    - Performance improvements.
+    - Bug fixes.
+
+
+    Update 2.5
+    —————
+
+    * English localization: BetaSeries is now available in english. You can change the language of the app and the shows, episodes or movies’ pages according to your preference in the settings. You can also choose your country of residence.
+Version 2.5.2 (Feb 19, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.5.2
+    ——————
+
+    * You can now choose the first day of the week for your calendar in the settings (Monday, Saturday, or Sunday).
+    * Bug fixes.
+
+    Update 2.5
+    —————
+
+    * English localization: BetaSeries is now available in English. You can change the language of the app and the shows, episodes, and movies’ pages according to your preferences in the settings. You can also choose your country of residence.
+    * Bug fixes.
+Version 2.5.1 (Jan 25, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.5.1
+    ——————
+
+    * Fixed a crash that occurred at app launch.
+    * Bug fixes.
+
+    Update 2.5
+    —————
+
+    * English localization: BetaSeries is now available in English. You can change the language of the app and the shows, episodes or movies’ pages according to your preference in the settings. You can also choose your country of residence.
+    * Bug fixes.
+Version 2.5 (Jan 15, 2018)
+    Thank you for using BetaSeries! For a better experience we made some improvements.
+
+    Update 2.5
+    —————
+
+    * English localization: BetaSeries is now available in English. You can change the language of the app and the shows, episodes or movies’ pages according to your preference in the settings. You can also choose your country of residence.
+    * Bug fixes.
+Version 2.4.1 (Dec 6, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations.
+
+    Nouveautés de la version 2.4.1
+    ——————————————
+
+    * Chargement plus rapide des séries, épisodes, et commentaires.
+    * Les liens dans les commentaires sont désormais cliquables.
+    * Ajout d'un réglage pour afficher le numéro global des épisodes.
+    * Corrections de bugs.
+
+    Vous avez récemment mis à jour BetaSeries et découvert de nouvelles fonctionnalités, les voici :
+
+    Nouveautés de la version 2.4
+    ——————————————
+
+    * Épisodes à regarder : retrouvez en un clin d’œil les prochains épisodes à regarder, puis marquez et notez-les en toute simplicité.
+    * Nouvel agenda : organisez votre planning d’épisodes grâce au calendrier des prochaines sorties.
+    * Réorganisation des onglets : vous y trouverez désormais directement votre agenda ainsi que la liste des épisodes à regarder. Mais pas de panique, vos séries et films sont toujours accessible depuis les onglets de votre profil. Et si vous le souhaitez, vous pouvez également choisir votre onglet de démarrage (fil d’actualité, agenda ou planning des épisodes) dans les paramètres de l'application.
+    * Correction de bugs.
+    * Support pour l'iPhone X.
+Version 2.4 (Nov 21, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations.
+
+    Nouveautés de la version 2.4
+    ——————————————
+
+    * Épisodes à regarder : retrouvez en un clin d’œil les prochains épisodes à regarder, puis marquez et notez-les en toute simplicité.
+    * Nouvel agenda : organisez votre planning d’épisodes grâce au calendrier des prochaines sorties.
+    * Réorganisation des onglets : vous y trouverez désormais directement votre agenda ainsi que la liste des épisodes à regarder. Mais pas de panique, vos séries et films sont toujours accessible depuis les onglets de votre profil. Et si vous le souhaitez, vous pouvez également choisir votre onglet de démarrage (fil d’actualité, agenda ou planning des épisodes) dans les paramètres de l'application.
+    * Correction de bugs.
+    * Support pour l'iPhone X.
+Version 2.3.1 (Oct 23, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations.
+
+    Nouveautés de la version 2.3.1
+    ——————————————
+
+    * Nouvelle recherche générale disponible sur toute l'app.
+    * Ajout des découvertes et nouveautés directement dans la recherche.
+    * Correction de différents bugs.
+
+    Prochaines mises à jour
+    ———————————
+
+    Nous sommes en train de repenser entièrement l’application et de futures grosses mises à jour vous attendent. Celles-ci vous permettront notamment de mieux gérer votre planning et d’avoir une utilisation plus fluide et intelligente de l’app. Un peu de patience, et restez aux aguets !
+Version 2.3 (Sep 29, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations.
+
+    Nouveautés de la version 2.3
+    ——————————————
+
+    * Nouvelle section "notification" directement dans la barre de menu, mise à jour de l'affichage et des fonctionnalités des notifications.
+    * Mise à jour de l'application pour iOS 11 .
+    * Correction de différents bugs.
+Version 2.2.1 (Aug 25, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations.
+
+    Nouveautés de la version 2.2.1
+    ——————————————
+
+    * Refonte des paramètres.
+    * Inversion de l’ordre des commentaires.
+    * Ajout de la correction automatique lors de la rédaction d’un commentaire.
+    * Correction de différents bugs.
+
+
+    Précédemment sur la version 2.2…
+    ————————————————
+
+    * Mise en place du nouveau fil d’actualité.
+    * Mise à jour de la liste des épisodes à regarder.
+    * Mise à jour des actualité séries.
+    * Ajout d'un bouton "Vider le cache" afin de nettoyer les données sauvegardées.
+Version 2.2 (Jul 24, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations.
+
+    Nouveautés de la version 2.2
+    ——————————————
+
+    * Mise en place du nouveau fil d’actualité.
+    * Mise à jour de la liste des épisodes à regarder.
+    * Mise à jour des actualité séries.
+    * Ajout d'un bouton "Vider le cache" afin de nettoyer les données sauvegardées.
+    * Correction de différents bugs : affichage des marquages de saison depuis la fiche d’une série, zone de saisie qui était au-dessus du dernier commentaire…
+Version 2.1.1 (Jun 28, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations.
+
+    Nouveautés de la version 2.1.1
+    ——————————————
+
+    * Amélioration des performances de l’application.
+    * Correction de bugs : affichage des films, champ de recherche…
+    * Retrait de la restriction du nombre de films et séries favoris sur le profil.
+
+    Prochaines mises à jour
+    ———————————
+
+    Nous sommes en train de repenser entièrement l’application, ainsi la prochaine mise à jour majeure de BetaSeries portera sur la page d’accueil, bien plus ergonomique et avec un design neuf.
+Version 2.1.0 (May 29, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations.
+
+    Nouveautés de la version 2.1.0
+    ——————————————
+
+    * Mise à jour du design et des informations du profil.
+    * Ajout d’une animation lors de l’obtention d’un nouveau badge.
+    * Ajout de l'arborescence complète des commentaires lors de l'ouverture d'une notification.
+    * Ajout de la gestion des fuseaux horaires pour l'affichage des dates.
+    * Amélioration de la recherche de série en ajoutant les alias.
+    * Correction de différents bugs.
+
+    Prochaines mises à jour
+    ———————————
+
+    Nous sommes en train de repenser entièrement l’application, ainsi la prochaine mise à jour majeure de BetaSeries portera sur la page d’accueil, bien plus ergonomique et avec un design neuf.
+Version 2.0.2 (Apr 28, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations.
+
+    Nouveautés de la version 2.0.2
+    ——————————————
+
+    * Correction de bugs
+    * Ajout d’un filtre dans l’onglet « Épisodes à regarder » pour trier vos épisodes.
+    * Modification du tri et des filtres dans l’onglet « Mes séries ».
+    * Ajout du nombre d’épisodes à regarder dans l’onglet « Mes séries » pour voir le nombre d’épisodes restants des séries en cours.
+    * Suppression des films déjà vus par l’utilisateur dans l’onglet « Découvrir ».
+    * Inversion de l’ordre de tri des réponses à un commentaire.
+    * Ajout d’un avatar par défaut si le membre n’a pas ajouté d’image.
+
+
+    Nouveautés de la version 2.0.1
+    ——————————————
+    * Correction de différents bugs : au lancement de l’application sur iOS 9.3, à l’ouverture d’une notification de message privé et au chargement de certaines images.
+    * Correction de bugs graphiques sur iPhone 4S, 5, 5s et SE.
+    * Possibilité de choisir d’afficher ou non le badge des épisodes à regarder sur l’icône de l’application.
+    * Redirection des signalements de bugs depuis l’application vers la rubrique iOS du site.
+    * Possibilité de marquer comme vu un film qui n’est pas encore sorti.
+
+
+    Nouveautés de la version 2.0
+    ——————————————
+    * Design entièrement repensé pour plus de fluidité et de cohérence graphique.
+    * Ajout d’un didacticiel pour accompagner les nouveaux utilisateurs dans la création de leur compte.
+    * Ajout d’un fil d’actualité pour suivre l’activité de ses amis.
+    * Ajout des sections "Découvertes" afin de trouver rapidement les nouvelles séries ou films à la mode conseillés par la communauté.
+    * Nouvelles fonctionnalités sur son profil : ajout des statistiques d’utilisateur et des badges.
+Version 2.0.1 (Apr 17, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations. La possibilité de trier ses épisodes à regarder arrivera rapidement, dans la prochaine mise à jour.
+
+    Nouveautés de la version 2.0.1
+    ——————————————
+    * Correction de différents bugs : au lancement de l’application sur iOS 9.3, à l’ouverture d’une notification de message privé et au chargement de certaines images.
+    * Correction de bugs graphiques sur iPhone 4S, 5, 5s et SE.
+    * Possibilité de choisir d’afficher ou non le badge des épisodes à regarder sur l’icône de l’application.
+    * Redirection des signalements de bugs depuis l’application vers la rubrique iOS du site.
+    * Possibilité de marquer comme vu un film qui n’est pas encore sorti.
+
+    Nouveautés de la version 2.0
+    ——————————————
+
+    * Design entièrement repensé pour plus de fluidité et de cohérence graphique.
+    * Ajout d’un didacticiel pour accompagner les nouveaux utilisateurs dans la création de leur compte.
+    * Ajout d’un fil d’actualité pour suivre l’activité de ses amis.
+    * Ajout des sections "Découvertes" afin de trouver rapidement les nouvelles séries ou films à la mode conseillés par la communauté.
+    * Nouvelles fonctionnalités sur son profil : ajout des statistiques d’utilisateur et des badges.
+Version 2.0 (Apr 13, 2017)
+    Merci d’utiliser BetaSeries ! Pour que votre utilisation de l’application soit toujours plus agréable, nous avons fait des améliorations :
+
+
+    Nouveautés de la version 2.0
+    --
+
+    * Design entièrement repensé pour plus de fluidité et de cohérence graphique.
+    * Ajout d’un didacticiel pour accompagner les nouveaux utilisateurs dans la création de leur compte.
+    * Ajout d’un fil d’actualité pour suivre l’activité de ses amis.
+    * Ajout des sections "Découvertes" afin de trouver rapidement les nouvelles séries ou films à la mode conseillés par la communauté.
+    * Nouvelles fonctionnalités sur son profil : ajout des statistiques d’utilisateur et des badges.
+Version 1.3.2 (Aug 9, 2016)
+    - Corrections mineures concernant le cache des données.
+    - Corrections côté serveur pour améliorer la rapidité de l'application.
+Version 1.3.1 (Oct 27, 2015)
+    - Compatibilité iOS 9.
+    - Correction de l'affichage des séries lors de la création de compte ou de la connexion à un nouveau compte.
+    - Correction du tri de la recherche.
+    - Correction d'autres bugs mineurs.
+Version 1.3 (Aug 6, 2015)
+    - Ajout des films dans l’application.
+    - Ajout de la multi-sélection d’épisodes de vos séries. Pour ce faire, commencez à swiper la case d’un épisode comme pour le marquer comme vu. Puis, avant de relâcher, glissez votre doigt pour sélectionner les épisodes suivants. Relâchez et notez-les !
+    - Ajout du marquage de saisons entières de vos séries depuis leurs fiches. Il vous suffira de swiper la case d'une saison comme pour marquer un épisode classique.
+    - Ajout du marquage des épisodes précédents de vos séries. Pour cela, appuyez 1 seconde sur une case d’un épisode que vous voulez marquer comme vu, sur la fiche de votre série. Une box apparaîtra alors vous proposant de marquer aussi les épisodes précédents.
+    - Amélioration de la notation des épisodes d’une série depuis leurs fiches respectives.
+    - Amélioration de la recherche afin de séparer les séries des films.
+    - Amélioration du cache des images. A noter que celui-ci sera refait à neuf au premier lancement de cette mise à jour !
+    - Correction de bugs mineurs.
+Version 1.2 (Mar 3, 2015)
+    - Ajout des séries YouTube et du visionnage des épisodes dans l’application.
+    - Ajout d’une pastille grise sur les épisodes d’une série qui ne sont pas encore disponibles.
+    - Modification du processus pour ajouter/supprimer/archiver ou non une série sur sa fiche.
+    - Correction afin d’avoir le bouton « Marquer comme vu » toujours en bas de l’écran, à disposition, sur la fiche d’un épisode. La description peut également être dépliée et repliée.
+    - Correction mineures concernant l’interface pour les iPhone 6 et 6 plus.
+    - Correction de certains bugs d'animations sur la liste des épisodes à voir.
+    - Correction du délai de fermeture du module de notation lors d’un tap à côté de la note voulue.
+    - Amélioration des chargements des vues au lancement et mise à jour de l’API.
+Version 1.1 (Dec 14, 2014)
+    - Ajout de la notation lors du marquage d'un épisode.
+    - Mise à jour de l'interface pour les iPhone 6 et iPhone 6 Plus.
+    - Résolution de bugs.
+
+    Joyeux Noël sur BetaSeries !
+Version 1.0.4 (Sep 13, 2014)
+    - Correction d'un bug au chargement des épisodes pour les appareils avec iOS < 7.1
+    - Correction d'un bug concernant les notifications Push
+    - Optimisation du chargement des données
+Version 1.0.3 (Aug 19, 2014)
+    Correction du tri pour les épisodes à regarder.
+Version 1.0.2 (Aug 11, 2014)
+    Corrections mineures
+Version 1.0.1 (Jul 24, 2014)
+    La version 1.0.1 de l'application BetaSeries pour iPhone comporte quelques nouveautés et résout les petites erreurs de jeunesse de la 1.0. Au programme :
+
+    Nouveautés
+    - Le planning peut remonter désormais à une semaine en arrière
+    - Les fiches des séries sont accessibles en tapant sur leur titre dans la fiche d'un épisode
+    - Les URL dans les commentaires sont maintenant cliquables
+    - Les séries déroulées dans Mes épisodes sont gardées en mémoire
+
+    Corrections
+    - Le planning n'affichait parfois pas les épisodes du jour
+    - Meilleure gestion des épisodes marqués "dans le désordre"
+    - Les commentaires trop longs ne sont plus tronqués
+    - Les images des séries se reposent maintenant sur la notation de la communauté pour choisir les plus adéquates
+    - La taille de certains boutons a été augmentée pour faciliter leur appui
+    - Corrections mineures de certaines vues et affichages
+
+    Beaucoup de nouveautés attendues dont la notation des épisodes feront leur apparition cet été dans la prochaine version 1.1.
+
+    Si l'application vous plaît, n'hésitez pas à lui donner une bonne note dans les commentaires de l'App Store. Merci !
+Version 1.0 (May 14, 2014)
+
+Users may also like
+Select objects to compare
+TV Time: Track Shows & Movies
+Pobreflix : Movie & Tv Show
+Runtime TV
+ShowFlix - TV Shows
+Sofa Time: TV Shows & Movies
+Cine Vision V5
+IPTVX
+TodoMovies
+Upflix
+AdoroCinema
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.25.2
+    Current release
+    Feb 27, 2024
+    2.25.1
+    Jan 10, 2024
+    2.25
+    Jan 3, 2024
+    2.23.1
+    Oct 25, 2023
+    2.23
+    Oct 9, 2023
+    2.22
+    Jul 31, 2023
+    2.21.2
+    Jul 5, 2023
+    2.21.1
+    Jun 22, 2023
+    2.21
+    Jun 13, 2023
+    2.20.6
+    Jun 17, 2022
+    2.20.5
+    Jun 14, 2022
+    2.20.4
+    Apr 16, 2022
+    2.20.3
+    Mar 22, 2022
+    2.20.2
+    Feb 7, 2022
+    2.20.1
+    Jan 13, 2022
+    2.20
+    Jan 10, 2022
+    2.19.6
+    Dec 13, 2021
+    2.19.5
+    Nov 22, 2021
+    2.19.4
+    Oct 29, 2021
+    2.19.3
+    Oct 14, 2021
+    2.19.2
+    Oct 5, 2021
+    2.19.1
+    Sep 9, 2021
+    2.19
+    Jul 26, 2021
+    2.18.5
+    Jun 28, 2021
+    2.18.4
+    May 25, 2021
+    2.18.3
+    Apr 8, 2021
+    2.18.2
+    Mar 18, 2021
+    2.18.1
+    Feb 24, 2021
+    2.18
+    Feb 4, 2021
+    2.17.2
+    Jan 14, 2021
+    2.17.1
+    Dec 22, 2020
+    2.17
+    Dec 10, 2020
+    2.16.1
+    Nov 23, 2020
+    2.16
+    Nov 4, 2020
+    2.15.9
+    Oct 29, 2020
+    2.15.8
+    Oct 9, 2020
+    2.15.7
+    Sep 2, 2020
+    2.15.6
+    Jul 15, 2020
+    2.15.5
+    Jul 2, 2020
+    2.15.4
+    Jun 3, 2020
+    2.15.3
+    May 14, 2020
+    2.15.2
+    Apr 22, 2020
+    2.15.1
+    Apr 3, 2020
+    2.15
+    Mar 25, 2020
+    2.14.1
+    Feb 25, 2020
+    2.14
+    Feb 12, 2020
+    2.13.4
+    Jan 31, 2020
+    2.13.3
+    Jan 14, 2020
+    2.13.2
+    Jan 3, 2020
+    2.13.1
+    Dec 21, 2019
+    2.13
+    Dec 12, 2019
+    2.12.3
+    Dec 6, 2019
+    2.12.2
+    Nov 29, 2019
+    2.12.1
+    Nov 24, 2019
+    2.12
+    Nov 22, 2019
+    2.11.1
+    Oct 22, 2019
+    2.10.1
+    Oct 9, 2019
+    2.10
+    Sep 16, 2019
+    2.9.2
+    Jul 8, 2019
+    2.9.1
+    Apr 15, 2019
+    2.9
+    Oct 25, 2018
+    2.8
+    Sep 5, 2018
+    2.7.2
+    Aug 10, 2018
+    2.7.1
+    Jul 18, 2018
+    2.7
+    Jul 2, 2018
+    2.6
+    Jun 8, 2018
+    2.5.3
+    Mar 7, 2018
+    2.5.2
+    Feb 19, 2018
+    2.5.1
+    Jan 25, 2018
+    2.5
+    Jan 15, 2018
+    2.4.1
+    Dec 6, 2017
+    2.4
+    Nov 21, 2017
+    2.3.1
+    Oct 23, 2017
+    2.3
+    Sep 29, 2017
+    2.2.1
+    Aug 25, 2017
+    2.2
+    Jul 24, 2017
+    2.1.1
+    Jun 28, 2017
+    2.1.0
+    May 29, 2017
+    2.0.2
+    Apr 28, 2017
+    2.0.1
+    Apr 17, 2017
+    2.0
+    Apr 13, 2017
+    1.3.2
+    Aug 9, 2016
+    1.3.1
+    Oct 27, 2015
+    1.3
+    Aug 6, 2015
+    1.2
+    Mar 3, 2015
+    1.1
+    Dec 14, 2014
+    1.0.4
+    Sep 13, 2014
+    1.0.3
+    Aug 19, 2014
+    1.0.2
+    Aug 11, 2014
+    1.0.1
+    Jul 24, 2014
+    1.0
+    May 14, 2014
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    May 14, 2014
+
+Worldwide Release Date
+    May 14, 2014
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    2.25.2
+
+Size
+    60.53 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Dutch, French, German, Italian, Polish, Portuguese, Spanish
+
+Seller
+    Netcats
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.myluckyday.betaseries
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    Yes
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 874954616
+Unified App ID: 1000600000681036
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+BetaSeries - TV Shows & Movies | data.ai

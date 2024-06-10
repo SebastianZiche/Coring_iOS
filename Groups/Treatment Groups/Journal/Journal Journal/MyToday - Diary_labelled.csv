@@ -1,0 +1,105 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.1.6,2024-01-10,A minor error has been fixed.,0,0,0,0,0,0,1,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.1.5,2023-12-29,A minor error has been fixed.,0,0,0,0,0,0,1,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.1.4,2023-12-28,A minor error has been fixed.,0,0,0,0,0,0,1,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.1.3,2023-02-10,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.1.2,2023-02-03,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.1.0,2022-11-27,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.0.9,2022-03-26,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.0.7,2022-01-12,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.0.6,2021-09-27,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.0.5,2021-09-09,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.0.3,2021-08-22,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.0.2,2021-08-05,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.0.1,2021-07-11,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,2.0.0,2021-06-26,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.9,2021-06-23,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.8,2021-06-21,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.7,2021-05-03,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.6,2021-04-21,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.5,2021-03-05,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.4,2021-01-15,Fixed a minor bug. Mine today does not store the user s data on the server. The written text will be saved on the user s phone. If My Today data is accidentally deleted to ensure device capacity the text will be invisible and unrecoverable. To keep your important articles safely we recommend that you regularly back them up to Dropbox or Google Drive. Required before device change reset! Backing up can be done in the settings screen of the Today app.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.3,2020-11-07,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.2,2020-10-18,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.1,2020-10-13,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.9.0,2020-10-12,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.9,2020-10-10,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.8,2020-08-21,You can now back up to Google Drive. Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.7,2020-06-24,Now we support dark mode! Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.6,2020-05-10,Now we support dark mode! Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.5,2020-04-15,Now we support dark mode! Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.4,2020-02-27,Fixed a minor bug. Lab menu added.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.3,2020-01-28,Fixed a minor bug.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.2,2020-01-03,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.1,2019-12-23,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.8.0,2019-12-07,A minor error has been fixed. Lab menu has been added.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.9,2019-11-25,The abnormal issue that occurred in the user who used a certain amount of capacity has been fixed. Please wait for a while as the migration will take place during the initial update. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.8,2019-11-22,The abnormal issue that occurred in the user who used a certain amount of capacity has been fixed. Please wait for a while as the migration will take place during the initial update. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.7,2019-11-20,The abnormal issue that occurred in the user who used a certain amount of capacity has been fixed. Please wait for a while as the migration will take place during the initial update. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.6,2019-10-11,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.5,2019-10-10,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.4,2019-10-03,Landscape mode is now available on the iPad. Write more comfortably. : Thank you for waiting for the iPad update. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.3,2019-09-27,Landscape mode is now available on the iPad. Write more comfortably. : Thank you for waiting for the iPad update. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.2,2019-09-25,iOS13 Support A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.1,2019-08-28,Landscape mode is now available on the iPad. Write more comfortably. : Thank you for waiting for the iPad update. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.7.0,2019-08-21,Landscape mode is now available on the iPad. Write more comfortably. : Thank you for waiting for the iPad update. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.9,2019-08-16,Landscape mode is now available on the iPad. Write more comfortably. : Thank you for waiting for the iPad update. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.8,2019-07-22,A minor error has been fixed. Landscape mode is now available on the iPad. Write more comfortably. : Thank you for waiting for the iPad update.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.7,2019-06-14,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.6,2019-05-10,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.5,2019-04-06,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.4,2019-04-05,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.3,2019-03-21,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.2,2019-03-06,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.1,2019-02-13,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.6.0,2018-12-06,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.9,2018-12-03,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.8,2018-11-29,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.7,2018-11-12,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.6,2018-11-07,A minor error has been fixed. Export errors fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.5,2018-10-31,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.4,2018-10-27,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.3,2018-10-24,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.2,2018-10-11,You can now select the picture quality. Please check the settings. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.1,2018-10-10,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.5.0,2018-10-08,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.4.4,2018-09-18,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.4.3,2018-09-17,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.4.2,2018-09-07,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.4.1,2018-09-04,UI UX changed. Press the diary to enter the detail screen. The picture quality is now saved as the original. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.4.0,2018-09-03,UI UX changed. Press the diary to enter the detail screen. The picture quality is now saved as the original. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.3.7,2018-08-30,UI UX changed. Press the diary to enter the detail screen. The picture quality is now saved as the original. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.3.6,2018-08-13,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.3.5,2018-08-11,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.3.4,2018-08-09,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.3.3,2018-08-02,Location Attachment has been upgraded. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.3.2,2018-07-31,Location Attachment has been upgraded. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.3.1,2018-06-15,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.3.0,2018-03-27,Synchronization has been added. You can see it in your app settings. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.2.9,2018-02-08,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.2.8,2018-01-30,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.2.7,2018-01-25,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.2.6,2017-11-30,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.2.4,2017-11-20,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.2.3,2017-11-17,Support iOS 11 A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.2.2,2017-08-24,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.2.1,2017-08-01,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.2.0,2017-07-25,The database has been optimized. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.1.9,2017-07-14,You can now change the font size. Alarm messages can now be changed in the settings Fixed a bug in iPhone4s and iPad. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.1.8,2017-07-07,iPad now supported. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.1.7,2017-07-03,The editing mode has been improved. Fixed a bug when using photos in sync with iCloud. Fixed an error that changed the order of attached pictures. It applies from new or edited article. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.1.6,2017-06-26,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.1.4,2017-06-16,A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.1.3,2017-05-17,A minor error has been fixed. Edit mode has been added. Alarm settings have been added.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.1.1,2017-04-18,Expand view settings have been added. A minor error has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.1.0,2017-02-23,iCloud synchronization has been removed due to various issues. Please use dropbox or mail for data backup restore. Please check the developer website blog for more information.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.9,2017-02-16,Bug fixed,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.8,2017-02-14,Added the ability to backup restore data by e mail. Bug fixed,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.7,2017-02-13,Fixed an error in backup restore function. The function to automatically input location information has been added. The ability to back up data by mail has been added.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.6,2017-02-09,Fixed an error in backup restore function. The function to automatically input location information has been added. The ability to back up data by mail has been added.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.5,2016-12-21,Improved database and iCloud functionality. Bug fixes and stability improvements,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.4,2016-11-08,Bug fixes and stability improvements,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.3,2016-11-03,Added the ability to change the order of image thumbnails. In edit mode press and drag the photo to move it. Added 3D Touch functionality. Check out the list! A minor bug has been fixed.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.2,2016-09-30,fixed minor bug,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.1,2016-09-24,Minor bug fixes and stabilization.,0,0,0,0,0,0,0,0
+1152234483,0,MyToday Diary,Lifestyle,2016-09-21,2016-09-21,32.97,2,0,1,0,1.0.0,2016-09-21,,0,0,0,0,0,0,0,0

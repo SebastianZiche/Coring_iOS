@@ -1,0 +1,31 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.7.2,2021-10-11,Bug fixes.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.7.1,2021-09-30,Bug fixes
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.7.0,2021-08-12,Bug fixes.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.6.6,2021-02-26,Bug fixes
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.6.5,2019-10-03,Dark mode support
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.6.4,2019-03-22,Bug fixes
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.6.3,2018-11-19,Bug fixes
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.6.2,2018-11-15,Bug fixes
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.6.1,2018-09-15,Fixes a bug with the appearance of the waveform.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.9,2017-12-11,Resizable bottom panel so there is more room for editing when needed.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.8,2017-12-08,Now follows the cursor while recording or playing.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.7,2017-12-07,Fixes a bug where the document wouldn t save pasted audio sometimes.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.6,2017-12-06,Bug fixes.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.5,2017-11-27,Fixes a bug where transcription text would overlap.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.4,2017-11-21,Bug fixes.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.3,2017-11-16,Search transcribed audio Bug fixes
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.2,2017-11-14,Performance improvements.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.1,2017-11-09,Find document easier with the new browser and document previews. Larger document titles and color coded audio waveforms. Added app shortcut to start new recording quickly. Performance improvements and bug fixes.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.5.0,2017-11-08,Transcribe recordings. Bug fixes.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.4.1,2017-10-27,Bug fixes.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.4.0,2017-10-13,Backup and sync your recordings with iCloud.
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.3.2,2017-09-20,iOS 11 support
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.3.1,2017-08-10,Bug fixes
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.3.0,2017-07-12,Automatically switches speaker when raising to ear to listen Peek and pop to open recordings on devices with 3D Touch support Simpler recording list
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.2.3,2016-07-22,Undo and redo recording and other changes Bug fixes
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.2.2,2016-07-08,Play pause and skip with the controls on the lock screen and in control center Share select parts of recordings Optimized audio processing and microphone selection for voice recording Faster waveform rendering
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.2.1,2016-07-05,Making selections and adjusting close to the left screen edge is now easier Works better when using headphones or other speakers Better names and other improvements when using iTunes File Sharing
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.2.0,2016-07-01,Recording Editor Tap to easily skip to any point in the recording Swipe to make a selection and loop playback Cut copy and paste audio with familiar controls Continue recording at any time Rename recordings by tapping the title
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.1.13,2016-05-26,Bluetooth support: record or listen using bluetooth connected speakers or headphones
+1111956651,0,Monolog.,Utilities,2016-05-19,2016-05-19,1.83,2,0,0,0,0.1.12,2016-05-19,

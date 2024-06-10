@@ -1,0 +1,368 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Text Finder - Ai Translate
+JiYeon NohUtilities (Applications)Free
+Alerts
+
+    JiYeon Noh
+
+    Text Finder - Ai Translate
+    Text Finder - Ai Translate
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Text Finder - Ai Translate
+사진 글로 변환 OCR, 번역기, 음성 읽어주기
+Utilities (Applications)
+Free
+iPhone Only
+App Description
+Texifinder 언어 장벽을 넘어서는 새로운 방법
+AI-Text 기술을 바탕으로 텍스트 추출(OCR) 기능과 함께 103개 언어로의 심층 번역(Translate) 기능을 제공,
+언어 학습과 소통의 패러다임을 전환합니다.
+
+문맥을 고려한 AI 기반 번역부터, 맞춤형 언어 학습(Study) 모드 제공
+단어장(WordBook)과 사전 기능에 이르기까지 Texifinder는 다양한 언어 학습 방법을 제공합니다.
+
+PDF 문서의 텍스트를 쉽게 추출하고 다양한 형식으로 저장할 수 있습니다.
+
+고화질 카메라 모드는 문서, 책, 안내판 등 다양한 인쇄된 텍스트를 선명하게 캡처하고,
+향상된 읽어주기(Writer) 및 음성 인식(Speech) 기능은 어디서나 빠르고 정확한 언어 경험을 가능하게 합니다.
+
+AI 기반 글쓰기 지원
+Texifinder는 이제 사용자가 이메일, SNS 게시글, 스토리 등을 작성할 때 AI 기술을 통해 문장 구성과 내용 생성을 돕습니다. 이 기능은 사용자의 초기 입력을 바탕으로 문맥에 맞는 제안을 하여 글쓰기 과정을 간소화하고 창의적인 아이디어를 제공합니다.
+
+Texifinder의 주요 기능:
+• AI-Text: 문맥을 고려한 AI 기반의 정확하고 자연스러운 번역.
+• Translate: 103개 언어로의 번역과 언어 자동 인식 기능.
+• Writer: 텍스트를 자연스럽고 명확하게 읽어주는 기능.
+• Speech: 사용자의 음성을 인식하여 실시간으로 번역.
+• OCR: 다양한 이미지에서 텍스트를 신속하고 정확하게 인식.
+• Study: 발음 연습 및 어휘 테스트를 포함한 맞춤형 언어 학습 모드.
+• WordBook: 사용자 맞춤형 단어 저장 및 검토 기능.
+• PDF : PDF 텍스트 인식, Text를 PDF 내보내기
+
+Texifinder는 단순한 번역 도구를 넘어서, 언어 학습과 소통의 새로운 차원을 열어줍니다.
+어디에서나 쉽고 효율적인 언어 경험을 제공하는
+Texifinder와 함께라면, 세계는 당신의 손안에 있습니다.
+언어의 장벽을 넘어 새로운 가능성을 발견하세요.
+
+Terms of Use : https://han.gl/zF0wN
+Privacy Policy : https://han.gl/5VCKA
+Ratings
+Displayed Avg Ratings
+4.45
+Total Displayed Ratings
+164
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.33 (Feb 6, 2024)
+    - Study mode update
+Version 1.32 (Feb 2, 2024)
+    - bug fix
+Version 1.31 (Feb 1, 2024)
+    Ai Translate, OCR Update
+Version 1.30 (Jan 22, 2024)
+    - Ai Translate performance update
+    - Study mode update
+Version 1.29 (Jan 19, 2024)
+    - Add AI Feature
+Version 1.28 (Nov 5, 2021)
+    - Scan image collage update
+    - bug fix
+Version 1.27 (Nov 2, 2021)
+    - Export pdf option upgrade
+    - bug fix
+Version 1.26 (Nov 1, 2021)
+    - multi scan update
+    - bug fix
+Version 1.25 (Oct 29, 2021)
+    - Collage PDF & Image Export
+Version 1.24 (Oct 25, 2021)
+    - Sign function to image and pdf
+Version 1.23 (Oct 23, 2021)
+    - Scan camera upgrade 
+Version 1.22 (Oct 20, 2021)
+    - Multiple scan view update
+    - Export Group Image
+Version 1.20 (Oct 16, 2021)
+    PDF Tool
+    - Export PDF to Images
+    - Export PDF to One Image
+    - PDF and Image Merge
+    - PDF Password
+Version 1.19 (Oct 13, 2021)
+    Live scan camera update
+    - Document / Book / QR code
+    - ID card / Passport / Business Card
+Version 1.18 (Oct 12, 2021)
+    - Realtime scan text & translate update
+Version 1.17 (Oct 11, 2021)
+    - Scan Speed Update
+    - Bug Fix
+Version 1.15 (Oct 8, 2021)
+    - Improved scanned image quality
+    - bug fix
+Version 1.13 (Oct 6, 2021)
+    Add book scan function
+    (two scans at a time)
+Version 1.12 (Oct 5, 2021)
+    - Live Text Detect & Translate
+    - Bug Fix
+Version 1.11 (Sep 28, 2021)
+    - Bug Fix
+Version 1.10 (Sep 24, 2021)
+    - Bug Fix 
+Version 1.09 (Sep 15, 2021)
+    - Upgrade All Feature
+Version 1.08 (Jun 16, 2018)
+    - translate bug fix
+Version 1.07 (May 15, 2018)
+    - Ocr update
+    - bug fix
+Version 1.06 (Mar 28, 2018)
+    - bug fix
+Version 1.05 (Jan 12, 2018)
+    - Bug Fix
+    - IPhone X Support
+Version 1.04 (Sep 23, 2017)
+    - bug fix
+    - translate 5000 character
+Version 1.03 (Aug 7, 2017)
+    - translate issue fix
+    - bug fix
+Version 1.02 (May 11, 2017)
+    Multiple OCR processing
+Version 1.01 (Mar 31, 2017)
+    - bugfix
+Version 1.0 (Mar 22, 2017)
+
+Users may also like
+Select objects to compare
+Scrapbook - Image Collection
+Unicorn Pro:Privacy & Adblock
+Unicorn Blocker:Adblock
+Pro Finder - Find My Bluetooth
+Text Extract(文字提取)-PDF Scanner
+Currency Converter
+Voice Translator & AI and Fast
+Smart Copier
+Super translator-Text & Photo
+Nepali Keyboard-Type in Nepali
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.33
+    Current release
+    Feb 6, 2024
+    1.32
+    Feb 2, 2024
+    1.31
+    Feb 1, 2024
+    1.30
+    Jan 22, 2024
+    1.29
+    Jan 19, 2024
+    1.28
+    Nov 5, 2021
+    1.27
+    Nov 2, 2021
+    1.26
+    Nov 1, 2021
+    1.25
+    Oct 29, 2021
+    1.24
+    Oct 25, 2021
+    1.23
+    Oct 23, 2021
+    1.22
+    Oct 20, 2021
+    1.20
+    Oct 16, 2021
+    1.19
+    Oct 13, 2021
+    1.18
+    Oct 12, 2021
+    1.17
+    Oct 11, 2021
+    1.15
+    Oct 8, 2021
+    1.13
+    Oct 6, 2021
+    1.12
+    Oct 5, 2021
+    1.11
+    Sep 28, 2021
+    1.10
+    Sep 24, 2021
+    1.09
+    Sep 15, 2021
+    1.08
+    Jun 16, 2018
+    1.07
+    May 15, 2018
+    1.06
+    Mar 28, 2018
+    1.05
+    Jan 12, 2018
+    1.04
+    Sep 23, 2017
+    1.03
+    Aug 7, 2017
+    1.02
+    May 11, 2017
+    1.01
+    Mar 31, 2017
+    1.0
+    Mar 22, 2017
+
+See More
+Top In-App Purchases
+
+    Upgrade Pro
+    $1.99
+    Upgrade Pro
+    $3.99
+    프로버전 업그레이드
+    $17.99
+    Upgrade Pro
+    $35.99
+
+About
+
+Required Devices
+    iPhone
+
+Category
+    Utilities
+
+Initial Release Date
+    Mar 22, 2017
+
+Worldwide Release Date
+    Mar 22, 2017
+
+Last Updated Time
+    Feb 27, 2024
+
+Version
+    1.33
+
+Size
+    109.11 mb
+
+Only 32 Bit
+    No
+
+Languages
+    한국어, 영어
+
+Seller
+    JiYeon Noh
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 16.0 버전 이상이 필요. iPhone, iPad 및 iPod touch와(과) 호환.
+
+Bundle ID
+    com.TextFinderFree
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1217359180
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Text Finder - Ai Translate | data.ai

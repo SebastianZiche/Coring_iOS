@@ -1,0 +1,270 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Karaoke air2
+立新 闵Entertainment (Applications)Free
+Alerts
+
+    立新 闵
+
+    Karaoke air2
+    Karaoke air2
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Karaoke air2
+Entertainment (Applications)
+Free
+App Description
+NOTE:Support ktvhost app version later than version20151008.
+
+This application is used to control karaoke machine sold by our company,The KARAOKE machine is a Host device,user's iphone connect to karaoke machine by the same wireless router,after installing this application,input HOST IP address of machine or scan to connect,then user can control the karaoke machine on real-time basis, can order or delete a song.
+
+functions:
+1,can control play、pause、stop、replay、vocals/music switch、volume、tone and other specific controls.
+2,you can access search function and input the name of a song or an artist with voice input function of iphone to start searching.
+3,Multiple ways to order song: serving multinational language (UNICODE) and multiple ways to song order, differentiated by reference with alphabet、language、singer name、song words number、type of songs、song serial number、and so on. Each operation is easy and quick handle.
+Ratings
+Displayed Avg Ratings
+2.45
+Total Displayed Ratings
+33
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.19 (Mar 6, 2022)
+    add the function of notify the host server to download the songs.
+Version 1.18 (Aug 2, 2020)
+    fix Volume control button and search feature.
+Version 1.17 (Feb 13, 2019)
+    change back to update songlist manually.
+Version 1.16 (Dec 21, 2018)
+    removed the connect promption.
+Version 1.15 (Dec 19, 2018)
+    1) add app version and date information in settings;
+    2) auto get the songlist from the host;
+Version 1.14 (Oct 9, 2018)
+    optimizate a little.
+Version 1.13.1 (May 22, 2018)
+    optimized;
+Version 1.13 (May 18, 2018)
+    optimized;
+Version 1.12 (Apr 27, 2018)
+    optimized;
+Version 1.11 (Apr 22, 2018)
+    update feature
+Version 1.10 (Mar 31, 2018)
+    update one icon
+Version 1.9 (Mar 28, 2018)
+    add youtube search data and youtube songlist.
+Version 1.8 (Jul 20, 2017)
+    Optimized socket connection.
+Version 1.7 (Dec 20, 2016)
+    added recorded interface。
+Version 1.6 (May 27, 2016)
+    This version supports the language of Myanmar.
+Version 1.5 (Apr 21, 2016)
+    Add new languages.
+Version 1.4 (Feb 23, 2016)
+    Can display more songs each page.
+Version 1.3 (Feb 1, 2016)
+    Support 6 digits numbers if host machine use 6 digits number.
+Version 1.2 (Nov 24, 2015)
+    this version will run faster.
+Version 1.1 (Oct 18, 2015)
+    this version changed the number interface.
+Version 1.0 (Sep 29, 2015)
+
+Users may also like
+Select objects to compare
+SBTN go
+Yokara - Sing Karaoke
+OnDemandViet - Phim Bộ & Lẻ
+Steves Karaoke
+VocalStyler Karaoke
+KVVN
+UNO IPTV
+Dr. Karaoke App
+Chreang
+Hakara - Sing karaoke
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.19
+    Current release
+    Mar 6, 2022
+    1.18
+    Aug 2, 2020
+    1.17
+    Feb 13, 2019
+    1.16
+    Dec 21, 2018
+    1.15
+    Dec 19, 2018
+    1.14
+    Oct 9, 2018
+    1.13.1
+    May 22, 2018
+    1.13
+    May 18, 2018
+    1.12
+    Apr 27, 2018
+    1.11
+    Apr 22, 2018
+    1.10
+    Mar 31, 2018
+    1.9
+    Mar 28, 2018
+    1.8
+    Jul 20, 2017
+    1.7
+    Dec 20, 2016
+    1.6
+    May 27, 2016
+    1.5
+    Apr 21, 2016
+    1.4
+    Feb 23, 2016
+    1.3
+    Feb 1, 2016
+    1.2
+    Nov 24, 2015
+    1.1
+    Oct 18, 2015
+    1.0
+    Sep 29, 2015
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Sep 29, 2015
+
+Worldwide Release Date
+    Oct 3, 2015
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.19
+
+Size
+    87.61 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    立新 闵
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.vodok2.VODKTV
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1039759067
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Karaoke air2 | data.ai

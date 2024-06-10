@@ -1,0 +1,795 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Cinemagraph Pro
+Flixel PhotosPhoto and Video (Applications)Free
+Alerts
+
+    Cinemagraph Pro
+    Cinemagraph Pro
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Cinemagraph Pro
+Imagery That Gets Noticed
+Photo and Video (Applications)
+Free
+App Description
+Cinemagraph Pro, the most powerful tool to create visual imagery that gets noticed — in a class of its own.
+
+Cinemagraphs made easy. The only professional editing tool on-the-go with all the features of Apple Design Award winner Cinemagraph Pro for macOS, available on your iPhone and iPad.
+
+
+Cinemagraph Pro is the app that defined a new medium for visual storytelling — the hybrid of natural motion and still imagery. Without being an expert in photo or video editing tools, you, too, can create professional high quality cinemagraphs that stand out and get noticed. What used to take hours or days to create is now possible in seconds.
+
+
+Discover
+• Be inspired by the amazingly creative work posted to Flixel
+• Browse the latest and many curated collections
+• Upload your cinemagraphs to be featured
+
+Learn
+• Video tutorials to walk you through the steps of how to create a great cinemagraph
+• Start with the beginner tutorial and work your way to advanced
+• Download the tutorial documents to follow along and practice
+• Case studies and more to learn the best ways to use cinemagraphs to get noticed
+
+Create
+• Capture in-app or import any video shot on a tripod (up to 4K on supported devices)
+• Magical Live Masking using our patented method that reveals motion as you paint over the still image
+• Easily trim to achieve a perfect loop
+• Quickly select the best still image
+• Set the loop to bounce or repeat with a crossfade
+• It’s that easy
+
+Advanced Editing
+• Overlay layer for adding images and text on top of your cinemagraph
+• Crop, rotate, and straighten to frame the image just right
+• Export, modify, and import a still image
+• Adjust the speed or add a delay
+• Start with preset filters and then customize the color, light, and tone curve
+
+Made for Professionals
+• Shoot and edit high quality 4K imagery
+• Document-based so you can edit later, duplicate, and share
+• iCloud Drive support so it doesn’t matter where the document was created — you can keep editing on your iPhone, iPad, or Mac.
+
+Sharing
+• Export as H.264, HEVC, Live Photo, or GIF
+• Upload to Flixel for easy sharing and embedding
+• Custom crop and export settings designed to make social posts or ads as easy as possible
+• One tap upload to Facebook Ad Manager
+
+Flixel Plans
+Payment will be charged to your iTunes Account at confirmation of purchase. Subscription automatically renews at the purchase price unless auto-renew is turned off at least 24-hours before the end of the current period. Subscriptions may be managed and auto-renewal may be turned off by going to the Account Settings after purchase. Subscriptions are one month or year in length. For Terms of Service see https://flixel.com/terms/
+Ratings
+Displayed Avg Ratings
+4.5
+Total Displayed Ratings
+24.5k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.7 (Feb 8, 2024)
+    iPhone 15 and iPhone 15 Pro camera support
+    Vision Pro support
+    Improvements for iOS 17
+    Fixed Editing playback
+    Other minor bug fixes
+Version 6.6.1 (Aug 21, 2023)
+    Bug fixes and performance improvements
+Version 6.6 (Nov 12, 2022)
+    • iPhone 14 and iPhone 14 Pro camera support
+    • Improvements for iOS 16
+    • Minor bug fixes
+Version 6.5.1 (Dec 8, 2020)
+    • iPhone 12 and iPhone 12 Pro camera support
+    • Improvements for iOS 14
+    • Minor bug fixes
+Version 6.5 (Sep 16, 2020)
+    Support for iOS and iPadOS 14
+Version 6.4.5 (Jun 12, 2020)
+    Minor bug fixes
+Version 6.4.4 (Mar 17, 2020)
+    Security enhancements
+Version 6.4.3 (Feb 22, 2020)
+    Bug fixes and performance improvements
+Version 6.4.2 (Dec 3, 2019)
+    Bug fixes and performance improvements
+Version 6.4.1 (Oct 8, 2019)
+    Bug fixes and performance improvements
+Version 6.4 (Sep 23, 2019)
+    • iPhone 11 and iPhone 11 Pro camera support
+    • Improvements for iOS 13
+    • Minor bug fixes
+Version 6.3.2 (Jul 22, 2019)
+    Improvements for thrill seekers
+Version 6.3.1 (May 22, 2019)
+    Performance improvements and security updates
+Version 6.3 (Apr 19, 2019)
+    • Auto-straighten in Crop mode
+    • Bug fixes and performance improvements
+Version 6.2.3 (Apr 4, 2019)
+    Support for Blendeo, the newest app from Flixel
+Version 6.2.2 (Mar 9, 2019)
+    Bug fixes and performance enhancements
+Version 6.2.1 (Dec 19, 2018)
+    Bug fixes and performance enhancements
+Version 6.2 (Nov 15, 2018)
+    Overlay Layer Mode
+    • Add image and text layers on top of the cinemagraph
+    • Ideal for adding logos or watermarks
+    • Eliminates the need to tediously mask around an imported still image
+    • Great for quickly creating ads and social content without leaving the app
+
+
+    Other Improvements
+    • Full support for iOS 12 and new iPhones and iPad Pro
+    • Masking and export performance
+    • Minor bugs
+Version 6.1.1 (Jul 23, 2018)
+    Bug fixes and performance improvements
+Version 6.1 (Jul 4, 2018)
+    • Monthly plans now available
+    • Improved crop tool
+    • Crop and export optimizations for your Facebook Cover video, Instagram Stories, and Snapchat
+
+    Fixed in this version
+    • GIFs exported with a pause between loops
+    • Exporting 4K on iPhone X may cause the app to get killed by the system (that's a lot of pixels to push)
+    • Slow scrolling on older devices
+Version 6.0.6 (May 15, 2018)
+    Fixes video import so the video appears under the controls instead of on top. For portrait videos in portrait orientation it would look like there are no controls.
+Version 6.0.5 (May 10, 2018)
+    The privacy update
+    ・your privacy is important to you and we respect that
+
+    Fixed
+    ・record in HD instead of 4K at 30 FPS on some devices
+    ・performance improvements
+Version 6.0.4 (Apr 10, 2018)
+    Enhanced support for introductory pricing
+Version 6.0.3 (Mar 29, 2018)
+    Bug fixes and performance improvements
+Version 6.0.2 (Feb 24, 2018)
+    - Fixed a crash on launch for pre-4.2.1 users. Hey welcome back, sorry about that.
+    - Fixed a possible crash while importing or exporting
+    - Fixed exporting to Photo Library from Activity sheet without Photo Library write permission
+    - Improved export to social network presets for optimal looping durations
+Version 6.0.1 (Feb 9, 2018)
+    - Fixed lower quality imports on some devices
+    - Fixed out of memory crash when viewing cinemagraphs on older devices
+    - Fixed playback stopping after editing still image
+Version 6.0 (Feb 7, 2018)
+    Overview
+    - A beautiful visual redesign for iOS 11
+    - Stunning cinemagraph quality
+    - Improved user experience for faster browsing, editing, and sharing
+    - Top-level tabs are ordered for you to:
+    - be inspired by Discover
+    - learn from Tutorials
+    - capture, create, and share your own cinemagraphs
+    - easily access your gallery to show and share
+
+    Discover
+    - See the latest from our curated cinemagraphs and creators you are following
+    - Easily browse all of the curated galleries
+
+    Tutorials
+    - Support for Picture-in-Picture so you can follow along the tutorials and edit the demo documents at the same time
+
+    Capture
+    - Enhanced for iPhone 8 and iPhone X
+
+    Documents
+    - View and edit your cinemagraphs easier with an improved interface
+    - Sharing is more streamlined and intuitive
+    - Support for HEVC exports and upload
+    - Export presets to quickly share to social
+    - Export rendering and upload are now cancellable by tapping back
+
+    Profile
+    - View all the cinemagraphs posted to Flixel
+    - View and change your account settings
+    - Find other creators to follow
+Version 5.3.1 (Sep 18, 2017)
+    - Fixes for capturing and rendering on iOS 11
+
+    Note: This will be the last version to support iOS 10
+Version 5.3 (Jul 25, 2017)
+    • Walkthrough video and sign-in screen to help new users get started
+    • Import up to 2 minutes of video footage
+    • Bug fixes and performance improvements
+Version 5.2.2 (Jun 8, 2017)
+    Minor bug fixes and performance improvements
+Version 5.2.1 (May 11, 2017)
+    ∙ Added a download tutorial cinemagraph documents button so you can follow along the tutorial videos
+    ∙ Fixed a case where the masked area appears black at the end of the trim range
+    ∙ Fixed out of memory "crashes" on iPad Pro with 4K videos
+    ∙ Minor bug fixes and performance improvements
+Version 5.2 (Mar 27, 2017)
+    ∙ Added Crop, Straighten, and Tone Curves to editing Adjustments
+    ∙ Fixed slow masking with Apple Pencil
+    ∙ Fixed rare crash when exporting
+Version 5.1.2 (Dec 23, 2016)
+    Bug fixes and performance improvements
+Version 5.1.1 (Nov 6, 2016)
+    • Fixed an issue editing 4K videos
+Version 5.1 (Oct 27, 2016)
+    - Document support for new Cinemagraph Pro 2 for macOS features
+Version 5.0 (Sep 17, 2016)
+    • New design that makes it easier to navigate the app
+    • iOS 10, iPhone 7 and 7 Plus support
+    • 2x capture on iPhone 7 Plus
+    • Share cinemagraphs from iMessage
+    • Learn how to create great cinemagraphs from the tutorial videos
+Version 4.4.1 (Aug 16, 2016)
+    Export to Facebook Ad Manager
+Version 4.4 (Aug 12, 2016)
+    Export to Facebook Ad Manager
+Version 4.3.1 (Jul 16, 2016)
+    ● Share export to Snapchat
+    ● Fixed a crash on launch
+Version 4.3 (Jul 11, 2016)
+    ● Better colour on True-Tone displays
+    ● Cinemagraph Remote for watchOS 2
+    ● Support for localized push notifications
+    ● Fixed possible crash when Undo is tapped while editing
+    ● Removed sharing to Twitter and Facebook when uploading to Flixel (export and share for a better viewing experience)
+    ● Updated suggested Twitter export duration
+    ● Automatically login with 1Password
+Version 4.2.3 (Jun 5, 2016)
+    - Fixed an issue where a short video and short crossfade could result in a black mask
+Version 4.2.2 (May 2, 2016)
+    - Fixes a possible crash after creating a new account
+Version 4.2.1 (Apr 27, 2016)
+    - Improved Facebook login support
+    - Sign-in with email or username
+    - Better Library scrolling
+    - Fixed a couple rare crashes
+Version 4.2 (Apr 12, 2016)
+    - Free export as Facebook video profile
+    - Learning Lab Tutorials
+Version 4.1 (Mar 25, 2016)
+    - Support for Universal Links
+    - Performance improvements for iOS 9.3
+Version 4.0.1 (Mar 16, 2016)
+    Fixes:
+    - import a slo-mo video from Photo Library
+    - missing import crop and rotate buttons
+    - crash dismissing Adobe CC Image SDK in landscape on iPhone
+    - crashes accessing and cancelling a download in Photo Library
+
+
+    What's New in v4
+    =============
+    - All the features of 2014 Apple Design Award winner Cinemagraph Pro for Mac now on iOS
+    - Apple Pencil and 3D Touch editing support
+    - 4K editing and export
+    - Beautiful new full screen cinemagraph previews
+    - 4K camera capture (on supported devices)
+    - High frame-rate capture
+    - 3D Touch support with app shortcuts for capture, recent documents and My Feed
+    - Import and Export Live Photos
+    - Split screen support on iPad Air 2 and iPad Pro
+    - iCloud Photo Library support
+    - iCloud Documents
+    - Supports Open In Place from iCloud Drive app
+    - Import and export from Document Providers
+Version 4.0 (Feb 25, 2016)
+    - All the features of 2014 Apple Design Award winner Cinemagraph Pro for Mac now on iOS
+    - Apple Pencil and 3D Touch editing support
+    - 4K editing and export
+    - Beautiful new full screen cinemagraph previews
+    - 4K camera capture (on supported devices)
+    - High frame-rate capture
+    - 3D Touch support with app shortcuts for capture, recent documents and My Feed
+    - Import and Export Live Photos
+    - Support for Dynamic Type
+    - Split screen support on iPad Air 2 and iPad Pro
+    - iCloud Photo Library support
+    - iCloud Documents
+    - Supports Open In Place from iCloud Drive app
+    - Import and export from Document Providers
+    - Duplicate documents
+    - New demo cinemagraph document to learn with
+    - Spotlight integration for recent documents
+Version 3.5.3 (Dec 8, 2015)
+    - Fixes an issue where the Flixel overlay appears for some customers that have purchased a license
+    - Performance improvements
+Version 3.5.2 (Nov 7, 2015)
+    Fixes crashes that might occur when recording
+Version 3.5.1 (Oct 7, 2015)
+    - FIXED: Record exposure resets when recording starts on iPhone 5, 5s, iPad 4, and iPad Air on iOS 9
+    - FIXED: No visual indication that rendering is in progress unless you rotate after recording or importing a new video
+
+    New in v3.5:
+    - Added flip and rotate to editing options
+    - Export a letterboxed video in 1:1, 4:3, or 16:9
+    - Upload and export with a Flixel overlay without a license or subscription
+Version 3.5 (Sep 3, 2015)
+    Flixel Cloud monthly plans have a one-week free trial!
+
+    What's New:
+    - Added flip and rotate to editing options
+    - Export a letterboxed video in 1:1, 4:3, or 16:9
+    - Upload and export with a Flixel overlay without a license or subscription
+
+    Fixed:
+    - Possilbe crash when undoing edits
+Version 3.4.1 (Aug 7, 2015)
+    - Flixel Cloud plans now include a 1 week free trial
+    - Improved Document loading
+    - Fixed capture crashes
+
+    All new camera capture in 3.4:
+    - auto and manual focus and exposure
+    - auto white balance or select from a number presets
+    - capture in 16:9, 4:3, or 1:1 in both portrait and landscape
+    - set the frame rate, from 24 FPS up to highest supported (240 FPS on newer devices)
+Version 3.4 (Jul 3, 2015)
+    All new camera capture:
+    - auto and manual focus and exposure
+    - auto white balance or select from a number presets
+    - capture in 16:9, 4:3, or 1:1 in both portrait and landscape
+    - set the frame rate, from 24 FPS up to highest supported (240 FPS on newer devices)
+
+    Fixes:
+    - Layout of Hermano popover on iPhone 6 Plus
+    - Crash when setting the trimmer
+    - Request for location permission after uploading
+Version 3.3.1 (Jun 25, 2015)
+    - Cinemagraph Remote Watch app performance improvements
+    - Better error message when there is no Facebook account setup
+    - Crash attempting to purchase while offline
+    - Updated Creative SDK
+Version 3.3 (May 9, 2015)
+    - Cinemagraph Remote Apple Watch app - control capture from Apple Watch
+    - Increase recording duration from 5 to 10 seconds
+    - Fixed a crash when importing video on iPad
+Version 3.2.1 (Apr 23, 2015)
+    Fixes:
+    - Video import layout after rotating
+    - Full screen cinemagraph layout when rotating
+    - Crash deleting Cinemagraph documents
+    - Date formatting
+    - Updated Creative SDK
+Version 3.2 (Mar 27, 2015)
+    - New Flixel Cloud subscription plans
+    - Updated Creative Cloud support
+    - Fixed a crash importing still images from Lightroom
+    - Fixed editing view layout bug when editing an existing document and rotating on an iPhone 6 Plus
+Version 3.1 (Jan 23, 2015)
+    ● Edit the still image in app with Adobe Creative Cloud Image SDK
+    ● Enhanced Documents view: better iCloud support, rename documents, import and export via AirDrop and third-party extensions
+    ● Change your iCloud storage preference in Settings.app
+
+
+    New in v3.x
+    ● Beautiful iOS 8 UI enhancements
+    ● Support for iPhone 6 and 6 Plus
+    ● iCloud Drive for document storage
+    ● Continuity to iOS and Mac
+    ● Improved Export: repetitions, share, and save
+    ● Adobe Creative Cloud support
+    ● Adobe Ink (and related stylus pens) support
+    ● Import videos with iOS 8 document picker
+    ● Import and Export the still frame
+    ● 1Password support
+    ● iTunes file sharing
+Version 3.0.1 (Dec 18, 2014)
+    ● Fixes a critical bug where export is not unlocked for some pre-3.0 customers
+    ● 1Password support
+    ● iTunes file sharing
+    ● Open files sent from Mac via AirDrop
+    ● Better iCloud document support
+
+    New in v3.0
+    ● Beautiful iOS 8 UI enhancements
+    ● Support for iPhone 6 and 6 Plus
+    ● iCloud Drive for document storage
+    ● Continuity to iOS and Mac
+    ● Improved Export: repetitions, share, and save
+    ● Adobe Creative Cloud support
+    ● Adobe Ink (and related stylus pens) support
+    ● Import videos with iOS 8 document picker
+    ● Import and Export the still frame
+Version 3.0 (Dec 12, 2014)
+    * Important note to pre-3.0 customers* please wait for 3.0.1 to update. Purchase verification is failing to unlock the feature for you. We are very sorry and hope Apple will approve an update quickly.
+
+    - Beautiful iOS 8 UI enhancements
+    - Support for iPhone 6 and 6 Plus
+    - iCloud Drive for document storage
+    - Continuity to iOS and Mac
+    - Improved Export: repetitions, share, and save
+    - Adobe Creative Cloud support
+    - Adobe Ink (and related stylus pens) support
+    - Import videos with iOS 8 document picker
+    - Import and Export the still frame
+Version 2.2 (Sep 15, 2014)
+    Introducing FlixelCloud subcription plans. Control how your flixels appear when embedded on the web.
+
+    Fixes failed landscape renders on iPhone 5 devices
+
+    Bug fixes and performance improvements
+Version 2.1 (Jul 10, 2014)
+    - Sign in not required: restored the ability to create without an account
+
+
+
+    - Crossfade: blend the start and end for a seamless repeating flixel
+
+
+
+    Fixed:
+
+    - Crash when attempting to share to Twitter when there is more than one account setup
+
+    - Obscure failed login error message
+Version 2.0 (May 31, 2014)
+    - Beautiful new design
+    - Enhanced creation process
+    - Lots of new filters
+Version 1.0.4 (Sep 25, 2013)
+    Fixes:
+    - iOS 7 compatibility
+    - Facebook sign up and sign in. We're really sorry about the issues some of you have experienced. It's been a long painful road for all of us, but everything should be working now.
+    - Removed ability to share on Facebook if publish permissions are disallowed
+    - Social networks displayed incorrect connection state
+    - An issue where lists of flixels, users, or comments would be removed after a refresh
+Version 1.0.3 (Sep 10, 2013)
+    What's New:
+    - Added "Open In Flixel Pro" support for compatible video files (used by Dropbox, Mail, etc.)
+    - Increased editing zoom level up to 8x
+
+    Fixed:
+    - Updated Facebook SDK (to fix Facebook connection errors)
+    - Fixed potential crashes when stopping capture
+    - Disabled background rendering to prevent dimming and potential crash
+    - Fixed an issue where recording would fail after viewing drafts
+    - Social share buttons on upload correctly applies previous state
+Version 1.0.2 (Aug 16, 2013)
+    What's New:
+
+    - Improved B&W filter
+
+
+
+    Fixed:
+
+    - Crash during rendering
+
+    - Push notifications not playing
+
+    - Facebook authentication update
+Version 1.0.1 (Jul 15, 2013)
+    What's New:
+    - Tap and hold the Record button to set a timer
+
+    Fixed:
+    - Crash during capture on older devices
+    - Sharing on social networks
+    - Push notification settings are saved
+Version 1.0 (Jun 20, 2013)
+
+Users may also like
+Select objects to compare
+HYPERSPEKTIV: Photo, Video, AR
+Filmm: One-Tap Video Editor
+PLOTAVERSE • Creative Apps Kit
+Motion Portrait Photo Animator
+StoryZ AI Photo animator & VFX
+Vimage: motion moving picture
+PixaMotion 3d Photo Video Loop
+Werble: Photo & Video Animator
+Zoetropic - Photo in motion
+Filmr - Pro Video Editor
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+24 times
+on App Store homepage
+56 times
+on App Store category pages
+Versions
+
+    6.7
+    Current release
+    Feb 8, 2024
+    6.6.1
+    Aug 21, 2023
+    6.6
+    Nov 12, 2022
+    6.5.1
+    Dec 8, 2020
+    6.5
+    Sep 16, 2020
+    6.4.5
+    Jun 12, 2020
+    6.4.4
+    Mar 17, 2020
+    6.4.3
+    Feb 22, 2020
+    6.4.2
+    Dec 3, 2019
+    6.4.1
+    Oct 8, 2019
+    6.4
+    Sep 23, 2019
+    6.3.2
+    Jul 22, 2019
+    6.3.1
+    May 22, 2019
+    6.3
+    Apr 19, 2019
+    6.2.3
+    Apr 4, 2019
+    6.2.2
+    Mar 9, 2019
+    6.2.1
+    Dec 19, 2018
+    6.2
+    Nov 15, 2018
+    6.1.1
+    Jul 23, 2018
+    6.1
+    Jul 4, 2018
+    6.0.6
+    May 15, 2018
+    6.0.5
+    May 10, 2018
+    6.0.4
+    Apr 10, 2018
+    6.0.3
+    Mar 29, 2018
+    6.0.2
+    Feb 24, 2018
+    6.0.1
+    Feb 9, 2018
+    6.0
+    Feb 7, 2018
+    5.3.1
+    Sep 18, 2017
+    5.3
+    Jul 25, 2017
+    5.2.2
+    Jun 8, 2017
+    5.2.1
+    May 11, 2017
+    5.2
+    Mar 27, 2017
+    5.1.2
+    Dec 23, 2016
+    5.1.1
+    Nov 6, 2016
+    5.1
+    Oct 27, 2016
+    5.0
+    Sep 17, 2016
+    4.4.1
+    Aug 16, 2016
+    4.4
+    Aug 12, 2016
+    4.3.1
+    Jul 16, 2016
+    4.3
+    Jul 11, 2016
+    4.2.3
+    Jun 5, 2016
+    4.2.2
+    May 2, 2016
+    4.2.1
+    Apr 27, 2016
+    4.2
+    Apr 12, 2016
+    4.1
+    Mar 25, 2016
+    4.0.1
+    Mar 16, 2016
+    4.0
+    Feb 25, 2016
+    3.5.3
+    Dec 8, 2015
+    3.5.2
+    Nov 7, 2015
+    3.5.1
+    Oct 7, 2015
+    3.5
+    Sep 3, 2015
+    3.4.1
+    Aug 7, 2015
+    3.4
+    Jul 3, 2015
+    3.3.1
+    Jun 25, 2015
+    3.3
+    May 9, 2015
+    3.2.1
+    Apr 23, 2015
+    3.2
+    Mar 27, 2015
+    3.1
+    Jan 23, 2015
+    3.0.1
+    Dec 18, 2014
+    3.0
+    Dec 12, 2014
+    2.2
+    Sep 15, 2014
+    2.1
+    Jul 10, 2014
+    2.0
+    May 31, 2014
+    1.0.4
+    Sep 25, 2013
+    1.0.3
+    Sep 10, 2013
+    1.0.2
+    Aug 16, 2013
+    1.0.1
+    Jul 15, 2013
+    1.0
+    Jun 20, 2013
+
+See More
+Top In-App Purchases
+
+    Flixel Cloud Web+Apps
+    $29.99
+    License
+    $299.99
+    Mobile
+    $99.99
+    Professional
+    $199.99
+    Cinemagraph Pro for iOS
+    $19.99
+    Flixel Cloud Web+Apps
+    $199.99
+    Flixel Cloud Web+Apps
+    $19.99
+    Flixel Cloud Web
+    $9.99
+    Mobile Monthly
+    $14.99
+    Professional Monthly
+    $29.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jun 24, 2013
+
+Worldwide Release Date
+    Jun 24, 2013
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    6.7
+
+Size
+    159.22 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Italian, Japanese, Portuguese, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    Flixel Photos Inc.
+
+Company HQ
+    Canada
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.6 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.flixel.cinemagraphpro
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    Yes
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 642139481
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Cinemagraph Pro | data.ai

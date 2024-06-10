@@ -1,0 +1,479 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Karaoke Connect
+SoncamediaUtilities (Applications)Free
+Alerts
+
+    Karaoke Connect
+    Karaoke Connect
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Karaoke Connect
+Utilities (Applications)
+Free
+App Description
+song search/select/control app for ACNOS karaoke players of Soncamedia
+* smart search: can quickly input 1st-letter (PingYing) or word of song title, composer or artist (with avatar), support search by index, languages, genres, MIDI/KTV/REMIX filters, ...
+* Wi-Fi connect to all Karaoke Full HD 1080P, MINI/KTV Karaoke Wifi & BeatBox (Mobile Karaoke) models
+* full control karaoke features on connected player: song book, 1st-Reserved, karaoke music tuning, set scoring/greetings, change into dance mode, ...
+* WIFI VIDEO: directly sync/show the playing song of connected player on the app screen for singing together
+* easy lyrics view, look-up song index and add to Favorite List
+* auto find and update song data on internet
+Ratings
+Displayed Avg Ratings
+3.09
+Total Displayed Ratings
+91
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.0.2 (Jan 31, 2024)
+    * bugs fixed & UI improvements
+Version 3.0.1 (Apr 9, 2022)
+    * bugs fixed & UI improvements
+Version 3.0.0 (Apr 6, 2022)
+    * bugs fixed & UI improvements
+Version 2.9.9 (Nov 23, 2021)
+    * bugs fixed & UI improvements
+Version 2.9.8 (Jun 16, 2021)
+    * bugs fixed & UI improvements
+Version 2.9.7 (May 24, 2021)
+    * bugs fixed & UI improvements
+Version 2.9.6 (Nov 6, 2020)
+    * bugs fixed & UI improvements
+Version 2.9.5 (Jul 22, 2020)
+    * bugs fixed & UI improvements
+Version 2.9.4 (Jul 9, 2020)
+    * bugs fixed & UI improvements
+Version 2.9.3 (Jul 6, 2020)
+    * bugs fixed & UI improvements
+Version 2.9.2 (Jun 27, 2020)
+    * bugs fixed & UI improvements
+Version 2.9.1 (Jun 25, 2020)
+    * bugs fixed & UI improvements
+Version 2.9.0 (Jan 6, 2020)
+    * bugs fixed & UI improvements
+Version 2.8.9 (Jan 2, 2020)
+    * bugs fixed & UI improvements
+Version 2.8.8 (Apr 23, 2019)
+    * bugs fixed & UI improvements
+Version 2.8.7 (Jan 23, 2019)
+    * bugs fixed & UI improvements
+Version 2.8.6 (Jan 10, 2019)
+    * bugs fixed & UI improvements
+Version 2.8.5 (Jan 3, 2019)
+    * bugs fixed & UI improvements
+Version 2.8.4 (Aug 21, 2018)
+    * bugs fixed & UI improvements
+Version 2.8.3 (Aug 1, 2018)
+    * bugs fixed & UI improvements
+Version 2.8.2 (Jul 20, 2018)
+    * bugs fixed & UI improvements
+Version 2.8.1 (Jun 18, 2018)
+    * bugs fixed & UI improvements
+Version 2.8.0 (Nov 22, 2017)
+    * bugs fixed & UI improvements
+Version 2.7.9 (Oct 18, 2017)
+    * bugs fixed & UI improvements
+Version 2.7.8 (Oct 12, 2017)
+    * bugs fixed & UI improvements
+Version 2.7.7 (Sep 9, 2017)
+    * bugs fixed & UI improvements
+Version 2.7.6 (Aug 23, 2017)
+    * bugs fixed & UI improvements
+Version 2.7.5 (Jun 13, 2017)
+    * bugs fixed & UI improvements
+Version 2.7.4 (May 17, 2017)
+    * bugs fixed & UI improvements
+Version 2.7.3 (May 9, 2017)
+    * bugs fixed & UI improvements
+Version 2.7.2 (Mar 17, 2017)
+    * bugs fixed & UI improvements
+Version 2.7.0 (Mar 1, 2017)
+    * bugs fixed & UI improvements
+Version 2.6.1 (Dec 10, 2016)
+    * bugs fixed & UI improvements
+Version 2.6.0 (Dec 7, 2016)
+    * bugs fixed & UI improvements
+Version 2.5.4 (Nov 30, 2016)
+    * bugs fixed & UI improvements
+Version 2.5.3 (Nov 22, 2016)
+    * bugs fixed & UI improvements
+Version 2.5.2 (Nov 11, 2016)
+    * bugs fixed & UI improvements
+Version 2.5.1 (Oct 25, 2016)
+    * bugs fixed & UI improvements
+Version 2.5.0 (Oct 14, 2016)
+    * bugs fixed & UI improvements
+Version 2.4.8 (Sep 23, 2016)
+    * bugs fixed & UI improvements
+Version 2.4.7 (Sep 20, 2016)
+    * bugs fixed & UI improvements
+Version 2.4.5 (Sep 12, 2016)
+    * bugs fixed & UI improvements
+Version 2.4.0 (Aug 9, 2016)
+    * sửa lỗi & tinh chỉnh giao diện
+Version 2.3.0 (Jul 1, 2016)
+    * sửa lỗi & tinh chỉnh giao diện
+Version 2.2.0 (Apr 7, 2016)
+    * thêm chức năng WIFI VIDEO
+    * sửa lỗi & tinh chỉnh giao diện
+Version 2.1.1 (Mar 12, 2016)
+    * thêm chức năng WIFI VIDEO cho dòng máy KTV Karaoke Wifi
+    * thêm chức năng tự động kết nối với đầu karaoke khi tín hiệu mạng Wi-Fi yếu, chập chờn
+    * ưu tiên hiển thị các bài hát được yêu thích, bài hát mới/hot, …
+    * sửa lỗi & tinh chỉnh giao diện
+Version 2.1.0 (Feb 9, 2016)
+    * Hỗ trợ tính năng WIFI VIDEO
+    * Sửa và tối ưu giao diện
+    * Sửa lỗi bị thoát ứng dụng khi tìm bài hát trên iOS 9.0 trở lên
+Version 2.0.2 (Jan 4, 2016)
+    * thêm chức năng bấm số tìm bài hát
+    * thêm thể loại NHẠC SỐNG
+    * cải tiến kết nối ổn định với các model đầu KTV Karaoke Wifi và Karaoke Mini Wifi mới
+    * sửa lỗi & tinh chỉnh giao diện
+Version 2.0.0 (Dec 1, 2015)
+    * Hỗ trợ thêm đầu máy Karaoke Mini
+    * Sửa các lỗi phát hiện
+Version 1.9.6 (Nov 3, 2015)
+    * cải tiến kết nối ổn định với các model đầu KTV Karaoke Wifi mới
+    * sửa lỗi & tinh chỉnh giao diện
+Version 1.9.1 (Oct 12, 2015)
+    bản nâng cấp (chức năng mới):
+    * tinh chỉnh giao diện
+Version 1.8.0 (Aug 17, 2015)
+    * Sửa các lỗi hiển thị
+Version 1.7.0 (Jul 21, 2015)
+    * hỗ trợ kết nối với hộp Wi-Fi Remote để điều khiển, tìm chọn bài hát cho các loại đầu karaoke phổ biến trên thị trường: ACNOS, Arirang, VietKTV, musicCore, …
+    * tự động tìm kiếm và cập nhật dữ liệu bài hát từ mạng internet
+Version 1.6.5 (Jul 13, 2015)
+    * hỗ trợ kết nối với hộp Wi-Fi Remote để điều khiển, tìm chọn bài hát cho các loại đầu karaoke phổ biến trên thị trường: ACNOS, Arirang, VietKTV, musicCore, …
+    * tự động tìm kiếm và cập nhật dữ liệu bài hát từ mạng internet
+Version 1.6.0 (Jun 27, 2015)
+    * hỗ trợ kết nối với hộp Wi-Fi Remote để điều khiển, tìm chọn bài hát cho các loại đầu karaoke thông dụng trên thị trường
+Version 1.5.1 (May 27, 2015)
+    * thêm chức năng xem lời bài hát: nhấn-giữ vào bài hát và chọn chức năng 'Xem lời bài hát' để xem toàn bộ lời
+    * tự động tìm kiếm và cập nhật dữ liệu, bài hát từ mạng internet
+Version 1.5.0 (May 24, 2015)
+    * Thêm tính năng "Sàn Ca Khúc Mới"
+Version 1.4.0 (May 1, 2015)
+    * Tự động cập nhật bài hát mới từ máy chủ.
+    * Thêm chức năng xem lời bài hát: nhấn-giữ vào bài hát và chọn chức năng ’Xem lời bài hát’ để xem toàn bộ lời
+Version 1.3.2 (Mar 21, 2015)
+    * Tìm kiếm nhanh các bài hát song ca trong mục thể loại
+    * Sửa lỗi khi tìm kiếm bài hát
+Version 1.3.1 (Feb 20, 2015)
+    Sửa lỗi không đồng bộ bài hát khi chọn bằng remote.
+Version 1.3.0 (Feb 8, 2015)
+    * Hỗ trợ tìm kiếm bài hát Tiếng Hoa: nhập pinyin, ký tự đầu của pinyin của bài hát
+Version 1.2.3 (Jan 27, 2015)
+    * Thay đổi giao diện hiển thị bài hát
+    * Thêm nút repeat bài hát
+    * Thêm tính năng setup câu chào
+Version 1.2.2 (Dec 31, 2014)
+    Sửa lỗi không kết nối với model có đĩa
+Version 1.2.1 (Dec 10, 2014)
+    Sửa lỗi về giao diện
+Version 2.7.1 (Dec 5, 2014)
+    * bugs fixed & UI improvements
+Version 1.2.0 (Dec 2, 2014)
+    - Thay đổi một số giao diện
+    - Cải thiện tốc độ tải bài hát
+Version 1.1 (Nov 14, 2014)
+    - Thay đổi giao diện một số tính năng của ứng dụng
+Version 1.0 (Oct 22, 2014)
+
+Users may also like
+Select objects to compare
+i-SPEED by VNNIC
+My Parking
+Lịch Vạn Niên 2024 & Lịch Âm
+Fshare Mobile
+Rang Dong Smart
+iThong
+Toạ độ VN2000
+Kgo - Tra phạt nguội, Ôn GPLX
+tiNi
+Onland-Xem quy hoạch toàn quốc
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.0.2
+    Current release
+    Jan 31, 2024
+    3.0.1
+    Apr 9, 2022
+    3.0.0
+    Apr 6, 2022
+    2.9.9
+    Nov 23, 2021
+    2.9.8
+    Jun 16, 2021
+    2.9.7
+    May 24, 2021
+    2.9.6
+    Nov 6, 2020
+    2.9.5
+    Jul 22, 2020
+    2.9.4
+    Jul 9, 2020
+    2.9.3
+    Jul 6, 2020
+    2.9.2
+    Jun 27, 2020
+    2.9.1
+    Jun 25, 2020
+    2.9.0
+    Jan 6, 2020
+    2.8.9
+    Jan 2, 2020
+    2.8.8
+    Apr 23, 2019
+    2.8.7
+    Jan 23, 2019
+    2.8.6
+    Jan 10, 2019
+    2.8.5
+    Jan 3, 2019
+    2.8.4
+    Aug 21, 2018
+    2.8.3
+    Aug 1, 2018
+    2.8.2
+    Jul 20, 2018
+    2.8.1
+    Jun 18, 2018
+    2.8.0
+    Nov 22, 2017
+    2.7.9
+    Oct 18, 2017
+    2.7.8
+    Oct 12, 2017
+    2.7.7
+    Sep 9, 2017
+    2.7.6
+    Aug 23, 2017
+    2.7.5
+    Jun 13, 2017
+    2.7.4
+    May 17, 2017
+    2.7.3
+    May 9, 2017
+    2.7.2
+    Mar 17, 2017
+    2.7.0
+    Mar 1, 2017
+    2.6.1
+    Dec 10, 2016
+    2.6.0
+    Dec 7, 2016
+    2.5.4
+    Nov 30, 2016
+    2.5.3
+    Nov 22, 2016
+    2.5.2
+    Nov 11, 2016
+    2.5.1
+    Oct 25, 2016
+    2.5.0
+    Oct 14, 2016
+    2.4.8
+    Sep 23, 2016
+    2.4.7
+    Sep 20, 2016
+    2.4.5
+    Sep 12, 2016
+    2.4.0
+    Aug 9, 2016
+    2.3.0
+    Jul 1, 2016
+    2.2.0
+    Apr 7, 2016
+    2.1.1
+    Mar 12, 2016
+    2.1.0
+    Feb 9, 2016
+    2.0.2
+    Jan 4, 2016
+    2.0.0
+    Dec 1, 2015
+    1.9.6
+    Nov 3, 2015
+    1.9.1
+    Oct 12, 2015
+    1.8.0
+    Aug 17, 2015
+    1.7.0
+    Jul 21, 2015
+    1.6.5
+    Jul 13, 2015
+    1.6.0
+    Jun 27, 2015
+    1.5.1
+    May 27, 2015
+    1.5.0
+    May 24, 2015
+    1.4.0
+    May 1, 2015
+    1.3.2
+    Mar 21, 2015
+    1.3.1
+    Feb 20, 2015
+    1.3.0
+    Feb 8, 2015
+    1.2.3
+    Jan 27, 2015
+    1.2.2
+    Dec 31, 2014
+    1.2.1
+    Dec 10, 2014
+    2.7.1
+    Dec 5, 2014
+    1.2.0
+    Dec 2, 2014
+    1.1
+    Nov 14, 2014
+    1.0
+    Oct 22, 2014
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Utilities
+
+Initial Release Date
+    Dec 5, 2014
+
+Worldwide Release Date
+    Dec 5, 2014
+
+Last Updated Time
+    Feb 27, 2024
+
+Version
+    3.0.2
+
+Size
+    98.60 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Vietnamese
+
+Seller
+    SONCAMEDIA CORPORATION
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 8.0 or later. Compatible with iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi-Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi‑Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi-Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi-Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, iPod touch (6th generation), and iPod touch (7th generation).
+
+Bundle ID
+    com.soncamedia.KaraokeConnect
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 925659384
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Karaoke Connect | data.ai

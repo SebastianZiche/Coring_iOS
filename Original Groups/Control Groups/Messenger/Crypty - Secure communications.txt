@@ -1,0 +1,367 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Crypty - Secure communications
+Crypty s.r.l.Social Networking (Applications)Free
+Alerts
+
+    Crypty s.r.l.
+
+    Crypty - Secure communications
+    Crypty - Secure communications
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Crypty - Secure communications
+Social Networking (Applications)
+Free
+App Description
+Crypty is the only secure communication solution for your messages, calls and files sharing.
+Powerful, simple, instantaneous and illimited.
+
+Crypty enables you to:
+- Make and receive encrypted voice calls
+- Send and receive encrypted text, voice and video messages
+- Share your encrypted files
+- Create group chats
+- Create chatrooms
+- Take and send encrypted pictures
+- Use timed self-destruction option for messages
+- Create a confidential live stream, with recording for later viewing 
+
+- Confidentially share your location
+
+- Use your corporate servers (opzional)
+- Wipe the Crypty app by remote
+
+Crypty provides full end-to-end encryption. It is the only secure communication app whose on-device data is safe even from spy software.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 9.1.6 (Feb 6, 2024)
+    What's New in v9.1
+
+    We're thrilled to introduce exciting new features and improvements in our latest update! Here's what's waiting for you:
+
+    1. Situational Awareness: Admins can now initiate situational checks in chatrooms, receiving participant responses along with their live locations.
+
+    2. Map Drawings: Express yourself on the map! Users can draw shapes, lines, and add points, making map interactions more dynamic and collaborative.
+
+    3. Offline Maps: No connection? No problem! Mark regions on maps to download and access them offline, ensuring you stay connected even in remote areas.
+
+    4. Emergency Signals: Your safety matters. Activate Emergency mode to send SOS signals with your location to designated responders. Even if their phone is muted, they'll receive an audible alert.
+
+    5. Refreshed Design: Enjoy a sleek new look across the entire app. We've refreshed the design for a more modern and user-friendly experience.
+
+    6. Edit My Account Page: Personalize your profile! The new edit my account page includes an option to change your avatar color, adding a touch of uniqueness to your identity.
+
+    7. Admin Control in Chatroom Calls: Admins now have the power to mute participants during chatroom calls, ensuring smooth and controlled communication.
+
+    8. Other Improvements: We've made several additional enhancements for a smoother experience:
+    - Message info now includes read timestamps.
+    - Improved message delivery reporting.
+    - Enhanced upload progress visibility for all files.
+    - YubiKey support now extends to USB-C, offering more flexibility and security options.
+
+    Stay secure and connected!
+Version 9.0.1 (Nov 16, 2023)
+    What's New in Version 9.0.1:
+    New Features:
+
+    - Secure Messenger Lockdown: Now you can choose to lock the app immediately when it goes into the background or set a delay for added security.
+
+    Bug Fixes and Improvements:
+
+    - Backup WiFi export: Fixed issue with invalid QR code
+    - Crash Fix: We've resolved a crash issue related to mentions in chat drafts.
+    - Crash Fix: Fixed a crash that occurred when receiving incoming expired messages.
+    - Avatar Display: Sometimes, the user menu button (avatar) was not displayed. This has been fixed.
+
+    Thank you for using our app! We're committed to your privacy and security.
+    If you have any feedback or suggestions, please don't hesitate to contact our support team.
+Version 9.0.0 (Sep 29, 2023)
+    We're excited to introduce a fresh and improved experience with our latest update!
+    Here's what's in store for you:
+
+
+    Introduction of User Side Menu: We've introduced a brand new feature - the user side menu. This menu makes managing your profile easier than ever before. You can now update your status text, presence, and profile image with just a few taps.
+
+
+    Refreshed Look: You'll notice a sleek new look throughout the app, featuring all-new icons and fonts for a modern and unified design.
+
+
+    Redesigned Chat Bubbles: Say hello to our redesigned chat message bubbles, enhancing your messaging experience with style and clarity.
+
+
+    Consistent User Avatars: Your avatar color is now consistent across all platforms, ensuring a seamless and recognizable presence.
+
+
+    Streamlined Settings and About Page: We've moved your settings from the bottom tab bar to the new side menu, which also houses our new About page. This provides easy access to personalize your app experience and learn more about us.
+
+
+    Enhanced Camera: iPad users, rejoice! We've introduced a new camera for iPad, and improved rotation for iPhone cameras for capturing those perfect moments.
+
+
+    Permissions-Based Features: Some app features will now adapt based on permissions set by administrators, ensuring a secure and tailored experience.
+
+
+    iOS 15 Requirement: To bring you the best possible experience, Crypty now requires a minimum iOS 15 version.
+
+
+    We hope you enjoy these exciting updates and enhancements! Your feedback is invaluable to us as we continue to improve your app experience.
+    Stay connected and keep enjoying Crypty!
+Version 8.4.3 (Aug 24, 2023)
+    - Offline Mode: Unlock the app for reading messages even without an internet connection, perfect for when you're on a plane or in areas with limited connectivity. (Requires a YubiKey device.)
+    - Saved Messages: Mark important messages as saved, allowing you to quickly find and access them whenever you need to.
+    - Dynamic Font Sizing: The app now adopts the system font size, ensuring optimal readability based on your preferences.
+    - File Sharing from System Share Menu: With the new ability to share a file directly into Biocoded from a system share menu, you can now share content with even greater ease.
+    - Custom User Profile Images and Statuses: Your contacts are now easier to differentiate and the app has come even more alive with the addition of custom user profile images and statuses.
+    - Message reactions. You can now react to each message.
+    - Encrypted backup export/import.
+    - Search for a message within a chat.
+    - We are introducing a new type of chatrooms - public chatrooms.
+Version 7.0.2 (Mar 31, 2022)
+    Crypty has a new way to protect your data! Actually multiple ways.
+    By opening Settings and Application Locking you can set the preferred way to protect your data, is it a PIN lock, Face ID or Touch ID lock or by using a YubiKey hardware key. You can also enable recovery keywords if desired.
+    Additionaly, in this new version we're introduction @mentions to Crypty.
+    When you want to let someone in a group know that a message is intended for him or her you can do that by using the @ character.
+    End-to-end encrypted location service now supports encrypted location history, which you can turn ON to see someones path that he or she took from the start to the current location.
+    And there is more - you can now send short videos directly from the integrated gallery.
+    We've also polished the app all around so it is more stable.
+Version 6.6.4 (Aug 15, 2021)
+    improvements and bug fixes
+Version 6.6.3 (Aug 3, 2021)
+    * Overall improvements on messaging events. Read reports will be delivered and visible on all chats now.
+    * Messages with expiration have a more streamlined user interface and are available on all chats now.
+    * Improved location sharing with real-time location sharing upgrade. Location sharing is supported on all chats now. Location sharing can be enabled for a preset duration, after which it will automatically deactivate.
+Version 6.4.3 (Apr 30, 2021)
+    + New reply message feature: You can now directly reply on any message in your conversations.
+    To reply to a message simply swipe over the message from left to right and press the reply button or press and hold on the message that you with to reply to and press reply.
+    You can interact and reply to any type of message - text, image or file. 
+Version 6.3.1 (Dec 15, 2020)
+    - Video calls! Users are now able to turn on camera in conference or chat room calls
+    - A new Call Screen
+    - New start conference call dialog on "Calls" tab
+Version 6.0.3 (Aug 2, 2020)
+    New features:
+    + Chatrooms. Create administered end-to-end encrypted chatrooms with up to 255 people. Send text messages and multimedia messages. Create conference rooms!
+    + Conference rooms. Create voice meetings with up to 255 people.
+
+    Improvements:
+    + Message drafts are now available.
+    + Graphical updates. Messaging pane shows an icon depending on the type of chat.
+    + Mark as read. Swiping left-to-right over a conversation will reveal "Mark as read" option on the chat.
+    + Local database optimization
+
+    Other:
+    + Redesigned push notifications.
+Version 4.1.2 (Jan 13, 2020)
+    - Fixed sending live-photos on iOS13
+Version 4.1.1 (Nov 5, 2019)
+    - Conference calls
+    - You are now able to turn off read receipts for individual chats
+    - Turning on Auto-delete for past content now requires code confirmation
+    - Forwarding files that have not been downloaded to your device
+    - Fixed crash on call hangup for some users
+    - Fixed "messages bubbles gone crazy" bug
+    - Fixed not working links on iOS13
+Version 3.6.1 (May 9, 2019)
+    - added privacy profiles
+    - added auto-delete setting
+    - added forward message action
+    - added chat notifications costumizations
+    - added bandwidth
+Version 3.5.0 (Aug 30, 2018)
+    - added contact suggestions
+    - redesigned contact requests
+    - improved iPhone X experience
+    - crash fixes when sending large files and deleting expired messages
+Version 3.3.1 (Dec 5, 2017)
+
+Users may also like
+Select objects to compare
+Biocoded Private
+Biocoded
+Circles - Encrypted E2E VOIP +
+Flow Calling App
+allgram Messenger
+IMMUNE Messenger
+Doot Messenger
+Chot: Secure Instant Messaging
+TalkShawk Messenger
+StealthTalk Private Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    9.1.6
+    Current release
+    Feb 6, 2024
+    9.0.1
+    Nov 16, 2023
+    9.0.0
+    Sep 29, 2023
+    8.4.3
+    Aug 24, 2023
+    7.0.2
+    Mar 31, 2022
+    6.6.4
+    Aug 15, 2021
+    6.6.3
+    Aug 3, 2021
+    6.4.3
+    Apr 30, 2021
+    6.3.1
+    Dec 15, 2020
+    6.0.3
+    Aug 2, 2020
+    4.1.2
+    Jan 13, 2020
+    4.1.1
+    Nov 5, 2019
+    3.6.1
+    May 9, 2019
+    3.5.0
+    Aug 30, 2018
+    3.3.1
+    Dec 5, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Dec 5, 2017
+
+Worldwide Release Date
+    May 12, 2017
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    9.1.6
+
+Size
+    75.60 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Deutsch, Englisch, Italienisch, Slowenisch
+
+Seller
+    CRYPTY SRL
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 15.0 oder neuer. Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    it.crypty.public
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1316881818
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Crypty - Secure communications | data.ai

@@ -1,0 +1,326 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Blitz – Secure Chat
+Blitz SecSocial Networking (Applications)Free
+Alerts
+
+    Blitz Sec
+
+    Blitz – Secure Chat
+    Blitz – Secure Chat
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Blitz – Secure Chat
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+Blitz is a new free messaging service. Its significant advantages are security and privacy — all messages are end-to-end encrypted, the server does not store any activity, messages, cell IDs or any other personal data. Users' authentication is anonymous - it has no connection to your phone contact list (names, phone numbers or email addresses).
+
+There is also a number of additional security measures like pin-code app lock, messages auto-expiration, deletion of a message on both phones and more. Commercial corporate version of the app's is also available - server software can be deployed on premise.
+Ratings
+Displayed Avg Ratings
+4.85
+Total Displayed Ratings
+13
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.5.4 (Apr 11, 2023)
+    - View pictures and documents in landscape mode
+    - You can reply to documents and images now, not only to text messages
+    - Unlimited message size
+    - Numerous bug fixes
+Version 2.5.3 (Feb 27, 2023)
+    - View pictures and documents in landscape mode
+    - You can reply to documents and images now, not only to text messages
+    - Unlimited message size
+    - Numerous bug fixes
+Version 2.5.2 (Sep 21, 2022)
+    Numerous bug fixes and improvements in group chats.
+Version 2.5.1 (Jul 5, 2022)
+    - Mute notifications in group chats
+    - Other bug fixes and improvements
+Version 2.5.0 (Mar 24, 2022)
+    - Group chats
+    - Numerous bug fixes and improvements
+Version 2.4.0 (Mar 23, 2021)
+    • New "Secret Messages"
+    Secret messages are not readable on screenshots. Tap and hold on a send button to choose between a "secret" and a "normal" message.
+    Tap and hold a received secret message to reveal it.
+
+    • Actions on multiple messages
+    Tap and hold a message to select multiple messages and delete/forward/copy them simultaneously.
+
+    - Contacts exchange via Bluetooth was removed
+    - Settings for alternative chat appearance was removed
+    - Various fixes and improvements
+Version 2.3.1 (Dec 14, 2020)
+    New features
+    - Post-edit sent messages
+    - Crop and edit images before sending
+    - Forward images and files, not only text messages
+
+    + 15 other stability and performances fixes
+Version 2.3 (Dec 10, 2020)
+    New features
+    - Post-edit sent messages
+    - Crop and edit images before sending
+    - Forward images and files, not only text messages
+
+    + 15 other stability and performances fixes
+Version 2.2 (Oct 19, 2020)
+    New feature — backup and transfer all your contacts to new device without loosing encryption keys and contacts. You don't need to re-establish encryption after transfer and may continue using the application on a new device as usual.
+
+    You and your contacts will receive a notification when such transfer happens to enhance security and alertness.
+
+Version 2.1 (Feb 26, 2020)
+    Main features:
+    • Reply to message
+    • Forward message
+    • Markup any image before sending
+    + 50 other security, visual and stability tweaks and improvements.
+Version 2.0.7 (Feb 5, 2020)
+    Main features:
+    • Reply to message
+    • Forward message
+    • Markup any image before sending
+    + 50 other security, visual and stability tweaks and improvements.
+Version 1.90 (Oct 17, 2019)
+    • An option to change incoming notification sound
+    • Additional notification when your message have not been read for some period of time
+    • New loading indicator that appears when app is still downloading new messages over slow network connection
+    • Little tweaks to look and feel of keys exchange process
+    • Resolved some other stability and compatibility issues
+Version 1.80 (Aug 1, 2019)
+    • Now you can share regular documents and files, not only images.
+    • Contact search function—helpful if you have a lot of peers.
+    • Additional security measures and numerous bug fixes.
+
+    We've also updated our server infrastructure for more robust and reliable push notification and connection latency.
+Version 1.76 (Nov 8, 2018)
+    - New fullscreen image viewer
+    - Swipe-right gesture for interface navigation
+    - IPv6 compatibility
+    - Some visual interface tweaks
+    - Numerous interface and layout bugfixes
+Version 1.64 (Sep 10, 2018)
+    • Share pictures directly from other apps
+    • Additional SSL encryption
+    • More than 30 bug fixes
+Version 1.44 (Mar 14, 2018)
+    • iOS 11 and iPhone compatibility
+    • Numerous bug and stability fixes
+Version 1.40 (Feb 9, 2018)
+    • iPhone X and iOS 11 compatibility
+    • Performance and stability improvements
+Version 1.32 (Dec 23, 2016)
+    • New option: do not prompt for PIN code until certain time passes;
+    • Connection should be more stable with public WiFi and some VPN services;
+    • Old and deleted messages will be folded in one line in your chat;
+    • Some issues with stuck unread count badge were resolved;
+    • Message input now has an automatic spelling correction;
+    • Contact backup now may be encrypted with arbitrary password;
+    • App loading and reentry times were improved;
+    • Other bug fixes and improvements;
+Version 1.29.5 (Nov 8, 2016)
+    • Bug fixes and other improvements.
+Version 1.29.4 (Nov 3, 2016)
+    • Bug fixes and other improvements.
+
+Users may also like
+Select objects to compare
+Crypviser Secure Messenger
+SafeSwiss® Encrypted Messenger
+Kedr
+Olvid
+Tok - Encrypted Messaging
+StealthTalk Private Messenger
+SimpleX Chat: secure messenger
+Threema OnPrem
+KeeperChat Encrypted Messenger
+xPal Ultra Secure Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.5.4
+    Current release
+    Apr 11, 2023
+    2.5.3
+    Feb 27, 2023
+    2.5.2
+    Sep 21, 2022
+    2.5.1
+    Jul 5, 2022
+    2.5.0
+    Mar 24, 2022
+    2.4.0
+    Mar 23, 2021
+    2.3.1
+    Dec 14, 2020
+    2.3
+    Dec 10, 2020
+    2.2
+    Oct 19, 2020
+    2.1
+    Feb 26, 2020
+    2.0.7
+    Feb 5, 2020
+    1.90
+    Oct 17, 2019
+    1.80
+    Aug 1, 2019
+    1.76
+    Nov 8, 2018
+    1.64
+    Sep 10, 2018
+    1.44
+    Mar 14, 2018
+    1.40
+    Feb 9, 2018
+    1.32
+    Dec 23, 2016
+    1.29.5
+    Nov 8, 2016
+    1.29.4
+    Nov 3, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Nov 3, 2016
+
+Worldwide Release Date
+    Nov 3, 2016
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    2.5.4
+
+Size
+    23.35 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Russian, Spanish
+
+Seller
+    IKARUS INVEST PTE. LTD.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.blitzchat.ios
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1149253290
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Blitz – Secure Chat | data.ai

@@ -1,0 +1,521 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+YOUKAMI
+Chungnyung KangLifestyle (Applications)Free
+Alerts
+
+    YOUKAMI
+    YOUKAMI
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+YOUKAMI
+Journal
+Lifestyle (Applications)
+Free
+App Description
+**This version has a limited number of draws.**
+
+"We make things for your stylish life."
+
+YOUKA : My own picture diary that I draw.
+
+# design
+"Emotional picture diary”
+: We made a picture diary that contains the emotion of NOTEGG.
+
+# How to use
+"Simple"
+: You can create a hash tag with YOUKA's own two-way rule.
+: Fill your diary freely.
+: Meet the most emotional picture diary in the world.
+
+# Drawing
+: NOTEGG illustrator draws a picture directly.
+: You can continue to see new pictures through constant updates.
+Ratings
+Displayed Avg Ratings
+4.68
+Total Displayed Ratings
+7.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.7.4 (Feb 21, 2024)
+    -Fixed ad viewing error!
+Version 1.7.3 (Aug 18, 2023)
+    -Fixed photo diary bug.
+Version 1.7.2 (Sep 22, 2022)
+    - iOS16 backup error fixed!
+Version 1.7.1 (May 12, 2022)
+    - Ads error has been fixed!
+Version 1.7.0 (Dec 29, 2021)
+    - Fixed the font size button!
+Version 1.6.9 (Dec 15, 2021)
+    - Fixed a bug where the list was hidden!
+Version 1.6.8 (Dec 11, 2021)
+    - Fixed the issue where the list looked cut off on Notch devices!
+Version 1.6.7 (Nov 29, 2021)
+    - Fixed the picture fix bug!
+Version 1.6.6 (Jul 15, 2021)
+    - Check the push messages and participate in the event!
+Version 1.6.4 (Jul 12, 2021)
+    - Added push function!
+Version 1.6.3 (Jul 2, 2021)
+    - Added password reset function!
+    **If you have forgotten your password, please contact us by email or DM!
+Version 1.6.2 (Jun 30, 2021)
+    - Added password reset function.
+    **If you have forgotten your password, please contact us!
+Version 1.6.1 (May 6, 2021)
+    -Fixed advertising bug!
+Version 1.6.0 (Apr 20, 2021)
+    -Mission ad view function modified :)
+Version 1.5.12 (Apr 15, 2021)
+    - Modified the app description again:)
+Version 1.5.10 (Mar 31, 2021)
+    - modified the notification screen.
+Version 1.5.9 (Mar 26, 2021)
+    - If you tap a date, you can write a diary of the past.
+Version 1.5.8 (Mar 20, 2021)
+    -The notification screen has been modified.
+Version 1.5.7 (Mar 2, 2021)
+    -Added app preview video :)
+Version 1.5.6 (Feb 25, 2021)
+    -Completed the update for iOS 14.
+Version 1.5.5 (Jan 31, 2021)
+    -YOUKAMI's photo upload function has been paid for.
+    *You can use it after watching the advertisement.
+Version 1.5.4 (Jan 17, 2021)
+    [Required update]
+    -Update with Yukami backup environment change!
+Version 1.5.3 (Jan 9, 2021)
+    -Fixed an error in the send by email function.
+Version 1.5.2 (Dec 29, 2020)
+    -Information e-mail address has been changed.
+    *Please contact us at ask.notegg@gmail.com :)
+    -The announcement screen has been modified.
+Version 1.5.1 (Dec 28, 2020)
+    -Information e-mail address has been changed.
+    *Please contact us at ask.notegg@gmail.com :)
+Version 1.5.0 (Dec 20, 2020)
+    -Increased the number of diary characters from 800 to 1500.
+Version 1.4.14 (Nov 20, 2020)
+    **IPhone 12 screen optimization**
+Version 1.4.13 (May 19, 2020)
+    - Fixed a bug where the time label was incorrectly displayed.
+Version 1.4.12 (May 16, 2020)
+    - Modified the app information :)
+Version 1.4.11 (May 5, 2020)
+    - Updated the advertising SDK by changing the ios policy.
+Version 1.4.10 (Mar 10, 2020)
+    * Fixed iPad's picture hiding feature!
+Version 1.4.9 (Jan 29, 2020)
+    -Added Instagram address to the [NOTEGG?] Menu.
+    * If you want a quick reply, please send a DM.
+Version 1.4.8 (Jan 22, 2020)
+    ** Updated sync feature **
+Version 1.4.6 (Jan 17, 2020)
+    - Added a date to the device sync notification.
+Version 1.4.5 (Jan 16, 2020)
+    ** YOUKA iPhone & iPad Sync feature update **
+    -When you sync your device, it automatically checks the latest backup data and brings up the sync notification window.
+    [How to sync] Try recovering by entering your device's YOUKA code to another device.
+Version 1.4.4 (Dec 20, 2019)
+    -Fixed some weird screens.
+    -Improved backup system.
+    * Please feel free to report any problems! I'll fix it right away.
+Version 1.4.3 (Nov 6, 2019)
+    -Fixed app crash bug and screen :)
+Version 1.4.2 (Oct 12, 2019)
+    - Changed the in-app payment method.
+    - I did some work for ios 13.
+
+    In the meantime, we have operated an upgrade system through paid payment within YOUKAMI. But I decided to switch the operation to a full free method (advertising) because of the difficulty of the confused YOUKAMI payment method. In the future, instead of randomly appearing ads while using the app, you can watch as many ads as you want and write a diary. It's a way to charge 2 times per 1 viewing. If you are tired of watching advertisements, you can download and use the official version of YOUKA. We will always listening to your inconvenience. Thank you.
+
+    NOTEGG
+Version 1.4.1 (Oct 11, 2019)
+    - Changed the in-app payment method.
+    - I did some work for ios 13.
+
+    In the meantime, we have operated an upgrade system through paid payment within YOUKAMI. But I decided to switch the operation to a full free method (advertising) because of the difficulty of the confused YOUKAMI payment method. In the future, instead of randomly appearing ads while using the app, you can watch as many ads as you want and write a diary. It's a way to charge 2 times per 1 viewing. If you are tired of watching advertisements, you can download and use the official version of YOUKA. We will always listening to your inconvenience. Thank you.
+
+    NOTEGG
+Version 1.4.0 (Oct 10, 2019)
+    - Changed the in-app payment method.
+    - I did some work for ios 13.
+
+    In the meantime, we have operated an upgrade system through paid payment within YOUKAMI. But I decided to switch the operation to a full free method (advertising) because of the difficulty of the confused YOUKAMI payment method. In the future, instead of randomly appearing ads while using the app, you can watch as many ads as you want and write a diary. It's a way to charge 2 times per 1 viewing. If you are tired of watching advertisements, you can download and use the official version of YOUKA. We will always listening to your inconvenience. Thank you.
+
+    NOTEGG
+Version 1.3.7 (Sep 30, 2019)
+    -Bug fixed in ios13 photo registration screen!
+Version 1.3.6 (Sep 25, 2019)
+    - Added an eraser button to iPhone X!
+Version 1.3.5 (Sep 11, 2019)
+    - Fixed a bug that the app turns off when editing the diary!
+Version 1.3.4 (Aug 23, 2019)
+    Fixed an error when backing up!
+Version 1.3.3 (Jun 27, 2019)
+    - YOUKAMI item is added to the guide when payment is made :)
+Version 1.3.2 (May 8, 2019)
+    - Fixed a backup error. Sorry for the inconvenience
+Version 1.3.1 (May 2, 2019)
+    ** Backup period is 3 months **
+    - Fixed backup message. Please check!
+Version 1.3.0 (Apr 1, 2019)
+    - Optimized iPhone X.
+    Sorry I'm late!
+Version 1.2.9 (Feb 2, 2019)
+    Fixed a bug in the iPad diary.
+Version 1.2.8 (Jan 26, 2019)
+    - Added backup notification function :)
+Version 1.2.7 (Jan 4, 2019)
+    - Fixed a bug where the diary list did not work properly :)
+Version 1.2.6 (Jul 26, 2018)
+    ** Touch ID error has been fixed **
+Version 1.2.5 (Jul 21, 2018)
+    ** Modified app information **
+Version 1.2.4 (Jul 18, 2018)
+    ** Updates for iPhone X users **
+Version 1.2.3 (Jul 16, 2018)
+    ** Password issues **
+    - I reset the settings because of the password setting problem.
+    Please set the password again. If you have any problems, please contact me!
+    @: youarenotegg@gmail.com
+Version 1.2.2 (Jun 14, 2018)
+    ** Fixing a bug **
+Version 1.2.1 (Apr 9, 2018)
+    - Fixed the ability to save a diary to an album.
+    Sorry for the inconvenience!
+
+    * Thank you @DA EUN for reporting the bug.
+Version 1.2.0 (Apr 5, 2018)
+    YOUKAMI X CALLA
+
+    - Now you can use CALLA analog film.
+    * Write your diary in color photos!
+Version 1.1.0 (Jul 27, 2017)
+    - Have you been uncomfortable?
+    What you need Now you can use one by one!
+    > Unlimited drawing
+    > Unlimited registration per day
+    > Unlimited full diary
+Version 1.0.6 (May 11, 2017)
+    The number of diary characters has increased.
+Version 1.0.5 (Apr 6, 2017)
+    - We are continuously improving our backup function :)
+    Sorry for lack of developer skills
+Version 1.0.4 (Mar 21, 2017)
+    - Added a synchronization feature!
+Version 1.0.3 (Mar 7, 2017)
+    - Added how to use it :)
+    Do not hesitate to use it (...) and press (?) Button to try!
+
+    - Fixed a few minor bugs.
+    If you find bugs in the future, please let me know.
+Version 1.0.2 (Mar 1, 2017)
+    - Fixed a very minor bug that you do not know :)
+    Use it with ease!
+Version 1.0.1 (Feb 23, 2017)
+    - [Update iPad Landscape Mode] I had many questions about landscape mode. So I applied the partial landscape mode this time.
+    After that I will update the whole landscape mode :) Please refer to me!
+Version 1.0.0 (Feb 20, 2017)
+
+Users may also like
+Select objects to compare
+DayMore: Modern Diary
+투다 - 너와 함께 오늘을 만든다
+PenCake - simple notes, diary
+MyToday Lite
+Moodie - Mood Diary With Lock
+It's meee - simple diary
+백자 하루 - 원고지 일기장
+Haema Diary
+Memong
+씀 : 일상적 글쓰기
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.7.4
+    Current release
+    Feb 21, 2024
+    1.7.3
+    Aug 18, 2023
+    1.7.2
+    Sep 22, 2022
+    1.7.1
+    May 12, 2022
+    1.7.0
+    Dec 29, 2021
+    1.6.9
+    Dec 15, 2021
+    1.6.8
+    Dec 11, 2021
+    1.6.7
+    Nov 29, 2021
+    1.6.6
+    Jul 15, 2021
+    1.6.4
+    Jul 12, 2021
+    1.6.3
+    Jul 2, 2021
+    1.6.2
+    Jun 30, 2021
+    1.6.1
+    May 6, 2021
+    1.6.0
+    Apr 20, 2021
+    1.5.12
+    Apr 15, 2021
+    1.5.10
+    Mar 31, 2021
+    1.5.9
+    Mar 26, 2021
+    1.5.8
+    Mar 20, 2021
+    1.5.7
+    Mar 2, 2021
+    1.5.6
+    Feb 25, 2021
+    1.5.5
+    Jan 31, 2021
+    1.5.4
+    Jan 17, 2021
+    1.5.3
+    Jan 9, 2021
+    1.5.2
+    Dec 29, 2020
+    1.5.1
+    Dec 28, 2020
+    1.5.0
+    Dec 20, 2020
+    1.4.14
+    Nov 20, 2020
+    1.4.13
+    May 19, 2020
+    1.4.12
+    May 16, 2020
+    1.4.11
+    May 5, 2020
+    1.4.10
+    Mar 10, 2020
+    1.4.9
+    Jan 29, 2020
+    1.4.8
+    Jan 22, 2020
+    1.4.6
+    Jan 17, 2020
+    1.4.5
+    Jan 16, 2020
+    1.4.4
+    Dec 20, 2019
+    1.4.3
+    Nov 6, 2019
+    1.4.2
+    Oct 12, 2019
+    1.4.1
+    Oct 11, 2019
+    1.4.0
+    Oct 10, 2019
+    1.3.7
+    Sep 30, 2019
+    1.3.6
+    Sep 25, 2019
+    1.3.5
+    Sep 11, 2019
+    1.3.4
+    Aug 23, 2019
+    1.3.3
+    Jun 27, 2019
+    1.3.2
+    May 8, 2019
+    1.3.1
+    May 2, 2019
+    1.3.0
+    Apr 1, 2019
+    1.2.9
+    Feb 2, 2019
+    1.2.8
+    Jan 26, 2019
+    1.2.7
+    Jan 4, 2019
+    1.2.6
+    Jul 26, 2018
+    1.2.5
+    Jul 21, 2018
+    1.2.4
+    Jul 18, 2018
+    1.2.3
+    Jul 16, 2018
+    1.2.2
+    Jun 14, 2018
+    1.2.1
+    Apr 9, 2018
+    1.2.0
+    Apr 5, 2018
+    1.1.0
+    Jul 27, 2017
+    1.0.6
+    May 11, 2017
+    1.0.5
+    Apr 6, 2017
+    1.0.4
+    Mar 21, 2017
+    1.0.3
+    Mar 7, 2017
+    1.0.2
+    Mar 1, 2017
+    1.0.1
+    Feb 23, 2017
+    1.0.0
+    Feb 20, 2017
+
+See More
+Top In-App Purchases
+
+    Unlimited number of daily diar
+    $0.99
+    Unlimted regist photo
+    $0.99
+    Unlimited drawing
+    $0.99
+    Unlimited number of diary page
+    $0.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Feb 20, 2017
+
+Worldwide Release Date
+    Feb 20, 2017
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    1.7.4
+
+Size
+    18.38 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Japanese, Korean, Simplified Chinese, Traditional Chinese
+
+Seller
+    NOTEGG Corp.
+
+Company HQ
+    South Korea
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.5 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.notegg.youkaLite
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1207147864
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+YOUKAMI | data.ai
+				
+				
+				
+				
+				
+	

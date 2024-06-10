@@ -1,0 +1,497 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+WOW Presents Plus
+World of Wonder ProductionsEntertainment (Applications)Free
+Alerts
+
+Wow Presents
+WOW Presents Plus
+WOW Presents Plus
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+WOW Presents Plus
+Drag Race, LGBTQ+, Documentary
+Entertainment (Applications)
+Free
+App Description
+WOW Presents Plus is the only streaming service featuring multiple RuPaul’s Drag Race franchises, Painted with Raven, Werq the World, UNHhhh with Trixie and Katya, and hundreds of other World of Wonder originals, documentaries, specials, and LGBTQ+ programming, all ad free.
+
+Content availability varies by region.
+
+To access all features and content you can subscribe to WOW Presents Plus on a monthly or yearly basis with an auto-renewing subscription right inside the app.* Pricing can vary by region and will be confirmed before purchase in the app. In app subscriptions will automatically renew at the end of their cycle.
+
+* All payments will be paid through your iTunes Account and may be managed under Account Settings after the initial payment. Subscription payments will automatically renew unless deactivated at least 24-hours before the end of the current cycle. Your account will be charged for renewal at least 24-hours prior to the end of the current cycle. Cancellations are incurred by disabling auto-renewal.
+
+Privacy Policy - http://www.wowpresentsplus.com/privacy
+Terms of Service - http://www.wowpresentsplus.com/tos
+Ratings
+Displayed Avg Ratings
+4.56
+Total Displayed Ratings
+18.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.500.1 (Feb 22, 2024)
+    * Bug fixes
+    * Performance improvements
+Version 8.405.1 (Feb 12, 2024)
+    * Bug fixes
+    * Performance improvements
+Version 8.404.1 (Nov 21, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.402.1 (Oct 24, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.321.1 (Sep 7, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.302.1 (Jul 25, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.301.1 (Jul 19, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.200.2 (May 9, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.200.1 (May 1, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.102.2 (Mar 29, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.102.1 (Mar 23, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.101.1 (Mar 8, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.010.1 (Jan 18, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 7.800.1 (Nov 21, 2022)
+    * Bug fixes
+    * Performance improvements
+    * Metadata updates
+Version 7.702.1 (Oct 17, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.630.2 (Sep 28, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.620.1 (Aug 9, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.502.1 (May 24, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.304.1 (Apr 22, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.205.2 (Jan 5, 2022)
+    - Metadata update
+Version 7.205.1 (Dec 15, 2021)
+    - In-app purchase update
+    - Bug fixes
+    - Performance improvements
+Version 7.204.1 (Oct 24, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 7.201.1 (Sep 10, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 7.200.1 (Aug 20, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 7.001.2 (Aug 13, 2021)
+    - Metadata update
+Version 7.001.1 (Jul 2, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 6.320.1 (Jun 7, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 6.300.1 (Mar 10, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 6.120.3 (Jan 25, 2021)
+    - Feature enhancements and bug fixes
+Version 6.120.2 (Jan 7, 2021)
+    - Bug fixes and stability improvements
+Version 6.120.1 (Jan 6, 2021)
+    - Bug fixes and stability improvements
+Version 6.110.1 (Dec 17, 2020)
+    - Bug fixes and stability improvements
+Version 6.100.1 (Dec 8, 2020)
+    - Added support for certain content displays
+    - Fixed an issue affecting DRM playback over AirPlay
+    - Feature enhancements and bug fixes
+Version 6.020.1 (Oct 12, 2020)
+    Optimized for iOS 14 support
+    Download manager optimizations
+    Chromecast iOS 14 usability improvements
+    Please ensure you have enabled Local Network permissions in your system settings if you do not see your Chromecast device on the network
+Version 5.902.1 (Jul 26, 2020)
+    - Improvements to analytics
+    - Fixed an issue affecting background audio for some users
+    - Fixed an issue affecting closed caption for some users
+    - Feature enhancements and bug fixes
+Version 5.800.1 (May 28, 2020)
+    - Optimizations for content-loading
+    - Improvements to error messaging
+    - Fixes for Chromecast streaming for certain users
+    - Bug fixes and stability improvements
+Version 5.701.1 (Apr 29, 2020)
+    - Addresses an issue that was affecting downloads for offline on iOS 11 and 12
+    - Fixes some intermittent issues with subtitles
+    - Fixes deep-linking to specific videos
+    - Performance improvements
+Version 5.700.1 (Apr 21, 2020)
+    Performance enhancements and stability improvements
+Version 5.610 (Mar 9, 2020)
+    Accessibility improvements to voice control
+    Stability improvements and bug fixes
+Version 5.501 (Feb 14, 2020)
+    Support for Spanish, German, French, and Portuguese user interfaces
+    Improvements to continuous playback
+    Improved metadata on videos
+    Increased character support while searching
+    Stability improvements
+Version 5.302 (Nov 14, 2019)
+    Performance enhancements and stability improvements
+Version 5.300 (Oct 31, 2019)
+    Improvements to Extras
+    Improvements to My List
+    UX enhancements to video player
+    Stability improvements and bug fixes
+Version 5.200 (Sep 5, 2019)
+    Enhanced subtitle support
+    Subtitle preference setting now persists across all videos
+    Enhanced support request functionality
+    Fixed a bug with Extras not displaying properly
+    Fixed a bug that left locks on screen on some videos after signing up
+Version 5.100.2 (Aug 15, 2019)
+    Stability improvements
+Version 5.100 (Aug 14, 2019)
+    - Improvements to My List
+    - Optimizations for offline downloaded videos
+    - Additional comment moderation support
+    - Improved contact form
+Version 4.951 (Jun 30, 2019)
+    Performance enhancements and stability improvements
+Version 4.950 (Jun 28, 2019)
+    Updates to sign-up flow
+    Performance enhancements and stability improvements
+Version 4.944 (Jun 26, 2019)
+    Updated app store listing
+    Performance enhancements and stability improvements
+Version 4.943 (Jun 4, 2019)
+    Performance enhancements and stability improvements
+Version 4.942 (May 25, 2019)
+    Performance enhancements and stability improvements
+Version 4.941 (May 9, 2019)
+    Performance enhancements and stability improvements
+Version 4.900 (Mar 6, 2019)
+    Performance enhancements and stability improvements
+Version 4.800 (Feb 6, 2019)
+    Performance enhancements and stability improvements
+Version 4.3 (Aug 1, 2018)
+    Video player upgrades
+Version 4.22 (Jun 19, 2018)
+    Fixed a bug that caused intermittent crashing for some users.
+Version 4.2 (May 11, 2018)
+    A brand new design to help you enjoy your WOW Presents Plus videos even more easily. Also, plenty of bug fixes and improvements throughout.
+Version 3.9.1 (Nov 30, 2017)
+    Adjusted pagination behavior on movie collections
+    Updated support for Background Audio on iOS 11
+Version 3.9 (Oct 30, 2017)
+
+Users may also like
+Select objects to compare
+DROPOUT By CollegeHumor
+Revry
+Hayu: Watch Reality TV
+MUBI: Stream Great Cinema
+iWantTFC
+GagaOOLala: Gay, Les, BL Films
+Here TV
+dekkoo
+Nebula – Videos and Podcasts
+Vogue Magazine
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+2 times
+on App Store homepage
+6 times
+on App Store category pages
+Versions
+
+    8.500.1
+    Current release
+    Feb 22, 2024
+    8.405.1
+    Feb 12, 2024
+    8.404.1
+    Nov 21, 2023
+    8.402.1
+    Oct 24, 2023
+    8.321.1
+    Sep 7, 2023
+    8.302.1
+    Jul 25, 2023
+    8.301.1
+    Jul 19, 2023
+    8.200.2
+    May 9, 2023
+    8.200.1
+    May 1, 2023
+    8.102.2
+    Mar 29, 2023
+    8.102.1
+    Mar 23, 2023
+    8.101.1
+    Mar 8, 2023
+    8.010.1
+    Jan 18, 2023
+    7.800.1
+    Nov 21, 2022
+    7.702.1
+    Oct 17, 2022
+    7.630.2
+    Sep 28, 2022
+    7.620.1
+    Aug 9, 2022
+    7.502.1
+    May 24, 2022
+    7.304.1
+    Apr 22, 2022
+    7.205.2
+    Jan 5, 2022
+    7.205.1
+    Dec 15, 2021
+    7.204.1
+    Oct 24, 2021
+    7.201.1
+    Sep 10, 2021
+    7.200.1
+    Aug 20, 2021
+    7.001.2
+    Aug 13, 2021
+    7.001.1
+    Jul 2, 2021
+    6.320.1
+    Jun 7, 2021
+    6.300.1
+    Mar 10, 2021
+    6.120.3
+    Jan 25, 2021
+    6.120.2
+    Jan 7, 2021
+    6.120.1
+    Jan 6, 2021
+    6.110.1
+    Dec 17, 2020
+    6.100.1
+    Dec 8, 2020
+    6.020.1
+    Oct 12, 2020
+    5.902.1
+    Jul 26, 2020
+    5.800.1
+    May 28, 2020
+    5.701.1
+    Apr 29, 2020
+    5.700.1
+    Apr 21, 2020
+    5.610
+    Mar 9, 2020
+    5.501
+    Feb 14, 2020
+    5.302
+    Nov 14, 2019
+    5.300
+    Oct 31, 2019
+    5.200
+    Sep 5, 2019
+    5.100.2
+    Aug 15, 2019
+    5.100
+    Aug 14, 2019
+    4.951
+    Jun 30, 2019
+    4.950
+    Jun 28, 2019
+    4.944
+    Jun 26, 2019
+    4.943
+    Jun 4, 2019
+    4.942
+    May 25, 2019
+    4.941
+    May 9, 2019
+    4.900
+    Mar 6, 2019
+    4.800
+    Feb 6, 2019
+    4.3
+    Aug 1, 2018
+    4.22
+    Jun 19, 2018
+    4.2
+    May 11, 2018
+    3.9.1
+    Nov 30, 2017
+    3.9
+    Oct 30, 2017
+
+See More
+Top In-App Purchases
+
+    WOW Presents Plus Monthly
+    $3.99
+    WOW Presents Plus Yearly
+    $45.99
+
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Oct 30, 2017
+
+Worldwide Release Date
+    Oct 30, 2017
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    8.500.1
+
+Size
+    50.62 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Deutsch, Englisch, Französisch, Portugiesisch, Spanisch
+
+Seller
+    World of Wonder Productions
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 15.0 oder neuer. Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    com.vhx.worldofwonder
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1194749500
+Unified App ID: 1000800000037991
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+WOW Presents Plus | data.ai

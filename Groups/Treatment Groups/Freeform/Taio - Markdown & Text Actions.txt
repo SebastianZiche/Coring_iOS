@@ -1,0 +1,3314 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Taio - Markdown & Text Actions
+CyanzhongProductivity (Applications)Free
+Alerts
+
+    Taio - Markdown & Text Actions
+    Taio - Markdown & Text Actions
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Taio - Markdown & Text Actions
+Ultimate text processing app
+Productivity (Applications)
+Free
+App Description
+> Trusted by more than 200K users.
+
+> Featured as "Be the First to Try These Apps" and "Hot This Week" by Apple.
+
+> Featured by well-known media like iMore and MacStories.
+
+# Taio
+
+A modern app for text processing on iPhone, iPad, and Mac, provides seamless experience for clipboard, markdown editing and text workflows.
+
+Taio supports Universal Purchase, pay once to use on iPhone, iPad and Mac devices.
+
+## Main Features
+
+### Clipboard
+
+Taio takes clipboard data as one of the input sources, you can capture it quickly for *temporary* use. Saved records can be synchronized across your iOS devices using iCloud, we also provide beautiful home screen widgets for better experience.
+
+### Editor
+
+Taio provides a full-fledged **Markdown** editor, it supports `CommonMark` and `GitHub Flavored` standards. Instead of telling you everything, we would like to highlight some great stuff here:
+
+- Full text search, in-document search
+- Built-in image uploading
+- Focus mode
+- Multi-Tab editing
+- Multiple color themes
+- Toolbar for beginners
+- Outline view
+- Math formulas and diagrams
+- Tags, wikilinks and backlinks
+- Export to multiple formats
+- Dynamic text in snippets
+- Open file system that can be accessed by other apps
+- Syntax highlighting for common programming languages
+
+There are more interesting features we cannot cover here, please try it out!
+
+### Actions
+
+Text actions in Taio is a powerful mechanism to provide extensibility for both **clipboard** and **editor**, it works the same as the `Shortcuts` app.
+
+You can build your own workflows using several action blocks, with support for variables and control flows.
+
+Furthermore, if the built-in actions don't meet your needs, you can even write action blocks using **JavaScript**. The JavaScript engine in Taio is powered by JSBox, it provides tons of API bindings to interact with iOS.
+
+## Customer Support
+
+Feel free to reach us out if you have any suggestions or ideas.
+
+- Website: https://taio.app
+- Email: hi@taio.app
+- Twitter: @TaioApp
+
+Privacy policy: https://docs.taio.app/#/privacy
+Terms of service: https://docs.taio.app/#/terms
+
+Thank you so much for reading this, we hope you enjoy using our app!
+Ratings
+Displayed Avg Ratings
+4.64
+Total Displayed Ratings
+3.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.68.0 (Sep 13, 2023)
+    Fix issues running on the latest operating system.
+Version 1.67.0 (Feb 14, 2023)
+    This update includes a bunch of fixes for recently reported bugs, thank you for the feedback! Besides, we also improved the way text files are decoded.
+Version 1.66.0 (Nov 1, 2022)
+    # Live Activity and Dynamic Island
+
+    On iPhone with iOS 16.1, we can pin text snippets as live activities to Lock Screen and Dynamic Island.
+
+    # Customizable Previews
+
+    We can now customize preview styles and behaviors with CSS and JavaScript, learn more: https://docs.taio.app/#/editor/custom-preview
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.65.1 (Oct 20, 2022)
+    # Customizable Previews
+
+    We can now customize preview styles and behaviors with CSS and JavaScript, learn more: https://docs.taio.app/#/editor/custom-preview
+
+    # Refreshed for iOS 16
+
+    Taio has been refreshed for the iOS 16 update, with major updates including but not limited to:
+
+    - New lock screen widgets
+    - New customizable toolbar for iPad
+    - New text find workflow
+    - New edit menu and title menu
+    - New paste button for clipboard
+
+    Please take a look and let us know what you think!
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.65.0 (Oct 12, 2022)
+    # Customizable Previews
+
+    We can now customize preview styles and behaviors with CSS and JavaScript, learn more: https://docs.taio.app/#/editor/custom-preview
+
+    # Refreshed for iOS 16
+
+    Taio has been refreshed for the iOS 16 update, with major updates including but not limited to:
+
+    - New lock screen widgets
+    - New customizable toolbar for iPad
+    - New text find workflow
+    - New edit menu and title menu
+    - New paste button for clipboard
+
+    Please take a look and let us know what you think!
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.64.1 (Sep 29, 2022)
+    # Refreshed for iOS 16
+
+    Taio has been refreshed for the iOS 16 update, with major updates including but not limited to:
+
+    - New lock screen widgets
+    - New customizable toolbar for iPad
+    - New text find workflow
+    - New edit menu and title menu
+    - New paste button for clipboard
+
+    Please take a look and let us know what you think!
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.64.0 (Sep 19, 2022)
+    # Refreshed for iOS 16
+
+    Taio has been refreshed for the iOS 16 update, with major updates including but not limited to:
+
+    - New lock screen widgets
+    - New customizable toolbar for iPad
+    - New text find workflow
+    - New edit menu and title menu
+    - New paste button for clipboard
+
+    Please take a look and let us know what you think!
+
+    # Recent Changes
+
+    - Added: embedded text actions
+    - Added: redesigned PDF export preview
+    - Added: redesigned statistics view
+    - Added: scroll the preview using keyboard
+    - Added: embed files with ![[File]]
+    - Added: regex group capturing for find text action
+    - Added: customizable default file name
+    - Added: file templates
+    - Fixed: highlighting doesn't work with special characters
+    - Fixed: several UI glitches
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.63.1 (Sep 11, 2022)
+    Taio has been refreshed for the upcoming releases, with major updates including but not limited to:
+
+    - New widgets for more scenarios
+    - New customizable toolbar for iPad
+    - New text find workflow
+    - New edit menu and title menu
+    - New paste button for clipboard
+
+    Please take a look and let us know what you think!
+
+    # Recent Changes
+
+    - Added: embedded text actions
+    - Added: redesigned PDF export preview
+    - Added: redesigned statistics view
+    - Added: scroll the preview using keyboard
+    - Added: embed files with ![[File]]
+    - Added: regex group capturing for find text action
+    - Added: customizable default file name
+    - Added: file templates
+    - Fixed: highlighting doesn't work with special characters
+    - Fixed: several UI glitches
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.63.0 (Sep 9, 2022)
+    Taio has been refreshed for the upcoming releases, with major updates including but not limited to:
+
+    - New widgets for more scenarios
+    - New customizable toolbar for iPad
+    - New text find workflow
+    - New edit menu and title menu
+    - New paste button for clipboard
+
+    Please take a look and let us know what you think!
+
+    # Recent Changes
+
+    - Added: embedded text actions
+    - Added: redesigned PDF export preview
+    - Added: redesigned statistics view
+    - Added: scroll the preview using keyboard
+    - Added: embed files with ![[File]]
+    - Added: regex group capturing for find text action
+    - Added: customizable default file name
+    - Added: file templates
+    - Fixed: highlighting doesn't work with special characters
+    - Fixed: several UI glitches
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.62.2 (Sep 1, 2022)
+    With this update, we are bringing you tons of new features, bug fixes and performance improvements.
+
+    Most importantly, you can now create files with customizable default file name and file templates.
+
+    Recently, we made several optimizations for the latest iOS version. If you have any suggestions or run into any issues, please let us know.
+
+    # Release Notes
+
+    - Added: embedded text actions
+    - Added: redesigned PDF export preview
+    - Added: redesigned statistics view
+    - Added: scroll the preview using keyboard
+    - Added: embed files with ![[File]]
+    - Added: regex group capturing for find text action
+    - Added: customizable default file name
+    - Added: file templates
+    - Fixed: highlighting doesn't work with special characters
+    - Fixed: several UI glitches
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+
+    # Recent Changes
+
+    - Added: brand new search experience in new OSes
+    - Added: new widgets for quick actions
+    - Added: rendering PlantUML diagrams
+    - Added: set highlight mode by file
+    - Added: several new URL schemes
+    - Added: backup and restore text actions
+    - Added: import images by taking photos
+    - Added: import files by using Drag & Drop
+    - Added: finish editing by pressing the ESC key
+    - Added: switch list styles
+    - Fixed: outline is not accurate enough in preview
+    - Fixed: cannot import folders in iOS 15 and later
+    - Fixed: cannot save files in some cases
+    - Improved: smoother keyboard dismiss animations
+    - Improved: re-designed some menus
+    - Improved: re-designed editing menus for new iPadOS
+    - Improved: re-designed HUD messages
+    - Improved: more convenient variable insertion on Mac
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.62.1 (Aug 29, 2022)
+    With this update, we are bringing you tons of new features, bug fixes and performance improvements.
+
+    Most importantly, you can now create files with customizable default file name and file templates.
+
+    Recently, we made several optimizations for the latest iOS version. If you have any suggestions or run into any issues, please let us know.
+
+    # Release Notes
+
+    - Added: embedded text actions
+    - Added: redesigned PDF export preview
+    - Added: redesigned statistics view
+    - Added: scroll the preview using keyboard
+    - Added: embed files with ![[File]]
+    - Added: regex group capturing for find text action
+    - Added: customizable default file name
+    - Added: file templates
+    - Fixed: highlighting doesn't work with special characters
+    - Fixed: several UI glitches
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+
+    # Recent Changes
+
+    - Added: brand new search experience in new OSes
+    - Added: new widgets for quick actions
+    - Added: rendering PlantUML diagrams
+    - Added: set highlight mode by file
+    - Added: several new URL schemes
+    - Added: backup and restore text actions
+    - Added: import images by taking photos
+    - Added: import files by using Drag & Drop
+    - Added: finish editing by pressing the ESC key
+    - Added: switch list styles
+    - Fixed: outline is not accurate enough in preview
+    - Fixed: cannot import folders in iOS 15 and later
+    - Fixed: cannot save files in some cases
+    - Improved: smoother keyboard dismiss animations
+    - Improved: re-designed some menus
+    - Improved: re-designed editing menus for new iPadOS
+    - Improved: re-designed HUD messages
+    - Improved: more convenient variable insertion on Mac
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.62.0 (Aug 22, 2022)
+    With this update, we are bringing you tons of new features, bug fixes and performance improvements.
+
+    Most importantly, you can now create files with customizable default file name and file templates.
+
+    Recently, we made several optimizations for the latest iOS version. If you have any suggestions or run into any issues, please let us know.
+
+    # Release Notes
+
+    - Added: embedded text actions
+    - Added: redesigned PDF export preview
+    - Added: redesigned statistics view
+    - Added: scroll the preview using keyboard
+    - Added: embed files with ![[File]]
+    - Added: regex group capturing for find text action
+    - Added: customizable default file name
+    - Added: file templates
+    - Fixed: highlighting doesn't work with special characters
+    - Fixed: several UI glitches
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+
+    # Recent Changes
+
+    - Added: brand new search experience in new OSes
+    - Added: new widgets for quick actions
+    - Added: rendering PlantUML diagrams
+    - Added: set highlight mode by file
+    - Added: several new URL schemes
+    - Added: backup and restore text actions
+    - Added: import images by taking photos
+    - Added: import files by using Drag & Drop
+    - Added: finish editing by pressing the ESC key
+    - Added: switch list styles
+    - Fixed: outline is not accurate enough in preview
+    - Fixed: cannot import folders in iOS 15 and later
+    - Fixed: cannot save files in some cases
+    - Improved: smoother keyboard dismiss animations
+    - Improved: re-designed some menus
+    - Improved: re-designed editing menus for new iPadOS
+    - Improved: re-designed HUD messages
+    - Improved: more convenient variable insertion on Mac
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.61.1 (Aug 19, 2022)
+    With this update, we are bringing you tons of new features, bug fixes and performance improvements.
+
+    Most importantly, you can now create files with customizable default file name and file templates.
+
+    Recently, we made several optimizations for the latest iOS version. If you have any suggestions or run into any issues, please let us know.
+
+    # Release Notes
+
+    - Added: embedded text actions
+    - Added: redesigned PDF export preview
+    - Added: redesigned statistics view
+    - Added: scroll the preview using keyboard
+    - Added: embed files with ![[File]]
+    - Added: regex group capturing for find text action
+    - Added: customizable default file name
+    - Added: file templates
+    - Fixed: highlighting doesn't work with special characters
+    - Fixed: several UI glitches
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+
+    # Recent Changes
+
+    - Added: brand new search experience in new OSes
+    - Added: new widgets for quick actions
+    - Added: rendering PlantUML diagrams
+    - Added: set highlight mode by file
+    - Added: several new URL schemes
+    - Added: backup and restore text actions
+    - Added: import images by taking photos
+    - Added: import files by using Drag & Drop
+    - Added: finish editing by pressing the ESC key
+    - Added: switch list styles
+    - Fixed: outline is not accurate enough in preview
+    - Fixed: cannot import folders in iOS 15 and later
+    - Fixed: cannot save files in some cases
+    - Improved: smoother keyboard dismiss animations
+    - Improved: re-designed some menus
+    - Improved: re-designed editing menus for new iPadOS
+    - Improved: re-designed HUD messages
+    - Improved: more convenient variable insertion on Mac
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.60.0 (Aug 15, 2022)
+    With this update, we are bringing you tons of new features, bug fixes and performance improvements.
+
+    Most importantly, you can now create files with customizable default file name and file templates.
+
+    Recently, we made several optimizations for the latest iOS version. If you have any suggestions or run into any issues, please let us know.
+
+    # Release Notes
+
+    - Added: redesigned statistics view
+    - Added: scroll the preview using keyboard
+    - Added: embed files with ![[File]]
+    - Added: regex group capturing for find text action
+    - Added: customizable default file name
+    - Added: file templates
+    - Added: brand new search experience in new OSes
+    - Added: new widgets for quick actions
+    - Added: rendering PlantUML diagrams
+    - Added: set highlight mode by file
+    - Added: several new URL schemes
+    - Added: backup and restore text actions
+    - Added: import images by taking photos
+    - Added: import files by using Drag & Drop
+    - Added: finish editing by pressing the ESC key
+    - Added: switch list styles
+
+    - Fixed: highlighting doesn't work with special characters
+    - Fixed: several UI glitches
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Fixed: outline is not accurate enough in preview
+    - Fixed: cannot import folders in iOS 15 and later
+    - Fixed: cannot save files in some cases
+
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+    - Improved: smoother keyboard dismiss animations
+    - Improved: re-designed some menus
+    - Improved: re-designed editing menus for new iPadOS
+    - Improved: re-designed HUD messages
+    - Improved: more convenient variable insertion on Mac
+
+    # Recent Changes
+
+    - Added: opening file with other apps on macOS
+    - Added: generates TOC in preview
+    - Added: tab width can now be configured
+    - Added: text snippets support dynamic selection
+    - Added: easily copy file name and file path
+    - Fixed: code blocks in generated PDF don't wrap lines
+    - Improved: document searching performance for command palette
+    - Improved: navigate command palette using arrow keys
+    - Improved: some UI components have been improved
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.59.0 (Aug 2, 2022)
+    With this update, we are bringing you tons of new features, bug fixes and performance improvements.
+
+    Most importantly, you can now create files with customizable default file name and file templates.
+
+    Recently, we made several optimizations for the latest iOS version. If you have any suggestions or run into any issues, please let us know.
+
+    # Release Notes
+
+    - Added: customizable default file name
+    - Added: file templates
+    - Added: brand new search experience in new OSes
+    - Added: new widgets for quick actions
+    - Added: rendering PlantUML diagrams
+    - Added: set highlight mode by file
+    - Added: several new URL schemes
+    - Added: backup and restore text actions
+    - Added: import images by taking photos
+    - Added: import files by using Drag & Drop
+    - Added: finish editing by pressing the ESC key
+    - Added: switch list styles
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Fixed: outline is not accurate enough in preview
+    - Fixed: cannot import folders in iOS 15 and later
+    - Fixed: cannot save files in some cases
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+    - Improved: smoother keyboard dismiss animations
+    - Improved: re-designed some menus
+    - Improved: re-designed editing menus for new iPadOS
+    - Improved: re-designed HUD messages
+    - Improved: more convenient variable insertion on Mac
+
+    # Recent Changes
+
+    - Added: opening file with other apps on macOS
+    - Added: generates TOC in preview
+    - Added: tab width can now be configured
+    - Added: text snippets support dynamic selection
+    - Added: easily copy file name and file path
+    - Fixed: code blocks in generated PDF don't wrap lines
+    - Improved: document searching performance for command palette
+    - Improved: navigate command palette using arrow keys
+    - Improved: some UI components have been improved
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.58.0 (Jul 28, 2022)
+    With this update, we are bringing you tons of new features, bug fixes and performance improvements.
+
+    Recently, we made several optimizations for the latest iOS version. If you have any suggestions or run into any issues, please let us know.
+
+    # Release Notes
+
+    - Added: brand new search experience in new OSes
+    - Added: new widgets for quick actions
+    - Added: rendering PlantUML diagrams
+    - Added: set highlight mode by file
+    - Added: several new URL schemes
+    - Added: backup and restore text actions
+    - Added: import images by taking photos
+    - Added: import files by using Drag & Drop
+    - Added: finish editing by pressing the ESC key
+    - Added: switch list styles
+    - Fixed: several recently reported crashes
+    - Fixed: several accessibility issues
+    - Fixed: outline is not accurate enough in preview
+    - Fixed: cannot import folders in iOS 15 and later
+    - Fixed: cannot save files in some cases
+    - Improved: clipboard access issue in new OSes
+    - Improved: more convenient keyboard toolbar for iPhone
+    - Improved: more convenient file rename workflow
+    - Improved: more precise wiki link search
+    - Improved: smoother keyboard dismiss animations
+    - Improved: re-designed some menus
+    - Improved: re-designed editing menus for new iPadOS
+    - Improved: re-designed HUD messages
+    - Improved: more convenient variable insertion on Mac
+
+    # Recent Changes
+
+    - Added: opening file with other apps on macOS
+    - Added: generates TOC in preview
+    - Added: tab width can now be configured
+    - Added: text snippets support dynamic selection
+    - Added: easily copy file name and file path
+    - Fixed: code blocks in generated PDF don't wrap lines
+    - Improved: document searching performance for command palette
+    - Improved: navigate command palette using arrow keys
+    - Improved: some UI components have been improved
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.57.1 (Jul 21, 2022)
+    With this update, we are bringing you lots of bug fixes and performance improvements.
+
+    Recently, we introduced command palette, where you can type "/" to perform actions. Please refer to https://docs.taio.app/#/editor/command-palette to learn more.
+
+    # Release Notes
+
+    - Added: opening file with other apps on macOS
+    - Added: generates TOC in preview
+    - Added: tab width can now be configured
+    - Added: text snippets support dynamic selection
+    - Added: easily copy file name and file path
+    - Fixed: code blocks in generated PDF don't wrap lines
+    - Improved: document searching performance for command palette
+    - Improved: navigate command palette using arrow keys
+    - Improved: some UI components have been improved
+
+    # Recent Changes
+
+    - Added: command palette
+    - Added: menu bar app for macOS
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.56.0 (Jul 1, 2022)
+    With this update, we are bringing you lots of bug fixes and performance improvements.
+
+    Recently, we introduced command palette, where you can type "/" to perform actions. Please refer to https://docs.taio.app/#/editor/command-palette to learn more.
+
+    # Release Notes
+
+    - Added: opening file with other apps on macOS
+    - Added: generates TOC in preview
+    - Added: tab width can now be configured
+    - Added: text snippets support dynamic selection
+    - Added: easily copy file name and file path
+    - Fixed: code blocks in generated PDF don't wrap lines
+    - Improved: document searching performance for command palette
+    - Improved: navigate command palette using arrow keys
+    - Improved: some UI components have been improved
+
+    # Recent Changes
+
+    - Added: command palette
+    - Added: menu bar app for macOS
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.55.0 (Jun 21, 2022)
+    With this update, we are bringing you lots of bug fixes and performance improvements.
+
+    Recently, we introduced command palette, where you can type "/" to perform actions. Please refer to https://docs.taio.app/#/editor/command-palette to learn more.
+
+    # Release Notes
+
+    - Added: opening file with other apps on macOS
+    - Added: generates TOC in preview
+    - Added: tab width can now be configured
+    - Added: text snippets support dynamic selection
+    - Added: easily copy file name and file path
+    - Fixed: code blocks in generated PDF don't wrap lines
+    - Improved: document searching performance for command palette
+    - Improved: navigate command palette using arrow keys
+    - Improved: some UI components have been improved
+
+    # Recent Changes
+
+    - Added: command palette
+    - Added: menu bar app for macOS
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.54.1 (Jun 12, 2022)
+    With this update, we are bringing you command palette, where you can type "/" to perform actions. Please refer to https://docs.taio.app/#/editor/command-palette to learn more.
+
+    Recently, we introduced a menu bar app on macOS, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: menu bar app for macOS
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.54.0 (Jun 8, 2022)
+    With this update, we are bringing you command palette, where you can type "/" to perform actions. Please refer to https://docs.taio.app/#/editor/command-palette to learn more.
+
+    Recently, we introduced a menu bar app on macOS, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: menu bar app for macOS
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.53.0 (May 30, 2022)
+    With this update, we are bringing you bug fixes and performance improvements.
+
+    Recently, we introduced a menu bar app on macOS, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: menu bar app for macOS
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.52.2 (May 24, 2022)
+    With this update, we are bringing you bug fixes and performance improvements.
+
+    Recently, we introduced a menu bar app on macOS, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: menu bar app for macOS
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.52.1 (May 19, 2022)
+    With this update, we are bringing you bug fixes and performance improvements.
+
+    Recently, we introduced a menu bar app on macOS, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: menu bar app for macOS
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.52.0 (May 17, 2022)
+    With this update, we are bringing you bug fixes and performance improvements.
+
+    Recently, we introduced a menu bar app on macOS, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: menu bar app for macOS
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.51.2 (May 6, 2022)
+    With this update, we are bringing you menu bar app on macOS. You can now quickly capture the clipboard and edit drafts on the menu bar, which also supports hiding the dock icon to use only the menu bar app.
+
+    Recently, we launched a new search experience, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.51.1 (May 4, 2022)
+    With this update, we are bringing you menu bar app on macOS. You can now quickly capture the clipboard and edit drafts on the menu bar, which also supports hiding the dock icon to use only the menu bar app.
+
+    Recently, we launched a new search experience, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: full text search, find and replace
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.50.0 (Apr 27, 2022)
+    With this update, we are bringing you full text search as well as find and replace, with support for advanced options like regular expressions, check out https://docs.taio.app/#/editor/search and let us know what you think!
+
+    Recently, we added support for uploading images, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.49.2 (Apr 26, 2022)
+    With this update, we are bringing you full text search as well as find and replace, with support for advanced options like regular expressions, check out https://docs.taio.app/#/editor/search and let us know what you think!
+
+    Recently, we added support for uploading images, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.49.1 (Apr 21, 2022)
+    With this update, we are bringing you full text search as well as find and replace, with support for advanced options like regular expressions, check out https://docs.taio.app/#/editor/search and let us know what you think!
+
+    Recently, we added support for uploading images, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.49.0 (Apr 19, 2022)
+    With this update, we are bringing you full text search as well as find and replace, with support for advanced options like regular expressions, check out https://docs.taio.app/#/editor/search and let us know what you think!
+
+    Recently, we added support for uploading images, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.48.0 (Apr 18, 2022)
+    With this update, we are bringing you support for full text search, check out https://docs.taio.app/#/editor/search and let us know what you think!
+
+    Recently, we added support for uploading images, visit https://docs.taio.app/#/whatsnew to check more recently added new features.
+
+    # Recent Changes
+
+    - Added: image uploading actions
+    - Added: support for #tags
+    - Fixed: recently reported crashes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.47.1 (Apr 5, 2022)
+    With this update, we are bringing you support for image uploading. Check out the built-in text action "Image Uploader", let us know what you think!
+
+    Recently, we added support for #tags, learn more: https://docs.taio.app/#/editor/tags.
+
+    # Recent Changes
+
+    - Added: support for #tags
+    - Added: editor horizontal scrolling
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.47.0 (Apr 4, 2022)
+    With this update, we are bringing you support for image uploading. Check out the built-in text action "Image Uploader", let us know what you think!
+
+    Recently, we added support for #tags, learn more: https://docs.taio.app/#/editor/tags.
+
+    # Recent Changes
+
+    - Added: support for #tags
+    - Added: editor horizontal scrolling
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.46.1 (Mar 29, 2022)
+    With this update, we are bringing you bug fixes and performance improvements.
+
+    Recently, we added support for #tags, learn more: https://docs.taio.app/#/editor/tags.
+
+    # Recent Changes
+
+    - Added: support for #tags
+    - Added: editor horizontal scrolling
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.46.0 (Mar 28, 2022)
+    With this update, we are bringing you bug fixes and performance improvements.
+
+    Recently, we added support for #tags, learn more: https://docs.taio.app/#/editor/tags.
+
+    # Recent Changes
+
+    - Added: support for #tags
+    - Added: editor horizontal scrolling
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.45.2 (Mar 16, 2022)
+    With this update, we are bringing you #tags support, check our documentation to learn more: https://docs.taio.app/#/editor/tags.
+
+    Recently, we added a new editor option to disable word wrap.
+
+    # Recent Changes
+
+    - Added: editor horizontal scrolling
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.45.1 (Mar 9, 2022)
+    With this update, we are bringing you #tags support, check our documentation to learn more: https://docs.taio.app/#/editor/tags.
+
+    Recently, we added a new editor option to disable word wrap.
+
+    # Recent Changes
+
+    - Added: editor horizontal scrolling
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.45.0 (Mar 8, 2022)
+    With this update, we are bringing you #tags support, check our documentation to learn more: https://docs.taio.app/#/editor/tags.
+
+    Recently, we added a new editor option to disable word wrap.
+
+    # Recent Changes
+
+    - Added: editor horizontal scrolling
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.44.1 (Feb 17, 2022)
+    With this update, we are bringing you a new editor option to disable word wrap, which means the editor can now scroll horizontally if you prefer.
+
+    Give it a try and let us know what you think!
+
+    # Recent Changes
+
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.44.0 (Feb 15, 2022)
+    With this update, we are bringing you a new editor option to disable word wrap, which means the editor can now scroll horizontally if you prefer.
+
+    Give it a try and let us know what you think!
+
+    # Recent Changes
+
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.43.2 (Feb 7, 2022)
+    We were mostly focusing on quality these days, recently, we refreshed the experience of using multiple tabs.
+
+    # Release Notes
+
+    - Added: new color themes for editor
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: better Scribble experience
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Recent Changes
+
+    - Fixed: reported issues and crashes
+    - Improved: experience of using multiple tabs
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.43.1 (Jan 31, 2022)
+    We were mostly focusing on quality these days, recently, we refreshed the experience of using multiple tabs.
+
+    # Release Notes
+
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Recent Changes
+
+    - Fixed: reported issues and crashes
+    - Improved: experience of using multiple tabs
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.43.0 (Jan 28, 2022)
+    We were mostly focusing on quality these days, recently, we refreshed the experience of using multiple tabs.
+
+    # Release Notes
+
+    - Added: support for Biometric ID
+    - Added: theme picker for code previewing
+    - Added: dark mode switching for PDF and HTML export
+    - Added: sort files by date modified
+    - Added: export as ePub and mobi
+    - Fixed: swipe to go back doesn't work when viewing images
+    - Improved: use native pull-down menus
+    - Improved: much faster PDF rendering
+
+    # Recent Changes
+
+    - Fixed: reported issues and crashes
+    - Improved: experience of using multiple tabs
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.42.1 (Jan 14, 2022)
+    We were mostly focusing on quality these days, apart from that, we refreshed the experience of using multiple tabs.
+
+    # Release Notes
+
+    - Fixed: reported issues and crashes
+    - Improved: experience of using multiple tabs
+
+    # Recent Changes
+
+    - Added: share extension for text capturing
+    - Added: new text action to translate text
+    - Added: save text clipping as file
+    - Added: LaTeX now supports upgreek
+    - Fixed: recently reported crashes
+    - Fixed: issues with files from 3rd-party apps
+    - Improved: performance of opening large files
+    - Improved: text scrolling performance
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.42.0 (Jan 11, 2022)
+    We were mostly focusing on quality these days, apart from that, we refreshed the experience of using multiple tabs.
+
+    # Release Notes
+
+    - Fixed: reported issues and crashes
+    - Improved: experience of using multiple tabs
+
+    # Recent Changes
+
+    - Added: share extension for text capturing
+    - Added: new text action to translate text
+    - Added: save text clipping as file
+    - Added: LaTeX now supports upgreek
+    - Fixed: recently reported crashes
+    - Fixed: issues with files from 3rd-party apps
+    - Improved: performance of opening large files
+    - Improved: text scrolling performance
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.41.0 (Jan 9, 2022)
+    With this update, we are bringing you share extension for text capturing. Recently, we improved Markdown editing experience.
+
+    # Release Notes
+
+    - Added: share extension for text capturing
+    - Added: new text action to translate text
+    - Added: save text clipping as file
+    - Added: LaTeX now supports upgreek
+    - Fixed: recently reported crashes
+    - Fixed: issues with files from 3rd-party apps
+    - Improved: performance of opening large files
+    - Improved: text scrolling performance
+
+    # Recent Changes
+
+    - Added: more inline styles for Markdown syntax
+    - Added: links and footnotes are tappable when not editing
+    - Added: option-click to open links
+    - Added: soft tabs can now be disabled
+    - Added: more JavaScript APIs for text processing
+    - Added: clipboard action now supports HTML content
+    - Added: new action for HTML to Markdown conversion
+    - Fixed: HTML preview shows blank page sometimes
+    - Improved: sketch pad now supports dark mode switching
+    - Improved: better support for SVG rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.40.1 (Jan 3, 2022)
+    With this update, we are bringing you share extension for text capturing. Recently, we improved Markdown editing experience.
+
+    # Release Notes
+
+    - Added: share extension for text capturing
+    - Added: new text action to translate text
+    - Added: save text clipping as file
+    - Added: LaTeX now supports upgreek
+    - Fixed: issues with files from 3rd-party apps
+    - Improved: performance of opening large files
+    - Improved: text scrolling performance
+
+    # Recent Changes
+
+    - Added: more inline styles for Markdown syntax
+    - Added: links and footnotes are tappable when not editing
+    - Added: option-click to open links
+    - Added: soft tabs can now be disabled
+    - Added: more JavaScript APIs for text processing
+    - Added: clipboard action now supports HTML content
+    - Added: new action for HTML to Markdown conversion
+    - Fixed: HTML preview shows blank page sometimes
+    - Improved: sketch pad now supports dark mode switching
+    - Improved: better support for SVG rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.40.0 (Dec 27, 2021)
+    With this update, we are bringing you share extension for text capturing. Recently, we improved Markdown editing experience.
+
+    # Release Notes
+
+    - Added: share extension
+    - Added: new text action to translate text
+    - Added: save text clipping as file
+    - Added: LaTeX now supports upgreek
+    - Fixed: issues with files from 3rd-party apps
+    - Improved: text scrolling performance
+
+    # Recent Changes
+
+    - Added: more inline styles for Markdown syntax
+    - Added: links and footnotes are tappable when not editing
+    - Added: option-click to open links
+    - Added: soft tabs can now be disabled
+    - Added: more JavaScript APIs for text processing
+    - Added: clipboard action now supports HTML content
+    - Added: new action for HTML to Markdown conversion
+    - Fixed: HTML preview shows blank page sometimes
+    - Improved: sketch pad now supports dark mode switching
+    - Improved: better support for SVG rendering
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.39.1 (Dec 22, 2021)
+    With this update, we are bringing you improved Markdown editing experience. Recently, we redesigned the keyboard toolbar for iPhone and iPad.
+
+    # Release Notes
+
+    - Added: more inline styles for Markdown syntax
+    - Added: links and footnotes are tappable when not editing
+    - Added: option-click to open links
+    - Added: soft tabs can now be disabled
+    - Added: more JavaScript APIs for text processing
+    - Added: clipboard action now supports HTML content
+    - Added: new action for HTML to Markdown conversion
+    - Fixed: HTML preview shows blank page sometimes
+    - Improved: sketch pad now supports dark mode switching
+    - Improved: better support for SVG rendering
+
+    # Recent Changes
+
+    - Added: redesigned input toolbar for iPhone
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.39.0 (Dec 14, 2021)
+    With this update, we are bringing you improved Markdown editing experience. Recently, we redesigned the keyboard toolbar for iPhone and iPad.
+
+    # Release Notes
+
+    - Added: more inline styles for Markdown syntax
+    - Added: links and footnotes are tappable when not editing
+    - Added: option-click to open links
+    - Added: soft tabs can now be disabled
+    - Added: more JavaScript APIs for text processing
+    - Added: clipboard action now supports HTML content
+    - Added: new action for HTML to Markdown conversion
+    - Fixed: HTML preview shows blank page sometimes
+    - Improved: sketch pad now supports dark mode switching
+    - Improved: better support for SVG rendering
+
+    # Recent Changes
+
+    - Added: redesigned input toolbar for iPhone
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.38.0 (Dec 8, 2021)
+    With this update, we are bringing you bug fixes and performance improvements. Recently, we redesigned the keyboard toolbar for iPhone and iPad.
+
+    # Release Notes
+
+    - Added: more JavaScript APIs for text processing
+    - Added: clipboard action now supports HTML content
+    - Added: new action for HTML to Markdown conversion
+    - Fixed: HTML preview shows blank page sometimes
+    - Improved: sketch pad now supports dark mode switching
+    - Improved: better support for SVG rendering
+
+    # Recent Changes
+
+    - Added: redesigned input toolbar for iPhone
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.37.1 (Nov 29, 2021)
+    With this update, we are bringing you bug fixes and performance improvements. Recently, we redesigned the keyboard toolbar for iPhone and iPad.
+
+    # Recent Changes
+
+    - Added: redesigned input toolbar for iPhone
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.37.0 (Nov 16, 2021)
+    With this update, we are bringing you a completely redesigned input accessory for iPad and a brand new toolbar for iPhone.
+
+    Recently, we added iCloud sync for actions and snippets.
+
+    # Release Notes
+
+    - Added: redesigned input toolbar for iPhone
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Recent Changes
+
+    - Added: iCloud sync for actions and snippets
+    - Added: more editor color themes
+    - Added: app accent color can match the editor
+    - Added: keyboard shortcut to insert soft break
+    - Added: keyboard shortcut to enter minimal mode
+    - Fixed: several UI issues on iOS 15
+    - Fixed: edge cases when render Markdown as HTML
+    - Fixed: auto completion for numeric lists
+    - Improved: math formulas rendering
+    - Improved: invisible characters rendering
+    - Improved: better performance when edit css files
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.36.2 (Nov 13, 2021)
+    With this update, we are bringing you a completely redesigned input accessory for iPad and a brand new toolbar for iPhone.
+
+    Recently, we added iCloud sync for actions and snippets.
+
+    # Release Notes
+
+    - Added: redesigned input toolbar for iPhone
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Recent Changes
+
+    - Added: iCloud sync for actions and snippets
+    - Added: more editor color themes
+    - Added: app accent color can match the editor
+    - Added: keyboard shortcut to insert soft break
+    - Added: keyboard shortcut to enter minimal mode
+    - Fixed: several UI issues on iOS 15
+    - Fixed: edge cases when render Markdown as HTML
+    - Fixed: auto completion for numeric lists
+    - Improved: math formulas rendering
+    - Improved: invisible characters rendering
+    - Improved: better performance when edit css files
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.36.1 (Nov 9, 2021)
+    With this update, we are bringing you a completely redesigned input accessory for iPad and a brand new toolbar for iPhone.
+
+    Recently, we added iCloud sync for actions and snippets.
+
+    # Release Notes
+
+    - Added: redesigned input toolbar for iPhone
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Recent Changes
+
+    - Added: iCloud sync for actions and snippets
+    - Added: more editor color themes
+    - Added: app accent color can match the editor
+    - Added: keyboard shortcut to insert soft break
+    - Added: keyboard shortcut to enter minimal mode
+    - Fixed: several UI issues on iOS 15
+    - Fixed: edge cases when render Markdown as HTML
+    - Fixed: auto completion for numeric lists
+    - Improved: math formulas rendering
+    - Improved: invisible characters rendering
+    - Improved: better performance when edit css files
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.36.0 (Nov 8, 2021)
+    With this update, we are bringing you a completely redesigned input accessory for iPad and a brand new toolbar for iPhone.
+
+    Recently, we added iCloud sync for actions and snippets.
+
+    # Release Notes
+
+    - Added: redesigned input toolbar for iPhone
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Recent Changes
+
+    - Added: iCloud sync for actions and snippets
+    - Added: more editor color themes
+    - Added: app accent color can match the editor
+    - Added: keyboard shortcut to insert soft break
+    - Added: keyboard shortcut to enter minimal mode
+    - Fixed: several UI issues on iOS 15
+    - Fixed: edge cases when render Markdown as HTML
+    - Fixed: auto completion for numeric lists
+    - Improved: math formulas rendering
+    - Improved: invisible characters rendering
+    - Improved: better performance when edit css files
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.35.0 (Nov 4, 2021)
+    With this update, we are bringing you a completely redesigned input accessory for iPad and a brand new toolbar for iPhone.
+
+    Recently, we added iCloud sync for actions and snippets.
+
+    # Release Notes
+
+    - Added: redesigned input toolbar for iPhone
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Recent Changes
+
+    - Added: iCloud sync for actions and snippets
+    - Added: more editor color themes
+    - Added: app accent color can match the editor
+    - Added: keyboard shortcut to insert soft break
+    - Added: keyboard shortcut to enter minimal mode
+    - Fixed: several UI issues on iOS 15
+    - Fixed: edge cases when render Markdown as HTML
+    - Fixed: auto completion for numeric lists
+    - Improved: math formulas rendering
+    - Improved: invisible characters rendering
+    - Improved: better performance when edit css files
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.34.0 (Nov 1, 2021)
+    With this update, we are bringing you a completely redesigned input accessory for iPad.
+
+    Recently, we added iCloud sync for actions and snippets.
+
+    # Release Notes
+
+    - Added: redesigned input accessory for iPad
+    - Added: support for Quick Note
+    - Added: paste copied HTML content as Markdown
+    - Fixed: some syntax highlighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Improved: syntax highlighting engine now supports mixed font styles
+    - Improved: Markdown preview now uses single tab
+
+    # Recent Changes
+
+    - Added: iCloud sync for actions and snippets
+    - Added: more editor color themes
+    - Added: app accent color can match the editor
+    - Added: keyboard shortcut to insert soft break
+    - Added: keyboard shortcut to enter minimal mode
+    - Fixed: several UI issues on iOS 15
+    - Fixed: edge cases when render Markdown as HTML
+    - Fixed: auto completion for numeric lists
+    - Improved: math formulas rendering
+    - Improved: invisible characters rendering
+    - Improved: better performance when edit css files
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.33.0 (Oct 26, 2021)
+    With this update, we are bringing you iCloud sync for actions and snippets.
+
+    Recently, we fully optimized the app for iOS 15, support for live text, extra large widgets, and much more.
+
+    # Release Notes
+
+    - Added: paste copied HTML content as Markdown
+    - Added: iCloud sync for actions and snippets
+    - Added: more editor color themes
+    - Added: app accent color can match the editor
+    - Added: keyboard shortcut to insert soft break
+    - Added: keyboard shortcut to enter minimal mode
+    - Fixed: some syntax hilighting issues
+    - Fixed: HTML image tags aren't encoded when export as PDF
+    - Fixed: auto completion for numeric lists
+    - Fixed: several UI issues on iOS 15
+    - Fixed: edge cases when render Markdown as HTML
+    - Improved: math formulas rendering
+    - Improved: Markdown preview now uses single tab
+    - Improved: invisible characters rendering
+    - Improved: better performance when edit css files
+
+    # Recent Changes
+
+    - Added: iOS 15 features like live text and extra large widgets
+    - Added: code blocks now support syntax highlighting
+    - Added: new option to show invisibles
+    - Added: nice tip for unauthorized folders
+    - Added: PDF size is now configurable
+    - Added: save and clear quick drafts quickly
+    - Fixed: can't delete clippings on cloud using actions
+    - Fixed: several minor UI issues
+    - Fixed: issues when using relative file paths
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.32.0 (Oct 14, 2021)
+    With this update, we are bringing you iCloud sync for actions and snippets.
+
+    Recently, we fully optimized the app for iOS 15, support for live text, extra large widgets, and much more.
+
+    # Release Notes
+
+    - Added: iCloud sync for actions and snippets
+    - Added: more editor color themes
+    - Added: app accent color can match the editor
+    - Added: keyboard shortcut to insert soft break
+    - Added: keyboard shortcut to enter minimal mode
+    - Fixed: auto completion for numeric lists
+    - Fixed: several UI issues on iOS 15
+    - Fixed: edge cases when render Markdown as HTML
+    - Improved: invisible characters rendering
+    - Improved: better performance when edit css files
+
+    # Recent Changes
+
+    - Added: iOS 15 features like live text and extra large widgets
+    - Added: code blocks now support syntax highlighting
+    - Added: new option to show invisibles
+    - Added: nice tip for unauthorized folders
+    - Added: PDF size is now configurable
+    - Added: save and clear quick drafts quickly
+    - Fixed: can't delete clippings on cloud using actions
+    - Fixed: several minor UI issues
+    - Fixed: issues when using relative file paths
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.31.0 (Sep 30, 2021)
+    Fully optimized for iOS 15, built on top of the latest framework, support for live text, extra large widgets, and much more!
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Recent Changes
+
+    - Added: code blocks now support syntax highlighting
+    - Added: new option to show invisibles
+    - Added: nice tip for unauthorized folders
+    - Added: PDF size is now configurable
+    - Added: save and clear quick drafts quickly
+    - Fixed: can't delete clippings on cloud using actions
+    - Fixed: several minor UI issues
+    - Fixed: issues when using relative file paths
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.30.0 (Sep 21, 2021)
+    Fully optimized for iOS 15, built on top of the latest framework, support for live text, extra large widgets, and much more!
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Recent Changes
+
+    - Added: code blocks now support syntax highlighting
+    - Added: new option to show invisibles
+    - Added: nice tip for unauthorized folders
+    - Added: PDF size is now configurable
+    - Added: save and clear quick drafts quickly
+    - Fixed: can't delete clippings on cloud using actions
+    - Fixed: several minor UI issues
+    - Fixed: issues when using relative file paths
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.29.0 (Sep 8, 2021)
+    Taio for Mac has finally arrived, if you have unlocked the premium version on iOS, please get it for free at https://taio.app/mac
+
+    With this update, we are bringing you fixes and improvements for the latest operating system. If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: code blocks now support syntax highlighting
+    - Added: new option to show invisibles
+    - Added: nice tip for unauthorized folders
+    - Added: PDF size is now configurable
+    - Added: save and clear quick drafts quickly
+    - Fixed: can't delete clippings on cloud using actions
+    - Fixed: several minor UI issues
+    - Fixed: issues when using relative file paths
+
+    # Recent Changes
+
+    - Added: focus mode for text editing
+    - Added: create external files
+    - Fixed: major crashes reported recently
+    - Improved: search functionality
+    - Improved: iCloud sync performance
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.28.0 (Aug 24, 2021)
+    Taio for Mac has finally arrived, if you have unlocked the premium version on iOS, please get it for free at https://taio.app/mac
+
+    With this update, we are bringing you fixes and improvements for the latest operating system. If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: focus mode for text editing
+    - Added: create external files
+    - Fixed: major crashes reported recently
+    - Improved: search functionality
+    - Improved: iCloud sync performance
+
+    # Recent Changes
+
+    - Added: quick drafts to start writing quickly
+    - Added: tasks can be toggled in edit mode
+    - Added: copy URL schemes for files and actions quickly
+    - Added: diff compare can be opted-out
+    - Fixed: major crashes reported recently
+    - Fixed: minor UI issues and performance issues
+    - Improved: diff compare is now much more robust
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.27.1 (Aug 17, 2021)
+    Taio for Mac has finally arrived, if you have unlocked the premium version on iOS, please get it for free at https://taio.app/mac
+
+    With this update, we are bringing you fixes and improvements for the latest operating system. If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: quick drafts to start writing quickly
+    - Added: tasks can be toggled in edit mode
+    - Added: copy URL schemes for files and actions quickly
+    - Added: diff compare can be opted-out
+    - Fixed: major crashes reported recently
+    - Fixed: minor UI issues and performance issues
+    - Improved: diff compare is now much more robust
+
+    # Recent Changes
+
+    - Added: Traditional Chinese support
+    - Added: bullet syntax is now configurable
+    - Added: ==highlighted text== syntax
+    - Added: reveal selected files in explorer
+    - Fixed: editor toolbar issues on certain devices
+    - Fixed: issues on the latest operating system
+    - Fixed: crash when exporting PDFs on iPad
+    - Fixed: layout issues on certain devices
+    - Fixed: several issues of the advanced scripting feature
+    - Improved: performance when opening recents
+    - Improved: file name can be displayed as multiple lines
+    - Improved: better accessibility support for text editing
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.26.0 (Aug 10, 2021)
+    Taio for Mac has finally arrived, if you have unlocked the premium version on iOS, please get it for free at https://taio.app/mac
+
+    With this update, we are bringing you fixes and improvements for the latest operating system. If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: Traditional Chinese support
+    - Added: bullet syntax is now configurable
+    - Added: ==highlighted text== syntax
+    - Added: reveal selected files in explorer
+    - Fixed: editor toolbar issues on certain devices
+    - Fixed: issues on the latest operating system
+    - Fixed: crash when exporting PDFs on iPad
+    - Fixed: layout issues on certain devices
+    - Fixed: several issues of the advanced scripting feature
+    - Improved: performance when opening recents
+    - Improved: file name can be displayed as multiple lines
+    - Improved: better accessibility support for text editing
+
+    # Recent Changes
+
+    - Added: text from camera
+    - Fixed: issues on the latest operating system
+    - Fixed: several crashes and accessibility issues
+    - Fixed: cursor moving can handle emojis now
+    - Improved: editor toolbar now adopts the new UI
+    - Improved: modern sheets UI for some scenarios
+    - Improved: better support for wiki links
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.25.0 (Aug 4, 2021)
+    Taio for Mac has finally arrived, if you have unlocked the premium version on iOS, please get it for free at https://taio.app/mac
+
+    With this update, we are bringing you fixes and improvements for the latest operating system. If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: Traditional Chinese support
+    - Added: bullet syntax is now configurable
+    - Added: ==highlighted text== syntax
+    - Added: reveal selected files in explorer
+    - Fixed: editor toolbar issues on certain devices
+    - Fixed: issues on the latest operating system
+    - Fixed: crash when exporting PDFs on iPad
+    - Fixed: layout issues on certain devices
+    - Fixed: several issues of the advanced scripting feature
+    - Improved: performance when opening recents
+    - Improved: file name can be displayed as multiple lines
+    - Improved: better accessibility support for text editing
+
+    # Recent Changes
+
+    - Added: text from camera
+    - Fixed: issues on the latest operating system
+    - Fixed: several crashes and accessibility issues
+    - Fixed: cursor moving can handle emojis now
+    - Improved: editor toolbar now adopts the new UI
+    - Improved: modern sheets UI for some scenarios
+    - Improved: better support for wiki links
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.23.0 (Jul 20, 2021)
+    We are actively working on Taio for Mac, if you are interested, please try it out at https://taio.app/mac
+
+    With this update, we are bringing you fixes and improvements for the latest operating system. If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: ==highlighted text== syntax
+    - Added: reveal selected files in explorer
+    - Fixed: issues on the latest operating system
+    - Fixed: crash when exporting PDFs on iPad
+    - Fixed: layout issues on certain devices
+    - Fixed: several issues of the advanced scripting feature
+    - Improved: better accessibility support for text editing
+
+    # Recent Changes
+
+    - Added: text from camera
+    - Fixed: issues on the latest operating system
+    - Fixed: several crashes and accessibility issues
+    - Fixed: cursor moving can handle emojis now
+    - Improved: editor toolbar now adopts the new UI
+    - Improved: modern sheets UI for some scenarios
+    - Improved: better support for wiki links
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.22.0 (Jun 22, 2021)
+    With this update, we are bringing you fixes and improvements for the latest operating system. We are currently working on new features like customizable key bindings, stay tuned.
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: text from camera
+    - Fixed: issues on the latest operating system
+    - Fixed: several crashes and accessibility issues
+    - Fixed: cursor moving can handle emojis now
+    - Improved: editor toolbar now adopts the new UI
+    - Improved: modern sheets UI for some scenarios
+    - Improved: better support for wiki links
+
+    # Recent Changes
+
+    - Added: real-time cursor position, navigating to line number
+    - Added: new keyboard shortcuts to insert links and code blocks
+    - Added: URL scheme now supports opening added locations
+    - Added: support for importing folders to Taio
+    - Added: characters for bold and italic are configurable
+    - Fixed: minor issues when using Japanese Magic Keyboard
+    - Fixed: footnote fails to show under certain conditions
+    - Fixed: screen won't go sleep when using the editor
+    - Improved: toolbar buttons now match system keyboard perfectly
+    - Improved: inline preview for ![[File]] syntax
+    - Improved: better syntax highlighting performance
+    - Improved: better experience when editing clips on iPad
+    - Improved: better toolbar layout in landscape mode
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.21.0 (Jun 3, 2021)
+    With this update, we are bringing you real-time cursor position and several improvements. We are currently working on new features like customizable key bindings, stay tuned.
+
+    If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: real-time cursor position, navigating to line number
+    - Added: new keyboard shortcuts to insert links and code blocks
+    - Added: URL scheme now supports opening added locations
+    - Added: support for importing folders to Taio
+    - Added: characters for bold and italic are configurable
+    - Fixed: minor issues when using Japanese Magic Keyboard
+    - Fixed: footnote fails to show under certain conditions
+    - Fixed: screen won't go sleep when using the editor
+    - Improved: toolbar buttons now match system keyboard perfectly
+    - Improved: inline preview for ![[File]] syntax
+    - Improved: better syntax highlighting performance
+    - Improved: better experience when editing clips on iPad
+    - Improved: better toolbar layout in landscape mode
+
+    # Recent Changes
+
+    - Added: graph view for links
+    - Added: system mono and system rounded fonts are available
+    - Added: new text action to select document
+    - Fixed: text replacement doesn't work
+    - Fixed: front-matter detection
+    - Improved: performance when searching files
+    - Improved: experience when using trackpad
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+Version 1.20.0 (May 28, 2021)
+    [Special offer ends June 1] We are now running a limited time sale (up to 30% off) for Taio Pro, learn more on our website: https://taio.app/#pricing thanks!
+
+    > Taio Pro is a plan that provides advanced features for Pro users while keeping core features free.
+
+    # Release Notes
+
+    With this update, we are bringing you graph view to visualize your links.
+
+    - Added: graph view for links
+    - Added: system mono and system rounded fonts are available
+    - Added: new text action to select document
+    - Fixed: text replacement doesn't work
+    - Fixed: front-matter detection
+    - Improved: performance when searching files
+    - Improved: experience when using trackpad
+
+    We are currently working on new features like customizable key bindings, stay tuned.
+
+    # Recent Changes
+
+    - Added: brand new default themes (classic ones are kept)
+    - Added: global tint color is now configurable
+    - Added: new SynthWave '84 theme for editor
+    - Fixed: several reported issues
+    - Improved: editor UI now fits themes
+    - Improved: several performance issues
+    - Improved: smart punctuation is now turned off by default
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.19.1 (May 17, 2021)
+    [ON SALE] We are now running a limited time sale (up to 30% off) for Taio Pro, learn more on our website: https://taio.app/#pricing thanks!
+
+    > Taio Pro is a plan that provides advanced features for Pro users while keeping core features free.
+
+    # Release Notes
+
+    With this update, we are bringing you brand new editor themes along with refreshed editor UI experience.
+
+    - Added: brand new default themes (classic ones are kept)
+    - Added: global tint color is now configurable
+    - Added: new SynthWave '84 theme for editor
+    - Fixed: several reported issues
+    - Improved: editor UI now fits themes
+    - Improved: several performance issues
+    - Improved: smart punctuation is now turned off by default
+
+    We are currently working on new features like customizable key bindings, stay tuned.
+
+    # Recent Changes
+
+    - Added: editor now shows more text styles
+    - Added: install actions by opening files
+    - Added: checkboxes in preview mode can be toggled
+    - Fixed: resave files will no longer break their creation date
+    - Fixed: PDF rendering issues
+    - Fixed: crash when searching empty actions folder
+    - Fixed: edge cases for math formulas
+    - Improved: better wiki link support
+    - Improved: code fences rendering in preview mode
+    - Improved: app launch time
+    - Improved: better folder tree experience
+    - Improved: local history strategy
+    - Improved: front matter detection
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.19.0 (May 5, 2021)
+    We are now running a limited time sale (up to 30% off) for Taio Pro, learn more on our website: https://taio.app/#pricing thanks!
+
+    > Taio Pro is a plan that provides advanced features for Pro users while keeping core features free.
+
+    # Release Notes
+
+    With this update, we are bringing you brand new editor themes along with refreshed editor UI experience.
+
+    - Added: brand new default themes (classic ones are kept)
+    - Added: global tint color is now configurable
+    - Added: new SynthWave '84 theme for editor
+    - Fixed: several reported issues
+    - Improved: editor UI now fits themes
+    - Improved: several performance issues
+    - Improved: smart punctuation is now turned off by default
+
+    We are currently working on new features like customizable key bindings, stay tuned.
+
+    # Recent Changes
+
+    - Added: editor now shows more text styles
+    - Added: install actions by opening files
+    - Added: checkboxes in preview mode can be toggled
+    - Fixed: resave files will no longer break their creation date
+    - Fixed: PDF rendering issues
+    - Fixed: crash when searching empty actions folder
+    - Fixed: edge cases for math formulas
+    - Improved: better wiki link support
+    - Improved: code fences rendering in preview mode
+    - Improved: app launch time
+    - Improved: better folder tree experience
+    - Improved: local history strategy
+    - Improved: front matter detection
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.18.0 (Apr 19, 2021)
+    We are now running a limited time sale (up to 30% off) for Taio Pro, learn more on our website: https://taio.app/#pricing thanks!
+
+    > Taio Pro is a plan that provides advanced features for Pro users while keeping core features free.
+
+    # Release Notes
+
+    - Added: editor now shows more text styles
+    - Added: install actions by opening files
+    - Added: checkboxes in preview mode can be toggled
+    - Fixed: resave files will no longer break their creation date
+    - Fixed: PDF rendering issues
+    - Fixed: crash when searching empty actions folder
+    - Fixed: edge cases for math formulas
+    - Improved: better wiki link support
+    - Improved: code fences rendering in preview mode
+    - Improved: app launch time
+    - Improved: better folder tree experience
+    - Improved: local history strategy
+    - Improved: front matter detection
+
+    # Recent Changes
+
+    - Added: export as docx
+    - Added: new action to find substring location
+    - Added: new built-in action variable to get text in selected line
+    - Fixed: running if-else block inside a forEach action
+    - Fixed: front matter header detection
+    - Fixed: top crashes
+    - Fixed: minor issues on iOS 13
+    - Fixed: multi-window issues
+    - Fixed: several accessibility issues
+    - Improved: more accessibility support
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.17.0 (Apr 7, 2021)
+    We are now running a limited time sale (up to 30% off) for Taio Pro, learn more on our website: https://taio.app/#pricing thanks!
+
+    > Taio Pro is a plan that provides advanced features for Pro users while keeping core features free.
+
+    # Release Notes
+
+    We have been focusing on app quality these days. With this update, we are bringing you performance improvements and bug fixes, especially for accessibility.
+
+    - Added: export as docx
+    - Added: new action to find substring location
+    - Added: new built-in action variable to get text in selected line
+    - Fixed: running if-else block inside a forEach action
+    - Fixed: front matter header detection
+    - Fixed: top crashes
+    - Fixed: minor issues on iOS 13
+    - Fixed: multi-window issues
+    - Fixed: several accessibility issues
+    - Improved: more accessibility support
+
+    # Recent Changes
+
+    - Added: export files as RTF
+    - Added: new action to recognize text in images
+    - Added: more built-in text action examples
+    - Added: inline math option for Markdown rendering
+    - Improved: Markdown preview will be updated automatically
+    - Improved: more accessibility fixes and improvements
+    - Improved: minor UI fixes and improvements
+    - Improved: some clipboard actions are now free to use
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.16.1 (Apr 1, 2021)
+    Introducing Taio Pro, a plan that offers advanced features for Pro users while keeps core features free. Get it now to have a nice discount, more information in the app and website, thanks.
+
+    We have been focusing on app quality these days. With this update, we are bringing you performance improvements and bug fixes, especially for accessibility.
+
+    # Release Notes
+
+    - Added: export files as RTF
+    - Added: new action to recognize text in images
+    - Added: more built-in text action examples
+    - Added: inline math option for Markdown rendering
+    - Improved: Markdown preview will be updated automatically
+    - Improved: more accessibility fixes and improvements
+    - Improved: minor UI fixes and improvements
+    - Improved: some clipboard actions are now free to use
+
+    # Recent Changes
+
+    - Added: new shortcut to list folder contents
+    - Added: file without an extension can be created
+    - Added: [^footnote] support
+    - Added: assets folder name can be configured
+    - Added: URL scheme to append text to a file
+    - Added: URL scheme to open a folder
+    - Added: wikilink search takes file bookmarks into account
+    - Added: syntax highlighting for more programming languages
+    - Fixed: accessibility for editing actions
+    - Improved: huge performance improvements for the editor and previewer
+    - Improved: file extension can be changed
+    - Improved: HTML rendering styles
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.16.0 (Mar 29, 2021)
+    Introducing Taio Pro, a plan that offers advanced features for Pro users while keeps core features free. Get it now to have a nice discount, more information in the app and website, thanks.
+
+    We have been focusing on app quality these days. With this update, we are bringing you performance improvements and bug fixes, especially for accessibility.
+
+    # Release Notes
+
+    - Added: export files as RTF
+    - Added: new action to recognize text in images
+    - Added: more built-in text action examples
+    - Added: inline math option for Markdown rendering
+    - Improved: Markdown preview will be updated automatically
+    - Improved: more accessibility fixes and improvements
+    - Improved: minor UI fixes and improvements
+    - Improved: some clipboard actions are now free to use
+
+    # Recent Changes
+
+    - Added: new shortcut to list folder contents
+    - Added: file without an extension can be created
+    - Added: [^footnote] support
+    - Added: assets folder name can be configured
+    - Added: URL scheme to append text to a file
+    - Added: URL scheme to open a folder
+    - Added: wikilink search takes file bookmarks into account
+    - Added: syntax highlighting for more programming languages
+    - Fixed: accessibility for editing actions
+    - Improved: huge performance improvements for the editor and previewer
+    - Improved: file extension can be changed
+    - Improved: HTML rendering styles
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.15.1 (Mar 23, 2021)
+    Introducing Taio Pro, a plan that offers advanced features for Pro users while keeps core features free. Get it now to have a nice discount, more information in the app and website, thanks.
+
+    # Release Notes
+
+    - Added: new action to recognize text in images
+    - Added: more built-in text action examples
+    - Added: inline math option for Markdown rendering
+    - Improved: Markdown preview will be updated automatically
+    - Improved: more accessibility fixes and improvements
+    - Improved: minor UI fixes and improvements
+    - Improved: some clipboard actions are now free to use
+
+    # Recent Changes
+
+    - Added: new shortcut to list folder contents
+    - Added: file without an extension can be created
+    - Added: [^footnote] support
+    - Added: assets folder name can be configured
+    - Added: URL scheme to append text to a file
+    - Added: URL scheme to open a folder
+    - Added: wikilink search takes file bookmarks into account
+    - Added: syntax highlighting for more programming languages
+    - Fixed: accessibility for editing actions
+    - Improved: huge performance improvements for the editor and previewer
+    - Improved: file extension can be changed
+    - Improved: HTML rendering styles
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.14.0 (Mar 22, 2021)
+    Introducing Taio Pro, a plan that offers advanced features for Pro users while keeps core features free. Get it now to have a nice discount, more information in the app and website, thanks.
+
+    # Release Notes
+
+    As a result of our hard work, the performance of both the editor and preview have been incredibly improved, you can now edit and preview larger files smoothly.
+
+    - Added: new shortcut to list folder contents
+    - Added: file without an extension can be created
+    - Added: [^footnote] support
+    - Added: assets folder name can be configured
+    - Added: URL scheme to append text to a file
+    - Added: URL scheme to open a folder
+    - Added: wikilink search takes file bookmarks into account
+    - Added: syntax highlighting for more programming languages
+    - Fixed: accessibility for editing actions
+    - Improved: huge performance improvements for the editor and previewer
+    - Improved: file extension can be changed
+    - Improved: HTML rendering styles
+
+    # Recent Changes
+
+    - Added: move lines quickly using toolbar actions
+    - Added: new option to create file if not exists
+    - Added: single line mode for text input action
+    - Fixed: unable to remember last used folder for creating files
+    - Improved: reduce clipboard notifications as much as possible
+    - Improved: minor UI fixes and improvements
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.13.0 (Feb 28, 2021)
+    Announcing Taio Pro, a plan that offers advanced features for Pro users while keeps core features free.
+
+    Get it now to have a nice discount, more information in the app and website, thanks.
+
+    Other than that, we also fixed some recently reported bugs and performance issues, thanks all the feedback.
+
+    # Recent Changes
+
+    - Added: move lines quickly using toolbar actions
+    - Added: new option to create file if not exists
+    - Added: single line mode for text input action
+    - Fixed: unable to remember last used folder for creating files
+    - Improved: reduce clipboard notifications as much as possible
+    - Improved: minor UI fixes and improvements
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.12.0 (Feb 10, 2021)
+    We are bringing you some exciting new features with this update, thanks for all the feedback.
+
+    # Release Notes
+
+    - Added: move lines quickly using toolbar actions
+    - Added: new option to create file if not exists
+    - Added: single line mode for text input action
+    - Fixed: unable to remember last used folder for creating files
+    - Improved: reduce clipboard notifications as much as possible
+    - Improved: minor UI fixes and improvements
+
+    # Recent Changes
+
+    - Added: wikilinks and backlinks
+    - Added: drag & drop to insert images
+    - Added: insert table of contents
+    - Added: snippet now supports dynamic cursor position
+    - Added: new action variable to insert special characters
+    - Added: new text action to generate UUID
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.11.1 (Feb 8, 2021)
+    We are bringing you some exciting new features with this update, thanks for all the feedback.
+
+    # Release Notes
+
+    - Added: wikilinks and backlinks
+    - Added: drag & drop to insert images
+    - Added: insert table of contents
+    - Added: snippet now supports dynamic cursor position
+    - Added: new action variable to insert special characters
+    - Added: new text action to generate UUID
+
+    # Recent Changes
+
+    - Added: move lines up/down using keyboard shortcuts
+    - Added: options for Markdown rendering
+    - Added: new option to open files in preview by default
+    - Added: clipboard image can be inserted into text area directly
+    - Improved: edits made by text actions can be undone
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.10.0 (Jan 27, 2021)
+    We are bringing you wikilinks and backlinks with this update.
+
+    Other than Markdown links like [Title](https://link.com) or [Title](Document.md), now you can use wiki links like [[Document]].
+
+    The editor now provides syntax highlighting for wiki links, you can also quickly open them in both the editor and previewer.
+
+    You can also define alternative titles like [[Document
+    Title]], and link to a specific heading or keyword with [[Document#Heading]].
+
+    One more thing, you can quickly find out all linked files as well as all backlinks that reference to the current file.
+
+    We also fixed some crashes and issues that were reported lately, please refer to https://docs.taio.app/#/rn for full changelog.
+
+    # Recent Changes
+
+    - Added: move lines up/down using keyboard shortcuts
+    - Added: options for Markdown rendering
+    - Added: new option to open files in preview by default
+    - Added: clipboard image can be inserted into text area directly
+    - Improved: edits made by text actions can be undone
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.9.0 (Jan 19, 2021)
+    We are bringing you some exciting new features with this update, thanks for all the feedback.
+
+    # Release Notes
+
+    - Added: move lines up/down using keyboard shortcuts
+    - Added: options for Markdown rendering
+    - Added: new option to open files in preview by default
+    - Added: clipboard image can be inserted into text area directly
+    - Improved: edits made by text actions can be undone
+
+    # Recent Changes
+
+    - Added: add actions from directory
+    - Added: new option to hide file size
+    - Added: new option to hide hidden files
+    - Added: base64 options for text encoding action
+    - Fixed: bug when using external keyboard on iPhone
+    - Improved: word counter now takes selected text into account
+    - Improved: some glyphs have been refreshed
+    - Improved: better performance for syntax highlighting
+    - Improved: open RTF files with quick look
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.8.0 (Jan 18, 2021)
+    This is a minor update focusing on bug fixes and improvements, thanks for all the feedback.
+
+    # Release Notes
+
+    - Added: add actions from directory
+    - Added: new option to hide file size
+    - Added: new option to hide hidden files
+    - Added: base64 options for text encoding action
+    - Fixed: bug when using external keyboard on iPhone
+    - Improved: word counter now takes selected text into account
+    - Improved: some glyphs have been refreshed
+    - Improved: better performance for syntax highlighting
+    - Improved: open RTF files with quick look
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+Version 1.7.1 (Jan 11, 2021)
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    This is a minor update focusing on bug fixes and improvements, thanks for all the feedback.
+
+    # Recent Changes
+
+    - Added: document picker to open all files
+    - Added: smart punctuation can be disabled
+    - Added: new option to enable full screen mode (iOS 14)
+    - Added: syntax highlighting for common programming languages
+    - Fixed: file bookmarks will be revoked periodically
+    - Fixed: inserted images won't be same order as selected
+    - Fixed: unable to download iCloud files in folder bookmarks
+    - Fixed: interface details on some devices
+    - Improved: auto completion for nested lists
+    - Improved: large files won't be saved as recently opened
+    - Improved: trackpad experience for iPad
+    - Improved: experience of some text actions
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.7.0 (Jan 5, 2021)
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    This is a minor update focusing on bug fixes and improvements, thanks for all the feedback.
+
+    # Recent Changes
+
+    - Added: document picker to open all files
+    - Added: smart punctuation can be disabled
+    - Added: new option to enable full screen mode (iOS 14)
+    - Added: syntax highlighting for common programming languages
+    - Fixed: file bookmarks will be revoked periodically
+    - Fixed: inserted images won't be same order as selected
+    - Fixed: unable to download iCloud files in folder bookmarks
+    - Fixed: interface details on some devices
+    - Improved: auto completion for nested lists
+    - Improved: large files won't be saved as recently opened
+    - Improved: trackpad experience for iPad
+    - Improved: experience of some text actions
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.6.0 (Dec 30, 2020)
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    This update includes bug fixes and improvements, we have more exciting plans for 2021, so stay tuned.
+
+    # Release Notes
+
+    - Added: document picker to open all files
+    - Added: smart punctuation can be disabled
+    - Added: new option to enable full screen mode (iOS 14)
+    - Added: syntax highlighting for common programming languages
+    - Fixed: file bookmarks will be revoked periodically
+    - Fixed: inserted images won't be same order as selected
+    - Fixed: unable to download iCloud files in folder bookmarks
+    - Fixed: interface details on some devices
+    - Improved: auto completion for nested lists
+    - Improved: large files won't be saved as recently opened
+    - Improved: trackpad experience for iPad
+    - Improved: experience of some text actions
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.5.0 (Dec 28, 2020)
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    This update includes bug fixes and improvements, we have more exciting plans for 2021, so stay tuned.
+
+    # Release Notes
+
+    - Added: new option to enable full screen mode (iOS 14)
+    - Added: syntax highlighting for common programming languages
+    - Fixed: unable to download iCloud files in folder bookmarks
+    - Fixed: interface details on some devices
+    - Improved: trackpad experience for iPad
+    - Improved: experience of some text actions
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.4.0 (Dec 15, 2020)
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    This update includes bug fixes and improvements, it is also the final release for the year. We have more exciting plans for 2021, so stay tuned.
+
+    # Release Notes
+
+    - Added: editor toolbar items can be reordered
+    - Added: quickly open links in the editor
+    - Added: opened previews can be restored
+    - Fixed: clipboard may not be saved during cold launch
+    - Fixed: some localization issues
+    - Improved: editor toolbar scrolling experience
+    - Improved: editor interface details
+    - Improved: URL scheme for creating document
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.3.1 (Dec 10, 2020)
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: new export option to print HTML preview
+    - Added: new option to disable auto save for clipboard
+    - Added: open linked files in preview
+    - Added: split text action supports regex
+    - Added: deleted files can be restored
+    - Fixed: several UI glitches
+    - Fixed: several file bookmark issues
+    - Improved: better strategy for iCloud syncing
+    - Improved: minor interface changes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.3.0 (Dec 8, 2020)
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: new export option to print HTML preview
+    - Added: new option to disable auto save for clipboard
+    - Added: open linked files in preview
+    - Added: split text action supports regex
+    - Added: deleted files can be restored
+    - Fixed: several UI glitches
+    - Fixed: several file bookmark issues
+    - Improved: better strategy for iCloud syncing
+    - Improved: minor interface changes
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.2.1 (Dec 2, 2020)
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: support for running Shortcuts
+    - Added: enable installed fonts and font face
+    - Added: you can now restore deleted clippings
+    - Added: toolbar can be hidden when keyboard is connected
+    - Added: new example actions to merge clippings
+    - Fixed: folder shows wrong number of files
+    - Fixed: several accessibility issues
+    - Fixed: several UI issues, especially for iPad
+    - Improved: disable syntax highlighting for large files
+    - Improved: exported HTML files are much smaller
+    - Improved: smart quotes and dashes are enabled
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.2.0 (Dec 1, 2020)
+    > If you like Taio, please leave a review to support us. Feel free to send us any comments or questions, we would love to hear from you.
+
+    # Release Notes
+
+    - Added: support for running Shortcuts
+    - Added: enable installed fonts and font face
+    - Added: you can now restore deleted clippings
+    - Added: toolbar can be hidden when keyboard is connected
+    - Added: new example actions to merge clippings
+    - Fixed: folder shows wrong number of files
+    - Fixed: several accessibility issues
+    - Fixed: several UI issues, especially for iPad
+    - Improved: disable syntax highlighting for large files
+    - Improved: exported HTML files are much smaller
+    - Improved: smart quotes and dashes are enabled
+
+    # Contact Us
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.1.0 (Nov 26, 2020)
+    This update includes minor fixes and improvements:
+
+    - Added: input clicks for entering snippets
+    - Fixed: replacement of duplicate files does not work
+    - Fixed: sketches are not inserted correctly on iPadOS
+    - Improved: experience of using TextBundle files
+    - Improved: UI polishes for iPadOS
+
+    Feel free to reach us out if you have any suggestions or ideas:
+
+    - Website: https://taio.app
+    - Email: hi@taio.app
+    - Twitter: @TaioApp
+
+    Thanks!
+Version 1.0.0 (Nov 22, 2020)
+
+Users may also like
+Select objects to compare
+MWeb - Markdown Writing, Notes
+Metion: Markdown Notes
+Cubox: AI Reader & Highlight
+flomo浮墨-极简卡片笔记、轻便签与日记备忘
+Logseq
+One Markdown
+DEVONthink To Go 3
+Fileball
+iA Writer
+OpenCat
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+12 times
+on App Store category pages
+Versions
+
+    1.68.0
+    Current release
+    Sep 13, 2023
+    1.67.0
+    Feb 14, 2023
+    1.66.0
+    Nov 1, 2022
+    1.65.1
+    Oct 20, 2022
+    1.65.0
+    Oct 12, 2022
+    1.64.1
+    Sep 29, 2022
+    1.64.0
+    Sep 19, 2022
+    1.63.1
+    Sep 11, 2022
+    1.63.0
+    Sep 9, 2022
+    1.62.2
+    Sep 1, 2022
+    1.62.1
+    Aug 29, 2022
+    1.62.0
+    Aug 22, 2022
+    1.61.1
+    Aug 19, 2022
+    1.60.0
+    Aug 15, 2022
+    1.59.0
+    Aug 2, 2022
+    1.58.0
+    Jul 28, 2022
+    1.57.1
+    Jul 21, 2022
+    1.56.0
+    Jul 1, 2022
+    1.55.0
+    Jun 21, 2022
+    1.54.1
+    Jun 12, 2022
+    1.54.0
+    Jun 8, 2022
+    1.53.0
+    May 30, 2022
+    1.52.2
+    May 24, 2022
+    1.52.1
+    May 19, 2022
+    1.52.0
+    May 17, 2022
+    1.51.2
+    May 6, 2022
+    1.51.1
+    May 4, 2022
+    1.50.0
+    Apr 27, 2022
+    1.49.2
+    Apr 26, 2022
+    1.49.1
+    Apr 21, 2022
+    1.49.0
+    Apr 19, 2022
+    1.48.0
+    Apr 18, 2022
+    1.47.1
+    Apr 5, 2022
+    1.47.0
+    Apr 4, 2022
+    1.46.1
+    Mar 29, 2022
+    1.46.0
+    Mar 28, 2022
+    1.45.2
+    Mar 16, 2022
+    1.45.1
+    Mar 9, 2022
+    1.45.0
+    Mar 8, 2022
+    1.44.1
+    Feb 17, 2022
+    1.44.0
+    Feb 15, 2022
+    1.43.2
+    Feb 7, 2022
+    1.43.1
+    Jan 31, 2022
+    1.43.0
+    Jan 28, 2022
+    1.42.1
+    Jan 14, 2022
+    1.42.0
+    Jan 11, 2022
+    1.41.0
+    Jan 9, 2022
+    1.40.1
+    Jan 3, 2022
+    1.40.0
+    Dec 27, 2021
+    1.39.1
+    Dec 22, 2021
+    1.39.0
+    Dec 14, 2021
+    1.38.0
+    Dec 8, 2021
+    1.37.1
+    Nov 29, 2021
+    1.37.0
+    Nov 16, 2021
+    1.36.2
+    Nov 13, 2021
+    1.36.1
+    Nov 9, 2021
+    1.36.0
+    Nov 8, 2021
+    1.35.0
+    Nov 4, 2021
+    1.34.0
+    Nov 1, 2021
+    1.33.0
+    Oct 26, 2021
+    1.32.0
+    Oct 14, 2021
+    1.31.0
+    Sep 30, 2021
+    1.30.0
+    Sep 21, 2021
+    1.29.0
+    Sep 8, 2021
+    1.28.0
+    Aug 24, 2021
+    1.27.1
+    Aug 17, 2021
+    1.26.0
+    Aug 10, 2021
+    1.25.0
+    Aug 4, 2021
+    1.23.0
+    Jul 20, 2021
+    1.22.0
+    Jun 22, 2021
+    1.21.0
+    Jun 3, 2021
+    1.20.0
+    May 28, 2021
+    1.19.1
+    May 17, 2021
+    1.19.0
+    May 5, 2021
+    1.18.0
+    Apr 19, 2021
+    1.17.0
+    Apr 7, 2021
+    1.16.1
+    Apr 1, 2021
+    1.16.0
+    Mar 29, 2021
+    1.15.1
+    Mar 23, 2021
+    1.14.0
+    Mar 22, 2021
+    1.13.0
+    Feb 28, 2021
+    1.12.0
+    Feb 10, 2021
+    1.11.1
+    Feb 8, 2021
+    1.10.0
+    Jan 27, 2021
+    1.9.0
+    Jan 19, 2021
+    1.8.0
+    Jan 18, 2021
+    1.7.1
+    Jan 11, 2021
+    1.7.0
+    Jan 5, 2021
+    1.6.0
+    Dec 30, 2020
+    1.5.0
+    Dec 28, 2020
+    1.4.0
+    Dec 15, 2020
+    1.3.1
+    Dec 10, 2020
+    1.3.0
+    Dec 8, 2020
+    1.2.1
+    Dec 2, 2020
+    1.2.0
+    Dec 1, 2020
+    1.1.0
+    Nov 26, 2020
+    1.0.0
+    Nov 22, 2020
+
+See More
+Top In-App Purchases
+
+    Taio Pro Monthly
+    $1.99
+    Taio Pro Yearly
+    $13.99
+    Taio Pro Lifetime
+    $29.99
+    Taio Pro Yearly
+    $9.99
+    Taio Pro Lifetime
+    $35.99
+    Taio Pro Lifetime
+    $42.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Nov 21, 2020
+
+Worldwide Release Date
+    Nov 21, 2020
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    1.68.0
+
+Size
+    45.90 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese, Traditional Chinese
+
+Seller
+    颖 钟
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    app.cyan.taio
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1527036273
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Taio - Markdown & Text Actions | data.ai

@@ -1,0 +1,426 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+ScreenCrush
+TownsquareNews (Applications)Free
+Alerts
+
+ScreenCrush
+ScreenCrush
+ScreenCrush
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+ScreenCrush
+On-screen. Online. Always.
+News (Applications)
+Free
+App Description
+ScreenCrush brings everything onscreen online. From movies to TV, whether it’s new or classic, huge or indie, ScreenCrush covers it all.
+
+Key Features:
+- Read the latest movie and TV news, interviews, reviews, recaps, features and more
+- Watch new trailers and original video series and supercuts.
+- Subscribe to notifications for breaking news and other topics.
+- Share the latest news via Facebook & Twitter.
+- Save articles for reading later (supports offline viewing).
+- Featured full multi-tasking with background audio and controls.
+- Supports AirPlay feature for wireless streaming to your AirPlay-compatible device.
+
+This is the latest version of the ScreenCrush app and we have many more features planned so please share your feedback from within the app by clicking the “Send Us Feedback” link in the menu.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 3.4.3 (Apr 15, 2024)
+    We continuously strive to enhance your app experience. In this release, we've resolved bugs and enhanced performance to ensure a smoother experience for you.
+Version 3.4.2 (Dec 4, 2023)
+    - AirPlay fix for iOS 16
+    - Support for iOS 17
+    - Fix for app chat layout issues
+    - Update to improve album art
+    - Stability improvements and minor bug fixes
+Version 3.4.1 (Jun 22, 2023)
+    - Stability improvements and minor bug fixes
+Version 3.4.0 (Jun 12, 2023)
+    - Stability improvements and minor bug fixes
+    - New tickets feature: ability to purchase tickets for upcoming concerts and events
+Version 3.3.22 (May 12, 2023)
+    - Stability improvements and minor bug fixes
+    - Delete Account Flow added to Menu
+Version 3.3.21 (Feb 27, 2023)
+    Stability improvements and minor bug fixes
+Version 3.3.20 (Dec 21, 2022)
+    Stability improvements and minor bug fixes
+Version 3.3.19 (Dec 20, 2022)
+    Stability improvements and minor bug fixes
+Version 3.3.18 (Sep 27, 2022)
+    - Ability to import saved articles by email address if moving to new device or install
+    - Additional support for contesting content
+    - Additional bug fixes & improvements
+Version 3.3.17 (Jun 8, 2022)
+    - Added support for selecting audio files on Submit Media screen
+    - New create account flow
+    - Added sleep timer to Settings screen
+    - Quick access to App Chat throughout the app
+    - Various bug fixes and improvements
+Version 3.3.16 (Feb 15, 2022)
+    - Bug Fixes and Performance Improvements
+Version 3.3.14 (Dec 13, 2021)
+    - Updated On Demand Radio / Podcasts Support
+    - iOS 15 Support
+    - Swipe Down to Close Gallery Support
+    - Bug Fixes and Performance Improvements
+Version 3.3.10 (Oct 1, 2021)
+    - Bug fixes and performance improvements
+    - iOS 15 support
+Version 3.3.9 (Jun 23, 2021)
+    Bug fixes and performance improvements
+Version 3.3.6 (May 31, 2021)
+    - Support for new pages/widgets
+    - Additional bug fixes and performance improvements
+Version 3.3.5 (Feb 8, 2021)
+    - Added support for new photo galleries
+    - Additional bug fixes and performance improvements
+Version 3.3.3 (Jan 2, 2021)
+    New Year, new weather API used in app
+    - Bug fixes and performance improvements
+Version 3.3.2 (Oct 12, 2020)
+    - Podcast Updates: Enhanced Apple CarPlay Experience
+    - Now Playing Bar Updates
+    - Additional Bug Fixes and Performance Improvements
+Version 3.3.1 (Sep 3, 2020)
+    - Images now displayed on Alerts screen
+    - Podcasts updates
+    - New playlist/browse screens
+    - Push Alerts for new shows
+    - Articles now displaying "Updated" if they updated with new content
+    - Skip forward and skip back screen controls for podcasts
+    - Additional bug fixes and performance improvements
+Version 3.3.0 (May 11, 2020)
+    - Support for upcoming Podcasts
+    - Improved Listen Live / Now Playing Widget
+    - Updates to "App Chat"
+    - New logic to alert user when an app update is needed for new features
+    - Additional bug fixes and performance improvements
+Version 3.2.4 (Mar 22, 2020)
+    - Fixed issue that was preventing featured promo buttons on homescreen from not updating on certain devices
+    - Improved article sharing with previews for article and image
+    - App chat update
+    - Added support for Medical Content in the App
+    - Additional bug fixes and performances improvements
+Version 3.2.3 (Feb 27, 2020)
+    - Fixed issue that was preventing featured promo buttons on homescreen from not updating on certain devices
+    - Improved article sharing with previews for article and image
+    - App chat update
+    - Additional bug fixes and performances improvements
+Version 3.2.2 (Dec 28, 2019)
+    - Latest News widget in Notification Center
+    - Updated "Save Article" Functionality
+    - Revised Alerts Screen
+    - Stability Improvements and minor bug fixes
+Version 3.2.1 (Dec 20, 2019)
+    - Latest News widget in Notification Center
+    - Updated "Save Article" Functionality
+    - Revised Alerts Screen
+    - Stability Improvements and minor bug fixes
+Version 3.2.0 (Nov 1, 2019)
+    - iOS 13 Support/Improvements
+    - App Updates Screen Added to Main Menu
+    - Enhanced AppChat Support
+    - Stability Improvements and minor bug fixes
+Version 3.1.0 (Sep 10, 2019)
+    - Enhanced AppChat support for chatting with live shows
+    - Enhancements to photo galleries found within articles
+    - Additional bug fixes and performance updates
+Version 3.0.0 (Jun 25, 2019)
+    - Design Updates in Homepage and Article Pages
+    - Infinite Scrolling of Articles (Scroll down to load next article)
+    - Performance updates to the Instant Alerts
+    - Improved Photo Gallery Layouts
+    - Layout updates for iPhone X series devices
+    - Additional Bug Fixes and Performance Improvements
+Version 2.0.0 (Jun 14, 2019)
+    - Design Updates in Homepage and Article Pages
+    - Infinite Scrolling of Articles (Scroll down to load next article)
+    - Performance updates to the Instant Alerts
+    - Improved Photo Gallery Layouts
+    - Layout updates for iPhone X series devices
+    - Additional Bug Fixes and Performance Improvements
+Version 1.5.0 (Dec 10, 2018)
+    - Update to feedback emails
+    - Stability improvements and minor bug fixes
+Version 1.4.1 (Oct 18, 2018)
+    - Rich media push notification support
+    - Stability improvements and minor bug fixes
+Version 1.3.1 (Aug 27, 2018)
+    - Bug Fixes and Performance Improvements
+Version 1.3.0 (Jul 20, 2018)
+    - Alarm Clock Updates: New Repeat options and easy access from Settings screen
+    - Support for latest push notification format
+    - Alert Channel Subscription Updates
+    - Scavenger Hunt Updates
+    - Bug Fixes and Performance Improvements
+Version 1.2.0 (May 21, 2018)
+    - Location based Scavenger Hunts
+    - All New Alarm Clock Feature so you can wake up to your favorite station
+    - Record and Submit Audio directly on app
+    - Chromecast / Google Home Support
+    - Improved content search functionally
+    - Speed improvements for Push Notifications
+    - Stability improvements and minor bug fixes
+Version 1.1.0 (Nov 21, 2017)
+    Stability improvements and minor bug fixes
+Version 1.0.3 (Sep 6, 2017)
+    Stability improvements and minor bug fixes
+Version 1.0.2 (Apr 4, 2017)
+    - Fixed issue with submitting video in iOS 10
+    - Close App functionality added to menu
+    - Stability improvements and minor bug fixes
+Version 1.0.1 (Jan 22, 2017)
+    - Necessary update for continued use of the app
+    - Stability improvements and minor bug fixes
+Version 1.0.0 (Dec 6, 2016)
+
+Users may also like
+Select objects to compare
+Heavy Headlines
+Tech News: Reviews & Gadgets
+InterGame
+AM1460 & FM101.1 The Answer
+Mount Airy News
+Observer & Eccentric
+Profcasters
+Inland Valley Daily Bulletin E
+Appleosophy
+Playstation Unofficial News
+IQ Classifications
+Genre: News & Magazines
+Subgenre: News
+News
+Apps that provide information or comment about current events.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.4.3
+    Current release
+    Apr 15, 2024
+    3.4.2
+    Dec 4, 2023
+    3.4.1
+    Jun 22, 2023
+    3.4.0
+    Jun 12, 2023
+    3.3.22
+    May 12, 2023
+    3.3.21
+    Feb 27, 2023
+    3.3.20
+    Dec 21, 2022
+    3.3.19
+    Dec 20, 2022
+    3.3.18
+    Sep 27, 2022
+    3.3.17
+    Jun 8, 2022
+    3.3.16
+    Feb 15, 2022
+    3.3.14
+    Dec 13, 2021
+    3.3.10
+    Oct 1, 2021
+    3.3.9
+    Jun 23, 2021
+    3.3.6
+    May 31, 2021
+    3.3.5
+    Feb 8, 2021
+    3.3.3
+    Jan 2, 2021
+    3.3.2
+    Oct 12, 2020
+    3.3.1
+    Sep 3, 2020
+    3.3.0
+    May 11, 2020
+    3.2.4
+    Mar 22, 2020
+    3.2.3
+    Feb 27, 2020
+    3.2.2
+    Dec 28, 2019
+    3.2.1
+    Dec 20, 2019
+    3.2.0
+    Nov 1, 2019
+    3.1.0
+    Sep 10, 2019
+    3.0.0
+    Jun 25, 2019
+    2.0.0
+    Jun 14, 2019
+    1.5.0
+    Dec 10, 2018
+    1.4.1
+    Oct 18, 2018
+    1.3.1
+    Aug 27, 2018
+    1.3.0
+    Jul 20, 2018
+    1.2.0
+    May 21, 2018
+    1.1.0
+    Nov 21, 2017
+    1.0.3
+    Sep 6, 2017
+    1.0.2
+    Apr 4, 2017
+    1.0.1
+    Jan 22, 2017
+    1.0.0
+    Dec 6, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    News
+
+Initial Release Date
+    Dec 6, 2016
+
+Worldwide Release Date
+    Feb 12, 2016
+
+Last Updated Time
+    Apr 21, 2024
+
+Version
+    3.4.3
+
+Size
+    81.54 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Townsquare Media, LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.tsm.screencrush
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1181068218
+Unified App ID: 1000600000656540
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+ScreenCrush | data.ai

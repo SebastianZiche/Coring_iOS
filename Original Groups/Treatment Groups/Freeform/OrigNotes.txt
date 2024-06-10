@@ -1,0 +1,627 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+OrigNotes
+Hangzhou Future Writing Technology Co.,LTD.Productivity (Applications)Free
+Alerts
+
+    Hangzhou Future Writing Technology Co.,LTD.
+
+    OrigNotes
+    OrigNotes
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+OrigNotes
+Productivity (Applications)
+Free
+App Description
+OrigNotes: A professional digital handwritten note software that helps you create and organize high-quality handwritten notes on iPads and iPhones, including functions such as handwritten text, drawing, inserting images, and PDF annotations.
+- Quickly organize and search for documents, customize or arrange them according to rules, and easily locate the location of the required documents.
+- Free configuration of note cover and paper, customize your own note style
+- Theme settings, hoping that different styles can bring you different user experiences
+- Unique anti touch and writing settings, with fingers and Pencil performing their respective duties
+- Multiple brushes and tools to meet your diverse needs
+- Excellent algorithms provide you with a smooth writing experience
+- Record more writing styles, we provide you with an unlimited number of pen boxes
+- Add bookmarks to key pages so you can quickly find them
+- Multiple data backup methods to ensure your data security
+- Cloud disk synchronization for faster collaboration between multiple devices
+OrigNotes is a free, easy-to-use, and concise handwritten note taking software that can easily create and manage a large number of handwritten notes on mobile devices, improving productivity and work efficiency.
+Ratings
+Displayed Avg Ratings
+4.86
+Total Displayed Ratings
+3.9k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.6 (Feb 1, 2024)
+    1.5.6 Update Log:
+    Fix bug:
+    Fix the bug of recall not responding in a timely manner
+Version 1.5.5 (Jan 30, 2024)
+    1.5.5 Update Log:
+    Optimization function:
+    1. Optimize the note taking experience and modify some devices that may cause writing shake issues
+    2. Modify the anti accidental touch mode to default to Pencil only
+Version 1.5.4 (Jan 21, 2024)
+    1.5.4 Update Log:
+    New features:
+    1. Add page playback function to audio for more convenient audio playback
+    2. Add movement function to the tape, modify and modify the tape position
+    3. Multiple tags can be added and long pressed for free sorting function
+    Fix bug:
+    1. Fix a bug where the homepage creation button may disappear
+    2. Fix the bug where the classification of the cover and paper configuration pages cannot be modified by name
+Version 1.5.3 (Jan 2, 2024)
+    1.5.3 Update Log:
+    Fix bug:
+    Fix the bug of lasso screenshot offset
+Version 1.5.2 (Dec 31, 2023)
+    1.5.2 Update Log:
+    New features:
+    1. Add multi tag function switching, which can quickly switch between different notes
+    2. Eye protection mode adds full screen function. When turned on, the editing page will apply changes in eye protection color. When turned off, only the canvas will apply changes in eye protection color, which can be set in the writing settings
+    Fix bug:
+    1. Fix the bug where tape cannot merge notes when merging
+    2. Fix password access not applied when encrypting side folders
+Version 1.5.1 (Dec 14, 2023)
+    1.5.1 Update Log:
+    Fix bug:
+    1. Fix a bug where text and images cannot be copied in bulk
+    2. Fix the bug of exiting the editing page and resetting the file path
+Version 1.4.9 (Dec 4, 2023)
+    1.4.9 Update Log:
+    New features:
+    1. Add the scanning file function, which allows you to create notes by scanning
+    2. In the edit page ->add page ->add scanning entry, existing notes can be added to the page through scanning
+    3. Add eye protection mode and dark color mode to the editing page and toolbox
+    4. Added page lag detection, which automatically pops up a repair pop-up when handwritten content is detected to be stuck
+    5. Add a select all button to the thumbnail interface, making batch operations simpler
+    6. Add a sharing function to the recording, which can be shared with other software
+    Optimization function:
+    1. Rewrote the loading algorithm, making continuous mode smoother
+    2. Optimized the issue of writing delay
+    Fix bug:
+    1. Fix bug where browsing mode sometimes fails
+    2. Fix the bug where recall and redo are not available in landscape mode without switching pages
+    3. Fix the bug where search results cannot be redirected
+Version 1.4.8 (Nov 23, 2023)
+    1.4.8 Update Log:
+    New features:
+    1. Add a file drag and drop function to the folder function, which allows you to directly drag files into the folder
+    2. Add the function of dragging and dropping files to the app to create notes. In split screen mode, long press the corresponding PDF file in the file app and drag it to the app to directly create notes (supports batch)
+    Function adjustment:
+    In the original default mode, long press and drag sorting was modified to only support drag sorting in edit mode. In normal mode, drag and move is the function of moving folders
+    Fix bug:
+    1. Fix bugs in lassos that sometimes cannot be looped
+    2. Fix the bug that will occur again in the next text entry after text cutting
+    3. Fix the bug where inserting images as pages in continuous mode prevents the interface from refreshing immediately
+    4. Fix the bug of incorrect pop-up window for batch exported thumbnail files
+Version 1.4.7 (Nov 19, 2023)
+    1.4.7 Update Log:
+    New features:
+    1. Add a custom color function for folders, which allows for individual color settings for folders
+    2. Add a rubber busy waiting mechanism to avoid the problem of repeated application that cannot be erased
+    3. Adding the Time Machine function allows for a more detailed review of previous versions
+    Fix bug:
+    1. Fix some bugs with incorrect pop-up window positions
+    2. Fix the bug of incorrect text position after movement
+    3. Fix the bug where the interface does not refresh during frontend scheduling
+    4. Fix the bug where one screenshot cannot be pasted on another screen during screen splitting
+Version 1.4.6 (Nov 11, 2023)
+    1.4.6 Update Log:
+    New features:
+    1. Add OCR text extraction function to the lasso tool, which can conveniently extract PDF text
+    2. In browsing mode, double clicking or long pressing supports selecting PDF text, copying or translating text
+    3. Add an opacity option to the laser pen to draw opaque laser pen lines
+    4. Added image extraction text function
+    Fix bug:
+    1. Fix the replacement page refresh delay bug
+    2. Fix the bug where the pop-up window position is incorrect when deleting the configuration paper and cover
+    3. Fix bugs when adding bookmarks and bookmarks
+    4. Fix two note taking bugs when importing files
+    5. Fix bug where continuous mode keyboard will jump
+    6. Fix bug where deleting and pasting pages in continuous mode did not refresh in a timely manner
+Version 1.4.4 (Oct 30, 2023)
+    1.4.4 Update Log:
+    Fix bug:
+    Fix bug where editing page themes are not applied
+Version 1.4.1 (Oct 11, 2023)
+    1.4.1 Update Log:
+    New features:
+    Add timer function
+    Fix bug:
+    Fix the bug where the laser pen under the horizontal screen can cause page shaking
+Version 1.4.2 (Oct 11, 2023)
+    1.4.2 Update Log:
+    Fix bug:
+    1. Fix the bug where the timer pauses before canceling and cannot be restarted
+    2. Fix bug with inaccurate calculator calculations
+Version 1.4.0 (Oct 10, 2023)
+    1.4.0 Update Log:
+    New features:
+    1. Add laser pen function
+    2. Add a replacement page that can replace the background template of already created notes
+    3. Add drag sorting function to the brushes in the pen box
+    Optimization function:
+    Optimized pop-up animation and removed rebound effect
+    Fix bug:
+    1. Fix the bug of using zoom and copy functions to flash back in lower versions
+    2. After repairing image cropping, new images cannot be added to this location
+    3. Fix the issue where zooming the image or text separately after the lasso is scaled will restore the image or text
+Version 1.3.9 (Sep 24, 2023)
+    1.3.9 Update Log:
+    Fix the issue of ineffective code
+Version 1.3.7 (Sep 20, 2023)
+    1.3.7 Update Log:
+    New features:
+    Add a single line pen and crayon brush for iOS17
+    Fix bug:
+    1. Fix bugs where text and image tools are not sensitive
+    2. Fix the bug of not exiting recording when exiting editing
+    3. Fix the bug of calculation errors when the recording duration is 0
+Version 1.3.4 (Sep 13, 2023)
+    1.3.4 Update Log:
+    Optimization function:
+    Added some built-in themes
+    Fix bug:
+    1. Fix the bug of unsuccessful pasting in continuous mode
+    2. Fix bug where recording time exceeds 1 hour and incomplete display
+Version 1.3.0 (Aug 20, 2023)
+    1.3.0 Update Log:
+    New features:
+    New zoom lock function added, after locking, it will focus more on writing content to prevent accidental touch
+    Fix bug:
+    1. Fix Pencil 2: Switching between double clicking the rubber and pen sometimes fails
+    2. Fix the issue of inaccurate screenshots of some device lassos
+    3. Fix the issue of areas not scrolling after automatic page addition in continuous mode
+    Function optimization:
+    1. Adjust the floating window movement area so that the floating window no longer covers the toolbar
+    2. Adjust the backup file name to remove special symbols
+Version 1.2.9 (Aug 17, 2023)
+    1.2.9 Update log:
+    New features:
+    1. Add compatible system pasteboard function, and now you can directly paste the pictures and text of the system pasteboard onto the notes page
+    2. We have added a brush UI. You can select your favorite style in the brush style selection
+    3. Add the control switch of automatic opening of imported files in general settings
+    4. In the general settings, the handwriting to text setting has been added, which can quickly convert handwriting to text
+    5. When trying to repair Pencil with hover preview, the problem will disappear in the lasso ring (if there is still a problem, please turn off the hover function of Apple Pencil in the system settings)
+    Fix bug:
+    1. Repair the inaccurate writing of tape
+    2. Fix the content copied from the fitting graph, and use the lasso to generate association problems (in principle, we will not actively modify the user's data, and the error data that has been generated needs to be deleted manually)
+    3. When repairing the copy page, the reference causes the file copy to occupy too much space
+Version 1.2.8 (Aug 13, 2023)
+    1.2.8 Update Log:
+    New features:
+    1. Add adhesive tape function, and also customize the content of adhesive tape. You can use your favorite colors and pictures to make adhesive tape
+    2. Added Pencil 2 double click rubber, double click again to switch to the previous tool function
+    3. Add light yellow and eye protection green paper
+    4. Add and select images as inner pages of the paper
+    5. Added tips for using images and text
+    6. Future version plans have been added, allowing you to view the latest status and functional progress of the Orignotes
+    Fix bug:
+    1. Fix the issue where some notes cannot be selected in homepage editing mode
+    2. Fix the issue of text box insertion paragraph flashback
+    3. Fix the import cover page and delete the possible data error bug
+    Optimization function:
+    1. When clearing the page, the option to only clear handwritten content has been added
+    2. Optimized the level of opening office files and no longer defaults to using Orignotes for opening
+Version 1.2.7 (Jul 27, 2023)
+    1.2.7 Update Log:
+    New features:
+    1. Add Lasso to modify brush color function
+    2. Selecting all backup data will also select the notes in the folder
+    3. Optimize stability
+Version 1.2.6 (Jul 24, 2023)
+    1.2.6 Update Log:
+    New features:
+    1. Add a single page sharing function, which allows you to share your favorite note pages in the form of pictures
+    2. Add custom note page export
+    3. Added a button to fix common errors in Quick Rendering
+    Fix bug:
+    1. Fix the issue of keeping the original image button in the wrong state
+    2. When repairing a new device and adjusting colors, there was an incorrect color issue
+    3. Fix the issue of generating black cover pages
+    4. Fix issues where some themes were not applied
+Version 1.2.5 (Jul 22, 2023)
+    1.2.5 Update Log:
+    New features:
+    Newly added rectangular screenshots are all schematic boxes, and convenient screenshots can be updated now
+    Fix bug:
+    1. Fix possible stuttering of notes in continuous mode
+    2. Fix the issue of batch operation buttons not displaying thumbnails
+    Function adjustment:
+    Disable dual split screen, this mode has not been adapted yet, and will be re launched after it is fully adapted
+Version 1.2.4 (Jul 18, 2023)
+    1.2.4 Update Log:
+    New features:
+    Added a general settings entry in the homepage settings, including default scrolling direction for creating notes and selection rules for lasso screenshots or rectangle options
+    Fix bug:
+    1. Fix a few PDF creation cover page exceptions
+    2. Fix transparency issues with theme colors
+    3. Fix language display errors in some countries
+Version 1.2.3 (Jul 15, 2023)
+    1.2.3 Update Log:
+    New features:
+    1. Added image free cropping function
+    2. Add Lasso screenshot function
+    Fix bug:
+    1. Fix the issue of the selected image or text of the lasso disappearing when switching tools
+    2. Fix the mismatch between the pen box and actual use
+    3. Fix possible text displacement issues
+Version 1.2.2 (Jul 10, 2023)
+    1.2.2 Update Log:
+    New features:
+    New automatic page adding function is added. In Edit Page ->Settings ->Writing Settings ->Automatic Page Adding, the switch is turned off by default. After it is turned on, new pages will be automatically added when the last page is written
+    Fix bug:
+    1. Merge notes without merging audio
+    2. When editing the cover page configuration, bugs can be imported
+    3. Fix the issue of not refreshing the main view in a timely manner when adding pages to thumbnails in continuous mode
+Version 1.2.1 (Jul 5, 2023)
+    1.2.1 Update Log:
+    New features:
+    Returned to continuous browsing mode and fixed stuck issues
+    Fix bug:
+    1. Fix the issue of automatic screen scaling in split screen mode
+    2. Fix the issue of unavailable FaceID
+    3. Fix thumbnail reuse issue
+    4. Fix the issue of dragging and sorting notes on the homepage in non default mode
+Version 1.2.0 (Jul 2, 2023)
+    1.2.0 Update Log:
+    New features:
+    1. Added batch import of files, allowing for simultaneous addition of various types of files
+    2. Add background playback for recording
+    Fix bug:
+    Fixed a bug where the selected text and images were not visible when entering the background after the loop selection process
+Version 1.1.9 (Jun 29, 2023)
+    1.1.9 Update Log:
+    New features:
+    1.Add overall copying and deletion to the lasso function, allowing you to simultaneously manipulate images, text, and handwritten content through the lasso
+    2.Added checkered paper
+    Fix bug:
+    Fixed the issue of displaying misalignment when modifying the name of the homepage note after moving its position
+    Optimization function:
+    1.Removed the continuous browsing mode of the editing page. If too much content is written in this mode, it may cause lag. Wait for internal testing to improve before going online again
+    2.Removed the function of inserting spaces
+Version 1.1.8 (Jun 27, 2023)
+    1.1.8 Update Log:
+    Fix bug:
+    1. Fix the issue of only displaying half of the PDF after importing it
+    2. Fix possible sticking issues
+    Optimization function:
+    Optimization of Lasso Display Too Large When Page Enlarges
+Version 1.1.7 (Jun 21, 2023)
+    1.1.7 Update Log:
+    New features:
+    1.Added recording function to your notes, so you can take notes while recording
+    2.Added import audio function and cut audio function
+    Fix bug:
+    1. Fix the issue where the tool box page adaptation button does not take effect when flipping continuously
+    2. Fix the issue of abnormal UI display of theme adding buttons
+    3. Fix the issue of modifying the brush thickness under the pen box and resetting it to its initial value after selecting it again
+Version 1.1.6 (Jun 8, 2023)
+    1.1.6 Update Log:
+    New features:
+    Add iCloud automatic backup function, which can set the most suitable backup cycle according to different needs
+Version 1.1.5 (Jun 2, 2023)
+    1.1.5 Update Log:
+    New features:
+    1. Add PDF splitting function. When exporting PDF, appropriate threshold can be set based on the device, which can export large PDF files to avoid program flickering
+    2. Add PDF threshold support for fast rendering functionality
+Version 1.1.4 (May 31, 2023)
+    1.1.4 Update Log:
+    Fix bug:
+    1. Fix a bug where text tools cannot read third-party fonts installed in the system
+    2. Fix a bug in the Lasso tool that affects text and images due to menu operations on drawing content
+    3. Fix the bug of untimely folder application theme
+Version 1.1.3 (May 29, 2023)
+    1.1.3 Update Log:
+    New features:
+    1. Added theme sharing function, custom themes can be shared with other friends now
+    2. Added password reset function. When you forget the note access password you have set, you may reset the password through fingerprint ID/facial ID
+    Optimization function:
+    When merging notes, when the first note is in the folder, the merged notes are also in the folder, and now they are uniformly adjusted to be displayed on the homepage
+Version 1.1.2 (May 25, 2023)
+    1.1.2 Update Log:
+    New features:
+    Add support for office files including doc docx ppt pptx xls xlsx format
+    Fix bug:
+    Fix bug with incorrect button application in theme color section
+Version 1.0.9 (May 9, 2023)
+    1.0.9 Update Log:
+    New features:
+    1. Add fast rendering function, greatly optimize PDF loading speed, save memory, and avoid program flicker caused by PDF too large
+    2. Add batch image insertion function
+    Optimization function:
+    Optimize some UI displays
+Version 1.0.8 (May 6, 2023)
+    1.0.8 Update Log:
+    New features:
+    Add note merging function to merge multiple notes into one
+    Fix bug:
+    1. Fix the issue of incorrect page retrieval when sharing some PDFs with the software
+    2. Fix the issue of not establishing a search index for the page label when pasting the page
+Version 1.0.7 (Apr 28, 2023)
+    1.0.7 Update Log:
+    New features:
+    Added drag and drop implementation, allowing text and images on web pages to be directly dragged into the software for editing
+    Fix bug:
+    When repairing the switch tool, the lasso interface was not updated in a timely manner
+Version 1.0.6 (Apr 27, 2023)
+    1.0.6 Update Log:
+    New features:
+    The lasso function supports custom circled content, such as images and text
+    Optimization function:
+    Optimize page flipping interaction
+    Fix bug:
+    Fix data storage issues with image and file movement in continuous mode
+Version 1.0.5 (Apr 20, 2023)
+    1.0.5 Update Log:
+    Fix BUG:
+    1. Fix the issue of incorrect data display on the homepage's favorite tab
+    2. Fix the issue of flashing caused by abnormal PDF import
+Version 1.0.4 (Apr 18, 2023)
+    1.0.4 Update Log:
+    New features:
+    1. Add PDF and ZIP file data support tags, and when sharing files, you can choose to open them with original notes
+    Fix bug:
+    Fix incorrect jump of PDF outline
+Version 1.0.3 (Apr 17, 2023)
+    1.0.3 Update Log:
+    Optimization function:
+    Optimize PDF loading speed and load animations
+    Fix bug:
+    Fix the issue of incorrect camera display size
+Version 1.0.2 (Apr 15, 2023)
+    1.0.2 Update Log:
+    New features:
+    1. When exporting a PDF file, the bookmarks created in the notes will be used as the outline of the PDF file. When collaborating with other software, you can also browse and quickly jump to the outline
+    2. When importing a PDF file, convert the outline of the PDF file into a bookmark at the same time
+    3. The perfect graphic fitting function has been added. Please switch the switch in the writing settings, and the default is on
+Version 1.0.1 (Apr 12, 2023)
+    Update log:
+    Optimization function: Optimize the interaction between text and pencil, allowing for the creation of text without the use of fingers or keyboard at all
+    New feature: Added quick page jump function. Click on the page number indicator to quickly jump by entering page numbers
+    Version:1.0.1
+Version 1.0.0 (Apr 10, 2023)
+
+Users may also like
+Select objects to compare
+Freenotes - Note Taking
+Notes+ : Note-taking app
+BoardNotes - Whiteboard & Note
+GUGA-超级白板
+XNote-infinite boards & notes
+Noteful: Note-Taking on PDF
+享做笔记
+Kilonotes-Notes & PDF reading
+NoteYebos
+Prodrafts
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.5.6
+    Current release
+    Feb 1, 2024
+    1.5.5
+    Jan 30, 2024
+    1.5.4
+    Jan 21, 2024
+    1.5.3
+    Jan 2, 2024
+    1.5.2
+    Dec 31, 2023
+    1.5.1
+    Dec 14, 2023
+    1.4.9
+    Dec 4, 2023
+    1.4.8
+    Nov 23, 2023
+    1.4.7
+    Nov 19, 2023
+    1.4.6
+    Nov 11, 2023
+    1.4.4
+    Oct 30, 2023
+    1.4.1
+    Oct 11, 2023
+    1.4.2
+    Oct 11, 2023
+    1.4.0
+    Oct 10, 2023
+    1.3.9
+    Sep 24, 2023
+    1.3.7
+    Sep 20, 2023
+    1.3.4
+    Sep 13, 2023
+    1.3.0
+    Aug 20, 2023
+    1.2.9
+    Aug 17, 2023
+    1.2.8
+    Aug 13, 2023
+    1.2.7
+    Jul 27, 2023
+    1.2.6
+    Jul 24, 2023
+    1.2.5
+    Jul 22, 2023
+    1.2.4
+    Jul 18, 2023
+    1.2.3
+    Jul 15, 2023
+    1.2.2
+    Jul 10, 2023
+    1.2.1
+    Jul 5, 2023
+    1.2.0
+    Jul 2, 2023
+    1.1.9
+    Jun 29, 2023
+    1.1.8
+    Jun 27, 2023
+    1.1.7
+    Jun 21, 2023
+    1.1.6
+    Jun 8, 2023
+    1.1.5
+    Jun 2, 2023
+    1.1.4
+    May 31, 2023
+    1.1.3
+    May 29, 2023
+    1.1.2
+    May 25, 2023
+    1.0.9
+    May 9, 2023
+    1.0.8
+    May 6, 2023
+    1.0.7
+    Apr 28, 2023
+    1.0.6
+    Apr 27, 2023
+    1.0.5
+    Apr 20, 2023
+    1.0.4
+    Apr 18, 2023
+    1.0.3
+    Apr 17, 2023
+    1.0.2
+    Apr 15, 2023
+    1.0.1
+    Apr 12, 2023
+    1.0.0
+    Apr 10, 2023
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Apr 10, 2023
+
+Worldwide Release Date
+    Apr 10, 2023
+
+Last Updated Time
+    Mar 6, 2024
+
+Version
+    1.5.6
+
+Size
+    48.91 mb
+
+Only 32 Bit
+    No
+
+Languages
+    日本語, アラビア語, イタリア語, インドネシア語, ウクライナ語, オランダ語, カタロニア語, ギリシャ語, スウェーデン語, スペイン語, スロバキア語, タイ語, チェコ語, デンマーク語, トルコ語, ドイツ語, ノルウェー語 (ブークモール), ハンガリー語, ヒンディー語, フィンランド語, フランス語, ヘブライ, ベトナム語, ポルトガル語, ポーランド語, マレー語, ルーマニア語, ロシア語, 簡体字中国語, 繁体字中国語, 英語, 韓国語
+
+Seller
+    Hangzhou Future Writing Technology Co.,LTD.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 14.0以降が必要です。iPhone、iPad、およびiPod touchに対応。
+
+Bundle ID
+    com.writefuture.orignotes
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6446162922
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+OrigNotes | data.ai

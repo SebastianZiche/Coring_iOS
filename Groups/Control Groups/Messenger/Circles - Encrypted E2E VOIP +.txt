@@ -1,0 +1,409 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Circles - Encrypted E2E VOIP +
+Gregory ContiSocial Networking (Applications)Free
+Alerts
+
+    Gregory Conti
+
+    Circles - Encrypted E2E VOIP +
+    Circles - Encrypted E2E VOIP +
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Circles - Encrypted E2E VOIP +
+Video Call, Messenger, GPS
+Social Networking (Applications)
+Free
+App Description
+Circles is a FREE App and cares about your Privacy !
+This App provides best in class end-to-end security and encryption on Voice and Video Calls, and for your Messages, Classifieds, Events and Location points.
+
+Claiming security compliance for Voice and Video VOIP with NIST SP800-56 rev3 C(2e,2s) and HKDF (RFC5869) standards and using AES128, HMAC256, ECDH128, ECDSA256.
+
+This App allows you to add contacts through the sharing of a so called 'public key' over the internet and bluetooth.
+
+This App allows you to cryptographically verify (out of band) that members are granted access to the same Circles than you. In addition, each Circle owner can distribute cryptographic Vouchers to their Members.
+
+Circles properties:
+When creating a Circle, you can select whether you are the only one allowed to add members to this Circle or if any other Circle member can add members to this Circle.
+In addition, you can select whether you are the only one allowed to send message, image and classifieds to the Circles, or if every member of the Circle is allowed to do so.
+
+Badging functionality:
+Each Circle can be used to allow people entering events, accessing services with voucher, attest of privileges of being in a Circle
+
+Voucher functionality:
+Circles owners can distribute cryptographic vouchers.
+
+Cloud:
+Circles is automatically synchronised on all your devices running under the same icloud account using iCloud keychain and iCloud drive.
+You can start a discussion on your iPhone, then continue it on your iPad, seamlessly.
+Thanks to End-to-End security, all messages, images, classifieds and GPS points can be securely stored outside of your devices, in Servers.
+This greatly minimise the storage consumption on your device while providing easy access to any of your device.
+Ratings
+Displayed Avg Ratings
+4.6
+Total Displayed Ratings
+5
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.68 (Jul 3, 2022)
+    As per Apple guidelines, added account deletion option and AppleID token revocation.
+Version 2.66 (Sep 5, 2021)
+    Bug fixes correction on Facebook Login
+Version 2.65 (Jun 1, 2021)
+    Bug fixes.
+Version 2.64 (Apr 18, 2021)
+    Bug fixes.
+Version 2.63 (Apr 11, 2021)
+    Bug fixes.
+Version 2.62 (Jan 17, 2021)
+    Bug fixes.
+Version 2.61 (Jan 15, 2021)
+    Bug fixes.
+Version 2.6 (Jan 13, 2021)
+    Bug fixes.
+Version 2.59 (Nov 30, 2020)
+    Bug fixes.
+Version 2.58 (Sep 29, 2020)
+    Bug fixes and IOS14 support.
+Version 2.57 (Aug 20, 2020)
+    Bugs correction !
+Version 2.56 (Aug 19, 2020)
+    Bugs correction !
+Version 2.55 (Jul 23, 2020)
+    Bugs correction !
+Version 2.54 (Jul 5, 2020)
+    You can now create your profile using Apple Sign In,
+    Bugs correction !
+Version 2.53 (May 17, 2020)
+    Bugs correction !
+Version 2.52 (May 13, 2020)
+    Bugs correction !
+Version 2.51 (Apr 14, 2020)
+    Added a Social Distancing feature ! you can now pair with your contacts by Bluetooth at few meters away :-)
+    The app is also available on the MACOS store !
+    + Bugfix
+Version 2.50 (Apr 13, 2020)
+    Added a Social Distancing feature ! you can now pair with your contacts by Bluetooth at few meters away :-)
+    The app is also available on the MACOS store !
+Version 2.49 (Feb 24, 2020)
+    A few bugs were corrected in this release !
+Version 2.48 (Feb 17, 2020)
+    A few bugs were corrected in this release !
+Version 2.47 (Feb 3, 2020)
+    Bandwidth improvement and bugs correction
+Version 2.46 (Jan 13, 2020)
+    Improved the contact description with fields for Linkedin, Facebook, Twitter, Soundcloud and more.
+Version 2.45 (Jan 4, 2020)
+    a few bugs were corrected in this version
+Version 2.44 (Dec 20, 2019)
+    A few bugs were corrected in this release.
+Version 2.43 (Dec 16, 2019)
+    Added the support of E2E Encrypted video and voice calls ! and it is all custom, best performance, best compression, best security !
+    Added the support of the Dark Mode 
+Version 2.4 (Oct 29, 2019)
+    iCloud integration has been improved !
+Version 2.3 (Oct 28, 2019)
+    A couple of bugs were corrected in this release
+Version 2.2 (Oct 25, 2019)
+    A couple of bugs were corrected in this release
+Version 2.1 (Oct 14, 2019)
+    a couple of bugs were corrected in this release
+Version 2.0 (Aug 7, 2019)
+    Added onboarding screens and improved the UI and UX
+Version 1.9 (Oct 17, 2018)
+    Thanks for using Circles!
+    This version supports all new IPhoneX models
+Version 1.8 (Sep 25, 2018)
+    Thanks for using Circles!
+    A few bugs corrected in this release.
+Version 1.6 (Sep 6, 2018)
+    Thanks for using Circles!
+    This new version is compliant with NIST SP800-56 rev3 C(1e,2s) and HKDF (RFC5869) cryptography specifications.
+    This new version allow sharing of documents up to 10MBytes!
+Version 1.5 (Sep 4, 2018)
+    Thanks for using Circles!
+    This new version is compliant with NIST SP800-56 rev3 C(1e,2s) and HKDF (RFC5869) cryptography specifications.
+    This new version allow sharing of documents up to 10MBytes!
+Version 1.4 (Aug 3, 2018)
+    Thanks for using Circles!
+    A few bugs corrected in this release...
+Version 1.3 (Jul 27, 2018)
+    Thanks for using Circles!
+    A few bugs corrected in this release...
+Version 1.2 (Jun 13, 2018)
+    Thanks for using Circles !
+    In this new release, a few bugs were corrected.
+Version 1.1 (Jun 7, 2018)
+    Thanks for using Circles !
+    The push notification architecture is improved and the UI is simplified.
+Version 1.0 (Apr 10, 2018)
+    Thanks for using Circles !
+    Added new languages and corrected typos...
+Version 0.9 (Mar 30, 2018)
+    Thanks for using Circles !
+    The new release corrects a few bugs and adds the French language.
+Version 0.8 (Feb 26, 2018)
+    Thanks a lot for using this application !
+    This new release corrects a few bugs in the live location function.
+    Also, this application is EU GDPR ready !
+Version 0.7 (Jan 31, 2018)
+    Thanks a lot for using Circles!
+    This new release correct a few bugs related to contacts display.
+Version 0.6 (Dec 18, 2017)
+    Thanks a lot for using Circles!
+    This new release allows adding contacts using QR codes!
+Version 0.5 (Dec 15, 2017)
+    Thanks a lot for using Circles !
+    A few bugs were corrected in this new release related to contact addition.
+Version 0.4 (Dec 9, 2017)
+    Thanks a lot for using Circles !
+    A few bugs were corrected in this new release
+Version 0.3 (Dec 3, 2017)
+
+Users may also like
+Select objects to compare
+Landa Messenger
+Crypty - Secure communications
+Crypviser Secure Messenger
+Biocoded
+BabelApp - Encrypted Messaging
+Biocoded Private
+CryptTalk
+Grapherex - Secure Messenger
+VRApp
+Doot Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.68
+    Current release
+    Jul 3, 2022
+    2.66
+    Sep 5, 2021
+    2.65
+    Jun 1, 2021
+    2.64
+    Apr 18, 2021
+    2.63
+    Apr 11, 2021
+    2.62
+    Jan 17, 2021
+    2.61
+    Jan 15, 2021
+    2.6
+    Jan 13, 2021
+    2.59
+    Nov 30, 2020
+    2.58
+    Sep 29, 2020
+    2.57
+    Aug 20, 2020
+    2.56
+    Aug 19, 2020
+    2.55
+    Jul 23, 2020
+    2.54
+    Jul 5, 2020
+    2.53
+    May 17, 2020
+    2.52
+    May 13, 2020
+    2.51
+    Apr 14, 2020
+    2.50
+    Apr 13, 2020
+    2.49
+    Feb 24, 2020
+    2.48
+    Feb 17, 2020
+    2.47
+    Feb 3, 2020
+    2.46
+    Jan 13, 2020
+    2.45
+    Jan 4, 2020
+    2.44
+    Dec 20, 2019
+    2.43
+    Dec 16, 2019
+    2.4
+    Oct 29, 2019
+    2.3
+    Oct 28, 2019
+    2.2
+    Oct 25, 2019
+    2.1
+    Oct 14, 2019
+    2.0
+    Aug 7, 2019
+    1.9
+    Oct 17, 2018
+    1.8
+    Sep 25, 2018
+    1.6
+    Sep 6, 2018
+    1.5
+    Sep 4, 2018
+    1.4
+    Aug 3, 2018
+    1.3
+    Jul 27, 2018
+    1.2
+    Jun 13, 2018
+    1.1
+    Jun 7, 2018
+    1.0
+    Apr 10, 2018
+    0.9
+    Mar 30, 2018
+    0.8
+    Feb 26, 2018
+    0.7
+    Jan 31, 2018
+    0.6
+    Dec 18, 2017
+    0.5
+    Dec 15, 2017
+    0.4
+    Dec 9, 2017
+    0.3
+    Dec 3, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Dec 3, 2017
+
+Worldwide Release Date
+    Dec 3, 2017
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    2.68
+
+Size
+    6.63 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Greek, Italian, Portuguese, Russian, Simplified Chinese, Spanish
+
+Seller
+    Gregory Conti
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    Badges.Circles
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1290687039
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Circles - Encrypted E2E VOIP + | data.ai

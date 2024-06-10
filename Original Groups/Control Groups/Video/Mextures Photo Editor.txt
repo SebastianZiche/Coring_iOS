@@ -1,0 +1,598 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Mextures Photo Editor
+Merek DavisPhoto and Video (Applications)$1.99
+Alerts
+
+Mextures
+Mextures Photo Editor
+Mextures Photo Editor
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Mextures Photo Editor
+Overlays Textures & Filters
+Photo and Video (Applications)
+$1.99
+App Promotional Text
+For a limited time - Get the X-Film Overlay Pack for FREE!
+App Description
+AppStore App of the year winner. Featured by Cosmopolitan Magazine, Men's Journal, Mashable, CNET, Uncrate, Cult of Mac, Fstoppers, AppAdvice, and more.
+
+Mextures is the best app for applying dust and film grain, textures, light leaks and beautiful gradients to your images in seconds. No app is faster. And with our non-destructive workflow, you can make changes to your layers at any time during your editing process. Fine-tune your edits with photo adjustments and then save and share your edit for future use. Included are over 200 beautiful formulas for 1-click editing created by some of the top iPhone photographers in the world.
+
+- OVER 150 TEXTURES -
+You'll find analog light leaks, dusty film scans, tasteful grunge, artifacts, element textures, and perfectly tuned gradients. Effect too strong? Easily adjust the opacity. With 12 different blending modes, every new layer adds a dynamic range of possibilities.
+
+- EDITING TOOLS: PERFECTED -
+Overcomplicated adjustments are for the birds. Adjust your photos with professional-grade tools like Exposure, Contrast, Tint, White Balance, Fade, Black and White, Highlights/Shadows, Sharpness, and Saturation. Included are 30 film presets that emulate popular film stocks.
+
+- CREATE & SHARE -
+Unlike any other app, you can save your edits for future use with our Formula workflow. Save and share as many formulas as you’d like and evolve a style that’s completely yours. And new in Mextures 2.0, our formula manager allows you to import formulas from other users. With a tap of a button, you can also share your formulas with a simple code on any social network.
+
+- INFINITE LAYERS -
+Stack a virtually unlimited number of layers for beautiful blending effects. You can change any edit you do at any time. Change the texture, blend mode, or rotation of a layer even if you added it 30 steps ago. Tweak each adjustment setting anytime during your editing process.
+
+Tag your images in with #Mextures on Instagram.
+
+mextures.com
+instagram.com/mextures
+Ratings
+Displayed Avg Ratings
+3.7
+Total Displayed Ratings
+729
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.9.2 (Feb 1, 2023)
+    Fixed a very annoying bug where the photo library would show up out of order.
+
+    Other minor bug fixes and improvements.
+
+    Thanks for continuing to support us! Please reach out if you have any questions or suggestions.
+Version 2.9.1 (Apr 29, 2021)
+    Fixes and improvements for our top issues.
+
+    * Fixed Crash when selecting the "Imported Formulas Pack"
+    * Fixed Crash when accessing the store
+    * Fixed paid packs not downloading correctly
+    * Fixed "Restore All" now working correctly.
+Version 2.9.0 (Sep 19, 2020)
+    Massive Under-The-Hood Update!
+    * iOS 14 Support
+    * We rebuilt our image processing engine from the ground up. Image issues and crashes are..... *poof* ....gone.
+    * Our photo picker has been rebuilt to handle larger libraries. No more lagging while scrolling or selecting images.
+    * We've optimized the app. Scrolling should be smooth like peanut butter.
+    * Presets now work better and Formulas apply quicker to images.
+
+    Thanks for your support and your patience! We are finishing new textures, texture packs, and brand new presets coming soon that we know you're going to love.
+Version 2.8.1 (Jan 26, 2019)
+    New Formula Pack: Mood Magic
+    - 24 new formulas that add a variety of unique color tones, subtle accents, and mood. You can find this pack in the Formulas Tab after importing an image.
+
+    iPad & iPhone Xs Max layout fixes.
+Version 2.8.0 (Jan 22, 2019)
+    New Formula Pack: Mood Magic
+    - 24 new formulas that add a variety of unique color tones, subtle accents, and mood!
+
+    iPad & iPhone Xs Max layout fixes.
+Version 2.7.0 (Oct 11, 2018)
+    This is an interface update for the new iPhones and small content update! We've been working on a massive content release but wanted to address some critical issues and bugs. Full details listed below:
+
+    Updated interface for iPhone X, Xs, and Xs Max
+    Updated News Section
+
+    New/Updated Content:
+    2 new Grit & Grain textures & 2 new Light Leak overlays
+    2 New Formula Packs: Community Pack 1 & Universal Formulas Pack
+    New Guest Formula Pack from Allison Ferris
+
+    Bug fixes-
+    Export resolution bug fix, especially for newer devices running on iOS 12
+    Slowness on devices when editing & applying formulas
+    Fixed some strange texture renderings
+    Support link bug fixes
+    Share Sheet fixes
+    Other improvements and fixes
+
+    Thanks for all of your continued support! If you feel so inclined, we appreciate reviews on the App Store. Please follow us on Instagram at @mextures!
+Version 2.5.3 (Mar 29, 2017)
+    New Guest Formula Pack from @521Gemini full of moody tones!
+
+    Fixed export bug for Edison texture in Emulsion Pack.
+
+    Minor bug fixes.
+
+    Thanks for all of your continued support! If you feel so inclined, we’d love it if you left a review on the App Store letting others know your experience! Follow us on Instagram at @mextures and @merekdavis for all of the latest Mextures news, or to get in touch with us directly about any questions. Thanks again!
+Version 2.5.2 (Feb 9, 2017)
+    Bug fixes and general improvements to the app. Specific fix - lag while editing or exporting.
+Version 2.5.1 (Jan 24, 2017)
+    Touch image to preview before/after while editing! Yay!
+
+    Fixed crashing for some users when scrolling or selecting images in Library. Yay!
+
+    Fixed export crashing on some devices. Yay!
+
+    Fixed artifacts with Atmospheric Pack/Hard Light Blending mode on images with 100% white pixels.
+
+    Fixed color tone issues with Seattle, Portland, and Painterly textures on export. YAY!
+
+    Thanks for all of your continued support! We have more exciting updates planned. If you feel so inclined, we’d love it if you left a review on the App Store. Make sure follow us on Instagram at @mextures and @merekdavis for all of the latest Mextures news or to get in touch with us directly about any questions. Thanks again!
+Version 2.5.0 (Dec 20, 2016)
+    -Beautiful new Guest Formula pack from @r.uthy & other Guest Pack tweaks.
+    -Fixed some pretty annoying bugs and crashes.
+    -Optimized the photo picker. Ultra super fantastic optimized now!
+    -Under-the-hood tweaks for upcoming features.
+
+    Thanks for all of your continued support!  We have more exciting updates planned.  If you feel so inclined, we’d love it if you left a review on the App Store. Make sure follow us on Instagram at @mextures and @merekdavis for all of the latest Mextures news or to get in touch with us directly about any questions. Thanks again!
+Version 2.4.0 (Sep 8, 2016)
+    We had to update the server used for storing shared formulas. As a result, you will need to update to Mextures 2.4.0 in order to import new formulas. Yes, this is mandatory. We're sorry for any inconvenience, but on the plus side, importing formulas should feel a little more snappy.
+
+    Bug fix where Photo Picker was showing iCloud images out of order.
+
+    Minor tweaks and bug fixes.
+
+    Thanks for all of your continued support! We have more exciting updates planned. If you feel so inclined, we’d love it if you left a review on the App Store and make sure follow us on Instagram at @mextures and @merekdavis for all of the latest Mextures news, or to get in touch with us directly about any questions. Thanks again!
+Version 2.3.2 (Jul 26, 2016)
+    -2 new Guest Formula packs - Ellie Pritts and Tony Detroit!
+    -Changed customer support "Contact Us” action.
+    -Fixed a crash when sharing on iPad or using the camera on iPad
+    -Bug removing EXIF Data has been fixed!
+
+    Thanks for all of your continued support! We have more exciting updates planned. If you feel so inclined, we’d love it if you left a review on the App Store and make sure follow us on Instagram at @mextures and @merekdavis for all of the latest Mextures news, or to get in touch with us directly about any questions. Thanks again!
+Version 2.3.1 (Jun 9, 2016)
+    Fixed the bug where images went missing in the Library Picker
+
+    New film presets & interface in adjustments
+    -We are pretty excited about this! Your image is now shown with the film preset applied to the thumbnail. No more guessing how the preset will look on your photos.
+    -5 New Film Presets. More subtle and focused on slight film shifts.
+
+    New custom library picker
+    -Easier navigation and browsing through your images and albums.
+
+    2 new texture packs In the store
+    -Dust & Dirt - Subtle grunge pack to add a weathered/water damaged effect to your photos.
+    -Light Leaks 4 - Includes a diverse range of colorful light leaks. Great for color toning/adding artifacts.
+
+    Added 3D Touch to home screen icon (for 6s, 6s+ users)
+    -Quickly add formulas, edit from your library and check the news feed right from your home screen.
+
+    Added an FAQ section to the settings as well as a new easy way to get in touch with support.
+
+    Small visual changes/improvements and bug fixes to the app.
+Version 2.3.0 (May 25, 2016)
+    New film presets & interface in adjustments
+    -We are pretty excited about this! Your image is now shown with the film preset applied to the thumbnail. No more guessing how the preset will look on your photos.
+    -5 New Film Presets. More subtle and focused on slight film shifts.
+
+    New custom library picker
+    -Easier navigation and browsing through your images and albums.
+
+    2 new texture packs In the store
+    -Dust & Dirt - Subtle grunge pack to add a weathered/water damaged effect to your photos.
+    -Light Leaks 4 - Includes a diverse range of colorful light leaks. Great for color toning/adding artifacts.
+
+    Added 3D Touch to home screen icon (for 6s, 6s+ users)
+    -Quickly add formulas, edit from your library and check the news feed right from your home screen.
+
+    Added an FAQ section to the settings as well as a new easy way to get in touch with support.
+
+    Small visual changes/improvements and bug fixes to the app.
+Version 2.2.1 (Aug 4, 2015)
+    What's New:
+    • Crash fixed that was affecting users who edit large images/DSLR images.
+    • Store improvements including easier pack restore!
+    • Interface/layout improvements
+    • Bug fixes
+
+    Thanks for all of your continued support!  We have more exciting updates planned.  If you feel so inclined, we’d love it if you left a review on the App Store and make sure follow us on Instagram at @mextures and @merekdavis for all of the latest Mextures news, or to get in touch with us directly about any questions. Thanks again!
+Version 2.2.0 (Jun 17, 2015)
+    It’s here!
+
+    What’s New:
+    *Universal Mextures is now on the iPad as a universal app with the release of 2.2.  Edit your photos on that big beautiful screen of yours at a high resolution.
+
+    *Updated interface resolution for 6 and 6+ devices. We recreated every icon for retina devices and updated some icons and pack thumbs.  Everything looks so much better, crispier, and more detailed.  Your eyes will thank you.
+
+    What’s Fixed:
+    *Crash bug on devices running iOS 6.x 
+    *Downloads from store getting stuck in a space time warp forever and ever.
+    *Other bug fixes and app perfermoance improvements
+
+    Thanks for all of your continued support!  We have more exciting updates planned.  If you feel so inclined, we’d love it if you left a review on the App Store and make sure follow us on Instagram at @mextures and @merekdavis for all of the latest Mextures news, or to get in touch with us directly about any questions. Thanks again!
+Version 2.1.1 (Mar 30, 2015)
+    2.1.1 addresses bug fixes for the store
+
+    What's New in 2.1:
+    - Live Editing! See your changes in realtime as you adjust the opacity of layers and adjustment strengths. The large numbers that covered your beautiful pictures are gone so you can see your changes.
+    - Introducing the Mextures Store: New Textures and formulas delivered directly in the app. We’re launching with five new products and more to come (both free and paid): X-Film Bundle, Anomaly Bundle, Intensity Bundle, Atmospheric Bundle and The Outfitters Formula Pack. As a way to say “thanks” to all of you, we are giving away one of the new bundles and the Outfitters Formula Pack for free. Each of the bundles includes a brand new texture pack coupled with a brand new formula pack!
+    - Redesigned News Section.
+    - Slightly redesigned home screen for easier navigation.
+
+    What’s Fixed:
+    - Performance improvements/enhancements.
+    - Bug/crash fixes.
+
+    What’s Planned:
+    - Updated interfaces for iPhone 6, iPhone 6+
+    - Other exciting features coming
+
+    Thanks for all of your continued support! If you feel so inclined, please leave a review on the App Store and make sure follow us on Instagram at @mextures and @merekdavis for all of the latest Mextures news, or to get in touch with us directly about any questions. Thanks again!
+Version 2.1.0 (Mar 25, 2015)
+    What's New:
+    - Live Editing! See your changes in realtime as you adjust the opacity of layers and adjustment strengths. The large numbers that covered your beautiful pictures are gone so you can see your changes.
+    - Introducing the Mextures Store: New Textures and formulas delivered directly in the app. We’re launching with five new products and more to come (both free and paid): X-Film Bundle, Anomaly Bundle, Intensity Bundle, Atmospheric Bundle and The Outfitters Formula Pack. As a way to say “thanks” to all of you, we are giving away one of the new bundles and the Outfitters Formula Pack for free. Each of the bundles includes a brand new texture pack coupled with a brand new formula pack!
+    - Redesigned News Section.
+    - Slightly redesigned home screen for easier navigation.
+
+    What’s Fixed:
+    - Performance improvements/enhancements.
+    - Bug/crash fixes.
+
+    What’s Planned:
+    - Updated interfaces for iPhone 6, iPhone 6+
+    - Other exciting features coming
+
+    Thanks for all of your continued support! If you feel so inclined, please leave a review on the App Store and make sure follow us on Instagram at @mextures and @merekdavis for all of the latest Mextures news, or to get in touch with us directly about any questions. Thanks again!
+Version 2.0.3 (Sep 17, 2014)
+    We're just as excited for iOS 8 as you are, so we cleaned up the code and optimized Mextures to run perfect on iOS8 Devices.
+
+    What's New:
+    - iOS 8 bug fixes
+    - Performance improvements/enhancements
+    - Bug fixes for other iOS versions.
+
+    We have an exciting update coming soon for Mextures that we think will blow your mind. Stay tuned!
+
+    Thanks for all your continued support! If you feel so inclined, please leave a review, and make sure follow us on Instagram at @mextures and @merekdavis for all the latest Mextures news, or to get in touch with us about any questions. Thanks again!
+Version 2.0.2 (Jun 2, 2014)
+    2.0.2 -
+    Minor graphic improvements
+    Fixed layer re-ordering bug
+
+    2.0.1 -
+    New:
+    - Landscape Formula Pack with 13 beautiful formulas created by winners from the Landscape Formula Contest
+
+    Bug Fixes:
+    - 4/4s crash issues
+    - TIFF exporting issue
+    - Burst mode export issue
+    - Other general performance/crash fixes
+
+    Thank you for an incredible 2.0 release! If you enjoy Mextures, please leave us a review and also let us know what you think on Instagram at @mextures or @merekdavis.
+Version 2.0.1 (May 29, 2014)
+    New:
+    - Landscape Formula Pack with 13 beautiful formulas created by winners from the Landscape Formula Contest
+
+    Bug Fixes:
+    - 4/4s crash issues
+    - TIFF exporting issue
+    - Burst mode export issue
+    - Other general performance/crash fixes
+
+    Thank you for an incredible 2.0 release! If you enjoy Mextures, please leave us a review and also let us know what you think on Instagram at @mextures or @merekdavis.
+Version 2.0.0 (Apr 9, 2014)
+    2.0 Release!
+
+    New Formula Sharing!
+    - Manage and share your formulas, and import formulas from others with our new Formula Manager
+
+    New Polish
+    - Finish your edits with Polish which includes: 25 film presets, exposure, contrast, black and white, saturation, fade, white balance, tint, shadow/highlight, and sharpen
+
+    New Textures
+    - Updates to existing packs with 47 new hand-picked textures including a gorgeous new Light Leaks 3 texture pack
+
+    Updated Formulas
+    - New Guest Formulas: 17 total guest contributors for over 130 formulas.
+    - New Formula Packs: Black and White, Destroyed Film, Winter and Spring packs
+
+    Graphic overhaul of the app for a more refined and visually enjoyable UI
+
+    Faster processing of images
+
+    Tons of bug fixes
+
+    Thank you all so much for your continued support! If you enjoy this update, we would love if you left a review! As always you can reach us personally on Instagram @merekdavis or at @mextures. Keep tagging #mextures!
+Version 1.6 (Nov 4, 2013)
+    Fixes to the camera library!
+    Your newest photos are displayed first instead of the oldest.
+
+    NEW Fall Formula Pack!
+    12 new warm and vivid formulas created by the Mextures community that are perfect for your autumn imagery.
+
+    Various bugs squashed and screws tightened within the app.
+
+    As always, thank you for your continued support! We have some really fun enhancements planned for an upcoming release. We also appreciate the feedback/reviews. Please do not hesitate to contact us directly on Instagram - @mexturesapp, @merekdavis.
+Version 1.5 (Oct 15, 2013)
+    - Graphic overhaul for iOS7
+    New Icon
+    New revamped home screen
+    Larger text for opacity slider
+    Other iOS UI enhancements.
+
+    - New inspiration feed design
+    We now have larger/higher resolution images in the feed.
+
+    - iOS 7 bugs squashed.
+
+    As always, we appreciate the reviews/ratings you leave for us. Be sure to follow us on Instagram for the latest updates and sneak peaks: @MexturesApp & @MerekDavis (That's also a great way to reach us personally for any questions!)
+Version 1.4 (Aug 30, 2013)
+    - New Free Mextures Pack -
+    The Radiance Pack, with 11 new Mextures, is what would happen if gradients and light leaks had a baby. Soft clean glows and vivid tones that will change the mood and vibe of any picture. They work great with any type of picture.
+
+    - We've added a button to show the original image while you're editing! You can use it while browsing through formulas as well as in the Layers tab.
+
+    - Various bugs squashed and things fixed.
+
+    Please be sure to rate Mextures if you are enjoying it and for the latest news and contests, follow us on Instagram: MexturesApp and MerekDavis. Thanks for all your support! We're hard at work on the next update!
+Version 1.3 (Aug 13, 2013)
+    We finally fixed the saving of EXIF data and Geolocation once and for all. Your edits within Mextures will retain all geolocation and EXIF data. We're sorry for the mixup.
+
+    We also crushed a bunch of crash issues and squashed a ton of bugs in this update. You should see Mextures running smoother than ever.
+
+    If you do happen to have a crash, please contact me directly at hello@mextures.com, so we can squash it together.
+
+    Thanks so much for all your support and incredible fedback!
+Version 1.2 (Jul 7, 2013)
+    - Images edited in Mextures now retain EXIF data when exported!
+
+    - We added a new Summer Formula Pack full of 9 subtle, soft and warm edits.
+
+    - An all new Guest Formula Pack!
+
+    - You can now browse all Guest Formulas at once! You'll see the button under the Guest Formulas section.
+
+    - A few under-the-hood enhancements/tweaks.
+
+    Be sure to keep tagging your images with #Mextures on Instagram, Facebook and Twitter for a chance to get featured on our inspiration page!
+Version 1.1 (Jun 12, 2013)
+    What the Crop?!
+    * Having pixels taken away is no fun. We added the option to edit your photos non-cropped in full resolution. Just select "Don't Crop" on the Crop Screen and voila! No more square photos!
+
+    Coming Soon:
+    *Retain EXIF/Geolocation info on export.
+    *More fun updates!
+
+    Note: We know of a crash bug haunting 4g iPod Touches. We're working to get this fixed as quick as possible! Thanks for being patient. For other users experiencing a crash, please restart your phone. If you still experience an issue please contact us directly at help@mextures.com
+Version 1.0 (May 26, 2013)
+
+Users may also like
+Select objects to compare
+Distressed FX
+TinType by Hipstamatic
+Distressed FX : Plus
+Image Blender
+Classic Camera by Hipstamatic
+Dramatic Black & White
+SKRWT
+iColorama S
+Even Longer
+LensLight Visual Effects
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+39 times
+on App Store category pages
+Versions
+
+    2.9.2
+    Current release
+    Feb 1, 2023
+    2.9.1
+    Apr 29, 2021
+    2.9.0
+    Sep 19, 2020
+    2.8.1
+    Jan 26, 2019
+    2.8.0
+    Jan 22, 2019
+    2.7.0
+    Oct 11, 2018
+    2.5.3
+    Mar 29, 2017
+    2.5.2
+    Feb 9, 2017
+    2.5.1
+    Jan 24, 2017
+    2.5.0
+    Dec 20, 2016
+    2.4.0
+    Sep 8, 2016
+    2.3.2
+    Jul 26, 2016
+    2.3.1
+    Jun 9, 2016
+    2.3.0
+    May 25, 2016
+    2.2.1
+    Aug 4, 2015
+    2.2.0
+    Jun 17, 2015
+    2.1.1
+    Mar 30, 2015
+    2.1.0
+    Mar 25, 2015
+    2.0.3
+    Sep 17, 2014
+    2.0.2
+    Jun 2, 2014
+    2.0.1
+    May 29, 2014
+    2.0.0
+    Apr 9, 2014
+    1.6
+    Nov 4, 2013
+    1.5
+    Oct 15, 2013
+    1.4
+    Aug 30, 2013
+    1.3
+    Aug 13, 2013
+    1.2
+    Jul 7, 2013
+    1.1
+    Jun 12, 2013
+    1.0
+    May 26, 2013
+
+See More
+Top In-App Purchases
+
+    Dust and Dirt
+    $0.99
+    Light Leaks 4
+    $0.99
+    X-Film Bundle
+    $0
+    Outfitter Formula Pack
+    $0
+    Intensity Bundle
+    $0.99
+    Atmospheric Bundle
+    $0.99
+    Anomaly Bundle
+    $1.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    May 30, 2013
+
+Worldwide Release Date
+    May 30, 2013
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    2.9.2
+
+Size
+    164.54 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    MEREK DAVIS COM, LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.merekdavis.Mextures
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 650415564
+Unified App ID: 1000600000436675
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Mextures Photo Editor | data.ai

@@ -1,0 +1,15 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.2.12,2023-10-09,General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.2.10,2023-03-12,General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.2.9,2023-02-17,General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.2.8,2022-08-23,Updated translations General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.2.6,2022-05-31,Updated translations General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.2.4,2021-10-07,Improved CSV Import Improved Markdown Export Updated translations General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.2.3,2021-08-19,Updated translations General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.2.2,2021-07-27,Updated translations General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.2.0,2021-07-21,Updated translations General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.1.0,2021-06-11,You can now purchase a plus subscription from within the app.
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.0.6,2021-05-17,Updated translations General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.0.5,2021-05-08,Updated translations General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.0.4,2021-04-10,Fixed floating keyboard issue Updated translations General bug fixes and improvements
+1550821153,0,Hypernotes by Zenkit,Productivity,2021-03-09,2021-03-09,43.05,2,0,0,1,1.0.3,2021-03-31,Added help dialog Added syntax highlighting for code blocks Fixed showing inline tasks in blocks Updated translations General bug fixes and improvements

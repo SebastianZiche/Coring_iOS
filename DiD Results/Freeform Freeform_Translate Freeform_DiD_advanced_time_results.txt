@@ -1,0 +1,30 @@
+                              OLS Regression Results                             
+=================================================================================
+Dep. Variable:     log_updates_per_month   R-squared:                       0.586
+Model:                               OLS   Adj. R-squared:                  0.526
+Method:                    Least Squares   F-statistic:                     33.08
+Date:                   Fri, 07 Jun 2024   Prob (F-statistic):           1.28e-44
+Time:                           22:59:19   Log-Likelihood:                -722.67
+No. Observations:                   3632   AIC:                             2371.
+Df Residuals:                       3169   BIC:                             5241.
+Df Model:                            462                                         
+Covariance Type:                 cluster                                         
+===============================================================================================
+                                  coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------
+Intercept                       1.2311      0.336      3.664      0.000       0.573       1.890
+affected                        1.1546      0.060     19.229      0.000       1.037       1.272
+after_entry                     0.0489      0.017      2.843      0.004       0.015       0.083
+affected:after_entry           -0.0536      0.026     -2.076      0.038      -0.104      -0.003
+log_elapsed_avg_days           -0.1529      0.048     -3.182      0.001      -0.247      -0.059
+==============================================================================
+Omnibus:                      381.806   Durbin-Watson:                   2.082
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1489.954
+Skew:                           0.470   Prob(JB):                         0.00
+Kurtosis:                       5.994   Cond. No.                     2.39e+16
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+[2] The smallest eigenvalue is 3.44e-28. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

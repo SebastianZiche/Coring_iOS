@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+376510438,1000600000002722,Hulu Watch TV shows movies,Entertainment,2011-09-01,2010-06-29,83.29,1,1,0,1,1,0,1,0,0,0,0,0,0,0,month_1,0,0,4400,4505.0
+376510438,1000600000002722,Hulu Watch TV shows movies,Entertainment,2011-09-01,2010-06-29,83.29,1,1,0,1,0,0,0,1,0,0,0,0,0,0,month_2,0,0,4430,4505.0
+376510438,1000600000002722,Hulu Watch TV shows movies,Entertainment,2011-09-01,2010-06-29,83.29,1,1,0,1,1,0,0,0,1,0,0,0,0,0,month_3,0,0,4460,4505.0
+376510438,1000600000002722,Hulu Watch TV shows movies,Entertainment,2011-09-01,2010-06-29,83.29,1,1,0,1,1,0,0,0,0,1,0,0,0,0,month_4,0,0,4490,4505.0
+376510438,1000600000002722,Hulu Watch TV shows movies,Entertainment,2011-09-01,2010-06-29,83.29,1,1,0,1,1,0,0,0,0,0,1,0,0,0,month_5,0,1,4520,4505.0
+376510438,1000600000002722,Hulu Watch TV shows movies,Entertainment,2011-09-01,2010-06-29,83.29,1,1,0,1,1,0,0,0,0,0,0,1,0,0,month_6,0,1,4550,4505.0
+376510438,1000600000002722,Hulu Watch TV shows movies,Entertainment,2011-09-01,2010-06-29,83.29,1,1,0,1,1,0,0,0,0,0,0,0,1,0,month_7,0,1,4580,4505.0
+376510438,1000600000002722,Hulu Watch TV shows movies,Entertainment,2011-09-01,2010-06-29,83.29,1,1,0,1,2,0,0,0,0,0,0,0,0,1,month_8,0,1,4610,4505.0

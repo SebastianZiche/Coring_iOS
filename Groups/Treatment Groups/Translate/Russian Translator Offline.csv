@@ -1,0 +1,20 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.14.18,2022-12-16,Fix a crash when using voice translation on iOS 16
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.13.96,2022-04-17,fix the blank screen bug when app resumes from background
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.13.95,2022-04-10,iOS 15 full support Bug fixes
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.13.12,2019-12-12,iOS13 fully support Offline Translation for Premium Users Fix some UI bugs and deprecated APIs
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.12.54,2019-02-19,move search box back to top fix bugs related to Ads upgrade In app purchase code if you lose your Premium upgrade please try Restore Previous Purchases
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.12.44,2019-01-04,bugfix: translate long sentence did not work move search box to bottom easier for one hand use auto height multi line search box add monthly yearly subscription options for Premium upgrade
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.12.09,2018-08-07,multi selection supported fix bug related to iOS 11 navigation bar height other bugfixes improvements
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.11.62,2018-02-06,fix layout for iPhone X
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.11.50,2017-10-13,remove annoying popup when translating
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.11.45,2017-09-29,iOS 11 optimizations
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.11.18,2017-06-24,bugfixes improvements
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.9.53,2016-06-30,bug fixes new icon
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.9.42,2016-06-03,bugfixes improvements
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.8.7,2015-12-07,add offline dictionary new UI
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.7.9,2015-11-11,Improve UI
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.7.8,2015-10-23,Bug fixes
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.7.5,2015-10-17,Fix bug: Translator is not available Support iPad multitasking Better UI
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.5.7,2015-08-20,Favorites Improve UI
+992809772,0,Russian Translator Offline,Reference,2015-05-15,2015-05-15,190.57,3,0,0,1,12.2.0,2015-05-15,

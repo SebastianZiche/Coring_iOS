@@ -1,0 +1,378 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Distressed FX
+Distressed FXPhoto and Video (Applications)$0.99
+Alerts
+
+Distressed FX
+Distressed FX
+Distressed FX
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Distressed FX
+Photo Filters & Textures
+Photo and Video (Applications)
+$0.99
+App Description
+Creating gorgeous artwork from your photos has never been easier. With Distressed FX, simply take a photo and choose from a wide range of textured images and overlays. Transform even the most mundane photo into a work of art.
+
+See our hashtag #distressedFX on Instagram to see 100k+ examples!
+
+** Featured by Mac Format and Black + White Photography Magazine
+
+Join us at:
+www.facebook.com/DistressedFX
+www.instagram.com/distressedfxapp/
+
+• Particularly suited to still life and landscape photography - this app will perfectly compliment your existing collection of photo apps.
+
+Distressed FX is powered by the textures of Cheryl Tarrant, a texture artist from Tennessee. Her popular and unique style is now available in your pocket, wherever you go.
+
+• Follow Cheryl on Instagram http://instagram.com/distressedfxapp
+• Be our friend on Facebook www.facebook.com/DistressedFX
+• Follow us on Twitter : @distressedfx
+
+See examples of the Cheryl's distinctive work here: www.flickr.com/photos/jewellofdistressed/
+
+** Find out more about Distressed Textures at www.distressedfx.com & www.distressedtextures.com
+
+Distressed FX (tm) is a trademark of Cheryl Tarrant in the United States of America.
+Ratings
+Displayed Avg Ratings
+4.75
+Total Displayed Ratings
+15.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.2.1 (Jul 2, 2022)
+    Maintenance update
+    Improved reporting
+    Updated terms and conditions
+Version 2.2 (Feb 22, 2022)
+    NEW Texture Pack - Dramatic Palette
+    NEW Bird Pack - With Wings
+Version 2.1.3 (Aug 6, 2021)
+    Minor bug fixes and error handling
+Version 2.1.2 (Jul 7, 2021)
+    Fixes some issues a small number of users experienced with restoring purchases. Please contact us at www.distressedfx.com/help if your experience any further issues.
+Version 2.1.1 (Apr 11, 2021)
+    Sharper image preview
+    Fixed some minor bugs
+    Translations to Chinese, Japanese and Korean languages
+Version 2.1 (Mar 29, 2021)
+    Now with touch and portrait mode depth masking.
+    Improved export resolution.
+    And more!
+Version 2.0.9 (Oct 2, 2019)
+    Update to improve compatibility with iOS 13
+Version 2.0.8 (Jan 29, 2019)
+    New filter pack "Box of colours"
+    Improved image cropping
+    Fixed vertical distortion of some higher resolution images
+Version 2.0.7 (Oct 13, 2018)
+    New Pack - Vintage Collection
+    Better support for iPhones without physical home button
+Version 2.0.6 (May 26, 2018)
+    New FREE filter "Blithe"
+    New overlay pack - Beyond Skies
+    Fixed bug with oversized images getting skewed
+Version 2.0.5 (Mar 6, 2018)
+    New Texture Pack "Painterly Grunge"
+    UI Improvements
+Version 2.0.4 (Nov 20, 2017)
+    New Bird Pack
+    iPhone X Support
+Version 2.0.3 (Jul 11, 2017)
+    New Tree Pack "Spirit of the Trees"
+Version 2.0.2 (May 17, 2017)
+    Custom filter returns (Located in the default Overlay pack)
+    Bug Fixes
+Version 2.0.1 (Apr 3, 2017)
+    This is a bug fix release - new features (and some old friends) will appear soon.
+    Pack picker given a title to make it clearer you choose your current pack from that screen.
+    Image Picker now works in Landscape (iPad).
+    Rotation bug in iPad fixed.
+    Fixed crash on iPad image cropper constrain button.
+Version 2.0 (Mar 24, 2017)
+    Full native 12mp resolution support
+    Birds / Silhouettes can be moved and resized
+    Many Many more Textures, Overlays and Birds
+    Gallery of user Images from around the world, use our hashtag #distressedfx and join them
+    Please Note: Birdpack1 is now known as "Uncaged Birds" (Tapping 'restore' will download the new pack)
+Version 1.4.0 (Aug 6, 2014)
+    Bird Pack added as an in app purchase
+    Select the Birds filter -> popup picker to choose a birds -> button at the top of the picker says "Get more birds".
+    New and improved textures and gels
+Version 1.3.0 (Apr 9, 2014)
+    Cleaner UI
+    You asked for more birds - You got them!!
+    Plus - More filters and overlays
+    Dropbox support returns
+Version 1.2.2 (Oct 4, 2013)
+    iOS 7 Support
+Version 1.2.1 (Aug 15, 2013)
+    Fixed social permissions bug that caused crashes
+    MORE filters!
+    MORE Birds!
+    Ability to make your own custom textured filters
+    Ability to flatten layers in app - with a long press
+    Faster sharing to Facebook and Twitter
+    Various improvements and bug fixes
+    Now only supports iOS 6.1 and above
+    New features: http://youtu.be/DAQUJxcOpko
+Version 1.2 (Aug 13, 2013)
+    MORE filters!
+    MORE Birds!
+    Ability to make your own custom textured filters
+    Ability to flatten layers in app - with a long press
+    Faster sharing to Facebook and Twitter
+    Various improvements and bug fixes
+    Now only supports iOS 6.1 and above
+    New features: http://youtu.be/DAQUJxcOpko
+Version 1.1 (Feb 21, 2013)
+    We have been listening! Thanks for your great feedback.
+
+    • Adjustable texture strength
+    • Adjustable Brightness, Contrast & Saturation
+    • Better, more consistent image resolution (Print quality)
+    • iPad Support - Universal app
+    • Square crop is now optional
+    • Instagram sharing
+    • Save to Dropbox
+    • MORE textures
+    • MORE birds
+Version 1.0 (Dec 12, 2012)
+
+Users may also like
+Select objects to compare
+Mextures Photo Editor
+iColorama S
+Image Blender
+TinType by Hipstamatic
+iColorama
+Artista Impresso
+Smart Resize - AI
+Even Longer
+Dramatic Black & White
+Brushstroke
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+36 times
+on App Store category pages
+Versions
+
+    2.2.1
+    Current release
+    Jul 2, 2022
+    2.2
+    Feb 22, 2022
+    2.1.3
+    Aug 6, 2021
+    2.1.2
+    Jul 7, 2021
+    2.1.1
+    Apr 11, 2021
+    2.1
+    Mar 29, 2021
+    2.0.9
+    Oct 2, 2019
+    2.0.8
+    Jan 29, 2019
+    2.0.7
+    Oct 13, 2018
+    2.0.6
+    May 26, 2018
+    2.0.5
+    Mar 6, 2018
+    2.0.4
+    Nov 20, 2017
+    2.0.3
+    Jul 11, 2017
+    2.0.2
+    May 17, 2017
+    2.0.1
+    Apr 3, 2017
+    2.0
+    Mar 24, 2017
+    1.4.0
+    Aug 6, 2014
+    1.3.0
+    Apr 9, 2014
+    1.2.2
+    Oct 4, 2013
+    1.2.1
+    Aug 15, 2013
+    1.2
+    Aug 13, 2013
+    1.1
+    Feb 21, 2013
+    1.0
+    Dec 12, 2012
+
+See More
+Top In-App Purchases
+
+    The Heavens Overlay Pack
+    $0.99
+    The Neutrals Texture Pack
+    $0.99
+    The Lights Overlay Pack
+    $0.99
+    Bokeh Illusions Overlay
+    $0.99
+    Obscure Texture Pack
+    $0.99
+    Artist Beginnings Texture Pack
+    $0.99
+    Old World Gallery Texture Pack
+    $0.99
+    Sky Beauty Texture Pack
+    $0.99
+    Painterly Grunge
+    $0.99
+    Beyond Skies Overlay Pack
+    $0.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Dec 13, 2012
+
+Worldwide Release Date
+    Dec 13, 2012
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    2.2.1
+
+Size
+    61.43 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Korean, Simplified Chinese, Traditional Chinese
+
+Seller
+    We Are Here Limited
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.4 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    info.wearehere.distressed
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 585702631
+Unified App ID: 1000600000445843
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Distressed FX | data.ai

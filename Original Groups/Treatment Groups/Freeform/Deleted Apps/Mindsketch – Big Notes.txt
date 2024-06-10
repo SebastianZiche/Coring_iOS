@@ -1,0 +1,304 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Mindsketch – Big Notes
+Dynamic Type ABProductivity (Applications)$5.99
+Alerts
+
+    Dynamic Type AB
+
+    Mindsketch – Big Notes
+    Mindsketch – Big Notes
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Mindsketch – Big Notes
+Productivity (Applications)
+$5.99
+iPad Only
+App Description
+Draw on a massive canvas. Zoom in on details and zoom out again to get the big picture.
+
+With Mindsketch, you draw on canvases thousands of square kilometers wide. The massive canvas provides space to associate freely without running out of space.
+
+Transcend beyond physical notebooks and embrace the possibilities with digital note-taking. Imagine all you can do with editable drawings on a massive canvas.
+
+You can create a mind map of your life, constantly updating it to reflect what is important to you. Or dive into several complex subjects in the same document and find connections between them.
+
+Mindsketch was created from the ground up to be easy to use. We have even tested it on small children. They love it! The freeform nature of Mindsketch is as natural as drawing on paper.
+
+Key Features:
+
+• Enormous canvas. Though not infinite, space will rarely limit your drawings.
+• Vector drawing brush. Use your finger or an Apple Pencil to draw vector shapes.
+• Versatile selection. Use the lasso or pick an item directly for editing.
+• Powerful precise eraser. Erase everything below the eraser, or use the Smart eraser to only erase from your selection.
+• Intuitive Editing: All your creations are editable. Move, resize, rotate, recolor, cut, copy, and paste items as you wish.
+• Move items above or behind.
+• Save favorite colors for later use in the current or other documents.
+• Image Integration: Import images from other apps directly into Zoom World.
+• Quick Colors & Sizes: Save time with instant access to your four favorite colors and brush sizes.
+• Undo/Redo: Swiftly undo or redo actions using the Undo Tap Menu.
+• Document Duplication: Create a backup or diverge your work by duplicating a document.
+Ratings
+Displayed Avg Ratings
+5
+Total Displayed Ratings
+5
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.6.2 (Jan 17, 2024)
+    This version adds a sidebar to the Documents view. The sidebar contains a link to the online user manual. It also has different contact methods and a link to the blog.
+
+    The app sometimes felt unresponsive when you tapped to close a document. We have added direct feedback when you tap the close button.
+
+    Added a close button when a tool settings is opened.
+Version 1.6.1 (Jan 16, 2024)
+    Adds a link to the new user manual.
+
+    It also removes an experimental feature: background items.
+
+    This version also updates things in the background, invisible to the user. 
+Version 1.6.0 (Dec 19, 2023)
+    Aside from a new name and icon, the app contains several new features.
+
+    - A new tool-centric UI. There are four brush pens and an eraser. Each pen has persistent thickness and color settings. The eraser has a thickness setting and a "smart erase" toggle.
+    - There is now a favorite color palette. It is accessible from all documents.
+    - There is also a document-specific color history palette.
+    - Each pen shows the recent thicknesses in a sorted list.
+    - The document background color is now possible to change.
+    - The lasso toggler now spans over the whole off-hand side.
+    - We removed the geometric tools. Instead, you can add circles and rectangles via a new item in the toolbar. There is no longer any way to add straight lines, but we are working on it.
+    - Undo, redo, and paste have been moved to the toolbar.
+    - Color swatches can be drag'n'dropped on brush tools.
+    - There is a new selection color picker view with access to the favorite colors and color history palettes. This view also has a "Colors when selected" palette.
+    - The toolbar is now configurable. You can remove and sort items.
+Version 1.5.1 (Oct 24, 2023)
+    This version fixes a bug that caused the app to crash for some users.
+Version 1.5.0 (Oct 18, 2023)
+    This release focuses on the new eraser tool, a frequently requested feature.
+
+    It also takes a closer look at the Background item feature. It is now possible to lock and disable background items. Active background items are now impossible to select.
+
+    We added a "Deselect all" button, which is present in lasso mode. It also shows if you have selected the eraser and "Smart erase" is enabled.
+
+    Performanswise, did we make it dramatically faster to pick an item by tapping it.
+
+    Finally, we fixed some bugs. Rotated images should now behave as expected when one tries to select them with the lasso.
+Version 1.4.1 (Sep 29, 2023)
+    This release focuses on bug fixes.
+
+    - There was a problem with the lasso button. When you toggled it, it sometimes was untoggled immediately.
+    - In some cases, the app selected the wrong background item.
+    - In rare cases, the app crashed when it interpreted your gestures.
+Version 1.3.0 (Jan 4, 2023)
+    Now you can add photographs and images to your worlds.
+Version 1.2.0 (Dec 19, 2022)
+    We have rebuilt large parts of the app from scratch. The new foundation will support new features we couldn't support using the old code, and it works better with different window and screen sizes and in split view.
+
+    We ...
+
+    - squashed numerous bugs and increased performance in many places.
+    - rebuilt the worlds view from scratch. It now contains the date when the world was updated the last time. It also handles different view sizes better.
+    - removed the custom-built navigation bar and started to use the standard one and the features in iPadOS 16.
+    - reorganized the toolbars. The new design reduces how far you need to move between different taps.
+    - removed the option to hide the status bar since it doesn't make sense in Stage Manager.
+    - added an option that shows titles in the UI. It takes a lot of space but is helpful when you learn the app.
+Version 1.1.0 (Oct 24, 2022)
+    This build focuses on selections. Now it is possible to click on an object to select it.
+
+    This build also introduces background objects. If none or only parts of an object outline is visible, the object is in the background. Background objects are blurred to make this clearer. Background objects are important, because they can not be selected.
+
+    This build also fixes some cases where the UI became unresponsive.
+Version 1.0.4 (Oct 17, 2022)
+    This build adds the right name beneath the Home Screen icon.
+
+    It also fixes a bug that sometimes closed the editor when one changed the name of a world.
+Version 1.0.3 (Oct 14, 2022)
+    We have tweaked how selections are handled. Selections are now only visible in lasso mode. Also, if you change to lasso mode after you have drawn a new object, it will be selected.
+
+    When you resize a selection using one of the corners, the aspect ratio will be maintained. To change aspect ratio, you will now have to use the other handles.
+Version 1.0.2 (Oct 6, 2022)
+    We fixed a couple of smaller bugs.
+Version 1.0.1 (Oct 3, 2022)
+    We made it impossible to move the world outside of the screen. This version also fixes several minor bugs.
+Version 1.0.0 (Sep 24, 2022)
+
+Users may also like
+Select objects to compare
+Ahmni: Infinite Canvas
+Defter Notes
+Ophaya Pro+
+Passwords-Manager-PRO
+Infinite Board
+Puddle Sketch
+Endless Paper
+OhMyMind
+Juno - Project Manager
+BaseMind
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.6.2
+    Current release
+    Jan 17, 2024
+    1.6.1
+    Jan 16, 2024
+    1.6.0
+    Dec 19, 2023
+    1.5.1
+    Oct 24, 2023
+    1.5.0
+    Oct 18, 2023
+    1.4.1
+    Sep 29, 2023
+    1.3.0
+    Jan 4, 2023
+    1.2.0
+    Dec 19, 2022
+    1.1.0
+    Oct 24, 2022
+    1.0.4
+    Oct 17, 2022
+    1.0.3
+    Oct 14, 2022
+    1.0.2
+    Oct 6, 2022
+    1.0.1
+    Oct 3, 2022
+    1.0.0
+    Sep 24, 2022
+
+See More
+About
+
+Required Devices
+    iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    Oct 2, 2022
+
+Worldwide Release Date
+    Oct 2, 2022
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.6.2
+
+Size
+    7.63 mb
+
+Only 32 Bit
+    No
+
+Languages
+    engelska
+
+Seller
+    Dynamic Type AB
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Kräver iOS 16.5 eller senare. Kompatibel med iPad.
+
+Bundle ID
+    se.dynamictype.zoomworld-i
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1610150669
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Mindsketch – Big Notes | data.ai

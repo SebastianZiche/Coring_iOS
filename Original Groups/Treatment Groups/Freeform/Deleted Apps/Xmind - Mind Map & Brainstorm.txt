@@ -1,0 +1,1071 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Xmind - Mind Map & Brainstorm
+XMindProductivity (Applications)Free
+Alerts
+
+Xmind
+Xmind - Mind Map & Brainstorm
+Xmind - Mind Map & Brainstorm
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Xmind - Mind Map & Brainstorm
+Mind Mapping, Organize Ideas
+Productivity (Applications)
+Free
+App Description
+Xmind is a full-featured mind mapping and brainstorming tool that helps to unleash creativity, capture inspiration, and boost productivity.
+
+You’ve never mind mapped like this before: Brainstorm ideas, organize with outline and present your mind map in just one place with premium experience across all platforms.
+
+VISUALIZE INFORMATION WITH MIND MAP BEING SIMPLE & EASY
+• Templates: Kick-start any mind map with 30 well-designed templates covering your creative needs.
+• Skeleton & Smart Color Theme: Create your one-of-a-kind mind maps with countless combinations of preset structures and color themes.
+• Structure: Find the right way to help your thoughts and ideas grow with 9 different structures including Mind Map, Logic Chart, Brace Map, Org Chart, Tree Chart, Timeline, Fishbone, Tree Table and Matrix.
+• Combine Structure: Use a combination of multiple structures in one mind map when dealing with a complex project.
+• Insert: Elaborate and enrich a topic with image, audio note, equation, label, hyperlink, topic link, drawing, etc.
+• Equation/LaTeX: Jot down mathematics and chemical equations with LaTeX.
+• Audio Note: Record information in a faster way and never miss a word for any creative ideas.
+• Drawing: Scribble and doodle for quick inspiration.
+
+FOCUS ON CONTENT, AND STAY ORGANIZED & PRODUCTIVE
+• Outliner: Outline your thoughts and ideas hierarchically and keep it going in mind map.
+• ZEN Mode: A full-screen and distraction-free mode built to help you focus on the content and leave everything behind. (iPad only)
+• Multiple Organizers: Connect any two topics with Relationships, group ideas with Boundary and conclude each part with Summary.
+• Pitch Mode: Present mind map as a slideshow with auto-generated transitions and layouts based on your content with just a click.
+• Multitasking: Open, read and edit 2 files side by side at a time, e.g. GoodNotes/Notability and Xmind at the same time.
+• Filters: Tag topics using marker & label to add more visual information, highlight topics with tags to get inspired.
+• Search & Replace: Search, locate and replace any content within the mind map.
+
+ALWAYS BEING SO STYLISH, KEEP MIND MAPPING WITH FUN
+• Smart Color Theme: Build an aesthetically appealing mind map with a smart algorithm effortlessly.
+• Hand-drawn Style: Switch the mind map into the hand-drawn look with just a click.
+• Colored Branch: Stimulate creativity with more rainbow color schemes.
+• Illustrations: Visualize your mind map without text with 350+ illustrations.
+• Sticker: Find your favorite stickers from our over 400 brand-new collections.
+
+SAVE & SHARE MIND MAP WITH EASE
+• Import: MindManager, FreeMind, Lighten, MindNode, Markdown, OPML, TextBundle, and Word (DOCX Only).
+• Export: PDF, PNG, Markdown, Word, Excel, PowerPoint, OPML, TextBundle.
+• Set Password: Encrypt your Xmind files with a password for security.
+
+SUBSCRIBE TO XMIND
+• Products: All Platforms Xmind Pro (Annually), All Platforms Xmind Pro (Quarterly)
+• Type: Auto-Renewable Subscriptions
+• Price: $59.99 Annually, $15.99 Quarterly
+• Cancel Subscription: Go to "Settings" > "iTunes & App Store">Tap your Apple ID, Tap View Apple ID, Tap Subscriptions, Tap [Xmind Pro (Annually)] / [Xmind Pro (Quarterly)] to cancel your subscription. If you do not end the subscription more than 24 hours before the end of the subscription period, the subscription will be automatically renewed.
+• Apple ID for automatic renewal subscriptions will be automatically charged for an additional year/month in iTunes account 24 hours prior to the expiration of each billing cycle.
+• Terms of Service (including subscription rules): https://www.xmind.app/terms/
+• Privacy Policy: https://www.xmind.app/privacy/
+
+NEED HELP?
+Let us know if you have any feedback, or if we can help in any way at xmind-ios@xmind.app.
+Ratings
+Displayed Avg Ratings
+4.79
+Total Displayed Ratings
+248k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 24.01.13102 (Feb 21, 2024)
+    1. Fixed the issue where inputting Japanese could result in duplicates;
+    2. Fixed the issue with abnormal rich text interactions;
+    3. Fixed the issue where illustrations could not be added in some cases;
+    4. Fixed the issue where the format panel was abnormal in some cases;
+    5. Fixed other known issues.
+Version 24.01.13101 (Feb 6, 2024)
+    1. Fixed the issue where the Central Topic couldn't select structure.
+    2. Fixed some other known issues.
+Version 24.01.12100 (Feb 2, 2024)
+    A version specially designed for Vision Pro has been released simultaneously;
+
+    1. Added 100+ redesigned templates;
+    2. Fixed the issue of abnormal interface display in the 'Format' panel;
+    3. Fixed the issue of abnormal content display in PDF files exported under certain structures;
+    4. Fixed some other known issues.
+Version 23.11.06103 (Jan 9, 2024)
+    1. Fixed the issue of abnormal cursor display when editing text in special cases;
+    2. Fixed some other known issues.
+Version 23.11.06102 (Jan 6, 2024)
+    1. Fixed the issue of missing thumbnails in new xmind file.
+    2. Fixed some other known issues.
+Version 23.11.06101 (Dec 15, 2023)
+    1. Added new quarterly subscription plan;
+    2. Introduced 10+ new smart color themes;
+    3. Fixed the issue of incomplete note display in View Mode;
+    4. Fixed editing experience issues in ZEN Mode;
+    5. Fixed other known issues.
+Version 23.11.06100 (Dec 9, 2023)
+    1. Added 310+ AI original illustrations;
+    2. Fixed some known issues.
+Version 23.09.10105 (Dec 1, 2023)
+    1. Added Read Mode to prevent inadvertent edits to the mind map while viewing;
+    2. Optimized some interactive effects;
+    3. Fixed some known issues.
+Version 23.09.10104 (Nov 18, 2023)
+    1. Fixed the issue where rich text styling could not be set in special cases;
+    2. Fixed other known issues.
+Version 23.09.10103 (Nov 13, 2023)
+    1. Fixed an issue where the app could crash under certain conditions;
+    2. Fixed an issue where the enter key was not working in specific cases;
+    3. Fixed an issue where topic content could fail to save under certain conditions;
+    4. Fixed an issue with some shortcut keys not working in the "Search".
+Version 23.09.10102 (Nov 10, 2023)
+    1. Fixed the issue of lagging when typing text;
+    2. Fixed other known issues.
+Version 23.09.10101 (Nov 7, 2023)
+    1. Optimize the interaction of rich text styles;
+    2. Adding several new shortcuts;
+    3. Added 7 application icons;
+    4. Fixed the issue of not being able to update the quick styles;
+    5. Fixed other known issues.
+Version 23.09.10100 (Oct 20, 2023)
+    1. Rich Text Styles - Supports setting styles for selected texts within the topic;
+    2. Numbering - Automatic generation of numbers for the topic;
+    3. Optimized the size limit for exported images;
+    4. Improved the backup logic for the “File Cache”;
+    5. Enhanced the clarity during text editing to avoid blurring;
+    6. Fixed the issue occurring in the purchase process;
+    7. Fixed other known issues.
+Version 23.08.04100 (Sep 18, 2023)
+    1. Fixed the issue with abnormal PDF export content display;
+    2. Fixed the display issue with formula preview in specific situations;
+    3. Fixed other known problems.
+Version 23.08.02100 (Aug 24, 2023)
+    · Added Task Tracking feature. Easily manage your tasks in mind maps.
+    · Improved the stability of file data.
+    · Optimized the experience related to copy-pasting.
+    · Fixed the failure when opening some files.
+    · Fixed the lag issue when moving the canvas with the Apple Magic Keyboard.
+    · Fixed the issue where keyboard shortcuts may not work.
+    · Fixed the issue of possible crashes when editing text.
+    · Some other bug fixes and improvements.
+Version 23.07 (1481) (Aug 15, 2023)
+    · Optimized some copywriting.
+    · Some other bug fixes and improvements.
+Version 23.07 (1473) (Aug 9, 2023)
+    · Optimized the clarity of inserted images.
+    · Optimized the experience when dragging the canvas.
+    · Optimized the experience related to copy-pasting.
+    · Optimized the experience when dragging elements.
+    · Added support for inserting Boundary to Floating Topic.
+    · Fixed an issue where the fill color could disappear when editing the text of a topic.
+    · Fixed an issue where Relationship could not be added to Boundary.
+    · Some other bug fixes and improvements.
+Version 23.07 (1449) (Jul 26, 2023)
+    · Optimized the experience when dragging the canvas.
+    · Fixed the issue where some Apple Pencil operations failed.
+    · Fixed the issue where the Insert Return command disappeared in iOS 15.
+    · Fixed the issue where the equation preview showed an Invalid Equation while inputting a correct equation.
+    · Fixed some crash issues.
+    · Some other bug fixes and improvements.
+Version 23.07 (1438) (Jul 19, 2023)
+    · Optimized the rendering performance of maps containing a large number of images.
+    · Fixed some issues related to Insert Return when editing a topic.
+    · Fixed the compatibility issue of equations created by old versions.
+    · Fixed the issue of some shortcuts keys not working.
+    · Fixed the issue where the rendering may become blurry when switching sheets.
+    · Fixed the issue where the right mouse button cannot drag the map.
+    · Fixed the issue where you cannot editing a topic after double-clicking it with the external mouse.
+    · Fixed the issue where showing the Legend might cause file corruption.
+    · Fixed the issue where the exported PDF may be blurry.
+    · Some other bug fixes and improvements.
+Version 23.06 (1422) (Jul 12, 2023)
+    · Brand new engine! Core graphics engine 100% rewritten, faster rendering speeds, more stable editing, more improved overall performance.
+    · Added the Xmind widget to create a mind map or open your recent map quickly from the Home Screen.
+    · Added more shape styles for Summary topic.
+    · Added more shape styles for Fishbone’s second-level topic.
+    · Added the support for dashed border for Tree Table.
+    · Added the support for more border styles (hand-drawn + dashed) for Matrix.
+    · Added the support to set the structure for Timeline’s third-level topic.
+    · Added the support to set endpoint style for tapered branch line.
+Version 22.11 (1325) (Apr 26, 2023)
+    · Fixed the issue of losing background color when exporting/printing the map.
+    · Fixed some other known issues.
+Version 22.11 (1308) (Apr 22, 2023)
+    · Fixed some known issues.
+Version 22.11 (1285) (Mar 28, 2023)
+    · Fixed the crash issue when inserting Draw.
+    · Fixed possible crash when creating a blank map or a new sheet.
+    · Fixed some other known issues.
+Version 22.11 (1282) (Mar 25, 2023)
+    · Optimized some copywriting.
+    · Fixed the issue of no response when opening document from webpage.
+    · Fixed the issue of missing Close button in New from Template.
+    · Fixed some other known issues.
+Version 22.11 (1221) (Feb 16, 2023)
+    · Optimized the experience of adjusting colors.
+    · Fixed the failure when switching between color themes in special cases.
+    · Fixed the issue of no response when subscribing through App Store.
+    · Fixed the issue of displaying long text in some languages.
+    · Fixed some other known issues.
+Version 22.11 (1190) (Jan 28, 2023)
+    · Fixed some known issues.
+Version 22.11 (1182) (Jan 18, 2023)
+    · Optimized types of files shown in Recents.
+    · Fixed the failure when switching between skeletons in special cases.
+    · Fixed some other known issues.
+Version 22.11.1 (Dec 31, 2022)
+    · Fixed some known issues.
+Version 22.10.2 (Nov 29, 2022)
+    · Fixed a crash when opening a file created by previous versions of Xmind.
+    · Fixed some other known issues.
+Version 22.10.1 (Nov 25, 2022)
+    · Added in-app gift card redemption.
+    · Added content search in Xmind files through Spotlight.
+    · Optimized file size of inserted images.
+    · Optimized editing experience while using external keyboard.
+    · Optimized the experience of inserting web link.
+    · Fixed the issue of copy and paste topics between maps.
+    · Fixed some other known issues.
+Version 22.10 (Oct 29, 2022)
+    · Added parsing video link and in-app play from YouTube and Vimeo.
+    · Added appearance switching in Zen Mode (iPad only), including Light, Dark, Ultra Light, and Ultra Dark.
+    · Optimized the preview of Skeleton.
+    · Fixed the error when sharing file to Xmind.
+    · Fixed the error when switching font-style.
+    · Fixed the issue of missing equation in Pitch Mode.
+    · Fixed the issue of Edit Menu misplacement in Outliner.
+    · Fixed the issue of search bar misplacement when inserting topic link on iPad.
+    · Fixed some other known issues.
+Version 22.09 (Sep 30, 2022)
+    · Optimized the experience of using Scan Text.
+    · Optimized some copywriting.
+    · Some other bug fixes and improvements.
+Version 22.08 (Sep 10, 2022)
+    · Added 5 new Pitch Mode themes packed with fresh appearance and animation.
+    · Added fishbone and timeline layouts in Pitch Mode.
+    · Brand new illustration styles.
+    · Added exclusive app icons for over-one year subscribers.
+    · Optimized the compatibility with iOS/iPadOS 16.
+    · Some other bug fixes and improvements.
+Version 3.2.10 (Aug 25, 2022)
+    · Updated file-loading animation.
+    · Added support to paste image when editing a topic.
+    · Added support to paste screenshots.
+    · Some other bug fixes and improvements.
+Version 3.2.9 (Jul 26, 2022)
+    · New brand identity including refreshed icons.
+    · Added support to automatically apply the last skeleton & color theme used when creating a new blank map.
+    · Added support to automatically show the presenter's view when starting Pitch.
+    · Fixed the issue of directing to the wrong sheet via search results when there are multiple sheets.
+    · Fixed the failure of some shortcuts when using external keyboards.
+    · Some other bug fixes and improvements.
+Version 3.2.7 (Jun 24, 2022)
+    · Added new language: Arabic.
+    · Fixed the issue of no response when exporting to PDF in special cases.
+    · Fixed the failure of adding a topic border in special cases.
+    · Fixed the issue of missing search bar when inserting a topic link.
+    · Fixed some crash issues.
+    · Some other bug fixes and improvements.
+Version 3.2.6 (Jun 11, 2022)
+    · Optimized the reliability & performance of exporting PDF in Outliner.
+    · Optimized the experience of using external keyboard in Outliner.
+    · Optimized some copywriting.
+    · Fixed some crash issues.
+    · Fixed the failure of displaying the profile photo.
+    · Fixed the issue that guide page of Pitch does not cover the fullscreen.
+    · Fixed known bugs with improvements.
+Version 3.2.5 (May 25, 2022)
+    · Optimized the content of all templates.
+    · Optimized the access control of Photo.
+    · Fixed some crash issues.
+    · Fixed the issue that icons on keyboard's shortcuts bar are invisible in Light appearance.
+    · Fixed the stuck issue of the "What's New" page.
+    · Fixed the issue that recording audio note may need tapping twice to start.
+    · Fixed the issue that Equation Preview is blocked by keyboard.
+    · Fixed the issue of exiting current map when saving exported PNG image.
+    · Fixed the failure of loading preview of Color Theme in special cases.
+    · Fixed the failure of playing inserted GIF image.
+    · Fixed known bugs with improvements.
+Version 3.2.4 (May 2, 2022)
+    · Fixed some crash issues.
+    · Fixed the stuck issue when crating new file from some templates.
+    · Fixed known bugs with improvements.
+Version 3.2.3 (Apr 18, 2022)
+    · Fixed an issue that the topic fill color might not be modified when applying the classic color themes.
+    · Fixed an issue that file cache might be invalid under certain circumstances.
+    · Fixed an issue that the label of note is still displayed in the edit menu after deleting notes.
+    · Improve the thumbnails of skeleton.
+    · Fixed known bugs with improvements.
+Version 3.2.2 (Apr 15, 2022)
+    · Fixed an issue that the topic fill color might not be modified when applying the classic color themes.
+    · Fixed an issue that the label of note is still displayed in the edit menu after deleting notes.
+    · Fixed an issue that file cache might be invalid under certain circumstances.
+    · Fixed known bugs with improvements.
+Version 3.2.1 (Apr 1, 2022)
+    · Align text to the left instead of the center when using the default skeleton.
+    · Fixed the problem of incorrect password hints for encrypted files.
+    · Fixed the error of creating a new blank map in specific device languages.
+    · Optimized the tab switching logic of the format panel.
+    · Optimized rendering speed of smart color theme thumbnails.
+    · Optimized the preview effect of pitch mode in the slide panel.
+    · Fixed known bugs with improvements.
+Version 3.2 (Mar 22, 2022)
+    · Gain all stunning smart color themes effortlessly.
+    · Added built-in hand-drawn skeletons together with more style options.
+    · Enable to select multiple topics to edit at the same time.
+    · Tailor and adjust your presentation in the slide panel, such as layout, delivery and image position.
+    · App icon can be changed into seventeen different styles as you like.
+    · Explore brand new illustrations, stickers and templates.
+    · Optimized the stability of the map during drag and drop.
+    · Support update style to the same level topics or all subtopics.
+    · Fixed known bugs with improvements.
+Version 3.1.3 (Nov 27, 2021)
+    · Support for case-insensitive search and one-click replacement of the whole workbook.
+    · Allow to use the shortcut of ⌥⌘1～9 to fold/unfold to the specific level of subtopics.
+    · Optimized the input assistant items of the soft keyboard.
+    · Fixed the problem that files cannot be opened in some specific cases.
+    · Fixed the crash problem that may occur when exporting PDF in outliner mode.
+    · Fixed the problem that the shortcuts cannot be used after inserting an equation.
+    · Fixed known bugs with improvements.
+Version 3.1.2 (Oct 30, 2021)
+    · Added aspect ratio function in pitch mode, which can automatically adapt to the best slide size as the screen changes by default.
+    · Enable to present a mind map with equations.
+    · Fixed the problem that the duplicated sheet cannot be saved.
+    · Fixed the problem of text missing after exporting PNG/PDF in some specific cases.
+    · Improved the rendering effect of the equation and made it consistent with the preview.
+    · The key of shift+return can be used as a shortcut to insert return in outliner.
+    · Fixed the problem that the file cannot be opened by adding callout to the timeline topic.
+    · Fixed the layout error of tree table.
+Version 3.1.1 (Oct 1, 2021)
+    · Enable to edit label by selecting it directly.
+    · Inaccurate manual width values of a few shapes have been corrected.
+    · Fixed the display error of equation.
+    · Fixed the problem of invalid italic text.
+    · You can present a mind map including old version markers in pitch mode.
+    · Upwards/Downwards Arrow can be used as shortcuts to present previous/next step in pitch mode.
+    · Fixed the problem of turning off animation by default in pitch mode.
+Version 3.1.0 (Sep 26, 2021)
+    · Support iOS 15 & iPadOS 15.
+    · Present your mind map like a slideshow in Pitch Mode.
+    · Added Sheet List button at the bottom left of the map to enhance the multiple sheets editing experiences.
+    · Support for importing Markdown files.
+    · Added new vertical and horizontal (Off-axis) layouts for Timeline structure.
+    · Support hyperlinks (auto-detect, insert and edit) in notes.
+    · Use Compact Map layout to reduce the size and spacing of elements.
+    · Justify topic alignment to unify the width of topics at the same level and organize your map.
+    · Bugs fixes and improvements.
+Version 3.0.6 (Aug 25, 2021)
+    • Fix the problem of text missing after exporting PDF/PNG.
+    • Fix the incorrect redirection when the topic link is inserted through search.
+    • Fix some invalid redirect issues of web links.
+    • The issue of exiting to document browser when opening Airdrop file is fixed.
+Version 3.0.5 (Aug 11, 2021)
+    • Modify the font size and manual width by entering values manually;
+    • Long press the undo button to redo previous operations in split and compact view;
+    • You are able to save multiple versions of the same file if conflicts occur in iCloud Drive;
+    • Double-tap the blank area to display a complete sheet that fits screen;
+    • Fixed inaccurate redirection of some topic links;
+    • Fixed the insert problem of elements in the summary;
+    • Fixed the issue of inconsistent font styles in exported PNG/PDF;
+    • Fixed known bugs with improvements.
+    ----------------
+    Reminder:
+    If you cannot access to all the features with subscription, please follow the steps below to solve the issue:
+    1. Tap “Settings” in the upper-right corner of the Document Browser Page, and tap “Restore Purchase”.
+    2. Re-verify and bind the payment credentials of the account.
+Version 3.0.4 (Jul 2, 2021)
+    • Follow parent topic’s structure is now added for subtopics.
+    • Added flexible floating topic, which allows topics to be free positioned and not connected to any branch.
+    • Six recently used color themes are recorded for you.
+    • Tab key can be used as a shortcut to quit editing quickly.
+    • Optimized the editing experience of notes, such as clicking on a blank area to enter editing, etc.
+    • Fixed the redirection issue of some web links.
+    • Fixed known bugs with improvements.
+Version 3.0.3 (Jun 15, 2021)
+    • Improved the speed of opening files.
+    • Fixed the problem of inaccurate map positioning.
+    • Tap the status bar to display the selected topic, or central topic as the center of the visible area.
+    • Fixed known bugs with improvements.
+Version 3.0.2 (Jun 9, 2021)
+    • Show folders that may be hidden.
+Version 3.0.1 (Jun 5, 2021)
+    • Select from plenty of well-designed skeletons to help you get started. A skeleton combines the styles of structure, topic shape, text, branch, etc.
+    • Enhance your mind maps with a variety of new color themes and topic shapes.
+    • Add Tree Table, which is a new structure of nested spreadsheets.
+    • Redesign Fishbone structure to make it more efficient to track down the cause and effect.
+    • Protect everything by encrypting your file.
+    • Easily insert mathematical and chemical formulas with LaTeX command.
+    • Focus on your content in ZEN mode (iPad Only).
+    • Brand new interface, powerful, friendly and expressive.
+    • This update contains stability improvements and bug fixes.
+    ------------
+    Enjoy your new journey of mind mapping.
+Version 3.0.0 (Jun 3, 2021)
+    • Select from plenty of well-designed skeletons to help you get started. A skeleton combines the styles of structure, topic shape, text, branch, etc.
+    • Enhance your mind maps with a variety of new color themes and topic shapes.
+    • Add Tree Table, which is a new structure of nested spreadsheets.
+    • Redesign Fishbone structure to make it more efficient to track down the cause and effect.
+    • Protect everything by encrypting your file.
+    • Easily insert mathematical and chemical formulas with LaTeX command.
+    • Focus on your content in ZEN mode (iPad Only).
+    • Brand new interface, powerful, friendly and expressive.
+    • This update contains stability improvements and bug fixes.
+    ------------
+    Enjoy your new journey of mind mapping.
+Version 2.1.8 (Feb 15, 2021)
+    Fixed some known UI issues.
+Version 2.1.7 (Feb 3, 2021)
+    1. Fixed the problem that XMind could not be operated after sharing file to some other applications；
+    2. Fixed some other known minor issues.
+Version 2.1.6 (Dec 8, 2020)
+    1. In this version, we have fixed mouse operation failure issue when switching applications;
+    2. The operation logic of the up and down arrow on keyboard in the Outliner has been optimized;
+    3. When sharing XMind files, it will be moved to the target location instead of being copied under special circumstances. This issue has been fixed already.
+Version 2.1.5 (Dec 2, 2020)
+    1. Fixed the problem that a mind map cannot be set with a transparent background;
+    2. Fixed the problem that some content was not saved in time when sharing to other apps;
+    3. Fixed other known problems.
+Version 2.1.4 (Oct 9, 2020)
+    1. Fixed the problem that XMind file cannot be opened normally in XMind 8;
+    2. Add a new size when exporting Outliner to PDF.
+Version 2.1.3 (Sep 10, 2020)
+    1. Fixed the issue of Relationship display error in PNG and PDF;
+    2. Added Outliner printing feature;
+    3. Added the feature of exporting Outliner to PDF.
+Version 2.1.2 (Jul 24, 2020)
+    1. Added new stickers, interesting yet practical;
+    2. Fixed an issue that would cause Outliner to crash.
+Version 2.1.1 (Jul 21, 2020)
+    1. Added Brace Map - a structure that describes the relationship between the whole and the part;
+    2. Added Label and Marker display in the Outliner;
+    3. Fixed other known issues.
+Version 2.1.0 (Jul 7, 2020)
+    1. Added the Drawing feature on Photo;
+    2. Optimized the content display of Outliner;
+    3. Fixed the crash issue when running Outliner in special cases;
+    4. Fixed the issue that the text in topic may be replaced in special cases;
+    5. Fixed other known issues;
+Version 2.0.9 (Jun 14, 2020)
+    Fixed the issue that some devices can't open XMind file.
+Version 2.0.8 (Jun 10, 2020)
+    Fixed the issue that Edit Menu might not be displayed properly in iOS 12 and below.
+Version 2.0.7 (Jun 6, 2020)
+    1. Improved mouse support function on iOS 13.4;
+    2. Fixed a bug where texts aren’t automatically selected all when editing a new topic in some languages including Indonesian, Italian, Korean, Portuguese, Russian, Spanish, Thai;
+    3. Fixed a bug that may cause the app to crash due to Airdrop files;
+    4. Fixed some other known issues.
+Version 2.0.6 (Apr 28, 2020)
+    1. Fixed the issue that some XMind 8 files failed to open;
+    2. Fixed the issue that Topic Link and Audio Note could not be opened in special circumstances.
+Version 2.0.5 (Apr 27, 2020)
+    1. Added Indonesian, Italian, Korean, Portuguese, Russian, Spanish, Thai language support;
+    2. Optimized the display effect of equation;
+    3. Image display supported by Outliner;
+    4. Fixed the issue that cannot export as png to Telegram;
+    5. Fixed some other known issues;
+Version 2.0.4 (Mar 16, 2020)
+    * Fixed the application freezed issue when using Drawing. 
+Version 2.0.3 (Mar 14, 2020)
+    1. Fixed the crash issue in special circumstances;
+    2. Fixed an content loss issue when clicking other bottons while editing a topic;
+    3. Fixed other known issues;
+Version 2.0.2 (Feb 20, 2020)
+    * Add NeverMind, an original typeface designed by XMind;
+    * Support brand new Marker;
+    * Fixed the display issue when inputting in the Topic under some circumstances;
+    * Fixed the crash issue when connecting iPad to external monitor;
+    * Fixed the issue of disordered sheet positions when switching back to XMind from other programs;
+    * Fixed the issue of generating incorrect thumbnails of some files;
+Version 2.0.1 (Jan 4, 2020)
+    * Added & updated multiple themes;
+    * Fixed the issue of color setting in some cases;
+    * Fixed the crash issue of when opening Airdrop files;
+    * Fixed the open issue of XMind files in third-party apps in iOS 12;
+    * Fixed the irresponsive issue when opening encrypted files;
+    * Fixed the oversized blank space issue when exporting pictures;
+    * Fixed the selected state display of the Topic in exported PDF;
+    --------
+    Notice: Drawing requires iOS 13 or above.
+Version 2.0.0 (Dec 24, 2019)
+    * Added Drawing - Fill the topics with hand-drawn document, or drawing from Apple Pencil.
+    * Added Outliner Mode - A new way to read and edit your mind map in the listing view, effective and fast;
+    * Supported Multiple Windows - Open, read and edit 2 files side by side in the same screen;
+    * Fixed the sliding input issue at English input;
+    * Fixed entering editing issue when double clicking the Topic;
+    * Fixed the ticking status issue of selecting Theme;
+    ------------------------
+    Coming soon, with all new UI and user experience.
+Version 1.7.2 (Nov 20, 2019)
+    * Fixed the issue of image missing when pasting;
+    * Fixed the wrap issue when editing the topic;
+    * Modified the notice of opening an encrypted file;
+    * Fixed the issue of undo when editing;
+    * Tap to unfold the folded topic in searching results automatically;
+    * Tap the blank part of the sheet to close Format/Insert/More panel;
+    * Fixed some known bugs;
+Version 1.7.1 (Sep 25, 2019)
+    *Fixed an issue of wrap text failure when editing topic.
+    --------------------------------------------------------------
+
+    1. Add "Topic Link", and linking of different topics is available.
+    2. Add “Search Panel", and support topics and notes searching.
+    3. Compatible with Dark Mode of iOS 13.
+Version 1.7.0 (Sep 17, 2019)
+    1. Add "Topic Link", and linking of different topics is available.
+    2. Add “Search Panel", and support topics and notes searching.
+    3. Compatible with Dark Mode of iOS 13.
+Version 1.6.1 (Aug 14, 2019)
+    * Fixed an issue of blurred preview when inserting the image.
+Version 1.6.0 (Aug 11, 2019)
+    If you are using iOS 13, please update your beta to the latest version. And this app is temporarily unable to support Google Drive on iOS 13.
+
+    1. Support direct click response of note, hyperlink, attachment, etc.
+    2. Fixed issue of XMind 8 files opened failure.
+    3. Fixed issue of files opened failure in iOS 13.
+    4. Fixed canvas positioning issues in iOS 13.
+    5. Fixed apps crashing issue in iOS 13.
+    6. Fixed other known issues.
+Version 1.5.9 (Jun 13, 2019)
+    1. Fixed an issue of Boundary title editing failure；
+    2. Fixed an issue of content editing failure in the Matrix structure;
+    3. Fixed an issue of opening protected XMind file failure;
+    4. Support clicking topic link and jumping to target topic;
+    5. Fixed an issue of new file auto-renaming failure;
+    6. Fixed an issue of tapered line setting failure;;
+    7. Fixed some other known issues;
+Version 1.5.8 (Apr 5, 2019)
+    * Fixed the problem in Chinese (Traditional) UI display;
+
+    And in the next version, we will fix the problem for label editing with Matrix structure, add the feature of adding topic link, and fix other known bug. Thanks you for supporting XMind.
+Version 1.5.7 (Mar 31, 2019)
+    1. Optimized the experience of some features.
+    2. Fixed the bug that some old files can't be opened.
+    3. Fixed some known bugs.
+Version 1.5.6 (Jan 9, 2019)
+    fix some bugs
+Version 1.5.5 (Jan 7, 2019)
+    fix some bugs
+Version 1.5.4 (Dec 11, 2018)
+    Dark UI: When switching to the dark themes, the interface will automatically adopt a darker appearance.
+    Brand new "Insert" panel: Fully updated toolbar, more concise and fresh interface.
+    New map from shortcut: To quickly create a mind map, open the Shortcuts app and add a shortcut to create new maps.
+Version 1.5.3 (Dec 10, 2018)
+    Dark UI: When switching to the dark themes, the interface will automatically adopt a darker appearance.
+    Brand new "Insert" panel: Fully updated toolbar, more concise and fresh interface.
+    New map from shortcut: To quickly create a mind map, open the Shortcuts app and add a shortcut to create new maps.
+Version 1.5.2 (Dec 2, 2018)
+    Dark UI: When switching to the dark themes, the interface will automatically adopt a darker appearance.
+    Brand new "Insert" panel: Fully updated toolbar, more concise and fresh interface.
+    New map from shortcut: To quickly create a mind map, open the Shortcuts app and add a shortcut to create new maps.
+Version 1.5.1 (Nov 28, 2018)
+    Dark UI: When switching to the dark themes, the interface will automatically adopt a darker appearance. 
+    Brand new "Insert" panel: Fully updated toolbar, more concise and fresh interface.
+    New map from shortcut: To quickly create a mind map, open the Shortcuts app and add a shortcut to create new maps.
+Version 1.5.0 (Nov 21, 2018)
+    Dark Mode: When switching to the dark themes, the interface will automatically adopt a darker appearance.
+    Brand new "Insert" panel: Fully updated toolbar, more concise and fresh interface.
+    New map from shortcut: To quickly create a mind map, open the Shortcuts app and add a shortcut to create new maps.
+Version 1.4.9 (Oct 20, 2018)
+    + Add "wrap text" function
+    + Add creating mind map from Siri shortcuts function
+Version 1.4.8 (Sep 28, 2018)
+    fix some bugs
+Version 1.4.7 (Sep 22, 2018)
+    + Support for iOS12
+Version 1.4.6 (Sep 10, 2018)
+    Fix some bugs
+Version 1.4.5 (Aug 30, 2018)
+    fix some bugs
+Version 1.4.4 (Jul 25, 2018)
+    - Fixed an issue of file loss
+    - Fixed an issue not being able to load images
+Version 1.4.3 (Jul 21, 2018)
+    fix some bugs
+Version 1.4.2 (Jul 17, 2018)
+    fix some bugs
+Version 1.4.1 (Jul 13, 2018)
+    "black box" function added
+Version 1.4.0 (Jun 20, 2018)
+    + Enable format modification
+    + When multitasking with SplitView in iPad, you can directly drag and drop pictures and attachments from other apps into XMind
+    + Support iPhone X
+    - Bugs fixed
+Version 1.3.1 (Apr 4, 2018)
+    + Add insert picture and sticker feature
+    + Add insert marker feature
+    + Add insert label, hyperlink feature
+    + Support iPhone X
+    - Fixed the failed to save bug
+Version 1.3.0 (Apr 2, 2018)
+    + Add insert picture and sticker feature
+    + Add insert marker feature
+    + Add insert label, hyperlink feature
+    + Support iPhone X
+    - Fixed the failed to save bug
+Version 1.2.5 (Feb 12, 2018)
+    + Added Notes feature
+    + Added audio notes feature
+    + Added export to PDF feature
+    + Support iPhone X
+    + Added Subscription
+Version 1.2.4 (Feb 9, 2018)
+    + Added Notes feature
+    + Added audio notes feature
+    + Added export to PDF feature
+    + Support iPhone X
+Version 1.2.3 (Jan 26, 2018)
+    + Added Notes feature
+    + Added audio notes feature
+    + Added export to PDF feature
+    + Support iPhone X
+    + Added Subscription
+Version 1.2.2 (Jan 22, 2018)
+    + Added Notes feature
+    + Added audio notes feature
+    + Added export to PDF feature
+    + Support iPhone X
+    + Added Subscription
+Version 1.2.1 (Jan 19, 2018)
+    + Added Notes feature
+    + Added audio notes feature
+    + Added export to PDF feature
+    + Support iPhone X
+    + Added Subscription
+Version 1.2.0 (Jan 18, 2018)
+    + Added Notes feature
+    + Added audio notes feature
+    + Added export to PDF feature
+    + Support iPhone X
+    + Added Subscription
+Version 1.1.0 (Jan 11, 2018)
+    + We support iOS 10 NOW !
+    + Support iPhone X
+Version 1.0.6 (Jan 4, 2018)
+    + Support iPhone X
+    + Add ability to add a new sheet.
+    + Auto-save more frequently to prevent save failure.
+    - Fixed the problem, which caused app crashes by opening a file from the network disk.
+Version 1.0.5 (Dec 29, 2017)
+    - Support iPhone X
+    - Fix some bugs
+
+    Happy new year! Visit https://www.xmind.net/ to learn more about us. Hope you have a wonderful mind map journey:)
+Version 1.0.4 (Dec 27, 2017)
+    Entering text using the keyboard, press Return to create topics.
+Version 1.0.3 (Dec 16, 2017)
+    *We will soon support iOS 10, we won't let you wait too long. Enjoy your mind map journey:)
+
+    - Fix some bugs
+Version 1.0.2 (Dec 15, 2017)
+    fix some bugs
+Version 1.0.1 (Dec 14, 2017)
+    1. Fixed a bug that couldn't click the shared XMind file
+    2. Fixed a bug that caused file open failure
+    3. Fixed a bug that caused white screen after opening
+Version 1.0 (Dec 12, 2017)
+
+Users may also like
+Select objects to compare
+MindNode - Mind Map & Outline
+SimpleMind - Mind Mapping
+Mind Mapping - MindMeister
+GitMind: AI Mind Map, Outline
+Mind Map Maker - Mindomo
+MarginNote 3
+Lucidchart
+MindSpace - Mind Map
+百度网盘 HD
+Flowdia Diagrams
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+133 times
+on App Store category pages
+Versions
+
+    24.01.13102
+    Current release
+    Feb 21, 2024
+    24.01.13101
+    Feb 6, 2024
+    24.01.12100
+    Feb 2, 2024
+    23.11.06103
+    Jan 9, 2024
+    23.11.06102
+    Jan 6, 2024
+    23.11.06101
+    Dec 15, 2023
+    23.11.06100
+    Dec 9, 2023
+    23.09.10105
+    Dec 1, 2023
+    23.09.10104
+    Nov 18, 2023
+    23.09.10103
+    Nov 13, 2023
+    23.09.10102
+    Nov 10, 2023
+    23.09.10101
+    Nov 7, 2023
+    23.09.10100
+    Oct 20, 2023
+    23.08.04100
+    Sep 18, 2023
+    23.08.02100
+    Aug 24, 2023
+    23.07 (1481)
+    Aug 15, 2023
+    23.07 (1473)
+    Aug 9, 2023
+    23.07 (1449)
+    Jul 26, 2023
+    23.07 (1438)
+    Jul 19, 2023
+    23.06 (1422)
+    Jul 12, 2023
+    22.11 (1325)
+    Apr 26, 2023
+    22.11 (1308)
+    Apr 22, 2023
+    22.11 (1285)
+    Mar 28, 2023
+    22.11 (1282)
+    Mar 25, 2023
+    22.11 (1221)
+    Feb 16, 2023
+    22.11 (1190)
+    Jan 28, 2023
+    22.11 (1182)
+    Jan 18, 2023
+    22.11.1
+    Dec 31, 2022
+    22.10.2
+    Nov 29, 2022
+    22.10.1
+    Nov 25, 2022
+    22.10
+    Oct 29, 2022
+    22.09
+    Sep 30, 2022
+    22.08
+    Sep 10, 2022
+    3.2.10
+    Aug 25, 2022
+    3.2.9
+    Jul 26, 2022
+    3.2.7
+    Jun 24, 2022
+    3.2.6
+    Jun 11, 2022
+    3.2.5
+    May 25, 2022
+    3.2.4
+    May 2, 2022
+    3.2.3
+    Apr 18, 2022
+    3.2.2
+    Apr 15, 2022
+    3.2.1
+    Apr 1, 2022
+    3.2
+    Mar 22, 2022
+    3.1.3
+    Nov 27, 2021
+    3.1.2
+    Oct 30, 2021
+    3.1.1
+    Oct 1, 2021
+    3.1.0
+    Sep 26, 2021
+    3.0.6
+    Aug 25, 2021
+    3.0.5
+    Aug 11, 2021
+    3.0.4
+    Jul 2, 2021
+    3.0.3
+    Jun 15, 2021
+    3.0.2
+    Jun 9, 2021
+    3.0.1
+    Jun 5, 2021
+    3.0.0
+    Jun 3, 2021
+    2.1.8
+    Feb 15, 2021
+    2.1.7
+    Feb 3, 2021
+    2.1.6
+    Dec 8, 2020
+    2.1.5
+    Dec 2, 2020
+    2.1.4
+    Oct 9, 2020
+    2.1.3
+    Sep 10, 2020
+    2.1.2
+    Jul 24, 2020
+    2.1.1
+    Jul 21, 2020
+    2.1.0
+    Jul 7, 2020
+    2.0.9
+    Jun 14, 2020
+    2.0.8
+    Jun 10, 2020
+    2.0.7
+    Jun 6, 2020
+    2.0.6
+    Apr 28, 2020
+    2.0.5
+    Apr 27, 2020
+    2.0.4
+    Mar 16, 2020
+    2.0.3
+    Mar 14, 2020
+    2.0.2
+    Feb 20, 2020
+    2.0.1
+    Jan 4, 2020
+    2.0.0
+    Dec 24, 2019
+    1.7.2
+    Nov 20, 2019
+    1.7.1
+    Sep 25, 2019
+    1.7.0
+    Sep 17, 2019
+    1.6.1
+    Aug 14, 2019
+    1.6.0
+    Aug 11, 2019
+    1.5.9
+    Jun 13, 2019
+    1.5.8
+    Apr 5, 2019
+    1.5.7
+    Mar 31, 2019
+    1.5.6
+    Jan 9, 2019
+    1.5.5
+    Jan 7, 2019
+    1.5.4
+    Dec 11, 2018
+    1.5.3
+    Dec 10, 2018
+    1.5.2
+    Dec 2, 2018
+    1.5.1
+    Nov 28, 2018
+    1.5.0
+    Nov 21, 2018
+    1.4.9
+    Oct 20, 2018
+    1.4.8
+    Sep 28, 2018
+    1.4.7
+    Sep 22, 2018
+    1.4.6
+    Sep 10, 2018
+    1.4.5
+    Aug 30, 2018
+    1.4.4
+    Jul 25, 2018
+    1.4.3
+    Jul 21, 2018
+    1.4.2
+    Jul 17, 2018
+    1.4.1
+    Jul 13, 2018
+    1.4.0
+    Jun 20, 2018
+    1.3.1
+    Apr 4, 2018
+    1.3.0
+    Apr 2, 2018
+    1.2.5
+    Feb 12, 2018
+    1.2.4
+    Feb 9, 2018
+    1.2.3
+    Jan 26, 2018
+    1.2.2
+    Jan 22, 2018
+    1.2.1
+    Jan 19, 2018
+    1.2.0
+    Jan 18, 2018
+    1.1.0
+    Jan 11, 2018
+    1.0.6
+    Jan 4, 2018
+    1.0.5
+    Dec 29, 2017
+    1.0.4
+    Dec 27, 2017
+    1.0.3
+    Dec 16, 2017
+    1.0.2
+    Dec 15, 2017
+    1.0.1
+    Dec 14, 2017
+    1.0
+    Dec 12, 2017
+
+See More
+Top In-App Purchases
+
+    Mobile Only (6 Months)
+    $19.99
+    Mobile Only (Annually)
+    $29.99
+    All Platforms (6 Months)
+    $39.99
+    Desktop (Annually)
+    $54.99
+    Desktop (6 Months)
+    $34.99
+    Xmind Pro (Annually)
+    $59.99
+    Xmind Pro (Monthly)
+    $5.99
+    Xmind Pro Annually
+    $59.99
+    Xmind Pro (Quarterly)
+    $15.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 12, 2017
+
+Worldwide Release Date
+    Dec 12, 2017
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    24.01.13102
+
+Size
+    431.41 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese
+
+Seller
+    Xmind Ltd.
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    net.xmind.brownieapp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1286983622
+Unified App ID: 1000800000047707
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Xmind - Mind Map & Brainstorm | data.ai

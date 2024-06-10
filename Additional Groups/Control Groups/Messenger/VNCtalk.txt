@@ -1,0 +1,798 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+VNCtalk
+VNC - Virtual Consult AGProductivity (Applications)Free
+Alerts
+
+    VNCtalk
+    VNCtalk
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+VNCtalk
+Secure real-time communication
+Productivity (Applications)
+Free
+App Description
+VNCtalk is a super powerful app for professional and secure unified communication, with a full feature set of a comprehensive application for presence, chat, video/audio calls and web conferencing.
+
+Why you should use VNCtalk:
+- easy and intuitive to use
+- secure and private communication
+- comes with all required functionalities
+- available as App and web client
+- open source backend - super secure software
+
+Key Functionalities of VNCtalk:
+- Presence and profile information
+- Text chat: 1:1 or 1:n (chat rooms)
+- Audio and video conferencing
+- Screen sharing
+- Voice messaging
+- File sharing (documents, images, etc.)
+- Search
+- Instant Camera Switch: switch mobile camera between front and back camera
+- Snapshots: Make snapshots using the integrated camera and send these
+- Enable / disable microphone and camera during calls
+- Notifications
+- Confirmation of sent and read messages
+- Multiple settings
+- Front-end clients: App, Web Client and Desktop Client
+- Collaborate in teams and companies (Pro Version)
+
+See the documentation: https://en.docs.vnc.biz/vnctalk/saas-service/
+
+VNCtalk is free to download and use for private, individual users.
+
+Attention:
+VNCtalk is a free hands-on App within a single user SaaS environment of our VNCtalk Enterprise edition.
+Please be aware that the users’ profile information (user name, avatar) are visible for other users.
+Of course, the client to server communication is encrypted.
+
+VNCtalk Enterprise comprises these features:
+- Elevated privacy levels in closed instances for your organisation or group of users
+- Company accounts with utmost privacy
+- Advanced authentication options
+- Advanced Team collaboration features
+- Full enterprise feature set including screen sharing, VNCpad, whiteboard, and others
+- Flexible hosting options and on premise implementation (you gain complete control of the application and your communication data!)
+- Compliance with severest data privacy regulations (transparent code, secure hosting, open source backend, state of the art frontend, privacy of communication and user data)
+- Customization and branding
+- Individual skinning according to your corporate design
+- Complete onboarding and registration capabilities
+- Sophisticated backend management options
+- Integration with further VNClagoon products and Apps (e.g. single sign-on)
+- And more!
+
+If you have questions or would like to discuss the benefits of VNCtalk, please get in touch with us.
+
+VNCtalk is part of VNClagoon, our integrated stack of secure enterprise collaboration and communication products.
+
+Want to know more about the VNC story? Check out our blog here: https://vnclagoon.com/the-vnc-story/.
+
+Your use of this app is subject to the VNClagoon Products and Apps Terms of Service, which can be found at https://vnclagoon.com/terms/.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 4.0.4 (Feb 3, 2024)
+    Bugfix Release
+Version 4.0.3 (Dec 5, 2023)
+    minor fix for IPad
+Version 4.0.2 (Nov 30, 2023)
+    Bugfix Release
+Version 4.0.1 (Mar 23, 2023)
+    New tooltips and notifications
+    Avatar upload reminder
+    Dropdown actions in collapsed recent chats
+    Cancelling button for file uploads
+    File sending status
+    Download progress banner
+    Video call preview on hover
+    Document update indicator
+Version 4.0.0 (Sep 25, 2022)
+    Surveys in chats to create questionnaires
+    Emoji reactions to messages
+    Audience role in group chats
+    Bulk-delete own chat messages after a predefined time
+    Copy images from the file browser
+    Design and handling improvements
+Version 3.2.5 (Jul 21, 2022)
+    New group chat UI
+    New config for UI only development
+    Improved sidebar
+    Updated message dropdown menu
+    Improved app switcher design
+    Improved background sync
+    Improved message header border
+    UI and translation optimization
+    Fixed the display of the user's last activity
+Version 3.2.4 (May 23, 2022)
+    minor bugfix
+Version 3.2.3 (Apr 20, 2022)
+    New call preview
+    New background images
+    New swipe actions
+    UI for chat info
+    UI updates
+    Tags for group chats
+    New chat info UI
+    New application loader
+    Updated video call UI
+    Improved display of scheduled conferences
+    Changed the display of the latest speaking participants
+Version 3.2.2 (Feb 21, 2022)
+    improved video calls
+Version 3.2.1 (Feb 1, 2022)
+    Added the display of the screen sharing presenter
+    Cancel/edit meeting and add/remove participants option in scheduled video meetings
+    Added the hostname to the VNCtalk stats
+    Updated Cordova to version 10
+    Changed the display of the chat names
+    UI improvements
+Version 3.2.0 (Dec 29, 2021)
+    Improved scrolling
+    New upload avatar screen for group chats and profiles
+    New date and time settings
+    Unread marker for mention chips
+    New settings for the social tab
+    Settings to show/hide VNCpads
+    Native emoji support
+    Selecting messages by holding CTRL/Command
+Version 3.1.6 (Nov 17, 2021)
+    - New 'files' sidebar
+    - Back-End configuration option for recordings
+    - Updated display of the autocomplete UI
+    - Chat transfer to multiple devices with enabled OMEMO encryption
+    - Updated the profile UI
+    - Improved the resizing of the recent chat list + the right sidebar
+Version 3.1.5 (Oct 22, 2021)
+    1. Extended profile screens
+    2. New sidebar elements
+    3. Improved auto-completion and UI
+    4. Improved call performance
+    5. Fixed the focus on the searched message in the chat history
+    6. Improved profile UI
+    7. Improved avatar loading for recent conversations
+Version 3.1.4 (Oct 21, 2021)
+    Typing notifications for group chats and recent chat list
+
+    Updated emoji size and UI
+
+    Changed the call behavior
+
+    Changed the behaviour of the join call button
+
+    Configured the hiding of broadcast filters and results
+
+    Fixed the display of the record option
+Version 3.1.3 (Oct 5, 2021)
+    ownCloud integration in VNCtalk
+
+    Kebab menu for the participants tab
+
+    Mention filters in recent chats
+
+    Updated the style and avatar pattern
+
+    New start conference UI
+
+    Additional parameters for the user search
+
+    Emoji support for the RTF editor
+Version 3.1.2 (Aug 23, 2021)
+    Local search for chats and broadcasts
+
+    Additional settings
+
+    Pin/unpin conversations
+
+    New Solr VNCcontacts API for recent chat, auto complete and advanced search
+
+    Moved FCM messages to Indexed DB
+
+    Updated the search flow
+
+    Updated the UI of the saved template screen
+Version 3.1.0 (Jul 6, 2021)
+    'Favorite' chip filter in the chat tab
+    Search for Files (Media)
+    Support of group chat searches
+    Improved the main screen
+    Updated the call settings configuration
+    Added a divider to the left sidebar
+Version 3.0.10 (Jun 8, 2021)
+    Global mute feature
+    Apply button for search with additional filters
+    Improved the updated backgrounds in video calls
+    Updated the call settings configuration
+    Optimized background behaviour
+    Fixed the incoming message play sound in foreground
+Version 3.0.9 (May 16, 2021)
+    File preview in the chat history
+    Sound for ended calls
+    Global mute
+    Support for item preview
+    Inline reply
+    Mark as read option
+    Fixed translations
+    Fixed the XMPP reconnection
+Version 3.0.8 (Apr 13, 2021)
+    Block users in the right sidebar
+    Change the user info
+    Author info in the media file view
+    New participant info icon
+    New Global settings UI
+    Tool tip for group chat avatars and participant avatars
+    Document preview in the advanced search screen
+    New rejoin UI
+Version 3.0.7 (Mar 24, 2021)
+    Enhanced notification display for recordings in progress
+    New auto-complete in search
+    New OMEMO device discovery process
+    New media file / image preview in the advanced search
+    Changed UI for call invitations
+    Improved the advanced search
+Version 3.0.6 (Mar 9, 2021)
+    - Added date/time settings for chat bubbles to the settings menu
+    - Virtual Scrolling in the 'Start individual chat'/'Select participants' screens
+    - New icon for the 'end screen share' button in the chat header
+    - Improved screen sharing handling in group sessions
+Version 3.0.5 (Feb 26, 2021)
+    - Multiple file transmission
+    - New cache for VNCproject links
+    - Added virtual scrolling to the 'add user to list' pop up
+    - Implemented a new chat header UI
+    - Added new sound indications for audio/video/screen share sessions
+    - Implemented tool tips in the new UI header
+Version 3.0.4 (Feb 1, 2021)
+    Implemented a 'blur background' option
+    Added a display of missed calls to the chat history
+    Updated the flow of of leaving a video meeting
+    Added an 'uploading...' text to the recent chat list when an uploading process is in progress
+Version 3.0.3 (Dec 30, 2020)
+    New option to customize the incoming call ringtone
+    New chat on the right sidebar in video calls and screen sharing sessions
+    Recent activity tab
+    Advanced search
+    Video preview in full screen
+Version 3.0.2 (Nov 29, 2020)
+    File attachments via drag & drop in the chat
+    Tooltips for the icons on conference tiles
+    New display of the participants info
+    MCB: Added kebab menus to each tab
+    New Profile Information dialog
+    Updated the chat info dialog
+    New UI for the 'edit conference' window
+Version 3.0.1 (Nov 8, 2020)
+    - New option to start whiteboards from 1:1 and group chats
+    - Enabled whiteboard creation from video calls
+    - New option to send files to selected chats/group chats from the Files dialogue
+    - E2EE support
+    - Improved the group chat call flow
+    - Added UI for "no pads available"
+Version 3.0.0 (Oct 18, 2020)
+    - Implemented inline editing for VNCproject previews
+    - Implemented commenting on VNCproject previews
+    - Implemented an option to change the call layout
+    - Implemented full screen and filmstrip view for screensharing
+    - Implemented a swipe option to skip through images in the image preview
+Version 2.6.8 (Aug 3, 2020)
+    * Major improvements of video call quality
+    * Improvements of screen share invitation
+    * Update of conversation history
+    * Update of change avatar feature
+Version 2.6.7 (Jul 28, 2020)
+    - Upgraded Cordova iOS RTC plugin
+    - "Soft rejoin": rejoining a video / audio conference automatically when network drops occur
+    - Loading icon when an image is opened
+    - Improved configuration for call scheduling
+    - Improved call joining from FCM notification
+    - Improved call stability
+    - Fixed dial tone when the app is in background
+Version 2.6.6 (Jul 6, 2020)
+    1) Integrated proximity feature for calls
+    2) Improvements for URL preview
+    3) New wake up/ping/poke feature for calls
+    4) Improved the display of active call notifications by showing floating video box
+    5) Implemented new role model and options for group chats (moderator, participants, etc.).
+Version 2.6.5 (Jun 25, 2020)
+    1) Broadcast messages in video meetings
+    2) Mobile users can add participants to calls
+    3) Improved link preview
+    4) Improved call behaviour
+Version 2.6.4 (Jun 15, 2020)
+    1) Improved call rejoin flow after interrupted connections
+    2) Improved tile view and updated workflow
+    3) Improved Image preview
+    4) UI improvements and bug fixes
+Version 2.6.2 (Jun 9, 2020)
+    1) Improvements for calls (UI, video preview...)
+    2) Improved offline support
+    3) Updated UI for forwarding messages
+    4) Improved performance
+    5) [iOS] Improved notifications
+Version 2.6.1 (May 26, 2020)
+    #1 Update of new call UI (Improved tile view for videoconferencing)
+    #2 New Feature: Raise hand in videoconferencing
+    #3 New UI for settings
+    #4 Change: default audio setting for screen share
+Version 2.6.0 (May 17, 2020)
+    - New feature: videoconferencing with 13+ participants in tile view
+    - New feature: Screen share from tile view
+    - Improvements for call UI (option to hide/show chat, participant list and more)
+    - Improvements fo XMPP reconnect
+Version 2.3.8 (May 9, 2020)
+    - VNCmeet: option to invite externals to video conference via email
+    - new feature RFC - request for connect
+    - notification update for real time multi channel alert
+    - video call feature improvements
+Version 2.3.7 (May 8, 2020)
+    - VNCmeet: option to invite externals to video conference via email
+    - new feature RFC - request for connect
+    - notification update for real time multi channel alert
+    - video call feature improvements
+Version 2.3.6 (Apr 20, 2020)
+    - VNCmeet: option to invite externals to video conference via email
+    - new video bridge failover
+    - improved thumbnail view (full camera angle)
+    - notification update for real time multi channel alert
+    - video call feature improvements
+Version 2.3.5 (Apr 13, 2020)
+    Changes:
+    - Multi device management: improvements of call invitations in case a user is logged in with multiple clients simultaneously (Web Client, Desktop Client, App).
+    - Improvements of the call screen for external users
+    - Improved "start conversation" text: display meta info
+    - Improved recent chat long touch menu
+    - Improved outgoing ringtone when inviting users to ongoing calls
+    - Improved outgoing ringtone when inviting participants via email
+
+    Bugfixes:
+    - Fixed show/hide thumbnails/film strips in the call
+    - [iOS] Improved flow for anonymous users who join calls via link and VNCtalk App
+    - Improved call invitations
+    - Improved kebab menu UI
+    - Improved "user left" messge during a call
+    - Improved call invitations
+    - Improved invitations of group chat users to an ongoing call
+Version 2.3.4 (Apr 3, 2020)
+    Changes
+    1) Multi device management: improvements of call invitations with multiple clients.
+    2) Optimized updates of the user avatar to contacts.
+
+    Bug fixes
+    1) Fixed missing cursor focus in text box with reply message.
+    2) Improved configuration for handling of "ghost users", e.g. network connectivity loss
+    3) Improved 1:1 VNCiom (Inter-Organization Messenger) Calls.
+    4) [Mobile] Optimized syncing of message order and timestamps.
+    4) Fixed the message delivery status of messages.
+    5) UI Improvements.
+Version 2.3.3 (Apr 1, 2020)
+    Changes
+    1) Multi device management: improvements of call invitations with multiple clients.
+    2) Optimized updates of the user avatar to contacts.
+
+    Bug fixes
+    1) Fixed missing cursor focus in text box with reply message.
+    2) Improved configuration for handling of "ghost users", e.g. network connectivity loss
+    3) Improved 1:1 VNCiom (Inter-Organization Messenger) Calls.
+    4) [Mobile] Optimized syncing of message order and timestamps.
+    4) Fixed the message delivery status of messages.
+    5) UI Improvements.
+Version 2.3.2 (Mar 27, 2020)
+    New Features:
+    - Improved user film strip in video calls
+    - Add new participants to a group video call
+    - Automatic reset of the search box after user selection
+    - Notification for changed group chat avatars in the chat history
+
+    Changes:
+    - Optimized user avatar update
+    - Upgrade to Angular 9
+
+    Bugfixes:
+    - UI Improvements
+    - Improved display of speaker in video calls
+    - Optimized chat switching with activated RTF editor
+    - Optimized the call request when app app comes from background to foreground
+    - Optimized the chat properties behaviour in the chat header
+    - Optimized syncing of message timestamps and order
+Version 2.3.1 (Mar 20, 2020)
+    improved Video Calls
+Version 2.3.0 (Mar 13, 2020)
+    Super fast (virtual) scrolling
+    Major UX improvements and UI beautification
+    New Rich Text editor: optional full screen mode, @mention option also in the RTF Editor
+    Send and display html code in plain and RTF mode
+    Switch to turn RTF editor on and off in the settings
+    VNCpad feature improvements
+    Option to delete images from the media screen
+    Improved message reply workflow
+Version 1.5.0.183 (Dec 21, 2019)
+    - star/unstar messages from chat and chat search screen
+    - show starred messages only
+    - renaming + deleting VNCpads
+    - notification icon for VNCpad
+    - Star (favorite) feature
+    Full Release Notes: https://vnclagoon.com/release-notes/?note-group=vnctalk
+Version 1.4.0.35 (Jul 17, 2019)
+    New Features:¶
+    Improved presence update behaviour.
+    Contact management:
+    Removed depricated xmpp roster contact list management.
+    Switched from LDAP based contact management to Redmine database.
+    User management:
+    New integrated Redmine-based user management via web-interface replaces user management via LDAP
+    User management via external LDAP still possible.
+    VNCtalk Zimlet is now deprecated and no longer supported.
+    Global search function now also returns contacts in search results.
+    Embedded video player: attached videos can now played directly inline inside the chat window.
+    Improved menu item description in German language
+    Improved reconnection behaviour for the desktop app after system awakes from sleep mode.
+    Bug Fixes:
+    Removed contact's presence indicator from groupchat avatars.
+    Fixed dropouts happening occationally in long audio calls after a while.
+    Fixed sync gap, when new messages took a few moments to arrive.
+    Fixed error message, informing that the last attached file in a chat has been failed to send when reopening the chat later on, even if that is not the case.
+    Fixed list duplication when adding a contact to an existing list
+    Fixed resetting of unrelated configuration values when modifying items in the settings menu.
+    Fixed the incorrect hyphenation of usernames in Groupchat's participant list display.
+    Fixed for big image files, that a white backgroud is replacing the chat window on opening, until it has been downloaded completely.
+    Fixed an issue where a new user cannot perform a first time login.
+    Groupchat avatars are now displayed in search results window
+    Webclient/ Desktop app:
+    Fixed layout issues in video calls appearing in web- and electron client.
+    VNCtalk-App(Android/ iOS):
+    Fixed app crashing sometimes when opening items in Legal notice menu.
+    Fixed the display of notifications when the app is in foreground, despite notifications have been explicitely disabled in the settings.
+    Fixed that user avatars are occationally not displayed alongside messages in groupchats
+    VNCtalk-App(iOS):
+    Fixed jitsi-meet implemetation to work with iOS RTC plugin now properly.
+Version 1.2.1.122 (May 23, 2019)
+    New Features:
+    Searchbar added for existing groupchats to (+) menu.
+    Email digest for unread messages added
+    Improved message sync to prevent messages from appearing late in chat window
+    Images stored in "Media" are now zoomable
+    Implemented file-sharing for Documents, Audio in chat's Media folder, when the App is in foreground.
+
+    Bug Fixes:
+    Previously opened menus are now closed before opening a new menu to prevent overlapping
+    Links in "Search Chat" results are now clickable
+    Fixed missing chat history
+    Fixed "move to end" button displayed in chat window when screen is already at the bottom of the chat.
+    Fixed kebab-menu in imageview not working
+Version 1.2.0.44 (Mar 27, 2019)
+    New Features:
+    Mention: address another group chat member directly via @user
+    Options-menu is now available for messages in search results as well (reply/ forward, etc.)
+    Bug Fixes:
+    Missing options-menu for the last message in a conversation
+    Opening an item in the document tab of the Media folder causing the app to crash
+    iOS-app only:
+    incorrect new messages count displayed on badge
+    Shraring in iOS working again
+    App does not start after upgrade to iOS 12.2.
+Version 1.1.7.27 (Mar 16, 2019)
+    New Features:
+    - Improved performance on reconnect
+    - IOM: 1on1 A/V calls with external users
+
+    Bug Fixes:
+    - File corruption, when a message was received or the app/ client was closed during the file upload process.
+    - Sync issues: messages marked as read not reflected in all clients.
+    - Groupchat: fixed incorrect info message on users entering the room.
+Version 1.1.6.23 (Mar 14, 2019)
+    New Features:
+    Broadcasts
+    Whiteboard can be disabled in settings.
+    Auto subscription of incoming chat users to contact list.
+    Default nofification setting changed to "with chat text".
+    Improved Share to VNCtalk App feature.
+    Bug Fixes:
+    Groupchats stay available for external users now, so they can rejoin on later login.
+    Fixed UI for Email to a friend option.
+    Fixed that chat-history was missing in some cases.
+    On app opening, notifications are removed.
+    Glitch in "Save changes" fixed .
+Version 1.1.5.20 (Mar 11, 2019)
+    New Features:
+
+    Native emogies are now used on mobile and MacOS
+    MacOS: changed mapping CTRL + Enter to CMD + Enter
+    A VNCtalk desktop app has been released
+    Improved language support
+    improved readability for date indicator and unread messages coloring
+    VNCtalk app: You can download images from chat to your mobile
+    Bug Fixes:
+
+    Avatars for group chats
+    URL-preview in chats
+    Capture and send photo function on mobile
+    Mobile notifications are now automatically removed from status bar for read messages
+Version 1.1.4.13 (Feb 24, 2019)
+    New Features:
+    Avatars can be set for groupchats by the owner now.
+    When browsing the chat history, an indicator in the top-center informs you about the date when the chat messages, currently displayed in the chat-window, were sent.
+    When opening a chat, the history scrolls automatically to the beginning of the first unread message, allowing you to pick up the pace more quickly.
+    Unread messages are now displayed in a different color when opening a chat window.
+    A preview for URLs is displayed now in the chat window
+    Improved offline support for the VNCtalk app.
+    A new Yellow Theme is now available for VNCtalk in settings menu.
+    Added new language support: French
+    Added a new overlay submenu when using the Start chat function, allowing you to specify upfront if you want to start a 1on1 chat, groupchat or initiate a broadcast(coming soon).
+    Bug Fixes:
+    A bug causing the VNCtalk app to crash has been fixed
+    Fixed an alignment error in group chat messages.
+    Fixed a Bug in the UI for external users.
+    Fixed issue that the focus is not automatically in the text input field when using the Start chat/ Start groupchat function.
+Version 1.0 (Jan 29, 2019)
+
+Users may also like
+Select objects to compare
+PRIVUS SecurLine Messenger
+Triton
+Cloak Encrypt
+SafeBx
+ChatTask
+Monster VoIP Smartphone
+Haven - A Decentralized Cloud
+Airwall
+Red Cloud Mobile
+Flowz Drive
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    4.0.4
+    Current release
+    Feb 3, 2024
+    4.0.3
+    Dec 5, 2023
+    4.0.2
+    Nov 30, 2023
+    4.0.1
+    Mar 23, 2023
+    4.0.0
+    Sep 25, 2022
+    3.2.5
+    Jul 21, 2022
+    3.2.4
+    May 23, 2022
+    3.2.3
+    Apr 20, 2022
+    3.2.2
+    Feb 21, 2022
+    3.2.1
+    Feb 1, 2022
+    3.2.0
+    Dec 29, 2021
+    3.1.6
+    Nov 17, 2021
+    3.1.5
+    Oct 22, 2021
+    3.1.4
+    Oct 21, 2021
+    3.1.3
+    Oct 5, 2021
+    3.1.2
+    Aug 23, 2021
+    3.1.0
+    Jul 6, 2021
+    3.0.10
+    Jun 8, 2021
+    3.0.9
+    May 16, 2021
+    3.0.8
+    Apr 13, 2021
+    3.0.7
+    Mar 24, 2021
+    3.0.6
+    Mar 9, 2021
+    3.0.5
+    Feb 26, 2021
+    3.0.4
+    Feb 1, 2021
+    3.0.3
+    Dec 30, 2020
+    3.0.2
+    Nov 29, 2020
+    3.0.1
+    Nov 8, 2020
+    3.0.0
+    Oct 18, 2020
+    2.6.8
+    Aug 3, 2020
+    2.6.7
+    Jul 28, 2020
+    2.6.6
+    Jul 6, 2020
+    2.6.5
+    Jun 25, 2020
+    2.6.4
+    Jun 15, 2020
+    2.6.2
+    Jun 9, 2020
+    2.6.1
+    May 26, 2020
+    2.6.0
+    May 17, 2020
+    2.3.8
+    May 9, 2020
+    2.3.7
+    May 8, 2020
+    2.3.6
+    Apr 20, 2020
+    2.3.5
+    Apr 13, 2020
+    2.3.4
+    Apr 3, 2020
+    2.3.3
+    Apr 1, 2020
+    2.3.2
+    Mar 27, 2020
+    2.3.1
+    Mar 20, 2020
+    2.3.0
+    Mar 13, 2020
+    1.5.0.183
+    Dec 21, 2019
+    1.4.0.35
+    Jul 17, 2019
+    1.2.1.122
+    May 23, 2019
+    1.2.0.44
+    Mar 27, 2019
+    1.1.7.27
+    Mar 16, 2019
+    1.1.6.23
+    Mar 14, 2019
+    1.1.5.20
+    Mar 11, 2019
+    1.1.4.13
+    Feb 24, 2019
+    1.0
+    Jan 29, 2019
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jan 29, 2019
+
+Worldwide Release Date
+    Jan 14, 2019
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    4.0.4
+
+Size
+    280.22 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, German
+
+Seller
+    VNC - Virtual Network Consult AG
+
+Company HQ
+    Switzerland
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    biz.vnc.vnctalk
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1400937435
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+VNCtalk | data.ai

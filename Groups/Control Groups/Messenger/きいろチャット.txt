@@ -1,0 +1,398 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+きいろチャット
+YUTA MIYOSHISocial Networking (Applications)Free
+Alerts
+
+    YUTA MIYOSHI
+
+    きいろチャット
+    きいろチャット
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+No data is available.
+Loading
+Loading lots of data (this could take a moment).
+きいろチャット
+完全匿名でチャットと通話
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+Welcome to Kiiro Chat, the secret chat board that everyone's using. Let's have casual conversations with many people!
+
+※This app is not intended for posting information related to dating, so please refrain from such posts. Also, posting IDs of other SNS directly on the bulletin board is prohibited.
+Ratings
+Displayed Avg Ratings
+4.29
+Total Displayed Ratings
+14.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.7 (Feb 8, 2024)
+    通信量を減らすような改善を行いました。
+Version 6.6 (Jan 29, 2024)
+    ユーザー詳細画面で投稿の表示が遅い問題を改善しました。
+Version 6.4 (Dec 21, 2023)
+    通信量の削減を行いました。
+Version 6.3 (Dec 6, 2023)
+    内部的なシステムの改修を行いました。
+Version 6.2 (Dec 3, 2023)
+    細かい不具合修正や最適化を行いました。
+Version 6.1 (Nov 5, 2023)
+    ボイス投稿をしようとするとクラッシュする不具合を修正しました。
+Version 6.0 (Sep 5, 2023)
+    メッセージリストが更新しにくい問題を修正しました。
+Version 5.8 (Aug 10, 2023)
+    DMでの画像送信に失敗する不具合と、DMの通知数がずれる不具合を修正しました。
+Version 5.7 (Aug 1, 2023)
+    DMでpngの画像を送信できない不具合を修正しました。
+Version 5.6 (Jul 24, 2023)
+    細かな改善を行いました。
+Version 5.5 (Jun 27, 2021)
+    スクリーンショットを変更しました。
+Version 5.4 (Jun 23, 2021)
+    不具合の修正を行いました。
+Version 5.3 (May 7, 2021)
+    不具合の修正を行いました。
+Version 5.2 (Apr 3, 2021)
+    「ぜんぶ」に表示される投稿を選別できるようになりました。
+    その他不具合の修正を行いました。
+Version 5.1 (Nov 17, 2020)
+    ランダムメッセージ機能を実装しました。
+Version 5.0 (Oct 17, 2020)
+    ウィジェットに対応しました。
+Version 4.9 (Oct 5, 2020)
+    写真を４枚まで投稿に含めることができるようになりました（iOS14のみ対応）。
+Version 4.8 (Sep 24, 2020)
+    アンケート機能を追加しました。
+Version 4.7 (Sep 21, 2020)
+    不具合を修正しました。
+Version 4.6 (Sep 16, 2020)
+    音声を投稿できるようになりました。
+Version 4.4 (Aug 21, 2020)
+    通話機能を追加しました。
+Version 4.3 (Aug 10, 2020)
+    ハッシュタグに対応しました。
+Version 4.2 (Jul 28, 2020)
+    不具合の修正を行いました。
+Version 4.1 (Jul 21, 2020)
+    動画が投稿できるようになりました。
+Version 4.0 (Jun 23, 2020)
+    動作速度の改善、不具合の修正を行いました。
+Version 3.9 (Jun 16, 2020)
+    画像が投稿できるようになりました。
+Version 3.8 (Apr 24, 2020)
+    ダークモードに対応しました。
+Version 3.7 (Apr 14, 2020)
+    細かな改善を行いました。
+Version 3.6 (Apr 2, 2020)
+    不具合の修正を行いました。
+Version 3.5 (Mar 26, 2020)
+    不具合を修正しました。
+Version 3.4 (Mar 19, 2020)
+    不具合の修正を行いました。
+Version 3.3 (Mar 9, 2020)
+    「ぜんぶ」カテゴリを追加しました。
+Version 3.2 (Mar 2, 2020)
+    過去の投稿、お気に入り画面での投稿先がわかるようになりました。
+Version 3.1 (Feb 25, 2020)
+    掲示板の並び替えができるようになりました。
+Version 3.0 (Feb 14, 2020)
+    ブロックリストとミュートリストをまとめて削除できるようになりました。
+    その他改善を行いました。
+Version 2.9 (Jan 31, 2020)
+    不具合を修正しました。
+Version 2.8 (Jan 24, 2020)
+    ログイン機能を実装しました。
+Version 2.7 (Jan 4, 2020)
+    不具合を修正しました。
+Version 2.6 (Dec 16, 2019)
+    メッセージを並び替えられるようにしました。
+Version 2.5 (Dec 4, 2019)
+    さがす画面に人気順を追加しました。
+Version 2.1 (Nov 21, 2019)
+    ブロックリストとミュートリストを追加しました。
+Version 2.0 (Nov 7, 2019)
+    不具合を修正しました。
+Version 1.9 (Nov 4, 2019)
+    ユーザーをお気に入りする機能を追加しました。
+    また、動作速度を改善しました。
+Version 1.8 (Oct 17, 2019)
+    いいねとリプライの通知画面を実装しました。
+    その他様々な改善を行いました。
+Version 1.7 (Oct 3, 2019)
+    不具合を修正しました。
+Version 1.6 (Sep 30, 2019)
+    過去の投稿が見れるようになりました。
+Version 1.5 (Sep 26, 2019)
+    掲示板のカテゴリを追加しました。
+Version 1.4 (Aug 26, 2019)
+    音声による自己紹介機能を追加しました。
+Version 1.3 (Aug 20, 2019)
+    いいね機能を実装しました。
+Version 1.2 (Aug 18, 2019)
+    掲示板の返信数が表示されるようになりました。
+Version 1.1 (Aug 11, 2019)
+    メッセージの未読数が表示されるようになりました。
+Version 1.0 (Aug 4, 2019)
+
+Users may also like
+Select objects to compare
+ひまトーク＋
+MONIE (モニー) - 友達探し掲示板SNS
+朝に消えるマッチングチャット：Chat（ちゃっと）わん！！
+ひま友とおしゃべり！チャットsnsは かまってちゃん
+ひまチャット - 最強チャットで今すぐ暇つぶし！
+LEMON - very fun chat app
+匿名電話チャットアプリ - アノニム
+ひま友チャット - 友達探しトークチャットSNS
+RandomChat - Chat right away
+近所の出会い探しマッチングアプリ バクアイ
+IQ Classifications
+Genre: Social Media
+Subgenre: Discussion & Forum
+Discussion & Forum
+Communication platform apps that help users share, look for or discuss information, opinions, interests and news.
+Downloads Rank
+N/A
+Store Revenue Rank
+N/A
+Loading
+Loading lots of data (this could take a moment).
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    6.7
+    Current release
+    Feb 8, 2024
+    6.6
+    Jan 29, 2024
+    6.4
+    Dec 21, 2023
+    6.3
+    Dec 6, 2023
+    6.2
+    Dec 3, 2023
+    6.1
+    Nov 5, 2023
+    6.0
+    Sep 5, 2023
+    5.8
+    Aug 10, 2023
+    5.7
+    Aug 1, 2023
+    5.6
+    Jul 24, 2023
+    5.5
+    Jun 27, 2021
+    5.4
+    Jun 23, 2021
+    5.3
+    May 7, 2021
+    5.2
+    Apr 3, 2021
+    5.1
+    Nov 17, 2020
+    5.0
+    Oct 17, 2020
+    4.9
+    Oct 5, 2020
+    4.8
+    Sep 24, 2020
+    4.7
+    Sep 21, 2020
+    4.6
+    Sep 16, 2020
+    4.4
+    Aug 21, 2020
+    4.3
+    Aug 10, 2020
+    4.2
+    Jul 28, 2020
+    4.1
+    Jul 21, 2020
+    4.0
+    Jun 23, 2020
+    3.9
+    Jun 16, 2020
+    3.8
+    Apr 24, 2020
+    3.7
+    Apr 14, 2020
+    3.6
+    Apr 2, 2020
+    3.5
+    Mar 26, 2020
+    3.4
+    Mar 19, 2020
+    3.3
+    Mar 9, 2020
+    3.2
+    Mar 2, 2020
+    3.1
+    Feb 25, 2020
+    3.0
+    Feb 14, 2020
+    2.9
+    Jan 31, 2020
+    2.8
+    Jan 24, 2020
+    2.7
+    Jan 4, 2020
+    2.6
+    Dec 16, 2019
+    2.5
+    Dec 4, 2019
+    2.1
+    Nov 21, 2019
+    2.0
+    Nov 7, 2019
+    1.9
+    Nov 4, 2019
+    1.8
+    Oct 17, 2019
+    1.7
+    Oct 3, 2019
+    1.6
+    Sep 30, 2019
+    1.5
+    Sep 26, 2019
+    1.4
+    Aug 26, 2019
+    1.3
+    Aug 20, 2019
+    1.2
+    Aug 18, 2019
+    1.1
+    Aug 11, 2019
+    1.0
+    Aug 4, 2019
+
+See More
+Top In-App Purchases
+
+    プレミアムオプション
+    $19.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Aug 4, 2019
+
+Worldwide Release Date
+    Aug 4, 2019
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    6.7
+
+Size
+    88.15 mb
+
+Only 32 Bit
+    No
+
+Languages
+    日本語, 英語
+
+Seller
+    YUTA MIYOSHI
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 15.0以降が必要です。iPhone、iPad、およびiPod touchに対応。
+
+Bundle ID
+    info.gamestudio.KiiroChat
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1473286815
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+きいろチャット | data.ai

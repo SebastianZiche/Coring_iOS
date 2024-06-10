@@ -1,0 +1,465 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Voice Transcriber - Dictation
+培 李Productivity (Applications)Free
+Alerts
+
+    培 李
+
+    Voice Transcriber - Dictation
+    Voice Transcriber - Dictation
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Voice Transcriber - Dictation
+Live transcribe speech to text
+Productivity (Applications)
+Free
+App Description
+Voice Transcriber is the app that you can type with your voice. Use this app to dictate instead of typing. Release your hand.
+
+Voice Transcriber can transcribe your voice into text in real time with great accuracy thanks to its leading technology.
+
+You can also import external audio or video file to recognize the text in it and transcribe it into text.
+
+There are many languages you can choose to recognize your speech including English, Chinese, Arabic, Cantonese, Czech, Catalan, Croatian, Dutch, Danish, French, Finnish, Greek, German, Hebrew, Hindi, Hungarian, Italian, Indonesian, Japanese, Korean, Malay, Norwegian, Portuguese, Romanian, Russian, Spanish, Slovak, Thai, Turkish, Ukrainian, Vietnamese and so on.
+
+After complete your transcription, you can save, copy, translate and share your transcription.
+
+Become a premium member, you will get:
+* Import audio or video file to recognize text in it;
+* Up to one hour transcription;
+* Offline mode, transcribe without network access;
+* Translate;
+* Sync to iCloud;
+Ratings
+Displayed Avg Ratings
+4.3
+Total Displayed Ratings
+1.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.1 (Sep 4, 2023)
+    1, bug fix;
+Version 8.0 (Apr 23, 2023)
+    1, add lifetime payment option;
+Version 7.9 (Mar 1, 2023)
+    1, bug fix;
+Version 7.8 (Feb 19, 2023)
+    1, bug fix;
+Version 7.7 (Feb 13, 2023)
+    1, fix the player rate bug;
+Version 7.6 (Dec 30, 2022)
+    1, bug fix;
+Version 7.5 (Aug 26, 2022)
+    1, add more controls over audio playing;
+Version 7.4 (Dec 5, 2021)
+    1, bug fix;
+Version 7.3 (Oct 8, 2021)
+    1, bug fix;
+Version 7.1 (Sep 29, 2021)
+    1, bug fix;
+Version 7.0 (Sep 28, 2021)
+    1, support iOS 15;
+    2, bug fix;
+Version 6.8 (Sep 7, 2021)
+    1, bug fix;
+Version 6.7 (Sep 3, 2021)
+    1, add Indonesian translation;
+Version 6.6 (Aug 27, 2021)
+    1, bug fix;
+Version 6.4 (Aug 20, 2021)
+    1, bug fix;
+Version 6.5 (Aug 20, 2021)
+    1, localize screenshots;
+Version 6.3 (Jun 6, 2021)
+    1, add Italian language support
+Version 6.2 (May 26, 2021)
+    1, UI changes;
+Version 6.1 (May 23, 2021)
+    1, UI changes;
+Version 6.0 (May 20, 2021)
+    1, UI changes;
+Version 5.9 (May 15, 2021)
+    1, bug fix;
+Version 5.8 (May 10, 2021)
+    1, Payment UI adjustments;
+Version 5.7 (Apr 30, 2021)
+    1, UI adjustments;
+Version 5.6 (Apr 23, 2021)
+    1, add translation voice;
+Version 5.5 (Apr 13, 2021)
+    1, minor UI change;
+Version 5.4 (Mar 29, 2021)
+    1, UI adjustments;
+Version 5.3 (Mar 22, 2021)
+    1, add stop button for transcribing;
+    2, add edit option for edit text;
+Version 5.2 (Mar 3, 2021)
+    1, bug fix;
+Version 5.1 (Feb 23, 2021)
+    1, minor fix;
+Version 5.0 (Feb 21, 2021)
+    1, add punctuation tips & record voice switch;
+Version 4.9 (Jan 29, 2021)
+    1, bug fixes;
+Version 4.8 (Jan 28, 2021)
+    1, bug fix and adjust;
+Version 4.7 (Dec 7, 2020)
+    1, fix recording voice is too low;
+Version 4.6 (Dec 4, 2020)
+    1, minor fix;
+Version 4.5 (Nov 19, 2020)
+    1, change the flow of transcribe file; 
+Version 4.4 (Nov 17, 2020)
+    1, add lock app;
+Version 4.3 (Nov 12, 2020)
+    1, fix on device recognition;
+Version 4.2 (Nov 10, 2020)
+    1, make transcribe free to use;
+Version 4.1 (Oct 22, 2020)
+    1, bug fix;
+Version 4.0 (Oct 20, 2020)
+    1, fix transcribe long audio file bug;
+Version 3.8 (Oct 17, 2020)
+    1, add Crashlytics;
+Version 3.7 (Sep 23, 2020)
+    1, add share audio;
+Version 3.6 (Sep 18, 2020)
+    1, Add support for iOS 14;
+Version 3.5 (Sep 17, 2020)
+    1，bug fix;
+Version 3.4 (Sep 11, 2020)
+    1, minor fix;
+Version 3.3 (Sep 8, 2020)
+    1, add save audio;
+Version 3.2 (Sep 3, 2020)
+    1, minor fix;
+Version 3.1 (Sep 2, 2020)
+    1, add text auto scroll;
+Version 3.0 (Aug 30, 2020)
+    1, minor fix;
+Version 2.9 (Aug 29, 2020)
+    1, now you can save transcriptions for free;
+Version 2.8 (Aug 24, 2020)
+    1, minor fix;
+Version 2.7 (Aug 19, 2020)
+    1, change app name;
+Version 2.6 (Aug 14, 2020)
+    1, support for video file import;
+    2, import more audio file types;
+    3, add half year subscription;
+Version 2.5 (Aug 11, 2020)
+    1, add Japanese language support;
+Version 2.4 (Aug 1, 2020)
+    1, bug fix;
+Version 2.3 (Jul 25, 2020)
+    1, Add translation feature;
+    2, Choose different languages to translate;
+Version 2.2 (Jul 21, 2020)
+    1, bug fix;
+    2, change some text;
+Version 2.1 (Jul 15, 2020)
+    1, fix sync to iCloud.
+    2, change some icons.
+Version 2.0 (Jul 13, 2020)
+    1, add sync to iCloud
+Version 1.2 (Jul 9, 2020)
+    1, add offline mode
+Version 1.1 (Jul 5, 2020)
+    1, add transcribing support for up to one hour.
+    2, bug fix.
+    3, add language support for Chinese.
+Version 1.0 (Jul 1, 2020)
+
+Users may also like
+Select objects to compare
+Speech to Text Transcribe
+Speech to Text+
+Transcriber
+Text Reader - Text to Speech
+Voice to Text Dictation VoxRec
+Audio Transcribe
+Dictation - Speech to text
+Voice Notebook - audio to text
+Speech to Text Voice Typing
+Transcribe - Live conversion
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    8.1
+    Current release
+    Sep 4, 2023
+    8.0
+    Apr 23, 2023
+    7.9
+    Mar 1, 2023
+    7.8
+    Feb 19, 2023
+    7.7
+    Feb 13, 2023
+    7.6
+    Dec 30, 2022
+    7.5
+    Aug 26, 2022
+    7.4
+    Dec 5, 2021
+    7.3
+    Oct 8, 2021
+    7.1
+    Sep 29, 2021
+    7.0
+    Sep 28, 2021
+    6.8
+    Sep 7, 2021
+    6.7
+    Sep 3, 2021
+    6.6
+    Aug 27, 2021
+    6.4
+    Aug 20, 2021
+    6.5
+    Aug 20, 2021
+    6.3
+    Jun 6, 2021
+    6.2
+    May 26, 2021
+    6.1
+    May 23, 2021
+    6.0
+    May 20, 2021
+    5.9
+    May 15, 2021
+    5.8
+    May 10, 2021
+    5.7
+    Apr 30, 2021
+    5.6
+    Apr 23, 2021
+    5.5
+    Apr 13, 2021
+    5.4
+    Mar 29, 2021
+    5.3
+    Mar 22, 2021
+    5.2
+    Mar 3, 2021
+    5.1
+    Feb 23, 2021
+    5.0
+    Feb 21, 2021
+    4.9
+    Jan 29, 2021
+    4.8
+    Jan 28, 2021
+    4.7
+    Dec 7, 2020
+    4.6
+    Dec 4, 2020
+    4.5
+    Nov 19, 2020
+    4.4
+    Nov 17, 2020
+    4.3
+    Nov 12, 2020
+    4.2
+    Nov 10, 2020
+    4.1
+    Oct 22, 2020
+    4.0
+    Oct 20, 2020
+    3.8
+    Oct 17, 2020
+    3.7
+    Sep 23, 2020
+    3.6
+    Sep 18, 2020
+    3.5
+    Sep 17, 2020
+    3.4
+    Sep 11, 2020
+    3.3
+    Sep 8, 2020
+    3.2
+    Sep 3, 2020
+    3.1
+    Sep 2, 2020
+    3.0
+    Aug 30, 2020
+    2.9
+    Aug 29, 2020
+    2.8
+    Aug 24, 2020
+    2.7
+    Aug 19, 2020
+    2.6
+    Aug 14, 2020
+    2.5
+    Aug 11, 2020
+    2.4
+    Aug 1, 2020
+    2.3
+    Jul 25, 2020
+    2.2
+    Jul 21, 2020
+    2.1
+    Jul 15, 2020
+    2.0
+    Jul 13, 2020
+    1.2
+    Jul 9, 2020
+    1.1
+    Jul 5, 2020
+    1.0
+    Jul 1, 2020
+
+See More
+Top In-App Purchases
+
+    Monthly Subscription
+    $2.99
+    Yearly Subscription
+    $23.99
+    Lifetime
+    $59.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jul 1, 2020
+
+Worldwide Release Date
+    Jul 1, 2020
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    8.1
+
+Size
+    19.65 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Catalan, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Slovak, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+Seller
+    培 李
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.perry.VoiceToText
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+App ID: 1519359606
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Voice Transcriber - Dictation | data.ai

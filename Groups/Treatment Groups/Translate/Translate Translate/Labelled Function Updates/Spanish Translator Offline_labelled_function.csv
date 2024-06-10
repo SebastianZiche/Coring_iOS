@@ -1,0 +1,22 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8,app_function
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.14.10,2022-11-22,fix a hang bug when using voice translation feature,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.14.05,2022-11-08,fix a crash on iOS 16,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.13.83,2022-02-14,fix translation API bug,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.13.76,2022-01-20,iOS15 full support Bug fixes UI improvements,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.13.10,2019-11-26,iOS13 fully support Offline translation for Premium users fix some UI bugs and deprecated APIs,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,1212.77,2019-06-24,add share button for translation add speaker button for source text easier to tap on speaker buttons fix bugs when copying text,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.12.35,2018-12-06,bug fix: Translating long text did not work add monthly yearly subscriptions.,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.12.23,2018-10-19,iOS12 compatibility multiline search box option to reverse translation direction when language detection failed,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.12.00,2018-07-04,fix a critical crash in previous version. fix some deprecated APIs new splash screen stability improvements,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.11.90,2018-06-22,support multi selection move ad banner to top other bugfixes improvements,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.11.88,2018-06-18,support multi selection auto load last word when app launches improve app stability fix deprecated API bug fixes,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.11.61,2018-02-12,fix layout for iPhone X,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.11.50,2017-10-13,remove annoying popup when translating,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.11.34,2017-08-13,Search by Voice Speech Recognition Bugfixes Improvements,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.9.99,2017-02-22,Bug fixes UI Improvements,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.9.66,2016-09-02,bugfixes improvements,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.9.36,2016-05-23,improvements bugfixes,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.9.17,2016-03-14,offline dictionary better UI,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.7.8,2015-10-23,Fix Translator is not available,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.3.1,2015-07-08,Bugfixes Search History Easier to select text,0,0,0,0,0,0,0,0,0
+984498840,1000600000791731,Spanish Translator Offline,Reference,2015-05-06,2015-05-05,208.48,3,1,0,1,12.0.2,2015-05-05,,0,0,0,0,0,0,0,0,0

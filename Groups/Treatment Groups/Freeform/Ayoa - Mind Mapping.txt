@@ -1,0 +1,1165 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Ayoa - Mind Mapping
+ThinkBuzanProductivity (Applications)Free
+Alerts
+
+Ayoa Ultimate Mind Mapping
+Ayoa - Mind Mapping
+Ayoa - Mind Mapping
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Ayoa - Mind Mapping
+Ultimate Mind Mapping
+Productivity (Applications)
+Free
+App Description
+Unleash the world’s most powerful mind mapping tool in the palm of your hand. Draw on inspiration from others as you collaborate in the idea-inducing format of mind maps, transform thoughts into actionable tasks, and discover how it feels to make your best concepts a reality.
+
+Work in a style how you like, where you like, with the Ayoa app!
+
+Your use of this app is subject to the Ayoa Terms and Conditions, which can be found at: https://ayoa.com/terms-and-conditions
+Ratings
+Displayed Avg Ratings
+4.56
+Total Displayed Ratings
+3.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.0.109 (Dec 4, 2023)
+    Language fixes.
+Version 3.0.108 (Nov 20, 2023)
+    Welsh as language option.
+Version 3.0.107 (Nov 16, 2023)
+    Bug fixes and performance improvements.
+Version 3.0.106 (Nov 6, 2023)
+    Bug fixes and performance improvements.
+Version 3.0.105 (Aug 8, 2023)
+    Bug fixes and performance improvements.
+Version 3.0.103 (Jul 12, 2023)
+    Bug fixes and performance improvements.
+Version 3.0.102 (Jul 5, 2023)
+    Bug fixes and performance improvements.
+Version 3.0.101 (Jun 15, 2023)
+    Bug fixes and performance improvements.
+Version 3.0.100 (Mar 16, 2023)
+    Bug fixes and performance improvements.
+Version 3.0.98 (Dec 16, 2022)
+    Bug fixes and performance improvements.
+Version 3.0.96 (Dec 6, 2022)
+    Bug fixes and performance improvements.
+Version 3.0.95 (Oct 13, 2022)
+    We've made some fixes and improvements to help you work better and make you more productive than ever.
+Version 3.0.94 (Aug 10, 2022)
+    We've made some fixes and improvements to help you work better and make you more productive than ever.
+Version 3.0.93 (Aug 5, 2022)
+    We've made some fixes and improvements to help you work better and make you more productive than ever.
+Version 3.0.92 (Aug 4, 2022)
+    We've made some fixes and improvements to help you work better and make you more productive than ever.
+Version 3.0.91 (Jul 28, 2022)
+    - Colour changes are live
+    We’ve made some changes and fixes to the colours in our speed map style to give you a more consistent experience!
+
+    - Dyslexia view is now in mobile!
+    Our dyslexia view is helping thousands of people in Ayoa, and now you can work in a way that suits your thinking in our mobile app!
+Version 3.0.89 (Jun 30, 2022)
+    We've made some fixes and improvements to help you work better and make you more productive than ever.
+Version 3.0.88 (Jun 20, 2022)
+    Ayoa is now available in Italian!
+
+    We've also made some fixes and improvements to help you work better and make you more productive than ever.
+Version 3.0.87 (Jun 8, 2022)
+    Getting organised is a tap away!
+    You can now double tap to create tasks in task board, calendar and even your planner!
+
+    We've also made some fixes and improvements to help you work better and make you more productive than ever.
+Version 3.0.86 (May 12, 2022)
+    - Removal of red dot for completed/received/assigned tasks through chat
+    - Improved Public sharing, Password protection
+    - Internal task links crashing devices
+Version 3.0.85 (May 5, 2022)
+    - Made organic branch labels tappable
+    - Increased tappable area for options on mind map creation screen
+    - Fixed chat input delay on sending messages
+    - Fixed issue with chat input not focusing properly when keyboard is active
+    - Fixed certain Ayoa links not opening the related screen in the app
+    - Fixed app restarting on opening after having been minimised
+Version 3.0.84 (Mar 10, 2022)
+    - Double tapping branches now opens the branch style editor
+    - Fixed a bug where taps on an organic branch didn't always register
+    - Some MM performance improvements
+    - Fixed an issue where the app would freeze after using the language picker
+Version 3.0.83 (Feb 28, 2022)
+    - Fixed missing "add member by email" option for whiteboards.
+    - Added missing button for creating templates.
+    - Made some improvements to UI when attachments fail to upload.
+    - Added attachment collections in whiteboards and some other minor UI improvements
+Version 3.0.59 (Feb 14, 2022)
+    Get into your creative zone and increase your focus with a new exclusively mind map orientated Ayoa experience - Ayoa Mind Map.
+    Upgrade to the plan which best suits your ambition directly from the app. In-app purchases of Ayoa Mind Map, Ayoa Pro and Ayoa Ultimate subscriptions are now all available.
+Version 3.0.58 (Dec 22, 2021)
+    Fixed crash when opening notifications screen
+Version 3.0.57 (Dec 21, 2021)
+    Whiteboard/mind map mentions notification improvements
+    Moved access to task history into task "more menu"
+    Auto archive tasks on completion
+Version 3.0.56 (Dec 3, 2021)
+    In this release we've included a few bug fixes:
+    - Fixed filtering tasks by keyword.
+    - Fixed rendering arrows between Whiteboard components.
+    - Fixed modal topbar look and behaviour.
+    - Fixed MindMap drag & drop responsiveness.
+    - Fixed Today Extension night mode colours.
+Version 3.0.55 (Nov 15, 2021)
+    Ayoa is now available in Brazilian!
+Version 3.0.54 (Nov 10, 2021)
+    - Got the job done? Put your completed tasks to rest and keep your task boards tidy. By archiving completed tasks, they will disappear from your main task board view and instead be saved in ‘Archived Tasks’.
+    - Add expression, clarity and colour to the notes of your branches, tasks, and objects in your whiteboards, with the introduction of a rich text editor.
+Version 3.0.53 (Oct 19, 2021)
+    In this release we've fixed a few issues related to Chat behaviour and In-App Purchase process.
+Version 3.0.52 (Oct 5, 2021)
+    - Take your Ayoa whiteboards wherever you go! The freedom to throw sticky notes everywhere, design beautiful mood boards, store important resources, and more is now available within the Ayoa app.
+    In this release we've included a few bug fixes related to tasks behaviour on the Canvas view.
+Version 3.0.51 (Sep 30, 2021)
+    - Take your Ayoa whiteboards wherever you go! The freedom to throw sticky notes everywhere, design beautiful mood boards, store important resources, and more is now available within the Ayoa app.
+    In this release we've included small bug fixes related to drop-down picker behaviour and filtering tasks on the Canvas view.
+Version 3.0.50 (Sep 23, 2021)
+    - Introduction of new UI design.
+    - Take your Ayoa whiteboards wherever you go! The freedom to throw sticky notes everywhere, design beautiful mood boards, store important resources, and more is now available within the Ayoa app.
+Version 3.0.49 (Aug 23, 2021)
+    Minor changes and fixes to improve your Ayoa experience.
+Version 3.0.48 (Aug 3, 2021)
+    Fixed issue with Task notes not working in some scenarios.
+Version 3.0.47 (Jul 29, 2021)
+    Small fixes and improvements to mind maps and task boards.
+Version 3.0.44 (Mar 3, 2021)
+    Small updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.43 (Feb 10, 2021)
+    Mind Map updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.42 (Jan 29, 2021)
+    Mind Map updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.41 (Jan 18, 2021)
+    Chat and Mind Map updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.40 (Dec 22, 2020)
+    Small Mind Map updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.39 (Dec 16, 2020)
+    Added limit of 50 Mind Map elements in the Free Plan.
+    Small Mind Map updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.38 (Nov 25, 2020)
+    Small Mind Map updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.37 (Nov 18, 2020)
+    Board Chats started in a web application are now visible in the mobile app too.
+    Small Mind Map updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.36 (Oct 19, 2020)
+    Small Mind Map updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.34 (Sep 16, 2020)
+    Mind map improvements: branch colors remain consistent when switching between mind map views.
+Version 3.0.33 (Sep 2, 2020)
+    Stronger passwords: Keeping our customers' information secure is extremely important to us. That's why new passwords must contain at least one uppercase or lowercase letter and at least one digit - for extra security.
+Version 3.0.32 (Aug 17, 2020)
+    - Ayoa is now available in Chinese Simplified! As a global brand, we want everyone to enjoy Ayoa at its best - that's why we're proud to launch Ayoa in the new language.
+Version 3.0.31 (Jul 30, 2020)
+    - Small Mind Map updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.30 (Jul 1, 2020)
+    - Fixes in Notifications view - Minor changes to improve your Mind Mapping experience.
+Version 3.0.29 (Jun 30, 2020)
+    - Chat improvements - Minor changes to improve your Mind Mapping experience.
+Version 3.0.27 (Jun 23, 2020)
+    -Sign in with Apple - You can now sign into Ayoa using your Apple ID!
+    -Mind Mapping improvments - Minor changes to improve your Mind Mapping experience.
+Version 3.0.26 (Jun 4, 2020)
+    - Ayoa is now available in French! As a global brand, we want everyone to enjoy Ayoa at its best - that's why we're proud to launch Ayoa in the French language.
+    - Updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.25 (May 14, 2020)
+    - Ayoa is now available in Japanese! As a global brand, we want everyone to enjoy Ayoa at its best - that's why we're proud to launch Ayoa in the Japanese language.
+    - Updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.24 (Apr 30, 2020)
+    - Ayoa is now available in Korean! As a global brand, we want everyone to enjoy Ayoa at its best - that's why we're proud to launch Ayoa in the Korean language.
+    - Updates and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.23 (Apr 2, 2020)
+    Bug fixes and other updates to improve your Ayoa experience.
+Version 3.0.22 (Mar 24, 2020)
+    Bug fixes and other updates to improve your Ayoa experience.
+Version 3.0.21 (Mar 13, 2020)
+    Bug fixes and other updates to improve your Ayoa experience.
+Version 3.0.20 (Feb 19, 2020)
+    - New and updated side panel - with easy-to-navigate tabs and all the information you need just a click away, you’ll always be able to find exactly what you’re looking for.
+    - Bug fixes and minor improvements to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.19 (Feb 11, 2020)
+    - New and updated side panel - with easy-to-navigate tabs and all the information you need just a click away, you’ll always be able to find exactly what you’re looking for.
+    - Bug fixes and minor improvements to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.18 (Feb 10, 2020)
+    - New and updated side panel - with easy-to-navigate tabs and all the information you need just a click away, you’ll always be able to find exactly what you’re looking for.
+    - Bug fixes and minor improvements to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.17 (Jan 10, 2020)
+    General updates to improve your Ayoa experience.
+Version 3.0.16 (Dec 18, 2019)
+    - Chat Attachments - Easily send file attachments directly to friends and colleagues through Ayoa Chat.
+Version 3.0.15 (Dec 6, 2019)
+    - Free version - get access to our free, basic plan with limited feature access, so you can use Ayoa for all your work.
+    - Organic Mind Mapping - Discover iMindMap-style Mind Mapping associated with traditional Maps invented by Tony Buzan. The curved branches of your Maps will ensure there are no limits to your creative thinking.
+Version 3.0.14 (Dec 2, 2019)
+    - Free version - after your free full-feature trial expires, you'll have access to our free, basic plan with limited feature access, so you can continue using Ayoa for all your work.
+    - Retrial - Didn't have enough time to try out all of Ayoa's features? Start another trial to give you a second chance to see everything Ayoa has to offer.
+    - Organic Mind Mapping - Discover iMindMap-style Mind Mapping associated with traditional Maps invented by Tony Buzan. The curved branches of your Maps will ensure there are no limits to your creative thinking.
+Version 3.0.13 (Nov 28, 2019)
+    - Free version - after your free full-feature trial expires, you'll have access to our free, basic plan with limited feature access, so you can continue using Ayoa for all your work.
+    - Retrial - Didn't have enough time to try out all of Ayoa's features? Start another trial to give you a second chance to see everything Ayoa has to offer.
+    - Organic Mind Mapping - Discover iMindMap-style Mind Mapping associated with traditional Maps invented by Tony Buzan. The curved branches of your Maps will ensure there are no limits to your creative thinking.
+Version 3.0.12 (Nov 22, 2019)
+    - Free version - after your free full-feature trial expires, you'll have access to our free, basic plan with limited feature access, so you can continue using Ayoa for all your work.
+    - Retrial - Didn't have enough time to try out all of Ayoa's features? Start another trial to give you a second chance to see everything Ayoa has to offer.
+    - Organic Mind Mapping - Discover iMindMap-style Mind Mapping associated with traditional Maps invented by Tony Buzan. The curved branches of your Maps will ensure there are no limits to your creative thinking.
+Version 3.0.11 (Oct 28, 2019)
+    - Free version - after your free full-feature trial expires, you'll have access to our free, basic plan with limited feature access, so you can continue using Ayoa for all your work.
+    - Retrial - Didn't have enough time to try out all of Ayoa's features? Start another trial to give you a second chance to see everything Ayoa has to offer.
+    - Organic Mind Mapping - Discover iMindMap-style Mind Mapping associated with traditional Maps invented by Tony Buzan. The curved branches of your Maps will ensure there are no limits to your creative thinking.
+Version 3.0.10 (Oct 22, 2019)
+    - Free version - after your free full-feature trial expires, you'll have access to our free, basic plan with limited feature access, so you can continue using Ayoa for all your work.
+    - Retrial - Didn't have enough time to try out all of Ayoa's features? Start another trial to give you a second chance to see everything Ayoa has to offer.
+    - Organic Mind Mapping - Discover iMindMap-style Mind Mapping associated with traditional Maps invented by Tony Buzan. The curved branches of your Maps will ensure there are no limits to your creative thinking.
+Version 3.0.9 (Oct 14, 2019)
+    - Free version - after your free full-feature trial expires, you'll have access to our free, basic plan with limited feature access, so you can continue using Ayoa for all your work.
+    - Retrial - Didn't have enough time to try out all of Ayoa's features? Start another trial to give you a second chance to see everything Ayoa has to offer.
+    - Organic Mind Mapping - Discover iMindMap-style Mind Mapping associated with traditional Maps invented by Tony Buzan. The curved branches of your Maps will ensure there are no limits to your creative thinking.
+Version 3.0.8 (Oct 9, 2019)
+    - Free version - after your free full-feature trial expires, you'll have access to our free, basic plan with limited feature access, so you can continue using Ayoa for all your work.
+    - Retrial - Didn't have enough time to try out all of Ayoa's features? Start another trial to give you a second chance to see everything Ayoa has to offer.
+    - Organic Mind Mapping - Discover iMindMap-style Mind Mapping associated with traditional Maps invented by Tony Buzan. The curved branches of your Maps will ensure there are no limits to your creative thinking.
+Version 3.0.7 (Sep 25, 2019)
+    - Stickers - customize your central idea by choosing from a range of stickers to represent your ideas. 
+Version 3.0.6 (Sep 19, 2019)
+    - Stickers - customize your branches by choosing from a range of stickers to represent your ideas. 
+Version 3.0.5 (Aug 27, 2019)
+    - Rich text editor - edit the text on your branches and ideas to bold, italic and more for added meaning. 
+Version 3.0.4 (Jul 22, 2019)
+    General updates to improve your Ayoa experience. 
+Version 3.0.3 (Jul 8, 2019)
+    - Idea Bank now available for iPhone - store your ideas in Idea Bank and bring them across into your Mind Maps
+    - Improvements, updates and bug fixes to ensure your Ayoa experience is seamless as ever 
+Version 3.0.2 (Jun 24, 2019)
+    Here’s what’s new:
+
+    - Search across your Mind Maps for specific information
+    - Store your ideas in Idea Bank and bring them across into your Mind Maps (iPad only)
+    - Enjoy keyboard shortcuts to quickly add your ideas to Ayoa (iPad only)
+    - 3 new Mind Map styles to customize your Mind Maps
+    - Add File Attachments to Mind Map branches
+
+    Improvements to the overall app to ensure your Ayoa experience is seamless as ever.
+Version 3.0.1 (Jun 13, 2019)
+    Thanks to your feedback... App updates, improvements, and bug fixes to ensure your Ayoa experience is as seamless as ever.
+Version 3.0.0 (Jun 10, 2019)
+    Introducing Ayoa: DropTask has changed its name to Ayoa! Plus, we have many more exciting things coming your way - we’ve outgrown our name, just like we’ve outgrown task management.
+
+    Got any questions regarding out change? Contact us at support@ayoa.com.
+Version 2.8.7 (May 20, 2019)
+    App updates, improvements, and bug fixes to ensure your DropTask experience is as seamless as ever.
+Version 2.8.6 (May 9, 2019)
+    App updates, improvements, and bug fixes to ensure your DropTask experience is as seamless as ever.
+Version 2.8.5 (May 8, 2019)
+    App updates, improvements, and bug fixes to ensure your DropTask experience is as seamless as ever.
+Version 2.8.4 (Apr 30, 2019)
+    Here’s what’s new:
+    (New DropTask users only) Have the ability to trial all of DropTask’s features free for 7 days. (This change does not apply to existing DropTask accounts. For more information on this change, please contact our support team at support@droptask.com)
+
+    Improvements to the overall app to ensure your DropTask experience is seamless as ever.
+Version 2.8.3 (Apr 15, 2019)
+    Here’s what’s new:
+    • Easily see an overview of your workload and Task Boards (previously known as Projects).
+    • Improvements to the overall app to ensure your DropTask experience is seamless as ever
+Version 2.8.2 (Apr 4, 2019)
+    Chat speed improvements.
+Version 2.8.1 (Mar 20, 2019)
+    Exciting updates and fixes for our iPhone and iPad apps.
+    - Brand new DropTask Chat. Instant message with your colleagues and keep all of your conversations and messages in one place.
+    - Improvements to the overall app to ensure your DropTask experience is seamless as ever.
+Version 2.8.0 (Mar 15, 2019)
+    Exciting updates and fixes for our iPhone and iPad apps.
+
+    - Brand new DropTask Chat. Instant message with your colleagues and keep all of your conversations and messages in one place.
+    - Improvements to the overall app to ensure your DropTask experience is seamless as ever.
+Version 2.7.3 (Feb 7, 2019)
+    - Overall app improvements that will make your DropTask experience more seamless than ever
+
+    If you're enjoying using DropTask, please rate us in the app store. Or, send your feedback to us at support@droptask.com.
+Version 2.7.2 (Jan 15, 2019)
+    - Overall app improvements that will make your DropTask experience more seamless than ever
+
+    If you're enjoying using DropTask, please rate us in the app store. Or, send your feedback to us at support@droptask.com.
+Version 2.7.1 (Dec 17, 2018)
+    - Overall app improvements to prepare for exciting new features.
+Version 2.7.0 (Nov 19, 2018)
+    - A refreshed interface, including navigation
+    - Overall app improvements that will make your DropTask experience more seamless than ever
+
+    If you're enjoying using DropTask, please rate us in the app store. Or, send your feedback to us at support@droptask.com.
+Version 2.6.8 (Nov 6, 2018)
+    Minor changes
+Version 2.6.7 (Oct 29, 2018)
+    Important changes to prepare for exciting improvements coming soon
+    Improvements to the login screen
+Version 2.6.6 (Oct 4, 2018)
+    - A refreshed design of the DropTask login screen
+    - Overall app improvements that will make your DropTask experience more seamless than ever
+
+    If you're enjoying using DropTask, please rate us in the app store. Or, send your feedback to us at support@droptask.com.
+Version 2.6.5 (Sep 24, 2018)
+    - Additional user onboarding steps that provide you with helpful tips for using DropTask
+    - Overall app improvements that will make your DropTask experience more seamless than ever
+
+    If you're enjoying using DropTask, please rate us in the app store. Or, send your feedback to us at support@droptask.com.
+Version 2.6.4 (Sep 4, 2018)
+    Minor fixes and improvements.
+Version 2.6.3 (Aug 31, 2018)
+    Minor fixes and improvements.
+Version 2.6.2 (Aug 22, 2018)
+    - Quickly get your tasks down with our inline task creation
+    - Improvements and fixes to make your DropTask experience even better!
+Version 2.6.1 (Aug 8, 2018)
+    • Schedule tasks for Now, Next or Soon in the brand new Planner view. Assess your workload and prioritize flexibly using your new DropTask Planner.
+    • Extra enhancements to your DropTask app to take your everyday productivity even further.
+Version 2.6.0 (Aug 6, 2018)
+    • Schedule tasks for Now, Next or Soon in the brand new Planner view. Assess your workload and prioritize flexibly using your new DropTask Planner.
+    • Extra enhancements to your DropTask app to take your everyday productivity even further.
+Version 2.5.16 (Jun 21, 2018)
+    - Enjoy a refreshing redesign of your task discussions.
+    - Switch on and off your task history information to control the level of detail you recieve.
+    - Never miss a date again with the all-new Start and Due Date reminders. Apply multiple reminders for when a date is coming up, to stay on track with deadlines.
+    - Be notified on your terms with our our new-look Notifications. Choose from Focused, Detailed or Custom settings to manage how often you’re notified.
+    - Additional enhancements to your DropTask app designed to make you more productive, whenever and wherever.
+Version 2.5.15 (Jun 19, 2018)
+    Fixes for Urgency List view
+Version 2.5.14 (Jun 7, 2018)
+    Fixes for the Evernote integration
+Version 2.5.13 (Jun 5, 2018)
+    Fixes for the Evernote integration
+Version 2.5.12 (May 25, 2018)
+    Updated privacy policy in line with GDPR
+Version 2.5.11 (May 14, 2018)
+    We've added even more enhancements to your DropTask app to make you more productive, whenever and wherever.
+Version 2.5.10 (Apr 24, 2018)
+    - Overall app improvements that will make your DropTask experience more seamless than ever
+Version 2.5.9 (Apr 12, 2018)
+    - Enhanced date picker allowing you to quickly rearrange your daily schedule
+    - Overall app improvements that will make your DropTask experience more seamless than ever
+Version 2.5.8 (Apr 5, 2018)
+    Faster loading times on larger projects to ensure that your DropTask experience is seamless and smoother than ever.
+Version 2.5.7 (Mar 23, 2018)
+    We've updated our DropTask iPhone app and carried out minor bug fixes that will improve your experience.
+Version 2.5.6 (Mar 14, 2018)
+    Exciting updates and fixes for our iPhone and iPad apps.
+
+    - New Congratulations confetti animation for Completed Tasks.
+    - Emoji Reaction improvements, including full set of Emojis, search capabilities and categories.
+    - Inline reply to comments directly from notification/activity.
+
+    Stay tuned for more updates to come!
+Version 2.5.5 (Mar 12, 2018)
+    Exciting updates and fixes for our iPhone and iPad apps.
+
+    - New Congratulations confetti animation for Completed Tasks.
+    - Emoji Reaction improvements, including full set of Emojis, search capabilities and categories.
+    - Inline reply to comments directly from notification/activity.
+
+    Stay tuned for more updates to come!
+Version 2.5.4 (Mar 5, 2018)
+    We’ve created new updates, just for you. Here’s what’s new:
+
+    React to task comments with Emojis and inject a little more fun into your working day.
+    Motivate your team to go the extra mile with the all-new Congratulations feature and show your praise with this fun animation.
+
+    Stay tuned for more updates coming soon!
+Version 2.5.3 (Feb 19, 2018)
+    Discover new, smarter layouts that make room for even greater productivity.
+
+    2018 is going to be a big year for DropTask. Here’s what’s new:
+
+    - New, block-shaped tasks are now available in the Workflow, Calendar, Completed Tasks and Urgency Lists view.
+    - Enjoy the satisfaction of striking through completed tasks and watch them fade away beautifully with a brand new animation.
+    - Choose to keep Completed Tasks visible on your projects for up to 7 days.
+    - Cleaner interface in Urgency Lists View (previously List View) for a sharper focus of your priorities.
+    - Celebrate productivity streaks with new Achievements
+    - A choice of normal, high and very high urgency and importance levels on tasks across all views
+    - Tasks that were previously set as low urgency, will now have a low urgency tag
+    - All round improvements and fixes to make your life a little easier and more productive.
+Version 2.5.2 (Feb 15, 2018)
+    Discover new, smarter layouts that make room for even greater productivity.
+
+    2018 is going to be a big year for DropTask. Here’s what’s new:
+
+    - New, block-shaped tasks are now available in the Workflow, Calendar, Completed Tasks and Urgency Lists view.
+    - Enjoy the satisfaction of striking through completed tasks and watch them fade away beautifully with a brand new animation.
+    - Choose to keep Completed Tasks visible on your projects for up to 7 days.
+    - Cleaner interface in Urgency Lists View (previously List View) for a sharper focus of your priorities.
+    - Celebrate productivity streaks with new Achievements
+    - A choice of normal, high and very high urgency and importance levels on tasks across all views
+    - Tasks that were previously set as low urgency, will now have a low urgency tag
+    - All round improvements and fixes to make your life a little easier and more productive.
+Version 2.5.1 (Feb 9, 2018)
+    Discover new, smarter layouts that make room for even greater productivity.
+
+    2018 is going to be a big year for DropTask. Here's what's new:
+
+    - New, block-shaped tasks are now available in the Workflow, Calendar, Completed Tasks and Urgency Lists view.
+    - Cleaner interface in Urgency Lists View (previously List View) for a sharper focus of your priorities.
+    - A choice of normal, high and very high urgency and importance levels on tasks across all views
+    - Tasks that were previously set as low urgency, will now have a low urgency tag
+    - All round improvements and fixes to make your life a little easier and more productive.
+
+    Stay tuned for more updates!
+Version 2.5.0 (Feb 7, 2018)
+    Discover new, smarter layouts that make room for even greater productivity.
+
+    2018 is going to be a big year for DropTask. Here's what's new:
+
+    - New, block-shaped tasks are now available in the Workflow, Calendar, Completed Tasks and Urgency Lists view.
+    - Cleaner interface in Urgency Lists View (previously List View) for a sharper focus of your priorities.
+    - A choice of normal, high and very high urgency and importance levels on tasks across all views
+    - Tasks that were previously set as low urgency, will now have a low urgency tag
+    - All round improvements and fixes to make your life a little easier and more productive.
+
+    Stay tuned for more updates!
+Version 2.4.11 (Dec 5, 2017)
+    Fixed tags toolbar and user mentions toolbar not responsive on iOS 11.
+Version 2.4.9 (Nov 27, 2017)
+    iOS 11 compatibility fix for share feature
+Version 2.4.8 (Jul 10, 2017)
+    Fixed crash on creating task in the Calendar view.
+Version 2.4.7 (Jul 3, 2017)
+    Fix for saving notes on tasks that span many lines.
+Version 2.4.6 (Jun 21, 2017)
+    - Redesigned project picker.
+    - Some of the user and project settings are synced with the server: default project view, canvas auto layout, categories hidden on the workflow view, categories collapsed on the canvas view, calendar and list views sort order among others.
+    - Minor improvements and bug fixes.
+Version 2.4.5 (May 30, 2017)
+    Fix for comments not working properly with Japanese keyboard.
+Version 2.4.4 (May 24, 2017)
+    Fixed issue with duplicated characters on adding comments using a Japanese keyboard.
+Version 2.4.3 (May 10, 2017)
+    Fixed project picker UI
+Version 2.4.2 (Apr 18, 2017)
+    - Fixed activity indicator issue when creating new project from template.
+    - Fixed crash in opening account settings when device is offline.
+Version 2.4.1 (Apr 12, 2017)
+    - Task feed has a better layout and the ability to see who posted comments
+    - Changes to the project screen to make it clearer and easier to use
+    - Improvements to the task sidebar and app interface
+    - Minor bug fixes
+Version 2.4.0 (Apr 3, 2017)
+    - Improved lighter and easier to use menu.
+    - App keeps track of your opened projects to allow you to sort by and quickly jump between your most active projects.
+    - New project screen allows a better overview of projects and adds enhanced sorting options.
+    - Various minor bug fixes.
+Version 2.3.8 (Mar 6, 2017)
+    - Share links to task easily through the task menu
+    - Improve the look and usability of the app
+    - Minor stability improvements and bug fixes
+Version 2.3.7 (Feb 8, 2017)
+    - Added force touch support. Preview attachments from task details, and preview tasks in the notifications area, task feed and list views.
+    - Add ability to see tasks from "Anybody" in the Calendar view
+    - Minor bug fixes and improvements to the usability of the app
+Version 2.3.6 (Jan 19, 2017)
+    - Share your DropTask experience with our new Share button
+    - Fixes to Login with Google and support for new TLDs
+Version 2.3.5 (Jan 11, 2017)
+    This release includes new features, improvements and bug fixes including:
+    - The Today widget, giving you quick access to your task schedule for the day ahead
+    - Share extension allowing you to quickly share photos, documents and other content straight to DropTask to quickly create tasks
+Version 2.3.4 (Nov 29, 2016)
+    - Improvements to the app design and usability.
+    - Remember the state of the app on a force-close.
+Version 2.3.3 (Nov 15, 2016)
+    - In the Canvas view, single tap on the canvas will zoom the canvas to show all tasks and categories.
+    - Fixes for task reordering in Calendar view.
+    - Other minor fixes and improvements.
+Version 2.3.2 (Nov 3, 2016)
+    - Adds ability to view the calender and completed tasks for your DropTask contacts.
+    - The All Tasks list view can now be sorted by urgency, start date or due date.
+    - Adds category menu to canvas for easy navigation between categories.
+    - Improves canvas auto zoom when viewing groups and changing layout settings.
+Version 2.3.1 (Oct 20, 2016)
+    Fix for send task to Evernote feature.
+Version 2.3.0 (Oct 13, 2016)
+    Added integration with Evernote
+    Tasks can now be created without an assigned person
+    Improved UI for collapsing / expanding groups in Canvas view
+    Added ability to create templates from projects
+    Minor fixes and improvements
+Version 2.2.0 (Sep 30, 2016)
+    Add support for project themes (requires Business account)
+    Improvement for filters
+    Fixes and improvements for canvas view
+Version 2.1.0 (Sep 6, 2016)
+    Adds canvas and list view for projects
+    Adds All Tasks list view allowing you to see tasks across all projects
+    Allows setting default project view (canvas, workflow or list)
+    Other minor fixes and improvements
+Version 2.0.2 (Aug 24, 2016)
+    The latest update features multiple levels of task Urgency and Importance.
+Version 2.0.1 (Aug 4, 2016)
+    - Fix filtering by tags
+    - Calendar and date picker improvements
+    - Minor fixes and improvements
+Version 2.0.0 (Jul 27, 2016)
+    Introducing DropTask 2!
+    - New and improved user interface with all-new eye catching icons
+    - Map out each stage of your project cycle with brand new workflow boards.
+    - See what’s next and on the horizon with your very own DropTask calendar.
+    - Revamped notification center
+    - Improved completed tasks view
+    - Task start and due times
+    - Multiple reminders
+    - Reminder notes
+    - Task % completion
+Version 1.6.5 (May 26, 2016)
+    - Minor fixes
+Version 1.6.4 (May 6, 2016)
+    - Minor bug fixes
+Version 1.6.2 (Apr 15, 2016)
+    - Improvements for Apple Pen
+cil
+    - Minor bug fixes
+Version 1.6.1 (Feb 15, 2016)
+    - Fix for task selection in visual view
+Version 1.6.0 (Feb 5, 2016)
+    - Minor fixes and improvements
+Version 1.5.8 (Jan 12, 2016)
+    - Fix for iOS 9 Dropbox integration
+    - Minor fixes and improvements
+Version 1.5.7 (Oct 28, 2015)
+    Minor improvements and fixes.
+Version 1.5.6 (Sep 11, 2015)
+    Minor improvements and fixes
+Version 1.5.5 (Aug 12, 2015)
+    Minor fixes and improvements
+Version 1.5.4 (Jul 30, 2015)
+    Minor fixes and improvements.
+Version 1.5.3 (Jul 17, 2015)
+    - Fixed task count badges on home screen
+    - Fixed issue where user can get logged out of app
+Version 1.5.2 (Jul 6, 2015)
+    Fixes for task filtering.
+Version 1.5.1 (Jun 25, 2015)
+    Minor fixes and improvements
+Version 1.5.0 (Jun 1, 2015)
+    Improvements to offline sync
+    Removes support for iOS 5 & iOS 6
+    Minor fixes and improvements
+Version 1.4.6 (Apr 8, 2015)
+    Various bug fixes and improvements
+Version 1.4.5 (Mar 12, 2015)
+    Project archiving
+    App optimizations and bug fixes
+Version 1.4.4 (Dec 21, 2014)
+    Fixes for template editor
+    Various minor improvements and fixes
+Version 1.4.3 (Nov 21, 2014)
+    * Improved emoji support
+    * Fixes for cover images
+    * Fixes for real time sync
+    * Various minor fixes and improvements
+Version 1.4.2 (Oct 17, 2014)
+    Fixes issues with syncing data and account login
+Version 1.4.1 (Oct 11, 2014)
+    - Fixes to filter options in All Tasks (iOS 8)
+    - Improvements to cover images features
+    - A number of small fixes and improvements for iOS 8
+Version 1.4.0 (Sep 17, 2014)
+    Additions to the free version of DropTask:
+    Visibility settings to allow projects to be made ‘public’ or ‘private’
+    Task prioritisation improvements with the introduction of new ‘urgency’ and ‘importance’ attributes
+
+    Additions to DropTask PRO:
+    New ‘Permissions’ feature to set restrictions on what certain project members can access & edit
+    New ability to upload and set cover images for each task
+Version 1.3.2 (Jul 10, 2014)
+    Improvements to task dependency feature.
+    Fixes for template editor.
+    Scrolling down in task sidebar now retrieves older activity feed items.
+    Minor bug fixes.
+Version 1.3.1 (Jun 19, 2014)
+    Minor fixes for activity feed and notifications
+Version 1.3.0 (Jun 13, 2014)
+    Task dependencies - Create links between tasks to help define the order in which they can be actioned.
+    Improvements to realtime updating of activity feed when using the filter options.
+    Fix for editing templates while offline.
+Version 1.2.3 (May 25, 2014)
+    Improvements to convert task to group
+    Fix for dates in update request
+    Improved emoji support
+    Additional minor fixes
+Version 1.2.2 (May 16, 2014)
+    Fix for filtering by small effort
+    Fix for moving task between projects
+    Additional minor fixes
+Version 1.2.1 (Apr 27, 2014)
+    Adds file attachment uploading from Google Drive and Dropbox
+    More options for recurring tasks (Repeat every x days/weeks/months)
+    Adds option to hide completed tasks in visual view
+    Adds ability to view older notifications
+    Adds convert to group action for tasks
+    Adds watch/unwatch action for tasks
+    Adds removing comments and attachments from activity view
+    Improvements to offline sync
+    Rendering improvements for Emoji font
+Version 1.2.0 (Mar 22, 2014)
+    - Adds support for Emoji
+    - Adds ability for user to change account email address
+    - Adds ability to disable notification and daily summary emails
+    - Adds project filter to All Tasks views
+    - Improvements to text rendering in visual view
+    - Fixes notification bug for task reminders
+    - Various other improvements and fixes
+Version 1.1.1 (Mar 11, 2014)
+    Minor bug fixes
+Version 1.1.0 (Mar 4, 2014)
+    - Introduces DropTask PRO
+    - Fixes for duplicate tasks bug
+    - Improvements to offline sync
+    - Various other minor fixes
+Version 1.0.4 (Jan 30, 2014)
+    Adds ability to cancel sent update requests
+    Fix bug that could cause some items to be duplicated
+    Fix UI bug in Inbox when multiple attachments are present
+    Improvements to offline sync
+    Various minor bug fixes
+Version 1.0.3 (Jan 17, 2014)
+    - Improved touch gesture recognition on visual view.
+
+    - Fixes for task sorting on 'All Task' views.
+
+    - Minor bug fixes.
+Version 1.0.2 (Dec 27, 2013)
+    Various bug fixes
+Version 1.0.1 (Dec 17, 2013)
+    Various bug fixes including fixes to the All Task views
+Version 1.0 (Dec 10, 2013)
+
+Users may also like
+Select objects to compare
+TheBrain Tech
+MindManager Go
+Inclr: Mindmap Notes Organizer
+Mind Mapping
+SimpleMind Pro - Mind Mapping
+Amplenote
+EdrawMind: AI Mind Map, Notes
+ThinkSpace: Next-gen Mind Map
+MindNode - Mind Map & Outline
+Nimbus Note
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.0.109
+    Current release
+    Dec 4, 2023
+    3.0.108
+    Nov 20, 2023
+    3.0.107
+    Nov 16, 2023
+    3.0.106
+    Nov 6, 2023
+    3.0.105
+    Aug 8, 2023
+    3.0.103
+    Jul 12, 2023
+    3.0.102
+    Jul 5, 2023
+    3.0.101
+    Jun 15, 2023
+    3.0.100
+    Mar 16, 2023
+    3.0.98
+    Dec 16, 2022
+    3.0.96
+    Dec 6, 2022
+    3.0.95
+    Oct 13, 2022
+    3.0.94
+    Aug 10, 2022
+    3.0.93
+    Aug 5, 2022
+    3.0.92
+    Aug 4, 2022
+    3.0.91
+    Jul 28, 2022
+    3.0.89
+    Jun 30, 2022
+    3.0.88
+    Jun 20, 2022
+    3.0.87
+    Jun 8, 2022
+    3.0.86
+    May 12, 2022
+    3.0.85
+    May 5, 2022
+    3.0.84
+    Mar 10, 2022
+    3.0.83
+    Feb 28, 2022
+    3.0.59
+    Feb 14, 2022
+    3.0.58
+    Dec 22, 2021
+    3.0.57
+    Dec 21, 2021
+    3.0.56
+    Dec 3, 2021
+    3.0.55
+    Nov 15, 2021
+    3.0.54
+    Nov 10, 2021
+    3.0.53
+    Oct 19, 2021
+    3.0.52
+    Oct 5, 2021
+    3.0.51
+    Sep 30, 2021
+    3.0.50
+    Sep 23, 2021
+    3.0.49
+    Aug 23, 2021
+    3.0.48
+    Aug 3, 2021
+    3.0.47
+    Jul 29, 2021
+    3.0.44
+    Mar 3, 2021
+    3.0.43
+    Feb 10, 2021
+    3.0.42
+    Jan 29, 2021
+    3.0.41
+    Jan 18, 2021
+    3.0.40
+    Dec 22, 2020
+    3.0.39
+    Dec 16, 2020
+    3.0.38
+    Nov 25, 2020
+    3.0.37
+    Nov 18, 2020
+    3.0.36
+    Oct 19, 2020
+    3.0.34
+    Sep 16, 2020
+    3.0.33
+    Sep 2, 2020
+    3.0.32
+    Aug 17, 2020
+    3.0.31
+    Jul 30, 2020
+    3.0.30
+    Jul 1, 2020
+    3.0.29
+    Jun 30, 2020
+    3.0.27
+    Jun 23, 2020
+    3.0.26
+    Jun 4, 2020
+    3.0.25
+    May 14, 2020
+    3.0.24
+    Apr 30, 2020
+    3.0.23
+    Apr 2, 2020
+    3.0.22
+    Mar 24, 2020
+    3.0.21
+    Mar 13, 2020
+    3.0.20
+    Feb 19, 2020
+    3.0.19
+    Feb 11, 2020
+    3.0.18
+    Feb 10, 2020
+    3.0.17
+    Jan 10, 2020
+    3.0.16
+    Dec 18, 2019
+    3.0.15
+    Dec 6, 2019
+    3.0.14
+    Dec 2, 2019
+    3.0.13
+    Nov 28, 2019
+    3.0.12
+    Nov 22, 2019
+    3.0.11
+    Oct 28, 2019
+    3.0.10
+    Oct 22, 2019
+    3.0.9
+    Oct 14, 2019
+    3.0.8
+    Oct 9, 2019
+    3.0.7
+    Sep 25, 2019
+    3.0.6
+    Sep 19, 2019
+    3.0.5
+    Aug 27, 2019
+    3.0.4
+    Jul 22, 2019
+    3.0.3
+    Jul 8, 2019
+    3.0.2
+    Jun 24, 2019
+    3.0.1
+    Jun 13, 2019
+    3.0.0
+    Jun 10, 2019
+    2.8.7
+    May 20, 2019
+    2.8.6
+    May 9, 2019
+    2.8.5
+    May 8, 2019
+    2.8.4
+    Apr 30, 2019
+    2.8.3
+    Apr 15, 2019
+    2.8.2
+    Apr 4, 2019
+    2.8.1
+    Mar 20, 2019
+    2.8.0
+    Mar 15, 2019
+    2.7.3
+    Feb 7, 2019
+    2.7.2
+    Jan 15, 2019
+    2.7.1
+    Dec 17, 2018
+    2.7.0
+    Nov 19, 2018
+    2.6.8
+    Nov 6, 2018
+    2.6.7
+    Oct 29, 2018
+    2.6.6
+    Oct 4, 2018
+    2.6.5
+    Sep 24, 2018
+    2.6.4
+    Sep 4, 2018
+    2.6.3
+    Aug 31, 2018
+    2.6.2
+    Aug 22, 2018
+    2.6.1
+    Aug 8, 2018
+    2.6.0
+    Aug 6, 2018
+    2.5.16
+    Jun 21, 2018
+    2.5.15
+    Jun 19, 2018
+    2.5.14
+    Jun 7, 2018
+    2.5.13
+    Jun 5, 2018
+    2.5.12
+    May 25, 2018
+    2.5.11
+    May 14, 2018
+    2.5.10
+    Apr 24, 2018
+    2.5.9
+    Apr 12, 2018
+    2.5.8
+    Apr 5, 2018
+    2.5.7
+    Mar 23, 2018
+    2.5.6
+    Mar 14, 2018
+    2.5.5
+    Mar 12, 2018
+    2.5.4
+    Mar 5, 2018
+    2.5.3
+    Feb 19, 2018
+    2.5.2
+    Feb 15, 2018
+    2.5.1
+    Feb 9, 2018
+    2.5.0
+    Feb 7, 2018
+    2.4.11
+    Dec 5, 2017
+    2.4.9
+    Nov 27, 2017
+    2.4.8
+    Jul 10, 2017
+    2.4.7
+    Jul 3, 2017
+    2.4.6
+    Jun 21, 2017
+    2.4.5
+    May 30, 2017
+    2.4.4
+    May 24, 2017
+    2.4.3
+    May 10, 2017
+    2.4.2
+    Apr 18, 2017
+    2.4.1
+    Apr 12, 2017
+    2.4.0
+    Apr 3, 2017
+    2.3.8
+    Mar 6, 2017
+    2.3.7
+    Feb 8, 2017
+    2.3.6
+    Jan 19, 2017
+    2.3.5
+    Jan 11, 2017
+    2.3.4
+    Nov 29, 2016
+    2.3.3
+    Nov 15, 2016
+    2.3.2
+    Nov 3, 2016
+    2.3.1
+    Oct 20, 2016
+    2.3.0
+    Oct 13, 2016
+    2.2.0
+    Sep 30, 2016
+    2.1.0
+    Sep 6, 2016
+    2.0.2
+    Aug 24, 2016
+    2.0.1
+    Aug 4, 2016
+    2.0.0
+    Jul 27, 2016
+    1.6.5
+    May 26, 2016
+    1.6.4
+    May 6, 2016
+    1.6.2
+    Apr 15, 2016
+    1.6.1
+    Feb 15, 2016
+    1.6.0
+    Feb 5, 2016
+    1.5.8
+    Jan 12, 2016
+    1.5.7
+    Oct 28, 2015
+    1.5.6
+    Sep 11, 2015
+    1.5.5
+    Aug 12, 2015
+    1.5.4
+    Jul 30, 2015
+    1.5.3
+    Jul 17, 2015
+    1.5.2
+    Jul 6, 2015
+    1.5.1
+    Jun 25, 2015
+    1.5.0
+    Jun 1, 2015
+    1.4.6
+    Apr 8, 2015
+    1.4.5
+    Mar 12, 2015
+    1.4.4
+    Dec 21, 2014
+    1.4.3
+    Nov 21, 2014
+    1.4.2
+    Oct 17, 2014
+    1.4.1
+    Oct 11, 2014
+    1.4.0
+    Sep 17, 2014
+    1.3.2
+    Jul 10, 2014
+    1.3.1
+    Jun 19, 2014
+    1.3.0
+    Jun 13, 2014
+    1.2.3
+    May 25, 2014
+    1.2.2
+    May 16, 2014
+    1.2.1
+    Apr 27, 2014
+    1.2.0
+    Mar 22, 2014
+    1.1.1
+    Mar 11, 2014
+    1.1.0
+    Mar 4, 2014
+    1.0.4
+    Jan 30, 2014
+    1.0.3
+    Jan 17, 2014
+    1.0.2
+    Dec 27, 2013
+    1.0.1
+    Dec 17, 2013
+    1.0
+    Dec 10, 2013
+
+See More
+Top In-App Purchases
+
+    Ayoa 12 Months Ultimate
+    $159.99
+    Ayoa Mind Map 1 Year
+    $119.99
+    Ayoa Task 1 Year
+    $119.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 12, 2013
+
+Worldwide Release Date
+    Dec 12, 2013
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    3.0.109
+
+Size
+    114.44 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    OpenGenius Limited
+
+Company HQ
+    United Kingdom
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.droptask.phone
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 770930267
+Unified App ID: 1000800000129482
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Ayoa - Mind Mapping | data.ai

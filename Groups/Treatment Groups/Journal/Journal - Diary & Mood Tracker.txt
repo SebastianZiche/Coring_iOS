@@ -1,0 +1,366 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Journal - Diary & Mood Tracker
+Forus LabsHealth and Fitness (Applications)Free
+Alerts
+
+    Journal - Diary & Mood Tracker
+    Journal - Diary & Mood Tracker
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Journal - Diary & Mood Tracker
+Daily Private Bullet Journal
+Health and Fitness (Applications)
+Free
+iPhone Only
+App Description
+ESSENTIAL BUNDLE
+Essential is a bundle of applications designed to supercharge your productivity and personal growth.
+
+What makes the Essential Bundle great?
+- Single subscription to access all premium features in each application
+- Unified user experience across devices and applications
+- Integrations across all Essential applications
+
+Be a better version of yourself with the Essential Bundle today.
+
+JOURNAL
+Essential Journal is a minimal and intuitive personal journal. It is designed to be your daily companion to deepen self-discovery and improve mental well-being.
+
+FEATURES
+- Discover yourself
+Your thoughts and feelings are expressed through our numerous entries; journal, media & mood.
+
+- Feed
+Your precious memories are organized into a digestible timeline.
+
+- Secure and private
+Your privacy is protected with industry-leading end-to-end encryption.
+
+- Sync devices
+Back up and sync your changes across multiple devices.
+
+- Offline support
+Primary features work completely offline without an active internet connection.
+
+USEFUL INFORMATION
+Website: https://essential.app
+Term of Use: https://essential.app/terms
+Privacy Policy: https://essential.app/policy
+Email: hello@essential.app
+Ratings
+Displayed Avg Ratings
+4.74
+Total Displayed Ratings
+23
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.4.3 (Sep 9, 2023)
+    Quality of Life Ahoy! This update introduces some quality of life changes.
+
+    Improvements:
+    • Various QOL and performance improvements
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.4.2 (Mar 16, 2023)
+    Quality of Life Ahoy! This update introduces some minor quality of life changes.
+
+    Improvements:
+    • Change FaceID to automatically trigger when privacy lock is enabled and application is open.
+    • Change wording on Premium page to be clearer.
+    • Fix outdated icons in Premium page.
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.4.0 (Feb 8, 2023)
+    Privacy lock Ahoy! This update introduces a privacy lock. You can now lock Journal for an extra layer of privacy.
+
+    Improvements:
+    • Add privacy lock
+    • Change old application icons in "Get Essential bundle" page
+    • Fix longstanding issue with certain illustrations rendering incorrectly
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.3.3 (Jan 11, 2023)
+    Happy New Year! This update fixes a few bugs.
+
+    Improvements:
+    • Change application icon
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.3.3 (Jan 11, 2023)
+    Happy New Year! This update fixes a few bugs.
+
+    Improvements:
+    • Change application icon
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.3.2 (Dec 20, 2022)
+    Bug fixes Ahoy! This update fixes a few bugs.
+
+    Improvements:
+    • Add missing animations throughout the application
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.3.1 (Dec 12, 2022)
+    In this update, we've made dark theme free! Tell us what you think by leaving a review!
+
+    Improvements:
+    • Make dark theme free for all users
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.3.1 (Dec 12, 2022)
+    In this update, we've made dark theme free! Tell us what you think by leaving a review!
+
+    Improvements:
+    • Make dark theme free for all users
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.3.0 (Dec 9, 2022)
+    In this update, we've animated many things to make it super fancy!
+
+    Improvements:
+    • Add animations throughout the application
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.2.4 (Nov 17, 2022)
+    Improvements:
+    • Fix issue with subscription being incorrectly priced in certain instances
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.2.3 (Nov 10, 2022)
+    Improvements:
+    • Improve app's responsiveness when uploading images by improving compression
+    • Fix purchasing subscriptions sometimes not working as intended
+    • Fix "Limited time offer" banner not navigating to premium page
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.2.2 (Nov 4, 2022)
+    Improvements:
+    • Add "Explore Essential" banner in settings page
+    • Fix issue where premium subscription could be accidentally bought multiple times across applications
+    • Fix prompting for reviews being too aggressive
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.2.1 (Oct 20, 2022)
+    Improvements:
+    • Add "Write a review" option in settings page
+    • Change onboarding to appear before login
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.2.0 (Sep 22, 2022)
+    Introducing the Essential Bundle:
+    A bundle of applications designed to supercharge your productivity and personal growth. Learn more at essential.app/download
+
+    Improvements:
+    • Dark theme is now supported
+    • Internal optimizations for a snappier experience
+
+    Pesky bugs squashed:
+    • Fix incorrect text in onboarding pages
+    • Fix an issue where the feed page omits certain entries
+
+    We hope you're loving Journal. Tell us what you think by leaving a review!
+Version 1.0.0 (Jun 28, 2022)
+
+Users may also like
+Select objects to compare
+Ease Journal -Diary &Gratitude
+PositiveMe: prompted journal
+KnownWell - AI Journal & Diary
+Bipolar Mood Tracker BPD Diary
+ByeBye Cellulite
+Sunday: Journal & Mood Tracker
+AI Therapy.
+Body Measurement Tracker: Sizr
+A Journal A Day
+PrimeMinds: Manifest & Mindset
+IQ Classifications
+Genre: Lifestyle
+Subgenre: Other Lifestyle
+Other Lifestyle
+Other lifestyle apps that do not fit other existing Lifestyle subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.4.3
+    Current release
+    Sep 9, 2023
+    1.4.2
+    Mar 16, 2023
+    1.4.0
+    Feb 8, 2023
+    1.3.3
+    Jan 11, 2023
+    1.3.3
+    Jan 11, 2023
+    1.3.2
+    Dec 20, 2022
+    1.3.1
+    Dec 12, 2022
+    1.3.1
+    Dec 12, 2022
+    1.3.0
+    Dec 9, 2022
+    1.2.4
+    Nov 17, 2022
+    1.2.3
+    Nov 10, 2022
+    1.2.2
+    Nov 4, 2022
+    1.2.1
+    Oct 20, 2022
+    1.2.0
+    Sep 22, 2022
+    1.0.0
+    Jun 28, 2022
+
+See More
+Top In-App Purchases
+
+    Essential 1 Year Premium
+    $32.99
+    Essential Bundle
+    $42.99
+    Essential Lifetime Premium
+    $59.99
+    Essential 1 Month Premium
+    $1.99
+    Essential 1 Year Premium
+    $19.99
+    Essential Lifetime Premium
+    $29.99
+    Journal Lifetime Promotion
+    $0
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    Jun 28, 2022
+
+Worldwide Release Date
+    Jun 28, 2022
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    1.4.3
+
+Size
+    54.93 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    FORUS LABS PTE. LTD.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    app.essential.journal
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1631499873
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Journal - Diary & Mood Tracker | data.ai

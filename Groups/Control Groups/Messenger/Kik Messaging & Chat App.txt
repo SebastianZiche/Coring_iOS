@@ -1,0 +1,1434 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Kik Messaging & Chat App
+KikSocial Networking (Applications)Free
+Alerts
+
+Kik Messenger
+Kik Messaging & Chat App
+Kik Messaging & Chat App
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Kik Messaging & Chat App
+Messaging, Chatting & Live
+Social Networking (Applications)
+Free
+App Description
+Get connected.
+
+Kik is way more than just messaging. It’s the easiest way to connect with your friends, stay in the loop, and explore – all through chat. No phone numbers, just pick a username.
+
+• Choose who to chat with one-on-one and in groups
+• Share pics, videos, gifs, games, and more
+• Meet new friends with similar interests
+
+Get on Kik now. Start chatting!
+Ratings
+Displayed Avg Ratings
+4.19
+Total Displayed Ratings
+782k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 16.15.0 (Feb 26, 2024)
+    Kik is here to stay! In this new version we added a badge to Ragebot, this will help you to identify our good friend.
+Version 16.14.2 (Jan 25, 2024)
+    Kik is here to stay! In this new version we fixed a few undesired bugs.
+Version 16.14.1 (Jan 24, 2024)
+    Kik is here to stay! In this new version we fixed a few undesired bugs.
+Version 16.13.1 (Dec 19, 2023)
+    Kik is here to stay! In this new version we fixed a few undesired bugs.
+Version 16.13.0 (Dec 4, 2023)
+    Bug fixes and minor improvements
+Version 16.12.2 (Oct 26, 2023)
+    This version includes improvements to our Ads SDK
+Version 16.12.1 (Oct 10, 2023)
+    Kik is here to stay! This new version contains fixes to our theming, for our Dark Theme users, this will be delightful to watch Lives now.
+Version 16.12.0 (Oct 3, 2023)
+    Kik is here to stay! This new version contains numerous improvements to our App Launch performance.
+Version 16.11.0 (Sep 27, 2023)
+    This version includes improvements to our ads SDK
+Version 16.10.4 (Aug 30, 2023)
+    Kik is here to stay! We updated some of our colors on Dark Theme to make elements more visible to you.
+Version 16.10.3 (Aug 23, 2023)
+    Kik is here to stay! This update contains fixes for accessing live features!
+Version 16.10.2 (Aug 15, 2023)
+    Kik is here to stay! This update contains fixes for some undesired crashes!
+Version 16.10.1 (Aug 10, 2023)
+    Kik is here to stay! This update contains fixes for some undesired crashes!
+Version 16.9.6 (Jun 26, 2023)
+    Kik is here to stay! This update contains improvements to our ad impressions
+Version 16.9.5 (May 22, 2023)
+    Kik is here to stay! This update fixes an undesired bug on Live.
+Version 16.9.3 (Apr 26, 2023)
+    Kik is here to stay! This update improves our ad infrastructure.
+Version 16.9.2 (Apr 19, 2023)
+    Kik is here to stay! This update fixes a bug in messages loading.
+Version 16.9.1 (Apr 14, 2023)
+    Kik is here to stay! This update fixes an undesired bug for iPad users.
+Version 16.9.0 (Apr 5, 2023)
+    Kik is here to stay! This update creates a new flow for registering on Kik to make it easier.
+Version 16.8.3 (Feb 25, 2023)
+    Kik is here to stay! This update fixes a undesired crash in our loading for images.
+Version 16.8.2 (Feb 20, 2023)
+    Kik is here to stay! This update includes search for public groups back with new moderation tools in place.
+Version 16.8.0 (Jan 14, 2023)
+    Kik is here to stay! This update includes improvements to the application performance.
+Version 16.7.2 (Dec 8, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.7.2 (Dec 8, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.7.1 (Nov 23, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.7.0 (Nov 10, 2022)
+    Kik is here to stay! This update includes special improvements.
+Version 16.6.2 (Oct 26, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.6.1 (Oct 18, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.5.0 (Oct 5, 2022)
+    Kik is here to stay! This update includes critical bug fixes, new functionalities and performance improvements.
+Version 16.4.1 (Sep 26, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.4.0 (Sep 12, 2022)
+    Kik is here to stay! This update includes critical bug fixes, new functionalities and performance improvements.
+Version 16.3.1 (Sep 8, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.3.0 (Aug 18, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.2.0 (Aug 5, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.1.10 (Jul 22, 2022)
+    Kik is here to stay! This update includes critical bug fixes.
+Version 16.1.9 (Jul 21, 2022)
+    Kik is here to stay! This update includes critical bug fixes, new functionalities and performance improvements.
+Version 16.1.8 (Jun 1, 2022)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.1.7 (May 23, 2022)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.1.6 (May 7, 2022)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.1.5 (Apr 1, 2022)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.1.3 (Mar 17, 2022)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.1.3 (Mar 17, 2022)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.1.2 (Mar 9, 2022)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.1.0 (Jan 21, 2022)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.0.9 (Jan 14, 2022)
+
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.0.8 (Jan 10, 2022)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.0.7 (Dec 15, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.0.6 (Aug 26, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.0.5 (Jul 26, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.0.4 (Jul 19, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.0.3 (Jul 6, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.0.2 (Jun 28, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 16.0.1 (Jun 22, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.29.4 (May 19, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.29.2 (May 14, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.29.1 (May 8, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.29.0 (May 2, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.28.1 (Apr 7, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.28.0 (Mar 24, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.27.0 (Mar 11, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.26.0 (Feb 22, 2021)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.25.1 (Nov 20, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.25.0 (Nov 17, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.24.0 (Aug 10, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.23.1 (Jul 16, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.23.0 (Jun 29, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.22.1 (Apr 9, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.22.0 (Apr 6, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.21.2 (Mar 24, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.21.1 (Mar 17, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.21.0 (Mar 13, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.20.0 (Feb 18, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.19.0 (Jan 30, 2020)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.18.0 (Dec 17, 2019)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.17.3 (Nov 22, 2019)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.17.2 (Nov 15, 2019)
+    Kik is here to stay! This update includes critical bug fixes and performance improvements.
+Version 15.17.1 (Nov 13, 2019)
+    Kik is here to stay! This update includes bug fixes and performance improvements, including one bug that crashes the app for our users running iOS 9 and 10.
+Version 15.17.0 (Nov 12, 2019)
+    Kik is here to stay! This update includes bug fixes and performance improvements.
+Version 15.16.0 (Oct 15, 2019)
+    Kik is here to stay! We're happy to announce that Kik will be staying in the app store where it has been home to millions of users and billions of conversations over the past 9 years. Thank you for your continued support!
+Version 15.15.0 (Aug 27, 2019)
+    • A fix for one of our top crashes
+
+    Thanks for using Kik!
+Version 15.13.0 (Aug 19, 2019)
+    • Squashed a few bugs and fixed a crash
+
+    Thanks for using Kik!
+Version 15.3.0 (Feb 11, 2019)
+    • Fixed an issue where Kik would be stuck on Connecting...
+    • Fixed a crash that happened after receiving content in certain cases
+
+    Thanks for using Kik!
+Version 15.2.0 (Jan 28, 2019)
+    • Fixed certain display issues for iPhone X and greater devices
+
+    Thanks for using Kik!
+Version 15.1.0 (Jan 3, 2019)
+    • Fixed a few issues with chat themes
+
+    Thanks for using Kik
+Version 15.0.0 (Nov 27, 2018)
+    • Fixed a few issues around displaying Days on Kik
+    • Made some under the hood performance improvements 
+
+    Thanks for using Kik!
+Version 14.9.0 (Nov 12, 2018)
+    • Fixed a crash that could have happened when turning on Video Chat
+    • Fixed an issue that caused delayed keyboard input when typing after upgrading to iOS 12
+
+    Thanks for using Kik!
+Version 14.8.0 (Oct 29, 2018)
+    • Fixed a crash that happened when adding people to your group
+    • Fixed an issue that prevented you from viewing external content sent in Kik
+
+    Thanks for using Kik!
+Version 14.7.0 (Oct 22, 2018)
+    • Improved behaviour when retrieving your chats after logging in
+    • Fixed a crash that could occur when group info was being updated
+Version 14.5.0 (Sep 18, 2018)
+    • Fixed an issue where your profile wasn't showing up in the members list of a group
+    • Two crashes that occurred in and around group chats have been fixed
+
+    Thanks for using Kik!
+Version 14.4.0 (Aug 28, 2018)
+    - Fixed an issue where the message preview in the chat list wasn't displaying the latest message from the chat
+    - Resolved two meddlesome crashes affecting your chat experience, no more shall they happen
+
+    Thanks for using Kik!
+Version 14.3.0 (Aug 7, 2018)
+    - We've made some under the hood performance improvements to Kik
+    - We fixed a few display issues you may have noticed when using Kik, one of them being an instance where "is typing..." appears when it isn't supposed to
+
+    Thanks for using Kik!
+Version 14.2.0 (Jul 24, 2018)
+    • We've made some general improvements, fixed a bunch of issues and crashes. Enjoy using Kik!
+Version 14.1.0 (Jul 17, 2018)
+    - We've made some under the hood improvements, fixed a number of issues and crashes, and more!
+Version 14.0.0 (Jun 28, 2018)
+    - We’ve made some under the hood improvements to Public Groups
+    - We fixed a shifty bug with Days on Kik where it used to shift your chat down when it loaded
+
+    Thanks for using Kik!
+Version 13.3.0 (Jun 6, 2018)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 13.2.0 (May 14, 2018)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 13.1.0 (Apr 30, 2018)
+    • Enhance your Profile with a personalized Background Photo!
+    • How many days have you been on Kik? Check out your profile to find out!
+Version 13.0.0 (Apr 16, 2018)
+    • Enhance your Profile with a personalized Background Photo!
+    • How many days have you been on Kik? Check out your profile to find out!
+Version 12.5.0 (Apr 9, 2018)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 12.4.0 (Apr 5, 2018)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 12.3.0 (Mar 5, 2018)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 12.1.0 (Jan 8, 2018)
+    Do you like pizza, sports, or games? Now you can share your interests on your profile and make new friends
+Version 11.37.0 (Dec 7, 2017)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 11.36.0 (Nov 28, 2017)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 11.35.0 (Nov 20, 2017)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 11.33.0 (Oct 30, 2017)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 11.32.0 (Oct 16, 2017)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 11.31.0 (Oct 10, 2017)
+    • Express yourself in the moment with Emoji Status
+Version 11.30.0 (Sep 27, 2017)
+    • Express yourself in the moment with Emoji Status
+Version 11.29.0 (Sep 14, 2017)
+    • Fixed a bug where sometimes pictures taken in Kik wouldn't show "Camera"
+Version 11.28.1 (Sep 7, 2017)
+    • You can now reply to messages straight from the notification! Tap and hold on a notification to try it out on iOS 9+
+    • Now when you pull down your list of chats, the people you chat with the most are a tap away with Quick Chats
+Version 11.28.0 (Aug 29, 2017)
+    • You can now reply to messages straight from the notification! Tap and hold on a notification to try it out on iOS 9+
+    • Now when you pull down your list of chats, the people you chat with the most are a tap away with Quick Chats
+Version 11.27.0 (Aug 21, 2017)
+    • You can now reply to messages straight from the notification! Tap and hold on a notification to try it out on iOS 9+
+    • Now when you pull down your list of chats, the people you chat with the most are a tap away with Quick Chats
+Version 11.26.0 (Aug 14, 2017)
+    • Fixed a bug where Kik would save duplicate profile pictures
+
+    Thanks for using Kik!
+Version 11.25.1 (Jul 13, 2017)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 11.25.0 (Jul 10, 2017)
+    • Video Chat got an upgrade with Stickers! Swipe to the left while you're video chatting to explore funny stickers and emojis
+    • Group video chatting is even better – swipe left to chat full-screen with up to 5 other friends
+    • Our classic Sketch app has a new companion: ScribbleChat lets you create awesome animated text messages that play automatically for your friends
+Version 11.24.0 (Jul 4, 2017)
+    • Video Chat got an upgrade with Stickers! Swipe to the left while you're video chatting to explore funny stickers and emojis
+    • Group video chatting is even better – swipe left to chat full-screen with up to 5 other friends
+    • Our classic Sketch app has a new companion: ScribbleChat lets you create awesome animated text messages that play automatically for your friends
+    • Fixed a bug where some messages would appear in the chat with the wrong timestamp
+Version 11.23.0 (Jun 27, 2017)
+    • Video Chat got an upgrade with Stickers! Swipe to the left while you're video chatting to explore funny stickers and emojis
+    • Group video chatting is even better – swipe left to chat full-screen with up to 5 other friends
+    • Our classic Sketch app has a new companion: ScribbleChat lets you create awesome animated text messages that play automatically for your friends
+    • Fixed a bug where some messages would appear in the chat with the wrong timestamp
+Version 11.21.0 (May 25, 2017)
+    • Introducing photo filters! Just swipe left/right after taking a photo to apply different photo filters. Easy.
+Version 11.19.0 (May 16, 2017)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 11.18.0 (May 3, 2017)
+    • Supersize it! Pinch to zoom before taking a photo or drag to zoom while recording a video.
+Version 11.17.0 (May 2, 2017)
+    • Supersize it! Pinch to zoom before taking a photo or drag to zoom while recording a video.
+Version 11.15.0 (Apr 11, 2017)
+    • Supersize it! Pinch to zoom before taking a photo or drag to zoom while recording a video.
+Version 11.14.0 (Apr 4, 2017)
+    • Supersize it! Pinch to zoom before taking a photo or drag to zoom while recording a video.
+Version 11.13.0 (Mar 28, 2017)
+    • Supersize it! Pinch to zoom before taking a photo or drag to zoom while recording a video.
+Version 11.12.0 (Mar 22, 2017)
+    • Supersize it! Pinch to zoom before taking a photo or drag to zoom while recording a video.
+Version 11.9.0 (Mar 7, 2017)
+    • Looking for a specific chat? Now you can pull down your list of chats and search to find the one you want.
+    • Swipe down memory lane! Tap on a photo and swipe left/right to see your chat's photos, videos, and GIFs.
+    • Now you can 3D Touch Kik's icon to quickly find friends, join public groups, and discover bots.
+Version 11.7.0 (Feb 21, 2017)
+    • Reorder or remove your installed sticker packs, any way you want. Just tap on the gear icon in the Sticker Shop.
+    • Blocking or banning is easier: Tap on a profile picture to block, ban, or promote someone to group admin right from the chat screen.
+Version 11.6.1 (Feb 10, 2017)
+    Love emojis? We do too so we made them bigger! Send a message with only emojis and check it out
+Version 11.6.0 (Feb 7, 2017)
+    Love emojis? We do too so we made them bigger! Send a message with only emojis and check it out
+Version 11.5.0 (Jan 31, 2017)
+    Public Groups are back! Search by #topic to find a group and chat about anything that interests you.
+
+    We also fixed some reported bugs:
+    • Messages should say the correct time they were received, instead of "Just Now."
+    • We added crash fixes for users sending content with no network access.
+    • Photos should now appear in the same order as the phone's camera roll.
+Version 11.4.1 (Jan 26, 2017)
+    We’re back with a small update to squash some reported bugs:
+    • Messages should say the correct time they were received, instead of "Just Now."
+    • Crash fixes for users sending content with no network.
+    Also, Video Chat bubbles are bigger – and now you can use Bluetooth audio!
+
+    We love getting your feedback. Please keep it coming!
+Version 11.4.0 (Jan 24, 2017)
+    Video Chat bubbles are bigger, and you can now use bluetooth audio!
+
+    Kik is the best way to chat back-and-forth in realtime, and you can get even more personal with video. When you're chatting one to one or in groups, just tap the video icon in the top right.
+Version 11.3.1 (Dec 21, 2016)
+    You can now Video Chat on Kik! Kik is the best way to chat back-and-forth in realtime, and today you can get even more personal with video. When you're chatting one to one or in groups, just tap the video icon in the top right.
+Version 11.3.0 (Dec 19, 2016)
+    You can now Video Chat on Kik! Kik is the best way to chat back-and-forth in realtime, and today you can get even more personal with video. When you're chatting one to one or in groups, just tap the video icon in the top right.
+Version 11.2.0 (Dec 12, 2016)
+    Kik has a brand new look! We’ve made it more fun and easy to use, so you can spend less time hunting for photos and GIFs and more time chatting with friends and groups. Now you can:
+
+    • Quickly find friends, start groups and discover bots with a "+" menu right on the main Kik page.
+    • We made it easier to add your favorite photos, GIFs, and smileys while you’re chatting — they’re available right under the text field for easy access.
+    • Organize your thoughts with redesigned chat bubbles. When you have a lot to say and send several messages in a row, they’ll now group together.
+
+    And we’ve added lots of bug fixes and improvements to make Kik even better.
+Version 11.1.0 (Dec 1, 2016)
+    Kik has a brand new look! We’ve made it more fun and easy to use, so you can spend less time hunting for photos and GIFs and more time chatting with friends and groups. Now you can:
+
+    • Quickly find friends, start groups and discover bots with a "+" menu right on the main Kik page.
+    • We made it easier to add your favorite photos, GIFs, and smileys while you’re chatting — they’re available right under the text field for easy access.
+    • Organize your thoughts with redesigned chat bubbles. When you have a lot to say and send several messages in a row, they’ll now group together.
+
+    And we’ve added lots of bug fixes and improvements to make Kik even better.
+Version 11.0.1 (Nov 22, 2016)
+    Kik has a brand new look! We’ve made it more fun and easy to use, so you can spend less time hunting for photos and GIFs and more time chatting with friends and groups. Now you can:
+
+    • Quickly find friends, start groups and discover bots with a "+" menu right on the main Kik page.
+    • We made it easier to add your favorite photos, GIFs, and smileys while you’re chatting — they’re available right under the text field for easy access.
+    • Organize your thoughts with redesigned chat bubbles. When you have a lot to say and send several messages a row, they’ll now group together.
+
+    And we’ve added lots of bug fixes and improvements to make Kik even better.
+Version 11.0.0 (Nov 21, 2016)
+    Kik has a brand new look! We’ve made it more fun and easy to use, so you can spend less time hunting for photos and GIFs and more time chatting with friends and groups. Now you can:
+
+    • Quickly find friends, start groups and discover bots with a "+" menu right on the main Kik page.
+    • We made it easier to add your favorite photos, GIFs, and smileys while you’re chatting — they’re available right under the text field for easy access.
+    • Organize your thoughts with redesigned chat bubbles. When you have a lot to say and send several messages a row, they’ll now group together.
+
+    And we’ve added lots of bug fixes and improvements to make Kik even better.
+Version 10.17.0 (Oct 24, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here. Thanks for using Kik!
+Version 10.15.0 (Oct 3, 2016)
+    • As your group grows and changes, so do your Admins. Group Owners now have the ability to promote or demote Admins
+    • Fixed an issue where tapping a push notification didn't open to the chat list for iOS 10 users
+    • Did your Kik notification sound change on iOS 10? This can be fixed by restarting your device (press and hold the power and home buttons for 10 seconds)
+
+    Thanks for using Kik!
+Version 10.14.0 (Sep 19, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 10.13.1 (Sep 6, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 10.13.0 (Aug 30, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 10.12.0 (Aug 16, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 10.11.0 (Aug 2, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 10.10.0 (Jul 18, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+
+    Thanks for using Kik!
+Version 10.9.0 (Jul 5, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+    Thanks for using Kik!
+Version 10.8.0 (Jun 23, 2016)
+    • Fixed: A bug that prevented UK users from using Kik on a cellular network
+    • Fixed: A crash affecting iOS 7 users
+
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+    Thanks for using Kik!
+Version 10.7.0 (Jun 15, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+    Thanks for using Kik!
+Version 10.5.0 (Jun 13, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+    Thanks for using Kik!
+Version 10.4.0 (May 26, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here.
+    Thanks for using Kik!
+Version 10.3.0 (Apr 25, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users. As we add new features, we’ll let you know about them right here. Thanks for using Kik!
+Version 10.2.0 (Apr 11, 2016)
+    • Introducing the Bot Shop, a place for you to meet the bots you want to chat with
+    • Now you can include bots in your chats with friends! Just type @ and the bot’s name. Like, if you want to mention the Vine bot in a chat to get cool vines, just type @Vine
+Version 10.1.0 (Apr 8, 2016)
+    • Introducing the Bot Shop, a place for you to meet the bots you want to chat with
+    • Now you can include bots in your chats with friends! Just type @ and the bot’s name. Like, if you want to mention the Vine bot in a chat to get cool vines, just type @Vine
+Version 10.0.0 (Mar 29, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users.
+    As we add new features, we’ll let you know about them right here. Thanks for using Kik!
+Version 9.11.0 (Mar 23, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users.
+    As we add new features, we’ll let you know about them right here. Thanks for using Kik!
+Version 9.9.0 (Mar 8, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users.
+    As we add new features, we’ll let you know about them right here. Thanks for using Kik!
+Version 9.8.0 (Mar 1, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users.
+    As we add new features, we’ll let you know about them right here. Thanks for using Kik!
+Version 9.6.0 (Feb 16, 2016)
+    We’re always making updates to ensure the app is running as smoothly as possible for our users.
+    As we add new features, we’ll let you know about them right here. Thanks for using Kik!
+Version 9.5.0 (Feb 8, 2016)
+    New Feature: Share Extension! Share pics, videos and links right to Kik from other apps (iOS 8+)
+
+    We’re always making updates to ensure the app is running as smoothly as possible for our users.
+    As we add new features, we’ll let you know about them right here. Thanks for using Kik!
+Version 9.4.0 (Feb 1, 2016)
+    • Bug fixes and performance improvements
+Version 9.2.1 (Jan 4, 2016)
+    • Crash fixes for affected users
+Version 9.2.0 (Dec 15, 2015)
+    • Got rid of some pesky bugs so you can experience smoother, faster, better performance
+Version 9.1.0 (Nov 24, 2015)
+    • There’s a new way to share that amazing pic or video you find! Just paste it directly into your chat and send
+    • We also made some performance improvements to make your life a little easier
+Version 9.0.0 (Nov 16, 2015)
+    • Easily discover and send GIFs using your favorite emojis, right from chat. Like PB and J, GIFs and emojis are just better together.
+    • Starting a group is now easier and faster
+    • Performance improvements
+Version 8.10.0 (Oct 21, 2015)
+    • Crash fixes for affected users
+    • General improvements and bug fixes
+Version 8.9.0 (Oct 7, 2015)
+    • General improvements and bug fixes
+Version 8.8.0 (Sep 8, 2015)
+    • Kik Codes are here! Quickly add friends and join groups...just pull to scan :)
+    • Now you can send photos and videos stored in iCloud
+    • Squashed a bug that affected storage on some devices
+Version 8.7.0 (Jul 28, 2015)
+    Exciting improvements under the hood!
+Version 8.6.0 (Jul 13, 2015)
+    • Tap and hold to save photos and videos right from your conversations
+    
+
+• Fixed: A bug where the text field in a chat was cut off during an active call or personal hotspot
+    
+
+• Improved performance
+Version 8.5.1 (Jun 30, 2015)
+    Fixed: crash affecting some users when receiving messages
+Version 8.4.0 (Jun 2, 2015)
+    • Already recorded a great video you want to share? Now you can send videos from your gallery!
+Version 8.3.0 (May 11, 2015)
+    • Now you can delete messages from your chats. That means you can plan that surprise party without having to worry about Snoopy Sally peeking at your phone. But be careful, because it doesn't delete the messages from your friend's phone
+    • Better support for Apple's fun, new emojis
+Version 8.2.1 (Apr 27, 2015)
+    • Bug fixes
+Version 8.2.0 (Apr 14, 2015)
+    • So long sidebar! Access your favorite webpages through the web button
+    • We've heard you loud and clear. Now you can choose from 22 different chat bubble colors
+Version 8.1.0 (Mar 18, 2015)
+    • Added tap to focus to improve the camera and video experience
+    • Fixed an issue that prevented some users from opening chats
+Version 8.0.0 (Mar 4, 2015)
+    You asked, we listened:
+
+    • Record a video to share the moment with your friends!
+    • Fixed a bug that prevented users from connecting when data was disabled
+Version 7.10.1 (Feb 4, 2015)
+    • Fixes a crash for affected users
+Version 7.10.0 (Feb 2, 2015)
+    • Improved network reliability
+Version 7.9.0 (Dec 15, 2014)
+    Just in time for the holidays! We've got a present for you:
+
+    • Add up to 50 of your friends to a group
+    • Admins can now add a group name, photo, and kick people from the group
+    • Create and join public groups with hashtags
+Version 7.8.0 (Nov 24, 2014)
+    • Kik has a great new look!
+    • It's easier to find people and start chatting
+    • Now you can mute notifications for any of your chats
+Version 7.7.1 (Nov 5, 2014)
+    • Fixes landscape issues for affected iPad users
+Version 7.7.0 (Nov 3, 2014)
+    • Improved chat scrolling lets you control the pace of your conversations
+    • Updated for iPhone 6 and iPhone 6 Plus
+Version 7.6.1 (Oct 21, 2014)
+    • Bug Fixes
+Version 7.6.0 (Oct 20, 2014)
+    • Capture the moment with improved photo sharing!
+Version 7.5.3 (Sep 28, 2014)
+    • iOS8 bug fixes
+Version 7.5.0 (Sep 24, 2014)
+    • Have more fun with themed smileys!
+    • Updated for iOS8 compatibility
+    • Bug fixes and stability improvements
+Version 7.4.1 (Sep 15, 2014)
+    - Fixes crashes for affected users
+Version 7.4.0 (Sep 3, 2014)
+    - Pictures on Kik have a great new look!
+    - Bug fixes and stability improvements
+Version 7.3.0 (Jul 16, 2014)
+    • No need to take screenshots anymore! Easily share your Kik profile on Instagram, Facebook, and Twitter
+    • Now you can chat with your favorite brands on Kik
+Version 7.2.1 (May 23, 2014)
+    • Improves push notification reliability
+
+    • Bug fixes
+Version 7.2.0 (May 20, 2014)
+    Thanks for your feedback! This update has some big changes that will help you connect with friends on your terms:
+
+    • Easily manage your conversations with a separate section for messages from new people
+    • Pictures and content from new people are blurred until you choose to see them
+    • Block and report right from your conversation
+    • Sending stickers is easier and faster!
+Version 7.1.0 (Mar 10, 2014)
+    • Bug fixes
+Version 7.0.0 (Feb 5, 2014)
+    • Browse and share any webpage in Kik!
+    • Stability improvements
+Version 6.8.1 (Dec 1, 2013)
+    • Fixes a problem sending photos
+Version 6.8.0 (Nov 25, 2013)
+    • Redesigned sharing makes sending content from your favorite Cards even faster
+    • Change your password from Settings
+Version 6.7.1 (Oct 24, 2013)
+    • Bug fixes
+Version 6.7.0 (Oct 8, 2013)
+    • Updated iOS7 look and feel
+    • My Little Pony sticker pack now available!
+    • Stability improvements
+Version 6.6.0 (Sep 3, 2013)
+    • More stickers! Happy Tree Friends & Smiley World
+    • Share a Photo Bomb without leaving your conversation
+    • Keep all your Cards when you switch devices
+Version 6.5.0 (Jul 30, 2013)
+    • Say more with Stickers!
+    • New games by Zynga and TreSensa available in More
+    • Option to talk to new people without adding them to your contacts
+    • Performance improvements
+Version 6.4.2 (Jun 20, 2013)
+    Stability improvements for affected devices
+Version 6.4.1 (Jun 17, 2013)
+    Featured and popular Cards now available in More
+Version 6.4.0 (May 22, 2013)
+    • Increased message history
+    • Capture photo sharing now available in More
+    • Share pictures, sketches and YouTube videos without leaving your conversation
+    • Quickly return to your Card after sharing content
+    • Performance improvements
+Version 6.3.0 (Apr 11, 2013)
+    • Find and start talking to your friends faster
+    • Organize your favorite cards
+    • See at a glance when cards have new content
+Version 6.2.0 (Feb 20, 2013)
+    • Squared puzzle game now available in More
+    • Sidebar improvements
+    • Press and hold to share a card via Kik
+Version 6.1.0 (Dec 17, 2012)
+    • Reddit Pics card now available in More
+    • Option to disable notifications from new people
+    • Enhanced picture message previews
+Version 6.0.0 (Nov 29, 2012)
+    Do more on Kik with 3 new features:
+    • Find and share YouTube videos
+    • Create sketches with your friends
+    • Search and send images
+
+    Updates app rating to 17+
+
+    Fixes known issues including:
+    • iPad freezing
+    • auto-scroll when message status is updated
+Version 5.6.0 (Oct 12, 2012)
+    - Optimized for iPhone 5
+    - Fixed lists appearing empty until searched
+    - Network improvements
+Version 5.5.4 (Sep 24, 2012)
+    - Network improvements
+Version 5.5.3 (Aug 29, 2012)
+    - Performance improvements
+
+    - Bug fixes including viewing full-size pictures
+Version 5.5.2 (Jul 20, 2012)
+    Bug fixes
+Version 5.5.0 (Apr 4, 2012)
+    - Streamlined user interface for more efficient messaging
+    - New languages: Brazilian Portugese and Russian
+    - Performance improvements
+Version 5.4.2 (Feb 24, 2012)
+    iOS 5 Compatibility Fixes
+Version 5.4.1 (Feb 11, 2012)
+    Bug fixes.
+Version 5.4.0 (Dec 22, 2011)
+    Added a new screen that displays 'Apps That Kik' (apps built using the Kik API).
+
+    Apps That Kik screen can be accessed from the "More" button in the media tray.
+Version 5.2.3 (Oct 12, 2011)
+    Fixes compatibility issues
+Version 5.2.2 (Sep 27, 2011)
+    Bug fixes
+Version 5.2.1 (Sep 6, 2011)
+    - Optimizations to registration screen
+Version 5.2 (Aug 15, 2011)
+    - push privacy setting
+    - simplified interface
+    - silent blocking
+    - further speed improvements
+    - translated into Arabic, German, Spanish, French, Italian, Japanese, Korean, Traditional Chinese and Simplified Chinese
+Version 5.1.0 (Jun 27, 2011)
+    - Performance & stability improvements
+    - UI adjustments
+    - Bug fixes
+Version 5.0.0 (Apr 27, 2011)
+    -Send pictures from your gallery
+    -Set your profile pic from a gallery photo
+    -Ability to block other users
+    -SSL encryption keeps your messages safe
+    -Bug fixes and performance improvements
+Version 4.0.1 (Mar 21, 2011)
+    - Fixed the issue with some profile pictures not loading
+    - Improved performance
+    - Fixed issues causing crashes
+Version 4.0.0 (Mar 7, 2011)
+    FAST PICTURE SHARING
+    Share moments with your friends as they happen. Send something funny, embarrassing, beautiful – whatever! It’s all about getting your contacts in on the action, instantly and privately, with a picture message.
+
+    SIMPLE GROUP CHAT
+    Easily create groups on-the-go by adding friends to conversations. Share your weekend plans with your friends at work, have a chat with the whole family, tell your entire team you’re running late for practice, etc. Group Chat lets you get the message out to the whole gang in a simple, safe and private way.
+
+    SPEED & STABILITY BOOST
+    Since the beginning, Kik has been known for its blazing speed and dependable service. That’s why we’ve tweaked some things under the hood to make Kik even faster and more reliable. You’re welcome!
+
+    OTHER NEATO STUFF
+    + A clearer opt-in/opt-out process for the automatic friend-matching feature
+    + An improved emoticon set that helps you find that perfect smiley face faster
+Version 2.3.0 (Dec 20, 2010)
+    - Profile pictures
+
+    - "Find friends" feature
+
+    - Lots of bug fixes and performance improvements
+Version 2.2.2 (Dec 16, 2010)
+    - fixed crashing
+    - security improvements
+    - performance improvements
+    - faster message loading
+    - minor UI tweaks
+Version 2.2.1 (Nov 6, 2010)
+    - fixed the issue where account would randomly get logged out in poor reception areas
+    - minor user interface adjustments
+    - stability improvements
+Version 2.2 (Oct 19, 2010)
+    - See when the other person is typing
+    - Now globally available
+    - Ability to modify your contact list and message list
+    - Usernames
+    - General stability and performance improvements
+    - Full support of iOS 4
+    - High resolution graphics (retina display ready)
+Version 2.1 (Jul 23, 2010)
+    - Support for smileys
+
+    - Stability improvements
+
+    - UI touch ups
+
+    - Fixed the issue causing crashing when upgrading from 1.3.1 and older
+
+Version 2.0 (Jul 8, 2010)
+    - faster boot time
+
+    - overall faster performance
+
+    - delivery receipts
+
+    - Kik codes
+Version 11.11.0 (Apr 10, 2010)
+    • Go darker with bubbles: We added a dark bubble color pack, including black by popular demand.
+    • Want to know exactly when a message was sent? Tap it to find out.
+Version 1.0
+Version 1.1
+Version 1.2
+Version 1.3
+Version 1.3.1
+
+Users may also like
+Select objects to compare
+Skout — Meet New People
+FET: Kinky BDSM Dating App
+BBW Dating & Hookup App: Bustr
+SDC Swingers Lifestyle Dating
+Kinkoo: Kinky, Fet BDSM Dating
+Addchat - Random Chat
+Meet24 - Flirt, Chat, Singles
+3rder: Threesome Swingers App
+Waplog - Dating & Video-Chat
+Oops: One Night Stand
+IQ Classifications
+Primary Classification
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Secondary Classifications
+Genre: Entertainment
+Subgenre: Live Streaming
+Screenshots
+Last Featured (Global)
+iPhone Market
+5 times
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    16.15.0
+    Current release
+    Feb 26, 2024
+    16.14.2
+    Jan 25, 2024
+    16.14.1
+    Jan 24, 2024
+    16.13.1
+    Dec 19, 2023
+    16.13.0
+    Dec 4, 2023
+    16.12.2
+    Oct 26, 2023
+    16.12.1
+    Oct 10, 2023
+    16.12.0
+    Oct 3, 2023
+    16.11.0
+    Sep 27, 2023
+    16.10.4
+    Aug 30, 2023
+    16.10.3
+    Aug 23, 2023
+    16.10.2
+    Aug 15, 2023
+    16.10.1
+    Aug 10, 2023
+    16.9.6
+    Jun 26, 2023
+    16.9.5
+    May 22, 2023
+    16.9.3
+    Apr 26, 2023
+    16.9.2
+    Apr 19, 2023
+    16.9.1
+    Apr 14, 2023
+    16.9.0
+    Apr 5, 2023
+    16.8.3
+    Feb 25, 2023
+    16.8.2
+    Feb 20, 2023
+    16.8.0
+    Jan 14, 2023
+    16.7.2
+    Dec 8, 2022
+    16.7.2
+    Dec 8, 2022
+    16.7.1
+    Nov 23, 2022
+    16.7.0
+    Nov 10, 2022
+    16.6.2
+    Oct 26, 2022
+    16.6.1
+    Oct 18, 2022
+    16.5.0
+    Oct 5, 2022
+    16.4.1
+    Sep 26, 2022
+    16.4.0
+    Sep 12, 2022
+    16.3.1
+    Sep 8, 2022
+    16.3.0
+    Aug 18, 2022
+    16.2.0
+    Aug 5, 2022
+    16.1.10
+    Jul 22, 2022
+    16.1.9
+    Jul 21, 2022
+    16.1.8
+    Jun 1, 2022
+    16.1.7
+    May 23, 2022
+    16.1.6
+    May 7, 2022
+    16.1.5
+    Apr 1, 2022
+    16.1.3
+    Mar 17, 2022
+    16.1.3
+    Mar 17, 2022
+    16.1.2
+    Mar 9, 2022
+    16.1.0
+    Jan 21, 2022
+    16.0.9
+    Jan 14, 2022
+    16.0.8
+    Jan 10, 2022
+    16.0.7
+    Dec 15, 2021
+    16.0.6
+    Aug 26, 2021
+    16.0.5
+    Jul 26, 2021
+    16.0.4
+    Jul 19, 2021
+    16.0.3
+    Jul 6, 2021
+    16.0.2
+    Jun 28, 2021
+    16.0.1
+    Jun 22, 2021
+    15.29.4
+    May 19, 2021
+    15.29.2
+    May 14, 2021
+    15.29.1
+    May 8, 2021
+    15.29.0
+    May 2, 2021
+    15.28.1
+    Apr 7, 2021
+    15.28.0
+    Mar 24, 2021
+    15.27.0
+    Mar 11, 2021
+    15.26.0
+    Feb 22, 2021
+    15.25.1
+    Nov 20, 2020
+    15.25.0
+    Nov 17, 2020
+    15.24.0
+    Aug 10, 2020
+    15.23.1
+    Jul 16, 2020
+    15.23.0
+    Jun 29, 2020
+    15.22.1
+    Apr 9, 2020
+    15.22.0
+    Apr 6, 2020
+    15.21.2
+    Mar 24, 2020
+    15.21.1
+    Mar 17, 2020
+    15.21.0
+    Mar 13, 2020
+    15.20.0
+    Feb 18, 2020
+    15.19.0
+    Jan 30, 2020
+    15.18.0
+    Dec 17, 2019
+    15.17.3
+    Nov 22, 2019
+    15.17.2
+    Nov 15, 2019
+    15.17.1
+    Nov 13, 2019
+    15.17.0
+    Nov 12, 2019
+    15.16.0
+    Oct 15, 2019
+    15.15.0
+    Aug 27, 2019
+    15.13.0
+    Aug 19, 2019
+    15.3.0
+    Feb 11, 2019
+    15.2.0
+    Jan 28, 2019
+    15.1.0
+    Jan 3, 2019
+    15.0.0
+    Nov 27, 2018
+    14.9.0
+    Nov 12, 2018
+    14.8.0
+    Oct 29, 2018
+    14.7.0
+    Oct 22, 2018
+    14.5.0
+    Sep 18, 2018
+    14.4.0
+    Aug 28, 2018
+    14.3.0
+    Aug 7, 2018
+    14.2.0
+    Jul 24, 2018
+    14.1.0
+    Jul 17, 2018
+    14.0.0
+    Jun 28, 2018
+    13.3.0
+    Jun 6, 2018
+    13.2.0
+    May 14, 2018
+    13.1.0
+    Apr 30, 2018
+    13.0.0
+    Apr 16, 2018
+    12.5.0
+    Apr 9, 2018
+    12.4.0
+    Apr 5, 2018
+    12.3.0
+    Mar 5, 2018
+    12.1.0
+    Jan 8, 2018
+    11.37.0
+    Dec 7, 2017
+    11.36.0
+    Nov 28, 2017
+    11.35.0
+    Nov 20, 2017
+    11.33.0
+    Oct 30, 2017
+    11.32.0
+    Oct 16, 2017
+    11.31.0
+    Oct 10, 2017
+    11.30.0
+    Sep 27, 2017
+    11.29.0
+    Sep 14, 2017
+    11.28.1
+    Sep 7, 2017
+    11.28.0
+    Aug 29, 2017
+    11.27.0
+    Aug 21, 2017
+    11.26.0
+    Aug 14, 2017
+    11.25.1
+    Jul 13, 2017
+    11.25.0
+    Jul 10, 2017
+    11.24.0
+    Jul 4, 2017
+    11.23.0
+    Jun 27, 2017
+    11.21.0
+    May 25, 2017
+    11.19.0
+    May 16, 2017
+    11.18.0
+    May 3, 2017
+    11.17.0
+    May 2, 2017
+    11.15.0
+    Apr 11, 2017
+    11.14.0
+    Apr 4, 2017
+    11.13.0
+    Mar 28, 2017
+    11.12.0
+    Mar 22, 2017
+    11.9.0
+    Mar 7, 2017
+    11.7.0
+    Feb 21, 2017
+    11.6.1
+    Feb 10, 2017
+    11.6.0
+    Feb 7, 2017
+    11.5.0
+    Jan 31, 2017
+    11.4.1
+    Jan 26, 2017
+    11.4.0
+    Jan 24, 2017
+    11.3.1
+    Dec 21, 2016
+    11.3.0
+    Dec 19, 2016
+    11.2.0
+    Dec 12, 2016
+    11.1.0
+    Dec 1, 2016
+    11.0.1
+    Nov 22, 2016
+    11.0.0
+    Nov 21, 2016
+    10.17.0
+    Oct 24, 2016
+    10.15.0
+    Oct 3, 2016
+    10.14.0
+    Sep 19, 2016
+    10.13.1
+    Sep 6, 2016
+    10.13.0
+    Aug 30, 2016
+    10.12.0
+    Aug 16, 2016
+    10.11.0
+    Aug 2, 2016
+    10.10.0
+    Jul 18, 2016
+    10.9.0
+    Jul 5, 2016
+    10.8.0
+    Jun 23, 2016
+    10.7.0
+    Jun 15, 2016
+    10.5.0
+    Jun 13, 2016
+    10.4.0
+    May 26, 2016
+    10.3.0
+    Apr 25, 2016
+    10.2.0
+    Apr 11, 2016
+    10.1.0
+    Apr 8, 2016
+    10.0.0
+    Mar 29, 2016
+    9.11.0
+    Mar 23, 2016
+    9.9.0
+    Mar 8, 2016
+    9.8.0
+    Mar 1, 2016
+    9.6.0
+    Feb 16, 2016
+    9.5.0
+    Feb 8, 2016
+    9.4.0
+    Feb 1, 2016
+    9.2.1
+    Jan 4, 2016
+    9.2.0
+    Dec 15, 2015
+    9.1.0
+    Nov 24, 2015
+    9.0.0
+    Nov 16, 2015
+    8.10.0
+    Oct 21, 2015
+    8.9.0
+    Oct 7, 2015
+    8.8.0
+    Sep 8, 2015
+    8.7.0
+    Jul 28, 2015
+    8.6.0
+    Jul 13, 2015
+    8.5.1
+    Jun 30, 2015
+    8.4.0
+    Jun 2, 2015
+    8.3.0
+    May 11, 2015
+    8.2.1
+    Apr 27, 2015
+    8.2.0
+    Apr 14, 2015
+    8.1.0
+    Mar 18, 2015
+    8.0.0
+    Mar 4, 2015
+    7.10.1
+    Feb 4, 2015
+    7.10.0
+    Feb 2, 2015
+    7.9.0
+    Dec 15, 2014
+    7.8.0
+    Nov 24, 2014
+    7.7.1
+    Nov 5, 2014
+    7.7.0
+    Nov 3, 2014
+    7.6.1
+    Oct 21, 2014
+    7.6.0
+    Oct 20, 2014
+    7.5.3
+    Sep 28, 2014
+    7.5.0
+    Sep 24, 2014
+    7.4.1
+    Sep 15, 2014
+    7.4.0
+    Sep 3, 2014
+    7.3.0
+    Jul 16, 2014
+    7.2.1
+    May 23, 2014
+    7.2.0
+    May 20, 2014
+    7.1.0
+    Mar 10, 2014
+    7.0.0
+    Feb 5, 2014
+    6.8.1
+    Dec 1, 2013
+    6.8.0
+    Nov 25, 2013
+    6.7.1
+    Oct 24, 2013
+    6.7.0
+    Oct 8, 2013
+    6.6.0
+    Sep 3, 2013
+    6.5.0
+    Jul 30, 2013
+    6.4.2
+    Jun 20, 2013
+    6.4.1
+    Jun 17, 2013
+    6.4.0
+    May 22, 2013
+    6.3.0
+    Apr 11, 2013
+    6.2.0
+    Feb 20, 2013
+    6.1.0
+    Dec 17, 2012
+    6.0.0
+    Nov 29, 2012
+    5.6.0
+    Oct 12, 2012
+    5.5.4
+    Sep 24, 2012
+    5.5.3
+    Aug 29, 2012
+    5.5.2
+    Jul 20, 2012
+    5.5.0
+    Apr 4, 2012
+    5.4.2
+    Feb 24, 2012
+    5.4.1
+    Feb 11, 2012
+    5.4.0
+    Dec 22, 2011
+    5.2.3
+    Oct 12, 2011
+    5.2.2
+    Sep 27, 2011
+    5.2.1
+    Sep 6, 2011
+    5.2
+    Aug 15, 2011
+    5.1.0
+    Jun 27, 2011
+    5.0.0
+    Apr 27, 2011
+    4.0.1
+    Mar 21, 2011
+    4.0.0
+    Mar 7, 2011
+    2.3.0
+    Dec 20, 2010
+    2.2.2
+    Dec 16, 2010
+    2.2.1
+    Nov 6, 2010
+    2.2
+    Oct 19, 2010
+    2.1
+    Jul 23, 2010
+    2.0
+    Jul 8, 2010
+    11.11.0
+    Apr 10, 2010
+    1.0
+    N/A
+    1.1
+    N/A
+    1.2
+    N/A
+    1.3
+    N/A
+    1.3.1
+    N/A
+
+See More
+Top In-App Purchases
+
+    100 Live Credits
+    $0.99
+    200 Live Credits
+    $1.99
+    500 Live Credits
+    $4.99
+    2000 Live Credits
+    $14.99
+    3700 Live Credits
+    $24.99
+    16500 Live Credits
+    $99.99
+    70000 Live Credits
+    $399.99
+    3 Chat Credits
+    $0.99
+    Special Offer
+    $99.99
+    Special Offer
+    $14.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Apr 10, 2010
+
+Worldwide Release Date
+    Oct 19, 2010
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    16.15.0
+
+Size
+    215.99 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese
+
+Seller
+    Ai Medialab Inc
+
+Company HQ
+    Canada
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.kik.chat
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Company Website
+
+App ID: 357218860
+Unified App ID: 1000600000000597
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Kik Messaging & Chat App | data.ai

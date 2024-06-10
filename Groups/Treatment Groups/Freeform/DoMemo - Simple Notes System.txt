@@ -1,0 +1,386 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+DoMemo - Simple Notes System
+Hangzhou Quanduan Technology Co., Ltd.Productivity (Applications)Free
+Alerts
+
+    Hangzhou Quanduan Technology Co., Ltd.
+
+    DoMemo - Simple Notes System
+    DoMemo - Simple Notes System
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+DoMemo - Simple Notes System
+一篇好的笔记，也许 200 字就够了。语音、双向、卡片笔记…
+Productivity (Applications)
+Free
+App Description
+## A New Balance
+A typical note is more words and complex; a typical memo is less wordy and sometimes ad hoc, and much lighter too.
+
+We found that there is a new balance between "notes" and "memos", also the scenarios that we often encounter, such as writing inspirations down, or a reverie, or the deepest feeling after reading a book. There are not too many words, but is not temporary; it should be light, but also can be complex, like giving tags and connections for future management and review.
+
+That's why we designed DoMemo this App, a new balance, a new personal note system. We believe that, be simple and be powerful are never contradictory.
+
+## About DoMemo, Some Keywords
+Local, Full Text Search, History Versions, Voice Recording, Voice to Text, iCloud Drive sync, Git sync, Card Notes, Memory Curve, 200 Words, Tags, Backward Links...
+
+## Above Simplicity, Make Yourself as The Method
+Notes in DoMemo can have tags or not, have backward links or not, use Markdown syntax or not, cardify or ignore the cards, be scientific or humanistic.
+
+DoMemo will not deliberately cut down the features to keep the simplicity; as a tool, it should provide convenience to users without thinking about how to use it.
+
+## 200 Words, The Liberation
+The default maximum words per DoMemo note is 200, you can adjust it in the App settings.
+
+The 200 words limit does not limit human imagination, but rather liberates the boundaries of our thinking at another level.
+
+Because of this limit, when we need to summarize what we have read in a book, we will deliberately keep it concise and concise; when we take notes as we go, we don't need to consider the structure of the context, so we really can write freely.
+
+When writing, become of stress-free, there will be a magical effect produced, simply put, it will be easier to write, and will write more words finally ......
+
+
+## Local First, No Registration Required
+DoMemo's notes data is stored locally and does not depend on any official servers, so you don't have to worry that one day the data service will be unavailable and the notes will not be migrated any more.
+There is no need to register an account to use DoMemo, so you don't have to worry about compromising your account password.
+
+DoMemo uses an open file system structure, with folders, text documents, images, and audio files, so all you need to do to back up or migrate DoMemo data is copy a folder, paste it into the location you need (in Finder or Filess), and it's done.
+
+
+## Syncing by iCloud Drive or Git
+As the designer and developer of DoMemo, we don't want to touch users' notes data, and we believe most of users don't want their data to be hosted by a notes tool provider. It's not just about data privacy and data security, but also about the long-term life of the notes system from a longer-term perspective. That's why DoMemo adopts the principle of local-first data.
+
+Even if it is local-first, it can also be synced across devices.
+DoMemo's notes are synced using iCloud Drive by default. Domemo just simply put an additional copy of each note to be stored on iCloud Drive for sync purpose.
+
+If you need more controlable, and more stable, you can use Git, a tool that requires some IT technical skills. DoMemo integrates this powerful engine and does a lot of automated logic; sometimes you can barely notice Git running in DoMemo but you're already using it.
+
+## Voice Rocording, Taking Note Efficiently
+DoMemo allows you to record audio and insert it into notes, and you can convert the voice into text too.
+
+Voice is great as an input method, and once you get used to it, it can be very efficient. And don't worry about privacy issues, because everything is powered by the machine learning capability of your current device (iPhone or iPad). And it works just as well without a network.
+
+- - - - - - - - - - - -
+
+Privacy Policy: https://www.markdown.app/privacy-policy.html
+Terms of Use: https://www.markdown.app/page/terms.md
+Ratings
+Displayed Avg Ratings
+4.73
+Total Displayed Ratings
+91
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.0.5 (Dec 24, 2023)
+    - 修正: 导出图片时，没有使用原始的标题采用了 filename 的情况
+    - 修正: 最后一个笔记，编辑时自动滚动到可视区域后，完成编辑后则跳动了头部
+    - 优化: 桌面版中某新兴的输入法会导致 list 语法自动补全取消前缀无法进行
+    - 调整: 原始内容使用 YAML 格式包裹，避免首行 key:value 正文时候的混淆
+    - 其它细节的修正
+Version 2.0.4 (Oct 12, 2023)
+    - 优化: 启动逻辑的调整，提升启动速度
+    - 修正: 自动隐藏 Markdown 标记字符时潜在的一个性能问题
+    - 修正: 桌面端的弹窗菜单针对 OS 12~14 单独对应，避免对应最新 OS 时产生的后向兼容问题
+    - 其它细节的修正
+Version 2.0.3 (Sep 20, 2023)
+    - Mac 版针对 macOS 最新版本的兼容
+    - iOS 版针对 iOS 最新版本产生的性能问题（滚动会产生卡顿）的优化
+    - iCloud 同步相关的优化，以及增加 iCloud Status 的显示
+    - 针对 iOS 较低版本的一些兼容性处理
+    - 其它细节的修正
+Version 2.0.2 (Aug 28, 2023)
+    - 融合了 CloudKit 配合 iCloudDrive 或者 Git，提高了跨设备同步的速度和稳定性
+    - 增加 “Todo” 型 list 的支持，相关快捷键为 Command+D
+    - 根据 Tag 相关匹配的数据逻辑微调
+    - 其它细节的修正
+Version 2.0.1 (Aug 22, 2023)
+    我们重新设计了 DoMemo，新增了独立的原生的 macOS 版，保持了 iOS、iPadOS、macOS 的一致性体验。另外，将 CloudKit 和 iCloudDrive 以及 Git 融合，提升了跨设备同步时的速度和稳定性。
+Version 1.2.3 (Dec 15, 2022)
+    - 修正: 预防 Meta 信息丢失机制，导致无法完全删除 Tag、双向链接
+    - 增加: 支持 Tag 的重命名（边栏上长按）
+    - 调整: 暗模式自适应的的机制调整
+    - 调整: 一些样式的调整
+    - 其它 Bug 和闪退情况的处理
+Version 1.2.1 (Nov 21, 2022)
+    - 紧急修复: 刚更新的 1.2.0 新增的缓存机制，会导致 metadata 的丢失，表现为比如Tags、引用路径的丢失，如果已经发生需要在历史版本里找回原先的内容
+    - 增强: 新增补充加载逻辑，滚动的性能明显提升
+    - 调整: 重新设计空间列表的显示方式，空间可以重命名
+    - 增强: Git 相关逻辑和操作的增强
+    - 增强: 搜索区域新增两项常驻 @week 以及 @month
+    - 修正: 避免 … 的载入占位内容冲突了本地真实的内容
+    - 新增: 设置中增加点击震动反馈可否关闭的选项
+    - 调整: 边栏的交互调整，增加一个自动的 search button
+    - 其它一些 bug 和闪退情况的处理
+Version 1.2.0 (Nov 20, 2022)
+    - 增强: 新增补充加载逻辑，滚动的性能明显提升
+    - 调整: 重新设计空间列表的显示方式，空间可以重命名
+    - 增强: Git 相关逻辑和操作的增强
+    - 增强: 搜索区域新增两项常驻 @week 以及 @month
+    - 修正: 避免 … 的载入占位内容冲突了本地真实的内容
+    - 新增: 设置中增加点击震动反馈可否关闭的选项
+    - 调整: 边栏的交互调整，增加一个自动的 search button
+    - 其它一些 bug 和闪退情况的处理
+Version 1.1.7 (Nov 2, 2022)
+    一些 bug 的修复以及一些代码逻辑的调整
+Version 1.1.5 (Oct 25, 2022)
+    - 全新设计的设置界面
+    - 其它 bug 的修复
+Version 1.1.2 (Oct 19, 2022)
+    - 修正: 在日记模式下，删除当日的笔记后重新进行编辑时，键盘无法自动弹出
+    - 修正: 删除笔记后，没有在日历的界面中及时更新当日的笔记数
+    - 优化: 在日记模式中，将年份、月份的选择进行合并
+    - 增强: 提升自动跟随系统 dark 模式的实时性
+    - 修正: iPadOS 15.4 等版本下重载数据时有闪退的可能
+    - 其它一些 bug 的修正
+Version 1.1.1 (Oct 16, 2022)
+    - 增强: 新建笔记时增加过度效果使交互更加自然
+    - 增强: 滚动过程中渲染的性能
+    - 增强: 本地信息关联查询的线程安全性
+    - 修正: 导出为卡片类型图片时，内嵌的图片可能会横线显示不完全，缺失 34 像素的宽
+    - 增强: 候选 Tag 区取最近使用过的，其它的则按照对应数量降序处理，更方便的选取
+    - 调整: TagTree 在某节点展开时点击，直接收起而非询问操作
+    - 其它 bug 和闪退的情况处理
+Version 1.1.0 (Oct 10, 2022)
+    - 修正: iOS 16 下会导致顶部的安全区域位置信息未更新，搜索栏顶部被遮住且不可操作
+    - 修正: iPad 版在连接键盘时输入，文字跨行的同时，笔记的高度没有及时计算和调整
+    - 增强: iPad 版增加一些编辑语法的快捷键
+    - 修正: iPad 版在启动的时，如果是 dark 模式，边栏有一瞬间的白色
+    - 调整: 如果是 Git 性质的空间，打开的时候进行一次自动同步的尝试
+    - 增强: 因为同步更新 UI 时如果当前笔记内容与实际存储不一致，强制先保存一次历史版本
+    - 增强: 当前文章保存时，进一步避免受到其它设备 iCloud 同步“删除文件”的影响
+    - 调整: Git push 之后的提示信息改为 Hud 形式
+    - 增强: 对于 iCloud Drive 产生的冗余版本冲突进行自动合并，避免笔记列表中出现一些因为 iCloud 的冲突而雷同的条目
+    - 其它一些 bug 的修正
+Version 1.0.9 (Oct 7, 2022)
+    - 调整: 搜索区输入时辅助栏的间距调整
+    - 修正: 标签边栏在显示时，拥有相同数量的名称排序避免随机性的情况
+    - 新增: 本地存储的且是最近编辑过的笔记的历史记录汇总
+    - 调整: 一些界面避免受自定义字体的影响
+    - 优化: 部分逻辑在代码层上的结构重写和整理
+    - 其它 bug 的修正
+Version 1.0.8 (Oct 2, 2022)
+    - 调整: iOS 最低兼容至 13.0
+    - 修正: 时间线模式切换时时间戳是否显示的切换有误
+    - 修正: 时间线模式下光标在虚位字符上的可能位置没有正确
+    - 修正: 当前设备的某笔记未保存过的时候，其它设备过来的内容，未能同步内容，仅做了历史版本的存储
+    - 修正: 空间在显示名称的时候，被自动 i18n 了
+    - 调整: 新建滚动按钮的 size 微调
+    - 调整: iPad 设备上创建的笔记，文件名路径中增加设备类型标记，尽可能减少跨设备的冲突覆盖
+    - 调整: iPhone 版的 『快速进入编写模式』默认改为『否』
+    - 增强: 自定义字体由原来编辑主体区域扩充到其它页面元素
+    - 修正: 其它 bug 的修正
+Version 1.0.6 (Sep 23, 2022)
+    - 调整: 当日范围的笔记增加针对 iCloud Drive 的同步检测频率
+    - 修正: 回收站的笔记恢复后，除了本地对应存储恢复外，也更新到本地查询数据库
+    - 修正: 历史版本的恢复后，进行一次本地数据库的同步更新
+    - 修正: 恢复历史版本时，如果原始文件不存在，会导致一些操作点击无效
+    - 其它一些 bug 的修正
+Version 1.0.3 (Sep 19, 2022)
+    bugs fixed
+Version 1.0.2 (Sep 18, 2022)
+    bugs fixed
+Version 1.0 (Sep 17, 2022)
+
+Users may also like
+Select objects to compare
+Monolog - Notes, links, charts
+Seeds思记-专注记录&智能管理
+CatNote-卡片笔记、备忘录和日记便签
+Mindbox: 全平台 All in one 资料收藏夹
+MergeX - Notes Calendar Tasks
+Top Tags-Collect&Read Later
+事线 - 串事成线
+Writeathon 写拉松
+Metaslip: Note & Zettelkasten
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    2.0.5
+    Current release
+    Dec 24, 2023
+    2.0.4
+    Oct 12, 2023
+    2.0.3
+    Sep 20, 2023
+    2.0.2
+    Aug 28, 2023
+    2.0.1
+    Aug 22, 2023
+    1.2.3
+    Dec 15, 2022
+    1.2.1
+    Nov 21, 2022
+    1.2.0
+    Nov 20, 2022
+    1.1.7
+    Nov 2, 2022
+    1.1.5
+    Oct 25, 2022
+    1.1.2
+    Oct 19, 2022
+    1.1.1
+    Oct 16, 2022
+    1.1.0
+    Oct 10, 2022
+    1.0.9
+    Oct 7, 2022
+    1.0.8
+    Oct 2, 2022
+    1.0.6
+    Sep 23, 2022
+    1.0.3
+    Sep 19, 2022
+    1.0.2
+    Sep 18, 2022
+    1.0
+    Sep 17, 2022
+
+See More
+Top In-App Purchases
+
+    DoMemo 年度
+    $4.99
+    DoMemo 月度
+    $0.99
+    DoMemo 终身版闪购
+    $17.99
+    DoMemo 终生版
+    $21.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 17, 2022
+
+Worldwide Release Date
+    Sep 17, 2022
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    2.0.5
+
+Size
+    53.22 mb
+
+Only 32 Bit
+    No
+
+Languages
+    简体中文, 繁体中文, 英语
+
+Seller
+    Hangzhou Quanduan Technology Co., Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 13.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    org.zrey.fast
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1624344916
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+DoMemo - Simple Notes System | data.ai

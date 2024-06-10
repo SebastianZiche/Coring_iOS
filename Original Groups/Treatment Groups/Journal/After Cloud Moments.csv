@@ -1,0 +1,12 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.3.0,2021-10-29,In this release we have: Improved the experience during the sign up process
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.2.9,2021-10-21,In this version we have: Updated our login screen and app store page to reflect our new branding
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.2.8,2021-10-01,In this version we have: Fixed an issue that prevented Loved Ones from viewing Moments after a role change
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.2.6,2021-09-27,In this release we have: Fixed an issue affecting role changes and subsequent logins
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.2.5,2021-09-25,In this version we have: Fixed intermittent issues related to content creation
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.2.4,2021-09-05,In this version we have: Patched an issue affecting upgrade journeys
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.1.7,2021-01-29,Fixed issue with Forgotten Password system Fixed issue with Relation dropdown in Loved One screens
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.1.4,2020-12-07,New to this version: New invite process for users The ability to change roles between Patient Loved One and Companion Faster creation times for new accounts moments and photo content New push and email notifications for key events A variety of bug fixes and UI improvements
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.0.2,2020-11-03,In this version we have: Fixed an issue that prevented Push Notifications from firing Fixed an issue that displayed an incorrect publish date on the Moment List
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.0.1,2020-10-12,For this release we have: Fixed an issue with future posting dates Amended the Moment deletion journey for Patients and Loved Ones Updated the design for the Moment Detail screen
+1522673230,0,After Cloud Moments,Lifestyle,2020-10-09,2020-10-09,26.38,1,0,0,0,1.0,2020-10-09,

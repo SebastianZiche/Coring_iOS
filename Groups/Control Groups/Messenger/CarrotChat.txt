@@ -1,0 +1,431 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+CarrotChat
+Hangzhou Xinxiao Information Technology Co., Ltd.Social Networking (Applications)Free
+Alerts
+
+    Hangzhou Xinxiao Information Technology Co., Ltd.
+
+    CarrotChat
+    CarrotChat
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+CarrotChat
+Self-Hosted Secure Chat App
+Social Networking (Applications)
+Free
+App Description
+CarrotChat is a highly secured encrepted IM software. Based on powerful end-to-end encryption algorithm, carrot chat can comprehensively, effectively and intelligently protect user communication data. As a secure IM software, CarrotChat has the following functions:
+
+Security: All communication data of CarrotChat is encrypted into ciphertext through end-to-end encryption technology. It is kept in ciphertext during the whole transmission process to prevent communication data from being hecked. At the same time, CarrotChat also supports anti-screenshot, remote destruction, top secret sessions and other powerful information security functions.
+
+High efficiency: Message receipt, group chat bulletin board, global search, special attention, only see someone, reply and other functions make CarrotChat more efficient in information exchange and processing.
+Ratings
+Displayed Avg Ratings
+4.83
+Total Displayed Ratings
+90.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.8.60 (Feb 16, 2024)
+    Some bugs fixed.
+    User experience improved.
+Version 2.8.50 (Jan 31, 2024)
+    Some bugs fixed.
+    User experience improved.
+Version 2.8.40 (Dec 26, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.8.30 (Dec 4, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.8.11 (Oct 12, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.8.10 (Oct 10, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.8.0 (Sep 4, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.143 (Aug 3, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.140 (Jul 23, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.132 (Jul 4, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.131 (Jun 29, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.121 (May 20, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.112 (Apr 21, 2023)
+    Some bugs fixed.
+
+    User experience improved.
+Version 2.7.103 (Mar 21, 2023)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.100 (Mar 5, 2023)
+    Some bugs fixed,
+    user experience improved.
+Version 2.7.92 (Jan 15, 2023)
+    Solve the login lag problem
+
+    Other bugs fixed
+Version 2.7.91 (Jan 11, 2023)
+    Some bugs fixed
+    User experience improved
+Version 2.7.82 (Dec 6, 2022)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.82 (Dec 6, 2022)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.81 (Nov 29, 2022)
+    Some bugs fixed.
+
+    User experience improved.
+Version 2.7.80 (Nov 16, 2022)
+    Some bugs fixed.
+
+    User experience improved.
+Version 2.7.56 (Sep 21, 2022)
+    Some bugs fixed.
+    User experience improved.
+Version 2.7.55 (Sep 11, 2022)
+    Some bug fixed.
+    User experience improved.
+Version 2.7.50 (Aug 19, 2022)
+    Some bug fixed.
+
+    User experience improved.
+Version 2.7.34 (Jul 25, 2022)
+    Nicknames, notes, and group names can have up to 128 characters
+
+    Some bug fixed
+
+    Improved experience 
+Version 2.7.32 (Jun 28, 2022)
+    Nicknames, notes, and group names can have up to 128 characters
+    Some bug fixed
+
+    Improved experience 
+Version 2.7.16 (Jun 15, 2022)
+    Some bug fixed.
+
+    Experience Improved.
+Version 2.7.15 (May 7, 2022)
+    Some bug fixed.
+    Experience Improved
+Version 2.7.5 (Mar 21, 2022)
+    优化表情图片
+
+    解决一些问题，提升稳定性
+
+Version 2.7.1 (Jan 12, 2022)
+    修复一些问题
+    提升使用体验
+Version 2.7.0 (Dec 28, 2021)
+    修复一些问题
+    提升使用体验
+Version 2.6.51 (Oct 15, 2021)
+    1. 优化操作体验
+
+    2. 解决一些问题
+Version 2.6.40 (Sep 6, 2021)
+    1. 优化操作体验
+
+    2. 解决一些问题
+Version 2.6.30 (Aug 5, 2021)
+    1. 优化长按消息气泡功能菜单
+
+    2. 可发送5分钟语音和2分钟视频
+
+    3. 优化会话被发送长图的体验
+
+    4. 解决一些问题，提升稳定性
+Version 2.6.22 (Jun 22, 2021)
+    1. 群内可以不限制发言频率
+    2. 群人数上限调整为3000人
+    3. 修复一些问题
+Version 2.6.21 (Jun 18, 2021)
+    1. 群内可以不限制发言频率
+    2. 群人数上限调整为3000人
+    3. 修复一些问题
+Version 2.6.12 (Jun 9, 2021)
+    1、修复问题，提升稳定性
+Version 2.6.11 (May 20, 2021)
+    1、可以发送只读文件，不允许转存
+    2、修复问题，提升稳定性
+Version 2.4.131 (Apr 8, 2021)
+    1、解决已知问题
+    2、优化使用体验
+Version 2.4.130 (Feb 8, 2021)
+    1.优化登录页面，明确标注服务器ID。
+    2.新增群发言规则功能，控制群中不同角色的发言频率、消息长度和消息行数。
+Version 2.4.115 (Nov 19, 2020)
+    1.新增消息撤回编辑功能。
+    2.新增群成员发言频率限制功能，群主和群管理员可以限制群成员的发言频率。
+Version 2.4.114 (Nov 11, 2020)
+    1.新增消息撤回编辑功能。
+    2.新增群成员发言频率限制功能，群主和群管理员可以限制群成员的发言频率。
+Version 2.4.113 (Oct 31, 2020)
+    1.新增消息撤回编辑功能。
+    2.新增群成员发言频率限制功能，群主和群管理员可以限制群成员的发言频率。
+Version 2.4.102 (Aug 5, 2020)
+    1、解决部分已知问题
+    2、优化使用体验
+Version 2.4.101 (Jul 29, 2020)
+
+Users may also like
+Select objects to compare
+一起聊
+旺旺商聊
+MosGram
+POP - Chat to the future
+MChat Messenger
+思语-安全私密的聊天软件
+Letstalk IM
+海鸥-安全加密聊天交友软件
+MO Messager
+事密达-安全加密变声聊天软件
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.8.60
+    Current release
+    Feb 16, 2024
+    2.8.50
+    Jan 31, 2024
+    2.8.40
+    Dec 26, 2023
+    2.8.30
+    Dec 4, 2023
+    2.8.11
+    Oct 12, 2023
+    2.8.10
+    Oct 10, 2023
+    2.8.0
+    Sep 4, 2023
+    2.7.143
+    Aug 3, 2023
+    2.7.140
+    Jul 23, 2023
+    2.7.132
+    Jul 4, 2023
+    2.7.131
+    Jun 29, 2023
+    2.7.121
+    May 20, 2023
+    2.7.112
+    Apr 21, 2023
+    2.7.103
+    Mar 21, 2023
+    2.7.100
+    Mar 5, 2023
+    2.7.92
+    Jan 15, 2023
+    2.7.91
+    Jan 11, 2023
+    2.7.82
+    Dec 6, 2022
+    2.7.82
+    Dec 6, 2022
+    2.7.81
+    Nov 29, 2022
+    2.7.80
+    Nov 16, 2022
+    2.7.56
+    Sep 21, 2022
+    2.7.55
+    Sep 11, 2022
+    2.7.50
+    Aug 19, 2022
+    2.7.34
+    Jul 25, 2022
+    2.7.32
+    Jun 28, 2022
+    2.7.16
+    Jun 15, 2022
+    2.7.15
+    May 7, 2022
+    2.7.5
+    Mar 21, 2022
+    2.7.1
+    Jan 12, 2022
+    2.7.0
+    Dec 28, 2021
+    2.6.51
+    Oct 15, 2021
+    2.6.40
+    Sep 6, 2021
+    2.6.30
+    Aug 5, 2021
+    2.6.22
+    Jun 22, 2021
+    2.6.21
+    Jun 18, 2021
+    2.6.12
+    Jun 9, 2021
+    2.6.11
+    May 20, 2021
+    2.4.131
+    Apr 8, 2021
+    2.4.130
+    Feb 8, 2021
+    2.4.115
+    Nov 19, 2020
+    2.4.114
+    Nov 11, 2020
+    2.4.113
+    Oct 31, 2020
+    2.4.102
+    Aug 5, 2020
+    2.4.101
+    Jul 29, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jul 29, 2020
+
+Worldwide Release Date
+    Jul 29, 2020
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    2.8.60
+
+Size
+    97.32 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese, Traditional Chinese, Vietnamese
+
+Seller
+    Hangzhou Xinxiao Information Technology Co., Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    app.carrot.chatpsub
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1525341029
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+CarrotChat | data.ai

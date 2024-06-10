@@ -1,0 +1,316 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Winlive Pro Karaoke Mobile
+Lucrezia Di PintoMusic (Applications)$24.99
+Alerts
+
+    Lucrezia Di Pinto
+
+    Winlive Pro Karaoke Mobile
+    Winlive Pro Karaoke Mobile
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Winlive Pro Karaoke Mobile
+The most powerful karaoke app
+Music (Applications)
+$24.99
+App Promotional Text
+Multimedia player of midi files, mp3, cdg, mp4 etc ..
+
+Management of playlists with editing and karaoke for professional users ideal for singers, DJs, entertainers ..
+App Description
+* MAIN FEATURES
+- Karaoke Offline
+- Reading files: midi, kar, mp3, wave, Cd-G (mp3+g), txt and pdf with key transpose, change tempo, change instruments and saving management
+- Mp4 and 3gp video player added
+- You can add a .txt , a pdf or an image to your midi and mp3/audio files
+- You can disable auto-play (if need modify key, tempo etc. before starting a new song)
+- Import / Export .WLS files (Winlive Saves)
+- You can access to big directories faster
+- New soundfonts for midifile (internal synth engine)
+- Many other new features and better performance...
+- Unique to support the M-live midi karaoke format
+- Chords displays for midi , kar and mp3 (if included)
+- Karaoke display full size with background pictures
+- Multi-tracks mixer for midifile ( volume adjustment and instruments changes ) with saving system
+- Management of 40 SongLists with possibility to book next song or more song on a temp songlist ( F10 )
+- Reading pdf, pictures and txt files as a electronic book
+- Fast search in a SongList or search by first letter
+- File Browser to find a file in your device or setting a folder for SongList
+- Searching a midi file on web (intelligent Google Search)
+- Song list editor for set specific options for each song list( loop , melody muted for midifile, stop, random songs )
+- Loop files as a groove machine
+- Many Options for customize your app
+- A 64Mb midi GM+ sounds bank (WSE) approved by ProMusicSoftware labs (the most powerful sound generator for mobile)
+- Midi Core support, you can also connect your external midi device (instead of internal WSE sounds)
+
+
+This app only contains demo songs but is compatible with a large number of easily available files
+
+Midi player (midifile player)
+kar player
+mp3 player
+cdg player (cd-g player)
+wave player (wav player)
+pdf reader
+videoplayer
+youtube player
+
+
+Multiplayer and karaoke systems bringing over 25 years' experience and skills in leadership.
+Winlive the main protagonist of your karaoke and musical party
+Sing along, wherever, whenever !
+
+Have fun with Winlive Pro Karaoke Mobile !
+
+
+* INFO
+www.promusicsoftware.com
+www.facebook.com/PromusicsoftwareCom
+www.facebook.com/groups/winlivefans
+Ratings
+Displayed Avg Ratings
+3.88
+Total Displayed Ratings
+90
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.1.5 (Dec 19, 2023)
+    - Bug fixed
+Version 2.1.04 (Dec 16, 2023)
+    - Youtube search fixed
+Version 2.1.03 (Apr 28, 2022)
+    - Updated integrated sounds +2 new DrumKits and all the SFX of the GS bank
+
+    - Correction of an MFX BUG on DrumKits
+
+    - Graphics optimization
+
+    - Performance optimizations
+Version 2.1.01 (Jul 7, 2021)
+    - Midi Core support (now you can connect external midi devices)
+
+    - Playing in background
+
+    - MSB and LSB midi bank management
+
+    - Chord embedded can be translated optionally in Standard mode(A,B,C,D..) or ITA mode(Do,Re....)
+
+    - Many optimizations
+    - Possibility to reopen quickly linked files (txt,pdf..)
+Version 2.1.00 (Jun 17, 2021)
+    - Midi Core support (now you can connect external midi devices)
+    - Playing in background
+    - MSB and LSB midi bank management
+    - Chord embedded can be translated optionally in Standard mode(A,B,C,D..) or ITA mode(Do,Re....)
+    - Many optimizations
+Version 2.0.03 (Sep 22, 2020)
+    - Increased karaoke compatibility for .kar files
+Version 2.0.02 (Aug 19, 2020)
+    - Can change songlist during mp4 playing
+    - Can hold START button for fade out
+    - Bug fixed on youtube songs
+Version 2.0.01 (Aug 7, 2020)
+    - Fixed mp3+lyrics format tag lyric-v1
+    Since 2.0.00 :
+    - Added 'WinlivePro' folder in device file browser so you don't need a computer for puting files anymore.
+    - Added a new features (copy,move,create folder etc..) in winlive file browser
+    - New midi sound engine of 64Mb- Aggiunta la cartella "WinlivePro" nel browser dei file del dispositivo, quindi non è più necessario un computer per inserire i file.
+    - You can match a pdf, txt or an image to your midi or mp3 file
+    - Can read mp3+cdg in .zip format
+    - Mixer accessibility increased for small screen devices
+    - Many little functionalities added
+    - Minor bugs fixed 
+Version 2.0.00 (Aug 6, 2020)
+    - Added 'WinlivePro' folder in device file browser so you don't need a computer for puting files anymore.
+    - Added a new features (copy,move,create folder etc..) in winlive file browser
+    - New midi sound engine of 64Mb- Aggiunta la cartella "WinlivePro" nel browser dei file del dispositivo, quindi non è più necessario un computer per inserire i file.
+    - You can match a pdf, txt or an image to your midi or mp3 file
+    - Can read mp3+cdg in .zip format
+    - Mixer accessibility increased for small screen devices
+    - Many little functionalities added
+    - Minor bugs fixed
+Version 1.0.3 (Oct 17, 2018)
+    -Minor bugs fixed
+    -32 Bit devices support
+Version 1.0.2 (Oct 14, 2018)
+
+Users may also like
+Select objects to compare
+Grinta Karaoke PRO
+Grinta Karaoke HOME
+One Man Band Live
+iMIDIPatchbay
+Gemini Editor
+JAX MIDI ModulePlayer
+Music Vocals Reducer
+SWAM Tuba Eb
+Burea
+Xjam Editor
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.1.5
+    Current release
+    Dec 19, 2023
+    2.1.04
+    Dec 16, 2023
+    2.1.03
+    Apr 28, 2022
+    2.1.01
+    Jul 7, 2021
+    2.1.00
+    Jun 17, 2021
+    2.0.03
+    Sep 22, 2020
+    2.0.02
+    Aug 19, 2020
+    2.0.01
+    Aug 7, 2020
+    2.0.00
+    Aug 6, 2020
+    1.0.3
+    Oct 17, 2018
+    1.0.2
+    Oct 14, 2018
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Music
+
+Initial Release Date
+    Oct 14, 2018
+
+Worldwide Release Date
+    Jun 17, 2016
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    2.1.5
+
+Size
+    111.87 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Italian
+
+Seller
+    Lucrezia Di Pinto
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.promusicsoftware.winlivepro
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1436817063
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Winlive Pro Karaoke Mobile | data.ai

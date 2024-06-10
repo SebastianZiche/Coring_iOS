@@ -1,0 +1,886 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+PenCake - simple notes, diary
+Diffathy, Inc.Lifestyle (Applications)Free
+Alerts
+
+PenCake - simple notes, diary
+PenCake - simple notes, diary
+PenCake - simple notes, diary
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+PenCake - simple notes, diary
+Dive into your story –
+Lifestyle (Applications)
+Free
+App Description
+Minimal and clean design for writing –
+
+The world is full of stories. The most precious story among them is your story. Everything about you is a story. There are countless stories about you such as daily life, travel, childcare, hobbies, thoughts, notes, novels, and so on. Put all of this in Pencake. Pencake offers a minimal UI so you can focus on your story. So you can keep all your stories neat and beautiful. Record your story with Pencake just as you record life's moments with photos and videos. And keep it and reminisce about it.
+
+Pencake consists of stories and articles. Several articles come together and become a story. In Pencake, you can create multiple stories by topic. Write and keep your varied stories in Pencake.
+
+(There is a side effect that makes you want to write more and more.)
+
+
+MINIMAL DESIGN
+• Clean and simple, but elegant
+• Aesthetically pleasing
+• Can focus on writing
+
+EASY WRITING
+• High readability
+• No lag even in a very long article
+• Useful tools: easily enter a pair of quotation marks and an ellipsis
+• Categorize by story
+
+SAFE WRITING
+• Auto save
+• Version history: restorable from previous versions
+• Trash can: deleted articles are kept in the Trash
+• Sync via iCloud and Google Drive
+• Sync iPhone and iPad devices
+• Auto sync (Premium)
+
+MARKDOWN
+• Format text using Markdown
+• Bold, italic, underline, strikethrough, highlight, headings, and horizontal rule
+
+OTHER FEATURES
+• Search articles
+• Word and character count
+• Insert photo with caption
+• Lock with password
+• Dark mode (Premium)
+• Various fonts (Premium)
+• Face ID / Touch ID (Premium)
+
+
+---
+
+FAQs: https://pencakeapp.github.io/info/
+Email: pencake.app@gmail.com
+
+Please help translate into your language.
+https://crowdin.com/project/pencake
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://pencakeapp.github.io/info/privacy.html
+Ratings
+Displayed Avg Ratings
+4.49
+Total Displayed Ratings
+4.0k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.10.2 (Oct 19, 2022)
+    ■ Added formatting features.
+    - Adopted Markdown to maintain the strengths of PenCake.
+    - Bold, italic, underline, strikethrough, highlight, headings, and horizontal rule are available.
+    - We will continue to work hard to add more various formatting elements.
+
+    ■ Due to technical problems, the free trial service has inevitably been terminated.
+    - The free trial period you are using will be maintained.
+    - We are very sorry for the inconvenience.
+
+    ■ Italic formatting changed from single slash ( / ) to double slash ( // ).
+    - This decision was made to avoid confusion with the slash symbol in everyday use.
+    - We apologize for the inconvenience.
+Version 3.10.1 (Oct 14, 2022)
+    ■ Added formatting features.
+    - Adopted Markdown to maintain the strengths of PenCake.
+    - Bold, italic, underline, strikethrough, highlight, headings, and horizontal rule are available.
+    - We will continue to work hard to add more various formatting elements.
+
+    ■ Due to technical problems, the free trial service has inevitably been terminated.
+    - The free trial period you are using will be maintained.
+    - We are very sorry for the inconvenience.
+Version 3.9.3 (Sep 27, 2022)
+    ■ Now even in the free version, you can use Premium fonts and Premium themes.
+    - Menu > Settings > Free Trial (Ad)
+    - Each time you watch an ad, you get an additional 12 hours of free use time.
+    - Ads can be viewed multiple times a day.
+    - The free trial is available again at any time.
+Version 3.9.2 (Sep 26, 2022)
+    ■ Now even in the free version, you can use Premium fonts and Premium themes.
+    - Menu > Settings > Free Trial (Ad)
+    - Each time you watch an ad, you get an additional 12 hours of free use time.
+    - Ads can be viewed multiple times a day.
+    - The free trial is available again at any time.
+Version 3.8.2 (Sep 16, 2022)
+    ■ Improved sync stability of Google Drive.
+    ■ Fixed bugs occurring in iOS 16.
+    - Fixed a bug where it does not scroll to the cursor position when entering edit mode.
+    - Fixed a bug where the text layout is different in edit mode and read mode.
+    - Added support for iPhone 14 Pro and Pro Max screens.
+Version 3.8.1 (Sep 9, 2022)
+    ■ Improved sync stability of Google Drive.
+    ■ Now PenCake is available to people in more regions.
+    ■ The following languages have been newly added:
+    - Spanish
+    - Portuguese (Brazil)
+    - Simplified Chinese
+    - Traditional Chinese
+Version 3.8 (Aug 28, 2022)
+    ■ Now PenCake is available to people in more regions.
+    ■ The following languages have been newly added:
+    - Spanish
+    - Portuguese (Brazil)
+    - Simplified Chinese
+    - Traditional Chinese
+Version 3.7 (Jun 15, 2022)
+    ■ URL Detection is now available.
+    - Automatically recognize web addresses and emails in articles and display them as clickable links.
+    - Web addresses without 'http' and 'https' are not recognized.
+    - If you do not want to use this function, you can disable it in the Preferences.
+    ■ Fixed an issue that the toolbar is obscured by the home bar of the device when using a Bluetooth keyboard.
+    ■ Fixed a bug where the layout gets broken when editing story titles and folder titles with a Bluetooth keyboard.
+    ■ Fixed the top margin when using landscape mode on iPhone.
+Version 3.6 (May 31, 2022)
+    ■ The Search feature is here!
+    ■ Added a feature to automatically follow the system's dark mode.
+    ■ Added option to turn Search History on or off.
+    ■ The function to open the search bar with a gesture has been switched to an optional function because many users said that it was inconvenient.
+    ■ Supporting the developer is now available.
+    - We appreciate your warm support to continuously improve the app.
+    - Menu > Settings > Tip the Developer
+Version 3.5.6 (May 22, 2022)
+    ■ The Search feature is here!
+    ■ Swipe down on the story screen to open the search bar.
+    ■ Supporting the developer is now available.
+    - We appreciate your warm support to continuously improve the app.
+    - Menu > Settings > Tip the Developer
+    ■ Fixed some bugs:
+    - Fixed a bug where the layout gets broken when using a Bluetooth keyboard on iPad.
+    - Fixed a bug where the status bar is not displayed when the system is in dark mode.
+    - Fixed some rendering bugs.
+Version 3.5.4 (May 21, 2022)
+    ■ The Search feature is here!
+    ■ Swipe down on the story screen to open the search bar.
+    ■ Supporting the developer is now available.
+    - We appreciate your warm support to continuously improve the app.
+    - Menu > Settings > Tip the Developer
+    ■ Fixed some bugs:
+    - Fixed a bug where the layout gets broken when using a Bluetooth keyboard on iPad.
+    - Fixed a bug where the status bar is not displayed when the system is in dark mode.
+    - Fixed some rendering bugs.
+Version 3.5.1 (May 17, 2022)
+    ■ The Search feature is here!
+    ■ Swipe down on the story screen to open the search bar.
+    ■ Supporting the developer is now available.
+    - We appreciate your warm support to continuously improve the app.
+    - Menu > Settings > Tip the Developer
+    ■ Fixed some bugs:
+    - Fixed a bug where the layout gets broken when using a Bluetooth keyboard on iPad.
+    - Fixed a bug where the status bar is not displayed when the system is in dark mode.
+    - Fixed some rendering bugs.
+Version 3.5 (May 14, 2022)
+    ■ The Search feature is here!
+    ■ Swipe down on the story screen to open the search bar.
+    ■ Supporting the developer is now available.
+    - We appreciate your warm support to continuously improve the app.
+    - Menu > Settings > Tip the Developer
+    ■ Fixed some bugs:
+    - Fixed a bug where the layout gets broken when using a Bluetooth keyboard on iPad.
+    - Fixed a bug where the status bar is not displayed when the system is in dark mode.
+    - Fixed some rendering bugs.
+Version 3.4 (Aug 27, 2021)
+    ■ Added Undo / Redo function.
+    ■ Added larger font sizes and smaller font sizes.
+    ■ You can now omit the subtitle of a story.
+    ■ You can adjust the article width now. Check it out at the Preferences settings.
+    ■ When editing an article, you can hide the article title at the top. It can be set in the Preferences settings.
+    ■ Fixed the top and bottom margins on iPhone 12.
+    ■ Fixed a bug where the premium purchase was not completed.
+Version 3.3 (Jan 22, 2021)
+    ■ Frequently Asked Questions (FAQ) page has been opened. (Menu > Settings > FAQs)
+    ■ Fixed a bug where the line spacing was narrowed in some fonts.
+    ■ Fixed a bug where the top of the story list was cut off when moving an article.
+    ■ Font settings have unavoidably been reset to fix the font errors. We apologize for the inconvenience. Please download fonts again.
+Version 3.2 (Dec 31, 2020)
+    ■ Fonts have been added. Meet the various fonts in the font settings.
+    ■ We will continue to add fonts in the future. Please let us know if there is a font you want.
+    ■ Fixed some bugs
+    • Fixed a bug where letters were duplicated when inserting quotation marks while a text block is selected
+    • Fixed a bug where the cursor was placed in the wrong place when entering edit mode in a lengthy article
+    • Fixed a bug where Google login was not possible on iOS 9 and iOS 10
+Version 3.1.1 (Jan 20, 2020)
+    ■ Improved sync stability of Google Drive.
+    ■ Fixed some bugs related to the sync.
+Version 3.1 (Dec 5, 2019)
+    ■ Square size added to Cover Image.
+    ■ Fixed a bug that scrolled to the beginning or end all at once when selecting a range outside the screen in writing mode.
+    ■ Fixed the lag when moving the cursor using an extended key.
+    ■ Fixed an error when canceling Google Drive login.
+Version 3.0.2 (Nov 18, 2019)
+    ■ Sync feature released!
+    - Auto sync is available. (Premium)
+    - Manual sync is also very convenient.
+    - iCloud and Google Drive are supported.
+    - Purchase history is also synced.
+    ■ Story folder feature added.
+    - You can group stories by category.
+    - Try it on the story list.
+    ■ Trash feature added.
+    - If you delete an article, it will stay in the Trash.
+    - The Trash can be seen in the story list.
+    ■ Change history feature added.
+    - You can check the change history for each article and restore a previous version.
+    ■ You can change the way you open the story list to "short tap."
+    - Try the Preferences settings.
+    ■ Left justification is now possible.
+    - The default alignment can be specified in the Preferences settings
+    ■ Article moving is now for free.
+    ■ Improved the date picker UI.
+    - Year selection is now available.
+    - You can now set as the current time.
+    - Fixed a bug where text is not visible.
+    ■ Fixed a bug displaying the wrong cloud status
+Version 3.0.1 (Nov 16, 2019)
+    ■ Sync feature released!
+    - Auto sync is available. (Premium)
+    - Manual sync is also very convenient.
+    - iCloud and Google Drive are supported.
+    - Purchase history is also synced.
+    ■ Story folder feature added.
+    - You can group stories by category.
+    - Try it on the story list.
+    ■ Trash feature added.
+    - If you delete an article, it will stay in the Trash.
+    - The Trash can be seen in the story list.
+    ■ Change history feature added.
+    - You can check the change history for each article and restore a previous version.
+    ■ You can change the way you open the story list to "short tap."
+    - Try the Preferences settings.
+    ■ Left justification is now possible.
+    - The default alignment can be specified in the Preferences settings
+    ■ Article moving is now for free.
+Version 3.0 (Nov 13, 2019)
+    ■ Sync feature released!
+    - Auto sync is available. (Premium)
+    - Manual sync is also very convenient.
+    - iCloud and Google Drive are supported.
+    - Purchase history is also synced.
+    ■ Story folder feature added.
+    - You can group stories by category.
+    - Try it on the story list.
+    ■ Trash feature added.
+    - If you delete an article, it will stay in the Trash.
+    - The Trash can be seen in the story list.
+    ■ Change history feature added.
+    - You can check the change history for each article and restore a previous version.
+    ■ You can change the way you open the story list to "short tap."
+    - Try the Preferences settings.
+    ■ Left justification is now possible.
+    - The default alignment can be specified in the Preferences settings
+    ■ Article moving is now for free.
+Version 2.8 (Apr 30, 2019)
+    ▪ Face ID / Touch ID is now available! (Premium)
+    ▪ You can set the story list as a start screen. Try to open the story list now.
+    ▪ If you hide the date on the article view, it is applied to the entire story and the hidden status is saved.
+    ▪ You can change the time to require a passcode.
+    ▪ Fixed several bugs.
+    - Broken center alignment in editing mode
+    - Cut toolbar when using Hotspot
+    - Failure message after sending feedback
+Version 2.7.2 (Mar 28, 2019)
+    ▪ Now Pencake is available in Japanese!
+    - If there is a mistake in Japanese, please let us know. :)
+    ▪ A bigger font size has been added.
+    ▪ Fixed a bug where the photo size didn't change on SplitView and Landscape mode.
+    ▪ Fixed a bug where the top and bottom of the menu were cut off in landscape mode.
+Version 2.7.1 (Mar 27, 2019)
+    ▪ Now Pencake is available in Japanese!
+    - If there is a mistake in Japanese, please let us know. :)
+    ▪ A bigger font size has been added.
+    ▪ Fixed a bug where the photo size didn't change on SplitView and Landscape mode.
+Version 2.6.1 (Mar 9, 2019)
+    ▪ You can now insert photos in the body of an article.
+    - Please tap the photo icon in edit mode. The cover image can be turned on and off.
+    ▪ You can now double-tap and go directly to a specific paragraph.
+    ▪ Preview feature has been added.
+    ▪ Expanded keyboard functionality has been enhanced.
+    - Ellipsis, bullet, parenthesis, paragraph navigation, and preview have been added.
+    ▪ You can see the tooltips again.
+    - Tap "See Tooltips Again" at Settings.
+
+    [Fixed bugs where...]
+    ▪ A photo is not attached when selecting the original photo option.
+    ▪ A screen jumps up when inserting quotation marks.
+    ▪ The article view scrolls to the top after editing.
+    ▪ Some Chinese characters are not shown in the correct font.
+Version 2.6 (Mar 7, 2019)
+    ▪ You can now insert photos in the body of an article.
+    - Please tap the photo icon in edit mode. The cover image can be turned on and off.
+    ▪ You can now double-tap and go directly to a specific paragraph.
+    ▪ Preview feature has been added.
+    ▪ Expanded keyboard functionality has been enhanced.
+    - Ellipsis, bullet, parenthesis, paragraph navigation, and preview have been added.
+    ▪ You can see the tooltips again.
+    - Tap "See Tooltips Again" at Settings.
+
+    [Fixed bugs where...]
+    ▪ A screen jumps up when inserting quotation marks.
+    ▪ The article view scrolls to the top after editing.
+    ▪ Some Chinese characters are not shown in the correct font.
+Version 2.5.2 (Jan 9, 2019)
+    ■ When backing up, a txt file is not created any more.
+    ■ Display error codes when the backup and restore fail.
+Version 2.5.1 (Dec 28, 2018)
+    ■ Changed the default photo option from 'Original' to 'Fixed Size'
+Version 2.5 (Dec 20, 2018)
+    [New features]
+    ■ The 'Original Photo' option added.
+    - You can now add a photo without cropping.
+    - A GIF autoplays on the article view.
+    ■ Big improvements in Export and Share
+    - You can export each story or article as a ZIP that bundles the photos and the TXTs.
+    - Separate files are also available for the article sharing.
+    ■ To edit an article, double tap anywhere on the article view.
+
+    [Improvements]
+    ■ Improved the autosave performance.
+    - We expect lags during writing to be resolved.
+    ■ Extended the bottom area of the article view for iPhone X series.
+Version 2.4 (Dec 5, 2018)
+    [Icon renewal]
+    ■ The icon has been renewed!
+    - We hope you like it! :)
+
+    [New features]
+    ■ A sans serif font has beed added. (Premium)
+    - You can set the font at [Settings > Fonts].
+    ■ Try the premium features.
+    - You can try the new font and the dark mode each for 1 minute.
+    - Try it right now! You can try it again and again.
+    ■ Check the auto save status.
+    - If you stop typing for a while, it will be auto-saved.
+    - When the auto save is completed, the Done button changes to blue.
+
+    [Improvements]
+    ■ Larger font size
+    ■ Character count is now default for Chinese and Japanese
+    ■ Moved the photo icon to the right side
+
+    [Bug fixes]
+    ■ Fixed content clipping at the both sides of the screen in landscape
+    ■ Fixed slowed down saving at the last update
+Version 2.3 (Nov 25, 2018)
+    [Languages]
+    ■ English version released!
+    - Set a language in App Settings
+    - Please correct a mistake in English
+    ■ Help us translate
+    - Anyone can easily participate in our translations in App Settings
+    ■ Date notation by the system language
+
+    [New features]
+    ■ Moving articles (Premium)
+    - Press and hold an article title in the article list or tap the menu on an article page
+    ■ Word count
+    - Written as ｢55｣
+
+    [Improvements]
+    ■ Shorten the delay of auto-save (1.5 s -> 0.5 s)
+    - It is auto-saved when you stop writing for 0.5 sec.
+Version 2.2.1 (Nov 3, 2018)
+    [할인 행사]
+    ■ 프리미엄 버전 할인 (48% 할인)
+    - 2018년 11월 15일까지 7,500원 -> 3,900원
+
+    [새로운 기능]
+    ■ 이야기 목록이 좋아졌습니다!
+    ■ 원하는 이야기로 바로 이동
+    ■ 드래그 앤 드랍으로 이야기 순서 변경
+    - 메인 메뉴를 길게 누르면 이야기 목록이 나타납니다.
+    - 이야기 목록에서 이야기를 누르면 해당 이야기로 바로 이동합니다.
+    - 이야기 목록에서 이야기를 길게 누르면 드래그 앤 드랍으로 이야기 순서를 변경할 수 있습니다.
+
+    [변경 사항]
+    ■ 팝업 메뉴의 버튼 배치가 변경되었습니다.
+    - 더 중요한 버튼이 더 위에 위치하도록 하였습니다.
+
+    [개선 사항]
+    ■ 이야기 추가, 수정 페이지에서 버튼 더 잘 눌러지도록 수정
+    ■ 이야기 화면에서 이야기 제목 더 잘 눌러지도록 수정
+
+    [버그 수정]
+    ■ 프리미엄 페이지에 프리미엄 이용중 상태 표시
+    ■ 이야기 추가 페이지에서 메뉴 접근시 이야기 설정 메뉴 나타나지 않도록 수정
+
+    [Thanks to...]
+    - 의견 주신 모든 분들께 감사드립니다!
+    - 계속해서 많은 의견 부탁드립니다!
+Version 2.2 (Nov 1, 2018)
+    [할인 행사]
+    ■ 프리미엄 버전 할인 (48% 할인)
+    - 2018년 11월 15일까지 7,500원 -> 3,900원
+
+    [새로운 기능]
+    ■ 이야기 목록이 좋아졌습니다!
+    ■ 원하는 이야기로 바로 이동
+    ■ 드래그 앤 드랍으로 이야기 순서 변경
+    - 메인 메뉴를 길게 누르면 이야기 목록이 나타납니다.
+    - 이야기 목록에서 이야기를 누르면 해당 이야기로 바로 이동합니다.
+    - 이야기 목록에서 이야기를 길게 누르면 드래그 앤 드랍으로 이야기 순서를 변경할 수 있습니다.
+
+    [변경 사항]
+    ■ 팝업 메뉴의 버튼 배치가 변경되었습니다.
+    - 더 중요한 버튼이 더 위에 위치하도록 하였습니다.
+
+    [개선 사항]
+    ■ 이야기 추가, 수정 페이지에서 버튼 더 잘 눌러지도록 수정
+    ■ 이야기 화면에서 이야기 제목 더 잘 눌러지도록 수정
+
+    [버그 수정]
+    ■ 프리미엄 페이지에 프리미엄 이용중 상태 표시
+    ■ 이야기 추가 페이지에서 메뉴 접근시 이야기 설정 메뉴 나타나지 않도록 수정
+
+    [Thanks to...]
+    - 의견 주신 모든 분들께 감사드립니다!
+    - 계속해서 많은 의견 부탁드립니다!
+Version 2.0.2 (Oct 27, 2018)
+    [할인 행사]
+    ■ 프리미엄 버전 할인 (48% 할인)
+    - 7,500원 -> 3,900원 (2018년 11월 15일까지)
+
+    [버그 수정]
+    ■ 인앱구매 프로세스 개선
+    ■ 프리미엄 페이지에 프리미엄 상태 표시
+
+    [Thanks to...]
+    - 의견 주신 모든 분들께 감사드립니다!
+    - 계속해서 많은 의견 부탁드립니다!
+Version 2.0.1 (Oct 24, 2018)
+    [할인 행사]
+    ■ 프리미엄 버전 할인 (48% 할인)
+    - 7,500원 -> 3,900원 (2018년 11월 15일까지)
+    [새로운 기능]
+    ■ 사진 첨부 기능
+    - 무료 버전은 글마다 사진 1장씩, 프리미엄 버전은 30장씩 첨부할 수 있습니다.
+    - 여러 장 첨부시 대표 사진만 글 맨 위에 나타나고, 대표 사진을 누르면 나머지 사진을 전체화면으로 볼 수 있습니다.
+    ■ 더 편리해진 글 등록
+    - 화면을 아래로 당기면 글이 추가됩니다.
+    ■ 야간 모드 (프리미엄)
+    - 프리미엄 사용자에게 더 많은 혜택을 드리기 위함이니 양해 바랍니다.
+    ■ 글 목록의 날짜를 길게 눌러서 날짜 수정
+    ■ 툴팁 도움말
+
+    [개선 사항]
+    ■ 길게 누르는 시간 단축 -> 더 빨라진 사용감
+    ■ 메뉴에서 글 삭제와 글 수정을 최대한 떨어트림
+    ■ 이야기 추가시 추가된 이야기로 바로 이동
+    ■ 제목없음 제목을 ---에서 ―로 변경
+
+    [변경 사항]
+    ■ 프리미엄 가격이 7,500원으로 상향 조정되었습니다.
+    ■ 기본 글자수가 공백 포함으로 변경되었습니다.
+    - 글자수를 누르면 공백 미포함으로 바뀝니다.
+    ■ 메뉴 길게 눌러서 글 등록하는 방식 삭제
+    ■ 글 공유시 글 끝에 첨가되던 'PenCake에서 작성함' 문구 삭제
+    ■ 이야기 설정 메뉴의 항목 배치를 역순으로 변경
+
+    [버그 수정]
+    ■ 인앱구매시 진행 상태 표시 안되던 현상 수정
+
+    [Thanks to...]
+    - 의견 주신 모든 분들께 감사드립니다!
+    - 계속해서 많은 의견 부탁드립니다!
+Version 2.0 (Oct 22, 2018)
+    [할인 행사]
+    ■ 프리미엄 버전 할인 (48% 할인)
+    - 7,500원 -> 3,900원 (2018년 11월 15일까지)
+
+    [새로운 기능]
+    ■ 사진 첨부 기능
+    - 무료 버전은 글마다 사진 1장씩, 프리미엄 버전은 30장씩 첨부할 수 있습니다.
+    ■ 더 편리해진 글 등록
+    - 화면을 아래로 당기면 글이 추가됩니다.
+    ■ 야간 모드 (프리미엄)
+    - 프리미엄 사용자에게 더 많은 혜택을 드리기 위함이니 양해 바랍니다.
+    ■ 글 목록의 날짜를 길게 눌러서 날짜 수정
+    ■ 툴팁 도움말
+
+    [개선 사항]
+    ■ 길게 누르는 시간 단축 -> 더 빨라진 사용감
+    ■ 메뉴에서 글 삭제와 글 수정을 최대한 떨어트림
+    ■ 이야기 추가시 추가된 이야기로 바로 이동
+    ■ 제목없음 제목을 ---에서 ―로 변경
+
+    [변경 사항]
+    ■ 프리미엄 가격이 7,500원으로 상향 조정되었습니다.
+    ■ 기본 글자수가 공백 포함으로 변경되었습니다.
+    - 글자수를 누르면 공백 미포함으로 바뀝니다.
+    ■ 메뉴 길게 눌러서 글 등록하는 방식 삭제
+    ■ 글 공유시 글 끝에 첨가되던 'PenCake에서 작성함' 문구 삭제
+    ■ 이야기 설정 메뉴의 항목 배치를 역순으로 변경
+
+    [버그 수정]
+    ■ 인앱구매시 진행 상태 표시 안되던 현상 수정
+
+    [Thanks to...]
+    - 의견 주신 모든 분들께 감사드립니다!
+    - 계속해서 많은 의견 부탁드립니다!
+Version 1.9 (Aug 22, 2018)
+    [새로운 기능]
+    ■ 글 공유 기능 추가
+    - 텍스트로만 공유 가능합니다.
+    - 이미지 저장 및 이야기 단위 내보내기 기능은 추후 업데이트 예정입니다.
+    ■ 글자 크기 두 단계 추가
+
+    [기능 개선]
+    ■ 잠금화면 숫자 키 터치시 배경색 표시
+
+    [버그 수정]
+    ■ 글 작성시 시스템 글자 크기 반영되는 현상 수정
+    ■ 잠금화면 키 입력시 렉 현상 수정
+
+    [Thanks to...]
+    - 의견 주신 모든 분들께 감사드립니다!
+Version 1.8 (Aug 17, 2018)
+    [새로운 기능]
+    ■ 자동 저장
+    - 이제 작성중인 글이 자동으로 저장됩니다.
+
+    [버그 수정]
+    ■ 글이 길어지면 글이 보이지 않는 현상 해결
+
+    [Thanks to...]
+    - yeonnnnkk 님, sweetbi* 님 감사합니다!
+    - 의견 주신 모든 분들께 감사드립니다!
+Version 1.7 (Aug 13, 2018)
+    [새로운 기능]
+    ■ 확장 키보드 (= 키보드 상단 툴바)
+    - 현재시각 삽입 / 따옴표 쌍 삽입 / 가운데 정렬 / 글자수 세기 / 글 시작, 끝 이동 / 한 글자 앞뒤 이동
+    ■ 글 가운데 정렬
+    - 글 작성시 및 수정시 지정 가능합니다.
+    ■ 글 날짜 숨기기
+    - SNS에 올릴 때 활용해보세요.
+    - 글 보기 화면에서 날짜를 꾸-욱 누르면 숨길 수 있습니다.
+    ■ 글자수 세기
+    - 글 작성시 확장 키보드(= 키보드 상단 툴바)에 글자수(공백 미포함)가 표시됩니다.
+    - 글자수를 누르면 공백이 포함된 글자수로 바뀝니다.
+
+    [기능 개선]
+    ■ 글 작성시 글이 길어지면 버벅이는 현상 해결
+
+    [Thanks to...]
+    - Curioustiy 님 감사합니다!
+    - 의견 주신 모든 분들께 감사드립니다!
+Version 1.6 (Aug 3, 2018)
+    [새로운 기능]
+    - 이야기 순서 변경 기능 (함멋 님 감사합니다!)
+    - 가로모드
+    - 글 수정 진입시 커서가 내용 마지막에 위치하도록 수정
+
+    [버그 수정]
+    - 이야기 제목과 소제목, 글 제목 입력시 길이가 길어지면 잘리는 현상 수정
+    (냥펀치 님 감사합니다!)
+Version 1.5 (Jul 30, 2018)
+    [새로운 기능]
+    - 글 정렬 기능 (구희* 님, 함멋 님, 냥펀치 님 감사합니다!)
+    - 글 날짜 수정 기능
+    - 글 목록에서 바로 글쓰기 (이하 냥펀치 님 감사합니다!)
+    - 글 목록에서 바로 글 수정하기
+    - 글 보기에서 제목을 눌러서 글 수정하기
+    - 글 보기에서 날짜를 눌러서 글 날짜 수정하기
+
+    [버그 수정]
+    - 글 수정시 변경사항 검사 버그 수정
+    - Dropbox 인증시 system browser로 연결
+Version 1.4.1 (Jul 20, 2018)
+    - 버그 수정
+    - 글 순서 변경 기능이 조만간 업데이트 될 예정입니다.
+Version 1.4 (Jun 4, 2018)
+    - 이제 iPad를 지원합니다. 더 넓은 화면에서 글쓰기를 즐겨보세요. (화면 회전 및 Split View 가능)
+Version 1.3 (Jun 1, 2018)
+    - 많은 분들이 요청해주신 잠금 기능이 드디어 추가되었습니다.
+Version 1.2.2 (May 28, 2018)
+    - 글 등록 오류 해결
+    - 페이스북 팔로우와 좋아요를 통해 업데이트 소식을 받아보세요.
+    https://efn27.app.goo.gl/facebook
+Version 1.2.1 (May 27, 2018)
+    Dropbox 백업/복구 보완
+Version 1.1 (May 25, 2018)
+    글자 크기 변경 기능 추가
+Version 1.0 (May 21, 2018)
+
+Users may also like
+Select objects to compare
+YOUKAMI
+DAILY NOTE - Day Note, Diary
+DayMore: Modern Diary
+Diary - Private Note With Lock
+Card Diary - Journal, Diary
+Luna diary
+Simple Diary - Daily Journal
+Haema Diary
+씀 : 일상적 글쓰기
+Mori Journal
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+26 times
+on App Store category pages
+Versions
+
+    3.10.2
+    Current release
+    Oct 19, 2022
+    3.10.1
+    Oct 14, 2022
+    3.9.3
+    Sep 27, 2022
+    3.9.2
+    Sep 26, 2022
+    3.8.2
+    Sep 16, 2022
+    3.8.1
+    Sep 9, 2022
+    3.8
+    Aug 28, 2022
+    3.7
+    Jun 15, 2022
+    3.6
+    May 31, 2022
+    3.5.6
+    May 22, 2022
+    3.5.4
+    May 21, 2022
+    3.5.1
+    May 17, 2022
+    3.5
+    May 14, 2022
+    3.4
+    Aug 27, 2021
+    3.3
+    Jan 22, 2021
+    3.2
+    Dec 31, 2020
+    3.1.1
+    Jan 20, 2020
+    3.1
+    Dec 5, 2019
+    3.0.2
+    Nov 18, 2019
+    3.0.1
+    Nov 16, 2019
+    3.0
+    Nov 13, 2019
+    2.8
+    Apr 30, 2019
+    2.7.2
+    Mar 28, 2019
+    2.7.1
+    Mar 27, 2019
+    2.6.1
+    Mar 9, 2019
+    2.6
+    Mar 7, 2019
+    2.5.2
+    Jan 9, 2019
+    2.5.1
+    Dec 28, 2018
+    2.5
+    Dec 20, 2018
+    2.4
+    Dec 5, 2018
+    2.3
+    Nov 25, 2018
+    2.2.1
+    Nov 3, 2018
+    2.2
+    Nov 1, 2018
+    2.0.2
+    Oct 27, 2018
+    2.0.1
+    Oct 24, 2018
+    2.0
+    Oct 22, 2018
+    1.9
+    Aug 22, 2018
+    1.8
+    Aug 17, 2018
+    1.7
+    Aug 13, 2018
+    1.6
+    Aug 3, 2018
+    1.5
+    Jul 30, 2018
+    1.4.1
+    Jul 20, 2018
+    1.4
+    Jun 4, 2018
+    1.3
+    Jun 1, 2018
+    1.2.2
+    May 28, 2018
+    1.2.1
+    May 27, 2018
+    1.1
+    May 25, 2018
+    1.0
+    May 21, 2018
+
+See More
+Top In-App Purchases
+
+    Upgrade to Premium
+    $3.99
+    Upgrade to Premium
+    $5.99
+    Tip the Developer
+    $0.99
+    Upgrade to Premium
+    $1.99
+    Upgrade to Premium
+    $2.99
+    Upgrade to Premium Lifetime
+    $24.99
+    Lifetime Premium Access
+    $5.99
+    Lifetime Premium Access
+    $9.99
+    Premium Yearly Subscription
+    $7.99
+    Premium Yearly Subscription
+    $9.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    May 21, 2018
+
+Worldwide Release Date
+    May 24, 2018
+
+Last Updated Time
+    Feb 19, 2024
+
+Version
+    3.10.2
+
+Size
+    102.27 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Korean, Portuguese, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    Diffathy, Inc.
+
+Company HQ
+    South Korea
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 9.0 or later. Compatible with iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi-Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi‑Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi-Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi-Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, iPod touch (6th generation), and iPod touch (7th generation).
+
+Bundle ID
+    com.diffathy.bbapp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1382218014
+Unified App ID: 1000800000147577
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+PenCake - simple notes, diary | data.ai

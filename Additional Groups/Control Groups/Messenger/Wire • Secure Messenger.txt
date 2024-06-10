@@ -1,0 +1,1955 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Wire • Secure Messenger
+Wire SwissBusiness (Applications)Free
+Alerts
+
+Wire
+Wire • Secure Messenger
+Wire • Secure Messenger
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Wire • Secure Messenger
+Secure Business Collaboration
+Business (Applications)
+Free
+App Description
+Wire is the most secure collaboration platform. We increase the productivity in your team while keeping your information private. Wire allows your team to communicate and share information easily and securely - messages, files, conference calls or private conversations - always in context.
+
+– Communicate with your teams through private or group conversations
+– Share and collaborate with files, documents, links with reactions
+– Press the one-click conference call button and your voice or video meetings starts on time
+– Invite partners, customers and suppliers to collaborate through the unique guest rooms
+– Increase privacy through ephemeral messages and device fingerprinting
+– Integrate Wire with your corporate applications and services
+– Recognized by IDC as industry leading security and privacy approach through Open Source, end to end
+encryption, forward secrecy and public audits
+
+Wire is available on any device and operating system - so your team can collaborate whether in the office or on the road.
+
+Wire is also available as an on-demand solution for crisis collaboration.
+
+Wire offers a free version for external business partners or friends and family use.
+Ratings
+Displayed Avg Ratings
+3.41
+Total Displayed Ratings
+3.0k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.111.9 (Mar 20, 2024)
+    Bugfixes and improvements.
+Version 3.111.8 (Mar 12, 2024)
+    Bugfixes and improvements.
+Version 3.111.7 (Jan 16, 2024)
+    Bugfixes and improvements.
+Version 3.111.6 (Jan 3, 2024)
+    Bugfixes and improvements.
+Version 3.111.5 (Dec 21, 2023)
+    Bugfixes and improvements
+Version 3.111.3 (Dec 19, 2023)
+    Fixes
+
+    - Possible to send logs when database failure occurs
+    - Restoring backup files while using password manager
+    - Receiving notifications while updating the app 
+Version 3.111.1 (Nov 20, 2023)
+    New
+
+    - Reactions (react to messages with a variety of emojis)
+    - Connecting indication during a call
+
+    Improved
+
+    - Overall stability improvements
+    - Security (TLS support updated)
+    - Profile color for new users is set to blue by default
+    - Sound for notifications
+    - Stability improvements for users with one verified and one unverified device receiving a message
+
+    Fixed
+
+    - Resolved several app crashes
+    - Fixed an unstable state that might occur when logging in with the same account credentials on two devices
+    - Fixed that some people wouldn’t get notifications after logging out and in again
+    - Fixed that file sending was not possible after the sender canceled sending a file once
+    - Correct translations and grammar (German)
+    - Correct layout in the message context menu on iPads
+    - Long usernames not overlapping with message timestamp
+    - Selecting the button Open Conversation in a participant profile works now, even if no 1:1 conversation existed
+    - Complete data removal from temporary directories
+    - The badge count is updated when a conversation is deleted
+    - UI fix for keyboard when sending messages
+    - User search for a partial match shows the correct result
+    - All files removed when people log out and erase their data
+    - Fitting long text in settings menu
+    - The message someone was replying to is correctly shown as edited if it, in fact, was edited
+    - Show the correct time of a self-deleting message when the corresponding timer was set in team management
+    - Correct rendering of the map in the send-location screen
+Version 3.110.1 (Aug 7, 2023)
+    Improved
+
+    - Call security
+
+    Fixed
+
+    - Back button didn’t work on some screens during account creation
+    - Sometimes the wrong number of unread messages was indicated
+    - Self-deleting pictures sent from one of my other devices didn't disappear on my iOS device
+    - Keyboard display issue while sending a message
+    - Canceling sending a file while uploading didn’t work
+    - Possible to stay on or join a call after being removed from the group or the team
+Version 3.110 (Jun 26, 2023)
+    Improved
+    - Calling stability
+
+    Fixed
+    - Login issue with single sign-on (SSO) 
+Version 3.109.1 (May 3, 2023)
+    New:
+    - Confirmation is needed when starting a conference call
+
+    Improved:
+    - Order of calling buttons in a call
+
+    Fixed:
+    - Unable to enter 2FA code after the first failed try
+    - Not visible if the message was delivered or read
+Version 3.109 (Apr 17, 2023)
+    New
+    - User interface for calls
+    - Navigation bar
+    - Proxy support
+
+    Improved
+    - Accessibility support
+    - VoiceOver
+
+    Fixed
+    - User interface issues when interacting with buttons in the conversation view
+    - Layout breaks during login and account creation on smaller iPhones or an iPad
+    - No option to dismiss the keyboard during account creation
+    - Crashes when answering a call
+    - Crash when selecting Delete for Me button
+    - Crash during incoming call
+    - No option to send pictures or files through Share extension
+Version 3.108 (Dec 19, 2022)
+    Accessibility improvements
+
+    New:
+    - Design for start screen and login process
+
+    Improved:
+    - VoiceOver
+
+    Fixed:
+    - In some cases, push tokens were not registered for the second account
+    - No notifications for incoming calls
+    - Wrong button colors on dark or light mode, when system settings differ from Wire settings
+    - Incorrect spacing between the markdown buttons on larger devices
+Version 3.107 (Nov 22, 2022)
+    Accessibility improvements throughout the entire app.
+
+    New:
+    - Color palette
+    - Design of buttons, labels, and search fields
+
+    Improved:
+    - VoiceOver
+Version 3.106 (Oct 20, 2022)
+    Fixed:
+    - In some cases, sent messages could not be decrypted and seen by recipients.
+
+    Improved:
+    - Conference call stability
+Version 3.105 (Sep 13, 2022)
+    Fixed:
+    - Unable to send messages in some cases
+    - Team members are unable to add new participants to a group that was created by a guest
+Version 3.104 (Aug 29, 2022)
+    Improved:
+    - Reliability of receiving notifications
+    - App accent colors
+    - Settings toggle colors
+Version 3.103 (Jun 27, 2022)
+    This will be the last release to support iOS 12. Future updates will only be available to devices with iOS 13 or higher.
+
+    Fixed:
+    - Notifications sometimes arrived late or not at all.
+    - Notifications were sometimes shown for your own messages.
+    - File attachments sometimes did not open after being downloaded.
+Version 3.102 (Jun 17, 2022)
+    Fixed:
+    - Newly received images, videos, audio messages, and files sometimes disappeared from the conversation.
+Version 3.101 (Jun 13, 2022)
+    Fixed:
+    - Flows to create a new personal account with a phone number and change a phone number have been removed as the backend no longer supports these actions
+    - German localization for bundle message notifications was missing
+    - The heart icon in image details incorrectly represented whether the image was liked
+    - Guest admins could disable the Allow guest setting of a group conversation 
+Version 3.100 (May 24, 2022)
+    New:
+    - Silence other calls
+
+    Fixed:
+    - Incorrect informational message displayed when guest links are disabled for another team
+    - On the German website the legal page was displayed in English
+    - A loading indicator was not dismissed in the calling overlay
+    - The navigation bar was transparent in some views
+Version 3.99 (Apr 4, 2022)
+    New:
+    - Separate access controls for guests and services in conversation details
+
+    Improved:
+    - Alert when a guest link is invalid
+
+    Fixed:
+    - Information about conference calls restrictions for Wire for Free team members
+Version 3.98 (Mar 9, 2022)
+    New:
+    - Support for admin muting remote participants added.
+
+    Fixed:
+    - User is unmuted when rejoining a group call.
+    - Link to terms and conditions.
+Version 3.97 (Feb 21, 2022)
+    New:
+    - Participants with video enabled will appear first in the call grid.
+    Fixed:
+    - Users would get muted automatically if they received an incoming group call while already in a group call.
+    - Accepting calls and sending messages to a newly connected user would fail.
+Version 3.96 (Feb 15, 2022)
+    Fixed:
+    - Participants automatically rejoined a conference call some time after hanging up.
+Version 3.95 (Feb 7, 2022)
+    New:
+    - Option to share a profile link.
+
+    Fixed:
+    - The video camera would remain off, even after the permission to use video in a call was granted.
+    - Some messages formatted with markdown rendered an invisible message.
+    - SSO code detection repeatedly happened when logging in on the iPad.
+    - Profile pictures were not loaded.
+Version 3.94 (Dec 6, 2021)
+    Fixed:
+    - Conference calling is now available to on-prem teams
+Version 3.93 (Nov 30, 2021)
+    New:
+    - Option to configure self-deleting messages in team management.
+    Fixed:
+    - Group participants were incorrectly labeled as guests in some cases.
+Version 3.92 (Nov 6, 2021)
+    Fixed:
+    - Crash loop for a reduced set of users
+Version 3.91 (Oct 12, 2021)
+    Fixed:
+    - App sometimes crashes after login
+Version 3.90 (Oct 6, 2021)
+    Fixed:
+    - 1:1 calls are not always connecting
+    - App sometimes crashes when app lock is enabled
+Version 3.89 (Oct 4, 2021)
+    New:
+    - Enforce conference calling restriction
+Version 3.88 (Sep 28, 2021)
+    New:
+    - Support for large video conference calls
+    - All participants in a conference call, no matter if they have video enabled or join with audio only, are visually represented on the calling screen by tiles
+    - Large number of participants is organized in pages
+    - Calls can be performed in landscape mode
+
+    Improved:
+    - Copy changes for file sharing
+    - Copy changes for VBR/CBR setting
+
+    Fixed:
+    - Possibility to disable copy & paste images when file sharing is disabled
+Version 3.87 (Aug 30, 2021)
+    New:
+    - New intuitive buttons for the call screen introduced
+    - Support for file-sharing restrictions
+    Fixed:
+    - Syncing sometimes does not finish when app returns from background
+    - Show a warning popup when a message can not be sent
+
+    Note: This version of Wire does not support iOS 10 and iOS 11. This and future updates will only be available for devices running iOS 12 or newer.
+Version 3.86 (Aug 10, 2021)
+    Note: This will be the last version of Wire to support iOS 10 and iOS 11. Future updates will only be available for devices running iOS 12 or newer.
+Version 3.85 (Jul 3, 2021)
+    Fix:
+    - Repair compatibility with older server versions
+Version 3.84 (Jun 30, 2021)
+    Fixed:
+    - Certificate pinning was not enforced on the web socket connection. (GHSA-v8mx-h3vj-w39v)
+Version 3.83 (Jun 14, 2021)
+    Fixed:
+    - Searching for a conversation with characters including punctuation
+    - Warning notification appearing multiple times
+    - Conversation banner color is wrong in some cases
+Version 3.82 (May 31, 2021)
+    New:
+    - Legal hold support
+
+    Fixed:
+    - Opening a deep link to a custom backend when logged in to 2 accounts makes pop up show up two times
+    - Connection to server can not be established in certain network configurations
+Version 3.81 (May 10, 2021)
+    New:
+    - Constant bit rate (CBR) is used by default for conference calls
+
+    Improved:
+    - External users are easier to identify in lists and conversations
+
+    Fixed:
+    - App doesn’t navigate to the conversation from a push notification
+    - Close button is not visible on the user profile after opening a deep link on iPad
+    - Active speakers sometimes were shown for too long in active speaker view
+    - Post call popup not showing up when call was dropped intentionally
+    - Call may drop due to participants adding new devices
+Version 3.80 (Apr 26, 2021)
+    New:
+    - No audio notifications are played when participants of a conference call are entering or leaving
+
+    Improved:
+    - Image quality of screen share
+    - Help messages to pinch-to-zoom feature added
+
+    Fixed:
+    - Crash when disabling Allow guests and Services
+Version 3.79 (Apr 12, 2021)
+    New:
+    - Zooming during video calls allows better usage of screen sharing
+    Fixed:
+    - App crashes when using Apple keychain for logging into 2nd or 3rd account
+    - Email field should not be editable for SCIM users
+Version 3.78 (Mar 29, 2021)
+    New:
+    - View during video conference calls can be switched between all or actively speaking participants
+    - Join conference calls in muted state
+
+    Fixed:
+    - For large teams, unable to send messages in a group of 300 users x 5 devices
+    - Syncing indicator is not always shown when the app returns from background
+    - When adding a second account and tapping on log out the app will freeze in the conversation list
+    - Conversation search field is transparent in share extension
+    - Link preview not working for YouTube links
+    - Selecting a conversation sometimes opens wrong conversation
+    - Verified shield does not disappear when verified user adds new device
+    - Handling of case where device runs out of disk space
+    - App stuck on Wire shield page after restoring from backup
+    - Messages unable to be sent in group chats in certain cases
+Version 3.77 (Mar 1, 2021)
+    New:
+    App-lock team configuration
+    Share extension app lock can be unlocked with a custom passcode
+
+    Improved:
+    Search for conversation in share extension is case insensitive
+    Faster event processing
+Version 3.76 (Feb 15, 2021)
+    New:
+    - App-lock team configuration
+    - Share extension app lock can be unlocked with a custom passcode
+
+    Improved:
+    - Search for conversation in share extension is case insensitive
+    - Faster event processing
+Version 3.75 (Feb 5, 2021)
+    Fixed:
+    - Stop streaming video when disabling (GHSA-7fg4-x8vj-qvxf)
+    - App crashing on launch for some users
+Version 3.74 (Feb 1, 2021)
+    New:
+    - Active speakers are indicated by a colored frame in video conference calls
+    - Session reset directly from a decryption error
+    Improved:
+    - Password validation UI
+    Fixed:
+    - Crash when switching account
+    - Unblocking a user not working from search result
+    - Issue with importing backups created with older Wire versions
+    - Issue with logging out certain users with old team accounts
+    - Profile pictures not loading when running against a custom backend
+    - Accepted 1:1 connection displayed as the self user
+    - App lock not always shown in the share extension
+Version 3.73 (Jan 18, 2021)
+    New:
+    - Active speaker indication in conference calls
+
+    Improved:
+    - App lock can be en-/disabled per account
+
+    Fixed:
+    - Crash when receiving an invalid message
+    Invalid 1:1 conversations with self user
+Version 3.72 (Dec 14, 2020)
+    Improved:
+    - In video conference calls video tiles can be max-/minimized with double tap
+
+    Fixed:
+    - Randomization of user IDs for conference calls to avoid correlation of ephemeral metadata
+    - UI issues on iPad
+Version 3.71 (Nov 30, 2020)
+    Improved:
+    - In video calls with two participants, the video of the other user fills the screen
+
+    Fixed:
+    - Network quality indicator is not visible in the conversation list screen
+    - In-call controls are enabled even before the call is started
+Version 3.70 (Nov 17, 2020)
+    Improved:
+    - Calling stability
+
+    Fixed:
+    - Wire Pro & Enterprise: Usage telemetry is not synchronized across devices
+Version 3.69 (Nov 11, 2020)
+    Improved:
+    - Performance of the app when dealing with timed messages
+
+    Fixed:
+    - A crash when using iOS 12
+Version 3.68 (Nov 5, 2020)
+    Improved:
+    - App startup time and general performance
+    - Backup restore can open commonly renamed file extension
+
+    Fixed:
+    - A number of crashes
+    - Unable to re-record audio messages
+    - Various visual issues with the status bar
+    - Wrong colors in dark mode
+    - File names in attachment are not sanitized (advisories GHSA-272j-xm59-qvjm and GHSA-cc6h-5mjg-vwm9)
+    - Links might point to an arbitrary website (advisory GHSA-vrx8-h7gm-m83r)
+Version 3.67 (Oct 13, 2020)
+    New:
+    — Wire Pro & Enterprise: Usage telemetry for team users
+
+    Improved:
+    — Welcome screen design
+Version 3.66 (Oct 7, 2020)
+    Next generation video conferencing platform launched
+Version 3.65 (Sep 29, 2020)
+    New:
+    - Support device orientation in video calls
+    - Show indicator when a call uses variable bit rate
+    - Show indicator when a call is using conference call technology
+    - Inform users when their app version is too old for a conference call
+
+    Improved:
+    - Sorting of participants in calls
+Version 3.64 (Aug 26, 2020)
+    Fixed
+    - Crash during some video calls
+    - Frozen video after turning it off and on in a call
+    - Missing name and microphone icon during video calls
+Version 3.63 (Jul 31, 2020)
+    New
+    – Show muted icon for call participants
+    – Show user names in video calls
+    – Haptic touch support for embedded media items
+
+    Improved
+    – Increased maximum username length
+    – Various improvements to video grid in video calls
+
+    Fixed
+    – Keyboard does not open when editing phone or email
+    – Status bar does not update when navigating between screens on iOS 13
+    – Unable to remove the second device from the device list
+    – Audio messages can’t be played
+    – Crash when entering a number in the country selection screen
+    – Updated WebRTC library for calling
+Version 3.62 (Jul 2, 2020)
+    Improved:
+    - Respect system setting for light/dark mode on iOS 13
+    - Context preview menu when long pressing on a link
+    - The keyboard opens automatically when editing phone number or email in settings
+
+    Fixed:
+    - Share extension gets stuck on loading animation
+    - Wrong number on the unread messages badge
+    - Visual glitch after closing some screens
+Version 3.61 (Jun 12, 2020)
+    Improved:
+    — Respecting the systems appearance settings on iOS 13.
+    — Bumped AVS to 5.6
+
+    Fixed:
+    — List of people in a call not updating in calls with many participants.
+    — Not being able to tap the calling banner.
+    — Various other minor fixes and maintenance.
+Version 3.60 (Jun 3, 2020)
+    Improved:
+    - Updated copy seen on the screen when redirecting to enterprise login.
+Version 3.59 (May 25, 2020)
+    New:
+    Informative screen for users moving to a custom backend.
+
+    Improved:
+    Update to iOS 13 SDK
+
+    Fixed:
+    An issue where one was able to create a conversation with oneself and opening the details tab crashed the app.
+Version 3.58 (May 6, 2020)
+    Fixed:
+    — Deleted users showing up as “default” in conversations.
+    — App occasionally crashing during a call
+    — App occasionally crashing when returning from the background
+    — App occasionally crashing when opening an image in a conversation
+Version 3.57 (Apr 29, 2020)
+    Fixed:
+    — Inability to see the shared screen.
+    — Error message when the selected username is too long.
+Version 3.56 (Apr 16, 2020)
+    Fixed:
+    — Wire Red: Issue where read receipts for response tracking in Secure Alerts were not sent.
+Version 3.55 (Apr 6, 2020)
+    New:
+    — Wire Red: Buttons for response tracking in Secure Alerts.
+
+    Fixed:
+    — Inability to cancel SSO code login on iPads running iOS 13.
+Version 3.54 (Mar 11, 2020)
+    Fixed:
+    — Missing cryptography debug logs.
+Version 3.53 (Mar 3, 2020)
+    New:
+    — SSO configurations for registered Domains are detected automatically in account creation.
+    — Full name is shown for contacts in the UI.
+    — Debugging tool for the badge count found under settings.
+
+    Fixed:
+    — Badge count did not reset correctly after receiving multiple missed calls.
+    — Badge count included conversations that were blocked.
+    — Missing unread indicator in the conversation list when added to or removed from a group.
+    — Under some circumstances, unsent replies would reappear in conversations even if cancelled.
+    — Microphone permissions were not re-requested when needed.
+    — Issues with message margins on iPad.
+    — Debug logs were not included in the debug report.
+    — Inability to login after entering the wrong password
+    — Crash when joining a group call from multiple devices.
+Version 3.52 (Feb 19, 2020)
+    Fixed:
+    — Loading icon not disappearing when accessing your devices in settings.
+    — It was not possible to scroll the entire devices page in settings (iPad).
+Version 3.51 (Feb 11, 2020)
+    Fixed:
+    — Verification shields not appearing correctly in the user list
+    — Not displaying alerts when there was no internet connection
+    — App lock not covering the entire screen (iPad)
+    — Stuck loading screen when changing phone number
+    — Various minor fixes
+Version 3.50 (Jan 16, 2020)
+    Fixed:
+    — Crashes on launch when migrating the database.
+    — Crashes when searching for users with special characters.
+Version 3.49 (Jan 6, 2020)
+    New:
+    — Group conversation roles and management
+Version 3.48 (Dec 11, 2019)
+    New:
+    — Drag and drop for images from Safari (iPad)
+
+    Improved:
+    — Added more information to local device logs for decryption errors
+
+    Fixed:
+    — Changed how the search query is sent to Giphy
+Version 3.47 (Nov 25, 2019)
+    mproved:
+    — Performance improvements for larger teams.
+
+
+    Fixed:
+    — Possible crash when entering a mention (@…).
+Version 3.46 (Nov 15, 2019)
+    New:
+    — Folder badges to show the number of unread conversations.
+
+    Fixed:
+    — Keyboard is not dismissed when lock screen is shown.
+    — Restore conversation list update animation.
+Version 3.45 (Oct 16, 2019)
+    New:
+    — Organize your conversations into folders.
+    — Add a conversation to your favorites for quick access.
+    — Logging out of a device will require verification, delete all cookies and remove said device from your list of used devices.
+    — Pro: Button to delete group conversations.
+
+    Fixed:
+    — Possible crash during the login/registration process when using a phone number.
+    — Crash while configuring the guest access in the conversation settings.
+    — Inability to copy a link using long-press.
+    — Minor layout issues.
+Version 3.44 (Sep 20, 2019)
+    Improved:
+    — Faster connections for calls
+
+    Fixed:
+    — Various fixes to split view on larger screens.
+    — Error in phone number validation during registration.
+    — Incorrect group options shown after leaving the group.
+    — File type limitations in share extension.
+    — Crash on iPads when sharing guest links.
+    — Crash when asking for photo library permissions.
+    — Various minor bug fixes.
+Version 3.43 (Aug 28, 2019)
+    Improved:
+    — Faster connections for group calls.
+Version 3.42 (Aug 22, 2019)
+    New:
+    - Pro: New team logo design.
+
+
+    Fixed:
+    - Crash when attempting to log out during the login process.
+Version 3.41 (Aug 14, 2019)
+    Fixed:
+    - Crash when attempting to log out from a device in the login process, when the limit of allowed devices was reached.
+    - Share extension crashing when the preview image is very large.
+    - Crashes on iOS 13.
+Version 3.40 (Jul 31, 2019)
+    Improved:
+    Accessibility improvements.
+
+    Fixed:
+    Some sensitive data may have gotten logged in crash logs.
+    The avatar for 1:1 conversation in the conversation list may have been displayed as a group avatar.
+    Pop-up when a call failed.
+    Lost animation when copying and pasting a GIF.
+    Unable to remove a device after entering a wrong password.
+    A bug related to the line spacing of paragraphs in Chinese.
+Version 3.39 (Jul 24, 2019)
+    New:
+    — The group limit is increased to 500 people.
+Version 3.38 (Jun 20, 2019)
+    Fixed:
+    — An issue where push notifications for new messages were not always shown.
+    — Various fixes to call-related crashes.
+Version 3.37 (Jun 12, 2019)
+    Improved:
+    — Faster call connection. Upgrade to the underlying AVS (Audio Video Signaling) implementation.
+Version 3.36 (May 27, 2019)
+    Fixed:
+    — Broken link behind “reset password” button.
+    — Developer settings are removed from the Wire app section in the iOS settings
+Version 3.35 (May 9, 2019)
+    New:
+    — Pro Feature: Mute settings for all conversations can now be controlled via your status. Set it to “away” for no notifications, or to busy to only receive notifications for mentions and replies.
+    — Pro Feature: SCIM users can now edit their profile pictures.
+    — Dark theme support for iPad
+
+    Fixed:
+    — Error message shown when trying to register with an already used email address.
+    — The system message for when people are added to a group, sometimes referred to the people as “someone” instead of using the name.
+    — Having a long username caused issues in the profile view layout.
+    — Line height for some messages containing @mentions were off.
+    — Many unread messages in a conversation may have caused it to scroll to a wrong position in the conversation history.
+Version 3.34 (May 6, 2019)
+    New:
+    — Strong passwords. When creating a new account, we now ask you to create a secure password.
+    — Enterprise feature: Support for custom backend. The iOS Wire client can now be run against a private server.
+
+    Improved:
+    — Faster log-in for larger accounts.
+    — Improved performance for sending and receiving messages.
+    — Better performance for sending and displaying YouTube and SoundCloud links.
+
+    Fixed:
+    — New conversations did not always show the number of unread messages.
+    — Outgoing connection requests could not always be cancelled.
+    — A crash related to link previews.
+    — Various smaller layout issues on iPhones.
+Version 3.31 (Apr 1, 2019)
+    New:
+    — Pro feature: Deep links. These allow integration users to create custom links to access any conversation or user profile within the app.
+
+    Improved:
+    — Copy update to the registration process.
+    — Faster syncing on app start for large accounts.
+    — Performance improvements to in chat search.
+
+    Fixed
+    — In some instances the app froze when jumping to an old message through search.
+    — Tapping on an unconnected user crashed the app.
+    — System messages for group calls did not show correct timestamps.
+    — Various other fixes.
+Version 3.30 (Mar 14, 2019)
+    New:
+    — Pro feature: Hide partners from contact search or define which team members can find them.
+
+    Improved:
+    — The profile overview shown for deleted team members has been updated.
+    — Simpler and more reliable asset uploading.
+
+    Fixed
+    — Black on black text on the login screen.
+    — Ringtones stopping without looping (non-default ringtones).
+Version 3.29 (Mar 7, 2019)
+    Fixed:
+    — Editing the name, email, phone number and profile picture was briefly not possible.
+Version 3.28 (Feb 28, 2019)
+    New:
+    — Pro feature: Extended profiles – SSO users can now see internal information of their team members in the conversation details (i.e Job title, entity, etc.).
+
+    Improved:
+    — Faster app launch time.
+    — Reduced battery usage when the app is running in the background.
+    — Smoother scrolling through the conversation list.
+
+    Fixed:
+    — A bug where the keyboard would appear on top of the calling screen.
+    — An issue where notifications for a message were removed before it was read.
+Version 3.27 (Feb 18, 2019)
+    New:
+    — SSO links. Company login users can now log in using their identity provider faster, by tapping on a custom link.
+    — Cross-domain Identity Management (SCIM) integration for the automation of user provisioning.
+
+    Improved:
+    — Redesign for the login and registration screens to be more consistent, reliable and accessible to VoiceOver users.
+
+    Fixed:
+    — Issues related to the recording of audio messages have been resolved
+    — Various minor bug fixes.
+Version 3.26 (Feb 1, 2019)
+    New:
+    — “Partner” roles — a new role can now be assigned to team members. Partners have less rights than regular members.
+
+    Improved:
+    — Improvements to the reliability of message sending.
+    — In unsafe networks the app will go offline instead of continuously syncing.
+
+    Fixed:
+    — Fixed an issue where call durations may not be shown on system messages.
+    — Re-factoring to avoid the app from freezing when opening conversations with a lot of messages.
+    — Various minor bug fixes
+Version 3.25 (Dec 19, 2018)
+    New:
+    — New feature: Read receipts. See when people in a conversation have read your message. This setting can be toggled in your personal setting and in group settings
+
+    Fixed:
+    — Fixes to the action items and visuals in the conversation view.
+    — Various other fixes.
+Version 3.24 (Nov 22, 2018)
+    New:
+    — New feature: Direct replies. Keep your conversations organized by directly replying to any message.
+    — Call network quality indicator. This will allow you to see whether your current network conditions might affect the call quality.
+
+    Improvements:
+    — General stability improvements.
+    — It is possible now to navigate through the @mention suggestions using the arrow keys.
+
+    Fixed:
+    — Calls from the future (specifically from the year 2067) should no longer appear in the recent call list.
+Version 3.23 (Nov 1, 2018)
+    New:
+    — Pro account feature: Team users can now log in using Single-Sign-On.
+
+    Improvements:
+    –– Using the share extension to share a link will now always create a link preview.
+
+    Fixed:
+    –– Japanese Hiragana characters are not treated as Emoji any more.
+    –– Performance improvements for when your mobile data is disabled for Wire.
+Version 3.22 (Oct 17, 2018)
+    New:
+    — Pro account feature: A per conversation setting to get notifications for all messages, only mentions of you, or no notifications at all.
+
+    Improvements:
+    –– Call quality and stability improvements.
+
+    Fixed:
+    –– UI cut off from the bottom when using the 3rd party keyboard.
+    –– Calling issues on the most recent iOS version.
+Version 3.21 (Oct 4, 2018)
+    New:
+    — Mentions — get the attention of a specific person in a group conversation, tap or type the “@” sign and select them from the list.
+    — Notifications from one conversation are grouped on the lock screen and in the Notification Center on iOS 12.
+
+    Improved:
+    –– Call quality and stability improvements.
+
+    Fixed:
+    –– Orange heart emoji is rendered correctly now.
+    –– Sometimes the login screen was shifted down.
+    –– Crash when saving a video.
+Version 3.20 (Sep 12, 2018)
+    Improved:
+    –– Clearer messages about incoming, ongoing, and finished calls.
+    –– Numerous call quality and stability improvements.
+    –– A reminder icon when you have muted in a video call.
+
+    Fixed:
+    –– Sometimes call mute button would show the wrong state.
+    –– Crash in a call with a new device with unverified fingerprints had joined.
+    –– Sometimes self view in a video call was positioned off screen.
+    –– Sometimes the first call did not show up in a new conversation.
+    –– Crash when switching accounts.
+Version 3.19 (Aug 23, 2018)
+    New:
+    — Team accounts now support services. Services are helpers that improve your workflow and let teams integrate external tools with Wire.
+
+    Improved:
+    — Maximum file size for team accounts is now 100MB (25MB for free accounts).
+    — Maximum length of video and audio recordings increased accordingly.
+
+    Fixed:
+    — Lock screen is now disabled when recording a voice message.
+    — Video and voice call button were sometimes not shown.
+    — Sharing a link from Firefox crashed the sharing dialog.
+    — Archived conversation list did not always show all the chats.
+    — Very large images caused the app to crash when user opened the collection view.
+Version 3.18 (Aug 6, 2018)
+    New:
+    — Keyboard language is remembered for each conversation.
+
+    Improved:
+    — Maximum number of participants in a group chat was increased to 300.
+    — Scrolling in conversations is smoother as we improved image loading logic and performance.
+    — Messages are more reliably delivered on slower networks.
+    — Notification reliability improvements.
+
+    Fixed:
+    — Accessibility: VoiceOver annotations are available now in calling screen.
+    — Wire sometimes tried to send a single message multiple time when the phone was offline, resulting in decryption errors.
+    — Occasionally the wrong year was shown in message timestamps.
+Version 3.17 (Jul 16, 2018)
+    Improved:
+    — It is now possible to search for people in the group conversation’s members list.
+
+    Fixed:
+    — Notification badges are no longer visible when no chats are unread.
+    — Audio messages recorded above the maximum duration are no longer discarded automatically.
+Version 3.16 (Jul 4, 2018)
+    New:
+    — Set a conversation timer that allows all messages in a group chat to expire after a certain time.
+
+    Improved:
+    — Changed timer intervals for timed message.
+    — Timed messages you send are now synced to your other devices.
+    — Maximum number of participants in a group chat was increased to 256 (up from 128).
+    — Kosovo added to the list of countries in the registration flow.
+
+    Fixed:
+    — Saving an animated GIF to the camera roll works again.
+    — SoundCloud now stops playing when you switch to a different account.
+Version 3.15 (Jun 13, 2018)
+    New:
+    — Video conference with 4 participants is now available for team accounts. Calls are protected with end-to-end encrypted like everything else on Wire.
+    — Minimize an ongoing call to send messages, links, or search for something in the chat history.
+    — Brave and SnowHaze are added to the list of supported browsers that can open links from Wire (Settings > Options > Browsers).
+
+    Improved:
+    — Accessibility improvement: Wire respects the iOS bold font setting.
+
+    Fixed:
+    — Photos taken in landscape mode are rotated and displayed correctly.
+Version 3.14 (May 27, 2018)
+    Improved:
+    — Small calling improvements.
+
+    Fixed:
+    — Wire crashed when opening the Settings on older iOS 9 devices.
+Version 3.13 (May 14, 2018)
+    Improved:
+    — Notifications are more reliable after the device has been offline for a while.
+
+    Fixed:
+    — Wire froze on launch when the app wasn’t used for a while.
+    — Sometimes links with emoji in the link preview crashed Wire. No more!
+Version 3.12 (May 2, 2018)
+    Fixed:
+    - Messages could no longer be sent on some older devices after importing message history.
+Version 3.11 (Apr 26, 2018)
+    New:
+    — History backup lets you take all the conversations, images, videos and files with you when you get a new iPhone or iPad. More details in medium.com/@wireapp
+
+    Improved:
+    — Changing networks or going offline/online no longer impacts the app performance.
+    — Wire follows iOS mute status for incoming calls.
+
+    Fixed:
+    — Recording audio messages is no longer interrupted by incoming text messages.
+    — App icon badge was occasionally showing incorrect number of unread chats.
+    — App crashed sometimes when a user logged out.
+    — On a rare occasion all participants got removed from a chat, we rewrote the piece of code responsible for the mayhem.
+Version 3.10 (Apr 9, 2018)
+    Improved:
+    — Better Markdown support. For example, you can do [links](https://wire.com) in text messages. Check our support site for full list of Markdown options.
+
+    Fixed:
+    — Tapping on markdown links requires user confirmation before the link is opened.
+Version 3.9 (Apr 6, 2018)
+    Improved:
+    — Push notifications reliability.
+    — Wire consumes less power when running in the background.
+    — Performance and stability improvements to calling and audio message recording.
+    — Better Markdown support. For example, you can do [links](https://wire.com) in text messages. Check our support site for full list of Markdown options.
+    — New offline and syncing status bar for the iPhone X.
+
+    Fixed:
+    — Several users experienced problems logging in.
+    — Fixed the issues with German grammar in the system messages.
+    — Improved touch area for buttons in the conversation’s top bar, and for the audio message record button.
+Version 3.8 (Mar 12, 2018)
+    New:
+    — It is now possible to create team-only conversations where participants can’t add guests by accident.
+
+    Improved:
+    — Group chats have a new details screen. It’s easier to change the conversation name and get an overview of the participants.
+
+    Fixed:
+    — Sometimes images would not display properly when viewing them in full screen and swiping to see the older images.
+    — A few crashes and performance issues.
+    — An issue with the new group creation flow on iPad.
+Version 3.7 (Feb 21, 2018)
+    New:
+    — Starting a group chats is now much simpler. Give it a name, choose the people to add and you’re done.
+
+    Improved:
+    — It takes one less click to open conversations from search results.
+
+    Fixed:
+    — iPad: The photo selected during the registration for your profile is no longer lost.
+Version 3.6 (Jan 26, 2018)
+    New:
+    —Team account owners can invite others to join during team creation.
+
+    Improved:
+    — Improved iPhone X support.
+    — Correct error message when Wire requires permissions to access the camera.
+
+    Fixed:
+    — Volume of audio messages is fixed.
+    — Timed messages now work for content shared via share extension.
+Version 3.5 (Jan 9, 2018)
+    New:
+    — Added account selection (if you’re logged in with multiple accounts) when sharing content from other apps via the share extension.
+    — Added haptic feedback for actions like opening a conversation, sending a message, when someone joins a call, and others. Available on iPhone 7 and newer.
+
+    Fixed:
+    — Issue with audio messages when attempting to start a recording.
+    — Issue with external keyboard and pressing the up arrow key is fixed.
+    — It is now possible to reopen a deleted conversation.
+Version 3.4 (Dec 20, 2017)
+    New:
+    — Status — let people know if you're available, busy or away. Status is a team-only feature and shown to members of your team, and members of other teams that are connected to you.
+
+    Fixed:
+    — Sharing PDF documents from the share extension.
+    — Crash loop that some users might have experienced.
+Version 3.3 (Dec 11, 2017)
+    New:
+    — Create a team from within the app.
+    — Wire now speaks Traditional Chinese and Lithuanian.
+
+    Improved:
+    — Stability improvements to calling.
+
+    Fixed:
+    — Fingerprint and passcode unlock now work with share extensions.
+    — Sound notifications fixed for users with multiple accounts.
+Version 3.2 (Nov 9, 2017)
+    Improved:
+    — Improved iOS notifications and in-app notifications.
+    — Reliability of the sharing extension, for example when sharing edited screenshots.
+    — Added a link to team management page to team owners and team admins.
+
+    Fixed:
+    — TouchID sometimes didn’t work properly to unlock the app.
+    — Flickering “…is typing” indicator.
+    — Double messages about events, for example when someone was added to a chat.
+    — Sending some specific links crashed the app.
+Version 3.1 (Oct 21, 2017)
+    Fixed:
+    — Some users are seeing duplicate messages in specific chats.
+    — Fix for a few recently introduced crash issues.
+Version 3.0 (Oct 19, 2017)
+    New:
+    — Autofill your password when logging in with iOS 11 and iCloud keychain.
+
+    Improved:
+    — Sharing from other apps supports more content types.
+
+    Fixed:
+    — Occasionally messages would not be sent properly.
+    — “No internet” warning shown when the phone (and Wire) had good connection.
+    — Playback issues with audio messages.
+    — Application badge is back, showing when you have new messages.
+    — Minor improvements to calling.
+    — Uploading a file caused Wire to crash for some users.
+Version 2.43 (Oct 2, 2017)
+    New:
+    — When you’re logged in with more than one account (max 3) then you now receive notifications for all accounts.
+
+    Improved:
+    — Performance when switching between accounts.
+
+    Fixed:
+    — Some crashes connected to registration when the network is not accessible.
+
+    Other:
+    — Constant bit rate calls have been temporarily disabled with the introduction of multiple account support. CBR calls will be back soon.
+Version 2.42 (Sep 18, 2017)
+    New:
+    — You can be logged in with up to 3 accounts at once. Known limitation: only one account is active at a time, calls or notifications from others won’t show up. Support for this is coming in the next release.
+
+    Improved:
+    — Much smaller audio message files so they are faster to send and use less data.
+    — Added the option to delete a timed message.
+    — It is no longer possible to save or forward a timed message.
+
+    Fixed:
+    — It was impossible to swipe conversations on iOS 11.
+    — Recording and sending audio messages had several issues on iOS 11.
+Version 2.41 (Aug 21, 2017)
+    New:
+    — Text formatting - use the formatting menu or markdown to add # headers, **emphasis** or _italics_, and style code with Courier font, or create lists.
+
+    Improved:
+    — Added a “Join call” button to the group conversation view - makes it easier to join a group call after it has started.
+    — No more notifications when someone leaves an archived conversation.
+    — Design refinements of the search UI, and in other areas.
+
+    Fixed:
+    — Some crashes and performance issues.
+Version 2.40 (Jul 17, 2017)
+    Improvement:
+    — Fixed: Crash issue when the device is temporarily offline.
+Version 2.39 (Jul 13, 2017)
+    Improved:
+    — Calls to other platforms - Android, desktop, web - are more stable.
+    — Autocorrect is now also applied to the last word in the message.
+
+    Fixed:
+    — Sometimes messages were shown as unsent.
+    — Changing networks from mobile data to WiFi was sometimes affecting notifications.
+    — Accidental calls in groups should no longer be a problem.
+    — “Message from X was not received” errors in certain corner cases.
+    — Layout issue with the text input area.
+Version 2.38 (Jun 15, 2017)
+    Improvement:
+    — Fixed: Several crash issues.
+Version 2.37 (Jun 6, 2017)
+    Improvement:
+    — More versatile set of colors for sketching
+Version 2.36 (May 25, 2017)
+    Improved:
+    — Several improvements to reliability of call establishment and call handling.
+    — Small visual tweaks to the conversation list.
+
+    Fixed:
+    — Occasionally the app would become slow, or fail to send messages without an obvious reason.
+    — Bluetooth headsets and other devices work again for calls, audio and video messages.
+    — User avatar next to the message was sometimes too big.
+    — Sent timed message sometimes stayed on screen even after timer run out if the app was closed.
+    — User profile view would stay open after removing them from a group chat.
+    — Sometimes typing indicator was shown even after the user stopped typing.
+    — Sharing links from other apps would sometimes get stuck and never send the link.
+Version 2.35 (May 8, 2017)
+    Fixed:
+    — Wrong profile picture was sometimes shown when searching for people.
+    — After loging out and in again small profile avatars were all replaced with the same photo.
+    — Sending an image would get stuck if the security level of a conversation changed.
+Version 2.34 (Apr 24, 2017)
+    New:
+    — Fresh design for the conversation list with user pictures, group avatars and message previews. You can also see if someone is typing in the conversation, how many unread messages, pictures and links have been sent.
+
+    Fixed:
+    — Sometimes it was impossible to send audio messages. Fixed.
+    — Some GIFs were displayed in a very small format. They are now shown in full size again.
+Version 2.33 (Apr 3, 2017)
+    New:
+    — Additional call security with constant bit rate encoding as an option. More info at medium.com/wire-news
+    — New design for system messages when someone is added, leaves and so on, in the conversation view
+    — New design for call indicators in the conversation list view
+
+    Improvement:
+    — Swipe right to exit collection view
+    — Added an eye icon to the file transfer message to make it more clear how to preview a file
+    — Increased font size when bigger dynamic type sizes are selected
+    — Lots of small design improvements and fixes
+
+    Fixed:
+    — Sending content via iOS share extension didn't sometimes work
+    — Links without previews were not properly opened in third party apps
+    — Swipe back from collections first screen didn't work
+    — Tapping on action buttons in a single image view sometimes didn’t do anything
+    — Input area stayed yellow after editing a message
+    — Missed call did not unarchive a conversation
+    — There was no push notification for incoming calls if the app was running in the background
+    — Some annoying crashes
+Version 2.31 (Mar 6, 2017)
+    New:
+    — Option to lock the app with Touch ID and Passcode
+    — Private EXIF meta data like location and creation time is deleted from sent photos
+
+    Improved:
+    — Like messages from push notifications
+    — Like images in full screen view
+    — Delete pictures, videos or links directly from the Search view
+    — Larger tap area to open shared files. Whole message is now tappable.
+
+    Fixed:
+    — Sharing links from other apps sometimes did not create a link preview
+    — Sometimes @username was not shown for search results
+    — Some URLs were broken by link preview
+    — Crash issues on iOS 8.3 and 8.4
+    — Number of calling related bugs
+Version 2.30 (Feb 26, 2017)
+    — New: Text search combined with collection of your pics, links and files
+    — New: Change or delete phone number and email in Settings
+    — New: Support for Dynamic Type
+    — New: Support to Peek and Pop on images in a conversation
+    — New: Swipe between images in full screen view
+    — New: Polish translation
+    — Improvement: Option to send Wire invite to friends is now easily accessible on settings view
+    — Improvement: Faster app launch time for users with high number of contacts
+    — Fixed: Conversation list order got mixed up for some users. Not any more.
+    — Fixed: Number of calling and CallKit related bugs
+    — Fixed: People with Democratic Republic of Congo phone numbers (+243) can sign up again
+    — Fixed: Some pics were sent without the sketches applied. This is now fixed.
+Version 2.29 (Feb 8, 2017)
+    — New: Phone numbers, addresses, URLs, events, flight numbers are detected as links and you can tap them or use Peek & Pop (3D Touch).
+    — New: Finnish translation.
+    — Improvement: It’s possible to copy device fingerprints.
+    — Improvement: A tweet send via iOS sharing extension has a preview now.
+    — Improvement: Loading Collection view is faster on iOS 10.
+    — Fixed: Several calling-related issues.
+    — Fixed: Several crash issues.
+    — Fixed: Layout issues for right-to-left languages.
+    — Fixed: Maps or Twitter app was not selected by default in Settings.
+Version 2.28 (Jan 24, 2017)
+    — New: Collection view to quickly see all pictures, videos, links and files posted to a chat
+    — New: Share Extension: securely share content from any app to Wire
+    — Fixed: Swipe action on archived conversation was not working
+Version 2.27 (Jan 5, 2017)
+    — Fixed: Some calls stayed in “Connecting” status for forever. That should no longer happen.
+    — Fixed: Crash for some new users when sending a message.
+    — Fixed: Ringtone was not playing for some outgoing calls.
+    — Fixed: Sometimes profile picture was not properly saved during account registration.
+Version 2.26 (Jan 1, 2017)
+    — Improvement: Some calls stayed in "Connecting" status forever, that should no longer happen.
+    — Fixed: Conversation list wasn't updating the chat order properly. This is fixed.
+    — Fixed: A few crash bugs.
+    — Added Estonian translation. Tere tulemast!
+Version 2.25 (Dec 20, 2016)
+    — Fix: A small number of users experienced random crashes. We fixed it.
+
+    In the previous release:
+    — New: Choose a unique @username that people can use to find and to connect with you.
+    — New: Added Arabic translation
+Version 2.24 (Dec 16, 2016)
+    — New: Choose a unique @username that people can use to find and to connect with you.
+    — New: Arabic translation.
+Version 2.23 (Nov 30, 2016)
+    — New: Forward messages to other conversations
+    — New: Incoming calls are now shown on the lock screen with CallKit. Bonus: a setting to turn it off.
+    — New: Roller coaster audio filter
+    — New: Added Slovenian translation
+    — Improvement: Confirmation dialog when calling a large group chat
+    — Improvement: Option to delete messages that are still in sending state or have failed to send
+    — Fix: Camera permissions alert was shown for audio calls
+    — Fix: Notification when receiving images was missing. It’s back.
+
+    Visit medium.com/wire-news for additional details and options for the CallKit implementation.
+Version 2.22 (Nov 14, 2016)
+    — New: Timed messages now work in group conversations.
+    — New: Simplified Chinese translation added.
+Version 2.21 (Nov 8, 2016)
+    — New: Add emoji to photos and sketches.
+    — New: Option to define external apps that open web links, maps, tweets.
+
+    We added timed messages that self-destruct with the previous release. To read more about them our blog: medium.com/@wireapp
+Version 2.20 (Oct 25, 2016)
+    — New: Timed messages that disappear once the timer you set runs out.
+    — New translations: Danish, French
+Version 2.19 (Oct 20, 2016)
+    New translations: Dutch, Italian, Japanese, Turkish
+Version 2.18 (Oct 15, 2016)
+    — New: Delivery status. We now show when a message has been delivered to the receiver’s device.
+    — New: Send button. Switch it off in the settings if you prefer to use the Return button on the keyboard.
+    — New: Emoji button for easy access.
+    — New: GIF button. Tap to view recent popular GIFs or search for a match for a specific word or phrase.
+    — Improvement: New design for typing indicator. Now works in groups too.
+    — Fixed: Couple of crash bugs.
+
+    Read about the recent changes in our blog: medium.com/@wireapp
+Version 2.17 (Oct 7, 2016)
+    iOS 10: If your notifications have the incorrect sound then restart your phone to resolve the issue.
+
+    — New: Improved settings and profile menu.
+    — Various bug fixes.
+Version 2.16 (Sep 21, 2016)
+    We fixed a crash bug that affected a small group of people. Wire will start up nicely again for them.
+Version 2.15 (Sep 9, 2016)
+    — New: You can “like” anything in a chat – messages, pics, videos and more. Awesome for groups!
+    — New: Added Russian, Spanish and Ukrainian translations.
+    — Improved: Auto-matching from phone Contacts. Sharing contacts with Wire is optional and we never spam them or share them with anyone else.
+    — Fixed: There was no sound for push notifications when message preview was toggled off.
+Version 2.14 (Aug 26, 2016)
+    — New: Delete everywhere – remove sent messages, photos, videos etc from your devices and from the receiving devices.
+    — New: Edit sent messages. Perfect for fixing typos.
+    — Fix: In some conditions there was no push notification about a missed call.
+Version 2.13 (Aug 16, 2016)
+    — Fixed YouTube and Vimeo integration
+    — Fixed other minor issues
+Version 2.12 (Aug 13, 2016)
+    — New: Camera keyboard. It’s much faster to take and send a photo, a video message, or pick one from the gallery.
+
+    — New: 3D Touch support for sketch and conversation list — peek and pop to preview chat contents.
+
+    — Various bug fixes.
+Version 2.11 (Jul 23, 2016)
+    — New: Link previews.
+    — Usual mix of fixes for crash bugs, and tiny improvements.
+Version 2.10 (Jul 12, 2016)
+    — New: Added crazy filters when sending an audio messages so you can make yourself sound like a robot or a bunny rabbit, for example.
+    — New: Location sharing – easy to show where to meet up, give instructions etc.
+    — New: Big emojis. When it comes to emojis, bigger is better.
+    — New: Added a setting to hide message content from notifications. This was requested by many privacy-conscious users.
+    — Improved: Raising phone to the ear now switches audio message playback from the speakerphone to the earpiece.
+    — Improved: Quick actions to respond directly from notifications.
+    — Usual mix of fixes for crash bugs, and tiny improvements.
+Version 2.9 (Jun 27, 2016)
+    — Improved: Notifications will now mostly show the incoming message text and not simply “New message”.*
+    — Fixed: Bugs that crashed the app when accepting connection requests or copying the invite text.
+    — Smaller bug fixes and improvements.
+
+    * With Wire’s focus on privacy and security we encrypt all user communication within our app and this includes notification text. In certain situations encrypting notifications (and decrypting them in user’s device) fails and we display a simple “New message” fallback text
+Version 2.8 (Jun 15, 2016)
+    — New: You can now customize Wire sounds. Go crazy!
+    — New: Copy-paste images from any other app into your conversations.
+    — New: Brazilian Portuguese translation added. Olá!
+    — Change: iOS status bar is now visible in the conversation view.
+Version 2.7 (Jun 2, 2016)
+    — New: Audio messages – tap, talk and send.
+    — Improved: Video call quality now adapts better to your network conditions, improving the video calling experience.
+    — Typography adjustments – smaller font in chats and more.
+    — Crash bug fixes.
+
+    In the last month we’ve added secure file sharing, video messages, and now audio messages. Enjoy!
+Version 2.6 (May 19, 2016)
+    — New: Send video messages – in 1:1 and group chats. Video messages are end-to-end encrypted, as is everything else on Wire.
+    — New: Delete messages. Wipes messages from all of your devices.
+    — Fixed: Wire crashed on launch for some users. That’s fixed now.
+    — Small fixes and improvements to stability.
+Version 2.5 (May 6, 2016)
+    Some users may be logged out with this update. You will not lose your conversation history. If you have isssues logging back in, please contact Wire Customer Support.
+    support-team@wire.com
+    support.wire.com
+
+    — New: Updated chat view with new toolbar. Saved you a tap when sending photos, files, sketch or ping.
+    — Improvement: Increase font size of chat name in conversation view.
+    — Fixed: Sometimes it was impossible to scroll to the bottom of conversation list.
+    — Fixed: Sometimes there were no push notifications when app was re-installed on the same device.
+    — Fixed: Some screens displayed in landscape on iPhone making for a messy user experience.
+    — Fixed: Outgoing video calls always start with the front camera now.
+Version 2.4 (Apr 28, 2016)
+    • New: File transfer - send files (max 25 MB) from cloud services like iCloud. Works with groups and all files are end-to-end encrypted.
+    • Bug fixes and improvements.
+Version 2.3 (Apr 15, 2016)
+    • New conversation list and a dedicated button to access archived chats
+    • Easier access to Settings
+    • Improved video call quality and stability
+    • Louder notification sounds
+    • Fixed a number of crash bugs
+Version 2.2 (Mar 30, 2016)
+    • Conversation view has a new layout — it's easier to start a call or video call, and you can tell at a glance who you're talking to.
+    • Optimized app launch speed and general responsiveness.
+    • Tap the grid icon when choosing a GIF to send and you'll get many, many more GIFs in one go ;)
+    • Fixed: Long text messages were sometimes not shown in conversations.
+    • Fixed: Occasionally avatars were missing in front of the messages.
+    • Fixed: Some users were unable to add a phone number if they had registered with an email.
+Version 2.1 (Mar 15, 2016)
+    New in 2.0
+    • Video calls - from mobile to tablet to desktop.
+    • End-to-end encryption of messages, pictures, voice and video calls. In groups too.
+
+    New in 2.1
+    • Video calls works on iPhone 4S now.
+    • Fixed audio quality issues on iPhone 6s when using speakerphone.
+    • Fixed an issue when call wasn’t connecting when answered from a notification.
+    • Fixed a database issue that force logged out some users.
+    • Speed improvements - opening conversations is faster.
+    • Invites to friends are now sent directly by you, not via Wire servers.
+Version 2.0 (Mar 10, 2016)
+    • Introducing video calls. For free, of course.
+    • Everything on Wire is now end-to-end encrypted, so all messages, audio and video calls, photos, sketches and so on are private and secure.
+    • We can’t read your chats or listen to your calls, and neither can anyone else.
+    • Full encryption is turned on by default for all users and all conversations, including group chats.
+
+    For more information visit wire.com/privacy
+Version 1.28 (Feb 19, 2016)
+    • Fixed a crash on launch that affected some users on older phones.
+    • Some users were logged out of Wire when their device ran out of memory. That won’t happen again.
+Version 1.27 (Feb 17, 2016)
+    • New users can upload their own profile picture, or they can choose from a great selection of photos.
+    • To preserve your privacy, chat history is not synced to new devices that you start using with the same account.
+    • Fixed some cases where the unread messages count was incorrect.
+    • Sharing content from other apps to Wire is temporarily disabled.
+Version 1.26 (Jan 27, 2016)
+    Improved stability and faster connecting times when calling friends.
+Version 1.25 (Jan 12, 2016)
+    • Minor improvements and fixes to calling.
+    • Small changes to the Settings.
+    • Usual mix of bug fixes.
+Version 1.24 (Dec 15, 2015)
+    • Call stability improvements.
+Version 1.23 (Nov 29, 2015)
+    • New: Invite friends to join Wire with just a tap.
+    • Fixed an issue where notifications were sent twice.
+    • Usual mix of smaller bug fixes and improvements.
+Version 1.22 (Nov 3, 2015)
+    • New: Share photos, YouTube videos, web links and much more directly from other apps in to Wire conversations.
+    • Dark theme is back on your phone! Switch between light/dark in the profile view.
+    • Calls are no longer interrupted when switching between wifi and mobile data connection.
+    • Large address books don’t crash Wire on app launch any longer.
+    • Chats are now correctly marked as read when leaving conversations.
+    • Selfie camera posts a correct photo now, not a mirrored image.
+    • Several fixes and improvements to the delete feature.
+Version 1.20 (Sep 21, 2015)
+    • Support for iOS 9.
+    • Fresh, new looks — white and light conversations and profiles, improved legibility with system fonts and overall design and performance improvements.
+    • Performance improvements – it’s now significantly faster to log in.
+    • Fix: Conversations are now deleted when you leave them.
+Version 1.19 (Sep 15, 2015)
+    • Delete conversation history is now available straight from the conversation list.
+    • Conversations are now properly marked as read, no more little dot in front of the chat name.
+    • Incoming regular phone calls are handled much nicer now – accept or reject the call while Wire notifies the other party of the interruption.
+    • Incoming call now pauses music played from any app and resumes once the call is over.
+    • No more dropped calls when on 4G connection and the call lasts for a long time.
+    • Wire occasionally remembered that you had muted an earlier call and started a new call also muted. Lots of confusion! Fixed now.
+    • Numerous other call-related edge cases fixed.
+Version 1.18 (Sep 5, 2015)
+    • Added an option to delete conversation history.
+    • Improved GIF selection. Don’t like the first random GIF? Tap Giphy logo to see alternatives.
+    • Now showing people you both know when we suggest new connections.
+    • It’s easier to start a call or send a photo – search for a contact, tap their name and hit the call or send a photo icon.
+    • People sometimes use their nickname or favourite super hero name instead of their own. Check their profile to see how they appear in your address book.
+Version 1.17 (Aug 22, 2015)
+    • Sketch on photos before you send them into a chat, or improve those that have been already posted with a doodle.
+    • You can now cancel sent connection requests.
+    • SoundCloud experience is even nicer with a new player. Share a link to a track in SoundCloud to see it in action.
+    • Speed improvement – we only automatically download messages from the most recent conversations.
+    • Number of fixes and general improvements.
+Version 1.16 (Aug 12, 2015)
+    • Group calls — HD quality with virtual stereo. Tap the call icon in a group chat to start.
+    • Hallo zusammen! Wire is now available in German.
+Version 1.15 (Jul 23, 2015)
+    • New cursor makes it easier to discover features like calling and sketches.
+    • Fixed a number of crash bugs.
+Version 1.14 (Jun 23, 2015)
+    • New feature: More GIFs in your chats with Giphy. Look for the ‘GIF’ icon when you write.
+    • New feature: Vimeo video previews appear now inside the conversations. Just share the video link.
+    • We fixed several crash bugs that were affecting a small number of people.
+Version 1.13 (Jun 16, 2015)
+    • New feature: sketching – don’t bother with text, draw something with your finger instead.
+    • Autoconnect when two people both have each other’s contacts in the address book.
+    • Easier and faster to search for new contacts or to find an existing conversation.
+    • Animated gifs now take a lot less phone processing power.
+    • Tapping on conversation name occasionally didn’t open the chat. Fixed now.
+    • Connecting calls is much, much faster.
+    • Additional 25 bug fixes and improvements. Want to know what they were? Ping us on Twitter.
+Version 1.12 (May 28, 2015)
+    • New: Sign up with your phone number. It’s still possible to register with email on iPad, OS X or Wire for Web.
+    • Many-many speed improvements to app launch and chat sync.
+Version 1.11 (May 4, 2015)
+    Fixed a crash bug that occurred under very specific network conditions.
+Version 1.10 (Apr 29, 2015)
+    • New: Audio bitrate now takes the connection speed into consideration. Faster connection, better audio.
+    • New: You’ll now hear an audible signal if something is wrong with the connection during a call.
+    • Fixed: Occasionally avatar images were missing from chats.
+    • Numerous other small bug fixes.
+Version 1.9 (Apr 12, 2015)
+    Fixed issues that some people experienced with Wire on the new iOS 8.3.
+Version 1.8 (Apr 8, 2015)
+    • You can now see the full size profile picture of someone before sending them a connection request.
+    • Fixed a situation where a call you start would be muted.
+    • Fixed a number of crash bugs.
+Version 1.7 (Mar 26, 2015)
+    • Dismiss connection recommendations to discover more friends who are already using Wire.
+    • See when the other party is writing.
+    • Swipe a chat to archive it.
+    • Mute noisy group chats from the participants view.
+    • Usual array of bug fixes and improvements.
+Version 1.6 (Mar 20, 2015)
+    • New ringtones, message and ping sounds
+    • Audio improvements
+Version 1.5 (Mar 2, 2015)
+    • Added Bluetooth speaker support. Talk away while you drive.
+    • Fixed: Photos are displayed in the correct size again. This affected a number of users after the last update.
+    • Fixed: Saving preferences of sending crash logs and usage data works again.
+    • Fixed: Accepting connection requests no longer crashes Wire.
+    • Dozens of other bug fixes and improvements.
+Version 1.4 (Feb 18, 2015)
+    — Added avatars and blurred background in conversations for improved readability
+    — Added colored background images in the conversation list
+    — Improved tutorial hints
+    — 1Password support
+    — Bug fixes and improvements
+
+    Check our latest blog post for some of the thinking behind these improvements.
+Version 1.3 (Jan 11, 2015)
+    Bug fixes and general improvements
+Version 1.2 (Dec 20, 2014)
+    — Send invitations to join Wire
+    — Multiple bug fixes and performance updates
+Version 1.1 (Dec 14, 2014)
+    Bug fixes and general improvements
+Version 1.0 (Dec 3, 2014)
+Version 2.32 (Dec 3, 2014)
+    New:
+    — Confirmation screen before a call with a verified contact when they have started using a new device
+    — Pinch and zoom images in conversation view and in single image view
+    — Visual indication when inside a chat if there are new messages in other conversations
+
+    Improved:
+    — Names of the participants are now in their profile color to better see who’s said what
+    — Audio messages now play from the loudspeaker, not from earpiece. Raise the phone to the ear to listen in private.
+    — Added option to sketch and add text on pictures from single image view
+
+    Fixed:
+    — Incoming calls did not connect for some users
+    — Camera wasn’t rotated to landscape when the phone was rotated
+
+Users may also like
+Select objects to compare
+AWS Wickr
+Element Messenger
+Confide - Private messenger
+Spike: Email & Team Chat
+CareerBuilder: Job Search
+Robert Half: Job Search & More
+Dust - a safer place to text
+Proton Mail - Encrypted Email
+Private Encrypted Email Tuta
+FlexJobs - Remote Job Search
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+3 times
+on App Store category pages
+Versions
+
+    3.111.9
+    Current release
+    Mar 20, 2024
+    3.111.8
+    Mar 12, 2024
+    3.111.7
+    Jan 16, 2024
+    3.111.6
+    Jan 3, 2024
+    3.111.5
+    Dec 21, 2023
+    3.111.3
+    Dec 19, 2023
+    3.111.1
+    Nov 20, 2023
+    3.110.1
+    Aug 7, 2023
+    3.110
+    Jun 26, 2023
+    3.109.1
+    May 3, 2023
+    3.109
+    Apr 17, 2023
+    3.108
+    Dec 19, 2022
+    3.107
+    Nov 22, 2022
+    3.106
+    Oct 20, 2022
+    3.105
+    Sep 13, 2022
+    3.104
+    Aug 29, 2022
+    3.103
+    Jun 27, 2022
+    3.102
+    Jun 17, 2022
+    3.101
+    Jun 13, 2022
+    3.100
+    May 24, 2022
+    3.99
+    Apr 4, 2022
+    3.98
+    Mar 9, 2022
+    3.97
+    Feb 21, 2022
+    3.96
+    Feb 15, 2022
+    3.95
+    Feb 7, 2022
+    3.94
+    Dec 6, 2021
+    3.93
+    Nov 30, 2021
+    3.92
+    Nov 6, 2021
+    3.91
+    Oct 12, 2021
+    3.90
+    Oct 6, 2021
+    3.89
+    Oct 4, 2021
+    3.88
+    Sep 28, 2021
+    3.87
+    Aug 30, 2021
+    3.86
+    Aug 10, 2021
+    3.85
+    Jul 3, 2021
+    3.84
+    Jun 30, 2021
+    3.83
+    Jun 14, 2021
+    3.82
+    May 31, 2021
+    3.81
+    May 10, 2021
+    3.80
+    Apr 26, 2021
+    3.79
+    Apr 12, 2021
+    3.78
+    Mar 29, 2021
+    3.77
+    Mar 1, 2021
+    3.76
+    Feb 15, 2021
+    3.75
+    Feb 5, 2021
+    3.74
+    Feb 1, 2021
+    3.73
+    Jan 18, 2021
+    3.72
+    Dec 14, 2020
+    3.71
+    Nov 30, 2020
+    3.70
+    Nov 17, 2020
+    3.69
+    Nov 11, 2020
+    3.68
+    Nov 5, 2020
+    3.67
+    Oct 13, 2020
+    3.66
+    Oct 7, 2020
+    3.65
+    Sep 29, 2020
+    3.64
+    Aug 26, 2020
+    3.63
+    Jul 31, 2020
+    3.62
+    Jul 2, 2020
+    3.61
+    Jun 12, 2020
+    3.60
+    Jun 3, 2020
+    3.59
+    May 25, 2020
+    3.58
+    May 6, 2020
+    3.57
+    Apr 29, 2020
+    3.56
+    Apr 16, 2020
+    3.55
+    Apr 6, 2020
+    3.54
+    Mar 11, 2020
+    3.53
+    Mar 3, 2020
+    3.52
+    Feb 19, 2020
+    3.51
+    Feb 11, 2020
+    3.50
+    Jan 16, 2020
+    3.49
+    Jan 6, 2020
+    3.48
+    Dec 11, 2019
+    3.47
+    Nov 25, 2019
+    3.46
+    Nov 15, 2019
+    3.45
+    Oct 16, 2019
+    3.44
+    Sep 20, 2019
+    3.43
+    Aug 28, 2019
+    3.42
+    Aug 22, 2019
+    3.41
+    Aug 14, 2019
+    3.40
+    Jul 31, 2019
+    3.39
+    Jul 24, 2019
+    3.38
+    Jun 20, 2019
+    3.37
+    Jun 12, 2019
+    3.36
+    May 27, 2019
+    3.35
+    May 9, 2019
+    3.34
+    May 6, 2019
+    3.31
+    Apr 1, 2019
+    3.30
+    Mar 14, 2019
+    3.29
+    Mar 7, 2019
+    3.28
+    Feb 28, 2019
+    3.27
+    Feb 18, 2019
+    3.26
+    Feb 1, 2019
+    3.25
+    Dec 19, 2018
+    3.24
+    Nov 22, 2018
+    3.23
+    Nov 1, 2018
+    3.22
+    Oct 17, 2018
+    3.21
+    Oct 4, 2018
+    3.20
+    Sep 12, 2018
+    3.19
+    Aug 23, 2018
+    3.18
+    Aug 6, 2018
+    3.17
+    Jul 16, 2018
+    3.16
+    Jul 4, 2018
+    3.15
+    Jun 13, 2018
+    3.14
+    May 27, 2018
+    3.13
+    May 14, 2018
+    3.12
+    May 2, 2018
+    3.11
+    Apr 26, 2018
+    3.10
+    Apr 9, 2018
+    3.9
+    Apr 6, 2018
+    3.8
+    Mar 12, 2018
+    3.7
+    Feb 21, 2018
+    3.6
+    Jan 26, 2018
+    3.5
+    Jan 9, 2018
+    3.4
+    Dec 20, 2017
+    3.3
+    Dec 11, 2017
+    3.2
+    Nov 9, 2017
+    3.1
+    Oct 21, 2017
+    3.0
+    Oct 19, 2017
+    2.43
+    Oct 2, 2017
+    2.42
+    Sep 18, 2017
+    2.41
+    Aug 21, 2017
+    2.40
+    Jul 17, 2017
+    2.39
+    Jul 13, 2017
+    2.38
+    Jun 15, 2017
+    2.37
+    Jun 6, 2017
+    2.36
+    May 25, 2017
+    2.35
+    May 8, 2017
+    2.34
+    Apr 24, 2017
+    2.33
+    Apr 3, 2017
+    2.31
+    Mar 6, 2017
+    2.30
+    Feb 26, 2017
+    2.29
+    Feb 8, 2017
+    2.28
+    Jan 24, 2017
+    2.27
+    Jan 5, 2017
+    2.26
+    Jan 1, 2017
+    2.25
+    Dec 20, 2016
+    2.24
+    Dec 16, 2016
+    2.23
+    Nov 30, 2016
+    2.22
+    Nov 14, 2016
+    2.21
+    Nov 8, 2016
+    2.20
+    Oct 25, 2016
+    2.19
+    Oct 20, 2016
+    2.18
+    Oct 15, 2016
+    2.17
+    Oct 7, 2016
+    2.16
+    Sep 21, 2016
+    2.15
+    Sep 9, 2016
+    2.14
+    Aug 26, 2016
+    2.13
+    Aug 16, 2016
+    2.12
+    Aug 13, 2016
+    2.11
+    Jul 23, 2016
+    2.10
+    Jul 12, 2016
+    2.9
+    Jun 27, 2016
+    2.8
+    Jun 15, 2016
+    2.7
+    Jun 2, 2016
+    2.6
+    May 19, 2016
+    2.5
+    May 6, 2016
+    2.4
+    Apr 28, 2016
+    2.3
+    Apr 15, 2016
+    2.2
+    Mar 30, 2016
+    2.1
+    Mar 15, 2016
+    2.0
+    Mar 10, 2016
+    1.28
+    Feb 19, 2016
+    1.27
+    Feb 17, 2016
+    1.26
+    Jan 27, 2016
+    1.25
+    Jan 12, 2016
+    1.24
+    Dec 15, 2015
+    1.23
+    Nov 29, 2015
+    1.22
+    Nov 3, 2015
+    1.20
+    Sep 21, 2015
+    1.19
+    Sep 15, 2015
+    1.18
+    Sep 5, 2015
+    1.17
+    Aug 22, 2015
+    1.16
+    Aug 12, 2015
+    1.15
+    Jul 23, 2015
+    1.14
+    Jun 23, 2015
+    1.13
+    Jun 16, 2015
+    1.12
+    May 28, 2015
+    1.11
+    May 4, 2015
+    1.10
+    Apr 29, 2015
+    1.9
+    Apr 12, 2015
+    1.8
+    Apr 8, 2015
+    1.7
+    Mar 26, 2015
+    1.6
+    Mar 20, 2015
+    1.5
+    Mar 2, 2015
+    1.4
+    Feb 18, 2015
+    1.3
+    Jan 11, 2015
+    1.2
+    Dec 20, 2014
+    1.1
+    Dec 14, 2014
+    1.0
+    Dec 3, 2014
+    2.32
+    Dec 3, 2014
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Dec 3, 2014
+
+Worldwide Release Date
+    Dec 2, 2014
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    3.111.9
+
+Size
+    76.35 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Danish, Dutch, Estonian, Finnish, French, German, Italian, Japanese, Lithuanian, Polish, Portuguese, Russian, Simplified Chinese, Slovenian, Spanish, Traditional Chinese, Turkish, Ukrainian
+
+Seller
+    Wire Swiss GmbH
+
+Company HQ
+    Germany
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.wearezeta.zclient.ios
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 930944768
+Unified App ID: 1000600000513031
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Wire • Secure Messenger | data.ai

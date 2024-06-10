@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1644324300,1000800000172590,MindHealth CBT Thought Diary,Health and Fitness,2022-09-24,2022-09-24,57.8,5,1,0,1,4,2,1,0,0,0,0,0,0,0,month_1,1,0,292,397.0
+1644324300,1000800000172590,MindHealth CBT Thought Diary,Health and Fitness,2022-09-24,2022-09-24,57.8,5,1,0,1,6,2,0,1,0,0,0,0,0,0,month_2,1,0,322,397.0
+1644324300,1000800000172590,MindHealth CBT Thought Diary,Health and Fitness,2022-09-24,2022-09-24,57.8,5,1,0,1,3,2,0,0,1,0,0,0,0,0,month_3,1,0,352,397.0
+1644324300,1000800000172590,MindHealth CBT Thought Diary,Health and Fitness,2022-09-24,2022-09-24,57.8,5,1,0,1,7,7,0,0,0,1,0,0,0,0,month_4,1,0,382,397.0
+1644324300,1000800000172590,MindHealth CBT Thought Diary,Health and Fitness,2022-09-24,2022-09-24,57.8,5,1,0,1,3,3,0,0,0,0,1,0,0,0,month_5,1,1,412,397.0
+1644324300,1000800000172590,MindHealth CBT Thought Diary,Health and Fitness,2022-09-24,2022-09-24,57.8,5,1,0,1,9,9,0,0,0,0,0,1,0,0,month_6,1,1,442,397.0
+1644324300,1000800000172590,MindHealth CBT Thought Diary,Health and Fitness,2022-09-24,2022-09-24,57.8,5,1,0,1,6,6,0,0,0,0,0,0,1,0,month_7,1,1,472,397.0
+1644324300,1000800000172590,MindHealth CBT Thought Diary,Health and Fitness,2022-09-24,2022-09-24,57.8,5,1,0,1,5,5,0,0,0,0,0,0,0,1,month_8,1,1,502,397.0

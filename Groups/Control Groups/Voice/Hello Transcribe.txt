@@ -1,0 +1,370 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Hello Transcribe
+Ben NortierUtilities (Applications)Free
+Alerts
+
+    Ben Nortier
+
+    Hello Transcribe
+    Hello Transcribe
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Hello Transcribe
+Utilities (Applications)
+Free
+App Description
+Hello Transcribe is a private and secure speech to text transcriber that uses OpenAI Whisper and Whisper.cpp.
+
+• All processing is done on-device for 100% privacy, and it also works offline.
+• Saved results are encrypted in iCloud.
+• Transcribe voice notes (e.g. WhatsApp), podcasts, or any audio file (many formats supported).
+• Use multiple Model Configs to choose between fast or accurate transcription (even on-the-fly).
+• Dictate text or do live transcription using the microphone.
+• Transcribe MP4 video.
+• Export VTT or SRT files to add subtitles to video.
+• Supports many languages.
+* Translate audio from many languages to English.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Ratings
+Displayed Avg Ratings
+4.3
+Total Displayed Ratings
+64
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.2.7 (Dec 2, 2023)
+    3.2.7
+    - Fix crash for devices without Metal support & revert to CPU
+    - Upgrade to Whisper.cpp 1.5.1
+
+    3.2.6
+    - Add support for Cantonese for Large V3.
+    - Fix Hebrew language bug.
+
+    3.2.4
+    - Support for Whisper 1.5 with Metal and removal of CoreML. Big performance improvement over CoreML but a massive speed improvement for Medium and Large (which didn't have CoreML). On an M1 Max a 400% increase for Large. On an iPhone 14 Pro 100% increase for Medium.
+    - Support new Large-V3 model from OpenAI.
+    - Support beam search size of 0 (= Greedy).
+    - New fast abort mechanism (will abort or stop immediately where before it could take a long time when using big model).
+Version 3.2.6 (Nov 22, 2023)
+    3.2.6
+    Add support for Cantonese for Large V3.
+    Fix Hebrew language bug.
+
+    3.2.4
+    - Support for Whisper 1.5 with Metal and removal of CoreML. Big performance improvement over CoreML but a massive speed improvement for Medium and Large (which didn't have CoreML). On an M1 Max a 400% increase for Large. On an iPhone 14 Pro 100% increase for Medium.
+    - Support new Large-V3 model from OpenAI.
+    - Support beam search size of 0 (= Greedy).
+    - New fast abort mechanism (will abort or stop immediately where before it could take a long time when using big model).
+Version 3.2.5 (Nov 17, 2023)
+    3.2.5
+    - Support for Whisper 1.5 with Metal and removal of CoreML. Big performance improvement over CoreML but a massive speed improvement for Medium and Large (which didn't have CoreML). On an M1 Max a 400% increase for Large. On an iPhone 14 Pro 100% increase for Medium.
+    - Support new Large-V3 model from OpenAI.
+    - Support beam search size of 0 (= Greedy).
+    - New fast abort mechanism (will abort or stop immediately where before it could take a long time when using big model).
+Version 3.1.7 (Nov 6, 2023)
+    3.1.7
+    Transcribe video from the Photos app on iOS and macOS.
+    Fix memory leak when job finishes and doesn't release transcriber.
+Version 3.0.6 (Oct 25, 2023)
+    3.0.6
+
+    Bottom toolbar icons are better spaced apart.
+    Pro downloads will be disabled when Pro not purchased.
+
+    3.0.5
+
+    Model configs:
+
+    A model config (configuration) is a Whisper model combined with transcription and rendering options.
+
+    Previously, you could only set the Whisper model, CoreML enabled etc. in Settings. This meant that changing the settings was awkward, and you could not change them while doing a transcription.
+
+    Now, you can create multiple configs and use them for different tasks and change them while transcribing. Changing the config will restart the transcription. This means now you can:
+    • Have a "fast" default config to quickly transcribe something and change to a "accurate" config when you want a more accurate result.
+    • Tweak a config during transcription (e.g. turn translation on/off or change the audio language).
+    • Set your favourite config as the default and copy an existing config to tweak it.
+
+    Two new advanced options have been added:
+    • Per-word timestamps. *This is experimental*. Each word will have a timestamp.
+    • Beam search size. A smaller beam search is faster but will create less accurate results. Before 3.0 Hello Transcribe used the "greedy" search method, which is the same as a search size of 1.
+
+    Other:
+
+    • App will not go to sleep while a transcription is in progress. 
+Version 2.7.3 (Aug 2, 2023)
+    Transcribe MP4 video files.
+Version 2.6.12 (Jul 26, 2023)
+    Fix macOS microphone issue.
+    Add missing 3rd party library licenses.
+Version 2.6.8 (Jul 25, 2023)
+    Multiplatform support (macOS and iPadOS) using the same in-app purchase for Pro.
+    Better support for different audio formats.
+Version 2.5.4 (Jun 21, 2023)
+    Fix broken toolbars when users have Display Zoom enabled
+Version 2.5.3 (Jun 16, 2023)
+    Fixed a bug where the result would always show that the "tiny" model was used even when using other models.
+Version 2.5.2 (Jun 11, 2023)
+    VTT and SRT file export for captioning video.
+    Your device will not auto-lock while transcribing.
+    Improved progress for file transcription.
+    Improved Dictation stability.
+    Fix a Scroll Lock cutting off the bottom timestamp.
+    Fix Restore Purchase workflow.
+Version 2.4.10 (Jun 1, 2023)
+    Bugfix for the dictation "bugfix" :/ Sorry about that
+Version 2.4.5 (May 31, 2023)
+    Interim improvement for memory leak, long-running transcriptions should be more stable now. Proper fix coming asap. If you have issues you can disable CoreML.
+Version 2.4.2 (May 28, 2023)
+    - Timestamps
+    - New toolbars
+    - On-demand model loading
+    - Rewritten Whisper framework
+    - Various small improvements & bugfixes
+Version 2.3.0 (Apr 18, 2023)
+    - CoreML can be disabled for iPhones that don't have enough memory to optimise the largest CoreML models.
+    - Show minimum recommended iPhone during Pro Purchase.
+    - Added warning about loading larger CoreML models which may crash the app.
+    - Loading screen will only show after a small delay to avoid flashing.
+Version 2.2.2 (Apr 13, 2023)
+    Huge performance improvements using CoreML - users will see 3x - 7x faster transcriptions. 
+Version 2.1.0 (Mar 15, 2023)
+    • Shortcuts for dictate and transcribe from file.
+    • Once-off Pro purchase as an alternative to subscriptions.
+    • Pause, resume and clear dictation.
+    • Scroll lock - the result will automatically scroll to the latest segment.
+    • Document picker - you can now select audio document directly from the app.
+    • Remove non-speech phrases like [Applause] from the result (Pro only).
+    • Change the transcription font size, which is useful when using the app for live dictation (Pro only).
+    • Less cluttered and simplified UI.
+    • Raw audio is not saved (this lead to the app crashing when saving large transcriptions).
+Version 2.0.5 (Feb 9, 2023)
+    2.0.5: 
+    - Bugfix when installing app for first time and Info view breaks Dictation.
+
+    2.0.4:
+    - 5 more Whisper models to choose from.
+    - Saving transcriptions on your device and in iCloud.
+    - Multi-lingual support with bigger models and switchable translation to English.
+    - In-app purchase of a subscription or transcription minutes for larger models.
+Version 1.2.3 (Jan 6, 2023)
+    Bugfix for Signal Voicenotes
+Version 1.1.0 (Nov 25, 2022)
+    Support for Telegram voice notes (Ogg Opus).
+    Support for Ogg Vorbis audio.
+    Support for Ogg Opus audio.
+    Error messaging when things go wrong unexpectedly.
+    A new cancellation dialog when waiting for background transcription process to finish.
+Version 1.1.0 (Nov 25, 2022)
+    Support for Telegram voice notes (Ogg Opus).
+    Support for Ogg Vorbis audio.
+    Support for Ogg Opus audio.
+    Error messaging when things go wrong unexpectedly.
+    A new cancellation dialog when waiting for background transcription process to finish.
+Version 1.0.2 (Oct 28, 2022)
+
+Users may also like
+Select objects to compare
+Vienna Scribe
+Whisper Transcribe - Dictation
+AI Transcribe: Speech to Text
+GeePeeTee
+Kagi for Safari
+Internet Web Browser Quiche
+Whisper - Nicht tippen
+StopTheMadness Mobile
+Voice to Text & Whisper AI
+Banish - Block 'Open in App'
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.2.7
+    Current release
+    Dec 2, 2023
+    3.2.6
+    Nov 22, 2023
+    3.2.5
+    Nov 17, 2023
+    3.1.7
+    Nov 6, 2023
+    3.0.6
+    Oct 25, 2023
+    2.7.3
+    Aug 2, 2023
+    2.6.12
+    Jul 26, 2023
+    2.6.8
+    Jul 25, 2023
+    2.5.4
+    Jun 21, 2023
+    2.5.3
+    Jun 16, 2023
+    2.5.2
+    Jun 11, 2023
+    2.4.10
+    Jun 1, 2023
+    2.4.5
+    May 31, 2023
+    2.4.2
+    May 28, 2023
+    2.3.0
+    Apr 18, 2023
+    2.2.2
+    Apr 13, 2023
+    2.1.0
+    Mar 15, 2023
+    2.0.5
+    Feb 9, 2023
+    1.2.3
+    Jan 6, 2023
+    1.1.0
+    Nov 25, 2022
+    1.1.0
+    Nov 25, 2022
+    1.0.2
+    Oct 28, 2022
+
+See More
+Top In-App Purchases
+
+    Pro Purchase
+    $6.99
+    Pro Subscription
+    $1.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad
+
+Category
+    Utilities
+
+Initial Release Date
+    Oct 28, 2022
+
+Worldwide Release Date
+    Oct 28, 2022
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    3.2.7
+
+Size
+    115.69 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Ben Nortier
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.bjnortier.hello
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6443919768
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Hello Transcribe | data.ai

@@ -1,0 +1,39 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,8.0.0,2021-07-09,iOS14 is now supported.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,7.0.3,2020-01-28,Fixed a bug that caused the app to crash when loading videos. Fixed a bug that allowed the transition period to be longer than the video length.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,7.0.2,2020-01-21,Minor bug fixes.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,7.0.1,2020-01-08,Minor bug fixes.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,7.0.0,2019-12-19,UI design was renewed.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,6.3.1,2019-12-08,When selecting an image the end position could not be selected up to 3 seconds but it was extended to 300 seconds.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,6.3.0,2019-11-20,The aspect ratio can be changed. The aspect ratio can be selected from 2: 1 16: 9 4: 3 and 1: 1.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,6.2.1,2019-11-09,Bug fix that can not select video from file on iPad.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,6.2.0,2019-11-08,The volume selection range has been expanded to 0 300 .,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,6.1.0,2019-10-31,Fixed a bug that the resolution is lowered when saving the edited video.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,6.0.0,2019-10-24,You can add images as well as videos.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,5.2.0,2019-10-11,Added File to video selection. You can select image files from various cloud services. Added Camera to video selection. Dark mode Light mode is fixed but ...,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,5.1.0,2019-09-30,Fixed a bug where thumbnails of additional videos were not displayed.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,5.0.3,2019-09-27,Added support for iOS13.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,5.0.2,2019-09-03,Improved internal application.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,5.0.1,2019-02-27,Minor UI adjustment.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,5.0.0,2017-03-17,Provide reverse play mode of video.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,4.1.2,2017-01-27,Minor bugfixes.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,4.1.1,2016-12-13,Minor bugfixes.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,4.1.0,2016-12-01,Improvement in screen design. Playback speed up to 10 times.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,4.0.1,2016-04-21,hot fix,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,4.0.0,2016-03-22,for iOS9.2,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,3.0.5,2015-06-25,bugfix,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,3.0.4,2015-05-05,bugfix,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,3.0.3,2015-03-27,bugfix,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,3.0.2,2015-03-07,bugfix,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,3.0.1,2015-01-12,bug fixes,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,3.0.0,2014-10-10,only supports iOS8 and later versions. and bugs fix.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,2.2.3,2014-10-05,bugs fix.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,2.2.2,2014-09-27,supported iOS8,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,2.2.1,2014-09-15,Supported the email message and facebook.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,2.2.0,2014-07-16,Improvement of UI bugfix,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,2.1.0,2014-05-10,Support iPad iOS7.1 or later,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,2.0.3,2014-04-02,bugfix,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,2.0.2,2014-03-27,bugfix,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,2.0.1,2013-10-14,bugfix,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,2.0.0,2013-10-03,for iOS7.,0,0,0,0,0,0,0,0
+684219528,0,MyEditor Easy Video Editor!,Photo and Video,2013-08-24,2013-08-24,66.65,2,0,0,0,1.0.0,2013-08-23,,0,0,0,0,0,0,0,0

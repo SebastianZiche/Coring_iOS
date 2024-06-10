@@ -1,0 +1,23 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.80,2022-12-04,1 Fix ui display error 2 Update UI components,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.79,2022-09-02,1 Fix some crash problem 2 Update image display componet,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.78,2022-07-18,1 Update UI Components 2 Add new support for wireless microphone,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.77,2022-03-08,1 Fix UI interface 2 Fix bugs when two phone connect with karaoke speaker.,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.76,2022-02-22,1 Fix playing speaker bugs 2 Add support for new speaker firmware,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.75,2021-10-13,1 Fix playing list bug 2 Change some interface about reserve song,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.74,2021-09-28,1 Update UI components for iOS15 2 Hide Status Bar when playing karaoke songs,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.73,2021-09-22,1 Playing List function changed 2 Fix score bug,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.72,2021-08-20,1 Fix search bar issue 2 Fix karaoke image show issue,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.71,2021-07-22,1 Fix background image when in karaoke mode 2 Fix interlude show problem,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.70,2021-07-08,1 Fix issue about bluetooth 2 update some interface,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.69,2021-06-24,1 Fix song catalog transfer bug 2 Adjust some UI interface,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.68,2021-06-10,1 Fix ui interface for ipad 2 Adjust UI for potrait,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.66,2021-05-08,1 fix ui bug for iPhone 2 fix volume key tempo for each song,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.63,2021-04-28,1 Fix ui interface for iPhone 2 Update midi library,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.6.1,2021-04-25,1 Fix some ui interface for iPad 2 Fix some song play bug,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.6,2021-04-22,1 New UI design 2 App works with Persang bluetooth karaoke speaker,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.20,2019-05-31,1 Fix youtube search bug 2 Add new support for new MS20 machine.,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.19,2019-03-22,Fix some bugs,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.18,2019-01-31,1 Fix some bugs 2 Add support for new product of bluetooth and wifi dual mode microphone.,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.17,2018-11-19,1 Local midi song is just for test cannot be added to favorite 2 Screen won t lock when playing song 3 Fix some bugs,0,0,0,0,0,0,0,0
+1440685843,0,WalKaraoke,Entertainment,2018-11-09,2018-11-08,94.66,1,0,0,0,1.16,2018-11-08,,0,0,0,0,0,0,0,0

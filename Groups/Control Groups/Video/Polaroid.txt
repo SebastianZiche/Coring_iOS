@@ -1,0 +1,529 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Polaroid
+Polaroid OriginalsPhoto and Video (Applications)Free
+Alerts
+
+Polaroid Originals
+Polaroid
+Polaroid
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Polaroid
+Get inspired in an instant
+Photo and Video (Applications)
+Free
+iPhone Only
+App Description
+Unlock the full creative power of Polaroid — the film, the camera and the community.
+
+GET INSPIRED
+Join photography challenges and capture beautiful imperfection to win prizes and expand your knowledge with Polaroid cameras and photography.
+
+CONNECT YOUR CAMERA
+Link your Now+, OneStep+ or I-2 to unlock additional features like:
+- Portrait Mode
+- Double Exposure
+- Self Timer
+- Aperture Priority
+- Tripod Mode
+- Light Painting
+- Manual Mode
+- Noise Trigger
+
+HIGH-RES POLAROID SCANNER
+Use our in-built scanner to scan, store and share high quality digital copies of your Polaroid pictures. Works for i-Type, 600, SX-70, and Spectra film.
+
+PRINT POLAROID PICTURES
+Load photos from your phone into the Polaroid app and place it on top of the Lab and your favorite memories will be printed as beautifully imperfect Polaroid pictures. Or create grids and collages of two, three, four, six or nine frames to share with others.
+
+CURATE YOUR GALLERY
+Once scanned, create your own digital scrapbook of your favorite memories.
+Ratings
+Displayed Avg Ratings
+4.86
+Total Displayed Ratings
+31.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.10 (Feb 1, 2024)
+    Bugfixes and UX improvements
+Version 1.5.9 (Jan 4, 2024)
+    Join us in celebrating the imperfectness of the holidays and win prizes.
+Version 1.5.8 (Dec 21, 2023)
+    Join us in celebrating the imperfectness of the holidays and win prizes.
+Version 1.5.7 (Dec 18, 2023)
+    Join us in celebrating the imperfectness of the holidays and win prizes.
+Version 1.5.6 (Nov 24, 2023)
+    Bugfixes and UX improvements
+Version 1.5.5 (Nov 16, 2023)
+    Community Submissions are here! Join us in celebrating the beauty of instant portraits and win Polaroid film. (Available in the United States and mainland Europe)
+Version 1.5.4 (Nov 6, 2023)
+    Bug fixes and UX improvements
+Version 1.5.3 (Oct 25, 2023)
+    - iPhone 15 and iPhone 15 Pro support to expose photos with your Polaroid Lab!
+    - In this version we improved the look and feel of the I-2 section, and improved app stability during long BULB exposures.
+    - Important Compatibility Update: Starting with this version, our app will no longer run on iOS 14. Please update your phone to the latest iOS versions.
+
+    We would like to extend our heartfelt thanks for your patience and support as we continue to improve the app.
+Version 1.5.2 (Oct 2, 2023)
+    - Firmware update for your I-2 camera: Update firmware to ensure the best performance of your camera.
+    - You can now see the aperture and shutter speed values during long and bulb exposures with your I-2 camera.
+    - The "Volume buttons" setting is now disabled by default to avoid any accidental shots with your I-2 and Now+ cameras. You can turn this on in the Settings menu.
+    - Bugfixes and UX improvements
+Version 1.5.1 (Sep 13, 2023)
+    This version adds support for the Polaroid I-2.
+
+    Designed for craft, it's our first analog instant camera with built-in manual controls, and comes with the sharpest-ever Polaroid lens. Made for the Imperfectionists.
+Version 1.5.0 (Sep 7, 2023)
+    This version adds support for the Polaroid I-2. 
+    Designed for craft, it's our first analog instant camera with built-in manual controls, and comes with the sharpest-ever Polaroid lens. Made for the Imperfectionists.
+Version 1.4.29 (Jul 17, 2023)
+    What’s new in this version:
+
+    • We have added a convenient way that allows you to share scanned photos as Instagram stories. Please note this feature will roll out over the coming weeks.
+    • We have fixed the reported localization issues.
+
+    Thank you for using our app!
+Version 1.4.28 (Jun 28, 2023)
+    Capture and share memories like never before with the latest version of the Polaroid app. In this release:
+
+    • We have improved the sharing editor: Enhance and share your Polaroid photos effortlessly with our improved editing tools. Tap on the share button on a scanned Polaroid photo to get started.
+    • We fixed a crash that happened when you tried to navigate to the Light Painting mode of the Now+ camera from the main screen.
+    • We fixed a bug where after editing a scanned Polaroid photo, the next photo was not always displayed.
+
+    Stay tuned for more exciting updates!
+Version 1.4.27 (Jun 6, 2023)
+    Express your creativity and share your photos in a truly memorable way with our latest update!
+
+    Using our new stunning edit options, with just a few taps, you can now give your photos an artistic touch and make your memories even more vibrant. You can access this feature by tapping on the share button while viewing a scanned photo.
+
+    Update today and bring your shared Polaroid photos to life!
+Version 1.4.26 (May 12, 2023)
+    - Share your scanned Polaroid photos with friends and family in a new format when you tap on the share button
+    - Improved app start time for a faster and smoother user experience
+    - Updated privacy policy
+
+    We appreciate your feedback and will continue to make updates to improve your experience with our app. Thank you for using our app!
+Version 1.4.25 (Apr 5, 2023)
+    Polaroid Lab now supports Reclaimed Edition Film
+Version 1.4.24 (Mar 30, 2023)
+    Updated privacy policy
+Version 1.4.23 (Oct 12, 2022)
+    Bug fixes
+    General maintenance
+Version 1.4.22 (Oct 6, 2022)
+    • Adding support for iPhone 14 series
+    • Minor bug fixes
+
+Version 1.4.21 (Feb 21, 2022)
+    Minor bug fixes
+    Improved stage screen
+    New help tips for NOW+
+    Changes in legal text
+Version 1.4.20 (Jan 6, 2022)
+    • New Instant shooting tips section
+
+    • Improved stability
+
+    • Minor bug fixes
+
+Version 1.4.19 (Oct 29, 2021)
+    • Improved stability and minor bugfixes
+    • Shortcuts for last used modes on NOW+
+Version 1.4.18 (Oct 11, 2021)
+    General maintenance and improved stability.
+Version 1.4.17 (Oct 1, 2021)
+    What’s new in this version:
+    • Support for the new iPhone 13.
+    • Added option of selecting Round Frame in Polaroid Lab.
+    • Navigation improvements and other bug fixes.
+Version 1.4.16 (Sep 14, 2021)
+    This update includes a complete redesign of the home screen, making your cameras, scanner, and Polaroid Lab easier to access. We also added in extra creative tools for the new Polaroid Now+ camera.
+Version 1.4.14 (Aug 31, 2021)
+    This update includes a complete redesign of the home screen, making your cameras, scanner, and Polaroid Lab easier to access. We also added in extra creative tools for the new Polaroid Now+ camera.
+Version 1.4.12 (Mar 29, 2021)
+    Thank you for using the Polaroid Originals app. We continuously improve our app and fix bugs. In this release, among other things, we extended compatibility to iOS 12.
+Version 1.4.11 (Dec 16, 2020)
+    New in this update:
+    - Under the hood improvements that improve stability of the app when viewing AR photos
+Version 1.4.10 (Nov 30, 2020)
+    New in this update:
+    - Dark mode has arrived: the app will follow the settings from your phone and switch to a dark background. Your eyes will get some relief in dark mode.
+    - Duochrome film selection is now available for Polaroid Lab.
+    - We optimized the color quality for prints on the Polaroid Lab
+Version 1.4.9 (Oct 27, 2020)
+    This update contains an important update for Polaroid Lab:
+
+    - Compatibility for new phones on the Polaroid Lab for photo exposures
+Version 1.4.8 (Aug 28, 2020)
+    - Bug fixes and improvements.
+Version 1.4.7 (Aug 21, 2020)
+    - A new inspiration screen has been added showing tips, tricks and useful information about our cameras and film. We will update this section frequently.
+    - Major improvements to how large images are processed when exposing on the lab, making the process much faster.
+    - Improvements to black and white exposures; allowing for more mid-tones when exposing onto black and white film.
+Version 1.4.6 (Jun 8, 2020)
+    - Share your collages created for Polaroid with your friends and family.
+    - Major improvements to the quality of collages on Polaroid Lab.
+    - Improved speed of navigating trough different collages.
+    - Preview your AR media in the Lab gallery by pressing on an AR photo.
+Version 1.4.5 (May 27, 2020)
+    This release contains a minor fix for storing the Polaroid Lab manually adjusted exposure settings after closing the app.
+Version 1.4.3 (Apr 28, 2020)
+    What's new in this update:
+    - The Polaroid Lab now works with the new iPhone SE
+
+    We are constantly working on improving the app, please let us know about your experience!
+    Stay safe and healthy!
+Version 1.4.2 (Apr 1, 2020)
+    The Polaroid Originals app is now part of the unified Polaroid brand!
+
+    In this update:
+    - new design elements reflecting the new Polaroid brand
+    - optimization of colour quality of photos on the Polaroid Lab for iPhone LCD screens
+    - improvements to the barcode for better AR scanning results
+    - under the hood fixes for bugs and crashes
+Version 1.4.1 (Mar 27, 2020)
+    The Polaroid Originals app is now part of the unified Polaroid brand!
+
+    In this update:
+    - new design elements reflecting the new Polaroid brand
+    - optimization of colour quality of photos on the Polaroid Lab for iPhone LCD screens
+    - improvements to the barcode for better AR scanning results
+    - under the hood fixes for bugs and crashes
+Version 1.4 (Mar 26, 2020)
+    The Polaroid Originals app has come becoming part of the unified Polaroid brand!
+
+    In this update:
+    - new design elements reflecting the new Polaroid brand
+    - optimization of colour quality of photos on the Polaroid Lab for iPhone LCD screens
+    - improvements to the barcode for better AR scanning results
+    - under the hood fixes for bugs and crashes
+Version 1.3.4 (Feb 27, 2020)
+    In this update we bring you some fixes to improve the Polaroid Originals app experience:
+    - improved quality for scanning Polaroid photos
+    - improved error handling when viewing AR photos
+    - smoother content loading in the Inspiration section
+    - a few app crashes were fixed for better app stability
+Version 1.3.3 (Jan 27, 2020)
+    New improvements in this update:
+    - Making a scan of coloured and patterned Polaroid frames with the Scanner is now much better!
+    - We improved the quality of photos printed on the Polaroid app for iPhones with OLED screens
+    - The alignment of photo's printed of the Lab is more accurate
+    - We optimised the performance and app stability of the app with Polaroid Lab
+
+    More improvements are on the way. Keep sharing meaningful memories on your Polaroid pictures! 
+Version 1.3.2 (Dec 16, 2019)
+    • We added additional languages in the Polaroid Originals app: Italian, German and Spanish.
+    • Fixed several issues when exposing photo's on the Polaroid Lab for increased performance and incorrect exposures.
+Version 1.3.1 (Oct 28, 2019)
+    In this version we optimized the Polaroid Lab features:
+    - several crashes were fixed
+    - improved performance for AR upload and recognition
+    - scaling of video has been optimized
+Version 1.3 (Oct 9, 2019)
+    Transform your digital photos into real Polaroid pictures using the Polaroid Originals app.
+
+    • Turn a digital photo on your phone into a single Polaroid picture on the Polaroid Lab.
+    • Create a collage of two, three, four, six, or nine frames.
+
+    For iPhones that support AR:
+    • Embed a video or second image into your Polaroid picture using our AR feature
+    • View your AR photos to watch your memories (or your friend’s) come to life
+Version 1.2.3 (May 21, 2019)
+    New in the Polaroid Originals app:
+    • Fixed an issue where the address field was hidden when sending feedback or sharing a scanned Polaroid.
+    • Scanning for colored polaroid frames has been optimized.
+
+    Please let us know if you have any feedback on how to improve your app experience!
+Version 1.2.2 (May 7, 2019)
+    New in the Polaroid Originals app:
+    • Fixed an issue where the address field was hidden when sending feedback or sharing a scanned Polaroid.
+    • Scanning for colored polaroid frames has been optimized.
+
+    Please let us know if you have any feedback on how to improve your app experience!
+Version 1.2.1 (Mar 5, 2019)
+    New in the Polaroid Originals app:
+    • Portrait Mode is a completely new mode for the OneStep+ to shoot beautiful portraits.
+    • The My Photos section has a new overview and improved edit features.
+    • Support of the latest OneStep+ model
+    • Further bugfixes and stability improvements
+Version 1.2 (Feb 28, 2019)
+    New in the Polaroid Originals app:
+    • Portrait Mode is a completely new mode for the OneStep+ to shoot beautiful portraits.
+    • The My Photos section has a new overview and improved edit features.
+    • Support of the latest OneStep+ model
+    • Further bugfixes and stability improvements
+Version 1.1 (Dec 18, 2018)
+    What's new in the Polaroid Originals app:
+    • The volume buttons of your phone now work as a remote shutter button for the OneStep+ camera.
+    • You can now turn off the flash in all camera modes.
+    • The scanner supports Spectra format.
+    • Share your scanned photos directly in My Photos.
+    • Camera connections are now more reliable and stable.
+    • Further bugfixes and stability improvements
+Version 1.0.1 (Sep 17, 2018)
+    We continually improve the Polaroid Originals app. Keep your updates turned on, so you never miss a new feature!
+    This version contains stability improvements and performance optimizations.
+Version 1.0 (Aug 29, 2018)
+
+Users may also like
+Select objects to compare
+VNTG: Vintage Photo Editor
+Instants - Photo Edition
+InstaRoid
+Pixo: Instant Photo Camera
+Photo Frame, Collage: Framic
+DAZE CAM
+Vintage Photo Effects - 1991
+INSTAX UP!
+FOMO Cam - Vintage Film Camera
+Kada Cam - Vintage Camera
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+2 times
+on App Store category pages
+Versions
+
+    1.5.10
+    Current release
+    Feb 1, 2024
+    1.5.9
+    Jan 4, 2024
+    1.5.8
+    Dec 21, 2023
+    1.5.7
+    Dec 18, 2023
+    1.5.6
+    Nov 24, 2023
+    1.5.5
+    Nov 16, 2023
+    1.5.4
+    Nov 6, 2023
+    1.5.3
+    Oct 25, 2023
+    1.5.2
+    Oct 2, 2023
+    1.5.1
+    Sep 13, 2023
+    1.5.0
+    Sep 7, 2023
+    1.4.29
+    Jul 17, 2023
+    1.4.28
+    Jun 28, 2023
+    1.4.27
+    Jun 6, 2023
+    1.4.26
+    May 12, 2023
+    1.4.25
+    Apr 5, 2023
+    1.4.24
+    Mar 30, 2023
+    1.4.23
+    Oct 12, 2022
+    1.4.22
+    Oct 6, 2022
+    1.4.21
+    Feb 21, 2022
+    1.4.20
+    Jan 6, 2022
+    1.4.19
+    Oct 29, 2021
+    1.4.18
+    Oct 11, 2021
+    1.4.17
+    Oct 1, 2021
+    1.4.16
+    Sep 14, 2021
+    1.4.14
+    Aug 31, 2021
+    1.4.12
+    Mar 29, 2021
+    1.4.11
+    Dec 16, 2020
+    1.4.10
+    Nov 30, 2020
+    1.4.9
+    Oct 27, 2020
+    1.4.8
+    Aug 28, 2020
+    1.4.7
+    Aug 21, 2020
+    1.4.6
+    Jun 8, 2020
+    1.4.5
+    May 27, 2020
+    1.4.3
+    Apr 28, 2020
+    1.4.2
+    Apr 1, 2020
+    1.4.1
+    Mar 27, 2020
+    1.4
+    Mar 26, 2020
+    1.3.4
+    Feb 27, 2020
+    1.3.3
+    Jan 27, 2020
+    1.3.2
+    Dec 16, 2019
+    1.3.1
+    Oct 28, 2019
+    1.3
+    Oct 9, 2019
+    1.2.3
+    May 21, 2019
+    1.2.2
+    May 7, 2019
+    1.2.1
+    Mar 5, 2019
+    1.2
+    Feb 28, 2019
+    1.1
+    Dec 18, 2018
+    1.0.1
+    Sep 17, 2018
+    1.0
+    Aug 29, 2018
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Aug 29, 2018
+
+Worldwide Release Date
+    Aug 22, 2018
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    1.5.10
+
+Size
+    195.13 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Italian, Japanese, Korean, Simplified Chinese, Spanish
+
+Seller
+    Polaroid International B.V.
+
+Company HQ
+    Netherlands
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.polaroidoriginals.po1
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1421833880
+Unified App ID: 1000600000669854
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Polaroid | data.ai

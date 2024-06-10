@@ -1,0 +1,359 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Grinta Karaoke PRO
+M-LiveMusic (Applications)$9.99
+Alerts
+
+    M-Live
+
+    Grinta Karaoke PRO
+    Grinta Karaoke PRO
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Grinta Karaoke PRO
+Music (Applications)
+$9.99
+iPad Only
+App Description
+M-Live has created an app that turns your iPad into a complete karaoke station, capable of playing MIDI* (by connecting an iPad compatible external sound module) files with text, MP3 with text, and the popular format MP3+G, with realtime transpose and time shifting function.
+With Grinta Karaoke PRO your iPad becomes a constant companion for both professional performances and pleasant moments of leisure with family and friends.
+
+Grinta Karaoke has a digital store built right into the app: SongService.it, which offers you immediate access to thousands backing tracks in both MIDI and MP3 formats with karaoke lyrics.
+
+Grinta Karaoke PRO has 5 main sections:
+
+• KARAOKE - Follow the text of the song that is playing, shown in full screen and highlighted in time with the music.
+
+• LIBRARY - View the list of imported songs and create custom playlists.
+
+• EDITING - Edit and fine tune all the parameters of each track of the MIDI files (Instrument, Velocity, Transpose, Reverb, Chorus, and more).
+
+• MIXER - Set the levels of the tracks of the MIDI files in real-time, remixing your favorite songs to your liking.
+
+• CHORDS - Show the chords of the song in 4 different modes: Piano, Guitar, Text and Live Keys.
+
+Each section can be switched to full screen or half screen, thus leaving space for the text of the song you are playing.
+
+And the backing tracks?
+
+You can import from your personal library all the backing tracks you want, Grinta Karaoke PRO is able to play MIDI, MP3 and MP3+G files from your computer. So if you have an archive of backing tracks resident on your computer you can sync Grinta Karaoke PRO via iTunes and the entire repertoire will be transferred from the computer to your iPad.
+
+*NOTE: To play MIDI files, iPad must be connected to an iPad compatible external sound module via the Camera Connection Kit and a USB cable. MP3 and MP3+G files can be both played directly from iPad or using a compatible external sound module.
+
+--- In-App Purchase ---
+Subscriptions are the best way of reaching the Song Service catalog of backing tracks. For the duration of the subscription, it is possible to download an unlimited number of songs as backing tracks in both MIDI and MP3 formats.
+Non-renewable
+• 1 Month Subscription 74.99$
+• 3 Months Subscription 149.99$
+• 6 Months Subscription 299.99$
+• 1 Year Subscription 499.99$
+
+http://grinta-app.com/mlive_store/SS_Privacy_en.html
+http://grinta-app.com/mlive_store/SS_TermsOfUse_en.html
+Ratings
+Displayed Avg Ratings
+2.13
+Total Displayed Ratings
+45
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.4.4 (Nov 6, 2023)
+    Fixed an issue with playlist, artist and genre lists
+Version 3.4.2 (Dec 14, 2019)
+Version 3.4.1 (Jan 21, 2019)
+Version 3.4 (Oct 9, 2018)
+Version 3.3 (Aug 8, 2018)
+Version 3.2 (Dec 11, 2017)
+Version 2.8 (Feb 27, 2017)
+    - Improved search
+    - Fixed issue with TV output
+    - Improved compatibility with some MIDI and MP3 files
+Version 2.7 (Nov 11, 2015)
+    - Compatibility with iOs9
+    - Minor bug fixes
+Version 2.6 (May 5, 2015)
+    - 64bit support
+    - Fixed some bugs
+Version 2.5 (Jan 30, 2014)
+    - Improved stability
+    - Fixed minor issues with mp3 files
+Version 2.4 (Dec 20, 2013)
+    - fixed some issues with iOs7
+Version 2.3 (Oct 5, 2013)
+    - fixed some issues with iOs7
+
+    - added the ability to rename the playlists
+Version 2.2 (Aug 7, 2013)
+    Grinta Karaoke is now optimized for the latest iPad retina display.
+
+    Also in the 2.2 version:
+    - you can now double-tap a song name in Library to play it (you can active this behavior in Settings)
+    - fixed some issues with the lyrics in CDG format and MP3s
+Version 2.1 (Mar 15, 2013)
+    Now you can download your favorite backing tracks right within Grinta Karaoke!
+
+    Just tap the "Store" button and you'll get access to a vast catalog of Karaoke backing tracks in both MIDI and MP3 formats available for purchase individually or by choosing one of our convenient subscriptions.
+
+    Also in the 2.1 update:
+
+    - You can now change key and BPM with MP3 files and save those edits in the song
+
+    - Improved MIDI files compatibility
+
+    - Fixed some issues with the lyrics on the video-TV out
+Version 2.0 (Nov 5, 2012)
+    Now you can download your favorite backing tracks right within Grinta Karaoke!
+    Just tap the "Store" button and you'll get access to a vast catalog of Karaoke backing tracks in both MIDI and MP3 formats available for purchase individually or by choosing one of our convenient subscriptions.
+    Also in the 2.0 version:
+    - all the pictures of guitar chords are now available
+    - added the ability to use the iPadcomposite TV-out (in Options> Advanced settings)
+    - added the ability to export a CSV file containing all the information of the songs in the Library so that you can edit them (in Options> Advanced settings)
+Version 1.1.0 (May 7, 2012)
+    - added support for MIDI In
+
+    - added the possibility to select both MIDI In and Out devices from within Options
+
+    - added support for ID3 tags (containing Unicode characters) and ID3v1
+
+    - added the possibility to restore song details in Library
+
+    - added compatibility with lyrics in Solton format
+
+    - fixed an issue with the visualization of the lyrics on an external display (via Expander by M-Live)
+
+    - fixed an issue with the transpose of chords
+
+    - fixed an issue with the visualization of beats in 2/4
+Version 1.0.3 (Feb 2, 2012)
+    - fixed some issues when importing files
+    - fixed some issues with MP3+G files
+    - minor bugs fixes
+    - internal user guide updated
+Version 1.0.2 (Jan 5, 2012)
+    - fixed some issues with MP3 files
+
+    - added chords for M-Live MIDI files with Lyrics encoding
+Version 1.0.1 (Dec 20, 2011)
+    - fixed a synchronization issue with some types of MP3 files
+    - minor bug fixes
+Version 1.0 (Dec 9, 2011)
+
+Users may also like
+Select objects to compare
+Winlive Pro Karaoke Mobile
+Winlive Gold
+Winlive Synth Mobile
+Xjam Editor
+JAX MIDI ModulePlayer
+Learn how to play Guitar PRO
+Hohner Melodeon Pro
+Read Music PRO
+BBFF:BeatBuddy Friends Forever
+iMIDIPatchbay
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.4.4
+    Current release
+    Nov 6, 2023
+    3.4.2
+    Dec 14, 2019
+    3.4.1
+    Jan 21, 2019
+    3.4
+    Oct 9, 2018
+    3.3
+    Aug 8, 2018
+    3.2
+    Dec 11, 2017
+    2.8
+    Feb 27, 2017
+    2.7
+    Nov 11, 2015
+    2.6
+    May 5, 2015
+    2.5
+    Jan 30, 2014
+    2.4
+    Dec 20, 2013
+    2.3
+    Oct 5, 2013
+    2.2
+    Aug 7, 2013
+    2.1
+    Mar 15, 2013
+    2.0
+    Nov 5, 2012
+    1.1.0
+    May 7, 2012
+    1.0.3
+    Feb 2, 2012
+    1.0.2
+    Jan 5, 2012
+    1.0.1
+    Dec 20, 2011
+    1.0
+    Dec 9, 2011
+
+See More
+Top In-App Purchases
+
+    1 Year Subscription
+    $499.99
+    6 Months Subscription
+    $299.99
+    3 Months Subscription
+    $159.99
+    1 Month Subscription
+    $74.99
+    One Day Subscription
+    $22.99
+    Happy (From Despicable Me 2) - Pharrell Williams MIDI
+    $0.99
+    Jubel - Klingande MIDI
+    $0.99
+    Suffragette City - David Bowie MIDI
+    $0.99
+    Run Like Hell - Pink Floyd MIDI
+    $0.99
+    Hey Brother - Avicii MP3
+    $0.99
+
+About
+
+Required Devices
+    iPad
+
+Category
+    Music
+
+Initial Release Date
+    Dec 9, 2011
+
+Worldwide Release Date
+    Dec 9, 2011
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    3.4.4
+
+Size
+    19.82 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Inglés, Italiano
+
+Seller
+    M-Live s.r.l
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 12.0 o posterior. Compatible con iPad.
+
+Bundle ID
+    com.mlive.iSing
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 449833606
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Grinta Karaoke PRO | data.ai

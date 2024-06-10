@@ -1,0 +1,562 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Notes+ : Note-taking app
+Beijing CalculatorProductivity (Applications)Free
+Alerts
+
+    Notes+ : Note-taking app
+    Notes+ : Note-taking app
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Notes+ : Note-taking app
+笔记软件 & 笔记app & Note
+Productivity (Applications)
+Free
+App Description
+The most useful note-taking App with Apple Pencil on the iPad
+
+
+
+Quality 1：Basic features are permanently free
+
+
+
+Quality 2：Import files from Windows/Mac quickly
+
+
+
+Quality 3：Convert webpage to PDF and import
+
+
+
+Quality 4：Create extra large notes with all the space you could want
+
+
+
+Quality 5：The margin can be expanded on both the left and the right
+
+
+
+Quality 6：Dotted Line, Wavy Line, Double Line
+
+
+
+Quality 7：Revealer Pen, Cover Tool to aid in memory use
+
+
+
+Quality 8：Screenshot Pen, Vanish Pen, Laser Pen
+
+
+
+Quality 9：Add class videos, large screen PiP
+
+
+
+Quality 10：Drafts, Calculator, Clock, Timer
+
+
+
+Quality 11：Reset pages to page 1, easy to jump between pages, grid view to more easily locate the pages you need
+
+
+
+Quality 12：Associated reference link and files
+
+
+
+Quality 13：Dual Pages, two pages reading, full screen reading
+
+
+
+Quality 14：Eye protection mode
+
+
+
+Quality 15：Can add password protection
+
+
+
+Quality 16：32 available colors
+
+
+
+Quality 17：iPhone real-time photo transfer to documents
+
+
+
+Quality 18：Save documents on iPad and iCloud
+
+
+
+Quality 19：Two levels of folders, both sufficient and practical
+
+
+Quality 20：Super quick, simple and less than 35M in size
+Ratings
+Displayed Avg Ratings
+4.58
+Total Displayed Ratings
+13.6k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.6.0 (Feb 17, 2024)
+    1，新增垂直方向的逐页翻页，逐页下书写会更流畅
+    2，增加了正计时
+    3，页面跳转优化，定位更准确
+    4，去掉了拍照后的正方形框，拍照不会被裁剪了
+    5，截图笔截图后，用笔长按也可以拖动并添加到页面上
+    6，修复了一些其他bug
+Version 3.5.1 (Jan 31, 2024)
+    修复了老版本升级到3.4.0版本或3.5.0版本出现的图片丢失问题。
+Version 3.5.0 (Jan 30, 2024)
+    1，增加备份恢复功能，可将笔记恢复到历史版本
+    2，支持键盘快捷键
+    3，支持用手也可以创建文本框，选择文本框笔，用手点击即可
+    4，资料库增加英语专四专八真题
+    5，演示笔、消失笔，新提供多种颜色
+    6，修复了消失笔连续写卡顿的问题
+Version 3.4.0 (Jan 22, 2024)
+    新增：笔记层功能（有三个层级，每个层级可以独立进行标注和编辑，可以将2个层级对比查看）
+Version 3.3.0 (Jan 15, 2024)
+    1，模板和封面支持自定义了
+    2，超大笔记导出优化，只会导出有笔记的部分
+    3，增加了2017、2018年的英语四六级资料
+Version 3.2.1 (Jan 5, 2024)
+    对超链接功能进行了优化
+Version 3.1.2 (Jan 2, 2024)
+    对部分细节进行了优化
+Version 3.1.1 (Jan 1, 2024)
+    新增了超链接功能
+Version 3.1.0 (Dec 27, 2023)
+    1. 支持对文档进行批量操作
+    2. 支持仅导出原文档
+    3. 支持选择导出文档的质量
+    4. iPad竖屏时使用关联文档、打开双份文档为上下分屏状态
+    5. 优化了文本框导出的清晰度
+Version 3.0.1 (Dec 21, 2023)
+    对细节做了些优化
+Version 2.9.4 (Dec 8, 2023)
+    优化了文本框中的自动换行和偏移等问题
+Version 2.9.3 (Dec 6, 2023)
+    对细节做了些优化
+Version 2.9.2 (Dec 4, 2023)
+    优化了百度网盘导入时下载中断的问题
+Version 2.9.1 (Nov 29, 2023)
+    新增横向模版
+    新增一些封面
+    已支持收起超大笔记小地图
+Version 2.8.9 (Nov 20, 2023)
+    更稳定了一些。
+Version 2.8.8 (Nov 16, 2023)
+    对稳定性增加了一些优化
+Version 2.8.7 (Nov 15, 2023)
+    更稳定了一些。
+Version 2.8.5 (Nov 6, 2023)
+    对用户体验进行了优化
+Version 2.8.4 (Nov 1, 2023)
+    修复了一些bug:
+    1. 打开左扩展，笔记偏移的问题
+    2. 升级后，更改页面模板，笔记数据丢失的问题
+    3. 关联文档显示为白页的问题
+    4. 升级后，关联文档关掉左右扩展，笔迹偏移的问题
+Version 2.8.3 (Oct 31, 2023)
+    修复了笔记存不上的问题.
+    符合以上条件的用户数据，可以找回并恢复：
+    书写完后，退出了页面 没有再次打开，或者 没有重新写笔迹。
+Version 2.8.1 (Oct 24, 2023)
+    对用户体验进行了优化
+Version 2.8.0 (Oct 20, 2023)
+    修复了bug。
+Version 2.7.6 (Oct 9, 2023)
+    修复了插入图片不显示的bug
+Version 2.7.5 (Oct 6, 2023)
+    对用户体验进行了优化
+Version 2.7.4 (Sep 26, 2023)
+    修复了bug。
+Version 2.7.3 (Sep 22, 2023)
+    做了iPados17的适配
+Version 2.3.0 (Aug 15, 2023)
+    新增：
+    文档合并功能
+    关联视频连续播放（b站）
+    荧光笔在文字下面
+Version 2.2.0 (Aug 3, 2023)
+    像素橡皮擦可以选择大小（iOS16.4及以上版本）
+Version 2.1.1 (Jul 27, 2023)
+    修复了页面变小相关的bug
+Version 2.1.0 (Jul 19, 2023)
+    你好，
+
+    欢迎下载“笔记+”！
+
+    “笔记+”大约两周更新一次版本，围绕 Apple Pencil 的基础功能已经相对完善，现在我们免费提供给大家使用，如果觉得好用，欢迎介绍给身边的朋友，发发小红书，发发朋友圈，帮“笔记+”推广推广。
+
+    这里特别感谢早期使用 App 的用户，特别是告诉我们使用反馈和付费的你，非常感谢。
+
+    今后我们将围绕在 iPad 上做笔记提供更多的服务，争做 iPad 全球最好的笔记 App。我们非常欢迎任何原因联系我们，微信号是 changyujishu1
+
+    此版本同时新增：
+    页面批量删除功能（全屏缩略图状态下，可选择多个页面进行了批量删除）
+    页面顺序可上下调整（全屏或左侧缩略图状态下，可长按页面后拖动页面调整顺序）
+
+    笔记+团队
+2023年7月20日
+Version 2.0.0 (Jul 6, 2023)
+    增加了ChatGPT，Google，Bing等搜索入口
+    修复了bug
+Version 1.9.3 (Jun 28, 2023)
+    修复了新建一页文档缩放到50%后，页面会跳动的问题
+Version 1.9.2 (Jun 26, 2023)
+    对用户体验进行了优化
+Version 1.9.1 (Jun 22, 2023)
+    消灭了一批bug，用起来更舒服了
+Version 1.9.0 (Jun 18, 2023)
+    1. 支持应用双开
+    2. 修复了笔记导出错位问题
+    3. 修复了关联文档的数据错乱问题
+Version 1.8.0 (Jun 7, 2023)
+    1. 新增3级文件夹
+    2. 新增复制文档功能
+    3. 新增置顶文档功能
+    4. 文档中，模版可以单页替换
+Version 1.7.1 (May 25, 2023)
+    修复了崩溃问题
+Version 1.6.5 (May 8, 2023)
+    1. 解决了书写延迟的问题
+    2. 修复了用户反馈的bug
+    3. 优化了App语言
+Version 1.6.4 (Mar 31, 2023)
+    因为一些问题暂时去掉了自动变形但是保留了按住变形，后续会研究再加上
+    使用中有遇到任何问题，可以随时与我们反馈
+    感谢
+Version 1.6.3 (Mar 25, 2023)
+    有设备延迟的问题还在写代码中（快了快了），代码小哥哥不容易，请大家等等他，我们先做了下面这些优化
+
+    1，按住自动变形（恢复了）
+    2，荧光笔，可以固定画直线
+    3，Apple Pencil 2代笔，支持轻点两下
+    4，增加竖线模板
+    5，修复了一些写不上，闪一下，套索调整比例等细节问题
+Version 1.6.2 (Mar 19, 2023)
+    部分设备延迟的问题在抓紧修复中，要不了多久就能完事上线了
+    这次先把已经修复的bug升级个版本先了
+    在不断的更新中变的更好～
+Version 1.6.1 (Mar 11, 2023)
+    对使用体验进行了优化，修复了bug。
+    我们还在继续不断的优化，请相信我们一定能做的更好
+Version 1.6.0 (Feb 25, 2023)
+    修复了一批 bug 先升级一个版本了，还有bug正在修复中，下个版本升级哈，写代码不容易，请鼓励我们一下
+
+
+    1. 新增文档封面
+    2. 可自定义大纲
+    3. 超大笔记支持导出
+    4. 图片旋转90度
+    5. 工具栏加上撤回
+    6. 修复bug
+Version 1.5.5 (Feb 9, 2023)
+    新增支持：Google drive
+Version 1.5.2 (Jan 24, 2023)
+    Fixed a bug
+Version 1.5.1 (Jan 20, 2023)
+    修复一个bug
+Version 1.5.0 (Jan 18, 2023)
+    新增录音
+
+    新增了多种类型的笔
+
+    可自定义笔的粗细
+
+    笔盘可固定在顶部
+
+    支持双指双击撤回
+Version 1.0.4 (Dec 19, 2022)
+    新增 钢笔，写字更好看
+    优化笔迹，书写更细
+    暗黑模式
+    超大笔记
+    集成知网
+    优化百度网盘，无需下载在线播放
+Version 1.0.4 (Dec 19, 2022)
+    新增 钢笔，写字更好看
+    优化笔迹，书写更细
+    暗黑模式
+    超大笔记
+    集成知网
+    优化百度网盘，无需下载在线播放
+Version 1.0.3 (Nov 18, 2022)
+    1. 新增了很多好看的模板
+    2. 新增护眼模式
+    3. 新增从 Windows/Mac 导入文档
+    4. 新增双份阅读，可以左右分屏打开同一个文档
+    5. 优化草稿纸，可以无限延伸
+    6. 优化套索，可以更改涂鸦大小
+
+Version 1.0.2 (Oct 29, 2022)
+    1. 支持 Apple pencil 2代笔腹部双击的设置
+    2. 加上笔名称的说明
+    3. 关联文档，增加新建
+Version 1.0.1 (Oct 22, 2022)
+    1. 优化了使用体验
+    2. 新增了一些笔记模版
+
+Users may also like
+Select objects to compare
+OrigNotes
+Freenotes - Note Taking
+Noteful: Note-Taking on PDF
+GUGA-超级白板
+BoardNotes - Whiteboard & Note
+Blankbook - Paper Note
+Element Note
+Flexcil Note & Good PDF Reader
+SuperNotes
+Kilonotes-Notes & PDF reading
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.6.0
+    Current release
+    Feb 17, 2024
+    3.5.1
+    Jan 31, 2024
+    3.5.0
+    Jan 30, 2024
+    3.4.0
+    Jan 22, 2024
+    3.3.0
+    Jan 15, 2024
+    3.2.1
+    Jan 5, 2024
+    3.1.2
+    Jan 2, 2024
+    3.1.1
+    Jan 1, 2024
+    3.1.0
+    Dec 27, 2023
+    3.0.1
+    Dec 21, 2023
+    2.9.4
+    Dec 8, 2023
+    2.9.3
+    Dec 6, 2023
+    2.9.2
+    Dec 4, 2023
+    2.9.1
+    Nov 29, 2023
+    2.8.9
+    Nov 20, 2023
+    2.8.8
+    Nov 16, 2023
+    2.8.7
+    Nov 15, 2023
+    2.8.5
+    Nov 6, 2023
+    2.8.4
+    Nov 1, 2023
+    2.8.3
+    Oct 31, 2023
+    2.8.1
+    Oct 24, 2023
+    2.8.0
+    Oct 20, 2023
+    2.7.6
+    Oct 9, 2023
+    2.7.5
+    Oct 6, 2023
+    2.7.4
+    Sep 26, 2023
+    2.7.3
+    Sep 22, 2023
+    2.3.0
+    Aug 15, 2023
+    2.2.0
+    Aug 3, 2023
+    2.1.1
+    Jul 27, 2023
+    2.1.0
+    Jul 19, 2023
+    2.0.0
+    Jul 6, 2023
+    1.9.3
+    Jun 28, 2023
+    1.9.2
+    Jun 26, 2023
+    1.9.1
+    Jun 22, 2023
+    1.9.0
+    Jun 18, 2023
+    1.8.0
+    Jun 7, 2023
+    1.7.1
+    May 25, 2023
+    1.6.5
+    May 8, 2023
+    1.6.4
+    Mar 31, 2023
+    1.6.3
+    Mar 25, 2023
+    1.6.2
+    Mar 19, 2023
+    1.6.1
+    Mar 11, 2023
+    1.6.0
+    Feb 25, 2023
+    1.5.5
+    Feb 9, 2023
+    1.5.2
+    Jan 24, 2023
+    1.5.1
+    Jan 20, 2023
+    1.5.0
+    Jan 18, 2023
+    1.0.4
+    Dec 19, 2022
+    1.0.4
+    Dec 19, 2022
+    1.0.3
+    Nov 18, 2022
+    1.0.2
+    Oct 29, 2022
+    1.0.1
+    Oct 22, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Oct 19, 2022
+
+Worldwide Release Date
+    Oct 19, 2022
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    3.6.0
+
+Size
+    62.00 mb
+
+Only 32 Bit
+    No
+
+Languages
+    丹麦语, 乌克兰文, 俄文, 匈牙利文, 博克马尔文挪威文, 德文, 意大利文, 捷克语, 日文, 法语, 波兰文, 泰文, 瑞典文, 简体中文, 繁体中文, 芬兰语, 英语, 荷兰文, 葡萄牙文, 西班牙文, 越南文, 韩文
+
+Seller
+    Beijing Free Calculator Technology Co., Ltd.
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 15.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    notes.singingfish
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1609361989
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Notes+ : Note-taking app | data.ai

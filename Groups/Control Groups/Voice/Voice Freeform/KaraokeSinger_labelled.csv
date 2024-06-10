@@ -1,0 +1,7 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+502420404,0,KaraokeSinger,Music,2012-03-14,2012-03-14,4.29,1,0,0,0,1.5,2014-12-12,Fixes for iOS8 recording issue New Popular video feature New youtube API integration Other minor fixes,0,0,0,0,0,0,0,0
+502420404,0,KaraokeSinger,Music,2012-03-14,2012-03-14,4.29,1,0,0,0,1.4,2013-10-08,iOS7 fixes,0,0,0,0,0,0,0,0
+502420404,0,KaraokeSinger,Music,2012-03-14,2012-03-14,4.29,1,0,0,0,1.3,2012-11-06,Fixed ios6 issues Fixed delete video bug space cleanup issue,0,0,0,0,0,0,0,0
+502420404,0,KaraokeSinger,Music,2012-03-14,2012-03-14,4.29,1,0,0,0,1.2,2012-06-05,Support for using image from Camera roll for creating videos instead of live camera stream New FAQ section! Fix for missing saved videos with app upgrades,0,0,0,0,0,0,0,0
+502420404,0,KaraokeSinger,Music,2012-03-14,2012-03-14,4.29,1,0,0,0,1.1,2012-05-21,Bug fixes: Fixed freeze issue on search results page Fixed crash issue while recording and deleting videos Added contact us option via email,0,0,0,0,0,0,0,0
+502420404,0,KaraokeSinger,Music,2012-03-14,2012-03-14,4.29,1,0,0,0,1.0,2012-03-14,,0,0,0,0,0,0,0,0

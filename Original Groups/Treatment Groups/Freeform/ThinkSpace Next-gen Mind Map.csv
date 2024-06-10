@@ -1,0 +1,80 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.4.7,2024-02-25,Made minor improvements.
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.4.6,2024-01-08,Made minor improvements.
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.4.5,2023-12-29,The usage period restriction for the free version has been abolished.
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.4.4,2023-12-04,Made minor improvements
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.4.3,2023-11-25,Made minor improvements
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.4.2,2023-11-06,Made minor improvements
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.4.1,2023-09-24,Made minor improvements
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.4.0,2023-09-03,Added AI brainstorming function Added AI mind map function Supports idea generation by AI using templates Supports card switching by swiping on the card editing screen The search function has been greatly enhanced Fixed minor bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.3.0,2023-06-21,Fixed minor bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.2.0,2023-06-12,Added a button to change the screen size by pinching on the card edit screen. Fixed a bug that text sharing from an external application was not saved in the temporary space.
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.1.1,2023-04-28,Fix minor bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.1.0,2023-04-26,Improved the drawing function of the card tool
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,6.0.0,2023-02-01,Added AI brainstorming function
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,5.0.0,2023-01-03,Support to create canvas link in shared canvas Support for card box tool in shared canvas Support temporary placement tool in shared canvas
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.5.0,2022-09-19,Add Sign in with Apple
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.4.3,2022-08-21,Add image cropping function Add a function to move cards to another canvas
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.4.2,2022-02-25,Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.4.1,2022-02-23,Improved canvas detailed setting screen Supports duplication of shared canvas Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.4.0,2022-02-12,Create a handwritten group Create a page map from a web page Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.3.0,2021-12-24,Preview of card attachment data Sort and hide tool icons Added branch type Added a viewer tool Create a canvas with a link from the selected item Added operation options when placing a canvas from the box tool Drag and drop cards onto the canvas of the box tool Open the canvas by tapping the canvas of the box tool
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.2.6,2021-11-17,Added tool display settings
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.2.5,2021-11-09,Fixed some bugs Add a web page as a card
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.2.4,2021-11-05,Added text style options Supports adding URLs to detailed notes Fixed minor bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.2.3,2021-10-17,Fixed minor bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.2.2,2021-10-09,Fixed minor bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.2.1,2021-09-08,Fixed minor bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.2.0,2021-09-04,Permission settings for shared canvas Add notes to the card
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.1.0,2021-08-12,Support for MacOS Added light theme
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,4.0.0,2021-07-21,Update database
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.4.2,2021-05-28,Preparing for future updates
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.4.1,2021-04-22,Improved the performance of the eraser tool Supports multiple photo selection
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.4.0,2021-04-15,Support Widget
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.3.0,2021-04-01,Added branch tool types Improved web browser tool Add color palette Improved search interface Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.2.1,2020-10-27,Supports menu display by pressing and holding in full screen
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.2.0,2020-10-19,Support for multiple links on the card Add a function to link with the reminder app
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.1.1,2020-09-28,Minor bug fix
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.1.0,2020-09-23,Supports text input with Apple Pencil supports English and Chinese Add text tool to card edit screen
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.0.1,2020-09-06,Minor bug fixes
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,3.0.0,2020-08-24,Improved collaboration features
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.4.1,2020-05-27,Minor bug fixes
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.4.0,2020-05-19,Improved synchronization function
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.3.2,2020-04-30,Minor bug fixes
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.3.1,2020-04-20,Add template editing tool Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.3.0,2020-03-05,Improvement of toolbar Improvement of card box
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.2.0,2020-02-12,Adding an annual subscription to the pro version
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.1.0,2020-02-04,Added folder function Pro version Added canvas sorting function Pro version Card box improvements Bug fixes
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.0.2,2020-01-10,Minor bug fixes
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.0.1,2019-11-06,Added a selection tool on the card editing screen
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,2.0.0,2019-10-02,Improved text tool
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.9,2019-09-11,Bug fixes
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.8,2019-09-07,Improved image synchronization
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.7,2019-08-16,Add shortcut to card tool Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.6,2019-07-23,Add file attachment function Improved text tool Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.5,2019-07-13,Add color editing function Add color tag function Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.4,2019-06-23,Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.3,2019-04-23,Improved scrolling Improved accuracy of selection tool Add copy function of canvas
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.2,2019-04-18,Improve temporary placement tool Add card shapes Fixed bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.1,2019-04-13,Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.9.0,2019-04-08,Improvement of performance Add shortcut to edit state
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8.9,2019-03-21,Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8.8,2019-03-20,Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8.7,2019-02-28,Support Apple Pencil 2 Improve toolbar Improve select tool Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8.6,2019-02-22,Support split view Support drag and drop Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8.5,2019-02-07,Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8.4,2019-02-01,Improved card operation Add relationship lines Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8.3,2019-01-15,Change invitation flow
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8.2,2019-01-08,Save state of tool Change canvas management operation Improved display of relation tool Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8.1,2018-12-22,Fixed some bugs Open last edited canvas
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.8,2018-12-16,Improve card box tool Add temporary space Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.7.2,2018-12-11,Fixed some bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.7.1,2018-12-10,Improved card operation Add card colors Create link canvas from card
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.7,2018-12-03,Text search tool Image insertion tool New templates
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.6,2018-11-21,Web browser tool New types of card shape Fixed drawing when scrolling
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.5,2018-11-14,Card scaling support Improvement of toolbar Add type of relation line Cut the selected part and make a canvas
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.4,2018-11-04,Attach Web URL to a card Attach photo to a card
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.3,2018-10-14,add pen tool add tutorials
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.2,2018-09-13,fix some bugs improve grouping tool
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.1,2018-09-10,fixed bugs
+1335574515,0,ThinkSpace Next gen Mind Map,Productivity,2018-09-09,2018-09-05,242.69,22,0,0,1,1.0,2018-09-05,

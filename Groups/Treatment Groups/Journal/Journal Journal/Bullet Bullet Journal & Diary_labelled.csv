@@ -1,0 +1,4 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1581227244,0,Bullet Bullet Journal Diary,Utilities,2021-09-07,2021-09-07,60.23,23,0,0,1,1.2.1,2023-05-24,Fix some bug. Add FAQ.,0,0,0,0,0,0,0,0
+1581227244,0,Bullet Bullet Journal Diary,Utilities,2021-09-07,2021-09-07,60.23,23,0,0,1,1.2.0,2022-09-09,Add ch tw support. Change image preview method. Upgrade framework. Fix some bug.,0,0,0,0,0,0,0,0
+1581227244,0,Bullet Bullet Journal Diary,Utilities,2021-09-07,2021-09-07,60.23,23,0,0,1,1.1.0,2022-04-23,Inbox support. Search support. Data Statistics support. Custom font color support. Location record support. Pie Chart Collection support. Map marker Collection support. Custom bottom nav button support. Open splash support. Fix some bugs.,0,0,0,0,0,0,0,0

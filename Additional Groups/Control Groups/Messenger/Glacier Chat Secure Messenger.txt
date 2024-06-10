@@ -1,0 +1,663 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Glacier Chat: Secure Messenger
+Glacier Security, Inc.Business (Applications)Free
+Alerts
+
+    Glacier Security, Inc.
+
+    Glacier Chat: Secure Messenger
+    Glacier Chat: Secure Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Glacier Chat: Secure Messenger
+Encrypted chat for teams
+Business (Applications)
+Free
+App Description
+Glacier is only available by invite from your organization or team. If you’ve already created your account, download the app and log in to get started.
+
+A secure communications platform built for protecting your team’s messages, calls, devices, and data from outside threats.
+
+Talk openly - End-to-end encrypted messaging, voice and video calls, and file sharing
+
+Collaborate easier - Create teams with shared contact lists and stop digging for phone numbers and email addresses
+
+Defend your data - Block malware, trackers, and other malicious content from your device
+
+Features:
+- End-to-End Encrypted 1:1 and group messaging
+- End-to-End Encrypted 1:1 voice and video calls
+- End-to-End Encrypted file and voice messaging
+- Core VPN for additional layer of anonymity and obfuscation
+- Zero touch setup without a phone number or e-mail address
+- No metadata collected or stored
+- Open source code for transparency and audit
+Ratings
+Displayed Avg Ratings
+5
+Total Displayed Ratings
+11
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.0.8 (Jan 24, 2024)
+    - Fixed a bug that can impact some logins
+
+    Thanks for the great feedback! We're always looking for ways to improve the app.
+Version 4.0.7 (Jan 17, 2024)
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app.
+Version 4.0.6 (Oct 24, 2023)
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app.
+Version 4.0.5 (Sep 18, 2023)
+    - Fixed an issue with some contact names
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app.
+Version 4.0.4 (Sep 8, 2023)
+    - Fixed an issue with some notifications
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app.
+Version 4.0.3 (Aug 1, 2023)
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app.
+Version 4.0.2 (Jul 1, 2023)
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app.
+Version 4.0.1 (Apr 16, 2023)
+    - Increased security with optional 2FA (two factor authentication)
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app.
+Version 4.0 (Jan 26, 2023)
+    - Updated version number
+    - Fixed possible login issue
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.5.2 (Dec 28, 2022)
+    - Revamped user interface
+    - Security Hub improvements
+    - UI improvements for iPadOS
+    - Additional minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.5.1 (Sep 8, 2022)
+    - Handles sending while offline
+    - Resumes unfinished uploads and downloads after lost connections
+    - Improvements to user interface
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.5 (Jul 29, 2022)
+    - Added support for animated gifs
+    - Simplified and updated user interface
+    - Additional bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.4.3 (May 11, 2022)
+    - Fixed an issue with handling invalid links
+    - Fixed an issue where notifications sometimes show an incorrect message
+    - Additional bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.4.2 (Apr 8, 2022)
+    - Added Security Hub
+    - Added ability to search for users when creating a group
+    - Fixed some issues with iPad user interface
+    - Adjusted single sign on capability
+    - Additional bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.4.1 (Jan 14, 2022)
+    - Disappearing message timers are now for both sides of the conversation
+    - New security notification when tapping on an external link
+    - Fixed issue with certain links
+    - Added group read receipts
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.4.0 (Nov 22, 2021)
+    - Add users to existing calls
+    - Additional minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.3.7 (Sep 24, 2021)
+    - Fixed issues related to sending certain types of links
+    - Fixed issue with low volume on videos
+    - Fixed issue with sharing multiple files at the same time
+    - Modifications to video compression
+    - Additional minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.3.6 (Jul 1, 2021)
+    - Fixed an issue with messages received by users logged into multiple devices
+    - Fixed an issue that caused certain links in messages to not show up
+    - Fixed last active time of contacts
+    - Fixed username that shows on incoming 1:1 calls
+    - Additional minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.3.5 (Jun 7, 2021)
+    - Fixed issue that sometimes caused app to appear offline on opening
+    - Additional minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.3.4 (May 3, 2021)
+    - Improved conversation sorting
+    - Added ability to share screenshots through Glacier
+    - Fixed an issue with certain Core (VPN) configurations
+    - Fixed a crash that was sometimes happening when backgrounding the app
+    - Additional minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.3.3 (Apr 16, 2021)
+    - Fixed issues with secure sessions, improved session self-healing capability
+    - Fixed issue with user selection for new conversations
+    - Fixed issue that was causing unnecessary overhead
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.3.2 (Apr 3, 2021)
+    - Fixed an issue with resetting secure sessions
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.3.1 (Apr 2, 2021)
+    - Update to user interface for calls
+    - Improvements to the way secure keys are initiated between participants in groups and 1:1 messages
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.3 (Mar 30, 2021)
+    - End-to-end encrypted group video calls!
+    - Added ability to reset secure sessions as needed
+    - Fixed issues related to sharing links and media
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.2 (Jan 25, 2021)
+    - Added ability to Share web pages and links to Glacier
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.1.3 (Dec 11, 2020)
+    - Fixed an issue where images in message threads sometimes wouldn't load when clicked
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.1.2 (Dec 4, 2020)
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.1.1 (Nov 23, 2020)
+    - New section for Profile
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.1 (Nov 10, 2020)
+    - Notifications now show sender and message context
+    - Fixed a problem that sometimes prevented links from being received
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.0.7 (Sep 22, 2020)
+    - Minor bug fixes and improvements
+    - Support for iOS 14
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.0.6 (Aug 25, 2020)
+    - Improves initial connection handling in poor service areas
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.0.5 (Aug 8, 2020)
+    - Improved re-syncronization if encrypted sessions are corrupted
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.0.4 (Jul 21, 2020)
+    - Added read receipts on 1:1 messages
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.0.3 (Jul 14, 2020)
+    - Added bluetooth control on calls
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.0.2 (Jul 3, 2020)
+    - Bug fix to new group chat initialization
+    - Minor improvements to voice and video calls
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.0.1 (Jun 20, 2020)
+    - Minor bug fixes to voice and video calls
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 3.0 (Jun 14, 2020)
+    - Minor bug fixes and improvements with 1 to 1 encrypted calls
+    - Busy signal returned when currently on call
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.5.1 (Jun 9, 2020)
+    - Includes 1 to 1 calls with end-to-end encryption
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.5.0 (Mar 9, 2020)
+    - Update to the login process
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.4.2 (Feb 15, 2020)
+    - Core Connection is now available for enhanced security
+    - Other minor updates and bug fixes
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.4.1 (Nov 22, 2019)
+    - Dark mode is now available
+    - Other minor updates and bug fixes
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.4.0 (Nov 7, 2019)
+    - Fixed an issue that could cause crashes with links sent in messages
+    - Other minor updates and UI changes
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.9 (Oct 9, 2019)
+    - Fixed an issue that caused random background crashes in iOS 13
+    - Fixed and issue that could cause a crash on logout in iOS 13
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.8 (Sep 29, 2019)
+    - Minor bug fixes related to running on iOS 13
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.7 (Sep 27, 2019)
+    - Minor bug fixes and improvements
+    - Updated UI for iOS 13
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.6 (Sep 16, 2019)
+    - Bug fixes and UI improvements
+    - Added Mark All Read feature
+    - Update to offline notifications
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.5 (Aug 5, 2019)
+    - Minor fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.4 (Jul 17, 2019)
+    - Tap Enter to Send option added for iPad users
+    - Improvements for users logged into multiple devices
+    - Fixes rare crash on X, XR, XS models and iPad
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.3 (Jul 1, 2019)
+    - Improvements to encryption and notifications
+    - Users can now save files in groups and 1:1 messages
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.2 (Jun 18, 2019)
+    - Minor bug fixes and improvements
+    - Users may send additional file types in 1:1 and group messages
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.1 (Jun 11, 2019)
+    - Users may now attach files to groups/channels
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.3.0 (May 21, 2019)
+    - Bug fixes for multiple devices logged in with same user
+    - Contacts are now in alphabetical order
+    - Login possible via external Identity Provider
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.2.2 (Mar 25, 2019)
+    - Fix for issues with login after logging out
+    - Fix for issue with sending links as messages
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.2.1 (Mar 9, 2019)
+    - Fix for failures on initial setup and login
+    - Fix for occasional missed messages and re-syncing secure keys
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.2.0 (Mar 1, 2019)
+    - Initial password reset added
+    - Fixed UI issues with iPhone XR
+    - Includes timestamps on all group messages
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.1.9 (Dec 7, 2018)
+    - Fixed bug that caused screen content to briefly disappear when sending a long message
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.1.8 (Dec 6, 2018)
+    - Fixed bug that caused crash scrolling through large message history
+    - Update to group avatars
+    - Minor UI updates and fixes
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.1.7 (Nov 14, 2018)
+    - Fix for bug that occasionally caused loss of messages
+    - Minor updates to group functionality
+    - Minor UI updates and fixes
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.1.6 (Sep 24, 2018)
+    - Enabled saving of images in message thread to Photos
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.1.5 (Sep 15, 2018)
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.1.4 (Aug 28, 2018)
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.1.3 (Aug 13, 2018)
+    - Allow users to create Invite Only or Open groups
+    - Minor bug fixes and improvements
+
+    Thanks for the great feedback! We're always looking for ways to improve the app. Email info@glaciersecurity.com with any comments.
+Version 2.1.2 (Jul 13, 2018)
+    Minor UI and bug fixes. Users can Save images from message threads to Photos.
+Version 2.1.1 (May 23, 2018)
+    Minor bug fixes and upgrades
+Version 2.1.0 (Apr 29, 2018)
+    Updated all underlying libraries
+
+Users may also like
+Select objects to compare
+ELO
+SilentelSafe
+SaltIM
+WEBCON BPS 2022
+VNCtalk
+RealTyme – You’re in control
+Safi - Stealth Messenger
+Pryvate Messenger
+RTX Referrals and Rewards
+BC in the Cloud
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    4.0.8
+    Current release
+    Jan 24, 2024
+    4.0.7
+    Jan 17, 2024
+    4.0.6
+    Oct 24, 2023
+    4.0.5
+    Sep 18, 2023
+    4.0.4
+    Sep 8, 2023
+    4.0.3
+    Aug 1, 2023
+    4.0.2
+    Jul 1, 2023
+    4.0.1
+    Apr 16, 2023
+    4.0
+    Jan 26, 2023
+    3.5.2
+    Dec 28, 2022
+    3.5.1
+    Sep 8, 2022
+    3.5
+    Jul 29, 2022
+    3.4.3
+    May 11, 2022
+    3.4.2
+    Apr 8, 2022
+    3.4.1
+    Jan 14, 2022
+    3.4.0
+    Nov 22, 2021
+    3.3.7
+    Sep 24, 2021
+    3.3.6
+    Jul 1, 2021
+    3.3.5
+    Jun 7, 2021
+    3.3.4
+    May 3, 2021
+    3.3.3
+    Apr 16, 2021
+    3.3.2
+    Apr 3, 2021
+    3.3.1
+    Apr 2, 2021
+    3.3
+    Mar 30, 2021
+    3.2
+    Jan 25, 2021
+    3.1.3
+    Dec 11, 2020
+    3.1.2
+    Dec 4, 2020
+    3.1.1
+    Nov 23, 2020
+    3.1
+    Nov 10, 2020
+    3.0.7
+    Sep 22, 2020
+    3.0.6
+    Aug 25, 2020
+    3.0.5
+    Aug 8, 2020
+    3.0.4
+    Jul 21, 2020
+    3.0.3
+    Jul 14, 2020
+    3.0.2
+    Jul 3, 2020
+    3.0.1
+    Jun 20, 2020
+    3.0
+    Jun 14, 2020
+    2.5.1
+    Jun 9, 2020
+    2.5.0
+    Mar 9, 2020
+    2.4.2
+    Feb 15, 2020
+    2.4.1
+    Nov 22, 2019
+    2.4.0
+    Nov 7, 2019
+    2.3.9
+    Oct 9, 2019
+    2.3.8
+    Sep 29, 2019
+    2.3.7
+    Sep 27, 2019
+    2.3.6
+    Sep 16, 2019
+    2.3.5
+    Aug 5, 2019
+    2.3.4
+    Jul 17, 2019
+    2.3.3
+    Jul 1, 2019
+    2.3.2
+    Jun 18, 2019
+    2.3.1
+    Jun 11, 2019
+    2.3.0
+    May 21, 2019
+    2.2.2
+    Mar 25, 2019
+    2.2.1
+    Mar 9, 2019
+    2.2.0
+    Mar 1, 2019
+    2.1.9
+    Dec 7, 2018
+    2.1.8
+    Dec 6, 2018
+    2.1.7
+    Nov 14, 2018
+    2.1.6
+    Sep 24, 2018
+    2.1.5
+    Sep 15, 2018
+    2.1.4
+    Aug 28, 2018
+    2.1.3
+    Aug 13, 2018
+    2.1.2
+    Jul 13, 2018
+    2.1.1
+    May 23, 2018
+    2.1.0
+    Apr 29, 2018
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Apr 28, 2018
+
+Worldwide Release Date
+    Aug 14, 2018
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    4.0.8
+
+Size
+    101.98 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Catalan, Danish, Dutch, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Norwegian Bokmål, Persian, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Slovak, Slovenian, Spanish, Swedish, Tibetan, Traditional Chinese, Turkish, Uzbek, Vietnamese
+
+Seller
+    Glacier Security, Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.glacier.Messenger
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1240894558
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Glacier Chat: Secure Messenger | data.ai
+				
+				
+				
+				
+				
+	

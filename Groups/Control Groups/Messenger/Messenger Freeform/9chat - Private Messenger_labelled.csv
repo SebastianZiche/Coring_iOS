@@ -1,0 +1,35 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,2.0.2,2024-01-19,1. Fix bug,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,2.0.1,2023-09-23,1. Fix bug,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,2.0.0,2023-06-19,1. Optimize UI,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.9.0,2023-05-29,1. Optimize UI,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.8.9,2023-02-12,1 fix bug,0,0,0,0,0,0,0,1
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.8.8,2023-01-15,1 Optimize message push,0,0,0,0,0,0,1,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.8.7,2023-01-10,1. Modify password modification logic 2. Fix bugs,0,0,0,0,0,0,1,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.8.6,2022-12-30,Optimize character display issues,0,0,0,0,0,0,1,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.8.4,2022-12-02,Optimize message display issues,0,0,0,0,0,1,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.8.3,2022-12-01,Optimize messaging Optimize message page,0,0,0,0,0,1,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.8.2,2022-11-22,1. Modify known bugs,0,0,0,0,1,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.8.1,2022-11-20,1. Fix bug,0,0,0,0,1,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.8.0,2022-11-13,1. Fix bug,0,0,0,0,1,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.7.16,2022-11-08,1. Modify chat text size,0,0,0,0,1,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.7.15,2022-10-21,1. Fix bug,0,0,0,1,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.7.14,2022-10-19,1. Add the function of modifying the avatar,0,0,0,1,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.7.13,2022-10-03,1. Fix known bugs,0,0,0,1,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.3.0,2022-09-23,1. Beautify the user interface 2. Modify known bugs,0,0,1,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.2.9,2022-09-17,1. Modify the avatar display problem,0,0,1,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.2.8,2022-09-15,Modify display BUG,0,0,1,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.2.6,2022-09-06,Fix bugs Optimize the route Beautify the interface,0,0,1,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.2.5,2022-05-10,1.Fix bugs. 2.Repair notice,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.2.3,2021-12-22,1.Fix bugs. 2.Repair notice.,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.2.2,2021-11-23,1.Fix bugs. 2.Repair notice.,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.2.1,2021-04-14,1.Fix bugs.,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.1.6,2020-08-27,1.Fix bugs.,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.1.5,2020-08-17,1.Fix bugs.,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.1.1,2020-08-11,1.Fix bugs.,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.1.0,2020-08-07,1.Fix bugs.,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.0.4,2019-10-01,1. Update part of IM content 2.BUG fixed 3. Complete functions 4.Interface optimization 5. Added Myanmar Friendship Circle and voting function modules,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.0.3,2019-04-24,1. Change the application name to Mianxin 2. Page optimization and modification 3. Framework modification and improvement 4.BUG fixed,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.0.2,2018-03-02,Optimize bugs. Streamlined functionality.,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.0.1,2018-01-29,1. Optimize the interface. 2.Fix known issues.,0,0,0,0,0,0,0,0
+1330573586,0,9chat Private Messenger,Social Networking,2018-01-12,2018-01-12,86.4,1,0,0,0,1.0.0,2018-01-12,,0,0,0,0,0,0,0,0

@@ -1,0 +1,455 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+mimi – Cute notes
+Masaki YoshihisaProductivity (Applications)Free
+Alerts
+
+    Masaki Yoshihisa
+
+    mimi – Cute notes
+    mimi – Cute notes
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+mimi – Cute notes
+Customizable fonts, notes
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+mimi is a cute note application based on the concept of "the fun of choosing a cute notepad at a store."
+Choose your favorite from many themes and enjoy your notebook and notes!
+
+If you don't have your favorite theme, you can request the theme you want the author to make.
+
+Enjoy the cute!
+
+Features:
+- Cute note themes
+- Text styling (font, font size, bold, italic, underline, strikethrough, text colors, pragraph alignment, paragraph indent)
+- Checkable list for track todo in note
+- Unordered list and ordered list for formatting text in list
+- URL, phone number, address, calender event, flight number and shipment tracking number are highlited in note editor
+- Open URL in in-app web browser
+- Organize notes in notebooks
+
+mimi Premium unlock premium stickers on Sticker Library.
+
+mimi Premium is an auto-renewing subscription.
+
+Subscriptions will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. You will not be able to cancel the subscription once activated. Manage your subscriptions in Account Settings after purchase.
+
+For technical assistance or other inquiries, email: umaiapp+mimi_support@gmail.com
+
+Privacy Policy: https://umai.app/app/mimi/Privacy.md
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Ratings
+Displayed Avg Ratings
+4.79
+Total Displayed Ratings
+6.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.7 (Mar 25, 2021)
+    mimi version 1.7 changes
+
+    # What's New
+
+    - Sticker Library
+    Add cute stickers to note.
+    Also stickers can send to friends with Apple Messages.
+    Sticker Library is growing by users request.
+
+    # Changed
+
+    - Optimize loading note list
+Version 1.5.1 (Nov 12, 2020)
+    mimi version 1.5.1 changes
+
+    # Bug fixes
+
+    - Fixed selection indicator was shown on non-selectable default notebook ("All Notes", "Trash" etc.) when select multiple notebook on notebook list
+
+
+    mimi version 1.5 changes
+
+    # What's New
+
+    - Added multiple selection of note in note list
+    Select multiple note and move or delete notes at once.
+
+    - Added multiple selection of notebook in notebook list
+    Select multiple notebook and delete notebooks at once.
+
+    - Added support two finger pan gesture to start multiple selection in notebook list and note list
+
+    - Added context menu for long press notebook in notebook list
+    Easily access to "Edit Notebook" and "Delete Notebook" actions.
+
+
+    # Bug fixes
+
+    - Fixed an issue where the left and right arrows in the tool bar of the note editing screen could not be used to move a emoji characters.
+
+    - Fixed to move the cursor to the beginning of the text when cursor on the first line of text and tapping of the up arrow command in the toolbar of the note editing screen.
+
+    - Fixed to sort "Notes" notebook first in "Move to Notebook" screen
+
+    - Fixed a memory leak.
+Version 1.5 (Nov 11, 2020)
+    mimi version 1.5 changes
+
+    # What's New
+
+    - Added multiple selection of note in note list
+    Select multiple note and move or delete notes at once.
+
+    - Added multiple selection of notebook in notebook list
+    Select multiple notebook and delete notebooks at once.
+
+    - Added support two finger pan gesture to start multiple selection in notebook list and note list
+
+    - Added context menu for long press notebook in notebook list
+    Easily access to "Edit Notebook" and "Delete Notebook" actions.
+
+
+    # Bug fixes
+
+    - Fixed an issue where the left and right arrows in the tool bar of the note editing screen could not be used to move a emoji characters.
+
+    - Fixed to move the cursor to the beginning of the text when cursor on the first line of text and tapping of the up arrow command in the toolbar of the note editing screen.
+
+    - Fixed to sort "Notes" notebook first in "Move to Notebook" screen
+
+    - Fixed a memory leak.
+Version 1.4 (Nov 4, 2020)
+    mimi version 1.4 changes
+
+    # What's New
+
+    - Added context menu for long press note in note list
+    Easily access to "Move to Notebook" and "Move to Trash" actions.
+
+    - Added 12 fonts
+    Thank you for all font designer.
+    Added fonts name in font picker is below list.
+
+    CheekFont
+    Corporate Logo Bold
+    Corporate Logo Medium
+    Corporate Logo Rounded
+    Corporate Mincho
+    Mamelon
+    pigmo 00
+    pigmo 01
+    PixelMplus12
+    PopRumCute
+    Ronde-B
+    SetoFont
+    001Shirokuma
+
+    # Bug fixes
+
+    - Improved stability
+Version 1.3.3 (Sep 28, 2020)
+    mimi version 1.3.3 changes
+
+    # Bug fixes
+
+    - Fixed an issue where the text style panel is not displayed on iOS 14 when built with Xcode 12
+    I've rewritten text style panel with UIKit. Previously it made with SwiftUI.
+
+    - Fixed an issue where the toolbar scrolls to the left when tapping an item in the note editor toolbar on iOS 14
+
+    - Fixed an issue where the edit mode does not end properly on iOS 14 when you press edit on the item list view of the toolbar to reorder, add, or delete items.
+
+    - Fixed an issue where the notebook theme is still applied to the background of the navigation bar when back to the notebook list view by pressing and holding the back button from the note editor on iOS 14.
+
+    - Fixed an issue where the keyboard does not appear immediately when you make a new note
+
+    - Fixed an issue where the keyboard does not appear when you close the item list view of the toolbar
+
+    - Fixed an issue where the preview text of the note on note list has not been updated when the app is quit in the note editor
+
+    - Fixed an issue where the note can be edited in the trash
+
+
+    mimi version 1.3 changes
+
+    # What's New
+
+    - List Formatting for note
+    Checkable list is useful for track your todo. (e.g. grocery list)
+    Supported checkable list, unordered list and ordered list.
+
+    - Data detection for note
+    URL, phone number, address, calender event, flight number and shipment tracking number are highlited in note editor.
+
+    - Open URL in in-app web browser
+    Detected URL is able to open in in-app web browser.
+Version 1.3.2 (Sep 6, 2020)
+    mimi version 1.3.2 changes
+
+    # Bug fixes
+
+    - Improve stability
+
+
+    mimi version 1.3 changes
+
+    # What's New
+
+    - List Formatting for note
+    Checkable list is useful for track your todo. (e.g. grocery list)
+    Supported checkable list, unordered list and ordered list.
+
+    - Data detection for note
+    URL, phone number, address, calender event, flight number and shipment tracking number are highlited in note editor.
+
+    - Open URL in in-app web browser
+    Detected URL is able to open in in-app web browser.
+Version 1.3.1 (Aug 23, 2020)
+    mimi version 1.3.1 changes
+
+    # Bug fixes
+
+    - Improve stability
+
+
+    mimi version 1.3 changes
+
+    # What's New
+
+    - List Formatting for note
+    Checkable list is useful for track your todo. (e.g. grocery list)
+    Supported checkable list, unordered list and ordered list.
+
+    - Data detection for note
+    URL, phone number, address, calender event, flight number and shipment tracking number are highlited in note editor.
+
+    - Open URL in in-app web browser
+    Detected URL is able to open in in-app web browser.
+Version 1.3 (Aug 18, 2020)
+    # What's New
+
+    - List Formatting for note
+    Checkable list is useful for track your todo. (e.g. grocery list)
+    Supported checkable list, unordered list and ordered list.
+
+    - Data detection for note
+    URL, phone number, address, calender event, flight number and shipment tracking number are highlited in note editor.
+
+    - Open URL in in-app web browser
+    Detected URL is able to open in in-app web browser.
+Version 1.2 (Jul 5, 2020)
+    # What's New
+    - Text styling
+    Change font and font size, apply bold, italic, underline, strikethrough, change text colors, paragraph alignment, paragraph indent.
+
+    - Customizable toolbar on note editor
+    Toolbar actions are quickly change bold, italic, transform text to uppercase, lowercase and titlecase, cursor move actions.
+
+    - Setting for default note text style
+
+    # Changes
+    - Redesignd settings view
+    - Changed app accent color from gold to selected app theme color
+    - "Developer Twitter" opens English Twitter account if app runs in English
+    - Added "Intellectual Property" note in request note theme design mail message body
+Version 1.1 (Apr 19, 2020)
+    # Changes
+    - New action sheet design, it's match to mimi's cute UI design.
+    - New alert design, it's match to mimi's cute UI design.
+
+    # Bugfixs
+    - Fixes slower image loading performance on devices running iOS 13.3 or earlier.
+
+    # Recently Added New Themes
+    - The shiba "marimo" with temari, it's cute shiba and Japan traditional flower pattern temari.
+Version 1.0 (Apr 6, 2020)
+
+Users may also like
+Select objects to compare
+MemoCute-Japanese Cute Notepad
+Notebook - Diary & Journal App
+Habit Rabbit: Habit Tracker
+IROGAMI: Beautiful Sticky Note
+人気めも帳かほ かわいいイラストめも帳アプリ
+List Maker ◎
+Pencil Calendar: Daily Planner
+Sticky Notes + Widget Memo
+n+otes
+Old Notepad : Easy Memo Notes
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.7
+    Current release
+    Mar 25, 2021
+    1.5.1
+    Nov 12, 2020
+    1.5
+    Nov 11, 2020
+    1.4
+    Nov 4, 2020
+    1.3.3
+    Sep 28, 2020
+    1.3.2
+    Sep 6, 2020
+    1.3.1
+    Aug 23, 2020
+    1.3
+    Aug 18, 2020
+    1.2
+    Jul 5, 2020
+    1.1
+    Apr 19, 2020
+    1.0
+    Apr 6, 2020
+
+See More
+Top In-App Purchases
+
+    Premium Monthly
+    $1.99
+    Premium Yearly
+    $30.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Apr 6, 2020
+
+Worldwide Release Date
+    Apr 6, 2020
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    1.7
+
+Size
+    262.17 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese
+
+Seller
+    Masaki Yoshihisa
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    app.umai.mimi
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    Yes
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1506524969
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+mimi – Cute notes | data.ai

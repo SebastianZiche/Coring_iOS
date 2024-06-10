@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+833621029,0,The Interpreter translator,Utilities,2013-06-15,2014-05-28,60.84,36,0,0,0,1,0,1,0,0,0,0,0,0,0,month_1,1,0,2112,2217.0
+833621029,0,The Interpreter translator,Utilities,2013-06-15,2014-05-28,60.84,36,0,0,0,0,0,0,1,0,0,0,0,0,0,month_2,1,0,2142,2217.0
+833621029,0,The Interpreter translator,Utilities,2013-06-15,2014-05-28,60.84,36,0,0,0,0,0,0,0,1,0,0,0,0,0,month_3,1,0,2172,2217.0
+833621029,0,The Interpreter translator,Utilities,2013-06-15,2014-05-28,60.84,36,0,0,0,0,0,0,0,0,1,0,0,0,0,month_4,1,0,2202,2217.0
+833621029,0,The Interpreter translator,Utilities,2013-06-15,2014-05-28,60.84,36,0,0,0,0,0,0,0,0,0,1,0,0,0,month_5,1,1,2232,2217.0
+833621029,0,The Interpreter translator,Utilities,2013-06-15,2014-05-28,60.84,36,0,0,0,0,0,0,0,0,0,0,1,0,0,month_6,1,1,2262,2217.0
+833621029,0,The Interpreter translator,Utilities,2013-06-15,2014-05-28,60.84,36,0,0,0,0,0,0,0,0,0,0,0,1,0,month_7,1,1,2292,2217.0
+833621029,0,The Interpreter translator,Utilities,2013-06-15,2014-05-28,60.84,36,0,0,0,0,0,0,0,0,0,0,0,0,1,month_8,1,1,2322,2217.0

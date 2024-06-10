@@ -1,0 +1,255 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Transcribe , Speech To Text
+Ahmet BacakProductivity (Applications)Free
+Alerts
+
+    Ahmet Bacak
+
+    Transcribe , Speech To Text
+    Transcribe , Speech To Text
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Transcribe , Speech To Text
+Productivity (Applications)
+Free
+App Description
+Welcome to our speech to text service. Your best voice to text solution. Light speed transcription. 16x faster transcription. It supports nearly 100 languages. Includes audio format freedom and intelligent language detection.
+
+Transcribe: Fast and Accurate Speech-to-Text Converter & Transcriptor
+Unlock the power of seamless transcription with our cutting-edge Speech to Text application, supporting a vast array of languages and audio formatsin our speech recognition app. Experience unparalleled convenience as our intelligent algorithms automatically detect the language, ensuring precision in transcription for nearly 100 languages.
+
+Blazing Fast Transcription with Multiple AI Models
+
+Choose from four advanced AI models meticulously designed to strike the perfect balance between speed and success. Our innovative technology includes a lightning-fast model that transcribes a mind-boggling 16 times faster than traditional methods for transcribe audio to text . Whether you're a professional, student, or anyone in need of swift transcription, we've got the speed you crave without compromising accuracy.
+
+Versatile Audio Format Support
+
+Wave goodbye to compatibility concerns! Transcribe effortlessly handles popular audio formats such as mp3, flac, ogg, m4a, wav, and aiff. No matter the source, our application guarantees a seamless transcription experience, turning your spoken words into accurate, time-stamped text effortlessly.
+
+Intelligent Language Detection
+
+Using voice to text app, Say goodbye to manual language selection. Our AI-driven language detection system takes the guesswork out of the equation, automatically identifying the spoken language in your audio file. This feature ensures that your transcriptions are not only fast and accurate transcription but also tailored to the nuances of the language being spoken.
+
+Timestamps and SRT Output
+
+Enhance your transcripts with precision timestamps, providing clarity and context to every spoken word. Additionally, our application supports SRT format, ensuring compatibility with various platforms and making it easier for you to integrate transcriptions into your projects seamlessly.
+
+
+Why Choose Transcribe?
+
+Speed Meets Accuracy: Harness the power of our high-speed AI models without compromising on accuracy.
+
+Universal Language Support: Transcribe supports almost 100 languages, making it a versatile choice for users worldwide.
+
+Format Freedom: Enjoy hassle-free transcription with support for a wide range of audio formats.
+
+Smart Language Detection: Let our intelligent algorithms take care of language identification, saving you time and effort.
+
+Timestamps and SRT Output: Elevate your transcripts with precise timestamps and SRT format compatibility.
+
+Empower your productivity, streamline your workflow, and unlock a new level of efficiency with Transcribe. Download now and experience the future of speech-to-text conversion!
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 4.8 (Feb 23, 2024)
+    In Pro Version, TranscribeTask is recommended for transcribing audio files with an estimated working time of 3 minutes. The necessary update has been made for this approach.
+Version 4.7 (Feb 2, 2024)
+    App icon changed.
+Version 4.6 (Jan 22, 2024)
+    Bugs fixed.
+Version 4.5 (Jan 15, 2024)
+    Upload limit increased to 200 MB. Compress function added for Pro version. Help section has been added for informational purposes when processing long audio files
+Version 4.1 (Jan 11, 2024)
+    TranscribeTask method added for Long Audio files. There is no need to wait for the results for a long time. Just uploading the file is enough. After the file is uploaded, the result can be obtained by opening the application again after a certain period of time (typically 10-30 minutes) and checking the TaskResult. Save method has also been added. Also, Small Bugs fixed.
+Version 3.7 (Jan 8, 2024)
+    Bugs fixed. Split & Transcribe method has also been added for audio files longer than 30 minutes.
+Version 2.5 (Jan 4, 2024)
+    Bugs fixed.
+Version 1.9 (Jan 2, 2024)
+    Bugs fixed.
+Version 1.4 (Dec 30, 2023)
+    Bugs fixed and analytic events are added.
+Version 1.2 (Dec 26, 2023)
+
+Users may also like
+Select objects to compare
+SpeakApp AI: Voice to text
+Voice Recorder - Transcribe
+ResoNote: Transcribe Voice
+Voice Recorder: Speech To Text
+Transcribe Voice To Text ⊙
+Speech to text + AI
+Scribe YouTube Transcripts
+Text Scanner Extractor OCR TXT
+Transcribe Ai : Speech to Text
+easyDICTATE
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.8
+    Current release
+    Feb 23, 2024
+    4.7
+    Feb 2, 2024
+    4.6
+    Jan 22, 2024
+    4.5
+    Jan 15, 2024
+    4.1
+    Jan 11, 2024
+    3.7
+    Jan 8, 2024
+    2.5
+    Jan 4, 2024
+    1.9
+    Jan 2, 2024
+    1.4
+    Dec 30, 2023
+    1.2
+    Dec 26, 2023
+
+See More
+Top In-App Purchases
+
+    Three Monthly Subscriptions
+    $13.99
+    Annual Subscription
+    $31.99
+    Monthly Subscription
+    $5.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 26, 2023
+
+Worldwide Release Date
+    Dec 26, 2023
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    4.8
+
+Size
+    38.25 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Español, Alemán, Catalán, Checo, Chino simplificado, Chino tradicional, Coreano, Croata, Danés, Eslovaco, Finés, Francés, Griego, Hebreo, Hindi, Húngaro, Indonesio, Inglés, Italiano, Japonés, Malayo, Neerlandés, Noruego bokmål, Polaco, Portugués, Rumano, Ruso, Sueco, Tailandés, Turco, Ucraniano, Vietnamita, Árabe
+
+Seller
+    Ahmet Bacak
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 15.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    com.transcribe.Speech-To-Text
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6474488860
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Transcribe , Speech To Text | data.ai

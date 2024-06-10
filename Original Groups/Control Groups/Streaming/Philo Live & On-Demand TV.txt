@@ -1,0 +1,731 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Philo: Live & On-Demand TV
+PhiloEntertainment (Applications)Free
+Alerts
+
+Philo
+Philo: Live & On-Demand TV
+Philo: Live & On-Demand TV
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Philo: Live & On-Demand TV
+70+ Channels. Unlimited DVR.
+Entertainment (Applications)
+Free
+App Description
+Philo takes the hassle out of TV, bringing you endless entertainment for an unbeatable price. For $25/month, you'll get 70+ channels and more than 75,000 hours of on-demand movies and shows! TV works around your schedule with unlimited DVR. You can save all your favorite stuff for up to a year and never miss a thing. New subscribers can watch Philo for free for a week! Sign up today to start your 7-day free trial.
+
+Here's what The Philo app has to offer:
+
+More than 70 channels: Watch top-rated channels like AMC, BET, CMT, Comedy Central, Discovery Channel, Food Network, Hallmark Channel, HGTV, History, Investigation Discovery, Lifetime, MTV, Nickelodeon, Oprah Winfrey Network, VH1, WE tv, and more!
+
+Tons of entertainment: Reality, true crime, comedy, and scripted drama—Philo has the stuff you love in one spot! Tune in to classic cartoons and top picks for the whole family, or catch up on the latest hit movies and original series with Philo's premium add-ons.
+
+Unlimited DVR: Save all the movies and shows you love for a year and catch up on your schedule.
+
+Profiles: Create up to 10 profiles for a personalized streaming experience. Each user profile gets its own sign-in credentials, saved shows, and watch history.
+
+Multiple devices: Enjoy Philo on up to 3 devices at a time!
+
+Easy discoverability: Find your saved shows, see what's new and trending, or browse curated collections on the Homepage.
+
+TV Everywhere: Philo subscribers can access our network partners' TV Everywhere apps. Select Philo as your TV provider to sign in and start watching!
+
+Download Philo today and start watching now!
+
+Please note: This app features Nielsen’s proprietary measurement software which will allow you to contribute to market research, like Nielsen’s TV Ratings. Please visit http://www.nielsen.com/digitalprivacy for more information.
+
+Privacy Policy: https://about.philo.com/privacy/
+Terms of Service: https://about.philo.com/terms/
+
+Do not sell my personal information/share for cross-context behavioral advertising/opt-out of targeted advertising: https://help.philo.com/using-philo/do-not-sell
+Ratings
+Displayed Avg Ratings
+4.76
+Total Displayed Ratings
+50.0k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.1.0 (Feb 14, 2024)
+    We are rolling out major behind-the-scenes improvement to the video player.
+Version 5.0.0 (Feb 7, 2024)
+    We are rolling out a fresh new Home screen experience.
+Version 4.14.2 (Jan 29, 2024)
+    Bug fixes
+Version 4.14.0 (Jan 10, 2024)
+    Improvements
+Version 4.13.0 (Jan 2, 2024)
+    Bug fixes and improvements.
+Version 4.12.0 (Nov 20, 2023)
+    - Fixed - the app erroneously logs out in certain circumstances.
+    - Fixed - the app may be stuck in loading state after launching.
+    - Fixed - the Guide screen may fail to paginate after a Filter is selected.
+    - Fixed - profile's email address or phone number cannot be updated.
+    - Other bug fixes and improvements.
+Version 4.11.0 (Oct 25, 2023)
+    - Fix: the retry button didn't always work.
+    - Fix: the play button was shown on content which was not playable.
+    - Other bug fixes and improvements.
+Version 4.10.0 (Oct 3, 2023)
+    - A UI improvement for the Show screen's season-loading state.
+    - Other bug fixes and improvements.
+Version 4.9.0 (Sep 18, 2023)
+    We fixed an issue in that the app was unable to play content under certain conditions.
+Version 4.8.1 (Sep 5, 2023)
+    Improved Notifications
+Version 4.8.0 (Aug 28, 2023)
+    Improvements to data loading and integrity.
+Version 4.7.2 (Aug 21, 2023)
+    bug fixes and improvements
+Version 4.7.1 (Aug 16, 2023)
+    Bug fixes
+Version 4.7.0 (Aug 14, 2023)
+    Bug fixes and improvements
+Version 4.6.0 (Aug 2, 2023)
+    • bug fixes
+    • content recommendation push notification support
+Version 4.5.1 (Jul 27, 2023)
+    - Bug fixes
+Version 4.5.0 (Jul 18, 2023)
+    Bug fixes and improvements
+Version 4.4.2 (Jun 28, 2023)
+    updated user privacy options.
+Version 4.4.1 (Jun 14, 2023)
+    bug fixes
+Version 4.4.0 (May 25, 2023)
+    Bug fixes and improvements.
+Version 4.3.0 (May 4, 2023)
+    Bug fixes and improvements
+Version 4.2.1 (Apr 24, 2023)
+    Bug Fixes
+Version 4.2.0 (Apr 20, 2023)
+    Push notification updates
+Version 4.1.2 (Apr 6, 2023)
+    Bug fixes
+Version 4.1.1 (Mar 24, 2023)
+    Bug fixes
+Version 4.1.0 (Mar 20, 2023)
+    Bug Fixes and Performance Improvements.
+Version 4.0.0 (Mar 6, 2023)
+    Bug fixes and improvements.
+    Removal of in-app support chat button on settings and adding the link to the help center contact page.
+Version 3.8.0 (Feb 13, 2023)
+    • bug fixes
+Version 3.7.5 (Jan 30, 2023)
+    Bug fixes
+Version 3.7.4 (Jan 26, 2023)
+    Bug fixes and performance improvements.
+Version 3.7.3 (Jan 10, 2023)
+    Bug fixes and Improvements. 
+Version 3.7.2 (Dec 30, 2022)
+    Notifications related improvements
+Version 3.7.2 (Dec 30, 2022)
+    Notifications related improvements
+Version 3.7.0 (Dec 12, 2022)
+    Video Player fixes and performance improvements
+    iOS/iPadOS/tvOS version 15 or higher required
+    General fixes and performance improvements
+Version 3.6.2 (Dec 5, 2022)
+    Bug fixes
+Version 3.6.1 (Nov 29, 2022)
+    bug fixes
+Version 3.6.0 (Nov 14, 2022)
+    Performance Improvements
+Version 3.5.2 (Oct 26, 2022)
+    Feature:
+    Add support for channel-type promoted hero tiles
+
+    Bug fixes:
+    Fix spacing gap near system clock.
+Version 3.5.1 (Oct 4, 2022)
+    • Improve loading speed.
+    • Bug fixes
+Version 3.5.0 (Sep 12, 2022)
+    • Support double tap zoom
+    • Bug fixes
+Version 3.4.8 (Aug 31, 2022)
+    • Support video player zoom (double tap screen).
+    • Fonts updates
+    • Bug fixes
+Version 3.4.7 (Aug 23, 2022)
+    Bug Fixes
+Version 3.4.6 (Aug 17, 2022)
+    Bug Fixes
+Version 3.4.5 (Aug 9, 2022)
+    Player crash fix
+Version 3.4.4 (Jul 25, 2022)
+    In-App Support fix for Profile Switch
+Version 3.4.3 (Jul 19, 2022)
+    - Bug fixes
+Version 3.4.2 (Jul 5, 2022)
+    - Fix for SSO Logout Issue
+    - Keychain Fix for TV Provider
+    - Never-ending spinner on the Home screen fixed
+    - Fixed error with web socket closed
+    - Hero Tile Promotion
+    - Users with a referral bug fix (and other analytics)
+Version 3.4.0 (Jun 22, 2022)
+    In-app Chat
+
+    Bug fixes
+Version 3.3.3 (May 19, 2022)
+    Crash fixes and improved player analytics reporting
+Version 3.3.2 (May 5, 2022)
+    Fixes for hero cell
+Version 3.3.1 (Apr 26, 2022)
+    Third-party version upgrade
+Version 3.3.0 (Apr 18, 2022)
+    Third-party upgrade.
+Version 3.2.0 (Mar 31, 2022)
+    • Updated Empty Saved Page
+    • Bug Fixes
+Version 3.1.1 (Mar 15, 2022)
+    • Bug Fixes
+Version 3.1.1 (Mar 15, 2022)
+    • Bug Fixes
+Version 3.1.0 (Mar 1, 2022)
+    - Advertisement improvements
+    - Support recordings filter (Show Profile)
+    - Fix for tvOS stuck on Splash screen
+    - tvOS GridView - Crash Fix
+    - Remote config for Account Deletion
+Version 3.0.0 (Feb 15, 2022)
+    - Single Sign-On support
+    - Universal search
+    - Deep-linking additions
+    - Improved authentication and subscription registration
+Version 2.7.0 (Feb 1, 2022)
+    Accessibility iOS Voice Over support
+    Other bug fixes
+Version 2.6.0 (Jan 21, 2022)
+    Welcome Survey Notification
+    In-App Notification
+    Deeplink improvements and additions
+    Initiate Account Deletion
+    Bug and crash fixes
+Version 2.5.5 (Jan 3, 2022)
+    Bug Fixes
+Version 2.5.4 (Dec 13, 2021)
+    • Genre Collection GridView support
+Version 2.5.3 (Nov 29, 2021)
+    Genre Collections
+Version 2.5.1 (Nov 22, 2021)
+    Airplay
+    Picture in Picture
+Version 2.4.8 (Nov 9, 2021)
+    - Fullscreen support on the new iPad Mini
+    - Other bug fixes and improvements
+Version 2.4.6 (Oct 29, 2021)
+    - Bug fixes
+Version 2.4.4 (Oct 25, 2021)
+    - Bug Fixes
+Version 2.4.3 (Oct 21, 2021)
+    - Bug Fixes
+Version 2.4.2 (Oct 12, 2021)
+    - Bug Fixes
+Version 2.4.1 (Oct 4, 2021)
+    Address a memory issue.
+Version 2.4.0 (Sep 27, 2021)
+    Bug fixes
+Version 2.3.2 (Jul 12, 2021)
+    Fixed a bug that the Content Modal is unresponsive on some devices.
+Version 2.3.1 (Jul 8, 2021)
+    Bug fixes and improvements
+Version 2.3.0 (Jun 28, 2021)
+    - Find the most popular new, playable broadcasts by channel on the new "Top" screen
+    - Sort your Saved shows by Most Recent or Alphabetically
+    - See more details about a show when you tap a playable tile, or play it by long pressing the tile
+Version 2.2.1 (Jun 7, 2021)
+    Improvements
+Version 2.2.0 (May 25, 2021)
+    Improvements
+Version 2.1.3 (May 10, 2021)
+    Improvements
+Version 2.1.2 (Apr 29, 2021)
+    Improvements
+Version 2.1.1 (Apr 26, 2021)
+    Improvements and bug fixes
+Version 2.1.0 (Apr 19, 2021)
+    - The Guide: find out when your favorite TV show is on!
+    - Home screen has got an update: tap a collection title to view the whole collection full screen!
+    - A handful of improvements to the player.
+    - Never have to retype in your search again: your recent searches are only a tap away.
+    - Hope you enjoy the updates!
+Version 2.0.0 (Feb 25, 2021)
+    Improvements and bug fixes
+Version 1.8.4 (Jan 12, 2021)
+    - Bug fixes
+Version 1.8.3 (Dec 14, 2020)
+    Improvements and bug fixes
+Version 1.8.2 (Nov 4, 2020)
+    Spatial Audio for iOS 14
+Version 1.8.1 (Aug 11, 2020)
+    Improvements and bug fixes
+Version 1.8.0 (Jun 30, 2020)
+    - Simplified sign-up and sign-in processes
+    - Bug fixes and improvements
+Version 1.7.0 (May 22, 2020)
+    - Bug fixes and improvements
+Version 1.6.5 (Apr 27, 2020)
+    - The ability to remove a show from the Keep Watching row.
+    - A handful of bug fixes and improvements.
+Version 1.6.4 (Mar 6, 2020)
+    - bug fixes and optimizations
+Version 1.6.3 (Mar 4, 2020)
+    - New: Content Modal, you can long press on a tile to see more information about the show
+    - A lot of bug fixes and optimizations
+Version 1.6.1 (Jan 15, 2020)
+    Hope you had a great holiday and enjoyed some time with friends, family and Philo!
+
+    This version includes updates to more of the iOS screens and a handful of bug fixes. Let us know what you think.
+Version 1.6.0 (Dec 2, 2019)
+    Philo for iOS has received a bit of a facelift! Let us know what you think about the new home, show and movie screens.
+Version 1.5.1 (Aug 20, 2019)
+    Bug fixes
+Version 1.5.0 (Aug 12, 2019)
+    New:
+    - In-App Purchase: start a trial, sign up, purchase subscription, and restore subscription
+    - Profiles: channels start from live or beginning setting
+    - Profiles: add and update sign-in info
+    - New icons and updated Auth pages
+
+    Improvements:
+    - Handle blackout, and add blackout message and blackout tag
+    - Update ad-break duration on live edge, and don't show countdown timer
+Version 1.4.5 (May 22, 2019)
+    Some bug fixes.
+Version 1.4.4 (May 16, 2019)
+    New
+    - Login with SMS/link
+    - Resend code / Call with a code
+Version 1.4.3 (Mar 25, 2019)
+    Internal updates. (Bug fixes, performance enhancements, you know the drill).
+Version 1.4.2 (Mar 5, 2019)
+    New Today Widget to get you back to your show even faster, along with a bunch of bug fixes.
+Version 1.4.1 (Dec 21, 2018)
+    Fix a thumbnail refetch failure issue.
+Version 1.4.0 (Dec 17, 2018)
+    - Added tab bar controller: a new way to navigate
+    - Added Home Screen Quick Actions
+    - Added Profiles to Settings, now you can add, switching, and editing profiles
+    - Various improvements and bug fixes
+Version 1.3.2 (Oct 31, 2018)
+    Bug fixes.
+Version 1.3.1 (Oct 4, 2018)
+    Some behind the scenes bug fixes.
+Version 1.3.0 (Sep 24, 2018)
+    iPad users, we heard you! Philo is now optimized for iPad.
+
+    Other updates:
+    - Added support for iOS 12's Secure Code AutoFill feature.
+    - Fixed: When watching live content, Philo would sometimes allow you to seek into the future. Our app would helpfully close itself to prepare for time travel. Now it doesn't.
+    - Fixed: In some situations we'd show that you had watched 100% of an episode whether you actually did or not. There are some cases where it's cool to get credit for something you didn't do. This is not one of them.
+    - Fixed: When switching back to the Philo app it could take up to a full minute for tiles to refresh. Now it takes less time. Much less. Like, it happens instantaneously.
+Version 1.2.5 (Sep 5, 2018)
+    - Fixed a jump to live bug
+    - Fixed thumbstream and playhead tick appear at the end of the scrubber
+Version 1.2.4 (Aug 22, 2018)
+    Fix a streams check issue.
+Version 1.2.3 (Aug 14, 2018)
+    Fix a search issue.
+Version 1.2.2 (Jun 12, 2018)
+    Now you can keep your favorite shows going with autoplay!
+Version 1.1.0 (Jan 15, 2018)
+    With this release we’re adding the ability to favorite the channels you love, so you’ll see them first in channel lists. Tap a channel logo, then the 
+Version 1.0.2 (Nov 27, 2017)
+    We're always tinkering with things in here to make it better. If you're vigilant you might notice some performance improvements and general bug fixes.
+Version 1.0.1 (Nov 22, 2017)
+    A handful of bug fixes and enhancements. Thanks for watching Philo!
+Version 1.0.0 (Nov 14, 2017)
+
+Users may also like
+Select objects to compare
+VH1
+BET NOW - Watch Shows
+ALLBLK: TV & Film
+WE tv
+Lifetime Movie Club
+BET+
+Watch OWN
+Now Thats TV
+Frndly TV
+Lifetime: TV Shows & Movies
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.1.0
+    Current release
+    Feb 14, 2024
+    5.0.0
+    Feb 7, 2024
+    4.14.2
+    Jan 29, 2024
+    4.14.0
+    Jan 10, 2024
+    4.13.0
+    Jan 2, 2024
+    4.12.0
+    Nov 20, 2023
+    4.11.0
+    Oct 25, 2023
+    4.10.0
+    Oct 3, 2023
+    4.9.0
+    Sep 18, 2023
+    4.8.1
+    Sep 5, 2023
+    4.8.0
+    Aug 28, 2023
+    4.7.2
+    Aug 21, 2023
+    4.7.1
+    Aug 16, 2023
+    4.7.0
+    Aug 14, 2023
+    4.6.0
+    Aug 2, 2023
+    4.5.1
+    Jul 27, 2023
+    4.5.0
+    Jul 18, 2023
+    4.4.2
+    Jun 28, 2023
+    4.4.1
+    Jun 14, 2023
+    4.4.0
+    May 25, 2023
+    4.3.0
+    May 4, 2023
+    4.2.1
+    Apr 24, 2023
+    4.2.0
+    Apr 20, 2023
+    4.1.2
+    Apr 6, 2023
+    4.1.1
+    Mar 24, 2023
+    4.1.0
+    Mar 20, 2023
+    4.0.0
+    Mar 6, 2023
+    3.8.0
+    Feb 13, 2023
+    3.7.5
+    Jan 30, 2023
+    3.7.4
+    Jan 26, 2023
+    3.7.3
+    Jan 10, 2023
+    3.7.2
+    Dec 30, 2022
+    3.7.2
+    Dec 30, 2022
+    3.7.0
+    Dec 12, 2022
+    3.6.2
+    Dec 5, 2022
+    3.6.1
+    Nov 29, 2022
+    3.6.0
+    Nov 14, 2022
+    3.5.2
+    Oct 26, 2022
+    3.5.1
+    Oct 4, 2022
+    3.5.0
+    Sep 12, 2022
+    3.4.8
+    Aug 31, 2022
+    3.4.7
+    Aug 23, 2022
+    3.4.6
+    Aug 17, 2022
+    3.4.5
+    Aug 9, 2022
+    3.4.4
+    Jul 25, 2022
+    3.4.3
+    Jul 19, 2022
+    3.4.2
+    Jul 5, 2022
+    3.4.0
+    Jun 22, 2022
+    3.3.3
+    May 19, 2022
+    3.3.2
+    May 5, 2022
+    3.3.1
+    Apr 26, 2022
+    3.3.0
+    Apr 18, 2022
+    3.2.0
+    Mar 31, 2022
+    3.1.1
+    Mar 15, 2022
+    3.1.1
+    Mar 15, 2022
+    3.1.0
+    Mar 1, 2022
+    3.0.0
+    Feb 15, 2022
+    2.7.0
+    Feb 1, 2022
+    2.6.0
+    Jan 21, 2022
+    2.5.5
+    Jan 3, 2022
+    2.5.4
+    Dec 13, 2021
+    2.5.3
+    Nov 29, 2021
+    2.5.1
+    Nov 22, 2021
+    2.4.8
+    Nov 9, 2021
+    2.4.6
+    Oct 29, 2021
+    2.4.4
+    Oct 25, 2021
+    2.4.3
+    Oct 21, 2021
+    2.4.2
+    Oct 12, 2021
+    2.4.1
+    Oct 4, 2021
+    2.4.0
+    Sep 27, 2021
+    2.3.2
+    Jul 12, 2021
+    2.3.1
+    Jul 8, 2021
+    2.3.0
+    Jun 28, 2021
+    2.2.1
+    Jun 7, 2021
+    2.2.0
+    May 25, 2021
+    2.1.3
+    May 10, 2021
+    2.1.2
+    Apr 29, 2021
+    2.1.1
+    Apr 26, 2021
+    2.1.0
+    Apr 19, 2021
+    2.0.0
+    Feb 25, 2021
+    1.8.4
+    Jan 12, 2021
+    1.8.3
+    Dec 14, 2020
+    1.8.2
+    Nov 4, 2020
+    1.8.1
+    Aug 11, 2020
+    1.8.0
+    Jun 30, 2020
+    1.7.0
+    May 22, 2020
+    1.6.5
+    Apr 27, 2020
+    1.6.4
+    Mar 6, 2020
+    1.6.3
+    Mar 4, 2020
+    1.6.1
+    Jan 15, 2020
+    1.6.0
+    Dec 2, 2019
+    1.5.1
+    Aug 20, 2019
+    1.5.0
+    Aug 12, 2019
+    1.4.5
+    May 22, 2019
+    1.4.4
+    May 16, 2019
+    1.4.3
+    Mar 25, 2019
+    1.4.2
+    Mar 5, 2019
+    1.4.1
+    Dec 21, 2018
+    1.4.0
+    Dec 17, 2018
+    1.3.2
+    Oct 31, 2018
+    1.3.1
+    Oct 4, 2018
+    1.3.0
+    Sep 24, 2018
+    1.2.5
+    Sep 5, 2018
+    1.2.4
+    Aug 22, 2018
+    1.2.3
+    Aug 14, 2018
+    1.2.2
+    Jun 12, 2018
+    1.1.0
+    Jan 15, 2018
+    1.0.2
+    Nov 27, 2017
+    1.0.1
+    Nov 22, 2017
+    1.0.0
+    Nov 14, 2017
+
+See More
+Top In-App Purchases
+
+    Philo: 30-day DVR
+    $19.99
+    Philo: 30-day DVR
+    $19.99
+    Philo: 1-year DVR
+    $24.99
+    Philo: 1-year DVR
+    $24.99
+
+About
+
+Required Devices
+    Apple TV, iPhone, iPad
+
+Category
+    Entertainment
+
+Initial Release Date
+    Nov 14, 2017
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    5.1.0
+
+Size
+    59.27 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Philo, Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.philo.tv.philo
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1248646044
+Unified App ID: 1000600000663023
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Philo: Live & On-Demand TV | data.ai

@@ -1,0 +1,4 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+6475114423,0,White Canvas,Utilities,2024-01-03,2024-01-03,10.28,2,0,0,0,1.4.0,2024-02-07,Fixed a bug that undone operations were not saved.
+6475114423,0,White Canvas,Utilities,2024-01-03,2024-01-03,10.28,2,0,0,0,1.2.0,2024-01-15,Minor fixes to some UI
+6475114423,0,White Canvas,Utilities,2024-01-03,2024-01-03,10.28,2,0,0,0,1.0,2024-01-03,

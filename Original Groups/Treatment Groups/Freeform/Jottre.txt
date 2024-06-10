@@ -1,0 +1,222 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Jottre
+A LoraniProductivity (Applications)Free
+Alerts
+
+    A Lorani
+
+    Jottre
+    Jottre
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Jottre
+Minimalistic Jotting
+Productivity (Applications)
+Free
+App Description
+Jottre is a minimalist handwriting app. Designed specifically for the iPad with Apple Pencil.
+
+Write on iPad. View on iPhone or Mac.
+
+
+
+Key Features:
+- Support for dark/light mode
+- iCloud synchronization across all devices
+- Conversion to various file formats such as PDF, JPG or PNG
+- Based on the powerful PencilKit framework
+- Support for SplitView and Multi-Window
+Ratings
+Displayed Avg Ratings
+4.7
+Total Displayed Ratings
+10
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5 (Mar 10, 2021)
+    Features added:
+    - SplitView and MultiWindow support (You can now use Jottre with multiple instances)
+    - The cells width is now optimized for the current screen-size (less white-space)
+
+    Fixes:
+    - Resolved bug that causes App to crash after switching between local2iCloud
+    - Fixed ui bug that showed the wrong thumbnail in the wrong cell
+Version 1.2 (Mar 8, 2021)
+    - Performance improvements
+    - Bug fixes
+
+    UI upgrades:
+    - Cells will now animate
+    - Basic modifications
+Version 1.1 (Feb 3, 2021)
+    Bug fixes:
+    - The appearance of the thumbnails now automatically adapts to the selected interface display (dark, light, auto)
+    - Overall performance improvements
+    - You now can edit jots with you're finger if you don't have an Apple Pencil (iPadOS only)
+
+    Improved iCloud:
+    - Your files are now synced more frequently and automatically updated in an open Jottre app
+    - After switching from local to iCloud, your jots are automatically moved to iCloud (after switching back, iCloud files are transferred back to local storage)
+    - Added conflict resolution when a file changes locally while the same file is edited in the app
+
+Users may also like
+Select objects to compare
+Noteplicity
+AxNote: Note Taking
+Infinite Board
+OhMyMind
+myNotes - Whiteboard
+Renote: where ideas start
+Kantt Organizador
+Handwritten ToDo
+Pencil Journaling
+Kosmik - For all mindkind
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.5
+    Current release
+    Mar 10, 2021
+    1.2
+    Mar 8, 2021
+    1.1
+    Feb 3, 2021
+
+See More
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jan 26, 2021
+
+Worldwide Release Date
+    Jan 26, 2021
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    1.5
+
+Size
+    1.03 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, German
+
+Seller
+    A Lorani
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.1 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.antonlorani.jottre
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1550272319
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Jottre | data.ai

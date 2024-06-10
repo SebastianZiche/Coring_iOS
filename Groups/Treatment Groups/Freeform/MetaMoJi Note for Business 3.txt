@@ -1,0 +1,343 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MetaMoJi Note for Business 3
+MetaMoJiBusiness (Applications)Free
+Alerts
+
+Metamoji Note For Business 3
+MetaMoJi Note for Business 3
+MetaMoJi Note for Business 3
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MetaMoJi Note for Business 3
+Business (Applications)
+Free
+App Description
+MetaMoJi Note for Business is an all in one productivity app for business use. Import PDF documents, take meeting notes, sketch as if using pen and paper, and brainstorm on a virtual whiteboard; all from your iOS device.
+
+MetaMoJi Note for Business can be used in vast number of scenarios. Annotate PDF documents, handwrite or type notes, draw diagrams with a wide selection of pen styles and colors, sketch product designs, take photographs and capture web-pages. Even better, mix all of these together in a fully scalable and editable workbook. Your creativity is your only boundary.
+
+MetaMoJi Note for Business is based on MetaMoJi Note, the only note-taking app available across all major mobile platforms. Winner of multiple awards including a Tabby Award for Best Personal Productivity App, Silver Stevie® Award for International Business, a runner-up Appy Award for Productivity. It is also regularly positioned as the #1 Productivity App in Japan.
+
+Key Features
+• Write, sketch or draw notes with a variety of pens, paper layouts and graphics. Includes calligraphy pens and special inks from a vast color palette
+• Grab your great ideas quickly with voice memos which you can tag to your visual content
+• Pen styles include highlighter, fountain pen and brushes
+• Scale, rotate, and move text boxes anywhere in your work space
+• Built-in spell checker
+• Laser pointer mode for highlighting areas of your document during presentations
+• Password protect your notes to ensure your information is kept safe
+• Enhanced text formatting options including the option to add bullets and increase & decrease indents
+• Flexible scaling means you can visualize your document as a large whiteboard or as a small sticky note, all the while maintaining 100% visual integrity with up to 50X zoom capability and vector graphic resolution quality
+• Flexible synchronization of files and folders to our cloud service, allowing you to back-up and manage your documents across multiple devices
+• Save drawings as individual JPEG graphics and re-use across other documents
+• The Shared Drive capability allows co-editing of documents
+• Enhanced Jump functions allow for you to assign visual points to easily navigate around complex compositions while you are presenting
+• Shapes tool provides editable shapes
+• Shape recognition converts your drawing to a basic shape
+• Smart cropping tool vastly extends photo editing
+• Notes can be exported and imported via an WebDAV server or Storage Provider
+• InOutBox tool transfers files between the app and PC
+• User management tools facilitate sharing your device among different accounts
+
+Here are some ways to use MetaMoJi Note during your business day:
+• Generate quick notes and to-do lists, add voice memos and tag for easy retrieval later
+• Quickly sketch out new ideas and the pass around your device or share your creations as an image or print-out
+• Take meeting minutes and immediately share via email or a Shared Drive to your team
+• Use as an interactive whiteboard to brainstorm and present during team meetings – hook your device up to a projector or TV as required
+• Use your devices camera to capture instant images or import from your picture albums. Annotate the images and mash-up with any other content you need
+• Import PDF documents directly into the app and then review and annotate using the powerful creativity tools
+• Draw out processes, flowcharts and diagrams. If you need more space just pick up any individual line or group of content then move and scale it to fit. Easily alter colors and line styles
+• Maintain a visual calendar with each entry providing a large editing space to capture all the information you need
+
+MetaMoJi Corporation Privacy Policy: http://product.metamoji.com/en/privacy/
+Ratings
+Displayed Avg Ratings
+2
+Total Displayed Ratings
+7
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.9.13 (Jun 29, 2018)
+    - Bug fixes
+Version 3.9.12 (Jun 18, 2018)
+    - Bug fixes
+Version 3.9.11 (Mar 28, 2018)
+    - Fixed the audio function
+    - Bug fixes
+Version 3.9.9 (Nov 20, 2017)
+    [3.9.9]
+    - Fixed a few bugs
+
+    [3.9.6]
+    - Improved some functions and bug fixes
+
+    [3.9.5]
+    - Support iPhone（6/6Plus、6s/6sPlus、SE、7/7Plus or later）
+    - Added customized export function
+    - Improved the shape pen
+    - Bug fixes
+Version 3.9.8 (Oct 2, 2017)
+    [3.9.8]
+    - Bug fixes
+
+    [3.9.6]
+    - Improved some functions and bug fixes
+
+    [3.9.5]
+    - Support iPhone（6/6Plus、6s/6sPlus、SE、7/7Plus or later）
+    - Added customized export function
+    - Improved the shape pen
+    - Bug fixes
+Version 3.9.6 (Aug 7, 2017)
+    [3.9.6]
+    - Improved some functions and bug fixes
+
+    [3.9.5]
+    - Support iPhone（6/6Plus、6s/6sPlus、SE、7/7Plus or later）
+    - Added customized export function
+    - Improved the shape pen
+    - Bug fixes
+Version 3.9.5 (Jul 11, 2017)
+    [3.9.5]
+    - Support iPhone（6/6Plus、6s/6sPlus、SE、7/7Plus or later）
+    - Added customized export function
+    - Improved the shape pen
+    - Bug fixes
+Version 3.9.3 (Jun 13, 2017)
+Version 3.9.2 (Apr 6, 2017)
+Version 3.9.1 (Jan 31, 2017)
+    [3.9.1]
+    - Fixed text operations on iOS 10
+    - Minor bug fixes
+
+    [3.9.0]
+    - Added Apple Pencil mode
+    - Bug fixes
+Version 3.9.0 (Sep 23, 2016)
+    - Added Apple Pencil mode
+    - Bug fixes
+Version 3.7.9 (Jun 10, 2016)
+    [3.7.9]
+    - Bug fixes
+
+    [3.7.8]
+    - Fixed pages list with lazer pointer pen on full screen
+    - Bug fixes
+
+    [3.7.7]
+    - Bug fixes for iOS 9
+Version 3.7.8 (Mar 9, 2016)
+    [3.7.8]
+    - Fixed pages list with lazer pointer pen on full screen
+    - bug fixes
+
+    [3.7.7]
+    - Bug fixes for iOS 9
+Version 3.7.7 (Nov 4, 2015)
+    [3.7.7]
+    - Bug fixes for iOS 9
+Version 3.7.6 (Oct 20, 2015)
+    [3.7.6]
+    - Bug fixes
+
+    [3.7.5]
+    - Bug fixes
+Version 3.7.5 (Oct 5, 2015)
+    [3.7.5]
+    - Bug fixes
+Version 3.7.3 (Jul 28, 2015)
+
+Users may also like
+Select objects to compare
+XPdfNotes PDF notetaker
+EverEditor
+KTrunk
+ZoomNotes Lite
+SS Writer -会話創作に特化したメモ
+ClearScanner Pro: PDF Scanning
+mizutamaカレンダー
+Mindsketch – Big Notes
+Noteplicity
+Noteflow Digital Notebook
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.9.13
+    Current release
+    Jun 29, 2018
+    3.9.12
+    Jun 18, 2018
+    3.9.11
+    Mar 28, 2018
+    3.9.9
+    Nov 20, 2017
+    3.9.8
+    Oct 2, 2017
+    3.9.6
+    Aug 7, 2017
+    3.9.5
+    Jul 11, 2017
+    3.9.3
+    Jun 13, 2017
+    3.9.2
+    Apr 6, 2017
+    3.9.1
+    Jan 31, 2017
+    3.9.0
+    Sep 23, 2016
+    3.7.9
+    Jun 10, 2016
+    3.7.8
+    Mar 9, 2016
+    3.7.7
+    Nov 4, 2015
+    3.7.6
+    Oct 20, 2015
+    3.7.5
+    Oct 5, 2015
+    3.7.3
+    Jul 28, 2015
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Jul 28, 2015
+
+Worldwide Release Date
+    Jul 28, 2015
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    3.9.13
+
+Size
+    104.43 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese
+
+Seller
+    MetaMoJi Corporation
+
+Company HQ
+    Japan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 7.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.metamoji.noteanytime.forbiz3
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1020558416
+Unified App ID: 1000800000039165
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MetaMoJi Note for Business 3 | data.ai

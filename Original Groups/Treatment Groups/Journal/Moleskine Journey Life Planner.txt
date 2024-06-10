@@ -1,0 +1,951 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Moleskine Journey Life Planner
+MoleskineHealth and Fitness (Applications)Free
+Alerts
+
+Moleskine Journey
+Moleskine Journey Life Planner
+Moleskine Journey Life Planner
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Moleskine Journey Life Planner
+Journal, Planner, and Tasks
+Health and Fitness (Applications)
+Free
+App Promotional Text
+Personal productivity and life organization
+App Description
+Moleskine Journey is a life planner created to design your day.
+
+Designed for creative minds, independent workers, audacious backpackers, and free spirits, Moleskine Journey uniquely combines the best features of productivity apps (calendars, events, to-do lists, tasks, reminders, and notes) with features for personal growth and self-care (habit trackers and journals).
+
+With our life planner you can organize and document any aspect of your life from one single app.
+
+With Moleskine Journey you can enjoy recording your days, your goals, your priorities, your special moments and habits in one place.
+
+Daily reminders, to do lists and calendars will keep you schedule your important self-care moments and stay on top on your work/life activities. Journals will help you record meaningful day-to-day interactions and thoughts to keep track of the things that matter most to you.
+
+Use your creativity to uniquely combine productivity features with personal growth and self-care tools to create your unique life planner. Express yourself like never before.
+
+Use our collection of Journal templates, their features let you journal on many topics.
+
+Templates currently available: the routine journal, the sleep journal, the mood journal, the expenses journal, the mindfulness journal, the food journal, the gratitude journal, mental health journal, and the weight tracking journal.
+
+But what make our journals special and unique is the possibility to customize them with custom prompts and type of entries, such as photos, link, quotes, tasks, and much more. So if you don’t find the journal that suit your needs you can always create one of your own or hack the existing ones.
+
+HOW DOES A LIFE PLANNER WORK?
+Here's how you can use our app every day to stay on top of your work and your life.
+
+Start your day by opening the app and checking your calendar events and tasks for the day.
+
+Then, open your journal and set up customizable prompts to create a taylor-made journal. Write down your intentions for the day and any thoughts that come to mind, so you can be more aware of your emotions and feelings every day.
+
+Plan your work and personal tasks in the to-do lists and check them off as you complete them to make sure you're moving according to your goals and priorities.
+
+Use the weekly list for work to plan everything in advance and mark off tasks day by day. If the list isn't fully completed by the end of the week, move the unfinished tasks to the following week.
+
+For your well-being, keep a daily routine that repeats each day. Track your activities, such as reading, meditating, and drinking water, in Moleskine Journey. You can create a daily routine to tick off each activity or create a specific journal for each activity you care about.
+
+At the end of the day, record your mood, finish your journal entries, and plan some activities for the next day.
+
+This is how you can use the app, but there are many more features and ways to use the life planner.
+
+Our idea is to create a modular system where you can adapt your experience according to your needs and goals.
+
+Moleskine Journey is a membership service with a free trial. Download the app free to try it out without restriction. After the trial period you can choose to purchase a membership which allows unlimited use across all of your devices. Without an active membership, you can still use the app in read-only mode.
+
+Privacy Policy: https://moleskinejourney.com/legal/privacy
+Terms of Service: https://moleskinejourney.com/legal/terms
+Ratings
+Displayed Avg Ratings
+4.38
+Total Displayed Ratings
+7.9k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.0.428 (Nov 20, 2023)
+    Hi everyone!
+    We fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.426 (Sep 23, 2023)
+    Hi everyone!
+    We fixed several bugs and improved the support for the new iOS17 release, including supporting the new permissions requests, the glich on scrolling in the text editor, and fixes to the widgets.
+    We also changed the default position of the Mole-E button and improved the usability of the quick actions in the home page.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.422 (Aug 25, 2023)
+    Hi everyone!
+    We hope you're enjoying Mol-E, the AI assistant we launched last month. This release improves Mol-E results to better match your intentions. Make sure to provide us with feedback if anything goes wrong so that we can continue to improve the service.
+    We added to Mol-E experimental support for all the languages the app is localized for, let us know how it works for you!
+    We also heard your feedback about the Mol-E button: it is now possible to move it to the top bar from the settings to keep the main page clean.
+    We added the possibility to expand the selected text in a Journal or Project using Mol-E text generation capabilities, just select some text and tap the Mol-E button, what are you going to use it for?
+    Finally we fixed several bugs and prepared the app for the new iOS17 release.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.419 (Jul 30, 2023)
+    Hi everyone!
+    We're happy to introduce Mol-E: an AI assistant that will make adding your ideas and thoughts to Journey super fast.
+    Go ahead and talk to Mol-E and it will convert your voice to tasks, lists, reminders and journal entries, and furthermore it will organize these contents for you in the right journal or project.
+    You can use Mol-E from your devices and, for the first time, you can create your contents directly from the Apple Watch, from the watch app or adding the complication to your Watch Face!
+    We're really eager to see if Mol-E will be for you the gamechanger it has been for us, let us know if it is working for you and send us your feedback and suggestions to improve it even more!
+    Currently Mol-E supports only English and Italian but we're working to extend it to other languages.
+    Thanks
+Version 1.0.404 (Jun 23, 2023)
+    Hi everyone!
+    We fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.393 (Jun 10, 2023)
+    Hi everyone!
+    We worked on some improvements and optimizations of the app performance and experience.
+    We added buttons to the home screen to quickly create new events and reminders.
+    We also created a new icon for Journey you can select it in the Theme settings, do you like it?
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.368 (May 16, 2023)
+    Hi everyone!
+    We added new stats to highlight your frequent answers to multiple choice and rating prompts. We also created a special map for the location prompt statistics that shows you all the places you've been in the month or in the year.
+    We also fixed the reported bugs and improved the app's overall performance.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.364 (May 3, 2023)
+    Hi everyone!
+    New journal templates are now available!
+    We created four new Special templates to inspire you and you can fully customize them: the expenses journal, the sleep journal, the weight tracking journal, and, as May is the Mental Health Month, the Mental Health Journal, which is meant to give you ideas on what to track in order to better understand how your mind works and keep it balanced.
+    We also rewrote our existing Special templates, which can now be fully customized to meet your needs: you can add, edit, and remove any prompt and default answer.
+    We also fixed the reported bugs and improved the app's overall performance.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.363 (May 1, 2023)
+    Hi everyone!
+    New journal templates are now available!
+    We created four new Special templates to inspire you and you can fully customize them: the expenses journal, the sleep journal, the weight tracking journal, and, as May is the Mental Health Month, the Mental Health Journal, which is meant to give you ideas on what to track in order to better understand how your mind works and keep it balanced.
+    We also rewrote our existing Special templates, which can now be fully customized to meet your needs: you can add, edit, and remove any prompt and default answer.
+    We also fixed the reported bugs and improved the app's overall performance.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.358 (Apr 25, 2023)
+    Hi everyone!
+    This release includes some important new features:
+
+    - We added a new prompt types for custom journal templates: time, counters and places. You can now make your templates richer and more in fit with your needs than ever, we cannot wait to see what you'll create with them!
+    - When you set the date for a task, it will now be shown in the planner, even if it is not scheduled for a specific time.
+    - We fixed several user experience issues.
+
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.353 (Apr 21, 2023)
+    Hi everyone!
+    This release includes some important new features:
+
+    - We added a new prompt types for custom journal templates: time, counters and places. You can now make your templates richer and more in fit with your needs than ever, we cannot wait to see what you'll create with them!
+    - When you set the date for a task, it will now be shown in the planner, even if it is not scheduled for a specific time.
+    - We fixed several user experience issues.
+
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.346 (Mar 29, 2023)
+    Hi everyone!
+    This release introduces a new feature that drastically steps up the customization of your Journals: Custom Templates.
+    You can now set a list of prompts with 5 different types of answers to create the perfect journal entry for your goals. We'd love to hear how you're going to use this feature, let us know on our social pages and using the feedback inside the app!
+    We also fixed many minor issues and improved some of the visual component to make your entries stand out even more (for example we changed the way images are cropped in the previews).
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.335 (Mar 16, 2023)
+    Hi everyone!
+    We fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.334 (Mar 4, 2023)
+    Hi everyone!
+    We fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.323 (Feb 24, 2023)
+    Hi everyone!
+    We fixed many bugs you reported and worked on some improvements and optimizations on our most advanced templates:
+
+    - it is now possible to add custom feelings in the Mood Journal
+    - we improved the preview for the Mindfulness Journal
+    - in the Food Journal is now easier to change the name of the meal and the meal time is automatically set from the photos you add
+
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.317 (Feb 23, 2023)
+    Hi everyone!
+    We fixed many bugs you reported and worked on some improvements and optimizations on our most advanced templates:
+
+    - it is now possible to add custom feelings in the Mood Journal
+    - we improved the preview for the Mindfulness Journal
+    - in the Food Journal is now easier to change the name of the meal and the meal time is automatically set from the photos you add
+
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.316 (Feb 5, 2023)
+    Hi everyone!
+    We have big news: we upgraded the text editor in Journey to support text formatting and Markdown syntax! You'll be able to add headings, line separators, bullet points, and highlight words using bold or italic. You can do much more, check the Text formatting guide for a complete reference.
+    We also fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.309 (Jan 19, 2023)
+    Hi everyone!
+    We added to the plus menu in the home two quick action buttons to add reminders and events, making it faster to write down what pops into your mind.
+    We rewrote the Settings menu so that it is easier to access each preference and discover new features.
+    We introduced a new menu to collect feeback and feature requests, it will be easier to see where the service is headed to in terms of features and you'll be able to vote to prioritize the features and changes more impactful for you.
+    We also fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.299 (Jan 2, 2023)
+    Hi everyone!
+    We changed the default setting to add tasks to the top of a list, to make it simpler to add new items when you have many tasks. You can go back to the previous behavior from the setting in the three dots menu of each journal.
+    We added a fallback mechanism for the FaceID unlock to ensure you can access the app if FaceID is not working as expected.
+    We fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.294 (Dec 18, 2022)
+    Hi everyone!
+    With this release we introduce a new template we hope you'll love: Year's Resolutions, the perfect place to enshrine your intentions and make sure you see them throughout the year. Ideal for your New Year's Resolutions. Let us know what you think of it!
+    Furthermore we fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.290 (Dec 12, 2022)
+    Hi everyone!
+    They're finally here! A host of new widget has been added to this version. These widgets are one of the most requested features and we're eager to hear what you think of them.
+    The new widgets include:
+
+    - Quick view, a summary of your day and of your upcoming activities
+    - Habit Streak, to check if you're on track with your habits
+    - Favorites, a shortcut to your favorite journals
+    - Monthly Planner, a view on all your events in the current month.
+
+    You can customize some of the widgets to make them perfect for you by editing their settings.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.280 (Nov 28, 2022)
+    Hi everyone!
+    This release introduce the Discover section: a space where you can find contents to inspire you, suggestions on journaling, and guides on how to use Journey.
+    Let us know what you think of it and suggest us new contents to add there.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.277 (Nov 18, 2022)
+    Hi everyone!
+    We fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.272 (Nov 11, 2022)
+    Hi everyone!
+    We're glad to release three new premium templates: Daily routines, Weekly lists, and Monthly goals. These templates expand how you can interact with the app by giving you the opportunity to assign tasks to an entire week or month, and to create a set of tasks that will be automatically repeated each day, week, or month!
+    We encourage you to explore these templates in detail by checking them out in the templates menu, tapping on the plus button in the homepage.
+    We introduced the selection of multiple items: you can now perform actions on a group of contents. To enter the selection mode open the three dots menu of the journal and tap on 'Select items'.
+    We fixed many bugs reported and improved the interface and app experience: we fixed some layout issues when exporting journals as PDF, we fixed an issue in text editing, and we make it faster to complete some common actions on the tasks.
+    We also fixed some an issue reported from some users regarding seeing a paywall while subscribed, sorry for the inconvenience.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.268 (Oct 31, 2022)
+    Hi everyone!
+    We fixed many bugs you reported and worked on some improvements and optimizations of the app performance and experience.
+    Enjoy Journey and keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.263 (Oct 20, 2022)
+    Hi everyone!
+    We introduced a new system for exporting your journals as beautiful PDF documents, so that you can save or print them. Check it out in the three dots menu by selecting 'Export'. Let us know what you think of it!
+    We also fix many bugs reported.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.260 (Oct 11, 2022)
+    Hi everyone!
+    This update addresses many issues you reported and improves the app experience, in particular when editing journal entries. It also fixes some UI issues due to iOS 16.
+    We improved text editing by making it easier to add new lines at the end of the entry, change the format of a line, and select the text.
+    We also fixed some unexpected behaviors when using the journal templates, in the habit stats, and in the planner.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.252 (Sep 10, 2022)
+    Hi everyone!
+    This update is packed with new features and improvements. Your reports helped us find the changes that could have the greatest positive impact on the app experience.
+    The history is much more visual with bigger image previews.
+    We worked a lot to improve the writing experience.
+    We added back tags for projects to better organize and filter them.
+    In addition to these changes we fixed and improved many features such us the Apple Reminders integration, the search results, that are now more detailed, in particular for journal contents, many visual fixes to the light theme, and some fix regarding the coming OS update.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.238 (Aug 10, 2022)
+    Hi everyone!
+    This release introduce a new journal template perfect for this season, the travel journal, and brings in many improvements throughout the app. Thanks for your suggestions and reports, they always help us improve the experience and make the app better for all of you.
+
+    The travel journal helps you log your favorite places and collect descriptions, photos, and other details that will help you turn experiences into memories.
+
+    The light theme is back, you can select it in the settings menu.
+    You can also set what's the first day of the week.
+
+    We improved the experience for the drawings making sure of your sketches and notes is saved and safe. In general we improved the way contents are saved to avoid accidentally losing partial entries.
+
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Thanks
+Version 1.0.226 (Jul 28, 2022)
+    Hi everyone!
+    This release addresses most of the suggestions and reports you sent us about the new version, thank you for helping us improve the experience and make the app better for all of you.
+    Here's what's changed:
+
+    - It is possible to show unscheduled tasks from habits setting your preferences from the three dots menu in the Planner
+    - It is possible to add events from the Planner using the new add button at the top
+    - Habit color is shown more prominently on the habit card in the home
+    - The Photo Diary preview is bigger, and you can add multiple photos and sketches
+    - It is possible to add timestamps in a journal entry directly from the bar menu above the keyboard
+    - We added fast actions on swipe on all of the habits
+    - It is possible to hide completed task in the projets and in the project section in general
+
+    In addition to all of these changes there are many bug fixes and issues resolved.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Let us know if this fixes made it for you and if there are more tweak you'd like us to do.
+    Thanks
+Version 1.0.225 (Jul 24, 2022)
+    Hi everyone!
+    This release addresses most of the suggestions and reports you sent us about the new version, thank you for helping us improve the experience and make the app better for all of you.
+    Here's what's changed:
+
+    - It is possible to show unscheduled tasks from habits setting your preferences from the three dots menu in the Planner
+    - It is possible to add events from the Planner using the new add button at the top
+    - Habit color is shown more prominently on the habit card in the home
+    - The Photo Diary preview is bigger, and you can add multiple photos and sketches
+    - It is possible to add timestamps in a journal entry directly from the bar menu above the keyboard
+    - We added fast actions on swipe on all of the habits
+    - It is possible to hide completed task in the projets and in the project section in general
+
+    In addition to all of these changes there are many bug fixes and issues resolved.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Let us know if this fixes made it for you and if there are more tweak you'd like us to do.
+    Thanks
+Version 1.0.218 (Jul 7, 2022)
+    Hi everyone!
+    This release is a big leap forward for Moleskine Journey. We collected thousands of feedback from you to understand the right way to move on and we worked hard to give you the best version of Journey ever!
+    Performance and stability, a cleaner and modern interface, a rich and meaningful way to show the value of the information and memories you put into the app, a new path to extend and explore new use cases: these were the main drive of this version.
+    Follow us on social media to learn more about this update and to learn more about the next steps.
+    Enjoy Journey and, as usual, please keep sending in your feedback and suggestions!
+    Thanks
+Version 0.220316.190 (Mar 17, 2022)
+    Hi everyone!
+    This hotfix release solves an errors that makes the app crash on start for some users.
+    Sorry for the inconvenience, thanks for reporting this error and please let us know if this fix works for you.
+    Please keep sending in your feedback and suggestions!
+    Thanks
+Version 0.220309.188 (Mar 10, 2022)
+    Hi everyone!
+    We fixed an issue with our Apple Reminders integration that many of you reported. Let us know if it works as expected now :)
+    We also fixed a problem that prevented, in some cases, the navigation and the photo visualization in the Photo Diary.
+    Stay tuned for the next updates, we're working on a big release and we'll ask your feedback before rolling it out.
+    Please keep sending in your feedback and suggestions!
+    Thanks
+Version 0.220131.185 (Feb 1, 2022)
+    Hi everyone!
+    Thanks to your feedback we identified and fixed several unexpected behavior and issues on the app.
+    You can now select a specific date range of My Day entries to be exported, just like you do for single habits, the stats on the habits are now consistent between web and iOS, we improved the way previews for handwritten drawings are generated, and we fixed an issue preventing some events form being shown in the monthly planner.
+    Stay tuned for the next updates and please keep sending in your feedback and suggestions!
+    Thanks
+Version 0.211118.179 (Nov 24, 2021)
+    Hi everyone!
+    This release fixes some compatibility issues with the new iOS version.
+    Stay tuned for the next updates and please keep send in your feedback and suggestions!
+    Thanks
+Version 0.211025.177 (Oct 28, 2021)
+    Hi guys!
+    This release fixes some experience issues and the bugs reported. We also changed the way the tasks in the planner are shown to increase the emphasis on their color.
+    Stay tuned for the next updates and please keep send in your feedback and suggestions!
+    Thanks
+Version 0.210909.169 (Sep 13, 2021)
+    Hi everyone!
+    This update fixes some issues you reported about the creation of recurring tasks, the access to the notes on the challenges and on the mood diary, and the editing of the food diary entries. We're working hard to make the experience smoother and faster, so feel free to give us your feedback on what you feel should be improved. Let us know what you think is missing or features you'd like to be added to Journey, we love to hear your suggestions!
+    Thanks
+Version 0.210813.166 (Aug 16, 2021)
+    Hi guys!
+    In this update you'll find a couple quick fixes for some issues you reported and improvement to the UI to make My Day more compact.
+    Enjoy! Feel free to contact us for any feedback or suggestion.
+Version 0.210712.160 (Jul 16, 2021)
+    Hi guys!
+    We're glad to introduce this update, it brings in many major changes in the app look and experience. Hope you'll like them, we'll love to hear your feedback and suggestions on how to improve further.
+
+    What's new:
+
+    - New quick entry UI, all important actions are now available directly on tap, so that you can create tasks, goals, or add a photo to your photo journal just in one tap. History can be accessed both tapping on the habit title or accessing the menu with a swipe right gesture
+    - Navigation between days is easier thanks to the new week navigation at the top of My Day view
+    - Habit history has been redesigned to make it easier to have the past entries overview, and to add new information
+    - New font and improvements to every visual element. We balanced the look and the readability of each content you add to Journey
+    - New look for the challenges, you'll be able to see the entire week streak right from My Day
+
+    We also added new visualization options and other improvements you requested:
+
+    - Scheduled tasks are now shown in chronological order along with events by default (you can go back to previous mode from the three dots menu in the Planner)
+    - Past events are lighter to better focus on next scheduled events, and you can also decide to hide past events altogether using the option inside the three dots menu
+    - As for Apple Reminders, we make it easier to identify task imported from Reminders and improved their editing
+    - We fixed the connection banner behavior that you guys reported as being too intrusive
+
+    As usual we fixed the bugs reported, thanks for sending in all the useful info to solve them.
+    Looking forward for your feedback and suggestions. Stay tuned for the next updates, there's much more coming soon!
+Version 0.210510.145 (May 11, 2021)
+    Hi everyone!
+    This release brings in a lot of improvements on the overall app experience, making the interaction smoother and making it easier to record your memories and plans into the app. You can notice the changes all over the app, try setting the mood for the day, filling up your food diary, or opening the photo journal.
+    We fixed as usual the bugs reported, thanks for sending in your reports.
+    Looking forward for your feedback and suggestions, let us know what improvement would you like to see in the next releases.
+Version 0.210401.139 (Apr 2, 2021)
+    Hi guys!
+    We changed a lot the UX/UI of the app with the latest update, choosing a new main gesture to add and edit content: a swipe from left to right for all the habits in My Day.
+    We understand this has been confusing for some of you at first as it is a fundamental change, but we believe this experience is as fast, and, once you get used to it, allows a more uniform and simple interaction across the service.
+    In this update we resolved some experience issues that you reported about the new UI and adding a visual tutorial for the new gestures.
+    Please give it a try and let us know if it works fine for you, we're eager to receive your feedback and suggestions about it.
+Version 0.210324.138 (Mar 26, 2021)
+    Hi everyone!
+    Has been a while, but we're back with a great update!
+    We analyzed hundreds of feedback you sent and tried to fix all the issues you reported and to take your suggestions on the experience. We're rolling out over 50 fixes and improvement based on the messages you sent.
+    Another big change is the My Day overall experience: we simplified the interactions with the habits making them more coherent and straightforward.
+    From now on, by swiping right you add a content or complete the main action on the Habit (e.g.: complete a challenge), tapping on it will open the history, and swiping right will give access to all the other actions. This works on the Planner card too!
+    Please let us know if you get used to this and if you like it.
+    Looking forward for your feedback and suggestions, let us know what improvement would you like to see in the next releases.
+Version 0.210216.131 (Feb 18, 2021)
+    Hi everyone!
+    We're working hard to make the service more stable and reliable as we design and test a lot of new features and improvements to be released in the next months. Stay tuned and let us know if we missed something.
+
+    - we fixed the export button
+    - we fixed the time selection when adding a new task
+    - the UI update on the Journal habits in the My Day section is more reliable
+    - we improved the synchronization reliability, solving an issue that made it stuck in some circumstances.
+
+    There are more fix and improvement we were able to do thanks to your reports and feedback, please continue to let us know your suggestions and what you'd like to be able to accomplish using Journey!
+Version 0.201230.129 (Jan 2, 2021)
+    Hi guys!
+    2020 has been a tough year, we were separated from each other, both at home and work, and we saw many friends only through a smartphone screen.
+    The issues we've been through made clearer than ever the value of the things we accomplish with the people we love.
+    That's why in this new version we added one of the most requested feature: shared habits!
+    Share a Journal with other Moleskine Journey users to create a collective diary, or your Daily Goals to get things done in your team, or even beautiful shared Photo Diaries to have a great place to keep your memories with your friends and family.
+    We hope this will help you going through the days that separate us from when we can hug each other again, even just a little.
+    May the 2021 be the greatest year in your life.
+
+    As usual we fixed the problems reported and made some actions more reliable and clear. Because of the new share feature, if you want to copy a content and share it with third party app you should now use the export feature.
+    Feel free to write us to contact us for any suggestions and feedback.
+Version 0.201125.123 (Nov 25, 2020)
+    Hi everyone!
+    We're working on a big update for the new year, meanwhile we completed a bunch of fixes and performance improvements to make the app more stable and the experience more fluid and clean.
+    We fixed an issue causing inexpected scrolls when browsing habit history, we resolved a performance issue linked to the integration with Apple Reminders, and we improved the localization of the weekly and monthly planner views. Furthermore we improved the synchronization management and tackled an issue some users had on the recurring tasks.
+    Thank you for your feedback and for reporting these issues and providing us with information useful to solve them, feel free to write us at any time, we're glad to improve the app along with you guys!
+Version 0.201112.121 (Nov 16, 2020)
+    Hi everyone!
+    We're working on a big update for the new year, meanwhile we completed a bunch of fixes and performance improvements to make the app more stable and the experience more fluid and clean.
+    We fixed an issue causing inexpected scrolls when browsing habit history, we resolved a performance issue linked to the integration with Apple Reminders, and we improved the localization of the weekly and monthly planner views. Furthermore we improved the synchronization management and tackled an issue some users had on the recurring tasks.
+    Thank you for your feedback and for reporting these issues and providing us with information useful to solve them, feel free to write us at any time, we're glad to improve the app along with you guys!
+Version 0.201018.117 (Oct 18, 2020)
+    Hi there!
+    Are you enjoying iOS 14? We received a ton of feedback asking for new iOS 14 widgets and we decided to go for it and create some widgets for Journey!
+    In this update you'll find 3 widgets:
+    Quote of the Day: a motivational quote every day to keep you inspired.
+    Sun and Moon Calendar: a calendar showing sunrise and sunset times and the moon phase for each day of the week.
+    Habit Streak: an overview of the completion of a selected habit for this week, how consistent were you in following you habit?
+    We're really excited for this new feature, we hope it could help you stay motivated and inspire you new ideas. Give our new widgets a try and let us know what you think of them, we look forward for your feedback and suggestions!
+Version 0.201011.113 (Oct 12, 2020)
+    Hi there!
+    Are you enjoying iOS 14? We received a ton of feedback asking for new iOS 14 widgets and we decided to go for it and create some widgets for Journey!
+    In this update you'll find 3 widgets:
+    Quote of the Day: a motivational quote every day to keep you inspired.
+    Sun and Moon Calendar: a calendar showing sunrise and sunset times and the moon phase for each day of the week.
+    Habit Streak: an overview of the completion of a selected habit for this week, how consistent were you in following you habit?
+    We're really excited for this new feature, we hope it could help you stay motivated and inspire you new ideas. Give our new widgets a try and let us know what you think of them, we look forward for your feedback and suggestions!
+Version 0.201008.112 (Oct 9, 2020)
+    Hi there!
+    Are you enjoying iOS 14? We received a ton of feedback asking for new iOS 14 widgets and we decided to go for it and create some widgets for Journey!
+    In this update you'll find 3 widgets:
+    Quote of the Day: a motivational quote every day to keep you inspired.
+    Sun and Moon Calendar: a calendar showing sunrise and sunset times and the moon phase for each day of the week.
+    Habit Streak: an overview of the completion of a selected habit for this week, how consistent were you in following you habit?
+    We're really excited for this new feature, we hope it could help you stay motivated and inspire you new ideas. Give our new widgets a try and let us know what you think of them, we look forward for your feedback and suggestions!
+Version 0.200922.101 (Sep 24, 2020)
+    Hi everybody!
+    Here we are with a new release of Moleskine Journey. We focused on improving the experience and on fixing some pesky bugs you reported, moreover we're rolling out the much requested Reminders integration.
+    Let's dig into this update:
+
+    - We fixed a bug that prevented you from adding entries in the past and future when a Habit had just been created.
+    - We fixed some issues on recurring tasks (duplication, errors on the time shown). Thanks to the users that reported these cases!
+    - Solved an issue causing a lag showing project title when opening a project
+    - We redesigned the weekly and monthly view of the planner, performance should be better and look is cleaner and ready for further improvements
+    - You can now find your calendars events right from the search box
+    - NEW FEATURE: this is big! We integrated Apple Reminders into the app, you can now see, edit, and mark as complete every reminder you scheduled into Reminders from Journey's Planner (reminders without a due date are not shown). Let us know what you think of it and if it fits your use case. Many users asked for this integration and we're happy to roll this out.
+    - A leap forward in making Journey more like you: the app has now nine themes you can choose from, try them and pick your favorite color from the Settings menu.
+
+    We work to make each experience in Journey as straightforward and intuitive as possible, but there are info about the features we cannot express right into the app and ways of using Journey that are best explained in more detail.
+    We added links to our growing user guide and FAQ page into the Tips menu and into the feedback menu. Please take a look at them and let us know what aspect of the service that aren't covered and you'd like to read about.
+
+    Mmmh… this changelog came out longer than expected… but in fact this is a hefty update! Hope you enjoy using it as much as we loved working on it. Feel free to write us to give us your suggestions and feedback.
+Version 0.200804.96 (Aug 5, 2020)
+    Hi guys!
+    We fixed the bugs reported and made some actions more intuitive.
+    Thank you for your feedback and reports! Feel free to write us to report any issue or give us your suggestions.
+    Enjoy the summer! Stay safe :)
+Version 0.200726.91 (Jul 27, 2020)
+    Hi there! Step by step we're making Journey closer to the vision we have for the service and to what you asked for during these months.
+    Now you can set a recurrence rule to the new habits: do you want to run 2 times a week? Do you want to write your journal every Friday? When you create the habit you can set these rules.
+    You can set a reminder for your habits: you'd like to be notified to be sure to complete the meditation challenge you just set? Set the reminder on the habit and you'll never forget to do it!
+    Try these new options and let us know if something is missing.
+    Some users asked for a simple way to duplicate their projects as it is useful to use a project with a good structure as a template for the new ones. Piece of cake: use the 'Duplicate' action in the project menu.
+    At each release we try to fix the bugs reported and solve all that issues that hinder the experience. We'll eventually fix them all but we give them priority according to your feedback, if you think something really important should be done please write us to let us know.
+Version 0.200722.90 (Jul 23, 2020)
+    Hi there! Step by step we're making Journey closer to the vision we have for the service and to what you asked for during these months.
+    Now you can set a recurrence rule to the new habits: do you want to run 2 times a week? Do you want to write your journal every Friday? When you create the habit you can set these rules.
+    You can set a reminder for your habits: you'd like to be notified to be sure to complete the meditation challenge you just set? Set the reminder on the habit and you'll never forget to do it!
+    Try these new options and let us know if something is missing.
+    Some users asked for a simple way to duplicate their projects as it is useful to use a project with a good structure as a template for the new ones. Piece of cake: use the 'Duplicate' action in the project menu.
+    At each release we try to fix the bugs reported and solve all that issues that hinder the experience. We'll eventually fix them all but we give them priority according to your feedback, if you think something really important should be done please write us to let us know.
+Version 0.200711.87 (Jul 14, 2020)
+    Hi guys!
+    The most requested feature so far is here: Journey is now integrated with Apple Pencil!
+    You can now add your sketches and handwritten notes into your journal, projects and day pages. Whenever you feel inspired to jot down an idea with the Pencil just tap on the add button and add a new sketch to get started.
+    Let us know your feedback about this, we're eager to hear your ideas and suggestions :)
+
+    We also fixed many bugs and minor issues you reported and added a new interface for the fast editing of events on Mac.
+Version 0.200701.84 (Jul 2, 2020)
+    Hi everybody!
+    Here we are with a new release of Moleskine Journey.
+    We worked on many different things, from little design tweaks to core improvements to the experience. Here are the main changes:
+    Extended Journal: we worked a lot on this. You can now add much more to your journal or personal diary. Many of you gave us the feedback that a text-only journal was not enough to express themselves, so we decided to let you add images, titles, and links to each day. You’re free to organize these contents as you wish and you’ll have a beautiful preview for each day based on what you add.
+    This is the first step toward more advanced features we’ll add to all the habits, to make it easier to reach your goals and be aware of your progress.
+    Score for every habit: the score tab is now available on every habit, for example you can check how consistent you are in your journaling, checking how many days you added an entry for or what's your longest streak.
+    Improved export: some of you asked for more control when exporting contents, we heard you, you can now export selecting a specific date range, for example you can now export your journal or photo diary on a monthly basis keeping the final document size smaller and easier to back up.
+    Fast access for all projects (Mac, iPad): we improved the left side menu and now it shows the list of all of your projects, so that will be easier to pick the one you’re looking for.
+    Are these features the one you were waiting for? What do you want to see in the app next?
+    Contact us for any suggestions or feedback!
+Version 0.200622.80 (Jun 23, 2020)
+    안녕! We're releasing the Korean localization of Moleskine Journey, hope our Korean users can now enjoy the service to the fullest. Please let us know if there are corrections to do :)
+    We also fixed bugs and issues you guys reported in the past two weeks, in particular one concerning the editing of long notes, and we addressed some inconsistencies in the behavior of some actions.
+    Enjoy this release and let us know what you want to see next! 
+Version 0.200605.77 (Jun 9, 2020)
+    Hi everybody! We baked a really tasty update for you, be careful, it's still hot!
+
+    - We updated some descriptions to make clear what some actions do on habits, in particular regarding the archive action.
+    - We extended recurrence to tasks inside the projects
+    - The split mode on iPad is now fixed
+    - You can quickly open contents by long tapping on them in the Planner
+    - Journal history now gives you the monthly overview of the days you wrote entries for.
+    - We implemented a smart autocomplete for adding time to tasks, type the time directly inside the task description
+
+    Please feel free to contact us for any suggestions or feedback!
+Version 0.200517.69 (May 18, 2020)
+    Hi there! We have great news! Both on the iPad and on the Mac app we radically changed the app layout. Navigation is now much more intuitive and this solution addresses many experience issues you reported. This is also a step forward to align the Mac and web experience.
+    It's a big change, we look forward for your comments and suggestions about it.
+    If your reaction to this has been: ''Wait a minute! iPad app? Mac app? Web app? Never heard of them!'' Rejoice! Journey can be used on Mac and Web too, and it's all included in your subscription. Give those clients a try or write us for more information.
+    We also designed a new Weekly view for the Planner and improved the drag and drop of contents inside the app.
+    We addressed many annoying issues you guys so kindly reported on the various platforms :)
+    Are there any issues that went unnoticed? Contact us and report them we'll be glad to fix them all.
+Version 0.200506.65 (May 6, 2020)
+    Wow! Improvements all over the place! Thank you guys for all of your feedback, you helped us solve many pesky issues, now the app experience is much smoother, swift, and enjoyable.
+    In particular, among many others:
+
+    - Events from the device are now sychronized faster
+    - The task creation is speedy and has a new animation
+
+    Hearing from you about how you use Moleskine Journey pushes us to do our best to create the perfect service for your personal develoment: Thank you!
+    Keep sending your feedback and suggestions, the road ahead is still long and winding ;)
+Version 0.200505.64 (May 5, 2020)
+    Wow! Improvements all over the place! Thank you guys for all of your feedback, you helped us solve many pesky issues, now the app experience is much smoother, swift, and enjoyable.
+    In particular, among many others:
+
+    - Events from the device are now sychronized faster
+    - The task creation is speedy and has a new animation
+
+    Hearing from you about how you use Moleskine Journey pushes us to do our best to create the perfect service for your personal develoment: Thank you!
+    Keep sending your feedback and suggestions, the road ahead is still long and winding ;)
+Version 0.200423.60 (Apr 26, 2020)
+    Hi everybody! In this release we worked to improve the stability and the performance of the app:
+
+    - Recurring task are faster to create and update, even with poor or slow connection
+    - We tackled many of the issues reported when items are rearranged, you should be able to smoothly reorder your contents, let us know if there are any issues left to fix!
+    - Smother transitions when updating the contents
+    - History is now easily accessible for archived habits too
+    - We improved the stats reported for the mood tracker, now it's more colorful than ever
+    - Now the recurring tasks are listed in the Tasks section, handy, isn't it?
+
+    Please let us know your feedback and report the issues you find to us. Moleskine Journey grew so much in these months thanks to your contribution and is becoming better and better for everybody!
+Version 0.200424.62 (Apr 25, 2020)
+    Hi everybody! In this release we worked to improve the stability and the performance of the app:
+
+    - Recurring task are faster to create and update, even with poor or slow connection
+    - We tackled many of the issues reported when items are rearranged, you should be able to smoothly reorder your contents, let us know if there are any issues left to fix!
+    - Smother transitions when updating the contents
+    - History is now easily accessible for archived habits too
+    - We improved the stats reported for the mood tracker, now it's more colorful than ever
+    - Now the recurring tasks are listed in the Tasks section, handy, isn't it?
+
+    Please let us know your feedback and report the issues you find to us. Moleskine Journey grew so much in these months thanks to your contribution and is becoming better and better for everybody!
+Version 0.200408.56 (Apr 10, 2020)
+    Bug fix and UI improvements
+Version 0.200330.53 (Mar 30, 2020)
+
+    - We worked hard to improve the way you can insert and edit contents in the app. Task and goals editing have been improved, date, time, and color picker are now more intuitive to set, and we changed many details we hope you’ll like.
+    - We added more info to challenge history, now you can see how good you've been to keep your resolutions and motivate yourself!
+    - We fixed all the issue you reported, thanks for your feedback!
+Version 0.200326.52 (Mar 27, 2020)
+
+    - We worked hard to improve the way you can insert and edit contents in the app. Task and goals editing have been improved, date, time, and color picker are now more intuitive to set, and we changed many details we hope you’ll like.
+    - We added more info to challenge history, now you can see how good you've been to keep your resolutions and motivate yourself!
+    - We fixed all the issue you reported, thanks for your feedback!
+Version 0.200314.44 (Mar 17, 2020)
+
+    - Now is possible to see future days in My Day section so that you may plan whatever you commit to do in advance: decide your next week meals? Plan goals for the next days? You name it, sky is the limit :)
+    - New experience for tasks: it is now quicker than ever to edit tasks with the new inline editor, do you like it?
+    - Pinch to zoom on photos is now nice and snappy.
+    - A picture is worth a thousand words, but nonetheless you may want to add some info to your images, now you can add a text description to images.
+    - Revamped filter and sorting for Tasks and Projects. Fine tune what you want to see to rapidly find the info you need. Please let us know your feedback about it!
+    - Was it no good yesterday? Don't despair! Now there’s a way to automatically move all the today's unfinished goals to the next day. Select this option in the three dots menu of the habit and set auto-move independently on each goal habit.
+    - Added straightforward way to restore your subscription.
+Version 0.200227.36 (Feb 28, 2020)
+    - We heard you loud and clear: we integrated our event handling with iOS so that is much easier to edit your events!
+    - We created a new visualization for the history (past entries) of My Day! Tap on “My Day” or select “History” in the three dots menu. Let us know if you like it.
+    - We changed the way habits and habit entries are deleted to make it harder to delete them inadvertently.
+    - We implemented the app lock with Touch ID and Face ID you guys strongly suggested, now your contents are safe from prying eyes. Please let us know if there are any issues.
+    *This feature locks the access to the app from the current device, no encryption is performed on the data on the client, content can be accessed from web with no password other than user’s login credentials, we’ll add more advanced security features in the next updates.
+    - Fixed an issue that prevented the link from being opened with the right apps.
+    - Some of you reported that completed tasks were still visible in some of the app screen even if the “hide completed task” setting was set (How dare they?!), we solved this issue.
+    - Now you can export habits and the entire My Day section as PDF, is a bit rough for now but we’ll improve it continually.
+Version 0.200206.30 (Feb 6, 2020)
+    - We fixed the issue causing the app to freeze for some users, thank you for your reports and feedback!
+    - As requested by many journal lovers we added the possibility to insert a timestamp on Journal Habits entries (just tap the timestamp button over the keyboard while typing your entry)
+    - We make it easier to access to the habits advanced features adding the down arrow button on each habit.
+    - New footer navigation icons, are nicer, aren’t they?
+    - Fixed iCloud photos upload reported by some users.
+    - Added swipe gesture for tasks: you can mark a task as complete by just swiping right over it, super easy!
+    - Fixed reported bugs
+Version 0.200203.28 (Feb 4, 2020)
+    -Fixed reported bugs
+    -New footer icons
+    -Fixed iCloud photos upload
+    -Added swipe gesture over tasks: you can mark as complete a task just swiping right over it
+Version 0.200126.23 (Jan 27, 2020)
+    Fixed the issue that blocked the app on the splash screen for some users with specific iPhone settings configuration, thanks for the patience guys.
+    Fixed all the bug reported by you.
+    Thank you for giving us feedback!
+Version 0.200123.21 (Jan 23, 2020)
+    Fixed reported bugs
+Version 0.200120.20 (Jan 21, 2020)
+    Fix reported bugs;
+    New color scheme;
+    A lot of code improvements.
+Version 0.200102.16 (Jan 3, 2020)
+
+Users may also like
+Select objects to compare
+stoic. journal & mental health
+5 Minute Journal: Self-Care
+(Not Boring) Habits
+Tangerine: Self-care & Goals
+Streaks
+Day One Journal: Private Diary
+Routines by Care/of
+Owaves: Wellness Day Planner
+Clearful - Journal & Diary
+Inflow - Manage your ADHD
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+104 times
+on App Store homepage
+129 times
+on App Store category pages
+Versions
+
+    1.0.428
+    Current release
+    Nov 20, 2023
+    1.0.426
+    Sep 23, 2023
+    1.0.422
+    Aug 25, 2023
+    1.0.419
+    Jul 30, 2023
+    1.0.404
+    Jun 23, 2023
+    1.0.393
+    Jun 10, 2023
+    1.0.368
+    May 16, 2023
+    1.0.364
+    May 3, 2023
+    1.0.363
+    May 1, 2023
+    1.0.358
+    Apr 25, 2023
+    1.0.353
+    Apr 21, 2023
+    1.0.346
+    Mar 29, 2023
+    1.0.335
+    Mar 16, 2023
+    1.0.334
+    Mar 4, 2023
+    1.0.323
+    Feb 24, 2023
+    1.0.317
+    Feb 23, 2023
+    1.0.316
+    Feb 5, 2023
+    1.0.309
+    Jan 19, 2023
+    1.0.299
+    Jan 2, 2023
+    1.0.294
+    Dec 18, 2022
+    1.0.290
+    Dec 12, 2022
+    1.0.280
+    Nov 28, 2022
+    1.0.277
+    Nov 18, 2022
+    1.0.272
+    Nov 11, 2022
+    1.0.268
+    Oct 31, 2022
+    1.0.263
+    Oct 20, 2022
+    1.0.260
+    Oct 11, 2022
+    1.0.252
+    Sep 10, 2022
+    1.0.238
+    Aug 10, 2022
+    1.0.226
+    Jul 28, 2022
+    1.0.225
+    Jul 24, 2022
+    1.0.218
+    Jul 7, 2022
+    0.220316.190
+    Mar 17, 2022
+    0.220309.188
+    Mar 10, 2022
+    0.220131.185
+    Feb 1, 2022
+    0.211118.179
+    Nov 24, 2021
+    0.211025.177
+    Oct 28, 2021
+    0.210909.169
+    Sep 13, 2021
+    0.210813.166
+    Aug 16, 2021
+    0.210712.160
+    Jul 16, 2021
+    0.210510.145
+    May 11, 2021
+    0.210401.139
+    Apr 2, 2021
+    0.210324.138
+    Mar 26, 2021
+    0.210216.131
+    Feb 18, 2021
+    0.201230.129
+    Jan 2, 2021
+    0.201125.123
+    Nov 25, 2020
+    0.201112.121
+    Nov 16, 2020
+    0.201018.117
+    Oct 18, 2020
+    0.201011.113
+    Oct 12, 2020
+    0.201008.112
+    Oct 9, 2020
+    0.200922.101
+    Sep 24, 2020
+    0.200804.96
+    Aug 5, 2020
+    0.200726.91
+    Jul 27, 2020
+    0.200722.90
+    Jul 23, 2020
+    0.200711.87
+    Jul 14, 2020
+    0.200701.84
+    Jul 2, 2020
+    0.200622.80
+    Jun 23, 2020
+    0.200605.77
+    Jun 9, 2020
+    0.200517.69
+    May 18, 2020
+    0.200506.65
+    May 6, 2020
+    0.200505.64
+    May 5, 2020
+    0.200423.60
+    Apr 26, 2020
+    0.200424.62
+    Apr 25, 2020
+    0.200408.56
+    Apr 10, 2020
+    0.200330.53
+    Mar 30, 2020
+    0.200326.52
+    Mar 27, 2020
+    0.200314.44
+    Mar 17, 2020
+    0.200227.36
+    Feb 28, 2020
+    0.200206.30
+    Feb 6, 2020
+    0.200203.28
+    Feb 4, 2020
+    0.200126.23
+    Jan 27, 2020
+    0.200123.21
+    Jan 23, 2020
+    0.200120.20
+    Jan 21, 2020
+    0.200102.16
+    Jan 3, 2020
+
+See More
+Top In-App Purchases
+
+    Journey - Annual Welcome Plan
+    $29.99
+    Journey - Annual Flash Plan
+    $19.99
+    Journey - Monthly Plan
+    $4.99
+    Journey - Annual Plan
+    $39.99
+
+About
+
+Required Devices
+    Mac, Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    Jan 3, 2020
+
+Worldwide Release Date
+    Jan 21, 2020
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.0.428
+
+Size
+    130.89 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    Moleskine S.r.l.
+
+Company HQ
+    Italy
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 and watchOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.moleskine.journey
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1489704689
+Unified App ID: 1000800000005496
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Moleskine Journey Life Planner | data.ai

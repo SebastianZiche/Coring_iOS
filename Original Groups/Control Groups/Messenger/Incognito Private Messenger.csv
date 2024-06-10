@@ -1,0 +1,39 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.35,2024-01-10,Added an automatic chat deletion feature
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.33,2023-12-21,Fixed some issues
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.28,2023-04-04,Added network and data update indicator. Improved chat performance. Minor bugs fixed.
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.26,2023-03-14,Some bugs fixed
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.25,2023-03-08,Error correction
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.24,2023-02-28,some bugs fixed
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.23,2023-02-17,Improved audio component of the application
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.21,2023-01-31,Small bug fixes
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.20,2023-01-26,Improved performance and speed
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.19,2023-01-16,Fixed errors when downloading files. Application optimization
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.18,2022-11-11,Fixed errors when making an audio call Optimization applications
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.17,2022-11-07,Added the ability to make audio calls
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.16,2022-10-10,Message sending optimized and minor bugs fixed
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.15,2022-09-28,Optimization of camera operation and bug fixes
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.14,2022-09-20,Updated application operation with QR code and fixed minor errors
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.13,2022-09-13,Design improvements and minor bug fixes
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.10,2022-08-04,Updating the design of individual elements
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.09,2022-07-24,Updated voice message recording interface
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.06,2022-06-28,Updating the design of individual elements
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.05,2022-06-21,Chat background selection module update
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.04,2022-06-17,Added the ability to select chat backgrounds
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.03,2022-06-09,Added deep linking and QR code processing by the standard device scanner
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.01,2022-06-07,Design updates and bug fixes
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,3.00,2022-05-16,Added the ability to open chats in channel format administrate users publish messages to a large audience
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.14,2022-04-21,Fixed push notification bug
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.13,2022-04-19,Optimizing the display of data in chats
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.12,2022-04-13,Fixed delivery of push notifications
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.11,2022-02-05,Added user profile with the ability to edit your data
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.10,2021-12-16,Added the ability to send voice messages
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.9,2021-11-20,Added the ability to send messages with geolocation Improved display of media files Added the ability to select color themes
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.8,2021-02-25,Preview of links in the message. Clickable links. Fixed bugs in the message list.
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.7.1,2021-01-26,Fixed problem launching the application.
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.7,2021-01-23,Bug fixes performance improvements.
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.5,2020-11-12,Chronology of file messages Ability to hide history for new users Optimization of server operation and security improvements.
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.4,2020-11-02,Redesign of the main screen Minor UI updates News chat Bugfix Updated behavior logic for blocked chat.
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.2,2020-10-23,Transfer of media files Ability to reply to messages Chat pin codes Minor design improvements Possibility of complaints about inappropriate content Expanded functionality of the application pin code Optimized the operation of local storage Error correction.
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,2.0,2020-07-26,Application design updates Full emoji support Optimization.
+1444274565,0,Incognito Private Messenger,Social Networking,2019-04-25,2019-04-24,53.83,2,0,0,0,1.0,2019-04-24,

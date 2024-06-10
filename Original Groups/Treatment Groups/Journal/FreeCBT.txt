@@ -1,0 +1,217 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+FreeCBT
+Evan RossonHealth and Fitness (Applications)Free
+Alerts
+
+    Evan Rosson
+
+    FreeCBT
+    FreeCBT
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+FreeCBT
+Cognitive Behavioral Therapy
+Health and Fitness (Applications)
+Free
+App Description
+FreeCBT is an open source thought diary for Cognitive Behavioral Therapy (CBT).
+
+Cognitive Behavioral Therapy (CBT) is the "gold standard" of psychotherapy and is widely considered to be one of the most effective, evidence backed treatments for depression, anxiety, and panic. If you go into just about any therapist or psychiatrist, CBT will likely be one of the first treatments they try.
+
+FreeCBT is a companion and self-help app for one of the most common formats of CBT. You may have heard it called "the three column technique" or "catch it, check it, change it." Your brain is really good at making you feel exactly what you're thinking. Often, we find ourselves thinking "automatic negative thoughts" that lead us to fume on something that may not be true. That can cause us to feel depressed or anxious.
+
+CBT helps you record "automatic thoughts," challenge them with cognitive distortions and then train your brain with an alternative thought. If you do it enough, you can change your thoughts, your moods and your behavior.
+
+FreeCBT, a fork of Quirk, is open source under the GPL. You can find the code on Github at: https://github.com/erosson/freecbt
+Ratings
+Displayed Avg Ratings
+4.78
+Total Displayed Ratings
+117
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.3.2 (Aug 30, 2023)
+    This release adds two new translations contributed by FreeCBT users.
+
+    - Added European Portuguese translation. Thank you, miguelmf!
+    - Added Farsi translation. Thank you, ali73!
+
+    The settings screen now displays the completeness of each existing translation.
+Version 2.3.1 (Dec 27, 2022)
+    - Added a "show detailed descriptions" button to the list of cognitive distortions.
+Version 2.3.0 (Dec 20, 2022)
+    - Added backup/restore functionality. Save your FreeCBT exercises to a backup file, and use that file to move your data to a new device, or recover if your app data is erased.
+    - Added export functionality. Save your FreeCBT exercises as markdown/plain text, comma-separated values, or JSON files.
+    - Lots of behind-the-scenes app maintenance and updates.
+Version 2.2.3 (Mar 2, 2021)
+    Improved support for non-English languages
+Version 1.0 (May 31, 2020)
+
+Users may also like
+Select objects to compare
+Simple CBT
+CBT Self-Care Journal
+CBT Companion: Therapy App
+Bold: CBT Therapy Journal
+Woebot: Your Self-Care Expert
+Youper - CBT Therapy Chatbot
+MindShift CBT - Anxiety Relief
+DBT Coach
+ADHD Lifehacks For Adults Pro
+Simple DBT Skills Diary Card
+IQ Classifications
+Genre: Health & Fitness
+Subgenre: Telehealth
+Telehealth
+Apps that offer remote clinical service including medical scheduling, medical consultation, and prescription management.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.3.2
+    Current release
+    Aug 30, 2023
+    2.3.1
+    Dec 27, 2022
+    2.3.0
+    Dec 20, 2022
+    2.2.3
+    Mar 2, 2021
+    1.0
+    May 31, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    May 31, 2020
+
+Worldwide Release Date
+    May 28, 2020
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.3.2
+
+Size
+    18.68 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Evan Rosson
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    org.erosson.freecbt
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1516063390
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+FreeCBT | data.ai

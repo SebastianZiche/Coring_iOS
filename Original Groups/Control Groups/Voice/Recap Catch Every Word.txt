@@ -1,0 +1,283 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Recap: Catch Every Word
+GriffinScribe, LLCProductivity (Applications)Free
+Alerts
+
+    GriffinScribe, LLC
+
+    Recap: Catch Every Word
+    Recap: Catch Every Word
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Recap: Catch Every Word
+Productivity (Applications)
+Free
+App Description
+Recap supports transcribing audio and video files in over 70+ languages and dialects. Simply upload an audio or video file, and easily send the resulting transcript to Dropbox, Google Drive, Slack, Teams, email, or any other collaboration app on your device.
+
+Get started with 90 free minutes of transcription. To transcribe additional content, simply purchase additional credits through the in-app store.
+
+Recap Usage Scenarios:
+Recap is great for transcribing podcasts, interviews, voice notes, webinars, conference presentations, keynote lectures, conventions, and providing a succinct recap of your company meetings. Every transcript can be exported to DOCX and TXT, with timestamps optionally included, and you can generate closed-caption files in the WebVTT and SRT file formats for uploading into video players.
+
+You can share the original media file or a converted FLAC file directly from the Recap app, and copy and paste your transcript using your phone's clipboard.
+
+Recap even supports uploading media files from other voice or call-recording apps, simplifying the challenges associated with recollection and recording.
+
+All transcriptions are processed asynchronously, and you will receive an email notification when your transcript is ready to be reviewed.
+
+Automated Transcriptions:
+Recap’s highly trained speech recognition model can detect and transcribe 137 dialects and language variants! Recap makes it possible to achieve transcriptioning and captioning for a global audience.
+
+Automated Translations:
+Recap can automatically translate the textual representation of your audio and video files into 130+ languages and dialects. The resulting translations can be edited, and exported just as readily as the original transcripts. Subtitles, or foreign language closed-caption files, can be generated through Recap at a fraction of the typical cost of human-provided translations.
+
+Audio Playback:
+Multiple options are available for audio playback speed, enabling you to listen to and edit the transcripts at a speed that’s comfortable for you. When you tap on a specific paragraph in the transcript, the audio will jump to that location. Paragraphs in the transcript viewer will scroll automatically as the audio is playing, and will highlight what is currently being spoken, making it easy to follow along and make adjustments to the text as needed.
+
+Security and Privacy:
+Recap supports screen blurring and biometric authentication for secure switching between apps.
+
+Recap’s Mission:
+Recap was founded with the goal of increasing the availability of and opportunities for people to read and better understand the spoken word. Many individuals learn best from visually seeing a textual representation of what is being spoken. Others are blind, deaf, hard-of-hearing, or otherwise impaired, and may require extra accommodations to obtain the same information that is so often taken for granted by those who do not experience these struggles. Still others prefer to dictate over manually writing down information. What each of these groups have in common is a desire to understand, record, share, relate to, and experience the spoken word in their own native language. Recap was developed to assist these individuals in this quest.
+
+Accessibility Benefits:
+Recap’s transcription and captioning services helps organizations, universities and other entities with their accessibility guidelines by providing aurally delivered material in an auto-generated written format to persons who are deaf, hearing-impaired, or using or speaking in a non-native language.
+
+Our team is excited to hear about your success stories with Recap. Feel free to reach out and share the app with your friends! Follow us on social media @RecapEveryWord
+
+If you run into problems using Recap, please let us know! We want Recap to be as simple, easy-to-use, and accurate as possible.
+
+Remember, high-quality audio and media files result in outstanding transcriptions.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.5 (Nov 5, 2023)
+    This release includes improvements for future Recap features. If you are part of a Recap Business workspace, you can now view and edit files in that workspace.
+
+    We have also added support for adding and managing team members in your business workspace, and admins can now assign editor and viewer roles to their team. You can now have multiple people working in your Recap workspace in parallel, both uploading media for transcriptions and allowing your editing staff to refine the machine-generated transcriptions and translations as needed.
+
+    If you would like to try our new business workspace features, please fill out this survey and we will be in touch with you.
+
+    https://forms.gle/RPRhqmqQ652GHkNR6
+Version 1.4.2 (Jul 1, 2023)
+    Enhanced Security and Privacy: The app now features screen blurring and biometric authentication for secure switching between apps, ensuring users' privacy and data protection.
+
+    Expanded Transcription Language Support: The app now supports eight additional languages, including Arabic (Mauritania), Kinyarwanda (Rwanda), Swati (South Africa), Southern Sotho (South Africa), Setswana (South Africa), Tsonga (South Africa), Venda (South Africa), and isiXhosa (South Africa). Users from these regions can now enjoy advanced transcription capabilities in their native languages.
+
+    Seamless Sign-in Experience: Users can now sign in and sign up with ease using a secure one-time password sent via email, enhancing the overall login flow and simplifying the registration process.
+
+    Reinstallation Issue Resolved: A bug has been fixed, preventing users from remaining signed in after reinstalling the app. This ensures a smoother user experience and avoids potential security risks.
+
+    Streamlined User Experience: Duplicate email verification has been removed, simplifying the registration process.
+Version 1.4.0 (Dec 11, 2022)
+    Easily and securely sign up for or log in to Recap with just your email address! Avoid the hassle of yet another password, and simply tap the link sent to your email to authenticate in the Recap app.
+
+    Existing accounts can be accessed with an emailed login link, or with their previously-set password. New accounts will use the streamlined sign-up flow exclusively.
+
+    This release also brings the addition of 24 new languages available for translation. Recap enables translations of your video and audio content to reach a global audience, now in 130+ languages.
+
+    Have a feature you like in Recap? Let your friends on social media know about @RecapEveryWord.
+Version 1.3.0 (Aug 23, 2022)
+    Automated translations have landed at Recap: Catch Every Word™! Translate transcripts and subtitles into 100+ languages, making them more accessible to a global audience. Start with 90 free minutes of translation credit.
+
+    This release also improves SRT and VTT closed-caption exports. Long paragraphs in most languages are now split into smaller segments.
+
+    We hope the new translation features improve your transcription and captioning workflow. Tag us on social media @RecapEveryWord.
+Version 1.2.0 (Jun 20, 2022)
+    Editing features have now landed at Recap: Catch Every Word™! You can tap on individual paragraphs of your transcripts to edit the text, and export the polished transcript in a variety of formats. Edits in the transcript viewer are automatically included in your WebVTT and SRT closed-caption file exports. Playback buttons are located conveniently next to each paragraph, making it easy to quickly replay any audio segment and make any adjustments to the auto-generated transcript.
+
+    Other improvements to Recap: Catch Every Word™ in this release include:
+    • Enhanced password reset and security in email communications.
+    • Improvements in the paragraph-level play/restart button
+    • Major/minor packages updates
+
+    We hope the new editing features will help streamline your transcription and captioning workflow. Let us know how Recap is helping you to Catch Every Word™ by tagging us on social media @RecapEveryWord.
+Version 1.0.3 (Mar 13, 2022)
+    Recap now supports transcribing video files! Give it a try, and let us know how Recap is helping you to catch every word.
+
+    Tip: transcribe voice memos and videos by sharing them from within the Voice Memos or Photos app and selecting Recap in the list of available apps.
+Version 1.0.2 (Feb 13, 2022)
+    We’ve added some enhancements and fixes to make it even easier for you to sign up and transcribe files with Recap. We’d love to hear from you about what’s working well and what we can do better!
+Version 1.0.1 (Feb 1, 2022)
+
+Users may also like
+Select objects to compare
+AcouScriber
+VoxNote - AI Speech to text
+Be My Translator
+Lines | Beyond Notes
+AudioScribe
+Form Extractor - Scan & Export
+Yotwee - Links keeper
+Solid Notes
+BIMxr
+Text To Pix AI Photo Generator
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.5
+    Current release
+    Nov 5, 2023
+    1.4.2
+    Jul 1, 2023
+    1.4.0
+    Dec 11, 2022
+    1.3.0
+    Aug 23, 2022
+    1.2.0
+    Jun 20, 2022
+    1.0.3
+    Mar 13, 2022
+    1.0.2
+    Feb 13, 2022
+    1.0.1
+    Feb 1, 2022
+
+See More
+Top In-App Purchases
+
+    30 Minutes of Transcription
+    $7.99
+    300 Minutes of Transcription
+    $59.99
+    600 Minutes of Transcription
+    $109.99
+    60 Minutes of Transcription
+    $15.99
+    180 Minutes of Transcription
+    $39.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Feb 1, 2022
+
+Worldwide Release Date
+    Feb 1, 2022
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.5
+
+Size
+    35.48 mb
+
+Only 32 Bit
+    No
+
+Languages
+    영어
+
+Seller
+    GriffinScribe, LLC
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 14.0 버전 이상이 필요. iPhone, iPad 및 iPod touch와(과) 호환.
+
+Bundle ID
+    com.griffinscribe.recap
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1592617977
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Recap: Catch Every Word | data.ai

@@ -1,0 +1,488 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Live Transcribe Voice to Text
+SER_INTProductivity (Applications)Free
+Alerts
+
+    SER_INT
+
+    Live Transcribe Voice to Text
+    Live Transcribe Voice to Text
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Live Transcribe Voice to Text
+Speech Dictation Descript App
+Productivity (Applications)
+Free
+App Description
+-- Tell your story --
+With the power of Google's speech-to-text software, you can seamlessly convert your words to notes and write in over 120 different languages!
+Just start it and tell your story.
+
+-- Write your story --
+We have implemented a powerful text editor that pens your thoughts into text easily and in a way that is visually stunning. Additionally, our software supports bidirectional writing as well as a number of features that you can take advantage of during the process of turning your speech into convertible text.
+
+-- Stay Organized --
+You can categorize, group, and coordinate your notebooks, in order to distinguish between them and seamlessly move through your ideas, lists and stories in a way that fits your lifestyle.
+
+-- Stay Synced --
+With the power of iCloud, all of your notes are saved and synced with your iCloud account where you can access them across all of your devices.
+
+-- Stay Secure --
+As you write your story we use iCloud to save your notes so they are always safe and never lost.
+
+-- Stay Global --
+Using penman you can convert your working file into the following formats:
+• PDF
+• TXT
+• Image
+• Html
+
+-- Penman Premium --
+Unlock your full potential by upgrading to premium :
+
+• Turn your speech to text quickly and easily
+• Export to various formats like pdf,HTML,jpg
+• Sync and backup all your notes in iCloud
+• Customize your notes with great fonts
+
+$2.99 monthly, $17.99 annually (a 20% savings!)
+
+---- ---
+
+Subscriptions will be charged to your credit card through your iTunes account. Your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. You will not be able to cancel the subscription once activated. After purchase, manage your subscriptions in App Store Account Settings. Any unused portion of a free trial period, will be forfeited when the user purchases a subscription.
+
+$2.99 monthly, includes a 3-day free trial
+$17.99 annually, includes a 3-day free trial
+.
+- Terms of use: https://penman.app/terms-of-service.html
+- Privacy policy: https://penman.app/privacy.html
+Ratings
+Displayed Avg Ratings
+4.13
+Total Displayed Ratings
+309
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.7.9 (Jul 15, 2023)
+    * In this version we have fixed major bugs of the app *
+Version 3.7.8 (Mar 20, 2023)
+    Fixed bugs in premium page.
+Version 3.7.7 (Jan 6, 2023)
+    Fixed a bug where purchasing Premium plan was not possible.
+Version 3.7.6 (Dec 9, 2022)
+    # We are getting ready for Spooky Season
+    New Subscription Offers and app improvements
+Version 3.7.6 (Dec 9, 2022)
+    # We are getting ready for Spooky Season
+    New Subscription Offers and app improvements
+Version 3.7.5 (Sep 1, 2022)
+    # Shiny new icon is here #
+Version 3.7.4 (Jul 10, 2022)
+    New Shiny Icon is here.
+Version 3.7.3.2 (Jun 18, 2022)
+    Reverted Premium plans to before promotion.
+Version 3.7.3.1 (Jun 13, 2022)
+    Fixed premium page color in dark mode
+Version 3.7.3 (Jun 10, 2022)
+    New Premium Offer is now available make sure to check it out.
+Version 3.7.2 (May 25, 2022)
+    This update comes with small patches and fixes.
+Version 3.7.1 (Apr 24, 2022)
+    Minor Improvements.
+Version 3.7 (Feb 27, 2022)
+    ## Hey Everyone this is a major bug fix update. We encourage everyone to update to the latest version.##
+Version 3.6.9 (Dec 18, 2021)
+    Here is another update for Penman trying to improve one step at a time.
+Version 3.6.8 (Nov 28, 2021)
+    ** Black Friday Deal is HERE **
+    # Update and get Penman Premium cheaper than ever 70% OFF
+    # Fixed a bug where creating a notebook with a custom cover image was not possible
+    # Fixed UI crashes and issues in landscape iPad
+    # More minor bugs and issues got fixed.
+Version 3.6.7 (Oct 20, 2021)
+    Bug Fixes and Improvements
+Version 3.6.6 (Oct 13, 2021)
+    Notifications are now more optimized 
+Version 3.6.5 (Oct 3, 2021)
+    Bug Fixes and Enhancements 
+Version 3.6.4 (Sep 19, 2021)
+    A bug in notifications managed to slip through our fingers in the last update fear not it's fixed now.
+Version 3.6.3 (Sep 17, 2021)
+    Penman is now better than ever with iOS15.
+    Enhancements and Bug fix to improve your experience with Penman.
+Version 3.6.2 (Sep 7, 2021)
+    If you have enjoyed Penman so far definitely update and checkout our new plans 
+Version 3.6.1 (Jul 4, 2021)
+    Fixed some naughty bugs and crashes.
+Version 3.6 (Jun 23, 2021)
+    # Lock/Unlock app with Face ID/Touch ID
+    # New Premium Discount Packages
+Version 3.5 (Apr 28, 2021)
+    Here Comes Penman v3.5 packed with Cool Features :
+
+    #1: Export : Now you can export your desired notes in .penman file and either save it somewhere safe or share it with a friend
+    #2: Import: Import yours or any other .penman file to import notes
+    #3: Refer Penman to a friend and earn 30% Discount on Premium
+    #4: To better solve your issues a log incidents can be uploaded to us in contact us
+
+    We hope you enjoy Penman as much as we enjoy developing it for you.
+Version 3.3.1 (Feb 4, 2021)
+    * Promo alert bug fixed
+Version 3.3 (Jan 23, 2021)
+    * Fixed some pesky bugs
+    Enjoy Writing :)
+Version 3.2 (Oct 16, 2020)
+    # Here comes new update with a requested feature:
+    * You can now select your notebook cover from your photo library
+Version 3.1 (Oct 1, 2020)
+    # Welcoming iOS 14 we've got a new feature :
+    # You can now highlight text and change text color using iOS 14 color picker
+    # Optimization for iOS 14
+Version 3.0 (Aug 12, 2020)
+    ## Our BIGGEST update to Penman is available now!
+    We have recreated Penman from ground up; bringing a new experience while maintaining Penman's core values.
+    let’s dive into the new features:
+
+    # Continuity
+    Now, you can have Penman on all of your devices: iPhone, iPad and Mac, taking you to a whole new level of efficiency.
+
+    # Universe Purchase
+    Purchase premium once and enjoy it on all your devices no matter iPhone iPad or even Mac
+
+    # Fresh Design
+    With this version, we’ve modernized and revamped almost every part of Penman. Giving users a whole new experience while maintaining our commitment to a simplicity and efficiency.
+
+    # New Sync system
+    We’ve developed a whole new save and sync system for premium users to make sure you never loose your notes.
+
+    # Trash
+    Your notes will now be added to the trash after you delete them. You can recover deleted notes from the trash.
+
+    # New Editor
+    We have completely revamped our editor system.
+
+    # New Notebooks
+    Make sure to checkout our new Notebooks; more beautiful than ever and still the best place to save your notes.
+
+    Be sure to download the update and enjoy Penman!
+Version 2.2 (Feb 12, 2020)
+    * Big improvements on Syncing between iPhone and iPad
+    * Bug fixes that from a point, we stopped counting
+Version 2.1 (Nov 20, 2019)
+    ** CRITICAL UPDATE **
+    Since the release of iOS 13.2, Penman encountered a number of bugs that caused crashes and effected the app’s overall functionality.
+    We wanted to take an opportunity to thank our community for reaching out and their patience, bringing these issues to our attention.
+    This update FIXES all the crashes.
+Version 2.0 (Sep 18, 2019)
+    Penman 2.0 is the biggest update we’ve ever released, taking advantage of iOS13s new capabilities:
+    #1. Dark Mode, Penman now supports ios13 dark mode to provide you with an intuitive interface in correlation with ios.
+    #2. Submenus, Press and hold any note or notebook to see the new Submenu feature.
+    #3. Apple Pencil, You can now unleash your creativity with Apple Pencil and annotate your notes.
+    #4. Search, You can now search your notes and notebooks right from the homepage.
+    #5. Bugs we’re removed and we polished up the iPad version.
+Version 1.8 (Aug 11, 2019)
+    * Added a new theme : Midnight Orange
+Version 1.7 (Aug 3, 2019)
+    # Critical Update for all Users:
+    In this version we have implemented a very much requested feature:
+    - Big Change in our Speech to Text platform: Speech recognition will no longer stop if you pause while speaking.
+    - You can test Speech to text free for a limited time without subscribing.
+Version 1.6 (Apr 30, 2019)
+    - Added a new dark theme for both free and premium users :)
+Version 1.5 (Apr 11, 2019)
+    What's new in this version :
+    * Themes : Check out the new cool dark theme
+    * Fixed speech to text bug in cases text would not appear
+    * We have tried to restore lost notes in cases they deleted unexpectedly
+Version 1.4 (Mar 2, 2019)
+    What's new:
+    * You can now resize images - just tap the image and select Resize
+    * You can now delete images too just by tapping and selecting Delete
+    * Various bug fixes
+Version 1.3 (Jan 31, 2019)
+    * Speech to text bug Fixed
+    * You can now add text anywhere in your notes with Speech to Text
+    * Minor bug Fixes
+    * Reduced app size by 30mb
+Version 1.2 (Jan 3, 2019)
+    ** We encourage everyone to update, to this version **
+    What's New:
+    - 3 Day trial before purchasing premium
+    - Improved Speech to Text
+    - Various bug fixes
+    - iPad optimizations
+    - RTL - LTR support in the text editor
+Version 1.1 (Dec 7, 2018)
+    !! -- Urgent Bug Fix -- !!
+    - Dear users and subscribers We are deeply sorry for the crashes that happened after purchasing premium all those crashes and many more are gone now!
+    - Various improvements to Text Editor
+Version 1.0.3 (Dec 5, 2018)
+    Introducing Penman with new features:
+    * Speech to Text
+    * Notebooks
+    * iCloud Sync
+    * Powerful Text Editor
+
+Users may also like
+Select objects to compare
+Transcribe:Live Speech to Text
+Transcriber • Speech to Text
+Voice to Text Dictation VoxRec
+AI Chat Ask Chatbot Anything
+Scanner - convert photo to pdf
+Whink Notes
+Note to self - Nanonote
+Speech to Text+
+Transcribe: Accurate Dictation
+Transcribe: speech to text
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+10 times
+on App Store category pages
+Versions
+
+    3.7.9
+    Current release
+    Jul 15, 2023
+    3.7.8
+    Mar 20, 2023
+    3.7.7
+    Jan 6, 2023
+    3.7.6
+    Dec 9, 2022
+    3.7.6
+    Dec 9, 2022
+    3.7.5
+    Sep 1, 2022
+    3.7.4
+    Jul 10, 2022
+    3.7.3.2
+    Jun 18, 2022
+    3.7.3.1
+    Jun 13, 2022
+    3.7.3
+    Jun 10, 2022
+    3.7.2
+    May 25, 2022
+    3.7.1
+    Apr 24, 2022
+    3.7
+    Feb 27, 2022
+    3.6.9
+    Dec 18, 2021
+    3.6.8
+    Nov 28, 2021
+    3.6.7
+    Oct 20, 2021
+    3.6.6
+    Oct 13, 2021
+    3.6.5
+    Oct 3, 2021
+    3.6.4
+    Sep 19, 2021
+    3.6.3
+    Sep 17, 2021
+    3.6.2
+    Sep 7, 2021
+    3.6.1
+    Jul 4, 2021
+    3.6
+    Jun 23, 2021
+    3.5
+    Apr 28, 2021
+    3.3.1
+    Feb 4, 2021
+    3.3
+    Jan 23, 2021
+    3.2
+    Oct 16, 2020
+    3.1
+    Oct 1, 2020
+    3.0
+    Aug 12, 2020
+    2.2
+    Feb 12, 2020
+    2.1
+    Nov 20, 2019
+    2.0
+    Sep 18, 2019
+    1.8
+    Aug 11, 2019
+    1.7
+    Aug 3, 2019
+    1.6
+    Apr 30, 2019
+    1.5
+    Apr 11, 2019
+    1.4
+    Mar 2, 2019
+    1.3
+    Jan 31, 2019
+    1.2
+    Jan 3, 2019
+    1.1
+    Dec 7, 2018
+    1.0.3
+    Dec 5, 2018
+
+See More
+Top In-App Purchases
+
+    Monthly Discount Premium
+    $1.99
+    6 Months Penman Premium
+    $16.99
+    3 Months Penman Premium
+    $8.99
+    Unlimited Voice to Text
+    $19.99
+    Yearly Voice to Text plan
+    $39.99
+    Monthly Penman Premium
+    $4.99
+    Yearly Discount Premium
+    $12.99
+    Yearly Speech Voice to Text
+    $9.99
+    Unlimited Voice to Text
+    $7.99
+    Unlimited Voice to Text
+    $4.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 5, 2018
+
+Worldwide Release Date
+    Dec 5, 2018
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    3.7.9
+
+Size
+    61.09 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    sobhan eskandari
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.aurora.Penman
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1434184098
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Live Transcribe Voice to Text | data.ai

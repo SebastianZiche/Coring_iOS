@@ -1,0 +1,19 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.21,2024-01-31,We adjusted the microphone activation timing to address occasional recording issues.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.20,2024-01-24,The app primarily operates at 44.1KHz but a setting has been added to give priority to operation at 48KHz. You can configure this in the settings accessible from the i icon on the top left of the screen after starting up.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.19,2023-01-08,Supported iOS 16. 1.Supported App Tracking Transparency. 2.No longer needs photo permissions to save sound as a movie.,0,0,0,0,0,0,1,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.18,2019-10-16,Fixed the following bug: Previous sound is imported from the second time on.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.17,2019-10-05,Fixed the following critical bug: Sound Import from a movie doesn t work on iOS 13. Feature: Dark Mode is supposed.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.13,2018-06-13,Feature: Added Mic monitoring switch on off when recording.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.12,2017-11-13,Fixed the following bug: This app crashed when it enters the background and then foreground on the recording screen.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.11,2017-11-11,Fixed the following crash bugs: It was crashed after deleting the last records with swipe. It was crashed after succeeding in restoring Premiums. Supported the new photo permission of iOS 11.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.9,2017-01-10,Fixed a bug.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.8,2017-01-03,Fixed bugs.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.7,2016-12-22,Fixed bugs.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.6,2016-12-20,Fixed bugs.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.5,2016-12-13,Fixed bugs.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.4,2016-12-05,Fixed a bug.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.3,2016-11-29,Fixed a crash bug after copying a record. Fixed a crash bug which occurs when Camera Roll can not be access.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.2,2016-11-23,Fixed a crash bug after recording. Fixed typos.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0.1,2016-11-19,Fixed a crash bug when sound is saved as a movie.,0,0,0,0,0,0,0,0
+1158761766,0,DubDub recorder,Music,2016-11-16,2016-11-16,13.07,2,0,0,1,1.0,2016-11-16,,0,0,0,0,0,0,0,0

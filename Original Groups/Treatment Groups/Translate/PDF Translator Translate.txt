@@ -1,0 +1,399 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+PDF Translator: Translate
+Alex Gameli HeymanProductivity (Applications)Free
+Alerts
+
+    Alex Gameli Heyman
+
+    PDF Translator: Translate
+    PDF Translator: Translate
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+PDF Translator: Translate
+document,editor,file,pptx
+Productivity (Applications)
+Free
+App Description
+BEST QUALITY PDF TRANSLATOR & EDITOR
+Introducing the ultimate PDF Translator & Editor: Instantly translate and edit PDFs and more in a few taps!
+
+Easily translate PDFs and various file formats across 136 languages while preserving formatting and layout. Seamlessly access translations from any app with our powerful app extension.
+
+Key Features:
+* Translate PDFs, images, Word, Excel, and PowerPoint.
+* Edit PDF text and images using the PDF Editor.
+* Translate multilingual PDFs into a single language.
+* Choose your preferred translation engine (Google or Microsoft).
+* Unlimited page and MB translation in seconds.
+* Language Detection for effortless translation.
+* Scan, convert, and translate photos, pptx, excel, Word and PDFs.
+* Document renaming, sharing, and Dark Mode support.
+* Bonus document viewer for various file formats.
+
+Say goodbye to tedious copy-pasting into Google Translate. Transform the way you handle document translations on your iPhone and iPad - download now!
+
+Terms of service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy policy:https://site.innovaapps.ai/privacypolicy/translatorprivacypolicy
+Ratings
+Displayed Avg Ratings
+3.86
+Total Displayed Ratings
+974
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.2.3 (Jan 14, 2024)
+    Fix security issues to mitigate a potential MITM attack.
+Version 5.2.2 (Jan 4, 2024)
+    Updated localization for non-english languages.
+Version 5.2.0 (Dec 6, 2023)
+    New PDF Editor experience. Improved PDF editing, annotation and form filling.
+Version 5.1.4 (Nov 9, 2023)
+    Fix bug that shows paywall on failed translation.
+Version 5.1.3 (Oct 16, 2023)
+    Fix bug that caused incorrect target language selection on Microsoft Office documents translation. Fixed missing converter alert when credit is low
+Version 5.1.2 (Oct 10, 2023)
+    Bug fixes and performance improvements.
+Version 5.1.1 (Sep 27, 2023)
+    Minor update
+Version 5.1.0 (Sep 13, 2023)
+    Optimized translation speed. Improved UI. Fixed bugs with photo conversion to PDF.
+Version 5.0.10 (Aug 4, 2023)
+    Translation quality improvement and bug fixes
+Version 5.0.9 (Jun 5, 2023)
+    Bug fixes
+Version 5.0.8 (May 8, 2023)
+    Fix layout issues on some devices with smaller screen sizes.
+Version 5.0.7 (Apr 11, 2023)
+    Minor update to improve performance
+Version 5.0.6 (Mar 20, 2023)
+    User experience improvements. Unlock PDF converter tools with a PDF Editor subscription
+Version 5.0.5 (Feb 10, 2023)
+    Small improvements.
+Version 5.0.3 (Jan 17, 2023)
+    Redesigned UI, Improved performance and bug fixes
+Version 5.0.1 (Dec 29, 2022)
+    Enabled PDF editor on iOS 14, iPad and mac Enhanced translation quality and app user experience.
+Version 5.0.1 (Dec 29, 2022)
+    Enabled PDF editor on iOS 14, iPad and mac Enhanced translation quality and app user experience.
+Version 5.0.0 (Dec 19, 2022)
+    Exciting new feature in this release: - PDF Editor now available where you can edit the original content of PDF, sign and fill forms, add text, images, and more.
+Version 4.3.4 (Sep 29, 2022)
+    You can now use the autodetect feature to translate documents with content in multiple languages into your target language.
+Version 4.2.3 (Sep 11, 2022)
+    You can now select multiple photos from Files for conversion into PDF and for translation. There have also been general improvements to enhance the user experience.
+Version 4.2.2 (Jun 27, 2022)
+    Now you can convert PDF pages to photos. PDF Translator is also now available in Catalan, Hungarian and Traditional Chinese
+Version 4.2.1 (Jun 23, 2022)
+    Minor bug fixes and improvements
+Version 4.2.0 (Jun 10, 2022)
+    Thanks for using PDF Translator. You can now scan documents for translation on iOS. Scan any document to PDF on iOS. Convert photos to PDF. Select multiple photos for translation.
+Version 4.1.5 (May 1, 2022)
+    General Improvements and bug fixes
+Version 4.1.4 (Apr 1, 2022)
+    Fix Language picker not reflecting the selected language on the UI
+Version 4.1.3 (Mar 31, 2022)
+    Fix issue that prevents users from getting credited for pages purchased
+Version 4.1.3 (Mar 31, 2022)
+    Fix issue that prevents users from getting credited for pages purchased
+Version 4.1.2 (Mar 29, 2022)
+    Bug fixes and general improvements
+Version 4.1.1 (Mar 13, 2022)
+    General improvement
+Version 4.1.0 (Feb 27, 2022)
+    Earn free translation credits through mobile ads
+Version 4.0.3 (Jan 26, 2022)
+    General improvements
+Version 4.0.2 (Jan 4, 2022)
+    Bug fixes
+Version 4.0.1 (Dec 21, 2021)
+    Fix bug on iPhones running on versions below iOS 15 where language picker disappears from screen.
+Version 4.0 (Dec 11, 2021)
+    Major update!!!
+    You can now translate Microsoft Word, Excel and PowerPoint in the app
+    You can now pick photos from the Photo Library for translation
+    Share translated documents to any app using the new share button
+    The App Extension now streamlined to handle bigger file sizes and the ability to display for documents
+    You can now use the files viewer in the app to open many document formats like office documents and Photos
+    Documents now auto save on translation
+    General improvements and bug fixes
+Version 3.0 (Nov 7, 2021)
+    PDF Translator is now available in 32 languages
+    Now available on MacOS
+Version 2.1 (Oct 14, 2021)
+    Take photos or screenshots of documents and translate with PDF translator.
+    Auto detect languages
+    Support for file sizes up to 1GB in a single translation
+Version 2.0 (Sep 20, 2021)
+    - Translate unlimited number of pages
+    - Buy Translation bundles and translate away!
+    - Translate pdf documents made from scanned and photocopied files
+    - Second choice translation provider to ensure all kinds of pdf files can be translated
+Version 1.2 (Sep 5, 2021)
+    Translate more pages of pdf up to 120 pages and larger file sizes of up to 40 MB
+    General Translation quality improvement
+Version 1.1 (Aug 22, 2021)
+    Thank you for using the app and the great feedbacks. 
+    This version includes bug fixes:
+    - Fixed issue with server error on consecutive translations to other languages other than English
+    - Fixed in-app purchase to allow for free translation for unused purchases
+    - As a bonus feature, I have increased free translation up to 5 pages on 1st download.
+    Download now and enjoy quality translation in over 100 languages!
+
+
+    PDF Translator v2.0 coming up soon, watch out!!!
+
+Users may also like
+Select objects to compare
+PDF File Translator App
+PDF Translator Pro
+PDF Scanner Editor Translator
+Babel Reader: Translate PDF
+DeftPDF Document Translator
+Contacts: Copy Data to Cloud
+Rar Sharp
+Translator + Safari Extension
+Scan & Translate+ Text Grabber
+UPDF - AI-Powered PDF Editor
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.2.3
+    Current release
+    Jan 14, 2024
+    5.2.2
+    Jan 4, 2024
+    5.2.0
+    Dec 6, 2023
+    5.1.4
+    Nov 9, 2023
+    5.1.3
+    Oct 16, 2023
+    5.1.2
+    Oct 10, 2023
+    5.1.1
+    Sep 27, 2023
+    5.1.0
+    Sep 13, 2023
+    5.0.10
+    Aug 4, 2023
+    5.0.9
+    Jun 5, 2023
+    5.0.8
+    May 8, 2023
+    5.0.7
+    Apr 11, 2023
+    5.0.6
+    Mar 20, 2023
+    5.0.5
+    Feb 10, 2023
+    5.0.3
+    Jan 17, 2023
+    5.0.1
+    Dec 29, 2022
+    5.0.1
+    Dec 29, 2022
+    5.0.0
+    Dec 19, 2022
+    4.3.4
+    Sep 29, 2022
+    4.2.3
+    Sep 11, 2022
+    4.2.2
+    Jun 27, 2022
+    4.2.1
+    Jun 23, 2022
+    4.2.0
+    Jun 10, 2022
+    4.1.5
+    May 1, 2022
+    4.1.4
+    Apr 1, 2022
+    4.1.3
+    Mar 31, 2022
+    4.1.3
+    Mar 31, 2022
+    4.1.2
+    Mar 29, 2022
+    4.1.1
+    Mar 13, 2022
+    4.1.0
+    Feb 27, 2022
+    4.0.3
+    Jan 26, 2022
+    4.0.2
+    Jan 4, 2022
+    4.0.1
+    Dec 21, 2021
+    4.0
+    Dec 11, 2021
+    3.0
+    Nov 7, 2021
+    2.1
+    Oct 14, 2021
+    2.0
+    Sep 20, 2021
+    1.2
+    Sep 5, 2021
+    1.1
+    Aug 22, 2021
+
+See More
+Top In-App Purchases
+
+    PDF Translate 3 Pages
+    $0.99
+    PDF Translate 20 Pages
+    $4.99
+    PDF Translate 500 Pages
+    $94.99
+    PDF Editor Monthly
+    $11.99
+    PDF Translator 200 Pages
+    $45.99
+    PDF Translate 100 Pages
+    $22.99
+    PDF Translate 10 Pages
+    $3.99
+    PDF Translate 50 Pages
+    $16.99
+    PDF Editor Yearly Access
+    $124.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Aug 8, 2021
+
+Worldwide Release Date
+    Aug 8, 2021
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    5.2.3
+
+Size
+    45.80 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Catalan, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Slovak, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+Seller
+    Alex Gameli Heyman
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    Alex.PDF-Translator
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1575283633
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+PDF Translator: Translate | data.ai

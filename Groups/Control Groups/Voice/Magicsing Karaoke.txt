@@ -1,0 +1,522 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Magicsing Karaoke
+EnterMediaEntertainment (Applications)Free
+Alerts
+
+Magicsing Karaoke
+Magicsing Karaoke
+Magicsing Karaoke
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Magicsing Karaoke
+Entertainment (Applications)
+Free
+App Description
+홈 싱어 부문 세계 1위 ㈜엔터미디어 "MAGICSING ASSA노래방" 어플 출시.
+- 스트레스를 한 방에 풀고 싶을 때! 지금 『매직씽』 가라오케를 시작하세요!
+
+
+"엔터미디어"는 20여 년간 전 세계 30여 개 국가를 대상으로 "MAGICSING", "ONSTAGE", "ASSA" 브랜드로 홈 싱어 시장을 선도해 온 글로벌 회사입니다.
+
+이제 "엔터미디어"는 홈 싱어 분야의 핵심기술과 콘텐츠로 "매직씽" 모바일 서비스를 시작합니다.
+
+“매직씽”은 음정, 속도, 멜로디 조정 등 완벽한 노래방 서비스를 지원하고, 남녀노소 누구나 쉽게 이용할 수 있도록 편리한 화면 구성과 음성검색, 애창곡등록 기능 등을 제공합니다.
+
+“매직씽”은 스트리밍 기술을 이용하여 최소한의 데이터로 전 세계 20만개 이상의 곡을 실시간 제공하고, 최신곡이 자동으로 업데이트 되어 언제 어디서나 부담없이 이용할 수 있습니다.
+
+"매직씽 아싸노래방"을 엔터미디어의 스트리밍 반주기와 연결하시면 가정에서 노래방을 즐기실 수 있습니다.
+
+홈 싱어 시장의 선두주자 “엔터미디어”가 제공하는 또 하나의 명품!
+"매직씽“ 모바일 서비스와 함께 행복한 세상을 경험하세요.
+
+[주요 기능]
+* 다양한 국가의 20만 곡 이상의 노래를 기본 제공합니다.
+* 국가별 리스트 선택 및 음성인식으로 원하는 곡을 쉽게 찾을 수 있습니다.
+* 음정, 속도 조절 등 노래방의 주요 기능을 완벽하게 지원합니다.
+* 악기별 볼륨 조정으로 자신의 취향에 맞게 노래반주를 디자인할 수 있습니다.
+* 자주 부르는 곡은 애창곡으로 등록하여 연속재생이 가능합니다.
+* 신곡 및 추가곡은 온라인으로 자동 업데이트됩니다.
+* 별도 판매되는 스트리밍 반주기와 연동하여 노래방 시스템을 구현할 수 있습니다.
+* 전문 악보 기능
+* 터치 드럼 연주 기능
+
+[4G 데이터 사용]
+본 매직싱 가라오케 어플은 MIDI 방식을 사용하므로, mp3 한곡의 데이터 사용량으로 200곡이상을 MIDI곡을 사용할수 있습니다. 한시간을 열심히 즐겨도 2메가 바이트를 소모하지 않으므로, 안심하고 어디서든지 가라오케를 즐기세요.
+
+[안내]
+* 1일, 1개월, 1년 기간별 이용권을 구입하여 편리하게 서비스를 이용하세요.
+* 당사가 제공하는 쿠폰을 등록하시면 유효기간까지 무료로 이용가능 합니다.
+* 곡당 약 20~30 KB 정도로 적은 양의 데이터를 사용하므로 스트리밍이 빠르고, 1시간을 마음껏 즐겨도 약 3 MB 의 통신데이터만 소모하게 되어 유료 데이터 통신 사용자들도 부담없이 사용하 실 수 있습니다.
+* 신청곡 또는 문의는 "magicsingkaraoke@entermedia.xyz"로 보내주세요.
+* 공식 페이스북 페이지 https://www.facebook.com/magicsing.karaokeapp
+
+"매직씽“ 모바일 서비스를 이용해 주셔서 감사합니다.
+Ratings
+Displayed Avg Ratings
+3.54
+Total Displayed Ratings
+942
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.1.96 (Aug 28, 2023)
+    1. 버그 수정.
+Version 5.1.92 (Jun 30, 2023)
+    1. 인트로 이미지 변경
+    2. 기능 안정화 및 버그 수정
+Version 4.9.80 (May 19, 2022)
+    1. 가사 미리보기 기능 추가
+    2. 버그 수정 및 기능 안정화
+Version 4.9.63 (Mar 2, 2022)
+    버그 수정 및 기능 안정화
+Version 4.9.6 (Jan 27, 2022)
+    버그 수정 및 기능 안정화
+Version 4.9.5 (Jan 26, 2022)
+    1. 기능 안정화
+Version 4.9.4 (Jan 18, 2022)
+    1. 음정바 기능 추가.
+    2. 기능 개선 및 안정화.
+Version 4.8.4 (Dec 29, 2021)
+    - 겨울테마 적용
+Version 4.8.3 (Dec 10, 2021)
+    1. 버그 수정 및 기능 안정화
+Version 4.8.1 (Nov 17, 2021)
+    1. 안정성 개선 및 버그 수정
+Version 4.7.89 (Oct 29, 2021)
+    Minor bug fixes improvements.
+Version 4.7.52 (Sep 27, 2021)
+    1. Changed the intro image.
+Version 4.5.88 (Apr 13, 2021)
+    1. Play intro song.
+    2. Minor bug fixes.
+Version 4.5.87 (Apr 2, 2021)
+    Bluetooth audio bug fixes.
+Version 4.5.64 (Mar 18, 2021)
+    1) Button Image change.
+    2) Minor bug fixes.
+Version 4.5.44 (Feb 16, 2021)
+    Minor bug fixes.
+Version 4.0.82 (May 22, 2020)
+    Fixed view resizing error.
+Version 4.0.81 (Apr 29, 2020)
+    1. Touch bug fix.
+Version 4.0.79 (Apr 26, 2020)
+    1. UIWebview uses WKWebview instead.
+    2. Change In-App item.
+    3. Fix minor bug.
+Version 4.0.9 (Mar 1, 2020)
+    Fix errors : Crash if iOS version is less than 10.
+Version 3.9.25 (Jan 15, 2020)
+    Bug fix. (Menu button error)
+Version 3.8.86 (Jan 9, 2020)
+    1. Bug fix.
+    2. Adjust screen brightness.
+Version 3.8.68 (Jan 1, 2020)
+    Bug fix.
+Version 3.8.29 (Dec 19, 2019)
+    Winter theme.
+Version 3.7.2 (Oct 14, 2019)
+    Bug fix.
+Version 3.6.15 (Sep 2, 2019)
+    Message box bug fix.
+Version 3.5.86 (Jul 19, 2019)
+    Supports favorite song group.
+Version 3.5.24 (Jun 6, 2019)
+    Fixed some bugs.
+Version 3.4.79 (May 4, 2019)
+    1. Added user background function.
+    2. Fixed some bugs.
+Version 3.4.71 (May 2, 2019)
+    1) Professional musical notes.
+    - Supports four musical notes.(Melody, Obrigato, Bass, Drum)
+    - Choose one or two lines of musical notes.
+    - Support for octave and transposition.
+    2) Touch drum & drum game.
+    - Play the touch drum while watching the musical notes.
+    - Support for automatic play for each drum. (Kick bass, Snare, Tomtom, Cymbal)
+    - Support portrait and landscape mode.
+    - Display drum game score.
+    * Connect to USB MIDI drum and play drum.
+    3) Support repeat mode.
+Version 3.4.03 (Mar 14, 2019)
+    1) Professional musical notes.
+    - Supports four musical notes.(Melody, Obrigato, Bass, Drum)
+    - Choose one or two lines of musical notes.
+    - Support for octave and transposition.
+    2) Touch drum & drum game.
+    - Play the touch drum while watching the musical notes.
+    - Support for automatic play for each drum. (Kick bass, Snare, Tomtom, Cymbal)
+    - Support portrait and landscape mode.
+    - Display drum game score.
+    * Connect to USB MIDI drum and play drum.
+    3) Support repeat mode.
+Version 3.2.59 (Dec 18, 2018)
+    Fixed a bug.
+Version 3.2.58 (Dec 17, 2018)
+    Fixed a bug.
+Version 3.2.55 (Dec 15, 2018)
+    - Display drum game score.
+    - Apply the winter theme
+Version 3.0.99 (Nov 30, 2018)
+    Fixed some bugs.
+Version 3.0.97 (Nov 7, 2018)
+    Added recording function.
+    Add drum function.
+    Some bug fixes.
+Version 3.0.04 (Sep 9, 2018)
+    1) Professional musical notes.
+    - Supports four musical notes.(Melody, Obrigato, Bass, Drum)
+    - Choose one or two lines of musical notes.
+    - Support for octave and transposition.
+    * Available in the "NOTES" menu.
+
+    2) Touch drum funtion.
+    - Play the touch drum while watching the musical notes.
+    - Support for automatic play for each drum. (Kick bass, Snare, Tomtom, Cymbal)
+    - Support portrait and landscape mode.
+    * The drum button in the lower left corner activates the function.
+
+    3)Removing the theme change function.
+Version 2.8.39 (Jun 16, 2018)
+    Fixed some bugs.
+Version 2.8.15 (Jun 4, 2018)
+    Fixes an issue that some devices do not install.
+Version 2.8.11 (May 31, 2018)
+    Fixed Bluetooth speaker problem.
+Version 2.4.74 (Mar 9, 2018)
+    1. Change the icon.
+Version 2.4.73 (Mar 1, 2018)
+    1. Apply key, tempo, and tempo information to favorite song.
+    2. Support adjust lyric sync option.
+Version 2.4.41 (Jan 30, 2018)
+    1. Fullscreen landscape mode.
+    2. Minor bug fixes.
+Version 2.2.78 (Nov 16, 2017)
+    1. minor bug fixes.
+Version 2.2.12 (Nov 6, 2017)
+    1. Add musical notes function.
+    2. Add notice view.
+    3. minor bug fixes.
+Version 1.7.16 (Aug 11, 2017)
+    - Add a song score ranking
+    - Minor bug fixes
+Version 1.7.13 (Aug 2, 2017)
+    Some bug fixes.
+Version 1.7.08 (Jun 30, 2017)
+    Version 1.7.08
+    1. Support the microphone. (volume, echo)
+    2. Checking your score (when connecting phone jack)
+    3. Apply a new theme (can be changed from the setting menu to an existing theme)
+    4. Favorite song auto save (online)
+    5. Add secondary subtitles function.
+    6. Update notice
+    7. Add Russia, Turkish, Thai and German songs.
+    8. Minor bug fixes.
+Version 1.5 (Mar 28, 2017)
+    1. Add landscape mode.
+    2. Add searching while music playing.
+    3. Display music key.
+Version 1.4 (Feb 9, 2017)
+    1. Added real-time update function of song list
+    2. Add duet song function
+    3. Christmas & New Year theme ends
+Version 1.3 (Jan 26, 2017)
+    1. Add song DB : Korean CCM and buddhist hymn.
+    2. Add Indian and Bangladeshi songs.
+    3. Upload/Download my favorite song with server.
+    4. Improved UI.
+    5. Add Japanese UI
+    6. Change POP list and popular song list.
+Version 1.2 (Dec 22, 2016)
+    Christmas & Season Theme.
+Version 1.1 (Dec 20, 2016)
+    play bug fixed
+Version 1.0 (Dec 13, 2016)
+
+Users may also like
+Select objects to compare
+GVSmartApp
+TJ SMART SONG LIST/Philippines
+iWantTFC
+Vivamax PH
+Miss Universe Philippines
+TJSmartApp
+Viva One
+Sing by Stingray
+AQ Prime
+Hakara - Sing karaoke
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.1.96
+    Current release
+    Aug 28, 2023
+    5.1.92
+    Jun 30, 2023
+    4.9.80
+    May 19, 2022
+    4.9.63
+    Mar 2, 2022
+    4.9.6
+    Jan 27, 2022
+    4.9.5
+    Jan 26, 2022
+    4.9.4
+    Jan 18, 2022
+    4.8.4
+    Dec 29, 2021
+    4.8.3
+    Dec 10, 2021
+    4.8.1
+    Nov 17, 2021
+    4.7.89
+    Oct 29, 2021
+    4.7.52
+    Sep 27, 2021
+    4.5.88
+    Apr 13, 2021
+    4.5.87
+    Apr 2, 2021
+    4.5.64
+    Mar 18, 2021
+    4.5.44
+    Feb 16, 2021
+    4.0.82
+    May 22, 2020
+    4.0.81
+    Apr 29, 2020
+    4.0.79
+    Apr 26, 2020
+    4.0.9
+    Mar 1, 2020
+    3.9.25
+    Jan 15, 2020
+    3.8.86
+    Jan 9, 2020
+    3.8.68
+    Jan 1, 2020
+    3.8.29
+    Dec 19, 2019
+    3.7.2
+    Oct 14, 2019
+    3.6.15
+    Sep 2, 2019
+    3.5.86
+    Jul 19, 2019
+    3.5.24
+    Jun 6, 2019
+    3.4.79
+    May 4, 2019
+    3.4.71
+    May 2, 2019
+    3.4.03
+    Mar 14, 2019
+    3.2.59
+    Dec 18, 2018
+    3.2.58
+    Dec 17, 2018
+    3.2.55
+    Dec 15, 2018
+    3.0.99
+    Nov 30, 2018
+    3.0.97
+    Nov 7, 2018
+    3.0.04
+    Sep 9, 2018
+    2.8.39
+    Jun 16, 2018
+    2.8.15
+    Jun 4, 2018
+    2.8.11
+    May 31, 2018
+    2.4.74
+    Mar 9, 2018
+    2.4.73
+    Mar 1, 2018
+    2.4.41
+    Jan 30, 2018
+    2.2.78
+    Nov 16, 2017
+    2.2.12
+    Nov 6, 2017
+    1.7.16
+    Aug 11, 2017
+    1.7.13
+    Aug 2, 2017
+    1.7.08
+    Jun 30, 2017
+    1.5
+    Mar 28, 2017
+    1.4
+    Feb 9, 2017
+    1.3
+    Jan 26, 2017
+    1.2
+    Dec 22, 2016
+    1.1
+    Dec 20, 2016
+    1.0
+    Dec 13, 2016
+
+See More
+Top In-App Purchases
+
+    1 주일 노래 이용권
+    $4.99
+    1년 노래 이용권
+    $44.99
+    1개월 이용권
+    $9.99
+    3개월 노래 이용권
+    $19.99
+    1년 노래와 악보 이용권
+    $89.99
+    6개월 노래 이용권
+    $30.99
+    1년 악보보기 이용권
+    $30.99
+    하루 사용권
+    $999.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Dec 13, 2016
+
+Worldwide Release Date
+    Nov 24, 2016
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    5.1.96
+
+Size
+    121.68 mb
+
+Only 32 Bit
+    No
+
+Languages
+    한국어, 영어
+
+Seller
+    ENTERMEDIA CO. ,LTD
+
+Company HQ
+    South Korea
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 11.0 버전 이상이 필요. iPhone, iPad 및 iPod touch와(과) 호환.
+
+Bundle ID
+    com.entermedia.mobile.karaoke
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1178437336
+Unified App ID: 1000600000597237
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Magicsing Karaoke | data.ai

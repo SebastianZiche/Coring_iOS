@@ -1,0 +1,52 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.9.3,2024-02-15,Fixed minor issues. Added a daily calendar. Added new moon themed teddy bears.,0,0,0,0,0,0,0,1
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.9.1,2024-02-04,New moon themed teddy bears have been added. A calendar feature has been added. Viewing moon themes has become easier.,0,0,0,0,0,0,0,1
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.9.0,2024-01-10,New themes : Moon Cat Calendar view,0,0,0,0,0,0,1,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.8.1,2023-12-27,New 5 moon themes are added,0,0,0,0,0,0,1,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.8.0,2023-12-25,New 5 moon themes are added,0,0,0,0,0,0,1,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.7.5,2023-11-29,New features Added 5 new month themes,0,0,0,0,0,1,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.7.4,2023-10-16,New features New moon themes,0,0,0,1,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.7.3,2023-10-05,New features New Moon theme,0,0,0,1,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.7.2,2023-09-22,What s New New moon theme: Emotional Moon Fixed some minor issues.,0,0,1,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.7.0,2023-09-02,New feature Glass card is added,0,0,1,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.6.1,2023-05-02,New features Searching a keyword 3 New themes,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.6.0,2023-04-23,New features Searching a keyword 3 New themes,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.15,2023-02-23,New features New UI Bug fix Fixed the issue that caused the text editor to block scrolling in some devices.,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.13,2023-02-16,New features New UI Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.12,2023-01-04,New features New themes Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.11,2022-11-10,New features New themes Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.10,2022-10-18,New features Setting : Hide menu buttons Minor bug fixed,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.9,2022-10-04,New feature New themes Minor bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.8,2022-09-29,New feature New themes Minor bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.7,2022-09-26,New feature Collection theme Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.6,2022-09-08,New themes and UI,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.5,2022-08-18,New feature New themes Bug fix Fix theme error,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.4,2022-07-21,New feature New themes Bug fix Minor issues have been fixed.,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.2,2022-06-28,New feature Analytics menu New writing UI,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.1,2022-06-09,New features New themes New writing UI New Ad type Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.5.0,2022-04-27,New features Monthly challenge New themes New UI,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.4.1,2022-02-25,New features New UI,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.4.0,2022-02-14,New features New UI,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.3.3,2021-12-21,New feature new themes,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.3.2,2021-12-15,Bug Restarting error,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.3.1,2021-12-12,New features Writing UI Bug fix Modification error,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.3.0,2021-12-09,New features Writing UI Bug fix Modification error,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.2.8,2021-11-29,New feature New UI New theme Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.2.7,2021-11-18,New feature New UI New theme Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.2.6,2021-11-15,New feature New UI New theme,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.2.5,2021-10-27,New features New theme,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.2.4,2021-10-16,New feature Add art illustration themes,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.2.3,2021-09-21,Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.2.2,2021-09-10,New feature Moon theme setting Auto save,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.2.1,2021-09-07,New feature Moon theme setting Auto save,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.2.0,2021-09-02,New feature Moon images are changed Grid list Bug fix Invalid theme font,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.1.8,2021-07-17,New features A menu button has been replaced by the long click Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.1.7,2021-07-09,New features Auto back up UI changed A menu button has been replaced by the long click Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.1.6,2021-07-07,New features Auto back up UI changed A menu button has been replaced by the long click Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.1.5,2021-07-05,New features Auto back up Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.1.3,2021-07-04,New features Auto back up Text only,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.1.2,2021-07-01,New features Swipe to previous next note Simple mode Bug fixed,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.1.1,2021-05-10,New features Text size alignment linespacing setting Notification alarm Bug fixed,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.0.5,2021-05-03,New features iCloud back up Bug fix,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.0.4,2021-04-30,Bug Fixed an issue force quit during writing.,0,0,0,0,0,0,0,0
+1536708339,1000800000162746,Luna diary,Lifestyle,2021-04-02,2021-04-02,50.68,6,1,0,1,0.0.3,2021-04-23,New features New themes Text alignment setting Writing guide,0,0,0,0,0,0,0,0

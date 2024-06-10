@@ -1,0 +1,680 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+iColorama S
+Katerina AlieksieienkoPhoto and Video (Applications)Free
+Alerts
+
+iColorama
+iColorama S
+iColorama S
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+iColorama S
+Photo Editor & Brush Painter
+Photo and Video (Applications)
+Free
+iPhone Only
+App Description
+Unleash your creativity with iColorama, the ultimate photo editing, and art creation app!
+
+There are too many effects to be listed here, more than 500! The effects are from simple image adjustments to complicated graphic transformations.
+Images can also be repainted with many different brushes, and you can import and use Photoshop brushes!
+Just check the tag #icolorama on Instagram and find more than 300 000 images that have been edited using this app!
+Start creating your own art today with iColorama!
+Ratings
+Displayed Avg Ratings
+4.26
+Total Displayed Ratings
+660
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.74 (Feb 12, 2024)
+    Directly import Brushes and Fonts from Files
+    Improved Save -> Save with Metadata
+Version 4.73 (Jan 23, 2024)
+    Fixes a problem with fonts.
+Version 4.71 (Dec 27, 2022)
+    Adds depth mask.
+Version 4.70 (Dec 11, 2022)
+    Solves a problem when opening images
+Version 4.69 (Nov 24, 2022)
+    Fixes a problem when saving images.
+Version 4.68 (Oct 9, 2022)
+    Fixes a problem when saving images.
+Version 4.67 (Mar 16, 2022)
+    Adds clothes mask.
+Version 4.66 (Feb 16, 2022)
+    Adds sky mask to AI Masks
+Version 4.65 (Jan 22, 2022)
+    Improves Matte Masks.
+Version 4.64 (Jan 10, 2022)
+    Improves Matte Masks.
+Version 4.63 (Jan 4, 2022)
+    Solves a problem when opening images.
+Version 4.62 (Dec 29, 2021)
+    Solves a problem when displaying masks
+Version 4.60 (Oct 5, 2021)
+    Fixes a problem with TILES - 5.
+Version 4.59 (Aug 20, 2021)
+    Brings back Adjust->EQ2
+Version 4.58 (Jun 17, 2021)
+    Adds Settings options.
+Version 4.57 (Jun 9, 2021)
+    Adds Masks-> Matte Mask 
+Version 4.56 (Jun 6, 2021)
+    Solves a problem with circle masks
+Version 4.55 (Jun 2, 2021)
+    Adds German language support.
+Version 4.54 (May 30, 2021)
+    Adds Japanese language support.
+Version 4.53 (May 23, 2021)
+    Adds new sliders to EFFECT ->Blend and OVERLAY
+Version 4.52 (May 19, 2021)
+    Fixes a problem with Tone2->INTERIOR
+    Don't forget to tag with #icolorama to get featured at Instagram!!!
+Version 4.51 (May 17, 2021)
+    Improves masks by allowing to move and zoom on the image!
+Version 4.50 (May 15, 2021)
+    Solves a problem with Chrome effect.
+Version 4.49 (May 10, 2021)
+    Support for Chinese, Spanish and Russian.
+Version 4.48 (May 4, 2021)
+    Solves a problem when scrolling on the brushes collection.
+Version 4.47 (Apr 24, 2021)
+    Adds some new Adjusts
+Version 4.46 (Apr 20, 2021)
+    Solves a problem with Form->Crop
+Version 4.45 (Apr 19, 2021)
+    Restores support for Russian and Spanish
+Version 4.44 (Apr 18, 2021)
+    Some fixes for layouts, buttons etc
+    If you have any problem, please contact directly: enriqueg@gmail.com 
+Version 4.43 (Apr 3, 2021)
+    Solves a problem with the interface when using brush mask.
+Version 4.42 (Mar 28, 2021)
+    Fixes a problem when accessing images and permission is not granted.
+Version 4.41 (Oct 5, 2020)
+    Fixes a problem when opening images.
+Version 4.40 (Sep 6, 2020)
+    Solves a problem with the media picker.
+Version 4.39 (Mar 5, 2020)
+    Solves a problem with FORM->Unperspective 
+Version 4.38 (Dec 5, 2019)
+    Fixes some problems with Effect->Text
+Version 4.36 (Dec 3, 2019)
+    Fixes a problem with Text effect
+Version 4.35 (Nov 28, 2019)
+    Fixes a problem with Effect->Blend and transparent images
+Version 4.34 (May 26, 2019)
+    Fixes a problem in image picker
+Version 4.33 (Feb 9, 2019)
+    Style->Water2
+Version 4.32 (Dec 11, 2018)
+    Fixes a problem with Sepish effect
+Version 4.31 (Oct 27, 2018)
+    It solves a problem with the sliders bar.
+Version 4.30 (Oct 24, 2018)
+    Fixes some problems with Effects->Raise
+Version 4.29 (Jun 8, 2018)
+    - Solves a problem when taking photos
+Version 4.28 (Mar 6, 2018)
+    - Solves some problem with brushes import
+    - RAW format supported when opening an image (iOS 11)
+    - Simplify, Tiles and Pixel presets
+Version 4.27 (Jan 9, 2018)
+    Form->SORT
+    Some improvements in Ray2
+Version 4.26 (Nov 10, 2017)
+    iPhoneX support
+Version 4.25 (Oct 24, 2017)
+    Solves a problem when resizing images
+    Form->Ray2
+Version 4.24 (Oct 18, 2017)
+    - Improved TEXTURES
+    - More params for GRIDS
+    - CINE colors presets
+Version 4.23 (Oct 13, 2017)
+    FORM->Ray2 (iOS 10 required)
+Version 4.22 (Mar 30, 2017)
+    new water presets
+Version 4.19 (Feb 15, 2017)
+    Solves a problem when importing iC Brushes groups with an existing name
+    Don't miss the tutorials at http://photo2paint.com
+Version 4.18 (Jan 31, 2017)
+    - Fixes some crashes in lighten effect.
+Version 4.17 (Jan 12, 2017)
+    Fixes a problem with Bristle brush
+Version 4.16 (Jan 10, 2017)
+    - New brush picker: You can add/remove favorites, order by dragging the brushes (groups)
+    - Integration with a new app for creating brushes from images : iC Brushes (search in the App Store)
+Version 4.15 (Nov 28, 2016)
+    Styles -> ETFlow
+Version 4.14 (Sep 23, 2016)
+    fixes flat #20, tensor #5..better recording for 5s or newer..(you have to enable in Settings app)
+Version 4.12 (Sep 13, 2016)
+    Todays widget, flat 2, better LUT table
+Version 4.11 (Jun 9, 2016)
+    -tensor, grids, painterly, flat
+Version 4.10 (Feb 10, 2016)
+    - Brush->Clone
+    - Textures now organised, Texture->Leaks
+    - Adjust->EQ2
+    - Fixes in Auto2, Water and WaterB
+    - Style->Flat3, 4
+    - Style-> Coherence4
+    - Effects->Range
+Version 4.0 (Jan 7, 2016)
+    enable the old devices like 4s and 5c, no other changes.
+    recording is back
+Version 3.99 (Dec 22, 2015)
+    - bunch of new effects, find by yourself)
+Version 3.98 (Dec 1, 2015)
+    new brushes
+    solves some crashes for newest devices
+Version 3.97 (Oct 30, 2015)
+    color buttons now in better places
+    Form->Ray,
+    Preset->Grids
+    New eschers
+Version 3.96 (Oct 5, 2015)
+    - acv curves import
+    - scrape
+    - fixes for 9.0
+Version 3.95 (Sep 11, 2015)
+    - solves a problem with max resolution
+    - adjust->tone curve
+Version 3.94 (Sep 2, 2015)
+    better water effects
+    hatches
+Version 3.92 (Jul 17, 2015)
+    - auto2
+    - flow
+Version 3.91 (May 28, 2015)
+    - Bristles and Geometry brushes
+    - Shifts
+Version 3.90 (Apr 22, 2015)
+    - Rebound brush
+    - New escher, tunnel
+    - open white images/lut
+    - Keep "steps" after crop
+    - Intro with links, folllow me in Instagram: @icolorama
+    - Blend Color and Luminance fixed now
+    - New light effects
+    - Tritone
+    - Compose
+    - Many sliders to brushes, set source etc
+    - lights
+    - new coherences
+Version 3.89 (Apr 21, 2015)
+    - open white images/lut
+    - Keep "steps" after crop
+    - Intro with links, folllow me in Instagram: @icolorama
+    - Blend Color and Luminance fixed now
+    - New light effects
+    - Tritone
+    - Compose
+    - Many sliders to brushes, set source etc
+    - lights
+    - new coherences
+Version 3.88 (Feb 14, 2015)
+    - Style->Triangles
+    - Images can be opened in Pixel23, Tensor and Glass
+    - Fixes crash when sharing the image with other apps
+    - icon in iPad
+Version 3.87 (Jan 27, 2015)
+    Join our FB group for more info, help and inspiration.
+    Instagram: @icolorama
+
+    - Better memory management, should help with crashes.
+    - Style->Lighten
+    - Style->WaterB
+    - new Sketch, Flat, Deforms, Deform, Pixel
+    - New brushes
+Version 3.86 (Dec 16, 2014)
+    Please visit our FB page and FB Group (1000+ members)
+    http://facebook.com/groups/icolorama
+
+    - new save dialogue
+    - coherence faster
+    - new pop up for text and crop
+    - fixed some crashes
+Version 3.85 (Dec 8, 2014)
+    Visit the FB group for support, tips, sharing your art and techniques
+    (Just search for and join the iColorama group in Facebook..I'm available day round)
+
+    - Coherence
+    - Import brushes, fonts, LUTs
+    - Many new presets !
+
+    It is December) please if you have time leave some stars in review) It will be very appreciated!
+Version 3.84 (Oct 6, 2014)
+    Solves more issues with iOS 8
+    Fixes a crash if users cancel the image picker
+Version 3.83 (Sep 18, 2014)
+    Solves some issues with iOS 8.0
+Version 3.82 (Aug 3, 2014)
+    New brushes and more effects
+Version 3.80 (Jun 23, 2014)
+    Just get it!
+Version 3.72 (Apr 7, 2014)
+    Nothing new only an urgent fix for iPhone 5, IOS7.1
+    You don't need this update if you don't have problems
+
+    Big thanks to M Alkharji @Mujodroid at Instagram, and Anette Schmitz-Millrath for reporting this!!!
+Version 3.71 (Jan 31, 2014)
+    Special version for jfrenchy and Dylan Mitchell, that reported the color picker issue.
+
+    - New color picker, fixed problems with iPhone4s
+    - Some new brushes
+    - Brushing with images and shadows
+    - Blend and Distort "fill"
+Version 3.70 (Jan 23, 2014)
+    New effects
+    - Better sliders, sharper image
+    - New High, Hue, Tiles, Tones
+    - 200+ textures
+    - 3 new Painting presets (and one more for iPhone5s)
+    - 8 Mirrors effects
+    - "Restart" shortcut for almost all brushes modes.
+    - 20 new frames
+Version 3.61 (Nov 14, 2013)
+    Solves some problems with memory. New Raise preset.
+Version 3.60 (Nov 11, 2013)
+    New Flow, Text with shadow, new edges.
+Version 3.41 (Sep 14, 2013)
+    Text, Distort
+Version 3.3 (Jul 22, 2013)
+    500+ brushes, you find them as the first presets in "Style": called Artist, Stamped, Explode, Shatter, Colorize... (depending of your device)
+
+    About the buttons on the left: History, Override touch, Brush masking and Circle masking please read the guide how to use these. (It will take you 5 minutes and give you Ninja powers)
+
+    New Enhance number 2, deforms and all tints and sepias fixed...
+
+    To all my friends @Instagram! I follow you all! Thank you for the support and the inspiration!
+Version 2.9 (Mar 13, 2013)
+    Many new effects, find them by yourself! Have fun!
+
+    This version is dedicated to the amazing art of @hellomynameisshawn, a daily inspiration!
+
+    And also to @freyafelix, @zmlcl, @cathyross,
+    @rjswilson, @urbanjj, @gericentonze and @elenache2001,@heleqtionr ...just check them at Instagram! They are all amazing!
+
+    Thanks to Carolyn Hall Young, Jerry Jobe, Danny Panaseth, Giuseppe Navone and JJ Clark for the support and inspiration!
+Version 2.5 (Oct 29, 2012)
+    HDR, Drostes and Glasses..supporting iPhone 5
+Version 2.4 (Jun 25, 2012)
+    - Fix a serious bug with resolutions when opening images. For example a 800x600 image could not be opened.
+Version 2.3 (Jun 21, 2012)
+    - 25 Blend modes
+
+    - Fix some bugs with crop and resolution
+Version 2.2 (Jun 14, 2012)
+    - Fixed bug of squashed portrait
+    - Upload to Flickr
+    - Lines presets
+    - Crop
+    - Resolution Selector
+    - Fake HDR (High) and Tone mapping (TMO), use these 2 together
+    - New Tint and Pastel presets
+    - Better Simplify, Blur
+    - Engraving
+Version 1.1 (May 9, 2012)
+    - 30 Glasses presets in Form.
+    - 18 Sepias in Colors.
+    - Faster to open an image. 
+Version 1.0 (Apr 18, 2012)
+Version 4.21 (Apr 18, 2012)
+    Fixes a problem with Match buttons.
+
+Users may also like
+Select objects to compare
+Distressed FX
+Smart Resize - AI
+Mextures Photo Editor
+Distressed FX : Plus
+Fine - Photo Editor
+FotoDa
+Carbon12 - B&W Film Emulation
+Artista Impresso
+Apollo: Immersive illumination
+Image Blender
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.74
+    Current release
+    Feb 12, 2024
+    4.73
+    Jan 23, 2024
+    4.71
+    Dec 27, 2022
+    4.70
+    Dec 11, 2022
+    4.69
+    Nov 24, 2022
+    4.68
+    Oct 9, 2022
+    4.67
+    Mar 16, 2022
+    4.66
+    Feb 16, 2022
+    4.65
+    Jan 22, 2022
+    4.64
+    Jan 10, 2022
+    4.63
+    Jan 4, 2022
+    4.62
+    Dec 29, 2021
+    4.60
+    Oct 5, 2021
+    4.59
+    Aug 20, 2021
+    4.58
+    Jun 17, 2021
+    4.57
+    Jun 9, 2021
+    4.56
+    Jun 6, 2021
+    4.55
+    Jun 2, 2021
+    4.54
+    May 30, 2021
+    4.53
+    May 23, 2021
+    4.52
+    May 19, 2021
+    4.51
+    May 17, 2021
+    4.50
+    May 15, 2021
+    4.49
+    May 10, 2021
+    4.48
+    May 4, 2021
+    4.47
+    Apr 24, 2021
+    4.46
+    Apr 20, 2021
+    4.45
+    Apr 19, 2021
+    4.44
+    Apr 18, 2021
+    4.43
+    Apr 3, 2021
+    4.42
+    Mar 28, 2021
+    4.41
+    Oct 5, 2020
+    4.40
+    Sep 6, 2020
+    4.39
+    Mar 5, 2020
+    4.38
+    Dec 5, 2019
+    4.36
+    Dec 3, 2019
+    4.35
+    Nov 28, 2019
+    4.34
+    May 26, 2019
+    4.33
+    Feb 9, 2019
+    4.32
+    Dec 11, 2018
+    4.31
+    Oct 27, 2018
+    4.30
+    Oct 24, 2018
+    4.29
+    Jun 8, 2018
+    4.28
+    Mar 6, 2018
+    4.27
+    Jan 9, 2018
+    4.26
+    Nov 10, 2017
+    4.25
+    Oct 24, 2017
+    4.24
+    Oct 18, 2017
+    4.23
+    Oct 13, 2017
+    4.22
+    Mar 30, 2017
+    4.19
+    Feb 15, 2017
+    4.18
+    Jan 31, 2017
+    4.17
+    Jan 12, 2017
+    4.16
+    Jan 10, 2017
+    4.15
+    Nov 28, 2016
+    4.14
+    Sep 23, 2016
+    4.12
+    Sep 13, 2016
+    4.11
+    Jun 9, 2016
+    4.10
+    Feb 10, 2016
+    4.0
+    Jan 7, 2016
+    3.99
+    Dec 22, 2015
+    3.98
+    Dec 1, 2015
+    3.97
+    Oct 30, 2015
+    3.96
+    Oct 5, 2015
+    3.95
+    Sep 11, 2015
+    3.94
+    Sep 2, 2015
+    3.92
+    Jul 17, 2015
+    3.91
+    May 28, 2015
+    3.90
+    Apr 22, 2015
+    3.89
+    Apr 21, 2015
+    3.88
+    Feb 14, 2015
+    3.87
+    Jan 27, 2015
+    3.86
+    Dec 16, 2014
+    3.85
+    Dec 8, 2014
+    3.84
+    Oct 6, 2014
+    3.83
+    Sep 18, 2014
+    3.82
+    Aug 3, 2014
+    3.80
+    Jun 23, 2014
+    3.72
+    Apr 7, 2014
+    3.71
+    Jan 31, 2014
+    3.70
+    Jan 23, 2014
+    3.61
+    Nov 14, 2013
+    3.60
+    Nov 11, 2013
+    3.41
+    Sep 14, 2013
+    3.3
+    Jul 22, 2013
+    2.9
+    Mar 13, 2013
+    2.5
+    Oct 29, 2012
+    2.4
+    Jun 25, 2012
+    2.3
+    Jun 21, 2012
+    2.2
+    Jun 14, 2012
+    1.1
+    May 9, 2012
+    1.0
+    Apr 18, 2012
+    4.21
+    Apr 18, 2012
+
+See More
+Top In-App Purchases
+
+    iColorama S PRO
+    $4.99
+    iColorama S PRO
+    $0.99
+    iColorama S PRO
+    $9.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Apr 18, 2012
+
+Worldwide Release Date
+    Apr 18, 2012
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    4.74
+
+Size
+    1.1k mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Russian, Simplified Chinese, Spanish
+
+Seller
+    Katerina Alieksieienko
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.talonsodev.fx.iColorama-S
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 518522388
+Unified App ID: 1000600000442425
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+iColorama S | data.ai

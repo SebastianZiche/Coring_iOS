@@ -1,0 +1,418 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+aka
+aka MessengerSocial Networking (Applications)Free
+Alerts
+
+aka
+aka
+aka
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+aka
+Social Networking (Applications)
+Free
+App Description
+aka is an UNOFFICIAL Telegram client. Due to using Telegram API, it can give you the best experience possible in messaging and you can chat with more than 200 Million people from all around the world.
+
+Fast, Synced, Unlimited, Secure, Powerful, Reliable and Private messaging is only a part of the benefits you can get from aka.
+
+Nothing makes a popular, fast and safe messenger like Telegram better than a free and high quality video call feature. With aka you can have video chat with your friends, easier than ever.
+
+if you want to be sure about the security, you can use secret chat feature because it uses 3 world class encryption methods.
+
+For making things easier, aka filter your chats based on their type and you can reach them through bottom tabs in the main page.
+
+Access all your files from any place and any device since all your data is saved on secure, free and unlimited cloud storage of Telegram.
+
+Do you want to login with more than 3 Telegram accounts? You can login with up to 6 accounts with aka.
+
+You can login and start using aka in less than a minute. So download it now and say hello to the real messaging experience.
+
+We are effortlessly trying to improve aka and adding more exciting and useful features to app.
+
+Thanks for supporting us.
+Ratings
+Displayed Avg Ratings
+3.69
+Total Displayed Ratings
+531
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.0 (Feb 5, 2024)
+    Updated Source Code to Version 10.7
+    Saved Messages 2.0
+    One-Time Voice Messages
+    Read Time for Messages
+Version 1.4.3 (Jan 8, 2024)
+    Updated Source Code to Version 10.4
+    New colorful voice calls
+    Reposting channel posts in stories
+Version 1.4.2 (Dec 29, 2023)
+    Updated Source Code to Version 10.4
+    Repost Stories
+    Reaction, music and video messages in stories
+    Similar Channels
+    Improved reply system and new quote system
+Version 1.4.1 (Sep 12, 2023)
+    Updated Source Code to Version 10.0.2
+    Bug Fix
+Version 1.4.0 (Aug 1, 2023)
+    Updated Source Code to Version 9.6.5
+    Stories added
+Version 1.3.2 (Apr 28, 2023)
+    Updated Source Code to Version 9.6.1
+    Shareable Folders
+    Custom Wallpapers for chats
+    Power Saving Mode
+    Profile Photo Maker
+    Hidden Media
+Version 1.3.1 (Dec 27, 2022)
+    Updated Source Code to Version 9.2.1
+    Topics in Groups 2.0
+    Global Auto-Delete
+    Voice-To-Text for Video Messages
+    Other Design Improvements
+Version 1.3.0 (Oct 21, 2022)
+    Updated Source Code to Version 9.0.2
+    Infinite Reactions
+    Emoji Statuses
+    Improved Login Flow
+Version 1.2.8 (Oct 16, 2022)
+    Bug Fix
+    Better Connectivity
+Version 1.2.7 (Aug 25, 2022)
+    Updated Source Code to Version 8.9
+
+    Animated Emojis
+    New Sticker Panel
+    Privacy Settings for Voice Messages
+Version 1.2.6 (Jul 1, 2022)
+    Updated Source Code to Version 8.8.1
+
+    Join requests for public groups are enabled
+    External sharing has been improved
+    Faster and improved UI, animations and bots
+Version 1.2.5 (May 7, 2022)
+    Updated Source Code to Version 8.7.1
+
+    Notification Sounds and Mute Duration Can Be Customized
+    New Auto-Delete Menu Added in Profiles
+    Replied Messages are Shown in Forwards
+    Bot Admins Can be Configured Instantly
+    Message Translation Has Been Improved
+
+    First Message in a Chat is Accessible with a Button in Profile Page
+Version 1.2.4 (Apr 6, 2022)
+    Updated Source Code to Version 8.6
+
+    Download Manager Tool is Added
+    Attachment Menu Has Been Renewed
+    Phone Numbers Can be Shared Links in t.me/+123456789 Format
+
+    Bug Fix
+Version 1.2.3 (Mar 2, 2022)
+    Updated Source Code to Version 8.5.1
+
+    Video Stickers
+    Better Message Reactions
+    Read Status for Reactions
+    Navigate Recent Chats
+Version 1.2.2 (Jan 23, 2022)
+    Updated Source Code to Version 8.4.1
+
+    Message reactions has been added
+    Hiding messages in spoilers are now possible
+    Message translation feature is available
+    QR Codes for links can be generated
+Version 1.2.1 (Oct 6, 2021)
+    Updated Source Code to Version 8.1
+    Recording Live Streams and Video Chats is Now Possible
+    Custom Themes for Private Chats are Added
+    Interactive Emojis are Introduced
+    Messages in Small Groups have Read Receipts Now
+Version 1.2.0 (Sep 20, 2021)
+    Updated Source Code to Version 8.0
+    Unlimited Live Streams are Now Possible
+    Flexible Forwarding Has Been Introduced
+    Channel Navigation Is Easier Now
+    Group Video Calls, Video Messages and Video Player are Improved
+Version 1.1.6 (Jul 24, 2021)
+    Updated Source Code to Version 7.8.4
+    Group Video Calls Is Now available
+    Password Recovery Has Been Improved
+    Animated Background for Chats Can Be Chosen
+    Connectivity Issues of Automatic Proxy Got Fixed
+Version 1.1.5 (Jun 21, 2021)
+    Updated Source Code to Version 7.7.0
+    Bug Fixes
+Version 1.1.4 (Mar 29, 2021)
+    Updated Source Code to Version 7.6.0
+    - Voice Chats in Channels with Millions of Listeners
+    - Record Voice Chats
+    - Better UI and Management Tools for Voice Chats
+    Fixed Advanced Forward Bug
+Version 1.1.3 (Mar 18, 2021)
+    1.1.3:
+    Fix Connectivity issues
+
+    1.1.2:
+    Updated Source Code to Version 7.5.1
+    - Auto-Delete Messages
+    - New Invite Links for Groups and Channels
+    - iOS 14 Widgets
+    - Groups with Unlimited Members
+    - Import Chat history from other apps
+    - Voice Chats in Groups
+
+    Reduced App Size
+
+Version 1.1.2 (Mar 15, 2021)
+    Updated Source Code to Version 7.5.1
+    - Auto-Delete Messages
+    - New Invite Links for Groups and Channels
+    - iOS 14 Widgets
+    - Groups with Unlimited Members
+    - Import Chat history from other apps
+    - Voice Chats in Groups
+
+    Reduced App Size
+Version 1.1.1 (Nov 17, 2020)
+    Updated Source Code to Version 7.2:
+    - Search Filters
+    - Anonymous Group Admins
+    - Channel Comnets
+    - Pinned Messages 2.0
+    - Playlists and More
+Version 1.1.0 (Sep 25, 2020)
+    Updated Source Code to Version 7.0.1
+    New Video Calls
+    Bug Fix and Improvements
+Version 1.0.3 (Aug 10, 2020)
+    Bug Fix
+Version 1.0.2 (Aug 8, 2020)
+    Version 1.0.2:Fix Crashes
+
+    Version 1.0.1:
+    Updated To Telegram Version 6.2
+    New Telegram Tabs
+    Bug Fix and Improvements
+Version 1.0.1 (Aug 7, 2020)
+    Updated To Telegram Version 6.2
+    New Telegram Tabs
+    Bug Fix and Improvements
+Version 1.0 (Nov 4, 2019)
+
+Users may also like
+Select objects to compare
+Vidogram
+iMe Messenger & Crypto Wallet
+Bestgram
+Messenger VPN: Private Chat
+VPN for Telegram
+Telegram Tools
+Nicegram: AI Chat for Telegram
+xPal Ultra Secure Messenger
+Whats Web Dual Messenger App
+Messenger for Web App Plus
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.5.0
+    Current release
+    Feb 5, 2024
+    1.4.3
+    Jan 8, 2024
+    1.4.2
+    Dec 29, 2023
+    1.4.1
+    Sep 12, 2023
+    1.4.0
+    Aug 1, 2023
+    1.3.2
+    Apr 28, 2023
+    1.3.1
+    Dec 27, 2022
+    1.3.0
+    Oct 21, 2022
+    1.2.8
+    Oct 16, 2022
+    1.2.7
+    Aug 25, 2022
+    1.2.6
+    Jul 1, 2022
+    1.2.5
+    May 7, 2022
+    1.2.4
+    Apr 6, 2022
+    1.2.3
+    Mar 2, 2022
+    1.2.2
+    Jan 23, 2022
+    1.2.1
+    Oct 6, 2021
+    1.2.0
+    Sep 20, 2021
+    1.1.6
+    Jul 24, 2021
+    1.1.5
+    Jun 21, 2021
+    1.1.4
+    Mar 29, 2021
+    1.1.3
+    Mar 18, 2021
+    1.1.2
+    Mar 15, 2021
+    1.1.1
+    Nov 17, 2020
+    1.1.0
+    Sep 25, 2020
+    1.0.3
+    Aug 10, 2020
+    1.0.2
+    Aug 8, 2020
+    1.0.1
+    Aug 7, 2020
+    1.0
+    Nov 4, 2019
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Nov 4, 2019
+
+Worldwide Release Date
+    Nov 7, 2019
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    1.5.0
+
+Size
+    163.59 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Português, Alemão, Bielo-russo, Catalão, Coreano, Espanhol, Francês, Holandês, Indonésio, Inglês, Italiano, Malaio, Persa, Polonês, Russo, Turco, Ucraniano, Usbeque, Árabe
+
+Seller
+    Aboobaker Sideeq Ariyal
+
+Content Rating
+    Rated +17
+
+Family Sharing
+    Yes
+
+Requirement
+    Requer o iOS 12.0 ou posterior. Compatível com iPhone, iPad e iPod touch.
+
+Bundle ID
+    org.aka.messenger
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Nov 4, 2019)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1476189685
+Unified App ID: 1000600000835676
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+aka | data.ai

@@ -1,0 +1,109 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,5.1.0,2024-02-14,We are rolling out major behind the scenes improvement to the video player.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,5.0.0,2024-02-07,We are rolling out a fresh new Home screen experience.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.14.2,2024-01-29,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.14.0,2024-01-10,Improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.13.0,2024-01-02,Bug fixes and improvements.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.12.0,2023-11-20,Fixed the app erroneously logs out in certain circumstances. Fixed the app may be stuck in loading state after launching. Fixed the Guide screen may fail to paginate after a Filter is selected. Fixed profile s email address or phone number cannot be updated. Other bug fixes and improvements.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.11.0,2023-10-25,Fix: the retry button didn t always work. Fix: the play button was shown on content which was not playable. Other bug fixes and improvements.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.10.0,2023-10-03,A UI improvement for the Show screen s season loading state. Other bug fixes and improvements.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.9.0,2023-09-18,We fixed an issue in that the app was unable to play content under certain conditions.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.8.1,2023-09-05,Improved Notifications,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.8.0,2023-08-28,Improvements to data loading and integrity.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.7.2,2023-08-21,bug fixes and improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.7.1,2023-08-16,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.7.0,2023-08-14,Bug fixes and improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.6.0,2023-08-02,bug fixes content recommendation push notification support,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.5.1,2023-07-27,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.5.0,2023-07-18,Bug fixes and improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.4.2,2023-06-28,updated user privacy options.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.4.1,2023-06-14,bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.4.0,2023-05-25,Bug fixes and improvements.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.3.0,2023-05-04,Bug fixes and improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.2.1,2023-04-24,Bug Fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.2.0,2023-04-20,Push notification updates,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.1.2,2023-04-06,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.1.1,2023-03-24,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.1.0,2023-03-20,Bug Fixes and Performance Improvements.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,4.0.0,2023-03-06,Bug fixes and improvements. Removal of in app support chat button on settings and adding the link to the help center contact page.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.8.0,2023-02-13,bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.7.5,2023-01-30,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.7.4,2023-01-26,Bug fixes and performance improvements.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.7.3,2023-01-10,Bug fixes and Improvements.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.7.2,2022-12-30,Notifications related improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.7.0,2022-12-12,Video Player fixes and performance improvements iOS iPadOS tvOS version 15 or higher required General fixes and performance improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.6.2,2022-12-05,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.6.1,2022-11-29,bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.6.0,2022-11-14,Performance Improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.5.2,2022-10-26,Feature: Add support for channel type promoted hero tiles Bug fixes: Fix spacing gap near system clock.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.5.1,2022-10-04,Improve loading speed. Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.5.0,2022-09-12,Support double tap zoom Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.4.8,2022-08-31,Support video player zoom double tap screen . Fonts updates Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.4.7,2022-08-23,Bug Fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.4.6,2022-08-17,Bug Fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.4.5,2022-08-09,Player crash fix,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.4.4,2022-07-25,In App Support fix for Profile Switch,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.4.3,2022-07-19,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.4.2,2022-07-05,Fix for SSO Logout Issue Keychain Fix for TV Provider Never ending spinner on the Home screen fixed Fixed error with web socket closed Hero Tile Promotion Users with a referral bug fix and other analytics,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.4.0,2022-06-22,In app Chat Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.3.3,2022-05-19,Crash fixes and improved player analytics reporting,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.3.2,2022-05-05,Fixes for hero cell,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.3.1,2022-04-26,Third party version upgrade,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.3.0,2022-04-18,Third party upgrade.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.2.0,2022-03-31,Updated Empty Saved Page Bug Fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.1.1,2022-03-15,Bug Fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.1.0,2022-03-01,Advertisement improvements Support recordings filter Show Profile Fix for tvOS stuck on Splash screen tvOS GridView Crash Fix Remote config for Account Deletion,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,3.0.0,2022-02-15,Single Sign On support Universal search Deep linking additions Improved authentication and subscription registration,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.7.0,2022-02-01,Accessibility iOS Voice Over support Other bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.6.0,2022-01-21,Welcome Survey Notification In App Notification Deeplink improvements and additions Initiate Account Deletion Bug and crash fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.5.5,2022-01-03,Bug Fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.5.4,2021-12-13,Genre Collection GridView support,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.5.3,2021-11-29,Genre Collections,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.5.1,2021-11-22,Airplay Picture in Picture,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.4.8,2021-11-09,Fullscreen support on the new iPad Mini Other bug fixes and improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.4.6,2021-10-29,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.4.4,2021-10-25,Bug Fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.4.3,2021-10-21,Bug Fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.4.2,2021-10-12,Bug Fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.4.1,2021-10-04,Address a memory issue.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.4.0,2021-09-27,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.3.2,2021-07-12,Fixed a bug that the Content Modal is unresponsive on some devices.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.3.1,2021-07-08,Bug fixes and improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.3.0,2021-06-28,Find the most popular new playable broadcasts by channel on the new Top screen Sort your Saved shows by Most Recent or Alphabetically See more details about a show when you tap a playable tile or play it by long pressing the tile,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.2.1,2021-06-07,Improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.2.0,2021-05-25,Improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.1.3,2021-05-10,Improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.1.2,2021-04-29,Improvements,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.1.1,2021-04-26,Improvements and bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.1.0,2021-04-19,The Guide: find out when your favorite TV show is on! Home screen has got an update: tap a collection title to view the whole collection full screen! A handful of improvements to the player. Never have to retype in your search again: your recent searches are only a tap away. Hope you enjoy the updates!,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,2.0.0,2021-02-25,Improvements and bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.8.4,2021-01-12,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.8.3,2020-12-14,Improvements and bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.8.2,2020-11-04,Spatial Audio for iOS 14,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.8.1,2020-08-11,Improvements and bug fixes,0,0,0,0,0,1,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.8.0,2020-06-30,Simplified sign up and sign in processes Bug fixes and improvements,0,0,0,0,1,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.7.0,2020-05-22,Bug fixes and improvements,0,0,1,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.6.5,2020-04-27,The ability to remove a show from the Keep Watching row. A handful of bug fixes and improvements.,0,0,1,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.6.4,2020-03-06,bug fixes and optimizations,1,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.6.3,2020-03-04,New: Content Modal you can long press on a tile to see more information about the show A lot of bug fixes and optimizations,1,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.6.1,2020-01-15,Hope you had a great holiday and enjoyed some time with friends family and Philo! This version includes updates to more of the iOS screens and a handful of bug fixes. Let us know what you think.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.6.0,2019-12-02,Philo for iOS has received a bit of a facelift! Let us know what you think about the new home show and movie screens.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.5.1,2019-08-20,Bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.5.0,2019-08-12,New: In App Purchase: start a trial sign up purchase subscription and restore subscription Profiles: channels start from live or beginning setting Profiles: add and update sign in info New icons and updated Auth pages Improvements: Handle blackout and add blackout message and blackout tag Update ad break duration on live edge and don t show countdown timer,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.4.5,2019-05-22,Some bug fixes.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.4.4,2019-05-16,New Login with SMS link Resend code Call with a code,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.4.3,2019-03-25,Internal updates. Bug fixes performance enhancements you know the drill .,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.4.2,2019-03-05,New Today Widget to get you back to your show even faster along with a bunch of bug fixes.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.4.1,2018-12-21,Fix a thumbnail refetch failure issue.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.4.0,2018-12-17,Added tab bar controller: a new way to navigate Added Home Screen Quick Actions Added Profiles to Settings now you can add switching and editing profiles Various improvements and bug fixes,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.3.2,2018-10-31,Bug fixes.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.3.1,2018-10-04,Some behind the scenes bug fixes.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.3.0,2018-09-24,iPad users we heard you! Philo is now optimized for iPad. Other updates: Added support for iOS 12 s Secure Code AutoFill feature. Fixed: When watching live content Philo would sometimes allow you to seek into the future. Our app would helpfully close itself to prepare for time travel. Now it doesn t. Fixed: In some situations we d show that you had watched 100 of an episode whether you actually did or not. There are some cases where it s cool to get credit for something you didn t do. This is not one of them. Fixed: When switching back to the Philo app it could take up to a full minute for tiles to refresh. Now it takes less time. Much less. Like it happens instantaneously.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.2.5,2018-09-05,Fixed a jump to live bug Fixed thumbstream and playhead tick appear at the end of the scrubber,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.2.4,2018-08-22,Fix a streams check issue.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.2.3,2018-08-14,Fix a search issue.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.2.2,2018-06-12,Now you can keep your favorite shows going with autoplay!,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.1.0,2018-01-15,With this release we re adding the ability to favorite the channels you love so you ll see them first in channel lists. Tap a channel logo then the,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.0.2,2017-11-27,We re always tinkering with things in here to make it better. If you re vigilant you might notice some performance improvements and general bug fixes.,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.0.1,2017-11-22,A handful of bug fixes and enhancements. Thanks for watching Philo!,0,0,0,0,0,0,0,0
+1248646044,1000600000663023,Philo Live On Demand TV,Entertainment,,2017-11-14,59.27,1,1,0,1,1.0.0,2017-11-14,,0,0,0,0,0,0,0,0

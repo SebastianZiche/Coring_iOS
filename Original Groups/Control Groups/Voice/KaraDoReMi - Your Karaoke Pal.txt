@@ -1,0 +1,432 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+KaraDoReMi - Your Karaoke Pal
+Global Good Music Multimedia Co., Ltd.Music (Applications)Free
+Alerts
+
+    Global Good Music Multimedia Co., Ltd.
+
+    KaraDoReMi - Your Karaoke Pal
+    KaraDoReMi - Your Karaoke Pal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+KaraDoReMi - Your Karaoke Pal
+Music (Applications)
+Free
+App Description
+KaraDoReMi is an innovative song learning and karaoke mobile application using YouTube. Bring amazing song learning and karaoke experiences to users.
+
+Innovative features include:
+1. Using YouTube video to learn songs and singing performance including pitch and singing skills such as portamento and vibrato can be evaluated in real time
+2. Song learning by song structure: We analyze songs and present to you their structures such as verse, chorus, etc. to help you understand the constitution of a song. Learning by song structure makes you learning to sing a song more quickly and easily. You can also learn to sing only those structures that you are not good at repeatedly
+3. In-depth singing performance analysis: Our unique and powerful scoring engine can accurately evaluate your singing performance. Our powerful singing analysis function combines line chart of scores by each line of song lyrics and graph of your vocal pitch and original singer's vocal pitch to help you quickly pinpoint your weakness of singing. And then you can practice those lines of song lyrics repeatedly by singing along with YouTube video
+
+Other key features include:
+1. Global single song leaderboard: upload your proud recordings and show up your learning and singing results to the world
+2. My Songbook: create your own songbooks. You can quickly pick one of your songbooks that best fits your mood, place, and special days to learn or sing
+3. Editor's Choice: No idea what to sing? Our editors prepare various kinds of song lists such as Hot Songs From Tik Tok, Hits of the World, J-pop, K-pop, etc. to help you find songs to learn and sing
+
+If you need any help or you want to sing and learn songs that are not on KaraDoReMi, please go to KaraDoReMi Facebook fan page https://www.facebook.com/karadoremi to private message us! (In App: My Profile -> Settings)
+
+Terms of Use: https://legal.karadoremi.net/terms/terms.html
+
+KaraDoReMi is a third-party app that complies with the YouTube API Terms of Service [1] and all videos are streamed through the official API embedded player [2]. YouTube maintains the copyright owner's rights with the Content ID system [3], and if a non-legally authorized video is uploaded, the right holder can submit a copyright takedown notice to YouTube [4].
+[1] https://developers.google.com/youtube/terms/api-services-terms-of-service
+[2] https://developers.google.com/youtube/iframe_api_reference
+[3] https://support.google.com/youtube/answer/2797370
+[4] https://support.google.com/youtube/answer/2807622
+Ratings
+Displayed Avg Ratings
+4.8
+Total Displayed Ratings
+16.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.2.0 (Jan 25, 2024)
+    1. Support iOS 17
+    2. Bug fixes
+Version 3.1.3 (Oct 31, 2023)
+    Bug fixes
+Version 3.1.1 (Oct 20, 2023)
+    Bug fixes
+Version 3.1.0 (Jun 13, 2023)
+    1. Support iOS 16.4 and iPadOS 16.4
+    2 Enhanced AI scoring engine
+    3. Bug fixes
+Version 3.0.1 (Mar 3, 2023)
+    Bug fix
+Version 3.0.0 (Feb 24, 2023)
+    Add member upgrade function
+Version 2.10.2 (Nov 1, 2022)
+    Bug fix
+Version 2.10.1 (Oct 3, 2022)
+    To fix the issue that you cannot rotate to landscape orientation to sing on full screen mode on iOS 16
+Version 2.10.0 (Sep 28, 2022)
+    1. Add account deletion function in settings
+    2. Bug fix
+Version 2.9.1 (May 13, 2022)
+    Bug fix
+Version 2.9.0 (May 11, 2022)
+    New Feature: Now the vocal range expressed in octaves of the song that supports full song scoring and learning function will be displayed on the song list
+Version 2.8.1 (Jan 25, 2022)
+    1. Fix an issue that singing analysis result will be incorrect sometimes on iOS 15.
+    2. Other minor bug fix
+Version 2.8.0 (Jan 8, 2022)
+    1. Improve vocal line animation of free singing on iOS 15
+    2. Bug fix
+Version 2.7.0 (Nov 6, 2021)
+    1. Add French song language option
+    2. Bug fix
+Version 2.6.0 (Apr 24, 2021)
+    1. New Song Structure Recordings function: now your song structure practice will be recorded and saved automatically for you to upload to backup in the cloud storage and analyze later. After singing with song structure practice, you can find your song structure recordings in "My Recordings".
+    2. Bug fix
+Version 2.5.0 (Jan 21, 2021)
+    1. Improve the song list. After clicking the selected song, three versions of the song will be displayed: MV, Practice, and Karaoke for you to choose according to different learning and singing needs
+    2. Bug fix
+Version 2.4.0 (Nov 17, 2020)
+    1. Support Sign in with Apple
+    2. Bug fix
+Version 2.3.0 (Jun 17, 2020)
+    1. Display recording device icon in singing page
+    2. Bug fix
+Version 2.2.0 (May 28, 2020)
+    1. Add Indonesian song language option
+    2. Add some supported true wireless devices and bring better singing and learning experience; when connected, the device information will be displayed in settings page
+    3. Bug fix
+Version 2.1.1 (Feb 29, 2020)
+    Bug fix: app will crash when rotating device in singing function page
+Version 2.1.0 (Feb 26, 2020)
+    1. In the singing function page, we move the recording time progress bar and system volume control bar to the singing and scoring function area to comply with YouTube's policy
+    2. Bug fix
+Version 2.0.0 (Jan 12, 2020)
+    1. Support Dark Mode
+    2. Add Vietnamese song language option
+    3. Bug fix
+Version 1.13.0 (Oct 9, 2019)
+    1. New Function: now you can learn and practice to sing each singer/gender part of duet songs and also upload your recordings to be ranked in leaderboard
+    2. Bug fix
+    3. Support iOS 13 and iPadOS 13
+Version 1.12.0 (Jul 2, 2019)
+    1. Add support to some Bluetooth HFP devices which are suitable for singing
+    2. If you accidentally refused to grant microphone/record permission, when you want to sing, you will be prompted with a clear message to bring you to KaraDoReMi App settings to turn the permission on. This also resolves the issue of restarting loop.
+    3. Add Malay song language option
+    4. Bug fix
+Version 1.11.1 (May 27, 2019)
+    Bug fix
+Version 1.11.0 (May 14, 2019)
+    1. New Function: Monthly single song leaderboard (This month and last month); now you can show off your learning result and singing ability by winning this monthly rank.
+    2. Bug fix
+Version 1.10.0 (Feb 27, 2019)
+    1. Improve fireworks animation launch timing when singing
+    2. Fix a bug that one song structure learning and consecutive multiple song structures singing might crash after singing complete and clicking cancel
+Version 1.9.0 (Feb 23, 2019)
+    1. New function: now you can sing by selecting consecutive song structures
+    2. Requires iOS 11.0 or later
+    3. Bug fix
+Version 1.8.0 (Jan 24, 2019)
+    1. Enhance song structure learning with guidance part and skip function
+    2. Improve remote notification experience; when you tap the notification, the app will start and take you to the editor's choice or related song list mentioned in the notification
+    3. Bug fix
+Version 1.7.0 (Jan 16, 2019)
+    1. Improve song search experience and add Korean and Spanish language option
+    2. Improve song structure learning experience
+    3. Bug fix
+Version 1.6.0 (Oct 12, 2018)
+    1. Improve pitch analysis and scoring
+    2. bug fix
+Version 1.5.2 (Jul 24, 2018)
+    Resolve an issue that YouTube video does not play correctly so that learning functions cannot be used.
+Version 1.5.1 (Jul 17, 2018)
+    Bug fixes and some improvements
+Version 1.5.0 (Jun 5, 2018)
+    1. Add detection of vibrato and portamento singing skills; there will be more fun and challenge to learn and sing a song
+    2. You can now choose to learn by MIDI
+    3. Some bug fixes
+Version 1.4.1 (Mar 28, 2018)
+    Bug fixes
+Version 1.4.0 (Jan 23, 2018)
+    1. Now you can invite friends via Line, email, Message, etc.
+    2. Support Airplay; now you can sing and learn by using Apple TV or other Airplay-enabled sound system; if you feel longer delay of your own vocal, we recommend turn off vocal monitoring and use external microphone and speaker to get a better singing experience
+    3. Bug fixes
+Version 1.3.0 (Dec 28, 2017)
+    1. New function: in singing analysis page, you can now export/share your recording file (email, Line, etc.) so that you can use your remarkable vocal recording and other powerful tools to do even more creative works
+    2. UI improvements
+    3. Bug fixes
+Version 1.2.0 (Nov 16, 2017)
+    1. Improve UI experience of full screen video when singing in landscape orientation on iPhone X
+    2. Bug fixes
+Version 1.1.1 (Oct 31, 2017)
+    1. UI fixes for iPhone X
+    2. Improve some alert messages
+    3. Some minor bug fixes
+Version 1.1.0 (Sep 19, 2017)
+    1. App tips; you can also see those tips again by clicking buttons at My Profile and Settings
+    2. New song structure: Inter
+    3. Display toast message to indicate the status when clicking vocal monitoring on/off button
+    4. Automatically save status of vocal monitoring on/off button for different audio I/O device types
+    5. Improve experience of Facebook login/Connect with Facebook
+    6. You can upload your high score recording to join the single song leaderboard competition directly at score display page
+    7. Add singer list
+    8. Minor bug fix
+Version 1.0.1 (Aug 3, 2017)
+    Fix a bug that Facebook account registered with mobile phone number or some Facebook account without email will see the incorrect error message "Login Error!"
+Version 1.0.0 (Jul 26, 2017)
+
+Users may also like
+Select objects to compare
+歡歌Live - 手機K歌就上歡歌
+StreetVoice 街聲 - 暢聽獨立音樂、演出活動通知
+歌曲帝國 - 音樂影片,MP3歌曲播放器
+Metronome ∞
+LIVE IN LIVE
+PartyTu
+91pu - smart music scores
+OurSong
+mifm - My Music Radio 3 Raxio
+Singscope
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.2.0
+    Current release
+    Jan 25, 2024
+    3.1.3
+    Oct 31, 2023
+    3.1.1
+    Oct 20, 2023
+    3.1.0
+    Jun 13, 2023
+    3.0.1
+    Mar 3, 2023
+    3.0.0
+    Feb 24, 2023
+    2.10.2
+    Nov 1, 2022
+    2.10.1
+    Oct 3, 2022
+    2.10.0
+    Sep 28, 2022
+    2.9.1
+    May 13, 2022
+    2.9.0
+    May 11, 2022
+    2.8.1
+    Jan 25, 2022
+    2.8.0
+    Jan 8, 2022
+    2.7.0
+    Nov 6, 2021
+    2.6.0
+    Apr 24, 2021
+    2.5.0
+    Jan 21, 2021
+    2.4.0
+    Nov 17, 2020
+    2.3.0
+    Jun 17, 2020
+    2.2.0
+    May 28, 2020
+    2.1.1
+    Feb 29, 2020
+    2.1.0
+    Feb 26, 2020
+    2.0.0
+    Jan 12, 2020
+    1.13.0
+    Oct 9, 2019
+    1.12.0
+    Jul 2, 2019
+    1.11.1
+    May 27, 2019
+    1.11.0
+    May 14, 2019
+    1.10.0
+    Feb 27, 2019
+    1.9.0
+    Feb 23, 2019
+    1.8.0
+    Jan 24, 2019
+    1.7.0
+    Jan 16, 2019
+    1.6.0
+    Oct 12, 2018
+    1.5.2
+    Jul 24, 2018
+    1.5.1
+    Jul 17, 2018
+    1.5.0
+    Jun 5, 2018
+    1.4.1
+    Mar 28, 2018
+    1.4.0
+    Jan 23, 2018
+    1.3.0
+    Dec 28, 2017
+    1.2.0
+    Nov 16, 2017
+    1.1.1
+    Oct 31, 2017
+    1.1.0
+    Sep 19, 2017
+    1.0.1
+    Aug 3, 2017
+    1.0.0
+    Jul 26, 2017
+
+See More
+Top In-App Purchases
+
+    KaraDoReMi VIP+ (7 Days)
+    $2.99
+    KaraDoReMi VIP+ (30 Days)
+    $5.99
+    KaraDoReMi SVIP (Monthly)
+    $5.99
+    KaraDoReMi VIP+ (365 Days)
+    $79.99
+    KaraDoReMi VIP+ (1 Day)
+    $999.99
+    KaraDoReMi VIP+ (180 Days)
+    $39.99
+    KaraDoReMi VIP+ (90 Days)
+    $19.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Music
+
+Initial Release Date
+    Jul 26, 2017
+
+Worldwide Release Date
+    Jul 26, 2017
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    3.2.0
+
+Size
+    215.12 mb
+
+Only 32 Bit
+    No
+
+Languages
+    영어, 중국어(간체), 중국어(번체)
+
+Seller
+    Global Good Music Multimedia Co.,Ltd
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 12.0 버전 이상이 필요. iPhone, iPad 및 iPod touch와(과) 호환.
+
+Bundle ID
+    com.goodmusic-corp.KaraDoReMi
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1150272277
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+KaraDoReMi - Your Karaoke Pal | data.ai

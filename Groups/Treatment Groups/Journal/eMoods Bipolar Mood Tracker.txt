@@ -1,0 +1,651 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+eMoods Bipolar Mood Tracker
+Yottaram LLCLifestyle (Applications)Free
+Alerts
+
+    Yottaram LLC
+
+    eMoods Bipolar Mood Tracker
+    eMoods Bipolar Mood Tracker
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+eMoods Bipolar Mood Tracker
+Easy Mood Tracking & Reports
+Lifestyle (Applications)
+Free
+App Description
+~~~ EASY & PRIVATE MOOD TRACKER ~~~
+
+Your privacy matters! eMoods never stores any of your data in the cloud or connects to any APIs. No data leaves your phone without your explicit action.
+
+eMoods is a mood tracking and charting journal perfect for logging Bipolar I, Bipolar II, Depression, Anxiety, or any general kind of mood tracking!
+
+eMoods allows you to track medication changes so that you can safely make adjustments, titrations or medication tapers with the help of your doctor and learn about what works and what doesn't. These insights can be used for titrating up to a new medication or for assistance in coming off a medication.
+
+eMoods allows you to send a monthly PDF report to your doctor
+
+~~~ BETTER REPORTING FOR YOUR DOCTOR VISITS ~~~
+
+Managing your mood just became easier and more effective! eMoods is a private and easy to use mood tracker and diary for journaling, logging, graphing, reporting, and managing symptoms related to Bipolar/Manic Depression, Depression, Anxiety, and other mood disorders. Start tracking, notice your triggers, and take control of your mood and other symptoms!
+
+~~~ FEATURES ~~~
+
+eMoods is a free mood tracker app that lets you:
+- Easily chart your daily highs and lows, sleep, medications, and other symptoms related to common mood disorders like Bipolar/Manic Depressive illness, Depression, and Anxiety.
+- Email a printable PDF report at the end of each month to your doctor or therapist to help you identify triggers or other events that could lead to an episode or relapse.
+- View in-app graphs and printable charts to track trends and visualize your symptoms and triggers in between appointments.
+- You can add emojis or any other language characters to your medication names and free-form notes which will show up in your reports.
+
+~~~ PRIVACY IS PARAMOUNT ~~~
+
+Privacy is extremely important to us. All information you log is stored on your phone/iPad only and never transmitted off of your device without your express permission.
+
+~~~ OPTIONAL PRO VERSION ~~~
+
+An in-app upgrade is available that allows you to track custom symptoms and store multiple timestamped notes per day. Your data is still completely available in the app and via export if your upgrade expires. Upgrades are auto-renewing subscriptions. Upgrade choices are as follows:
+- one month term, In-app purchase title “eMoods Pro Monthly” ($1.99)
+- one year term, In-app purchase title “eMoods Pro Yearly ($9.99) terms.
+Both options can be canceled at any time.
+
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+The app's terms of use can be found here: https://emoodtracker.com/emoods-classic-reporting-app-terms-of-use/
+The app's privacy policy can be found here:
+https://emoodtracker.com/emoods-classic-reporting-app-privacy-policy/
+Ratings
+Displayed Avg Ratings
+4.77
+Total Displayed Ratings
+6.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.3.22 (Feb 9, 2024)
+    - Fixes Dropbox integration
+
+    Previous version:
+    - Adds Dark Mode to lock screen
+    - Optionally secure exported PDFs with a password
+    - Minor security and privacy improvements
+    - Optional moon phase tracking
+    - Menstrual cycle indicator on calendar
+    - Patient safety plan
+    - Fix issue with large backup files
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+Version 1.3.21 (Jan 23, 2024)
+    - Bug fixes
+
+    Previous version:
+    - Adds Dark Mode to lock screen
+    - Optionally secure exported PDFs with a password
+    - Minor security and privacy improvements
+    - Optional moon phase tracking
+    - Menstrual cycle indicator on calendar
+    - Patient safety plan
+    - Fix issue with large backup files
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+Version 1.3.20 (Dec 26, 2023)
+    - Adds Dark Mode to lock screen
+
+    Previous version:
+    - Optionally secure exported PDFs with a password
+    - Minor security and privacy improvements
+    - Optional moon phase tracking
+    - Menstrual cycle indicator on calendar
+    - Patient safety plan
+    - Fix issue with large backup files
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+Version 1.3.19 (May 30, 2023)
+    - Optionally secure exported PDFs with a password
+    - Minor security and privacy improvements
+
+    Previous version:
+    - Optional moon phase tracking
+    - Menstrual cycle indicator on calendar
+    - Patient safety plan
+    - Fix issue with large backup files
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+Version 1.3.17 (Jul 21, 2021)
+    - Minor bug fixes
+
+    Previous version:
+    - Optional moon phase tracking
+    - Menstrual cycle indicator on calendar
+    - Patient safety plan
+    - Fix issue with large backup files
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.16 (Jun 3, 2021)
+    - Optional moon phase tracking
+    - Menstrual cycle indicator on calendar
+    - Patient safety plan
+    - Minor bug fixes
+
+    Previous version:
+    - Fix issue with large backup files
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.15 (May 25, 2021)
+    Fixes issue with large backup files
+
+    Previous version:
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.14 (May 10, 2021)
+    - Minor bug fixes
+    - Resource page updates
+
+    Previous version:
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.13 (May 4, 2021)
+    - Minor bug fixes
+    - Resource page updates
+
+    Previous version:
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.12 (Feb 9, 2021)
+    - Minor bug fixes
+    - Resource page updates
+
+    Previous version:
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.11 (Dec 21, 2020)
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - Update newsletter link
+    - New resource: free mental health screening from ConnectedMind.me
+
+    Previous version:
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.10 (Nov 21, 2020)
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - New resource: free mental health screening from ConnectedMind.me
+
+    Previous version:
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.9 (Nov 16, 2020)
+    - Medication change indicator - view details on graph about days on which medication dosing changes were made to help learn from medication adjustments, titrations, or tapers you make with your doctor.
+    - New resource: free mental health screening from ConnectedMind.me
+
+    Previous version:
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.8 (Sep 3, 2020)
+    Bug fixes
+
+    Previous version:
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.7 (Aug 20, 2020)
+    Bug fixes
+
+    Previous version:
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.6 (Apr 21, 2020)
+    Bug fixes
+
+    Previous version:
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.5 (Mar 30, 2020)
+    Accessibility fixes
+    Minor bug fixes
+
+    Previous version:
+    - Colorblind theme
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.4 (Feb 26, 2020)
+    Colorblind theme
+
+    Previous version:
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.3 (Jan 30, 2020)
+    Minor bug fixes
+
+    Previous version:
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.2 (Jan 15, 2020)
+    Minor bug fixes
+
+    Previous version:
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.1 (Dec 23, 2019)
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+
+    Previous version:
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.3.0 (Dec 18, 2019)
+    - Year overview graphs
+    - Dark mode support
+    - Minor stability/bug fixes
+
+    Previous version:
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.2.10 (Jul 18, 2019)
+    Stability fixes
+
+    Previous version:
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.2.9 (Jul 6, 2019)
+    Minor bug fixes
+
+    Previous version:
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+Version 1.2.8 (Jun 22, 2019)
+    - Custom app icons
+    - Add a delay when closing the app before passcode is required
+    - Minor bug fixes
+Version 1.2.7 (May 1, 2019)
+    - Dropbox backups
+    - Styling fixes to graph
+Version 1.2.6 (Feb 8, 2019)
+    Enable FaceID for screen lock
+    Toggle "last 30 days" view or "month" view on graph
+    Change the axis on the sleep graph to scale based on recorded data
+    Fix screen lock TouchID bug
+    Other minor bug fixes
+Version 1.2.5 (Dec 14, 2018)
+    Export reports for "last 30 days"
+    Unselect a selected tracking point level by tapping it again
+    Better graph and report styling
+    Recurring subscriptions bug fix
+Version 1.2.4 (Oct 25, 2018)
+    Reorder medications and custom tracking points
+    Email error logs
+    German translation
+Version 1.2.3 (May 8, 2018)
+    - Optional Passcode/TouchID lock
+    - French translation
+Version 1.2.2 (Apr 23, 2018)
+    Minor bug fixes
+Version 1.2.1 (Mar 26, 2018)
+    Minor bug fixes
+Version 1.2 (Mar 19, 2018)
+    Resources section, ui tweaks
+Version 1.1.3 (Feb 22, 2018)
+    Minor bug fixes
+Version 1.1.2 (Jan 26, 2018)
+    - Remove default tracking points, making eMoods the perfect mood tracker for logging Bipolar I or II, or any general kind life, habit, or goal tracking!
+    - Korean, Russian, Portuguese, Spanish translations
+    - International decimal formatting
+Version 1.1.1 (Dec 20, 2017)
+    - Ability to remove default tracking points, making eMoods perfect for logging Bipolar I or II, or any general kind of mood tracking!
+    - Updated descriptions and metadata
+Version 1.1.0 (Dec 12, 2017)
+    - Ability to remove default tracking points, making eMoods perfect for logging Bipolar I or II, or any general kind of mood tracking!
+    - Fix layout issues
+Version 1.0.5 (Oct 3, 2017)
+    Your privacy matters! eMoods never stores ANY of your data in the cloud or connects to any APIs. No data ever leaves your phone without your explicit action.
+
+    Here's what's new in this version:
+    - Added some extra medications to the autocomplete
+    - Fix bug that was showing last month's first day on this month's report
+
+    If you like eMoods, we would be most grateful for a nice review - it really helps.
+Version 1.0.4 (Aug 25, 2017)
+    Fix bug causing a crash for patron version/support page.
+Version 1.0.3 (Aug 22, 2017)
+    Improve restore purchases flow, add highlight color for moderate symptoms to printable report.
+Version 1.0.2 (Jun 22, 2017)
+    Larger font on note entry fields. Change app store category to Health & Fitness.
+Version 1.0.1 (May 8, 2017)
+    New app keywords.
+Version 1.0 (May 4, 2017)
+
+Users may also like
+Select objects to compare
+Bipolar Mood Tracker °
+Moody: Mood Tracker & Journal
+Daylio Journal - Daily Diary
+Borderline Personality Tracker
+DailyBean - simplest journal
+Prompted Journal
+Gratitude Journal 365
+Nomo - Sobriety Clocks
+Sober Time - Sobriety Counter
+Grateful: A Gratitude Journal
+IQ Classifications
+Genre: Health & Fitness
+Subgenre: Health Monitor
+Health Monitor
+Apps that monitor the user's vital medical signs or status of chronic diseases via connected devices.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.3.22
+    Current release
+    Feb 9, 2024
+    1.3.21
+    Jan 23, 2024
+    1.3.20
+    Dec 26, 2023
+    1.3.19
+    May 30, 2023
+    1.3.17
+    Jul 21, 2021
+    1.3.16
+    Jun 3, 2021
+    1.3.15
+    May 25, 2021
+    1.3.14
+    May 10, 2021
+    1.3.13
+    May 4, 2021
+    1.3.12
+    Feb 9, 2021
+    1.3.11
+    Dec 21, 2020
+    1.3.10
+    Nov 21, 2020
+    1.3.9
+    Nov 16, 2020
+    1.3.8
+    Sep 3, 2020
+    1.3.7
+    Aug 20, 2020
+    1.3.6
+    Apr 21, 2020
+    1.3.5
+    Mar 30, 2020
+    1.3.4
+    Feb 26, 2020
+    1.3.3
+    Jan 30, 2020
+    1.3.2
+    Jan 15, 2020
+    1.3.1
+    Dec 23, 2019
+    1.3.0
+    Dec 18, 2019
+    1.2.10
+    Jul 18, 2019
+    1.2.9
+    Jul 6, 2019
+    1.2.8
+    Jun 22, 2019
+    1.2.7
+    May 1, 2019
+    1.2.6
+    Feb 8, 2019
+    1.2.5
+    Dec 14, 2018
+    1.2.4
+    Oct 25, 2018
+    1.2.3
+    May 8, 2018
+    1.2.2
+    Apr 23, 2018
+    1.2.1
+    Mar 26, 2018
+    1.2
+    Mar 19, 2018
+    1.1.3
+    Feb 22, 2018
+    1.1.2
+    Jan 26, 2018
+    1.1.1
+    Dec 20, 2017
+    1.1.0
+    Dec 12, 2017
+    1.0.5
+    Oct 3, 2017
+    1.0.4
+    Aug 25, 2017
+    1.0.3
+    Aug 22, 2017
+    1.0.2
+    Jun 22, 2017
+    1.0.1
+    May 8, 2017
+    1.0
+    May 4, 2017
+
+See More
+Top In-App Purchases
+
+    eMoods Pro
+    $1.99
+    eMoods Pro
+    $9.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    May 4, 2017
+
+Worldwide Release Date
+    May 6, 2017
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    1.3.22
+
+Size
+    51.86 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Korean, Portuguese, Russian, Spanish
+
+Seller
+    Yottaram, LLC
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.yottaram.eMoods
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+App ID: 1184456130
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+eMoods Bipolar Mood Tracker | data.ai

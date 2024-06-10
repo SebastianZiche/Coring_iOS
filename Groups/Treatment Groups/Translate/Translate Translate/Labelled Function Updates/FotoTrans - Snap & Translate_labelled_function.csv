@@ -1,0 +1,5 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8,app_function
+1281344270,0,FotoTrans Snap Translate,Travel,2019-12-10,2019-12-10,52.63,16,0,0,1,2.1,2020-02-19,Improve UI UX,0,0,0,0,0,0,0,0,0
+1281344270,0,FotoTrans Snap Translate,Travel,2019-12-10,2019-12-10,52.63,16,0,0,1,2.0.1,2020-01-08,Improve UI in Dark Mode,0,0,0,0,0,0,0,0,0
+1281344270,0,FotoTrans Snap Translate,Travel,2019-12-10,2019-12-10,52.63,16,0,0,1,2.0,2019-12-12,Fully support Dark Mode Improve UI UX,0,0,0,0,0,0,0,0,0
+1281344270,0,FotoTrans Snap Translate,Travel,2019-12-10,2019-12-10,52.63,16,0,0,1,1.2,2019-12-11,,0,0,0,0,0,0,0,0,0

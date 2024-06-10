@@ -1,0 +1,636 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Memong
+Choongwhan ShinLifestyle (Applications)$1.99
+Alerts
+
+    Memong
+    Memong
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Memong
+The pleasure of memo
+Lifestyle (Applications)
+$1.99
+App Description
+Memong is a balloon that loves memos.
+
+Memong create cute stickers
+and memo papers optimized for memo.
+
+You might be feel more precious every day with memong by use functional memo paper.
+
+There are Daily plan, Weekly plan, Expense log, Wish list, To-do list, Diet plan, Basic memo paper and Basic note.
+
+Feel the pleasure of memo on your phone with Memong! :D
+
+
+# Features of Memong
+
+- There are 12 functional memo paper.
+- You can create folders and organize your memos.
+- You can change the text color and use bold and highlighter effects.
+- You can decorate with about 600 stickers as well as photos on the memo.
+- Pin it important memo at the top.
+- Supports iCloud backup function.
+- Supports Search, Widget, iPad Version
+
+# Memong Stationery Store
+ou can purchase additional items below at Store!
+
+- Monthly Plan, Study Plan, Daily Plan, Monthly Tracker Memo Set
+- A set of simple memo papers with a title
+- Flower, fruit and ribbon stickers
+
+
+* If you have the any suggestion or idea,
+Please report to 2hoursstudio@gmail.com!
+
+Memong waits for your comments at any time.
+Ratings
+Displayed Avg Ratings
+4.24
+Total Displayed Ratings
+3.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.4.0 (Jan 22, 2024)
+    Bug fixes
+Version 2.3.8 (Nov 18, 2023)
+    We apologise for the inconvenience. We've fixed an issue that caused the app to crash.
+Version 2.3.7 (Nov 12, 2023)
+    - Support for folder widgets in iOS17
+    - Support Lockscreen widget
+    - Bugs related to memo rollback and iCloud have been fixed.
+Version 2.3.6 (Sep 26, 2023)
+    iOS17 bug fixed.
+Version 2.3.4 (Apr 15, 2023)
+    Fixed an issue that caused the app to crash when attaching a photo.
+Version 2.3.3 (Apr 4, 2023)
+    Updated the zoom-in feature on iPad
+Version 2.3.2 (Oct 2, 2022)
+    - Bug fix
+Version 2.3.1 (Sep 20, 2022)
+    - Bug fix
+Version 2.3.0 (Sep 17, 2022)
+    - bug fix
+Version 2.2.9 (Sep 15, 2022)
+    - Bug fix
+Version 2.2.8 (Sep 12, 2022)
+    Selection mode has been added.
+    Now, you can select memo and folder to move/delete freely.
+Version 2.2.7 (Jan 11, 2022)
+    - A memo duplication function has been added. You can duplicate it in More button on the memo page.
+    - Folder duplication function has been added.
+Version 2.2.6 (Dec 8, 2021)
+    - bug fix
+    - Updated christmas stickers
+Version 2.2.3 (Oct 23, 2021)
+    - Halloween stickers added
+    - Fixed an issue where the note content was hidden on the arrow button when typing
+    - Fixed the problem of switching to system font when inputting emoji
+Version 2.2.1 (Oct 15, 2021)
+    ● Memong Stationery Store Grand Open!
+    You can purchase additional items below at Store!
+
+    - Monthly Plan, Study Plan, Daily Plan, Monthly Tracker Memo Set
+    - A set of simple memo papers with a title
+    - Flower, fruit and ribbon stickers
+
+
+    ● Movie review and recipe notes have been added!
+
+    ● iOS15 support
+
+    ● Other bugs have been fixed.
+Version 2.1.9 (Oct 11, 2021)
+    ● Memong Stationery Store Grand Open!
+    You can purchase additional items below at Store!
+
+    - Monthly Plan, Study Plan, Daily Plan, Monthly Tracker Memo Set
+    - A set of simple memo papers with a title
+    - Flower, fruit and ribbon stickers
+
+
+    ● Movie review and recipe notes have been added!
+
+    ● iOS15 support
+
+    ● Other bugs have been fixed.
+Version 2.1.8 (Jul 3, 2021)
+    * Font change problem while typing.
+    * Minor bug fix.
+Version 2.1.6 (Jun 30, 2021)
+    * Fix crash problem while typing
+Version 2.1.5 (Jun 15, 2021)
+    * bug fix
+Version 2.1.3 (May 25, 2021)
+    ● Bug fixes
+Version 2.1.2 (May 22, 2021)
+    ● Correction of problems related to font setting
+    ● Some missing stickers recovery
+    ● Photo attachment capacity and size optimization
+Version 2.1.1 (May 20, 2021)
+    ● iPad, Mac version support
+
+    ● Text input function upgrade
+    - Added highlighter function
+    - You can adjust the font size in units of letters.
+    - Font bold, underline, strikethrough function added.
+
+    ● App start screen can be set as 'by type'
+
+    ● 50 new stickers added
+
+    ● Minor bug is fixed
+
+    ● Fixed an abnormal termination issue.
+Version 2.1.0 (May 18, 2021)
+    ● Fixed an abnormal termination issue.
+
+    ● iPad, Mac version support
+
+    ● Text input function upgrade
+    - Added highlighter function
+    - You can adjust the font size in units of letters.
+    - Font bold, underline, strikethrough function added.
+
+    ● App start screen can be set as 'by type'
+
+    ● 50 new stickers added
+
+    ● Minor bug is fixed
+Version 2.0.9 (May 16, 2021)
+    ● iPad, Mac version support
+
+    ● Text input function upgrade
+    - Added highlighter function
+    - You can adjust the font size in units of letters.
+    - Font bold, underline, strikethrough function added.
+
+    ● App start screen can be set as 'by type'
+
+    ● 50 new stickers added
+
+    ● Minor bug is fixed
+Version 2.0.8 (May 15, 2021)
+    ● iPad, Mac version support
+
+    ● Text input function upgrade
+    - Added highlighter function
+    - You can adjust the font size in units of letters.
+    - Font bold, underline, strikethrough function added.
+
+    ● App start screen can be set as 'by type'
+
+    ● 50 new stickers added
+Version 2.0.6 (Mar 7, 2021)
+    - Now, you can search for memos by keyword.
+    - When create a new memo, it is temporarily saved.
+    - Fixed a bug in expense log memo.
+Version 2.0.5 (Feb 8, 2021)
+    ● Cell Add/reorder function
+    Now, Try to add/reorder/delete a cell by pressing and holding a cell on the To do list, Wish list, Expense Log, Checker Memo!
+
+    ● Set the start day of the week
+    You can set the starting day to Monday or Sunday on a memo that provides the days of the week.
+
+    ● Improved memo add flow
+    You can select memo by checking thumbnails on the larger screen in the order of recently used. The frequently used memo settings have been removed.
+
+    ● iCloud Sync stabilization
+    It stabilizes iCloud synchronization and displays upload/download status.
+Version 2.0.4 (Dec 31, 2020)
+    minor bug is fixed.
+Version 2.0.3 (Dec 18, 2020)
+    - Apply Christmas app icon
+    - Fixed Bug
+Version 2.0.2 (Dec 2, 2020)
+    - Fixed an issue where stickers were not visible when adding stickers during the folder creation
+    - Fixed an issue where the app did not go directly to the memo when running the app with the widget
+Version 2.0.0 (Nov 30, 2020)
+    ● Added sorting function inside the folder
+    You can also use sorting fuction with the sort on/off function at the top.
+    If you turn off the sorting function, you can set the order of the memo as you want.
+
+    ● Modify the order when creating a memo in folder
+    When you create memo in folder, The memo order was modified to being at the top. 
+Version 1.9.9 (Nov 21, 2020)
+    ● Home Tab changed order by Memo-Folder-Type
+    You can also set a folder as the app start screen in Settings.
+    Now, meet the folder that you decorated with a beautiful cover right at Folder Tab.
+
+    ● Added sorting by date
+    Organize memos with dates such as diaries.
+
+    ● Added date on all memos
+    The date is also displayed on memo that don't need the date, such as todolist and wishlist.
+
+    ● Added date hide function
+    As the date is added to all the memos, you can hide the date for any memo you want.
+
+    ● Increase the number of checkers from 5 to 7
+    Now you can check on a weekly basis.
+
+    ● Jelly TYPE sticker pack added
+    try using Day of the week, alphabet jelly stickers.
+
+    ● Sticker selection UI improvement
+    Choose a sticker type faster and use the sticker in tap format.
+
+    ● Backup function added by email
+    ICloud synchronization is basic!
+    You can transfer the backup data to your personal e-mail and load it again.
+
+    ● Fixed a icloud synchronization problem.
+    If the problem persists after the update, please give me a DM. @memong_app
+Version 1.9.8 (Nov 19, 2020)
+    ● Home Tab changed order by Memo-Folder-Type
+    You can also set a folder as the app start screen in Settings.
+    Now, meet the folder that you decorated with a beautiful cover right at Folder Tab.
+
+    ● Added sorting by date
+    Organize memos with dates such as diaries.
+
+    ● Added date on all memos
+    The date is also displayed on memo that don't need the date, such as todolist and wishlist.
+
+    ● Added date hide function
+    As the date is added to all the memos, you can hide the date for any memo you want.
+
+    ● Increase the number of checkers from 5 to 7
+    Now you can check on a weekly basis.
+
+    ● Jelly TYPE sticker pack added
+    try using Day of the week, alphabet jelly stickers.
+
+    ● Sticker selection UI improvement
+    Choose a sticker type faster and use the sticker in tap format.
+
+    ● Backup function added by email
+    ICloud synchronization is basic!
+    You can transfer the backup data to your personal e-mail and load it again.
+
+    ● Fixed a icloud synchronization problem.
+    If the problem persists after the update, please give me a DM. @memong_app
+Version 1.9.7 (Oct 19, 2020)
+    - minor bug is fixed
+Version 1.9.6 (Oct 18, 2020)
+    - minor bug is fixed
+Version 1.9.5 (Oct 9, 2020)
+    - iOS14 home widget support
+    - Add saving options by memo length
+    - Add new stickers and edit tone of some stickers
+    - The maximum sticker size has increased by 50%.
+Version 1.9.4 (Oct 7, 2020)
+    - iOS14 home widget support
+    - Add saving options by memo length
+    - Add new stickers and edit tone of some stickers
+    - The maximum sticker size has increased by 50%.
+Version 1.9.3 (Sep 15, 2020)
+    - minor bug fixed
+Version 1.9.2 (Sep 9, 2020)
+    - fixed minor bug
+Version 1.9.1 (Sep 5, 2020)
+    You can organize and manage your memos through Folder.
+Version 1.9.0 (Aug 7, 2020)
+    - bug fixed
+Version 1.8.9 (Aug 3, 2020)
+    - bug fixed
+Version 1.8.8 (Jul 20, 2020)
+    - Added number sticker pack
+    - Memo bg color and title design have been changed.
+Version 1.8.7 (Jul 6, 2020)
+    bug fixed
+Version 1.8.6 (Jun 28, 2020)
+    - Fixed icloud sync error.
+    - Added photo attach function.
+    - 24 new stickers updated.
+    - The size/rotation of the sticker has been improved.
+    - Other minor bugs have been fixed.
+Version 1.8.5 (May 29, 2020)
+    bug fixed
+Version 1.8.4 (May 27, 2020)
+    - custom keyboard bug fixed.
+    - sticker bug fixed.
+Version 1.8.3 (May 20, 2020)
+    - available custom keyboard (other apps).
+Version 1.8.2 (May 18, 2020)
+    - Add widget option : show only pinned memos.
+    - Bug fixed.
+Version 1.8.1 (May 16, 2020)
+    - Add new sort by creation order
+    - Add new 30 stickers
+    - Fixed that category cannot be changed when wish list is modified
+Version 1.8 (May 11, 2020)
+    - Added Widget.
+    - You can add multiple stickers at once.
+    - Fixed Touch ID checking twice.
+    - Other bugs fixed.
+Version 1.7 (May 5, 2020)
+    - Fixes an issue where the lines of the notes are incorrect on iPhone 11 and some devices.
+Version 1.6 (Apr 26, 2020)
+    - Lock Function
+    - Export image to memo size
+Version 1.5 (Apr 21, 2020)
+    - Text input restrictions have been removed.
+    - Fixed an unexpected termination when the app was launched.
+    - Fixed some fonts or emoticons being cut off.
+Version 1.4 (Apr 19, 2020)
+    bug fix
+Version 1.3 (Apr 15, 2020)
+    bug fixed
+Version 1.2 (Apr 13, 2020)
+    bug fix
+Version 1.1 (Apr 11, 2020)
+    bug fixed
+Version 1.0 (Apr 3, 2020)
+
+Users may also like
+Select objects to compare
+YOUKAMI
+Haema Diary
+soso note : daily journal
+MOODA
+DayMore: Modern Diary
+Doing Doing
+COMO Widgets - Adorable Widget
+Moodie - Mood Diary With Lock
+Talking Potatoes
+It's meee - simple diary
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+9 times
+on App Store category pages
+Versions
+
+    2.4.0
+    Current release
+    Jan 22, 2024
+    2.3.8
+    Nov 18, 2023
+    2.3.7
+    Nov 12, 2023
+    2.3.6
+    Sep 26, 2023
+    2.3.4
+    Apr 15, 2023
+    2.3.3
+    Apr 4, 2023
+    2.3.2
+    Oct 2, 2022
+    2.3.1
+    Sep 20, 2022
+    2.3.0
+    Sep 17, 2022
+    2.2.9
+    Sep 15, 2022
+    2.2.8
+    Sep 12, 2022
+    2.2.7
+    Jan 11, 2022
+    2.2.6
+    Dec 8, 2021
+    2.2.3
+    Oct 23, 2021
+    2.2.1
+    Oct 15, 2021
+    2.1.9
+    Oct 11, 2021
+    2.1.8
+    Jul 3, 2021
+    2.1.6
+    Jun 30, 2021
+    2.1.5
+    Jun 15, 2021
+    2.1.3
+    May 25, 2021
+    2.1.2
+    May 22, 2021
+    2.1.1
+    May 20, 2021
+    2.1.0
+    May 18, 2021
+    2.0.9
+    May 16, 2021
+    2.0.8
+    May 15, 2021
+    2.0.6
+    Mar 7, 2021
+    2.0.5
+    Feb 8, 2021
+    2.0.4
+    Dec 31, 2020
+    2.0.3
+    Dec 18, 2020
+    2.0.2
+    Dec 2, 2020
+    2.0.0
+    Nov 30, 2020
+    1.9.9
+    Nov 21, 2020
+    1.9.8
+    Nov 19, 2020
+    1.9.7
+    Oct 19, 2020
+    1.9.6
+    Oct 18, 2020
+    1.9.5
+    Oct 9, 2020
+    1.9.4
+    Oct 7, 2020
+    1.9.3
+    Sep 15, 2020
+    1.9.2
+    Sep 9, 2020
+    1.9.1
+    Sep 5, 2020
+    1.9.0
+    Aug 7, 2020
+    1.8.9
+    Aug 3, 2020
+    1.8.8
+    Jul 20, 2020
+    1.8.7
+    Jul 6, 2020
+    1.8.6
+    Jun 28, 2020
+    1.8.5
+    May 29, 2020
+    1.8.4
+    May 27, 2020
+    1.8.3
+    May 20, 2020
+    1.8.2
+    May 18, 2020
+    1.8.1
+    May 16, 2020
+    1.8
+    May 11, 2020
+    1.7
+    May 5, 2020
+    1.6
+    Apr 26, 2020
+    1.5
+    Apr 21, 2020
+    1.4
+    Apr 19, 2020
+    1.3
+    Apr 15, 2020
+    1.2
+    Apr 13, 2020
+    1.1
+    Apr 11, 2020
+    1.0
+    Apr 3, 2020
+
+See More
+Top In-App Purchases
+
+    Planner Set (4Type)
+    $0.99
+    Simple Memo Set (4type)
+    $0.99
+    Party Sticke rPack
+    $0.99
+    Flower Sticker Pack
+    $0.99
+    Fruits&Vegetable Sticker Pack
+    $0.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Apr 3, 2020
+
+Worldwide Release Date
+    Apr 3, 2020
+
+Last Updated Time
+    Feb 25, 2024
+
+Version
+    2.4.0
+
+Size
+    108.00 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Korean, Simplified Chinese
+
+Seller
+    Choongwhan Shin
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.2hours.Memong
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1494637370
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Memong | data.ai

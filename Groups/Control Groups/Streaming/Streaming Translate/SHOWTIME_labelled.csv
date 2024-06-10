@@ -1,0 +1,107 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,5.4.1,2024-01-11,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,5.4.0,2023-11-07,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,5.3.0,2023-08-22,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,5.2.0,2023-06-27,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,5.1.0,2023-05-18,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,5.0.1,2023-03-16,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,5.0.0,2023-03-06,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.7.1,2023-01-30,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.7.0,2022-12-12,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.6.2,2022-11-10,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.6.1,2022-09-28,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.6.0,2022-09-06,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.5.0,2022-08-11,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.4.1,2022-06-23,Bug fixes and performance optimizations.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.4.0,2022-05-23,Bug fixes and performance optimizations,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.3.0,2022-05-02,Performance optimizations and bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.2.0,2022-03-15,Bug fixes and performance improvements,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.1.9,2022-02-09,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.1.8,2022-01-28,Extend SharePlay support to Apple TV app Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.1.6,2022-01-26,Extend SharePlay support to Apple TV app Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.1.5,2021-12-06,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.1.4,2021-11-23,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.1.3,2021-11-08,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.1.2,2021-10-28,SharePlay enhancement Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.1.1,2021-10-24,NEW: Support for SharePlay,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.1.0,2021-09-13,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.11,2021-08-30,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.10,2021-08-05,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.9,2021-06-28,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.8,2021-06-21,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.7,2021-06-08,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.6,2021-06-04,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.5,2021-06-01,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.4,2021-05-17,Minor bug fixes.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.3,2021-04-28,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.2,2021-03-22,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.1,2021-03-03,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,4.0.0,2021-02-22,Some minor improvements so you can stream current hit series like Shameless and Your Honor with ease.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.15,2020-12-03,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.14,2020-11-02,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.13,2020-10-26,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.12,2020-09-28,Minor bug fixes,0,0,0,0,0,0,0,1
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.11,2020-09-21,Minor bug fixes,0,0,0,0,0,0,0,1
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.9,2020-06-23,Minor bug fixes,0,0,0,0,1,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.8,2020-05-14,Minor bug fixes,0,0,1,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.7,2020-04-23,Mind bug fixes,0,0,1,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.6,2020-03-09,Minor bug fixes,1,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.5,2020-02-11,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.4,2020-01-27,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.2,2020-01-09,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.1,2019-12-23,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.6.0,2019-12-17,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.5.8,2019-11-04,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.5.6,2019-10-28,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.5.5,2019-10-02,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.5.4,2019-08-27,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.5.3,2019-06-06,Some minor improvements just in time for the premiere of City on a Hill the new cinematic drama series starring Kevin Bacon and Aldis Hodge.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.5.2,2019-04-22,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.5.1,2019-03-20,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.5.0,2019-03-18,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.4.8,2019-02-19,Minor improvements just in time for the premiere of Desus Mero bringing you late night for the people starting February 21!,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.4.7,2019-01-22,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.4.6,2019-01-14,Some minor improvements just in time for the returns of Shameless and SMILF plus the series premiere of Black Monday. Stream all new episodes starting January 20th!,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.4.5,2019-01-07,The Pacquiao vs. Broner pay per view event is now available as an in app purchase. Order it now and stream the welterweight world championship LIVE in the SHOWTIME app on Sat. Jan. 19th.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.4.3,2018-12-10,Minor bug fix,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.4.2,2018-12-03,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.4.1,2018-11-28,Minor bug fix,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.4.0,2018-11-26,The Wilder vs Fury pay per view is now available as an in app purchase. Order it now and stream the world heavyweight championship LIVE in the SHOWTIME app on Sat. Dec. 1st.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.13,2018-10-23,Minor updates and improvements just in time for new episodes of Ray Donovan.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.12,2018-09-24,Minor bug fix,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.11,2018-09-18,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.10,2018-09-04,Minor updates and improvements just in time for the new season of Shameless.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.9,2018-08-01,A special offer for new customers plus some updates to keep the app in shape for your summer streaming pleasure.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.7,2018-07-17,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.6,2018-07-03,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.5,2018-06-14,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.4,2018-05-03,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.3,2018-05-01,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.2,2018-04-02,Just in time for the new season of Billions we ve made some minor updates and improvements,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.1,2018-03-21,Just in time for the new season of Billions we ve made some minor updates and improvements,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.3.0,2018-03-08,HDMI out now supported! Connect your mobile device to your HDMI equipped TV with an HDMI cable and start streaming on the big screen!,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.2.3,2018-02-11,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.2.2,2017-12-13,We re back with a new update just in time for the holidays. In this update we squashed some bugs and sprinkled in some updates to support the iPhone X.,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.2.1,2017-11-28,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.1.3,2017-11-17,Support for Autoplay Minor bug fixes Requires iOS 9 or later,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.1,2017-09-18,Added download button on home carousel,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.0.6,2017-08-10,minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.0.5,2017-07-12,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.0.2,2017-05-15,Support for Twin Peaks,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,2.0.0,2017-04-06,Support for Download: Watch your favorite SHOWTIME programs offline,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.5.5,2016-12-01,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.5.4,2016-11-14,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.5.3,2016-11-07,Support for Stephen Colbert s Election Night Special,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.5.2,2016-10-20,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.5.1,2016-10-06,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.5,2016-08-30,Improved video performance Improved audio quality Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.4.2,2016-07-12,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.4.1,2016-07-11,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.4,2016-05-23,Minor improvements and bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.3.3,2016-04-25,Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.3.2,2016-02-11,Support for Spotlight Search Performance enhancements Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.3,2015-12-29,Support for iPhone 6 6,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.2.1,2015-11-24,Design improvements for iPhone Support for Picture in Picture Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.1.1,2015-09-29,Support for Chromecast Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.1,2015-08-06,Performance enhancements Minor bug fixes,0,0,0,0,0,0,0,0
+996246479,1000600000515894,SHOWTIME,Entertainment,2020-10-19,2015-07-07,43.02,1,1,0,1,1.0,2015-07-07,,0,0,0,0,0,0,0,0

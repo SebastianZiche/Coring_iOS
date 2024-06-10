@@ -1,0 +1,60 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,v1.18.0,2024-02-25,Add speed button for audioplayer Enhanced send video functionality by adding toggle to send original Added option to hide the status list Plus a lot of bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,v1.17.3,2024-02-05,Bugfixes and return of the wallpaper feature.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,v1.17.2,2024-01-25,Bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,v1.17.1,2024-01-14,Bugfixes and stability improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,v1.17.0,2024-01-07,Bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,v1.16.0,2023-12-08,Display the online status of other users not functional on matrix.org and improved UX design for the new chat page. This release also contains a lot of bug fixes and improvements under the hood.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,v1.15.0,2023-11-01,Lots of bugfixes and an experimental new todo list feature for chats.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,v1.14.5,2023-10-09,Hotfix app crashes on some devices and reset applock does not work.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.14.4,2023-10-08,Minor bugfix release and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.14.3,2023-09-30,Fixes that app lock does not reset after logout
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.14.2,2023-09-28,Hotfix for broken applock is blocking the app.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.14.1,2023-09-18,Hotfix for adding a second account not possible.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.13.0,2023-08-09,New option to disable typing notifications. Message performance enhancements. Revamped onboarding screen with SSO as a primary feature. Import export emoji packs via ZIP. Updated chat bubble design and more design tweaks. Login now emphasizes SSO in app registration deprecated in favor of SSO registration. New translations added: Arabic Simplified Chinese Estonian German Indonesian Ukrainian.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.12.0,2023-06-11,Get ready for FluffyChat Version 1.12.0! Connect worldwide with new translations in multiple languages! Experience the sleekness of Flutter 3.10 for smoother performance! Take control with a toggle to mute chat group notifications. Shh! Bug fixes and refinements for a flawless messaging experience! Upgrade now and enjoy the fluffiest chats ever!
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.11.2,2023-05-05,Hotfix unable to open some rooms
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.11.1,2023-04-20,Fix correct mimetype when downloading files.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.11.0,2023-04-18,Bugfixes and performance improvements
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.10.0,2023-03-12,Bugfixes and stability improvements
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.9.0,2023-02-03,Performance improvements and bugfixes.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.8.0,2023-01-02,Updated translations and bugfixes
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.7.1,2022-11-23,Minor bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.7.0,2022-11-18,Bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.6.4,2022-09-12,Minor bugfixes
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.6.3,2022-08-30,Minor bugfixes
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.6.2,2022-08-21,Bugfixes and performance improvements
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.5.0,2022-06-06,Bugfixes and new design.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.4.0,2022-05-06,Bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.3.1,2022-03-23,Bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.3.0,2022-02-28,Bugfixes performance improvements and the ability to pin messages in a chat.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.2.0,2022-01-31,Bugfixes and performance improvements
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.1.0,2021-12-08,Bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,1.0.0,2021-12-02,FluffyChat 1.0.0 fixes a lot of bugs and papercuts improves the design stability and performance and features a new theme switcher.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.42.2,2021-11-04,Bugfixes and better voice messages.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.42.1,2021-10-27,Minor bugfixes.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.42.0,2021-10-14,Bugfixes and stability improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.41.4,2021-10-09,Hotfix push notifications.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.41.3,2021-10-08,Minor fixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.41.2,2021-09-22,Bugfixes and updated translations.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.41.1,2021-09-20,Bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.40.0,2021-09-13,Bugfixes and performance improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.39.1,2021-08-30,Hotfix playing voice messages.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.39.0,2021-08-29,Start a new chat by scanning a QR code A lot of minor bug fixes and performance improvements
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.38.0,2021-08-22,This release adds more functionality for spaces enhances the html viewer adds a brand new video player and brings some improvements for voice messages.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.37.0,2021-08-07,New feature: Share your location with your friends on FluffyChat.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.36.1,2021-08-03,Hotfix a performance bug.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.36.0,2021-07-31,Bug fixes and minor design improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.35.0,2021-07-24,This release introduces stickers and a lot of minor bug fixes and improvements.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.34.1,2021-07-16,FluffyChat 0.34.1 brings performance improvements and more stability.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.32.0,2021-06-21,FluffyChat 0.32.0 targets improved stability and a new onboarding flow where single sign on is now the more prominent way to get new users into the app. This release also introduces a complete rewritten database under the hood based on the key value store Hive instead of sqlite. This should improve the overall stability and the performance of the web version.
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.31.2,2021-05-29,Fix a bug regarding push notifications
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.31.1,2021-05-26,Bug fixes Performance improvements
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.30.3,2021-05-15,Minor bug fixes
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.30.1,2021-05-08,Updated translations thanks to all translators Fixed a bug where recording voice messages produced broken files
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.30.0,2021-05-02,Design improvements Better room alias management Bug fixes Stability improvements
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.29.1,2021-04-14,Minor bugfixes
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.29.0,2021-04-10,Bugfixes Implement matrix room upgrades New sign in design Better iPad design
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.28.1,2021-03-28,Bug fixes Updates translations New global search
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.27.0,2021-02-17,Design improvements Bug fixes Stability improvements
+1551469600,1000800000179486,FluffyChat,Social Networking,2021-02-03,2021-02-03,74.57,1,1,0,0,0.26.1,2021-02-03,

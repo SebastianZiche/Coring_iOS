@@ -1,0 +1,4 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8,app_function
+1436005759,0,cnTranslate Chinese Translator,Reference,2018-09-20,2018-09-19,33.45,5,0,0,1,2.0.1,2023-03-25,1. Upgrade the photo translation for higher accuracy and more accurate translation. 2. Fix the problem of text translation failure in some regions. 3. It is applicable to all iOS system versions and iPhone models. 4. Add 6.5 inch application screenshots for a better user experience,0,0,0,0,0,0,0,0,0
+1436005759,0,cnTranslate Chinese Translator,Reference,2018-09-20,2018-09-19,33.45,5,0,0,1,1.0.2,2018-09-24,1 fix favorites bugs 2 international language Korean optimization,0,0,0,0,0,0,0,0,0
+1436005759,0,cnTranslate Chinese Translator,Reference,2018-09-20,2018-09-19,33.45,5,0,0,1,1.0.1,2018-09-19,,0,0,0,0,0,0,0,0,0

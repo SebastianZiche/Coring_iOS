@@ -1,0 +1,303 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Praise Diary
+Taylors Guild, N.P.O.Lifestyle (Applications)Free
+Alerts
+
+    Taylors Guild, N.P.O.
+
+    Praise Diary
+    Praise Diary
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Praise Diary
+Praise Myself
+Lifestyle (Applications)
+Free
+App Promotional Text
+It helps restore confidence, relieve stress and correct negative thoughts.
+App Description
+・Write a praise diary with ease, even if you've never done it before!
+
+・Record your voice and turn it into text for a easy diary entry.
+
+・Use sample to inspire you when you're not sure what to write.
+
+・Get hints on how to write better and save memories by including images.
+
+・Erase what you've written with a tap of the eraser icon.
+
+・Get a three-level evaluation of your writing based on the number of words you've written.
+
+・View graphs of your writing frequency and word count.
+
+・Customize the app's appearance to your liking with various settings for fonts, background images, colors.
+
+・Check and edit your past diary entries by searching by year and month, sorting by date, or switching to a simple list format.
+
+・Use the calendar to see exactly when you wrote each entry.
+
+・Share your diary on SNS.
+
+・Take advantage of features like notifications to help you keep up with your diary
+
+writing, backups to keep your data safe, and restoration to retrieve your diary even if you switch phones.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.6.1 (Dec 13, 2023)
+    ・Adjusted compression settings to reduce the amount of images used by the app. This is expected to improve the performance of the app.
+Version 1.6.0 (Aug 23, 2023)
+    【Feature Addition】
+    You can now set the lock screen from the "Others" button.
+    ・You can use the lock screen to enhance security when launching the app.
+    ・Locking with a password and fingerprint authentication can help protect your privacy.
+
+    【Bug Fix】
+    ・Fixed minor bugs.
+Version 1.5.2 (Jul 21, 2023)
+    [Bug fixes]
+
+    ・Fixed an issue where the date was sometimes shifted when changing the date.
+
+    ・Fixed notifications.
+
+    ・Other minor bugs have been fixed.
+Version 1.5.1 (Apr 29, 2023)
+    【Changes】
+
+    ・Minor bug fixes.
+
+    ・Some adjustments made to the text size.
+Version 1.5.0 (Mar 23, 2023)
+    【機能追加】
+
+    ・ホーム画面の「今までの日記」上部の矢印タップで平均文字数と日記数のグラフが見られるようになりました。
+
+    ・カレンダーのイベント（日記があるときに表示される点アイコン）が4つまで表示されるようになりました。
+
+    ・画像をタップすることで、拡大表示できるようになりました。
+
+
+
+
+
+    【修正など】
+
+    ・タブレットサイズでの見た目の修正。
+
+    ・その他フォントサイズなどの修正。
+Version 1.4.1 (Mar 2, 2023)
+    【修正】
+    画面の小さいスマホ端末で文字が入力しにくい問題を修正しました。
+Version 1.4.0 (Jan 22, 2023)
+    バージョン1.4.0
+
+    【機能追加】
+    ・バックアップ機能を追加しました。
+    ・「今までの記録」ページにカレンダー機能を追加しました。
+    ・フォント選択ページで選択中のフォントが表示されるようにしました。
+
+    【修正など】
+    ・「今までの記録」ページの日記の並びをデフォルトで降順にしました。
+    ・その他、軽微なバグ修正。
+Version 1.3.0 (Dec 7, 2022)
+    【機能追加】
+    ・背景選択画面でスマートフォンに保存されている画像を選べるようになりました。
+    ・画像付きで日記を保存できるようになりました。
+    ・LineやTwitterなどに共有するボタンを付けました。
+
+    【修正など】
+    ・軽微なバグ修正。
+Version 1.2.3 (Nov 17, 2022)
+    ストア掲載用スクリーンショットの変更
+Version 1.2.1 (Jul 6, 2022)
+    広告に関する設定を追加しました。
+Version 1.2.0 (Jun 22, 2022)
+    ・その他ボタンを追加しました。
+    ・その他ボタンに褒め日記についてボタンを移動しました。
+    ・その他ボタンから通知の設定ができるようにしました。
+    ・その他ボタンにレビューを書くボタンを追加しました。
+    ・フォント設定画面のデザインを変更しました。
+    ・カラーテーマ設定画面のデザインを一部変更しました。
+    ・日記を書く時の例文の増加と整理を行いました。
+Version 1.1.0 (Apr 26, 2022)
+    日記の履歴画面に検索バーを追加しました。
+Version 1.0 (Apr 8, 2022)
+
+Users may also like
+Select objects to compare
+褒め日記 -メンタルケアで褒める日記アプリ
+感謝日記 -ありがとうを忘れない 気持ちを豊かにする日記帳-
+Sea room lynn公式メンバーズアプリ
+DayMore: Modern Diary
+LIPS(リップス) メイク・コスメ・化粧品のコスメアプリ
+Moodie - Mood Diary With Lock
+Gratitude On The Go
+My Wonderful Days Journal
+Digital Clock - Bedside Alarm
+Haema Diary
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.6.1
+    Current release
+    Dec 13, 2023
+    1.6.0
+    Aug 23, 2023
+    1.5.2
+    Jul 21, 2023
+    1.5.1
+    Apr 29, 2023
+    1.5.0
+    Mar 23, 2023
+    1.4.1
+    Mar 2, 2023
+    1.4.0
+    Jan 22, 2023
+    1.3.0
+    Dec 7, 2022
+    1.2.3
+    Nov 17, 2022
+    1.2.1
+    Jul 6, 2022
+    1.2.0
+    Jun 22, 2022
+    1.1.0
+    Apr 26, 2022
+    1.0
+    Apr 8, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Apr 8, 2022
+
+Worldwide Release Date
+    Apr 8, 2022
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    1.6.1
+
+Size
+    58.68 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese, Korean, Simplified Chinese, Traditional Chinese
+
+Seller
+    Taylors Guild, N.P.O.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.taylorsguild.homerarejyouzu
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1617944420
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Praise Diary | data.ai

@@ -1,0 +1,40 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.15.0,2024-01-08,1. Recent browsing optimization 2. Form display optimization 3. Batch upload and preview of ledger images
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.14.4,2023-07-06,1. Optimize the form style
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.14.3,2023-07-04,1. Page optimization 2. Add XiemalaAI
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.14.2,2023-06-29,Bug fix for sub user invitations
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.14.1,2023-05-23,Fix Image uploads
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.13.5,2023-04-27,bug fix for ios 14
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.13.4,2023-04-24,Bug fix for org joining error Bug fix for slide verification UI updates
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.31.2,2023-04-08,1. Icons update 2. Bug fix
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.13.1,2023-03-27,Bug fix for data sheets Qr scanning upgrades
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.13.0,2023-02-23,Real Time Markdown Interaction
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.12.3,2022-12-14,1. Bug fix for mindmap images 2. Doc image uploading 3. QR Scan
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.11.3,2022-11-13,Bug fix for onboarding loop Feature: long press to copy contents from sheets
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.11.2,2022-09-28,1. Bug fix for duplicated file creation 2. Customized customer service 3. Fix missing icons 4. Bug fix for
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.11.1,2022-09-07,Bug fix for latency
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.10.14,2022-08-31,UI Fix Customer Service Notifications
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.10.13,2022-08-25,Bug fix for chats
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.10.12,2022-08-22,Bug fix for duplicated submits Enhanced doc search
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.10.9,2022-07-27,wechat login
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.10.8,2022-07-18,Simplified Registration Process UI Layout Fix
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.10.7,2022-07-07,Improved Ledgers List Improved Ledger Creation Improved Ledger Details
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.10.3,2022-06-25,Bug Fix and UI Updates
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.10.1,2022-06-11,bug fix and updates
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.10.0,2022-05-22,Bug Fix. UI Updates for Cards.
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.9.15,2022-05-16,Update API Bug Fix.
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.9.14,2022-05-07,Bug fix for tasks Upgraded card descriptions Bug fix for push notifications Better file searcher
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.9.10,2022-04-20,Message Center Bug fix
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.9.9,2022-04-15,Task links Bug fixes for tags Dashboards
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.9.7,2022-04-04,Gantt Updates Bug fix for image chatting in chats Org search
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.9.2,2022-03-10,OKR Management Goals Targets Link Tasks in Chats Multi level Tags Bug Fix
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.9.1,2022-03-02,File Permissions Control. Fix Push Notifications
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.9.0,2022-02-26,Sidebar File System User Notifications Advanced Tasks Advanced File Creation Advanced Settings Page Optimized theme color matching
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.7.3,2022-01-29,Chats UI Org management page Bug fix for Kanban task permissions Customer Support
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.6.2,2022-01-14,Icon updates on spaces Enhanced role base access controls
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.6.0,2022-01-13,Docs import Docs in line comment Personal settings updated QR Code team invitation All tasks section
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.5.1,2022-01-02,Customed Team Real Time Voting System UI Updates on Real_Time Chatting Enhanced Mindmap Functionality New Image Uploader
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.4.0,2021-12-28,Enterprise Finance Management Customized Forms Enhanced Task Cards Enhanced Markdown Features App posters updated
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.3.0,2021-12-24,Better excel data tables. Enhanced user experience on markdown editing. Bug fix.
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.2.0,2021-12-23,Dark theme supported
+1600457089,0,Xiemala Real Time Productivity,Productivity,2021-12-16,2021-12-16,50.72,2,0,0,0,1.1.0,2021-12-17,Updates in 1.1.0: Updates UI Bug Fix

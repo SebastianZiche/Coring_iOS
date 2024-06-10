@@ -1,0 +1,613 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+ThinkSpace: Next-gen Mind Map
+Naoya EnokidaProductivity (Applications)Free
+Alerts
+
+    ThinkSpace: Next-gen Mind Map
+    ThinkSpace: Next-gen Mind Map
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+ThinkSpace: Next-gen Mind Map
+All In One Idea Note
+Productivity (Applications)
+Free
+App Description
+―For All People and Organizations Requiring Creativity―
+ThinkSpace is a powerful thinking tool designed to match the workflow of your creative thoughts. Its simple and intuitive interface integrates seamlessly with a wide variety of thinking methods.Its main features which include smooth handwritten sticky notes, editable unlimited size canvases, a variety of frameworks for generating ideas, and real-time sharing with cloud services, will all provide a powerful support for your creative processes.
+Use ThinkSpace in a variety of ways, for free-range brainstorming using handwritten sticky notes, arranging and managing ideas, mind mapping, diagram, generating ideas with different thinking methods and frameworks, online brainstorming, real-time shared whiteboards, and more.
+Ideal for anyone who needs to generate new ideas, from professionals such as entrepreneurs, project managers, consultants, marketers, advertisers, researchers, teachers, and writers, to students wishing to learn about creative thought processes.
+
+Features:
+・Optimal for free form brainstorming: Develop and structure your ideas with smooth, hand drawn memos. Compatible with ApplePencil.
+・Create mind maps: Branches can be freely moved, allowing you to create more flexible mind maps.
+・Limitless canvas sizes: Canvases can be stretched into limitless sizes, so you can naturally expand upon your ideas.
+・Brainstorming with AI (select regions only): Generate ideas using AI.
+・Diagram creation: Both hand writing and text are supported.
+・Use clippings from online browsing: Cut and paste from web pages onto canvases. Use links to let you freely move to web pages.
+・Add pictures: Paste pictures that get your creative juices flowing onto your canvas.
+・Reuse: Ideas are combinations of existing elements. Try taking out a card you've already made from the card box and applying it to a project you're working on now.
+・Structure freely: Links from cards to canvases can be created, so you can freely create structures between canvases.
+・Idea creation methods: Includes many different thinking techniques, such as SCAMPER and the Matrix Method.
+・Frameworks: Includes carefully selected high end templates for business professionals, covering everything from standard models like 3C analysis and SWOT analysis, to innovation theories like Blue Ocean Strategy and Business Model Canvas.
+・Supports text input by Apple Pencil: Currently supports English and Chinese
+・Widget support: You can check the created card by placing it on the home screen. Also, you can instantly turn your ideas into cards from the home screen.
+・Create frameworks: You can create and register your own unique frameworks.
+・Synchronize data (Pro version): Synchronize data with your iOS device, and you can record your ideas wherever you go.
+・Online brainstorming: If you invite team members to join, you can share and edit ideas together.
+・Use a shared whiteboard for remote work: If you invite other users, you can make it easier to communicate and share ideas.
+
+Pro Access:
+・ Unlimited canvases upload
+・ Data Synchronization with your iOS devices.
+———
+
+Price may vary by location. Payment will be charged to iTunes Account at confirmation of purchase.
+Subscriptions are offered for either 1-month, and will automatically renew unless canceled at least 24 hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. You will not be able to cancel the subscription once activated. Manage your subscriptions in Account Settings after purchase.
+
+———
+
+Terms of Service: https://thinkspace-public.s3.ap-northeast-1.amazonaws.com/terms-en.html
+Privacy Policy: https://thinkspace-public.s3.ap-northeast-1.amazonaws.com/privacy-policy-en-v2.html
+Ratings
+Displayed Avg Ratings
+4.32
+Total Displayed Ratings
+3.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.4.7 (Feb 25, 2024)
+    - Made minor improvements.
+Version 6.4.6 (Jan 8, 2024)
+    - Made minor improvements.
+Version 6.4.5 (Dec 29, 2023)
+    - The usage period restriction for the free version has been abolished.
+Version 6.4.4 (Dec 4, 2023)
+    - Made minor improvements
+Version 6.4.3 (Nov 25, 2023)
+    - Made minor improvements
+Version 6.4.2 (Nov 6, 2023)
+    - Made minor improvements
+Version 6.4.1 (Sep 24, 2023)
+    - Made minor improvements
+Version 6.4.0 (Sep 3, 2023)
+    - Added AI brainstorming function
+    - Added AI mind map function
+    - Supports idea generation by AI using templates
+    - Supports card switching by swiping on the card editing screen
+    - The search function has been greatly enhanced
+    - Fixed minor bugs
+Version 6.3.0 (Jun 21, 2023)
+    - Fixed minor bugs
+Version 6.2.0 (Jun 12, 2023)
+    - Added a button to change the screen size by pinching on the card edit screen.
+    - Fixed a bug that text sharing from an external application was not saved in the temporary space.
+Version 6.1.1 (Apr 28, 2023)
+    - Fix minor bugs
+Version 6.1.0 (Apr 26, 2023)
+    - Improved the drawing function of the card tool
+Version 6.0.0 (Feb 1, 2023)
+    - Added AI brainstorming function
+Version 5.0.0 (Jan 3, 2023)
+    - Support to create canvas link in shared canvas
+    - Support for card box tool in shared canvas
+    - Support temporary placement tool in shared canvas
+Version 4.5.0 (Sep 19, 2022)
+    - Add Sign in with Apple
+Version 4.4.3 (Aug 21, 2022)
+    - Add image cropping function
+    - Add a function to move cards to another canvas
+Version 4.4.2 (Feb 25, 2022)
+    - Fixed some bugs
+Version 4.4.1 (Feb 23, 2022)
+    - Improved canvas detailed setting screen
+    - Supports duplication of shared canvas
+    - Fixed some bugs
+Version 4.4.0 (Feb 12, 2022)
+    - Create a handwritten group
+    - Create a page map from a web page
+    - Fixed some bugs
+Version 4.3.0 (Dec 24, 2021)
+    - Preview of card attachment data
+    - Sort and hide tool icons
+    - Added branch type
+    - Added a viewer tool
+    - Create a canvas with a link from the selected item
+    - Added operation options when placing a canvas from the box tool
+    - Drag and drop cards onto the canvas of the box tool
+    - Open the canvas by tapping the canvas of the box tool
+Version 4.2.6 (Nov 17, 2021)
+    - Added tool display settings
+Version 4.2.5 (Nov 9, 2021)
+    - Fixed some bugs
+    - Add a web page as a card
+Version 4.2.4 (Nov 5, 2021)
+    - Added text style options
+    - Supports adding URLs to detailed notes
+    - Fixed minor bugs
+Version 4.2.3 (Oct 17, 2021)
+    - Fixed minor bugs
+Version 4.2.2 (Oct 9, 2021)
+    - Fixed minor bugs
+Version 4.2.1 (Sep 8, 2021)
+    - Fixed minor bugs
+Version 4.2.0 (Sep 4, 2021)
+    -Permission settings for shared canvas
+    -Add notes to the card
+Version 4.1.0 (Aug 12, 2021)
+    - Support for MacOS
+    - Added light theme
+Version 4.0.0 (Jul 21, 2021)
+    - Update database
+Version 3.4.2 (May 28, 2021)
+    - Preparing for future updates
+Version 3.4.1 (Apr 22, 2021)
+    - Improved the performance of the eraser tool
+    - Supports multiple photo selection
+Version 3.4.0 (Apr 15, 2021)
+    - Support Widget
+Version 3.3.0 (Apr 1, 2021)
+    - Added branch tool types
+    - Improved web browser tool
+    - Add color palette
+    - Improved search interface
+    - Fixed some bugs
+Version 3.2.1 (Oct 27, 2020)
+    -Supports menu display by pressing and holding in full screen
+Version 3.2.0 (Oct 19, 2020)
+    - Support for multiple links on the card
+    - Add a function to link with the reminder app
+Version 3.1.1 (Sep 28, 2020)
+    - Minor bug fix
+Version 3.1.0 (Sep 23, 2020)
+    - Supports text input with Apple Pencil (supports English and Chinese)
+    - Add text tool to card edit screen
+Version 3.0.1 (Sep 6, 2020)
+    - Minor bug fixes
+Version 3.0.0 (Aug 24, 2020)
+    - Improved collaboration features
+Version 2.4.1 (May 27, 2020)
+    - Minor bug fixes
+Version 2.4.0 (May 19, 2020)
+    - Improved synchronization function
+Version 2.3.2 (Apr 30, 2020)
+    - Minor bug fixes
+Version 2.3.1 (Apr 20, 2020)
+    - Add template editing tool
+    - Fixed some bugs
+Version 2.3.0 (Mar 5, 2020)
+    - Improvement of toolbar
+    - Improvement of card box
+Version 2.2.0 (Feb 12, 2020)
+    - Adding an annual subscription to the pro version
+Version 2.1.0 (Feb 4, 2020)
+    - Added folder function (Pro version)
+    - Added canvas sorting function (Pro version)
+    - Card box improvements
+    - Bug fixes
+Version 2.0.2 (Jan 10, 2020)
+    - Minor bug fixes
+Version 2.0.1 (Nov 6, 2019)
+    - Added a selection tool on the card editing screen
+Version 2.0.0 (Oct 2, 2019)
+    - Improved text tool
+Version 1.9.9 (Sep 11, 2019)
+    -Bug fixes
+Version 1.9.8 (Sep 7, 2019)
+    - Improved image synchronization
+Version 1.9.7 (Aug 16, 2019)
+    - Add shortcut to card tool
+    - Fixed some bugs
+Version 1.9.6 (Jul 23, 2019)
+    - Add file attachment function
+    - Improved text tool
+    - Fixed some bugs
+Version 1.9.5 (Jul 13, 2019)
+    - Add color editing function
+    - Add color tag function
+    - Fixed some bugs
+Version 1.9.4 (Jun 23, 2019)
+    - Fixed some bugs
+Version 1.9.3 (Apr 23, 2019)
+    - Improved scrolling
+    - Improved accuracy of selection tool
+    - Add copy function of canvas
+Version 1.9.2 (Apr 18, 2019)
+    - Improve temporary placement tool
+    - Add card shapes
+    - Fixed bugs
+Version 1.9.1 (Apr 13, 2019)
+    - Fixed some bugs
+Version 1.9.0 (Apr 8, 2019)
+    - Improvement of performance
+    - Add shortcut to edit state
+Version 1.8.9 (Mar 21, 2019)
+    - Fixed some bugs
+Version 1.8.8 (Mar 20, 2019)
+    - Fixed some bugs
+Version 1.8.7 (Feb 28, 2019)
+    - Support Apple Pencil 2
+    - Improve toolbar
+    - Improve select tool
+    - Fixed some bugs
+Version 1.8.6 (Feb 22, 2019)
+    - Support split view
+    - Support drag and drop
+    - Fixed some bugs
+Version 1.8.5 (Feb 7, 2019)
+    - Fixed some bugs
+Version 1.8.4 (Feb 1, 2019)
+    - Improved card operation
+    - Add relationship lines
+    - Fixed some bugs
+Version 1.8.3 (Jan 15, 2019)
+    - Change invitation flow
+Version 1.8.2 (Jan 8, 2019)
+    - Save state of tool
+    - Change canvas management operation
+    - Improved display of relation tool
+    - Fixed some bugs
+Version 1.8.1 (Dec 22, 2018)
+    -Fixed some bugs
+    -Open last edited canvas
+Version 1.8 (Dec 16, 2018)
+    - Improve card box tool
+    - Add temporary space
+    - Fixed some bugs
+Version 1.7.2 (Dec 11, 2018)
+    -Fixed some bugs
+Version 1.7.1 (Dec 10, 2018)
+    · Improved card operation
+    · Add card colors
+    · Create link canvas from card
+Version 1.7 (Dec 3, 2018)
+    · Text search tool
+    · Image insertion tool
+    · New templates
+Version 1.6 (Nov 21, 2018)
+    - Web browser tool
+    - New types of card shape
+    - Fixed drawing when scrolling
+Version 1.5 (Nov 14, 2018)
+    · Card scaling support
+    · Improvement of toolbar
+    · Add type of relation line
+    · Cut the selected part and make a canvas
+Version 1.4 (Nov 4, 2018)
+    - Attach Web URL to a card
+    - Attach photo to a card
+Version 1.3 (Oct 14, 2018)
+    - add pen tool
+    - add tutorials
+Version 1.2 (Sep 13, 2018)
+    - fix some bugs
+    - improve grouping tool
+Version 1.1 (Sep 10, 2018)
+    - fixed bugs
+Version 1.0 (Sep 5, 2018)
+
+Users may also like
+Select objects to compare
+MindSpace - Mind Map
+SimpleMind - Mind Mapping
+Flowdia Diagrams
+Diagrams Notepad 3
+miMind
+MindNode - Mind Map & Outline
+Mind Map Maker - Mindomo
+Xmind - Mind Map & Brainstorm
+Story Plotter - idea to plot -
+Mind Mapping
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    6.4.7
+    Current release
+    Feb 25, 2024
+    6.4.6
+    Jan 8, 2024
+    6.4.5
+    Dec 29, 2023
+    6.4.4
+    Dec 4, 2023
+    6.4.3
+    Nov 25, 2023
+    6.4.2
+    Nov 6, 2023
+    6.4.1
+    Sep 24, 2023
+    6.4.0
+    Sep 3, 2023
+    6.3.0
+    Jun 21, 2023
+    6.2.0
+    Jun 12, 2023
+    6.1.1
+    Apr 28, 2023
+    6.1.0
+    Apr 26, 2023
+    6.0.0
+    Feb 1, 2023
+    5.0.0
+    Jan 3, 2023
+    4.5.0
+    Sep 19, 2022
+    4.4.3
+    Aug 21, 2022
+    4.4.2
+    Feb 25, 2022
+    4.4.1
+    Feb 23, 2022
+    4.4.0
+    Feb 12, 2022
+    4.3.0
+    Dec 24, 2021
+    4.2.6
+    Nov 17, 2021
+    4.2.5
+    Nov 9, 2021
+    4.2.4
+    Nov 5, 2021
+    4.2.3
+    Oct 17, 2021
+    4.2.2
+    Oct 9, 2021
+    4.2.1
+    Sep 8, 2021
+    4.2.0
+    Sep 4, 2021
+    4.1.0
+    Aug 12, 2021
+    4.0.0
+    Jul 21, 2021
+    3.4.2
+    May 28, 2021
+    3.4.1
+    Apr 22, 2021
+    3.4.0
+    Apr 15, 2021
+    3.3.0
+    Apr 1, 2021
+    3.2.1
+    Oct 27, 2020
+    3.2.0
+    Oct 19, 2020
+    3.1.1
+    Sep 28, 2020
+    3.1.0
+    Sep 23, 2020
+    3.0.1
+    Sep 6, 2020
+    3.0.0
+    Aug 24, 2020
+    2.4.1
+    May 27, 2020
+    2.4.0
+    May 19, 2020
+    2.3.2
+    Apr 30, 2020
+    2.3.1
+    Apr 20, 2020
+    2.3.0
+    Mar 5, 2020
+    2.2.0
+    Feb 12, 2020
+    2.1.0
+    Feb 4, 2020
+    2.0.2
+    Jan 10, 2020
+    2.0.1
+    Nov 6, 2019
+    2.0.0
+    Oct 2, 2019
+    1.9.9
+    Sep 11, 2019
+    1.9.8
+    Sep 7, 2019
+    1.9.7
+    Aug 16, 2019
+    1.9.6
+    Jul 23, 2019
+    1.9.5
+    Jul 13, 2019
+    1.9.4
+    Jun 23, 2019
+    1.9.3
+    Apr 23, 2019
+    1.9.2
+    Apr 18, 2019
+    1.9.1
+    Apr 13, 2019
+    1.9.0
+    Apr 8, 2019
+    1.8.9
+    Mar 21, 2019
+    1.8.8
+    Mar 20, 2019
+    1.8.7
+    Feb 28, 2019
+    1.8.6
+    Feb 22, 2019
+    1.8.5
+    Feb 7, 2019
+    1.8.4
+    Feb 1, 2019
+    1.8.3
+    Jan 15, 2019
+    1.8.2
+    Jan 8, 2019
+    1.8.1
+    Dec 22, 2018
+    1.8
+    Dec 16, 2018
+    1.7.2
+    Dec 11, 2018
+    1.7.1
+    Dec 10, 2018
+    1.7
+    Dec 3, 2018
+    1.6
+    Nov 21, 2018
+    1.5
+    Nov 14, 2018
+    1.4
+    Nov 4, 2018
+    1.3
+    Oct 14, 2018
+    1.2
+    Sep 13, 2018
+    1.1
+    Sep 10, 2018
+    1.0
+    Sep 5, 2018
+
+See More
+Top In-App Purchases
+
+    ThinkSpace Pro Access
+    $2.99
+    ThinkSpace Annual Pro Access
+    $29.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 5, 2018
+
+Worldwide Release Date
+    Sep 9, 2018
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    6.4.7
+
+Size
+    242.69 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Danish, Dutch, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Malay, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+Seller
+    Naoya Enokida
+
+Company HQ
+    Japan
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.naoyax.CreativePad
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1335574515
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+ThinkSpace: Next-gen Mind Map | data.ai

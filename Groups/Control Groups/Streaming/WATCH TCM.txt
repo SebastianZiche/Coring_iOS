@@ -1,0 +1,442 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+WATCH TCM
+Warner Bros. DiscoveryEntertainment (Applications)Free
+Alerts
+
+WATCH TCM
+WATCH TCM
+WATCH TCM
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+WATCH TCM
+Watch TCM Live & On-Demand
+Entertainment (Applications)
+Free
+Published by TCM
+App Description
+Turner Classic Movies presents WATCH TCM, a service that lets you enjoy the best of TCM, at no additional cost with your TV subscription*. Experience the richly textured world of classic movies that only Turner Classic Movies can bring you.
+
+HUNDREDS OF MOVIES ON DEMAND: Our extensive library is updated each month with new titles, featuring introductions by special guests and our TCM Hosts, including Ben Mankiewicz. Movies are presented UNCUT and COMMERCIAL FREE.
+
+IN-DEPTH MOVIE INFORMATION: Learn more about every title with feature-length articles, cast & crew details, incredible image galleries, background information, complete synopsis and more.
+
+CUSTOM WATCHLIST: Add new and favorite movies to your queue to watch later.
+
+TWO LIVE STREAMS: Enjoy both an East and West Coast feed of Turner Classic Movies. Watch 2 different movies LIVE at any time, always UNCUT and COMMERCIAL FREE.
+
+SHORT FILMS: See some of the best classic film short subjects, many specially programmed for WATCH TCM.
+
+EXPLORE BONUS CONTENT: Featuring thousands of short-form clips and trailers. Browse stunning, never-before-seen photos from the titles playing on TCM this month.
+
+*In order to access WATCH TCM, you must get TCM at home through either a cable or satellite TV package.
+Ratings
+Displayed Avg Ratings
+3.7
+Total Displayed Ratings
+4.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.10.7 (Jul 25, 2022)
+    We’ve made a few minor updates to keep the app running smoothly.
+Version 3.10.6 (May 17, 2022)
+    We’ve made some app updates specific to Charter Spectrum. Please log back in with that provider if you are logged out.
+Version 3.10.5 (Jan 5, 2022)
+    We’ve made a few updates to improve your app experience!
+Version 3.10.4 (Sep 9, 2021)
+    This version applies some critical updates to make sure all users have the best experience with the Watch TCM app.
+Version 3.10.3 (Sep 1, 2021)
+    We’ve freshened up our look for Watch TCM!
+Version 3.10.2 (Jun 29, 2021)
+    Updates to support iOS 14.5 and bug fixes to improve your experience.
+Version 3.10.1 (Mar 15, 2021)
+    Bug fixes
+Version 3.10 (Jan 12, 2021)
+    Bug fixes and app improvements
+Version 3.9 (Sep 30, 2020)
+    Bug fixes and improvements
+Version 3.8 (Jul 6, 2020)
+    Updates related to Privacy Policy and Terms of Use
+Version 3.7 (Jun 16, 2020)
+    - Minor improvements and bug fixes
+    - Fix for full screen player control on iPad
+Version 3.6 (Mar 16, 2020)
+    Design improvements and bug fixes
+Version 3.5 (Dec 18, 2019)
+    Thank you for streaming Watch TCM!
+
+    This update includes general bug fixes and improvements. 
+Version 3.4 (Oct 28, 2019)
+    Thank you for streaming Watch TCM!
+
+    This update includes general bug fixes and improvements. 
+Version 3.3 (Jun 18, 2019)
+    Thank you for streaming Watch TCM!
+
+    This update includes general bug fixes.
+Version 3.2.1 (Feb 25, 2019)
+    This update includes a fix for authentication issue.
+Version 3.2 (Feb 20, 2019)
+    Thank you for streaming Watch TCM!
+
+    This build includes various analytics and performance fixes. We also changed the movie title cards functionality so that when a movie is selected, a movie details page is displayed instead of the video player.
+Version 3.1 (Oct 5, 2018)
+    Thank you for streaming Watch TCM!
+    This release includes video expand button on tablet as well as performance and analytics fixes.
+Version 3.0 (Jun 20, 2018)
+    Welcome to the redesigned Watch TCM app! We’ve made some major updates to our app in design, stability, and features.
+
+    Some of the new and improved features include:
+    •New and improved design: Now find movies, live broadcasts, and movie information faster and easier
+    •Picture-in-picture – Users on supported iPads can continue watching Watch TCM films while browsing the web or using other apps.
+    •Apple Single Sign-on integration with supported providers
+    •Added support for AirPlay and Mirroring
+    •Improved Search
+    •Improved Watchlist - Users can play or add a movie to a Watchlist on one device and resume watching from a different device. Expiring soon labeling for titles leaving the service.
+    •Browse by TCM Collections - Quickly access On Demand films by popular themes such as Star of the Month, Noir Alley, 31 Days of Oscar, and more.
+
+    Thank you for your continued support and patience for Watch TCM.
+Version 2.3 (Mar 1, 2018)
+    bug fixes
+Version 2.2 (Jan 31, 2018)
+    Bug fixes for mirroring
+Version 2.18 (Sep 25, 2017)
+    This version includes support for iOS 11.
+Version 2.17 (May 30, 2017)
+    - bug fixes
+    - backend updates
+Version 2.16 (Dec 7, 2015)
+    -New App Icon
+    -Fixed runtime displays for clips
+    -Additional bug fixes
+Version 2.15 (Oct 7, 2015)
+    iOS 9 updates and bug fixes
+    Introducing "Host" buttons - now you can watch our hosts Robert Osborne and Ben Mankiewicz introduce films on movie pages.
+Version 2.9.9 (Sep 14, 2015)
+    Thank you all for your continued support of Watch TCM. Here are some exciting new features in this major Fall 2015 release:
+
+    Improved clips quality. We worked hard to upgrade some of the video of our short-form clips. You’ll see noticeable improvements immediately, especially in clips related to the current day's programming.
+
+    Improved Archive Image thumbnails and aspect ratios – now see our stunning Archives with better detail
+
+    Pinch and zoom now enabled on all Image Archives!
+
+    Video Playback: Now you get volume control and 30 second rewind capabilities.
+
+    New: Clip, Promo, and Trailer information for iPad: Select a clip and get information on all of our free short-form material in Watch TCM.
+
+    Improved Watchlist and Search Views for iPad. Improved fluidity in the main On Demand carousel.
+
+    New beautiful load animation
+
+    Many design tweaks and bug fixes.
+
+    Please share the fun and tell your friends about WATCH TCM, and thanks for all your support.
+Version 2.9.8 (Sep 23, 2014)
+    Thank you for the great feedback and comments for Watch TCM – we really appreciate the great suggestions and ratings as we continue to improve.
+
+    Here’s what’s in this update:
+
+    • Schedule Themes: Get a quick view of TCM nightly themes by tapping the info button in our Schedule Page. Now you can learn every prime time theme at a glance.
+    • Clips and Trailers: We’ve changed some headers to more accurately describe clips playing on TCM Today, and new ones just added
+    • Sign-in design and stability improvements
+    • Design Improvements
+
+    Thanks again for all your support of Watch TCM.
+Version 2.9.7 (Sep 18, 2014)
+    Thank you for the great feedback and comments for Watch TCM – we really appreciate the great suggestions and ratings as we continue to improve.
+
+    Here’s what’s in this update:
+    •Schedule Themes: Get a quick view of TCM nightly themes by tapping the info button in our Schedule Page. Now you can learn every prime time theme at a glance.
+    •Clips and Trailers: We’ve changed some headers to more accurately describe clips playing on TCM Today, and new ones just added
+    •Sign-in design and stability improvements
+    •Design Improvements
+
+    Thanks again for all your support of Watch TCM.
+Version 2.9.6 (Mar 17, 2014)
+    Thank you for the great feedback and comments for Watch TCM – we really appreciate the great suggestions and ratings as we continue to improve. Here’s what’s in this update:
+
+
+
+    •New additional list view for On Demand titles for faster access of what’s available (look for this next to the buttons in our “On Demand” section). iPad only.
+
+    •Schedule: Now see nightly themes in Prime Time every night. (iPhone only – iPad coming).
+
+    •Faster and improved load times for Film pages
+
+    •iOS7 enhancements
+
+    •TCM’s Shop integration for all Movie Pages
+
+    •Bug fixes and minor UI improvements
+
+
+
+    Thanks again for all your support of Watch TCM.
+Version 2.8 (Nov 21, 2013)
+    Thank you for all the positive comments about Watch TCM – we’re listening, so please keep the feedback coming. Please tell your friends and be sure to share!
+
+    -New login screen: We’ve redesigned the login screen to be easier and faster
+    -Design Enhancements
+    -Bug Fixes
+Version 2.7 (Nov 7, 2013)
+    • TWO LIVE STREAMS: East and West Coast feed of Turner Classic Movies.
+    • HUNDREDS OF ON DEMAND MOVIES
+    • GORGEOUS NEW DESIGN
+    • INTERACTIVE SCHEDULE
+    • MOVIE AND ACTOR ALERTS
+    • INTERACTIVE SOCIAL FEED SYNCED WITH MOVIES
+    • CUSTOM WATCH LISTS
+Version 2.6 (Nov 6, 2013)
+    • TWO LIVE STREAMS: East and West Coast feed of Turner Classic Movies.
+    • HUNDREDS OF ON DEMAND MOVIES
+    • GORGEOUS NEW DESIGN
+    • INTERACTIVE SCHEDULE
+    • MOVIE AND ACTOR ALERTS
+    • INTERACTIVE SOCIAL FEED SYNCED WITH MOVIES
+    • CUSTOM WATCH LISTS
+Version 2.1 (Nov 4, 2011)
+    iOS 5.0 Compatibility Updates
+Version 2.0 (Apr 26, 2011)
+    - improved stability and performance
+    - updated layout and listings
+    - more videos and photos
+    - upgraded photo slideshow
+    - bug fixes
+
+    Thank you all for your continued support of TCM's app, we appreciate all the positive feedback and your patience while we worked on these changes and upgrades. Look for more improvements and upgrades coming this year! 
+Version 1.0 (Dec 8, 2009)
+Version 1.0 (iPhone OS 3.0 Tested)
+
+Users may also like
+Select objects to compare
+Classix
+The Criterion Channel
+BBC America
+MeTV App
+Smithsonian Channel
+Acorn TV: Watch British Series
+PBS: Watch TV & Documentaries
+Nat Geo TV: Live & On Demand
+FilmRise
+AMC: Stream TV Shows & Movies
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.10.7
+    Current release
+    Jul 25, 2022
+    3.10.6
+    May 17, 2022
+    3.10.5
+    Jan 5, 2022
+    3.10.4
+    Sep 9, 2021
+    3.10.3
+    Sep 1, 2021
+    3.10.2
+    Jun 29, 2021
+    3.10.1
+    Mar 15, 2021
+    3.10
+    Jan 12, 2021
+    3.9
+    Sep 30, 2020
+    3.8
+    Jul 6, 2020
+    3.7
+    Jun 16, 2020
+    3.6
+    Mar 16, 2020
+    3.5
+    Dec 18, 2019
+    3.4
+    Oct 28, 2019
+    3.3
+    Jun 18, 2019
+    3.2.1
+    Feb 25, 2019
+    3.2
+    Feb 20, 2019
+    3.1
+    Oct 5, 2018
+    3.0
+    Jun 20, 2018
+    2.3
+    Mar 1, 2018
+    2.2
+    Jan 31, 2018
+    2.18
+    Sep 25, 2017
+    2.17
+    May 30, 2017
+    2.16
+    Dec 7, 2015
+    2.15
+    Oct 7, 2015
+    2.9.9
+    Sep 14, 2015
+    2.9.8
+    Sep 23, 2014
+    2.9.7
+    Sep 18, 2014
+    2.9.6
+    Mar 17, 2014
+    2.8
+    Nov 21, 2013
+    2.7
+    Nov 7, 2013
+    2.6
+    Nov 6, 2013
+    2.1
+    Nov 4, 2011
+    2.0
+    Apr 26, 2011
+    1.0
+    Dec 8, 2009
+    1.0 (iPhone OS 3.0 Tested)
+    N/A
+
+See More
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Dec 8, 2009
+
+Worldwide Release Date
+    Oct 7, 2015
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    3.10.7
+
+Size
+    41.18 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Turner Broadcasting System, Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.tcm.tcm
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 341161319
+Unified App ID: 1000600000547784
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+WATCH TCM | data.ai

@@ -1,0 +1,5 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1600603779,0,WinSmart Karaoke,Entertainment,2021-12-22,2021-12-22,27.26,1,0,0,0,1.1.2,2024-01-21,Fix connection error Fix UI on new iPhones,0,0,0,0,0,0,1,0
+1600603779,0,WinSmart Karaoke,Entertainment,2021-12-22,2021-12-22,27.26,1,0,0,0,1.1.1,2023-11-06,Fix connection not stable Improve user experience,0,0,0,0,1,0,0,0
+1600603779,0,WinSmart Karaoke,Entertainment,2021-12-22,2021-12-22,27.26,1,0,0,0,1.1,2022-12-20,fix bug connect box,0,0,0,0,0,0,0,0
+1600603779,0,WinSmart Karaoke,Entertainment,2021-12-22,2021-12-22,27.26,1,0,0,0,1.0,2021-12-23,,0,0,0,0,0,0,0,0

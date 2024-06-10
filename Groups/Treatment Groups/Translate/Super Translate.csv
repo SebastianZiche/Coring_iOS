@@ -1,0 +1,4 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1608783516,0,Super Translate,Utilities,2022-02-08,2022-02-08,91.7,1,0,0,0,1.1.1,2023-09-22,1. fix bugs
+1608783516,0,Super Translate,Utilities,2022-02-08,2022-02-08,91.7,1,0,0,0,1.1.0,2022-02-25,1.Fix known bugs 2.Add OCR translate. 3.Add picture translate. 4.add PDF translate.
+1608783516,0,Super Translate,Utilities,2022-02-08,2022-02-08,91.7,1,0,0,0,1.0.0,2022-02-08,

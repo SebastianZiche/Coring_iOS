@@ -1,0 +1,695 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Tangerine: Self-care & Goals
+Bitdreams OUHealth and Fitness (Applications)Free
+Alerts
+
+Tangerine
+Tangerine: Self-care & Goals
+Tangerine: Self-care & Goals
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Tangerine: Self-care & Goals
+Habits. Mood Tracker. Journal.
+Health and Fitness (Applications)
+Free
+App Description
+** Developer Spotlight - Apple (2021) **
+** App of the day - Apple (2020) **
+** Best of the month - Apple (March, 2020) **
+** New apps we love - Apple (2020) **
+** Apps for Self-Care - Apple (2020) **
+
+Tangerine is your guide to daily self-care. Form habits, track your mood and journal. All in one app.
+
+** TAKE GOOD CARE OF YOURSELF **
+
+Start putting you first — physically, mentally and emotionally. Improve your overall wellbeing and be happier through better self-esteem and less stress.
+
+** FORM HABITS THAT LAST **
+
+Forming lasting habits can be hard, but we're here to help. As part of your self-care journey, Tangerine allows you to create and track habits while reminding you to do them and celebrating your achievements.
+
+** TRACK YOUR MOOD **
+
+Mood tracking is a technique in positive psychology that includes the tracking, recording, and analysis of a person’s mood. With that in mind, Tangerine not only helps you reflect on your days, but also realise what activities in your life make you happy or sad.
+
+** JOURNAL, REFLECT AND LOOK BACK **
+
+Journaling has become a hallmark of the self-care movement. It helps you prioritize and clarify thinking, but most importantly it gives you a boost in mindfulness, memory and communication skills. In addition to tracking your daily mood, on Tangerine you can write down your thoughts as they pop-up or leverage one of our guided journaling templates.
+
+** MEASURE YOUR PROGRESS WITH THE POWER OF DATA **
+
+Get insights & stats on your routine and on how much you've evolved with elegant and comprehensive reports.
+
+Tangerine integrates with the Health app in order to automatically complete health related habits.
+
+** DON'T BE SHY, SAY HI **
+
+Do you have any questions or suggestions on how we can make Tangerine even better for you? Get in touch at hi@bitdreams.co.
+
+** TANGERINE PREMIUM **
+
+Subscribe to unlock all features and be the boss of your life.
+
+• Unlimited habits.
+• Unlimited reminders per habits.
+• Insights & Stats.
+• Add photos to your notes & journal.
+• Access to all guided journaling templates.
+
+Tangerine offers auto-renewing subscriptions, including a 7-day free trial on the yearly plan:
+
+• $2.49/month, billed yearly as one payment of $29.99.
+• $4.99/month.
+
+After the free trial, the total amount for the subscription will be charged to your iTunes Account. The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal at the total subscription price within 24 hours prior to the end of the current period. Subscriptions and auto-renewals may be managed or canceled via your iTunes Account Settings.
+
+These prices are in US Dollars (USD). Pricing in other currencies and countries may vary and actual charges may be converted to your local currency depending on the country of residence.
+
+Terms of Use: https://tangerine.app/terms-of-use
+Privacy Policy: https://tangerine.app/privacy-policy
+Ratings
+Displayed Avg Ratings
+4.73
+Total Displayed Ratings
+14.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.13.1 (Dec 4, 2023)
+    We've fixed a bug that would cause our widgets to show with an unwanted padding on devices running iOS 17
+Version 3.13.0 (Nov 20, 2023)
+    Bug fixes and performance improvements.
+Version 3.12.2 (Dec 12, 2022)
+    We have addressed a rare crash in the latest version of our app. This update is focused on ensuring a stable and reliable experience for our users. Thank you for your continued support and please let us know if you experience any issues.
+Version 3.12.1 (Dec 11, 2022)
+    - We've fixed a bug that was preventing the guided journaling templates from loading only the first time the app was launched
+    - We solved an issue that was making the app randomly crash on a few rare occasions
+Version 3.12.0 (Sep 9, 2022)
+    Introducing Tangerine's new Lock Screen Widgets for iOS 16. Now you can know how far along you are to completing your goals for the day with just a quick glance to your device.
+Version 3.11.0 (Sep 2, 2022)
+    This update contains some stability fixes and some changes to our translations.
+Version 3.10.0 (Jul 27, 2022)
+    We've made some performance improvements when editing a journal entry
+Version 3.9.9 (Jul 21, 2022)
+    Performance improvements and bug fixes
+Version 3.9.8 (Jun 29, 2022)
+    We've fixed a bug that was causing the wrong period of the day to be sometimes listed on the routine view list headers
+Version 3.9.6 (Jun 22, 2022)
+    - We have fixed an issue where the count of remaining habits for a given date would not reflect that day's completions
+    - We have fixed an issue where undoing a completion on a habit with multiple completions a day would not correctly update the list item for that habit
+    - We improved the overall performance of the app
+Version 3.9.5 (Jun 19, 2022)
+    - We fixed a bug that was showing an empty journal entry whenever a user attempted to edit an existing entry
+    - We fixed a random crash that was occurring to some users when scrolling through the mood tracker dates.
+Version 3.9.3 (Jun 18, 2022)
+    - We've fixed an issue that was it so that habits set to repeat n times a week would not be correctly moved to the Completed tab when completed on a given day.
+    - The app is now correctly ordering the habits according to the period and to the order defined in "Manage habits"
+    - The app will now launch with the relevant day period expanded according to the time of the day
+Version 3.9.4 (Jun 18, 2022)
+    We've fixed a random crash that was occurring to users running Tangerine on iOS 14
+Version 3.9.2 (Jun 17, 2022)
+    We've fixed a bug introduced in our latest update which would cause the app to crash when creating a new guided journal entry.
+Version 3.9.0 (Jun 15, 2022)
+    Lots of performance improvements!
+
+    We did a complete overhaul of the app in order to ensure a smooth and snappier experience.
+
+    - We fixed an issue that was causing the app to lag a bit for users with a lot of saved data.
+    - The habit list was completely re-implemented making it harder to accidentally complete or skip a habit when scrolling.
+    - Syncing your data with the cloud should now be way faster than before.
+Version 3.8.2 (Mar 22, 2022)
+    Introducing: Health Habits
+
+    How about making the most of 2022 by starting running, cycling or maybe swimming? With our new Apple Health integration, you can automatically track your Health Habits. Just choose Health Habit when creating a new habit, set your goal and the habit will be automatically marked as completed once your goal is reached.
+
+    Bug fixes:
+    - Fixed a bug that was causing the app to crash for users on iOS versions prior to 14.7
+Version 3.8.1 (Mar 15, 2022)
+    Introducing: Health Habits
+
+    How about making the most of 2022 by starting running, cycling or maybe swimming? With our new Apple Health integration, you can automatically track your Health Habits. Just choose Health Habit when creating a new habit, set your goal and the habit will be automatically marked as completed once your goal is reached.
+
+    Bug fixes:
+    - Fixed a bug that might cause the app to crash for some users who recently wrote a guided journal entry
+    - Fixed an issue with the background data sync
+Version 3.8.0 (Mar 14, 2022)
+    Introducing: Health Habits
+
+    How about making the most of 2022 by starting running, cycling or maybe swimming? With our new Apple Health integration, you can automatically track your Health Habits. Just choose Health Habit when creating a new habit, set your goal and the habit will be automatically marked as completed once your goal is reached.
+Version 3.7.4 (Oct 27, 2021)
+    We've fixed a bug that was causing the app to crash when tapping "Invite your friends" on iPad devices.
+Version 3.7.2 (Sep 28, 2021)
+    We've fixed a bug that was preventing habit reminders from being correctly deleted
+Version 3.7.1 (Sep 20, 2021)
+    Introducing Time Sensitive notifications for iOS 15. Always receive your habit reminders on the precise time you scheduled them without worrying about being bothered by other less important notifications when using Focus.
+
+    Bug fixes:
+
+    - We fixed a crash when that would occur when users attempted to register their daily mood on iOS 15
+Version 3.7.0 (Sep 17, 2021)
+    Introducing Time Sensitive notifications for iOS 15. Always receive your habit reminders on the precise time you scheduled them without worrying about being bothered by other less important notifications when using Focus.
+Version 3.6.7 (Sep 14, 2021)
+    We've fixed a bug that was causing the app to crash for some users with habits that occurred multiple times per week on non specific days
+Version 3.6.6 (Sep 12, 2021)
+    We've fixed a bug that was causing Tangerine to crash for our users in Chile due to a daylight saving time change bug.
+Version 3.6.5 (Sep 5, 2021)
+    We've fixed a bug that was causing Tangerine to sometimes miscalculate the streak count for some habits.
+Version 3.6.3 (Aug 27, 2021)
+    We've fixed a bug that was sometimes preventing the passcode screen from showing
+Version 3.6.2 (Aug 19, 2021)
+    - We fixed a bug that was preventing the number of completions an habit had in a day from being correctly displayed on the large Widget.
+    - Users can now have profiles with only a first name.
+    - Fixed some random crashes that were occurring on rare occasions.
+Version 3.6.1 (Jul 20, 2021)
+    We fixed a bug that was preventing the app from correctly syncing the mood entries across devices.
+Version 3.6.0 (Jul 17, 2021)
+    We are glad to finally bring an update that has been requested countless times by our users. You can now easily search all your habit notes, mood reports and journal entries with our new Premium Search.
+Version 3.5.7 (Jul 10, 2021)
+    We had previously introduced a bug that was forcing the app to always sync the habits completions to the Tangerine servers even when these completions were already synced. This was impacting our quality of service and this update fixes that.
+Version 3.5.1 (Jun 25, 2021)
+    We've fixed a bug that would on rare occasions cause the app to crash on launch .
+Version 3.1.7 (Jun 6, 2021)
+    The companion Watch App will now display the habits in the same order defined by the user on "Manage Habits" 
+Version 3.1.6 (May 24, 2021)
+    This is a minor update that contains some stability fixes that we wanted to get out of the way before our next big feature. We again would like to thank all the users that are constantly sending us feedback and helping us make Tangerine an awesome app. We are now just over one year on the App Store and it's an honour to be a part of this journey with you all, specially during these uncertain times.
+
+    Stay safe!
+Version 3.1.5 (May 23, 2021)
+    We fixed bug that was causing the app to crash when adding a new note to an habit.
+Version 3.1.4 (May 22, 2021)
+    We have fixed a bug that was causing the app to crash when unarchiving an habit.
+Version 3.1.3 (May 2, 2021)
+    We fixed a couple of issues that could cause Tangerine to crash.
+Version 3.1.1 (Apr 14, 2021)
+    We fixed a bug that was causing the app to crash upon deleting a habit.
+Version 3.1.2 (Apr 14, 2021)
+    You know sometimes when your home renovation just doesn't go as planned? Well, we made a bunch of under-the-hood changes on our previous version and with that, we introduced a bug that would sometimes prevent users from creating new habits. This update fixes that.
+
+    Sorry for the disruption, folks!
+Version 3.1.0 (Apr 12, 2021)
+    You asked and we heard you! This update makes it possible for you to reorder your habits for any period of the day.
+Version 3.0.2 (Feb 22, 2021)
+    Just a small update with a couple of bug fixes:
+
+    - We have fixed a bug where the habit counter might sometimes show the wrong number.
+    - We have corrected a couple of typos in our German translations.
+Version 3.0.0 (Feb 15, 2021)
+    We made some improvements to make your habit list smoother and we are also paving the way for more features to come. Stay tuned!
+Version 2.7.1 (Jan 4, 2021)
+    Fixed a bug that was preventing some users from syncing their habits to their Apple Watch app.
+
+    Happy 2021 everyone! And thanks so much for your continued support :)
+Version 2.7.0 (Jan 2, 2021)
+    You asked and we listened! This release includes:
+
+    - Passcode and biometrics (FaceID / TouchID) authentication for our premium users.
+    - New feelings that can be tracked
+    - Overall performance improvements and bug fixes
+
+    May 2021 be a better year for everyone!
+Version 2.6.18 (Nov 10, 2020)
+    More bug fixes, people! Yeah, again bugs related to notifications, buuut now everything should be super smooth. 
+
+    Thanks for your patience and feedback! :)
+
+    And if you enjoy Tangerine, please consider leaving a review — that helps us a lot!
+
+    Until next time!
+Version 2.6.17 (Nov 7, 2020)
+    Here’s another round of bug fixes — you should no longer receive push notifications for habits that have been deleted.
+Version 2.6.14 (Oct 30, 2020)
+    We’ve fixed a bug that was affecting push notifications (duplicates; sent on the wrong day).
+
+    Stay tuned because new features and improvements are coming to Tangerine soon!
+
+    If you enjoy our app, please consider leaving a review :)
+Version 2.6.13 (Oct 8, 2020)
+    We fixed a bug that was preventing the delivery of some notifications
+Version 2.6.12 (Oct 5, 2020)
+    This update contains some improvements to make Tangerine more smooth and stable
+Version 2.6.11 (Oct 3, 2020)
+    In this version we've made the app more stable and improved (again!) our syncing feature, especially when it comes to habit completions.
+
+    As always, thanks a lot for using Tangerine! We're extremely humbled and excited by all the feedback we've been getting and we're working hard to make the app better and better, every single day. We're just getting started by the way, so stay tuned for more :)
+Version 2.6.10 (Oct 2, 2020)
+    We had a lot of users asking us how they could change the email they used to register on Tangerine. This update is our answer to that ;)
+Version 2.6.9 (Sep 25, 2020)
+    We fixed a bug that was affecting some of our users where the app would have difficulty synchronising the habit completions across 2 or more devices.
+Version 2.6.7 (Sep 23, 2020)
+    We have fixed a timezone issue that was affecting some of our users. A special thanks for all the users who reported this to us! You all rock!
+Version 2.6.8 (Sep 23, 2020)
+    On to another round of bug fixes! As always, we'd like to thank all the users that reported these bugs to us.
+Version 2.6.6 (Sep 22, 2020)
+    Ops! We made a silly mistake on our last release that was preventing some users from making habits as completed. Lesson learned: we should practice what we preach! Working late hours doesn't pay off!
+Version 2.6.4 (Sep 20, 2020)
+    Just a couple of improvement/fixes:
+
+    - Users will now be notified via Push Notification when we reply to support tickets.
+    - We fixed a crash that was happening specifically to iPad users when attempting to edit a journal entry or post a photo.
+Version 2.6.2 (Sep 18, 2020)
+    Hey, hey, hey, ready for some bug fixes?
+
+    - Some users pointed out that 2 of our widgets had the wrong text colour for the "all completed" message on light mode. Ooops, it looks like we like dark mode a bit too much. This has been addressed in this release.
+    - There was a very specific error that was crashing the app for users in Thailand with their devices set to use the Buddhist calendar. Sorry about that, Thailand. We love you!
+    - Last but not least, we addressed an issue that was making the journal entries time to shift relative to the user timezone whenever the app attempted to sync with the server for users that are signed in. Welp, dates and timezones are hard!
+Version 2.6.1 (Sep 17, 2020)
+    We found and fixed a tiny bug
+Version 2.6.0 (Sep 16, 2020)
+    Introducing the all new Widgets for iOS 14
+Version 2.5.0 (Sep 12, 2020)
+    We've identified and fixed a bug where some users might have a wrong streak count for some habits.
+Version 2.1.3 (Sep 9, 2020)
+    Another round of minor bug fixes ;)
+Version 2.1.2 (Sep 8, 2020)
+    We found some minor bugs and squashed them ;)
+Version 2.1.0 (Aug 30, 2020)
+    Welcome to our biggest update to date! Our goal with Tangerine is for it to be your guide to daily self-care, so we're adding a standalone journaling feature, which is completely integrated to your routine and mood tracker.
+
+    You can now see everything you write on Tangerine on a timeline, and that includes your habit notes and the things you write about your days when you track your mood. You can now also write down your thoughts as they pop-up or explore one of our guided journaling templates.
+
+    We hope you enjoy this update as much as we do! Our small team worked super hard to make this happen!
+
+    Last but not least: thanks a lot for all the feedback you all have been sending over the past few months! Feedback is vital to help us improve the app. Feel free to reach out to us at hi@bitdreams.co at any time!
+
+    Have fun! 
+Version 2.0.7 (Jul 11, 2020)
+    We've fixed a bug that was affecting some of our users when signing up using an email and password.
+Version 2.0.6 (Jul 9, 2020)
+    Performance improvement and enhanced stability.
+Version 2.0.5 (Jul 7, 2020)
+    We've fixed a bug that was preventing Tangerine from correctly syncronising its data with the Watch app.
+Version 2.0.4 (Jul 6, 2020)
+    We fixed a bug that was causing some users to have their notes duplicated.
+Version 2.0.3 (Jul 2, 2020)
+    There was a bug, we squashed the bug ;)
+Version 2.0.2 (Jun 22, 2020)
+    Bug fixes and performance improvements
+Version 2.0.1 (Jun 14, 2020)
+    We fixed a nasty bug that prevented some users from opening the app. Thanks everyone who provided feedback and brought this to our attention. You all rock and help us make Tangerine better one day at a time.
+
+    If you have any other feedback or questions, please feel free to email us at hi@bitdreams.co!
+Version 2.0.0 (Jun 12, 2020)
+    Hey, hey! We have a big announcement on this release after almost a couple of months of hard work!
+
+    Introducing user accounts: create an account to back up your data, sync it between multiple devices and save your progress to the cloud!
+
+    It's now possible to sync your data from your iPhone to your iPad and vice versa. And, yes, it's completely free.
+
+    Other than this, we've squashed quite a few bugs, improved the app performance and translated it to Japanese!
+
+    Stay tuned because our team is on fire! We'll be releasing a couple of pretty cool features in the coming weeks :)
+
+    Thanks so much for being a user. We're very humbled by all the kind words and feedback we've been getting.
+
+    Stay safe in this stressful and tough times. If you need any sort of support (or maybe you just want to chat), feel free to reach out to us at hi@bitdreams.co!
+
+    #StaySafe
+Version 1.5.2 (Mar 30, 2020)
+    Bug fixes and performance improvements.
+
+    Tell us what you think of Tangerine by leaving a review! :)
+Version 1.5.1 (Mar 8, 2020)
+    We've recently launched our Apple Watch app and now we added Complications to it! Enjoy!
+
+    Please tell us what you think of Tangerine by writing a review. This really helps and motivates our small and hardworking team :)
+Version 1.5.0 (Mar 1, 2020)
+    In today's update, we have a big announcement for you: our Apple Watch app is here! Enjoy marking your habits as complete from your wrist :)
+
+    Another exciting news for our friends in Asia: Tangerine is now available in Chinese and Vietnamese*! 你好! Xin chào!
+
+    * Special thanks to our user Long Thinh who helped us by translating our app to Vietnamese. We really appreciate the support!
+
+    Please tell us what you think of Tangerine by writing a review. This really helps and motivates our small and hardworking team :)
+
+    Do you have any feedback on Tangerine? Please send us an email: hi@bitdreams.co — we'd love to hear from you!
+Version 1.1.3 (Feb 22, 2020)
+    We fixed a bug where the habit creation UI would ignore the device preferences and always display Sunday as the first day of the week.
+Version 1.1.2 (Feb 21, 2020)
+    Bug fixes and performance tweaks. And we’re also on Twitter now! Follow us for cool and inspiring content and news on Tangerine: @TangerineHabit
+Version 1.0.6 (Feb 15, 2020)
+    Hey friends!
+
+    Based on your feedback, we've added "Health" as a category to choose from in the mood tracker's "what made this day good/bad" section. Thanks a lot for the feedback, everyone! You're all amazing!
+
+    If you have the time, please let us know what you think of Tangerine by leaving a review. This really helps us and makes it easier for more people to discover our app :)
+
+    Feel free to also reach out to us at hi@bitdreams.co at any time! We'd love to hear from you.
+Version 1.0.5 (Feb 5, 2020)
+    We've squashed a few bugs and improved the general performance of the app
+Version 1.0.4 (Feb 3, 2020)
+    Hey friends!
+
+    You asked for it and we acted on it! We've added three additional "feelings" to the mood tracker: excited, proud and disappointed.
+
+    If you have the time, please let us know what you think of Tangerine by leaving a review. This really helps us and makes it easier for more people to discover our app :)
+
+    Feel free to also reach out to us at hi@bitdreams.co at any time! We'd love to hear from you.
+Version 1.0.3 (Jan 31, 2020)
+    We have fixed a bug that prevented users who forced their devices to use the AM/PM hour format from viewing the completions to their habits.
+Version 1.0.2 (Jan 30, 2020)
+    Fixed some bugs, polished the UI, added some more awesomeness. 
+Version 1.0.1 (Jan 24, 2020)
+    Hey, hey!
+
+    We've listened to you and in this update we fixed some UI bugs on iPhones SE/6S/7/8!
+
+    If you have the time, please let us know what you think of Tangerine by leaving a review. This really helps us and makes it easier for more people to discover our app :)
+
+    Feel free to also reach out to us at hi@bitdreams.co at any time! We'd love to hear from you.
+Version 1.0 (Jan 18, 2020)
+
+Users may also like
+Select objects to compare
+Routines by Care/of
+stoic. journal & mental health
+Aloe Bud
+Rabit - Daily Routine Planner
+(Not Boring) Habits
+Alan Mind Daily Journal
+Habio - Daily Habit Tracker
+Moodnotes - Mood Tracker
+Rootd - Panic Attack Relief
+Reflectly - Journal & AI Diary
+IQ Classifications
+Genre: Health & Fitness
+Subgenre: Health Monitor
+Health Monitor
+Apps that monitor the user's vital medical signs or status of chronic diseases via connected devices.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+29 times
+on App Store homepage
+81 times
+on App Store category pages
+Versions
+
+    3.13.1
+    Current release
+    Dec 4, 2023
+    3.13.0
+    Nov 20, 2023
+    3.12.2
+    Dec 12, 2022
+    3.12.1
+    Dec 11, 2022
+    3.12.0
+    Sep 9, 2022
+    3.11.0
+    Sep 2, 2022
+    3.10.0
+    Jul 27, 2022
+    3.9.9
+    Jul 21, 2022
+    3.9.8
+    Jun 29, 2022
+    3.9.6
+    Jun 22, 2022
+    3.9.5
+    Jun 19, 2022
+    3.9.3
+    Jun 18, 2022
+    3.9.4
+    Jun 18, 2022
+    3.9.2
+    Jun 17, 2022
+    3.9.0
+    Jun 15, 2022
+    3.8.2
+    Mar 22, 2022
+    3.8.1
+    Mar 15, 2022
+    3.8.0
+    Mar 14, 2022
+    3.7.4
+    Oct 27, 2021
+    3.7.2
+    Sep 28, 2021
+    3.7.1
+    Sep 20, 2021
+    3.7.0
+    Sep 17, 2021
+    3.6.7
+    Sep 14, 2021
+    3.6.6
+    Sep 12, 2021
+    3.6.5
+    Sep 5, 2021
+    3.6.3
+    Aug 27, 2021
+    3.6.2
+    Aug 19, 2021
+    3.6.1
+    Jul 20, 2021
+    3.6.0
+    Jul 17, 2021
+    3.5.7
+    Jul 10, 2021
+    3.5.1
+    Jun 25, 2021
+    3.1.7
+    Jun 6, 2021
+    3.1.6
+    May 24, 2021
+    3.1.5
+    May 23, 2021
+    3.1.4
+    May 22, 2021
+    3.1.3
+    May 2, 2021
+    3.1.1
+    Apr 14, 2021
+    3.1.2
+    Apr 14, 2021
+    3.1.0
+    Apr 12, 2021
+    3.0.2
+    Feb 22, 2021
+    3.0.0
+    Feb 15, 2021
+    2.7.1
+    Jan 4, 2021
+    2.7.0
+    Jan 2, 2021
+    2.6.18
+    Nov 10, 2020
+    2.6.17
+    Nov 7, 2020
+    2.6.14
+    Oct 30, 2020
+    2.6.13
+    Oct 8, 2020
+    2.6.12
+    Oct 5, 2020
+    2.6.11
+    Oct 3, 2020
+    2.6.10
+    Oct 2, 2020
+    2.6.9
+    Sep 25, 2020
+    2.6.7
+    Sep 23, 2020
+    2.6.8
+    Sep 23, 2020
+    2.6.6
+    Sep 22, 2020
+    2.6.4
+    Sep 20, 2020
+    2.6.2
+    Sep 18, 2020
+    2.6.1
+    Sep 17, 2020
+    2.6.0
+    Sep 16, 2020
+    2.5.0
+    Sep 12, 2020
+    2.1.3
+    Sep 9, 2020
+    2.1.2
+    Sep 8, 2020
+    2.1.0
+    Aug 30, 2020
+    2.0.7
+    Jul 11, 2020
+    2.0.6
+    Jul 9, 2020
+    2.0.5
+    Jul 7, 2020
+    2.0.4
+    Jul 6, 2020
+    2.0.3
+    Jul 2, 2020
+    2.0.2
+    Jun 22, 2020
+    2.0.1
+    Jun 14, 2020
+    2.0.0
+    Jun 12, 2020
+    1.5.2
+    Mar 30, 2020
+    1.5.1
+    Mar 8, 2020
+    1.5.0
+    Mar 1, 2020
+    1.1.3
+    Feb 22, 2020
+    1.1.2
+    Feb 21, 2020
+    1.0.6
+    Feb 15, 2020
+    1.0.5
+    Feb 5, 2020
+    1.0.4
+    Feb 3, 2020
+    1.0.3
+    Jan 31, 2020
+    1.0.2
+    Jan 30, 2020
+    1.0.1
+    Jan 24, 2020
+    1.0
+    Jan 18, 2020
+
+See More
+Top In-App Purchases
+
+    Tangerine Premium annual
+    $29.99
+    Tangerine Premium monthly
+    $4.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    Jan 18, 2020
+
+Worldwide Release Date
+    Jan 18, 2020
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    3.13.1
+
+Size
+    87.03 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Japanese, Portuguese, Simplified Chinese, Spanish, Vietnamese
+
+Seller
+    Bitdreams OU
+
+Company HQ
+    Brazil
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 and watchOS 6.1 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    co.bitdreams.Tangerine
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Mar 2, 2020)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1468882685
+Unified App ID: 1000600000815301
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Tangerine: Self-care & Goals | data.ai

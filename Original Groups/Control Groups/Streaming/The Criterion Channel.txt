@@ -1,0 +1,473 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+The Criterion Channel
+The Criterion CollectionEntertainment (Applications)Free
+Alerts
+
+The Criterion Channel
+The Criterion Channel
+The Criterion Channel
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+The Criterion Channel
+Watch classic movies and more
+Entertainment (Applications)
+Free
+App Description
+A movie lover’s dream, the Criterion Channel offers classics and discoveries from around the world, thematically programmed with special features, on a streaming service brought to you by the Criterion Collection.
+
+With constantly refreshed selections of Hollywood, international, art-house, and independent movies, plus access to Criterion’s entire streaming library of more than 1,000 important classic and contemporary films, there’s something new to choose from every day of the week on the Criterion Channel. Start with Sunday Spotlights on directors, stars, genres, and themes; Tuesday’s Short + Feature; or the Friday double bill. Try out our 15-minute-a-month film school, Observations on Film Art, or choose from suggestions by friends like Barry Jenkins, Guillermo del Toro, or Mira Nair. Go deep with the Criterion Collection’s archive of special features for context that no other service can match.
+
+FEATURES
+
+- The Criterion Collection’s streaming library, including many complete editions released on Blu-ray and DVD, as well as unreleased titles
+- Ongoing programs of Hollywood, international, art-house, independent, documentary, and short films, including thematic programming, director and star retrospectives, and guest-curated series
+- Original Criterion Channel series such as Observations on Film Art, Adventures in Moviegoing, and Art-House America
+- Supplemental features to deepen your appreciation of the art of film, including audio commentaries, behind-the-scenes footage, scholarly analyses, introductions, new and archival interviews, and trailers
+
+To access all features and content you can subscribe to The Criterion Channel on a monthly or yearly basis with an auto-renewing subscription right inside the app.* Pricing can vary by region and will be confirmed before purchase in the app. In app subscriptions will automatically renew at the end of their cycle.
+
+* All payments will be paid through your iTunes Account and may be managed under Account Settings after the initial payment. Subscription payments will automatically renew unless deactivated at least 24-hours before the end of the current cycle. Your account will be charged for renewal at least 24-hours prior to the end of the current cycle. Any unused portion of your free trial will be forfeited upon payment. Cancellations are incurred by disabling auto-renewal.
+
+Terms of Service: https://www.criterionchannel.com/tos
+Privacy Policy: https://www.criterionchannel.com/privacy
+Ratings
+Displayed Avg Ratings
+4.79
+Total Displayed Ratings
+11.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.500.1 (Feb 12, 2024)
+    * Bug fixes
+    * Performance improvements
+Version 8.402.1 (Oct 24, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.401.1 (Oct 11, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.321.1 (Aug 22, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.320.1 (Aug 12, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.302.1 (Jul 25, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.301.1 (Jul 19, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.200.1 (Apr 17, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.102.1 (Mar 23, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.101.1 (Feb 17, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.010.1 (Jan 20, 2023)
+    * Bug fixes
+    * Performance improvements
+Version 8.000.1 (Dec 7, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.800.1 (Nov 3, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.702.1 (Sep 28, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.700.1 (Sep 14, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.610.1 (Jun 27, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.601.1 (Jun 1, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.502.1 (May 24, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.501.1 (Apr 25, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.303.1 (Mar 29, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.300.1 (Jan 24, 2022)
+    * Bug fixes
+    * Performance improvements
+Version 7.204.1 (Oct 26, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 7.202.1 (Sep 18, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 7.201.1 (Sep 10, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 7.200.1 (Aug 20, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 7.001.1 (Jun 15, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 6.300.2 (Apr 3, 2021)
+    - Metadata update
+Version 6.300.1 (Mar 10, 2021)
+    * Bug fixes
+    * Performance improvements
+Version 6.120.3 (Jan 25, 2021)
+    - Feature enhancements and bug fixes
+Version 6.120.2 (Jan 7, 2021)
+    - Bug fixes and stability improvements
+Version 6.120.1 (Jan 6, 2021)
+    - Bug fixes and stability improvements
+Version 6.110.1 (Dec 17, 2020)
+    - Bug fixes and stability improvements
+Version 6.100.1 (Dec 8, 2020)
+    - Added support for certain content displays
+    - Fixed an issue affecting DRM playback over AirPlay
+    - Feature enhancements and bug fixes
+Version 6.020.1 (Oct 12, 2020)
+    Optimized for iOS 14 support
+    Download manager optimizations
+    Chromecast iOS 14 usability improvements
+    Please ensure you have enabled Local Network permissions in your system settings if you do not see your Chromecast device on the network
+Version 5.901.1 (Jul 26, 2020)
+    - Improvements to analytics
+    - Fixed an issue affecting background audio for some users
+    - Fixed an issue affecting closed caption for some users
+    - Feature enhancements and bug fixes
+Version 5.800.1 (May 27, 2020)
+    - Optimizations for content-loading
+    - Improvements to error messaging
+    - Fixes for Chromecast streaming for certain users
+    - Bug fixes and stability improvements
+Version 5.701.1 (Apr 29, 2020)
+    - Addresses an issue that was affecting downloads for offline on iOS 11 and 12
+    - Fixes some intermittent issues with subtitles
+    - Fixes deep-linking to specific videos
+    - Performance improvements
+Version 5.700.1 (Apr 21, 2020)
+    Performance enhancements and stability improvements
+Version 5.610 (Mar 9, 2020)
+    Accessibility improvements to voice control
+    Stability improvements and bug fixes
+Version 5.501 (Feb 14, 2020)
+    Support for Spanish, German, French, and Portuguese user interfaces
+    Improvements to continuous playback
+    Improved metadata on videos
+    Increased character support while searching
+    Stability improvements
+Version 5.302.2 (Jan 30, 2020)
+    Performance improvements
+Version 5.302 (Nov 15, 2019)
+    Stability improvements and bug fixes
+Version 5.300 (Oct 31, 2019)
+    Improvements to Extras
+    Improvements to My List
+    UX enhancements to video player
+    Stability improvements and bug fixes
+Version 5.200 (Sep 9, 2019)
+    Enhanced subtitle support
+    Subtitle preference setting now persists across all videos
+    Enhanced support request functionality
+    Fixed a bug with Extras not displaying properly
+    Fixed a bug that left locks on screen on some videos after signing up
+Version 5.100 (Aug 15, 2019)
+    - UX enhancements and stability improvements
+    - Improved contact form
+    - Optimizations for offline downloaded videos
+Version 4.951 (Jun 29, 2019)
+    Performance enhancements and stability improvements
+Version 4.950 (Jun 28, 2019)
+    Updates to sign-up flow
+    Performance enhancements and stability improvements
+Version 4.943 (Jun 4, 2019)
+    Performance enhancements and stability improvements
+Version 4.942 (May 25, 2019)
+    Performance enhancements and stability improvements
+Version 4.941 (May 9, 2019)
+    This release includes:
+    • Chromecast support (some limitations may still apply depending on your device)
+    • Airplay adjustments
+    • Improved download manager & offline sync
+    • UX improvements
+Version 4.920.3 (Apr 9, 2019)
+    Updated branding.
+
+Users may also like
+Select objects to compare
+MUBI: Stream Great Cinema
+WATCH TCM
+Kanopy
+Sundance Now: Series & Films
+BritBox: The Best British TV
+Classix
+Smithsonian Channel
+Shudder: Horror & Thrillers
+CuriosityStream
+Acorn TV: Watch British Series
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    8.500.1
+    Current release
+    Feb 12, 2024
+    8.402.1
+    Oct 24, 2023
+    8.401.1
+    Oct 11, 2023
+    8.321.1
+    Aug 22, 2023
+    8.320.1
+    Aug 12, 2023
+    8.302.1
+    Jul 25, 2023
+    8.301.1
+    Jul 19, 2023
+    8.200.1
+    Apr 17, 2023
+    8.102.1
+    Mar 23, 2023
+    8.101.1
+    Feb 17, 2023
+    8.010.1
+    Jan 20, 2023
+    8.000.1
+    Dec 7, 2022
+    7.800.1
+    Nov 3, 2022
+    7.702.1
+    Sep 28, 2022
+    7.700.1
+    Sep 14, 2022
+    7.610.1
+    Jun 27, 2022
+    7.601.1
+    Jun 1, 2022
+    7.502.1
+    May 24, 2022
+    7.501.1
+    Apr 25, 2022
+    7.303.1
+    Mar 29, 2022
+    7.300.1
+    Jan 24, 2022
+    7.204.1
+    Oct 26, 2021
+    7.202.1
+    Sep 18, 2021
+    7.201.1
+    Sep 10, 2021
+    7.200.1
+    Aug 20, 2021
+    7.001.1
+    Jun 15, 2021
+    6.300.2
+    Apr 3, 2021
+    6.300.1
+    Mar 10, 2021
+    6.120.3
+    Jan 25, 2021
+    6.120.2
+    Jan 7, 2021
+    6.120.1
+    Jan 6, 2021
+    6.110.1
+    Dec 17, 2020
+    6.100.1
+    Dec 8, 2020
+    6.020.1
+    Oct 12, 2020
+    5.901.1
+    Jul 26, 2020
+    5.800.1
+    May 27, 2020
+    5.701.1
+    Apr 29, 2020
+    5.700.1
+    Apr 21, 2020
+    5.610
+    Mar 9, 2020
+    5.501
+    Feb 14, 2020
+    5.302.2
+    Jan 30, 2020
+    5.302
+    Nov 15, 2019
+    5.300
+    Oct 31, 2019
+    5.200
+    Sep 9, 2019
+    5.100
+    Aug 15, 2019
+    4.951
+    Jun 29, 2019
+    4.950
+    Jun 28, 2019
+    4.943
+    Jun 4, 2019
+    4.942
+    May 25, 2019
+    4.941
+    May 9, 2019
+    4.920.3
+    Apr 9, 2019
+
+See More
+Top In-App Purchases
+
+    Criterion Channel Subscription
+    $10.99
+    Criterion Channel Subscription
+    $99.99
+
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Apr 8, 2019
+
+Worldwide Release Date
+    Apr 8, 2019
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    8.500.1
+
+Size
+    71.22 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    The Criterion Collection, Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.criterionchannel
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1454275199
+Unified App ID: 1000600000777853
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+The Criterion Channel | data.ai

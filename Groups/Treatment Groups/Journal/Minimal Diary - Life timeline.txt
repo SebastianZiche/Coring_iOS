@@ -1,0 +1,423 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Minimal Diary - Life timeline
+树道 王Lifestyle (Applications)Free
+Alerts
+
+    树道 王
+
+    Minimal Diary - Life timeline
+    Minimal Diary - Life timeline
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Minimal Diary - Life timeline
+Lifestyle (Applications)
+Free
+iPhone Only
+App Description
+Minimal Diary is an app that allows you to easily and quickly record the present and review the past.
+
+Inspired by "Daybreak Diary", "Nine Square Diary" and "Bullet Journal”, we have incorporated the idea that "every moment in life is worth recording" into Minimal Diary, which allows you to record every interesting things that happens at present, such as good songs, unforgettable movies, delicious food, and general living.
+
+Even the simplest life log is a unique biography of you.
+
+Features:
+[Timeline]
+Clearly show what happened in a day according to the chronological order of the day.
+
+[Tags]
+The process of travel, the latest TV series watched, the book excerpts done by reading, the daily time of falling asleep, each time the fitness record ...... All a series of moments can be tagged, and then by clicking on the tags you can filter out this series of memories and see your experiences and changes at a glance.
+
+[Switch Dates]
+The button at the bottom not only allows you to add diary entries, but dragging it also allows you to quickly switch dates for easy time travel.
+
+We hope you like the diary and enjoy the app. For any questions and suggestions, please contact minimal.software.studio@gmail.com.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.7.15 (Feb 8, 2024)
+    Fix crashes
+
+    Optimize editing
+
+    Optimize importing
+Version 1.7.14 (Dec 30, 2023)
+    Fix bugs and crashes
+Version 1.7.13 (Dec 3, 2023)
+    Fix crashes
+    Optimize editing
+Version 1.7.11 (Oct 6, 2023)
+    Redesign random memories
+    Boost loading images
+    Optimize zooming images
+Version 1.7.10 (Sep 14, 2023)
+    Add StandBy Widgets for iOS 17
+    Add Lock Screen Widgets for iPadOS 17
+    Add tips for iOS 17
+Version 1.7.8 (Aug 19, 2023)
+    Optimization: Sound and haptic feedback.
+    Fix: Widget not displaying images.
+Version 1.7.7 (Aug 1, 2023)
+    Optimization: Show the complete list of all tags when selecting tags.
+    Fix: Corrected timeline misalignment in shared images.
+    Fix: Draft still appears after saving the entry.
+Version 1.7.6 (Jul 24, 2023)
+    Added: Draft feature
+    Optimized: Import/Export
+    Fixed: Sharing images
+Version 1.7.5 (May 4, 2023)
+    1. Fix the bug that some buttons cannot be tapped.
+    2. Fix the bug that cannot add WeChat pictures.
+    3. Fix the bug of the date in the "Past Today" widget.
+Version 1.7.4 (Apr 5, 2023)
+    Fix: Past today's judgment and some button styles.
+Version 1.7.3 (Mar 7, 2023)
+    Fixed: Some bugs and crashes
+    Optimized: Several UI and copywriting
+Version 1.7.2 (Jan 13, 2023)
+    New: Localizations for traditional Chinese
+    New: Show images in calendar(need to be enabled in settings)
+    Optimize: Calendar
+    Fix: Crash on some device models
+    Note: If you find that there are duplicate images in some entries, try deleting all of the duplicate images in the entry, and then re-enter the app.
+Version 1.7.1 (Jan 7, 2023)
+    Fix: share image
+    Fix: entry image size
+    Fix: keyboard doesn't show up in iOS 15
+    Fix: Today Widget color scheme
+    Note: If you find that there are duplicate images in some entries, try deleting all of the duplicate images in the entry, and then re-enter the app.
+Version 1.7.0 (Dec 31, 2022)
+    New: Entry can add multiple images
+    Fix: many bugs
+Version 1.7.0 (Dec 31, 2022)
+    New: Entry can add multiple images
+    Fix: many bugs
+Version 1.6.3 (Oct 31, 2022)
+    Fix loading pro products
+Version 1.6.2 (Oct 12, 2022)
+    Fix bugs in calendar, share view, icons of settings and creating new tag
+Version 1.6.1 (Oct 1, 2022)
+    Fix: share and preview for single entry
+    Fix: draft is not cleared after saving entry
+Version 1.6.0 (Sep 11, 2022)
+    Add: Lock Screen Widgets for iOS 16
+Version 1.5.11 (Jul 28, 2022)
+    Added: export data by date range
+    Improved: date picker and tag selector
+    Improved: speech input experience
+    Fixed: import data error
+Version 1.5.10 (Jul 21, 2022)
+    fix theme bug
+Version 1.5.9 (Jul 20, 2022)
+    fix bugs and improve user experience 
+Version 1.5.8 (Jul 17, 2022)
+    New: Long press for speech input
+    Update: Redesigned sharing page
+    Optimization: UX and texts
+Version 1.5.7 (May 15, 2022)
+    Add: import and export
+    Add: Today widget
+    Fix: operations of tags
+Version 1.5.6 (Apr 22, 2022)
+    Add: show the entry details after tapping in widgets
+    Add: switch for using photo time when editing entry
+    Fix: calendar height on some devices
+Version 1.5.5 (Apr 17, 2022)
+    Add sharing to random memory
+    Redesign calendar view
+    Fix updating custom mood
+Version 1.5.4 (Apr 10, 2022)
+    Support custom mood
+    Redesign the editor
+    Redesign the settings
+    Add options for text, image and timeline
+    Add zoom to image preview
+    Many UI optimizations
+Version 1.5.2 (Feb 14, 2022)
+    fix crash in Guide Tips
+Version 1.5.1 (Feb 6, 2022)
+    add: support for ProMotion display
+    fix: crash on iOS 14
+Version 1.5 (Jan 30, 2022)
+    add: shake to show random memory
+    add: lab feature, open editor when app enters foreground
+    add: set entry time to the date and time of the photo automatically
+    add: merge tags
+    add: option for removing the QR code in share image
+    refactor: pages of editor, onboarding and pro
+Version 1.4 (Jan 9, 2022)
+    Add: Search entries by tag
+    Add: Merge duplicated tags
+    Add: Filter search results by dates
+Version 1.3.3 (Dec 18, 2021)
+    Add: Guide tips
+    Fix: Wrong tip when saving image
+    Fix: Saving and deleting tags
+Version 1.3.2 (Nov 20, 2021)
+    - Redesign the entry editor
+    - Add keyboard toolbar in editor
+    - Add detecting and deleting duplicated data
+    - Many optimizations and bug fixes
+Version 1.3.1 (Nov 5, 2021)
+    Add: Data Recovery
+    Add: Refreshing Widgets in the settings
+    Fix: bugs in iCloud sync and Widgets
+Version 1.3 (Oct 28, 2021)
+    - Add two Widgets: Random Memory and Past Today
+    - Fix many bugs
+Version 1.2.1 (Oct 3, 2021)
+    - Add FAQ in settings
+    - Optimize swipe actions and lists for iOS 15
+    - Optimize adding images
+    - Fix many bugs
+Version 1.2.0 (Aug 26, 2021)
+    add: new calendar
+    add: share image of entries in tag filter 
+Version 1.1.1 (Aug 8, 2021)
+    Fix menu items below iOS 14.4
+Version 1.0.2 (Jul 16, 2021)
+    fix bugs and crash
+Version 1.0.1 (Jul 6, 2021)
+    Add case insensitive to search
+
+Users may also like
+Select objects to compare
+Lifelog Note
+Lifelight - AI Journal & Note
+一本日记-纯粹的日记本
+Rond: Life Mapper
+清奇日记-纯粹的日记本·笔记本
+mooding - Mood Diary
+物品指南 - 关于生活的备忘录
+Moonhill
+TimeEcho-Your focus Journal
+HidingCat - ScreenTime Control
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    1.7.15
+    Current release
+    Feb 8, 2024
+    1.7.14
+    Dec 30, 2023
+    1.7.13
+    Dec 3, 2023
+    1.7.11
+    Oct 6, 2023
+    1.7.10
+    Sep 14, 2023
+    1.7.8
+    Aug 19, 2023
+    1.7.7
+    Aug 1, 2023
+    1.7.6
+    Jul 24, 2023
+    1.7.5
+    May 4, 2023
+    1.7.4
+    Apr 5, 2023
+    1.7.3
+    Mar 7, 2023
+    1.7.2
+    Jan 13, 2023
+    1.7.1
+    Jan 7, 2023
+    1.7.0
+    Dec 31, 2022
+    1.7.0
+    Dec 31, 2022
+    1.6.3
+    Oct 31, 2022
+    1.6.2
+    Oct 12, 2022
+    1.6.1
+    Oct 1, 2022
+    1.6.0
+    Sep 11, 2022
+    1.5.11
+    Jul 28, 2022
+    1.5.10
+    Jul 21, 2022
+    1.5.9
+    Jul 20, 2022
+    1.5.8
+    Jul 17, 2022
+    1.5.7
+    May 15, 2022
+    1.5.6
+    Apr 22, 2022
+    1.5.5
+    Apr 17, 2022
+    1.5.4
+    Apr 10, 2022
+    1.5.2
+    Feb 14, 2022
+    1.5.1
+    Feb 6, 2022
+    1.5
+    Jan 30, 2022
+    1.4
+    Jan 9, 2022
+    1.3.3
+    Dec 18, 2021
+    1.3.2
+    Nov 20, 2021
+    1.3.1
+    Nov 5, 2021
+    1.3
+    Oct 28, 2021
+    1.2.1
+    Oct 3, 2021
+    1.2.0
+    Aug 26, 2021
+    1.1.1
+    Aug 8, 2021
+    1.0.2
+    Jul 16, 2021
+    1.0.1
+    Jul 6, 2021
+
+See More
+Top In-App Purchases
+
+    Pro Monthly
+    $0.99
+    Pro Yearly
+    $8.99
+    Pro Lifetime
+    $13.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Jul 7, 2021
+
+Worldwide Release Date
+    Jul 7, 2021
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    1.7.15
+
+Size
+    19.66 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Chinês simplificado, Chinês tradicional, Inglês
+
+Seller
+    树道 王
+
+Content Rating
+    Rated +4
+
+Family Sharing
+    Yes
+
+Requirement
+    Requer o iOS 15.0 ou posterior. Compatível com iPhone, iPad e iPod touch.
+
+Bundle ID
+    com.mad.MinimalDiary
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1568936702
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Minimal Diary - Life timeline | data.ai

@@ -1,0 +1,791 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Routespunkt Hiking Grid Diary
+Sudipto PaulTravel (Applications)Free
+Alerts
+
+    Sudipto Paul
+
+    Routespunkt Hiking Grid Diary
+    Routespunkt Hiking Grid Diary
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Routespunkt Hiking Grid Diary
+Pic frames montage, Scrapbook
+Travel (Applications)
+Free
+iPhone Only
+App Promotional Text
+A no-obligation free-trial is available for you to try the app.
+App Description
+Routespunkt Hiking Grid Diary is a Travel Journal, and a single-trip Camping Gear Planner and Tracker.
+Take the app to your weekend backpacking trip, or months of thru hiking.
+
+This app has following features:
+
+a) Illustration (Moments Canvas, Intelligent Shapes Canvas) [https://routespunkt.app/illustration-features] -
+Moments Canvas: Toggle ON the Dot grid to plan your trip days with freehand spreads. Write a mini Story of your travel adventures. Sketch fav moments to give an artist’s account of your adventure trip. Add bordered pics and map snaps and make a Collage. Add Captions. Use the Ruler to draw City landscape.
+
+Intelligent Shapes Canvas: Handover content from Moments Canvas, as a background in this one. Draw arrows across map snaps, to show your places of visit. Get smooth strokes when you draw and pause. Add Callout outlines. Draw a fab star on a night sky background. Copy, paste and rearrange, to get a starlit night sky.
+
+b) Photo filters [https://www.routespunkt.app/photo-filters] -
+Take a pic at your fav View point.
+Preview and apply filters.
+
+c) Camping Gear Planner and Tracker [https://routespunkt.app/camping-supplies-planner-features] -
+List the Camping Supplies required during your trip.
+
+d) Map Snaps [https://www.routespunkt.app/maps-features] -
+Search for a Place of Interest (POI).
+Take a snapshot of your Region of visit, for your travel log / blog.
+Tap a POI pin and add it as a place to visit in your adventure trip; add multiple such places to visit.
+On a trip leg, handover the next POI to your device's original map app for Navigation.
+
+e) Group Chat [https://www.routespunkt.app/group-chat-features] -
+Launch your device's original messaging app with up to 20 of your contacts pre-loaded.
+
+Be lost in the wilderness for days on end.
+Come back and narrate your stories.
+Make a traveler's journal to relive the fun and adventure moments, way down memory lane!
+
+
+App tour ::
+--
+[https://routespunkt.app/app-tour]
+
+
+Hiking inspo ::
+--
+[https://in.pinterest.com/routespunkt]
+
+
+Leisurely Read ::
+--
+[https://flipboard.com/@Routespunkt/]
+
+
+Features vs. Subscription Levels ::
+--
+[https://www.routespunkt.app/#comp-lb7f7yhz]
+
+
+Please Note:
+---
+Internet connectivity is required to view Maps data.
+Once the Waypoints have been added, Camping Supplies can be tracked offline.
+
+This is a Subscription based App (with a subset of features available in the free base version of the App):
+a) Subscription will automatically renew unless canceled atleast 24-hours before the end of the current trial/subscription period
+b) You can cancel anytime with your iTunes account settings
+c) Any unused portion of trial duration (introductory offer) will be forfeited when you purchase a subscription
+
+Do read the Policies of the App and the related Website:
+i) Terms of Use [https://routespunkt.app/terms-of-use], and
+ii) Privacy Policy [https://routespunkt.app/privacy-policy]
+
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 9.1.0 (Dec 5, 2023)
+    Updates:
+    1. Re-arranged and/or renamed Camping Supply Categories in Create Supply Page
+    2. Edge Work Filter removed from Photo Filters
+
+    Performance:
+    1. Optimized an object's memory usage in Moments Canvas page
+
+    Fixes:
+    1. Fixed crash when going from Canvas Page to Illustrate Page, when app goes to background
+    2. Fixed crash when trying to create / edit a supply, with alphanumeric value populated to number based text fields, in Create / Edit Supply Page
+Version 9.0.1 (Nov 2, 2023)
+    App made compatible to iOS 17, for:
+    1. Widgets
+    2. Calendar Events
+
+    iOS 17 specific new ink types are now available in Canvas, with iOS 17.1:
+    a) Watercolor
+    b) Fountain Pen
+    c) Crayon
+    d) Monoline
+
+    Bug Fixes:
+    1. Fixed thumbnail image mismatch of filtered Article
+    2. Fixed active article focus highlight when switching to filtered state and back
+    3. Fixed Delete button's position on bordered Floating Image Pane
+Version 9.0.0 (Sep 15, 2023)
+    New:
+    1. Map feature is redone
+    2. Two widgets that show a summary view of your trek's Camping Supplies
+    3. Take a snap at your fav view point, and apply a photo filter to it
+
+    Fix:
+    1. Camping Supplies Page: Deletion of Camping Supplies, when the table is filtered
+
+    Updates:
+    1. Camping Supplies Page: Show 'Returned' status only for Rented Supplies
+    2. Contacts Group Settings Page: Migration-window is now closed for legacy Contacts and related UI fields have been removed
+Version 8.2.3 (Mar 10, 2023)
+    New:
+    1. Added entries to list of Camping Supplies Categories
+
+    Updates:
+    1. Background color modified for a few text fields
+    2. Font color modified for a few text fields
+
+    Fix:
+    1. Supposing app session is on for some days, and the subscription expired. Subscribing (with L2 plan) and returning back to Home Page, in such cases, kept the Filter buttons panel hidden. App relaunch used to be required to view the buttons
+    2. Creating a new Article file, editing it by launching Moments Canvas from Article File Page, then returning back to Illustrate page would show 2 articles selected
+
+    Regressions Fix:
+    1. A crash in offline mode, when visiting Active Subscription Page from Home Page
+    2. A crash when updating availability status of Camping Supply on Camping Supplies page
+Version 8.2.2 (Feb 27, 2023)
+    New:
+    1. Added entries to Camping Supply Categories list in Create Supply Page
+
+    Update:
+    1. UI changes to Subscription Page. A compact layout for iPad
+
+    Fix:
+    1. Pencil interaction was lost on Floating Text pane, after modifying Text Color
+    2. Sometimes scrolling the Subscription Plan options during page load would lead to a crash
+Version 8.2.1 (Feb 8, 2023)
+    New:
+    1. Real-time update to Width and Height metrics, when resizing a floating text pane (using any of the 4 resize handles), on Moments Canvas
+
+
+    Update:
+    UI changes in Moments Canvas -
+    a) Background color of Metrics bar (iPad)
+    b) Delete icon on Floating pane
+
+
+    Fix:
+    Moments Canvas -
+    1.1 Fixed duplicate instance creation of floating panes, when returning back from Canvas Settings Page, or PDF Canvas
+    1.2. Default value settings for border width, corner radius modified to zero, for both types of floating panes
+    1.3. External border instead of internal one, for both types of floating panes
+    1.4. Downscaling locked for floating text pane. (To have a smaller size textbox, double tap to resize, and use a smaller font size)
+
+    Settings Page -
+    2.1. Removed Alerts for API Key, to access
+    a) Contacts Group Settings
+    b) Route Settings (accessing this does require an L2 subscription)
+
+Version 8.2.0 (Feb 1, 2023)
+    New:
+    ---
+    Add instances of the same gear -
+    to various applicable locations,
+    OR,
+    to same location, at different points in time on the same day
+
+
+    Fix:
+    ---
+    Fixed a crash on Subscription page - related to display of selectable subscription plans, upon revisiting this page
+Version 8.1.0 (Jan 24, 2023)
+    New:
+    1. App Author owned TomTom Maps API Key: now using Maps in the app is easier - install, subscribe and you're set!
+    2. Edit Camping Supply: Edit an already added Camping Supply (identified by Supply Name and Category)
+    3. Added entry to Supply Availability Type: Prepare at location
+    4. Added entries to Supply Category: Snow sports gear, Biking gear
+    5. Search Articles: Use Search term to fetch articles having matching floating text panes' content, from various folders in the app
+
+    Fix:
+    1. Relative Price discount: Label of Subscription plans fixed so that it will appear for the Quarterly Plan
+    2. Article File thumbnail: Appearance fixed to reflect changes immediately upon moving back from Moments Canvas to Illustrate Page
+
+    Updates:
+    1. UI changes on a few app pages
+Version 8.0.0 (Dec 28, 2022)
+    New:
+    1. Show thumbnail for Moments Canvas Article files - to generate thumbnail for existing Article file, open it in Moments Canvas, wait a few seconds, then go back to Illustrate Page
+    2. Vertical scroll region added to Article Title area on thumbnails - activates for very long file names
+    3. Delete Article feature added for - Moments Canvas and Intelligent Shapes Canvas - Article files
+
+    Updates:
+    Other minor UI changes
+
+    Fix:
+    App Launch fixed
+Version 7.3.0 (Dec 10, 2022)
+    Updates:
+    1. GUI changes
+
+    Fixes:
+    1. Fixed: Selecting a different month than current in Home Page Calendar view, moving to another page, then returning back - was populating Article and Event counts from current month
+    2. Fixed: Very long decimals in Price Comparo Chart
+Version 7.2.1 (Nov 13, 2022)
+    Fixes:
+    1. Fixed Color theme for buttons on Camping Supplies Summary Page
+    2. Fixed Start and End Points displayed on Start End Points Page - when these were updated on a different device
+Version 7.2.0 (Nov 6, 2022)
+    New:
+    1. Added snapshot capability to Camping Supplies Summary Charts
+
+    Updates:
+    1. Implemented save op to a few more instances of when the Canvas goes to background
+Version 7.1.0 (Oct 31, 2022)
+    New:
+    1. Added tool button panel to Floating Image Pane on Moments Canvas
+
+    Update:
+    1. Calendar, without filters, is now available on Home Page, in the absence of any subscription
+    2. [Paste to Background] and [Blur Background filter] are now available to all subscribed users
+    3. [Filter Articles] on Calendar in Home Page is now available to all subscribed users
+    4. [Filter Camping Supplies] on Calendar in Home Page is now available to L2 subscribed users
+
+    Fix:
+    1. Floating Text Pane on Moments Canvas fixed to have uniform text color
+    2. Fixed intermittent appearance of buttons around Floating Text Pane, without the panels of tool buttons, on rapid successive taps
+Version 7.0.0 (Oct 24, 2022)
+    New:
+    1. Grey scale filter for Canvas Background image, to enable outline tracing practice - requires L1 subscription
+    2. Animations in Calendar View on Home Page - requires L2 subscription
+    3. Button shrink effect animation on tap
+    4. Access to Group Chat from Moments Canvas
+    5. New Satellite map available as a map style - requires L2 subscription
+
+    Updates:
+    1. Accessing Maps features now requires L2 subscription
+    2. Updated Blue-color map - requires L2 subscription
+    3. Default Position Search Radius set to 600 km
+    4. Contacts Groups will now be saved to Cloud Drive
+    5. Updated Route Start and End Points persistence, from local device to Cloud drive
+    6. Access to Camping Supplies tab will now check for L2 subscription
+    7. Camping Supplies Summary: Implemented dynamic scales for Y-Axis of [Price Comparo] and [Availability Status of Supplies] charts - requires L2 subscription
+    8. Moved tool buttons on Floating Text Pane to tool button panels
+    9. Several minor UI tweaks
+Version 6.0.01 (Aug 15, 2022)
+    New:
+    1. New StoreKit 2 based Subscription implementation
+    2. New entries - Power bank, Trail map, Wireless/Satellite Internet - as Camping Supplies categories
+    3. Internet connectivity checking made less intrusive when offline
+    4. New icon to indicate current active subscription
+    5. Several UI tweaks
+
+    Fix:
+    1. Cleared Filter was re-applied after: moving away from Camping Supplies Page and returning back
+Version 5.3.03 (Jul 11, 2022)
+    Drawing Policy of Moments Canvas updated to effect toggling of - drawing using finger on iPad
+Version 5.3.02 (Jul 7, 2022)
+    Updates:
+    1. Subscription Page: email id of app author updated
+    2. Links to [Terms of use] and [Privacy Policy] updated in app
+Version 5.3.01 (Jun 23, 2022)
+    New:
+    1. Added 3 modes of travel - Bus, Van, Motor Cycle
+    2. Added 2 App Launch Shortcuts - Edit Active Drawing, View Camping Supplies
+
+    Fix:
+    1. Icon Descriptors on Home Page: Fixed radius of previous month/next month icon descriptor buttons
+Version 5.2.01 (Jun 7, 2022)
+    New:
+    1. Approximate Altitude display on Waypoints Page
+
+    Fix:
+    1. Route Width modifier on Waypoints map: App relaunch will now retain route width, from previous session on same device
+Version 5.1.01 (Jun 1, 2022)
+    App:
+    1. Added Touch Feedback on various interactions, with more types available for subscription levels
+    2. Added Touch Feedback section to Settings
+
+    Please Note: Touch Feedback is available to iPhone but not iPad
+Version 5.0.02 (May 17, 2022)
+    Added following Camping Supply categories:
+    1. Cutlery
+    2. Bear Spray
+Version 5.0.01 (May 15, 2022)
+    New:
+    1. New feature: Camping Supplies Planner
+    1.a. Calendar view added to Home Page
+    1.b. Date filter on Articles, based on Trip Leg Start Date
+    1.c. Date filter on Camping Supplies, based on expected date at Waypoint
+    1.d. Calendar view indicator - which day has Article Trip Leg starting
+    1.e. Calendar view indicator - which day has Camping Supplies due
+    2. Waypoints Map is now available to iPhone
+    3. All Subscription plans are now available to iPhone, like they have been to iPad
+
+    Deprecated Feature removed:
+    1. Travelogue Background Page - Stationeries have been removed
+
+    Changes:
+    1. App renamed, considering new Camping Supplies Planner feature
+    2. Travelogue Background Page renamed to Waypoints Page, considering deprecated Stationeries are removed
+    3. Vehicle Settings pages renamed to indicate Route Settings
+    4. Email Id field moved from Home Page to Settings Page
+    5. New Task bar on Home Page to segregate core functionalities
+    6. Sliders used in Waypoints map: UI updated
+    7. UI + UX changes made to Articles collection views
+    8. Trip Leg Dates added to Articles File Page
+    9. Subscription tenure information added to Active Subscription Page
+    10. UI changes to Subscription paywall to improve the readability of links
+    11. Map width modifier for iPad on Waypoints Page is made available to free tier of app
+
+Version 4.2.02 (Jan 23, 2022)
+    Fix:
+    Updated textfield labels on Article File Page
+Version 4.2.01 (Jan 15, 2022)
+    App:
+    ----
+
+    New:
+    ---
+    1. Added Collection View 1 with PDF thumbnails, to let you select and open an Article's PDF from Home Page
+    2. Added Collection View 2 with File Names, to let you select and open an Article's Canvas Page/ Canvas Background Page* from Home Page
+    3. Article selection moved to Home Page
+    4. Added Open Article buttons to Article Section in Article File Page. Accordingly removed the Travelogue-Background-invoker navigation bar button
+    5. Added Dot Grid to Drawing Canvas
+    a) It can be shown/hidden, or configured for color, using toolbar buttons
+    b) Alternate dots can be configured to appear with a second color, which can be set in the Canvas Settings page
+    c) All Dots are of the same radius. This radius is configurable
+    d) Distance between dots is configurable
+    e) This grid scales with change of orientation, in normal as well as split-view mode
+    6. Applied App Theme Color to Launch screen
+
+    * Deprecation:
+    ---
+    1. Deprecation message added for Stationeries in the Travelogue Canvas, that are set via Travelogue Background Page
+
+    Fix:
+    ---
+    1. Settings: Made Pedestrian as default mode of travel, in Vehicle Settings page
+    2. Settings: Updated the Keyboard to decimal keyboard type, on Canvas Settings page
+    3. PDF Article: save is rationalized - .artkawaii won't now be appended to end of article name
+    4. PDF Article: articles saved from Drawing Canvas are now editable in the app. Previously, only PDFs saved from Intelligent Shapes Canvas were editable
+    5. Canvas: upgraded Background color to sRGB
+    6. Subscription Page: tweaked the WebKit view's width
+    7. Social Sharing: Fixed size of PDF and Image
+
+
+    Meta-data:
+    ----
+    1. New App Name
+    2. Keywords churned
+    3. Changes to a few App Store screenshots
+Version 4.1.01 (Dec 19, 2021)
+    New Creative:
+    1. App Logo
+
+    Meta-data:
+    1. App Description localization for a few languages
+
+    App:
+    1. Implemented new button on Canvas Toolbar, to facilitate setting of Canvas Background Color - requires subscription
+    2. Canvas is now available to free version of app
+Version 4.0.01 (Dec 6, 2021)
+    New:
+    ---
+    1. Implemented Promotional Offer on the [Traveler Notebook for 1 year] Subscription Plan
+
+    Fix:
+    ---
+    1. Set active group upon creation of new chat group
+    2. Subscription page - monthly outgo number to be accompanied with currency symbol
+Version 3.1.01 (Nov 14, 2021)
+    New App Logo and Creatives:
+    ---
+    1. App Logo
+    2. iPhone screenshots
+    3. iPad screenshots
+
+    New in App:
+    ---
+    1. Split View (Multi-tasking support) for iPad - for when you want to
+    reduce shuffle between taking quick Around Me map snapshots,
+    and adding these snapshots to Moments Canvas
+    2. Edit Intelligent Shapes Canvas now available to iPhone
+    3. Quick Word search option for EV Charger
+    4. White-Indigo app theme derived from existing Indigo theme
+    5. Canvas settings for floating pane borders
+
+    Fixes:
+    ---
+    Implemented UI/UX/functional changes to enable ease of use
+Version 3.0.01 (Oct 15, 2021)
+    New:
+    1. Around Me feature -
+    a) Capture snapshot of current location in trip
+    b) Search and see places of interest around this location
+
+    Fixes:
+    1. Map annotation view moved a bit to appear below Search bar (Y axis), when one returns to Background page, from Canvas page
+    2. Compass on Around Me and Waypoints maps moved below Search bar (Z axis)
+    3. Traffic visibility on Around Me and Waypoints maps can be toggled by the Consider Traffic option in Vehicle Settings
+    4. Asking for User Feedback is brought forward to launch counts of 4, 30 and multiples of 60 (ceiling is - up to 3 times a year)
+
+    Changelogs updated here:
+    [https://routespunkt-notebook.webflow.io/change-logs]
+Version 2.0.02 (Sep 15, 2021)
+    This version has important updates to the App Store Snapshots
+Version 2.0.01 (Sep 12, 2021)
+    New:
+    —
+
+    1. A new canvas with - draw and hold - to have perfectly straight lines, smooth arcs or intelligent line shapes.
+    Illustrate your travel story in a way that looks more Kawaii. Or if you prefer to present your travel story as a comic book, draw straight-lined storyboard frames with ease.
+    Unlike the Travelogue Canvas, this one doesn’t have new floating panels, or the sound effect for Pencil motion on canvas
+    2. Implemented sound effect for Pencil motion on Travelogue Canvas
+    3. New Canvas Settings page to toggle sound
+    4. Replacement maps to replace the existing ones (existing maps being retained with a deprecation notice at Travelogue Canvas)
+    5. New icon for route width modifier button
+    6. Icons Describer popup view for Travelogue Background page buttons
+
+
+    Fixed:
+    —
+
+    1. Font size button in Floating Text Panel: double tapping on this used to make the Font size slider appear, with no direct way to make it go away
+    2. Multiple subviews of map open up upon taking snapshot. Fix to auto-close these
+Version 1.4.01 (Aug 17, 2021)
+    New:
+    1. Tandem orientation for the Drawing Canvas with the Travelogue Background page
+    2. Portrait mode for rest of the app
+    3. Cut Selection in Drawing Canvas
+    4. Icons Describer popup view for Canvas toolbar buttons
+    5. Zoom Canvas up to 5x
+    6. Map snapshot tool
+    7. Borderless labels
+
+    Fix:
+    1. Crash when trying to save drawing when floating image view could not be created due to lack of image in photos app area
+    2. Max width of map led to overlap of 1 column of map buttons. Hence, moved all Map Toolbars to left side
+    3. Portrait mode caused overlap of label and button on Canvas page. Hence, moved Drawing Canvas buttons to a collapsible toolbar
+
+    Change Log updated:
+    [https://routespunkt-notebook.webflow.io/change-logs]
+Version 1.3.02 (Jul 19, 2021)
+    New:
+    1. Provide a resize capability to Floating Text Panels. Currently there is a scaling capability, but resizing can better manage white spaces remaining between: end of text and right edge of the text panel
+    2. Added accessibility labels to sliders on Travelogue Background and Canvas pages
+
+    Fix:
+    1. Floating Text Panel background color seemed visually modified when a previously saved and closed article was re-opened. Adopted sRGB color space as a replacement for the RGB color space being used
+    2. Fixed sequential bugs in increasing line gap in stationery and increasing map width and toggling map view, both in the Travelogue Background page and when coming back from Canvas page
+
+    Optimization:
+    1. Defer map loading time, when coming back to Travelogue Background page from Canvas page and when map is not visible. In such a case, load the map when its toggled back to be visible
+
+    Change Log updated:
+    [https://routespunkt-notebook.webflow.io/change-logs]
+Version 1.3.01 (Jul 5, 2021)
+    New:
+    1. Visual Stationery selector as replacement for the menu-based stationery selection feature
+    2. Charcoal background stationery
+    3. White&Blue gradient background stationery
+    4. Ask for App Rating
+
+    Fix:
+    1. Fixed missing Blue colored stationery
+    2. Fixed disabled state of stationery height modifier buttons, when returning from Canvas page
+
+    Change Log updated:
+    [https://routespunkt-notebook.webflow.io/change-logs]
+Version 1.2.04 (Jun 29, 2021)
+    New:
+    1. Added capability to have a blur effect on the Travelogue Canvas's background
+    2. New creative using the app to describe Waypoints Map view's buttons and annotations
+
+    Fix:
+    1. Applied default sorting to pdf files that get compiled into PDF collection of Articles
+    2. Fixed Map view to retain its width when coming back from another page
+
+    Change Log updated:
+    [https://routespunkt-notebook.webflow.io/change-logs]
+Version 1.2.03 (Jun 22, 2021)
+    New:
+    ---
+    1. Added Map width modifier with width as 300, 350, 400, 450, 500, full Device width
+    2. Implemented route refresh on map width modification
+    3. Icon modified for Map Show/Hide
+    4. Added activity indicator for: show/hide map view, map width modification
+
+    Fix:
+    ---
+    1. Increased label widths for Canvas page floating pane shape metrics
+
+
+    Change Log updated:
+    [https://routespunkt-notebook.webflow.io/change-logs]
+Version 1.2.02 (Jun 9, 2021)
+    New: Implemented slider to adjust width of Map Route, in the range of 0.3 to 4.0.
+
+    Fix: Optimised memory footprint of Travelogue Background page.
+
+    Change Log updated:
+    [https://routespunkt-notebook.webflow.io/change-logs]
+Version 1.2.01 (Jun 2, 2021)
+    Added Alpha modifier for Stationeries, for when you'd like to fade the stationery in the Travelogue background.
+
+    Please check the Change Log here:
+    [https://routespunkt-notebook.webflow.io/change-logs]
+Version 1.1.03 (May 30, 2021)
+    No-subscription flow expanded, so that a User now can reach up to and use Travelogue Canvas page.‍
+
+    Please check the Change Logs for new points-of-subscription-check:
+    [https://routespunkt-notebook.webflow.io/change-logs]
+Version 1.1.02 (May 14, 2021)
+    Map UI style upgraded for the Day Map in Natural Color style, to show:
+    1. Updated Natural Features,
+    2. Updated City & Street labels at different Zoom levels,
+    3. New Color Scheme, and
+    4. More organized Points of Interest (POIs)
+Version 1.1.01 (Apr 30, 2021)
+    New:
+    1. Contacts Grouping to pre-populate your Messages launched from Travelogue Background page,
+    2. Share Image to Instagram from Travelogue Canvas page
+
+    Fixes:
+    1. Multiple labels modified to indicate Travelogue,
+    2. Paywall webpage width increased for Terms of Use and Privacy Policy
+Version 1.0 (Apr 14, 2021)
+
+Users may also like
+Select objects to compare
+Globespinning: Travel Journals
+TRAVUT - Travel Info & Guides
+Freeway Scooter
+AI Map
+Mi Diario de Cruceros
+Sport Hotel
+Bill & Coo Hotels
+Camp Florida RV App
+My Visit - Disney World Edition
+Dride - Dashcam Manager
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Navigation
+Navigation
+Apps that provide navigational directions in real time. geographical maps are also included.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    9.1.0
+    Current release
+    Dec 5, 2023
+    9.0.1
+    Nov 2, 2023
+    9.0.0
+    Sep 15, 2023
+    8.2.3
+    Mar 10, 2023
+    8.2.2
+    Feb 27, 2023
+    8.2.1
+    Feb 8, 2023
+    8.2.0
+    Feb 1, 2023
+    8.1.0
+    Jan 24, 2023
+    8.0.0
+    Dec 28, 2022
+    7.3.0
+    Dec 10, 2022
+    7.2.1
+    Nov 13, 2022
+    7.2.0
+    Nov 6, 2022
+    7.1.0
+    Oct 31, 2022
+    7.0.0
+    Oct 24, 2022
+    6.0.01
+    Aug 15, 2022
+    5.3.03
+    Jul 11, 2022
+    5.3.02
+    Jul 7, 2022
+    5.3.01
+    Jun 23, 2022
+    5.2.01
+    Jun 7, 2022
+    5.1.01
+    Jun 1, 2022
+    5.0.02
+    May 17, 2022
+    5.0.01
+    May 15, 2022
+    4.2.02
+    Jan 23, 2022
+    4.2.01
+    Jan 15, 2022
+    4.1.01
+    Dec 19, 2021
+    4.0.01
+    Dec 6, 2021
+    3.1.01
+    Nov 14, 2021
+    3.0.01
+    Oct 15, 2021
+    2.0.02
+    Sep 15, 2021
+    2.0.01
+    Sep 12, 2021
+    1.4.01
+    Aug 17, 2021
+    1.3.02
+    Jul 19, 2021
+    1.3.01
+    Jul 5, 2021
+    1.2.04
+    Jun 29, 2021
+    1.2.03
+    Jun 22, 2021
+    1.2.02
+    Jun 9, 2021
+    1.2.01
+    Jun 2, 2021
+    1.1.03
+    May 30, 2021
+    1.1.02
+    May 14, 2021
+    1.1.01
+    Apr 30, 2021
+    1.0
+    Apr 14, 2021
+
+See More
+Top In-App Purchases
+
+    Canvas, Collage Maker, Notes
+    $2.49
+    Backpacking Trip Planner
+    $3.19
+    Filter twilight trek pictures
+    $1.19
+
+About
+
+Required Devices
+    iPhone, iPad
+
+Category
+    Travel
+
+Initial Release Date
+    Apr 13, 2021
+
+Worldwide Release Date
+    Apr 13, 2021
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    9.1.0
+
+Size
+    59.67 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Sudipto Paul
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.4 or later. Compatible with iPhone and iPad.
+
+Bundle ID
+    com.asudipto.routespunktnotes
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1553673314
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Routespunkt Hiking Grid Diary | data.ai

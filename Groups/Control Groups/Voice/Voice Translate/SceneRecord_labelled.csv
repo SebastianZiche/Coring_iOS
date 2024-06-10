@@ -1,0 +1,76 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,39.0,2024-02-28,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,38.5,2024-02-26,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,38.0,2023-10-13,Adapted to iOS 17. Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,37.5,2023-09-07,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,37.0,2023-03-25,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,36.5,2023-02-24,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,36.0,2022-11-20,Added the function of deleting account. Compatible with iOS 16. Fixed the problem of iPhone 14 Pro Max main interface disorder. Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,35.5,2022-09-14,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,35.0,2022-08-23,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,34.5,2022-04-20,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,34.0,2022-04-11,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,33.5,2022-04-05,In order to avoid unnecessary purchases by users all purchase items on the main interface have been removed and a dedicated purchase interface has been added where users can clearly see the purchase content price and duration and users will get clearer prompts and stricter confirmation when making purchases. Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,33.0,2022-01-05,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,32.5,2021-10-19,Adapted to iOS 15. Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,32.0,2021-09-08,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,31.5,2021-08-27,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,31.0,2021-08-13,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,30.5,2021-08-07,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,30.0,2021-07-25,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,29.5,2021-05-04,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,29.0,2021-03-18,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,28.5,2021-03-12,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,28.0,2021-03-06,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,27.0,2021-01-27,Fixed some errors. Added VIP Weekly Subscription. Added VIP Monthly Subscription. Added VIP Yearly Subscription.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,26.5,2020-12-06,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,26.0,2020-11-08,Fixed some errors. Added noise reduction function. Added In App Purchase which is used to purchase noise reduction function.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,25.5,2020-07-22,Fixed some errors.,0,0,0,0,0,1,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,25.0,2020-07-08,Fixed some bugs.,0,0,0,0,1,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,24.5,2020-07-01,Fixed some bugs.,0,0,0,0,1,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,24.0,2020-05-29,Fixed some bugs.,0,0,0,1,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,23.5,2019-12-12,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,23.0,2019-12-06,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,22.5,2019-10-16,Optimized for iOS 13 .,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,22.0,2019-09-17,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,21.5,2019-09-11,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,21.0,2019-09-10,Updated 6.5 inch screenshots. Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,20.5,2018-07-18,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,20.0,2018-07-15,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,19.5,2018-05-31,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,19.0,2018-05-16,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,18.5,2018-05-11,Increased system stability.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,18.0,2018-03-16,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,17.5,2018-02-12,Support for iOS 11. Support for iPhone X. Fixed some bugs. Updated screenshots.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,17.0,2016-08-30,Fixed some bugs,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,16.5,2016-08-26,Support watchOS 2 Fixed some bugs,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,16.0,2016-07-23,Fixed some bugs.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,15.5,2016-02-15,Fixed some bugs. Use a new application icon. Use a new button icon.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,15.0,2015-09-22,Enhanced the stability of the system.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,14.5,2014-10-25,Enhanced system stability Support Touch ID,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,14.0,2014-10-09,Enhanced system stability,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,13.5,2014-09-15,Enhanced the stability of the system.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,13.0,2014-05-09,Enhanced the stability of the system,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,12.5,2014-05-02,Fixed some bugs Use a new logo,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,12.0,2014-04-18,1 Support iOS 7 2 Increasing the recording of location and sharing 3 Increasing recently played files list 4 Fixed Bug,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,11.5,2014-01-26,Enhanced the stability of the system,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,11.0,2014-01-21,Full localization: Japanese Korean Turkish Russian German Swedish Dutch French Italy Portugal Spain Denmark Greece Thai Increase the iPad button spacing Fixed Internet import interface displays an error Enhanced system stability,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,10.5,2014-01-03,You can take pictures after changing the sound. You can dub after changing the sound. Clear the temporary files automatically after changing the sound. Enhanced system stability.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,10.0,2013-12-18,Add the voice change function Enhanced the stability of the system Add AdMob,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,9.5,2013-12-05,Enhanced system stability,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,9.0,2013-11-27,Configurable background music Single recording support multiple photos taken You can import files from your music library,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,8.5,2013-10-23,Enhanced the stability of the system.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,8.0,2013-10-20,System optimization for iOS 7 Add recording cropping function cropped formats supported AAC and PCM AAC can be directly used for ringtones Add photos cropping function Add recording pause function,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,7.5,2013-09-25,Enhanced stability of the system,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,7.0,2013-09-17,Support recording in MP3 format Support convert to MP3 format,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,6.5,2013-09-07,Support for camera Support recording to export to another app,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,6.0,2013-08-16,Add a wav format Supports loop playback,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,5.5,2013-07-27,Download by Wi Fi,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,5.0,2013-07-19,Support Bluetooth headsets recording and playback. Support wav format recording. When exporting to the gallery does not lock screen.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,4.5,2013-07-12,Can be exported to the Photos album.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,4.0,2013-07-02,Recording volume increases Set parameters can be memorized Added internal purchase Suite Professional Edition Professional Edition kit includes full text search capabilities and password protection Professional Edition suite full text search function can be related to the keyword query to the audio file the file name or notes related to the content match Professional Edition package provides password authentication mechanism if the password is enabled then the use of this software requires a password before,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,3.5,2013-06-13,Fixed occasional audio file corruption error.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,3.0,2013-05-09,You can delete empty folders You can rename the audio file During playback flip the switch to the current Playlists Can display the folder recording the number and total size You can display the recording file size and duration Remarks recording file in the recording file list,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,2.0,2013-04-09,Localization:Arabic Hebrew Thai German French Spanish Korean Japanese Russian Turkish Italian Dutch Chinese Portuguese Hindi Swedish Greek Irish Danish. Enhanced the stability of the system.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,1.5,2013-04-01,Support iPhone 5 and iPad interface. Fixed the occasional flash exit bug greatly enhancing system stability. Add the function of mailling the recording file. Support to delete the recording file. Allow to export the recording file by iTunes.,0,0,0,0,0,0,0,0
+615897153,1000600000842756,SceneRecord,Utilities,2013-03-14,2013-03-14,72.86,34,1,0,1,1.0,2013-03-13,,0,0,0,0,0,0,0,0

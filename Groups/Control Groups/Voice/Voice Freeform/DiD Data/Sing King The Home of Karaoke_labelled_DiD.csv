@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1514118910,1000800000184355,Sing King The Home of Karaoke,Music,2020-12-09,2020-12-17,64.9,1,1,0,1,1,0,1,0,0,0,0,0,0,0,month_1,0,0,572,677.0
+1514118910,1000800000184355,Sing King The Home of Karaoke,Music,2020-12-09,2020-12-17,64.9,1,1,0,1,0,0,0,1,0,0,0,0,0,0,month_2,0,0,602,677.0
+1514118910,1000800000184355,Sing King The Home of Karaoke,Music,2020-12-09,2020-12-17,64.9,1,1,0,1,1,0,0,0,1,0,0,0,0,0,month_3,0,0,632,677.0
+1514118910,1000800000184355,Sing King The Home of Karaoke,Music,2020-12-09,2020-12-17,64.9,1,1,0,1,0,0,0,0,0,1,0,0,0,0,month_4,0,0,662,677.0
+1514118910,1000800000184355,Sing King The Home of Karaoke,Music,2020-12-09,2020-12-17,64.9,1,1,0,1,1,0,0,0,0,0,1,0,0,0,month_5,0,1,692,677.0
+1514118910,1000800000184355,Sing King The Home of Karaoke,Music,2020-12-09,2020-12-17,64.9,1,1,0,1,1,0,0,0,0,0,0,1,0,0,month_6,0,1,722,677.0
+1514118910,1000800000184355,Sing King The Home of Karaoke,Music,2020-12-09,2020-12-17,64.9,1,1,0,1,0,0,0,0,0,0,0,0,1,0,month_7,0,1,752,677.0
+1514118910,1000800000184355,Sing King The Home of Karaoke,Music,2020-12-09,2020-12-17,64.9,1,1,0,1,1,0,0,0,0,0,0,0,0,1,month_8,0,1,782,677.0

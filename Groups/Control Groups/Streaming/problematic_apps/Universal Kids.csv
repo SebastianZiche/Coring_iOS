@@ -1,0 +1,45 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,7.6,2023-12-07,Security Performance Updates! New Content
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,7.5.3,2023-04-04,Performance and Stability updates
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,7.5.1,2023-01-05,Stability and Performance updates
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,7.4,2021-09-07,New clips and episodes Stability and performance updates
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,7.3.1,2021-05-25,New clips and episodes CA Notice Stability and performance updates
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,7.2,2021-05-04,New clips and episodes CA Notice Stability and performance updates
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,7.0,2019-11-20,Performance enhancements New Clips and Shows Bug Fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.18.2,2019-03-04,Bug fixes Performance enhancements
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.18.0,2019-01-03,Bug fixes Performance enhancements
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.17.0,2018-11-28,Bug fixes Performance enhancements Updates to parental gating
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.16.0,2018-11-01,All caught up on your favorite show We ve improved our end card experience making it easier for you to find new shows!
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.15.1,2018-10-10,We re constantly working to deliver the best app experience to you. Changed: Bug fixes and performance tweaks.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.15.0,2018-09-26,We re constantly working to deliver the best app experience to you. Changed: We made enhancements to Google Chromecast.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.14.2,2018-09-19,We re constantly working to deliver the best app experience to you. Fixed: Video playback errors.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.14.1,2018-09-10,We re constantly working to deliver the best app experience to you. Changed: Moved the episode information below the video making it easier to quickly find what you re looking for.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.14.0,2018-08-13,We re constantly working to deliver the best app experience to you. Fixed: Progress tracking wasn t being captured correctly if the video was stopped and started more than once. Fully watched videos were ending up in the Continue Watching section. Added: Progress tracking begins when user has watched more than 1 of the video.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.13.0,2018-07-30,We re constantly working to deliver the best app experience to you. Fixed in this version: Blank screen was displaying when user logged in via Live player Implemented Loading Indicators Before Playing Video Blank Schedule was displaying when user closed the Live player.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.12.1,2018-07-16,We re constantly working to deliver the best app experience to you. Fixed in this version: Homepage shelves were intermittently not displaying or taking time to appear Homepage shelves would not load until force quit and restart
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.12.0,2018-07-02,We re constantly working to deliver the best app experience to you. Fixed in this version: Video Player Screen Jumps When Controls Disappear
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.11.0,2018-06-25,We ve squashed some bugs in this release including: Fixed a bug that displayed a blank page after closing an End Card Fixed missing loading spinner after End Card display Made some analytics tweaks.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.10.0,2018-06-11,Minor bug fixes and improvements.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.9.0,2018-05-29,Minor bug fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.7.0,2018-03-26,Minor bug fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.6.0,2018-03-12,Minor bug fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.4.1,2018-02-01,Minor bug fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.4.0,2018-01-29,Minor bug fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.3.1,2017-12-29,Minor bug fixes.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.3,2017-12-04,Minor bug fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.2.1,2017-11-02,Support for iPhone X Performance enhancements to the video player General bug fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.2,2017-09-11,We re excited to launch the new Universal Kids app! Select Sprout shows will still be available along with new and exciting content for Ages 6 11. Check out new shows like NOWHERE BOYS and THE NEXT STEP!
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.1,2017-07-13,Enhancements to the video player Ability to toggle between days on the live schedule page
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.0.5,2017-05-15,Reduced how often the parental gate appears when watching your favorite shows! Enhancements to caching Fixed miscellaneous bugs
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,6.0.2,2017-03-22,Full Chromecast support Watch videos in either portrait or landscape orientation One click 10 second rewind Syncs with your password manager for faster login Refreshed design Seamless integration with social networks to let you share videos instantly
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,3.4.0,2016-11-14,We fixed a few things to make it even easier for you to watch and play with all your favorite Sprout friends!
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,3.3.0,2016-07-21,Support for multi tasking on iOS 9.0 iOS Notification Widget Other bug fixes and performance improvements
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,3.2.1,2016-02-18,We were bugged by the bugs so we fixed them yay!
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,3.2.0,2015-10-21,Out new and improved look echoes our commitment to reflect real kids and the real worlds they are growing up in. We ve improved video playback and added Airplay streaming so that you can see your favorite Sprout characters on your big screen and bring Chica directly into your living room! Whew! Logging into your cable provider to watch the latest episodes of Nina s World just got easier!
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,3.0.2,2015-09-21,Bug fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,3.0.1,2015-07-22,General Bug Fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,3.0,2015-02-04,Updated design! Sprout Now has a new look and feel. All of your favorite content in a great new look.
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,1.1.1,2014-10-27,Bug Fixes Performance Enhancements
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,1.1.0,2014-08-06,Minor bug fixes Performance enhancements
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,1.0.1,2014-03-25,Minor Bug Fixes
+787534839,1000600000541012,Universal Kids,Entertainment,,2014-02-26,82.45,33,1,0,0,1.0.0,2014-02-06,

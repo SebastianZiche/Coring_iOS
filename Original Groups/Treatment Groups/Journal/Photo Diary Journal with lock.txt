@@ -1,0 +1,627 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Photo Diary: Journal with lock
+Naohito MuraokaLifestyle (Applications)Free
+Alerts
+
+Photo Diary - Sonal Diary
+Photo Diary: Journal with lock
+Photo Diary: Journal with lock
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Photo Diary: Journal with lock
+Private diary, journaling app
+Lifestyle (Applications)
+Free
+iPhone Only
+App Promotional Text
+This is a private diary, journal app with password lock.
+You can take a journal, short note, memo, food log, life log easily and save in your private timeline.
+App Description
+【Rich features for photo diary】
+◆ Photo diary for your life
+◆ Diary photo editor, photo frame features
+◆ No ads to distract
+◆ Backup and restoring
+◆ Beautiful fonts, themes
+◆ Offline diary, journal
+◆ Private secret diary with lock
+◆ Diary for boys and girls
+
+【About this application】
+Photo diary is a free offline diary and personal journal app with lock. You can use it to record daily personal journal with photos, thoughts, journey, emotions, and private daily moments in a chronological timeline.
+
+This is a diary app with support of adding photos, password lock, various themes and fonts, multiple diary books, photo editor features and so on. You can sync your diaries with Google Drive to forever keep your memories and share your data across multiple devices.
+
+【Why you should choose Photo diary】
+■ Simple diary app
+It is a diary app for saving photos neatly. Design is simple and minimalistic so that you can use just like real diary book.
+
+■ Offline diary
+It is a diary app you can use in offline. Diary will only be stored in your device so you can secure your personal secret diaries.
+
+■ Diary for boys, girls
+Any generations of people including boys and girls can safely write diary with this app since there is no ads displays in the app and app completely works in offline.
+
+■ Save high resolution photo
+You can choose the photo resolution from original resolution to minimum resolution so you can adjust depends on you device storage.
+
+■ Timeline style
+Posts are arranged in chronological order like a timeline. You can write an unlimited number of times a day, such as events from waking up in the morning to before going to bed, lunch break, traveling by train, etc.
+
+■ Multiple diaries
+When writing a diary, I sometimes want to divide it by theme. You can categorize your diary by category, such as study, travel records, music lyrics, and creative notes.
+
+■ Secure passcode lock
+Since the data is stored in the terminal, there is no need to worry about it being seen by others. It is a simple diary application for recording your own space. You can use it as the best diary for soliloquy and tweets.
+
+The icons used in the app are referenced from the site below. Thank you for the wonderful icons and wallpapers.
+
+https://www.flaticon.com/free-icon/quill_590635?related_id=590635&origin=search
+https://www.vecteezy.com/free-vector/pattern
+Ratings
+Displayed Avg Ratings
+4.48
+Total Displayed Ratings
+58
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.4.3 (Feb 15, 2023)
+    Thank you for using our app "Photo Diary: Journal with lock".
+    In this update, we have updated the following features.
+
+    ● Performance improvement
+    The internal library has been updated to improve the overall performance of the application.
+Version 3.4.2 (Jan 13, 2023)
+    ● Bugs related to backup
+    Fixed a bug where backup creation and restoration could not be performed normally.
+
+    ● Multiple photo selection bug
+    Fixed a bug where permission was denied and multiple photos could not be selected.
+Version 3.3.9 (Nov 6, 2022)
+    ● Performance improved
+    Applications performance improved by updating internal framework and libraries.
+
+    ● Minor bug fix for creating backup
+    Bug fixed related to creating and restoring google drive backup.
+    Please re-create your backup after update to latest version.
+Version 3.3.9 (Nov 6, 2022)
+    ● Performance improved
+    Applications performance improved by updating internal framework and libraries.
+
+    ● Minor bug fix for creating backup
+    Bug fixed related to creating and restoring google drive backup.
+    Please re-create your backup after update to latest version.
+Version 3.3.7 (Oct 29, 2022)
+    ● Performance improved
+    Applications performance improved by updating internal framework and libraries.
+
+    ● Minor bug fix for creating backup
+    Bug fixed related to creating and restoring google drive backup.
+    Please re-create your backup after update to latest version.
+Version 3.3.6 (Oct 25, 2022)
+    ● Performance improved
+    Applications performance improved by updating internal framework and libraries.
+
+    ● Minor bug fix for creating backup
+    Bug fixed related to creating and restoring google drive backup.
+    Please re-create your backup after update to latest version.
+Version 3.3.5 (Sep 7, 2022)
+    ● Minor bug fix for creating backup
+    Bug fixed related to creating and restoring google drive backup.
+    Please re-create your backup after update to latest version.
+Version 3.3.4 (Jul 31, 2022)
+    ● Dark mode pop-up color
+    When dark mode is enable, pop-up color set to dark black too.
+
+    ● Able to attach 6 photos per entry
+    You can now attach maximum of 6 photos per entry with premium feature.
+
+    ● Take photo and attach to entry
+    You can now take photo and directly attach to diary entry.
+
+    ● Auto save feature
+    Auto text save feature added when creating new diary and journal.
+
+    ● Minor bug fix
+    Bug fixed that date set to current date when adding multiple images to existing post
+
+    ● Time format
+    Diary & journal creation time format changed from 24 hours style to AM, PM style.
+Version 3.3.2 (Jul 23, 2022)
+    ● Able to attach 6 photos per entry
+    You can now attach maximum of 6 photos per entry with premium feature.
+
+    ● Take photo and attach to entry
+    You can now take photo and directly attach to diary entry.
+
+    ● Auto save feature
+    Auto text save feature added when creating new diary and journal.
+
+    ● Minor bug fix
+    Bug fixed that date set to current date when adding multiple images to existing post
+
+    ● Time format
+    Diary & journal creation time format changed from 24 hours style to AM, PM style.
+Version 3.3.1 (Jul 16, 2022)
+    ● Able to attach 6 photos per entry
+    You can now attach maximum of 6 photos per entry with premium feature.
+
+    ● Take photo and attach to entry
+    You can now take photo and directly attach to diary entry.
+
+    ● Auto save feature
+    Auto text save feature added when creating new diary and journal.
+
+    ● Minor bug fix
+    Bug fixed that date set to current date when adding multiple images to existing post
+
+    ● Time format
+    Diary & journal creation time format changed from 24 hours style to AM, PM style.
+Version 3.2.0 (Jul 4, 2022)
+    ● Able to attach 6 photos per entry
+    You can now attach maximum of 6 photos per entry with premium feature.
+
+    ● Take photo and attach to entry
+    You can now take photo and directly attach to diary entry.
+
+    ● Auto save feature
+    Auto text save feature added when creating new diary and journal.
+
+    ● Minor bug fix
+    Bug fixed that date set to current date when adding multiple images to existing post
+
+    ● Time format
+    Diary & journal creation time format changed from 24 hours style to AM, PM style.
+Version 3.1.9 (Jun 26, 2022)
+    ● Take photo and attach to entry
+    You can now take photo and directly attach to diary entry.
+
+    ● Auto save feature
+    Auto text save feature added when creating new diary and journal.
+
+    ● Minor bug fix
+    Bug fixed that date set to current date when adding multiple images to existing post
+
+    ● Time format
+    Diary & journal creation time format changed from 24 hours style to AM, PM style.
+Version 3.1.7 (Jun 22, 2022)
+    ● Take photo and attach to entry
+    You can now take photo and directly attach to diary entry.
+
+    ● Auto save feature
+    Auto text save feature added when creating new diary and journal.
+
+    ● Minor bug fix
+    Bug fixed that date set to current date when adding multiple images to existing post
+
+    ● Time format
+    Diary & journal creation time format changed from 24 hours style to AM, PM style.
+Version 3.1.6 (Jun 20, 2022)
+    ● Take photo and attach to entry
+    You can now take photo and directly attach to diary entry.
+
+    ● Auto save feature
+    Auto text save feature added when creating new diary and journal.
+
+    ● Minor bug fix
+    Bug fixed that date set to current date when adding multiple images to existing post
+
+    ● Time format
+    Diary & journal creation time format changed from 24 hours style to AM, PM style.
+Version 3.1.4 (Jun 19, 2022)
+    ● Take photo and attach to entry
+    You can now take photo and directly attach to diary entry.
+
+    ● Auto save feature
+    Auto text save feature added when creating new diary and journal.
+
+    ● Minor bug fix
+    Bug fixed that date set to current date when adding multiple images to existing post
+
+    ● Time format
+    Diary & journal creation time format changed from 24 hours style to AM, PM style.
+Version 3.1.2 (Jun 13, 2022)
+    ● Design improvement & minor bug fix
+    Entire design improved for home, calendar and backup screens.
+    Minor bug fixed for creating new diary.
+
+    ● Auto enter the date for creating a new diary
+    When a date has been selected from the calendar, the selected date is automatically displayed when creating a new diary.
+
+    We are still working hard for creating wonderful diary app. Please feel free to let us know if you need any help.
+Version 2.9.7 (May 29, 2022)
+    ● Share with SNS feature
+    We have added function to share application with SNS.
+    You can use this when you want to share app with your friends, family and so on.
+
+    Thank you for providing extra feature requests and kind encouragements.
+    We are still working hard for creating wonderful diary app. Please feel free to let us know if you need any help.
+Version 2.9.6 (May 22, 2022)
+    ● Share with SNS feature
+    We have added function to share application with SNS.
+    You can use this when you want to share app with your friends, family and so on.
+
+    Thank you for providing extra feature requests and kind encouragements.
+    We are still working hard for creating wonderful diary app. Please feel free to let us know if you need any help.
+Version 2.9.5 (May 20, 2022)
+    ● Diary cover page photo
+    You are now able to select device gallery photo for diary cover page.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.9.4 (Apr 30, 2022)
+    ● Diary cover page photo
+    You are now able to select device gallery photo for diary cover page.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.9.3 (Apr 1, 2022)
+    ● Diary cover page photo
+    You are now able to select device gallery photo for diary cover page.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.9.0 (Mar 27, 2022)
+    ● Diary cover page photo
+    You are now able to select device gallery photo for diary cover page.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.8.5 (Mar 24, 2022)
+    ● Minor bug fix
+    Fixed some of minor bugs with this update.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.8.4 (Mar 19, 2022)
+    ● Design optimized for small devices
+    Applications entire design updated for smaller devices such as iPhoneSE, iPhone 8 and so on.
+
+    ● Fine-tune the UI
+    Fine-tuned the UI and fixed minor design collapses.
+    Thank you for pointing out in the review.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.8.3 (Mar 16, 2022)
+    ● Design optimized for small devices
+    Applications entire design updated for smaller devices such as iPhoneSE, iPhone 8 and so on.
+
+    ● Fine-tune the UI
+    Fine-tuned the UI and fixed minor design collapses.
+    Thank you for pointing out in the review.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.8.2 (Mar 14, 2022)
+    ● Design optimized for small devices
+    Applications entire design updated for smaller devices such as iPhoneSE, iPhone 8 and so on.
+
+    ● Fine-tune the UI
+    Fine-tuned the UI and fixed minor design collapses.
+    Thank you for pointing out in the review.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.8.1 (Mar 12, 2022)
+    ● Design optimized for small devices
+    Applications entire design updated for smaller devices such as iPhoneSE, iPhone 8 and so on.
+
+    ● Fine-tune the UI
+    Fine-tuned the UI and fixed minor design collapses.
+    Thank you for pointing out in the review.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.7.2 (Mar 4, 2022)
+    ● Design optimized for small devices
+    Applications entire design updated for smaller devices such as iPhoneSE, iPhone 8 and so on.
+
+    ● Fine-tune the UI
+    Fine-tuned the UI and fixed minor design collapses.
+    Thank you for pointing out in the review.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.7.1 (Feb 27, 2022)
+    ● Performance and stability improved
+    The execution speed of the application has been greatly improved.
+    Updated so that the speed does not slow down even when creating multiple photo diaries.
+
+    ● Fine-tune the UI
+    Fine-tuned the UI and fixed minor design collapses.
+    Thank you for pointing out in the review.
+
+    Let's continue to create the best diary app together.
+    Developers are supported by daily reviews and comments in inquiries!
+Version 2.6.1 (Jan 10, 2022)
+    ● Performance and stability improved
+    Photos loading style optimized to improve applications performance and avoid app to be crashed when adding high resolution images.
+Version 2.6.0 (Jan 1, 2022)
+    ● Performance and stability improved
+    Photos loading style optimized to improve applications performance and avoid app to be crashed when adding high resolution images.
+Version 2.3.3 (Dec 5, 2021)
+    ● Premium functions added
+    You can select up to 8 additional photos for one diary.
+    Added a premium limited theme.
+
+    ● Diary font size
+    Diary font size is now able to switch between 12.0 to 20.0 pixels.
+    You can adjust from settings screen.
+
+    ● Image quality settings
+    It is now able to select image quality from low, medium, high and max. This setting affect saved image size.
+Version 2.2.0 (Nov 13, 2021)
+    ● Diary font size
+    Diary font size is now able to switch between 12.0 to 20.0 pixels.
+    You can adjust from settings screen.
+
+    ● Image quality settings
+    It is now able to select image quality from low, medium, high and max. This setting affect saved image size.
+
+    ● Minort bug fix
+    Bug fixed for editing existing post.
+Version 2.0.0 (Nov 7, 2021)
+    ● Improved image quality of saved post
+    The image quality of the newly created diary has been improved.
+    Posts that have already been created will have the same image quality.
+
+    ● Improved entire User Interface
+    Fine-tuned the UI and fixed minor design collapses.
+    Thank you for pointing out in the review.
+Version 1.9.0 (Nov 6, 2021)
+    ● 保存画像の画質を改善
+    新規作成日記の画質を改善しました。
+    既に作成済みの投稿はそのままの画質となります。
+
+    ● 全体的にUIを微調整
+    UIの微調整、細かなデザイン崩れを修正しました。
+    レビューでご指摘いただき、ありがとうございました。
+Version 1.5.0 (Sep 14, 2021)
+    ● ダークモード
+    ダークモードを追加しました。
+    設定画面より、ご変更いただけます。
+
+    ● テーマカラーの追加
+    ライトグレー、ライトブラウン、キャメルブラウンをテーマカラーへ追加しました。
+
+    ● 内部処理を更新
+    アプリの実行速度改善のため、内部処理を更新しました。
+    日々レビューにて改善案をいただき、本当にありがとうございます。
+
+Users may also like
+Select objects to compare
+毎日続けられるシンプルな写真付き日記アプリ-Nikky-
+Bullet Diary Journal with Lock
+Diary! SmartDiary
+nikki - DIARY
+TodayShot
+Life : Personal Diary, Journal
+Diary Journal - With Lock
+Zebra - Diary, Journal
+Piary
+Super Simple Diary - Journal
+IQ Classifications
+Genre: Lifestyle
+Subgenre: Other Lifestyle
+Other Lifestyle
+Other lifestyle apps that do not fit other existing Lifestyle subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.4.3
+    Current release
+    Feb 15, 2023
+    3.4.2
+    Jan 13, 2023
+    3.3.9
+    Nov 6, 2022
+    3.3.9
+    Nov 6, 2022
+    3.3.7
+    Oct 29, 2022
+    3.3.6
+    Oct 25, 2022
+    3.3.5
+    Sep 7, 2022
+    3.3.4
+    Jul 31, 2022
+    3.3.2
+    Jul 23, 2022
+    3.3.1
+    Jul 16, 2022
+    3.2.0
+    Jul 4, 2022
+    3.1.9
+    Jun 26, 2022
+    3.1.7
+    Jun 22, 2022
+    3.1.6
+    Jun 20, 2022
+    3.1.4
+    Jun 19, 2022
+    3.1.2
+    Jun 13, 2022
+    2.9.7
+    May 29, 2022
+    2.9.6
+    May 22, 2022
+    2.9.5
+    May 20, 2022
+    2.9.4
+    Apr 30, 2022
+    2.9.3
+    Apr 1, 2022
+    2.9.0
+    Mar 27, 2022
+    2.8.5
+    Mar 24, 2022
+    2.8.4
+    Mar 19, 2022
+    2.8.3
+    Mar 16, 2022
+    2.8.2
+    Mar 14, 2022
+    2.8.1
+    Mar 12, 2022
+    2.7.2
+    Mar 4, 2022
+    2.7.1
+    Feb 27, 2022
+    2.6.1
+    Jan 10, 2022
+    2.6.0
+    Jan 1, 2022
+    2.3.3
+    Dec 5, 2021
+    2.2.0
+    Nov 13, 2021
+    2.0.0
+    Nov 7, 2021
+    1.9.0
+    Nov 6, 2021
+    1.5.0
+    Sep 14, 2021
+
+See More
+Top In-App Purchases
+
+    プレミアムサービス
+    $2.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Sep 11, 2021
+
+Worldwide Release Date
+    Sep 11, 2021
+
+Last Updated Time
+    Feb 21, 2024
+
+Version
+    3.4.3
+
+Size
+    65.47 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Naohito Muraoka
+
+Company HQ
+    Japan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    simple.photo.diary
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1585453689
+Unified App ID: 1000800000129507
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Photo Diary: Journal with lock | data.ai

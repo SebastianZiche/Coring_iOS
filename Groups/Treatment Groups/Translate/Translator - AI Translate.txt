@@ -1,0 +1,382 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Translator - AI Translate
+Mary srlReference (Applications)Free
+Alerts
+
+    Translator - AI Translate
+    Translator - AI Translate
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Translator - AI Translate
+Translator powered by ChatGPT
+Reference (Applications)
+Free
+App Promotional Text
+Translate text, images, audio in 60+ languages, and access ChatGPT with 'Translator - AI Translate’!
+App Description
+Have you ever wished for an always-on language teacher? With "Translator - AI Translate", you can turn your smartphone into your personal multilingual translator. Now powered by ChatGPT, you can ask questions in all languages, as if you had a language master at your side.
+
+Whether you need to translate documents, photos, words, or voice, or want to converse in another language, our app is here for you. With the ability to translate between over 60 languages, "Translator - AI Translate" is your global companion for communication.
+
+Key Features:
+
+Text Translation: Translate over 60 languages online, with enhanced support for grammar and context.
+
+Camera Translator: Capture or import photos for high-quality translations.
+
+Voice Translator: Speak and let the app translate your voice in real time.
+
+Conversations: Conduct bilingual conversations with smooth, accurate translation.
+
+Access to ChatGPT: Ask questions in any language as if you had a language teacher at your side.
+
+Save your translations: Record and save your translations for later use.
+
+Whether you're learning a new language, traveling to a foreign country, or simply wanting to enhance your language skills, "Translator - AI Translate" is the perfect app for you. Download today and break through language barriers with a touch!
+
+Translations are supported between the following languages:
+
+Afrikaans, Albanian, Arabic (العربية), Belarusian, Bengali, Bulgarian (Български), Cantonese (粵語繁體中文), Catalan (Català), Chinese Simplified (简体中文), Chinese Traditional (繁體中文), Croatian, Czech (Čeština), Danish (Dansk), Dutch (Belgium), Dutch (Nederlands), English (Australia), English (Ireland), English (South Africa), English (United Kingdom), English (united States), Esperanto, Estonian, Finnish (Suomi), French (Français), French (Canada), Galician, Georgian, German (Deutsch), Greek (Ελληνικά), Gujarati, Haitian, Hebrew (עברית), Hindi (हिंदी), Icelandic (Íslenska), Indonesian (Indonesia), Irish, Italian (Italiano), Japanese (日本語), Kannada, Korean (한국어), Latvian (Latviešu), Lithuanian (Lietuvių), Macedonian, Malay (Melayu), Maltese (Il-Malti), Marathi, Norwegian (Norsk), Persian (فارسی), Polish (Polski), Portuguese (Português), Portuguese (Brazilian), Romanian (Română), Russian (русский), Slovak, Slovenian (Slovenščina), Spanish (Español), Spanish (Mexican) Swahili (Kiswahili), Swedish (Svenska), Tagalog, Tamil, Telugu, Thai (ไทย), Turkish (Türkçe), Ukrainian (Українська), Urdu (اردو), Vietnamese (Tiếng Viê), Welsh.
+
+Terms of use: https://docs.google.com/document/d/1-QCv7vH90qQwwwVuHCIqaRxfa-UWUyaSKmmlKz5I9Lg/edit?usp=sharing
+Privacy policy: https://www.iubenda.com/privacy-policy/55197364
+
+Ratings
+Displayed Avg Ratings
+2.86
+Total Displayed Ratings
+374
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.0 (Feb 12, 2024)
+    - Complete graphic redesign! Enhanced user experience, stability, and speed.
+    - Added Whisper API to import audio files up to 25MB and translate them
+    - Introduced Offline Mode for use in-flight or in areas with no phone service.
+    - Chat with AI professors to learn and improve your favorite languages.
+    - Added a handy Dictionary for on-the-go consultations.
+    - Improved Keyboard function, now usable across all your phone apps.
+Version 3.5.1 (Dec 12, 2023)
+    Optimized for iOS 17 and Fixed Bugs
+Version 3.4 (Aug 24, 2023)
+    - Bug fixes and performance improvements
+Version 3.3 (Jul 30, 2023)
+    - Added Phrasebook functionality
+    - Bug fixes and performance improvements 
+Version 3.2 (Jul 21, 2023)
+    Translate text, images, audio in 60+ languages, and access ChatGPT with 'Translator - AI Translate'!
+Version 3.1 (May 19, 2023)
+    - New "CHAT" section added!! Fix mistakes, enhance your language skills. Our chat sessions is a safe space for you to practice and improve any languages.
+    - Performance improvements and bug fixes 
+Version 3.0 (Mar 20, 2023)
+    - Improvements on Text Translation section
+    - Bug fixes
+    - Performance improvements 
+Version 2.9 (Mar 7, 2023)
+    - Major improvements on Text Translation section
+    - Detect language added
+    - Added paste button
+    - Simultaneous translation
+Version 2.8 (Feb 15, 2023)
+    - Added Live Translation in Camera
+    - Bug fixes
+    - Translator performance improvements 
+Version 2.7 (Dec 3, 2022)
+    - Performance camera translator improved
+    - Bugs fixes 
+Version 2.6 (Nov 18, 2022)
+    - Translation speed improvements in the Camera section.
+    - Bugs fixes and performance improvements 
+Version 2.5 (Nov 11, 2022)
+    - App is available in Hindi, Indonesian, Malaysian, Norwegian, dutch, polish, Romanian, Slovak, Swedish, Thai, Hindi, Turkish, Ukrainian, Hungarian and Vietnamese.
+    - Bug fixes 
+Version 2.4 (Nov 2, 2022)
+    - Bugs fixes and performance improvements 
+Version 2.3 (Oct 28, 2022)
+    Resolved UI issue Talk screen
+    Fixed iOS 16 Translator compatible issue
+    Support “Arabic, Czech, Croatian, Korean, Danish, Finnish, Greek, Hebrew” languages
+Version 2.2 (Aug 20, 2022)
+    - Delete app account data feature added
+    - Bug fixes
+    - Translator performance improvements 
+Version 2.1 (Feb 19, 2022)
+    - Bug fixes
+    - Performance improvements
+    - Subscription prices decreased
+Version 2.0 (Jan 7, 2022)
+    - Bug fixes
+    - UI improved 
+Version 1.9 (Dec 14, 2021)
+    - Translations added
+    - Bug fixes
+    - Improved translation performance
+Version 1.8 (May 29, 2021)
+    - UI and UX improved
+    - Offline mode added
+    - Quick actions extension added
+    - Share extension added
+Version 1.7 (Apr 12, 2021)
+    - Available for iPad
+    - iMessage App
+    - Stickers Pack
+    - Custom keyboard in Arabic and Spanish
+Version 1.6 (Apr 10, 2021)
+    - Available for iPad
+    - iMessage App
+    - Stickers Pack
+    - Custom keyboard in Arabic and Spanish
+Version 1.5 (Mar 4, 2021)
+    - Custom keyboard
+    - Multilingual: Portuguese, French, Russian, Spanish, Chinese simplified and Deutsch.
+    - Bug fixes
+Version 1.4 (Jan 27, 2021)
+    - Bugs Fixes
+    - Performance Improvements
+    - Photo Translate Improved
+Version 1.3 (Dec 22, 2020)
+    - Fixed Bugs
+    - Translation Improved
+    - UI improved
+Version 1.2 (Nov 20, 2020)
+    - Translator improved
+    - Bug fixes and performance improvements
+    - UI improvements 
+Version 1.1 (Aug 20, 2020)
+    - Translator improved
+    - Bug fixes and performance improvements 
+Version 1.0 (Jun 16, 2020)
+
+Users may also like
+Select objects to compare
+Translate Now - Photo
+AR Translator: Translate Photo
+The Translator - Translate
+Camera Translator: Translate +
+STAR Translation - OCR Scanner
+Translator - Voice & Text
+AI Translator Speak Translate
+韓国語翻訳-韓国語写真音声翻訳アプリ
+Dialog - Translate Speech
+UDictionary Translator
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+3 times
+on App Store category pages
+Versions
+
+    4.0
+    Current release
+    Feb 12, 2024
+    3.5.1
+    Dec 12, 2023
+    3.4
+    Aug 24, 2023
+    3.3
+    Jul 30, 2023
+    3.2
+    Jul 21, 2023
+    3.1
+    May 19, 2023
+    3.0
+    Mar 20, 2023
+    2.9
+    Mar 7, 2023
+    2.8
+    Feb 15, 2023
+    2.7
+    Dec 3, 2022
+    2.6
+    Nov 18, 2022
+    2.5
+    Nov 11, 2022
+    2.4
+    Nov 2, 2022
+    2.3
+    Oct 28, 2022
+    2.2
+    Aug 20, 2022
+    2.1
+    Feb 19, 2022
+    2.0
+    Jan 7, 2022
+    1.9
+    Dec 14, 2021
+    1.8
+    May 29, 2021
+    1.7
+    Apr 12, 2021
+    1.6
+    Apr 10, 2021
+    1.5
+    Mar 4, 2021
+    1.4
+    Jan 27, 2021
+    1.3
+    Dec 22, 2020
+    1.2
+    Nov 20, 2020
+    1.1
+    Aug 20, 2020
+    1.0
+    Jun 16, 2020
+
+See More
+Top In-App Purchases
+
+    Translate Quickly PRO - 1 Week
+    $4.99
+    Translate Quickly PRO - 1 Week
+    $7.99
+    Translate Quickly PRO -1 Month
+    $10.99
+    Translate Quickly PRO -1 Year
+    $27.99
+    Translate Quickly PRO -1 Year
+    $64.99
+    Translate Quickly PRO -1 Month
+    $16.99
+    AI Translate PRO - 1 Month
+    $22.99
+    AI Translate PRO - 1 Week
+    $6.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Jun 16, 2020
+
+Worldwide Release Date
+    Jun 16, 2020
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    4.0
+
+Size
+    147.34 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Croatian, Czech, Danish, French, German, Hindi, Japanese, Korean, Portuguese, Russian, Simplified Chinese
+
+Seller
+    Mary srl
+
+Company HQ
+    Italy
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.4 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.thinktorise.translator
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    Yes
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1517982329
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Translator - AI Translate | data.ai

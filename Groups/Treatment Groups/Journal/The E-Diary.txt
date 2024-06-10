@@ -1,0 +1,279 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+The E-Diary
+Daniel ILLESCAS ROMEROLifestyle (Applications)Free
+Alerts
+
+    Daniel ILLESCAS ROMERO
+
+    The E-Diary
+    The E-Diary
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+The E-Diary
+Your electronic diary
+Lifestyle (Applications)
+Free
+App Description
+Your private electronic diary in your pocket. Write wonderful notes, add images and keep all your data synced with the cloud.
+
+Free features:
+- Unlimited writing
+- iCloud Sync (can be disabled if you choose to)
+- Attach images to your diary pages
+- Custom fonts
+- Custom text color
+- Lock mode. Lock your diary so only you can access it.
+- Basic search
+- Mark diary pages as favorite
+- Bookmark a specific page
+- Tons of settings
+- Export your diary to HTML, RTF and plain text.
+
+Paid features:
+- Export to PDF
+- Advanced search
+- Themes
+- Stickers (Coming soon)
+
+No third party logins, no subscriptions, no personal info collected.
+The app uses Core Data with CloudKit, which uses a specific record zone in the CloudKit private database that is accessible only to you.
+--
+Some app icons are from Icons8: https://icons8.com
+The music from the App Store video is from bensound: https://www.bensound.com
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.2.0 (Sep 24, 2023)
+    Improvements for iOS 17.
+Version 1.1.4 (Jun 11, 2023)
+    - Fix crash when this option was enabled "Automatically recognize mood".
+Version 1.1.3 (Jun 7, 2023)
+    Attempt to fix crash.
+Version 1.1.2 (Oct 10, 2022)
+    Fix important data sync issue.
+Version 1.1.1 (Sep 12, 2022)
+    Updated for iOS 16
+Version 1.1 (Sep 5, 2022)
+    - Optimize app speed, specially noticiable when exporting to PDF (thanks to Swift Concurrency!)
+    - Fix transparent navigation bar in search screen
+    - The "Use Calendar" feature now uses a mini calendar view.
+    - Fix diary export process. It could get stuck at 0% on very rare cases.
+Version 1.0.6 (Feb 25, 2022)
+    Improvements when Increase contrast is enabled.
+Version 1.0.5 (Sep 2, 2021)
+    - Fixed empty space between text and footer, now it should work much better.
+    - Fixed calendar issue.
+Version 1.0.4 (Aug 29, 2021)
+    - Improved date picker speed & fixed memory leak.
+    - New order for some settings + fixes.
+    - Visual improvements.
+Version 1.0.3 (Aug 24, 2021)
+    - Fixed iPad crash: tap on back button in landscape mode.
+    - Improved iPad landscape mode.
+    - Improved Favourites view (added shadow + some landscape improvements on iPad).
+    - Fixed visual bug when rotating device in the image preview screen.
+    - Pages now update the text tint color correctly after changing themes.
+    - Other minor tweaks.
+Version 1.0.2 (Aug 21, 2021)
+    - Improved PDF generation.
+    - Improved image loading when inserting images into the diary.
+    - Faster calendar loading (+ now shows more years)
+    - Other minor improvements and fixes
+Version 1.0.1 (Aug 17, 2021)
+    - Correct app link when sharing the app (to temporarily unlock features).
+    - Added missing screenshots.
+    - All In-app-purchases should be now working correctly.
+    - Minor improvements.
+    - Fixed minor crash.
+
+Users may also like
+Select objects to compare
+Personal Diary (Journal) App
+Mi Diario personal
+A Diary - Record life & Mood
+Minimalistic Daily Diary
+Super Simple Diary - Journal
+HEUTE IST... - TAGEBUCH
+Meam: Diario personal
+Mood Journal - Moodity
+Photo Diary: Journal with lock
+Yorkie, Everyday Journal
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.2.0
+    Current release
+    Sep 24, 2023
+    1.1.4
+    Jun 11, 2023
+    1.1.3
+    Jun 7, 2023
+    1.1.2
+    Oct 10, 2022
+    1.1.1
+    Sep 12, 2022
+    1.1
+    Sep 5, 2022
+    1.0.6
+    Feb 25, 2022
+    1.0.5
+    Sep 2, 2021
+    1.0.4
+    Aug 29, 2021
+    1.0.3
+    Aug 24, 2021
+    1.0.2
+    Aug 21, 2021
+    1.0.1
+    Aug 17, 2021
+
+See More
+Top In-App Purchases
+
+    PRO version
+    $20.99
+    Pink theme
+    $5.99
+    Icon pack 1
+    $5.99
+    Advanced search
+    $5.99
+    PDF Book Export
+    $5.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Aug 15, 2021
+
+Worldwide Release Date
+    Aug 15, 2021
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    1.2.0
+
+Size
+    4.30 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Spanish
+
+Seller
+    Daniel ILLESCAS ROMERO
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    io.illescasDaniel.E-Diary
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1547169274
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+The E-Diary | data.ai

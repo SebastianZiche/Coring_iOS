@@ -1,0 +1,532 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Notebook - Diary & Journal App
+Koji ItoProductivity (Applications)Free
+Alerts
+
+    Notebook - Diary & Journal App
+    Notebook - Diary & Journal App
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Notebook - Diary & Journal App
+Page-turning e-book style
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+Notebook is a simple and easy-to-use e-book style memo and diary application. You can flip through the pages and read them again like a diary.
+
+■ Your notes and diary like a book
+You can flip through the pages of your notebook by swiping or tapping the screen. Flipping through the pages makes it fun to read your notes and diary again.
+
+■ All the events of the day on one page
+All notes taken during the day are displayed on a single page. It is very easy to read back your notes. What happened yesterday?　What did you do a month ago? You can specify the date and make a note of tomorrow's schedule or a week from now.
+
+■ Simple and easy-to-understand operation
+Just pull out your iPhone and take a quick note. With simple operation, you can use it anytime, anywhere. You will want to take a note of even the smallest of things.
+
+■ Lock function for secret diaries
+In Notebook, you can lock the screen with a combination of 4-digit numbers. You can lock your important diary entries.
+
+
+■ Main functions
+- Page-turning effect
+- iCloud synchronization function
+- Passcode lock function (compatible with FaceID and TouchID)
+- Search function
+- Dark mode
+
+■ How to use
+- Tap the Create button to enter a new memo.
+- Tap the Date button at the top of the memo entry screen to specify the date.
+- Tap the Back button to finish entering a new memo.
+- Swipe the screen to turn the page.
+- Tap the font button to specify the font size.
+- Tap the top of the screen to show/hide the toolbar.
+- Tap the Edit button to edit or delete a memo.
+
+■ Remarks
+When you back up your iPhone to PC or iCloud, the data in the app will be backed up at the same time. When you change the model of your iPhone, the data in the app will also be restored by restoring the iPhone data.
+Ratings
+Displayed Avg Ratings
+4.67
+Total Displayed Ratings
+18.2k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.17 (Oct 26, 2023)
+    - Added support for Korean.
+Version 4.16.1 (Oct 2, 2023)
+    - Made corrections related to advertisements.
+Version 4.16 (Sep 21, 2023)
+    - Updated for iOS 17 compatibility.
+Version 4.15.1 (Jul 24, 2023)
+    - Minor bug fixes and improvements.
+Version 4.15 (Mar 27, 2023)
+    - Now available in German.
+Version 4.14.1 (Mar 11, 2023)
+    - Minor bug fixes and improvements.
+Version 4.14 (Mar 3, 2023)
+    - Now available in French.
+Version 4.13 (Feb 10, 2023)
+    - Spanish language support has been added.
+Version 4.12.1 (Feb 6, 2023)
+    - Minor wording corrections were made.
+    - Updated advertisements.
+Version 4.12 (Jan 19, 2023)
+    - Chinese (Simplified) is now supported.
+    - Fixed a bug that the value was not displayed correctly when changing the passcode lock time.
+Version 4.11 (Dec 8, 2022)
+    - Improved performance and stability.
+    - Fixes related to advertisements.
+Version 4.10 (Nov 10, 2022)
+    - Specification changes were made regarding passcodes.
+Version 4.9 (Nov 4, 2022)
+    - The settings screens and cells have been modified.
+Version 4.8 (Oct 17, 2022)
+    - AirPrint is now supported. You can print out the contents of notes from the action button on the note edit screen for individual notes, or from "Share All Notes" on the settings screen for all notes.
+Version 4.5.1 (Aug 25, 2022)
+    - Fixed a bug that prevented app icon from being displayed on the iPad.
+    - Fixed a bug that cells were not highlighted when tapping cells in the note list screen.
+Version 4.5 (Aug 16, 2022)
+    - Changed the timing of when authentication is required to when the app enters the foreground instead of when the app is activated, to keep the app consistent.
+    - Fixed several minor bugs.
+    - Internal structure has been modified.
+    - The display method of items on the settings screen has been partially corrected.
+Version 4.4 (Dec 10, 2021)
+    - The tap area at the top of the screen when switching between showing and hiding tools in the note list screen has been expanded horizontally. When the tool is hidden, you can also switch to show it by tapping the bottom of the screen. Also, when the app is restarted, it will always start with the tools displayed.
+    - Reviewed error handling in the program.
+    - Minor corrections were made.
+Version 4.3 (Nov 10, 2021)
+    - Added a search function for notes.
+Version 4.2 (Oct 29, 2021)
+    - Some UI fixes have been made for the iOS15 release.
+    - Basic functions have been improved.
+Version 4.1 (Sep 15, 2021)
+    - Added the ability to use Face ID or Touch ID to unlock apps.
+Version 4.0.3 (Aug 6, 2021)
+    - Added the ability to display an indicator during iCloud sync.
+    - Fixed a bug related to iCloud.
+Version 4.0.2 (Aug 2, 2021)
+    - When iCloud is not available, the status is now displayed in the settings screen.
+    - Minor fixes.
+Version 4.0.1 (Jul 27, 2021)
+    - Fixed some of the issues related to iCloud syncing.
+Version 4.0 (Jul 6, 2021)
+    - Added iCloud feature. Now you can sync iCloud with other devices and backup your notes data to iCloud.
+Version 3.9.1 (May 12, 2021)
+    - Changed the UI of the date control to popup.
+    - Basic functions have been improved.
+Version 3.8 (Apr 9, 2021)
+    - Update on app tracking.
+Version 3.7 (Dec 16, 2020)
+    - Performance improvements.
+Version 3.6 (Sep 29, 2020)
+    - Performance improvements.
+Version 3.5.1 (Aug 7, 2020)
+    - Few bug fixes.
+Version 3.5 (Jun 25, 2020)
+    - Added the "Recently deleted" function.
+Version 3.4.6 (May 14, 2020)
+    - Performance improvements.
+Version 3.4.5 (May 9, 2020)
+    - Performance improvements.
+Version 3.4.4 (May 7, 2020)
+    - Performance improvements.
+Version 3.4.3 (Apr 20, 2020)
+    - Performance improvements.
+Version 3.4.2 (Apr 6, 2020)
+    - Minor fixes.
+Version 3.4.1 (Mar 18, 2020)
+    - Minor fixes.
+Version 3.4 (Mar 16, 2020)
+    - Performance improvements.
+Version 3.3.1 (Dec 7, 2019)
+    - Fixed a bug that the date is not displayed when editing the date.
+Version 3.3 (Nov 27, 2019)
+    - iOS 13 supported.
+Version 3.2.2 (Sep 6, 2019)
+    - Few bug fixes.
+Version 3.2.1 (Jul 29, 2019)
+    - Minor bug fixes and improvements.
+Version 3.2 (Jul 26, 2019)
+    - Added cover color feature.
+Version 3.1 (Jul 19, 2019)
+    - Added the ability to share all entries.
+    - Few bug fixes.
+Version 3.0 (Jul 14, 2019)
+    - Performance improvements.
+    - iPhone X supported.
+Version 2.7 (Dec 19, 2015)
+    - Few bug fixes.
+Version 2.6.5 (Jul 1, 2015)
+    - Few bug fixes.
+Version 2.6.4 (Jun 18, 2015)
+    - Few bug fixes.
+Version 2.6.3 (Jun 8, 2015)
+    - Few bug fixes.
+Version 2.6.2 (May 30, 2015)
+    - Few bug fixes.
+Version 2.6.1 (May 15, 2015)
+    - Few bug fixes.
+Version 2.6 (Apr 23, 2015)
+    - Bug fixes.
+Version 2.5.1 (Dec 1, 2014)
+    - Bug fixes.
+Version 2.5 (Nov 24, 2014)
+    - iPhone 6, 6 Plus support.
+Version 2.4 (Oct 20, 2014)
+    - iOS 8 support
+Version 2.3.6 (Aug 9, 2014)
+    - Few bug fixes.
+Version 2.3.5 (Jun 2, 2014)
+    - Few bug fixes.
+Version 2.3.4 (May 12, 2014)
+    - Few bug fixes.
+Version 2.3.3 (Mar 22, 2014)
+    - Bug fixes.
+Version 2.3.2 (Feb 18, 2014)
+    - Few bug fixes.
+Version 2.3.1 (Feb 11, 2014)
+    - Few bug fixes.
+Version 2.3 (Feb 5, 2014)
+    - Bug fixes.
+Version 2.2.1 (Jan 24, 2014)
+    - Remove Ads function was added.
+Version 2.2 (Jan 16, 2014)
+    - Bug fixes.
+Version 2.1.2 (Dec 8, 2013)
+    - Few bug fixes.
+Version 2.1.1 (Nov 7, 2013)
+    - Bug fixes.
+Version 2.1 (Oct 16, 2013)
+    - Few bug fixes.
+Version 2.0.1 (Oct 1, 2013)
+    - Few bug fixes.
+Version 2.0 (Sep 26, 2013)
+    - iOS7 supported
+Version 1.3.0 (Jul 11, 2013)
+    - Added display order function.
+Version 1.2.4 (Jul 1, 2013)
+    - Few bug fixes
+Version 1.2.3 (Jun 20, 2013)
+    - Few bug fixes
+Version 1.2.2 (Jun 12, 2013)
+    - Few bug fixes
+Version 1.2.1 (Jun 4, 2013)
+
+Users may also like
+Select objects to compare
+Diary With Password
+Old Notepad : Easy Memo Notes
+n+otes
+Notebook - Take notes, To do
+Secure Notepad
+Sticky Notes + Widget Memo
+Simple Notepad -BestNote-
+QuickNotes X: Notes, AI & PDF
+Inkpad Notepad - Notes - To do
+Just Write - App For Writer
+IQ Classifications
+Genre: Lifestyle
+Subgenre: Other Lifestyle
+Other Lifestyle
+Other lifestyle apps that do not fit other existing Lifestyle subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.17
+    Current release
+    Oct 26, 2023
+    4.16.1
+    Oct 2, 2023
+    4.16
+    Sep 21, 2023
+    4.15.1
+    Jul 24, 2023
+    4.15
+    Mar 27, 2023
+    4.14.1
+    Mar 11, 2023
+    4.14
+    Mar 3, 2023
+    4.13
+    Feb 10, 2023
+    4.12.1
+    Feb 6, 2023
+    4.12
+    Jan 19, 2023
+    4.11
+    Dec 8, 2022
+    4.10
+    Nov 10, 2022
+    4.9
+    Nov 4, 2022
+    4.8
+    Oct 17, 2022
+    4.5.1
+    Aug 25, 2022
+    4.5
+    Aug 16, 2022
+    4.4
+    Dec 10, 2021
+    4.3
+    Nov 10, 2021
+    4.2
+    Oct 29, 2021
+    4.1
+    Sep 15, 2021
+    4.0.3
+    Aug 6, 2021
+    4.0.2
+    Aug 2, 2021
+    4.0.1
+    Jul 27, 2021
+    4.0
+    Jul 6, 2021
+    3.9.1
+    May 12, 2021
+    3.8
+    Apr 9, 2021
+    3.7
+    Dec 16, 2020
+    3.6
+    Sep 29, 2020
+    3.5.1
+    Aug 7, 2020
+    3.5
+    Jun 25, 2020
+    3.4.6
+    May 14, 2020
+    3.4.5
+    May 9, 2020
+    3.4.4
+    May 7, 2020
+    3.4.3
+    Apr 20, 2020
+    3.4.2
+    Apr 6, 2020
+    3.4.1
+    Mar 18, 2020
+    3.4
+    Mar 16, 2020
+    3.3.1
+    Dec 7, 2019
+    3.3
+    Nov 27, 2019
+    3.2.2
+    Sep 6, 2019
+    3.2.1
+    Jul 29, 2019
+    3.2
+    Jul 26, 2019
+    3.1
+    Jul 19, 2019
+    3.0
+    Jul 14, 2019
+    2.7
+    Dec 19, 2015
+    2.6.5
+    Jul 1, 2015
+    2.6.4
+    Jun 18, 2015
+    2.6.3
+    Jun 8, 2015
+    2.6.2
+    May 30, 2015
+    2.6.1
+    May 15, 2015
+    2.6
+    Apr 23, 2015
+    2.5.1
+    Dec 1, 2014
+    2.5
+    Nov 24, 2014
+    2.4
+    Oct 20, 2014
+    2.3.6
+    Aug 9, 2014
+    2.3.5
+    Jun 2, 2014
+    2.3.4
+    May 12, 2014
+    2.3.3
+    Mar 22, 2014
+    2.3.2
+    Feb 18, 2014
+    2.3.1
+    Feb 11, 2014
+    2.3
+    Feb 5, 2014
+    2.2.1
+    Jan 24, 2014
+    2.2
+    Jan 16, 2014
+    2.1.2
+    Dec 8, 2013
+    2.1.1
+    Nov 7, 2013
+    2.1
+    Oct 16, 2013
+    2.0.1
+    Oct 1, 2013
+    2.0
+    Sep 26, 2013
+    1.3.0
+    Jul 11, 2013
+    1.2.4
+    Jul 1, 2013
+    1.2.3
+    Jun 20, 2013
+    1.2.2
+    Jun 12, 2013
+    1.2.1
+    Jun 4, 2013
+
+See More
+Top In-App Purchases
+
+    Remove Ads
+    $4.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jun 5, 2013
+
+Worldwide Release Date
+    Jun 4, 2013
+
+Last Updated Time
+    Feb 19, 2024
+
+Version
+    4.17
+
+Size
+    5.94 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Japanese, Korean, Simplified Chinese, Spanish
+
+Seller
+    Koji Ito
+
+Company HQ
+    Japan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.2 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    ito.koji.notesfree
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 654645301
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Notebook - Diary & Journal App | data.ai

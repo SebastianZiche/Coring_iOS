@@ -1,0 +1,1322 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+WizNote
+Beijing Wozhi Technology Co. LtdProductivity (Applications)Free
+Alerts
+
+    Beijing Wozhi Technology Co. Ltd
+
+    WizNote
+    WizNote
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+WizNote
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+WizNote is a cloud based free app that helps you and your team manage notes and knowledge efficiently across all devices. WizNote not only can help you to remember your personal life, but also can help your team collaberate and communicate effectively. All notes are searchable and viewed anytime.
+
+[Key features]
+
+Rich way to record and collect information
+- A note can contain text, pictures, documents, checklist, audio record
+- You can collect notes from website, wechat and email
+
+Efficient Organization
+- Orgonize notes with flexible muilti-level folder
+
+Convenient, fast synchronization
+- All your notes are syncronized instantly.
+- Offline notes are supported, you can specify which folder to be availalble offline.
+
+Sharing and Collaboration
+- Share notes within team members
+- Collaberate simontiniously to edit notes
+- Flexible notification will remind your team member when a team note is updated
+- You can push notifications to specific team members in a sociable way
+
+About WizNote
+Weibo：http://weibo.com/wiz2011
+Wechat: wiznote
+Ratings
+Displayed Avg Ratings
+4.35
+Total Displayed Ratings
+1.6k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.3.7 (Mar 31, 2023)
+    Repair the issue of abnormal folder data caused by folder renaming
+Version 8.3.6 (Dec 6, 2022)
+    Fixed text style toolbar not working under iOS 16
+Version 8.3.5 (Nov 23, 2022)
+    Fix a possible error when syncing group notes folders
+Version 8.3.4 (May 16, 2022)
+    - Bug fixes
+    - Support for 2-step login verification (requires to enable the option on Settings on the latest desktop version of WizNote X)
+Version 8.3.3 (Mar 21, 2022)
+    - Fixed the language inconsistency after changing the region
+Version 8.3.2 (Jan 22, 2022)
+    【Fixed】
+    - The problem that the message related to the collaboration not cannot be opened
+    - Unable to modify nickname
+    - other known issues
+Version 8.3.0 (Sep 18, 2021)
+    # New Feature
+    * Able to Read and Edit the notes created in the new version of WizNote X
+Version 8.2.4 (May 12, 2021)
+    Fixed the issue that can not insert images after updating to iOS 14.5.1
+Version 8.2.2 (Feb 21, 2021)
+    Fixed an issue that recording files are failed to share
+    Fixed an issue that could result in a failure when visiting the Team Settings page
+Version 8.2.1 (Jan 25, 2021)
+    * Fixed the bug that the cursor position returns to the top after switching to other applications when editing notes
+    * Fixed the bug that failed to access notes after uploading over-limit attachments (100M)
+    * Fixed some editor bugs
+Version 8.2.1 (Jan 25, 2021)
+    * Fixed the bug that the cursor position returns to the top after switching to other applications when editing notes
+    * Fixed the bug that failed to access notes after uploading over-limit attachments (100M)
+    * Fixed some editor bugs
+Version 8.2.0 (Dec 14, 2020)
+    * Fixed the bug that the Today widget failed to load
+    * Fixed the display bug after long-press the like icon on the group note page
+    * Auto shorten the long filename when sharing a file to WizNote
+
+    -------
+    # Recently
+    * Take Photo in row and scan documents to insert into notes
+    * Play the records in note list view
+    * iOS14 Widget
+Version 8.1.9 (Dec 2, 2020)
+    New Feature: Widget for iOS14
+    * Today's Note, any thoughts and ideas? do not let them vanish
+    * Folders, get quick access to a folder or pinned notes
+    * Reminders, get quick access to today's reminders
+
+    How to add: long-press the home screen, tap the + on the left top corner, then choose your favorite WizNote widgets
+
+    -------
+    # Recently
+    * Take Photo in row and scan documents to insert into notes
+    * Play the records in note list view
+Version 8.1.7 (Oct 12, 2020)
+    Fixed the overtime issue when search
+    Fixed the calendar selector issue when adding a reminder on iOS14
+Version 8.1.6 (Sep 8, 2020)
+    New feature: Delete Account
+
+    ---------
+    Released recently
+
+    # Take photos continuously
+    Now you could take pictures of the keynotes when you take notes in a workshop or meeting.
+
+    # Scan Documents
+    Scan your favorite novel paragraph or the essential documents, and save them to your WizNote.
+Version 8.1.5 (Aug 27, 2020)
+    - Fixed the issue that the deleted folders display again when syncing after removing or modifying folders on other devices.
+    - Fixed the issue that encrypted note won't update after modifying the note on WizNote mac client
+
+    Released recently
+    ---------
+    # Take photos continuously
+    Now you could take pictures of the keynotes when you take notes in a workshop or meeting.
+
+    # Scan Documents
+    Scan your favorite novel paragraph or the important documents, and save them to your WizNote.
+Version 8.1.4 (Aug 17, 2020)
+    New Features！
+
+    # Take photos continuously
+    Now you could take pictures of the keynotes when you take notes in a workshop or meeting.
+    # Scan Documents
+    Scan your favorite novel paragraph or the important documents, and save them to your WizNote
+    # Share to WizNote
+    Choose to collect the web page or just save the URL when you share a website through system sharing
+
+    Bugs Fixed
+    - Fixed: can not detect the content in the clipboard
+    - Fixed: the edit toolbar disappeared when connecting a Bluetooth keyboard
+    - Fixed: the note title changed unexpectedly after switching the WizNote to background
+    - Fixed: the crash issue when creating a new note in an experienced account
+    - Fixed: the link can not be clickable after adding a space or input enter after the URL
+Version 8.1.3 (Jun 15, 2020)
+    New Outline feature released!
+    - New Expand/Collapse interaction
+    - Insert picture
+    - Ten new mind map themes
+
+    New audio playing feature
+    - tap on the ··· icon on the right top corner of the note list page, choose Show Audios
+    - Now you could play audio on the note list page
+
+    Long press the folder list could launch the sorting feature
+    Fixed the crash issue when moving a folder or tag
+    Fixed the problem that the handwriting area missed after inserting an image
+    Fixed the bug that can not collect the web page when copying the same last link
+    Fixed the crash issue after setting the Outline as default note template 
+Version 8.1.2 (May 6, 2020)
+    Fixed: the content missing issue when editing a note on iOS 12 devices
+Version 8.1.1 (Apr 28, 2020)
+    Add a webpage collection to the drop-down component (copy the webpage link, it will display the saved webpage icon, click to save the webpage content directly)
+    Fix the problem that notes cannot be marked
+    Fix the problem that the newly registered user will expire when upgrading VIP
+    ---
+    Recent updates:
+    Add an outline note, click the feather pen at the bottom, and select "Outline Note" in the template list to create
+Version 8.1.0 (Apr 14, 2020)
+    New feature: Outline Note
+    Use the bullets to clarify your ideas. The Outline Note can be generated to a mind map.
+    ------
+    Fixed bugs on the editor
+Version 8.0.2 (Mar 25, 2020)
+    New feature: sorting folder by drag and drop
+    Optimize the edit experience and fix bugs
+Version 8.0.1 (Feb 17, 2020)
+    New feature: send your feedback through the user community
+    Optimize the interaction of decrypting note
+    Improve the experience when deleting a note
+    Now the finding procedure can be stopped when searching the private service address
+    Fixed bugs
+Version 8.0 (Jan 16, 2020)
+    New Feature: Sign In with Apple
+    Improved the experience of the sign-in page
+    Optimized the images downloading procedure
+    Fixed the issue: click the item in outline, but it can not locate the right position
+    Fixed several issues on editing
+Version 7.9.8 (Nov 11, 2019)
+    New feature: System sharing feature supported when signed in the Docker WizNote Server
+    Fixed the issue that the handwriting note created in the group have no avatar
+    Optimized the experience of WizNote Medals
+Version 7.9.7 (Oct 15, 2019)
+    New feature: Markup your notes
+    Fixed: the freezing issue when select multiple images on iOS 13 then share to WizNote
+    Improved the experience and performance of WizNote on iOS 13
+Version 7.9.5 (Aug 22, 2019)
+    New feature: The link of a clipped note can be opened through Safari.
+    Fixed: Some certain characters showed failed in the note list.
+    Fixed: An error occurred when registered by phone number.
+    Fixed: An unknown error occurred when signing in after changing password.
+Version 7.9.4 (Apr 16, 2019)
+    Optimized the process of downloading note
+    Bug fixed: Empty folder cannot be deleted or renamed
+    Bug fixed: The cache cannot be cleared off to 0 kb
+    Bug fixed: The frozen issue when search note on the unstable connection
+    Bug fixed: The order list number added failed after inserting an image
+    Bug fixed: The sync issue after modifying folder from personal Note to group note
+    Bug fixed: The handwriting page popped up when scrolling the note
+Version 7.9.3 (Mar 22, 2019)
+    # Bug fixes:
+    Some notes cannot downloaded
+    The crash when you set the default template
+
+    # New feature: Handwriting, colorful your creativity.
+    - Multiple brushes: Pen，Pencil and Highlighter
+    - Color and size selecting
+    - Shape optimized automatically
+    - Eraser can only remove the highlighter
+Version 7.9.2 (Mar 18, 2019)
+    New feature: Handwriting, colorful your creativity.
+    - Multiple brushes: Pen，Pencil and Highlighter
+    - Color and size selecting
+    - Shape optimized automatically
+    - Eraser can only remove the highlighter
+
+    Bug Fixes: the pasting issue
+Version 7.9.1 (Mar 15, 2019)
+    Handwriting feature released！
+    - Multiple brushes: Pen, Pencil, and Highlighter
+    - Color and size selecting
+    - Shape optimized automatically
+    - Eraser can only remove the highlighter
+
+    New folder setting: Hide Folder
+Version 7.9.0 (Feb 2, 2019)
+    Fixed the crash issue when searching note
+    Fixed the issue that empty folder redisplayed after being deleted
+    Optimized the style of the image when sharing note into an image
+
+    ---Recently Released---
+    The Spring Festival theme released
+    Outliner of note
+    The code wrap option
+    Sharing note into image or PDF
+Version 7.8.9 (Jan 30, 2019)
+    Happy Spring Festival, a new theme released
+    New feature: Share note as an image
+    Fixed: the group to-do list does not display the member avatar after clicking
+    Fixed: Code menu style issue
+Version 7.8.8 (Jan 22, 2019)
+    New feature: Outliner
+    New feature: Code wrap option when reading or editing note
+    New feature: Share note as PDF
+    Now you could create a new tag when you add a tag to note
+    Area number supporting when adding a phone to your account
+    Optimize the full-screen reading experience
+
+    Fix the problem that clicking the forgotten password and can't log out to the login interface.
+    Fix copying Latex formula paste, part of the symbol is missing
+    Fix the black screen problem that appears when upgrading to VIP
+    Fix the new iPad prompts crash when using FaceID
+    Fix the parameter type error of binding QQ
+    Fix an issue where the meeting date will change after editing with the Meeting Minutes template
+Version 7.8.7 (Dec 1, 2018)
+    Optimized the position of the scrollbar when note saved after editing
+    Optimized: Inserting images in order of pressed
+    Fixed the problem that edit failed on iOS 9 and iOS 10
+    Fixed the crash on syncing
+Version 7.8.6 (Nov 26, 2018)
+    Fixed the issue that sign in through QQ failed
+    Fixed the crash when syncing notes
+    Optimized the style of Markdown and code block at Night Mode
+    Fixed the bug that the code showed incomplete
+    Fixed the bug that loading animation block the password input box when opening an encrypted note
+Version 7.8.5 (Oct 31, 2018)
+    Promotion: 11.01 - 11.12, purchase 1 year VIP service, get 1 month VIP extra
+    Bug fixed
+Version 7.8.4 (Oct 29, 2018)
+    Fixed the bugs at editing and improve full-screen reading performance
+Version 7.8.3 (Sep 21, 2018)
+    1. Happy Mid-Autumn Festival, we launched a new holiday theme for you.
+    2. Optimized the interaction on the More menu at reading page.
+    3. New Edit Settings for change line space and paragraph space.
+Version 7.8.2 (Sep 13, 2018)
+    1. New feature: Folder and Tag Search. When you type in at searching page, the folders and tags matched will show.
+    2. Remind to move the notes when you sign in after ending experience in the No-account mode.
+    3. Bugs fixed, and performance improved
+Version 7.8.1 (Aug 14, 2018)
+    Optimized and bugs fixed
+Version 7.8.0 (Jul 20, 2018)
+    New feature: can attach files from iCloud
+    New feature: Rename attachment, open attachments in other apps
+    New feature: Sort by date viewed
+    Optimized the layout of note reading view
+    Optimized the setting of limits when uploading notes by the Cellular network
+    Solved the issue that cannot type in through default keyboard
+Version 7.7.7 (Jun 19, 2018)
+    1. Solved the issue that the sign in with social account page was unavailable
+    2. Solved the issue that sync was slow at some historical version
+    3. Solved the issue that reading position cannot be saved
+    4. Optimized the rate of sync
+Version 7.7.6 (Jun 6, 2018)
+    New feature: Pure Reading Mode, set a new style of web clipped notes and remove distract areas like ads or comments.
+    New Editing feature: Headline 1-3, Remove Style and Text Align.
+    New feature: You could decrypt notes or unlock application by FaceID,
+    Optimize: The cursor will move down automatically when editing on to bottom of the page.
+    Fixed the reading issue on iPhone X.
+    Fixed the issue could not make a call by clicking the link of a phone number.
+    Fixed the issue that More menu will not close when you returning to vertical screen from horizon screen.
+Version 7.7.3 (Jan 17, 2018)
+    1. Optimized editing and reading features
+    2. Fixed the problem that can not input punctuation mark using Jiugongge input method
+    3. Fixed the crash problem when scanning and download images through picture browser
+    4. Fixed the problem that the group folders hierarchy occasionally got in turmoil
+    5. Adjusted the maximum upload limit for mobile networks (from 30 M adjust to 100 M)
+Version 7.7.2 (Nov 29, 2017)
+    -----This Version Updates------
+    1. Fixed the problem of "Remember where to read".
+    2. Fixed the problem that "Right sliding back" failed sometimes.
+    3. Fixed the problem that "Can't upload the default note for new user"
+    4. Better fit iPhone x.
+Version 7.7.1 (Nov 7, 2017)
+    1. In WizNote Double 11, if you purchase a year vip, you will get another one month vip, and limited edition universe theme.
+    Activity time：11.09 - 11.13
+    2. Better adaptation iPhone x
+Version 7.7.0 (Oct 28, 2017)
+    -----This Version Updates------
+    1. Adapt iOS11
+    2. Adapt iPhone x
+    3. Fixed the problem that loading notes failed
+
+
+    ------Recent Updates------
+    1. Optimize the placement of the Top notes in recent notes list
+    2. Fixed the problem that the pasted images became blank when uploading to cloud
+    3. Fixed the problem that the cursor is blocked by the keyboard
+
+    The note for Wiz Box users: The version does not support the old box (can't be synced), please upgrade the box before updating this client.
+Version 7.6.8 (Sep 23, 2017)
+    -----This Version Updates------
+    1. Fixed the problem that the pasted images became blank when uploading to cloud
+    2. Fixed the problem that the cursor is blocked by the keyboard
+    3. Fixed some problems with editing rich text notes
+    4. Fixed the recording image file to insert the text becomes larger
+
+    ------Recent Updates------
+    1. Optimize the placement of the Top notes in recent notes list
+    2. You can be moved forward or backward when playing a recording
+    3. You can visually see the number of notes and tags when reading notes
+
+    The note for Wiz Box users: The version does not support the old box (can't be synced), please upgrade the box before updating this client.
+Version 7.6.7 (Aug 31, 2017)
+    -----This Version Updates------
+    1. Optimize the placement of the Top notes in recent notes list
+    2. You can be moved forward or backward when playing a recording
+    3. You can visually see the number of notes and tags when reading notes
+
+
+    The note for Wiz Box users: The version does not support the old box (can't be synced), please upgrade the box before updating this client.
+
+    ------Recent Updates------
+    1. Provide more font attributes when editing note.
+    2. You can add tags for notes in bulk
+    3. Increase the sync speed
+Version 7.6.6 (Aug 17, 2017)
+    -----This Version Updates------
+    1. Provide Top Feature
+    2. You can add tags for notes in bulk
+    3. Increase the sync speed
+    4. Fix the issue of editing the label invalid
+    5. Fix the problem of crash
+
+    The note for Wiz Box users: The version does not support the old box (can't be synced), please upgrade the box before updating this client.
+
+    ------Recent Updates------
+    1. Provide more font attributes when editing note.
+    2. You can switch to the new sync mode to experience the thrill of incremental sync.
+    3. Provide Chinese traditional language.
+Version 7.6.5 (Aug 11, 2017)
+    -----This Version Updates------
+    1. Provide Top Feature
+    2. You can add tags for notes in bulk
+    3. Increase the sync speed
+
+
+    ------Recent Updates------
+    1. Provide more font attributes when editing note.
+    2. You can switch to the new sync mode to experience the thrill of incremental sync.
+    2. Provide Chinese traditional language.
+Version 7.6.4 (Jun 14, 2017)
+    -----This Version Updates------
+    1. Provide more font attributes when editing note.
+    2. You can adjust the font size when reading markdown note.
+    3. Fixed the problem that the album can't show the recent photos under iOS8.
+    4. Fix the recording notes can't be fully played.
+
+
+    ------Recent Updates------
+    1. You can switch to the new sync mode to experience the thrill of incremental sync.
+    2. Provide Chinese traditional language.
+    3. Provide 5 minutes interval for setting note reminder.
+Version 7.6.3 (May 23, 2017)
+    -----This Version Updates------
+    1. Provide Chinese traditional language.
+    2. Provide 5 minutes interval for setting note reminder.
+    3. Fixed the problem that downloaded notes cann't be dispalyed under the label.
+    4. Fix the problem of loading the image failed.
+
+
+    ------Recent Updates------
+    1. You can switch to the new sync mode to experience the thrill of incremental sync.
+    2. Fixed the heat problem when use pure reading mode phone
+    3. Fixed the the language problem
+Version 7.6.2 (May 4, 2017)
+    1. Fixed the heat problem when use pure reading mode phone
+    2. Fixed the the language problem
+Version 7.6.1 (Apr 27, 2017)
+    -----This Version Updates------
+    1. Provide more sorting for search results
+    2. You can be set offline download attachments
+    3. Software can be free to switch between Chinese and English
+    4. Optimize new sync methods
+
+
+    ------Recent Updates------
+    1. Improve the sync speed, experience the thrill of incremental sync.
+    2. Support the search within the note.
+    3. You can set font size of Markdown notes.
+Version 7.6.0 (Apr 18, 2017)
+    -----This Version Updates------
+    1. Improve the sync speed, experience the thrill of incremental sync.
+    2. Support the search within the note.
+    3. Optimize the way inserting images.
+    4. Fixed the crash problem under iOS 8.1 and 8.4 systems.
+
+
+    ------Recent Updates------
+    1. You can view and restore historical version of notes.
+    2. You can view share list and cancel it.
+    3. Optimize the cursor positioned when editing notes.
+    4. Improve the search experience with accuracy and speed.
+    5. You can modify the date of my journal template.
+Version 7.5.0 (Feb 26, 2017)
+    -----This Version Updates------
+    1. You can view and restore historical version of notes.
+    2. You can view share list and cancel it.
+    3. Optimize the cursor positioned when editing notes.
+    4. Fix the crash problem when searching some keywords.
+
+    ------Recent Updates------
+    1. Improve the search experience with accuracy and speed.
+    2. You can modify the date of my journal template.
+    3. You can modify the module title of the Jiugongge diary template.
+    4. Add two themes color, setting method: click portrait on the left sidebar - find color theme settings.
+    5. You can adjust the font size when reading.
+Version 7.4.2 (Jan 25, 2017)
+    -----This Version Updates------
+    1. Improve the search experience with accuracy and speed.
+    2. Fixed the problem that you can not read notes in night mode.
+    3. Fixed the problem that deleting the ordinary notes needing password when reading notes.
+    4. Optimize the formula rendering in markdown notes
+
+    ------Recent Updates------
+    1. You can modify the date of my journal template.
+    2. You can modify the module title of the Jiugongge diary template.
+    3. Add two themes color, setting method: click portrait on the left sidebar - find color theme settings.
+    4. You can adjust the font size when reading.
+Version 7.4.1 (Jan 22, 2017)
+    -----This Version Updates------
+    1. Improve the search experience with accuracy and speed.
+    2. Fixed the problem that you can not read notes in night mode.
+    3. Fixed the problem that deleting the ordinary notes needing password when reading notes.
+
+    ------Recent Updates------
+    1. You can modify the date of my journal template.
+    2. You can modify the module title of the Jiugongge diary template.
+    3. Add two themes color, setting method: click portrait on the left sidebar - find color theme settings.
+    4. You can adjust the font size when reading.
+Version 7.4 (Jan 20, 2017)
+    -----This Version Updates------
+    1. Improve the search experience with accuracy and speed.
+    2. You can modify the date of my journal template.
+    3. You can modify the module title of the Jiugongge diary template.
+    4. Add two themes color, setting method: click portrait on the left sidebar - find color theme settings.
+
+    ------Recent Updates------
+    1.【New】You can adjust the font size when reading.
+    2.【New】You can batch processing notes.
+    3. Fixed the stuck problem that moving personal notes to group folder when editing notes.
+    4. Optimized the editing experience.
+Version 7.3.2 (Jan 10, 2017)
+    Fixed the sync problem after the user upgrading the vip
+Version 7.3.1 (Jan 7, 2017)
+    ------This Version Updates------
+    1. Increase sync speed
+    2. Fixed some bug
+
+    ------Coming soon------
+    We will improve search feature greatly in Spring Festival Version, stay tuned.
+
+    ------Recent Updates------
+    1.【New】You can adjust the font size when reading.
+    2.【New】You can batch processing notes.
+    3. Fixed the stuck problem that moving personal notes to group folder when editing notes.
+    4. Optimized the editing experience.
+    5.【New】Add Encrypted Group feature.
+    6.【New】Add a daily reminder.
+    7.【New】Add Word Count at Note Information page.
+    8. Imported pdf file on the computer can automatically enter the reading mode in the iOS-client.
+    9. The note is clipped from webpage could be opened in Pure Reading Mode automatically.
+Version 7.3.0 (Dec 16, 2016)
+    ------This Version Updates------
+    1.【New】You can adjust the font size when reading.
+    2.【New】You can batch processing notes.
+    3. Fixed the stuck problem that moving personal notes to group folder when editing notes.
+
+    ------Coming soon------
+    We will improve search feature greatly in Spring Festival Version, stay tuned.
+
+    ------Recent Updates------
+    1. Optimized the editing experience.
+    2.【New】Add Encrypted Group feature.
+    3.【New】Add a daily reminder.
+    4.【New】Add Word Count at Note Information page.
+    5. Imported pdf file on the computer can automatically enter the reading mode in the iOS-client.
+    6. The note is clipped from webpage could be opened in Pure Reading Mode automatically.
+Version 7.2.1 (Nov 30, 2016)
+    ------This Version Updates------
+    Fixed the crash problem when no wi-fi and mobile network
+
+    ------Recent Updates------
+    1. 【New】You can batch processing notes.
+    2. 【New】In the list of notes，you can delete, set reminders, move, add shortcuts by left sliding.
+    3. 【New】Add Encrypted Group feature
+    4. 【New】Add a daily reminder
+    5. Imported pdf file on the computer can automatically enter the reading mode in the iOS-client.
+    6. Optimized the reading experience.
+    7. Fixed the bug that images are smaller boxes occasionally.
+    8. Add Word Count at Note Information page
+    9. The note is clipped from webpage could be opened in Pure Reading Mode automatically
+Version 7.2.0 (Nov 24, 2016)
+    ------This Version Updates------
+    1. 【New】You can batch processing notes.
+    2.【New】In the list of notes，you can delete, set reminders, move, add shortcuts by left sliding.
+    3. Imported pdf file on the computer can automatically enter the reading mode in the iOS-client.
+    4. Optimized the reading experience.
+    5. Fixed the bug that images are smaller boxes occasionally.
+
+
+    ------Recent Updates------
+    1. 【New】Add Encrypted Group feature
+    2.【New】Add a daily reminder
+    3. Add Word Count at Note Information page
+    4. The note is clipped from webpage could be opened in Pure Reading Mode automatically
+Version 7.1.0 (Oct 20, 2016)
+    ------This Version Updates------
+
+    1. 【New】Add Encrypted Group feature
+    2. 【New】Add a daily reminder
+    3. Fixed the white screen problem when into the pure reading mode
+
+    ------Recent Updates------
+    1. Add Word Count at Note Information page
+    2. The note is clipped from webpage could be opened in Pure Reading Mode automatically
+    3. Reminders come! You can set multiple and repetitive, and receive alerts by e-mail and WeChat
+    4. New feature of diary, work log and meeting templates
+    5. New feature of team moments, add the group you concerned, view the latest notes at the first time.
+    6. New feature of Night Mode, reading comfortable with no glaring.
+    7. Optimized Markdown fully, you can input basic grammar quickly, also support TOC, flow charts, and timing chart.
+    8. New feature of create notes by 3Dtouch, support text, photograph, checklist and default template.
+Version 7.0.7 (Sep 14, 2016)
+    ------This Version Updates------
+
+    1.【New】Add Word Count at Note Information page
+    2.【New】The note is clipped from webpage could be opened in Pure Reading Mode automatically
+    3. Fix the bug of deleting note in registration-free
+    4. Fix the bug of typesetting when you create a note through Notification Bar
+
+    We also redesigned the notification bar component for fitting iOS 10. Guys who have updated should try it!
+
+    ------Recent Updates------
+    ● Reminders come! You can set multiple and repetitive, and receive alerts by e-mail and WeChat
+    ● New feature of diary, work log and meeting templates
+    ● New feature of team moments, add the group you concerned, view the latest notes at the first time.
+    ● New feature of Night Mode, reading comfortable with no glaring.
+    ● Optimized Markdown fully, you can input basic grammar quickly, also support TOC, flow charts, and timing chart.
+    ● New feature of create notes by 3Dtouch, support text, photograph, checklist and default template.
+Version 7.0.6 (Jul 22, 2016)
+    ------This Version Updates------
+
+    ● Enhance the reminder data loading speed, optimize the operation state markers
+    ● Fix the bug of Checklist editing
+    ● Fix the bug of Shortcut data losing
+
+    ------Recent Updates------
+    ● Reminders come! You can set multiple and repetitive, and receive alerts by e-mail and WeChat
+    ● New feature of diary, work log and meeting templates
+    ● New feature of team moments, add the group you concerned, view the latest notes at the first time.
+    ● New feature of Night Mode, reading comfortable with no glaring.
+    ● Optimized Markdown fully, you can input basic grammar quickly, also support TOC, flow charts, and timing chart.
+    ● New feature of create notes by 3D touch, support text, photograph, checklist and default template.
+Version 7.0.5 (Jun 1, 2016)
+    ------This Version Updates------
+    1. [Surprise] Reminders come! You can set multiple and repetitive, and receive alerts by e-mail and WeChat
+    2. New feature of set group invitation link, add members more flexible
+    3. New feature of recording attachment can share to other tools to open or save
+    4. Fixed the crash when scanning business card without network
+    5. Fixed the bug of table editing
+
+    ------Recent Updates------
+    1. Comprehensive New Look, look more refreshing.
+    2. New feature of diary, work log and meeting templates
+    3. New feature of team moments, add the group you concerned, view the latest notes at the first time.
+    4. New feature of Night Mode, reading comfortable with no glaring.
+    5. Optimized Markdown fully, you can input basic grammar quickly, also support TOC, flow charts, and timing chart.
+    6. New feature of create notes by 3D touch, support text, photograph, checklist and default template.
+Version 7.0.4 (Mar 25, 2016)
+    ------ This Version Updates ------
+    1. New feature of business card scanning, can recognize contents then save on note
+    2. New feature of invitation link, also can send to WeChat
+    3. New feature of account setting, can modify password and bind social accounts
+    4. Optimized way of display avatar
+    5. Fix the bug of scroll bar can not be display
+    6. Fix the bug of share photos from an album can not be saved
+    7. Fix the bug of new feature hints can not be closed
+
+    ------ Recent Updates ------
+    1. Comprehensive New Look, look more refreshing.
+    2. New feature of diary, work log and meeting templates
+    3. New feature of team moments, add the group you concerned, view the latest notes at the first time.
+    4. New feature of Night Mode, reading comfortable with no glaring.
+    5. Optimized Markdown fully, you can input basic grammar quickly, also support TOC, flow charts, and timing chart.
+    6. New feature of create notes by 3D Touch, support text, photograph, checklist and default template.
+Version 7.0.3 (Feb 4, 2016)
+    This Version Updates
+    1. New feature of Night Mode, reading comfortable with no glaring.
+    2. New feature of Like group notes.
+    3. New feature of create notes by 3D Touch, support text, photograph, checklist and default template.
+    4. Fully optimized account information and settings page.
+    5. New feature of visit source page of web clip notes.
+    6. New feature of create option that select templates or create default template.
+    7. Fix the bug of Markdown [toc] content display abnormally
+    8. Fix the bug of pop-up connection failure frequently
+
+    Recent Updates
+    1. Comprehensive New Look, look more refreshing.
+    2. New feature for dairy, work log, and meeting note templates
+    3. New feature of team moments, add group you concerned, view the latest notes at the first time.
+    4. New feature of shortcuts, adding common notes, folders, tags to shortcuts to find and view quickly.
+    5. Optimized Markdown fully, you can input basic grammar quickly, also support TOC, flow charts, and timing chart.
+    6. New feature of "My Achievement", take medal by learning useful features, and earn points.
+Version 7.0.2 (Jan 11, 2016)
+    Fix bug:
+    Fix share by links bugs.
+Version 7.0.1 (Jan 5, 2016)
+    This Version Updates
+    1, New feature for dairy, work log, and meeting note templates
+    2, New feature of shortcuts, adding common notes, folders, tags to shortcuts to find and view quickly.
+    3, New feature of team moments, add group you concerned, view the latest notes at the first time.
+    4, New feature of encryption note.
+    5, Fixed the crash bug when update VIP in settings > security
+    6, Fixed the crash bug when edit tag in tag list
+
+    Recent Updates
+    1, Comprehensive New Look, look more refreshing.
+    2, Optimized editor fully, provided undo and restore feature, as well as bold, italic and other basic font attributes.
+    3, Optimized Markdown fully, you can input basic grammar quickly, also support TOC, flow charts, and timing chart.
+    4, New feature of "my achievement", take medal by learning useful features, and earn points.
+Version 7.0 (Nov 30, 2015)
+    1, Comprehensive New Look, look more refreshing.
+    2, Optimized editor fully, provided undo and restore feature, as well as bold, italic and other basic font attributes.
+    3, Optimized Markdown fully, you can input basic grammar quickly, also support TOC, flow charts, and timing chart.
+    4, New feature of "my achievement", take medal by learning useful features, and earn points.
+Version 6.3.8 (Oct 9, 2015)
+    1, Fixed the problem the web page can't be shared to WizNote via Safari in iOS 9.
+    2, Fixed the problem you can't sign in by qq in iOS 9.
+Version 6.3.7 (Sep 22, 2015)
+    1, Fixed the crash problem when copying notes.
+    2, Fixed some bug,specifically for iOS 9.
+    Enjoy it!
+Version 6.3.6 (Sep 10, 2015)
+    1, New feature for notes statistics
+    2, Optimize synchronization function
+Version 6.3.5 (Aug 22, 2015)
+    1,You can customize your profile photo.
+    2,You can change your nick name.
+    3,Optimize the notes sorting.
+Version 6.3.4 (Aug 7, 2015)
+    1,You can copy notes. The template you create in pc clients, you just need copy it in iPhone client to use it easily.
+    2,You can create markdown note, make your note beautiful. Press +, create markdown note.
+    3,Supports WeChat login.
+Version 6.3.3 (Jul 9, 2015)
+    1,You can use Track - Changes feature in group notes.
+    2,Fixed the bug that widget clipboard contents can only be saved to "My Notes" folder, now it can be saved to the default folder.
+    3,Fixed other bug.
+Version 6.3.2 (Jun 26, 2015)
+    1,Fixed the problem that you may enter the editing interface of one note when open WizNote.
+    2,Fixed font sizes problem when you edit the same note many times in moblie client of WizNote.
+Version 6.3.1 (May 17, 2015)
+    1,You can share your personal note to group
+    2,Optimize searching folder
+    3,Fixed other bugs
+Version 6.3.0 (Apr 23, 2015)
+    1.You can rename the folder.
+    2.You can remember the reading position(set it in settings).
+    3.Fixed the image distortion problem.
+Version 6.2.9 (Mar 12, 2015)
+    1，Fixed the problem that WizNote will crash in iOS 6 system.
+    2，Fixed the problem that the record file of Voice Memos can't be shared to WizNote.
+Version 6.2.8 (Mar 7, 2015)
+    1,Fixed the bug that image can't insert into the corresponding cursor
+    2,Fixed other bug.
+Version 6.2.7 (Feb 18, 2015)
+    1、You can share notes to WeChat，Moments, and Weibo by link.(for vip)
+    2、You can share images of note to other app.
+    3、Fixed some bug.
+Version 6.2.6 (Feb 6, 2015)
+    1, When you edit group note, the note will be locked automatically, avoiding to edit conflict.
+    2, The user of VIP can unlock WizNote with Touch ID.
+    3, The user of VIP can edit encryption notes.
+    4, The user of VIP can decrypt encryption notes with Touch ID.
+    5, Fixed the problem that you can't modify folder of note when viewing note.
+    6, Fixed the problem that the title of note is not displayed properly.
+Version 6.2.5 (Dec 20, 2014)
+    1, Fixed the problem that folder sort order inconsistent between iPhone and PC.
+    2, Fixed the problem that widget wasn't worked properly sometimes.
+    3, Fixed the problem that you can't see the avatars and nicknames after you checked the todolist in groups.
+Version 6.2.4 (Dec 8, 2014)
+    1, New sign in and sign up pages, make you begin to use WizNote quickly.
+    2, Fixed crash problem when restoring the deleted notes
+    3, Fixed the problem that image is rotated 90 degrees when inserting it form album to notes.
+    4, Fixed the problem that you can't receive the message notification in iOS 8
+Version 6.2.3 (Nov 15, 2014)
+    You can record information quickly using widget in iOS 8.
+
+    ● Pull down the notification center, click any button of Text, Camera, Record, List, you can record information qucikly.
+    ● After copying text or image, pull down the notification center,you can save it to WizNote qucikly, and you also can merage them.
+    ● Screenshot and camera photo, you can save them to WizNote quickly by notification center.
+Version 6.2.2 (Oct 27, 2014)
+    Share Content to WizNote
+    You can share web, images to WizNote in iOS 8 directly, easier than ever before.
+    ① View web or select images
+    ② Find WizNote in share menu
+    ③ Choose the place for saving
+    ④ Click "save" menu
+Version 6.2.1 (Oct 9, 2014)
+    1. You can insert many images when editing or creating note.
+    2. Add the feature of full-screen reading, make you read more comfortable.
+    3. Without data cable, you can send images to current note of WizNote for computer.
+Version 6.2.0 (Sep 16, 2014)
+    1, The new group list page and personal information page
+    2, Long press + icon, you can create the different kind of notes quickly.
+    3, Add the feature of syncing specified folder
+    4, The style of notes can be customized, you can decide whether to display abstract or image.
+    5, You can see the status of synchronization at any time.
+Version 6.1.0 (Aug 6, 2014)
+    1, Added the feature of pushing notifications
+
+    2, Added the feature of deleting group's folder
+
+    3, You can create tag when you modify the tag of note
+
+    4, Fixed others bugs
+Version 6.0.9 (Jul 31, 2014)
+    1, Added auto synchronization in backstage
+    2, Enhanced the synchronous speed
+    3, Fixed the problem that can't paste
+    4, Fixed the problem that can't sign in with qq
+    5, Fixed some other bug
+Version 6.0.8 (Jun 12, 2014)
+    1. Add feature of creating and managing team
+    2. Click status bar to the top of note
+    3. Fixed pasting problem
+    4. Fixed some bugs
+Version 6.0.7 (May 22, 2014)
+    Fixed the bug that can't sign in with the third part
+Version 6.0.6 (May 17, 2014)
+    1.The attachment can be opened by another application.
+    2.You can create tag when you modify tag.
+    3. Fixed the bug that pasting image to wiznote can't display.
+    4. Optimized the feature of auto - save.
+    5. Fixed others bug.
+Version 6.0.5 (May 4, 2014)
+    1, Add the checklist feature
+
+    2, New email sharing feature, attachments, images, text and other types can be directly shared with others
+
+    3, Fixed the bug that editing note lead to pause music
+
+    4, Fixed some others bug
+Version 6.0.4 (Mar 5, 2014)
+    1.Add the feature that open the attachment from other APP in WizNote .
+    2.Fixed "onal notes"bug.
+    3.Fixed blank page when editing.
+    4.Fixed editing bug.
+    5.Fixed others bug.
+Version 6.0.3 (Jan 16, 2014)
+    1, Optimized editing feature
+
+    2, Optimized the feature of browsing pictures
+
+    3, Fixed the bug of not copying title when reading
+
+    4, Fixed other bugs
+Version 6.0.2 (Jan 3, 2014)
+    1. Fixed the bug that can't create sub-tag
+    2. Fixed the bug that sliding notes list slowly
+    3. Fixed sync bug
+    4. Fixed others bug
+Version 6.0.1 (Dec 24, 2013)
+    1.Optimized the feature of password protection
+
+    2.Optimized the feature of sync
+
+    3.Fixed some bugs
+Version 6.0.0 (Dec 10, 2013)
+    1. New design,perfectly adapted to iOS 7
+    2. Add features of sorting notes
+    3. Add comment features
+    4.Optimized editing feature
+    5.Fixed some bug.
+Version 5.2.9 (Oct 19, 2013)
+    1, Fixed paste image will flash back problem
+    2, Fixed other bugs
+Version 5.2.8 (Oct 8, 2013)
+    1, Perfect compatible iOS 7
+    2, Fixed paste content in iOS 7 system will flash back problem
+    3, Fixed encrypted notes in iOS 7 system can not enter the password problem
+    4, Fixed the toolbar of view page moves up problem in iOS 7 system
+    5, Fixed flash back problem when searching content.
+Version 5.2.7 (Sep 15, 2013)
+    1,Add feature of links in notes;
+
+    2,Optimized operation fluency;
+
+    3,Fixed some bugs.
+Version 5.2.6 (Aug 16, 2013)
+    1.Added markdown render feature, you can create beautiful note.
+    2.Fixed bug that default folder can't edit.
+    3.Fixed search bug.
+    4.Fixed bug that can't share the attachment of note to group.
+    5.Fixed bug that can't exit the editing tag page.
+Version 5.2.5 (Jun 27, 2013)
+    1, New interface, better experience.
+
+    2, More powerful features for groups:
+    1) Personal notes can be shared to group;
+    2) Personal avatars can be seen in the group notes list;
+
+    2, Added feature of deleting folder.
+
+    3,Upgrade experience of reading notes:
+    1) Reading notes one by one easily;
+    2) Support screen switch anyway;
+    3) The attachment of others app can be opened in WizNote.
+Version 5.2.4 (Jun 18, 2013)
+    1,Add messages feature, make teamwork more convenient.
+
+    2,New folder, manage note more easily.
+
+    3,Optimize reading note feature.
+
+    4,Fixed some bugs.
+Version 5.2.3 (Jun 5, 2013)
+    1.Add creating group features
+
+    2.Add third party login
+
+    3.Optimize interface of sigin in and sigin up
+
+    4.Fixed some bugs.
+Version 5.2.2 (May 21, 2013)
+    1, New tab page.
+
+    2, Add sharing web to Wiznote feature.
+
+    3, Add Shortcut zone for creating new note.
+Version 5.2.1 (May 15, 2013)
+    1,Display the number of notes under folders and tags.
+
+    2,Marked the note in list when it has attachment.
+
+    3,Add features and guide for new user in settings page.
+
+    4,Fixed some bugs.
+Version 5.2.0 (Apr 23, 2013)
+    1.Add reading encrypted notes feature.
+    2.Tag upload or download notes.
+    3.Add Full screen reading features.
+    4.Display sub-folder and sub- tag notes in related folder and tag.
+    5.Optimization search and reading features.
+Version 5.1.1 (Apr 15, 2013)
+    1,Add recording features.
+    2,Add group offline features.
+    3,Add grouping features.
+    4,Add showing sync progress.
+    4,Fixed other bugs.
+Version 5.0.1 (Mar 5, 2013)
+    1,Optimized edit and search function
+
+    2,Optimized root location of group
+
+    3,Fixed out of scroll bar when create note
+
+    4,Fixed error link of evaluation Wiznote
+
+    5,Fixed some small bugs.
+Version 5.0 (Feb 12, 2013)
+
+Users may also like
+Select objects to compare
+SiYuan
+专注笔记：备忘录·日记本·记事本
+MWeb - Markdown Writing, Notes
+wolai 我来 - 块级双链文档
+Taio - Markdown & Text Actions
+flomo浮墨-极简卡片笔记、轻便签与日记备忘
+Metion: Markdown Notes
+EverMemo - Fastest Note
+Cubox: AI Reader & Highlight
+Metaslip: Note & Zettelkasten
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    8.3.7
+    Current release
+    Mar 31, 2023
+    8.3.6
+    Dec 6, 2022
+    8.3.5
+    Nov 23, 2022
+    8.3.4
+    May 16, 2022
+    8.3.3
+    Mar 21, 2022
+    8.3.2
+    Jan 22, 2022
+    8.3.0
+    Sep 18, 2021
+    8.2.4
+    May 12, 2021
+    8.2.2
+    Feb 21, 2021
+    8.2.1
+    Jan 25, 2021
+    8.2.1
+    Jan 25, 2021
+    8.2.0
+    Dec 14, 2020
+    8.1.9
+    Dec 2, 2020
+    8.1.7
+    Oct 12, 2020
+    8.1.6
+    Sep 8, 2020
+    8.1.5
+    Aug 27, 2020
+    8.1.4
+    Aug 17, 2020
+    8.1.3
+    Jun 15, 2020
+    8.1.2
+    May 6, 2020
+    8.1.1
+    Apr 28, 2020
+    8.1.0
+    Apr 14, 2020
+    8.0.2
+    Mar 25, 2020
+    8.0.1
+    Feb 17, 2020
+    8.0
+    Jan 16, 2020
+    7.9.8
+    Nov 11, 2019
+    7.9.7
+    Oct 15, 2019
+    7.9.5
+    Aug 22, 2019
+    7.9.4
+    Apr 16, 2019
+    7.9.3
+    Mar 22, 2019
+    7.9.2
+    Mar 18, 2019
+    7.9.1
+    Mar 15, 2019
+    7.9.0
+    Feb 2, 2019
+    7.8.9
+    Jan 30, 2019
+    7.8.8
+    Jan 22, 2019
+    7.8.7
+    Dec 1, 2018
+    7.8.6
+    Nov 26, 2018
+    7.8.5
+    Oct 31, 2018
+    7.8.4
+    Oct 29, 2018
+    7.8.3
+    Sep 21, 2018
+    7.8.2
+    Sep 13, 2018
+    7.8.1
+    Aug 14, 2018
+    7.8.0
+    Jul 20, 2018
+    7.7.7
+    Jun 19, 2018
+    7.7.6
+    Jun 6, 2018
+    7.7.3
+    Jan 17, 2018
+    7.7.2
+    Nov 29, 2017
+    7.7.1
+    Nov 7, 2017
+    7.7.0
+    Oct 28, 2017
+    7.6.8
+    Sep 23, 2017
+    7.6.7
+    Aug 31, 2017
+    7.6.6
+    Aug 17, 2017
+    7.6.5
+    Aug 11, 2017
+    7.6.4
+    Jun 14, 2017
+    7.6.3
+    May 23, 2017
+    7.6.2
+    May 4, 2017
+    7.6.1
+    Apr 27, 2017
+    7.6.0
+    Apr 18, 2017
+    7.5.0
+    Feb 26, 2017
+    7.4.2
+    Jan 25, 2017
+    7.4.1
+    Jan 22, 2017
+    7.4
+    Jan 20, 2017
+    7.3.2
+    Jan 10, 2017
+    7.3.1
+    Jan 7, 2017
+    7.3.0
+    Dec 16, 2016
+    7.2.1
+    Nov 30, 2016
+    7.2.0
+    Nov 24, 2016
+    7.1.0
+    Oct 20, 2016
+    7.0.7
+    Sep 14, 2016
+    7.0.6
+    Jul 22, 2016
+    7.0.5
+    Jun 1, 2016
+    7.0.4
+    Mar 25, 2016
+    7.0.3
+    Feb 4, 2016
+    7.0.2
+    Jan 11, 2016
+    7.0.1
+    Jan 5, 2016
+    7.0
+    Nov 30, 2015
+    6.3.8
+    Oct 9, 2015
+    6.3.7
+    Sep 22, 2015
+    6.3.6
+    Sep 10, 2015
+    6.3.5
+    Aug 22, 2015
+    6.3.4
+    Aug 7, 2015
+    6.3.3
+    Jul 9, 2015
+    6.3.2
+    Jun 26, 2015
+    6.3.1
+    May 17, 2015
+    6.3.0
+    Apr 23, 2015
+    6.2.9
+    Mar 12, 2015
+    6.2.8
+    Mar 7, 2015
+    6.2.7
+    Feb 18, 2015
+    6.2.6
+    Feb 6, 2015
+    6.2.5
+    Dec 20, 2014
+    6.2.4
+    Dec 8, 2014
+    6.2.3
+    Nov 15, 2014
+    6.2.2
+    Oct 27, 2014
+    6.2.1
+    Oct 9, 2014
+    6.2.0
+    Sep 16, 2014
+    6.1.0
+    Aug 6, 2014
+    6.0.9
+    Jul 31, 2014
+    6.0.8
+    Jun 12, 2014
+    6.0.7
+    May 22, 2014
+    6.0.6
+    May 17, 2014
+    6.0.5
+    May 4, 2014
+    6.0.4
+    Mar 5, 2014
+    6.0.3
+    Jan 16, 2014
+    6.0.2
+    Jan 3, 2014
+    6.0.1
+    Dec 24, 2013
+    6.0.0
+    Dec 10, 2013
+    5.2.9
+    Oct 19, 2013
+    5.2.8
+    Oct 8, 2013
+    5.2.7
+    Sep 15, 2013
+    5.2.6
+    Aug 16, 2013
+    5.2.5
+    Jun 27, 2013
+    5.2.4
+    Jun 18, 2013
+    5.2.3
+    Jun 5, 2013
+    5.2.2
+    May 21, 2013
+    5.2.1
+    May 15, 2013
+    5.2.0
+    Apr 23, 2013
+    5.1.1
+    Apr 15, 2013
+    5.0.1
+    Mar 5, 2013
+    5.0
+    Feb 12, 2013
+
+See More
+Top In-App Purchases
+
+    Night Mode
+    $0.99
+    Encrypt Note
+    $0.99
+    Reminders
+    $0.99
+    Share notes with link
+    $7.99
+    WizNote for iPhone Monthly
+    $0.99
+    WizNote for iPhone Yearly
+    $8.99
+    Notes Template
+    $0.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Feb 12, 2013
+
+Worldwide Release Date
+    Feb 12, 2013
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    8.3.7
+
+Size
+    74.52 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Englisch, Tradit. Chinesisch, Vereinf. Chinesisch
+
+Seller
+    Beijing Wozhi Technology Co. Ltd
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 10.0 oder neuer. Kompatibel mit iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPhone SE (1. Generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2. Generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3. Generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, 12,9" iPad Pro, 12,9" iPad Pro Wi‑Fi + Cellular, 9,7" iPad Pro, 9,7" iPad Pro Wi‑Fi + Cellular, iPad (5. Generation), iPad (5. Generation) Wi‑Fi + Cellular, 12,9" iPad Pro (2. Generation), 12,9" iPad Pro (2. Generation) Wi‑Fi + Cellular, 10,5" iPad Pro, 10,5" iPad Pro Wi‑Fi + Cellular, iPad (6. Generation), iPad (6. Generation) Wi‑Fi + Cellular, 11" iPad Pro, 11" iPad Pro Wi‑Fi + Cellular, 12,9" iPad Pro (3. Generation), 12,9" iPad Pro (3. Generation) Wi‑Fi + Cellular, iPad mini (5. Generation), iPad mini (5. Generation) Wi‑Fi + Cellular, iPad Air (3. Generation), iPad Air (3. Generation) Wi‑Fi + Cellular, iPad (7. Generation), iPad (7. Generation) Wi‑Fi + Cellular, 11" iPad Pro (2. Generation), 11" iPad Pro (2. Generation) Wi‑Fi + Cellular, 12,9" iPad Pro (4. Generation), 12,9" iPad Pro (4. Generation) Wi‑Fi + Cellular, iPad Air (4. Generation), iPad Air (4. Generation) Wi‑Fi + Cellular, iPad (8. Generation), iPad (8. Generation) Wi‑Fi + Cellular, 11" iPad Pro (3. Generation), 11" iPad Pro (3. Generation) Wi‑Fi + Cellular, 12,9" iPad Pro (5. Generation), 12,9" iPad Pro (5. Generation) Wi‑Fi + Cellular, iPad mini (6. Generation), iPad mini (6. Generation) Wi‑Fi + Cellular, iPad (9. Generation), iPad (9. Generation) Wi‑Fi + Cellular, iPad Air (5. Generation), iPad Air (5. Generation) Wi‑Fi + Cellular, iPad (10. Generation), iPad (10. Generation) Wi‑Fi + Cellular, 11" iPad Pro (4. Generation), 11" iPad Pro (4. Generation) Wi‑Fi + Cellular, 12,9" iPad Pro (6. Generation), 12,9" iPad Pro (6. Generation) Wi‑Fi + Cellular und iPod touch.
+
+Bundle ID
+    cn.wiz.wiznoteiphone
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 599493807
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+WizNote | data.ai
+				
+				
+				
+				
+				
+	

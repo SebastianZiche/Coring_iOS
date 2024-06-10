@@ -1,0 +1,448 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Cute CUT
+MobiVioPhoto and Video (Applications)Free
+Alerts
+
+Cute CUT
+Cute CUT
+Cute CUT
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Cute CUT
+全功能视频编辑
+Photo and Video (Applications)
+Free
+App Promotional Text
+The more advanced Cute CUT arrives - Cute CUT 2, a re-designed, better and more powerful video editor for you.
+App Description
+Now, you can DRAW movies, AND you can draw ON movies! Cute CUT’s powerful, easy-to-use editing features put YOU in control, allowing you to make the highest quality movies, DIFFERENT from anything you’ve seen!
+
+Do you want to create your own unique movie? Cute CUT’s robust and intuitive feature set will have you doing so in no time, drawing gorgeous, one-of-a-kind movies and so much more!
+
+
+Besides providing the utilities of a common video editor, Cute CUT brings to the table exceptionally advanced, Hollywood-style editing functionality!
+
+
+We’re continually working to enrich and strengthen Cute CUT’s top-tier functionality, and its refreshingly simple, unique presence in today’s digital market. Are you with us? Join more than one million others who’ve dared to discover the delightful difference that’s Cute CUT!
+
+===================================================================
+
+Key Features:
+
+- User-Friendly UI.
+
+
+Just drag and drop; you can arrange your media segments easily.
+Sleek, bookshelf-style organizer showcases your movies.
+UI supports both portrait and landscape modes.
+
+
+- Make DIFFERENT movies, make movies DIFFERENT!
+
+Supports SIMULTANEOUS Adding of UP TO SIX different types of media into movie projects: Video, Photo (both from Album or Camera), as well as SELF-DRAW, Text, Music, and Voice. 
+
+
+- Supports various Resolutions and Aspect Ratios, including HD (16:9, 19.5:9 and 21:9), SD (4:3 and 5:4), SQUARE (1:1) and even Portrait Mode!
+
+Creating a PIP (Picture-In-Picture) movie is EASY: Merely place one movie atop another; Cute CUT even supports independent Resizing of each and every video segment! 
+
+- Draw directly on movie.
+
+30+ drawing tools. 
+
+
+- 3 Advanced Brushes for pro effects: Texture, Linear Gradient, Radial Gradient, gradients editable.
+
+- Highly customizable transitions.
+
+- 20+ Pre-Defined Transitions.
+
+- Transparency, Border, Corner, Shadow, Transform, and Sound Volume ... ALL Customizable!
+
+- Share Your Movie.
+
+Export to Camera Roll.
+Send to YouTube/Facebook.
+Send via e-mail.
+
+
+- Multiple Tutorials, and even Full Video Walkthroughs available, easily accessible.
+
+
+===================================================================
+
+You can upgrade to Pro to obtain the following features.
+
+1. Watermark-free movies.
+2. Unlimited movie length.
+3. No Ad.
+4. 4K ultra HD movie exporting.
+5. More music tracks.
+6. More stickers.
+
+Cute CUT is available BOTH on iPhone and iPad.
+
+Homepage: https://cutecut2.mobivio.com
+Feedback and Support: support@mobivio.com
+Ratings
+Displayed Avg Ratings
+4.26
+Total Displayed Ratings
+141k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.3 (Dec 8, 2022)
+    • 视频轨道增加到最多 4 个。
+    • 无限制的自画撤销历史。
+    • Bug修复。
+Version 2.2.5 (Nov 21, 2022)
+    • 添加了新的设置选项“移动对象时自动对齐”，现在您可以关闭自动对齐功能。
+    • 分割具有变换的片段时添加了行为选择。
+    • 修复了使用耳机录音时电影不播放的问题。
+    • 其他错误修复。
+Version 2.2 (Oct 31, 2022)
+    V2.2 中的新功能
+    • 现在支持透明背景的影片制作（使用HEVC视频编解码器）。你可以将影片的背景设置为透明，并将其导出。而且你可以在App中把透明背景的视频添加到你的影片中进行编辑。
+    • 支持图像描边。 对于透明背景图像，现在您可以在其上添加描边（绘制轮廓）。
+    • 文本边框得到改善。 现在您可以为文本设置更优雅的边框。
+    • 文本背景改进。 提供了间距和圆角选项。
+    • 阴影功能改进。 您可以更改阴影的颜色和半径。
+
+    V2.1 中的新功能
+    • 增加了选色器工具。你可以从预览区挑选颜色。
+    • 增加了范围选择和操作。你可以一次操作多个片段。
+    • 改进了色度键(Chromakey)。
+
+    V2.0 中的新功能
+    • 重新设计了带有文件夹的电影管理。
+    • 新的“本地文件”来管理来自其他地方的素材。
+    • iPad 上的新桌面 UI 布局。
+    • 更多电影纵横比（16:9、1:1、4:3、5:4、19.5:9 和 21:9，支持纵向模式）。
+    • 新的“媒体资源管理器”可帮助您轻松将素材拖放到影片轨道。
+    • 轨道的插入模式和覆盖模式。
+    • 支持色度键（绿屏）。
+    • 重新设计的自画工具。
+    • 新的录音。
+    • 4K 超高清导出。
+Version 1.8.10 (Oct 14, 2018)
+    • Fixed YouTube uploading error.
+    • Changed Facebook uploading process.
+    • Some bug fixes.
+Version 1.8.9 (Jan 22, 2018)
+    • Fixed a crash bug.
+Version 1.8.8 (Jan 15, 2018)
+    • 60 fps exporting supported.
+    • movie editing performance improved.
+Version 1.8.7 (Dec 21, 2017)
+    • Improved iPhone X compatibility.
+Version 1.8.6 (Jul 19, 2017)
+    • Fixed YouTube uploading login error.
+    • Fixed Facebook uploading problem.
+Version 1.8.5 (Nov 10, 2016)
+    • Fixed YouTube uploading problem.
+Version 1.8.4 (Sep 20, 2016)
+    • Improved iOS 10 compatibility.
+    • Bug fixes.
+Version 1.8.2 (Jun 4, 2016)
+    • Rearranging tracks is supported now. (Press and hold on a track, then you can move it.)
+    • 720P exporting is back.
+    • Fixed the black screen problem on iPhone 4.
+    • Other bug fixes.
+Version 1.8 (May 25, 2016)
+    • Adjust colors for video, picture and text. (Saturation, Brightness, Contrast, Temperature, Exposure, Hue and RGB color. And animatable.)
+    • Crop is supported on video, picture and text. (And animatable)
+    • More transition easing functions supported. (Circular, Back, Elastic, Bounce)
+    • 2 new transitions.
+    • Movable central point for rotating.
+    • Add border, shadow, round corner to video.
+    • Arbitrary tracks order. (Now you can put video directly on picture)
+    • GIF picture animations supported
+    • 4 new sound effect tracks.
+    • Added 25 frames per second for exporting.
+    • 1080P high quality exporting supported.
+    • Bug fixes.
+Version 1.7.4 (Oct 28, 2015)
+    • Improved iPhone 6s & iPhone 6s plus compatibility.
+    • Bug fixes.
+Version 1.7.2 (Sep 22, 2015)
+    • Fixed crashes on iOS 9.
+Version 1.7 (Jul 21, 2015)
+    • Improved memory management.
+    • Improved picture display quality.
+    • Fine tune for transparency, sound volume and text size.
+    • Added private option for YouTube uploading.
+    • 3 new music tracks and 4 new sound FX.
+    • Bug fixes.
+Version 1.6.4 (Dec 6, 2014)
+    • Improved iPhone 6 & iPhone 6 plus compatibility.
+    • Bug fixes.
+Version 1.6 (Oct 11, 2014)
+    • [New] 1:1 square movie now supported.
+    • [New] Left and Right text alignment supported.
+    • [New] Install custom fonts into Cute CUT.
+    • [New] Add audio only from a video into your movie.
+    • Finer control of shadow placement.
+    • iOS8 compatibility.
+    • Save user habits for text and picture properties.
+    • Many small adjustments.
+    • Bug fixes.
+Version 1.5.1 (Nov 25, 2013)
+    Fixed the app crashing at startup after upgraded to Pro on some iOS 7 devices.
+Version 1.5 (Jul 20, 2013)
+    • [New] Slow/fast motion (Adjust video speed from 0.25X to 4X) now supported.
+    • [New] Transition on Image/Text now has Ease In & Ease Out effects.
+    • [New] Change background color of your movie.
+    • [New] Export/import movie project to/from iTunes.
+    • Cancel compressing video picked from Camera Roll.
+    • Support opening media file from other apps.
+    • Add preview for videos in File Sharing.
+    • Add progress for Facebook uploading.
+    • Bug fixes.
+Version 1.4.4 (Apr 29, 2013)
+    • Optimized memory comsumption to reduce app crashing.
+    • When recording voice, also play the video in the background.
+    • [New] Full screen preview supported.
+    • [New] 5 languages added: French, Italian, Portuguese, Russian, Korean.
+    • Bug fixes.
+Version 1.4.2 (Mar 21, 2013)
+    • [New] 4 languages added: German, Spanish, Japanese, Traditional Chinese
+    • Bug fixes
+Version 1.4 (Mar 8, 2013)
+    • [NEW] Undo previous steps of operation now supported.
+    • [NEW] Split segment now supported.
+    • [NEW] Grab still image from video segment.
+    • [NEW] Hollow text is supported.
+    • Fixed to avoid segments overlapped in same track.
+    • Fixed no sound issue when the device in silent ringtone state.
+    • Popup pre-defined transitions list by one tap.
+    • Now you can re-activate the help tips for beginners.
+    • Bug fixes.
+Version 1.3 (Feb 2, 2013)
+    • Crash issue on iPhone 5/iPad 4 fixed!
+    • [NEW] Supports fixed cover image in Movies page.
+    • Bug fixes.
+Version 1.2.1 (Jan 25, 2013)
+    • Low memory may cause the app to exit abnormally. Message box added to recommend user to restart the device.
+    • Memory management improved.
+    • Facebook uploading issue fixed.
+    • Bug fixes.
+Version 1.2 (Jan 9, 2013)
+
+Users may also like
+Select objects to compare
+MovStash - Blur video
+Andalusi: Design & Edit Photos
+VivaCut - Effect Video Editor
+برنامج دمج الصور - مصمم اطارات
+Infltr - Infinite Filters
+Gacha Animator
+LUMINS - Light Photo Editor
+Ultralight: Photo Video Editor
+كتابة على الصور - تصميم صور
+Photion
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.3
+    Current release
+    Dec 8, 2022
+    2.2.5
+    Nov 21, 2022
+    2.2
+    Oct 31, 2022
+    1.8.10
+    Oct 14, 2018
+    1.8.9
+    Jan 22, 2018
+    1.8.8
+    Jan 15, 2018
+    1.8.7
+    Dec 21, 2017
+    1.8.6
+    Jul 19, 2017
+    1.8.5
+    Nov 10, 2016
+    1.8.4
+    Sep 20, 2016
+    1.8.2
+    Jun 4, 2016
+    1.8
+    May 25, 2016
+    1.7.4
+    Oct 28, 2015
+    1.7.2
+    Sep 22, 2015
+    1.7
+    Jul 21, 2015
+    1.6.4
+    Dec 6, 2014
+    1.6
+    Oct 11, 2014
+    1.5.1
+    Nov 25, 2013
+    1.5
+    Jul 20, 2013
+    1.4.4
+    Apr 29, 2013
+    1.4.2
+    Mar 21, 2013
+    1.4
+    Mar 8, 2013
+    1.3
+    Feb 2, 2013
+    1.2.1
+    Jan 25, 2013
+    1.2
+    Jan 9, 2013
+
+See More
+Top In-App Purchases
+
+    Pro Upgrade
+    $5.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jan 9, 2013
+
+Worldwide Release Date
+    Jan 9, 2013
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    2.3
+
+Size
+    184.61 mb
+
+Only 32 Bit
+    No
+
+Languages
+    俄文, 德文, 意大利文, 日文, 法语, 简体中文, 繁体中文, 英语, 葡萄牙文, 西班牙文, 阿拉伯文, 韩文
+
+Seller
+    波 余
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 10.0 或更高版本。兼容设备：iPhone 5S、iPhone 6、iPhone 6 Plus、iPhone 6S、iPhone 6S Plus、iPhone SE（第一代）、iPhone 7、iPhone 7 Plus、iPhone 8、iPhone 8 Plus、iPhone X、iPhone XS、iPhone XS Max、iPhone XR、iPhone 11、iPhone 11 Pro、iPhone 11 Pro Max、iPhone SE（第二代）、iPhone 12 mini、iPhone 12、iPhone 12 Pro、iPhone 12 Pro Max、iPhone 13 Pro、iPhone 13 Pro Max、iPhone 13 mini、iPhone 13、iPhone SE（第三代）、iPhone 14、iPhone 14 Plus、iPhone 14 Pro、iPhone 14 Pro Max、iPhone 15、iPhone 15 Plus、iPhone 15 Pro、iPhone 15 Pro Max、iPad Air、iPad Air Wi‑Fi + 蜂窝网络、iPad mini 2、iPad mini 2 Wi‑Fi + 蜂窝网络、iPad Air 2、iPad Air 2 Wi‑Fi + 蜂窝网络、iPad mini 3、iPad mini 3 Wi‑Fi + 蜂窝网络、iPad mini 4、iPad mini 4 Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络、9.7 英寸 iPad Pro、9.7 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第五代）、iPad（第五代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第二代）、12.9 英寸 iPad Pro 无线局域网 + 蜂窝网络（第二代）、10.5 英寸 iPad Pro、10.5 英寸 iPad Pro 无线局域网 + 蜂窝网络、iPad（第六代）、iPad（第六代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro、11 英寸 iPad Pro Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第三代）、12.9 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、iPad mini（第五代）、iPad mini（第五代）Wi‑Fi + 蜂窝网络、iPad Air（第三代）、iPad Air（第三代）Wi‑Fi + 蜂窝网络、iPad（第七代）、iPad（第七代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第二代）、11 英寸 iPad Pro（第二代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第四代）、12.9 英寸 iPad Pro（第四代）Wi‑Fi + 蜂窝网络、iPad Air（第四代）、iPad Air（第四代）Wi‑Fi + 蜂窝网络、iPad（第八代）、iPad（第八代）Wi‑Fi + 蜂窝网络、11 英寸 iPad Pro（第三代）、11 英寸 iPad Pro（第三代）Wi‑Fi + 蜂窝网络、12.9 英寸 iPad Pro（第五代）、12.9 英寸 iPad Pro（第五代）Wi‑Fi + 蜂窝网络、iPad mini（第六代）、iPad mini（第六代）无线局域网 + 蜂窝网络、iPad（第九代）、iPad（第九代）无线局域网 + 蜂窝网络、iPad Air（第五代）、iPad Air（第五代）Wi‑Fi + 蜂窝网络、iPad（第十代）、iPad（第十代）无线局域网 + 蜂窝网络、11 英寸 iPad Pro（第四代）、11 英寸 iPad Pro（第四代）无线局域网 + 蜂窝网络、12.9 英寸 iPad Pro（第六代）、12.9 英寸 iPad Pro（第六代）无线局域网 + 蜂窝网络、iPod touch。
+
+Bundle ID
+    com.mobivio.cutecut
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 583555212
+Unified App ID: 1000600000441535
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Cute CUT | data.ai

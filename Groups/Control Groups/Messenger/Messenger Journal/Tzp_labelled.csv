@@ -1,0 +1,111 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.6.6,2023-03-24,1: Optimize push notification reminders 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.6.5,2023-03-10,1: Optimize the voice push problem. 2: Optimize pop up prompt questions. 3: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.6.4,2023-03-04,1: Optimize notification push 2: Fix the voice notification ringtone problem 3: Fix some bugs and improve user experience,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.6.3,2023-02-24,1: Optimize the stability of message reception 2: Adjust the announcement display method 3: Fix some bugs and improve user experience,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.6.2,2023-02-10,1: After setting the font adjust the size of the relevant Icon and avatar I. 2: Fixed the problem of loading failure of some pictures. 3: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.6.1,2022-12-12,1: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.6.0,2022-11-09,1: Adjust some UI 2: Add file assistant function 3: Fix some bugs and improve user experience,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.9,2022-11-07,1: Add font settings 2: Fix some bugs and improve user experience,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.8,2022-10-21,1: Add group management to allow search and join 2: Fix some bugs and improve user experience,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.7,2022-10-09,1: Fix keyboard exit exception and other issues. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.6,2022-09-29,1: Optimize the speed of importing data. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.5,2022-09-03,1: Fix the dark mode adaptation problem of some models 2: Fix group leader display abnormality 3: Fix some bugs and improve user experience,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.4,2022-08-31,1: Added group management function 2: Fix some bugs and improve user experience,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.3,2022-08-12,1: Fixed the problem of no sound after an incoming call on the phone during voice calls. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.2,2022-07-31,1: Optimize the dark mode issue. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.1,2022-07-28,1: Optimize the dark mode of the keyboard. 2: Fix the group voice call bug and improve user experience. 3: Adding new favorites and canceling accounts require security verification functions.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.5.0,2022-07-14,1: Dark mode is suitable for lower version systems. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.4.8,2022-06-01,1: Fix the login problem during the call process. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.4.7,2022-05-31,1: Fix chat page scrolling bug.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.4.6,2022-05-30,1: Fixed some crashing and lagging issues. 2: Fixed the problem of loading failure of some pictures. 3: Fixed the problem of data loading failure when adding new friends by scanning the QR code.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.4.5,2022-04-22,1: Fix the expression switching problem. 2: Fix some known bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.4.4,2022-04-09,1: Add message vibration reminder. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.4.3,2022-04-02,1: Fixed the problem of data anomaly caused by special characters.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.42,2022-04-01,1: Optimize text message copying. 2: Fix some bugs and crashes to improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.4.1,2022-03-19,1: Fix the emoticon display problem on some mobile phones. 2: Compatible with old system process issues.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.4.0,2022-03-15,1: Fix voice call bug and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.3.8,2022-01-18,1: Optimize the connection and improve the stability of message sending and receiving. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.3.7,2021-12-30,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.3.5,2021-12-22,1: Optimize some UI. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.3.4,2021-12-17,1: Fix the problem of image enlargement and display. 2: Fix announcement bug.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.3.3,2021-12-03,1: Fix the crash problem during the network connection process. 2: Optimize announcement interaction. 3: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.3.2,2021-11-12,1: Fix the bug of scanning to add friends.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.3.1,2021-11-08,1: Optimize message delivery and reception. 2: Optimize the response speed of voice call answering. 3: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.3.0,2021-10-29,1: Fix photo album picture editing problem. 2: Fixed avatar update display problem. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.2.8,2021-10-13,1: Fixed voice message bug.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.2.7,2021-10-11,1: Fix some bugs to improve user experience. 2: Optimize the navigation bar height adaptation for various models.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.2.6,2021-09-29,1: Added collection function. 2: Optimize the picture message adaptation problem. 3: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.2.5,2021-09-17,1: Support sending business card messages. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.2.4,2021-09-11,1: Support video message sending. 2: Support file message sending. 3: Fix some bugs to improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.2.3,2021-09-08,1: Adjust the layout of some pages such as contacts. 2: Added complaint feedback to my page. 3: Added blacklist do not disturb function for contacts. 2: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.2.1,2021-08-25,1: Fix the problem of picture resending. 2: Fix the problem of hanging up the phone microphone.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.2.0,2021-08-21,1: Fix SIP registration crash occasionally. 2: Added voice to automatically play the next line. 3: Fix some bugs and improve user experience.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.1.9,2021-08-13,1: Add message pull up loading function and optimize message loading speed. 2: Optimize message receiving and sending to improve user experience. 3: Added picture message slide to view the next one support zooming in and out. 4: Fixed some crash issues.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.1.8,2021-07-23,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.1.7,2021-07-17,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.1.6,2021-07-12,Urgent update related bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.1.5,2021-07-10,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.1.1,2021-07-02,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.1.0,2021-06-26,Version 1.1 new UI,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.85,2021-05-30,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.84,2021-05-22,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.82,2021-05-14,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.81,2021-05-09,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.80,2021-04-30,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.78,2021-04-23,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.76,2021-04-19,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.75,2021-04-16,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.73,2021-04-13,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.72,2021-04-09,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.71,2021-04-03,Inexplicable bug urgent update,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.70,2021-04-01,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.69,2021-03-26,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.66,2021-03-12,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.65,2021-03-08,Urgent update to fix bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.63,2021-03-05,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.62,2021-02-26,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.60,2021-01-29,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.59,2021-01-22,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.58,2021-01-17,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.56,2021-01-10,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.53,2021-01-02,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.52,2020-12-30,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.51,2020-12-12,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.50,2020-12-05,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.49,2020-12-01,Urgent bug fix,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.48,2020-11-29,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.46,2020-11-21,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.44,2020-11-18,Unexpected bugs urgent updates,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.43,2020-11-16,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.42,2020-11-06,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.41,2020-10-30,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.40,2020-10-24,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.39,2020-10-20,urgent bug fixes,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.38,2020-10-19,urgent bug fixes,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.37,2020-10-17,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.36,2020-10-14,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.35,2020-10-11,Optimize app performance,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.34,2020-10-07,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.33,2020-10-01,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.32,2020-09-26,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.31,2020-09-23,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.28,2020-09-12,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.27,2020-09-05,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.26,2020-08-29,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.25,2020-08-22,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.24,2020-08-14,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.23,2020-08-10,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.21,2020-08-01,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.20,2020-07-25,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.19,2020-07-18,Fixed several bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.18,2020-07-12,Improve app stability,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.15,2020-06-25,Improve APP stability,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.14,2020-06-24,fix bug,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.13,2020-06-11,fix bug,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.12,2020-04-13,1. Added voice call function 2. Optimize the app to make it more convenient and smooth to use,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.11,2020-02-04,Integrate local push and pushkit mechanisms to prompt users for voice calls or PSTN phone requests.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.10,2020-01-17,Token refresh mechanism optimization. Added unread and read message functions. Added the function of withdrawing and specifying friend chat records.,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.9,2020-01-16,1. Fix bug,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.7,2020-01-13,1. Fix some bugs,0,0,0,0,0,0,0,0
+1491282427,0,Tzp,Social Networking,2019-12-20,2019-12-20,52.45,2,0,0,1,1.0.3,2019-12-20,,0,0,0,0,0,0,0,0

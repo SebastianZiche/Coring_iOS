@@ -1,0 +1,8 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1260915700,0,Multinational Voice Translator,Reference,2017-09-22,2017-09-22,27.74,4,0,0,1,1.0.6,2020-09-20,Fix Fix minor issues
+1260915700,0,Multinational Voice Translator,Reference,2017-09-22,2017-09-22,27.74,4,0,0,1,1.0.5,2020-03-03,Optimization Optimize translation speed
+1260915700,0,Multinational Voice Translator,Reference,2017-09-22,2017-09-22,27.74,4,0,0,1,1.0.4,2020-02-15,Fix Fix some uncommon iOS13 crash issues Fix Fix minor issues
+1260915700,0,Multinational Voice Translator,Reference,2017-09-22,2017-09-22,27.74,4,0,0,1,1.0.3,2017-11-26,Fix Fix some uncommon iOS11 crash issues
+1260915700,0,Multinational Voice Translator,Reference,2017-09-22,2017-09-22,27.74,4,0,0,1,1.0.2,2017-11-17,Upgrade Translation module upgrade
+1260915700,0,Multinational Voice Translator,Reference,2017-09-22,2017-09-22,27.74,4,0,0,1,1.0.1,2017-10-13,Fix Minor bug fix
+1260915700,0,Multinational Voice Translator,Reference,2017-09-22,2017-09-22,27.74,4,0,0,1,1.0.0,2017-09-22,

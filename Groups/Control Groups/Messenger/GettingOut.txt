@@ -1,0 +1,340 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+GettingOut
+TelmateSocial Networking (Applications)Free
+Alerts
+
+GettingOut
+GettingOut
+GettingOut
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+GettingOut
+Social Networking (Applications)
+Free
+App Description
+GTL’s GettingOut mobile app is rooted in the power of relationships. It provides simple and reliable communication between inmates and their family and friends -- allowing them to stay connected, even on the go!
+
+
+
+With our free mobile app, you can easily make deposits, send and receive messages with our new and improved messaging feature, send photos and videos (select facilities), manage contacts and more. Download the GettingOut app today!
+
+
+Ratings
+Displayed Avg Ratings
+1.79
+Total Displayed Ratings
+7.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.2.4 (Dec 19, 2023)
+    - Added support for Australia country selection
+    - Bug fixes and improvements
+Version 3.2.3 (Aug 22, 2023)
+    - Improved app version update flow
+    - Increased Home screen visibility from banner removal
+    - Improved messages flow inside threads and date prioritizing
+    - Funding pop-ups improved
+    - Multiple performance improvements and bug fixes. 
+Version 3.2.2 (May 8, 2023)
+    *Increased login time for up to 30 days before being logged out
+
+    *Slow text entry fixed.
+
+    *Bug fixes.
+
+    *Performance improvements.
+Version 3.2.1 (Feb 25, 2023)
+    * In-app invite a friend referral system released. You can now invite friends to use the GTL GettingOut Messaging App.
+    To get started go to “My Info” tab in the app > click “Invite Friends” and then choose your method of invite.
+    * Request for authorized legal council to be approved as a “Professional” and use our non-monitored, secure Private Messaging for attorney-client protected communication at supported facilities.
+    * Updated in-app communications for suspensions.
+    * You can now enroll in Inactivity Alerts for your Friends and Family account.
+Version 3.2.0 (Feb 23, 2023)
+    * In-app invite a friend referral system released. You can now invite friends to use the GTL GettingOut Messaging App.
+    To get started go to “My Info” tab in the app > click “Invite Friends” and then choose your method of invite.
+    * Request for authorized legal council to be approved as a “Professional” and use our non-monitored, secure Private Messaging for attorney-client protected communication at supported facilities.
+    * Updated in-app communications for suspensions.
+    * You can now enroll in Inactivity Alerts for your Friends and Family account.
+Version 3.0.1 (Aug 2, 2022)
+    * You can now receive photos and videos from your incarcerated loved ones at supported facilities.
+    * Bug fixes.
+    * Performance improvements. 
+Version 2.9 (Nov 4, 2021)
+    Bug fixes and updates.
+Version 2.8 (Sep 28, 2021)
+    GettingOut mobile messaging arrives in Canada! You can now send and receive messages, on your phone, from your loved ones in select Canadian facilities. Start messaging today!
+Version 2.7.1 (Jul 15, 2021)
+    App enhancements and improvements.
+Version 2.6 (May 18, 2021)
+    Now you can receive your contact requests directly in the app! Whenever a loved one sends a contact request, you can respond to that request directly inside the Contacts screen. Never miss a contact request again!
+Version 2.5.1 (May 11, 2021)
+    Bug fixes
+Version 2.5 (Feb 18, 2021)
+    Never miss another message with Push Notifications! Make sure you have push notifications enabled in your device settings and we’ll send you a notification when you receive a new message from your loved one.
+Version 2.4 (Nov 4, 2020)
+    Bug fixes and improvements.
+Version 2.3.1 (Sep 10, 2020)
+    - Bug Fixes
+Version 2.3 (Aug 5, 2020)
+    - You can now use Biometric Login and other enhancements.
+Version 2.2 (Jun 25, 2020)
+    Bug fixes
+Version 2.1 (May 20, 2020)
+    We listened to your feedback and we’ve added these great features!
+
+    - Send Photos! Click the + button at the bottom of your conversation to see if this feature is available at your facility!
+    - Increased the size of the typing area
+    - Added a character counter
+    - Added a Log Out button
+Version 2.0 (Mar 10, 2020)
+    - All new messaging on GettingOut.
+    - Cleaner design
+    - New user experience
+Version 1.9 (Jun 13, 2018)
+    Bugfixes
+Version 1.8 (Jun 8, 2018)
+    Bugfixes
+Version 1.7.6 (Jun 9, 2017)
+    Updated Terms of Service and Privacy Policy
+Version 1.7.5 (May 4, 2017)
+    Updated App Store content and Terms of Service
+Version 1.7.4 (Oct 22, 2015)
+    Minor bug fixes
+Version 1.6.5 (Oct 1, 2015)
+    Backend optimizations
+    Minor bug fixes
+Version 1.5.5 (Jul 31, 2015)
+    Bug fixes: push notification bug, display of message thread
+Version 1.4.7 (Jul 7, 2015)
+    App will now work on iOS 7.x devices
+    General bug fixes
+Version 1.3.8 (May 27, 2015)
+    * Fixed message thread view so that the message bubbles do not overlap each other.
+    * Fixed so messages in thread view will start from the bottom (last message)
+    * Fixed so that the time associated with each message is in the correct device local time
+    * Misc General bug fixes
+Version 1.1 (Oct 31, 2014)
+    Bug fixes
+Version 1.0 (Aug 14, 2014)
+
+Users may also like
+Select objects to compare
+TextBehind
+Securus Mobile
+HomeWAV
+CorrectPay
+InmateSales
+Pay Tel
+MobilePatrol: Public Safety
+TextFree: Call + Texting Line
+InmateSales View
+Duo Voice - Global WiFi Call
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.2.4
+    Current release
+    Dec 19, 2023
+    3.2.3
+    Aug 22, 2023
+    3.2.2
+    May 8, 2023
+    3.2.1
+    Feb 25, 2023
+    3.2.0
+    Feb 23, 2023
+    3.0.1
+    Aug 2, 2022
+    2.9
+    Nov 4, 2021
+    2.8
+    Sep 28, 2021
+    2.7.1
+    Jul 15, 2021
+    2.6
+    May 18, 2021
+    2.5.1
+    May 11, 2021
+    2.5
+    Feb 18, 2021
+    2.4
+    Nov 4, 2020
+    2.3.1
+    Sep 10, 2020
+    2.3
+    Aug 5, 2020
+    2.2
+    Jun 25, 2020
+    2.1
+    May 20, 2020
+    2.0
+    Mar 10, 2020
+    1.9
+    Jun 13, 2018
+    1.8
+    Jun 8, 2018
+    1.7.6
+    Jun 9, 2017
+    1.7.5
+    May 4, 2017
+    1.7.4
+    Oct 22, 2015
+    1.6.5
+    Oct 1, 2015
+    1.5.5
+    Jul 31, 2015
+    1.4.7
+    Jul 7, 2015
+    1.3.8
+    May 27, 2015
+    1.1
+    Oct 31, 2014
+    1.0
+    Aug 14, 2014
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Aug 14, 2014
+
+Worldwide Release Date
+    Aug 14, 2014
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    3.2.4
+
+Size
+    38.75 mb
+
+Only 32 Bit
+    No
+
+Languages
+    French, Spanish
+
+Seller
+    Telmate, LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.telmate.gettingoutff
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+App ID: 907226423
+Unified App ID: 1000600000843939
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+GettingOut | data.ai

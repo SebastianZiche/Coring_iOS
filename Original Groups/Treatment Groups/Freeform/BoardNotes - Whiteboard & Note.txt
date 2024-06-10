@@ -1,0 +1,414 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+BoardNotes - Whiteboard & Note
+朝民 肖Productivity (Applications)Free
+Alerts
+
+    朝民 肖
+
+    BoardNotes - Whiteboard & Note
+    BoardNotes - Whiteboard & Note
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+BoardNotes - Whiteboard & Note
+Note-Taking, PDF Markup, Card
+Productivity (Applications)
+Free
+App Promotional Text
+Take beautiful notes with BoardNotes that turns your iPad into digital paper. Thinking, creating, taking notes, PDF reading, BoardNotes can all help you easily complete.
+App Description
+Function Introduction:
+1. BoardNotes uses Apple native pen technology and provides customized parameter adjustments (pressure, smoothness, speed) to provide you with a smooth and precise writing experience.
+2. Choose from a variety of brushes (such as ballpoint pens, pens, pencils, markers, watercolors, filling pens, etc.) to unleash your creative potential.
+3. Lasso tools can not only capture handwritten notes, but also retrieve cards, thumbnails, links, and connections, making your notes organized quickly and easily.
+4. The handwriting function supports Apple Pencil, third-party pen manufacturers, and your fingertips.
+5. Stop and long press to generate a perfect shape.
+6. Except for handwritten notes, all other content on the whiteboard is presented in the form of cards, whether it is text, web pages, images, videos, audio, files, PDFs, they are all cards. You can combine the cards on the whiteboard to unleash your creative potential.
+7. Connect cards or handwritten notes with wires, allowing you to easily understand the interrelationships between notes.
+8. Using links to associate notes, whether it's notes from the same whiteboard or other whiteboards, you can quickly locate them by jumping through the links.
+9. By searching, you can quickly locate notes on the large whiteboard.
+10. Use thumbnails to mark your notes, allowing you to quickly find the notes marked with thumbnails.
+11. By providing different paper styles and background colors, you can always find one you like.
+12. On iPad, it supports opening two whiteboards at the same time. The notes in both whiteboards can be selected and long pressed through lasso, and then dragged to another whiteboard, greatly improving work efficiency.
+13. PDF reading, annotation (highlighting, underlining, through lines), handwritten annotation, bookmark collection, and annotation content support dragging onto the whiteboard, making your learning more efficient.
+14. The notes on the whiteboard support exporting images, and the entire whiteboard data can be exported and saved, as well as imported into. boardNotes files.
+15. Support the creation of folders to categorize notes, as well as the ability to bookmark notes.
+
+Download BoardNotes for free on iPad and iPhone, and create 4 whiteboards for free.
+Purchase within the app and unlock all BoardNotes features at once.
+
+If you have any suggestions, please contact us using the feedback function within the application.
+Ratings
+Displayed Avg Ratings
+4.74
+Total Displayed Ratings
+3.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 0.4.6 (Feb 21, 2024)
+    1. Optimized some functions and fixed some bugs
+Version 0.4.5 (Feb 8, 2024)
+    1. Optimized some functions and fixed some bugs
+Version 0.4.3 (Jan 27, 2024)
+    1. The line spacing of the text can be modified now
+    2. Notebooks and PDFs added left and right scrolling browsing
+    3. To prevent accidental touch of the card, double clicking on the card can be set to focus
+    4. Support for redirecting hyperlinks in PDF
+    5. Fixed a bug in iOS 17 where the settings button would disappear
+    6. Optimization of other functions
+Version 0.4.2 (Jan 15, 2024)
+    1. UI interface added dark mode
+    2. Optimized some functions and fixed some bugs
+Version 0.4.0 (Jan 10, 2024)
+    1. Optimized the issue of handwriting note jitter in laptops and PDFs
+    2. Fixed a bug where the format of the text box may change when zooming in or out
+    3. Optimized the issue of excessive image lag in laptops and PDFs
+    4. Optimized other functions and fixed some bugs
+Version 0.3.9 (Dec 18, 2023)
+    1. Import files in Word, PowerPoint, and other text formats, which can be automatically converted to PDF format
+    2. Optimized some functions and fixed some bugs
+Version 0.3.8 (Dec 1, 2023)
+    1. Optimized the issue of canvas sliding during writing
+    2. Fixed the issue of PDF export and note cropping offset
+    3. The text and images added in PDF and notebook can be locked
+    4. In PDFs and notebooks, alignment function has been added for text box and image movement
+    5. The PDF on the whiteboard can be split into images and the size of the split can be selected
+    6. The page order in the notebook can be changed now
+    7. Fixed known bugs
+Version 0.3.7 (Nov 21, 2023)
+    1. Fixed a bug where PDF files disappear after being deleted from the whiteboard and added to another whiteboard
+    2. Optimized some functions
+Version 0.3.6 (Nov 17, 2023)
+    1. Export whiteboard as PDF and optimize images
+    2. Fix bug in note direction error during PDF export
+    3. Local videos can be added to laptops and PDFs
+    4. Repair blank bugs when opening the notebook
+Version 0.3.5 (Nov 9, 2023)
+    1. Fixed some bugs
+Version 0.3.4 (Nov 6, 2023)
+    1. The hierarchical relationship between background boards can be adjusted mutually
+    2. Split PDF into image size adjustment
+    3. Notebooks and PDFs can be exported as images
+    4. Fix note misalignment caused by locking ratio in notebooks
+    5. Fixed known bugs and optimized some functions
+Version 0.3.3 (Oct 30, 2023)
+    1. Fix known bugs
+    2. Optimized some functions
+Version 0.3.2 (Oct 24, 2023)
+    1. Fixed issues with large pages being unable to write and delayed writing in laptops and PDFs
+Version 0.3.0 (Oct 17, 2023)
+    1. Add webpage snapshots, link jumps, and recordings to the notebook
+    2. Several new templates have been added to the notebook, and external templates can also be imported
+    3. New lockdown ratio for laptops
+    4. Add page button in the upper right corner of the notebook
+    5. Add the function of copying the current page in notebooks and PDFs
+    6. Laptop Add Pull Up Add Page
+    7. PDF added calculator and timer, and added finger drawing mode
+    8. A card with a screenshot of the video floating window, which can be reversed to the frame of the video
+    9. Optimized text amplification and blurring in whiteboard
+    10. Fix known bugs
+Version 0.2.9 (Sep 29, 2023)
+    1. Add notebook mode
+    2. Fix known bugs
+Version 0.2.8 (Sep 18, 2023)
+    1. Add a timer on the whiteboard, which can count forward and down.
+    2. Add handwriting data backup function in PDF, and each page will automatically save the last ten handwriting data.
+    3. The thumbnail in the PDF can now display handwritten notes.
+    4. A ruler can be used in PDF now.
+    5. Search in the upper left corner of the whiteboard, add handwritten note classification, and quickly locate the first and last handwritten notes.
+    6. Fix known bugs.
+Version 0.2.5 (Aug 25, 2023)
+    1. The background board can be set to a default size, such as A4 size
+    2. Cropped excerpts in PDF can now include handwritten notes, or they can be set to not include
+    3. The lasso has been re equipped with replication and straightening functions
+    4. Fix known bugs
+Version 0.2.4 (Aug 22, 2023)
+    1. Lasso optimization in whiteboard and PDF
+    2. In PDF, you can use a lasso to select handwritten notes and change their size
+    3. Handwritten notes that can be pasted and copied by long pressing in PDF
+    4. Fix known bugs
+Version 0.2.3 (Aug 17, 2023)
+    1. Link jump allows adding external links
+    2. The default style can be set for the background board
+    3. The recording on the whiteboard can be exported now
+    4. Add a simple calculator to the whiteboard
+    5. Optimized the sensitivity of finger long press selection for text in PDF
+    6. Optimized the issue of blurry handwritten notes exported in PDF
+    7. Optimization of heating when using the APP
+    8. Fix known bugs
+Version 0.2.2 (Aug 8, 2023)
+    1. Add OCR to recognize text in images
+    2. Two types of stickers and solid colors have been added to the tape background, and whether to display a shadow switch has been added to the tape menu
+    3. Pages can be added or deleted in PDF now
+    4. Added eraser in PDF to clear current page function
+    5. Add translation function in PDF
+    6. The pencil case can be dragged to the top now
+    7. The thumbnails on the whiteboard can be layered; Add a pushpin link, which allows you to quickly open the whiteboard where the pushpin is located from an external app through the link
+Version 0.2.1 (Jul 27, 2023)
+    1. All operations on the whiteboard can be redo and undo, and Laser pointer and tape can be redo and undo in PDF
+    2. The deleted PDF can be restored in the recycle bin
+    3. Pens that are not frequently used in the pen box can be hidden
+    4. Whiteboard search for pushpin list, long press and drag to sort pushpins
+    5. The connection line can save default parameters now
+    6. Add Message Center
+    7. Fix known bugs
+Version 0.1.8 (Jul 3, 2023)
+    1. The content in the background board can be moved along with it or individually
+    2. Long press on the whiteboard to call up the shortcut menu bar (Paste, Text, Image, Pushpin, Link Jump). You can paste the copied data and quickly create text cards, image cards, Pushpins, Link Jump at the specified location
+    3. Support reading fonts from imported devices
+    4. The file type supports using a floating window to open and browse
+    5. Tape can be used in PDF now
+    6. Multiple outlines can be created on one page in PDF
+    7. PDF supports cropping and extracting images
+Version 0.1.7 (Jun 24, 2023)
+    1. The thickness of the Laser pointer can be adjusted
+    2. Laser pointer notes can also be permanently saved in PDF
+    3. The notes and annotations in PDF can be exported together with PDF
+    4. After selecting handwritten notes on the whiteboard with a lasso, they can be resized
+    5. In the Eraser menu, the one button screen clearing function is added
+Version 0.1.6 (Jun 19, 2023)
+    1. Laser pointer notes can be saved permanently
+    2. Fix known bugs
+Version 0.1.5 (Jun 13, 2023)
+    1. Pens can be added or removed in the pen box, and the order of the pens can be changed
+    2. New Handwriting recognition search function, which needs to be enabled in the whiteboard setting interface
+    3. Fix known bugs
+Version 0.1.4 (Jun 9, 2023)
+    1. Add a PDF section on the homepage, making it easier to add and read PDFs
+    2. Add third-party apps to share data with BoardNotes
+    3. In the more options on the whiteboard, add control over the display and hiding of the top toolbar
+    4. Optimize the issue of inaccurate contour range in the tape display state
+Version 0.1.3 (Jun 5, 2023)
+    1. The PDF outline can be customized, created, modified, and deleted
+    2. PDF reader adds horizontal scrolling reading mode
+    3. Optimized the issue of handwriting blurring after PDF enlargement
+    4. The canvas auxiliary line has added a Tianzi grid
+    5. Added a background plate, which can be used as the background for handwritten notes, cards, etc. You can freely modify the background color and rounded size
+Version 0.1.2 (Jun 1, 2023)
+    1. Add tape function, use tape to test and learn knowledge points, cover important parts in notes, and lightly tap the tape to display or hide.
+    2. Add a floating window to play videos, where you can crop any image in the video and automatically add it to the whiteboard while watching.
+    3. Add the scanning document function to convert paper books into PDF e-books.
+Version 0.1.1 (May 29, 2023)
+    1. Card added rotation function
+    2. Add teaching videos to the user manual
+    3. Text type card adding font selection
+    4. Fix known bugs and prompt stability
+Version 0.1.0 (May 18, 2023)
+
+Users may also like
+Select objects to compare
+GUGA-超级白板
+OrigNotes
+XNote-infinite boards & notes
+Freenotes - Note Taking
+享做笔记
+Notes+ : Note-taking app
+Noteful: Note-Taking on PDF
+WinkNotes - Perfect study tool
+NoteYebos
+进度条
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    0.4.6
+    Current release
+    Feb 21, 2024
+    0.4.5
+    Feb 8, 2024
+    0.4.3
+    Jan 27, 2024
+    0.4.2
+    Jan 15, 2024
+    0.4.0
+    Jan 10, 2024
+    0.3.9
+    Dec 18, 2023
+    0.3.8
+    Dec 1, 2023
+    0.3.7
+    Nov 21, 2023
+    0.3.6
+    Nov 17, 2023
+    0.3.5
+    Nov 9, 2023
+    0.3.4
+    Nov 6, 2023
+    0.3.3
+    Oct 30, 2023
+    0.3.2
+    Oct 24, 2023
+    0.3.0
+    Oct 17, 2023
+    0.2.9
+    Sep 29, 2023
+    0.2.8
+    Sep 18, 2023
+    0.2.5
+    Aug 25, 2023
+    0.2.4
+    Aug 22, 2023
+    0.2.3
+    Aug 17, 2023
+    0.2.2
+    Aug 8, 2023
+    0.2.1
+    Jul 27, 2023
+    0.1.8
+    Jul 3, 2023
+    0.1.7
+    Jun 24, 2023
+    0.1.6
+    Jun 19, 2023
+    0.1.5
+    Jun 13, 2023
+    0.1.4
+    Jun 9, 2023
+    0.1.3
+    Jun 5, 2023
+    0.1.2
+    Jun 1, 2023
+    0.1.1
+    May 29, 2023
+    0.1.0
+    May 18, 2023
+
+See More
+Top In-App Purchases
+
+    Full version Unlock
+    $5.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    May 18, 2023
+
+Worldwide Release Date
+    May 18, 2023
+
+Last Updated Time
+    Mar 6, 2024
+
+Version
+    0.4.6
+
+Size
+    140.00 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese, Traditional Chinese
+
+Seller
+    朝民 肖
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.notes.boardNotes
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6448847544
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+BoardNotes - Whiteboard & Note | data.ai

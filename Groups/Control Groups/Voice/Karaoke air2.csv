@@ -1,0 +1,22 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.19,2022-03-06,add the function of notify the host server to download the songs.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.18,2020-08-02,fix Volume control button and search feature.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.17,2019-02-13,change back to update songlist manually.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.16,2018-12-21,removed the connect promption.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.15,2018-12-19,1 add app version and date information in settings 2 auto get the songlist from the host
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.14,2018-10-09,optimized a little.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.13.1,2018-05-22,optimized
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.13,2018-05-18,optimized
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.12,2018-04-27,optimized
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.11,2018-04-22,update feature
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.10,2018-03-31,update one icon
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.9,2018-03-28,add youtube search data and youtube songlist.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.8,2017-07-20,Optimized socket connection.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.7,2016-12-20,added recorded interface
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.6,2016-05-27,This version supports the language of Myanmar.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.5,2016-04-21,Add new languages.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.4,2016-02-23,Can display more songs each page.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.3,2016-02-01,Support 6 digits numbers if host machine use 6 digits number.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.2,2015-11-24,this version will run faster.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.1,2015-10-18,this version changed the number interface.
+1039759067,0,Karaoke air2,Entertainment,2015-10-03,2015-09-29,87.61,1,0,0,0,1.0,2015-09-29,

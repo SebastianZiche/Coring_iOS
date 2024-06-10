@@ -1,0 +1,23 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,8.2.6,2024-01-03,Minor bug fixes
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,8.2.4,2023-11-22,Minor bug fixes
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,8.2.3,2023-11-15,new media player controls new snap alignment options
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,8.1.3,2023-09-19,Minor bug fixes
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,8.1.2,2023-08-17,Added snap guidelines and file management options in the file browser.
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,8.0.7,2023-05-30,Fixed issue with the palm reject option blocking the use of the eraser Fixed opening a sharable file from the dashboard
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,8.0.6,2023-05-16,Major new version
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.7.12,2023-02-21,Major backend upgrade
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.6.5,2022-04-27,Bug fixes
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.6.4,2022-04-09,Various minor bug fixes
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.6.3,2022-03-11,Import .flipchart files
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.3.10,2021-08-09,Fix two crashes
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.2.5,2021-04-14,Can now open YouTube videos in the system browser from internal player The select tool is now always the default when changing presentation mode Can now search cloud drives for content Fixed playing YouTube videos Fixed issue saving imported PDF when name is not changed Fixed issue saving out backgrounds when they do not fill the page Fixed issue importing links between pages When opening a PDF document directly the default page size is now set correctly
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.2.4,2021-03-25,Added user facing warnings for some error conditions Improved eraser and palm erase Improved handwriting performance Added option for setting font for handwriting recognitions Updated translations Fixed issue with PDF export when presentation pages are not a uniform size Fixed issue with underline being incorrectly applied to text
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.1.5,2020-12-12,New toolbar layout File type icon overlays on the home dashboard Improved text handling Fixed crashes
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.0.14,2020-10-20,Fix for a iOS crash Updated translations
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.0.13,2020-10-13,Improved detection of screen sizes Improved support for importing complex backgrounds Fixed crash on iOS when adding media items Fixed rare crash when saving Updated translations
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.0.12,2020-10-03,German and Swedish translations updated
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7.0.11,2020-10-01,Stability improvements
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,7,2020-09-30,New user interface
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,6,2018-08-01,Reworked user interface Online handwriting and maths recognition Improved stability
+1260946498,0,LYNX Whiteboard,Education,2017-10-16,2017-10-16,124.17,1,0,0,0,5.3,2017-10-16,

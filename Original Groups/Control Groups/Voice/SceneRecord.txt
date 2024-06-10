@@ -1,0 +1,656 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+SceneRecord
+Yong ZHANGUtilities (Applications)Free
+Alerts
+
+SceneRecord
+SceneRecord
+SceneRecord
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+SceneRecord
+Cloud Voice Recorder
+Utilities (Applications)
+Free
+App Description
+A learning and sharing platform for recording production.
+
+A MP3 Recorder, and is also a Voice-Changer.
+
+●Support iOS 17●
+●Support iMeesage●
+●Support watchOS 5,watchOS 4,watchOS 3,watchOS 2 (Apple Watch can leave iPhone independent recording and playback)●
+● Support 3D Touch ●
+● Support iPad Pro ●
+● Support Split View ●
+● Support Widget ●
+
+The operation is simple, easy to use.
+
+●Taking pictures while recording, the best recording tool for meetings and classrooms●
+●MP3 format direct recording, you can achieve full cross-platform sharing●
+●Recording + photo = video, e-courseware a click to achieve●
+●Cut, soundtrack, stitching, you can edit whatever you want●
+●Text and handwritten notes taken pictures, convenient and quick to modify photos●
+●Nine kinds of export methods, so that sharing becomes simple and easy●
+●Data storage security technology, It can ensure that the recording data is well preserved●
+●Real-time change the sound playback technology, opened a new chapter in the recording playback●
+●Setting the volume level to start recording, monitor your sleep, and detect health problems in a timely manner●
+●Apple Watch and iPhone control each other recording, complement each other●
+●iMessage has no size limit to share●
+●Support recording when Apple Watch lock screen, great savings in the valuable power to extend the use of time●
+
+
+Special Features:
+√ ●Data storage security technology, It can ensure that the recording data is well preserved●
+√ ●Support to change sound when the sound is playing●
+√ ●Added a key split function(Crop page can set the average number of segments, a key to automatically complete the recording average split)●
+√ ●Support for handwritten notes on photos●
+√ ●Support the photo to mark the text●
+√ ●Support iMeesage●
+√ ●Supports Apple Watch Complication●
+√ ●Support for setting labels when recording●
+
+√ Support set the volume level to start recording.
+
+√ When other App play music, you can also record.
+
+√ Support Touch ID.
+
+√ Auto continue to record after being disturbed by call.
+
+√ Support to change voice speed and pitch.
+
+√ Support for MP3 format direct recording.
+
+√ Support mix audio.
+
+√ Support for camera(unlimited number of photos).
+
+√ Support the recording and playback in the background or lock screen.
+
+√ Query history recording notes and file names by keyword.
+
+√ You can set a password to enter the software and ensure data security.
+
+√ Supports loop or random continuous playback.
+
+√ Support for export to album sharing.
+
+√ Support for Wi-Fi sharing.
+
+√ Support for export to other App to share.
+
+Other features:
+
+√ Support for other audio formats to MP3.
+
+√ Support e-mail sharing.
+
+√ Support iTunes sharing.
+
+√ Support photo cropping.
+
+√ Support recording crop (cropped recording format supported ringtone formats, facilitate the production of cell phone ringtones).
+
+√ Support text notes and rename, can note in recording and playback.
+
+√ Support for both compressed and uncompressed format.
+
+√ Provide hourly 20M (MP3), 39M (WAV), 59M (AAC), 78M (WAV), 168M (IMA4), 320M (PCM),40M (MP3),10M (MP3) eight kinds of recording format, where 320M is not compressed recording format, the best sound quality.
+
+√ Set the background music sounds volume(while mix audio).
+
+Running very stable and reliable,with ads.
+
+Very suitable for police,lawyers,journalists,voice acquisition personnel, meeting recording,training record,classroom recordings, music teaching, music production,recording and personal needs.
+
+Voice Changer feature is ideal for funny and entertaining.
+
+
+
+
+“ZTX LE Time Stretch/Pitch Shift technology licensed from Zynaptiq GmbH, http://www.zynaptiq.com/ztx (c) Zynaptiq GmbH”.
+Ratings
+Displayed Avg Ratings
+4.74
+Total Displayed Ratings
+78.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 39.0 (Feb 28, 2024)
+    * Fixed some bugs.
+Version 38.5 (Feb 26, 2024)
+    * Fixed some bugs.
+Version 38.0 (Oct 13, 2023)
+    * Adapted to iOS 17.
+    * Fixed some bugs.
+Version 37.5 (Sep 7, 2023)
+    * Fixed some bugs.
+Version 37.0 (Mar 25, 2023)
+    * Fixed some bugs.
+Version 36.5 (Feb 24, 2023)
+    * Fixed some bugs.
+Version 36.0 (Nov 20, 2022)
+    * Added the function of deleting account.
+    * Compatible with iOS 16.
+    * Fixed the problem of iPhone 14 Pro Max main interface disorder.
+    * Fixed some bugs.
+Version 35.5 (Sep 14, 2022)
+    * Fixed some bugs.
+Version 35.0 (Aug 23, 2022)
+    * Fixed some bugs.
+Version 34.5 (Apr 20, 2022)
+    * Fixed some bugs.
+Version 34.0 (Apr 11, 2022)
+    * Fixed some bugs.
+Version 33.5 (Apr 5, 2022)
+    *In order to avoid unnecessary purchases by users, all purchase items on the main interface have been removed, and a dedicated purchase interface has been added, where users can clearly see the purchase content, price and duration, and users will get clearer prompts and stricter confirmation when making purchases.
+    *Fixed some bugs.
+Version 33.0 (Jan 5, 2022)
+    * Fixed some bugs.
+Version 32.5 (Oct 19, 2021)
+    * Adapted to iOS 15.
+    * Fixed some bugs.
+Version 32.0 (Sep 8, 2021)
+    * Fixed some bugs.
+Version 31.5 (Aug 27, 2021)
+    * Fixed some bugs.
+Version 31 (Aug 13, 2021)
+    * Fixed some bugs.
+Version 30.5 (Aug 7, 2021)
+    * Fixed some bugs.
+Version 30.0 (Jul 25, 2021)
+    * Fixed some bugs.
+Version 29.5 (May 4, 2021)
+    * Fixed some bugs.
+Version 29.0 (Mar 18, 2021)
+    * Fixed some bugs.
+Version 28.5 (Mar 12, 2021)
+    * Fixed some bugs.
+Version 28.0 (Mar 6, 2021)
+    * Fixed some bugs.
+Version 27.0 (Jan 27, 2021)
+    * Fixed some errors.
+    * Added VIP Weekly Subscription.
+    * Added VIP Monthly Subscription.
+    * Added VIP Yearly Subscription.
+Version 26.5 (Dec 6, 2020)
+    * Fixed some bugs.
+Version 26.0 (Nov 8, 2020)
+    * Fixed some errors.
+    * Added noise reduction function.
+    * Added In-App Purchase, which is used to purchase noise reduction function.
+Version 25.5 (Jul 22, 2020)
+    * Fixed some errors.
+Version 25.0 (Jul 8, 2020)
+    * Fixed some bugs.
+Version 24.5 (Jul 1, 2020)
+    * Fixed some bugs.
+Version 24.0 (May 29, 2020)
+    * Fixed some bugs.
+Version 23.5 (Dec 12, 2019)
+    * Fixed some bugs.
+Version 23.0 (Dec 6, 2019)
+    * Fixed some bugs.
+Version 22.5 (Oct 16, 2019)
+    * Optimized for iOS 13 .
+Version 22.0 (Sep 17, 2019)
+    * Fixed some bugs.
+Version 21.5 (Sep 11, 2019)
+    * Fixed some bugs.
+Version 21.0 (Sep 10, 2019)
+    * Updated 6.5-inch screenshots.
+    * Fixed some bugs.
+Version 20.5 (Jul 18, 2018)
+    * Fixed some bugs.
+Version 20.0 (Jul 15, 2018)
+    * Fixed some bugs.
+Version 19.5 (May 31, 2018)
+    * Fixed some bugs.
+Version 19.0 (May 16, 2018)
+    * Fixed some bugs.
+Version 18.5 (May 11, 2018)
+    * Increased system stability.
+Version 18.0 (Mar 16, 2018)
+    * Fixed some bugs.
+Version 17.5 (Feb 12, 2018)
+    * Support for iOS 11.
+    * Support for iPhone X.
+    * Fixed some bugs.
+    * Updated screenshots.
+Version 17.0 (Aug 30, 2016)
+    * Fixed some bugs
+Version 16.5 (Aug 26, 2016)
+    * Support watchOS 2
+    * Fixed some bugs
+Version 16.0 (Jul 23, 2016)
+    * Fixed some bugs.
+Version 15.5 (Feb 15, 2016)
+    * Fixed some bugs.
+    * Use a new application icon.
+    * Use a new button icon.
+Version 15.0 (Sep 22, 2015)
+    * Enhanced the stability of the system.
+Version 14.5 (Oct 25, 2014)
+    * Enhanced system stability
+    * Support Touch ID
+Version 14.0 (Oct 9, 2014)
+    * Enhanced system stability
+Version 13.5 (Sep 15, 2014)
+    * Enhanced the stability of the system.
+Version 13.0 (May 9, 2014)
+    * Enhanced the stability of the system
+Version 12.5 (May 2, 2014)
+    * Fixed some bugs
+
+    * Use a new logo
+Version 12.0 (Apr 18, 2014)
+    1, Support iOS 7
+    2, Increasing the recording of location and sharing
+    3, Increasing recently played files list
+    4, Fixed Bug
+Version 11.5 (Jan 26, 2014)
+    * Enhanced the stability of the system
+Version 11.0 (Jan 21, 2014)
+    * Full localization: Japanese, Korean, Turkish, Russian, German, Swedish, Dutch, French, Italy, Portugal, Spain, Denmark, Greece, Thai
+    * Increase the iPad button spacing
+    * Fixed Internet import interface displays an error
+    * Enhanced system stability
+Version 10.5 (Jan 3, 2014)
+    * You can take pictures after changing the sound.
+    * You can dub after changing the sound.
+    * Clear the temporary files automatically after changing the sound.
+    * Enhanced system stability.
+Version 10.0 (Dec 18, 2013)
+    * Add the voice change function
+    * Enhanced the stability of the system
+    * Add AdMob
+Version 9.5 (Dec 5, 2013)
+    * Enhanced system stability
+Version 9.0 (Nov 27, 2013)
+    * Configurable background music
+    * Single recording support multiple photos taken
+    * You can import files from your music library
+Version 8.5 (Oct 23, 2013)
+    Enhanced the stability of the system.
+Version 8.0 (Oct 20, 2013)
+    *System optimization for iOS 7
+
+    *Add recording cropping function, cropped formats supported AAC and PCM, AAC can be directly used for ringtones
+
+    *Add photos cropping function
+
+    *Add recording pause function
+Version 7.5 (Sep 25, 2013)
+    Enhanced stability of the system
+Version 7.0 (Sep 17, 2013)
+    * Support recording in MP3 format
+    * Support convert to MP3 format
+Version 6.5 (Sep 7, 2013)
+    * Support for camera
+    * Support recording to export to another app
+Version 6.0 (Aug 16, 2013)
+    *Add a wav format
+    *Supports loop playback
+Version 5.5 (Jul 27, 2013)
+    Download by Wi-Fi
+Version 5.0 (Jul 19, 2013)
+    ＊Support Bluetooth headsets recording and playback.
+    ＊Support wav format recording.
+    ＊When exporting to the gallery does not lock screen.
+Version 4.5 (Jul 12, 2013)
+    Can be exported to the Photos album.
+Version 4.0 (Jul 2, 2013)
+    * Recording volume increases
+    * Set parameters can be memorized
+    * Added internal purchase Suite Professional Edition
+    * Professional Edition kit includes full-text search capabilities and password protection
+    * Professional Edition suite full-text search function can be related to the keyword query to the audio file (the file name or notes related to the content match)
+    * Professional Edition package provides password authentication mechanism, if the password is enabled, then the use of this software requires a password before
+Version 3.5 (Jun 13, 2013)
+    Fixed occasional audio file corruption error.
+Version 3.0 (May 9, 2013)
+    * You can delete empty folders
+    * You can rename the audio file
+    * During playback flip the switch to the current Playlists
+    * Can display the folder recording the number and total size
+    * You can display the recording file size and duration
+    * Remarks recording file in the recording file list
+Version 2.0 (Apr 9, 2013)
+    * Localization:Arabic,Hebrew,Thai,German,French,Spanish,Korean,Japanese,Russian,Turkish,Italian,Dutch,Chinese,Portuguese,Hindi,Swedish,Greek,Irish,Danish.
+
+    * Enhanced the stability of the system.
+Version 1.5 (Apr 1, 2013)
+    * Support iPhone 5 and iPad interface.
+
+    * Fixed the occasional flash exit bug, greatly enhancing system stability.
+
+    * Add the function of mailling the recording file.
+
+    * Support to delete the recording file.
+
+    * Allow to export the recording file by iTunes.
+Version 1.0 (Mar 13, 2013)
+
+Users may also like
+Select objects to compare
+AVR X - Voice Recorder
+Voice Recorder, Audio Memos
+RecorderHQ -Recorder for cloud
+Dubbing Artist
+Voice Recorder & Memos Pro
+配音－变音变声器配音软件
+录音大师-随心录音，录你想录
+录音专家-专业录音转文字助手
+佳佳小唰粉-火遍网络
+电话录音-手机通话自动录音取证软件
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Screen Recorder
+Screen Recorder
+Apps for recording device's screen to video.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    39.0
+    Current release
+    Feb 28, 2024
+    38.5
+    Feb 26, 2024
+    38.0
+    Oct 13, 2023
+    37.5
+    Sep 7, 2023
+    37.0
+    Mar 25, 2023
+    36.5
+    Feb 24, 2023
+    36.0
+    Nov 20, 2022
+    35.5
+    Sep 14, 2022
+    35.0
+    Aug 23, 2022
+    34.5
+    Apr 20, 2022
+    34.0
+    Apr 11, 2022
+    33.5
+    Apr 5, 2022
+    33.0
+    Jan 5, 2022
+    32.5
+    Oct 19, 2021
+    32.0
+    Sep 8, 2021
+    31.5
+    Aug 27, 2021
+    31
+    Aug 13, 2021
+    30.5
+    Aug 7, 2021
+    30.0
+    Jul 25, 2021
+    29.5
+    May 4, 2021
+    29.0
+    Mar 18, 2021
+    28.5
+    Mar 12, 2021
+    28.0
+    Mar 6, 2021
+    27.0
+    Jan 27, 2021
+    26.5
+    Dec 6, 2020
+    26.0
+    Nov 8, 2020
+    25.5
+    Jul 22, 2020
+    25.0
+    Jul 8, 2020
+    24.5
+    Jul 1, 2020
+    24.0
+    May 29, 2020
+    23.5
+    Dec 12, 2019
+    23.0
+    Dec 6, 2019
+    22.5
+    Oct 16, 2019
+    22.0
+    Sep 17, 2019
+    21.5
+    Sep 11, 2019
+    21.0
+    Sep 10, 2019
+    20.5
+    Jul 18, 2018
+    20.0
+    Jul 15, 2018
+    19.5
+    May 31, 2018
+    19.0
+    May 16, 2018
+    18.5
+    May 11, 2018
+    18.0
+    Mar 16, 2018
+    17.5
+    Feb 12, 2018
+    17.0
+    Aug 30, 2016
+    16.5
+    Aug 26, 2016
+    16.0
+    Jul 23, 2016
+    15.5
+    Feb 15, 2016
+    15.0
+    Sep 22, 2015
+    14.5
+    Oct 25, 2014
+    14.0
+    Oct 9, 2014
+    13.5
+    Sep 15, 2014
+    13.0
+    May 9, 2014
+    12.5
+    May 2, 2014
+    12.0
+    Apr 18, 2014
+    11.5
+    Jan 26, 2014
+    11.0
+    Jan 21, 2014
+    10.5
+    Jan 3, 2014
+    10.0
+    Dec 18, 2013
+    9.5
+    Dec 5, 2013
+    9.0
+    Nov 27, 2013
+    8.5
+    Oct 23, 2013
+    8.0
+    Oct 20, 2013
+    7.5
+    Sep 25, 2013
+    7.0
+    Sep 17, 2013
+    6.5
+    Sep 7, 2013
+    6.0
+    Aug 16, 2013
+    5.5
+    Jul 27, 2013
+    5.0
+    Jul 19, 2013
+    4.5
+    Jul 12, 2013
+    4.0
+    Jul 2, 2013
+    3.5
+    Jun 13, 2013
+    3.0
+    May 9, 2013
+    2.0
+    Apr 9, 2013
+    1.5
+    Apr 1, 2013
+    1.0
+    Mar 13, 2013
+
+See More
+Top In-App Purchases
+
+    Monthly subscription for VIP
+    $10.49
+    Yearly subscription for VIP
+    $40.99
+    Noise Reduction
+    $14.99
+    Weekly subscription for VIP
+    $3.99
+    Remove Ads
+    $14.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Utilities
+
+Initial Release Date
+    Mar 14, 2013
+
+Worldwide Release Date
+    Mar 14, 2013
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    39.0
+
+Size
+    72.86 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Catalan, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Irish, Italian, Japanese, Korean, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Slovak, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+Seller
+    勇 张
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 and watchOS 2.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.cuiaihong.scenerecord
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Aug 26, 2016)
+
+Has iMessage
+    Yes
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 615897153
+Unified App ID: 1000600000842756
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+SceneRecord | data.ai

@@ -1,0 +1,445 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+FluffyChat
+Famedly GmbHSocial Networking (Applications)Free
+Alerts
+
+FluffyChat
+FluffyChat
+FluffyChat
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+FluffyChat
+Social Networking (Applications)
+Free
+App Description
+FluffyChat is an open, nonprofit and cute Matrix messenger app. Actually it is the cutest Matrix messenger out there!
+
+Imagine a world where everyone can choose the messenger they like and is still able to chat with all of their friends.
+A world where there are no companies spying on you when you send selfies to friends and lovers.
+And a world where apps are made for fluffyness and not for profit.
+Ratings
+Displayed Avg Ratings
+4.14
+Total Displayed Ratings
+161
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version v1.18.0 (Feb 25, 2024)
+    - Add speed button for audioplayer
+    - Enhanced send video functionality by adding toggle to send original
+    - Added option to hide the status list
+
+    Plus a lot of bugfixes and performance improvements.
+Version v1.17.3 (Feb 5, 2024)
+    Bugfixes and return of the wallpaper feature.
+Version v1.17.2 (Jan 25, 2024)
+    Bugfixes and performance improvements.
+Version v1.17.1 (Jan 14, 2024)
+    Bugfixes and stability improvements.
+Version v1.17.0 (Jan 7, 2024)
+    Bugfixes and performance improvements.
+Version v1.16.0 (Dec 8, 2023)
+    Display the online status of other users (not functional on matrix.org) and improved UX design for the new chat page. This release also contains a lot of bug fixes and improvements under the hood.
+Version v1.15.0 (Nov 1, 2023)
+    Lots of bugfixes and an experimental new todo list feature for chats.
+Version v1.14.5 (Oct 9, 2023)
+    Hotfix app crashes on some devices and reset applock does not work.
+Version 1.14.4 (Oct 8, 2023)
+    Minor bugfix release and performance improvements.
+Version 1.14.3 (Sep 30, 2023)
+    Fixes that app lock does not reset after logout
+Version 1.14.2 (Sep 28, 2023)
+    Hotfix for broken applock is blocking the app.
+Version 1.14.1 (Sep 18, 2023)
+    Hotfix for adding a second account not possible.
+Version 1.13.0 (Aug 9, 2023)
+    - New option to disable typing notifications.
+    - Message performance enhancements.
+    - Revamped onboarding screen with SSO as a primary feature.
+    - Import/export emoji packs via ZIP.
+    - Updated chat bubble design and more design tweaks.
+    - Login now emphasizes SSO; in-app registration deprecated in favor of SSO registration.
+    - New translations added: Arabic, Simplified Chinese, Estonian, German, Indonesian, Ukrainian.
+Version 1.12.0 (Jun 11, 2023)
+    Get ready for FluffyChat Version 1.12.0!
+
+    - Connect worldwide with new translations in multiple languages!
+    - Experience the sleekness of Flutter 3.10 for smoother performance!
+    - Take control with a toggle to mute chat group notifications. Shh!
+    - Bug fixes and refinements for a flawless messaging experience!
+
+    Upgrade now and enjoy the fluffiest chats ever!
+Version 1.11.2 (May 5, 2023)
+    Hotfix unable to open some rooms
+Version 1.11.1 (Apr 20, 2023)
+    Fix correct mimetype when downloading files.
+Version 1.11.0 (Apr 18, 2023)
+    Bugfixes and performance improvements
+Version 1.10.0 (Mar 12, 2023)
+    Bugfixes and stability improvements
+Version 1.9.0 (Feb 3, 2023)
+    Performance improvements and bugfixes.
+Version 1.8.0 (Jan 2, 2023)
+    Updated translations and bugfixes
+Version 1.7.1 (Nov 23, 2022)
+    Minor bugfixes and performance improvements.
+Version 1.7.0 (Nov 18, 2022)
+    Bugfixes and performance improvements.
+Version 1.6.4 (Sep 12, 2022)
+    Minor bugfixes
+Version 1.6.3 (Aug 30, 2022)
+    Minor bugfixes
+Version 1.6.2 (Aug 21, 2022)
+    Bugfixes and performance improvements
+Version 1.5.0 (Jun 6, 2022)
+    Bugfixes and new design.
+Version 1.4.0 (May 6, 2022)
+    Bugfixes and performance improvements.
+Version 1.3.1 (Mar 23, 2022)
+    Bugfixes and performance improvements.
+Version 1.3.0 (Feb 28, 2022)
+    Bugfixes, performance improvements and the ability to pin messages in a chat.
+Version 1.2.0 (Jan 31, 2022)
+    Bugfixes and performance improvements
+Version 1.1.0 (Dec 8, 2021)
+    Bugfixes and performance improvements.
+Version 1.0.0 (Dec 2, 2021)
+    FluffyChat 1.0.0 fixes a lot of bugs and papercuts, improves the design, stability and performance and features a new theme switcher.
+Version 0.42.2 (Nov 4, 2021)
+    Bugfixes and better voice messages.
+Version 0.42.1 (Oct 27, 2021)
+    Minor bugfixes.
+Version 0.42.0 (Oct 14, 2021)
+    Bugfixes and stability improvements.
+Version 0.41.4 (Oct 9, 2021)
+    Hotfix push notifications.
+Version 0.41.3 (Oct 8, 2021)
+    Minor fixes and performance improvements.
+Version 0.41.2 (Sep 22, 2021)
+    Bugfixes and updated translations.
+Version 0.41.1 (Sep 20, 2021)
+    Bugfixes and performance improvements.
+Version 0.40.0 (Sep 13, 2021)
+    Bugfixes and performance improvements.
+Version 0.39.1 (Aug 30, 2021)
+    Hotfix playing voice messages.
+Version 0.39.0 (Aug 29, 2021)
+    - Start a new chat by scanning a QR code
+    - A lot of minor bug fixes and performance improvements
+Version 0.38.0 (Aug 22, 2021)
+    This release adds more functionality for spaces, enhances the html viewer, adds a brand new video player and brings some improvements for voice messages.
+Version 0.37.0 (Aug 7, 2021)
+    New feature: Share your location with your friends on FluffyChat.
+Version 0.36.1 (Aug 3, 2021)
+    Hotfix a performance bug.
+Version 0.36.0 (Jul 31, 2021)
+    Bug fixes and minor design improvements.
+Version 0.35.0 (Jul 24, 2021)
+    This release introduces stickers and a lot of minor bug fixes and improvements.
+Version 0.34.1 (Jul 16, 2021)
+    FluffyChat 0.34.1 brings performance improvements and more stability.
+Version 0.32.0 (Jun 21, 2021)
+    FluffyChat 0.32.0 targets improved stability and a new onboarding flow where single sign on is now the more prominent way to get new users into the app. This release also introduces a complete rewritten database under the hood based on the key value store Hive instead of sqlite. This should improve the overall stability and the performance of the web version.
+Version 0.31.2 (May 29, 2021)
+    - Fix a bug regarding push notifications
+Version 0.31.1 (May 26, 2021)
+    - Bug fixes
+    - Performance improvements
+Version 0.30.3 (May 15, 2021)
+    - Minor bug fixes
+Version 0.30.1 (May 8, 2021)
+    - Updated translations - thanks to all translators
+    - Fixed a bug where recording voice messages produced broken files
+Version 0.30.0 (May 2, 2021)
+    - Design improvements
+    - Better room alias management
+    - Bug fixes
+    - Stability improvements
+Version 0.29.1 (Apr 14, 2021)
+    - Minor bugfixes
+Version 0.29.0 (Apr 10, 2021)
+    - Bugfixes
+    - Implement matrix room upgrades
+    - New sign in design
+    - Better iPad design
+Version 0.28.1 (Mar 28, 2021)
+    - Bug fixes
+    - Updates translations
+    - New global search
+Version 0.27.0 (Feb 17, 2021)
+    - Design improvements
+    - Bug fixes
+    - Stability improvements
+Version 0.26.1 (Feb 3, 2021)
+
+Users may also like
+Select objects to compare
+Element X - Secure messenger
+Monal - XMPP chat
+Kedr
+Siskin IM
+SimpleX Chat: secure messenger
+Snikket
+Ice Cubes for Mastodon
+Memmy for Lemmy
+Delta Chat
+Mammoth: for Mastodon
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    v1.18.0
+    Current release
+    Feb 25, 2024
+    v1.17.3
+    Feb 5, 2024
+    v1.17.2
+    Jan 25, 2024
+    v1.17.1
+    Jan 14, 2024
+    v1.17.0
+    Jan 7, 2024
+    v1.16.0
+    Dec 8, 2023
+    v1.15.0
+    Nov 1, 2023
+    v1.14.5
+    Oct 9, 2023
+    1.14.4
+    Oct 8, 2023
+    1.14.3
+    Sep 30, 2023
+    1.14.2
+    Sep 28, 2023
+    1.14.1
+    Sep 18, 2023
+    1.13.0
+    Aug 9, 2023
+    1.12.0
+    Jun 11, 2023
+    1.11.2
+    May 5, 2023
+    1.11.1
+    Apr 20, 2023
+    1.11.0
+    Apr 18, 2023
+    1.10.0
+    Mar 12, 2023
+    1.9.0
+    Feb 3, 2023
+    1.8.0
+    Jan 2, 2023
+    1.7.1
+    Nov 23, 2022
+    1.7.0
+    Nov 18, 2022
+    1.6.4
+    Sep 12, 2022
+    1.6.3
+    Aug 30, 2022
+    1.6.2
+    Aug 21, 2022
+    1.5.0
+    Jun 6, 2022
+    1.4.0
+    May 6, 2022
+    1.3.1
+    Mar 23, 2022
+    1.3.0
+    Feb 28, 2022
+    1.2.0
+    Jan 31, 2022
+    1.1.0
+    Dec 8, 2021
+    1.0.0
+    Dec 2, 2021
+    0.42.2
+    Nov 4, 2021
+    0.42.1
+    Oct 27, 2021
+    0.42.0
+    Oct 14, 2021
+    0.41.4
+    Oct 9, 2021
+    0.41.3
+    Oct 8, 2021
+    0.41.2
+    Sep 22, 2021
+    0.41.1
+    Sep 20, 2021
+    0.40.0
+    Sep 13, 2021
+    0.39.1
+    Aug 30, 2021
+    0.39.0
+    Aug 29, 2021
+    0.38.0
+    Aug 22, 2021
+    0.37.0
+    Aug 7, 2021
+    0.36.1
+    Aug 3, 2021
+    0.36.0
+    Jul 31, 2021
+    0.35.0
+    Jul 24, 2021
+    0.34.1
+    Jul 16, 2021
+    0.32.0
+    Jun 21, 2021
+    0.31.2
+    May 29, 2021
+    0.31.1
+    May 26, 2021
+    0.30.3
+    May 15, 2021
+    0.30.1
+    May 8, 2021
+    0.30.0
+    May 2, 2021
+    0.29.1
+    Apr 14, 2021
+    0.29.0
+    Apr 10, 2021
+    0.28.1
+    Mar 28, 2021
+    0.27.0
+    Feb 17, 2021
+    0.26.1
+    Feb 3, 2021
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Feb 3, 2021
+
+Worldwide Release Date
+    Feb 3, 2021
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    v1.18.0
+
+Size
+    74.57 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Inglés
+
+Seller
+    Famedly GmbH
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 12.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    im.fluffychat.app
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1551469600
+Unified App ID: 1000800000179486
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+FluffyChat | data.ai

@@ -1,0 +1,302 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+DubDub recorder
+NekomimimiMusic (Applications)Free
+Alerts
+
+    DubDub recorder
+    DubDub recorder
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+DubDub recorder
+Multitrack Recorder
+Music (Applications)
+Free
+App Description
+This is a simple multi-recording app.
+
+Record a song you singing and sounds you playing, and mix down your sound.
+
+You can export to your sound to Camera Roll as a movie, and also you can import sound from movie in Camera Roll.
+
+Features:
+1.Create a new record.
+• Record sound with a microphone.
+• Import sound from a movie in Camera Roll.
+* Free version is up to two records.
+
+2.Mix
+• Record sound with a microphone for mix.
+• Play recorded sound.
+• Add reverb effect
+• Play sound for mix.
+• Send sound to another app.
+• Save sound as a movie.
+
+3.Copy
+• Copy record.
+• Mix and copy record.
+Ratings
+Displayed Avg Ratings
+3.33
+Total Displayed Ratings
+78
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.0.21 (Jan 31, 2024)
+    We adjusted the microphone activation timing to address occasional recording issues.
+Version 1.0.20 (Jan 24, 2024)
+    The app primarily operates at 44.1KHz, but a setting has been added to give priority to operation at 48KHz. You can configure this in the settings accessible from the 'i' icon on the top left of the screen after starting up.
+Version 1.0.19 (Jan 8, 2023)
+    * Supported iOS 16.
+    1.Supported App Tracking Transparency.
+    2.No longer needs photo permissions to save sound as a movie.
+Version 1.0.18 (Oct 16, 2019)
+    Fixed the following bug:
+    Previous sound is imported from the second time on.
+Version 1.0.18 (Oct 16, 2019)
+    Fixed the following bug:
+    Previous sound is imported from the second time on.
+Version 1.0.17 (Oct 5, 2019)
+    Fixed the following critical bug:
+    Sound Import from a movie doesn't work on iOS 13.
+
+    Feature:
+    Dark Mode is supposed.
+Version 1.0.13 (Jun 13, 2018)
+    Feature:
+    * Added Mic monitoring switch (on / off) when recording.
+Version 1.0.12 (Nov 13, 2017)
+    Fixed the following bug:
+    * This app crashed when it enters the background and then foreground on the recording screen.
+Version 1.0.11 (Nov 11, 2017)
+    Fixed the following crash bugs:
+    * It was crashed after deleting the last records with swipe.
+    * It was crashed after succeeding in restoring Premiums.
+
+    Supported the new photo permission of iOS 11.
+Version 1.0.9 (Jan 10, 2017)
+    Fixed a bug.
+Version 1.0.8 (Jan 3, 2017)
+    Fixed bugs.
+Version 1.0.7 (Dec 22, 2016)
+    Fixed bugs.
+Version 1.0.6 (Dec 20, 2016)
+    Fixed bugs.
+Version 1.0.5 (Dec 13, 2016)
+    Fixed bugs.
+Version 1.0.4 (Dec 5, 2016)
+    Fixed a bug.
+Version 1.0.3 (Nov 29, 2016)
+    Fixed a crash bug after copying a record.
+    Fixed a crash bug which occurs when Camera Roll can not be access.
+Version 1.0.2 (Nov 23, 2016)
+    Fixed a crash bug after recording.
+    Fixed typos.
+Version 1.0.1 (Nov 19, 2016)
+    Fixed a crash bug when sound is saved as a movie.
+Version 1.0 (Nov 16, 2016)
+
+Users may also like
+Select objects to compare
+Overdubbing - EasyMixRecorder
+4 Tracks LX
+AloneQuartet
+bismark m16
+R12 Control
+Chord Memos
+Bass Tuner TN-1B
+MultiTrack Recorder Plugin
+Keysboard
+MP3 Pitch Changer
+IQ Classifications
+Genre: Entertainment
+Subgenre: Music & Audio
+Music & Audio
+Apps that allow users to discover, listen to, and create music and audio.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.0.21
+    Current release
+    Jan 31, 2024
+    1.0.20
+    Jan 24, 2024
+    1.0.19
+    Jan 8, 2023
+    1.0.18
+    Oct 16, 2019
+    1.0.18
+    Oct 16, 2019
+    1.0.17
+    Oct 5, 2019
+    1.0.13
+    Jun 13, 2018
+    1.0.12
+    Nov 13, 2017
+    1.0.11
+    Nov 11, 2017
+    1.0.9
+    Jan 10, 2017
+    1.0.8
+    Jan 3, 2017
+    1.0.7
+    Dec 22, 2016
+    1.0.6
+    Dec 20, 2016
+    1.0.5
+    Dec 13, 2016
+    1.0.4
+    Dec 5, 2016
+    1.0.3
+    Nov 29, 2016
+    1.0.2
+    Nov 23, 2016
+    1.0.1
+    Nov 19, 2016
+    1.0
+    Nov 16, 2016
+
+See More
+Top In-App Purchases
+
+    Premium
+    $2.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Music
+
+Initial Release Date
+    Nov 16, 2016
+
+Worldwide Release Date
+    Nov 16, 2016
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    1.0.21
+
+Size
+    13.07 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese
+
+Seller
+    Yoshiyuki Hirose
+
+Company HQ
+    Japan
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    jp.nekomimimi.overdubdub
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1158761766
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+DubDub recorder | data.ai

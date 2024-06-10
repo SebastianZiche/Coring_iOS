@@ -1,0 +1,276 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+1year Later Diary
+Nishida HirofumiLifestyle (Applications)Free
+Alerts
+
+    Nishida Hirofumi
+
+    1year Later Diary
+    1year Later Diary
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+1year Later Diary
+Not able to read for 1 year
+Lifestyle (Applications)
+Free
+App Promotional Text
+Simple diary can only be read back a year later.
+You become subconsciously aware of what you wrote.
+Please throw positive words and dreams to yourself through this diary.
+App Description
+It's a diary application to yourself a year from now.
+Since you write with the intention of not being able to read it again for a year, you become "subconsciously" aware of what you wrote.
+By writing down your goals, what you want to do, and who you want to be, you will be more aware of them throughout the year.
+If you are strongly aware of them, your life and behavior will gradually change toward them.
+In other words, it is a diary for your personal growth.
+
+You don't have to write every day.
+You won't mind if there are days you didn't write.
+You would rather more interested in the days you wrote.
+There is also a countdown function that displays the number of days until the next time you can read your diary.
+
+You can only be read back one day per year.
+It can be read back for exactly one day exactly one year after it was written and the same day each year thereafter.
+For example, if you write a diary on July 21, 2022, it will appear only on the same day each year, such as July 21,2023, July 21,2024, and so on.
+You can only read it back for that one day (24 hours).
+As you read diaries you wrote one, two, or three years ago, you write to yourself one, two, or three years in the future.
+
+Basically Free, No Ads
+Some options are available for a fee, but it is free of charge as a diary.
+No annoying ads will appear on the writing page. 
+Ads will only appear on the calendar and the settings page.
+
+"Questions for You" assists your diary.
+It can display questions that will help you look at yourself objectively and be positive on your life.
+You can read the questions about twice a week.
+For example, 
+"What habits do you want to develop over the next year?",
+"What do you want to quit now?"
+" What do you want to improve over the next year? ".
+There are more than 200 questions.
+For a fee (3$), you can read the questions every day.
+In such the case, more in-depth questions will appear. 
+Care should be taken before bedtime so as not to overthink and lose sleep. 
+Sensitive people may need to be especially careful.
+You can also choose not to read the questions in the settings.
+
+Diary data is stored in iCloud, so you can share your diary with multiple devices(iPhone and iPad).
+
+When can you read the diary you wrote on February 29, a leap year, , ,
+you will know when the day comes.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 2.0.4 (Feb 2, 2023)
+    Changed Japanese App name.
+Version 2.0.3 (Feb 1, 2023)
+    Changed Japanese App name.
+    Terms of use, some display changes were made.
+Version 2.0.2 (Jan 2, 2023)
+    Fixed minor bug in Japanese notation
+    Changed link to English home page and App store
+    Minor changes to the settings screen
+Version 2.0.1 (Nov 25, 2022)
+    Improved memory leakage
+    Improved small bug after billing
+Version 2.0.0 (Nov 15, 2022)
+    Addition of Japanese language through localization.
+    Improved redundant parts of the code.
+    Added a request for application support.
+    The calendar display, which tends to be unstable, has been reduced from a two-year display to only a three-month display.
+Version 1.2.4 (Oct 26, 2022)
+    Size of a few SF Symbols changed.
+Version 1.2.3 (Oct 3, 2022)
+    Added alert that saving is not possible in offline environments
+Version 1.2.2 (Oct 2, 2022)
+    Fixed the calendar layout.
+Version 1.2.1 (Sep 26, 2022)
+    Support for exchange rate changes
+Version 1.1.1 (Sep 18, 2022)
+    minor correction(store bug fixes)
+Version 1.0.3 (Sep 2, 2022)
+    Fixed the link to AppStore and the method of getting time.
+Version 1.0.2 (Sep 1, 2022)
+
+Users may also like
+Select objects to compare
+Praise Diary
+未来通知 - 未来の自分へ通知を届ける手紙感覚の特別なアプリ
+nanolog (ナノログ)
+クイックジャーナル
+Cheers - クリエイターとサポーターが出会う場所
+わくわくリスト：1年間にやりたい100のこと
+Goal Supporter:Goal Management
+エゴグラム
+Affirmation Images
+nail salon tete
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.0.4
+    Current release
+    Feb 2, 2023
+    2.0.3
+    Feb 1, 2023
+    2.0.2
+    Jan 2, 2023
+    2.0.1
+    Nov 25, 2022
+    2.0.0
+    Nov 15, 2022
+    1.2.4
+    Oct 26, 2022
+    1.2.3
+    Oct 3, 2022
+    1.2.2
+    Oct 2, 2022
+    1.2.1
+    Sep 26, 2022
+    1.1.1
+    Sep 18, 2022
+    1.0.3
+    Sep 2, 2022
+    1.0.2
+    Sep 1, 2022
+
+See More
+Top In-App Purchases
+
+    Read Diaries Urgently
+    $349.99
+    Daily Question
+    $1.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Sep 1, 2022
+
+Worldwide Release Date
+    Sep 1, 2022
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.0.4
+
+Size
+    3.38 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese
+
+Seller
+    Nishida Hirofumi
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.nishidaMAGOBEE.OneYearDiaryE
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1641826811
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+1year Later Diary | data.ai

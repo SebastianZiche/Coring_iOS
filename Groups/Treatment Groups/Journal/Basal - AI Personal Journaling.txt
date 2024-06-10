@@ -1,0 +1,233 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Basal - AI Personal Journaling
+Lab 1908 LLCHealth and Fitness (Applications)Free
+Alerts
+
+    Lab 1908 LLC
+
+    Basal - AI Personal Journaling
+    Basal - AI Personal Journaling
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Basal - AI Personal Journaling
+Private Journal, AI Insights
+Health and Fitness (Applications)
+Free
+App Description
+Introducing Basal, an AI-powered personal journal designed to help you gain insights into your thoughts, experiences, and emotions while offering an expanded range of therapy modalities and affirmation exercises. Built using state-of-the-art AI language models, Basal now offers an even more personalized journaling experience to improve your mental well-being.
+
+Key Features:
+
+Journal your thoughts and experiences: Record your daily thoughts, emotions, and experiences in a private, secure space. Basal's intuitive design and user-friendly interface make it easy for anyone to maintain a regular journaling practice.
+
+AI-powered summaries and insights: After each journal entry, Basal's AI analyzes your content and provides a summary from the perspective of a mental health coach. Gain valuable insights into your emotional patterns, behavioral triggers, and areas of personal growth.
+
+Daily personalized prompts: Basal generates a daily journal prompt based on your recent entries, encouraging you to reflect on specific aspects of your life and emotions. These prompts are designed to enhance self-awareness, promote mindfulness, and foster personal growth.
+
+Explore different therapy modalities: Basal now allows you to try and experience various therapy modalities and philosophies right within the app. Discover new approaches and gain a deeper understanding of yourself as you explore different therapeutic techniques.
+
+Practice new approaches with affirmation exercises: Enhance your well-being by engaging in affirmation exercises based on any therapy modality of your choice. Develop new habits and perspectives as you practice and internalize positive affirmations tailored to your needs.
+
+"Plus" plan for modalities exploration: Upgrade to our "Plus" plan and unlock the ability to seamlessly switch between therapy modalities, providing you with a comprehensive toolkit to support your mental well-being journey.
+
+Privacy and security: Your journal entries are protected with encryption, ensuring that your personal thoughts and experiences remain private and secure. Basal respects your privacy and never shares your data with third parties.
+
+Benefits:
+
+Improved mental well-being: Regular journaling, combined with the exploration of different therapy modalities, promotes emotional self-awareness, stress reduction, and a greater sense of well-being. Basal's AI-powered insights can help you understand and manage your emotions more effectively.
+
+Personal growth: By reflecting on your thoughts, feelings, and experiences and engaging with various therapy modalities, Basal encourages introspection and self-improvement. The AI-generated prompts, summaries, and affirmation exercises will help you identify patterns and areas of growth, empowering you to make positive changes in your life.
+
+Accessible mental health support: With Basal, you have a virtual mental health coach at your fingertips, providing guidance, encouragement, and an expanded range of therapy modalities. The AI-powered insights and affirmation exercises offer an affordable and convenient alternative to traditional therapy and coaching.
+
+Download Basal today and embark on a journey of self-discovery, personal growth, and mental wellness. Explore new therapy modalities, practice affirmations, and unlock the "Plus" plan to enhance your well-being even further.
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.4.3 (Feb 16, 2024)
+    **** Enhanced end-to-end encryption. To enhance privacy and security, we've added the industry standard AES-256 (Advanced Encryption Standard) with 256-bit key to encrypt all your content before it leaves your device. This is in addition to the existing to using encryption via https as it goes over the network to our servers. Now all content is also stored encrypted. The only time it is used unencrypted is when it is processed (without metadata) via OpenAI's LLM models to generate summaries and new prompts.
+
+    ... and tons of bug fixes and behind-the-scenes optimizations.
+Version 1.3.4 (Jul 19, 2023)
+    Minor bug fixes and improvements + color/design refinements
+Version 1.3.2 (Jun 22, 2023)
+    "Plus" plan subscriptions
+    Chose between different therapy modalities
+    Daily affirmations
+Version 1.1.3 (May 2, 2023)
+    Hello! Thank you for using Basal. We hope it's helping you reflect and process your experiences.
+    This release has only a few minor updates:
+    The settings page has been redesigned to give you more options:
+    - enable, disable, and customize the time of your daily reminder notifications
+    - more options to get in touch and connect
+    - an option to deactivate your account
+    - switched the login page so that "Register" is shown first by default instead of "Login"
+    - switched the font to Inter
+    Thanks again for using Basal. The next release will be major and exciting so looking forward to sharing more soon.
+Version 1.0 (Apr 19, 2023)
+
+Users may also like
+Select objects to compare
+Bodhi - Smart Journal & Chat
+PeacefulAi: Wellbeing Coach
+Plutis
+Umbrella Journal : Smart CBT
+Talk Empathy - Translator
+Solon: Acceso a Expertos
+MyPsych.ai - AI Therapy
+Anzaro Quantum Healing
+Happence Wellbeing
+Neo Therapy - AI Journal
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.4.3
+    Current release
+    Feb 16, 2024
+    1.3.4
+    Jul 19, 2023
+    1.3.2
+    Jun 22, 2023
+    1.1.3
+    May 2, 2023
+    1.0
+    Apr 19, 2023
+
+See More
+Top In-App Purchases
+
+    Basal - Monthly
+    $4.99
+    Basal - Annual Plan
+    $49.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    Apr 18, 2023
+
+Worldwide Release Date
+    Apr 18, 2023
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    1.4.3
+
+Size
+    65.41 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Lab 1908 LLC
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.lab1908.basal
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6447015739
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Basal - AI Personal Journaling | data.ai

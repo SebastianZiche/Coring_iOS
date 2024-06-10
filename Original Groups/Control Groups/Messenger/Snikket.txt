@@ -1,0 +1,205 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Snikket
+Snikket Community Interest CompanySocial Networking (Applications)Free
+Alerts
+
+    Snikket Community Interest Company
+
+    Snikket
+    Snikket
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Snikket
+Easy privacy-friendly chat app
+Social Networking (Applications)
+Free
+App Description
+The Snikket app allows you to join a worldwide communication network. Use the app for communicating with friends, family and colleagues without surrendering your data to large corporations.
+
+Important Note: To get started with the app you need an invite to a Snikket service, or run your own. The app will not work unless you have an invite to join a Snikket service.
+
+Snikket allows you to use a service provided by someone you trust. This could be an organisation, simply a techie friend or family member.
+
+Both the app and service are 100% free and open-source software.
+
+Questions? Browse our FAQ: https://snikket.org/app/faq/
+Ratings
+Displayed Avg Ratings
+4.12
+Total Displayed Ratings
+26
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.2 (Mar 22, 2022)
+    New features:
+
+    - Audio calls now use the earpiece by default, with an option to switch to speaker mode
+    - You can now send and receive locations with contacts
+    - Support for *styling* to add more _emphasis_ to your chats
+    - Detect and select a default telephony provider (compatible with JMP.chat/Cheogram)
+
+    In addition to the new features, we've made many small but important user interface improvements throughout the app. Some of the more notable fixes and improvements:
+
+    - Improved default pictures for contacts and groups
+    - The notification count badge on the home screen is more reliable
+    - Your display name is now synchronized if you have multiple devices
+    - The message input area is now scrollable, handy if you are writing a long message
+    - Fixed some glitches that occur on iOS 15
+
+    We have also begun adding support for non-English languages to the app. Hurra!
+
+Users may also like
+Select objects to compare
+Siskin IM
+Monal - XMPP chat
+Kedr
+FluffyChat
+SafeSwiss® Encrypted Messenger
+ChatSecure Messenger
+SimpleX Chat: secure messenger
+Element X - Secure messenger
+Jami
+DatChat: Social Network Plus
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.2
+    Current release
+    Mar 22, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Aug 31, 2021
+
+Worldwide Release Date
+    Aug 31, 2021
+
+Last Updated Time
+    Feb 22, 2024
+
+Version
+    1.2
+
+Size
+    32.50 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Danish, French, German, Indonesian, Swedish
+
+Seller
+    Snikket Community Interest Company
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    org.snikket.ios
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1545164189
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Snikket | data.ai

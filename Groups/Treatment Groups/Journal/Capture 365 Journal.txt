@@ -1,0 +1,662 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Capture 365 Journal
+Sockii Pty Lifestyle (Applications)$7.99
+Alerts
+
+Capture 365 Journal
+Capture 365 Journal
+Capture 365 Journal
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Capture 365 Journal
+Beautiful photo/video journal
+Lifestyle (Applications)
+$7.99
+App Description
+Capture 365 Journal is a beautiful and easy to use diary/journal. You will have complete access to your journals all the time, allowing you capture your thoughts and special moments throughout the day.
+
+KEY FEATURES
+- Sync with iCloud, Dropbox or 365 Direct Sync.
+- Sync with Capture 365 Journal Mac.
+- Shared Syncing with other people.*
+- Cloud Sync service data encryption.
+- Location and Weather.
+- Multiple photos and videos.
+- Add multiple journal entries each day
+- Multiple journal tags per entry.
+- Automatically import events and social media posts* to your journals.
+- Passcode & Touch ID protection.
+- Automated backups.
+- Export your journals as email, PDF or RTF by dates and tags.
+- Custom font style and sizing.
+- Search and view your journals by tags and locations.
+- Reminders.
+- Supports right to left writing direction.
+- User customisable templates.
+- Rich text support.
+- Multiple journal support.
+- 365+ Automation (Automatic Journaling)*
+
+Sync Support
+Sync and store your data on cloud services such as iCloud or Dropbox. Alternatively, sync using 365 Direct Sync. 365 Direct Sync will transmit directly to your other devices over your local network.
+
+Keep your journals in sync - no matter if you're on the Mac, iPad or iPhone.
+
+Shared Syncing*
+Create, edit, view and sync your journal entries with your family and friends.
+
+Multiple Photos and Videos
+Attach multiple photos and videos to each of your journal entries.
+
+Location and Weather
+Add a location to your journal entry, so you will always remember where the event took place. Records weather conditions for the location as well.
+
+365+ Automation (Automatic Journaling)*
+Automatically create entries based on places you have visited throughout your day. Photos taken will be imported into corresponding entries.
+
+Feed Support
+Automatically import Calendar events and posts from Facebook*, Twitter*, Flickr* and Instagram* into your journal.
+
+*feature requires in-app purchase
+
+Exporting
+Export journals - filtered by date and tags - as a beautifully generated PDF or RTF document, which can be emailed out.
+
+Backups
+Automated system that handles the data backups for you, which can be stored on iCloud.
+
+SUPPORT
+Please write to us instead of submitting bugs or questions in an App Store review.
+
+Visit us at www.sockii.com
+Contact us at support@sockii.com
+
+*The 365+ Automation feature includes access to all Feeds and shared syncing. This feature is subscription based. The duration of this subscription is for 1 year (US$4.49). Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. No cancellation of the current subscription is allowed during active subscription period.
+
+Privacy Policy: http://capture365journal.com/privacy.html
+Terms of Use: http://capture365journal.com/terms.html
+Ratings
+Displayed Avg Ratings
+4.2
+Total Displayed Ratings
+201
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.7.10 (Sep 30, 2021)
+    Bug fixes.
+Version 3.7.9 (Jul 23, 2021)
+    - Fixes Instagram feeds.
+    - Other fixes.
+Version 3.7.8 (Jul 16, 2021)
+    - Fixes 365+ Automation issues.
+    - Adds ability to import data from older version of Capture 365 Journal using iCloud.
+    - Bug fixes.
+Version 3.7.7 (Mar 25, 2021)
+    - Improves iCloud sync performance.
+    - Bug fixes.
+Version 3.7.5 (Mar 16, 2021)
+    Bug fixes.
+Version 3.7.4 (Feb 24, 2021)
+    - Sync improvements.
+    - Bug fixes.
+Version 3.7.3 (Feb 23, 2021)
+    - Sync improvements.
+    - Bug fixes.
+Version 3.7.2 (May 29, 2020)
+    - Fixes Facebook feeds.
+    - Other bug fixes.
+Version 3.7.1 (Sep 26, 2019)
+    - Bug fixes
+Version 3.7.0 (Sep 20, 2019)
+    - iOS 13 compatibility
+    - Bug fixes.
+Version 3.6.6 (Mar 18, 2019)
+    - Better support for iPhone X/XS/XR in landscape.
+    - Fixed 24 hr time in export.
+    - Other bug fixes.
+Version 3.6.5 (Dec 31, 2018)
+    Bug fixes.
+Version 3.6.4 (Dec 17, 2018)
+    - Bug fixes for Apple Watch app.
+Version 3.6.3 (Dec 14, 2018)
+    Bug fixes.
+Version 3.6.2 (Dec 11, 2018)
+    Bug fixes.
+Version 3.6.1 (Nov 23, 2018)
+    - Better support for iPhone XS Max and XR screens.
+    - Siri Shortcuts.
+Version 3.6.0 (Oct 9, 2018)
+    - Adds Siri Shortcuts support.
+    - Bug fixes
+Version 3.5.15 (Aug 23, 2018)
+    - Fixes Flickr login issues.
+    - Bug fixes.
+Version 3.5.14 (Jul 3, 2018)
+    - Fixes Twitter feed issues.
+    - Other bug fixes.
+Version 3.5.13 (May 21, 2018)
+    - Fixes Instagram feed not importing all entries.
+    - Other bug fixes.
+Version 3.5.12 (May 18, 2018)
+    - Bug fixes.
+Version 3.5.11 (May 3, 2018)
+    - Fixes an issues with Face ID for some users.
+    - Fixes issues for Instagram Feed.
+    - Other minor bug fixes.
+Version 3.5.10 (Apr 4, 2018)
+    - Adds ability to export video and images when viewing.
+    - Bug fixes.
+Version 3.5.9 (Mar 1, 2018)
+    - Adds ability to set a default journal.
+    - Bug fixes.
+Version 3.5.8 (Jan 5, 2018)
+    - Improves iPhone X display support.
+    - Bug fixes.
+Version 3.5.7 (Nov 2, 2017)
+    - Fixes text display issue with predictive keyboard.
+    - Other bug fixes.
+Version 3.5.6 (Oct 24, 2017)
+    Bug fixes.
+Version 3.5.5 (Sep 23, 2017)
+    - iOS 11 Compatibility.
+    - Fixes image ordering in exported PDF.
+    - Other bug fixes.
+Version 3.5.4 (Aug 4, 2017)
+    - Bug fixes.
+    - Updated to use Dropbox's latest API.
+Version 3.5.3 (Aug 1, 2017)
+    - Bug fixes.
+Version 3.5.2 (May 1, 2017)
+    Bug Fixes.
+    - Fixes issue when a backup file can be incorrectly named.
+    - Other fixes.
+Version 3.5.1 (Apr 20, 2017)
+    Bug fixes.
+Version 3.5.0 (Apr 4, 2017)
+    New
+    - Adds the ability to set the ordering of your images and videos. Just drag and drop them in the attachment view.
+    - Option to not save images/videos taken from camera to the device camera roll.
+
+    Improvements and Fixes
+    - Improves on the the image selection for users who use iCloud Photo Library.
+    - Other minor bug fixes.
+Version 3.4.3 (Mar 18, 2017)
+    Bug fixes
+Version 3.4.2 (Mar 1, 2017)
+    Bug Fixes
+Version 3.4.1 (Jan 31, 2017)
+    - Bug fixes.
+    - Fixes importing issue.
+Version 3.4.0 (Jan 11, 2017)
+    New Features
+    - Shared iCloud Syncing. Create, edit, view and sync with other people through iCloud. (Requires 365+, iOS 10+)
+    - Added importing from other applications.
+
+    Fixes and Improvements
+    - Fixes year display issue in Days view.
+    - Updated Dropbox sync.
+    - Improved iCloud Sync.
+Version 3.3.3 (Nov 1, 2016)
+    New
+    - Added option to auto save when minimising application.
+    - Bug fixes.
+Version 3.3.2 (Sep 27, 2016)
+    New
+    - Check In Widget. You can quickly check in to a location using the brand new widget.
+
+    Fixes
+    - Fixes a crash when attempting to use the camera to record a video.
+
+    ---
+    New Features in 3.3.0
+    - 365+ Automation (Automatic Journaling)
+    Turn Capture 365 Journal into an automatic journal. Automatically create entries based on the places you visit and also automatically imports photos from your camera roll into journals. Location and weather data will be added in and attached to the relevant entries. All you have to do is keep your device in your pocket! (Feature requires IAP)
+
+    - 3D Touch Support
+    Quick actions, peek and pop.
+
+    - Cloud Data Encryption
+    Have the choice to add private key encryption to your syncing service.
+
+    - Spotlight Search Integration
+    Option to allow Spotlight to search through your entries.
+
+    - Share Extension
+    Import photo and create entries directly from any applications that supports share sheets.
+
+    - Historical Weather Data
+    Creating a journal for a date that is not current will have its weather information fetched for that date.
+
+    Bug Fixes and Improvements
+    - Added ability to jump to dates in the Calendar view. Just tap on the month to change dates.
+    - Added ability to filter by multiple tags in Tag view.
+    - Added ability to change the entry thumbnail preview for your images.
+    - All sync service improvements. More reliable and responsive refreshing to display new data.
+    - iOS 10 compatibility.
+Version 3.3.1 (Sep 21, 2016)
+    - Fixes passcode freezing issue.
+
+    ---
+    New Features in 3.3.0
+    - 365+ Automation (Automatic Journaling)
+    Turn Capture 365 Journal into an automatic journal. Automatically create entries based on the places you visit and also automatically imports photos from your camera roll into journals. Location and weather data will be added in and attached to the relevant entries. All you have to do is keep your device in your pocket! (Feature requires IAP)
+
+    - 3D Touch Support
+    Quick actions, peek and pop.
+
+    - Cloud Data Encryption
+    Have the choice to add private key encryption to your syncing service.
+
+    - Spotlight Search Integration
+    Option to allow Spotlight to search through your entries.
+
+    - Share Extension
+    Import photo and create entries directly from any applications that supports share sheets.
+
+    - Historical Weather Data
+    Creating a journal for a date that is not current will have its weather information fetched for that date.
+
+    Bug Fixes and Improvements
+    - Added ability to jump to dates in the Calendar view. Just tap on the month to change dates.
+    - Added ability to filter by multiple tags in Tag view.
+    - Added ability to change the entry thumbnail preview for your images.
+    - All sync service improvements. More reliable and responsive refreshing to display new data.
+    - iOS 10 compatibility.
+    - Other minor bug fixes.
+Version 3.3.0 (Sep 19, 2016)
+    ***If you have passcode enabled and are not using TouchID, please wait for v3.3.1 update. We have found a bug that causes the passcode screen to freeze.***
+
+    New Features
+    - 365+ Automation (Automatic Journaling)
+    Turn Capture 365 Journal into an automatic journal. Automatically create entries based on the places you visit and also automatically imports photos from your camera roll into journals. Location and weather data will be added in and attached to the relevant entries. All you have to do is keep your device in your pocket! (Feature requires IAP)
+
+    - 3D Touch Support
+    Quick actions, peek and pop.
+
+    - Cloud Data Encryption
+    Have the choice to add private key encryption to your syncing service.
+
+    - Spotlight Search Integration
+    Option to allow Spotlight to search through your entries.
+
+    - Share Extension
+    Import photo and create entries directly from any applications that supports share sheets.
+
+    - Historical Weather Data
+    Creating a journal for a date that is not current will have its weather information fetched for that date.
+
+    Bug Fixes and Improvements
+    - Added ability to jump to dates in the Calendar view. Just tap on the month to change dates.
+    - Added ability to filter by multiple tags in Tag view.
+    - Added ability to change the entry thumbnail preview for your images.
+    - All sync service improvements. More reliable and responsive refreshing to display new data.
+    - iOS 10 compatibility.
+    - Other minor bug fixes.
+Version 3.2.1 (May 4, 2016)
+    General Bug Fixes.
+Version 3.2.0 (Apr 6, 2016)
+    New
+    - Multiple journal support! You can now have more than one journal.
+    - New and improved themes for better customisation.
+
+    Fixes and Improvements
+    - Dramatic improvement to iCloud sync performance and reliability. Please note that Capture 365 Journal will have to re-sync its contents to iCloud. Make sure you are also using version 3.2.0 on the Mac to ensure sync compatibility.
+    - Other bug fixes.
+Version 3.1.3 (Mar 22, 2016)
+    Improvements and fixes
+    - Improves responsiveness of data sync.
+    - Other bug fixes.
+Version 3.1.2 (Mar 4, 2016)
+    General bug fixes.
+Version 3.1.1 (Feb 24, 2016)
+    - Fixes start up issue for some users.
+    - Fixes iPad crash issue when attempting to insert a template.
+
+    New in 3.1.0
+    - User customisable templates. You can now create templates to insert into your entries. Template settings can be found in Settings.
+    - Ability import the location from an attached photo.
+    - German language translation.
+    - RSS Feeds importing (Requires IAP)
+Version 3.1.0 (Feb 22, 2016)
+    New
+    - User customisable templates. You can now create templates to insert into your entries. Template settings can be found in Settings.
+    - Ability import the location from an attached photo.
+    - German language translation.
+    - RSS Feeds importing (Requires IAP)
+Version 3.0.10 (Jan 29, 2016)
+    Bug Fixes
+    - Fixes a permission issue with Facebook that does not allow imports of certain post and events. Please re-enable the Facebook feed feature to apply the fix.
+    - Fixes a bug which does not refresh the entry after editing on the iPad.
+Version 3.0.9 (Jan 17, 2016)
+    New
+    - Facebook available as a Feed source. (Requires IAP)
+
+    Fixes and Improvements
+    - Improved and fixed export date filters. Allows for more precise date and time filtering.
+    - Other user reported bug fixes.
+Version 3.0.8 (Dec 13, 2015)
+    Improvements & Bug Fixes
+    - Support for longer alpha numeric pass codes.
+    - Journal wide search (not dependant on year).
+    - Other bugs fixes.
+
+    Thank you for using Capture 365 Journal and for providing your feedback! We will continue to provide timely updates to improve on the features and resolve any bugs that are discovered.
+Version 3.0.7 (Dec 1, 2015)
+    Bug Fixes.
+Version 3.0.6 (Nov 10, 2015)
+    - Fixes exporting issue with images.
+Version 3.0.5 (Oct 26, 2015)
+    New
+    - Added ability to bulk delete imported entries.
+    - Added ability to manually force a sync by pulling down on entries table. (Works best for 365 Direct Sync)
+
+    Bug Fixes
+    - Fixes Flickr sign in issue.
+    - Various bug fixes and improvements.
+Version 3.0.4 (Oct 8, 2015)
+    New
+    - Flickr can now be added as a Feed Source. (IAP required)
+
+    Improvements
+    - Better indication of sync progress and activity.
+    - Fixes ordering of tags in dropdown.
+    - Other bug fixes.
+Version 3.0.3 (Oct 6, 2015)
+    - Fixes issue with Twitter Feed.
+    - Fixes issues with entries not displaying on certain regions.
+    - Improve syncing status indicators.
+    - Adds ability to import from other journal app.
+    - General bug fixes and stability improvements.
+
+    Thank you very much for the support. If you have any feedback in regards to the new version, please let us know. We would love to hear your feedback and improve on Capture 365 Journal.
+Version 3.0.1 (Sep 28, 2015)
+    - General bug fixes and stability improvements.
+
+    Thank you very much for the support. If you have any feedback in regards to the new version, please let us know. We would love to hear your feedback and improve on Capture 365 Journal.
+Version 3.0.0 (Sep 23, 2015)
+
+Users may also like
+Select objects to compare
+My e-Diary
+MyToday - Diary
+Firevault - Personal database
+Values Finder
+Lifelog Note
+Diary Me: Journal With Lock
+TenYear Diary - journal & memo
+Lifely: timeline maker journal
+Memory: diary with password
+Diarium: Journal, Diary
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.7.10
+    Current release
+    Sep 30, 2021
+    3.7.9
+    Jul 23, 2021
+    3.7.8
+    Jul 16, 2021
+    3.7.7
+    Mar 25, 2021
+    3.7.5
+    Mar 16, 2021
+    3.7.4
+    Feb 24, 2021
+    3.7.3
+    Feb 23, 2021
+    3.7.2
+    May 29, 2020
+    3.7.1
+    Sep 26, 2019
+    3.7.0
+    Sep 20, 2019
+    3.6.6
+    Mar 18, 2019
+    3.6.5
+    Dec 31, 2018
+    3.6.4
+    Dec 17, 2018
+    3.6.3
+    Dec 14, 2018
+    3.6.2
+    Dec 11, 2018
+    3.6.1
+    Nov 23, 2018
+    3.6.0
+    Oct 9, 2018
+    3.5.15
+    Aug 23, 2018
+    3.5.14
+    Jul 3, 2018
+    3.5.13
+    May 21, 2018
+    3.5.12
+    May 18, 2018
+    3.5.11
+    May 3, 2018
+    3.5.10
+    Apr 4, 2018
+    3.5.9
+    Mar 1, 2018
+    3.5.8
+    Jan 5, 2018
+    3.5.7
+    Nov 2, 2017
+    3.5.6
+    Oct 24, 2017
+    3.5.5
+    Sep 23, 2017
+    3.5.4
+    Aug 4, 2017
+    3.5.3
+    Aug 1, 2017
+    3.5.2
+    May 1, 2017
+    3.5.1
+    Apr 20, 2017
+    3.5.0
+    Apr 4, 2017
+    3.4.3
+    Mar 18, 2017
+    3.4.2
+    Mar 1, 2017
+    3.4.1
+    Jan 31, 2017
+    3.4.0
+    Jan 11, 2017
+    3.3.3
+    Nov 1, 2016
+    3.3.2
+    Sep 27, 2016
+    3.3.1
+    Sep 21, 2016
+    3.3.0
+    Sep 19, 2016
+    3.2.1
+    May 4, 2016
+    3.2.0
+    Apr 6, 2016
+    3.1.3
+    Mar 22, 2016
+    3.1.2
+    Mar 4, 2016
+    3.1.1
+    Feb 24, 2016
+    3.1.0
+    Feb 22, 2016
+    3.0.10
+    Jan 29, 2016
+    3.0.9
+    Jan 17, 2016
+    3.0.8
+    Dec 13, 2015
+    3.0.7
+    Dec 1, 2015
+    3.0.6
+    Nov 10, 2015
+    3.0.5
+    Oct 26, 2015
+    3.0.4
+    Oct 8, 2015
+    3.0.3
+    Oct 6, 2015
+    3.0.1
+    Sep 28, 2015
+    3.0.0
+    Sep 23, 2015
+
+See More
+Top In-App Purchases
+
+    Feed Source for Twitter
+    $1.99
+    Feed Source for Flickr
+    $1.99
+    365+ Automation, Feeds and More
+    $4.49
+    Feed Source for RSS
+    $1.99
+    Feed Source for Facebook
+    $0
+    Feed Source for Instagram
+    $0
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Sep 23, 2015
+
+Worldwide Release Date
+    Sep 23, 2015
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    3.7.10
+
+Size
+    81.76 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, German
+
+Seller
+    Sockii Pty Ltd
+
+Company HQ
+    Australia
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 9.0 and watchOS 2.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.sockii.capture365journal
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Sep 23, 2015)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 1016313601
+Unified App ID: 1000800000064821
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Capture 365 Journal | data.ai

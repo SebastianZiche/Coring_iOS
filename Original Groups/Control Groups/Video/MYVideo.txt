@@ -1,0 +1,436 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MYVideo
+Beijing MeiCam Network Technology Inc. Ltd.Photo and Video (Applications)Free
+Alerts
+
+    Beijing MeiCam Network Technology Inc. Ltd.
+
+    MYVideo
+    MYVideo
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MYVideo
+Video editing tools
+Photo and Video (Applications)
+Free
+App Description
+-Simple and easy to use
+Track editing, support multiple video ratios, switch at will, easy to learn.
+The whole process of clip splitting, variable speed, reverse playback, stickers, title subtitles, soundtracks and dubbing is complete, rich and powerful; leave a wonderful moment.
+Editing and splitting Quickly and freely split the video, cut and adjust the video length at will.
+Supports multiple format video and picture mixing, accurate to frame, efficient trimming,
+Variable speed, 0.2 times to 4 times, free control of rhythm.
+Play backwards, back in time, feel different videos, add some fun to your videos
+When editing, arbitrarily modify the production ratio of the video to allow more freedom of production and inspiration at the touch of a finger
+
+-Pretty good looking, can't stop-
+One-click skin and beauty, professional style filters, rich special effects, dazzling special effects transitions, and videos instantly become big.
+Picture color adjustment You can choose a variety of picture adjustments to highlight the personalized color of the video
+Filter A variety of advanced professional style filters to make the video no longer monotonous
+Beauty In the video editing, intelligently recognize the face shape, skin and beauty, adjust the exclusive beauty program
+Transitions Support various types of transition effects such as basic, 3D, special effects, etc.
+
+
+-Massive template creation classic-
+Free template material, bursting with wonderful ideas. Add videos or pictures and generate interesting short videos with one click.
+Summer party, eclipse diary, weekend time, enjoy travel, a large number of themes for you to choose, easily become a video dad.
+
+-Video picture-in-picture powerful multi-track mixed editing-
+Use the picture-in-picture track to superimpose multiple layers of video clips, freely use your imagination, so that your creativity is not constrained
+The dull video material will be mixed and created to become an eye-catching masterpiece.
+Ratings
+Displayed Avg Ratings
+4.32
+Total Displayed Ratings
+28
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.4 (Feb 5, 2024)
+    1. Fix known problems
+Version 1.5.3 (Oct 31, 2023)
+    1. Added the function of displaying the SDK version number;
+
+    2. New shooting - music function;
+
+    3. Added timeline track action object function;
+
+    4. Added color matting, "intensity" attribute adjustment function;
+
+    6. Optimize playback connection problems during application transition;
+
+    7. Optimize the AE template text editing position;
+
+    8. Optimize the recognition of all subtitles;
+
+    9. Optimize the adjustment logic of subtitles background "rounded corner" parameter;
+
+    10. Optimize the variable speed logic of entrance animation;
+
+    11. Optimize the multi-track draft lag problem;
+
+    12. Optimize the music extraction function;
+
+    13. Optimize the rendering order of materials;
+
+    14. Fix known problems;
+Version 1.5.1 (Sep 21, 2023)
+    1. Added the function of displaying the SDK version number;
+
+    2. New shooting - music function;
+
+    3. Added timeline track action object function;
+
+    4. Added color matting, "intensity" attribute adjustment function;
+
+    6. Optimize playback connection problems during application transition;
+
+    7. Optimize the AE template text editing position;
+
+    8. Optimize the recognition of all subtitles;
+
+    9. Optimize the adjustment logic of subtitles background "rounded corner" parameter;
+
+    10. Optimize the variable speed logic of entrance animation;
+
+    11. Optimize the multi-track draft lag problem;
+
+    12. Optimize the music extraction function;
+
+    13. Optimize the rendering order of materials;
+
+    14. Fix known problems;
+Version 1.5.0.1 (Mar 21, 2023)
+    1. Add cover setting function;
+
+    2. Added color matting function;
+
+    3. Added the common template search function.
+
+    4. Added TOB version prompt word function;
+
+    5. Optimize the effect of background blur;
+
+    6. Optimize the volume fade in and out effect;
+
+    7. Fix some known problems;
+Version 1.4.4 (Nov 30, 2022)
+    1. Add the Replace material function
+    2. Added the function of switching between painting in Picture and main track
+    3. Add video clips Add audio fade in and out
+    4. Add the function of filling filters, subtitles and stickers according to workspace with one click
+    5. Added the Optimal Duration editing function for exporting the template
+    6. Added the optimization of the slot deletion logic for the common template
+    7. Known problem repair and optimization
+Version 1.4.3.1 (Oct 17, 2022)
+    1. Added support for mask keyframes
+    2. Add a key frame that supports opacity
+    3. Added support material package to adapt video length freely
+    4. Added support for reading After effects conversion templates
+    5. Added support for secondary editing of the general template
+    6. Added standard subtitle templates
+    7. Repair and optimize known problems
+Version 1.4.2.4 (Sep 30, 2022)
+    v1.4.2：
+    1. Added "Atomic Effects" function
+    2. Added picture-in-picture function optimization
+    3. Added AE conversion template
+    4. Added animation effects such as subtitles, which can be previewed frame by frame
+
+Version 1.4.2.3 (Sep 19, 2022)
+    v1.4.2：
+    1. Added "Atomic Effects" function
+    2. Added picture-in-picture function optimization
+    3. Added AE conversion template
+    4. Added animation effects such as subtitles, which can be previewed frame by frame
+Version 1.4.2.2 (Aug 24, 2022)
+    v1.4.2：
+    1. Added "Atomic Effects" function
+    2. Added picture-in-picture function optimization
+    3. Added AE conversion template
+    4. Added animation effects such as subtitles, which can be previewed frame by frame
+Version 1.4.3 (Aug 22, 2022)
+    1. Added "Atomic Effects" function
+    2. Added picture-in-picture function optimization
+    3. Added AE conversion template
+    4. Added animation effects such as subtitles, which can be previewed frame by frame
+Version 1.4.2 (Aug 10, 2022)
+    1. Added "Atomic Effects" function
+    2. Added picture-in-picture function optimization
+    3. Added AE conversion template
+    4. Added animation effects such as subtitles, which can be previewed frame by frame
+Version 1.4.0 (Jun 17, 2022)
+    Added shooting module, you can use face beautification effects when shooting, including microdermabrasion, big eyes, face thinning, nose thinning, small face, hazelnut contouring, bright eyes, dark circles removal, nasolabial wrinkle removal, and teeth beauty , sharpness, clarity
+Version 1.3.8 (Feb 25, 2022)
+    1. Support to identify and add subtitles to other main track, picture-in-picture track and recording track respectively
+    2. Stickers, props, special effects, bubbles, flower characters, combined subtitles, add pull-down refresh at the top of the page
+    3. When the volume of each clip is 0, or when the sound is muted, a muted icon will be displayed on the clip
+Version 1.3.7 (Jan 10, 2022)
+    1. Support key frame level curve export template
+    2. The template supports the modification of compound text content
+    3. Template editing supports the function of selected screen area
+    4. Support video and picture clips can add in and out animation at the same time
+    5. Add AR face props for single-segment editing
+Version 1.3.5 (Nov 22, 2021)
+    1. Stickers can be added in, out, and loop animation
+    2. Special effects, filters and adjustments to add new sub-track editing
+    3. Support the import of hdr materials
+Version 1.3.4.1 (Sep 13, 2021)
+    1. Modified the minimum splitting time, cutting and splitting more freely
+    2. Newly added key frame curve adjustment, the key frame animation effect is more delicate and rich
+    3. Optimized some interaction details
+Version 1.3.4 (Sep 6, 2021)
+    1. Modified the minimum splitting time, cutting and splitting more freely
+    2. Newly added key frame curve adjustment, the key frame animation effect is more delicate and rich
+    3. Optimized some interaction details
+Version 1.3.3 (Aug 5, 2021)
+    1. Added the function of blending mode for picture-in-picture clips
+    2. Added the smart keying function, which can cut out the background of the portrait screen more quickly
+    3. Export template settings, add a one-click silence button, you can quickly ban all the original material in the draft, making the soundtrack more pure
+Version 1.3.2 (Jun 28, 2021)
+    1. Added key frame function, overlay to clips, subtitles, stickers, picture-in-picture
+    2. Optimized the interactive operation between the main track and the sub track, and improved the editing convenience
+Version 1.3.0.1 (Jun 24, 2021)
+    1.Fixed some bugs
+Version 1.3.0 (May 8, 2021)
+    1. Added the function of converting voice to subtitles
+    2. Optimized the function of cropping screen
+Version 1.2.1 (Feb 8, 2021)
+    1. Added a new "cut the same style" template production function, you can make your own exclusive "mine" template effects through the rich special effects in the Meiying editor
+    2. Upgraded subtitle editing mode, adding a lot of flower character effects
+    3. Optimize the operation interaction of multi-track material alignment during editing
+    4. A new option of "speed shift" is added to the shift
+Version 1.2 (Dec 15, 2020)
+    1.Add new templates modules, continue to add more beautiful and fun templates
+    2. Fixed several bugs
+Version 1.1.3 (Nov 23, 2020)
+    1.Fixed some bugs
+Version 1.1.2 (Nov 13, 2020)
+    1. Added curve speed function
+    2. Animation and combined animation effects have been added
+    3. Optimized the interaction of selected materials
+    4. Optimized the interaction of special effects replacement
+Version 1.1.1 (Oct 19, 2020)
+    1.FiXed some bugs
+Version 1.1 (Aug 16, 2020)
+    1. Newly added mask function for single segment editing
+    2. Added the animation effect of adding "into animation" to the clip
+    3. Added the subtitle style of "Flower"
+    4. The number and degree of mosaic and blur effects can be adjusted
+    5. Added a large number of filters and special effects to make the short film more colorful
+    6. Optimize some interactions on the track to make the operation more smooth
+Version 1.0 (May 15, 2020)
+
+Users may also like
+Select objects to compare
+Meicam
+Filma - Edit Cut Video Maker
+Zimu - Vlog Video Editor
+MakeMyMovie-Movie maker
+Video Editor - Movie Maker
+FunCut - video & image editor
+爱剪辑极速版-手机剪辑视频编辑器
+图片裁剪 (PhotoCrop) - 照片编辑，滤镜，特效
+Flow Photo Art
+UverVideo - Video Editor&Maker
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.5.4
+    Current release
+    Feb 5, 2024
+    1.5.3
+    Oct 31, 2023
+    1.5.1
+    Sep 21, 2023
+    1.5.0.1
+    Mar 21, 2023
+    1.4.4
+    Nov 30, 2022
+    1.4.3.1
+    Oct 17, 2022
+    1.4.2.4
+    Sep 30, 2022
+    1.4.2.3
+    Sep 19, 2022
+    1.4.2.2
+    Aug 24, 2022
+    1.4.3
+    Aug 22, 2022
+    1.4.2
+    Aug 10, 2022
+    1.4.0
+    Jun 17, 2022
+    1.3.8
+    Feb 25, 2022
+    1.3.7
+    Jan 10, 2022
+    1.3.5
+    Nov 22, 2021
+    1.3.4.1
+    Sep 13, 2021
+    1.3.4
+    Sep 6, 2021
+    1.3.3
+    Aug 5, 2021
+    1.3.2
+    Jun 28, 2021
+    1.3.0.1
+    Jun 24, 2021
+    1.3.0
+    May 8, 2021
+    1.2.1
+    Feb 8, 2021
+    1.2
+    Dec 15, 2020
+    1.1.3
+    Nov 23, 2020
+    1.1.2
+    Nov 13, 2020
+    1.1.1
+    Oct 19, 2020
+    1.1
+    Aug 16, 2020
+    1.0
+    May 15, 2020
+
+See More
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    May 14, 2020
+
+Worldwide Release Date
+    Feb 8, 2020
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    1.5.4
+
+Size
+    102.01 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese
+
+Seller
+    Beijing MeiCam Network Technology Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.meishe.myvideoapp
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1513087325
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MYVideo | data.ai

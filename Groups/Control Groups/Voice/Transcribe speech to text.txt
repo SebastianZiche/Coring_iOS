@@ -1,0 +1,306 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Transcribe: speech to text
+shellmobProductivity (Applications)Free
+Alerts
+
+    shellmob
+
+    Transcribe: speech to text
+    Transcribe: speech to text
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Transcribe: speech to text
+Sprache in Text
+Productivity (Applications)
+Free
+App Promotional Text
+Optimieren Sie Ihre Notizen mit KI. Nehmen Sie Gespräche und Besprechungen auf und transkribieren Sie sie live.
+App Description
+Die Funktion „Transkription in Text“ kann Sprache in Echtzeit schnell und genau in Text umwandeln und unterstützt den Import von Audiodateien von Mobiltelefonen. Es umfasst außerdem Funktionen für Text-to-Speech und Audiobearbeitung, die den Anforderungen mobiler Aufzeichnung und Speech-to-Text für Büroarbeit, Besprechungen, Lernen, Reisen und mehr gerecht werden und letztendlich die Effizienz sowohl beim Lernen als auch bei der Arbeit steigern.
+
+------Kernfunktionen von Speech-to-Text------
+【Sprache in Echtzeit in Text umwandeln】
+Transkribieren während der Aufnahme, sofortiger Entwurf, intelligente Fehlerkorrektur, hohe Genauigkeit.
+【Sprach-zu-Text-Konvertierung】
+Unterstützt den Import von Sprachaufzeichnungen von Mobiltelefonen und Software von Drittanbietern in die Transkriptionssoftware, ohne Einschränkungen bei den Audioformaten.
+【Video zu Text】
+Importieren Sie externe Videos und extrahieren Sie Text daraus.
+【Text zu Sprache】
+Wählen Sie aus einer Vielzahl von KI-Ankerstimmen, passen Sie die Geschwindigkeit an und fügen Sie Hintergrundmusik hinzu.
+【Mobile Aufzeichnung】
+AI-Rauschunterdrückungsaufnahme, klare Audioqualität, mehrere Aufnahmemodi zur Auswahl.
+【Mehrsprachige Transkription】
+Unterstützt über 100 Sprachen, darunter Englisch, Koreanisch, Japanisch, Deutsch, Spanisch, Portugiesisch, Französisch usw.
+【Audiobearbeitung】
+Audio-Clipping, Teilen, Zusammenführen, Formatkonvertierung, Stereosynthese usw.
+【Sprachexport und Dateiverwaltung】
+Exportieren Sie schnell Audiodateien und Transkriptionsdokumente und synchronisieren Sie Bearbeitungen auf mehreren Geräten.
+
+Abonnementanweisungen:
+Das Abonnement verlängert sich automatisch, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor dem Ende des aktuellen Zeitraums deaktiviert
+Die Verlängerung Ihres Kontos wird innerhalb von 24 Stunden vor dem Ende des aktuellen Zeitraums belastet und die Kosten für die Verlängerung werden ermittelt
+Abonnements können vom Benutzer verwaltet werden und die automatische Verlängerung kann deaktiviert werden, indem Sie nach dem Kauf zu den Kontoeinstellungen des Benutzers gehen
+Datenschutzrichtlinie: http://www.palmmob.cn/yinsi/luyinwenziyinsiiiosen.html
+Benutzervereinbarung: http://www.palmmob.cn/yinsi/luyinwenziyonghuiosen.html
+Ratings
+Displayed Avg Ratings
+3.96
+Total Displayed Ratings
+81
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.4 (Feb 3, 2024)
+    Beheben Sie bekannte Probleme und verbessern Sie die Benutzererfahrung.
+Version 1.5.3 (Sep 12, 2023)
+    Optimieren Sie die Benutzererfahrung und beheben Sie bekannte Probleme.
+Version 1.5.2 (Aug 3, 2023)
+    1. Erweitern Sie die Sprachbibliothek für die Audio-zu-Text-Konvertierung;
+    2. Beheben Sie bekannte Fehler.
+Version 1.5.1 (Jun 13, 2023)
+    1. Erhöhen Sie die Sprache der Echtzeitaufzeichnung in Text und Audio in Text.
+    2. Optimieren Sie die Konvertierung von Echtzeitaufzeichnungen in Text, um die Bedienung zu vereinfachen.
+    3. Bestehende Probleme lösen und Benutzererfahrung verbessern.
+Version 1.5.0 (Apr 4, 2023)
+    1、优化录音转文字，提高转录的准确性;
+
+    2、增加文字转语音，支持添加背景音乐，多种音色可选，支持语调语速调节;
+
+    3、增加混音、音频拼接、音频分割、音频压缩、立体声合成.
+
+Version 1.4.1 (Feb 2, 2023)
+    1、优化录音实时转文字，提高转写的准确性；
+    2、优化音频编辑。
+Version 1.4.0 (Nov 29, 2022)
+    1、优化实时录音转文字，提升语音转写体验
+
+    2、优化用户体验，修复已知bug
+
+Version 1.3.0 (Sep 25, 2022)
+    1.修复已知Bug, 改善用户体验.
+Version 1.2.3 (Aug 10, 2022)
+    1.修复已知Bug, 改善用户体验.
+Version 1.2.2 (Jun 20, 2022)
+    1.修复已知Bug.
+Version 1.2.1 (May 4, 2022)
+    1.修复已知Bug.
+Version 1.2.0 (Apr 2, 2022)
+    1.修复已知bug, 改善用户体验.
+Version 1.1.6 (Jan 4, 2022)
+    1.大文件可以分割,压缩了;
+    2.修复已知bug.
+Version 1.1.5 (Nov 30, 2021)
+    修复已知bug.
+Version 1.1.4 (Nov 25, 2021)
+    修复已知bug.
+Version 1.1.2 (Nov 18, 2021)
+    1.修复已知bug.
+Version 1.1.1 (Nov 8, 2021)
+    1.修复已知bug, 改善用户体验.
+Version 1.1.0 (Sep 18, 2021)
+    1.修复已知问题,优化体验.
+
+Users may also like
+Select objects to compare
+语音转换文字专家-语音录音拍照转文字
+VoiceTranscribe-Speech to Text
+手机PPT制作—PPT模版,PPT幻灯片制作
+语音转换文字-录音转文字、语音备忘录音软件
+Document Scanner:PDF scan&OCR
+Transcription - AI Dictation
+Text Extractor: Image to Text
+FastAI-智能AI写作助手Chat人工智能GPT机器人
+录音语音转文字-专业在线录音语音转文字
+飞项Todo-团队协作待办提醒事项与工作计划日程安排办公软件
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.5.4
+    Current release
+    Feb 3, 2024
+    1.5.3
+    Sep 12, 2023
+    1.5.2
+    Aug 3, 2023
+    1.5.1
+    Jun 13, 2023
+    1.5.0
+    Apr 4, 2023
+    1.4.1
+    Feb 2, 2023
+    1.4.0
+    Nov 29, 2022
+    1.3.0
+    Sep 25, 2022
+    1.2.3
+    Aug 10, 2022
+    1.2.2
+    Jun 20, 2022
+    1.2.1
+    May 4, 2022
+    1.2.0
+    Apr 2, 2022
+    1.1.6
+    Jan 4, 2022
+    1.1.5
+    Nov 30, 2021
+    1.1.4
+    Nov 25, 2021
+    1.1.2
+    Nov 18, 2021
+    1.1.1
+    Nov 8, 2021
+    1.1.0
+    Sep 18, 2021
+
+See More
+Top In-App Purchases
+
+    1 hour transcription
+    $0.99
+    3 hours transcription
+    $2.99
+    Transcription for quarterly
+    $8.99
+    Planen Sie für ein Jahr
+    $15.99
+    Plan für monatlich
+    $4.99
+    Planen Sie für ein Jahr
+    $20.99
+    Planen Sie vierteljährlich
+    $8.99
+    50 Stunden Transkriptionszeit
+    $7.99
+    10 Stunden Transkriptionszeit
+    $1.99
+    30 Stunden Transkriptionszeit
+    $4.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 10, 2021
+
+Worldwide Release Date
+    Sep 10, 2021
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.5.4
+
+Size
+    80.15 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Englisch, Japanisch, Tradit. Chinesisch, Vereinf. Chinesisch
+
+Seller
+    Beijing palm shell Network Technology Co., Ltd
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 12.1 oder neuer. Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    com.palmmob.recorder
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1585139197
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Transcribe: speech to text | data.ai

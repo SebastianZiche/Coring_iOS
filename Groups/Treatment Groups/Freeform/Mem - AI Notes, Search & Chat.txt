@@ -1,0 +1,359 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Mem - AI Notes, Search & Chat
+Mem Labs, Inc.Productivity (Applications)Free
+Alerts
+
+    Mem Labs, Inc.
+
+    Mem - AI Notes, Search & Chat
+    Mem - AI Notes, Search & Chat
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Mem - AI Notes, Search & Chat
+The AI Knowledge Assistant
+Productivity (Applications)
+Free
+iPhone Only
+App Description
+The Ultimate Knowledge Assistant
+
+Your notes, backed by the world's most powerful AI. Ask questions and craft content from all your notes within Mem.
+
+Unleash your mind's potential with the personal AI knowledge assistant, tailored for visionaries, scholars, and the go-getter in you. Here's how:
+
+1. Get your knowledge into Mem. – Your work and life is scattered across your brain and a million different apps. Take notes in Mem, save links and websites while on the go. Ask Mem to find what you need by simply starting a conversation.
+
+2. Let Mem connect the dots. – Mem understands what you write and save to help you connect, organize, and remember the most important things in your life. Can't make progress on your novel? Don't know what to get your friend for their birthday? Not when you have Mem to talk to.
+
+3. Beyond Chat, Mem is your AI thought partner. – Serendipitously discover past ideas, search with ease, and generate content from your saved knowledge.
+
+Happy Memming!
+Ratings
+Displayed Avg Ratings
+3
+Total Displayed Ratings
+39
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.1.4 (Feb 7, 2024)
+    • Fixed editor toolbar animation.
+    • The recently edited section in search no longer shows deleted notes.
+    • Notes deleted on the web used to show on mobile app; this has been fixed too.
+Version 2.1.3 (Jan 29, 2024)
+    • New system for fetching notes: It will allow the mobile app to sync with the web much faster than before.
+    • New tab bar: The state of the views is now preserved, and you can easily chat while keeping an open note in your home tab.
+    • Fixes for crashes reported in previous versions.
+    • Other minor fixes and improvements.
+Version 2.1.2 (Jan 10, 2024)
+    • New snackbar views for information messages.
+    • Fixed a crash that was introduced in previous version related to offline-mode.
+Version 2.1.1 (Dec 28, 2023)
+    • The keyboard flickering issue when changing the cursor position has been fixed.
+    • Scrolling vertically in the editor sometimes caused related notes to appear, this has been fixed;
+    • The app no longer freezes on home/editor page.
+    • The appear animation has been restored to the editor content.
+    • Deleting a starred note did not remove its link from the favorites in the side menu. This issue has been fixed.
+Version 2.1 (Dec 19, 2023)
+    Version 2.1 brings the highly anticipated full offline support, meaning that now you have all your notes available regardless of your connection! We've also added some improvements, such as a swipe gesture for switching lenses, offline search, and a bunch of bug fixes! We hope you like it, and don't worry, as more improvements are on the way!
+Version 2.0.8 (Nov 27, 2023)
+    • Fixed the memory leak that occurred on the Editor page.
+    • Enhancing the robustness of the share sheet, allowing PDFs to be opened when shared through it.
+    • The share sheet should also now appear when taking a screenshot. Additionally, improvements have been made in error handling, haptic feedback, and the addition of a success indicator.
+    • Resolving the issue where the input view would get stuck on the Chat.
+    • Fixing occasional crashes on the Chat view caused by the loading of note previews.
+    • Introducing Editor improvements such as line height adjustments, enhancing the checklist/bullet appearance, and more.
+    • Addressing the problem where the Editor toolbar sometimes didn't appear. It is now tied to the keyboard, so this bug should no longer occur. Additionally, the show/hide animation for the toolbar has been fine-tuned.
+Version 2.0.6 (Nov 6, 2023)
+    • Fixed an issue where notes would get duplicated.
+    • Fixed a bug where multiple sections of the same day would appear in Home results.
+    • Corrected the date display for local (duplicate) notes.
+    • Resolved the issue where notes updated in one lens didn't propagate to other lenses.
+    • Creating a new note no longer results in duplicates when switching to "Added by me."
+    • Switching lenses no longer triggers empty state issues.
+    • Lenses now fetch data every time they are tapped.
+    • Automatic scrolling to the top after tapping a lens has been added.
+    • Newlines at the end or after the last line are now visible in the editor.
+    • Added extra padding at the bottom of the editor for consistency with the web client.
+    • Changing cursor position automatically scrolls it into view.
+    • Cursor position accurately maintained after adding an image.
+    • Smooth scroll bounce effect added for top and bottom when content is short.
+Version 2.0.5 (Oct 25, 2023)
+    • Fixed an issue where notes would disappear upon successful loading.
+Version 2.0.2 (Oct 13, 2023)
+    Introducing Version 2.0.2!
+
+    This build fixes minor bugs and adds a 'Select Text' option for chat messages.
+
+    Thank you for your continued support!
+Version 2.0.1 (Oct 3, 2023)
+    Introducing version 2.0!
+
+    In this major update, we’ve focused on two significant improvements:
+
+    • Updated Mobile Interface
+    We’ve updated the mobile interface to be more reflective of the changes that we’ve been bringing to the web app, including putting chat front and center.
+
+    • Overhauled Syncing
+    We've re-engineered the way notes are synced. You can now expect your notes to synchronize both faster and more reliably, thanks to our revamped algorithms.
+
+    Thank you for your continued support!
+Version 2.0 (Sep 28, 2023)
+    Introducing version 2.0!
+
+    In this major update, we’ve focused on two significant improvements:
+
+    • Updated Mobile Interface
+    We’ve updated the mobile interface to be more reflective of the changes that we’ve been bringing to the web app, including putting chat front and center.
+
+    • Overhauled Syncing
+    We've re-engineered the way notes are synced. You can now expect your notes to synchronize both faster and more reliably, thanks to our revamped algorithms.
+
+    Thank you for your continued support!
+Version 1.1 (Aug 3, 2023)
+    Introducing Version 1.1 - Chat with Mem now on iOS
+
+    All Mem X users can now access Chat with Mem on mobile. Engage with a personalized knowledge assistant that puts your world of information at your fingertips. Ask questions, get personalized recommendations, and ponder the big questions in life with an intelligent thought partner that actually knows you.
+Version 1.0.7 (Apr 12, 2023)
+    This version includes many stability and performance improvements for our sync system. We are excited to announce the release of our latest version of the iOS app, which includes several important updates and bug fixes to improve your experience. Here's what's new in this version:
+
+    • The sync system has become more stable and dependable due to our enhanced handling of poor network conditions. You can now expect a more consistent and uninterrupted experience when syncing your data across devices, even in challenging network environments. With these improvements, you'll encounter fewer delays and interruptions when syncing your mems.
+
+    We hope these updates will enhance your experience with our app and make it even more useful for managing your day-to-day tasks and information. As always, we appreciate your feedback and are committed to making continuous improvements to our app.
+Version 1.0.6 (Mar 23, 2023)
+    This version includes many stability and performance improvements for our sync system. We are excited to announce the release of our latest version of the iOS app, which includes several important updates and bug fixes to improve your experience. Here's what's new in this version:
+
+    • Sync system is more stable and robust: We have made significant improvements to the sync system to ensure a more reliable and seamless experience when syncing your data across devices. You should now experience fewer interruptions or delays when syncing your mems.
+
+    • Search bar crash bug is fixed: We understand how frustrating it can be to experience crashes when using the app's search function. That's why we have fixed the search bar crash bug, which caused the app to crash when using the search feature. You can now search your mesm without any issues.
+
+    • Home page mems now load and sync faster: We have optimized the app's performance to make the loading and syncing of your home page mems much faster. You should now be able to access your mems more quickly and without any delays.
+
+    We hope these updates will enhance your experience with our app and make it even more useful for managing your day-to-day tasks and information. As always, we appreciate your feedback and are committed to making continuous improvements to our app.
+Version 1.0.5 (Mar 6, 2023)
+    This version includes many stability and performance improvements for our sync system.
+    We hope you like it!
+Version 1.0.4 (Feb 15, 2023)
+    This version includes many stability and performance improvements for the editor page, as well as improvements for our sync system.
+    We hope you like it!
+Version 1.0.3 (Jan 26, 2023)
+    This version includes many stability and performance improvements for the editor page, as well as improvements for our sync system.
+    We hope you like it!
+Version 1.0.2 (Jan 11, 2023)
+    This version includes many stability and performance improvements for the home page.
+
+    We hope you like it! 
+Version 1.0.1 (Dec 27, 2022)
+    Version 1.0.1 (102) has been released!  
+
+    Apart from many stability improvements and bug fixes, this version also includes support for deep linking!
+
+    We hope you like it! 
+Version 1.0.1 (Dec 27, 2022)
+    Version 1.0.1 (102) has been released!  
+
+    Apart from many stability improvements and bug fixes, this version also includes support for deep linking!
+
+    We hope you like it! 
+Version 1.0 (Dec 12, 2022)
+
+Users may also like
+Select objects to compare
+Amplenote
+Anytype: Private Notes
+mymind – Extend your mind
+Routine: Calendars & Tasks
+Rewind: Truly Personalized AI
+Roam Mobile
+Clay: Contacts + CRM
+Twos: Remember & Share Things
+Tana Capture
+Logseq
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: File Management
+File Management
+Apps that help users manage files or folders, usually allow the transfer or sharing of files both online and offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.1.4
+    Current release
+    Feb 7, 2024
+    2.1.3
+    Jan 29, 2024
+    2.1.2
+    Jan 10, 2024
+    2.1.1
+    Dec 28, 2023
+    2.1
+    Dec 19, 2023
+    2.0.8
+    Nov 27, 2023
+    2.0.6
+    Nov 6, 2023
+    2.0.5
+    Oct 25, 2023
+    2.0.2
+    Oct 13, 2023
+    2.0.1
+    Oct 3, 2023
+    2.0
+    Sep 28, 2023
+    1.1
+    Aug 3, 2023
+    1.0.7
+    Apr 12, 2023
+    1.0.6
+    Mar 23, 2023
+    1.0.5
+    Mar 6, 2023
+    1.0.4
+    Feb 15, 2023
+    1.0.3
+    Jan 26, 2023
+    1.0.2
+    Jan 11, 2023
+    1.0.1
+    Dec 27, 2022
+    1.0.1
+    Dec 27, 2022
+    1.0
+    Dec 12, 2022
+
+See More
+About
+
+Required Devices
+    iPhone, iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 12, 2022
+
+Worldwide Release Date
+    Dec 12, 2022
+
+Last Updated Time
+    Feb 22, 2024
+
+Version
+    2.1.4
+
+Size
+    35.17 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Mem Labs, Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.mem-labs.mem
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1578757028
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Mem - AI Notes, Search & Chat | data.ai
+				
+				
+				
+				
+				
+	

@@ -1,0 +1,734 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Ant Messenger
+Ant MessengerSocial Networking (Applications)Free
+Alerts
+
+    Ant Messenger
+
+    Ant Messenger
+    Ant Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+No data is available.
+Loading
+Loading lots of data (this could take a moment).
+Ant Messenger
+End-to-End Messaging&Calls
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+Ant messenger is an instant messaging chat software protected by end-to-end encryption. It focuses on protecting the privacy and security of users' chat. The server does not save any information, and truly allows users to speak freely.
+With ant Messenger, you will get secure, fast and free encrypted messages and encrypted voice / video calls. No one can get your chat and call content!
+Privacy
+Ant messenger uses end-to-end and burn after reading methods for strict encryption.
+security
+Antmessenger protects your messages from hackers.
+Periodic destruction
+Regularly destroy the documents you send and easily control the expiration date of the documents.
+Bidirectional destruction
+Chat records can be destroyed in both directions at any time to prevent information from being stolen by hackers.
+Anti eavesdropping
+Use trunk call technology to encrypt communication and ensure the security of your IP information.
+Burn after reading
+Once the message is read, it will be destroyed and your information will be secure.
+As a secure communication software, ant messenger only provides secure communication services and does not guarantee that some users will not use ant for malicious acts.
+Please carefully identify the identity and intention of your friends to prevent being cheated and causing money losses. The platform will not bear any responsibility.
+If you encounter problems during use, please contact us through the service number. If you encounter malicious user behavior, you can report it through the report function.
+Ratings
+Displayed Avg Ratings
+3.04
+Total Displayed Ratings
+447
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.0.29 (Feb 7, 2024)
+    fix some issues
+Version 2.0.28 (Jan 29, 2024)
+    fix some issues
+Version 2.0.27 (Jan 15, 2024)
+    fix some issues
+Version 2.0.26 (Jan 4, 2024)
+    fix some issues
+Version 2.0.25 (Dec 19, 2023)
+    fix some issues
+Version 2.0.24 (Dec 13, 2023)
+    fix some issues
+Version 2.0.23 (Dec 9, 2023)
+    fix some issues
+Version 2.0.22 (Dec 4, 2023)
+    fix some issues
+Version 2.0.21 (Nov 29, 2023)
+    fix some issues
+Version 2.0.20 (Nov 28, 2023)
+    fix some issues
+Version 2.0.18 (Nov 23, 2023)
+    fix some issues
+Version 2.0.15 (Nov 6, 2023)
+    fix some issues
+Version 2.0.14 (Nov 4, 2023)
+    fix some issues
+Version 2.0.12 (Oct 31, 2023)
+    fix some issues
+Version 2.0.3 (Oct 25, 2023)
+    fix some issues
+Version 2.0.0 (Oct 21, 2023)
+    brand new UI, performance improved & bugs fixed!
+Version 1.4.49 (Nov 1, 2022)
+    Group chat NSE push did not update group information bug
+Version 1.4.48 (Aug 1, 2022)
+    1. Fix the bug that cannot delete the session after killing the application.
+Version 1.4.47 (Jul 4, 2022)
+    1. Fix some UI problems in dark night mode.
+    2. Enhanced the experience of message push notification.
+Version 1.4.46 (May 30, 2022)
+    Fix the problem of receiving redundant push notifications.
+Version 1.4.45 (May 27, 2022)
+    Fix the problem that some devices can't received remote notifications.
+Version 1.4.44 (May 19, 2022)
+    Optimization:
+    1. Add sending picture quality selection function.
+    2. Optimize the speed of video transmission transcoding.
+    Fix bug:
+    1. Fix the problem that the original text is lost when editing text messages sometimes.
+    2. Fix the problem that video calls sometimes have no sound.
+    3. Fix the problem of wrong classification when selecting pictures in photo album.
+    4. Fix the problem that the unread red dot does not disappear after the voice message is played.
+    5. Fix the problem that you can't see the picture in the album selection when modifying the avatar.
+Version 1.4.43 (Apr 18, 2022)
+    1.Fixed known bugs.
+Version 1.4.42 (Apr 16, 2022)
+    Optimization:
+    1. Unsubscribe the animation effect successfully.
+    2. Add the prompt UI for closing the system notification.
+    3. Add the function of synchronizing drafts with PC.
+    4. Add voice message forwarding function.
+    5. UI of new voice message bubble.
+    6. Add a QR code and hide a group of contacts.
+    7. The original video image transmission is changed to the original quality transmission (transcoding to MP4).
+    Fix bug:
+    1. When the conversation box has automatic silent video playback, it will interrupt other software functions such as music app and listening to books
+    2. The size and zoom position of the picture after editing is incorrect.
+    3. Click voice flash back when playing video in the repair session.
+    4. Forward message - select from address book - right click to return to crash.
+    5. Two service numbers appear in the screenshot of repair service number.
+    6. Fix that the Edit button in the upper right corner of the preview picture sometimes fails.
+    7. Repair ant and set the secondary password to 5 minutes. After sharing pictures externally, you need to enter the secondary password (IOS) again.
+Version 1.4.41 (Mar 23, 2022)
+    1. Fix the problem of mobile phone number recognition in some regions.
+Version 1.4.40 (Feb 28, 2022)
+    Fixed known bugs.
+Version 1.4.39 (Jan 27, 2022)
+    Fix known bugs.
+Version 1.4.38 (Jan 18, 2022)
+    1.Fix known bugs.
+Version 1.4.36 (Dec 10, 2021)
+    1. Image set message optimization
+    2. Cloud disk function optimization
+    3. Burn after reading problem repair
+    4. Screenshot reminder problem repair
+    5. iCloud photo album crash repair
+Version 1.4.35 (Nov 16, 2021)
+    Fixed bugs.
+Version 1.4.34 (Nov 12, 2021)
+    1. Register login optimization.
+    2. Screenshot reminder function.
+    3. Telephone number format error prompt.
+Version 1.4.33 (Oct 29, 2021)
+    Optimized video player.
+Version 1.4.32 (Sep 27, 2021)
+    Fixed known bugs.
+Version 1.4.31 (Sep 24, 2021)
+    Fixed known bugs.
+Version 1.4.30 (Sep 23, 2021)
+    Fixed known bugs.
+Version 1.4.29 (Sep 19, 2021)
+    1. Add the function of sending multiple picture sets.
+    2. Message notification preview optimization.
+Version 1.4.28 (Sep 6, 2021)
+    1. Optimized message preview.
+    2.Added the prompt of security code change.
+Version 1.4.27 (Aug 14, 2021)
+    1. Animation expression library updated.
+    2. Media library file saving album bug repaired.
+Version 1.4.26 (Aug 6, 2021)
+    1.Large picture zoom in preview drag exit optimization.
+Version 1.4.24 (Aug 3, 2021)
+    1. Session box message long press selection and search function
+    2. The invitee can remove the invitee from the group
+    3. The service number is at the top of the contact
+    4. Intra group input state optimization
+    5. Long preview adaptive
+    6. Picture preview plus editing entry
+    7. Batch sending optimization of multiple files
+    8. Fix several bugs
+Version 1.4.23 (Jul 2, 2021)
+    1. Two step verification function optimization
+    2. Privacy security - the latest online
+    3. Network prompt optimization
+    4. Equipment icon demand optimization
+    5. Forward the undelivered files to cloud disk optimization
+    6. Fix bugs
+Version 1.4.22 (Jun 3, 2021)
+    1. long press search for group / personal name
+    2. optimization of left and right sliding of session list
+    3. GIF pictures can be saved to album
+    4. @ pop up group member list optimization
+    5. add a new source
+    6. private voice / video plus background
+    7. notice plus display nickname
+    8. save cloud disk
+    9. identify GIF format QR code
+    10. file upload / download optimization
+    11. online time optimization
+    12. add chat voice group
+    13. repair bug
+Version 1.4.21 (May 1, 2021)
+    1. Enterprise deployment.
+    2. Automatic face blur function of group pictures.
+    3. Message receipt / forwarding optimization.
+    4. Search results optimization.
+    5. External sharing optimization.
+    6. Fix bugs.
+Version 1.4.20 (Apr 3, 2021)
+    1. Optimize the fluency of chat interface.
+    2. Optimize the speed of sending and receiving messages.
+    3. Add link long press preview function.
+    4. Add the function of blurring the face in the picture.
+    5. Fix known bugs.
+Version 1.4.18 (Mar 17, 2021)
+    1. Optimize the history migration function
+    2. Fix the problem of read receipt message
+    3. Optimize file forwarding function
+    4. Fix the issue of the read receipt of the edited message
+    5. Optimization of offline cache message business module
+    5. Client device rule optimization
+    7. Added group QR code function
+    8. Share search function optimization
+Version 1.4.19 (Mar 17, 2021)
+    1.Fix known bugs.
+Version 1.4.17 (Feb 10, 2021)
+    1. Optimize markdown function
+    2. Expression cache optimization
+    3. File download problem repair
+    4. Start page copy modification
+    5. Image editing and compression optimization
+Version 1.4.16 (Jan 30, 2021)
+    1. Add start page animation UI.
+    2. Add the long press menu UI of conversation list.
+    3. Add dynamic Emoji message.
+    4. Add message markdown function.
+    5. Optimize notification and sound settings.
+Version 1.4.15 (Dec 31, 2020)
+    1. Group administrator can delete a single message now.
+    2. Add group member permission management function.
+    3. Optimize the forwarding of expired attachment message.
+    4. Optimize the experience of sending pictures message.
+    5. Optimization of sending location message.
+    6. Optimize me module UI.
+Version 1.4.14 (Nov 30, 2020)
+    1. Add text message translation function.
+    2. Add friend preview common group function.
+    3. Optimize the process of creating group.
+    4. Optimize the function of picture editor.
+    5. Fix known bugs.
+Version 1.4.13 (Nov 11, 2020)
+    1. Redo the UI of voice message.
+    2. Add voice to text conversion.
+    3. Fix known bugs.
+Version 1.4.12 (Oct 30, 2020)
+    Fix known bugs.
+Version 1.4.11 (Oct 27, 2020)
+    1. Optimize the quality of video message.
+    2. Optimize the UI of sharing function.
+    3. Optimize the speed of sending attachment messages.
+    4. Fix known bugs.
+Version 1.4.10 (Oct 20, 2020)
+    Optimize message forwarding function.
+    Optimize voice recording function.
+    Optimize the registration invitation code process.
+    Added blacklist and whitelist functions to users recently online.
+Version 1.4.9 (Sep 17, 2020)
+    1. Optimize the sender display of forward message.
+    2. Optimize the call messages self-destruct after reading.
+    3. Contact card messages can now be forwarded.
+Version 1.4.8 (Sep 9, 2020)
+    Fix known bugs.
+Version 1.4.7 (Sep 4, 2020)
+    Fix known bugs。
+Version 1.4.6 (Sep 2, 2020)
+    1. Optimize the process and UI of message forwarding.
+    2. Fix known bugs.
+Version 1.4.5 (Aug 3, 2020)
+    1. Optimize the delete conversation function.
+    2. Fix known bugs.
+Version 1.4.4 (Jul 20, 2020)
+    1. Added the ability to report users and groups
+    2. Fix known bugs
+Version 1.4.3 (Jun 22, 2020)
+    Bug fixes and product improvements.
+Version 1.4.2 (Jun 8, 2020)
+    1. Optimize message long press menu UI
+    2. Optimize the size limit of external shared files
+Version 1.4.1 (May 5, 2020)
+    1. Optimize the function of sharing multiple pictures at the same time
+    2. Optimize the on-iCloud picture sending
+    3. UI experience optimization and bug fixes
+Version 1.4.0 (Apr 13, 2020)
+    1. Optimized sending attachment messages
+    2. Optimized the UI on iOS13
+    3. Fixed known bugs
+Version 1.3.9 (Mar 17, 2020)
+    Bug fixes and product improvements
+Version 1.3.8 (Feb 28, 2020)
+    Bug fixes and product improvements
+Version 1.3.7 (Feb 18, 2020)
+    Bug fixes.
+Version 1.3.6 (Jan 19, 2020)
+    1.Add logout function
+    2.Optimize group system push messages
+    3.UI experience optimization and bug fixes
+Version 1.3.5 (Dec 30, 2019)
+    1.Enhanced Emoji system
+    2.Enhanced File expiration function
+    3. UI experience optimization and bug fixes
+Version 1.3.4 (Dec 12, 2019)
+    1. Added group nickname function
+    2. Attachment transmission optimization
+    3. Fix known bugs
+Version 1.3.3 (Nov 21, 2019)
+    1. New Function: Do Not Disturb
+    2. Optimize messages self-destruct
+    3. Fix known bugs
+Version 1.3.2 (Nov 8, 2019)
+    -Optimize some UI experience
+    -Online status optimization
+    -Add animation effect for messages
+    -Process and plan optimization of self-destruct
+Version 1.3.1 (Oct 29, 2019)
+    Emergency fix iOS13.2 crashing
+Version 1.3.0 (Oct 20, 2019)
+    1. Add an emotic feature
+    2. Added cloud migration chat history
+    3. Optimized the UI of the input box
+Version 1.2.6 (Oct 3, 2019)
+    Optimize self-destruct settings
+    You can view storage usage now
+    Can receive notifications when group message is replied
+    Fix known bugs
+Version 1.2.5 (Sep 9, 2019)
+    Add My Cloud Disk
+    Add Night Mode
+    Messages can edit now
+    Optimize some UI experience
+    Fix known bugs
+Version 1.2.4 (Aug 15, 2019)
+    Jump optimization for partial page of chat list
+    Delete mobile/PC synchronization for files
+    Remove messages delivered status for group chat
+    Chat timestamp optimization
+    Fix known bugs
+Version 1.2.3 (Jul 31, 2019)
+    Urgent fix known bugs
+Version 1.2.2 (Jul 30, 2019)
+    Urgent fix known bugs
+Version 1.2.1 (Jul 27, 2019)
+    1、File resume optimization
+    2、Experience optimization
+    3、Add four-digit password lock
+    4、Fix known bugs
+Version 1.2.0 (Jul 14, 2019)
+    1.Added official service number function
+    2.Added 500 people chat function
+    3.Added call history function
+    4.Optimized some UI
+    5.Fixed some known bugs
+Version 1.1.13 (Jul 3, 2019)
+    Fixed some bugs
+Version 1.1.12 (Jun 27, 2019)
+    1.add passcode
+    2.Updated some experience
+    3.Fix known bugs
+Version 1.1.11 (Jun 20, 2019)
+    Fix flashback bug.
+Version 1.1.10 (Jun 19, 2019)
+    1. Add the fast left slip response function;
+    2. Optimize the user experience;
+    3. Fix known issues;
+Version 1.1.9 (Jun 5, 2019)
+    fix bug
+Version 1.1.8 (Jun 3, 2019)
+    新增@功能
+    优化语音/视频通话
+    修复了bug
+Version 1.1.7 (May 10, 2019)
+    1、修复部分用户无法下载文件问题；
+Version 1.1.6 (May 9, 2019)
+    1、增加群阅后即焚功能；
+    2、优化语音视频通话；
+    3、修复已知问题，优化体验；
+Version 1.1.5 (Apr 12, 2019)
+    1.优化UI，提升用户体验。
+    2.群发信息优化。
+    3.修复已知问题。
+Version 1.1.4 (Mar 19, 2019)
+    1、新增听筒播放语音功能；
+    2、新增邮箱注册登录；
+    3、增强用户体验；
+    4、修复已知问题；
+Version 1.1.3 (Feb 27, 2019)
+    1、优化了登录历史记录同步；
+    2、优化了聊天UI体验；
+Version 1.1.2 (Feb 13, 2019)
+    优化了聊天中偶尔的卡顿问题
+Version 1.0.22 (Feb 9, 2019)
+    1、修改注册登录功能；
+    2、增加好友备注功能；
+    3、增加聊天记录迁移功能；
+    4、更换UI界面；
+Version 1.0.19 (Dec 24, 2018)
+
+Users may also like
+Select objects to compare
+Cipchat - Encrypted Messenger
+Sugram畅聊版-安全私密的通信社交软件
+MChat Messenger
+Letstalk IM
+一起聊
+JSPP-Dating，Chat&Make friends
+MosGram
+POP - Chat to the future
+海鸥-安全加密聊天交友软件
+韭研公社-原韭菜公社，新生代股票研究平台
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+N/A
+Store Revenue Rank
+N/A
+Loading
+Loading lots of data (this could take a moment).
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.0.29
+    Current release
+    Feb 7, 2024
+    2.0.28
+    Jan 29, 2024
+    2.0.27
+    Jan 15, 2024
+    2.0.26
+    Jan 4, 2024
+    2.0.25
+    Dec 19, 2023
+    2.0.24
+    Dec 13, 2023
+    2.0.23
+    Dec 9, 2023
+    2.0.22
+    Dec 4, 2023
+    2.0.21
+    Nov 29, 2023
+    2.0.20
+    Nov 28, 2023
+    2.0.18
+    Nov 23, 2023
+    2.0.15
+    Nov 6, 2023
+    2.0.14
+    Nov 4, 2023
+    2.0.12
+    Oct 31, 2023
+    2.0.3
+    Oct 25, 2023
+    2.0.0
+    Oct 21, 2023
+    1.4.49
+    Nov 1, 2022
+    1.4.48
+    Aug 1, 2022
+    1.4.47
+    Jul 4, 2022
+    1.4.46
+    May 30, 2022
+    1.4.45
+    May 27, 2022
+    1.4.44
+    May 19, 2022
+    1.4.43
+    Apr 18, 2022
+    1.4.42
+    Apr 16, 2022
+    1.4.41
+    Mar 23, 2022
+    1.4.40
+    Feb 28, 2022
+    1.4.39
+    Jan 27, 2022
+    1.4.38
+    Jan 18, 2022
+    1.4.36
+    Dec 10, 2021
+    1.4.35
+    Nov 16, 2021
+    1.4.34
+    Nov 12, 2021
+    1.4.33
+    Oct 29, 2021
+    1.4.32
+    Sep 27, 2021
+    1.4.31
+    Sep 24, 2021
+    1.4.30
+    Sep 23, 2021
+    1.4.29
+    Sep 19, 2021
+    1.4.28
+    Sep 6, 2021
+    1.4.27
+    Aug 14, 2021
+    1.4.26
+    Aug 6, 2021
+    1.4.24
+    Aug 3, 2021
+    1.4.23
+    Jul 2, 2021
+    1.4.22
+    Jun 3, 2021
+    1.4.21
+    May 1, 2021
+    1.4.20
+    Apr 3, 2021
+    1.4.18
+    Mar 17, 2021
+    1.4.19
+    Mar 17, 2021
+    1.4.17
+    Feb 10, 2021
+    1.4.16
+    Jan 30, 2021
+    1.4.15
+    Dec 31, 2020
+    1.4.14
+    Nov 30, 2020
+    1.4.13
+    Nov 11, 2020
+    1.4.12
+    Oct 30, 2020
+    1.4.11
+    Oct 27, 2020
+    1.4.10
+    Oct 20, 2020
+    1.4.9
+    Sep 17, 2020
+    1.4.8
+    Sep 9, 2020
+    1.4.7
+    Sep 4, 2020
+    1.4.6
+    Sep 2, 2020
+    1.4.5
+    Aug 3, 2020
+    1.4.4
+    Jul 20, 2020
+    1.4.3
+    Jun 22, 2020
+    1.4.2
+    Jun 8, 2020
+    1.4.1
+    May 5, 2020
+    1.4.0
+    Apr 13, 2020
+    1.3.9
+    Mar 17, 2020
+    1.3.8
+    Feb 28, 2020
+    1.3.7
+    Feb 18, 2020
+    1.3.6
+    Jan 19, 2020
+    1.3.5
+    Dec 30, 2019
+    1.3.4
+    Dec 12, 2019
+    1.3.3
+    Nov 21, 2019
+    1.3.2
+    Nov 8, 2019
+    1.3.1
+    Oct 29, 2019
+    1.3.0
+    Oct 20, 2019
+    1.2.6
+    Oct 3, 2019
+    1.2.5
+    Sep 9, 2019
+    1.2.4
+    Aug 15, 2019
+    1.2.3
+    Jul 31, 2019
+    1.2.2
+    Jul 30, 2019
+    1.2.1
+    Jul 27, 2019
+    1.2.0
+    Jul 14, 2019
+    1.1.13
+    Jul 3, 2019
+    1.1.12
+    Jun 27, 2019
+    1.1.11
+    Jun 20, 2019
+    1.1.10
+    Jun 19, 2019
+    1.1.9
+    Jun 5, 2019
+    1.1.8
+    Jun 3, 2019
+    1.1.7
+    May 10, 2019
+    1.1.6
+    May 9, 2019
+    1.1.5
+    Apr 12, 2019
+    1.1.4
+    Mar 19, 2019
+    1.1.3
+    Feb 27, 2019
+    1.1.2
+    Feb 13, 2019
+    1.0.22
+    Feb 9, 2019
+    1.0.19
+    Dec 24, 2018
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Dec 24, 2018
+
+Worldwide Release Date
+    Dec 24, 2018
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    2.0.29
+
+Size
+    213.52 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese, Traditional Chinese
+
+Seller
+    Xi'an Jichuang Electronic Technology Co., Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.yxim.ant
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1443543254
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Ant Messenger | data.ai

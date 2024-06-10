@@ -1,0 +1,7 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1082268203,0,VoiceHD voice recorder,Utilities,2016-02-23,2016-02-23,26.63,3,0,0,1,1.5,2022-09-07,1.Improve performance. 2.Fix some user interface issue in iOS 15
+1082268203,0,VoiceHD voice recorder,Utilities,2016-02-23,2016-02-23,26.63,3,0,0,1,1.4,2020-10-05,1. Fix crash issue in iOS 14 2. Fix internal player issue.
+1082268203,0,VoiceHD voice recorder,Utilities,2016-02-23,2016-02-23,26.63,3,0,0,1,1.3,2018-01-07,1.Support apple watch 2.Watch app remote control phone record 3.The watch app can record audio in local then transfer to phone when it is necessary. 4.Fix in app purchase issue.
+1082268203,0,VoiceHD voice recorder,Utilities,2016-02-23,2016-02-23,26.63,3,0,0,1,1.2,2017-12-29,Support iPhone X
+1082268203,0,VoiceHD voice recorder,Utilities,2016-02-23,2016-02-23,26.63,3,0,0,1,1.1,2016-03-07,Add remove AD in app purchase.
+1082268203,0,VoiceHD voice recorder,Utilities,2016-02-23,2016-02-23,26.63,3,0,0,1,1.0,2016-02-23,

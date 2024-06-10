@@ -1,0 +1,464 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+IPEVO Whiteboard
+IPEVOEducation (Applications)Free
+Alerts
+
+    IPEVO
+
+    IPEVO Whiteboard
+    IPEVO Whiteboard
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+IPEVO Whiteboard
+Education (Applications)
+Free
+iPad Only
+App Description
+IPEVO Whiteboard provides a digital canvas for idea sharing and distance learning.
+
+Annotate and sketch on a whiteboard or over a live video feed
+Add images and customize them in real time
+Try out the new File Management Library and get back to your saved whiteboards with one tap of a finger
+Draw with a stylus pen and feel as if you’re writing on paper
+Record everything you’ve sketched and created along with your voice
+
+To learn more about the features of IPEVO Whiteboard, please visit
+https://www.ipevo.com/software/whiteboard
+
+# Free Version
+• Default background (white)
+• Up to 3 whiteboard slides
+• 3 types of pen strokes
+• Whiteboard Manager
+• Import images
+
+# Pro Version
+All Free features, plus:
+• 20 background templates
+• Up to 10 whiteboard slides per project
+• Infinite whiteboard size
+• Disappearing ink
+• Laser pointer
+• Picture-in-Picture
+• Import of browser windows and maps
+• Export and sharing of saved Whiteboard projects
+• Screen sharing to IPEVO Visualizer & IPEVO VirtualCam Controller
+Ratings
+Displayed Avg Ratings
+3.67
+Total Displayed Ratings
+36
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.4.3 (Feb 13, 2023)
+    Bugs fixed.
+Version 4.4.2 (Nov 23, 2021)
+    Bugs fixed.
+Version 4.4.1 (Nov 12, 2021)
+    Bugs fixed.
+Version 4.4.0 (Nov 5, 2021)
+    1. Add new paid feature - screen sharing to IPEVO Visualizer & IPEVO VirtualCam Controller
+    2. Minor bugs fixed.
+Version 4.3.4 (Aug 2, 2021)
+    Bugs fixed.
+Version 4.3.3 (Jul 6, 2021)
+    1. User Interface now supports multiple languages.
+Version 4.3.2 (Jun 18, 2021)
+    1. User interface now supports Traditional Chinese.
+    2. Fixed minor bugs.
+
+Version 4.3.1 (Apr 19, 2021)
+    1. Long press and drag to change order of whiteboard slides
+    2. Adjust animation of opening the whiteboard
+Version 4.3.0 (Mar 8, 2021)
+    1. Add the Collaborate with Nearby feature
+    2. Fix minor bugs to improve app performance
+Version 4.2.2 (Feb 22, 2021)
+    Bugs fixed.
+Version 4.2.0 (Jan 1, 2021)
+Version 4.1.2 (Nov 27, 2020)
+Version 4.1.0 (Nov 20, 2020)
+Version 4.0.2 (Oct 21, 2020)
+Version 4.0.1 (Oct 8, 2020)
+Version 4.0.0 (Oct 5, 2020)
+Version 3.9 (Feb 18, 2020)
+Version 3.8 (Aug 31, 2019)
+Version 3.7.1 (Mar 21, 2019)
+Version 3.7 (Jan 11, 2019)
+Version 3.6 (Jan 4, 2019)
+Version 3.5 (Nov 12, 2018)
+Version 3.4 (Oct 13, 2018)
+Version 3.3 (Jun 18, 2018)
+Version 3.2.2 (Jan 24, 2018)
+Version 3.2.1 (Nov 29, 2017)
+Version 3.2 (Oct 1, 2017)
+Version 3.1.1 (Sep 14, 2017)
+Version 3.1 (Aug 18, 2017)
+Version 2.5.5 (May 25, 2017)
+Version 2.5.4 (May 6, 2017)
+Version 2.5.3 (Apr 9, 2017)
+Version 2.5.2 (Jan 18, 2017)
+    Annotation tool added: Triangle
+Version 2.5.1 (Nov 1, 2016)
+    Annotations done will also be zoomed in when the background live image is being enlarged.
+Version 2.5 (Oct 25, 2016)
+    1. New tools added: Ruler and Protractor
+    2. Fixed bug of uploading files to Google Drive
+    3. Annotations will remain the same size even when the background live image is zoomed in
+Version 2.4.7 (Oct 14, 2016)
+    Fixed compatibility issue with iOS 10.
+Version 2.4.5 (Aug 24, 2016)
+    Add new feature to Whiteboard.
+Version 2.4.4 (Jun 27, 2016)
+    Code refactoring.
+Version 2.3.4 (Apr 6, 2016)
+    Fix recording crash bug
+Version 2.3.3 (Mar 1, 2016)
+    Add focus control, exposure and resolution adjustment to iPad’s built-in camera.
+Version 2.2.9 (Feb 2, 2016)
+    [Fix bug] The image cannot be dragged after zoom in.
+Version 2.2.8 (Jan 26, 2016)
+    Bug fixed:
+    1. Fix iZiggi API bugs.
+Version 2.2.7 (Jan 14, 2016)
+    Bugs fixed:
+    1. No login account and password required for using live image controls
+    2. Able to access SD cards
+    3. Able to enter Settings Page of iZiggi-HD
+Version 2.2.6 (Jan 4, 2016)
+    1.Change the UI Icon.
+    2.Add IPEVOCameraKit.
+Version 2.2.5 (Oct 12, 2015)
+    1.Add App Preview Video.
+Version 2.2.4 (Sep 7, 2015)
+    1.Fix the UI position of About page.
+Version 2.2.3 (Aug 15, 2015)
+    Fix Bug
+    1.Fix Bug-Change the text color.
+Version 2.2.2 (Aug 12, 2015)
+    1.Add Voice Over.
+    2.Add About Page.
+Version 2.2.1 (Dec 20, 2014)
+    UI bugs fixed.
+Version 2.2 (Dec 10, 2014)
+    Bugs fixed.
+Version 2.1 (Oct 23, 2014)
+    Minor bugs update.
+Version 2.0 (Oct 8, 2014)
+    - Support iOS 8
+    - New User Interface
+Version 1.6 (Aug 27, 2014)
+    Bugs fixed.
+Version 1.5 (May 9, 2014)
+    1. Optimized for iOS 7
+    2. Video recording support
+Version 1.4 (Feb 12, 2014)
+    1. Supports new IPEVO Document cameras.
+    2. Bugfixes.
+Version 1.3.1 (Sep 10, 2013)
+    1. Updated Help information
+Version 1.3.2 (Sep 10, 2013)
+    1. Recoding annotations on a static background in whiteboard mode.   (Recording is not yet supported with live image background)
+
+    2. Update help information for non-recordable mode.
+Version 1.3 (Sep 9, 2013)
+    1. Video recording (iPad 2 and later devices)
+    2. Improved performance
+Version 1.2 (Jun 3, 2013)
+    1. Bug fixes.
+
+    2. Improved drawing quality.
+Version 1.1 (Feb 12, 2013)
+    Bug fixes.
+Version 1.0 (Jan 24, 2013)
+
+Users may also like
+Select objects to compare
+Stage by Belkin
+Document Camera
+Vittle: Screencast Recorder
+Overviewer
+myViewBoard Whiteboard
+Stage Pro by Belkin for iPad
+Splashtop Classroom
+Educreations Whiteboard
+WhiteBoard by LiveBoard
+FinchBlox
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    4.4.3
+    Current release
+    Feb 13, 2023
+    4.4.2
+    Nov 23, 2021
+    4.4.1
+    Nov 12, 2021
+    4.4.0
+    Nov 5, 2021
+    4.3.4
+    Aug 2, 2021
+    4.3.3
+    Jul 6, 2021
+    4.3.2
+    Jun 18, 2021
+    4.3.1
+    Apr 19, 2021
+    4.3.0
+    Mar 8, 2021
+    4.2.2
+    Feb 22, 2021
+    4.2.0
+    Jan 1, 2021
+    4.1.2
+    Nov 27, 2020
+    4.1.0
+    Nov 20, 2020
+    4.0.2
+    Oct 21, 2020
+    4.0.1
+    Oct 8, 2020
+    4.0.0
+    Oct 5, 2020
+    3.9
+    Feb 18, 2020
+    3.8
+    Aug 31, 2019
+    3.7.1
+    Mar 21, 2019
+    3.7
+    Jan 11, 2019
+    3.6
+    Jan 4, 2019
+    3.5
+    Nov 12, 2018
+    3.4
+    Oct 13, 2018
+    3.3
+    Jun 18, 2018
+    3.2.2
+    Jan 24, 2018
+    3.2.1
+    Nov 29, 2017
+    3.2
+    Oct 1, 2017
+    3.1.1
+    Sep 14, 2017
+    3.1
+    Aug 18, 2017
+    2.5.5
+    May 25, 2017
+    2.5.4
+    May 6, 2017
+    2.5.3
+    Apr 9, 2017
+    2.5.2
+    Jan 18, 2017
+    2.5.1
+    Nov 1, 2016
+    2.5
+    Oct 25, 2016
+    2.4.7
+    Oct 14, 2016
+    2.4.5
+    Aug 24, 2016
+    2.4.4
+    Jun 27, 2016
+    2.3.4
+    Apr 6, 2016
+    2.3.3
+    Mar 1, 2016
+    2.2.9
+    Feb 2, 2016
+    2.2.8
+    Jan 26, 2016
+    2.2.7
+    Jan 14, 2016
+    2.2.6
+    Jan 4, 2016
+    2.2.5
+    Oct 12, 2015
+    2.2.4
+    Sep 7, 2015
+    2.2.3
+    Aug 15, 2015
+    2.2.2
+    Aug 12, 2015
+    2.2.1
+    Dec 20, 2014
+    2.2
+    Dec 10, 2014
+    2.1
+    Oct 23, 2014
+    2.0
+    Oct 8, 2014
+    1.6
+    Aug 27, 2014
+    1.5
+    May 9, 2014
+    1.4
+    Feb 12, 2014
+    1.3.1
+    Sep 10, 2013
+    1.3.2
+    Sep 10, 2013
+    1.3
+    Sep 9, 2013
+    1.2
+    Jun 3, 2013
+    1.1
+    Feb 12, 2013
+    1.0
+    Jan 24, 2013
+
+See More
+Top In-App Purchases
+
+    Pro (Monthly Plan)
+    $1.99
+    Pro (Yearly Plan)
+    $19.99
+    Pro (Lifetime Plan)
+    $99.99
+
+About
+
+Required Devices
+    iPad
+
+Category
+    Education
+
+Initial Release Date
+    Jan 24, 2013
+
+Worldwide Release Date
+    Jan 24, 2013
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    4.4.3
+
+Size
+    17.02 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Dutch, Finnish, French, German, Italian, Japanese, Korean, Russian, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    IPEVO
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPad.
+
+Bundle ID
+    com.ipevo.whiteboard
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Developer Account Website
+
+App ID: 594766738
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+IPEVO Whiteboard | data.ai

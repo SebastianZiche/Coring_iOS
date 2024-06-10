@@ -1,0 +1,386 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Carbon12 - B&W Film Emulation
+Katerina AlieksieienkoPhoto and Video (Applications)Free
+Alerts
+
+    Carbon12 - B&W Film Emulation
+    Carbon12 - B&W Film Emulation
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Carbon12 - B&W Film Emulation
+Black & White - Photo & Video
+Photo and Video (Applications)
+Free
+App Description
+Give your movies and photos a timeless black-and-white look with Monotone – our new app that's designed to make your images and videos stand out!
+
+With over 300 B&W filters to choose from, including duotones and vintage presets, you can easily transform any image or video into a stunning black-and-white masterpiece. And with our advanced adjustment options, including curves, vignettes, and overlays, you can fine-tune your results to perfection.
+
+Monotone is packed with features to help you get the most out of your black-and-white creations, including HSL sliders for B&W conversion and Photoshop's Calculations. You can also download presets with ease by scanning the QR codes provided.
+
+But that's not all – our app also adds film grain for both images and videos, giving your creations an authentic, film-like feel. Plus, our advanced vignetting options, including Classic and Natural, let you add a unique touch to your images and videos.
+
+Monotone comes with a variety of included analog film emulations, such as Agfa APX 25, Ilford Delta 400, and Kodak TRI-X 400, to name a few. With so many options to choose from, you're sure to find the perfect look for your black-and-white creations.
+
+Download Monotone today and start creating timeless, unforgettable images and videos!
+
+Included Analog Film Emulations:
+
+Agfa APX 25
+Agfa APX 100
+Agfa APX 400
+Agfa Scala 200
+Fomapan 100
+Fomapan 200
+Fuji FP 3000b
+Fuji Neopan 100 Across
+Fuji Neopan 400
+Fuji Neopan 1600
+Ilford Delta 100
+Ilford Delta 400
+Ilford Delta 800
+Ilford Delta 3200
+Ilford FP4 Plus 125
+Ilford HP5 Plus
+Ilford Ortho 80
+Ilford Pan F
+Ilford SFX 200
+Ilford XP2
+Kodak T-MAX 100
+Kodak T-MAX 400
+Kodak T-MAX P3200
+Kodak TRI-X 200
+Kodak TRI-X 400
+Konica 750 Film
+Polaroid 664
+Polaroid 667
+Polaroid 672
+Rollei 25
+Rollei IR 400
+
+Ratings
+Displayed Avg Ratings
+4.17
+Total Displayed Ratings
+53
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.72 (May 7, 2023)
+    Adds Spanish, Russian, and Chinese support.
+Version 1.71 (Apr 16, 2023)
+    Automatically horizontal line in Crop.
+Version 1.70 (Apr 10, 2023)
+    Adds video crop 
+Version 1.69 (Mar 26, 2023)
+    Solves a problem with image rendering 
+Version 1.68 (Mar 24, 2023)
+    Adds histogram, parades 
+Version 1.67 (Feb 11, 2023)
+    Fixes a problem when opening images
+Version 1.66 (Feb 1, 2023)
+    Fixes a problem when reading QR codes.
+Version 1.65 (Dec 24, 2022)
+    Fixes a problem when opening images.
+Version 1.64 (Dec 17, 2022)
+    Solves a problem when opening images.
+Version 1.63 (Dec 5, 2022)
+    Fixes a problem when saving images
+Version 1.62 (Oct 14, 2022)
+    Solves a problem when exporting presets with a QR code.
+Version 1.61 (Sep 29, 2022)
+    Fixes a problem with the camera's focus.
+Version 1.60 (Sep 27, 2022)
+    Improves camera
+Version 1.59 (Sep 11, 2022)
+    Solves a problem when saving images.
+Version 1.58 (Sep 2, 2022)
+    Adds RGB and LAB curves.
+Version 1.57 (Aug 31, 2022)
+    Double overlays.
+Version 1.56 (Aug 24, 2022)
+    Fixes a problem when sharing profiles.
+Version 1.55 (Aug 21, 2022)
+    Improves some presets.
+Version 1.54 (Jul 26, 2022)
+    Profiles sharing with QR
+Version 1.53 (May 17, 2022)
+    Support for iPad.
+Version 1.52 (Dec 30, 2021)
+    Solves a problem with the images size
+Version 1.51 (Dec 29, 2021)
+    Fixes a problem when exporting video.
+Version 1.50 (Dec 21, 2021)
+    Fixes a problem with Levels
+Version 1.49 (Dec 13, 2021)
+    Support for Chinese, Spanish and Russian.
+Version 1.48 (Dec 12, 2021)
+    Fixes a problem with the photo picker.
+Version 1.47 (Oct 25, 2020)
+    Camera improvements
+Version 1.46 (Oct 19, 2020)
+    Import multiple images and videos to Project list. 
+Version 1.45 (Oct 13, 2020)
+    Added undo-reset-redo
+Version 1.44 (Sep 6, 2020)
+    HSL Tool
+Version 1.43 (Aug 31, 2020)
+    Fixes a problem with the opacity slider.
+Version 1.42 (Aug 29, 2020)
+    Advanced vignette options.
+Version 1.41 (Aug 27, 2020)
+    Fixes a problem when adjusting the contrast.
+Version 1.4 (Aug 26, 2020)
+    Some interface changes and improvements
+Version 1.3 (Aug 11, 2020)
+    Solves a problem with the Glow filter.
+Version 1.2 (Aug 10, 2020)
+    Small fixes on sliders' views, improved noise for images.
+Version 1.1 (Aug 7, 2020)
+    New adjustments/effects
+Version 1.0 (Aug 5, 2020)
+
+Users may also like
+Select objects to compare
+LUCH: Photo Effects & Filters
+Image Eraser - Inpaint & heal
+Fine - Photo Editor
+Photo Editor & Video Editor
+Colorize - Improve Old Photos
+Exif Viewer - Photo Metadata
+Filme — Analog Photo Editor
+Sketch Tree Pro - My Art Pad
+Apollo: Immersive illumination
+Photo Animation Studio Animate
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.72
+    Current release
+    May 7, 2023
+    1.71
+    Apr 16, 2023
+    1.70
+    Apr 10, 2023
+    1.69
+    Mar 26, 2023
+    1.68
+    Mar 24, 2023
+    1.67
+    Feb 11, 2023
+    1.66
+    Feb 1, 2023
+    1.65
+    Dec 24, 2022
+    1.64
+    Dec 17, 2022
+    1.63
+    Dec 5, 2022
+    1.62
+    Oct 14, 2022
+    1.61
+    Sep 29, 2022
+    1.60
+    Sep 27, 2022
+    1.59
+    Sep 11, 2022
+    1.58
+    Sep 2, 2022
+    1.57
+    Aug 31, 2022
+    1.56
+    Aug 24, 2022
+    1.55
+    Aug 21, 2022
+    1.54
+    Jul 26, 2022
+    1.53
+    May 17, 2022
+    1.52
+    Dec 30, 2021
+    1.51
+    Dec 29, 2021
+    1.50
+    Dec 21, 2021
+    1.49
+    Dec 13, 2021
+    1.48
+    Dec 12, 2021
+    1.47
+    Oct 25, 2020
+    1.46
+    Oct 19, 2020
+    1.45
+    Oct 13, 2020
+    1.44
+    Sep 6, 2020
+    1.43
+    Aug 31, 2020
+    1.42
+    Aug 29, 2020
+    1.41
+    Aug 27, 2020
+    1.4
+    Aug 26, 2020
+    1.3
+    Aug 11, 2020
+    1.2
+    Aug 10, 2020
+    1.1
+    Aug 7, 2020
+    1.0
+    Aug 5, 2020
+
+See More
+Top In-App Purchases
+
+    Monotone Gold Weekly
+    $0.99
+    MONOTONE GOLD
+    $4.99
+    Monotone Gold Yearly
+    $1.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Aug 5, 2020
+
+Worldwide Release Date
+    Aug 5, 2020
+
+Last Updated Time
+    Feb 27, 2024
+
+Version
+    1.72
+
+Size
+    84.59 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Russian, Simplified Chinese, Spanish
+
+Seller
+    Enrique Garcia
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.6 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.xcstudio.monotone.pro
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Developer Account Website
+
+App ID: 1497664944
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Carbon12 - B&W Film Emulation | data.ai

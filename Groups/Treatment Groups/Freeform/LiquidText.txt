@@ -1,0 +1,1905 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+LiquidText
+LiquidTextProductivity (Applications)Free
+Alerts
+
+LiquidText
+LiquidText
+LiquidText
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+LiquidText
+Annotate & review documents
+Productivity (Applications)
+Free
+App App Store Notes
+If your job or studies involve reading through longer works, LiquidText offers the kind of flexibility you’ve always wished for. Using gestures, you can quickly drag excerpts to a workspace on the side, make notes and comments, or compress pages to compare distant sections. With support for popular file formats, sharing options, and cloud services, it’s so intuitive to use that you’ll forget how you ever read without it.
+App Description
+*** Named “Most Innovative iPad App of the Year” by Apple App Store ***
+
+LiquidText offers a fast, natural way to review, gather, and organize information across all your documents and webpages—then apply the results to writing reports, meeting prep, or simply studying. Pull out key facts and connect them together, squeeze a document to compare sections, draw a line to connect ideas in different documents, comment on multiple pages at once, build upon your thoughts, and much more.
+
+
+► WHAT PEOPLE ARE SAYING:
+
+* "If you want to experience the power of going beyond paper, you can download LiquidText" – Cult of Mac
+
+* One of Macworld’s Top 24 Apps for iPad Pro
+
+* One of Time Magazine's Ten Best apps for iPad Pro *
+
+* "There's a better way to organize your research, and the app is it." – iMore, Serenity Caldwell
+
+* “All you need for deep research projects.” – Macworld, Jackie Dove
+
+* "The world changed with...LiquidText" – Law360, Paul Kiesel
+
+* "LiquidText may just be *the* app for reviewing and annotating PDFs using Apple's tablet and stylus." – CIO Magazine, James Martin
+
+* “One of the most powerful, original iPad apps I've tried in years” – Federico Viticci, MacStories.net
+
+
+► LIQUIDTEXT’S COMPLETE FEATURE SET INCLUDES:
+
+(Note that to use features with a *, a subscription to our premium service is required. You can also get some of these features with a one-time purchase instead.)
+
+Import
+• Create a workspace and import all the documents and web pages you need
+• Compatible with PDF, Word, and PowerPoint document types
+• Import from Dropbox, iCloud Drive, Box, email, and more
+• Import content from webpage or send to LiquidText directly from Safari
+• Instant OCR to select text in scanned documents; do a full document-OCR to search as well!*
+• Import documents & metadata directly from reference managers (supports Zotero and Mendeley)*
+
+Interact
+• Pull excerpts from all the documents in your project into the Workspace area
+• Add your own notes (typed or written) to the Workspace area
+• Freely draw on your notes, or on the workspace itself*
+• Organize excerpts and notes into groups
+• Connect anything - draw live “ink links” that span pages, documents, notes, and more*
+• Create mind-maps by drawing “ink links” connecting your excerpts/notes to one another *
+• Get context - tap notes and excerpts to find original source
+
+Compare
+• Pinch a document to compare different distant pages side by side
+• Collapse text to see annotated parts side-by-side
+• Collapse text to view search results(s) side-by-side
+• Import unlimited number of documents into a project, view up to 3 at once*
+
+Annotate
+• Freely draw* or highlight on your document, notes, or the workspace itself
+• Add margin notes/comments to text, images, notes, and excerpts
+• Comment on two or more selections simultaneously
+• Make comments that link to multiple documents at once*
+• Replace document with a newer version (and annotations are brought to new doc)*
+
+Search
+• Search for keywords across all your LiquidText documents
+• Find keywords in title or text of your documents*
+• Bulk highlight, tag, or link to your search results*
+
+Share
+• Export your project as a PDF (includes your Workspace and documents)
+• Export your project as a Word file (converts your notes/excerpts into a linear document)
+• Send a full LiquidText file for those with the app.
+• Send files by email or to Dropbox, iCloud Drive, Zotero, and more*
+
+Sync & Backup*
+• Real-time, cross-platform sync
+• Continuous cloud backup
+• Multi-device display:
+• All your devices are updated in realtime
+• Use your desktop or tablet as additional displays for your tablet, or vice versa
+• Use your tablet for freehand inking while viewing and keyboarding on your desktop
+
+See our terms of use at https://www.liquidtext.net/terms-of-use
+
+Learn more at LiquidText.net
+Better Than Paper
+Ratings
+Displayed Avg Ratings
+4.58
+Total Displayed Ratings
+35.1k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.10.9 (Feb 29, 2024)
+    BUG FIX UPDATE
+
+    ► Fixes a bug causing our AI tools to fail
+
+    ► Fixes a bug when creating a link to multiple objects at once
+
+    ► Fixes a bug in the name of imported webpages
+
+    ► Fixes a bug in sending webpages from Safari to LiquidText
+Version 5.10.8 (Feb 7, 2024)
+    FEATURE UPDATE
+
+    ► Long-press the HighlightView button to select which highlights are included (filter by tag)
+
+    ► Use the // command in a textbox to create a text-based link to your documents
+
+    ► Also includes numerous bug fixes and stability improvements
+Version 5.10.7 (Jan 28, 2024)
+    Stability and Reliability Update
+
+    ► Fixes a bug that could cause instability during DOCX export in certain cases
+
+    ► Fixes a bug that could cause duplicate text styles to be listed in certain cases
+
+    ► Various other bug fixes and stability improvements
+Version 5.10.6 (Jan 11, 2024)
+    Stability and Reliability Update
+
+    ► Fixes a bug that could cause some ChatGPT queries to fail
+
+    ► Imported webpages not include URL in document metadata
+Version 5.10.5 (Dec 28, 2023)
+    IMPORT ENTIRE FOLDERS!
+
+    ► Drag entire folders into LiquidText and to import all documents while maintaining the original folder hierarchy!
+
+    ► Drag folders into the home screen to create a new project with all sub-folders and documents!
+
+    ► Drag folders into the documents list of an existing project to add an entire folder of documents to the project!
+
+    ► Available in all paid upgrades
+
+    ► This version fixes a bug in the context menu and several other small bug fixes
+Version 5.10.3 (Dec 4, 2023)
+    IMPORT ENTIRE FOLDERS!
+
+    ► Drag entire folders into LiquidText and to import all documents while maintaining the original folder hierarchy!
+
+    ► Drag folders into the home screen to create a new project with all sub-folders and documents!
+
+    ► Drag folders into the documents list of an existing project to add an entire folder of documents to the project!
+
+    ► Available in all paid upgrades
+Version 5.10.0 (Nov 16, 2023)
+    BOOKMARK EDITOR!
+
+    ► Create and edit bookmarks in your documents!
+
+    ► Tag bookmarks by category!
+
+    ► Search bookmarks
+
+    ► Display bookmarks on their own, or inline with the document table of contents
+
+    ► Bookmark editor features require a LiquidText Live subscription
+Version 5.9.0 (Oct 18, 2023)
+    NEW FEATURES BY POPULAR DEMAND!
+
+    ► Lock workspace: optionally lock workspace objects by default, so you can scroll without risk of accidentally moving the objects in your workspace.
+
+    ► Text styles: quickly format text with the new Style menu.
+
+    ► Text defaults: set the default text style for new excerpts and comments.
+Version 5.8.11 (Sep 5, 2023)
+    FIXES AND UPDATES
+
+    ► This version provides new forward compatibility for our upcoming update.
+Version 5.8.10 (Aug 29, 2023)
+    FIXES AND UPDATES
+
+    ► This version provides forward compatibility for our upcoming update.
+
+    ► This version includes new diagnostic tools.
+Version 5.8.8 (Aug 18, 2023)
+    FIXES AND UPDATES
+
+    ► This version includes fixes for automatically sending annotations back to source documents.
+
+    ► Fixes for integrating with iManage.
+
+    ► Improvements to Settings menu.
+Version 5.8.7 (Aug 14, 2023)
+    FIXES AND UPDATES
+
+    ► This version includes several updates to LiquidText's Intune support.
+Version 5.8.6 (Aug 2, 2023)
+    FIXES AND UPDATES
+
+    ► This small update adds additional diagnostic support.
+Version 5.8.5 (Jul 27, 2023)
+    FIXES AND UPDATES
+
+    ► Fixes a potential bug in Document Replacement
+
+    ► Improvements to the reference manager menu
+
+    ► General bug fixes and stability improvements
+Version 5.8.4 (Jul 5, 2023)
+    BIG NEW FEATURE! AI TOOLS, POWERED BY ChatGPT
+
+    ► Ask AI: Use LiquidText's specialized ChatGPT integration to ask questions about your documents!
+
+    ► Auto-Cite: Take notes on what you are reading and then do a keyboard shortcut, and LiquidText will suggest a citation based on what you are presently reading!
+
+    ► LiquidText's AI Tools require a LiquidText subscription and the purchase of AI credits.
+
+    ► This version fixes a bug where a document may not scroll when showing several documents at once in certain situations.
+Version 5.8.3 (Jul 1, 2023)
+    BIG NEW FEATURE! AI TOOLS, POWERED BY ChatGPT
+
+    ► Ask AI: Use LiquidText's specialized ChatGPT integration to ask questions about your documents!
+
+    ► Auto-Cite: Take notes on what you are reading and then do a keyboard shortcut, and LiquidText will suggest a citation based on what you are presently reading!
+
+    ► LiquidText's AI Tools require a LiquidText subscription and the purchase of AI credits.
+
+    ► This version includes updates to a newer language model, and several bug fixes.
+Version 5.8.2 (Jun 11, 2023)
+    BIG NEW FEATURE! AI TOOLS, POWERED BY ChatGPT
+
+    ► Ask AI: Use LiquidText's specialized ChatGPT integration to ask questions about your documents!
+
+    ► Auto-Cite: Take notes on what you are reading and then do a keyboard shortcut, and LiquidText will suggest a citation based on what you are presently reading!
+
+    ► LiquidText's AI Tools require a LiquidText subscription and the purchase of AI credits.
+
+    ► This version also fixes a bug in Asian keyboard input in comments and text boxes.
+Version 5.8.1 (May 17, 2023)
+    BIG NEW FEATURE! AI TOOLS, POWERED BY ChatGPT
+
+    ► Ask AI: Use LiquidText's specialized ChatGPT integration to ask questions about your documents!
+
+    ► Auto-Cite: Take notes on what you are reading and then do a keyboard shortcut, and LiquidText will suggest a citation based on what you are presently reading!
+
+    ► LiquidText's AI Tools require a LiquidText subscription and the purchase of AI credits.
+
+    ► This version also fixes a bug in Asian keyboard input in comments and text boxes.
+Version 5.7.6 (May 4, 2023)
+    UPDATE: TAG MANAGER & TRASH BIN
+
+    ► Change the name, color, and category of existing tags
+
+    ► Delete and create tags
+
+    ► Removed projects go to a trash bin instead of being immediately deleted
+
+    ► This version fixes a bug where ink old annotations on existing PDFs would not appear when imported into LiquidText
+
+    ► This version also includes fixes for bugs in the document import/export process
+Version 5.7.5 (Apr 17, 2023)
+    UPDATE: TAG MANAGER & TRASH BIN
+
+    ► Change the name, color, and category of existing tags
+
+    ► Delete and create tags
+
+    ► Removed projects go to a trash bin instead of being immediately deleted
+
+    ► This version fixes a bug where ink old annotations on existing PDFs would not appear when imported into LiquidText
+
+    ► This version also includes numerous bug fixes and several improvements in enterprise deployment capabilities
+Version 5.7.4 (Apr 5, 2023)
+    UPDATE: TAG MANAGER & TRASH BIN
+
+    ► Change the name, color, and category of existing tags
+
+    ► Delete and create tags
+
+    ► Removed projects go to a trash bin instead of being immediately deleted
+
+    ► This version also includes a fix for a bug that could cause a crash during certain document import scenarios
+Version 5.7.3 (Mar 20, 2023)
+    UPDATE: TAG MANAGER & TRASH BIN
+
+    ► Change the name, color, and category of existing tags
+
+    ► Delete and create tags
+
+    ► Removed projects go to a trash bin instead of being immediately deleted
+
+    ► This version also includes fixes for possible bugs in login and cross-project import
+Version 5.7.2 (Mar 10, 2023)
+    UPDATE: TAG MANAGER & TRASH BIN
+
+    ► Change the name, color, and category of existing tags
+
+    ► Delete and create tags
+
+    ► Removed projects go to a trash bin instead of being immediately deleted
+
+    ► This version also includes several stability and reliability improvements
+Version 5.7.1 (Mar 8, 2023)
+    UPDATE: TAG MANAGER & TRASH BIN
+
+    ► Change the name, color, and category of existing tags
+
+    ► Delete and create tags
+
+    ► Removed projects go to a trash bin instead of being immediately deleted
+Version 5.5.15 (Feb 23, 2023)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► Multiple Workspaces requires one of our paid upgrades
+
+    ► This update fixes a bug that could cause a crash when applying tags to excerpts in certain situations
+Version 5.5.14 (Feb 13, 2023)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► Multiple Workspaces requires one of our paid upgrades
+
+    ► This update also contains several bug fixes relating to migrating to other LiquidText versions, global search, and the file picker
+Version 5.5.13 (Jan 27, 2023)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This update also includes numerous bug fixes and stability improvements
+Version 5.5.12 (Jan 18, 2023)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This update includes a revised on-boarding experience and numerous bug fixes and stability improvements
+Version 5.5.11 (Jan 10, 2023)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This update includes improvements in syncing
+Version 5.5.10 (Jan 4, 2023)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This update includes various bug fixes, and improvements in syncing
+Version 5.5.10 (Jan 4, 2023)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This update includes various bug fixes, and improvements in syncing
+Version 5.5.9 (Dec 13, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This update includes various bug fixes, improvements in syncing, and offers an all new tagging menu for text selections
+Version 5.5.8 (Nov 21, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This update includes numerous bug fixes in memory management sync, text rendering, and more.
+Version 5.5.7 (Nov 1, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This update includes fixes for several bugs that could cause a crash under certain circumstances.
+Version 5.5.6 (Oct 22, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This update includes LiquidText's new AtomicSync engine, which makes our realtime syncing both dramatically faster and more reliable.
+Version 5.5.5 (Oct 19, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This version fixes a bug where moving ink could sometimes be slow, improves drag-and-drop experience, and other improvements.
+Version 5.5.4 (Oct 12, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This version improves the upgrade experience, fixes a bug in notes outline export, and fixes a bug in renaming files.
+Version 5.5.3 (Oct 1, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This version fixes two bugs that could affect the workspace duplication function
+Version 5.5.2 (Sep 25, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This version also corrects a possible pricing issue, a workspace sidebar issue in vertical mode, and several other fixes.
+Version 5.5.1 (Sep 16, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+
+    ► This version also corrects a possible pricing issue
+Version 5.5.0 (Sep 15, 2022)
+    BIG UPDATE: MULTIPLE WORKSPACES IN THE SAME PROJECT!
+
+    ► Add unlimited workspaces to the same project
+
+    ► Link between workspaces using ink or text links
+
+    ► Use links as portals: Drop an excerpt into a link to send it to the destination workspace!
+
+    ► Name and customize the style of each workspace
+
+    ► Display workspaces in parallel
+
+    ► Nested workspaces so you can create a hierarchy
+
+    ► Improved and reorganized menus
+
+    ► And numerous bug fixes and stability improvements
+Version 5.4.9 (Jun 30, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    ► This version also fixes several small bugs in the login and account management processes.
+Version 5.4.8 (Jun 24, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    ► This version also fixes several small bugs around the login process.
+Version 5.4.7 (May 25, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    ► This version also fixes a bug where empty text box font sizes are set to 0.
+Version 5.4.6 (May 19, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    ► This version also includes several small UI fixes.
+Version 5.4.5 (May 4, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    ► This version also includes a bug-fix in thr troubleshooting system.
+Version 5.4.4 (Apr 5, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+Version 5.4.3 (Mar 24, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    ► This version also includes an option to show/hide the iPadOS status bar.
+Version 5.4.2 (Mar 18, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    ► This version also includes several bug fixes.
+Version 5.4.1 (Mar 10, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+
+    ► This version also includes several bug fixes in Document Replacement and Auto-Excerpting.
+Version 5.4.0 (Mar 4, 2022)
+    BIG NEW FEATURES!
+
+    ► Create links between LiquidText projects!
+
+    ► Replace a document with a newer version, and annotations come to the new doc!
+
+    ► Create inline text links to one or more locations!
+
+    ► Create URL links to LiquidText selections that you can paste into other apps!
+
+    ► Automatically create excerpts from text you have tagged!
+
+    ► Create links to an entire set of search results!
+
+    ► Tag or highlight all of your search results at once!
+Version 5.3.1 (Jan 11, 2022)
+    REFERENCE MANAGERS ARE HERE!
+
+    ► Now integrated with Zotero and Mendeley!
+
+    ► Import documents with metadata into LiquidText from your reference manager
+
+    ► Automatically send PDF annotations back to the reference manager
+
+    ► Tag and filter documents in the Document Side Bar
+
+    ► Requires LiquidText Live subscription
+Version 5.3.0 (Jan 6, 2022)
+    REFERENCE MANAGERS ARE HERE!
+
+    ► Now integrated with Zotero and Mendeley!
+
+    ► Import documents with metadata into LiquidText from your reference manager
+
+    ► Automatically send PDF annotations back to the reference manager
+
+    ► Tag and filter documents in the Document Side Bar
+
+    ► Requires LiquidText Live subscription
+Version 5.2.0 (Dec 6, 2021)
+    REFERENCE MANAGERS ARE HERE!
+
+    ► Now integrated with Zotero (integration with Mendeley coming soon)!
+
+    ► Import documents with metadata into LiquidText from your reference manager
+
+    ► Automatically send PDF annotations back to the reference manager
+
+    ► Tag and filter documents in the Document Side Bar
+
+    ► Requires LiquidText Live subscription
+Version 5.1.5 (Nov 23, 2021)
+    OCR IS HERE!
+
+    ► Near real-time "Instant OCR" for selecting text in scanned documents!
+
+    ► Perform complete-document OCR to enable higher accuracy and searching!
+
+    ► Supports 8 languages on iPadOS 15 (English on iPadOS 14)
+Version 5.1.3 (Nov 2, 2021)
+    OCR IS HERE!
+
+    ► Near real-time "Instant OCR" for selecting text in scanned documents!
+
+    ► Perform complete-document OCR to enable higher accuracy and searching!
+
+    ► Supports 8 languages on iPadOS 15 (English on iPadOS 14)
+
+    ► This update includes several bug fixes and performance improvements
+Version 5.1.2 (Oct 29, 2021)
+    OCR IS HERE!
+
+    ► Near real-time "Instant OCR" for selecting text in scanned documents!
+
+    ► Perform complete-document OCR to enable higher accuracy and searching!
+
+    ► Supports 8 languages on iPadOS 15 (English on iPadOS 14)
+Version 5.1.1 (Oct 22, 2021)
+    OCR IS HERE!
+
+    ► Near real-time "Instant OCR" for selecting text in scanned documents!
+
+    ► Perform complete-document OCR to enable higher accuracy and searching!
+
+    ► Supports 8 languages on iPadOS 15 (English only on iPadOS 14)
+
+    ► Built using iPadOS Vision Framework for fantastic performance
+
+    ► This update also fixes a bug that could cause instability during DOCX export
+Version 5.0.12 (Oct 13, 2021)
+    SYNCING & BACKUP IS HERE!
+
+    ► Sync instantly across your devices!
+
+    ► Shared displays: use your desktop, laptop and tablet together through our realtime sync!
+
+    ► Continuous cloud backup!
+
+    ► All powered by our custom web service designed to let you sync and backup even huge LiquidText projects incrementally and efficiently.
+
+    HORIZONTAL LAYOUT
+
+    ► By popular demand: Layout multiple documents horizontally, side-by-side, at once.
+
+    BUG FIXES
+
+    ► This update includes several bug fixes.
+Version 5.0.11 (Oct 8, 2021)
+    SYNCING & BACKUP IS HERE!
+
+    ► Sync instantly across your devices!
+
+    ► Shared displays: use your desktop, laptop and tablet together through our realtime sync!
+
+    ► Continuous cloud backup!
+
+    ► All powered by our custom web service designed to let you sync and backup even huge LiquidText projects incrementally and efficiently.
+
+    HORIZONTAL LAYOUT
+
+    ► By popular demand: Layout multiple documents horizontally, side-by-side, at once.
+
+    BUG FIXES
+
+    ► This update includes performance improvements and bug fixes, especially for users with very large numbers of projects.
+Version 5.0.9 (Sep 29, 2021)
+    SYNCING & BACKUP IS HERE!
+
+    ► Sync instantly across your devices!
+
+    ► Shared displays: use your desktop, laptop and tablet together through our realtime sync!
+
+    ► Continuous cloud backup!
+
+    ► All powered by our custom web service designed to let you sync and backup even huge LiquidText projects incrementally and efficiently.
+
+    HORIZONTAL LAYOUT
+
+    ► By popular demand: Layout multiple documents horizontally, side-by-side, at once.
+Version 5.0.8 (Sep 11, 2021)
+    SYNCING & BACKUP IS HERE!
+
+    ► Sync instantly across your devices!
+
+    ► Shared displays: use your desktop, laptop and tablet together through our realtime sync!
+
+    ► Continuous cloud backup!
+
+    ► All powered by our custom web service designed to let you sync and backup even huge LiquidText projects incrementally and efficiently.
+
+    ► This update fixes a bug that could interfere with subscription activation in some cases.
+Version 5.0.6 (Sep 7, 2021)
+    SYNCING & BACKUP IS HERE!
+
+    ► Sync instantly across your devices!
+
+    ► Shared displays: use your desktop, laptop and tablet together through our realtime sync!
+
+    ► Continuous cloud backup!
+
+    ► All powered by our custom web service designed to let you sync and backup even huge LiquidText projects incrementally and efficiently.
+
+    ► This update also fixes bugs and helps improve reliability.
+Version 5.0.4 (Sep 3, 2021)
+    SYNCING & BACKUP IS HERE!
+
+    ► Sync instantly across your devices!
+
+    ► Shared displays: use your desktop, laptop and tablet together through our realtime sync!
+
+    ► Continuous cloud backup!
+
+    ► All powered by our custom web service designed to let you sync and backup even huge LiquidText projects incrementally and efficiently.
+
+    ► This update also includes several bug fixes, improves ink latency in some iPad models, and improves performance.
+Version 5.0.3 (Aug 31, 2021)
+    SYNCING & BACKUP IS HERE!
+
+    ► Sync instantly across your devices!
+
+    ► Shared displays: use your desktop, laptop and tablet together through our realtime sync!
+
+    ► Continuous cloud backup!
+
+    ► All powered by our custom web service designed to let you sync and backup even huge LiquidText projects incrementally and efficiently.
+
+    ► This update also includes several bug fixes.
+Version 5.0.1 (Aug 28, 2021)
+    SYNCING & BACKUP IS HERE!
+
+    ► Sync instantly across your devices!
+
+    ► Shared displays: use your desktop, laptop and tablet together through our realtime sync!
+
+    ► Continuous cloud backup!
+
+    ► All powered by our custom web service designed to let you sync and backup even huge LiquidText projects incrementally and efficiently.
+
+    ► This update also includes several bug fixes.
+Version 5.0 (Aug 26, 2021)
+    SYNCING & BACKUP IS HERE!
+
+    ► Sync instantly across your devices!
+
+    ► Shared displays: use your desktop, laptop and tablet together through our realtime sync!
+
+    ► Continuous cloud backup!
+
+    ► All powered by our custom web service designed to let you sync and backup even huge LiquidText projects incrementally and efficiently.
+Version 4.1.3 (Apr 30, 2021)
+    Thank you for using LiquidText! This update includes several small bug fixes and updates, including
+
+    ► Fixed a bug improving ink undo
+
+    ► Fixed bugs improving text entry
+
+    ► Fixed a bug with double-tapping to select text
+Version 4.1.2 (Apr 1, 2021)
+    New Features:
+
+    ► Document Scanner & Widget!
+
+    ► Existing photo import now lets you take photos of document pages and automatically straightens/flattens them!
+
+    ► Use our new Document Scanner MacOS Widget to start scanning documents before you even open LiquidText.
+Version 4.0.10 (Dec 17, 2020)
+Version 4.0.9 (Dec 13, 2020)
+Version 4.0.8 (Dec 2, 2020)
+Version 4.0.7 (Nov 6, 2020)
+Version 4.0.6 (Sep 26, 2020)
+Version 4.0.5 (Aug 20, 2020)
+Version 4.0.4 (Jul 2, 2020)
+Version 4.0.3 (Jun 23, 2020)
+Version 4.0.2 (Jun 1, 2020)
+Version 4.0.1 (May 22, 2020)
+Version 4.0 (May 21, 2020)
+Version 3.9.13 (Nov 5, 2019)
+Version 3.9.12 (Oct 6, 2019)
+Version 3.9.11 (Oct 4, 2019)
+Version 3.9.10 (Aug 1, 2019)
+Version 3.9.9 (Jul 18, 2019)
+Version 3.9.8 (Jul 5, 2019)
+Version 3.9.7 (Jul 4, 2019)
+Version 3.9.6 (Jul 3, 2019)
+Version 3.9.5 (Jun 5, 2019)
+Version 3.9.4 (Mar 24, 2019)
+Version 3.9.2 (Mar 2, 2019)
+Version 3.9.1 (Feb 6, 2019)
+Version 3.9 (Feb 3, 2019)
+Version 3.8.4 (Jan 3, 2019)
+Version 3.8.3 (Dec 9, 2018)
+Version 3.8.2 (Dec 5, 2018)
+Version 3.8.1 (Nov 9, 2018)
+Version 3.8 (Nov 8, 2018)
+Version 3.7.2 (Oct 19, 2018)
+Version 3.7.1 (Sep 29, 2018)
+Version 3.7 (Sep 27, 2018)
+Version 3.5.18 (Sep 6, 2018)
+Version 3.5.17 (Aug 10, 2018)
+Version 3.5.16 (Aug 9, 2018)
+Version 3.5.15 (Jul 7, 2018)
+Version 3.5.14 (Jun 22, 2018)
+Version 3.5.13 (Apr 13, 2018)
+Version 3.5.12 (Apr 5, 2018)
+Version 3.5.11 (Mar 16, 2018)
+Version 3.5.10 (Feb 16, 2018)
+Version 3.5.9 (Jan 26, 2018)
+Version 3.5.8 (Dec 1, 2017)
+Version 3.5.7 (Nov 29, 2017)
+Version 3.5.6 (Nov 22, 2017)
+Version 3.5.5 (Nov 10, 2017)
+Version 3.5.4 (Nov 3, 2017)
+Version 3.5.3 (Oct 13, 2017)
+Version 3.5.2 (Oct 6, 2017)
+Version 3.5.1 (Sep 30, 2017)
+Version 3.5 (Sep 20, 2017)
+Version 3.0.12 (Aug 4, 2017)
+Version 3.0.11 (Jul 25, 2017)
+Version 3.0.10 (Jul 1, 2017)
+Version 3.0.9 (Jun 30, 2017)
+Version 3.0.8 (Jun 1, 2017)
+Version 3.0.7 (Apr 22, 2017)
+Version 3.0.6 (Apr 18, 2017)
+Version 3.0.5 (Apr 16, 2017)
+Version 3.0.4 (Apr 5, 2017)
+Version 3.0.3 (Mar 24, 2017)
+Version 3.0.2 (Mar 17, 2017)
+Version 2.1.6 (Feb 27, 2017)
+    REFINEMENTS
+
+    • Improved Highlight Rendering: highlights better maintain text contrast to improve readability.
+
+    BUG FIXES
+
+    • Fixed bug that could cause a crash when scrolling with scrollbar while holding document in place with other finger.
+
+    • Fixed bug that could cause a crash when tapping a link button on an excerpt or comment while in portrait mode.
+
+    • Fixed bug that could prevent the table of Contents from displaying correctly in some circumstances.
+Version 2.1.5 (Oct 31, 2016)
+    REFINEMENTS
+
+    • Improved Highlight Rendering: highlights better maintain text contrast to improve readability.
+
+    BUG FIXES
+
+    • Fixed bug that could cause a crash when scrolling with scrollbar while holding document in place with other finger.
+
+    • Fixed bug that could cause a crash when tapping a link button on an excerpt or comment while in portrait mode.
+
+    • Fixed bug that could prevent the table of Contents from displaying correctly in some circumstances.
+Version 2.1.4 (Oct 15, 2016)
+    NEW FEATURES
+
+    IMPROVED COLOR PALETTE
+
+    • Choose from 32 colors for highlighting text and excerpts/comments!
+
+    • Select your favorite colors to be visible first!
+
+    • Requires LiquidText's MultiDocument Upgrade Pack
+
+    BUG FIXES
+
+    • Fixed bug that was preventing "Edit" and "Comment" menu options from appearing.
+Version 2.1.3 (Oct 14, 2016)
+    NEW FEATURES
+
+    IMPROVED COLOR PALETTE
+
+    • Choose from 32 colors for highlighting text and excerpts/comments!
+
+    • Select your favorite colors to be visible first!
+
+    • Requires LiquidText's MultiDocument Upgrade Pack
+Version 2.1.1 (Sep 27, 2016)
+    BUG FIXES
+
+    • Fixed bug that can rarely cause highlights not to be exported correctly.
+
+    • Fixed bug where Global Search might not notice if documents inside a multidoc were renamed.
+
+    • Improved stability of Global Search, and added failsafe mechanisms.
+
+    • Fixed Global Search bug that could cause files with names that include an underscore not to be indexed.
+
+    NEW FEATURES
+
+    GLOBAL KEYWORD SEARCH
+
+    • Search for keywords across all your LiquidText files!
+
+    • Search from LiquidText home screen, or from Spotlight!
+
+    • Find keywords in title or text of your documents!
+
+    • Requires iOS 10 and LiquidText's MultiDocument Upgrade Pack
+Version 2.1.0 (Sep 23, 2016)
+    NEW FEATURES
+
+    GLOBAL KEYWORD SEARCH
+
+    • Search for keywords across all your LiquidText files!
+
+    • Search from LiquidText home screen, or from Spotlight!
+
+    • Find keywords in title or text of your documents!
+
+    • Requires iOS 10 and LiquidText's MultiDocument Upgrade Pack
+Version 2.0.6 (Aug 10, 2016)
+    NEW FEATURES
+
+    TABLE OF CONTENTS DISPLAY! It does more than just show you the table of contents…
+
+    • See which table-of-contents sections are longest, or which sections have the most search results!
+
+    • Hold a page in place with one finger while tapping a table-of-contents heading with another finger—and LiquidText will show you both at once!
+
+    • As you drag the scrollbar handle, it will show page and ToC section name!
+Version 2.0.5 (Jul 28, 2016)
+    NEW FEATURES:
+
+    • BY POPULAR DEMAND: Export a snapshot of your workspace as a PDF!
+    • New quicker, clearer send menu
+    • In MultiDoc, webpage importer remembers the last page you were on and opens there
+    • Copy to clipboard option for Notes export
+Version 2.0.4 (Jul 13, 2016)
+    This update is about small refinements and bug fixes, it makes LiquidText more stable and smooths some rough edges.
+
+    REFINEMENTS:
+
+    - Increased size of magnifier window
+    - Improved usability of file-rename dialog box
+    - Added manual clear-cache feature
+    - New tabbed settings window
+
+    BUG FIXES:
+
+    - Fixed bug where app would occasionally hang when opening PDF documents with ink annotation.
+    - Fixed bug where image-based highlights wouldn't be properly exported to DOC files.
+    - Document view state wasn't being restored for docs with attached comments when in portrait mode. This is now fixed.
+Version 2.0.3 (Jun 13, 2016)
+    MAJOR UPDATE: New Multi-Document Pack lets you work with multiple documents and webpages in a single LiquidText workspace (one time in-app purchase required)!
+
+    • Pull together excerpts from multiple documents
+
+    • Search across all the documents in a LiquidText file
+
+    • Compare documents side by side
+
+    • Make comments that refer to multiple documents
+
+    • New in 2.0.3: By popular demand - import documents for other LiquidText files
+Version 2.0 (Jun 6, 2016)
+    MAJOR UPDATE: New Multi-Document Pack lets you work with multiple documents and webpages in a single LiquidText workspace (one time in-app purchase required)!
+
+    • Pull together excerpts from multiple documents
+
+    • Search across all the documents in a LiquidText file
+
+    • Compare documents side by side
+
+    • Make comments that refer to multiple documents
+Version 1.6.0 (Mar 24, 2016)
+    FEATURES
+
+    - Full Screen: You can now drag the workspace divider to make the document take up the full screen! (Available in portrait mode, and landscape mode when no comments are attached to your document).
+
+    - Edit Excerpts: Edit excerpts as easily as comments; just select an excerpt, then tap "Edit."
+
+    BUG FIXES
+
+    - Fixed bug in DOCX export that had made certain files unreadable.
+Version 1.5.9 (Jan 13, 2016)
+    FEATURES
+
+    - Swiping from beyond the bottom or right screen edge won't cause scrolling
+
+    BUG FIXES
+
+    - Fixed bug in DOCX export
+
+    - Better handling long file names
+
+    - Fixed bug in sending LiquidText files
+
+    - Improved handling of importing multiple files with same name
+
+    - You can press-and-hold to position cursor when writing comment
+Version 1.5.8 (Jan 10, 2016)
+    Features:
+
+    - LiquidText's "Notes" export feature now exports to Microsoft Word (DOCX) format!
+
+    Bug Fixes:
+
+    - Documents with large numbers of notes will load much faster
+    - LiquidText now works correctly with external keyboards
+    - Fixed bug where some highlights in exported PDF files may be wrong color
+    - Raised pressure required for Apple Pencil to switch to Image Select mode
+    - Highlights in exported PDFs are better linked to associated comments
+Version 1.5.5 (Nov 19, 2015)
+    NEW FEATURES
+
+    - Reimagined for iPad Pro and Apple Pencil!
+
+    - Now supports portrait mode
+
+    - Supports split screen multitasking
+
+    - Rotate pages of imported documents
+
+    - Import password protected PDFs
+
+    - Supports importing multiple files at once from Dropbox and Box
+Version 1.5.2 (Nov 5, 2015)
+    NEW FEATURES
+
+    - Now supports portrait mode
+
+    - Supports split screen multitasking
+
+    - Supports importing multiple files at once from Dropbox and Box
+Version 1.1.6 (Oct 2, 2015)
+    This update includes major bug fixes, as well as several feature additions. If you like it, please consider giving us a great review!
+
+    FEATURES
+
+    Dictionary: LiquidText now supports the standard iOS dictionary for doing word lookups.
+
+    Picture export: Now when you export your notes as a formatted text file, any image excerpts you've made will be included!
+
+    Improved our PDF export so that comments should be visible in almost all apps, rather than only Adobe Acrobat.
+
+    BUG FIXES
+
+    Got rid of the annoying message that kept appearing if you had Bluetooth turned off.
+
+    Fixed bug that would sometimes cause app to hang when you accessed Dropbox.
+
+    Fixed issue where certain file names would interfere with exporting.
+
+    Double tapping a highlight will select it even in scanned documents.
+
+    Fixed error where highlights would appear in the wrong place in some documents.
+
+    Fixed bug where restoring LiquidText from a backup could corrupt its data store.
+
+    Many smaller fixes as well.
+Version 1.1.5 (Oct 1, 2015)
+    This update includes major bug fixes, as well as several feature additions. If you like it, please consider giving us a great review!
+
+    FEATURES
+
+    Dictionary: LiquidText now supports the standard iOS dictionary for doing word lookups.
+
+    Picture export: Now when you export your notes as a formatted text file, any image excerpts you've made will be included!
+
+    Improved our PDF export so that comments should be visible in almost all apps, rather than only Adobe Acrobat.
+
+    BUG FIXES
+
+    Got rid of the annoying message that kept appearing if you had Bluetooth turned off.
+
+    Fixed bug that would sometimes cause app to hang when you accessed Dropbox.
+
+    Fixed issue where certain file names would interfere with exporting.
+
+    Double tapping a highlight will select it even in scanned documents.
+
+    Fixed error where highlights would appear in the wrong place in some documents.
+
+    Fixed bug where restoring LiquidText from a backup could corrupt its data store.
+
+    Many smaller fixes as well.
+Version 1.1 (Sep 3, 2015)
+    This is our first public version!
+Version 3.0.1 (Sep 3, 2015)
+Version 1.0.20 (Aug 1, 2015)
+    • Improved stability
+    • Bug fixes
+Version 1.0.19 (Jul 11, 2015)
+    - Improved scrollbar visibility
+    - Various bug fixes
+Version 1.0.17 (Jun 25, 2015)
+
+Users may also like
+Select objects to compare
+Notes Writer: Note Taking PDF
+MarginNote 3
+Nebo: Note Taking & Notebook
+Zotero
+Noteful: Note-Taking on PDF
+MindNode - Mind Map & Outline
+QuickNotes X: Notes, AI & PDF
+Highlights: PDF Reader & Notes
+CollaNote: Handwritting & PDF
+Obsidian - Connected Notes
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    5.10.9
+    Current release
+    Feb 29, 2024
+    5.10.8
+    Feb 7, 2024
+    5.10.7
+    Jan 28, 2024
+    5.10.6
+    Jan 11, 2024
+    5.10.5
+    Dec 28, 2023
+    5.10.3
+    Dec 4, 2023
+    5.10.0
+    Nov 16, 2023
+    5.9.0
+    Oct 18, 2023
+    5.8.11
+    Sep 5, 2023
+    5.8.10
+    Aug 29, 2023
+    5.8.8
+    Aug 18, 2023
+    5.8.7
+    Aug 14, 2023
+    5.8.6
+    Aug 2, 2023
+    5.8.5
+    Jul 27, 2023
+    5.8.4
+    Jul 5, 2023
+    5.8.3
+    Jul 1, 2023
+    5.8.2
+    Jun 11, 2023
+    5.8.1
+    May 17, 2023
+    5.7.6
+    May 4, 2023
+    5.7.5
+    Apr 17, 2023
+    5.7.4
+    Apr 5, 2023
+    5.7.3
+    Mar 20, 2023
+    5.7.2
+    Mar 10, 2023
+    5.7.1
+    Mar 8, 2023
+    5.5.15
+    Feb 23, 2023
+    5.5.14
+    Feb 13, 2023
+    5.5.13
+    Jan 27, 2023
+    5.5.12
+    Jan 18, 2023
+    5.5.11
+    Jan 10, 2023
+    5.5.10
+    Jan 4, 2023
+    5.5.10
+    Jan 4, 2023
+    5.5.9
+    Dec 13, 2022
+    5.5.8
+    Nov 21, 2022
+    5.5.7
+    Nov 1, 2022
+    5.5.6
+    Oct 22, 2022
+    5.5.5
+    Oct 19, 2022
+    5.5.4
+    Oct 12, 2022
+    5.5.3
+    Oct 1, 2022
+    5.5.2
+    Sep 25, 2022
+    5.5.1
+    Sep 16, 2022
+    5.5.0
+    Sep 15, 2022
+    5.4.9
+    Jun 30, 2022
+    5.4.8
+    Jun 24, 2022
+    5.4.7
+    May 25, 2022
+    5.4.6
+    May 19, 2022
+    5.4.5
+    May 4, 2022
+    5.4.4
+    Apr 5, 2022
+    5.4.3
+    Mar 24, 2022
+    5.4.2
+    Mar 18, 2022
+    5.4.1
+    Mar 10, 2022
+    5.4.0
+    Mar 4, 2022
+    5.3.1
+    Jan 11, 2022
+    5.3.0
+    Jan 6, 2022
+    5.2.0
+    Dec 6, 2021
+    5.1.5
+    Nov 23, 2021
+    5.1.3
+    Nov 2, 2021
+    5.1.2
+    Oct 29, 2021
+    5.1.1
+    Oct 22, 2021
+    5.0.12
+    Oct 13, 2021
+    5.0.11
+    Oct 8, 2021
+    5.0.9
+    Sep 29, 2021
+    5.0.8
+    Sep 11, 2021
+    5.0.6
+    Sep 7, 2021
+    5.0.4
+    Sep 3, 2021
+    5.0.3
+    Aug 31, 2021
+    5.0.1
+    Aug 28, 2021
+    5.0
+    Aug 26, 2021
+    4.1.3
+    Apr 30, 2021
+    4.1.2
+    Apr 1, 2021
+    4.0.10
+    Dec 17, 2020
+    4.0.9
+    Dec 13, 2020
+    4.0.8
+    Dec 2, 2020
+    4.0.7
+    Nov 6, 2020
+    4.0.6
+    Sep 26, 2020
+    4.0.5
+    Aug 20, 2020
+    4.0.4
+    Jul 2, 2020
+    4.0.3
+    Jun 23, 2020
+    4.0.2
+    Jun 1, 2020
+    4.0.1
+    May 22, 2020
+    4.0
+    May 21, 2020
+    3.9.13
+    Nov 5, 2019
+    3.9.12
+    Oct 6, 2019
+    3.9.11
+    Oct 4, 2019
+    3.9.10
+    Aug 1, 2019
+    3.9.9
+    Jul 18, 2019
+    3.9.8
+    Jul 5, 2019
+    3.9.7
+    Jul 4, 2019
+    3.9.6
+    Jul 3, 2019
+    3.9.5
+    Jun 5, 2019
+    3.9.4
+    Mar 24, 2019
+    3.9.2
+    Mar 2, 2019
+    3.9.1
+    Feb 6, 2019
+    3.9
+    Feb 3, 2019
+    3.8.4
+    Jan 3, 2019
+    3.8.3
+    Dec 9, 2018
+    3.8.2
+    Dec 5, 2018
+    3.8.1
+    Nov 9, 2018
+    3.8
+    Nov 8, 2018
+    3.7.2
+    Oct 19, 2018
+    3.7.1
+    Sep 29, 2018
+    3.7
+    Sep 27, 2018
+    3.5.18
+    Sep 6, 2018
+    3.5.17
+    Aug 10, 2018
+    3.5.16
+    Aug 9, 2018
+    3.5.15
+    Jul 7, 2018
+    3.5.14
+    Jun 22, 2018
+    3.5.13
+    Apr 13, 2018
+    3.5.12
+    Apr 5, 2018
+    3.5.11
+    Mar 16, 2018
+    3.5.10
+    Feb 16, 2018
+    3.5.9
+    Jan 26, 2018
+    3.5.8
+    Dec 1, 2017
+    3.5.7
+    Nov 29, 2017
+    3.5.6
+    Nov 22, 2017
+    3.5.5
+    Nov 10, 2017
+    3.5.4
+    Nov 3, 2017
+    3.5.3
+    Oct 13, 2017
+    3.5.2
+    Oct 6, 2017
+    3.5.1
+    Sep 30, 2017
+    3.5
+    Sep 20, 2017
+    3.0.12
+    Aug 4, 2017
+    3.0.11
+    Jul 25, 2017
+    3.0.10
+    Jul 1, 2017
+    3.0.9
+    Jun 30, 2017
+    3.0.8
+    Jun 1, 2017
+    3.0.7
+    Apr 22, 2017
+    3.0.6
+    Apr 18, 2017
+    3.0.5
+    Apr 16, 2017
+    3.0.4
+    Apr 5, 2017
+    3.0.3
+    Mar 24, 2017
+    3.0.2
+    Mar 17, 2017
+    2.1.6
+    Feb 27, 2017
+    2.1.5
+    Oct 31, 2016
+    2.1.4
+    Oct 15, 2016
+    2.1.3
+    Oct 14, 2016
+    2.1.1
+    Sep 27, 2016
+    2.1.0
+    Sep 23, 2016
+    2.0.6
+    Aug 10, 2016
+    2.0.5
+    Jul 28, 2016
+    2.0.4
+    Jul 13, 2016
+    2.0.3
+    Jun 13, 2016
+    2.0
+    Jun 6, 2016
+    1.6.0
+    Mar 24, 2016
+    1.5.9
+    Jan 13, 2016
+    1.5.8
+    Jan 10, 2016
+    1.5.5
+    Nov 19, 2015
+    1.5.2
+    Nov 5, 2015
+    1.1.6
+    Oct 2, 2015
+    1.1.5
+    Oct 1, 2015
+    1.1
+    Sep 3, 2015
+    3.0.1
+    Sep 3, 2015
+    1.0.20
+    Aug 1, 2015
+    1.0.19
+    Jul 11, 2015
+    1.0.17
+    Jun 25, 2015
+
+See More
+Top In-App Purchases
+
+    LiquidText Pro
+    $29.99
+    LT Pro - For Students
+    $19.99
+    LiquidText Live, Yearly
+    $95.99
+    LiquidText Live, Monthly, Stu
+    $4.99
+    LiquidText Live, Monthly
+    $9.99
+    LiquidText Live, Yearly, Stu
+    $47.99
+    LiquidText Live, Yearly, Upg
+    $95.99
+    LiquidText Live, Monthly, Upg
+    $9.99
+    LiquidText Unlimited, Yr
+    $174.99
+    LiquidText Unlimited, Yr, Stu
+    $17.99
+
+About
+
+Required Devices
+    Mac, iPad
+
+Category
+    Productivity
+
+Initial Release Date
+    Jun 23, 2015
+
+Worldwide Release Date
+    Sep 3, 2015
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    5.10.9
+
+Size
+    299.25 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    LiquidText, Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPad.
+
+Bundle ID
+    --.LiquidText-PDF
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 922765270
+Unified App ID: 1000600000520218
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+LiquidText | data.ai

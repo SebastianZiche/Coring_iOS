@@ -1,0 +1,614 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Text Scan : Image to Text OCR
+MOJALI LLCProductivity (Applications)Free
+Alerts
+
+    Text Scan : Image to Text OCR
+    Text Scan : Image to Text OCR
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Text Scan : Image to Text OCR
+Extract text and translate
+Productivity (Applications)
+Free
+App Description
+Text Scanner (OCR) is the most accurate text scanner app for iOS. It can extract text from image, photo, and PDF with 99%+ accuracy in 92 languages. You can also use it to translate text into over 100 languages or copy text from your screen by sharing a screenshot.
+
+Features:
+
+* Extract text from image in the gallery or captured using the camera
+* Translate text into over 100 languages
+* Copy text from any screen, website, or app by sharing screenshot.
+* Multiple column selection on text of image
+* PDF Import to extract text from pdf file
+* Handwriting to text convertion
+* Extract text on image and read it aloud with text to speech
+* Recognize text then edit, copy, share and translate.
+* Crop images before OCR
+* Save scan history
+* Organize scans in folders
+* Sort scans by date
+* Search for words in saved scans
+* Share extensions to share images to extract text
+* Backup and restore scans
+
+Get Text Scanner today and start scanning text from images with ease!
+
+If you encounter any bugs, issues, or have any feature requests, please don't hesitate to contact us via email.
+
+Subscription Plans
+Unlimited Scans Monthly
+-------------------------
+Unlimited scans
+No ads upto 50 scans per day.
+for one month period.
+monthly 7.99 $
+
+Unlimited Scans Yearly
+----------------------
+Unlimited scans
+No ads upto 50 scans per day.
+for one year period.
+yearly 60.99 $.
+
+
+-----------------
+Payment will be charged to iTunes Account at confirmation of purchase.
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+Account will be charged for renewal as per existing plan rate within 24-hours prior to the end of the current period.
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+-----------------
+
+Privacy Policy: https://gvrapps.com/ios/textscanner/privacypolicy
+Terms of Service: https://gvrapps.com/ios/textscanner/termsofuse
+Ratings
+Displayed Avg Ratings
+4.63
+Total Displayed Ratings
+35.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.7.9 (Aug 26, 2023)
+    1. Handwritten Text Recognition.
+    2. Bug fixes and performance improvements
+Version 1.7.8 (Aug 23, 2023)
+    1. Import PDF and extract text from one page for free.
+    2. Bug fixes and improvements.
+Version 1.7.6 (Jul 18, 2023)
+    1. Camera selection option: Choose between app camera or device camera for capturing images.
+    2. Improved user experience: Enhancements based on user feedback for a smoother experience.
+    3. Bug fixes and performance improvements: Resolved known issues and optimized app performance.
+Version 1.7.5 (Jul 13, 2023)
+    Bug fixes and stability improvement.
+Version 1.7.4 (Jul 10, 2023)
+    1. UX and UI changes and Bug fixes.
+    2. Performance Improvement.
+Version 1.7.3 (Mar 30, 2023)
+    1. Import PDF to extract text on that ocr improved.
+    2. Several bug fixes and performance improvement.
+Version 1.7.2 (Feb 5, 2023)
+    Bug fixes and Performance improvement.
+Version 1.7.1 (Jan 20, 2023)
+    1. Option to move out scans from folder implemented.
+    2. Bug fixes and UI changes.
+Version 1.7.0 (Jan 5, 2023)
+    1. Sceenshot share made work.
+    2. Search on extracted text improved.
+    3. iPad device UI optimized.
+    4. Bug fixes and Performance improvement.
+Version 1.6.9 (Dec 21, 2022)
+    1. Export extracted text as .txt file option.
+    2. Several bug fixes and Performance improvement.
+Version 1.6.9 (Dec 21, 2022)
+    1. Export extracted text as .txt file option.
+    2. Several bug fixes and Performance improvement.
+Version 1.6.8 (Dec 2, 2022)
+    1. UX and UI changes , stability improvement.
+    2. Several bug fixes and Performance improvement.
+Version 1.6.7 (Oct 26, 2022)
+    1. Tibetan language OCR made work.
+    2. iPad devices issue on share fixed.
+    3. Several Bug Fixes and Performance Improvement.
+Version 1.6.6 (Oct 19, 2022)
+    1. UX and UI Changes and Bug Fixes.
+    2. Performance Improvement.
+Version 1.6.5 (Oct 9, 2022)
+    1. PDF Import option to scan text on pdf file.
+    2. Batch scan using both camera and Gallery implemented.
+    3. Font size change option for extracted text.
+    4. Dark theme improved.
+    5. Selecting multiple scans improved.
+    6. UX and UI Changes and Bug Fixes.
+    7. Performance Improvement.
+Version 1.6.4 (Sep 13, 2022)
+    1. Recent languages shown while select languages for extract text on Image.
+    2. Done button shown to close keyboard while editing Extracted text.
+    3. Next and Previous scan can able to navigate by left and right buttons.
+    4. UI Changes and Bug Fixes.
+    5. Performance Improvement.
+Version 1.6.3 (Aug 22, 2022)
+    1. Text extraction accuracy improved.
+    2. UI Changes and Stability Improvement.
+    3. Bug fixes and Performance improvement.
+Version 1.6.2 (Aug 9, 2022)
+    1. Stability improvement.
+    2. Bug fixes and performance improvement.
+Version 1.6.1 (Jul 21, 2022)
+    Major new release includes performance improvements, bug fixes and new features.
+    1. Image and Extracted Text shown with resizable split view.
+    2. Light and Dark theme option.
+    3. Select text on image improved.
+    4. Restore scans also restore creation date of that scans.
+    5. Change next and previous scans by swipe gesture.
+    6. Translate text improved.
+    7. UX and UI changes and Stability improvement.
+    8. Bug fixes and performance improvement.
+Version 1.6.0 (Sep 19, 2021)
+    1.Batch text extraction on multiple images.
+    2. Stability Improvement.
+    3. Bug fixes and Performance improvement.
+Version 1.5.9 (Apr 2, 2021)
+    1. Text Extraction Accuracy improved.
+    2. Provided option to Backup and Restore scans.
+    3. Select All Scans by single click to share or delete.
+Version 1.5.8 (Nov 30, 2020)
+    1. Gave support for dark mode.
+    2. Bug fixes and Performance improvement.
+Version 1.5.7 (Nov 9, 2020)
+    Bug fixes and Performance improvement.
+Version 1.5.6 (Oct 22, 2020)
+    1. Option to crop image before select text on that.
+    2. UI Changes and Bug fixes.
+    3. Performance improvement.
+Version 1.5.5 (Aug 27, 2020)
+    Bug fixes.
+Version 1.5.4 (Aug 25, 2020)
+    Bug fixes and Performance improvement.
+Version 1.5.3 (Aug 23, 2020)
+    Bug fixes and Performance improvement.
+Version 1.5.2 (Aug 21, 2020)
+    1. Multiple column selection option.
+    2. Support for latest iOS version.
+    3. Bug fixes and Performance improvement.
+Version 1.5.1 (Feb 23, 2020)
+    1. Navigate previous and next scans by swiping.
+    2. Text recognition speed improved.
+Version 1.5.0 (Aug 21, 2019)
+    1. Document image text detection improved.
+    2. Gave support for more languages to detect text on image.
+Version 1.4.9 (Jun 1, 2019)
+    1. Bug fixes and stability improvement.
+Version 1.4.8 (May 31, 2019)
+    1. Bug fixes and stability improvement.
+Version 1.4.7 (May 30, 2019)
+    1. Option to sort scans by date descending or ascending order.
+    2. Bug fixes and app stability improvement.
+Version 1.4.6 (Mar 5, 2019)
+    Bug fixes and performance improvement.
+Version 1.4.5 (Feb 26, 2019)
+    ios sdk updated.
+Version 1.4.4 (Nov 28, 2018)
+    1. Create folder and save scans inside folder.
+    2. Bug fixes and UI Changes.
+Version 1.4.3 (Nov 11, 2018)
+    1. Help content added.
+    2. New app icon design.
+    3. UI Changes and bug fixes.
+Version 1.4.2 (Oct 4, 2018)
+    1. Security update and Bug fixes.
+Version 1.4.1 (Oct 3, 2018)
+    1. Offline OCR Process on English and other Latin based languages.
+    2. OCR Process speed improved.
+    3. Security update and Bug fixes.
+Version 1.4.0 (Sep 14, 2018)
+    1. Offline OCR Process on English and other Latin based languages.
+    2. OCR Process speed improved.
+    3. Security update and Bug fixes.
+Version 1.3.9 (Aug 24, 2018)
+    Security update and bug fixes.
+Version 1.3.8 (Aug 18, 2018)
+    Security update and bug fixes.
+Version 1.3.7 (Aug 15, 2018)
+    Security update and bug fixes.
+Version 1.3.6 (Jul 31, 2018)
+    1. Text Extraction on background improved.
+    2. UI changes and bug fixes.
+Version 1.3.5 (Jul 11, 2018)
+    1. Multi image scan - text extraction in background.
+    2. Bug fixes.
+Version 1.3.4 (Jul 3, 2018)
+    1. Translations in over 100 languages on extracted text.
+    2. Ui changes and bug fixes.
+Version 1.3.3 (Jun 27, 2018)
+    1. Bug Fixes.
+Version 1.3.2 (Jun 16, 2018)
+    1. Switching between image and extracted text simplified.
+    2. UI/UX Improvement.
+    3. Bug Fixes.
+Version 1.3.1 (Jun 3, 2018)
+    1. Bug fixes.
+Version 1.3.0 (Jun 2, 2018)
+    1. option to share or delete a scan by Swipe receipt item row in all scans page.
+    2. share image to extract text on that.
+    3. UX/UI Improvements.
+Version 1.2.9 (May 27, 2018)
+    1. View content overlaps issue in iphone-x devices - fixed.
+    2. Redefined new UI Design.
+    3. Minor bug fixes.
+Version 1.2.8 (May 21, 2018)
+    1. Minor bug fixes.
+Version 1.2.6 (Apr 26, 2018)
+    1. Text extraction speed and accuracy improved by optimising image size.
+    2. Minor bug fixes and UI Changes.
+Version 1.2.5 (Mar 11, 2018)
+    1. iphone-x support.
+    2. UI Changes - scan history page shown with material design.
+    3. Minor bug fixes - button overlap with advertizement in iphone-x fixed.
+Version 1.2.4 (Mar 5, 2018)
+    1. minor bug fixes and improvement.
+Version 1.2.3 (Mar 4, 2018)
+    1. Crop text area and select language of text combined into single screen.
+    2. UI Changes and minor bug fixes.
+Version 1.2.2 (Feb 27, 2018)
+    minor bug fixes and improvement.
+Version 1.2.1 (Jan 20, 2018)
+    1.minor bug fixes.
+Version 1.2.0 (Jan 7, 2018)
+    1. Text Recognition accuracy improved.
+    2. UI Changes and bug fixes.
+Version 1.1.8 (Nov 17, 2017)
+    Bug fixes.
+Version 1.1.7 (Nov 15, 2017)
+    Bug fixes.
+Version 1.1.6 (Nov 13, 2017)
+    1. Option to remove advertisement.
+    2. Bug fixes.
+Version 1.1.5 (Oct 30, 2017)
+    1. Search for words in saved scans.
+    2. Bug fixes.
+Version 1.1.4 (Oct 22, 2017)
+    1. Multi select scans to share, copy or delete.
+    2. Redefined new UI design.
+    3. Bug fixes.
+Version 1.1.3 (Oct 1, 2017)
+    1. Redefined, simplified UI.
+    2. Minor bug fixes.
+Version 1.1.2 (Sep 19, 2017)
+    1.iPad device support.
+    2.UI changes in scan history page.
+    3.Minor bug fixes.
+Version 1.1.1 (Sep 15, 2017)
+    1.Gave support for different screen size using auto layout.
+    2.iPad screen support.
+    3.Option to open and check ocr processed image in ocr result page.
+    4.Bug fixes.
+Version 1.1.0 (Sep 7, 2017)
+    1.Option to delete scans in recent scans history.
+    2.Instruction guide added.
+    3.Bug fixes and stability improvement.
+Version 1.0.4 (Jul 17, 2017)
+    App stability improved and ui changes.
+Version 1.0.3 (May 22, 2017)
+    - Recent scans history shown.
+    - Extracted text made editable even if it long.
+    - Performance improvement and bug fixes.
+Version 1.0.2 (Apr 24, 2017)
+    -Support for iOS 10 devices.
+    -Bug fixes and UI changes.
+Version 1.0.1 (Apr 19, 2017)
+    1. Extracted text made editable to do correction if any.
+    2. Performance improvement and bug fixes.
+Version 1.0 (Apr 11, 2017)
+
+Users may also like
+Select objects to compare
+Text Capture: Image to Text
+Handwriting to Text PenToPrint
+Text Scanner & Image to Text
+Text Summary: TLDR, Paraphrase
+Smallpdf: All-In-One PDF App
+Dictation - Speech to text
+PDF Scanner Pro for Document
+Microsoft Lens: PDF Scanner
+Rar Sharp
+PDF Converter - Word to PDF
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.7.9
+    Current release
+    Aug 26, 2023
+    1.7.8
+    Aug 23, 2023
+    1.7.6
+    Jul 18, 2023
+    1.7.5
+    Jul 13, 2023
+    1.7.4
+    Jul 10, 2023
+    1.7.3
+    Mar 30, 2023
+    1.7.2
+    Feb 5, 2023
+    1.7.1
+    Jan 20, 2023
+    1.7.0
+    Jan 5, 2023
+    1.6.9
+    Dec 21, 2022
+    1.6.9
+    Dec 21, 2022
+    1.6.8
+    Dec 2, 2022
+    1.6.7
+    Oct 26, 2022
+    1.6.6
+    Oct 19, 2022
+    1.6.5
+    Oct 9, 2022
+    1.6.4
+    Sep 13, 2022
+    1.6.3
+    Aug 22, 2022
+    1.6.2
+    Aug 9, 2022
+    1.6.1
+    Jul 21, 2022
+    1.6.0
+    Sep 19, 2021
+    1.5.9
+    Apr 2, 2021
+    1.5.8
+    Nov 30, 2020
+    1.5.7
+    Nov 9, 2020
+    1.5.6
+    Oct 22, 2020
+    1.5.5
+    Aug 27, 2020
+    1.5.4
+    Aug 25, 2020
+    1.5.3
+    Aug 23, 2020
+    1.5.2
+    Aug 21, 2020
+    1.5.1
+    Feb 23, 2020
+    1.5.0
+    Aug 21, 2019
+    1.4.9
+    Jun 1, 2019
+    1.4.8
+    May 31, 2019
+    1.4.7
+    May 30, 2019
+    1.4.6
+    Mar 5, 2019
+    1.4.5
+    Feb 26, 2019
+    1.4.4
+    Nov 28, 2018
+    1.4.3
+    Nov 11, 2018
+    1.4.2
+    Oct 4, 2018
+    1.4.1
+    Oct 3, 2018
+    1.4.0
+    Sep 14, 2018
+    1.3.9
+    Aug 24, 2018
+    1.3.8
+    Aug 18, 2018
+    1.3.7
+    Aug 15, 2018
+    1.3.6
+    Jul 31, 2018
+    1.3.5
+    Jul 11, 2018
+    1.3.4
+    Jul 3, 2018
+    1.3.3
+    Jun 27, 2018
+    1.3.2
+    Jun 16, 2018
+    1.3.1
+    Jun 3, 2018
+    1.3.0
+    Jun 2, 2018
+    1.2.9
+    May 27, 2018
+    1.2.8
+    May 21, 2018
+    1.2.6
+    Apr 26, 2018
+    1.2.5
+    Mar 11, 2018
+    1.2.4
+    Mar 5, 2018
+    1.2.3
+    Mar 4, 2018
+    1.2.2
+    Feb 27, 2018
+    1.2.1
+    Jan 20, 2018
+    1.2.0
+    Jan 7, 2018
+    1.1.8
+    Nov 17, 2017
+    1.1.7
+    Nov 15, 2017
+    1.1.6
+    Nov 13, 2017
+    1.1.5
+    Oct 30, 2017
+    1.1.4
+    Oct 22, 2017
+    1.1.3
+    Oct 1, 2017
+    1.1.2
+    Sep 19, 2017
+    1.1.1
+    Sep 15, 2017
+    1.1.0
+    Sep 7, 2017
+    1.0.4
+    Jul 17, 2017
+    1.0.3
+    May 22, 2017
+    1.0.2
+    Apr 24, 2017
+    1.0.1
+    Apr 19, 2017
+    1.0
+    Apr 11, 2017
+
+See More
+Top In-App Purchases
+
+    Unlimited Scans Monthly
+    $7.99
+    Unlimited Scans Yearly
+    $60.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Apr 11, 2017
+
+Worldwide Release Date
+    Apr 11, 2017
+
+Last Updated Time
+    Mar 3, 2024
+
+Version
+    1.7.9
+
+Size
+    67.15 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Govarthani Rajesh
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 10.0 or later. Compatible with iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi-Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi‑Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi-Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi-Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, and iPod touch.
+
+Bundle ID
+    rishi.ocr.image.to.text.recognition
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1225032527
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Text Scan : Image to Text OCR | data.ai

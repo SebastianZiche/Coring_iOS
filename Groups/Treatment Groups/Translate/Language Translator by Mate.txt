@@ -1,0 +1,676 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Language Translator by Mate
+Twopeople SoftwareReference (Applications)Free
+Alerts
+
+    Language Translator by Mate
+    Language Translator by Mate
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Language Translator by Mate
+Translate in Safari & apps.
+Reference (Applications)
+Free
+App Description
+Mate is an incredibly powerful translator app which is deeply integrated with iOS. It lets you easily translate words, texts and speech anywhere on your iPhone or iPad. It works both online and offline, as well as available in dark and light mode. Mate will have your back with 103 languages.
+
+Mate is equally helpful if you're mastering a new language, want to take down a language barrier when going abroad, or just occasionally need to translate a web page, email, message, etc.
+
+Full list of supported languages:
+https://www.matetranslate.com/languages
+
+Mate has some simple yet powerful iOS extensions which will save you a lot of time:
+
+- Safari Extension. Browse the web without even noticing that there are foreign languages. Mate will translate websites before you even see them.
+
+- Share Extension. Translate in Mail, Notes, PDFs by highlighting text, choosing Share and then Mate from Share Menu.
+
+- iMessage App. Write messages in your language, Mate will translate them on the fly and send in the recipient's language. Or vice versa.
+
+- Widget. Translate clipboard contents by long-pressing Mate's icon on home screen or from the Search screen.
+
+We also supercharged Mate with some features language enthusiasts will totally love:
+
+- Genders for nouns. Supports French, German, Spanish, Italian, Portuguese, Swedish, and Dutch.
+
+- Phonetic transcription and transliteration for both original and translation.
+
+- Speak out.
+
+- Phrasebook. It's an easy way to store vocabulary you want to learn. You can save words to Phrasebook directly or shuffle your existing translations to it.
+
+If you're always on the go, we have something for you, too:
+
+- Speech Translator.
+
+- Mate Account. Mate has a powerful Mac app and extensions for all major browsers. Using Mate Account you can keep translation history and Phrasebook synchronized on all devices.
+
+Mate is available for all of your devices:
+https://matetranslate.com/download
+
+We post frequent updates on Twitter:
+https://twitter.com/MateTranslate
+Ratings
+Displayed Avg Ratings
+4.62
+Total Displayed Ratings
+5.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 7.2.0 (Dec 9, 2022)
+    - Fixed a bug that caused Mate to display improperly
+Version 7.1.1 (Feb 11, 2022)
+    - We fixed a translation issue
+Version 7.1.0 (Feb 9, 2022)
+    - Educational discounts are now available in the iOS app as well! Get Mate for half the price if you're a student, or work in an educational institution.
+
+    - We fixed some layout problems on smaller iPhones, as well as bugs.
+
+    - Mate is now fully translated to Arabic.
+Version 7.0.1 (Jan 13, 2022)
+    Mate is now subscription-based. This is a step on a path to a unified Mate ecosystem that allows you to use Mate anywhere, no matter how you bought it.
+
+    Existing users will retail their access to Mate forever, you will just have to create a Mate account. Open the app to learn more.
+
+    If you encounter any issues, please contact us at support@matetranslate.com
+Version 7.0.0 (Dec 27, 2021)
+    Mate is now subscription-based. This is a step on a path to a unified Mate ecosystem that allows you to use Mate anywhere, no matter how you bought it.
+
+    Existing users will retail their access to Mate forever, you will just have to create a Mate account. Open the app to learn more.
+
+    If you encounter any issues, please contact us at support@matetranslate.com
+Version 6.0.3 (Nov 5, 2021)
+    iMessage extension works again!
+Version 6.0.2 (Oct 29, 2021)
+    iMessage extension works again!
+Version 6.0.1 (Sep 24, 2021)
+    v6.0.1: Share Extension works again!
+
+    Mate v6 introduces best-in-class Safari extension.
+
+    Fully-automatic website translation for 40 languages. Not a single tap required. Browse the web as if there was only one language – your mother tongue.
+
+    Best-in-class translation quality.
+
+    Select text and get it translated in a little pop-up window that doesn't break your workflow.
+
+    How to enable Mate's Safari extension? Tap on aA in Safari's address bar, then Extensions, enable Mate, and give permissions.
+
+    Tell us what you think on Twitter: @MateTranslate
+
+    Sincerely,
+    Team Gikken
+Version 6.0.0 (Sep 20, 2021)
+    Mate v6 introduces best-in-class Safari extension.
+
+    Fully-automatic website translation for 40 languages. Not a single tap required. Browse the web as if there was only one language – your mother tongue.
+
+    Best-in-class translation quality.
+
+    Select text and get it translated in a little pop-up window that doesn't break your workflow.
+
+    How to enable Mate's Safari extension? Tap on aA in Safari's address bar, then Extensions, enable Mate, and give permissions.
+
+    Tell us what you think on Twitter: @MateTranslate
+
+    Sincerely,
+    Team Gikken
+Version 5.2.2 (Aug 2, 2021)
+    Removed Reji references from the app
+Version 5.2.1 (Oct 6, 2020)
+    We built this version of Mate with the latest toolset available and made sure everything works perfectly on the new iOS 14.
+Version 5.2.0 (Jul 22, 2020)
+    We improved App Store screenshots for Portuguese (Brazil). 
+Version 5.1.1 (Feb 25, 2020)
+    We managed to track down and squash all speech translator bugs now. Tapping that microphone button shouldn't crash the app anymore.
+
+    Visit our Help Center for FAQ and tutorials: https://help.gikken.co/hc/
+    Follow us on Twitter for updates: https://twitter.com/MateTranslate
+Version 5.1.0 (Jan 29, 2020)
+    Important! You should've already received an email from us which said that we're removing third-party login methods – Facebook and Google. Our decision is privacy and Mate's stability driven. Read more here: https://blog.gikken.co/were-removing-third-party-login-methods-from-mate/
+
+    Help Center. We've created a help center where you can find answers to most questions, tutorials, etc. Check it out here: https://help.gikken.co/hc/
+
+    Improved:
+    - Full-page translation in Safari. We rewrote the website translation script. It should be faster, friendlier, and more stable now. Previously, it failed to work on some sites (e.g. Medium.com), now it works perfectly on every site.
+
+    Fixed:
+    - Hebrew full page translation works well again in Safari.
+    - Issue with AirPods and other earphones was solved. Mate was speaking out via iPhone's loudspeaker even though the earphones were connected. Now it goes via earphones as intended.
+    - iOS keyboard autocompletion is back in the main app.
+    - Correct transliteration for Traditional Chinese.
+    - A couple of light - dark mode bugs were squashed.
+    - Copy button didn't work in the Safari extension, now it does.
+    - Safari extension's bar could look ugly on some sites due to CSS confilcts, now it's better.
+    - Speak-out for the original language didn't work in the Safari extension. We fixed it.
+    - A nasty sync bug was fixed. Previously, when you signed out, then erased your History and/or Phrasebook, and then sign in again, it would erase it on the server, as well. Now, it won't. All actions that you do when you're signed out stay on your device.
+Version 5.0.0 (Dec 4, 2019)
+    It's the biggest update we've ever shipped for Mate's iOS app! Without kidding, it's even larger than the initial Mate release. It's packed with 5 totally new features and a few dozens of smaller improvements.
+
+    Offline Mode
+
+    Yes, you're reading it correctly! From now on, Mate can translate offline, too. Just download offline packs for languages you need from the language picker and you're good to go. Packs are reasonably-sized — each of them is just around 50 MB. Please note offline translation come without synonyms and phonetic transcription, though.
+
+    Safari Extension
+
+    We added yet another way to translate seamlessly within iOS — now in Safari. With our brand new action extension you can translate words, sentences and even full pages without leaving Safari. Turn on Mate Extension from the share menu in Safari's toolbar.
+
+    Dark Mode
+
+    It's better late than never, right? Mate offers both light and dark modes now.
+
+    Smart Swap
+
+    Mate will always try to understand the input language itself even if you forget to set it correctly.
+
+    More Data About Words
+
+    Now Mate shows phonetic transcription for the original, too. We also added support for genders for languages like French, German, Spanish, Italian, etc.
+
+    All-New Speech Translator
+
+    Mate's Speak & Translate feature was redesigned from the ground up. It's not a separate screen anymore. You can start talking to Mate by simply tapping on the microphone icon in the input field. Pretty much the same way as audio message in WhatsApp or Telegram work. The words will appear in the field on the fly.
+
+    Updated Home Screen Quick Actions
+
+    Long tap on Mate's icon on home screen to access our revamped quick actions. You can start speech or clipboard translation from there.
+
+    Better Look on iPad
+
+    We owe an apology to iPad users that Mate was a downright iPad-hostile app up until this moment. We optimized every screen and extension to look and feel natively on iPad.
+
+    Speed and Stability Improvements
+
+    Phonetic transcription should never fail to load, translation speed became considerably faster.
+
+    Enhanced Copy Options
+
+    You can copy phonetic transcription (or transliteration) too now. Just long tap on it.
+
+    Bugs Fixed and Smaller Improvements
+
+    - Mate won't interrupt your music playback when using the speak-out feature anymore.
+    - We polished Mate's look on iPhone X, XR, Xs (Max), and 11.
+    - We made the main screen cleaner and more solid.
+    - We localized Mate into a bunch of new languages. We also polished old localizations. All in-app copy should've become more clear and concise.
+
+    Mate is also available for Mac and as a browser extension for all major browsers:
+    http://matetranslate.com/download
+
+    Follow us on Twitter for updates:
+    twitter.com/MateTranslate
+
+    Send feedback at support@matetranslate.com.
+Version 4.2.4 (Sep 11, 2019)
+    We localized Mate to Chinese.
+    The speak-out feature did not work for Hebrew, now it does.
+    Mate was becoming stuck on iPad when translating via the share menu, now it works like it should.
+
+    Follow us on social media:
+
+    @MateTranslate
+
+    With feedback or ideas, ping us at support@matetranslate.com
+Version 4.2.3 (May 28, 2019)
+    – Fixed multiple issues with translating very long texts
+Version 4.2.2 (Mar 2, 2019)
+    We fixed a crash on startup that affected some of the users.
+Version 4.2.1 (Feb 26, 2019)
+    Minor bug fixes.
+Version 4.2.0 (Feb 21, 2019)
+    Minor bug fixes.
+Version 4.1.9 (Jan 16, 2019)
+    A couple of quick bug fixes.
+Version 4.1.8 (Jan 8, 2019)
+    We just updated the screenshots in the App Store this time :)
+Version 4.1.7 (Jan 2, 2019)
+    We've returned a correct flag for Chinese (Traditional). Sorry for the mistake.
+Version 4.1.6 (Dec 22, 2018)
+    We've returned Taiwanese flag for Chinese (Traditional). Sorry for the mistake.
+Version 4.1.5 (Dec 15, 2018)
+    Update Chinese (Traditional) flag.
+Version 4.1.4 (Dec 4, 2018)
+    Fixed a Pharasebook bug
+Version 4.1.3 (Nov 27, 2018)
+    Bug fixes.
+Version 4.1.2 (Aug 23, 2018)
+    Bug fixes & performance improvements.
+Version 4.1.0 (Aug 17, 2018)
+    Bug fixes & performance improvements.
+Version 4.0.15 (Aug 15, 2018)
+    Bug fixes & stability improvements.
+Version 4.0.14 (Aug 3, 2018)
+    Bug fixes.
+Version 4.0.13 (Jun 13, 2018)
+    Bug fixes.
+Version 4.0.12 (Jun 9, 2018)
+    Here they are: summer bug fixes.
+Version 4.0.11 (May 23, 2018)
+    Sign-in via Google and Facebook are working properly again.
+Version 4.0.10 (Apr 29, 2018)
+    Mate became GDPR compatible even before the policy came into force!
+Version 4.0.9 (Mar 17, 2018)
+    Bug fixes.
+Version 4.0.8 (Mar 9, 2018)
+    Bug fixes.
+Version 4.0.7 (Feb 19, 2018)
+    Bug fixes.
+Version 4.0.6 (Feb 7, 2018)
+    Bug fixes.
+Version 4.0.5 (Jan 22, 2018)
+    We significantly improved translation speed. Mate should have become the fastest translation app now! We also fixed a few bugs.
+
+    If you like Mate, would be cool if you would review it on the App Store. If you have any concerns, hit us up at support@matetranslate.com
+Version 4.0.4 (Dec 31, 2017)
+    While a lot of you were celebrating Christmas, we were fixing bugs:
+    – Fixed a bug that lead to wordlists disappearing
+    – Fixed a bug with reappearing items in history
+    – Fixed a bug that caused a crash on the plus icon tap on iPad
+
+    Spend a minute writing a review if you like Mate, it won't take long and we would really appreciate it!
+    If you have any questions, contact us at support@matetranslate.com.
+Version 4.0.3 (Dec 20, 2017)
+    We've decided to reduce our Mate Pro price by 30% for the Christmas time! Don't miss your chance to get Mate Pro. Sale ends on Dec 27.
+
+    You will definitely find Mate useful in the upcoming year regardless if you are planning to go abroad (Mate speech translator won't let you be lost in translation) or start learning a new language (Mate Phrasebook will help you learning new words in a quick way).
+
+    Also, we are now giving Mate Pro to all iOS users for free if you've been already using Mate for Mac. If you are, just sign in to the Mate account on your Mac and then to the same account on your iPhone/iPad, it will automatically activate Pro on your iOS device.
+
+    And also we fixed a few minor bugs.
+
+    If you liked these updates, we would be happy to see your review on the App Store!
+
+    Mate team wishes you merry Christmas!
+Version 4.0.2 (Dec 11, 2017)
+    – Fixed a bug that led to a crash on 32-bit devices
+    – Fixed a bug with blank screen when history is disabled
+Version 4.0.1 (Dec 6, 2017)
+    We’ve got a massive Instant Translate update here! Now, it’s called Mate. And it’s literally going to become your mate who always has your back with translations, believe us. We made a significant redesign of the app which resulted in vastly improved readability, contrast, and the UX. Every single user-interface element became more perceptible, readable and understandable.
+
+    Of course, we also added some amazing features you’ve been asking for. The major one is the synchronization of all your translation history and Phrasebook. Mate now synchronizes all your translations so that you can reference them wherever you want. You can install Mate on a variety of devices and Mate will synchronize between all of them.
+
+    Sign up to stay synchronized and up to date with all our future updates!
+
+    We also ditched lots of nasty bugs that some of you were reporting about. We’re always trying to improve the app to deliver you the best translation experience ever.
+
+    Thanks for staying tuned!
+
+    We would be happy about your review on the App Store if you had a free minute. Keep our translation engine running with your reviews!
+Version 4.0.0 (Dec 3, 2017)
+    We’ve got a massive Instant Translate update here! Now, it’s called Mate. And it’s literally going to become your mate who always has your back with translations, believe us. We made a significant redesign of the app which resulted in vastly improved readability, contrast, and the UX. Every single user-interface element became more perceptible, readable and understandable.
+
+    Of course, we also added some amazing features you’ve been asking for. The major one is the synchronization of all your translation history and Phrasebook. Mate now synchronizes all your translations so that you can reference them wherever you want. You can install Mate on a variety of devices and Mate will synchronize between all of them.
+
+    Sign up to stay synchronized and up to date with all our future updates!
+
+    We also ditched lots of nasty bugs that some of you were reporting about. We’re always trying to improve the app to deliver you the best translation experience ever.
+
+    Thanks for staying tuned!
+
+    We would be happy about your review on the App Store if you had a free minute. Keep our translation engine running with your reviews!
+Version 3.3.0 (Aug 2, 2017)
+    - Correct support email in settings
+    - Phonetic transcription test feature
+Version 3.2.2 (Jun 16, 2017)
+    Bug fixes and performance improvements.
+
+    Love the app? Rate us! Your feedback stimulates us to make the app even better. Have problems? You can reach us out at contact@insttranslate.com.
+Version 3.2.1 (Jun 6, 2017)
+    - Language swap bug fixed in iMessage extension
+    - Stability improvements
+Version 3.2.0 (May 24, 2017)
+    NEW: SELECT AND TRANSLATE ANYWHERE!
+    From now on, you can select text in any other app, click on "Share..." and get an instant translation right on that screen. You don't need to leave the app you were in anymore to translate something!
+
+    Also we included quick copy translation buttons and fixed a few insignificant bugs in this release.
+
+    If you like Instant Translate, we would be happy to see a review from you in the App Store.
+Version 3.1.1 (Mar 27, 2017)
+    Updated speech-to-text engine issues on some devices fixed.
+
+    If you like Instant Translate, we would be happy to get a review from you in the App Store. It won't take more than a minute.
+Version 3.1.0 (Mar 23, 2017)
+    - Faster "Speak and translate" engine
+    - Minor UI updates
+    - Bug fixes
+Version 3.0.1 (Feb 15, 2017)
+    - stability improvements
+
+    If you like Instant Translate, please rate us on the App Store 
+Version 3.0 (Jan 20, 2017)
+    Phrasebook:
+    Save words and phrases offline in wordlists for an upcoming journey or for a foreign-language class.
+
+    Welcome Screen:
+    A short overview of the main features of the app.
+
+    If you don't like something, write us at contact@insttranslate.com. If you like the app, we will be glad to see your review on the App Store.
+Version 2.1 (Nov 16, 2016)
+    Meet a top-notch app for Apple Watch in this update! Now, you will be able to translate into 103 languages right on your wrist. Travel, work and communicate anywhere with Instant Translate!
+
+    If you don't like something, write us at contact@insttranslate.com. If you like the app, we will be glad to see your review on the App Store.
+Version 2.0 (Sep 24, 2016)
+    This update is a real remarkable milestone for us and for you, our users. We don't lag behind Apple's innovation, so we are introducing the Instant Translate iMessage App and the Instant Translate Lock Screen Widget.
+
+    iMessage App:
+    - 100+ languages right in the iMessage
+    - write a message in your mother tongue, Instant Translate will translate it and send to your friend
+
+    Lock Screen Widget:
+    - 100+ languages supported
+    - translate the clipboard contents right on the lock screen
+    - 6 shortcuts of recently used languages
+    - copy the result in one tap
+    - view the full result in the app
+
+    Apart the support of the iOS 10's new functions, we also severely improved the main app:
+    - autocorrection: don't let misspellings mislead you!
+    - speech recognition (STT) in over 40 languages
+    - 3D Touch on the icon: translate the clipboard contents or start dictating right from the desktop
+    - app localization into French, Spanish, Italian, Portuguese and Korean
+    - bug fixes and performance improvements
+
+    We hope it will be a pleasure for you to use Instant Translate 2.0. Therefore, we will be glad to see your review on the App Store if you find a minute.
+Version 1.1 (May 26, 2016)
+    - no ads
+    - 13 new languages supported
+    - ability to translate on return press
+    - ability to keep the bottom bar not hidden
+    - bug fixes
+
+    If you like Instant Translate, we would be grateful to receive a positive review from you on the App Store! Otherwise, you can anytime write us at insttranslate@gmail.com or to @insttranslate on Twitter to explain what you doesn't like in the app.
+
+    By the way, don't forget that Instant Translate apps are available for a wide range of devices (OS X, Chrome and so on)! More on http://insttranslate.com
+Version 1.0.2 (Apr 14, 2016)
+    * Bug fixes
+
+    If you like Instant Translate, would mind to spend a minute to rate us on the App Store? Good ratings and reviews cheer us up to work hardly on further updates!
+Version 1.0 (Mar 3, 2016)
+
+Users may also like
+Select objects to compare
+LookUp Dictionary: Learn Daily
+iTranslate Voice
+Longman Dictionary of English
+TransKey - Chat Translator App
+DeepL Translate
+Encode: Learn to Code
+Lingvist: Learn Languages Fast
+Yandex Translate
+Wikipedia
+Programming Hub: Learn Coding
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+3 times
+on App Store homepage
+360 times
+on App Store category pages
+Versions
+
+    7.2.0
+    Current release
+    Dec 9, 2022
+    7.1.1
+    Feb 11, 2022
+    7.1.0
+    Feb 9, 2022
+    7.0.1
+    Jan 13, 2022
+    7.0.0
+    Dec 27, 2021
+    6.0.3
+    Nov 5, 2021
+    6.0.2
+    Oct 29, 2021
+    6.0.1
+    Sep 24, 2021
+    6.0.0
+    Sep 20, 2021
+    5.2.2
+    Aug 2, 2021
+    5.2.1
+    Oct 6, 2020
+    5.2.0
+    Jul 22, 2020
+    5.1.1
+    Feb 25, 2020
+    5.1.0
+    Jan 29, 2020
+    5.0.0
+    Dec 4, 2019
+    4.2.4
+    Sep 11, 2019
+    4.2.3
+    May 28, 2019
+    4.2.2
+    Mar 2, 2019
+    4.2.1
+    Feb 26, 2019
+    4.2.0
+    Feb 21, 2019
+    4.1.9
+    Jan 16, 2019
+    4.1.8
+    Jan 8, 2019
+    4.1.7
+    Jan 2, 2019
+    4.1.6
+    Dec 22, 2018
+    4.1.5
+    Dec 15, 2018
+    4.1.4
+    Dec 4, 2018
+    4.1.3
+    Nov 27, 2018
+    4.1.2
+    Aug 23, 2018
+    4.1.0
+    Aug 17, 2018
+    4.0.15
+    Aug 15, 2018
+    4.0.14
+    Aug 3, 2018
+    4.0.13
+    Jun 13, 2018
+    4.0.12
+    Jun 9, 2018
+    4.0.11
+    May 23, 2018
+    4.0.10
+    Apr 29, 2018
+    4.0.9
+    Mar 17, 2018
+    4.0.8
+    Mar 9, 2018
+    4.0.7
+    Feb 19, 2018
+    4.0.6
+    Feb 7, 2018
+    4.0.5
+    Jan 22, 2018
+    4.0.4
+    Dec 31, 2017
+    4.0.3
+    Dec 20, 2017
+    4.0.2
+    Dec 11, 2017
+    4.0.1
+    Dec 6, 2017
+    4.0.0
+    Dec 3, 2017
+    3.3.0
+    Aug 2, 2017
+    3.2.2
+    Jun 16, 2017
+    3.2.1
+    Jun 6, 2017
+    3.2.0
+    May 24, 2017
+    3.1.1
+    Mar 27, 2017
+    3.1.0
+    Mar 23, 2017
+    3.0.1
+    Feb 15, 2017
+    3.0
+    Jan 20, 2017
+    2.1
+    Nov 16, 2016
+    2.0
+    Sep 24, 2016
+    1.1
+    May 26, 2016
+    1.0.2
+    Apr 14, 2016
+    1.0
+    Mar 3, 2016
+
+See More
+Top In-App Purchases
+
+    Mate Annual
+    $49.99
+    Mate Monthly
+    $5.99
+    Mate Educational Annual
+    $24.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Mar 3, 2016
+
+Worldwide Release Date
+    Mar 3, 2016
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    7.2.0
+
+Size
+    100.15 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Danish, Dutch, French, German, Hebrew, Italian, Japanese, Korean, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Spanish, Swedish, Thai, Turkish, Ukrainian, Vietnamese
+
+Seller
+    Twopeople Software LLC
+
+Company HQ
+    Germany
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 and watchOS 7.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    andriiliakh.InstTranslate-ios-free
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Nov 16, 2016)
+
+Has iMessage
+    Yes
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1073473333
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Language Translator by Mate | data.ai

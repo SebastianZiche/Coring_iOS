@@ -1,0 +1,650 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+HYPERSPEKTIV: Photo, Video, AR
+Phantom ForcePhoto and Video (Applications)Free
+Alerts
+
+HYPERSPEKTIV
+HYPERSPEKTIV: Photo, Video, AR
+HYPERSPEKTIV: Photo, Video, AR
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+HYPERSPEKTIV: Photo, Video, AR
+Psychedelic Glitch Filters
+Photo and Video (Applications)
+Free
+iPhone Only
+App Description
+Hyperspektiv is a photo, video, and AR filter app. Create mind-bending visuals quickly and easily. Featured *Best New App* by the App Store.
+
+“Your photos and videos have never been trippier” - WALL STREET JOURNAL
+
+With the free version of Hyperspektiv, you get access to the full functionality of the app with the free factory filters.
+
+PREMIUM SUBSCRIPTION FEATURES
+
+• New filters every month
+• Hyperspektiv’s complete filter library (50+ filters)
+• Save HD photos & videos
+• Generate & save unlimited custom filters
+
+FREE FEATURES
+
+• Unlimited use of our factory filters and 24 legacy filters
+• Import + export your photos and videos
+• AR filters
+• Capture photos & videos in real-time
+• Turn your photos into videos
+• Generate and save up to 3 custom filters
+• New free filters every few months
+• Mirroring system for creating symmetrical visuals
+• Glitch out your Instagram Stories
+
+PRESS
+
+“Hyperspektiv’s filters were designed to be a kind of interactive art piece, one that has the potential to change how you see the world.” -APPLE
+“Hyperspektiv lets you change images and video beyond recognition.” -WIRED
+“Distort reality with cyberdelic video app Hyperspektiv” -VICE
+“turns you into stills and videos that would look fantastic in a music video.” -CULT OF MAC
+“Hyperspektiv produces glitchy, psychedelic images.” THE VERGE
+“Hyperspektiv gives your photos and videos a dose of weird. -THE NEXT WEB
+“Put distorted reality at your fingertips.” -POND5
+“The powerful video and photo effects app, Hyperskeptiv, promises much for those wishing to distort reality in a trippy, creative way.” -MAC PRO VIDEO
+“Hyperspektiv is an easy-to-use, great-to-have app if you love creating different and unusual photos and videos” -APP ADVICE
+
+
+We love hearing your ideas and feedback. Let us know how we can support you:
+
+General inquiries us@hyperspektiv.com
+Support support@hyperspektiv.com
+DM us on Instagram at @hyperspektiv
+Find us on FB facebook.com/hyperspektiv
+Join the Hypersquad FB community bit.ly/hyper_squad
+Twitter @hyperspektiv
+
+
+MEMBERSHIP INFORMATION AND TERMS
+
+• Start your Hyperspektiv membership with a free 7-day trial
+• Subscribe for unlimited access to Hyperspektiv’s Premium features.
+• Subscriptions are billed monthly or yearly at the rate selected.
+• Your Hyperspektiv Premium membership will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can go to your Settings > iTunes Account & App Store > Apple ID > Subscriptions to manage your membership and turn auto-renew off. Your iTunes Account will be charged when the purchase is confirmed.
+
+Read more about our terms and conditions here — hyperspektiv.com/tos
+
+~ Privacy Policy ~
+
+Phantom Force, LP, also referred to as PF in this Privacy Policy, is the creator of the HYPERSPEKTIV application which we refer to as the App. PF does not require that you reveal any personally identifiable information to use our App. We or our third party service providers, such as Apple, Google, Facebook and Yahoo, may collect information for technical support or other business support reasons such as for use in analytics and to improve the performance, experience and reliability of the App.
+
+HOW WE MANAGE TRUE-DEPTH FACE DATA
+
+Hyperspektiv utilizes Apple's Augmented Reality APIs (specifically ARKit & TrueDepth) in order to provide filters that react intelligently to people's bodies. On newer devices, in selfie mode, this requires that we use ARKit's Face Tracking mode.
+
+We do not utilize your True Depth face data, nor do we store it anywhere. The only data used is the outline of your body, so we can apply filters to it.
+
+Read more about our privacy policy here — hyperspektiv.com/privacy
+Ratings
+Displayed Avg Ratings
+3.17
+Total Displayed Ratings
+2.0k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.5.28 (Feb 16, 2024)
+    New filters: SKWIGGEL, ECHOBOY
+    Bug fixes
+Version 2.5.26 (Jan 31, 2023)
+    Bug Fixes
+Version 2.5.24 (Jul 13, 2021)
+    Today is a beautiful day because we have some new filters for you: HUXLEY and MUSHY. We hope you enjoy and can’t wait to see what you make with these.
+Version 2.5.23 (Jun 14, 2021)
+    Bugfixes and performance improvements.
+Version 2.5.22 (Mar 10, 2021)
+    Hey Hypersquad ~ this is a patch release for some users experiencing filter issues. 
+Version 2.5.21 (Mar 3, 2021)
+    Hey Hypersquad! Introducing 3 new filters: MOLECULAR, PEAK OIL and WARP. We also fixed the FUSCHIA filter for photos. Thanks for following along ~ Stay tuned for more.
+Version 2.5.20 (Jan 29, 2021)
+    New filters today! FUSCHIA and CYBER GHOST. CYBER GHOST requires AR and can produce some beautiful results using body detection. Thank you for following along, we are working on some very exciting updates. Get in touch on Discord or email us with any questions.
+Version 2.5.19 (Dec 31, 2020)
+    Happy new year, we have a gift for you! We unlocked a ton of new free filters available to everyone.
+
+    We have some very exciting things in the works for 2021, but we wanted to take this opportunity to say thank you to the Hyperspektiv community. It’s our pleasure to create with you.
+
+    Don’t hesitate to reach out on email, Discord or Instagram DM
+Version 2.5.18 (Dec 4, 2020)
+    - New free filter: Sprite
+    - New premium filter: Neon Hallway
+Version 2.5.17 (Oct 24, 2020)
+    New Filters: HEAVY METAL, BOREALIS
+Version 2.5.16 (Sep 29, 2020)
+    - Fixes a crash when switching to selfie camera on iPhone SE 2
+    - Fixes an issue where premium subscribed accounts weren't always being recognized
+    - Fixes AR button disappearing under certain circumstances
+Version 2.5.15 (Sep 21, 2020)
+    - Fixes iOS 14 issue where camera wouldn't flip on some devices
+
+    Experiencing issues? Contact support@hyperspektiv.com and we'll help you out :)
+Version 2.5.14 (Sep 18, 2020)
+    - Fixes UI bug that crashes on some devices
+    If you experience any issue, please contact us: support@hyperspektiv.com
+Version 2.5.13 (Sep 16, 2020)
+    - Stability fix for saving imported videos. Getting the dreaded "Files" bug? Try this latest release.
+
+    If you experience any issues, please contact support@hyperspektiv.com
+Version 2.5.12 (Sep 14, 2020)
+    New filters: ETHEREAL, 1986
+Version 2.5.11 (Aug 3, 2020)
+    - New filters: HEXAHEDRON, DARK ANGEL
+    - More fixes for SE 2
+Version 2.5.10 (Jul 8, 2020)
+    - New filters: ASCENSION, DEFORM, FLUXUS DARK
+    - Fixes selfie camera crashing iPhone SE 2
+Version 2.5.9 (Jun 15, 2020)
+    - Bug fix: the previous update was causing issues with some subscriptions - fixed in this update.
+    please contact us at support@hyperspektiv.com if you are having trouble with your subscription. 
+Version 2.5.8 (Jun 13, 2020)
+    - New FREE filter: NATURE. This one transforms anything green to new colors ... get outside and play with it!
+    - 2 new PREMIUM filters: CHEMICAL, FLUXUS
+    - Fixes a bug where disabling effects then enabling mirrors would re-enable effects
+    - Fixes a bug where taking photos under certain conditions would result in an all-white photo output
+Version 2.5.7 (May 3, 2020)
+    - New free filter: SKETCHY
+    - 2 new premium filters: OBSIDIAN, BIRDSONG
+    - New icon and splash screen
+    - New sharing flow: easily share your creations to Instagram, Snapchat, or through the iOS share menu!
+Version 2.5.6 (Apr 16, 2020)
+    - Fixes crashes in the H Menu
+    - 2.5.5 introduced: Filters ARROW + ROYGBIV
+    - Video import stability fixes
+Version 2.5.5 (Apr 5, 2020)
+    - New Filters: ARROW, ROYGBIV
+    - More stability fixes for the engine. If you've been experiencing crashes, try this latest version!
+    If issues persist, contact us: support@hyperspektiv.com
+Version 2.5.4 (Mar 4, 2020)
+    - New Free Filter: GLIMMER
+    - New Premium Filter: REPETAE
+    - Solved an issue where saving imported videos could crash the app
+Version 2.5.3 (Feb 14, 2020)
+    2.5 is a major upgrade: Welcome to AR, HyperSquad!
+
+    * 2.5.3 fixes a handful of UI bugs.
+
+    —AR Body Detection
+
+    With the latest iPhones (NOTE: iPhone XR and newer only) you can now isolate and apply filters to a person or their background in real-time. Point your camera at someone (or yourself) and tap the glowing ‘Body Recognition’ button in the top left of the screen. This is an *experimental* feature that adds much creative potential, we can’t wait to see what you create! NOTE: Body Recognition currently only works in live-capture and runs on these ARKit 3-enabled devices: iPhone XR, iPhone XS, iPhone XS Max, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max and iPad Pro (running iOS 13).
+
+    —Photo to Video
+
+    You can now instantly turn photos into videos! Try opening a photo from your Camera Roll and simply hold down the capture button to save a video. If you want to create a still photo simply toggle into “Still” mode.
+
+    —Full HD (4k and above) Export
+
+    For our subscribers - imported photos and videos will now export at their native resolutions. That means you can get 4k (and above!) output from Hyperspektiv! We fixed a limitation in the 2.0 engine that was keeping the max output at 1080p. For our free users - you get HD as well! It will be limited to 1080p.
+
+    —60 FPS Live Capture
+
+    On newer devices, enjoy our complimentary update from 30fps to 60fps.
+
+    -One new free filter: SPECTRUM
+    -Two new Premium filters: DOMA and POLLEN.
+    -Completely redesigned our graphics engine which should make things run faster and smoother as well as tons of bug fixes.
+Version 2.5.2 (Feb 12, 2020)
+    2.5 is a major upgrade: Welcome to AR, HyperSquad!
+
+    2.5.2 is a patch update that makes our new "photo to video" mode clearer to understand and easier to use.
+
+    2.5.1
+
+    - Fixes a bug where video output was lower bitrate than it was supposed to be.
+
+    2.5
+
+    —AR Body Detection
+
+    With the latest iPhones (NOTE: iPhone XR and newer only) you can now isolate and apply filters to a person or their background in real-time. Point your camera at someone (or yourself) and tap the glowing ‘Body Recognition’ button in the top left of the screen. This is an *experimental* feature that adds much creative potential, we can’t wait to see what you create! NOTE: Body Recognition currently only works in live-capture and runs on these ARKit 3-enabled devices: iPhone XR, iPhone XS, iPhone XS Max, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max and iPad Pro (running iOS 13).
+
+    —Photo to Video
+
+    You can now instantly turn photos into videos! Try opening a photo from your Camera Roll and simply hold down the capture button to save a video. If you want to create a still photo simply toggle into “Still” mode.
+
+    —Full HD (4k and above) Export
+
+    For our subscribers - imported photos and videos will now export at their native resolutions. That means you can get 4k (and above!) output from Hyperspektiv! We fixed a limitation in the 2.0 engine that was keeping the max output at 1080p. For our free users - you get HD as well! It will be limited to 1080p.
+
+    —60 FPS Live Capture
+
+    On newer devices, enjoy our complimentary update from 30fps to 60fps.
+
+    -One new free filter: SPECTRUM
+    -Two new Premium filters: DOMA and POLLEN.
+    -Completely redesigned our graphics engine which should make things run faster and smoother as well as tons of bug fixes.
+Version 2.5.1 (Feb 5, 2020)
+    2.5 is a major upgrade: Welcome to AR, HyperSquad!
+    This 2.5.1 patch fixes a video bitrate bug. Full changlelog follows:
+
+    —AR Body Detection
+
+    With the latest iPhones (NOTE: iPhone XR and newer only) you can now isolate and apply filters to a person or their background in real-time. Point your camera at someone (or yourself) and tap the glowing ‘Body Recognition’ button in the top left of the screen. This is an *experimental* feature that adds much creative potential, we can’t wait to see what you create! NOTE: Body Recognition currently only works in live-capture and runs on these ARKit 3-enabled devices: iPhone XR, iPhone XS, iPhone XS Max, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max and iPad Pro (running iOS 13).
+
+    —Photo to Video
+
+    You can now instantly turn photos into videos! Try opening a photo from your Camera Roll and simply hold down the capture button to save a video. If you want to create a still photo simply toggle into “Still” mode.
+
+    —Full HD (4k and above) Export
+
+    For our subscribers - imported photos and videos will now export at their native resolutions. That means you can get 4k (and above!) output from Hyperspektiv! We fixed a limitation in the 2.0 engine that was keeping the max output at 1080p. For our free users - you get HD as well! It will be limited to 1080p.
+
+    —60 FPS Live Capture
+
+    On newer devices, enjoy our complimentary update from 30fps to 60fps.
+
+    -One new free filter: SPECTRUM
+    -Two new Premium filters: DOMA and POLLEN.
+    -Completely redesigned our graphics engine which should make things run faster and smoother as well as tons of bug fixes.
+Version 2.5 (Feb 4, 2020)
+    Hypersquad - Welcome to the 2.5 update! Deep energy went into this one - we are so excited to share it with all of you!
+
+    —AR Body Detection
+
+    With the latest iPhones (NOTE: iPhone XR and newer only) you can now isolate and apply filters to a person or their background in real-time. Point your camera at someone (or yourself) and tap the glowing ‘Body Recognition’ button in the top left of the screen. This is an *experimental* feature that adds much creative potential, we can’t wait to see what you create! NOTE: Body Recognition currently only works in live-capture and runs on these ARKit 3-enabled devices: iPhone XR, iPhone XS, iPhone XS Max, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max and iPad Pro (running iOS 13).
+
+    —Photo to Video
+
+    You can now instantly turn photos into videos! Try opening a photo from your Camera Roll and simply hold down the capture button to save a video. If you want to create a still photo simply toggle into “Still” mode.
+
+    —Full HD (4k and above) Export
+
+    For our subscribers - imported photos and videos will now export at their native resolutions. That means you can get 4k (and above!) output from Hyperspektiv! We fixed a limitation in the 2.0 engine that was keeping the max output at 1080p. For our free users - you get HD as well! It will be limited to 1080p.
+
+    —60 FPS Live Capture
+
+    On newer devices, enjoy our complimentary update from 30fps to 60fps.
+
+    -One new free filter: SPECTRUM
+    -Two new Premium filters: DOMA and POLLEN.
+    -Completely redesigned our graphics engine which should make things run faster and smoother as well as tons of bug fixes.
+Version 2.0.10 (Dec 20, 2019)
+    - Fixed LUGOSI and other filters that relied on the RGB ROTATE effect for motion
+    - 3 new filters: GLIDE, CHAKRA, MORPHO
+Version 2.0.9 (Nov 20, 2019)
+    - November Filters: OPAL, COSM, TYPE-O.2
+    - Fixes minor UI issues on iPhone 11 family of devices
+Version 2.0.8 (Oct 30, 2019)
+    New filters: DVD, HEXED
+Version 2.0.7 (Oct 2, 2019)
+    - New *free* filter: ANALOG
+    - 2 new premium filters: ZENITH, SUMMER
+Version 2.0.6 (Aug 23, 2019)
+    - New filters: TIE DYE and MACHINE ELF
+    - Video Save Bugfix: Some users have experienced an issue where their videos won't save to the Camera Roll. In cases where the app detects this is happening, it now automatically saves the video to Files instead, circumventing the issue.
+Version 2.0.5 (Jul 25, 2019)
+    July Filter Update!
+
+    - New filters: Duality, Sector
+    - Improved Permissions: The app no longer requires you to input all permissions in order to get started. Microphone access is now fully optional. 
+Version 2.0.4 (Jun 29, 2019)
+    - New filters: JETSTREAM, FLOWER OF LIFE
+Version 2.0.3 (May 15, 2019)
+    May Filter Update!
+
+    - 2 new filters: SPIKES & CHILLWAVE
+    - Various UI bugfixes
+Version 2.0.2 (Apr 17, 2019)
+    Hey Hypersquad. April Filters are here!
+
+    - Adds 3 new filters: Vapor, Ritualize, Confield
+    - Fixes a bug where subscription screen was sometimes blank
+    - Groups premium filters together for subscribed users' easier access
+Version 2.0.1 (Mar 22, 2019)
+    Stability Update.
+
+    - Fixes a crash that happened sometimes when taking photos
+    - Fixes photo import UI sometimes displaying photos at improper aspect
+    - Enables Legacy Filters by default for Hyperspektiv 1 users [they were available through a menu before but not enabled to start]
+Version 2.0 (Mar 13, 2019)
+    Here’s what is new in 2.0:
+
+    • HD photo import
+    • Take photos in HD
+    • Tons of new effects
+    • Portrait mode
+    • New filters delivered regularly
+    • Save your wildcards
+    • Real-time HD capture
+    • Lots of bug fixes and optimizations
+
+    In order to access older Hyperspektiv filters, Switch on "Legacy Filters" in the settings menu, accessed by tapping the Hyperspektiv logo at the top of the screen.
+
+    We love hearing your ideas and feedback. Let us know how we can support you:
+
+    General inquiries us@hyperspektiv.com
+    Support support@hyperspektiv.com
+    DM us on Instagram at @hyperspektiv
+    Find us on FB facebook.com/hyperspektiv
+    Join the Hypersquad FB community bit.ly/hyper_squad
+    Twitter @hyperspektiv
+Version 1.4 (Mar 8, 2018)
+    Hey Hypersquad,
+
+    This update fixes UI issues with the iPhone X.
+
+    Photo import is coming! Not in this update - but soon. Stay tuned :)
+Version 1.3 (Sep 29, 2017)
+    - Fixes issues with camera roll import on iOS 11
+    - Fixes UI bug when opening the app in landscape on plus-size phones
+Version 1.21 (Sep 13, 2016)
+    Fixes crash on camera roll import in iOS 10.
+Version 1.2 (Jul 28, 2016)
+    Big update today!
+
+    -Now supports iPhone 4s, 5, 5c, all iPads (compatibility mode), and older iPod Touch models
+
+    Tag your creations #hyperspektiv so we can follow along. Much more coming soon. Let us know what you think.
+Version 1.13 (Jul 11, 2016)
+    Today we have some bug fixes. There was an issue taking photos with Kroma and Meltphace.
+
+    Tag your creations #hyperspektiv so we can follow along. Much more coming soon. Let us know what you think.
+Version 1.12 (Jun 22, 2016)
+    Added 3 new filters: KROMA, MELTPHACE and MOONGATE
+Version 1.11 (Apr 8, 2016)
+    We have a very exciting update for you today, including the feature that everyone has been asking for the most: video import.
+
+    - Now you can import videos from Camera Roll!
+    - Support for importing 1080p videos
+    - 3 new filters: Bender, Vibes, and Super Brothers
+    - Bug fixes
+
+    Tag your creations #hyperspektiv so we can follow along. Much more coming soon. Let us know what you think.
+Version 1.1 (Apr 4, 2016)
+    We have a very exciting update for you today, including the feature that everyone has been asking for the most: camera roll import.
+
+    - Now you can import videos from Camera Roll!
+    - Support for importing 1080p videos
+    - 3 new filters: Bender, Vibes, and Super Brothers
+
+    Tag your creations #hyperspektiv so we can follow along. Much more coming soon. Let us know what you think.
+Version 1.01 (Jan 28, 2016)
+    Hypersquad, we have a new update for you today. Remember to tag your creations #hyperspektiv so we can follow along. Much more coming soon.
+
+    • VJ Mode is here. You can now seamlessly run real-time visuals straight out of your phone — connect to a display via AirPlay or HDMI, enable mirroring, go wild. Full detailed instructions at hyperspektiv.com/support.
+    • Now compatible with iOS 9.0.
+    • Bug fixes.
+Version 1.0 (Jan 19, 2016)
+
+Users may also like
+Select objects to compare
+Cinemagraph Pro
+Glitch Art Studio: Cam Effects
+Glitché: Photo & Video Editor
+Filmm: One-Tap Video Editor
+EFEKT Video Effects & Filters
+Crystaliq: Prism Photo Editor
+Generate:Video Photo Effects
+Pixel Art Camera
+Videorama Text & Video Editor
+MOLDIV VideoLab Video Editor
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+44 times
+on App Store category pages
+Versions
+
+    2.5.28
+    Current release
+    Feb 16, 2024
+    2.5.26
+    Jan 31, 2023
+    2.5.24
+    Jul 13, 2021
+    2.5.23
+    Jun 14, 2021
+    2.5.22
+    Mar 10, 2021
+    2.5.21
+    Mar 3, 2021
+    2.5.20
+    Jan 29, 2021
+    2.5.19
+    Dec 31, 2020
+    2.5.18
+    Dec 4, 2020
+    2.5.17
+    Oct 24, 2020
+    2.5.16
+    Sep 29, 2020
+    2.5.15
+    Sep 21, 2020
+    2.5.14
+    Sep 18, 2020
+    2.5.13
+    Sep 16, 2020
+    2.5.12
+    Sep 14, 2020
+    2.5.11
+    Aug 3, 2020
+    2.5.10
+    Jul 8, 2020
+    2.5.9
+    Jun 15, 2020
+    2.5.8
+    Jun 13, 2020
+    2.5.7
+    May 3, 2020
+    2.5.6
+    Apr 16, 2020
+    2.5.5
+    Apr 5, 2020
+    2.5.4
+    Mar 4, 2020
+    2.5.3
+    Feb 14, 2020
+    2.5.2
+    Feb 12, 2020
+    2.5.1
+    Feb 5, 2020
+    2.5
+    Feb 4, 2020
+    2.0.10
+    Dec 20, 2019
+    2.0.9
+    Nov 20, 2019
+    2.0.8
+    Oct 30, 2019
+    2.0.7
+    Oct 2, 2019
+    2.0.6
+    Aug 23, 2019
+    2.0.5
+    Jul 25, 2019
+    2.0.4
+    Jun 29, 2019
+    2.0.3
+    May 15, 2019
+    2.0.2
+    Apr 17, 2019
+    2.0.1
+    Mar 22, 2019
+    2.0
+    Mar 13, 2019
+    1.4
+    Mar 8, 2018
+    1.3
+    Sep 29, 2017
+    1.21
+    Sep 13, 2016
+    1.2
+    Jul 28, 2016
+    1.13
+    Jul 11, 2016
+    1.12
+    Jun 22, 2016
+    1.11
+    Apr 8, 2016
+    1.1
+    Apr 4, 2016
+    1.01
+    Jan 28, 2016
+    1.0
+    Jan 19, 2016
+
+See More
+Top In-App Purchases
+
+    Premium Yearly
+    $29.99
+    Premium Monthly
+    $4.99
+    Premium Yearly
+    $23.99
+    Premium Monthly
+    $2.99
+    Premium Semi-Annual
+    $11.99
+    Premium Monthly
+    $5.99
+    Premium Yearly
+    $35.99
+    Premium One-Time Purchase
+    $74.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jan 19, 2016
+
+Worldwide Release Date
+    Jan 19, 2016
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    2.5.28
+
+Size
+    224.67 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Phantom Force LP
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.phantomforce.HYPERSPEKTIV
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+App ID: 1058051662
+Unified App ID: 1000600000619717
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+HYPERSPEKTIV: Photo, Video, AR | data.ai

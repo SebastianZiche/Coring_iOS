@@ -1,0 +1,756 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Skred Messenger
+SkredSocial Networking (Applications)Free
+Alerts
+
+Skred Messenger
+Skred Messenger
+Skred Messenger
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Skred Messenger
+Secure communications
+Social Networking (Applications)
+Free
+App Description
+Skred is the first secure peer-to-peer instant messaging app - No need for an email address or phone number to use it.
+
+Skred is free, without subscription, without a provider, without a SIM card, and without leaving a trace.
+
+Skred is developed based on privacy-by-design and leverages the highest levels of authorization encryption. Skred enables an anonymous, unique and secure connection with each of your contacts. Only the two participants in a call can communicate with each other excluding anyone else.
+With an interface that is easy to use without impacting the learning experience, Skred enables easy exchange of messages, images, videos, voice calls and video calls.
+
+The SkredBoard, which is accessible by simply swiping down, allows for generating many identities that are separated from each other for absolute confidentiality. You can also use groups to exchange with several friends at once.
+
+When you delete a message on Skred, it also disappears from the mobile phone of your caller.
+
+All exchanges are encrypted from start to finish, from mobile to mobile. They are not stored on any server. The encryption technologies are open source and based on the work of hackers and hacktivists of the Guardian Project.
+
+Skred originated from the Skyrock Group, which in turn came from the free radio movement in France. It defends freedom of expression on the air and on the internet.
+
+With Skred, you are free!
+
+Terms of Use: https://skred.mobi/terms/
+Ratings
+Displayed Avg Ratings
+3.76
+Total Displayed Ratings
+373
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 12.3 (Jan 16, 2024)
+    You can now propagate profile modifications to contacts.
+
+    The premium version allows you to transfer an on-going voice/video call from a mobile to a PC, and to create multiple "Spaces" each with its own profile, contacts, conversations, notifications, etc., for each social group you interact with (family, friends, business), including "Secret Spaces" accessed by name.
+
+    Pressing your profile image at the top of the screen allows you to switch the current "Space" by tapping its image.
+Version 11.6 (Nov 27, 2023)
+    You can now select and act upon multiple messages in a conversation.
+
+    The premium version allows you to transfer an on-going voice/video call from a mobile to a PC, and to create multiple "Spaces" each with its own profile, contacts, conversations, notifications, etc., for each social group you interact with (family, friends, business), including "Secret Spaces" accessed by name.
+
+    Pressing your profile image at the top of the screen allows you to switch the current "Space" by tapping its image.
+Version 10.4 (Sep 28, 2023)
+    You can now view the media exchanged in a conversation.
+    Contacts with the premium version can stream their music during calls, launch group calls, and publish QR-codes from the calls tab that allow guests to call them without installing the app (click-to-call).
+    Pressing your profile image at the top of the screen brings a settings menu allowing you to personalize the app.
+    When experiencing unexpected behavior, zap the app in order to refresh its state.
+    Please report problems and send feedback.
+Version 10.3 (Sep 10, 2023)
+    You can now view the media exchanged in a conversation.
+
+    Contacts with the premium version can stream their music during calls, launch group calls, and publish QR-codes from the calls tab that allow guests to call them without installing the app (click-to-call).
+
+    Pressing your profile image at the top of the screen brings a settings menu allowing you to personalize the app.
+
+    When experiencing unexpected behavior, zap the app in order to refresh its state.
+
+    Please report problems and send feedback.
+Version 10.2 (Aug 2, 2023)
+    You can now view the media exchanged in a conversation.
+    Contacts with the premium version can stream their music during calls, launch group calls, and publish QR-codes from the calls tab that allow guests to call them without installing the app (click-to-call).
+
+    Please report problems and send feedback on your user experience!
+Version 9.3 (Jun 22, 2023)
+    SKRED+: You can now stream your music during calls, launch group calls, and publish codes from the calls tab that allow guests to call you without installing the application (click-to-call).
+
+    Please report problems and send feedback on your user experience!
+Version 8.2 (May 9, 2023)
+    - Some UI improvements
+    - Conversations cleanup can also clean remote content
+    - iOS 11 is now a minimum requirement
+
+    Please report problems and send feedback on your user experience!
+Version 7.1 (Apr 12, 2023)
+    New features for conversations:
+    - Export of contents in a ZIP archive format
+    - Local cleanup for reclaim storage space- Simpler voice notes
+    - Reactions to messages- Grouping of notifications- Many UI improvements
+
+    Previous changes:
+    - Link previews on iOS >= 13
+    - Optional image and video compression before sending
+    - Bug fixes and performance improvements
+
+    Please report problems and send feedback on your user experience!
+Version 6.3 (Mar 20, 2023)
+    New features for conversations:
+    - Export of contents in a ZIP archive format
+    - Local cleanup for reclaim storage space- Simpler voice notes
+    - Reactions to messages- Grouping of notifications- Many UI improvements
+
+    Previous changes:
+    - Link previews on iOS >= 13
+    - Optional image and video compression before sending
+    - Bug fixes and performance improvements
+
+    Please report problems and send feedback on your user experience!
+Version 6.2 (Mar 9, 2023)
+    New features for conversations:
+    - Export of contents in a ZIP archive format
+    - Local cleanup for reclaim storage space- Simpler voice notes
+    - Reactions to messages- Grouping of notifications- Many UI improvements
+
+    Previous changes:
+    - Link previews on iOS >= 13
+    - Optional image and video compression before sending
+    - Bug fixes and performance improvements
+
+    Please report problems and send feedback on your user experience!
+Version 5.3 (Dec 20, 2022)
+    You can now invite contacts to a voice/video call and turn it into a spontaneous group call.
+
+    - Link previews on iOS >= 13
+    - Optional image and video compression before sending
+    - Bug fixes and performance improvements
+
+    Please report problems and send feedback on your user experience!
+
+
+Version 5.2 (Dec 13, 2022)
+    You can now invite contacts to a voice/video call and turn it into a spontaneous group call.
+
+    - Link previews on iOS >= 13
+    - Optional image and video compression before sending
+    - Bug fixes and performance improvements
+
+    Please report problems and send feedback on your user experience!
+
+Version 4.3 (Nov 3, 2022)
+    You can now invite contacts to a voice/video call and turn it into a spontaneous group call.
+    Bug fixes and performance improvements.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedback on your user experience.
+Version 4.2 (Oct 20, 2022)
+    You can now invite contacts to a voice/video call and turn it into a spontaneous group call.
+    Bug fixes and performance improvements.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedback on your user experience.
+Version 3.2 (Sep 13, 2022)
+    You can now start the camera during an on-going voice call.
+    Improved invitation process (Profiles, Add a contact).
+    Bug fixes and performance improvements.
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+    Please report problems and send feedback on your user experience.
+Version 2.5.5 (Jul 22, 2022)
+    You can now start the camera during an on-going voice call.
+    Improved invitation process (Profiles, Add a contact).
+    Bug fixes and performance improvements.
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+    Please report problems and send feedback on your user experience.
+Version 2.5.3 (Jun 13, 2022)
+    You can now start the camera during an on-going voice call.
+    Improved invitation process (Profiles, Add a contact).
+    Bug fixes and performance improvements.
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+    Please report problems and send feedback on your user experience.
+Version 2.5.2 (May 25, 2022)
+    You can now start the camera during an on-going voice call.
+    Improved invitation process (Profiles, Add a contact).
+    Bug fixes and performance improvements.
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+    Please report problems and send feedback on your user experience.
+Version 2.5.1 (Apr 29, 2022)
+    You can now start the camera during an on-going voice call.
+    Improved invitation process (Profiles, Add a contact).
+    Bug fixes and performance improvements.
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+    Please report problems and send feedback on your user experience.
+Version 2.4.1 (Mar 31, 2022)
+    Bug fixes and performance improvements.
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedback on your user experience.
+Version 2.3.5 (Mar 7, 2022)
+    Bug fixes and performance improvements.
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedback on your user experience.
+Version 2.3.2 (Jan 28, 2022)
+    Improved contacts invitation interface.
+    Bug fixes and performance improvements.
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+    Please report problems and send feedback on your user experience.
+Version 2.3.4 (Jan 28, 2022)
+    Bug fixes and performance improvements.
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedback on your user experience.
+Version 2.1.3 (Sep 3, 2021)
+    Bug fixes and performance improvements.
+
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedback on your user experience.
+Version 2.0.6 (Aug 3, 2021)
+    Bug fixes and performance improvements.
+
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedback on your user experience.
+Version 2.0.4 (Jul 16, 2021)
+    Bug fixes and performance improvements.
+
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the application.
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedback on your user experience.
+Version 2.0.3 (Jun 8, 2021)
+    Bug fixes and performance improvements.
+
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the display mode (light or dark), or protect your contents from being copied/saved/shared by receivers.
+
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedbacks!
+Version 2.0.2 (Jun 1, 2021)
+    Bug fixes and performance improvements.
+
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the display mode (light or dark), or protect your contents from being copied/saved/shared by receivers.
+
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedbacks!
+Version 2.0.1 (May 20, 2021)
+    Bug fixes and performance improvements.
+
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the display mode (light or dark), or protect your contents from being copied/saved/shared by receivers.
+
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedbacks!
+Version 2.0 (May 9, 2021)
+    New user interface!
+
+    Pressing your profile image at the top left of the screen brings a settings menu allowing you to personalize the display mode (light or dark), or protect your contents from being copied/saved/shared by receivers.
+
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+
+    Please report problems and send feedbacks!
+Version 1.2.32 (Apr 3, 2021)
+    • You can now send and receive animated GIFs from your photo gallery.
+    • Pressing your profile image at the top left of the screen brings a settings menu allowing you to protect your contents from being copied/saved/shared by receivers.
+
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+    Please report problems and send feedback on your user experience.
+Version 1.2.31 (Mar 15, 2021)
+    • You can now send and receive animated GIFs from your photo gallery.
+    • Pressing your profile image at the top left of the screen brings a settings menu allowing you to protect your contents from being copied/saved/shared by receivers.
+
+    When experiencing unexpected behavior, "zap" the application in order to refresh its state.
+    Please report problems and send feedback on your user experience.
+Version 1.2.30 (Feb 4, 2021)
+    Fix a crash on iOS 12
+Version 1.2.29 (Jan 20, 2021)
+    Several bugfixes about bluetooth support and iOS 14 support.
+Version 1.2.28 (Mar 25, 2020)
+    - Font sizes adapt to the OS settings. Pinch the screen to zoom/unzoom conversations or the video image during a video call.
+    - You can protect your contents from being copied/saved/shared by receivers or not. Long press on the send arrow to change the default protection for the current message only.
+    - Please tell us what you think, report problems, and send us feedback!
+Version 1.2.27 (Mar 5, 2020)
+    - Font sizes adapt to the OS settings. Pinch the screen to zoom/unzoom conversations or the video image during a video call.
+
+    - You can protect your contents from being copied/saved/shared by receivers or not. Long press on the send arrow to change the default protection for the current message only.
+
+    - Please tell us what you think, report problems, and send us feedback!
+Version 1.2.26 (Mar 2, 2020)
+    - Font sizes adapt to the OS settings. Pinch the screen to zoom/unzoom conversations or the video image during a video call.
+    - You can protect your contents from being copied/saved/shared by receivers or not. Long press on the send arrow to change the default protection for the current message only.
+    - Please tell us what you think, report problems, and send us feedback!
+Version 1.2.25 (Feb 4, 2020)
+    - Optimizations on data usage and storage usage
+    - Very old messages which were not sent to gone contacts are now automatically marked as failed
+Version 1.2.24 (Jan 22, 2020)
+    You can send text messages, photos, videos and any encrypted documents. They are not saved on a remote server and are directly sent to your contacts or group's members. This guarantees the real confidentiality of your exchanges.
+
+
+
+    Please be reminded that if you uninstall the application, you will lose your profile and your data. Only an encrypted backup using iTunes can restore your data on a new device.
+Version 1.2.23 (Jan 10, 2020)
+    You can send text messages, photos, videos and any encrypted documents. They are not saved on a remote server and are directly sent to your contacts or group's members. This guarantees the real confidentiality of your exchanges.
+
+    Please be reminded that if you uninstall the application, you will lose your profile and your data. Only an encrypted backup using iTunes can restore your data on a new device.
+Version 1.2.22 (Jul 17, 2019)
+    • Directly add a group member as a new contact
+    • Typing bubbles and infos about messages
+    • Allow other users to copy/share/save your messages
+    • Share your location in conversations
+    • You can now edit how a specific contact knows you by editing your photo and/or username
+    • Most recent conversations listed first
+    • Improved voice/video call quality and compatibility
+    • Make a new call directly from the conversation
+
+    You can send text messages, photos, videos and any encrypted documents. They are not saved on a remote server and are directly sent to your contacts or group's members. This guarantees the real confidentiality of your exchanges.
+
+    Please be reminded that if you uninstall the application, you will lose your profile and your data. Only an encrypted backup using iTunes can restore your data on a new device.
+Version 1.2.21 (Jun 19, 2019)
+    • Typing bubbles
+    • Share your location in conversations
+    • You can now edit how a specific contact knows you by editing your photo and/or username
+    • Most recent conversations listed first
+    • Improved voice/video call quality and compatibility
+    • Create your secure group
+    You can send text messages, photos, videos and any encrypted documents. They are not saved on a remote server and are directly sent to your contacts or group's members. This guarantees the real confidentiality of your exchanges.
+
+    Please be reminded that if you uninstall the application, you will lose your profile and your data. Only an encrypted backup using iTunes can restore your data on a new device.
+Version 1.2.19 (Apr 26, 2019)
+    • Share your location in conversations
+    • You can now edit how a specific contact knows you by editing your photo and/or username
+    • Most recent conversations listed first
+    • Improved voice/video call quality and compatibility
+    • Create your secure group
+
+    You can send text messages, photos, videos and any encrypted documents. They are not saved on a remote server and are directly sent to your contacts or group's members. This guarantees the real confidentiality of your exchanges.
+
+    Please be reminded that if you uninstall the application, you will lose your profile and your data. Only an encrypted backup using iTunes can restore your data on a new device.
+Version 1.2.18 (Feb 28, 2019)
+    • You can now edit how a specific contact knows you by editing your photo and/or username
+    • Most recent conversations listed first
+    • Improved voice/video call quality and compatibility
+    • Create your secure group
+
+    You can send text messages, photos, videos and encrypted documents. They are not saved on a remote server, they are send directly between the contacts and group's members. This guarantees the real confidentiality of your exchanges.
+Version 1.2.17 (Jan 24, 2019)
+    NEW: Groups are now live, and they are totally secure !
+    Clic on Conversations > Create a group. Choose a name, a picture, and invite your contacts to join the group. You can send text messages, photos, videos and encrypted documents. Group messages are as easy to use and secure as standard messages.
+
+    The messages and files you send are not saved on a remote server, they are send directly between the members of the group. This guarantees the real confidentiality of your exchanges.
+Version 1.2.16 (Nov 22, 2018)
+    NEW: Groups are now live, and they are totally secure !
+
+    Clic on Conversations > Create a group. Choose a name, a picture, and invite your contacts to join the group. You can send text messages, photos, videos and encrypted documents. Group messages are as easy to use and secure as standard messages.
+
+    The messages and files you send are not saved on a remote server, they are send directly between the members of the group. This guarantees the real confidentiality of your exchanges.
+Version 1.2.15 (Nov 17, 2018)
+    NEW: totally secure and peer-to-peer groups have now arrived.
+    SKRED, the true secure messaging app, offers you a unique experience through secure and confidential groups.
+
+    You can now create a group by clicking on Conversations > Create a group. Choose a name and a picture, then invite your contacts to join the group. You can exchange messages, photos, videos and encrypted documents as easily as in standard messaging.
+
+    The messages and files you send are not saved on a remote server, they are send directly between the members of the group. This guarantees you the real confidentiality of your exhanges.
+
+    Juste like with one-to-one messages, you can also permanently delete the messages you have sent in the group.
+
+    With its worldwide deployment, SKRED is gradually establishing itself as the sturdy and reliable alternative to conventional messaging apps. All exchanges between users are encrypted end-to-end and do not go through any storage servers as it is common in traditional messaging. Encryption keys are generated locally on each device and the private key never leaves the device. This ensures that only the intended recipients can read your messages.
+
+    Finally, all exchanged data flows are protected by TLS (Transport Layer Security) protocol in order to defend any fraudulent or man-in-the-middle attack strategy.
+Version 1.2.14 (Nov 15, 2018)
+    NEW: totally secure and peer-to-peer groups have now arrived.
+
+    SKRED, the true secure messaging app, offers you a unique experience through secure and confidential groups.
+
+    You can now create a group by clicking on Conversations > Create a group. Choose a name and a picture, then invite your contacts to join the group. You can exchange messages, photos, videos and encrypted documents as easily as in standard messaging.
+
+    The messages and files you send are not saved on a remote server, they are send directly between the members of the group. This guarantees you the real confidentiality of your exhanges.
+
+    Juste like with one-to-one messages, you can also permanently delete the messages you have sent in the group.
+
+    With its worldwide deployment, SKRED is gradually establishing itself as the sturdy and reliable alternative to conventional messaging apps. All exchanges between users are encrypted end-to-end and do not go through any storage servers as it is common in traditional messaging. Encryption keys are generated locally on each device and the private key never leaves the device. This ensures that only the intended recipients can read your messages.
+
+    Finally, all exchanged data flows are protected by TLS (Transport Layer Security) protocol in order to defend any fraudulent or man-in-the-middle attack strategy.
+Version 1.2.13 (Sep 28, 2018)
+    Wording fixes
+Version 1.2.12 (Sep 27, 2018)
+    Added file sharing
+Version 1.2.11 (Sep 21, 2018)
+    - Add the ability to delete a message, if you sent it it will also be deleted on the other side
+    - New calling tone
+    - Fix a bug with the skredboard not dealing properly received message if Skred app was terminated
+Version 1.2.10 (Aug 27, 2018)
+    Support for more languages, including Arabic and Farsi.
+Version 1.2.9 (Jul 29, 2018)
+    - Better messages deliverability
+    - Video messages
+    - Ringtone while calling and when the call ends
+    - New language support : Portuguese, Spanish, Arabic, Turkish, Russian and Simplified Chinese
+
+    Send us feedback if you have any bug or idea.
+Version 1.2.8 (Apr 10, 2018)
+    Improved handling of network connections and multimedia protocol update (WebRTC), for better quality and reliability.
+Version 1.2.7 (Feb 23, 2018)
+    We fixed a bug that occurred when denying access to contacts.
+Version 1.2.6 (Dec 19, 2017)
+    Minor bug fixes.
+Version 1.2.5 (Dec 12, 2017)
+    Minor changes, continue to send us your feedbacks!
+Version 1.2.4 (Nov 6, 2017)
+    Sending image is now faster!
+    We also made changes to the contacts/conversations lists for a better scrolling.
+
+    Send us feedback if you have any bug or idea.
+Version 1.2.3 (Oct 6, 2017)
+    We fixed the bug about the sound not played while receiving a new message and improved how contacts are added via URL.
+    This version is fully compatible with iOS 11.
+
+    Please continue to give us feedbacks!
+Version 1.2.2 (Sep 20, 2017)
+    - Upgrade WebRTC framework to version 62
+    - Some bugfixes on the application's initialization
+
+    Give us some feedbacks and suggests!
+Version 1.2.1 (Jul 25, 2017)
+    - Better notifications management
+    - Add notification count on app icon
+    - WebRTC upgrade to version 61
+Version 1.2.0 (Jul 3, 2017)
+    Upgrade application data storage.
+
+    Give us our feedbacks on contact@skred.mobi !
+Version 1.1.24 (Jun 22, 2017)
+    This update brings a better display of pictures in Chat discussions.
+
+    Skred is evolving, give us your feedbacks!
+Version 1.1.23 (May 28, 2017)
+    Skred evolve thanks to your feedbacks!
+
+    In this version:
+    - Better incoming calls management with iOS integration (CallKit)
+    - Various fixes and UI improvements
+
+    Tell us what you think about Skred!
+Version 1.1.22 (May 10, 2017)
+    Fix on text message invitation
+Version 1.1.21 (May 5, 2017)
+    General Improvements
+Version 1.0 (May 2, 2017)
+
+Users may also like
+Select objects to compare
+twinme private messenger
+nandbox Messenger:Chat & Calls
+Monal - XMPP chat
+Threema Work. For Companies
+Olvid
+TeleGuard
+SimpleX Chat: secure messenger
+Kedr
+ChatSecure Messenger
+Zangi Private Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    12.3
+    Current release
+    Jan 16, 2024
+    11.6
+    Nov 27, 2023
+    10.4
+    Sep 28, 2023
+    10.3
+    Sep 10, 2023
+    10.2
+    Aug 2, 2023
+    9.3
+    Jun 22, 2023
+    8.2
+    May 9, 2023
+    7.1
+    Apr 12, 2023
+    6.3
+    Mar 20, 2023
+    6.2
+    Mar 9, 2023
+    5.3
+    Dec 20, 2022
+    5.2
+    Dec 13, 2022
+    4.3
+    Nov 3, 2022
+    4.2
+    Oct 20, 2022
+    3.2
+    Sep 13, 2022
+    2.5.5
+    Jul 22, 2022
+    2.5.3
+    Jun 13, 2022
+    2.5.2
+    May 25, 2022
+    2.5.1
+    Apr 29, 2022
+    2.4.1
+    Mar 31, 2022
+    2.3.5
+    Mar 7, 2022
+    2.3.2
+    Jan 28, 2022
+    2.3.4
+    Jan 28, 2022
+    2.1.3
+    Sep 3, 2021
+    2.0.6
+    Aug 3, 2021
+    2.0.4
+    Jul 16, 2021
+    2.0.3
+    Jun 8, 2021
+    2.0.2
+    Jun 1, 2021
+    2.0.1
+    May 20, 2021
+    2.0
+    May 9, 2021
+    1.2.32
+    Apr 3, 2021
+    1.2.31
+    Mar 15, 2021
+    1.2.30
+    Feb 4, 2021
+    1.2.29
+    Jan 20, 2021
+    1.2.28
+    Mar 25, 2020
+    1.2.27
+    Mar 5, 2020
+    1.2.26
+    Mar 2, 2020
+    1.2.25
+    Feb 4, 2020
+    1.2.24
+    Jan 22, 2020
+    1.2.23
+    Jan 10, 2020
+    1.2.22
+    Jul 17, 2019
+    1.2.21
+    Jun 19, 2019
+    1.2.19
+    Apr 26, 2019
+    1.2.18
+    Feb 28, 2019
+    1.2.17
+    Jan 24, 2019
+    1.2.16
+    Nov 22, 2018
+    1.2.15
+    Nov 17, 2018
+    1.2.14
+    Nov 15, 2018
+    1.2.13
+    Sep 28, 2018
+    1.2.12
+    Sep 27, 2018
+    1.2.11
+    Sep 21, 2018
+    1.2.10
+    Aug 27, 2018
+    1.2.9
+    Jul 29, 2018
+    1.2.8
+    Apr 10, 2018
+    1.2.7
+    Feb 23, 2018
+    1.2.6
+    Dec 19, 2017
+    1.2.5
+    Dec 12, 2017
+    1.2.4
+    Nov 6, 2017
+    1.2.3
+    Oct 6, 2017
+    1.2.2
+    Sep 20, 2017
+    1.2.1
+    Jul 25, 2017
+    1.2.0
+    Jul 3, 2017
+    1.1.24
+    Jun 22, 2017
+    1.1.23
+    May 28, 2017
+    1.1.22
+    May 10, 2017
+    1.1.21
+    May 5, 2017
+    1.0
+    May 2, 2017
+
+See More
+Top In-App Purchases
+
+    1 month
+    $2.49
+    6 months
+    $11.99
+    12 months
+    $20.49
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    May 2, 2017
+
+Worldwide Release Date
+    Feb 5, 2017
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    12.3
+
+Size
+    117.44 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Danish, Dutch, Finnish, French, German, Hebrew, Hindi, Indonesian, Italian, Japanese, Korean, Norwegian Bokmål, Persian, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese, Turkish, Ukrainian
+
+Seller
+    SKRED
+
+Company HQ
+    France
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    mobi.skred.app
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Company Website
+
+App ID: 1201278426
+Unified App ID: 1000600000813005
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Skred Messenger | data.ai

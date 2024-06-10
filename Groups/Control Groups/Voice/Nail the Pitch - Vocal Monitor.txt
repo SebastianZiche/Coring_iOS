@@ -1,0 +1,248 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Nail the Pitch - Vocal Monitor
+Autumn Rock Software DevelopmentMusic (Applications)Free
+Alerts
+
+Nail the Pitch
+Nail the Pitch - Vocal Monitor
+Nail the Pitch - Vocal Monitor
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Nail the Pitch - Vocal Monitor
+Music (Applications)
+Free
+App Description
+This app is made for singers and musicians in general. You can use the app to:
+
+- Practice singing in tune.
+- Figure out the notes of a vocal melody.
+- Test the range of your voice.
+Ratings
+Displayed Avg Ratings
+4.64
+Total Displayed Ratings
+4.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.2.1 (Sep 3, 2023)
+    - Refine the tempo detection algorithm used when converting audio to MIDI.
+Version 2.2 (Jul 9, 2023)
+    - Pro Version users can now export recorded vocal melodies as Midi files
+    - Improve audio quality when recording through a Bluetooth device
+    - Bug fixes and UX improvements
+Version 2.1.2 (Aug 12, 2022)
+    - Improved pitch detection.
+    - Pro version now has the ability to export sessions as lossless WAV files.
+    - Bug fixes. 
+Version 2.0.2 (May 23, 2021)
+    Improving app stability. 
+Version 2.0.1 (Nov 22, 2020)
+    Add support for Bluetooth headphones. 
+Version 2.0 (May 28, 2020)
+    - Pinch-to-zoom.
+    - Fine tuner window.
+    - Ability to turn off note highlights in the settings panel.
+    - Improved pitch detection engine.
+    - Minor bug fixes. 
+Version 1.1.2 (May 4, 2020)
+    Fixing the microphone bug that has been happening for some devices running iOS13. 
+Version 1.1 (May 1, 2020)
+    Unlock record/playback feature with the Pro Version.
+Version 1.0.3 (Mar 26, 2020)
+    - Add the ability to pause.
+    - Add a configurable noise gate for filtering out background noises.
+    - Add support for portrait mode.
+    - The pitch detection algorithm has been improved.
+    - Support 60 fps on newer devices. 
+Version 1.0.2 (Dec 30, 2019)
+    - Fix crashes on newer devices such as iPhone11 and iPhone11 Pro. 
+Version 1.0 (Dec 17, 2019)
+
+Users may also like
+Select objects to compare
+Singscope
+开嗓练声-学声乐唱歌练习伴奏软件
+VocalTuner
+Pitch Pro Tuner & Metronome
+音壳-乐理和视唱练耳大师级app
+开嗓练习-学习唱歌的声乐教学软件
+Ella: Sight Singing & Reading
+Pocket Pitch - The Singer App
+Voice Training - Learn to Sing
+EarMaster - Music Theory
+IQ Classifications
+Genre: Entertainment
+Subgenre: Musical Instruments
+Musical Instruments
+Apps that allow users to play virtual musical instruments on their mobile devices.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.2.1
+    Current release
+    Sep 3, 2023
+    2.2
+    Jul 9, 2023
+    2.1.2
+    Aug 12, 2022
+    2.0.2
+    May 23, 2021
+    2.0.1
+    Nov 22, 2020
+    2.0
+    May 28, 2020
+    1.1.2
+    May 4, 2020
+    1.1
+    May 1, 2020
+    1.0.3
+    Mar 26, 2020
+    1.0.2
+    Dec 30, 2019
+    1.0
+    Dec 17, 2019
+
+See More
+Top In-App Purchases
+
+    Pro Version
+    $7.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Music
+
+Initial Release Date
+    Dec 17, 2019
+
+Worldwide Release Date
+    Dec 17, 2019
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    2.2.1
+
+Size
+    8.98 mb
+
+Only 32 Bit
+    No
+
+Languages
+    engelska, förenklad kinesiska, japanska, traditionell kinesiska
+
+Seller
+    Qiushi Jiang
+
+Company HQ
+    Canada
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Kräver iOS 12.0 eller senare. Kompatibel med iPhone, iPad och iPod touch.
+
+Bundle ID
+    com.autumnrockdev.Nail-the-Pitch
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1486640549
+Unified App ID: 1000600000860064
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Nail the Pitch - Vocal Monitor | data.ai

@@ -1,0 +1,389 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Smart Karaoke Remote PRO
+Nguyễn Tiến HưngEntertainment (Applications)Free
+Alerts
+
+Smart Karaoke Remote PRO
+Smart Karaoke Remote PRO
+Smart Karaoke Remote PRO
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Smart Karaoke Remote PRO
+Entertainment (Applications)
+Free
+App Description
+Giải pháp thay thế cho sách nhạc & remote thông thường.
+Smart Karaoke Remote là ứng dụng được phát triển đi kèm theo ứng dụng Smart Karaoke Player.
+Hỗ trợ người dùng tương tác với thiết bị phát đã được cài đặt ứng dụng Smart Karaoke Player một cách tiện lợi nhất.
+Ứng dụng Remote này có thể giúp bạn tra cứu, chọn bài nhanh, điều khiển (start, pause, stop, next, tắt mở giọng ca sĩ, bài hát yêu thích) thiết bị phát thông qua thiết bị cầm tay smartphone/tablet của bạn.
+Ratings
+Displayed Avg Ratings
+3.43
+Total Displayed Ratings
+81
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.56 (Aug 15, 2023)
+    Fix crash bug iPhone
+Version 1.55 (Jul 20, 2023)
+    - Support input both IP address and host id in Preferences
+Version 1.52 (Jul 8, 2023)
+    - Support iOS 10
+    - Enable the Multicast Networking additional capability
+Version 1.51 (Mar 10, 2023)
+    Improve connect speed
+Version 1.50 (Feb 3, 2023)
+    Fix bugs
+Version 1.49 (Aug 20, 2022)
+    Fix bugs
+Version 1.48 (Aug 10, 2022)
+    Fix bugs
+Version 1.47 (Nov 20, 2020)
+    Fix bugs
+Version 1.46 (Apr 19, 2020)
+    - Fix bugs
+    - Improve suggestions
+Version 1.45 (Apr 8, 2020)
+    Fix bugs
+Version 1.44 (Apr 7, 2020)
+    Improve suggestion
+Version 1.43 (Nov 25, 2019)
+    Fix bugs
+Version 1.42 (Nov 19, 2019)
+    Fix bugs
+Version 1.41 (Nov 17, 2019)
+    - Fix bugs
+    - Support mixed search song mode
+    - Disable Dark Mode
+Version 1.40 (Oct 29, 2019)
+    - Fix bugs
+Version 1.39 (Oct 24, 2019)
+    Fix bugs
+Version 1.38 (Oct 7, 2019)
+    Fix bugs
+Version 1.37 (Sep 20, 2019)
+    - Fix bugs
+    - Add Music Pro tab
+Version 1.36 (Sep 10, 2019)
+    - Fix bugs
+    - Improve search algorithm
+Version 1.35 (Jun 10, 2019)
+    Fix bugs
+Version 1.34 (May 21, 2019)
+    - Fix bugs
+    - Improve search results
+Version 1.33 (May 14, 2019)
+    - Fix bugs
+    - Support download song
+Version 1.32 (Apr 27, 2019)
+    - Fix bugs
+Version 1.31 (Apr 22, 2019)
+    - Fix bugs
+    - Support recording for Karaoke Booth
+Version 1.30 (Feb 21, 2019)
+    - Add slider for SoundCloud and MixCloud
+Version 1.29 (Feb 8, 2019)
+    Fix iPhone X series layout bugs
+Version 1.28 (Jan 30, 2019)
+    - Support MixCloud search
+Version 1.27 (Jan 5, 2019)
+    - Fix bugs
+    - Support SoundCloud search for iPhone
+    - Change App Icon
+Version 1.26 (Dec 20, 2018)
+    Support SoundCloud search for iPad
+Version 1.25 (Oct 28, 2018)
+    Fix bugs
+Version 1.24 (Jul 6, 2018)
+    - New iPad layout
+Version 1.23 (Mar 24, 2018)
+    - New iPad layout
+    - Support filter Karaoke or not for YouTube search
+Version 1.20 (Dec 30, 2017)
+    Support search karaoke song from YouTube
+Version 1.17 (Nov 30, 2017)
+    + Fix iPhone X fullscreen issue
+    + Support tone up/down by 1
+Version 1.16 (Aug 19, 2017)
+    - Add remote song download function
+Version 1.15 (May 16, 2017)
+    + Fix bugs
+Version 1.12 (Apr 21, 2017)
+    + Add select tone button
+Version 1.11 (Feb 19, 2017)
+    - Add Play and Download in Record List Screen
+    - Fix bugs
+Version 1.10 (Feb 6, 2017)
+    - Improve connect speed, add connect settings
+    - Improve load thumbnail
+    - Add record button
+    - Add record list screen
+    - Fix bugs
+Version 1.06 (Aug 8, 2016)
+    Improve connect speed
+Version 1.05 (Jul 5, 2016)
+    Improve search with Khmer language
+Version 1.04 (Jul 1, 2016)
+    Synchronize language (Vietnamese or English or Khmer) from the player app on PC or TV Box.
+Version 1.03 (Apr 29, 2016)
+    Display song title in 2 lines.
+    Remove lyric line
+Version 1.02 (Apr 14, 2016)
+    - Rename app name from Smart Karaoke Remote PC to Smart Karaoke Remote PRO
+    - Fix bugs
+Version 1.01 (Apr 4, 2016)
+    - Improve load thumbnail
+    - Upper case playing song title, popup song title
+    - Fix bug missing song title in some popup
+Version 1.0 (Mar 23, 2016)
+
+Users may also like
+Select objects to compare
+Yokara - Sing Karaoke
+Kekara - Karaoke thỏa thích
+Hakara - Sing karaoke
+CloudKaraoke Soncamedia
+VietK
+Hát Karaoke - VKara
+THVLi
+VTVcab ON - Giải trí bất tận
+VieON - Films, Sport, Show, TV
+VTV Go Truyền hình số Quốc gia
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.56
+    Current release
+    Aug 15, 2023
+    1.55
+    Jul 20, 2023
+    1.52
+    Jul 8, 2023
+    1.51
+    Mar 10, 2023
+    1.50
+    Feb 3, 2023
+    1.49
+    Aug 20, 2022
+    1.48
+    Aug 10, 2022
+    1.47
+    Nov 20, 2020
+    1.46
+    Apr 19, 2020
+    1.45
+    Apr 8, 2020
+    1.44
+    Apr 7, 2020
+    1.43
+    Nov 25, 2019
+    1.42
+    Nov 19, 2019
+    1.41
+    Nov 17, 2019
+    1.40
+    Oct 29, 2019
+    1.39
+    Oct 24, 2019
+    1.38
+    Oct 7, 2019
+    1.37
+    Sep 20, 2019
+    1.36
+    Sep 10, 2019
+    1.35
+    Jun 10, 2019
+    1.34
+    May 21, 2019
+    1.33
+    May 14, 2019
+    1.32
+    Apr 27, 2019
+    1.31
+    Apr 22, 2019
+    1.30
+    Feb 21, 2019
+    1.29
+    Feb 8, 2019
+    1.28
+    Jan 30, 2019
+    1.27
+    Jan 5, 2019
+    1.26
+    Dec 20, 2018
+    1.25
+    Oct 28, 2018
+    1.24
+    Jul 6, 2018
+    1.23
+    Mar 24, 2018
+    1.20
+    Dec 30, 2017
+    1.17
+    Nov 30, 2017
+    1.16
+    Aug 19, 2017
+    1.15
+    May 16, 2017
+    1.12
+    Apr 21, 2017
+    1.11
+    Feb 19, 2017
+    1.10
+    Feb 6, 2017
+    1.06
+    Aug 8, 2016
+    1.05
+    Jul 5, 2016
+    1.04
+    Jul 1, 2016
+    1.03
+    Apr 29, 2016
+    1.02
+    Apr 14, 2016
+    1.01
+    Apr 4, 2016
+    1.0
+    Mar 23, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Mar 23, 2016
+
+Worldwide Release Date
+    Mar 23, 2016
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    1.56
+
+Size
+    2.90 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Hung Tien Nguyen
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.smartkaraoke.Smart-Karaoke-Remote-PC
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1092804392
+Unified App ID: 1000800000236256
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Smart Karaoke Remote PRO | data.ai

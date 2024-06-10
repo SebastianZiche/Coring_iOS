@@ -1,0 +1,8 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1570320654,0,Mystique Messenger,Social Networking,2021-06-16,2021-06-16,10.87,1,0,0,0,1.4.7,2021-12-18,Bug fix for missing sessions and token refresh.,0,0,0,0,0,0,0,0
+1570320654,0,Mystique Messenger,Social Networking,2021-06-16,2021-06-16,10.87,1,0,0,0,1.4.6,2021-11-03,Bug Fix for crashing conversations,0,0,0,0,0,0,0,0
+1570320654,0,Mystique Messenger,Social Networking,2021-06-16,2021-06-16,10.87,1,0,0,0,1.4.5,2021-10-30,Bug fix for message reliability,0,0,0,0,0,0,0,0
+1570320654,0,Mystique Messenger,Social Networking,2021-06-16,2021-06-16,10.87,1,0,0,0,1.4.4,2021-10-14,Bug fix for data sync issue,0,0,0,0,0,0,0,0
+1570320654,0,Mystique Messenger,Social Networking,2021-06-16,2021-06-16,10.87,1,0,0,0,1.4.3,2021-10-04,Bug fix for messages failing without closing app,0,0,0,0,0,0,0,0
+1570320654,0,Mystique Messenger,Social Networking,2021-06-16,2021-06-16,10.87,1,0,0,0,1.4.2,2021-09-17,Color handling for dark mode,0,0,0,0,0,0,0,0
+1570320654,0,Mystique Messenger,Social Networking,2021-06-16,2021-06-16,10.87,1,0,0,0,1.4.1,2021-09-12,Bug fixes for initial message failing,0,0,0,0,0,0,0,0

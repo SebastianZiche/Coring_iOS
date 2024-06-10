@@ -1,0 +1,282 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Drawing Grid
+Maciej ChrzastekPhoto and Video (Applications)$0.99
+Alerts
+
+    Maciej Chrzastek
+
+    Drawing Grid
+    Drawing Grid
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Drawing Grid
+Photo and Video (Applications)
+$0.99
+iPhone Only
+App Description
+Drawing Grid app will help you keep proportion of drawing objects.
+Simply set canvas size to correctly lay out individual grid elements and see physical dimensions, then set grid properties either as square blocks or blocks of specific size, exactly as you need them.
+Finally, transform image by setting its position and changing its size.
+
+If you are missing a feature just let us know by creating a new feature request from within the Drawing Grid app.
+Ratings
+Displayed Avg Ratings
+2.71
+Total Displayed Ratings
+175
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.2.0 (Apr 9, 2024)
+    Thanks for creating feature requests.
+    In this version you can now crop and easily rotate your image
+Version 3.1.0 (Feb 23, 2024)
+    Improved image manipulation: When on the Image tab, use gestures to zoom, move and rotate your image. Image has a red border that indicates it can be transformed. On the same tab you can now adjust transparency, easily select new image or reset its position and rotation.
+
+    Diagonal lines: Diagonal lines can be enabled in the Menu->Grig and Diagonal from the top picker.
+
+    Thanks for using the app, your comments on the App Store and feature requests. If you're missing some feature, create a new feature request describing what you'd love to see on the next update.
+Version 3.0.4 (Nov 12, 2023)
+    - Added requested feature "Export / save image with grid to photos"
+    - Bug fixes related to grid columns
+Version 3.0.3 (Oct 24, 2023)
+    Thanks for your feedback!
+    - added requested feature "Numbered Rows And Lettered Columns"
+    - improved zooming and resizing image
+Version 3.0.1 (Sep 27, 2023)
+    Dark mode adjustments
+Version 3.0 (Sep 22, 2023)
+    Completely redesigned to take full advantage of different screen sizes, clean interface and no more ads
+Version 2.5.4 (Nov 1, 2017)
+    -fixed issue with landscape image proportions while using black&white filter
+    -minor bug fixes
+Version 2.5.3 (Oct 25, 2017)
+    -fixed issue with image proportion after applying "black&white" filter
+Version 2.5.2 (Aug 30, 2017)
+    -added option for equal spacing while using Ratio option so that each square has the same dimensions
+    -minor bug fixes
+Version 2.5.1 (Sep 30, 2016)
+    fixed issues:
+    - while opening Photo Library, app crashed on iOS10
+    - exporting grid and photo on iPads caused crash
+    - color buttons were not visible on some devices
+    - and minor bugs
+
+    Thank you again for using Drawing Grid. If you would like to suggest new features or just share your thoughts about the app, you can do so by going to the "Developer Website".
+Version 2.5 (Sep 27, 2016)
+    Thank you for using Drawing Grid :)
+
+    - completely redesign menu to be more intuitive and more reliable
+    - option for displaying indexes
+    - option to set grid color based on RGB values
+    - photo filter so that you can convert your image to black and white only
+    - automatically saves and restores your settings
+    - share grid, image or both
+Version 2.0 (Mar 10, 2014)
+    A huge thanks goes to anyone who is using Drawing Grid app. Your comments were very helpful when designing the new version.
+
+    +All the previous functionality is kept (change spacing, opacity, line width, and gestures on image, colouring the grid)
+    +Apply ratios
+    +lock the grid on top of your image
+    +more colours
+    +change colour of the centre lines
+    +square the grid
+    +new icon
+    +new interface
+    +remove ads with in-app purchases
+
+    Enjoy! :)
+Version 1.5 (Dec 21, 2012)
+    +Support for iPad, iPhone and iPod
+    +redesigned user interface
+    +support for 4 gestures
+    +ability to scale up and down chosen image
+    +ability to move chosen image
+    +ability to change space between lines in the grid
+Version 1.0 (Feb 14, 2012)
+
+Users may also like
+Select objects to compare
+Draw Grid on Image
+DrawinGrid
+Grid # - Add grid on image
+Poster Shine - posterize
+Pencil Sketch Photo Editor
+Fx Stencil
+My Sketch - Pencil Sketches
+Frameit: Framed Art & Drawing
+PopArt Photo Editor
+ArtStage - Display Your Art
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.2.0
+    Current release
+    Apr 9, 2024
+    3.1.0
+    Feb 23, 2024
+    3.0.4
+    Nov 12, 2023
+    3.0.3
+    Oct 24, 2023
+    3.0.1
+    Sep 27, 2023
+    3.0
+    Sep 22, 2023
+    2.5.4
+    Nov 1, 2017
+    2.5.3
+    Oct 25, 2017
+    2.5.2
+    Aug 30, 2017
+    2.5.1
+    Sep 30, 2016
+    2.5
+    Sep 27, 2016
+    2.0
+    Mar 10, 2014
+    1.5
+    Dec 21, 2012
+    1.0
+    Feb 14, 2012
+
+See More
+About
+
+Required Devices
+    iPhone, iPad
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Feb 14, 2012
+
+Worldwide Release Date
+    Feb 14, 2012
+
+Last Updated Time
+    Apr 21, 2024
+
+Version
+    3.2.0
+
+Size
+    2.04 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Maciej Chrzastek
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 16.4 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.maciejchrzastek.Drawing-Grid
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 500885379
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Drawing Grid | data.ai

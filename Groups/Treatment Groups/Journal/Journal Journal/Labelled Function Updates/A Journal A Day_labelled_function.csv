@@ -1,0 +1,5 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8,app_function
+1659288235,0,A Journal A Day,Health and Fitness,2023-01-22,2023-01-22,8.54,1,0,0,0,1.0.6,2023-04-01,Added support for biometric unlock FaceID TouchID .,0,0,0,0,0,0,0,0,0
+1659288235,0,A Journal A Day,Health and Fitness,2023-01-22,2023-01-22,8.54,1,0,0,0,1.0.5,2023-01-31,Bugfixes performance improvements and various new features,0,0,0,0,0,0,0,0,0
+1659288235,0,A Journal A Day,Health and Fitness,2023-01-22,2023-01-22,8.54,1,0,0,0,1.0.4,2023-01-27,Miscellaneous performance improvements and new features.,0,0,0,0,0,0,0,0,0
+1659288235,0,A Journal A Day,Health and Fitness,2023-01-22,2023-01-22,8.54,1,0,0,0,1.0,2023-01-22,,0,0,0,0,0,0,0,0,0

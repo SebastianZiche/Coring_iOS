@@ -1,0 +1,833 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MindSpace - Mind Map
+佳文 潘Productivity (Applications)Free
+Alerts
+
+    佳文 潘
+
+    MindSpace - Mind Map
+    MindSpace - Mind Map
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MindSpace - Mind Map
+Mind mapping, Brainstorming
+Productivity (Applications)
+Free
+App Description
+Create concise mind maps quickly.
+Edit them on Mac, iPad and iPhone, export pictures or PDF at any time to share in study and work.
+
+• Organize ideas
+Quickly adjust the structure of your information, distinguish them with different colors and different formats, insert stickers to make the information more vivid, and the built-in exquisite themes can be styled with one click. In short, MindSpace strives to help you build a castle of knowledge in your brain.
+
+• Capture inspiration
+Grasp the fleeting inspiration, quickly add it to the mind map, and become an important part of your knowledge castle. Each inspiration instantly becomes brick by brick and is permanently stored in your brain.
+
+• Exquisite appearance
+The selected theme style allows you to pay more attention to the information itself without worrying about the appearance. The minimalist style makes every position not redundant while reducing interference, making the content itself the core.
+
+• Data Security
+MindSpace uses the simplest way to build, namely the document editor, your data belongs to you only.
+
+• Free sharing
+Some of your whimsical ideas or creative inspiration can improve team efficiency, so make an intuitive mind map and share it with your team.
+
+
+
+If you choose the "subscription" purchase model, before subscribing, please know:
+• Monthly subscription users:
+Each subscription period is 1 month.
+• Annual subscription users:
+Each subscription period is 1 year.
+• In the MindSpace purchase window, the latest subscription price will be displayed in real time. After the payment is confirmed, or after the free trial period (if any) ends, the iTunes account will be debited.
+• The subscription is automatically renewed unless the auto-renewal feature is turned off 24 hours before the current subscription period.
+• The account will be deducted for renewal within 24 hours before the end of the current subscription period, and the renewal amount is the same as the previous subscription amount.
+• The user can manage the subscription service by himself, and the automatic renewal service can be turned off in the user's account settings after purchase.
+terms of use:
+Please read the following terms carefully before using the "Unlocked Full Version" value-added service provided by "MindSpace":
+1. Subscription model
+This service is a subscription-based fee-based service, which means that you will pay in advance for future subscription usage. Currently, you can choose to use the service on a monthly or yearly basis. At the end of each subscription period, your subscription will be automatically renewed by default, unless you cancel the automatic renewal yourself or we cancel the service.
+2. Expenses
+The current standard service price may change during the promotion period. When the price adjustment occurs, the new fee will be incurred in your next subscription cycle.
+3. Refund
+The current subscription fee will not be refunded. Please be sure to cancel the service by yourself before the end of the trial.
+4. Unsubscribe
+If you need to cancel the renewal, please cancel at least 24 hours in advance. You can cancel by the following method: open the system settings-click on Apple ID-click on subscription-select "MindSpace" to cancel the subscription
+5. Other
+The same Apple ID can only open one subscription to "MindSpace"
+contact us
+If you have any questions about these terms of use, please contact us.
+Email address: todo-color@outlook.com.
+
+Link to Terms of Use:
+https://rednow.cc/terms-of-use/
+Privacy policy link:
+https://rednow.cc/privacy-policy/
+Ratings
+Displayed Avg Ratings
+4.67
+Total Displayed Ratings
+163
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.51 (Jan 24, 2024)
+    • Fix the problem that cannot add local links.
+    • Added the function of "Balance Child Node".
+    • Optimize the "Add Node" button position.
+Version 1.5.50 (Jan 15, 2024)
+    Fix Bug
+Version 1.5.49 (Dec 27, 2023)
+    Fix Bug
+Version 1.5.48 (Dec 20, 2023)
+    Fix Bug
+Version 1.5.47 (Dec 16, 2023)
+    Fix Bug
+Version 1.5.46 (Dec 8, 2023)
+    Fix Bug
+Version 1.5.45 (Dec 6, 2023)
+    fix bug
+Version 1.5.44 (Nov 30, 2023)
+    • Fix the problem that the pure text cannot be copied.
+    • Fixed screenshots cannot be dragged directly to the canvas.
+    • When repairing the delete node, the menu bar may pop up multiple times and cause the collapse.
+Version 1.5.42 (Nov 21, 2023)
+    • Fix the problem that the toolbar did not display immediately when the startup was started.
+    • Fix the problem of switching when entering the text.
+    • Fix the problem that there is no medium display when adding "summary".
+Version 1.5.40 (Oct 28, 2023)
+    • Add "Expand the next layer".
+    • Added "button hover prompt".
+    • Optimize some pages.
+Version 1.5.39 (Oct 5, 2023)
+    Fix bug
+Version 1.5.38 (Sep 11, 2023)
+    Fix bug
+Version 1.5.37 (Aug 28, 2023)
+    • Add the default font size modification entrance to the settings.
+    • Add the reverse branch switch to the settings.
+    • The color of the branch will not be reset after the file is closed.
+    • Fix the input errors when typing "Infusions".
+Version 1.5.36 (Aug 12, 2023)
+    • Adjust the speed of selected nodes.
+    • Increase the way to import freeMind.
+    • Increase the method of importing TXT.
+    • You can save the theme of the last time.
+    • When modifying the color of the node branch, the color of the sub -node branch will be modified together.
+Version 1.5.35 (Jul 1, 2023)
+    • Add the png format of the export of transparent background.
+    • When the file is deleted, the pure text will be backup for up to 10 days.
+    • Repair the problem that the keyboard cannot pop up sometimes.
+    • Modify some UI.
+Version 1.5.34 (Jun 6, 2023)
+    • Add the entrance to the default font in the settings.
+    • Fix the problem that may collapse when exporting PDF.
+    • Black image problems may occur when fixing the export of JPG.
+Version 1.5.32 (May 29, 2023)
+    • Add the function of automatic backup in the settings.
+    • Adjust the function of folding/unfolding nodes.
+    • Optimize the logic when reading data.
+    • Fix some problems.
+Version 1.5.31 (May 24, 2023)
+    Fix Bug
+Version 1.5.27 (Apr 9, 2023)
+    • Fix memory leak caused by demo files.
+    • Fixed the failure of some buttons on the settings page.
+    • Fix interruption after in-app purchase jump.
+Version 1.5.25 (Apr 5, 2023)
+    • Fixed the occasional failure of the image zoom button.
+    • Fix the problem that the click event will point to the collapsed node.
+    • Fix the memory leak caused by some operations.
+    • Optimized snapshot generation speed.
+    • Optimize pages.
+Version 1.5.24 (Mar 1, 2023)
+    • Each module in "Format" can be folded separately.
+    • Optimize some French translations.
+    • Export notes together when exporting Markdown and Text.
+    • Try to fix the problem that the image quality is compressed after some images are imported.
+    • Adjusted "Product Page" section translations.
+    • Added Turkish, Ukrainian, Hindi, Persian languages.
+    • Fixed an issue where formatting was wrong when entering text at the beginning of node text.
+    • Adjust node default width.
+    • Margins of the Summary box are reduced.
+    • Keep the link after exporting PDF from the mobile terminal.
+    • Margins between nodes adjusted to 1-24pt.
+Version 1.5.23 (Jan 31, 2023)
+    • Added import and export of Markdown and OPML files.
+    • Optimize the format of exported TXT files.
+    • Added 10 new colors and added color names to the list.
+    • Optimize the position of the mouse hover to display the note text.
+Version 1.5.22 (Jan 10, 2023)
+    • Show note text when mouse hovers over note icon.
+    • Optimize the focus function.
+    • Fixed an issue where switching themes while editing would result in incorrect text colors.
+Version 1.5.21 (Jan 4, 2023)
+    • Optimize the function of modifying fonts.
+    • Optimized default fonts.
+    • Show note text when mouse hovers over note icon.
+    • New style "Pin".
+    • Decrease the distance between the text and the bottom line.
+    • Fixed the problem that the image cannot be pasted after copying it directly.
+    • Fix the problem that the image is cropped after copying and pasting from the web page.
+    • Fixed the issue that the export failed due to wrong file name when exporting PDF/JPG/TXT.
+Version 1.5.21 (Jan 4, 2023)
+    • Optimize the function of modifying fonts.
+    • Optimized default fonts.
+    • Show note text when mouse hovers over note icon.
+    • New style "Pin".
+    • Decrease the distance between the text and the bottom line.
+    • Fixed the problem that the image cannot be pasted after copying it directly.
+    • Fix the problem that the image is cropped after copying and pasting from the web page.
+    • Fixed the issue that the export failed due to wrong file name when exporting PDF/JPG/TXT.
+Version 1.5.19 (Dec 27, 2022)
+    • Supports hyperlinks to jump to local files.
+    • Fixed the problem that dragging and dropping pictures to import failed in lower versions.
+    • Fix some text errors.
+    • Fix the problem that the widget jump file fails.
+    • Optimize icon size.
+Version 1.5.18 (Dec 16, 2022)
+    • Support drag and drop to import pictures.
+    • Support copying pictures and pasting them directly into the canvas.
+    • Optimized cut copy paste.
+    • Optimize the buying process.
+Version 1.5.17 (Dec 2, 2022)
+    • Urgent fix for "Restore Purchases" that might fail.
+    • The style remains unchanged when modifying the Color.
+    • Added two "skeletons".
+Version 1.5.16 (Nov 27, 2022)
+    Urgently fix the problem that files may be hidden after renaming files in iOS 15.
+Version 1.5.15 (Nov 25, 2022)
+    Fixed an issue where the touchpad of the Magic Keyboard did not work.
+    Fixed the issue that iOS 16 cannot call out the shortcut menu when long pressing Command.
+    Fixed an issue where the "More Menu" might not pop up.
+    The navigation bar adds buttons to collapse/expand nodes.
+Version 1.5.14 (Nov 9, 2022)
+    Added 4 new iOS 16 lock screen widgets.
+    Navigation bar drag event adjustment.
+    Thumbnail adjustment.
+Version 1.5.13 (Nov 2, 2022)
+    Added desktop widgets.
+    Fixed file not being opened automatically after importing.
+Version 1.5.12 (Sep 24, 2022)
+    Fix interface issues of navigation bar and toolbar.
+Version 1.5.11 (Sep 14, 2022)
+    Adjust the display logic of thumbnails
+Version 1.5.10 (Sep 8, 2022)
+    Optimize the navigation bar.
+    Double-click an image in a node to zoom in.
+    Fix a memory issue.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.5.9 (Sep 1, 2022)
+    Optimize product pages.
+    Fixed the problem that the button state did not change after the shortcut key was called out of the toolbar.
+    Fix text size error.
+    Fix the problem of insensitive sliding operation.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.5.8 (Aug 25, 2022)
+    When pasting a node, you can paste the attached attachments together.
+    When dragging, the selected node will be dragged first.
+    Optimize selected borders, edit borders, mark borders and move borders.
+    Optimize the toolbar.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.5.7 (Aug 16, 2022)
+    Optimize the "Drawing" save mechanism.
+    Preserves Skeletons when switching Colors.
+    Shortcuts for bold, italic, underline, and strikethrough can also be used after selecting multiple nodes.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.5.6 (Aug 9, 2022)
+    Two new "skeletons" have been added.
+    Three new "shapes" have been added.
+    Adjust the "skeleton" style.
+    Optimized the speed of creating new nodes and editing nodes.
+    Fixed multiple lag issues under "Drawing".
+    Fixed an issue where the "skeleton" and "colors" pages were stuck.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.5.5 (Jul 31, 2022)
+    4 new "skeletons" have been added.
+    Added compact tree layout.
+    Fixed the problem that the demo file could not be exported to PDF.
+    Fix some wrong layout when linear layout.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.5.4 (Jul 25, 2022)
+    Fixed a small probability of crash when exporting PDF.
+    Added animation when switching skeletons.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.5.3 (Jul 17, 2022)
+    Fixed file not opening when certain fonts were missing.
+    Added two shortcut keys:
+    ⌥↑: Slide up the toolbar list.
+    ⌥↓: Slide down the toolbar list.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.5.1 (Jun 25, 2022)
+    Fix selection logic error when multiple nodes are selected.
+    Fixed the crash caused by displaying pictures in iOS16.
+    Fixed the crash caused by task selection in iOS16.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.5 (Jun 20, 2022)
+    ***BIG UPDATE***
+    "Skeleton and Color": We have launched 36 kinds of "skeleton" and 50 kinds of "color" at one time. Through "skeleton", you can quickly modify the structure of the mind map. Of course, you can also customize each one in "Format" The structure of the node. And through "Color", you can quickly set the parameters of node branch, fill color, border color, background color and so on.
+
+    Other optimizations and fixes:
+    After importing, the compressed image size is limited to 20MB.
+    The text color of the note follows the theme color.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4.9 (Jun 11, 2022)
+    In a few weeks we'll be rolling out the newly designed "Themes" feature. It will be split into 24 "skeletons" and 30 "colors", and your mind map will become extremely flexible. At the same time, we will also increase some prices appropriately. If you have been interested in MindSpace for a long time, you may wish to place an order to buy it now!
+
+    This update:
+    Added "Selected Export", you can select a part of nodes to export.
+    Optimized the speed of the mouse wheel.
+    Fixed the issue that the page was not refreshed after several operations.
+
+    After the text is selected, four shortcut keys can be executed:
+    ⌘B: bold
+    ⌘I: Italic
+    ⌘U: Underscore
+    ⌥⌘U: strikethrough
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4.8 (May 31, 2022)
+    Added more rim types and branch types.
+
+    Fixed a certain probability of crashing after multiple exports.
+
+    Optimize layout.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4.7 (May 20, 2022)
+    TXT files can be exported.
+
+    Optimize layout.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4.6 (May 4, 2022)
+    Add demo files: You can understand the functions of "MindSpace" more quickly and accurately through the demo files.
+
+    The distance of the nodes can be adjusted: the adjustment entrance is opened in the settings.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4.5 (Apr 20, 2022)
+    Add notes to outlines and support search.
+    Fix node text margin error.
+    Optimized settings page.
+    Optimize the size of exported JPG.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4.4 (Apr 12, 2022)
+    “Notes" can be added to each node.
+    "Link" can be added to each node.
+    "Focus" can be enabled for a branch.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4.3 (Apr 7, 2022)
+    Fixed an issue where iPhone/iPad might get stuck when opening files (when the network is poor).
+
+    Gesture optimization for iPhone/iPad when editing.
+    Text optimization.
+    Shortcut key optimization.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4.2 (Apr 6, 2022)
+    You can adjust the style of the selected part of the text (font, font size, color)
+
+    Disables the ability to use the arrow keys to select nodes while editing text.
+    Optimized the animation of "Move Node".
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4.1 (Apr 4, 2022)
+    Add several shortcut key functions:
+    ⇧⌘ENTER: Add a root node
+    ⇧⌘D: split node
+    ⌥⌘C: Copy format
+    ⌥⌘V: Copy format
+    ...
+
+    Add shortcut key tips to Menu Bar on macOS, and right-click to edit Menu to add shortcut key tips.
+
+    Optimized the "Move Node" operation.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4 (Mar 30, 2022)
+    Optimized performance for large files. (Performance optimization has been performed for operations such as moving the canvas, zooming the canvas, dragging and dropping nodes, editing nodes, batch selection, and undo).
+
+    A new display shape has been added to "Summary".
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.4 (Mar 30, 2022)
+    Optimized performance for large files. (Performance optimization has been performed for operations such as moving the canvas, zooming the canvas, dragging and dropping nodes, editing nodes, batch selection, and undo).
+
+    A new display shape has been added to "Summary".
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.3.5 (Mar 15, 2022)
+    Fix the problem that the add button occasionally fails;
+    Fix the problem that the cutting function occasionally fails;
+Version 1.3.4 (Mar 5, 2022)
+    The text format and branch style optimization when creating a new child node.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.3.3 (Feb 26, 2022)
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.3.2 (Feb 18, 2022)
+    Fix the problem that the share page crashes occasionally.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.3.1 (Jan 19, 2022)
+    The child node format follows the parent. The border color follows the branch color.
+    iPad shortcut key optimization.
+    iPhone and iPad support line wrapping within nodes, and key adjustments when editing.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.3 (Jan 17, 2022)
+    ***BIG UPDATE***
+    "Summary": Only two nodes can be connected through "Association", but it is often necessary to classify a group of nodes. "Summary" uses curly brackets to classify and note a group of related nodes, drag the brackets, and place them on the canvas at will. any location.
+
+    "Dark Theme": This update has added three dark themes. After selecting a dark theme, the color of the toolbar will also be changed to create a more suitable visual environment for you.
+
+    This time, the batch processing function has also been strengthened: after multiple selections, operations such as batch copying, cutting, splitting and deletion can be performed; and the operations of cutting and copying between files are supported.
+
+    And some fixes and optimizations:
+    · Fixed the issue that the background color was lost after exporting pdf.
+    · Press and hold option/control+return to wrap within a node.
+    · Optimized the logo.
+
+    If you encounter problems, please email to: todo-color@outlook.com.
+Version 1.2.3 (Jan 13, 2022)
+    Replaced better-looking icons.
+Version 1.2.2 (Jan 11, 2022)
+    Replaced better-looking icons.
+
+    Adjust the logic of "manual layout".
+
+    Support exporting MindSpace format files.
+
+    Optimize the layout of safe areas.
+
+    If you encounter any problems, please email to: todo-color@outlook.com.
+Version 1.2.1 (Jan 4, 2022)
+    Add "Outline" and "Search": If the layout of too many nodes is confusing, it may affect the efficiency. Through the "Outline" you can quickly sort out the relationship logic of all nodes. You can also use "Search" to quickly locate one of the nodes.
+
+    "Manual layout" optimization: do not remake the position of child nodes.
+
+    If you encounter any problems, please email to: todo-color@outlook.com.
+Version 1.2 (Dec 24, 2021)
+    ***Heavy update***
+    "Multiple root nodes": You can insert multiple root nodes anywhere on the canvas, or split a new root node from the original mind map, or you can recombine these scattered root nodes into a mind guide picture.
+
+    "Manual layout": Although automatic layout is convenient and trouble-free, sometimes it cannot meet your expectations. With manual layout, you can drag them to any position on the canvas as you like.
+
+    "Multi-selection mobile": In the last version, we added "multi-selection editing", but sometimes it is also important to move nodes in batches. We added it in this version.
+
+    And some supplementary functions and optimizations:
+    · Added the editing of text alignment.
+    · Added editing of branch path.
+    · Added the editing of attachment margins.
+    · Optimized the display logic of thumbnails.
+    · Optimized zoom in and zoom out and drag gestures.
+    · Optimized memory usage.
+    · Optimized the gesture of node width adjustment.
+
+    If you encounter any problems, please email to: todo-color@outlook.com.
+Version 1.1.4 (Dec 15, 2021)
+    "Multi-select editing" has been added. You can long press the blank area of the canvas and then slide to change the size of the selection box. The nodes in the selection box become selected; you can modify various properties for all selected nodes at the same time, such as borders, Text, etc., and even add pictures and drawings at the same time.
+
+    If you encounter any problems, please inform us by email: email: todo-color@outlook.com.
+Version 1.1.3 (Dec 7, 2021)
+    This update contains some fixes and updates:
+    Fixed the problem that the file cannot be exited after exporting pictures under iOS14.
+    Fixed the problem that the "Relationship" of the collapsed node appeared after the file was reopened.
+    Fixed the problem of “Relationship" drifting after moving position.
+    Optimized the border of the root node.
+    Optimized the size of the operation buttons after reducing the mind map.
+
+    If you encounter any problems, please email us: email: todo-color@outlook.com.
+Version 1.1.2 (Nov 30, 2021)
+    This update contains several optimizations:
+    Optimized the gesture operation on the "Palette" page.
+    Optimized the function of "focusing" a certain node.
+    You can select "Relate" when you select an item with the shortcut key.
+    When the theme is switched, the arrow type of "Related" is updated at the same time.
+    After "sharing" is successful, add prompt copy.
+    When "double-click to select", the cursor will appear at the corresponding position of the text instead of at the end.
+    "Associate" is being edited and click other items to release the editing status immediately.
+
+    If you encounter any problems, please inform us by email: email: todo-color@outlook.com
+Version 1.1.1 (Nov 21, 2021)
+    This version fixes the problem that photos and drawings cannot be added in the iOS14 environment! If you encounter any problems, please inform us by email: email: todo-color@outlook.com
+
+    Enhanced "Relationship": You can set the type of arrows on both sides of the "Relationship", or you can manually adjust the specific position of the arrow, so that the details inside the node can be associated.
+
+    Enhanced "Palette": Added "theme color", "favorite color" and color value entry, and also opened the color transparency modification entry. From this, you can make a mind map of your own personal style more calmly.
+
+    Optimized gestures: Optimized gestures such as swiping, zooming, mouse wheel sliding and touchpad swiping, allowing you to reduce misoperations when adjusting nodes.
+Version 1.1 (Nov 10, 2021)
+    This update adds the function of "Relationship". Through "Relationship" you can add connections between nodes in the mind map, or you can add annotations to individual nodes, so as to open up a dark line outside the open line between nodes to enrich information.
+
+    This update fixes a bug: when dragging a node to another node, there is a possibility of a crash. 
+
+And some optimizations: the gestures on the canvas increase the physical effect to make it smoother. In the editing state, a button to exit editing is added. Add a "Back to Center" button when the swiping position is far away from the mind map. 
+
+If you have any questions or encounter errors, please email: email: todo-color@outlook.com
+Version 1.0.7 (Oct 22, 2021)
+    This update adds the function of importing external pictures. With this function, you can add any picture you like to the nodes of the mind map, or you can make a good icon to enrich the content or stylize the mind map.
+
+    This update also carried out some optimizations and bug fixes:
+    Fixed the issue that the font size of the node with empty text would crash when modifying the font size
+    Fixed the problem that the font will be reset when the font size is modified
+    Adjusted the margins of attachments
+    Adjusted the position of the center node when there is a sidebar
+
+    If you have any questions or encounter errors, please email: email: todo-color@outlook.com
+Version 1.0.6 (Oct 12, 2021)
+    This version urgently fixes the crash when using shortcut keys in Italian, Thai, and Spanish!
+
+    And optimized the size of some buttons to make the operation more smooth.
+
+    If you have any questions or encounter errors, please let me know, email: todo-color@outlook.com
+Version 1.0.5 (Oct 10, 2021)
+    This version adds task functions:
+    Adding the todo option for each node helps you sort out the to-do items more clearly. If the node contains child nodes, the todo option will be added before all nodes, and the current completion progress can be displayed.
+
+    If you have any questions or encounter errors, please let me know, email: todo-color@outlook.com
+Version 1.0.4 (Oct 6, 2021)
+    This version fixes a bad problem: when two devices are online at the same time, MindSpace may overwrite the new data with the old data, so please be sure to update!
+
+    Adjusted the default save location of documents and stored them in iCloud Drive uniformly. If you cannot find a new folder when synchronizing data, please restart the device.
+
+    If you have any questions or encounter errors, please let me know, email: todo-color@outlook.com
+Version 1.0.3 (Oct 2, 2021)
+    Now MindSpace has more possibilities:
+    Added drawing function to show your more amazing creativity.
+    Added a wealth of node customization options, you can choose a variety of different node shapes, modify the fill color of the node, the border style color and so on.
+    I slightly adjusted the style of the theme to make them more pleasing to the eye.
+    If you have any valuable suggestions, please let me know, email: todo-color@outlook.com
+Version 1.0.2 (Sep 25, 2021)
+    1, Adapt to iOS15, iPadOS15
+    2, Add more shortcuts for iPadOS external keyboard
+    3. Fix some bugs
+
+Users may also like
+Select objects to compare
+ThinkSpace: Next-gen Mind Map
+Mind Map - HoodleMind
+Mind Map Maker - Mindomo
+SimpleMind - Mind Mapping
+Mind Mapping - MindMeister
+Flowdia Diagrams
+miMind
+EdrawMind: AI Mind Map, Notes
+Mind Mapping
+Diagrams Notepad 3
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.5.51
+    Current release
+    Jan 24, 2024
+    1.5.50
+    Jan 15, 2024
+    1.5.49
+    Dec 27, 2023
+    1.5.48
+    Dec 20, 2023
+    1.5.47
+    Dec 16, 2023
+    1.5.46
+    Dec 8, 2023
+    1.5.45
+    Dec 6, 2023
+    1.5.44
+    Nov 30, 2023
+    1.5.42
+    Nov 21, 2023
+    1.5.40
+    Oct 28, 2023
+    1.5.39
+    Oct 5, 2023
+    1.5.38
+    Sep 11, 2023
+    1.5.37
+    Aug 28, 2023
+    1.5.36
+    Aug 12, 2023
+    1.5.35
+    Jul 1, 2023
+    1.5.34
+    Jun 6, 2023
+    1.5.32
+    May 29, 2023
+    1.5.31
+    May 24, 2023
+    1.5.27
+    Apr 9, 2023
+    1.5.25
+    Apr 5, 2023
+    1.5.24
+    Mar 1, 2023
+    1.5.23
+    Jan 31, 2023
+    1.5.22
+    Jan 10, 2023
+    1.5.21
+    Jan 4, 2023
+    1.5.21
+    Jan 4, 2023
+    1.5.19
+    Dec 27, 2022
+    1.5.18
+    Dec 16, 2022
+    1.5.17
+    Dec 2, 2022
+    1.5.16
+    Nov 27, 2022
+    1.5.15
+    Nov 25, 2022
+    1.5.14
+    Nov 9, 2022
+    1.5.13
+    Nov 2, 2022
+    1.5.12
+    Sep 24, 2022
+    1.5.11
+    Sep 14, 2022
+    1.5.10
+    Sep 8, 2022
+    1.5.9
+    Sep 1, 2022
+    1.5.8
+    Aug 25, 2022
+    1.5.7
+    Aug 16, 2022
+    1.5.6
+    Aug 9, 2022
+    1.5.5
+    Jul 31, 2022
+    1.5.4
+    Jul 25, 2022
+    1.5.3
+    Jul 17, 2022
+    1.5.1
+    Jun 25, 2022
+    1.5
+    Jun 20, 2022
+    1.4.9
+    Jun 11, 2022
+    1.4.8
+    May 31, 2022
+    1.4.7
+    May 20, 2022
+    1.4.6
+    May 4, 2022
+    1.4.5
+    Apr 20, 2022
+    1.4.4
+    Apr 12, 2022
+    1.4.3
+    Apr 7, 2022
+    1.4.2
+    Apr 6, 2022
+    1.4.1
+    Apr 4, 2022
+    1.4
+    Mar 30, 2022
+    1.4
+    Mar 30, 2022
+    1.3.5
+    Mar 15, 2022
+    1.3.4
+    Mar 5, 2022
+    1.3.3
+    Feb 26, 2022
+    1.3.2
+    Feb 18, 2022
+    1.3.1
+    Jan 19, 2022
+    1.3
+    Jan 17, 2022
+    1.2.3
+    Jan 13, 2022
+    1.2.2
+    Jan 11, 2022
+    1.2.1
+    Jan 4, 2022
+    1.2
+    Dec 24, 2021
+    1.1.4
+    Dec 15, 2021
+    1.1.3
+    Dec 7, 2021
+    1.1.2
+    Nov 30, 2021
+    1.1.1
+    Nov 21, 2021
+    1.1
+    Nov 10, 2021
+    1.0.7
+    Oct 22, 2021
+    1.0.6
+    Oct 12, 2021
+    1.0.5
+    Oct 10, 2021
+    1.0.4
+    Oct 6, 2021
+    1.0.3
+    Oct 2, 2021
+    1.0.2
+    Sep 25, 2021
+
+See More
+Top In-App Purchases
+
+    Subscription Monthly
+    $0.99
+    Subscription Yearly
+    $7.99
+    Lifetime Pro
+    $15.99
+    Lifetime Pro(Original)
+    $15.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 18, 2021
+
+Worldwide Release Date
+    Sep 18, 2021
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    1.5.51
+
+Size
+    21.33 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Dutch, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Persian, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+Seller
+    佳文 潘
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.rednow.mindspace
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1585502524
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MindSpace - Mind Map | data.ai

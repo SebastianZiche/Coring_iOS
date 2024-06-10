@@ -1,0 +1,701 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Audio Memos SE
+ImesartBusiness (Applications)Free
+Alerts
+
+Audio Memos
+Audio Memos SE
+Audio Memos SE
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Audio Memos SE
+Voice Recorder, Note Dictation
+Business (Applications)
+Free
+App Description
+Audio Memos is a voice recorder for the iPhone and iPad. What you'll really like about Audio Memos, is that you can actually HEAR your recordings (try it and compare, you'll hear what we mean). It's also easy to use, with a simple and intuitive interface. Yet with many advanced features as volume boost, volume normalizing, editing of recordings and more. Most of these features are exclusive to this program, which makes it one of the most advanced recorder.
+
+This is a great recorder, don't just take our word for it: Audio Memos Free has been featured by Apple in the "What's hot" section.
+
+Your recordings are stored on your device but can be backed up to your computer using a simple web browser (or by email). See our website for more details.
+
+
+FEATURES
+
+• Send recordings by email.
+• High quality recordings up to 44100 Hz. Three levels of quality are available: 11025 Hz, 22050 Hz and 44100 Hz.
+• Professionally engineered audio normalizing filter, which enables you to have a constant average volume on all your recordings. This feature does not modify your recordings, so you can turn it on even if you intend to post process your audio files on a computer.
+• Wide range volume control using a volume boost. While listening to a recording, volume can be increased using your device's volume keys. If you find this insufficiently loud, you can adjust the volume boost in the application's settings.
+• Normalizing and boosting filters use dynamic compression with a non linear function to prevent clipping and minimize distortions. Note however that eventual clipping and distortion created by the microphone are not suppressed. If you care about quality, use the headset's microphone instead of the built in one.
+• Records even when your device is in sleep mode; and pauses automatically in the event of an incoming phone call.
+• Advanced listing of your recordings, which displays name, date, length and size information. A detailed view is also available for each recording. This view gives extra information such as quality and download status of a recording.
+• Must have controls as pause record, pause play, slider, quality control.
+• Uses widespread wav format to store recordings, so you can transfer and read them on any device.
+
+
+SUBSCRIPTION
+
+All features listed above can be used without an in app purchase. Some advanced features require an active subscription. These include:
+• Voice activated rec. - stop recording silence.
+• Upload to Dropbox, Google Drive, Box, Evernote, FTP or WebDAV.
+• Insert audio - insert comments easily.
+• Position markers - easy navigation.
+• Audio compression - email hours of recordings.
+• Memo alert dates / reminders.
+• Adjustable reading speed.
+• Add pictures to a memo.
+• Send or delete multiple recordings at a time.
+• Edit your recordings (trim, overwrite, merge).
+• Transcription - transform your memos into text.
+• Stereo recording using the builtin microphones (requires a compatible device and a «Pro +» subscription).
+
+Duration and price of each subscription are displayed in our storefront. All subscription costs will be charged to your Apple ID account, starting at the confirmation of purchase. Subscription automatically renews unless it is canceled at least 24 hours before the end of the subscription period. Your account will be charged for renewal within 24 hours prior to the end of the subscription period. It is not possible to cancel a subscription period once you have been charged for it. Any unused portion of a free trial period is forfeited as soon as a subscription is purchased. You can manage subscriptions and disable auto renewal by going to your account settings on the App Store after purchase.
+
+Terms of Service: https://imesart.com/legal/terms-of-service.php
+Ratings
+Displayed Avg Ratings
+3.09
+Total Displayed Ratings
+2.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.2.3 (Jan 23, 2024)
+    • Improve linking with Box.
+    • Fix download of transcription model.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.2.2 (Dec 20, 2023)
+    • Add Portuguese localization.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.2.1 (Mar 24, 2023)
+    • Improved speech recognition.
+    • Fixed multiple conversion errors.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.1.1 (Feb 6, 2023)
+    • Export VTT files for transcription and position markers.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.1.0 (Sep 23, 2022)
+    • Support for iOS 16 and watchOS 9.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.0.8 (Jun 27, 2022)
+    IMPORTANT: This update will sign you out of Google Drive. You will need to sign back in after updating.
+
+    • Improved support for Google Drive.
+    • Improved subscription management.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.0.7 (Mar 15, 2022)
+    This update includes minor stability and performance improvements.
+Version 5.0.6 (Feb 28, 2022)
+    • Improved support for position markers in WAV files.
+    • Improved support for SFTP.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.0.5 (Dec 21, 2021)
+    • Improved the sorting order of search results.
+    • Fixed the display of sent and due indicators.
+    • Added additional options for FTP and WebDAV servers.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.0.4 (Sep 20, 2021)
+    • Support for iOS 15 and watchOS 8.
+    • Improved the transcription process.
+    • Hear VoiceOver through a headset while recording from the internal mic.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.0.3 (May 5, 2021)
+    • Added a button to skip forward (IAP).
+    • Added the option to adjust the speed of saved audio (IAP).
+    • Fixed problem with auto splitting.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.0.2 (Apr 6, 2021)
+    • Faster app startup (0.52 seconds faster on iPhone 6).
+    • Fixed problem with auto send.
+    • Fixed problem when changing the recording quality.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.0.1 (Mar 25, 2021)
+    • Fixed problem with auto splitting.
+    • Memos in the trash can are now deleted after 30 days.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 5.0.0 (Mar 16, 2021)
+    • Use a widget to quickly start recording.
+    • Automatic transcription of memos¹.
+    • Stereo recording using the builtin microphones².
+    • Directly view progress of downloads, uploads and compressions.
+    • Rename memos on Apple Watch.
+    • Add position markers while recording on Apple Watch¹.
+    • Memos are compressed while recording¹.
+    • Many other improvements.
+
+
+    Leave us a review on the App Store to tell us what you think about this update.
+
+    ¹ Requires an active subscription.
+    ² Requires a compatible device and an active «Pro +» subscription.
+Version 4.9.4 (Jun 25, 2020)
+    • Send memos by email without size restrictions (except the ones from email providers).
+    • Improved connections with https://imesart.com/connect.php.
+    • More space for list of memos on iPad.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.9.2 (Dec 13, 2019)
+    • Introduces an optional subscription.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.9.1 (Nov 6, 2019)
+    This update contains stability improvements and bug fixes.
+Version 4.9.0 (Sep 19, 2019)
+    • Support for Dark Mode (iOS 13).
+    • Swipe down to dismiss views (iOS 13).
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.8.7 (Jun 21, 2019)
+    • Faster app startup.
+    • Support for Bluetooth devices.
+    • Fixed use of complications on some Series 2 and 3 watches.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.8.6 (May 16, 2019)
+    • Support for Apple Watch.
+
+    This update contains stability improvements and bug fixes.
+Version 4.8.5 (Jun 19, 2018)
+    • Added a trashcan to recover recently deleted memos.
+    • Fixed VoiceOver availability while recording.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.8.4 (Jun 8, 2018)
+    This update includes minor stability and performance improvements.
+Version 4.8.3 (Apr 28, 2018)
+    • Record button is once again easily accessible with VoiceOver.
+    • Added support for Drag and Drop.
+    • Added support for VoiceOver gestures.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.8.1 (Oct 26, 2017)
+    • Fixes random crash shortly after playback stopped under iOS 11.
+    • Much faster to start playing or recording under iOS 11.
+    • Fixed a bug that prevented playback until the app restarted.
+    • Buttons in toolbars now work correctly under iOS 11.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.7.5 (Jun 29, 2017)
+    This update contains stability improvements and bug fixes.
+Version 4.7.4 (Jun 28, 2017)
+    This update includes minor stability and performance improvements.
+Version 4.7.3 (Dec 19, 2016)
+    This update contains stability improvements and bug fixes.
+Version 4.7.2 (Nov 18, 2016)
+    This update contains stability improvements and bug fixes.
+Version 4.7.1 (Oct 27, 2016)
+    • Improved volume boost filter.
+    • Improved VoiceOver navigation in list of memos.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.6.2 (Jul 5, 2016)
+    • Small UI improvements
+    • Compatibility with next version of iOS
+    • Fixed recommendation button
+Version 4.6.1 (Feb 3, 2016)
+    • Support for iTunes File Sharing.
+    • Send bigger memos by emails.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.5.2 (Oct 7, 2015)
+    • Search your memos with global search.
+    • Support for Slide Over and Split View on iPad.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.5.1 (Sep 23, 2015)
+    • Support for iOS 9.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.4.0 (Jun 9, 2015)
+    • New icon.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.3.0 (Apr 9, 2015)
+    This update includes minor stability and performance improvements.
+Version 4.2.2 (Nov 25, 2014)
+    • Support for iOS 8.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.2.0 (Sep 29, 2014)
+    • Support for iOS 8.
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.1.4 (Aug 25, 2014)
+    • Better handling of interruptions due to phone calls.
+
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.1.3 (Aug 14, 2014)
+    • Better handling of interruptions due to phone calls.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.1.2 (Mar 22, 2014)
+    • Pinned the controls for VoiceOver users.
+
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.1.1 (Mar 7, 2014)
+    • Pinned the controls for VoiceOver users.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.1.0 (Jan 28, 2014)
+    • Pinned the controls for VoiceOver users.
+
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.0.2 (Oct 18, 2013)
+    • New icon.
+
+    • iOS 7 support.
+
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.0.1 (Oct 4, 2013)
+    • New icon.
+
+    • iOS 7 support.
+
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 4.0.0 (Sep 18, 2013)
+    • New icon.
+    • iOS 7 support.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 3.1.7 (Jul 19, 2013)
+    • Louder playback volume.
+    • New icon.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 3.1.6 (May 24, 2013)
+    • Louder playback volume.
+    • New icon.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 3.1.5 (May 3, 2013)
+    • New icon.
+
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+
+Version 3.1.4 (Jan 6, 2013)
+    • New icon.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 3.1.3 (Sep 24, 2012)
+    • iOS 6 and iPhone 5 support.
+    • Improved UI.
+    • Improved WiFi connections and sleep mode recording.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 3.0.4 (Jan 3, 2012)
+    • Improved WiFi connections and sleep mode recording.
+
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+
+Version 3.0.1.1 (Nov 19, 2011)
+    • Improved WiFi connections.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 2.80 (Apr 19, 2011)
+    • Landscape mode for the iPhone.
+    • Improved UI.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 2.79 (Mar 31, 2011)
+    • Landscape mode for the iPhone.
+    • Improved UI.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 2.75 (Nov 3, 2010)
+    • Landscape mode for the iPhone.
+    • Improved UI for the iPad.
+    • Many other improvements.
+    Leave us a review on the App Store to tell us what you think about this update.
+Version 2.74 (Sep 9, 2010)
+    • Landscape mode for the iPhone.
+
+    • Improved UI for the iPad.
+
+    • Many other improvements.
+
+    Leave us a review on the App Store to tell us what you think about this update.
+
+Version 2.73 (Aug 5, 2010)
+    • iPad support.
+    • iOS 4 support.
+    • Many other improvements.
+Version 2.72 (Jun 15, 2010)
+    • iPad support.
+    • Many other improvements.
+Version 2.51 (Dec 11, 2009)
+    • Fixes iPod Touch compatibility issues
+
+    • Many other small improvements
+
+Version 2.00 (Oct 1, 2009)
+    • Send your recordings by email
+
+    • Less ads
+
+    • Major UI change
+
+Version 1.12 (May 1, 2009)
+    - Usability improvements
+
+    - FTP sending was removed (Warning: update to non free version or do not update if you want to keep this functionality)
+
+Version 1.11 (Feb 21, 2009)
+    - Bug fix
+
+
+
+Version 1.10 (Feb 5, 2009)
+Version 2.51 (iPhone OS 3.0 Tested)
+    • Fixes iPod Touch compatibility issues
+    • Many other small improvements
+
+Users may also like
+Select objects to compare
+Dictaphone Voice Recorder
+Transcriber
+Transcribe Recorder - Memo
+Audio Recorder & Voice Editor
+Dictaphone - Audio Recorder
+Recorder Plus : Voice Recorder
+Voice Recorder ⁺ Recording
+AudioNote 2 - Voice Recorder
+FastRecorder audio recording
+Transcribe - Live conversion
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.2.3
+    Current release
+    Jan 23, 2024
+    5.2.2
+    Dec 20, 2023
+    5.2.1
+    Mar 24, 2023
+    5.1.1
+    Feb 6, 2023
+    5.1.0
+    Sep 23, 2022
+    5.0.8
+    Jun 27, 2022
+    5.0.7
+    Mar 15, 2022
+    5.0.6
+    Feb 28, 2022
+    5.0.5
+    Dec 21, 2021
+    5.0.4
+    Sep 20, 2021
+    5.0.3
+    May 5, 2021
+    5.0.2
+    Apr 6, 2021
+    5.0.1
+    Mar 25, 2021
+    5.0.0
+    Mar 16, 2021
+    4.9.4
+    Jun 25, 2020
+    4.9.2
+    Dec 13, 2019
+    4.9.1
+    Nov 6, 2019
+    4.9.0
+    Sep 19, 2019
+    4.8.7
+    Jun 21, 2019
+    4.8.6
+    May 16, 2019
+    4.8.5
+    Jun 19, 2018
+    4.8.4
+    Jun 8, 2018
+    4.8.3
+    Apr 28, 2018
+    4.8.1
+    Oct 26, 2017
+    4.7.5
+    Jun 29, 2017
+    4.7.4
+    Jun 28, 2017
+    4.7.3
+    Dec 19, 2016
+    4.7.2
+    Nov 18, 2016
+    4.7.1
+    Oct 27, 2016
+    4.6.2
+    Jul 5, 2016
+    4.6.1
+    Feb 3, 2016
+    4.5.2
+    Oct 7, 2015
+    4.5.1
+    Sep 23, 2015
+    4.4.0
+    Jun 9, 2015
+    4.3.0
+    Apr 9, 2015
+    4.2.2
+    Nov 25, 2014
+    4.2.0
+    Sep 29, 2014
+    4.1.4
+    Aug 25, 2014
+    4.1.3
+    Aug 14, 2014
+    4.1.2
+    Mar 22, 2014
+    4.1.1
+    Mar 7, 2014
+    4.1.0
+    Jan 28, 2014
+    4.0.2
+    Oct 18, 2013
+    4.0.1
+    Oct 4, 2013
+    4.0.0
+    Sep 18, 2013
+    3.1.7
+    Jul 19, 2013
+    3.1.6
+    May 24, 2013
+    3.1.5
+    May 3, 2013
+    3.1.4
+    Jan 6, 2013
+    3.1.3
+    Sep 24, 2012
+    3.0.4
+    Jan 3, 2012
+    3.0.1.1
+    Nov 19, 2011
+    2.80
+    Apr 19, 2011
+    2.79
+    Mar 31, 2011
+    2.75
+    Nov 3, 2010
+    2.74
+    Sep 9, 2010
+    2.73
+    Aug 5, 2010
+    2.72
+    Jun 15, 2010
+    2.51
+    Dec 11, 2009
+    2.00
+    Oct 1, 2009
+    1.12
+    May 1, 2009
+    1.11
+    Feb 21, 2009
+    1.10
+    Feb 5, 2009
+    2.51 (iPhone OS 3.0 Tested)
+    N/A
+
+See More
+Top In-App Purchases
+
+    Audio Memos Pro Monthly
+    $3.99
+    Audio Memos Pro+ Monthly
+    $7.99
+    Audio Memos Pro Yearly
+    $29.99
+    Audio Memos Pro+ Yearly
+    $59.99
+
+About
+
+Required Devices
+    Apple Watch, iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Feb 6, 2009
+
+Worldwide Release Date
+    Feb 6, 2009
+
+Last Updated Time
+    Feb 21, 2024
+
+Version
+    5.2.3
+
+Size
+    50.78 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, German, Italian, Japanese, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    Imesart S.a.r.l.
+
+Company HQ
+    Luxembourg
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 and watchOS 4.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.imesart.AudioMemosFree
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (May 16, 2019)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 304075033
+Unified App ID: 1000600000001823
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Audio Memos SE | data.ai

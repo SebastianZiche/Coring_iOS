@@ -1,0 +1,645 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+truTV
+Turner Broadcasting SystemEntertainment (Applications)Free
+Alerts
+
+Watch truTV
+truTV
+truTV
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+truTV
+Watch TV Shows & Movies
+Entertainment (Applications)
+Free
+App Promotional Text
+Watch Impractical Jokers & More. Free w/TV Subscription.
+App Description
+ALWAYS HERE FOR A GOOD LAUGH
+
+The truTV app makes watching full episodes of your favorite shows easy! Sign in with your TV Provider to watch all the truTV originals you love: Impractical Jokers, Tacoma FD, Fast Foodies, Adam Ruins Everything, and more. Watch anytime, anywhere with the truTV app. You can also catch the live stream -- on any screen.
+
+The truTV app supports most TV Providers, including AT&T, Spectrum (incl. Time Warner Cable, Charter & Bright House), Comcast XFINITY, Cox, DIRECTV, Dish, Optimum, Suddenlink, Verizon, and many more.
+Ratings
+Displayed Avg Ratings
+4.55
+Total Displayed Ratings
+14.0k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 8.7 (Dec 6, 2023)
+    • Picture-in-picture mode is now available!
+
+    • Visual improvements for video preview experience
+
+    • New icon indicates which videos require sign-in
+
+    • Better display for large text sizes
+
+    • Various performance improvements
+Version 8.6 (Sep 19, 2023)
+    Visual improvements
+
+    Better support for larger text
+
+    Bug fixes to improve stability
+Version 8.5 (Jun 27, 2023)
+    - Fixed bugs related to Apple TV App tracking.
+
+    - Various improvements to the look-and-feel.
+
+    - Improved FF and REW in the video player.
+Version 8.4 (Apr 5, 2023)
+    Performance improvements and bug fixes
+Version 8.3 (Feb 13, 2023)
+    Fixed a bug that caused video to switch between landscape and portrait mode
+
+    Fixed a sign-in bug for YouTube TV subscribers
+
+    Improved user interface to meet accessibility standards
+Version 8.2 (Dec 9, 2022)
+    Performance improvements and bug fixes
+Version 8.1.2 (Oct 4, 2022)
+    Performance improvements and bug fixes
+Version 8.1 (Sep 16, 2022)
+    Performance improvements and bug fixes
+Version 8.0 (Sep 12, 2022)
+    * Performance improvements
+Version 7.12 (Jun 8, 2022)
+    * Performance Improvements
+Version 7.11.0 (Apr 5, 2022)
+    Performance improvements
+Version 7.9.2 (Feb 8, 2022)
+    * Performance improvements
+Version 7.9.1 (Dec 18, 2021)
+    * Fixed an issue that prevented some users from fully loading the app.
+    * Other performance improvements
+Version 7.9 (Nov 3, 2021)
+    * Fixed several bugs that prevented some users from casting video
+    * Fixed several bugs related to TV Provider activation
+Version 7.8.1 (Aug 25, 2021)
+    We've made some improvements to the casting experience, with more fixes on the way!
+Version 7.8 (Aug 9, 2021)
+    * New location permissions for Live TV
+    * Bug fixes and performance improvements
+Version 7.7 (Apr 29, 2021)
+    * Support for App Tracking Transparency
+    * Other bug fixes and improvements
+Version 7.6 (Mar 11, 2021)
+    * Fixed a bug that prevented the app from fully loading on iOS 14.5.
+    * Added a "Still Watching?" screen after several hours without screen interaction.
+    * Improved the search screen's usability.
+    * Fixed miscellaneous bugs.
+Version 7.5 (Feb 5, 2021)
+    * Bug fixes and minor visual improvements
+Version 7.4 (Dec 17, 2020)
+    Performance improvements and bug fixes
+Version 7.3.1 (Sep 17, 2020)
+    Bug fixes and performance improvements.
+Version 7.3.0 (Sep 1, 2020)
+    Search! Yes, we’ve added in-app search to make finding your favorite shows even easier.
+Version 7.2.0 (Jul 10, 2020)
+    * Performance improvements
+    * Users can now sign in with their TV provider through Apple's single sign on
+Version 7.1.1 (May 24, 2020)
+    * Improved stability and performance
+Version 7.1.0 (May 15, 2020)
+    * Improved casting experience
+    * Fixed visual bugs on iPhone 11 family
+    * Reduced number of ads shown before live sports
+    * Updated look-and-feel
+Version 7.0 (Mar 30, 2020)
+    ALL NEW APP? ALL NEW APP!
+    * Introducing the new and improved truTV APP!
+
+    SHINY NEW DESIGN
+    * Same great shows with a fresh new look.
+
+    BETTER. FASTER. STABLE-ER
+    * Under the hood, we made video streaming faster and more stable so you'll see less freezing, less crashing, less buffering, you know, less of all the bad stuff.
+Version 6.4.0 (Feb 3, 2020)
+    Additional privacy settings.
+Version 6.3.8 (Dec 20, 2019)
+    Additional privacy settings and updated privacy policy.
+Version 6.3.5 (Sep 25, 2019)
+    Chromecast update and improvements to dark mode display.
+Version 6.3.4 (Aug 22, 2019)
+    Improved ad experience.
+Version 6.3.3 (Aug 6, 2019)
+    Bug fixes
+Version 6.3.2 (Jun 28, 2019)
+    We've added the ability to swipe back from series pages for improved navigation along with some bug fixes and performance improvements to make our app even better.
+Version 6.3.1 (Jun 5, 2019)
+    New video player design that is as fancy as it is functional, a few bug fixes that maybe only we noticed (hopefully?) and a few changes to make push notifications from us a little less pushy.
+Version 6.2.3 (May 6, 2019)
+    Improved deep linking, performance improvements and bug fixes
+Version 6.2.2 (Apr 2, 2019)
+    Bug fixes
+Version 6.2.1 (Mar 6, 2019)
+    Bug fixes and performance improvements.
+Version 6.2 (Feb 14, 2019)
+    We've made it even easier to find your favorite truTV shows!
+Version 6.1.5 (Dec 20, 2018)
+    Bug fixes and performance improvements
+Version 6.1.4 (Nov 5, 2018)
+    Bug fixes and performance improvements
+Version 6.1.3 (Sep 26, 2018)
+    Bug fixes and performance improvements
+Version 6.1.2 (Aug 30, 2018)
+    Bug fixes
+Version 6.1.1 (Aug 22, 2018)
+    Bug fixes and performance improvements
+Version 6.1 (Jul 18, 2018)
+    Chromecast support
+Version 6.0.4 (Jun 19, 2018)
+    Improvements to the ad player
+Version 6.0.3 (May 24, 2018)
+    Fixes to the TV provider authentication process
+Version 6.0.2 (May 14, 2018)
+    Improvements to Quality of Experience measurements.
+Version 6.0.1 (Apr 16, 2018)
+    Fixed a bug causing there to be no sound in certain cases while watching truTV live streams.
+Version 6.0 (Apr 9, 2018)
+    Redesigned interface will make watching your favorite truTV shows even easier!
+Version 5.3.6 (Dec 11, 2017)
+    Bug fixes
+Version 5.3.5 (Oct 19, 2017)
+    Bug fixes.
+Version 5.3.4 (Sep 20, 2017)
+    Bug fixes.
+Version 5.3.3 (Sep 13, 2017)
+    Bug fixes and stability improvements.
+Version 5.3.2 (Aug 28, 2017)
+    Bug fixes and stability improvements.
+Version 5.3.1 (May 1, 2017)
+    Updated some iMessage stickers.
+Version 5.3 (Apr 19, 2017)
+    Fixed a bug causing sound not to play for videos when the silent switch is activated on a device.
+    Added new iMessage stickers for Talk Show the Game Show.
+Version 5.2.9 (Mar 21, 2017)
+    New design
+    New Stickers
+Version 5.2.8 (Jan 4, 2017)
+    Bug fixes
+Version 5.2.7 (Nov 18, 2016)
+    Bug fixes
+Version 5.2.6 (Nov 7, 2016)
+    truMoji sticker packs for Messages have been added.
+Version 5.2.5 (Aug 22, 2016)
+    Bug fixes
+Version 5.2.4 (Jul 18, 2016)
+    Bug fixes
+Version 5.2.3 (Jul 12, 2016)
+    Bug fixes
+Version 5.2.2 (May 2, 2016)
+    Stability improvements
+Version 5.2.1 (Mar 25, 2016)
+    Fixes bug in live video playback on iPad.
+Version 5.2.0 (Feb 17, 2016)
+    - A new home screen that provides easier access to the most recent full episodes and clips.
+    - Closed captioning support for clips*.
+
+    *Closed captioning must be enabled in your iOS device settings: General>Accessibility>Subtitles & Captioning
+Version 5.1.1 (Feb 1, 2015)
+    Bug fix to social section.
+Version 5.1 (Dec 20, 2014)
+    Enables free full episode viewing for select full episodes and fixes bugs with series display.
+Version 5.0 (Oct 26, 2014)
+    It's a new Watch truTV app for the NEW truTV!
+Version 4.2.1 (May 21, 2014)
+    Fixes a bug in the Most Recent content section.
+Version 4.2 (May 14, 2014)
+    Adds new show notification capabilities, expands the offerings of full episodes, enhances performance, and fixes minor bugs.
+Version 4.1.1 (Apr 4, 2014)
+    Bug fixes for video playback.
+Version 4.1.0 (Mar 27, 2014)
+    An enhanced user interface, expanded show schedules, and bug fixes have been added.
+Version 4.0.0 (Nov 13, 2013)
+    - Brand new app design
+    - Now watch truTV LIVE on your device
+    - Watch East or West Coast feed
+Version 2.6.1 (Aug 22, 2013)
+    New home page, easier access to videos, bug fixes.
+Version 2.5.1 (Mar 5, 2013)
+    Added iPhone 5 and iOS 6 support
+    Native iOS6 Facebook support
+    Updated video controls, closed caption support
+    Allows app-to-app deeplinking to series pages
+    Navigation updates
+
+    Thanks for downloading our app!
+Version 2.5 (Sep 24, 2012)
+    -Added support for Closed Captioning
+
+    -major update to Adobe Pass and Authentication (should fix most authentication issues)
+
+    -fix for users who are logged out upon update and can't log back in
+
+
+
+    Thank you for downloading!
+Version 2.4 (Aug 23, 2012)
+    - Integration with Fanhattan! Fanhattan users can browse truTV2GO content and go straight to their favorite truTV shows!
+    - Fixed login bugs for cable providers
+    - Addressed startup crashing issues
+Version 2.3 (May 24, 2012)
+    -addressed issue where Cable Providers were not appearing in the full episode login screen
+    -fixed error with video controls not appearing on full episodes
+    -added new TV Providers (see description for updated list)
+    -fixed bugs in social sections
+    -addressed stability and performance issues
+
+    Thank you for downloading our app - please take a minute to rate us and provide us with feedback in your reviews.
+Version 2.2 (Dec 30, 2011)
+    - Twitter native sign-on integration (iOS 5.0+ only)
+
+    - upgraded live conversation feeds
+
+    - fixed issue with muted videos
+
+    - upgraded authentication library provides smoother login process
+
+    - stability improvements and bug fixes
+
+
+
+    Thanks again for downloading and using our app!
+Version 2.1.2 (Oct 27, 2011)
+    - fixes for iOS 5 crashes
+    - fixes bugs in schedule section navigation
+    - performance enhancements
+    - fixes for video playback/audio issues
+
+    Thank you for downloading our app!
+Version 2.1.1 (Sep 22, 2011)
+    - Full episodes when you login with your TV provider
+    - Participating TV providers include AT&T U-Verse, Comcast Xfinity, Cox, Dish, DirecTV, Optimum, Suddenlink, Verizon with more on the way! (As of 9/16/2011)
+    - Improved interface
+Version 2.0 (Aug 15, 2011)
+    - New, improved interface
+    - Live chat conversation
+    - Hundreds more video clips
+    - Schedule reminders
+    - Browse by show or category
+Version 1.1.0.0 (May 4, 2011)
+    - splash loading screens
+    - content serving performance increases
+    - bug fixes
+Version 1.0.6.0 (Dec 23, 2010)
+    -fixed video timeout bug
+Version 1.0.5.0 (Dec 16, 2010)
+    -bit.ly integration for sharing
+
+    -performance increases
+
+    -app stability improvements
+
+    -bug fixes
+
+Version 1.0.1.0 (Nov 17, 2010)
+    -improved performance
+
+    -increased app stability
+
+    -various bug fixes
+Version 1.0 (Oct 15, 2010)
+
+Users may also like
+Select objects to compare
+Watch TBS
+Discovery GO
+Watch TNT
+USA Network
+Food Network GO - Live TV
+Nat Geo TV: Live & On Demand
+E!
+Animal Planet GO
+FXNOW: Movies, Shows & Live TV
+ID GO - Stream Live TV
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    8.7
+    Current release
+    Dec 6, 2023
+    8.6
+    Sep 19, 2023
+    8.5
+    Jun 27, 2023
+    8.4
+    Apr 5, 2023
+    8.3
+    Feb 13, 2023
+    8.2
+    Dec 9, 2022
+    8.1.2
+    Oct 4, 2022
+    8.1
+    Sep 16, 2022
+    8.0
+    Sep 12, 2022
+    7.12
+    Jun 8, 2022
+    7.11.0
+    Apr 5, 2022
+    7.9.2
+    Feb 8, 2022
+    7.9.1
+    Dec 18, 2021
+    7.9
+    Nov 3, 2021
+    7.8.1
+    Aug 25, 2021
+    7.8
+    Aug 9, 2021
+    7.7
+    Apr 29, 2021
+    7.6
+    Mar 11, 2021
+    7.5
+    Feb 5, 2021
+    7.4
+    Dec 17, 2020
+    7.3.1
+    Sep 17, 2020
+    7.3.0
+    Sep 1, 2020
+    7.2.0
+    Jul 10, 2020
+    7.1.1
+    May 24, 2020
+    7.1.0
+    May 15, 2020
+    7.0
+    Mar 30, 2020
+    6.4.0
+    Feb 3, 2020
+    6.3.8
+    Dec 20, 2019
+    6.3.5
+    Sep 25, 2019
+    6.3.4
+    Aug 22, 2019
+    6.3.3
+    Aug 6, 2019
+    6.3.2
+    Jun 28, 2019
+    6.3.1
+    Jun 5, 2019
+    6.2.3
+    May 6, 2019
+    6.2.2
+    Apr 2, 2019
+    6.2.1
+    Mar 6, 2019
+    6.2
+    Feb 14, 2019
+    6.1.5
+    Dec 20, 2018
+    6.1.4
+    Nov 5, 2018
+    6.1.3
+    Sep 26, 2018
+    6.1.2
+    Aug 30, 2018
+    6.1.1
+    Aug 22, 2018
+    6.1
+    Jul 18, 2018
+    6.0.4
+    Jun 19, 2018
+    6.0.3
+    May 24, 2018
+    6.0.2
+    May 14, 2018
+    6.0.1
+    Apr 16, 2018
+    6.0
+    Apr 9, 2018
+    5.3.6
+    Dec 11, 2017
+    5.3.5
+    Oct 19, 2017
+    5.3.4
+    Sep 20, 2017
+    5.3.3
+    Sep 13, 2017
+    5.3.2
+    Aug 28, 2017
+    5.3.1
+    May 1, 2017
+    5.3
+    Apr 19, 2017
+    5.2.9
+    Mar 21, 2017
+    5.2.8
+    Jan 4, 2017
+    5.2.7
+    Nov 18, 2016
+    5.2.6
+    Nov 7, 2016
+    5.2.5
+    Aug 22, 2016
+    5.2.4
+    Jul 18, 2016
+    5.2.3
+    Jul 12, 2016
+    5.2.2
+    May 2, 2016
+    5.2.1
+    Mar 25, 2016
+    5.2.0
+    Feb 17, 2016
+    5.1.1
+    Feb 1, 2015
+    5.1
+    Dec 20, 2014
+    5.0
+    Oct 26, 2014
+    4.2.1
+    May 21, 2014
+    4.2
+    May 14, 2014
+    4.1.1
+    Apr 4, 2014
+    4.1.0
+    Mar 27, 2014
+    4.0.0
+    Nov 13, 2013
+    2.6.1
+    Aug 22, 2013
+    2.5.1
+    Mar 5, 2013
+    2.5
+    Sep 24, 2012
+    2.4
+    Aug 23, 2012
+    2.3
+    May 24, 2012
+    2.2
+    Dec 30, 2011
+    2.1.2
+    Oct 27, 2011
+    2.1.1
+    Sep 22, 2011
+    2.0
+    Aug 15, 2011
+    1.1.0.0
+    May 4, 2011
+    1.0.6.0
+    Dec 23, 2010
+    1.0.5.0
+    Dec 16, 2010
+    1.0.1.0
+    Nov 17, 2010
+    1.0
+    Oct 15, 2010
+
+See More
+About
+
+Required Devices
+    Apple TV, iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Oct 31, 2010
+
+Worldwide Release Date
+    Jul 16, 2011
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    8.7
+
+Size
+    71.19 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Turner Broadcasting System, Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.turner.truTV
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 396972659
+Unified App ID: 1000600000547781
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+truTV | data.ai

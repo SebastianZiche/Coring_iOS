@@ -1,0 +1,17 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.9.7,2024-01-31,enhancements,0,0,0,0,0,0,0,1
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.9.6,2024-01-25,Closed Caption fixes,0,0,0,0,0,0,0,1
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.9.5,2024-01-22,bug fixes,0,0,0,0,0,0,1,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.9.4,2024-01-12,Bug Fixes,0,0,0,0,0,0,1,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.9.3,2023-12-08,bug fixes,0,0,0,0,0,1,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.9.1,2023-05-15,Bug fixes,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.9,2022-04-19,bug fixes enhancements,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.8,2021-05-24,Bug fixes,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.7,2021-05-23,Bug fixes,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.6,2021-04-28,Bug Fixes,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.5,2020-10-19,Miner changes in UI.,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.4,2020-10-04,In previous version have capability version 13 but We need lower version from 13.So We uploading this version with 11.No more change in this version.,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.3,2020-10-02,Improve the code quality .,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.2,2020-10-01,Improve the performance .,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.1,2020-02-21,Bug Fixes,0,0,0,0,0,0,0,0
+1484916743,0,FlixHouse,Entertainment,2020-02-08,2020-02-08,7.99,1,0,0,0,1.0,2020-02-11,,0,0,0,0,0,0,0,0

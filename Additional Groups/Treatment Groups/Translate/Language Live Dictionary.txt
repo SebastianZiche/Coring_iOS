@@ -1,0 +1,791 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Language Live Dictionary
+ABBYYReference (Applications)Free
+Alerts
+
+Lingvo Live
+Language Live Dictionary
+Language Live Dictionary
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Language Live Dictionary
+12 языков, перевод+карточки
+Reference (Applications)
+Free
+iPhone Only
+App Description
+Language Live - это сервис для всех, кто увлекается иностранными языками.
+
+Если вы отлично знаете язык - поделитесь своими знаниями с другими. Помогайте с переводами и зарабатывайте рейтинг, участвуйте в горячих спорах о языке и культуре разных стран, пополняйте Народный словарь, общайтесь с теми, кто любит язык так же, как вы!
+
+Если вы только изучаете язык - станьте частью сообщества,которое разделяет ваше увлечение. Эксперты помогут вам найти ответ на непростые вопросы и понять оттенки смысла в языке. Спрашивайте, читайте и обсуждайте. Используйте карточки для тренировки слов и фраз.
+
+А в помощь и экспертам, и начинающим - бесплатный и качественный словарный контент от лучших авторов и издательств.
+
+ПРЕИМУЩЕСТВА и ВОЗМОЖНОСТИ:
++ Выбирайте из онлайн словарей для разных языков.
++ Слушайте, как слова произносят носители языка.
++ Используйте карточки для запоминания слов.
++ Смотрите примеры и словосочетания.
++ Изучайте формы слова.
++ ПРЕМИУМ: Получайте доступ к словарям без интернета.
++ Участвуйте в создании Народного словаря.
++ Получайте помощь в переводе.
++ Читайте заметки про язык и культуру разных стран.
++ Оценивайте и комментируйте переводы других пользователей.
+
+СЛОВАРИ:
+• общие переводные и толковые,
+• учебные,
+• синонимов и антонимов,
+• фразеологические,
+• разговорные,
+• профессиональные (бизнес, экономика, маркетинг, политика, юриспруденция, медицина и др.),
+• тематические (еда, спорт, транспорт, религия, география и др.).
+
+Все словари в Language Live лицензированы у ведущих российских и международных издательств.
+
+---------------------
+ПРЕМИУМ-аккаунт предоставляет доступ к словарям ОФЛАЙН (без подключения к интернету).
+
+Пожалуйста, обратите внимание, что подписка продлевается автоматически в конце периода, если вы не решите отменить подписку по крайней мере за 24 часа до окончания текущего периода. Оплата будет снята с вашего счета iTunes при подтверждении покупки. Вы можете управлять подпиской и отключить автоматическое обновление в настройках учетной записи после покупки. Вы не можете отменить текущую подписку во время активного периода подписки. Все личные данные обрабатываются в соответствии с условиями стандартной политики конфиденциальности App Store.
+
+ИНФОРМАЦИЯ И ТЕХ.ПОДДЕРЖКА:
+Наш сайт: https://www.lingvolive.ru
+Сайт техподдержки: https://www.contentai.ru/support
+
+Следите за новостями о переводе и изучении языков:
+ВКонтакте: https://vk.com/contentai_ru
+
+Если у Вас возникли вопросы или пожелания, пожалуйста, напишите нам на support@contentai.ru и мы обязательно ответим!
+
+Правила пользования и условия конфиденциальности: https://www.lingvolive.com/about/terms.
+Ratings
+Displayed Avg Ratings
+4.46
+Total Displayed Ratings
+977
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.57 (Oct 11, 2023)
+    Исправили несколько мелких ошибок.
+Version 1.56 (Dec 28, 2022)
+    Исправили несколько мелких ошибок.
+Version 1.55 (Aug 15, 2022)
+    В апреле ABBYY выделила российское подразделение в отдельный бизнес вне группы компаний. Работать со всеми текущими и новыми клиентами и партнерами компании в России продолжает новый технологический партнер - компания Content AI (ООО «Контент ИИ»).
+
+    Права на семейство электронных словарей Lingvo переданы компании Content AI. Теперь мы поддерживаем и развиваем продукт под своим брендом вместе с прежней командой разработчиков.
+
+    Встречайте Lingvo под новым брендом! Пользователям доступна прежняя функциональность приложения и все ранее оформленные подписки.
+Version 1.54 (Apr 16, 2022)
+    Исправление ошибок и улучшение производительности
+Version 1.53 (Mar 28, 2022)
+    Changed the authorization methods in the app, if you have any problems, please contact our support service at lingvo_support@abbyy.com
+
+    Fixed several minor issues.
+Version 1.52 (Oct 15, 2021)
+    Fixed several minor issues.
+Version 1.51 (Jun 19, 2020)
+    Hi Lingvo friends!
+
+    Happy to inform you that we've updated our app!
+
+    CHANGES of 1.51:
+    • fixed issues associated with iOS 13 SDK,
+    • returned full-text translation.
+
+    We hope you like this update and will find time to leave a review on our Lingvo App Store page.
+
+    Always with you,
+    ABBYY Lingvo Team
+Version 1.50.1 (Mar 2, 2020)
+    Minor issues fixed.
+Version 1.50 (Jul 2, 2019)
+    Hi Lingvo friends!
+    Happy to inform you that we've updated our app!
+
+    CHANGES of 1.50:
+    • added delete search history,
+    • completely redesigned Today Extension,
+    • added a logout confirmation dialog,
+    • improvement of interface for iPhone X,
+    • bug fixes
+
+    We hope you like this update and will find time to leave a review on our Lingvo App Store page.
+
+    Always with you,
+    ABBYY Lingvo Team
+Version 1.49 (Mar 25, 2019)
+    Hi Lingvo Live friends!
+
+    Happy to inform you that we've updated our app!
+    CHANGES:
+    • bug fixes,
+    • support for iPhone X!
+
+    We hope that you like this update and you will find time to leave a review on our Lingvo App Store page.
+
+    Always with you,
+    Lingvo Live Team
+Version 1.48 (Aug 31, 2017)
+    Hi Lingvo Live friends!
+
+    To make your experience more enjoyable there are some minor improvements from us.
+    Hope you keep on learning a foreign language with us!
+
+    Always at your hand,
+
+    Lingvo Live Team
+Version 1.47 (Feb 13, 2017)
+    Dear friends, we have great news! In this release we are happy to announce a new long-awaited feature:
+    - Notifications to new comments on your translation requests or posts.
+    Get immediate information on people's reaction to your questions and posts.
+
+    Additionally, there are a few nice little things:
+    - change the status for several flashcards at once.
+    - improved logic for translation.
+    - choose the "lesson size" in Flashcards for 15, 30, 50, 75, 100 or "all" flashcards.
+
+    Hope you enjoy the improvements!
+    We would appreciate your positive reviews on the App Store.
+
+    Thank you!
+
+    Keep Learning,
+
+    Lingvo Live Team
+
+
+
+    Мы будем рады вашим хорошим отзывам на странице Lingvo Live в App Store!
+
+    Keep learning,
+    Команда Lingvo Live
+Version 1.46 (Jan 11, 2017)
+    In this interim release, we have improved some minor things and made life a little easier for those who help people with translation.
+    Enjoy a separate tab "QUESTIONS WITHOUT ANSWERS".
+    Help others with translations and people will help you.
+
+    FLASHCARDS
+    - Export your flashcards by email.
+
+    NOTIFICATIONS
+    - If you have a notification, go to it directly by tapping on your profile pic.
+
+    We would be very happy if you leave us a good review on the App Store =)
+
+    Keep learning,
+    Lingvo Live Team
+Version 1.45 (Jan 9, 2017)
+    In this update we present some nice improvements:
+    + We've fixed an error of flashcard deletion.
+    + Some usability improvements.
+
+    We would be very happy if you leave us a good review on the App Store =)
+
+    Keep learning,
+    Lingvo Live Team
+Version 1.44 (Dec 19, 2016)
+    In this update we have some improvements:
+    + Now you can easily ask for translation tapping "Live-translation" button in the search bar!
+    + Delete your posted comments by swiping left
+
+    Also we fixed some insignificant bugs.
+    Follow our updates! It only gets better!
+
+    We would be very happy if you left us a good review on the App Store =)
+
+    Keep learning,
+    Lingvo Live Team
+Version 1.43 (Dec 15, 2016)
+    In this update we fixed some bugs. Now the app will be even more enjoyable to use: translate words and texts, help others with translations and learn words using flashcards!
+    Follow our updates! It only gets better!
+
+    And...we would be very happy if you left us a good review on the App Store =)
+
+    Keep learning,
+    Lingvo Live Team
+Version 1.42 (Dec 12, 2016)
+    bug fix
+Version 1.41 (Dec 9, 2016)
+    bug fix
+Version 1.40 (Nov 23, 2016)
+    In this latest release we are happy to present a new simplified interface with tabs to help you easily switch from one section to another.
+    We are working on a few surprises and are looking forward to your comments.
+    Your feedback in the App Store is very useful both to us, the developers, and to other users of the app.
+Version 1.39 (Nov 3, 2016)
+    bug fix
+Version 1.38 (Oct 31, 2016)
+    IMPROVEMENTS
+    Enjoy the new Lingvo Live News Feed design!
+
+    NEW FEATURES
+    Learn a foreign language by most frequently used conversational phrases!
+    + Choose a set of flashcards for a certain topic to train English, German, French, Spanish, Italian, Portuguese, Russian
+    + Listen and repeat after native speakers
+
+    Enjoy and share your impressions with us by writing a review!
+
+    Keep learning,
+    Lingvo Live Team
+Version 1.37 (Oct 14, 2016)
+    Learn a foreign language by most frequently used conversational phrases. Choose a set of flashcards for a certain topic to train English, German, French, Spanish, Italian, Portuguese, Russian. Listen and repeat after native speakers. Enjoy and share your impressions with us by writing a review!
+Version 1.36 (Oct 10, 2016)
+    Synchronized flashcards!
+    Now all the flashcards you create on your IPhone can be accessed from any other Apple device.
+    Stay with us! Even better news is coming soon!
+Version 1.35 (Sep 27, 2016)
+    bug fix
+Version 1.34 (Sep 21, 2016)
+    bug fix
+Version 1.33 (Sep 13, 2016)
+    This interim release includes some сool features for IOS 10:
+
+    SPEECH RECOGNITION IN FLASHCARDS . Pronounce the translation of the word in the Flashcard and the app will tell you whether it is correct or not. Practice your pronunciation and vocabulary knowledge.
+
+    TODAY WIDGET. Create a flashcard immediately in the widget.
+
+    iMESSAGE. Translate instantly within iMessage.
+
+    While we are working on more cool new features to add to the app, please inspire us with your feedback in the App Store!
+Version 1.32 (Sep 9, 2016)
+    bug fix
+Version 1.31 (Aug 18, 2016)
+    A fantastic new feature: now you can learn foreign language phrases for use across a wide range of everyday situations. Enjoy the pronunciation by native speakers. Choose a language your are learning out of English, French, Spanish, Italian, German and Portuguese. And this is all for free.
+Version 1.30 (Jul 15, 2016)
+    + UI improvements
+    + Bug fix
+
+    Your comments and five-star ratings in the App Store motivate us to keep doing our best to produce a cool product.
+    Please update your version and tell us what you think!
+Version 1.29 (Jul 13, 2016)
+    + UI improvements
+
+    Your comments and five-star ratings in the App Store motivate us to keep doing our best to produce a cool product.
+    Please update your version and tell us what you think!
+Version 1.28 (Jul 4, 2016)
+    + SIGN UP VIA GOOGLE ACCOUNT
+    Now you can join Lingvo Live using your Google Account.
+
+    + CATEGORIES FOR FLASHCARDS. It is a lot easier now to practice words. You can create topics and groups of cards and learn them by topics. Our colorful folders will sure be of help.
+
+    Your comments and five-star ratings in the App Store motivate us to keep doing our best to produce a cool product. Please update your version and tell us what you think!
+Version 1.27 (Jun 15, 2016)
+    This interim release includes a very cool feature:
+
+    + CATEGORIES FOR FLASHCARDS. It has become a lot easier now to practice words. Now you can create topics and groups of cards and learn them by topics. Our colorful folders will sure be of help.
+
+    Your comments and five-star ratings in the App Store motivate us to keep doing our best to produce a cool product. Please update your version and tell us what you think!
+
+
+
+    + ПАПКИ-КАТЕГОРИИ ДЛЯ КАРТОЧЕК.
+    Учить слова стало удобнее! Теперь вы можете создавать ГРУППЫ карточек и учить слова по темам. Наши цветные папочки вам помогут.
+
+    Если вы попробовали Lingvo Live, и он Вам есть чем поделиться - не стесняйтесь оставлять свои впечатления на странице продукта. Вы поможете другим пользователям сделать правильный выбор!
+Version 1.26 (Jun 2, 2016)
+    [ ! ] We fixed some insignificant bugs
+
+
+    We would be glad if you leave us some good reviews on App Store!
+
+    Keep learning,
+    Lingvo Live Team
+Version 1.25 (May 18, 2016)
+    [ ! ] Made some User Interface improvements
+    [ ! ] We fixed some insignificant bugs
+
+    FEATURES:
+    [+] Editing of saved flashcards:
+    1. Edit the name of flashcard
+    2. Edit the translation of the word
+    3. Delete saved flashcards
+
+    We would be glad if you leave us some good reviews on App Store!
+
+    Keep learning,
+    Lingvo Live Team
+Version 1.24 (May 9, 2016)
+    IMPROVEMENTS:
+    We fixed some bugs
+    UI improvements
+Version 1.23 (Apr 29, 2016)
+    IMPROVEMENTS:
+    + bug fixes
+Version 1.22 (Apr 25, 2016)
+    IMPROVEMENTS:
+    + bug fixes
+Version 1.21 (Apr 18, 2016)
+    IMPROVEMENTS:
+    + full text translation
+    + bug fixes
+Version 1.20 (Mar 29, 2016)
+    GOOD NEWS
+    Start building your vocabulary!
+    Now you can save the words you don't know to your personalized vocabulary list and learn them using flashcards.
+
+    1. Just look up a new word in Lingvo Live dictionaries
+    2. Tap the "academic cap" button in the dictionary entry
+    3. Choose the word translation or definition you would like to learn
+    4. Voila! The word is in your vocabulary list now, ready for learning
+
+    We would appreciate if you could leave us a Review.
+    Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.19 (Feb 29, 2016)
+    IMPROVEMENTS:
+    + We've made some interface improvements
+    + and fixed some bugs
+
+    PREVIOUS UPDATE (v.1.18):
+    + Offline-access to all dictionaries!
+    + Notification Center Widget: translate words or phrases from the clipboard
+
+    We would appreciate if you could leave us a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.18 (Feb 11, 2016)
+    IMPROVEMENTS:
+    + We improved Offline-access feature
+    + Critical bug fix
+
+    PREVIOUS UPDATES (v.1.17):
+    + We've added Offline-access to all dictionaries!
+    + And made several invisible changes and fixed some bugs
+
+    We would appreciate, if you could leave us a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.17 (Feb 8, 2016)
+    IMPROVEMENTS:
+    + Use Offline-access Feature for a longer period of time
+
+    PREVIOUS UPDATES (v.1.16):
+    + We've added Offline Access to all dictionaries!
+    + Receive notifications when your translation requests are answered!
+    + We've made several invisible changes and fixed some bugs
+
+    We would appreciate, if you could leave us a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.16 (Dec 30, 2015)
+    IMPROVEMENTS:
+    + We've added Offline Access to all dictionaries!
+
+    PREVIOUS UPDATES (v.1.14):
+    + Receive notifications when your translation requests are answered!
+    + We've made several invisible changes and fixed some bugs
+
+    We would appreciate, if you could leave us a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.15 (Dec 15, 2015)
+    IMPROVEMENTS:
+    + We've added Offline Access to all dictionaries!
+
+    PREVIOUS UPDATES (v.1.14):
+    + Receive notifications when your translation requests are answered!
+    + We've made several invisible changes and fixed some bugs
+
+    We would appreciate, if you could leave us a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.14 (Dec 4, 2015)
+    IMPROVEMENTS:
+    + We've made several invisible changes and fixed some bugs
+
+    PREVIOUS UPDATES (v.1.13):
+    + From now on, we are able to notify you when your translation request is answered
+    + We fixed a few insignificant bugs
+
+    We would appreciate, if you could leave us a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.13 (Nov 26, 2015)
+    IMPROVEMENTS:
+    + We fixed a few insignificant bugs
+    + From now on, we are able to notify you when your translation request is answered.
+
+
+    We would appreciate, if you could leave us a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.12 (Nov 20, 2015)
+    IMPROVEMENTS:
+    + We fixed a few insignificant bugs
+
+    We would appreciate, if you could leave us a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.11 (Oct 19, 2015)
+    IMPROVEMENTS:
+    + We fixed a few insignificant bugs
+    + Updated welcome screens
+
+    We would appreciate, if you could leave us a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+
+    Keep Learning,
+    ABBYY Lingvo Live Team
+Version 1.10 (Oct 1, 2015)
+    + Application now fully supports iOS 9.
+    + New introduction screen.
+    + Quick access for translation search, notifications and your posts for iPhone 6s/iPhone 6s plus
+
+    We would appreciate, if you could Write a Review.
+    This helps us know how to make Lingvo Live even better. Thank you!
+Version 1.9 (Sep 14, 2015)
+    Apple fans are thrilled to bits after the latest announcements, and here we are, adding more enjoyment to Lingvo Live for Apple gadgets!
+    + Update for sure to iOS 9 – Lingvo Live runs smoothly and stable.
+    + The “Share” button is in plain sight now, just like the “Like” and “Comments” buttons. Share the coolest translations in a flash with your favorite social networks and messengers!
+    + News feed scrolling goes faster: pics displaying algorithm has been improved.
+    The school year is here, the amount of your language questions in the feed has jumped dramatically, and you may be willing to comment or recommend us on the AppStore Lingvo Live page. You are most welcome!
+
+    Keep Learning,
+    ABBYY Mobile Team
+Version 1.8 (Aug 14, 2015)
+    Register at Lingvo Live and get a special gift from ABBYY! Just tap the top left menu and create your profile!
+Version 1.7 (Jun 29, 2015)
+    Share your favorite translations and notes from Lingvo Live on Facebook, Twitter, email or SMS. Use action menu in the left corner and publish Lingvo Live posts on social media!
+    Leave us a review to help our language lovers community grow!
+Version 1.6 (May 5, 2015)
+    Share Lingvo Live posts anywhere you want: in social media, messengers, email, sms. Open action menu in the left corner of the post and tap Copy link.
+    Another useful feature - now you can get a notification when your translation request was answered. Ask other users for translations and get notified when the translations are added!
+Version 1.5 (Apr 23, 2015)
+    Now you can see Lingvo Live widget in iPhone Notification Center! Discover new words and phrases every day!
+    Swipe down the screen, open Today, scroll current widgets and tap Edit. Move Lingvo Live widget into the active list on the top by tapping +. Done!
+    Now all the new language facts are at your fingertips.
+Version 1.4 (Mar 24, 2015)
+    Welcome the Lingvo Live for iPhone 6 and 6+. Now it is adapted for the large screens of the latest iPhone models!
+    Your feedback will add us energy for further improvements. Do not hesitate to drop us a review!
+Version 1.3 (Mar 2, 2015)
+    According to your numerous requests, we changed the background images in Lingvo Live.
+    Download this update to enjoy the improved interface.
+Version 1.2 (Feb 2, 2015)
+    - We fixed some bugs
+    If you like Lingvo Live, please leave a review :)
+Version 1.1 (Jan 12, 2015)
+    - We added the ability to attach images to notes
+    - Improved Lingvo Live User Interface
+    - Fixed minor bugs
+    If you like Lingvo Live, please leave a review :)
+Version 1.0 (Dec 8, 2014)
+
+Users may also like
+Select objects to compare
+Translator PROMT.One
+My Words: Vocabulary
+Learn German with Flash cards
+Redict - Russian and English
+English-Russian Dictionary
+Флэш-карточки для запоминания
+AnyLang: Read, watch & learn
+Learn German: Quickspeak
+Irregular verbs English game
+MemoWord: Flashcard maker plus
+IQ Classifications
+Genre: Books & Reference
+Subgenre: Dictionary
+Dictionary
+Apps where users can check words' meaning, pronunciation, origin and usage.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.57
+    Current release
+    Oct 11, 2023
+    1.56
+    Dec 28, 2022
+    1.55
+    Aug 15, 2022
+    1.54
+    Apr 16, 2022
+    1.53
+    Mar 28, 2022
+    1.52
+    Oct 15, 2021
+    1.51
+    Jun 19, 2020
+    1.50.1
+    Mar 2, 2020
+    1.50
+    Jul 2, 2019
+    1.49
+    Mar 25, 2019
+    1.48
+    Aug 31, 2017
+    1.47
+    Feb 13, 2017
+    1.46
+    Jan 11, 2017
+    1.45
+    Jan 9, 2017
+    1.44
+    Dec 19, 2016
+    1.43
+    Dec 15, 2016
+    1.42
+    Dec 12, 2016
+    1.41
+    Dec 9, 2016
+    1.40
+    Nov 23, 2016
+    1.39
+    Nov 3, 2016
+    1.38
+    Oct 31, 2016
+    1.37
+    Oct 14, 2016
+    1.36
+    Oct 10, 2016
+    1.35
+    Sep 27, 2016
+    1.34
+    Sep 21, 2016
+    1.33
+    Sep 13, 2016
+    1.32
+    Sep 9, 2016
+    1.31
+    Aug 18, 2016
+    1.30
+    Jul 15, 2016
+    1.29
+    Jul 13, 2016
+    1.28
+    Jul 4, 2016
+    1.27
+    Jun 15, 2016
+    1.26
+    Jun 2, 2016
+    1.25
+    May 18, 2016
+    1.24
+    May 9, 2016
+    1.23
+    Apr 29, 2016
+    1.22
+    Apr 25, 2016
+    1.21
+    Apr 18, 2016
+    1.20
+    Mar 29, 2016
+    1.19
+    Feb 29, 2016
+    1.18
+    Feb 11, 2016
+    1.17
+    Feb 8, 2016
+    1.16
+    Dec 30, 2015
+    1.15
+    Dec 15, 2015
+    1.14
+    Dec 4, 2015
+    1.13
+    Nov 26, 2015
+    1.12
+    Nov 20, 2015
+    1.11
+    Oct 19, 2015
+    1.10
+    Oct 1, 2015
+    1.9
+    Sep 14, 2015
+    1.8
+    Aug 14, 2015
+    1.7
+    Jun 29, 2015
+    1.6
+    May 5, 2015
+    1.5
+    Apr 23, 2015
+    1.4
+    Mar 24, 2015
+    1.3
+    Mar 2, 2015
+    1.2
+    Feb 2, 2015
+    1.1
+    Jan 12, 2015
+    1.0
+    Dec 8, 2014
+
+See More
+Top In-App Purchases
+
+    Lingvo Live Премиум
+    $2.99
+    Знакомство и приглашение
+    $0.99
+    Приветствие и прощание
+    $0.99
+    Вежливые слова
+    $0.99
+    Спорт. Мероприятия
+    $0.99
+    Спорт. Терминология
+    $0.99
+    Lingvo Live Премиум
+    $0
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Reference
+
+Initial Release Date
+    Dec 8, 2014
+
+Worldwide Release Date
+    Dec 8, 2014
+
+Last Updated Time
+    Apr 20, 2024
+
+Version
+    1.57
+
+Size
+    49.05 mb
+
+Only 32 Bit
+    No
+
+Languages
+    русский, английский, испанский, португальский
+
+Seller
+    Content AI, LLC
+
+Company HQ
+    Russia
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Требуется iOS 10.0 или новее. Совместимо с iPhone 5s, iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPhone SE (1‑го поколения), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2‑го поколения), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3‑го поколения), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro 12,9 дюйма, iPad Pro 12,9 дюйма Wi‑Fi + Cellular, iPad Pro 9,7 дюйма, iPad Pro 9,7 дюйма Wi‑Fi + Cellular, iPad (5‑го поколения), iPad (5‑го поколения) Wi‑Fi + Cellular, iPad Pro 12,9 дюйма (2‑го поколения), iPad Pro 12,9 дюйма (2‑го поколения) Wi‑Fi + Cellular, iPad Pro 10,5 дюйма, iPad Pro 10,5 дюйма Wi‑Fi + Cellular, iPad (6‑го поколения), iPad (6‑го поколения) Wi‑Fi + Cellular, iPad Pro 11 дюймов, iPad Pro 11 дюймов Wi‑Fi + Cellular, iPad Pro 12,9 дюйма (3‑го поколения), iPad Pro 12,9 дюйма (3‑го поколения) Wi‑Fi + Cellular, iPad mini (5‑го поколения), iPad mini (5‑го поколения) Wi‑Fi + Cellular, iPad Air (3‑го поколения), iPad Air (3‑го поколения) Wi‑Fi + Cellular, iPad (7‑го поколения), iPad (7‑го поколения) Wi‑Fi + Cellular, iPad Pro 11 дюймов (2‑го поколения), iPad Pro 11 дюймов (2‑го поколения) Wi‑Fi + Cellular, iPad Pro 12,9 дюйма (4‑го поколения), iPad Pro 12,9 дюйма (4‑го поколения) Wi‑Fi + Cellular, iPad Air (4‑го поколения), iPad Air (4‑го поколения) Wi‑Fi + Cellular, iPad (8‑го поколения), iPad (8‑го поколения) Wi‑Fi + Cellular, iPad Pro 11 дюймов (3‑го поколения), iPad Pro 11 дюймов (3‑го поколения) Wi‑Fi + Cellular, iPad Pro 12,9 дюйма (5‑го поколения), iPad Pro 12,9 дюйма (5‑го поколения) Wi‑Fi + Cellular, iPad mini (6‑го поколения), iPad mini (6‑го поколения) Wi‑Fi + Cellular, iPad (9‑го поколения), iPad (9‑го поколения) Wi‑Fi + Cellular, iPad Air (5‑го поколения), iPad Air (5‑го поколения) Wi‑Fi + Cellular, iPad (9‑го поколения), iPad (9‑го поколения) Wi‑Fi + Cellular, iPad Pro 11 дюймов (4‑го поколения), iPad Pro 11 дюймов (4‑го поколения) Wi‑Fi + Cellular, iPad Pro 12,9 дюйма (6‑го поколения), iPad Pro 12,9 дюйма (6‑го поколения) Wi‑Fi + Cellular и iPod touch.
+
+Bundle ID
+    com.abbyy.lingvolive
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Company Website
+
+App ID: 900443557
+Unified App ID: 1000600000522419
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Language Live Dictionary | data.ai

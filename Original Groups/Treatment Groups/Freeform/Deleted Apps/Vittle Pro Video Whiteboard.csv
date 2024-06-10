@@ -1,0 +1,49 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,6.4,2023-11-27,Fixed an issue where dialogs would appear in the wrong size
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,6.3,2023-11-01,Fixed an issue where the settings dialog has the wrong size
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,6.1,2021-10-02,New straight line and shape recognizer tool
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,5.9,2020-06-23,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,5.7,2019-10-18,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,5.6,2019-10-10,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,5.5,2019-10-01,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,5.4,2019-09-26,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,5.3,2019-09-24,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,5.2,2019-09-21,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,5.1,2018-12-04,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,5.0,2018-08-16,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,4.9,2018-04-21,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,4.8,2018-02-28,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,4.7,2018-01-06,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,4.6,2017-12-09,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,4.4,2017-11-21,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,4.3,2017-11-02,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,4.2,2017-05-05,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,4.1,2017-05-03,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,4.0,2017-05-02,
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,3.8,2016-09-12,By popular request there s a new Export button in the Editor Options. Use it to export the current page as an image or all pages as a PDF file.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,3.7,2016-08-30,Bug fixes: Disable the video speed settings on devices that don t support it such as the iPad 2 preventing an error situation.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,3.6,2016-08-14,Video Speed Settings: You can now speed up the video in the editor before exporting it. This doesn t affect the original recording. Color Separation: Select individual colors making it easy to separate lines from a background. Pencil only drawing mode: Toggle on to rest your hand on the screen with impunity. Improved palm rejection when using the Apple Pencil.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,3.5,2016-03-24,You can now add text directly on your pages via the Add menu without having to import a PDF. Great for labels and descriptions. Tap on selected text then tap Edit to edit them.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,3.3,2016-03-05,Fixed a drawing offset issue on iPad Pro.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,3.2,2016-02-23,Vittle now supports the iPad Pro s native screen resolution and the Apple Pencil. By popular request you can now set the background color to whatever you want. The palette has also been expanded to include colors that look great on dark backgrounds. Enjoy! The App Makers Qrayon.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,3.1,2015-09-11,Select All no longer selects locked images.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,3.0,2015-07-21,Vittle now records widescreen non letterboxed videos by default. Improved Image Picker.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,2.9,2015-06-05,Added Wrist Guard Vittle now produces even higher quality output videos! It now records in 1080p HD by default. PDF and picture resolution are also doubled on retina devices. This makes everything sharper and easier to read for your audience.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,2.8,2014-11-10,Add support for the iPad Air 2 which adds a whole new world of performance!
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,2.7,2014-10-09,Fixed a crashing bug in the Share menu. Movies are now recorded with a fixed frame rate which addresses occasional timing issues when encoding on sites such as Vimeo.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,2.6,2014-10-08,v2.6 adds support for iOS8. Also with support for transparent PNGs. Add transparent PNGs to your camera roll then import them into Vittle. Great for overlays and characters.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,2.5,2014-05-19,Bug fixes and improvements: Addressed an issue where rapidly pausing unpausing can cause the audio to drift out of sync. Improved video preview performance.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,2.4,2014-04-09,Minor bug fixes.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,2.2,2014-01-16,Updated for iOS7. Fixed an issue where tapping too quickly on the Stop and Rec buttons could result in a bad state.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,2.1,2013-11-24,Fixed an issue on iOS7 where certain scene compositions can result in audio sync issues.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,2.0,2013-11-11,Fixed a bug where certain multiple scene videos would fail to be generated under iOS7.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.9,2013-10-28,Fixed a bug when importing PDF files that have unsupported characters in their names.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.8,2013-10-18,Check for Mic Permissions in iOS7. Please make sure this is turned on in Settings Privacy. Mic permissions are required to record. If you wish to mute the mic you can do so from the Info menu.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.7,2013-10-14,Improved video generation performance when there are mixed muted and un muted scenes on iOS7. Muted scenes recorded on older versions may cause video generation to be slow on iOS7. Re recording muted scenes should remedy that.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.6,2013-09-24,Fixes for issues running on iOS7: Fixed a crash when recording if Microphone permission was not granted. Fixed a bug where audio could get out of sync if there are muted scenes.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.5,2013-09-19,Bug Fix: Screen may appear momentarily blank when drawing after dismissing Viewer on iOS7
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.4,2013-09-13,Fixed a bug copying and pasting images from Inkflow to Vittle.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.3,2013-08-28,v1.3 comes with a shiny new App icon. The Dancing Dot effect is now turned off by default. You can turn it on from the editor options menu. If you like Vittle please rate us in the App Store. Each version gets a separate rating. Thanks!
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.2,2013-07-08,Fixed audio and video sync issues.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.1,2013-05-09,Performance improvements and control refinement.
+629037418,0,Vittle Pro Video Whiteboard,Business,2013-05-09,2013-05-09,22.31,1,0,1,0,1.0,2013-04-29,

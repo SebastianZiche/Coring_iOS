@@ -1,0 +1,423 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+iTranslator AI
+delphi qinBusiness (Applications)Free
+Alerts
+
+iTranslator
+iTranslator AI
+iTranslator AI
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+iTranslator AI
+Translators and Repeaters
+Business (Applications)
+Free
+App Promotional Text
+8th Anniversary Edition, Unlock all languages for you.
+App Description
+This capable interpreter and translator wowed us upon its release, and now it's even more incredible with iTranslator. We're excited to break down language barriers and engage in multilingual conversations, iPhone to iPhone. When you talk into your device, it beams to your friend's iPhone and speaks your words in his or her preferred language. With more than 35 languages supported, you can converse with just about anyone.
+
+Features:
+** Accurate voice recognition
+- Recognize major languages with high accuracy.
+- Tap flag or open settings to change language for voice recognition.
+
+** Instantly speak languages
+- Instantly speak the translated text with a native speaker’s pronunciation.
+- Volume, voice gender & voice speed can be adjusted in settings.
+
+** Edit translations
+- Long press the voice button and then input text.
+- Long press a bubble and then select ‘Edit’ to modify the translation.
+
+** Share translations
+- Integrated Facebook, Twitter, Email and SMS support.
+
+** Phrasebook
+- Quick access to a handy phrase book with commonly-used phrases and sentences.
+- Save your own Phrasebook.
+
+*Internet connection required.
+
+Languages & Dialects with Speech Recognition:
+English (United states)、English(United Kingdom) 、English(Australia) 、English(Canada) 、Spanish、Russian、Turkish、Portuguese(Portugal)、Polish、Malay、Korean、Italian、Japanese、Bahasa(Indonesian)、German、French、Dutch、Czech、Mandarin(China)、Mandarin(Taiwan)、Afrikaans
+Ratings
+Displayed Avg Ratings
+3.97
+Total Displayed Ratings
+982
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.1.1 (Mar 18, 2021)
+    Fix some bugs.
+Version 5.1.0 (Jun 20, 2020)
+    8th Anniversary Edition, unlock all languages for you.
+    1. Add Repeater mode
+    2. Add Classic mode
+    3. Optimize the Conversation mode
+    4. Optimize the user experience
+Version 5.0.1 (Jun 5, 2020)
+    8th Anniversary Edition, Unlock all languages for you.
+
+    1. New repeater mode
+    2. Optimize the tuning function
+    3. Optimize the user experience
+    4. Fix some bugs
+
+    Cooler features come right away...
+Version 5.0.0 (May 29, 2020)
+    8th Anniversary Edition.
+
+    5.0.0 updated features:
+    1. Newly designed user interface
+    2. More powerful translate functions
+    3. Optimized user experience
+Version 4.3.1 (May 13, 2020)
+    1. Optimize voice effect
+    2. Optimize sharing function
+    3. Optimize user interface
+    4. Adapt to iOS13
+Version 4.3.0 (May 12, 2020)
+    1. Optimize voice effect
+    2. Optimize sharing function
+    3. Optimize user interface
+    4. Adapt to iOS13
+Version 4.2.0 (Apr 22, 2019)
+    1. Adapt to IOS12.
+    2. Optimize the user experience.
+    3. Fixed some issues.
+Version 4.1.3 (Apr 20, 2019)
+    1. Adapt to IOS12.
+    2. Optimize the user experience.
+    3. Fixed some issues.
+Version 4.1.2 (May 20, 2017)
+    1. Fix the volume too low.
+    2. Fix the problem of occasional failure of speech recognition.
+    3. Support long sentences translation.
+    4. Optimize the text input interface.
+    5. Added tone control.
+    6. Optimize software performance.
+Version 4.1.1 (May 5, 2017)
+    1. Redesigned full-screen maximization.
+    2. Fixed some bugs.
+Version 4.1.0 (May 1, 2017)
+    1. Add the word translation function, support screen to take the word, to achieve where there is no point.
+    2. Increase the volume control function.
+    3. Increase the source language editing function.
+    4. Fix the bug with speed adjustment.
+    5. Optimize the software interface.
+    6. Add some localization capabilities.
+Version 4.0.3 (Apr 25, 2017)
+    Fixed some bugs.
+Version 4.0.2 (Apr 23, 2017)
+    Fixed some bugs.
+Version 4.0.1 (Apr 21, 2017)
+    Fixed some bugs.
+Version 4.0.0 (Apr 11, 2017)
+    1. Re-dialogue with foreigners in the scene design, more suitable for communication with foreigners.
+    2. Redesigned user interaction system, the operation easier.
+    3. The new technology architecture, character is more stable.
+    4. New work engine, more traffic flow.
+Version 3.4.0 (Apr 7, 2017)
+    Fix display error
+Version 3.3.8 (Mar 28, 2017)
+    1. The new voice recognition engine, the perfect support for a variety of foreign languages.
+    2. Add two headphones / handset output modes.
+    3. More beautiful user interface.
+Version 3.3.7 (Mar 19, 2017)
+    1. Fixed bug where the sound was too small.
+    2. Add two earphone / headphone output modes.
+    3. The new voice recognition technology, perfect support 35 languages.
+Version 3.3.5 (Jan 26, 2016)
+    Fixed ui errors.
+Version 3.3.4 (Jan 19, 2016)
+    Optimized speech recognition.
+Version 3.3.3 (Dec 30, 2015)
+    fixed bug.
+Version 3.2.3 (Jun 20, 2015)
+    Fixes bug
+Version 3.2.2 (Feb 16, 2015)
+    1. Add speech rate.
+    2. Use a local sound library.
+    3. Fixed a translation error.
+Version 3.1.1 (Dec 5, 2014)
+    1. To provide a more accurate speech recognition capabilities.
+    2. Added support for IOS8 system.
+    3. Fixed some bugs in the Chinese region.
+Version 3.1.0 (Jun 28, 2013)
+    1. MIC input dynamic voice interface design.
+    2. increase the number of localized language.
+    3. Improve the efficiency of the server.
+Version 3.0.1 (Mar 27, 2013)
+    What's New in this Version
+    *Fix the flash exit error during startup*
+    1.Add feature to support Voice Translation
+    2.Add feature to support Common Used Phrases
+    3.Shake to read
+    4.Optimize translation engine to react faster and more accuratly.
+    5.Add feature to support cross-words translation and read.
+    6.Easy to share via Twitter, Facebook, Email and SMS
+    7.Easy to Copy and Paste words
+    8.Support iPad
+Version 3.0 (Mar 22, 2013)
+    1. Added the voice input feature.
+    2. Added commonly used phrases functionality.
+    3. Added reading function shake.
+    4. The corrected translation engine, faster, more accurate results.
+    5. new zoned word translation, zoned word reading function.
+    6. new share Twite, Facebook, Email, SMS function.
+    7. new fast paste input function.
+Version 2.0 (Feb 7, 2013)
+    1. 重新设计的用户界面。
+    2. 操作简便，易于使用。
+    3. 性能更优化，翻译更准确。
+    4. 自然的语音。
+    5. 内置双引擎。
+Version 1.2 (Mar 23, 2012)
+    優化了部分地區翻譯等待時間
+    提升響應速度
+Version 1.1 (Feb 25, 2012)
+    * 更新了翻译内核，翻译更精准。
+    * 强化了对华语地区普通话、粤语、台湾语的支持。
+    * 修正了粤语发音错误，使用了标准粤语库。
+    * 修正了繁体中文时标记错误。
+    * 新增了对多种语言的支持，支持35种语言。
+Version 1.0.2 (Feb 8, 2012)
+    增加了源语言与目标语言的互相切换。
+Version 1.0.1 (Jan 11, 2012)
+Version 3.3.6 (Jan 11, 2012)
+    Perfect to identify more languages;
+    Fix common phrases display problems.
+
+Users may also like
+Select objects to compare
+翻译-实时对话语音翻译&智能拍照翻译识别
+Voice Translator-traductor.
+Ai Web Browser
+Translator : Dialogue & Text
+Translator: Go Translate Voice
+录音语音转文字-专业在线录音语音转文字
+极刻翻译-拍照语音多国语言翻译器
+Scanner - fast and accurate
+PDF Manager - Scan Text, Photo
+RecAI - Speech to Text,Trans
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.1.1
+    Current release
+    Mar 18, 2021
+    5.1.0
+    Jun 20, 2020
+    5.0.1
+    Jun 5, 2020
+    5.0.0
+    May 29, 2020
+    4.3.1
+    May 13, 2020
+    4.3.0
+    May 12, 2020
+    4.2.0
+    Apr 22, 2019
+    4.1.3
+    Apr 20, 2019
+    4.1.2
+    May 20, 2017
+    4.1.1
+    May 5, 2017
+    4.1.0
+    May 1, 2017
+    4.0.3
+    Apr 25, 2017
+    4.0.2
+    Apr 23, 2017
+    4.0.1
+    Apr 21, 2017
+    4.0.0
+    Apr 11, 2017
+    3.4.0
+    Apr 7, 2017
+    3.3.8
+    Mar 28, 2017
+    3.3.7
+    Mar 19, 2017
+    3.3.5
+    Jan 26, 2016
+    3.3.4
+    Jan 19, 2016
+    3.3.3
+    Dec 30, 2015
+    3.2.3
+    Jun 20, 2015
+    3.2.2
+    Feb 16, 2015
+    3.1.1
+    Dec 5, 2014
+    3.1.0
+    Jun 28, 2013
+    3.0.1
+    Mar 27, 2013
+    3.0
+    Mar 22, 2013
+    2.0
+    Feb 7, 2013
+    1.2
+    Mar 23, 2012
+    1.1
+    Feb 25, 2012
+    1.0.2
+    Feb 8, 2012
+    1.0.1
+    Jan 11, 2012
+    3.3.6
+    Jan 11, 2012
+
+See More
+Top In-App Purchases
+
+    Upgrade to Pro
+    $2.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Jan 11, 2012
+
+Worldwide Release Date
+    Jan 11, 2012
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    5.1.1
+
+Size
+    12.45 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, French, German, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese
+
+Seller
+    春明 秦
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 8.0 or later. Compatible with iPhone 5S, iPhone 6, iPhone 6 Plus, iPhone 6S, iPhone 6S Plus, iPhone SE (1st generation), iPhone 7, iPhone 7 Plus, iPhone 8, iPhone 8 Plus, iPhone X, iPhone XS, iPhone XS Max, iPhone XR, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone SE (2nd generation), iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 13 mini, iPhone 13, iPhone SE (3rd generation), iPhone 14, iPhone 14 Plus, iPhone 14 Pro, iPhone 14 Pro Max, iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Air, iPad Air Wi‑Fi + Cellular, iPad mini 2, iPad mini 2 Wi‑Fi + Cellular, iPad Air 2, iPad Air 2 Wi‑Fi + Cellular, iPad mini 3, iPad mini 3 Wi‑Fi + Cellular, iPad mini 4, iPad mini 4 Wi‑Fi + Cellular, iPad Pro (12.9‑inch), iPad Pro (12.9‑inch) Wi-Fi + Cellular, iPad Pro (9.7‑inch), iPad Pro (9.7‑inch) Wi‑Fi + Cellular, iPad (5th generation), iPad (5th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (2nd generation), iPad Pro (12.9‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (10.5‑inch), iPad Pro (10.5‑inch) Wi‑Fi + Cellular, iPad (6th generation), iPad (6th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch), iPad Pro (11‑inch) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (3rd generation), iPad Pro (12.9‑inch) (3rd generation) Wi‑Fi + Cellular, iPad mini (5th generation), iPad mini (5th generation) Wi‑Fi + Cellular, iPad Air (3rd generation), iPad Air (3rd generation) Wi‑Fi + Cellular, iPad (7th generation), iPad (7th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (2nd generation), iPad Pro (11‑inch) (2nd generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (4th generation), iPad Pro (12.9‑inch) (4th generation) Wi‑Fi + Cellular, iPad Air (4th generation), iPad Air (4th generation) Wi‑Fi + Cellular, iPad (8th generation), iPad (8th generation) Wi‑Fi + Cellular, iPad Pro (11-inch) (3rd generation), iPad Pro (11-inch) (3rd generation) Wi‑Fi + Cellular, iPad Pro (12.9-inch) (5th generation), iPad Pro (12.9-inch) (5th generation) Wi-Fi + Cellular, iPad mini (6th generation), iPad mini (6th generation) Wi-Fi + Cellular, iPad (9th generation), iPad (9th generation) Wi-Fi + Cellular, iPad Air (5th generation), iPad Air (5th generation) Wi‑Fi + Cellular, iPad (10th generation), iPad (10th generation) Wi‑Fi + Cellular, iPad Pro (11‑inch) (4th generation), iPad Pro (11‑inch) (4th generation) Wi‑Fi + Cellular, iPad Pro (12.9‑inch) (6th generation), iPad Pro (12.9‑inch) (6th generation) Wi‑Fi + Cellular, iPod touch (6th generation), and iPod touch (7th generation).
+
+Bundle ID
+    com.zhcw.iTranslatorfreecn
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 493859741
+Unified App ID: 1000600000522849
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+iTranslator AI | data.ai

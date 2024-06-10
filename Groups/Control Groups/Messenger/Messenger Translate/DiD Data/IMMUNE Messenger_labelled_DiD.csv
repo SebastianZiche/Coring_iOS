@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1489335158,0,IMMUNE Messenger,Social Networking,2019-11-29,2019-12-09,97.48,1,0,0,0,4,0,1,0,0,0,0,0,0,0,month_1,0,0,90,195.0
+1489335158,0,IMMUNE Messenger,Social Networking,2019-11-29,2019-12-09,97.48,1,0,0,0,2,0,0,1,0,0,0,0,0,0,month_2,0,0,120,195.0
+1489335158,0,IMMUNE Messenger,Social Networking,2019-11-29,2019-12-09,97.48,1,0,0,0,4,0,0,0,1,0,0,0,0,0,month_3,0,0,150,195.0
+1489335158,0,IMMUNE Messenger,Social Networking,2019-11-29,2019-12-09,97.48,1,0,0,0,5,0,0,0,0,1,0,0,0,0,month_4,0,0,180,195.0
+1489335158,0,IMMUNE Messenger,Social Networking,2019-11-29,2019-12-09,97.48,1,0,0,0,4,0,0,0,0,0,1,0,0,0,month_5,0,1,210,195.0
+1489335158,0,IMMUNE Messenger,Social Networking,2019-11-29,2019-12-09,97.48,1,0,0,0,1,0,0,0,0,0,0,1,0,0,month_6,0,1,240,195.0
+1489335158,0,IMMUNE Messenger,Social Networking,2019-11-29,2019-12-09,97.48,1,0,0,0,0,0,0,0,0,0,0,0,1,0,month_7,0,1,270,195.0
+1489335158,0,IMMUNE Messenger,Social Networking,2019-11-29,2019-12-09,97.48,1,0,0,0,4,0,0,0,0,0,0,0,0,1,month_8,0,1,300,195.0

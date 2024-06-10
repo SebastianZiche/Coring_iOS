@@ -1,0 +1,471 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MXTNote
+Tao MaProductivity (Applications)Free
+Alerts
+
+    Tao Ma
+
+    MXTNote
+    MXTNote
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MXTNote
+PDF reader, notes, arXiv
+Productivity (Applications)
+Free
+App Description
+MXTNote is a free PDF reader and note taking app.
+
+When we study for a subject, we start by collecting reference,
+document idea fragments, then we expand our knowledge structure
+by creating links between these fragments, or add more content around them.
+MXTNote provide ways to simplify some of these steps
+
+Here are some examples:
+- A PDF references another PDF, you can select the two location and link them.
+- After embedding a selection from PDF to notebook, a two way link is automatically created between PDF and notebook.
+- Link can be created between notes to form a graph, to capture a knowledge/task dependency
+
+At block level, MXTNote consists of the following:
+- PDF reader
+- Text note taking
+- Handwriting note taking
+- Graph view
+- ARXIV explorer
+- Calendar
+
+Here are the detail features: (those marked with (*) requires MXTNote account, free signup)
+Reading:
+- PDF reader with thumbnail index, link navigation
+- Import web page (HTML will be converted to PDF)
+- support DJVU/MOBI (*)(file will be converted to PDF)
+- Text search (using text in PDF, or OCR)
+- Image search (useful for searching math symbols)
+- Translate selected text into English
+
+Notes:
+- Simple text note
+- Write on PDF or select box from PDF
+- Support links between notes, attach tags to notes.
+- Search notes by original PDF, tags, or text
+- Built-in split screen to copy note to notebook
+- Multiple page notebook with text or handwriting.
+- Support pressure sensitive input (Apple pencil).
+- Print notebook to PDF file or printer
+- Use Latex input for math formula or use the Math formula editor
+
+ARXIV:
+- Search ARXIV and download paper
+- Monitor ARXIV for new papers matching predefined query
+
+Sync:
+- Sync across all your device (*)
+- Available as web app
+
+Other:
+- In-app tutorial available for major functions
+
+please visit our website for details:
+https://note.mxtsoft.com/doc
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.8.29 (Aug 12, 2023)
+    - support set time and reminder in calendar note
+Version 1.8.28 (Jul 30, 2023)
+    - add function to write note as device calendar event
+    - bug fix
+Version 1.8.27 (Jul 23, 2023)
+    - add more help popup and link to demo video
+    - bug fix
+Version 1.8.26 (Jul 6, 2023)
+    remember user split mode settings
+Version 1.8.25 (May 17, 2023)
+    - bug fix
+Version 1.8.24 (Mar 11, 2023)
+    - bug fix
+Version 1.8.23 (Mar 2, 2023)
+    - support using camera to take picture/video as part of note
+Version 1.8.22 (Feb 20, 2023)
+    - bug fix
+Version 1.8.21 (Feb 12, 2023)
+    - bug fix
+Version 1.8.19 (Jan 30, 2023)
+    - fit toolbar in one row if possible
+Version 1.8.18 (Jan 23, 2023)
+    - improve graph view
+Version 1.8.17 (Jan 17, 2023)
+    - add alternative scroll method in write/select mode
+Version 1.8.15 (Dec 27, 2022)
+    - improve split mode
+Version 1.8.15 (Dec 27, 2022)
+    - improve split mode
+Version 1.8.14 (Nov 14, 2022)
+    - add selection of color scheme
+    - improve ui to edit links between notes
+Version 1.8.12 (Nov 6, 2022)
+    add arxiv reference graph (online user only)
+Version 1.8.10 (Oct 13, 2022)
+    - improve simple note editor
+Version 1.8.9 (Sep 13, 2022)
+    - add function to share simple note to other app
+    - in notebook, auto extend textbox size as user types
+Version 1.8.7 (Aug 31, 2022)
+    - support drawing in simple note
+Version 1.8.6 (Aug 23, 2022)
+    - fix function to add link between notes
+Version 1.8.5 (Aug 19, 2022)
+    - fix a notebook update problem
+Version 1.8.3 (Aug 12, 2022)
+    - add new landing page and graph view
+Version 1.8.2 (Aug 8, 2022)
+    - improve simple note editor to support markdown
+    - allow attach a date to simple note and add a calendar view
+    - add option to choose notebook cover and page template
+Version 1.7.92 (Jul 25, 2022)
+    - fix bug related to split screen and edit note
+Version 1.7.91 (Jul 24, 2022)
+    - support add link between simple notes
+    - support import HTML page (internally converted to PDF)
+    - add thumbnail drawer in PDF/notebook view
+    - more in-app tutorial
+Version 1.7.86 (Jul 15, 2022)
+    - support commutative diagram in math editor
+Version 1.7.84 (Jun 23, 2022)
+    - minor bug fix
+Version 1.7.79 (Jun 11, 2022)
+    - make translation function available offline
+Version 1.7.78 (Jun 8, 2022)
+    - add eraser tool
+    - improve text input in notebook
+Version 1.7.74 (May 10, 2022)
+    - make image search function available in offline mode
+    - add option to parse PDF file for section, theorem numbers for navigation when it doesn't have any builtin links.
+Version 1.7.72 (Apr 26, 2022)
+    - make image search function available in offline mode
+    - improve text input in notebook
+Version 1.7.69 (Apr 22, 2022)
+    - automatic download PDF files when sync from new device
+    - fix notebook slow zooming problem
+Version 1.7.67 (Apr 17, 2022)
+    fix a bug in text search
+Version 1.7.65 (Apr 8, 2022)
+    - support pdf outline
+    - make arxiv function available in offline mode
+Version 1.7.63 (Mar 23, 2022)
+    Add code to extract PDF text and link which runs locally on device
+Version 1.7.58 (Mar 8, 2022)
+    - Add undo/clear for notes written on PDF
+    - Support printing notebook to network printer
+    - Add setting for edit with stylus only to prevent unintended edit
+
+Version 1.7.55 (Mar 1, 2022)
+    - support handwriting directly on PDF
+    - improve custom pen UI
+Version 1.7.52 (Feb 26, 2022)
+    - add magnifier mode in note writing
+    - save customized pen
+Version 1.7.47 (Feb 15, 2022)
+    - add file status indicator
+    - add OCR handwriting to text
+Version 1.7.40 (Jan 20, 2022)
+    fix the problem that the sync failure explanation screen cannot be dismissed
+Version 1.7.39 (Jan 4, 2022)
+    bug fix
+Version 1.7.38 (Dec 8, 2021)
+    text search in handwritten note
+Version 1.7.37 (Nov 30, 2021)
+    minor fix
+Version 1.7.31 (Nov 20, 2021)
+    minor fix
+Version 1.7.30 (Nov 16, 2021)
+    add a tutorial
+Version 1.7.24 (Nov 9, 2021)
+    improve method to select text/box in pdf
+Version 1.7.22 (Nov 6, 2021)
+    revise initial page and privacy policy
+Version 1.7.19 (Oct 31, 2021)
+    bug fix
+Version 1.7.12 (Oct 26, 2021)
+    support multi-page hardwritten note
+Version 1.6.16 (Oct 4, 2021)
+    bug fix
+Version 1.6.13 (Sep 29, 2021)
+    - Support link in pdf
+    - Improved the flow of adding note
+Version 1.4.0 (Sep 5, 2021)
+    - Image search for math symbols
+    - Export notes to Latex
+Version 1.3.0 (Aug 16, 2021)
+    - Arxiv: search, download and watch for new articles
+    - Offline reading mode
+Version 1.0 (Dec 7, 2020)
+
+Users may also like
+Select objects to compare
+Archimedes Editor
+VerbTeX LaTeX Editor
+VerbTeX Pro LaTeX Editor
+Reader's Bench
+AxNote: Note Taking
+Markcurial: Markdown Editor
+MathPad
+MATH Keys
+MathTech min
+LaTeX Editor Tex Pro
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.8.29
+    Current release
+    Aug 12, 2023
+    1.8.28
+    Jul 30, 2023
+    1.8.27
+    Jul 23, 2023
+    1.8.26
+    Jul 6, 2023
+    1.8.25
+    May 17, 2023
+    1.8.24
+    Mar 11, 2023
+    1.8.23
+    Mar 2, 2023
+    1.8.22
+    Feb 20, 2023
+    1.8.21
+    Feb 12, 2023
+    1.8.19
+    Jan 30, 2023
+    1.8.18
+    Jan 23, 2023
+    1.8.17
+    Jan 17, 2023
+    1.8.15
+    Dec 27, 2022
+    1.8.15
+    Dec 27, 2022
+    1.8.14
+    Nov 14, 2022
+    1.8.12
+    Nov 6, 2022
+    1.8.10
+    Oct 13, 2022
+    1.8.9
+    Sep 13, 2022
+    1.8.7
+    Aug 31, 2022
+    1.8.6
+    Aug 23, 2022
+    1.8.5
+    Aug 19, 2022
+    1.8.3
+    Aug 12, 2022
+    1.8.2
+    Aug 8, 2022
+    1.7.92
+    Jul 25, 2022
+    1.7.91
+    Jul 24, 2022
+    1.7.86
+    Jul 15, 2022
+    1.7.84
+    Jun 23, 2022
+    1.7.79
+    Jun 11, 2022
+    1.7.78
+    Jun 8, 2022
+    1.7.74
+    May 10, 2022
+    1.7.72
+    Apr 26, 2022
+    1.7.69
+    Apr 22, 2022
+    1.7.67
+    Apr 17, 2022
+    1.7.65
+    Apr 8, 2022
+    1.7.63
+    Mar 23, 2022
+    1.7.58
+    Mar 8, 2022
+    1.7.55
+    Mar 1, 2022
+    1.7.52
+    Feb 26, 2022
+    1.7.47
+    Feb 15, 2022
+    1.7.40
+    Jan 20, 2022
+    1.7.39
+    Jan 4, 2022
+    1.7.38
+    Dec 8, 2021
+    1.7.37
+    Nov 30, 2021
+    1.7.31
+    Nov 20, 2021
+    1.7.30
+    Nov 16, 2021
+    1.7.24
+    Nov 9, 2021
+    1.7.22
+    Nov 6, 2021
+    1.7.19
+    Oct 31, 2021
+    1.7.12
+    Oct 26, 2021
+    1.6.16
+    Oct 4, 2021
+    1.6.13
+    Sep 29, 2021
+    1.4.0
+    Sep 5, 2021
+    1.3.0
+    Aug 16, 2021
+    1.0
+    Dec 7, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 7, 2020
+
+Worldwide Release Date
+    Dec 7, 2020
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    1.8.29
+
+Size
+    140.26 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Tao Ma
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.mxtsoft.note
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1518415738
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MXTNote | data.ai

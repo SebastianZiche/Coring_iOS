@@ -1,0 +1,6 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1546363298,0,CollaChat,Social Networking,2020-12-19,2021-01-06,274.13,1,0,0,0,1.2.0,2023-09-20,conference mode
+1546363298,0,CollaChat,Social Networking,2020-12-19,2021-01-06,274.13,1,0,0,0,1.1.6,2022-03-04,fix some bugs
+1546363298,0,CollaChat,Social Networking,2020-12-19,2021-01-06,274.13,1,0,0,0,1.1.1,2022-02-06,fix some bugs
+1546363298,0,CollaChat,Social Networking,2020-12-19,2021-01-06,274.13,1,0,0,0,1.0.0,2022-01-10,1. support offline messaging 2. release Channel function
+1546363298,0,CollaChat,Social Networking,2020-12-19,2021-01-06,274.13,1,0,0,0,0.1.8,2021-01-07,

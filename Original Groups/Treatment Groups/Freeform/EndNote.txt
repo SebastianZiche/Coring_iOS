@@ -1,0 +1,421 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+EndNote
+ClarivateProductivity (Applications)Free
+Alerts
+
+EndNote
+EndNote
+EndNote
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+EndNote
+Productivity (Applications)
+Free
+App Description
+Collect, collaborate, create from anywhere with the EndNote app - the world's most popular research management tool. With flexible tools for searching, organizing, sharing research, and creating bibliographies, the EndNote app extends your ability to stay on top of cutting edge research and connect with your EndNote library on the go.
+
+EndNote enables you to easily view, edit, organize, and share research material on your iOS device. By syncing your research library across iOS, online, and desktop, you increase the power of EndNote by gaining seamless access to your reference library from multiple devices and platforms.
+
+The EndNote app includes:
+- Sign up for a free, EndNote online account or sign in to an existing account
+- Synchronize your library references, attachments, and PDF annotations to your online account and X9 desktop
+- Built in web browser to search Clarivate Analytics Web of Science, PubMed, Google Scholar, your library catalog, or any other database you choose
+- Built in PDF viewer with wide range of annotation features. Annotations made can be synced and edited online and on the X9 desktop
+- Importing capabilities for .ris, .nbib, and other popular reference file formats
+- Email and copy options for sharing references and file attachments with collaborators
+- EndNote “temporary citation” format support
+- Attach files from Dropbox, OneDrive or Google Drive to your references (accounts available separately)
+- Viewing and editing options for references and file attachments
+- Sorting, searching, and grouping options for references and file attachments
+- Getting Started Guide documentation
+Ratings
+Displayed Avg Ratings
+3.01
+Total Displayed Ratings
+775
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.4 (Aug 14, 2023)
+    * Pre-populate reference data from metadata when adding a PDF to a reference
+    * Preview for a few supported file attachment types, including video (m4v, mp4, mov) files, and Microsoft Office documents (doc, docx, xls, xlsx, ppt, and pptx)
+    * Start syncing after login
+    * Stability improvements in Search, Sync, PDF viewer and annotation, and more
+    * Other minor bug fixes and general performance improvements
+Version 3.3 (Sep 9, 2022)
+    New in this release:
+
+    * Enhanced PDF reading and annotation tools, including bookmarks, Apple Pencil and highlighter controls.
+
+    * Improved login process and error reporting.
+
+    * Fixed issue with reference display in groups when sorting by label.
+
+    * Fixed several issues that could result in crashes.
+
+    * Other minor bug fixes and general performance improvements.
+
+    Note: This release temporarily disables new account creation. Login for existing users is unaffected. New free accounts can always be created online at my.endnote.com
+
+    We are working hard to improve the user experience for all of our customers. Thank you for your feedback.
+
+    For help or to leave feedback, please visit us at: http://endnote.com/ios/contact
+Version 3.2 (Nov 4, 2021)
+    New in this release:
+    * Fixed issues with iOS15 keyboard display
+    * New - Advanced search option
+    * New - Sort by label option
+    * Improved Sync speed
+    * Improved PDF annotation and handling
+    * Improved account creation and password validation
+    * Updated Privacy Policy, Terms of Use and Copyright links
+    * Improved crash reporting to assist technical support
+    * Other minor bug fixes
+
+
+    We are working hard to improve the user experience for all of our customers. Thank you for your feedback.
+
+    For help or to leave feedback, please visit us at: http://endnote.com/ios/contact
+Version 3.1 (Nov 18, 2020)
+    New in this release:
+    * Dark mode support.
+    * Search within PDF attachments.
+    * Improved PDF annotation tools and handling.
+    * Fixed issues with 3rd party storage linking (i.e. OneDrive, Google Drive, Dropbox).
+    * iOS compatibility updates.
+    * Numerous other more minor bug fixes.
+
+    We are working hard to improve the user experience for all of our customers. Thank you for your feedback.
+    For help or to leave feedback, please visit us at: http://endnote.com/ios/contact
+Version 3.0.1 (Mar 23, 2019)
+    EndNote for iPad is now EndNote!
+
+    New in v3.0.1:
+    * Fixed PDF reindexing issue on first launch.
+    * Updated text and contact links.
+
+    New in v3.0:
+    * iPhone support.
+    * iPad split screen support.
+    * Enhanced PDF viewing and annotation controls.
+    * Improved file sharing options, including Airdrop and Messages.
+    * Improved Drag & Drop support. Attach files by dragging them from the Files app in Split Screen mode.
+    * Fixed issue where downloading large numbers of attachments could cause the app to shutdown.
+    * Several other more minor bug fixes.
+
+    We are working hard to improve the user experience for all of our customers. Thank you for your feedback.
+
+    For help or to leave feedback, please visit us at: http://endnote.com/ios/contact
+Version 3.0 (Feb 14, 2019)
+    EndNote for iPad is now EndNote for iOS!
+
+    New in this release:
+    * iPhone support!
+    * iPad split screen support.
+    * Enhanced PDF viewing and annotation controls.
+    * Improved file sharing options, including Airdrop and Messages.
+    * Improved Drag & Drop support. Attach files by dragging them from the Files app in Split Screen mode.
+    * Fixed issue where downloading large numbers of attachments could cause the app to shutdown.
+    * Several other more minor bug fixes.
+
+
+    We are working hard to improve the user experience for all of our customers. Thank you for your feedback.
+
+    For help or to leave feedback, please visit us at: http://endnote.com/ios/contact
+Version 2.6.0 (Dec 21, 2017)
+Version 2.5.1 (Nov 10, 2017)
+Version 2.5.0 (Jun 3, 2017)
+Version 2.4.2 (May 3, 2017)
+Version 2.4.1 (Mar 7, 2017)
+    This is a minor update to alleviate problems some users have been experiencing in the previous version.
+
+    * Addressed issue which could cause corruption of PDF files if auto-save occurrs during some annotation operations.
+    * Addressed issue which was causing temporary unresponsiveness after viewing PDFs in very large libraries.
+
+    We are working hard to improve the user experience for all of our customers. Thank you for your feedback.
+
+    For help or to leave feedback, please visit us at: http://endnote.com/ipad/contact
+Version 2.4 (Jan 9, 2017)
+    * Improved file attachment handling. This includes the ability to rename, detach and reattach files, as well as remove files from your iPad without deleting them from your library.
+    * Database optimization.
+    * Sort by Date Modified.
+    * Improved PDF handling.
+    * Bug fixes.
+
+    For help or to leave feedback, please visit us at: http://endnote.com/ipad/contact
+Version 2.3.1 (Nov 8, 2016)
+    * New icon and launch screen
+
+    For help or to leave feedback, please visit us at: http://endnote.com/ipad/contact
+Version 2.3 (Oct 5, 2016)
+    * Updated for iOS 10.
+    * Added iPad Pro native resolution support.
+    * Improved PDF handling.
+    * Fixed issue when updating email and password.
+    * Added ability to merge user library data when switching accounts.
+Version 2.2 (Oct 12, 2015)
+    * Full iOS 9 compatibility
+    * New in-app browser with improved UI, reference importing, bookmarks, and smart search
+    * Improved PDF annotation
+    * Fixed issue allowing iPad to go to sleep during long Sync operations
+    * Other bug fixes and stability improvements
+
+    For help or to leave feedback, please visit us at: http://endnote.com/ipad/contact
+Version 2.1 (Aug 24, 2015)
+    * User interface improvements
+    * Improved attachment storage options
+    * PDF annotation improvements
+    * Google Drive and OneDrive support
+    * Stability and performance improvements 
+    * Bug fixes
+Version 2.0 (May 1, 2015)
+    * Improved PDF annotation workflows
+    * Bug fixes and performance improvements
+Version 1.2.4 (Jan 5, 2015)
+    * Bug fixes and improvements for Accessibility compliance, Group display issues, and reference formatting.
+Version 1.2.3 (Nov 22, 2014)
+    *Optimized for iOS 8 *Bug fixes and improvements
+Version 1.2.2 (Nov 14, 2014)
+    * Optimized for iOS 8
+    * Improvements and bug fixes
+    * New app icon
+Version 1.2 (Jun 5, 2014)
+    * Redesigned interface for iOS 7
+    * Improvements and bug fixes
+    * We are actively working on an update to fix issues with editing reference fields on iOS 8
+Version 1.1 (Jan 31, 2014)
+    - Expanded set of PDF annotation tools include inserting notes, highlighting, underlining, shapes, strikethrough and free hand drawing
+    - PDF annotations made on EndNote desktop or online can be viewed, edited, and searched in the app
+    - PDF annotations made in older versions of the app will be saved and made editable with the new tools
+    - New Reference Types include Podcast, Press Release, and Interview
+    - Updated Reference Types include Conference Paper, Blog, Data set, Thesis, and Manuscript
+Version 1.0.4 (Nov 1, 2013)
+    - Fixes a bug that caused an issue with users wishing to change their password.
+Version 1.0.3 (Jun 2, 2013)
+    - Free 2 GB of attachment storage with EndNote Basic accounts
+Version 1.0.2 (Mar 8, 2013)
+    - Improved search indexing
+    - Fixed minor crashes
+    - Fixed rich-text rendering memory leak
+Version 1.0.1 (Feb 5, 2013)
+    Removed incomplete Spanish localization.
+Version 1.0 (Jan 25, 2013)
+
+Users may also like
+Select objects to compare
+Zotero
+MarginNote 3
+Papers by ReadCube
+Paperpile
+Highlights: PDF Reader & Notes
+LiquidText
+LaTeX Editor Tex Pro
+Bookends
+Flexcil Note & Good PDF Reader
+Listening: read on the go
+IQ Classifications
+Genre: Health & Fitness
+Subgenre: Medical Manual
+Medical Manual
+Apps that are mainly designed for medical students, practitioners and clinicians, where they can learn professional medical knowledge, search diagnosis and treatment recommendations, and read the latest medical information etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.4
+    Current release
+    Aug 14, 2023
+    3.3
+    Sep 9, 2022
+    3.2
+    Nov 4, 2021
+    3.1
+    Nov 18, 2020
+    3.0.1
+    Mar 23, 2019
+    3.0
+    Feb 14, 2019
+    2.6.0
+    Dec 21, 2017
+    2.5.1
+    Nov 10, 2017
+    2.5.0
+    Jun 3, 2017
+    2.4.2
+    May 3, 2017
+    2.4.1
+    Mar 7, 2017
+    2.4
+    Jan 9, 2017
+    2.3.1
+    Nov 8, 2016
+    2.3
+    Oct 5, 2016
+    2.2
+    Oct 12, 2015
+    2.1
+    Aug 24, 2015
+    2.0
+    May 1, 2015
+    1.2.4
+    Jan 5, 2015
+    1.2.3
+    Nov 22, 2014
+    1.2.2
+    Nov 14, 2014
+    1.2
+    Jun 5, 2014
+    1.1
+    Jan 31, 2014
+    1.0.4
+    Nov 1, 2013
+    1.0.3
+    Jun 2, 2013
+    1.0.2
+    Mar 8, 2013
+    1.0.1
+    Feb 5, 2013
+    1.0
+    Jan 25, 2013
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jan 28, 2013
+
+Worldwide Release Date
+    Jan 28, 2013
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    3.4
+
+Size
+    105.67 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Clarivate Analytics (US) LLC
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.thomsonreuters.endnote
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App License Url
+
+Company Website
+
+App ID: 593994211
+Unified App ID: 1000600000449287
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+EndNote | data.ai

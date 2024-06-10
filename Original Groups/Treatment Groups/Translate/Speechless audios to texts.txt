@@ -1,0 +1,294 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Speechless: audios to texts
+Elsayed HusseinUtilities (Applications)Free
+Alerts
+
+    Elsayed Hussein
+
+    Speechless: audios to texts
+    Speechless: audios to texts
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Speechless: audios to texts
+Transcribe & Translate audios
+Utilities (Applications)
+Free
+App Description
+Introducing Speechless – the ultimate app powered by OpenAI's Whisper API, offering seamless audio transcription and translation. With Speechless, you can effortlessly import audio from the app or iPhone share menu and receive accurate transcriptions instantly. Break language barriers with real-time translations and effortlessly share your transcriptions with others, enabling unparalleled connection and communication.
+
+You can transcribe or translate audio directly from other apps, such as WhatsApp, Voice Memos, and Messages, and more:
+
+1- For WhatsApp:
+- Long press on the voice message.
+- Click 'Forward,' then tap the share icon in the bottom right.
+- Finally, select 'Transcribe the audio' or 'Translate the audio' from the share sheet. (If they don't appear, please check the 'More' screen for the 'Transcribe the audio' option.)
+
+2- For Messages:
+- Long press on the voice message.
+- Click on the wave icon.
+- Tap the share icon in the bottom left.
+- Select 'Transcribe the audio' or 'Translate the audio'from the share sheet.
+
+3- For Voice Memos:
+- Click on the more icon on the voice memo.
+- Choose 'Share' from the menu.
+- Finally, select 'Transcribe the audio' or 'Translate the audio' from the share sheet.
+
+How it works:
+You can use Speechless in 4 ways:
+
+1. Importing audio within the app:
+- Open the Speechless app.
+- Import your audio in one of the supported formats (mp3, mp4, mpeg, mpga, m4a, wav, or webm).
+- Easily switch between Transcriptions and Translations (optional).
+- Click on "Transcribe" or "Translate to English".
+- Wait for the process to finish, and then copy the results.
+
+2. Importing audio using the Share sheet:
+- After selecting an audio file, click the Share button.
+- Find the Speechless app icon among other apps and select it to redirect to the app.
+- If you don't see the Speechless app icon, tap on "More," and enable it from there.
+
+3. Translating audio in the Share menu (outside the app):
+- Select the audio file, then click the Share button.
+- If you don't see "Translate the audio," click on "Edit actions" and make sure it is enabled.
+- Choose "Translate the audio" in the share sheet.
+- The translation screen will open, and the audio translation will begin without using the app.
+- Once the translation is complete, the "Copy" button will become enabled. Copy the translation to your clipboard.
+
+4. Transcribing audio in the Share menu (outside the app):
+- Select the audio file, then click the Share button.
+- If you don't see "Transcribe the audio," click on "Edit actions" and make sure it is enabled.
+- Choose "Transcribe the audio" in the share sheet.
+- The transcription screen will open, and the audio transcription will begin without using the app.
+- Once the transcription is complete, the "Copy" button will become enabled. Copy the transcription to your clipboard.
+
+With Speechless, experience the ease and convenience of audio transcription and translation, making communication across languages effortless and efficient.
+
+For more information:
+Terms of Use - https://sites.google.com/view/speechlessapp/terms-and-conditions
+Privacy Policy - https://sites.google.com/view/speechlessapp/privacy-policy
+Payment Policy - https://sites.google.com/view/speechlessapp/payment-policy
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 1.10 (Jan 31, 2024)
+    - Minor improvements.
+Version 1.9 (Jan 23, 2024)
+    Fixed: The record button doesn't appear when trying to record.
+Version 1.6 (Jan 17, 2024)
+    Improved: Move start recording button on center of bottom screen, between tabs.
+    Improved: After clicking on stop recording, start transcribing.
+Version 1.5 (Jan 14, 2024)
+    Added: Now you can record audio inside Speechless to transcribe or translate it.
+Version 1.4 (Nov 29, 2023)
+    - Minor Improvements.
+Version 1.3.8 (Nov 7, 2023)
+    Fixed: Stopped generating replies, now it works. Sorry for that.
+Version 1.3.7 (Oct 30, 2023)
+    Fixed: Stopped generating replies, now it works. Sorry for that.
+Version 1.3.5 (Oct 23, 2023)
+    Fixed: Stopped generating replies, now it works. Sorry for that.
+Version 1.3.3 (Oct 2, 2023)
+    Fixed: Stopped generating replies, now it works. Sorry for that.
+    - Ensure compatibility with iOS 14.0.
+    - Optimize localization for the Italian language.
+    - Address and enhance various aspects of the app.
+Version 1.3.2 (Sep 19, 2023)
+    - Ensure compatibility with iOS 14.0.
+    - Optimize localization for the Italian language.
+    - Address and enhance various aspects of the app.
+Version 1.3.1 (Aug 23, 2023)
+    - Support Italian language.
+Version 1.3 (Aug 14, 2023)
+    - Support Italian language.
+Version 1.0 (Aug 9, 2023)
+
+Users may also like
+Select objects to compare
+HamHamHam
+Headroom
+AI Keyboard: Writer & Checker
+EtnaID
+Teleprompter for Video & Audio
+Voiced - Speech to Text+Speech
+Probability Calculator Plus
+Search Words Bookmark
+Transcribe voice to text.
+Voice to Text & Whisper AI
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.10
+    Current release
+    Jan 31, 2024
+    1.9
+    Jan 23, 2024
+    1.6
+    Jan 17, 2024
+    1.5
+    Jan 14, 2024
+    1.4
+    Nov 29, 2023
+    1.3.8
+    Nov 7, 2023
+    1.3.7
+    Oct 30, 2023
+    1.3.5
+    Oct 23, 2023
+    1.3.3
+    Oct 2, 2023
+    1.3.2
+    Sep 19, 2023
+    1.3.1
+    Aug 23, 2023
+    1.3
+    Aug 14, 2023
+    1.0
+    Aug 9, 2023
+
+See More
+Top In-App Purchases
+
+    Monthly Subscription
+    $2.99
+    Yearly Subscription
+    $24.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Utilities
+
+Initial Release Date
+    Aug 8, 2023
+
+Worldwide Release Date
+    Aug 8, 2023
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    1.10
+
+Size
+    15.78 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Italian
+
+Seller
+    Elsayed Hussein
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.bokhary.Y
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6456413273
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Speechless: audios to texts | data.ai

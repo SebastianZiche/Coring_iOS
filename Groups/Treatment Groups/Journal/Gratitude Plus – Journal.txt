@@ -1,0 +1,1599 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Gratitude Plus – Journal
+Redwheel AppsHealth and Fitness (Applications)Free
+Alerts
+
+    Redwheel Apps
+
+    Gratitude Plus – Journal
+    Gratitude Plus – Journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Gratitude Plus – Journal
+Social gratitude journal
+Health and Fitness (Applications)
+Free
+App Description
+Gratitude Plus is the best way to build and maintain a consistent habit of gratitude for a healthier and happier life. Combining science-based mental health tools and community support, the app makes it easy to reflect on your day while deepening connections with the people you care about most.
+
+With Gratitude Plus, you can…
+
+- Keep a private, personal Gratitude Journal
+- Create or join Gratitude Circles with your partner, family, and/or friends
+- See “memories” of gratitudes you’ve shared in the past
+- Push yourself creatively with a variety of prompts
+- Browse the public feed of gratitude and support others around the world with heartwarming messages of encouragement
+- Get daily inspiration with positive affirmations and thoughtful quotes
+- Set up push notifications to remind yourself to check in
+- Track your mood each day to easily understand trends
+- View personalized insights, including most frequent words, entries and moods
+- Track your Mindful Minutes spent in the app by connecting to Apple Health Kit
+
+"The app is perfect! I love the clean look and it’s simplicity. This was just what I needed to add to my daily routine."
+
+"It’s so nice to see the things other people are grateful for and it makes me remember to be grateful for those things too. It makes me smile"
+
+"I love Gratitude Plus because unlike other gratitude apps I've used, it isn't clogged with unnecessary features or annoying alerts. It does exactly what I want a gratitude app to do all and has a clean, soothing design"
+
+If you have any questions or feedback, send us a note at: feedback@gratitudeplusapp.com
+
+Subscription pricing and terms:
+
+Gratitude Plus is free to use, with an option to unlock additional features by upgrading to an auto-renewing subscription: $3.99/month and $29.99/year.
+
+Payment will be charged to your Apple ID account at the confirmation of purchase. The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase.
+
+Terms of Service: https://gratitudeplusapp.com/terms
+
+Privacy Policy: https://gratitudeplusapp.com/privacy
+Ratings
+Displayed Avg Ratings
+4.82
+Total Displayed Ratings
+814
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.9.29 (Feb 13, 2024)
+    What’s new:
+    - Bug fixes and performance improvements
+
+    In the last version:
+    - Fixed issue where new members wouldn’t always load in the members screen
+    - New share button under each gratitude post
+    - Bug fixes and improvements
+
+    As always, feel free to send us feedback or questions to: hello@gratitudeplusapp.com
+Version 3.9.28 (Jan 24, 2024)
+    What’s new:
+    - Bug fixes
+
+    In the last version:
+    - Fixed issue where new members wouldn’t always load in the members screen
+    - New share button under each gratitude post
+    - Bug fixes and improvements
+
+    As always, feel free to send us feedback or questions to: hello@gratitudeplusapp.com
+Version 3.9.27 (Jan 18, 2024)
+    What’s new:
+    - Fixed issue where new members wouldn’t always load in the members screen
+    - New share button under each gratitude post
+    - Bug fixes and improvements
+
+    As always, feel free to send us feedback or questions to: hello@gratitudeplusapp.com
+Version 3.9.26 (Jan 5, 2024)
+    Happy new year and thank you for being a part of our community! What's new:
+
+    - Improved design in the new entry screen
+    - Redesigned the action menu (•••) in the new entry screen
+    - Improved the “keep writing” feature, which you see after tapping a mood
+    - Bug fixes and improvements
+Version 3.9.25 (Dec 17, 2023)
+    - New: a quick way to keep writing! When you select your mood, you’ll be shown a curated list of additional prompts that you can quickly answer just by tapping it!
+    - Redesigned the edit date UI to make it easier to select yesterday’s date
+    - Tap to scroll to next affirmation
+    - Bug fixes and improvements
+Version 3.9.24 (Dec 4, 2023)
+    - We moved the streaks button to the top right of the home feed for quick access to your streak count.
+    - New streaks screen! We built a brand new screen showing your current streak as well as a calendar of your entries.
+    - Redesigned the memories card on top of the feed for a cleaner design.
+    - Bug fixes and improvements
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.9.23 (Nov 20, 2023)
+    - New design for journal prompts
+    - Friend or family in your circle not posting? We’ve added a quick nudge button on top to remind them!
+    - Bug fixes and improvements
+
+    As always, feel free to send us feedback or questions to: hello@gratitudeplusapp.com
+Version 3.9.21 (Nov 2, 2023)
+    - Improved design for attaching photos
+    - Bug fixes for location
+    - Various other bug fixes and design tweaks
+
+    As always, feel free to send us feedback or questions to hello@gratitudeplusapp.com
+Version 3.9.20 (Oct 21, 2023)
+    - Bug fixes for location not updating
+    - Bug fixes for memories getting cut off
+    - Various other bug fixes and design tweaks
+Version 3.9.19 (Oct 8, 2023)
+    - New Insights tab for quick access to your streaks, moods and more!
+    - iOS 17 support
+    - New share sheet with the ability to share directly to Instagram stories.
+    - Bug fixes and improvements
+Version 3.9.18 (Sep 26, 2023)
+    - Bug fixes and performance improvements
+Version 3.9.17 (Sep 12, 2023)
+    - See the gratitude prompt in circle posts
+    - Bigger + button
+    - Bug fixes and improvements
+Version 3.9.16 (Sep 5, 2023)
+    Not too much in this update as we work on some bigger features for the next few versions!
+    - Minor design tweaks
+    - Bug fixes and improvements
+
+    As always, feel free to send us feedback or questions to: hello@gratitudeplusapp.com
+Version 3.9.15 (Aug 22, 2023)
+    - More prompts!
+    - Ability to restore your streak for 99¢ if you run out.
+    - Bug fixes and improvements
+
+    As always, feel free to send us feedback or questions to: hello@gratitudeplusapp.com
+Version 3.9.14 (Aug 15, 2023)
+    - Fixed issues with rotating prompts
+    - Fixed UI issues with icon sizing on devices with dynamic type enabled.
+    - UI improvements throughout app
+    - Bug fixes
+Version 3.9.13 (Aug 9, 2023)
+    - Combined My Affirmations and Favorites affirmations section.
+    - Ability to get individual affirmations as daily notifications
+    - Fixes for daily quotes in affirmations
+    - Fixes for streak restores
+    - UI tweaks
+    - Bug fixes and improvements
+Version 3.9.12 (Aug 3, 2023)
+    - New design for replying to gratitudes and messages.
+    - Fixed issue with text fields not being able to scroll.
+    - Design tweaks.
+    - Fixed a few small bugs.
+Version 3.9.11 (Jul 27, 2023)
+    - New: see details about your circle by tapping the about button on top of the circle.
+    - New: Share a prompt to your circle! (premium)
+    - New: easily share the gratitude you just wrote to social media.
+    - Design tweaks.
+    - Fixed a few small bugs.
+Version 3.9.10 (Jul 17, 2023)
+    -Brought back the red badge indicator for unread circle entries instead of the green circle shipped in the last release. We thought a green circle would be a better indicator, but we were wrong on that one. Sorry!
+    -A few bugs were squashed in this release.
+
+    We released a number of new features in the last few updates. You can always see the release notes in profile > about!
+
+    Thanks for using Gratitude Plus!
+Version 3.9.9 (Jul 9, 2023)
+    - Fixed a bug with Instagram sharing. Sorry!
+    - Tweaked design for indicating new circle entries - instead of a red badge it’s a green circle (like another well known app)
+    - Bug fixes and tweaks.
+
+    Released inthe last version: Tap a gratitude entry in circles or the explore feed to view more details like the prompt or location
+Version 3.9.8 (Jul 4, 2023)
+    - Tap a gratitude entry in circles or the explore feed to view more details like the prompt!
+    - New affirmation reminders feature: get multiple reminders daily!
+    - Fixed crash when tapping inspiration button. Sorry.
+    - Bug fixes and performance improvements.
+Version 3.9.7 (Jun 25, 2023)
+    - Redesigned insights with a new mood tracking design!
+    - Bug fixes and UI tweaks
+Version 3.9.6 (Jun 15, 2023)
+    - Bug fixes and performance improvements
+
+    In the last update:
+    - UI tweaks in the home screen.
+    - Ability to restore a broken streak! (Premium feature)
+    - Redesigned gratitude details view with more information on each entry.
+Version 3.9.5 (Jun 12, 2023)
+    - UI tweaks in the home screen.
+    - Ability to restore a broken streak! (Premium feature)
+    - Redesigned gratitude details view with more information on each entry.
+    - Bug fixes and performance improvements.
+Version 3.9.4 (May 31, 2023)
+    - Updated app design! Quickly see your streak info and stats with a new button above your journal entries.
+    - After tapping a mood, you’ll now see all of your moods from the week.
+    - UI Tweaks.
+    - Bug fixes.
+Version 3.9.3 (May 18, 2023)
+    - Updated design of gratitude details screen.
+    - Fixed bug where gratitude entries could be cut off in details screen.
+    - New backup setting to show you data backup activity.
+    - UI Tweaks.
+    - Bug fixes.
+Version 3.9.2 (May 8, 2023)
+    - Send a message to your circle!
+    - New ways to refer friends.
+    - Moved circle to the profile screen.
+    - Pull to refresh in circles.
+    - UI Tweaks
+    - Bug fixes
+Version 3.9.1 (Apr 30, 2023)
+    - Send notifications when loving or clapping gratitudes!
+    - Redesigned share to screen.
+    - Bug fixes and UI Tweaks.
+Version 3.9.0 (Apr 26, 2023)
+    Thanks for using Gratitude Plus. What's new:
+    • Bug fixes and UI Tweaks
+Version 3.8.9 (Apr 15, 2023)
+    Thanks for using Gratitude Plus. What's new:
+    - Rotating prompts! Get a new prompt every day. To enable this, tap the prompt on top in the entry screen.
+    - QR code in the invite screen.
+    - Read all button in messages screen to quickly mark all messages as read.
+    - Get a notification when someone saves an affirmation you shared.
+    - Bug fixes and UI Tweaks
+Version 3.8.8 (Mar 30, 2023)
+    Thanks for using Gratitude Plus! Here’s what’s new in this update:
+    - New! Share affirmations to circles! Highly requested, we hope you like!
+    - UI improvements to affirmations.
+    - Fixed a variety of bugs and improvements.
+    - Some cool new features coming soon. Stay tuned.
+    - Note: this is the last version supporting iOS 13. Barely anyone is using that version, so this shouldn’t cause any problems, but for us it’s a lot of work to maintain!
+
+    As always, feel free to send us feedback or questions to hello@gratitudeplusapp.com
+Version 3.8.7 (Mar 21, 2023)
+    Thanks for using Gratitude Plus! Here’s what’s new in this update:
+    - New prompts
+    - Fixed a variety of bugs and UI improvements.
+    - Some cool new features coming soon. Stay tuned
+
+    As always, feel free to send us feedback or questions to hello@gratitudeplusapp.com
+Version 3.8.6 (Mar 15, 2023)
+    Thanks for using Gratitude Plus! Here’s what’s new in this update:
+    - Updated design for messages
+    - Improvements to onboarding
+    - UI improvements and bug fixes
+    - Some cool new features coming soon. Stay tuned
+
+    As always, feel free to send us feedback or questions to hello@gratitudeplusapp.com
+Version 3.8.5 (Mar 14, 2023)
+    Thanks for using Gratitude Plus! Here’s what’s new in this update:
+    - Updated design for messages
+    - Improvements to onboarding
+    - UI improvements and bug fixes
+    - Some cool new features coming soon. Stay tuned
+
+    As always, feel free to send us feedback or questions to hello@gratitudeplusapp.com
+Version 3.8.4 (Feb 27, 2023)
+    Thanks for using Gratitude Plus! Here’s what’s new in this update:
+    - New entry button for adding a gratitude - it’s now a hovering button on the bottom right.
+    - UI tweaks.
+    - Bug fixes.
+
+    As always, feel free to send us feedback or questions to: hello@gratitudeplusapp.com
+Version 3.8.3 (Feb 12, 2023)
+    Thanks for using Gratitude Plus! Here’s what’s new:
+
+    - New gratitude memories show up every time you open the app.
+    - Share your progress after adding a gratitude.
+    - Improvements to sharing.
+    - We removed the daily tab because it wasn’t used much and moved the quote of the day into affirmations.
+    - UI tweaks
+    - Bug fixes
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.8.2 (Jan 28, 2023)
+    Here’s what’s new in this update:
+
+    - Improvements to memories feature
+    - Improvements to send a letter feature. To send a gratitude letter: tap the ••• when adding a new entry > send a letter
+    - Name is now displayed in a message when sent from within a circle.
+    - New share card design for memories and gratitudes
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: hello@gratitudeplusapp.com
+Version 3.8.1 (Jan 4, 2023)
+    Happy new year! Here’s what’s new in this update:
+
+    - Easy access to your memories with a new button above your gratitude entries.
+    - Choose from 10 new prompts. More coming soon...
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.8.0 (Dec 22, 2022)
+    Some great new features and changes in this update:
+
+    - Moved circles to the journal home screen for easy access.
+    - Support for photos in the public feed and private circles.
+    - Tap a photo to make it full screen.
+    - Tweaks to make adding photos easier.
+    - UI tweaks throughout for a better experience.
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.7.9 (Dec 6, 2022)
+    Here’s what’s new in this update:
+    - New Daily Tab! Read daily quotes, affirmations, gratitude memories and more in the new daily tab.
+    - New affirmations design: now you can easily view every gratitude in a list view.
+    - Affirmations background changes every swipe.
+    - New design for share cards.
+    - Tweaks to name detection UI.
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: hello@gratitudeplusapp.com
+Version 3.7.8 (Nov 27, 2022)
+    What’s new in this update:
+    - Improvements to the invite flow for circles
+    - Ability to select a contact to send a personalized circle invite
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.7.7 (Nov 21, 2022)
+    Thanks for using Gratitude Plus! Here’s what’s new in this update:
+
+    - Ability for circle creators to set a description all members can see.
+    - Get sharing suggestions after you write a gratitude. Powered by on-device natural language processing.
+    - Display longest streak in the completion screen.
+    - Show your gratitude prompt in details and messages.
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.7.6 (Nov 10, 2022)
+    What’s new in this update:
+
+    - Introducing a new flow for creating circles! This makes it much easier to get up and running in private journal groups with friends, family, your partner or community.
+    - Ability to nudge any member of your circle (tap members > member name)
+    - All new onboarding flow for first time users
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.7.5 (Oct 27, 2022)
+    Thanks for using Gratitude Plus! Here’s what’s new in this update:
+
+    - View members in your circle by tapping the new Members button when viewing a circle.
+    - Receive a notification when someone posts in your circle!
+    - Share directly to the public feed with a new Post button
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.7.4 (Oct 18, 2022)
+    Thanks for using Gratitude Plus! What's new:
+
+    - Nudge a member of your circle! Send them a light reminder to post in your circle by tapping the ••• and then tapping nudge.
+    - Moved the search button to the top left of the journal.
+    - Get some gratitude inspiration right from the new entry screen with a new “Inspiration” button.
+    - Updated the design of the share card.
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.7.3 (Oct 9, 2022)
+    Thanks for using Gratitude Plus! Here’s what’s new:
+
+    - Redesigned mood chart (new monthly chart coming soon)
+    - More details displayed in the message details screen
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.7.2 (Sep 30, 2022)
+    Thanks for using Gratitude Plus! Our mission is to make mental health easier and accessible. This version contains bug fixes and improvements.
+
+    In our last update:
+    - Introducing voice gratitudes: a new way to express yourself! Simply tap the new record button when adding an entry.
+    - Redesigned tab bar design: we shuffled a few things around for moving around the app quicker.
+    - Small design tweaks.
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.7.1 (Sep 27, 2022)
+    Thanks for using Gratitude Plus! Our mission is to make mental health easier and accessible. Here’s what’s new in this update:
+
+    - iOS 16 compatability.
+    - See where you shared your gratitude in details view.
+    - Minor design tweaks throughout app.
+    - Bug fixes and improvements.
+
+    In our last update:
+    - Introducing voice gratitudes: a new way to express yourself! Simply tap the new record button when adding an entry.
+    - Redesigned tab bar design: we shuffled a few things around for moving around the app quicker.
+    - Small design tweaks.
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.7 (Sep 21, 2022)
+    Thanks for using Gratitude Plus! Our mission is to make mental health easier and accessible. Here’s what’s new in this update:
+
+    - Introducing voice gratitudes: a new way to express yourself! Simply tap the new record button when adding an entry.
+    - Redesigned tab bar design: we shuffled a few things around for moving around the app quicker.
+    - Small design tweaks.
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to: **hello@gratitudeplusapp.com**
+Version 3.6.6 (Sep 5, 2022)
+    Thanks for using Gratitude Plus! Our mission is to make mental health easier and accessible. Here’s what’s new in this update:
+
+    - Bug fixes and performance improvements.
+
+    As always, feel free to send us feedback or questions to hello@gratitudeplusapp.com.
+Version 3.6.5 (Aug 31, 2022)
+    Thanks for using Gratitude Plus! Our mission is to makes mental health easier and accessible. Here’s what’s new in this update:
+
+    - Bug fixes and improvements. In our last update:
+
+    - Push notification support! Get notifications when you receive a message or reply, and when someone joins your circle. More notifications coming soon!
+    - New design in messages!
+    - Ability to export your gratitudes (premium)
+    - Redesign settings screen with new setting for backup & export and push notifications
+    - Design tweaks, including bigger tab bar icons
+    - Small fixes and design tweaks throughout the app
+
+    As always, feel free to send us feedback or questions to **hello@gratitudeplusapp.com**
+Version 3.6.4 (Aug 27, 2022)
+    Thanks for using Gratitude Plus! Our mission is to makes mental health easier and accessible. Here’s what’s new in this update:
+
+    - Push notification support! Get notifications when you receive a message or reply, and when someone joins your circle. More notifications coming soon!
+    - New design in messages!
+    - Ability to export your gratitudes (premium)
+    - Redesign settings screen with new setting for backup & export and push notifications
+    - Design tweaks, including bigger tab bar icons
+    - Small fixes and design tweaks throughout the app
+
+    As always, feel free to send us feedback or questions to **hello@gratitudeplusapp.com**
+Version 3.6.3 (Aug 18, 2022)
+    Thanks for using Gratitude Plus! Our mission is to makes mental health easier and accessible. Here’s what’s new in this update:
+
+    • New map in search! See where you wrote gratitudes
+    • New toggle in messages to view unreplied messages
+    • Color themes are now free for all customers
+    • Tweaked design for shared content image
+    • Small design tweaks throughout the app
+    • Bug fixes and performance improvements
+
+    As always, feel free to send us feedback or questions to hello@gratitudeplusapp.com
+Version 3.6.2 (Aug 10, 2022)
+    Thanks for using Gratitude Plus! What's new:
+    -New design for liking and commenting on posts in the public gratitude feed
+    -Quickly share posts you like on the public feed
+    -New design for sharing content in the app
+    -Small design tweaks throughout the app
+    -Other bugs and improvements
+
+    Questions or feedback? Email us at support@gratitudeplusapp.com
+Version 3.6.1 (Jul 27, 2022)
+    Thanks for using Gratitude Plus! What's new:
+    -Ability to add a new entry right from the circles screen
+    -Renamed notes to messages for clarity!
+    -Design tweaks when creating a new circle and throughout the app
+    -Other bugs and improvements
+
+    Questions or feedback? Email us at support@gratitudeplusapp.com
+Version 3.5.1 (Jun 28, 2022)
+    Thanks for using Gratitude Plus! What's new:
+    -Updated design in gratitude complete screen so you can get to other parts of the app quicker
+    -Updated design in affirmations screen
+    -Fixed some bugs and improvements
+
+    Questions or feedback? Email us at support@gratitudeplusapp.com
+Version 3.5 (Jun 17, 2022)
+    Thanks for using Gratitude Plus! What's new:
+    -New chart for viewing moods
+    -Mark all notes as read
+    -Bug fixes
+
+    Questions or feedback? Email us at support@gratitudeplusapp.com
+Version 3.4.3 (Jun 3, 2022)
+    Thanks for using Gratitude Plus! What's new:
+    - Notifications when users post to Circles
+    - Date streak view in profile screen
+    - Bug fixes
+Version 3.4.2 (May 7, 2022)
+    Thanks for using Gratitude Plus! What's new:
+    -Improvements in our new affirmations feature: show count and edit options
+    -Improved flows for creating and joining circles
+    -Ability to change your mood before saving
+    -Bug fixes and improvements
+
+    Thank you for your feedback! Please send us questions or comments to support@gratitudeplusapp.com
+Version 3.4.1 (Apr 14, 2022)
+    Thanks for using Gratitude Plus! What's new:
+    - Redesigned affirmations section!
+    • Dozens of categories
+    • Over 20+ themes
+    • New UI
+    - Bug fixes and performance improvements.
+
+    Thank you for your feedback! Please send us questions or comments to support@gratitudeplusapp.com
+Version 3.4 (Mar 18, 2022)
+    Thanks for using Gratitude Plus! What's new:
+    - Support for background colors in the app!
+    - First time Circles improvements.
+    - Bug fixes and performance improvements.
+
+    Thank you for your feedback! Please send us questions or comments to support@gratitudeplusapp.com
+Version 3.3.3 (Feb 24, 2022)
+    Thanks for using Gratitude Plus! This update includes:
+    -Access reminders directly from affirmations
+    -Included a new help center!
+    -Minor tweaks to note replies.
+    -Bug fixes and performance improvements.
+
+    Thank you for your feedback! Please send us questions or comments to support@gratitudeplusapp.com
+Version 3.3.2 (Feb 7, 2022)
+    Thanks for using Gratitude Plus! This update includes:
+    -Added notes button to journal
+    -Revamped search experience: we added memories to the search screen and updated the overall search design
+    -Bug fixes and design tweaks
+
+    Thank you for your feedback! Please send us questions or comments to support@gratitudeplusapp.com
+Version 3.3.1 (Jan 17, 2022)
+    Thanks for using Gratitude Plus! This version contains a few fixes relating to note replies. In the last update:
+
+    - Reply to notes!
+    - Design improvements
+    - Various bug fixes and UI tweaks
+
+    Thank you for the helpful feedback. Please send us questions or feedback to support@gratitudeplusapp.com
+Version 3.3 (Jan 10, 2022)
+    Thanks for using Gratitude Plus! What's new:
+
+    - Reply to notes!
+    - Design improvements
+    - Various bug fixes and UI tweaks
+
+    Thank you for the helpful feedback. Please send us questions or feedback to support@gratitudeplusapp.com
+Version 3.2 (Dec 19, 2021)
+    Thanks for using Gratitude Plus! What's new:
+    - Share to Circle feature: tap the ••• menu button on any gratitude to quickly share it to any Circles.
+    - New menu button in gratitude entry screen. Tap the ••• button above the keyboard for quick actions when adding a gratitude.
+    - Various bug fixes and UI improvements.
+
+    Thank you for the helpful feedback. Please send us questions or feedback to support@gratitudeplusapp.com
+Version 3.1 (Dec 15, 2021)
+    Thanks for using Gratitude Plus! What's new:
+    - Fixed issues when editing gratitudes
+    - Fixed issue where streak count would reset in certain circumstances
+    - Fixed issues in the entry screen
+    - Various bug fixes and UI improvements
+
+    Thank you for the helpful feedback. Please send us questions or feedback to support@gratitudeplusapp.com
+Version 3.0.1 (Nov 26, 2021)
+    Thanks for using Gratitude Plus! What's new:
+
+    - Various design tweaks
+    - Bug fixes and improvements
+
+    Questions/comments: email us at support@gratitudeplusapp.com
+Version 3.0 (Nov 14, 2021)
+    Thanks for using Gratitude Plus! What's new:
+
+    - Updated design: we moved the notes tab into the community tab.
+    - Redesign profile screen: we moved insights and some other info into the profile screen and added a settings button to the top.
+    - UI improvements to circles
+    - Bug fixes and improvements.
+
+    Questions/comments - email us at support@gratitudeplusapp.com
+Version 2.9 (Oct 25, 2021)
+    Thanks for using Gratitude Plus. What's new:
+    - New moods chart in insights screen. More charts to come!
+    - New share your story option in profile screen.
+    - Bug fixes and improvements
+
+    We love hearing your feedback! Please email us at support@gratitudeplusapp.com
+Version 2.8 (Sep 27, 2021)
+    Thanks for using Gratitude Plus. What's new:
+    - Suggestions in the gratitude entry screen
+    - Updated controls layout in the gratitude entry screen
+    - Moved free form journal option to the profile tab
+    - Updated Insights UI
+    - Bug fixes and improvements
+
+    Please email feedback or questions to: support@gratitudeplusapp.com
+Version 2.7 (Aug 28, 2021)
+    Thanks for using Gratitude Plus! What's new:
+    - We've moved mood tracking to the gratitude complete screen to make it easier to quickly add your mood.
+    - UI Tweaks
+    - Bug fixes and improvements
+    Questions/comments? Email us at support@gratitudeplusapp.com
+Version 2.6 (Jun 27, 2021)
+    Thanks for using Gratitude Plus! What's new:
+    - New feature: memories. Rediscover moments from your gratitude journal!
+    - UI Tweaks
+    - Bug fixes and improvements
+Version 2.5 (May 12, 2021)
+    Thanks for using Gratitude Plus! What's new:
+    - Updated design in gratitude complete screen. Now you will see recent gratitudes shared in the community after you write your daily gratitude.
+    - UI Tweaks
+    - Bug fixes and improvements
+
+    Send us feedback and questions to feedback@gratitudeplusapp.com
+Version 2.4 (Mar 20, 2021)
+    Thanks for using Gratitude Plus! What's new:
+    - Redesigned affirmations for a better experience
+    - Move the calendar to search screen
+    - UI Tweaks
+    - Bug fixes and improvements
+
+    Send us feedback and questions to feedback@gratitudeplusapp.com
+Version 2.3 (Mar 4, 2021)
+    What's new:
+    - iPad support!
+    - Bug fixes and improvements
+
+    Thanks for using Gratitude Plus! Send us an email at feedback@gratitudeplusapp.com
+Version 2.2 (Feb 14, 2021)
+    What's new:
+    - Redesigned sharing privacy control on the add gratitude screen
+    - UI improvements
+    - Fixed a few location issues
+    - Bug fixes
+
+    Thanks for using Gratitude Plus! Send us an email at feedback@gratitudeplusapp.com
+Version 2.1 (Jan 25, 2021)
+    Thanks for using Gratitude Plus! What's new:
+    -Personalized Journal insights! View top words, entries, moods, and more.
+    -Minor bug fixes
+
+    What's new in the last update:
+    - Mood tracking! Quickly add your mood when adding your journal entry
+    - Redesigned entry details screen
+    - Redesigned notes screen
+    - Major improvements when adding a new entry. We rewrote all of the code so it feels snappier
+    - Design tweaks throughout the app
+    - Bug fixes
+
+    Thanks for using Gratitude Plus! We've got great new updates in the next few releases.
+Version 2.0 (Jan 7, 2021)
+    Happy 2021! We're excited to share a big update, 2.0! New features and improvements include:
+    - Mood tracking! Quickly add your mood when adding your journal entry
+    - Redesigned entry details screen
+    - Redesigned notes screen
+    - Major improvements when adding a new entry. We rewrote all of the code so it feels snappier
+    - Design tweaks throughout the app
+    - Bug fixes
+
+    Thanks for using Gratitude Plus! We've got great new updates in the next few releases.
+Version 1.9.9.1 (Dec 15, 2020)
+    -New affirmations suggestions
+    -Show time and date of gratitudes in private circles
+    -Bug fixes and improvements
+    Thanks for using Gratitude Plus! Feedback or suggestions: support@gratitudeplusapp.com
+Version 1.9.9 (Nov 23, 2020)
+    -Updates to affirmations section
+    -Minor bug fixes and improvements
+    Thanks for using Gratitude Plus!
+Version 1.9.8 (Nov 5, 2020)
+    This version contains bug fixes and improvements. Thanks for using Gratitude Plus!
+Version 1.9.7 (Oct 13, 2020)
+    What's new in this update:
+    -UI tweaks
+    -Bug fixes
+
+    Thanks for using Gratitude Plus!
+Version 1.9.6 (Oct 10, 2020)
+    What's new in this update:
+    -UI tweaks
+    -Bug fixes
+
+    Thanks for using Gratitude Plus!
+Version 1.9.5 (Sep 24, 2020)
+    What's new in this update:
+    -iOS 14 support and fixes
+    -We redesigned the Affirmations section to be easier to use!
+
+    Thanks for using Gratitude Plus!
+Version 1.9.4 (Sep 22, 2020)
+    What's new in this update:
+    -iOS 14 support and fixes
+    -We redesigned the Affirmations section to be easier to use!
+
+    Thanks for using Gratitude Plus!
+Version 1.9.3 (Sep 12, 2020)
+    What's new in this update:
+    -Moved the calendar to the updated activity view.
+    -Bug fixes and UI Tweaks
+
+    Thanks for using Gratitude Plus!
+Version 1.9.2 (Aug 26, 2020)
+    What's new in this update:
+    -Streaks in Explore feed
+    -New daily quote in Affirmations tab
+    -Bug fixes
+
+    Thanks for using!
+Version 1.9.1 (Aug 5, 2020)
+    What's new: bug fixes and performance improvements.
+
+    Thanks for using Gratitude Plus!
+Version 1.9.0 (Jul 11, 2020)
+    What’s new:
+    -Attach photos to your entries! (Unlimited for premium users)
+    -Updated My Activity screen with new stats.
+    -UI Tweaks
+    -Bug fixes and improvements
+
+    Thanks for your support! Questions or feedback? Please email us at hey@gratitudeplusapp.com
+Version 1.8.7 (Jun 14, 2020)
+    What’s new:
+    -New color wheel to customize your gratitudes or affirmations when you share them
+    -Bug fixes and performance improvements
+
+    Thanks for your support! Questions or feedback? Please email us at hey@gratitudeplusapp.com
+Version 1.8.6 (Jun 5, 2020)
+    What’s new:
+    -Affirmations improvements. New suggestions and more.
+    -Bug fixes and performance improvements
+
+    We appreciate your support! Email us at hey@gratitudeplusapp.com
+Version 1.8.5 (May 8, 2020)
+    This update:
+    * Fixed an issue where trying to enable notifications didn't always work. Sorry about that.
+
+    The last update:
+    * Redesigned gratitude complete screen!
+    * Share quotes from the gratitude complete screen
+    * Fixed issue with streaks calculations in certain circumstances
+    * bug fixes
+
+    We appreciate your support! Email us at hey@gratitudeplusapp.com
+Version 1.8.4 (May 4, 2020)
+    This version includes:
+
+    * Redesigned gratitude complete screen!
+    * Share quotes from the gratitude complete screen
+    * Fixed issue with streaks calculations in certain circumstances
+    * bug fixes
+
+    Thanks for using Gratitude Plus! Please email us feedback at: support@gratitudeplusapp.com
+Version 1.8.3 (Apr 20, 2020)
+    This version includes bug fixes and improvements. 
+
+    Thanks for using Gratitude Plus! Please email us at support@gratitudeplusapp.com
+Version 1.8.2 (Apr 4, 2020)
+    Thanks for using Gratitude Plus! What’s new:
+
+    * New emojis in send note screen
+    * Updated message controls in Explore feed.
+    * When inviting someone to your circle a new link will be shared that lets them automatically join the circle
+    * Bug fixes
+
+    Please email us feedback to feedback[@]gratitudeplusapp.com.
+
+    -The Gratitude Plus Team
+Version 1.8.1 (Mar 20, 2020)
+    Thanks for using Gratitude Plus! What’s new:
+
+    * New option to display your name in a private circle! Visit My Circles > Name Settings
+    * More affirmation reminder slots
+    * Renamed Explore tab to Circles tab. This makes more sense.
+    * Redesigned My Circles page
+    * Passcode Lock! (Premium feature)
+    * Bug fixes and performance improvements
+
+    Previously:
+    * Connect Gratitude Plus to Apple Health. Visit the Me tab > Apple Health
+
+    Please email us feedback to feedback[@]gratitudeplusapp.com.
+
+    -The Gratitude Plus Team
+Version 1.8.0 (Mar 2, 2020)
+    Thanks for using Gratitude Plus! What’s new:
+
+    * Connect Gratitude Plus to Apple Health. Visit the Me tab > Apple Health
+    * Bug fixes and UI tweaks
+
+    Please email us feedback to feedback[@]gratitudeplusapp.com.
+
+    -The Gratitude Plus Team
+Version 1.7.7 (Feb 19, 2020)
+    Thanks for using Gratitude Plus! What’s new:
+
+    -New affirm button in affirmations.
+    -Bug fixes
+    -UI tweaks
+
+    Please email us feedback to feedback[@]gratitudeplusapp.com.
+
+    -The Gratitude Plus Team
+Version 1.7.6 (Feb 13, 2020)
+    Thanks for using Gratitude Plus! What’s new:
+
+    -New affirm button in affirmations.
+    -Bug fixes
+    -UI tweaks
+
+    Please email us feedback to feedback[@]gratitudeplusapp.com.
+
+    -The Gratitude Plus Team
+Version 1.7.5 (Jan 28, 2020)
+    Thanks for using Gratitude Plus! What’s new:
+
+    -New feature: Letter of Gratitude! Send a personalized Letter of gratitude to a loved one. Just tap the new gratitude letter icon in the new entry screen.
+    -General bug fixes
+    -UI tweaks
+
+    Please email us feedback to feedback[@]gratitudeplusapp.com.
+
+    -The Gratitude Plus Team
+Version 1.7.4 (Jan 16, 2020)
+    Thanks for using Gratitude Plus! What’s new:
+
+    -Affirmations improvements
+    -Send longer notes
+    -Bug fixes
+    -UI tweaks
+
+    Please email us feedback to feedback[@]gratitudeplusapp.com.
+
+    -The Gratitude Plus Team
+Version 1.7.3 (Jan 4, 2020)
+    Thanks for using Gratitude Plus! What’s new:
+
+    -Journal enhancements: switch between writing gratitudes in list mode or a new freeform mode, where you can write as much as you want.
+
+    -UI tweaks
+
+    -Bug fixes
+
+    Please email us feedback to feedback[@]gratitudeplusapp.com.
+
+    -The Gratitude Plus Team
+Version 1.7.2 (Dec 21, 2019)
+    Thanks for using Gratitude Plus! What’s new:
+
+    -New share screen design and share directly to your Instagram feed
+
+    -UI tweaks
+
+    -Bug fixes
+
+    Please email us feedback to feedback[@]gratitudeplusapp.com.
+
+    Happy holidays and we’ll be back in 2020 with great new features :)
+
+    -The Gratitude Plus Team
+Version 1.7.1 (Dec 5, 2019)
+    Thanks for being part of the Gratitude Plus community! What’s new:
+
+    - A nice quote displayed after you add a gratitude
+
+    - Updated design for My Activity screen
+
+    - Ability to turn on or off location sharing in Gratitude Sharing screen.
+
+    -Bug fixes and UI tweaks
+
+    We appreciate your feedback. Please email us at: feedback[@]gratitudeplusapp.com with questions or comments!
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.7.0 (Nov 25, 2019)
+    Thanks for being part of the Gratitude Plus community! What’s new:
+
+    - Add more than 3 lines per entry! Simple tap the the return key to add a new line.
+
+    - Moved the affirmations button to the bottom bar. Your activity button is now on the top right.
+
+    - Updated gratitude details view page (tap a gratitude)
+
+    - Manage your subscription in Me > Profile Details
+
+    -Bug fixes
+
+    We appreciate your feedback. Please email us at: feedback[@]gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.6.5 (Nov 16, 2019)
+    Thanks for being part of the Gratitude Plus community! What’s new in this update:
+
+    - New home screen design!
+    - Completely rebuilt the new entry screen. We've fixed all the overlapping issues if you wrote multiple lines. Sorry about that!
+    - UI Tweaks
+    - Various bug fixes
+
+    We appreciate your feedback. Please email us at: feedback[@]gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.6.4 (Nov 8, 2019)
+    Thanks for being part of the Gratitude Plus community! What’s new in this update:
+
+    - New Activity view in Profile. See all your stats in one place
+    - New suggestions when creating an affirmation
+    - Easily share your affirmation
+    - Toggle all notes and sent notes
+    - UI Tweaks
+    - Various bug fixes
+
+    We appreciate your feedback. Please email us at: feedback[@]gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.6.3 (Oct 30, 2019)
+    Thanks for being part of the Gratitude Plus community! What’s new in this update:
+
+    - New gratitude completion screen. Every time you add your gratitude, you'll see a new screen showing details on your journey!
+    - New gratitude details screen.
+    - New sharing button in Explore feed.
+    - Location is now correctly updated if you change location (for sharing on the Explore feed)
+    - UI Tweaks
+    - Various bug fixes
+
+    We appreciate your feedback. Please email us at: feedback[@]gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.6.2 (Oct 15, 2019)
+    Thanks for being part of the Gratitude Plus community! What’s new in this update:
+
+    - New sharing screen: customize your shared image and share it directly to Instagram Stories
+    - UI Tweaks
+    - Various bug fixes
+
+    We appreciate your feedback. Please email us at: feedback[@]gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.6.1 (Oct 7, 2019)
+    Thanks for being part of the Gratitude Plus community! What’s new in this update:
+
+    - iOS 13 compatibility
+    - UI Tweaks
+    - Various bug fixes
+
+    We appreciate your feedback. Please email us at: feedback[@]gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.6.0 (Sep 27, 2019)
+    Thanks for being part of the Gratitude Plus community! What’s new in this update:
+
+    - New intelligent notification that reminds you of what you were grateful for in the past
+    - New button to invite members to join your Circles
+    - Option to leave Circles
+    - Option to set an affirmation as a reminder in the affirmations screen
+    - UI Tweaks
+    - Various bug fixes
+
+    We appreciate your feedback. Please email us at: feedback[@]gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.5.7 (Sep 17, 2019)
+    Thanks for being part of the Gratitude Plus community! What’s new in this update:
+
+    - Updated Explore UI. It’s now easier to create, join and switch between Circles.
+    - Bug fixes and performance improvements
+
+    We appreciate your feedback. Please email us at: feedback[@]gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.5.6 (Sep 4, 2019)
+    Thanks for using Gratitude Plus! What’s new in this update:
+
+    - New gratitude streak alert when you add 3 gratitudes in a row
+    - New emojis you can send as notes to other Gratitude Plus users
+    - UI tweaks
+    - Bug fixes and performance improvements
+
+    We appreciate your feedback. Please email us at: feedback@gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.5.5 (Aug 26, 2019)
+    Thanks for using Gratitude Plus! What’s new in this update:
+
+    - Support for multiple reminders and affirmation reminders! Now you can get a gratitude reminder in the morning and night, and get multiple reminders for you affirmations! Visit Me > Daily Reminders to set them up
+    - UI tweaks
+    - Fixed formatting issues on certain devices
+    - Bug fixes and performance improvements
+
+    We appreciate your feedback. Please email us at: feedback@gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.5.4 (Aug 16, 2019)
+    Thanks for using Gratitude Plus! What’s new in this update:
+
+    - New Send Note design
+    - Learning Center to learn more about the benefits of gratitude and affirmations. Go to Profile > Learning Center
+    - Affirmation button on top right of Gratitudes view
+    - UI tweaks
+    - Fixed formatting issues on certain devices
+    - Bug fixes and performance improvements
+
+    We appreciate your feedback. Please email us at: feedback@gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.5.3 (Aug 5, 2019)
+    Thanks for using Gratitude Plus! We’re excited to share some great new features and enhancements in this update:
+
+    - Affirmations: create your own positive, inspiring affirmations that you can view at any time. Go to Profile > My Affirmations to add them.
+    - UI tweaks
+    - Various bug fixes
+
+    We love and appreciate your feedback. Please send us any questions or feedback to: feedback@gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.5.2 (Jul 28, 2019)
+    Thanks for using Gratitude Plus! We’re excited to share some great new features and enhancements in this update:
+
+    -Notes: Send positive, anonymous notes to other Gratitude Plus users! To send a note, tap the new note button next to each gratitude in the Explore tab. To view notes, tap the new Notes tab. You’ll only receive notes if you have anonymous gratitude sharing turned ON.
+
+    -Icon badging. When you get your daily reminder, we’ll also badge the icon.
+
+    -Tapping the gratitude prompt will now bring up the keyboard instead of bringing you to the screen to update your prompt. Sorry to anyone who was confused by this.
+
+    -UI tweaks
+
+    -Various Bug fixes and performance improvements.
+
+    We love and appreciate your feedback. Please send us any questions or feedback to: feedback@gratitudeplusapp.com
+
+    Thanks!
+    -The Gratitude Plus Team
+Version 1.5.1 (Jul 15, 2019)
+    Thanks for using Gratitude Plus! What's new:
+    - UI tweaks
+    - Bug fixes and performance improvements
+
+    Please send us questions or feedback to: feedback@gratitudeplusapp.com
+Version 1.5.0 (Jul 9, 2019)
+    Thanks for using Gratitude Plus! What's new:
+    -Updated layout! We made it easier to navigate between your gratitudes, exploring other people's gratitudes, and your profile.
+    -Bug fixes and performance improvements
+
+    Please send us questions or feedback to: feedback@gratitudeplusapp.com
+Version 1.4.3 (Jun 30, 2019)
+    What's new in Gratitude Plus:
+    -See your weekly average in your profile
+    -UI tweaks
+    -Bug fixes and performance improvements
+
+    We appreciate your support and feedback. Please email us at: feedback@gratitudeplusapp.com
+Version 1.4.2 (Jun 17, 2019)
+    What's new in Gratitude Plus:
+
+    - Only your first name is now displayed in the daily reminder
+    - Various bug fixes and performance improvements
+
+    We appreciate your support and feedback. Please email us at: feedback@gratitudeplusapp.com
+Version 1.4.1 (Jun 9, 2019)
+    What's new in Gratitude Plus:
+
+    - Control what Circles to share to
+    - UI tweaks
+    - Bug fixes and performance improvements
+
+    We appreciate your support and feedback. Please email us at: feedback@gratitudeplusapp.com
+Version 1.4.0 (May 29, 2019)
+    Thanks for using Gratitude Plus! What’s new:
+
+    • Gratitude Circles
+
+    Gratitude Circles are groups where you share and explore gratitudes with people, groups, or organizations you know and trust.
+
+    - To switch between circles: visit the new Community tab
+
+    - To create or join a Circle: Visit your Profile > Manage Circles.
+
+    • Bug fixes and UI tweaks
+
+    We appreciate your support and feedback. Please email us at: feedback@gratitudeplusapp.com
+Version 1.3.3 (May 11, 2019)
+    Thanks for using Gratitude Plus! What’s new:
+    • Change your gratitude prompt by tapping the edit button on top of the gratitude box
+    • Bug fixes and UI tweaks
+
+    We appreciate your support and feedback. Please email us at: feedback@gratitudeplusapp.com
+Version 1.3.2 (Apr 29, 2019)
+    Thanks for using Gratitude Plus! What’s new:
+    • Revamped sharing menu
+    • Fixed issue where daily reminder wouldn't display in some cases
+    • Bug fixes
+
+    We appreciate your support and feedback. Please email us at: feedback@gratitudeplusapp.com
+Version 1.3.1 (Apr 19, 2019)
+    What’s new:
+    • Change your gratitude prompt: select from 6 prompts or create your own.
+    • Snooze your daily reminder: Force press or pull down the daily notification and have it remind you later.
+    • Daily reminder won't remind you if you’ve already added your gratitude.
+    • New pricing options
+    • Bug fixes
+    We appreciate your support and feedback. Please email us at: feedback@gratitudeplusapp.com
+Version 1.3.0 (Apr 17, 2019)
+    What’s new:
+    • Change your gratitude prompt: select from 6 prompts or create your own.
+    • Snooze your daily reminder: Force press or pull down the daily notification and have it remind you later.
+    • Daily reminder won't remind you if you’ve already added your gratitude.
+    • New pricing options
+    • Bug fixes
+
+    We appreciate your support and feedback. Please email us at: feedback@gratitudeplusapp.com
+Version 1.2.2 (Mar 25, 2019)
+    Thank you for using Gratitude Plus! What's new:
+    • Stats – keep track of your gratitude streaks and total gratitudes in your profile.
+    • Your name now displays in the daily notification.
+    • UI tweaks
+    • Bug fixes and performance improvements
+    Please send us feedback or questions at: feedback@gratitudeplusapp.com
+Version 1.2.1 (Mar 7, 2019)
+    Thank you for using Gratitude Plus! What's new:
+    • An easy way to share the gratitude you're adding
+    • Change the date of the gratitude by tapping on the date
+    • Various bug fixes and performance improvements
+
+    Please send us feedback or questions at: feedback@gratitudeplusapp.com
+Version 1.2.0 (Feb 22, 2019)
+    Thank you for using Gratitude Plus! What's new:
+
+    • Share you gratitude milestones
+    • UI tweaks
+    • Bug fixes and performance improvements
+
+    Please send us feedback or questions at: feedback@gratitudeplusapp.com
+Version 1.1.1 (Feb 10, 2019)
+    Thank you for using Gratitude Plus!
+    What's new:
+    • Edit past gratitudes: tap a gratitude in the feed, then tap edit. Pretty simple :)
+    • Location support in Explore: now you can see the city each gratitude was added in (if user chose to share)
+    • The year is now displayed for each gratitude in your feed
+    • When tapping the daily reminder, the keyboard will now open automatically
+    • UI tweaks
+    • Bug fixes and performance improvements
+
+    Please send us feedback or questions at: feedback@gratitudeplusapp.com
+Version 1.0.1 (Feb 3, 2019)
+    Thanks for using Gratitude Plus!
+
+    What's new:
+    • UI fixes for certain iPhone devices
+    • Bug fixes
+
+    Please send us feedback or questions at: feedback@gratitudeplusapp.com
+
+Users may also like
+Select objects to compare
+Happy Things :)
+3 Good Things self care diary
+Lucero: Self Care Made Fun
+Vibes for Watch
+Humans Anonymous
+Silk + Sonder Guided Self-Care
+BeMe: Teen Mental Health
+UpLift - Depression & Anxiety
+Bloom - Wellness Buddy
+Being Me: Journal/Goals/Habits
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Calendar & Reminders
+Calendar & Reminders
+Apps that can be used as a calendar or reminder so that users would not forget their schedules.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    3.9.29
+    Current release
+    Feb 13, 2024
+    3.9.28
+    Jan 24, 2024
+    3.9.27
+    Jan 18, 2024
+    3.9.26
+    Jan 5, 2024
+    3.9.25
+    Dec 17, 2023
+    3.9.24
+    Dec 4, 2023
+    3.9.23
+    Nov 20, 2023
+    3.9.21
+    Nov 2, 2023
+    3.9.20
+    Oct 21, 2023
+    3.9.19
+    Oct 8, 2023
+    3.9.18
+    Sep 26, 2023
+    3.9.17
+    Sep 12, 2023
+    3.9.16
+    Sep 5, 2023
+    3.9.15
+    Aug 22, 2023
+    3.9.14
+    Aug 15, 2023
+    3.9.13
+    Aug 9, 2023
+    3.9.12
+    Aug 3, 2023
+    3.9.11
+    Jul 27, 2023
+    3.9.10
+    Jul 17, 2023
+    3.9.9
+    Jul 9, 2023
+    3.9.8
+    Jul 4, 2023
+    3.9.7
+    Jun 25, 2023
+    3.9.6
+    Jun 15, 2023
+    3.9.5
+    Jun 12, 2023
+    3.9.4
+    May 31, 2023
+    3.9.3
+    May 18, 2023
+    3.9.2
+    May 8, 2023
+    3.9.1
+    Apr 30, 2023
+    3.9.0
+    Apr 26, 2023
+    3.8.9
+    Apr 15, 2023
+    3.8.8
+    Mar 30, 2023
+    3.8.7
+    Mar 21, 2023
+    3.8.6
+    Mar 15, 2023
+    3.8.5
+    Mar 14, 2023
+    3.8.4
+    Feb 27, 2023
+    3.8.3
+    Feb 12, 2023
+    3.8.2
+    Jan 28, 2023
+    3.8.1
+    Jan 4, 2023
+    3.8.0
+    Dec 22, 2022
+    3.7.9
+    Dec 6, 2022
+    3.7.8
+    Nov 27, 2022
+    3.7.7
+    Nov 21, 2022
+    3.7.6
+    Nov 10, 2022
+    3.7.5
+    Oct 27, 2022
+    3.7.4
+    Oct 18, 2022
+    3.7.3
+    Oct 9, 2022
+    3.7.2
+    Sep 30, 2022
+    3.7.1
+    Sep 27, 2022
+    3.7
+    Sep 21, 2022
+    3.6.6
+    Sep 5, 2022
+    3.6.5
+    Aug 31, 2022
+    3.6.4
+    Aug 27, 2022
+    3.6.3
+    Aug 18, 2022
+    3.6.2
+    Aug 10, 2022
+    3.6.1
+    Jul 27, 2022
+    3.5.1
+    Jun 28, 2022
+    3.5
+    Jun 17, 2022
+    3.4.3
+    Jun 3, 2022
+    3.4.2
+    May 7, 2022
+    3.4.1
+    Apr 14, 2022
+    3.4
+    Mar 18, 2022
+    3.3.3
+    Feb 24, 2022
+    3.3.2
+    Feb 7, 2022
+    3.3.1
+    Jan 17, 2022
+    3.3
+    Jan 10, 2022
+    3.2
+    Dec 19, 2021
+    3.1
+    Dec 15, 2021
+    3.0.1
+    Nov 26, 2021
+    3.0
+    Nov 14, 2021
+    2.9
+    Oct 25, 2021
+    2.8
+    Sep 27, 2021
+    2.7
+    Aug 28, 2021
+    2.6
+    Jun 27, 2021
+    2.5
+    May 12, 2021
+    2.4
+    Mar 20, 2021
+    2.3
+    Mar 4, 2021
+    2.2
+    Feb 14, 2021
+    2.1
+    Jan 25, 2021
+    2.0
+    Jan 7, 2021
+    1.9.9.1
+    Dec 15, 2020
+    1.9.9
+    Nov 23, 2020
+    1.9.8
+    Nov 5, 2020
+    1.9.7
+    Oct 13, 2020
+    1.9.6
+    Oct 10, 2020
+    1.9.5
+    Sep 24, 2020
+    1.9.4
+    Sep 22, 2020
+    1.9.3
+    Sep 12, 2020
+    1.9.2
+    Aug 26, 2020
+    1.9.1
+    Aug 5, 2020
+    1.9.0
+    Jul 11, 2020
+    1.8.7
+    Jun 14, 2020
+    1.8.6
+    Jun 5, 2020
+    1.8.5
+    May 8, 2020
+    1.8.4
+    May 4, 2020
+    1.8.3
+    Apr 20, 2020
+    1.8.2
+    Apr 4, 2020
+    1.8.1
+    Mar 20, 2020
+    1.8.0
+    Mar 2, 2020
+    1.7.7
+    Feb 19, 2020
+    1.7.6
+    Feb 13, 2020
+    1.7.5
+    Jan 28, 2020
+    1.7.4
+    Jan 16, 2020
+    1.7.3
+    Jan 4, 2020
+    1.7.2
+    Dec 21, 2019
+    1.7.1
+    Dec 5, 2019
+    1.7.0
+    Nov 25, 2019
+    1.6.5
+    Nov 16, 2019
+    1.6.4
+    Nov 8, 2019
+    1.6.3
+    Oct 30, 2019
+    1.6.2
+    Oct 15, 2019
+    1.6.1
+    Oct 7, 2019
+    1.6.0
+    Sep 27, 2019
+    1.5.7
+    Sep 17, 2019
+    1.5.6
+    Sep 4, 2019
+    1.5.5
+    Aug 26, 2019
+    1.5.4
+    Aug 16, 2019
+    1.5.3
+    Aug 5, 2019
+    1.5.2
+    Jul 28, 2019
+    1.5.1
+    Jul 15, 2019
+    1.5.0
+    Jul 9, 2019
+    1.4.3
+    Jun 30, 2019
+    1.4.2
+    Jun 17, 2019
+    1.4.1
+    Jun 9, 2019
+    1.4.0
+    May 29, 2019
+    1.3.3
+    May 11, 2019
+    1.3.2
+    Apr 29, 2019
+    1.3.1
+    Apr 19, 2019
+    1.3.0
+    Apr 17, 2019
+    1.2.2
+    Mar 25, 2019
+    1.2.1
+    Mar 7, 2019
+    1.2.0
+    Feb 22, 2019
+    1.1.1
+    Feb 10, 2019
+    1.0.1
+    Feb 3, 2019
+
+See More
+Top In-App Purchases
+
+    Monthly Premium Subscription
+    $0.99
+    Monthly Premium Subscription
+    $1.99
+    Monthly Premium Subscription
+    $3.99
+    Monthly Premium Subscription
+    $2.99
+    Gratitude Plus Premium Annual
+    $29.99
+    Gratitude Plus Premium Monthly
+    $3.99
+    Gratitude Plus Premium Monthly
+    $4.99
+    Gratitude Plus Premium
+    $19.99
+    One-time Streak Restore
+    $0.99
+    Gratitude Plus Premium Annual
+    $39.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Health and Fitness
+
+Initial Release Date
+    Jan 29, 2019
+
+Worldwide Release Date
+    Jan 29, 2019
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    3.9.29
+
+Size
+    36.25 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Redwheel Apps
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.RedwheelApps.GratitudePlus
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 1447851477
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Gratitude Plus – Journal | data.ai

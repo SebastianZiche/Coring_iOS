@@ -1,0 +1,580 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Video Editor .
+Wenjie QiuPhoto and Video (Applications)Free
+Alerts
+
+Video Editor - Music Video Maker & Slow Motion
+Video Editor .
+Video Editor .
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Video Editor .
+Editeur Video Editer De Editor
+Photo and Video (Applications)
+Free
+App Description
+Video Editor is a hot video editing and creating app.
+Now has millions of users around the world.
+Even the new beginners can easily create and edit a great video in 1 minute. Whether you’re looking to make a full film or be the next YouTube hot creator, Video Editor offers you the tools to make your videos shine.
+
+WHY YOU'LL LOVE THIS APP
+- It is full-featured editing functions, winning many video editing software, and become the popular choice for many YouTubers.
+- Multi-audio synthesis, support for adding multiple music, recording, and sound effects to the same video;
+- A variety of professional photographers’ favorite filters.
+- Tons of stickers to really make your videos stand out.
+- Hundreds of popular songs help you to turn your video into a masterpiece.
+
+EASILY CROP YOUR VIDEOS
+- Easily crop the video clips you want, accurate to 1s.
+- Includes Clip, Cut and Split, which is very suitable for beginners to use.
+
+POWERFUL MUSIC EDITING FUNCTION
+- Rich music and sound effect material library to make your video more outstanding.
+- Extract audio from other videos, use your own video, and edit
+- Hundreds of popular music songs that can be used on YouTube are available.
+- You can also import your favorite songs from iTunes over video as background music.
+- You can easily dub videos and make blockbuster movies with your voice.
+- Edit background music, you can drag to change music playback position and add multiple music at the same time.
+
+ADD TEXT & STICKERS
+- Type your own text with color and various fonts.
+- Bring your videos to life with cute stickers.
+
+ADJUST VIDEO ASPECT RATIOS AND DIRECTIONS
+- Multiple frame sizes: including YouTube, Instagram video sizes, 4:3, 1:1 and 9:16.
+- Rotating your videos in 90 degree to adjust the video direction is supported.
+
+MERGE VIDEOS AND PHOTOS
+- Combine multiple clips into one to make your own unique videos.
+- Create interesting slideshows and videos from your photos.
+- Choose your favorite transition to style your video and slideshows.
+
+ADJUST SPEED
+- Adjust playback speed for fast or slow motion.
+
+CAREFULLY-SELECTED FILTERS
+- Tons of carefully-selected filters to cater to all your needs no matter you're looking for documentary effects or artistic expression.
+
+COPY VIDEOS
+- One-click copying makes it easy to edit repeating clips.
+
+SAVE HD VIDEO
+- Save videos to your camera roll in high quality output.
+- Share right to YouTube, Facebook, Instagram, TikTok and other pop app.
+Don’t wait! Join Video Editor, the top video editing app, to make stunning videos easily.
+If you have any problems, please feel free to contact us: videoeditorteam@163.com.
+
+Video Editor PRO SUBSCRIPTION
+- You can get unlimited access to all the Pro functions and paid editing materials including stickers, filter packages etc. Watermark and advertisements will be removed automatically.
+- Video Editor Pro subscription is billed monthly or annually at the rate corresponding to the selected plan. In addition, a one-time payment will be offered if needed, which is not one of the subscription plans.
+- Payment will be charged to iTunes Account at confirmation of purchase.
+- Users can manage or unsubscribe in iTunes & App Store account management in the phone system settings.
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the period. No cancellation of the current subscription is allowed during active subscription period.
+- Free trial (if any) will automatically renew the Pro version at $16.49/year upon expiration. You can cancel the renewal by going to the Account Settings before the trial ends. If you pay to subscribe to the Pro version before the trial period ends, the current trial will end automatically.
+
+User Agreement: https://links.anthonyqiu.com/VideoEditor/UserAgreement
+Privacy Policy: https://links.anthonyqiu.com/VideoEditor/PrivacyPolicy
+Ratings
+Displayed Avg Ratings
+4.55
+Total Displayed Ratings
+110k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.7.8 (Oct 12, 2023)
+    - Fixes some minor bugs.
+    - Stability and performance improvements.
+Version 2.7.7 (Aug 28, 2023)
+    - Fix occasional crash issue when clicking on the settings page.
+    - Fix occasional unresponsiveness issue when playing videos.
+    - Improved stability and performance.
+Version 2.7.6 (Jul 12, 2023)
+    - Enhanced stability and application performance
+    - Fixed the issue of black screen during transition effects
+    - Fixed the problem of unresponsiveness when deleting stickers
+Version 2.7.5 (May 12, 2023)
+    - Fixed the issue of error occurring when renaming videos
+    - Fixed the issue of stickers not displaying when clicked
+    - Fixed compatibility issues with iOS 16
+Version 2.7.4 (Jan 11, 2023)
+    - Optimized the editing transition effects
+    - Optimized the music and text‘s adding
+    - Fixed the problem of abnormal scaling of stickers
+    - Optimized the stability and performance of application
+Version 2.7.3 (Jan 9, 2023)
+    - Optimize text editing and sticker function
+    - Optimize the rewind function
+    - Optimize the rotation of video direction
+    - Fix the problem of flashback in the video import process
+Version 2.7.2 (Nov 4, 2022)
+    Fix the following minor errors
+    - Repair the problem of unclear background color of pop-up windows
+    - Repair the problem of incomplete display of localized draft box on the work page
+    - Repair the problem of incomplete display of localization on small-sized cell phones for screen recording guidance
+    - Repair the problem of losing recorded screen files
+    - Repair the problem of manual scaling of video editing and no auxiliary line
+Version 2.7.2 (Nov 4, 2022)
+    Fix the following minor errors
+    - Repair the problem of unclear background color of pop-up windows
+    - Repair the problem of incomplete display of localized draft box on the work page
+    - Repair the problem of incomplete display of localization on small-sized cell phones for screen recording guidance
+    - Repair the problem of losing recorded screen files
+    - Repair the problem of manual scaling of video editing and no auxiliary line
+Version 2.7.1 (Oct 25, 2022)
+    Fix the following minor errors
+    - Fix the problem of slow export speed
+    - Fixed the problem that some editing settings adjustment would crash
+    - Fixed the problem that the sticker name is wrong
+    - Repair the problem of audio flashback
+    - Fix the problem that the photo/video is not updated after selection and needs to be updated only after exit and reopen
+Version 2.7.0 (Oct 24, 2022)
+    Fix the following minor errors
+    - Repair the problem of blurred screen after recording screen
+    - Fix the problem that the video editing interface flickers when it is played backwards
+    - Fix the problem that the selected state of stickers is displayed incorrectly after adding stickers
+    - Fix the problem that the video still can't be zoomed after setting the cover and returning to editing page
+    - Fix the problem of no auxiliary line when video editing manual zooming
+    - Fixed the problem that the name of sticker package in material center is wrong
+Version 2.6.9 (May 1, 2022)
+    - Improve the overall performance and optimize the experience
+Version 2.6.8 (Mar 11, 2022)
+    - Improve the overall performance and optimize the experience
+Version 2.6.7 (Jan 22, 2022)
+    -Added screen recording function
+    -Anniversary began with many surprises
+Version 2.6.6 (Dec 27, 2021)
+    - Fix some bugs and improve application performance
+    - UI page optimization, more practical and beautiful
+Version 2.6.5 (Dec 10, 2021)
+    - Use interface beautification, more smooth experience
+Version 2.6.4 (Nov 25, 2021)
+    - Improve the overall performance and optimize the experience
+Version 2.6.3 (Nov 11, 2021)
+    Fixes some minor bugs and general improvement.
+Version 2.6.2 (Aug 19, 2021)
+    - New speed change function, flexible to change the speed of the video
+
+    - New filter resources, rich video display effect
+
+Version 2.6.1 (Aug 4, 2021)
+    Bugs fixed and performance improved~
+Version 2.6.0 (Jul 27, 2021)
+    -Added video cover to help you find the video you need at a glance~
+
+    -Manually zoom the video, flexibly change the video ratio~
+
+    -Supports sticker copy and replacement, simplifying tedious operations for you~
+
+    -Add video transition effects to enrich video display effects~
+
+Version 2.5.8 (Jul 18, 2021)
+    Bugs fixed and performance improved~
+Version 2.5.7 (Jun 29, 2021)
+    -Added video cover to help you find the video you need at a glance~
+
+    -Manually zoom the video, flexibly change the video ratio~
+
+    -Supports sticker copy and replacement, simplifying tedious operations for you~
+
+    -Add video transition effects to enrich video display effects~
+
+Version 2.5.6 (Apr 30, 2021)
+    - Bugs fixed and performance improved~
+Version 2.5.5 (Apr 25, 2021)
+    - Video can be previewed in full screen to better appreciate the editing effect!
+
+    - Support video parameters selection, adapt to various file size requirements!
+
+    - With rich material center to meet your editing needs!
+
+    - Add video file management, both draft and finished product!
+
+    - Optimize the editing interface to give you a smother video editing experience!
+
+Version 2.5.4 (Apr 12, 2021)
+    - New stickers and filters for even more creative effects!
+
+    - Optimize the editing interface to give you a smother video editing experience!
+
+Version 2.5.3 (Mar 9, 2021)
+    Fixes some minor bugs and general improvement.
+Version 2.5.2 (Feb 10, 2021)
+    Fixes some minor bugs and general improvement.
+Version 2.5.1 (Feb 5, 2021)
+    Fixes some minor bugs and general improvement.
+Version 2.5 (Jan 22, 2021)
+    - Enriched audio area functions: Added "sound effects", "recording" and "audio extraction"
+    - Optimize the editing interface to give you a smother video editing experience!
+Version 2.4.7 (Dec 20, 2020)
+    Fixes some minor bugs and general improvement.
+Version 2.4.6 (Nov 1, 2020)
+    - Added the function of [Drafts], no longer worry about losing your videos
+    - Optimize the editing interface to give you a smother video editing experience
+    - Fixes some bugs and improves performance
+Version 2.4.5 (Sep 20, 2020)
+    Fixes some minor bugs and general improvement.
+Version 2.4.4 (Aug 4, 2020)
+    - Optimize the editing interface to give you a smother video editing experience!
+
+    - Added a lot of resources to give you have more choices!
+Version 2.4.3 (Jul 29, 2020)
+    Fixes some minor bugs and general improvement.
+Version 2.4.2 (Jul 24, 2020)
+    - Optimize the editing interface to give you a smother video editing experience!
+
+    - Added a lot of resources to give you have more choices!
+
+Version 2.4.1 (Jun 27, 2020)
+    Fixes some minor bugs and general improvement.
+Version 2.4 (Jun 12, 2020)
+    - Optimize the editing interface to give you a smother video editing experience!
+    - Added a lot of resources to give you have more choices!
+Version 2.3.1 (Apr 29, 2020)
+    Fixes some minor bugs and general improvement.
+Version 2.3 (Apr 24, 2020)
+    - Added reverse
+    - Optimize the UI design and improve performance
+Version 2.2.2 (Apr 4, 2020)
+    Fixes some minor bugs and general improvement.
+Version 2.2.1 (Feb 20, 2020)
+    -Performance improvements under the hood
+Version 2.2 (Dec 30, 2019)
+    -Support sticker function, add your favorite stickers as you like
+    -Optimize text function, you can add multiple texts now
+    -Performance improvements under the hood
+Version 2.1.1 (Aug 26, 2019)
+    √Fixes some minor bugs and improves performance.
+Version 2.1 (May 20, 2019)
+    - Add Text function, you can set the font style and color as you like
+    - Support create interesting slideshows and videos from your photos
+    - Optimize the UI design
+    - Fix crash bugs and improve performance
+Version 2.0 (Mar 1, 2019)
+    We are now thrilled to present you the new 2.0 version of Video Editor overall upgrading of UI design!
+
+    1. So many new editing functions are available! Come and explore them!
+    - “Trim”and “Split” are newly added to offer you more editing functions;
+    - Newly added Rotation function;
+    - Newly added Copy function, easy to edit repeating clips;
+    - A huge variety of music and filter materials you can choose as you like.
+
+    2. Optimizing function operation to make your editing experience smoother!
+    - You can choose music entry mode and adjust volume;
+    - New transition effect makes the video transition more natural;
+    - Add 4:5 Instagram video size;
+    - Total video speed control with slow/fast motion control with playback speeds from 0.1x-8x to 0.25x-4x;
+
+    3. Bugs fixed and performance improved~
+
+    Thanks for your support~ If you have any problems, please feel free to contact us: videoeditorteam@163.com
+
+Version 1.6 (Nov 30, 2018)
+    Bug fixes, stability improvements.
+Version 1.5 (Nov 13, 2018)
+    What’s new:
+    -Various filters have been added to enrich video effect;
+    -Various different types of background music have been added;
+    - Bug fixes, stability improvements.
+Version 1.4 (May 21, 2018)
+    Fixed minor bugs and improved performance.
+Version 1.3 (May 2, 2018)
+    Fixed minor bugs and improved performance.
+Version 1.2 (Jan 8, 2018)
+    - Add the function of aspect ratios.
+    - Optimize page layout and improve UI.
+    - More background music.
+    - Fixed various issues and bugs.
+
+Version 1.1 (Oct 27, 2017)
+    Bug fixes and performance improvements.
+
+Version 1.0 (Jul 3, 2017)
+
+Users may also like
+Select objects to compare
+Video Merger □ Combine Videos
+Video Editor Effects
+VDIT - Video Creator & Merger
+Video Editor - Vlog Star
+MoShow Slideshow Photo & Video
+Perfect Video Editor, Collage
+Videorama Text & Video Editor
+Intro Music Video, Movie Maker
+add music to video background
+Efectum – Video Editor & Maker
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.7.8
+    Current release
+    Oct 12, 2023
+    2.7.7
+    Aug 28, 2023
+    2.7.6
+    Jul 12, 2023
+    2.7.5
+    May 12, 2023
+    2.7.4
+    Jan 11, 2023
+    2.7.3
+    Jan 9, 2023
+    2.7.2
+    Nov 4, 2022
+    2.7.2
+    Nov 4, 2022
+    2.7.1
+    Oct 25, 2022
+    2.7.0
+    Oct 24, 2022
+    2.6.9
+    May 1, 2022
+    2.6.8
+    Mar 11, 2022
+    2.6.7
+    Jan 22, 2022
+    2.6.6
+    Dec 27, 2021
+    2.6.5
+    Dec 10, 2021
+    2.6.4
+    Nov 25, 2021
+    2.6.3
+    Nov 11, 2021
+    2.6.2
+    Aug 19, 2021
+    2.6.1
+    Aug 4, 2021
+    2.6.0
+    Jul 27, 2021
+    2.5.8
+    Jul 18, 2021
+    2.5.7
+    Jun 29, 2021
+    2.5.6
+    Apr 30, 2021
+    2.5.5
+    Apr 25, 2021
+    2.5.4
+    Apr 12, 2021
+    2.5.3
+    Mar 9, 2021
+    2.5.2
+    Feb 10, 2021
+    2.5.1
+    Feb 5, 2021
+    2.5
+    Jan 22, 2021
+    2.4.7
+    Dec 20, 2020
+    2.4.6
+    Nov 1, 2020
+    2.4.5
+    Sep 20, 2020
+    2.4.4
+    Aug 4, 2020
+    2.4.3
+    Jul 29, 2020
+    2.4.2
+    Jul 24, 2020
+    2.4.1
+    Jun 27, 2020
+    2.4
+    Jun 12, 2020
+    2.3.1
+    Apr 29, 2020
+    2.3
+    Apr 24, 2020
+    2.2.2
+    Apr 4, 2020
+    2.2.1
+    Feb 20, 2020
+    2.2
+    Dec 30, 2019
+    2.1.1
+    Aug 26, 2019
+    2.1
+    May 20, 2019
+    2.0
+    Mar 1, 2019
+    1.6
+    Nov 30, 2018
+    1.5
+    Nov 13, 2018
+    1.4
+    May 21, 2018
+    1.3
+    May 2, 2018
+    1.2
+    Jan 8, 2018
+    1.1
+    Oct 27, 2017
+    1.0
+    Jul 3, 2017
+
+See More
+Top In-App Purchases
+
+    Video Editor Pro for Lifetime
+    $33.99
+    Music - Innervation
+    $0.99
+    Filter - B Series
+    $0.99
+    Remove Ads
+    $2.99
+    Filter - P Series
+    $0.99
+    Filter - M Series
+    $0.99
+    Filter - G Series
+    $0.99
+    Remove Watermark
+    $2.99
+    Video Editor Pro for One Year
+    $27.49
+    Video Editor Pro for One Month
+    $4.49
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jul 3, 2017
+
+Worldwide Release Date
+    Jul 3, 2017
+
+Last Updated Time
+    Feb 21, 2024
+
+Version
+    2.7.8
+
+Size
+    218.25 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Anglais, Chinois simplifié, Chinois traditionnel, Coréen, Espagnol, Japonais, Turc
+
+Seller
+    传彬 戴
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Nécessite iOS 12.0 ou une version ultérieure. Compatible avec l’iPhone, l’iPad et l’iPod touch.
+
+Bundle ID
+    com.wenjie.VideoEditor
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1253802769
+Unified App ID: 1000600000609200
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Video Editor . | data.ai

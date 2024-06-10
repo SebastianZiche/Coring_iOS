@@ -1,0 +1,12 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,7.8,2023-06-28,Fixed issues with tag list Fixed issues with numbering in lists
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,7.7,2023-05-17,1. Fixed several bugs 2. Fixed layout issues
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,7.6,2023-04-01,Fixed date format Fixed recording stop issue
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,7.5,2023-03-05,Fixed bugs. Implemented sequencial play
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,1.2.3,2022-02-08,Removed Google Drive Sync temporarily
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,1.2.2,2022-02-03,New navigation method Playback screen Clearer user interface Miscellaneous bug fixes
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,1.2.1,2021-03-12,Improved speech to text feed back. Ads.
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,1.2.0,2021-02-12,Improved user experience including an easier to use user interface. Tags can now be deleted. Patched bug in which editing a note would cause app to crash.
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,1.1.0,2020-10-28,Improved interface and archive to google drive features
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,1.01,2020-09-20,Patched speech recognition feature for a smoother experience.
+1530444514,0,Audio Note Taker,Productivity,2020-09-04,2020-09-04,13.13,1,0,0,0,1.0,2020-09-04,

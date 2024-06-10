@@ -1,0 +1,460 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Safi - Stealth Messenger
+Squealock Systems, IncBusiness (Applications)Free
+Alerts
+
+    Squealock Systems, Inc
+
+    Safi - Stealth Messenger
+    Safi - Stealth Messenger
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Safi - Stealth Messenger
+Business (Applications)
+Free
+App Description
+Safi helps protect you and your team against blackmail, smishing, phishing, spoofing, and ransomware attacks.
+
+TEAM MEETINGS
+You can join or share a meeting link with other members or non-users of the app, and they can even participate from their personal computers without the need for any installations. For security reasons, all meeting links are protected with a randomly generated password by default.
+
+NO PHONE NUMBER OR EMAIL REQUIRED
+You only create a unique userID that can be changed at any time. When changed, the old userID becomes void and cannot be reused by anyone.
+
+UPGRADAGLE 30 GB FREE STORAGE
+Enjoy 30GB of storage for contents shared in team mode. Files remain encrypted on our servers indefinitely until you delete them.
+
+STEALTH MODE
+Messages sent in stealth mode are encrypted, self-destruct locally and from the server once read and cannot be recovered.
+
+TEAM MODE
+The team mode option allows users to securely collaborate in 1-on-1 or Group conversations and comes with powerful access control functionalities. There is no limit to the number of people that can be added to a group.
+
+SCREENSHOT AND SCREEN RECORDING PREVENTION
+On iOS, you get notified if a message recipient takes a screenshot or starts recording your message screen or calls.
+
+SELECTIVE BLOCKING
+Should you wish to no longer receive a certain file type (voice message, images, documents, etc...) from a contact, you can simply choose to apply a partial block.
+
+WEB CHAT
+Safi Stealth Messenger can also be accessed on the web at www.safi.chat, making it convenient to use on laptops and desktop computers.
+
+
+Terms of Service: https://www.squealock.com/terms-and-conditions
+Privacy Policy: https://www.squealock.com/Privacy
+Ratings
+Displayed Avg Ratings
+4.73
+Total Displayed Ratings
+11
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 40.1.5 (Feb 22, 2024)
+    Fixed bug occurring when there is a new incoming call during an ongoing call.
+Version 40.1.4 (Dec 31, 2023)
+    Fixed lagging issue
+Version 40.1.3 (Dec 15, 2023)
+    Fixed bug occurring when uploading a picture. 
+Version 40.1.2 (Dec 8, 2023)
+    Fixed group message and notification bugs.
+Version 40.1.1 (Nov 28, 2023)
+    We improved the file upload speed. 
+Version 40.0.9 (Nov 17, 2023)
+    Bug fixes and performance improvement.
+Version 40.0.8 (Oct 2, 2023)
+    More Bug fixes. 
+Version 40.0.7 (Sep 20, 2023)
+    Improved call quality.
+Version 40.0.5 (Apr 18, 2023)
+    Fixed bug that occurred when blocking a user from their profile page.
+Version 40.0.4 (Apr 16, 2023)
+    Bug fixes and performance improvement. 
+Version 40.0.3 (Mar 26, 2023)
+    Fixed registration bug.
+Version 40.0.2 (Mar 22, 2023)
+    Fixed messaging error and improved performance.
+Version 40.0.1 (Mar 2, 2023)
+    Fixed update error message. 
+Version 39 (Feb 7, 2023)
+    - Fixed a bug which caused a lag when composing messages.
+    -Added the option to rejoin a group call you get dropped.
+
+Version 38 (Jul 2, 2022)
+    We fixed a bug that occurs when adding a user to a group call. Prior to this fix the user didn't appear on the contact list. 
+Version 37 (Jun 21, 2022)
+    You now have the option to show previous group chat history to new group members.
+Version 36 (Jun 3, 2022)
+    - Improved date and time format for outgoing and incoming messages
+    - Added the option to delete your account permanently.
+    - Added a “Calls” tab that gives you access to your call history with the option to wipe it from the device and server.
+    - Enabled the upload of multiple photos and videos while sending them.
+    - Fixed bugs and improved performance.
+Version 35 (Dec 21, 2021)
+    Bug fixes and performance improvements. 
+Version 34 (Oct 5, 2021)
+    Fixed file upload bug.
+Version 33 (Sep 24, 2021)
+    Voice message bug has been fixed. 
+Version 32 (Aug 18, 2021)
+    You can now block users again by accessing the settings page.
+Version 31 (Aug 5, 2021)
+    Fixed issue having to do with links and audio files not getting shared via the app. 
+Version 30 (Aug 3, 2021)
+    In this version, we fixed a bug related to received video sound playing, even after you close the video player. 
+Version 29 (Jul 31, 2021)
+    In this build we improved group admin permissions.
+Version 28 (Jul 27, 2021)
+    -Fixed null message notification bug
+Version 27.0 (Jul 16, 2021)
+
+    - Comes with an upgradable 30GB Free storage
+    - A.I powered file scanning to reduce chances of your device getting infected with malware
+    - In addition to the existing "Stealth" functionality, we added a "Teams" option, including the ability to create and manage groups now allows you to collaborate with others.
+    - You are now able to share all types of files (Word, Excel, Pdf, PowerPoint, etc...).
+    - You can hide or show your online Status to your contacts.
+    -You can share your individual or group profile.
+    -You can share a meeting link with anyone, and they can join from their web browser without having to install anything.
+    -The application can also be accessed from a web browser (Webchat version).
+
+Version 26.0 (Jan 26, 2021)
+    Chat issue fixes
+Version 24.0 (Dec 9, 2020)
+    Fixed message notification issue.
+Version 21.0 (Aug 2, 2020)
+    - Implemented new in-app purchases, so users can enjoy a free trial prior to purchase.
+
+    - A screen recording notification gets sent to you when your message recipient starts or stops the screen recording of your messages or calls (voice or video).
+Version 20.0 (Jun 23, 2020)
+    Bug fixes. voice and videoconferencing are more stable.
+Version 19.0 (Jul 24, 2019)
+    Improved poor connection indicator.
+Version 18.0 (Jul 19, 2019)
+    Fixed a bug related to the handling of incoming GSM and app calls while on another call.
+Version 17.0 (Jun 29, 2019)
+    Fixed incoming video call bug
+
+Version 12.0 (May 15, 2019)
+    Bug fixes and performance improvement
+Version 11.0 (Feb 2, 2019)
+    - Compatible with the latest iOS version
+    - Bug fixes and performance improvement
+Version 10.0 (May 22, 2018)
+    - Sending encrypted voice and video messages that self-destruct once viewed. ( works only from iOS to iOS for now).
+    - Encrypted Voice call and Video conference with up to 6 participants (works only from iOs to iOS for now).
+    - Selective Blocking: Instead of a full block, you can do a partial block to keep someone from sending you messages or certain file types while allowing others.
+Version 7.2 (Feb 22, 2017)
+    Fixed a minor bug.
+Version 7.1 (Feb 2, 2017)
+    -The startup and animation sounds can now be switched off.
+    -Email is now optional for registration, unless you want to be able to reset your password in the future.
+Version 7.0 (Jan 6, 2017)
+    We added new themes.
+Version 6.0 (Aug 26, 2016)
+    Fixed minor bugs on the live user list and the user's profile page.
+Version 5.0 (Jul 19, 2016)
+    -Send anonymous messages to other local users, or to Squealock users worldwide.
+Version 4.3 (Jun 17, 2016)
+    - push notification improved
+Version 4.1 (Apr 1, 2016)
+    Modified app name
+Version 4.0 (Mar 10, 2016)
+    -Picture attachments are processed even faster
+    -Fixed minor bugs
+Version 3.0 (Jan 12, 2016)
+    -Fixed bug occurring while attaching a picture.
+    -Taking a screenshot will notify the message sender.
+Version 2.9 (Dec 22, 2015)
+    -New logo and sounds.
+    -Fixed a critical bug
+Version 2.5 (Sep 28, 2015)
+    -Text auto-fit for displayed messages
+Version 2.3 (Sep 17, 2015)
+    -You are able to send attachments that are up to 6MB in size.
+    -You can click on a displayed picture to make it bigger or full screen.
+Version 2.0 (Aug 27, 2015)
+    -User IDs are no longer case sensitive.
+    -Passwords must be longer for security reasons.
+Version 1.0 (Jul 30, 2015)
+Version 7.3 (Jul 29, 2015)
+    Fixed a minor bug on live user screen.
+
+Users may also like
+Select objects to compare
+Glacier Chat: Secure Messenger
+PRIVUS SecurLine Messenger
+Camp Organizer: Parents
+VNCtalk
+SaltIM
+Pryvate Messenger
+Seecrypt Enterprise
+Vision Collab
+invisible-ink - [i-i]
+get2CloudsX Wallet
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Mobile Cleaner & Antivirus
+Mobile Cleaner & Antivirus
+Apps that protect mobile devices against malware such as viruses and other online mobile threats, and also optimize the phone with the help of battery saver, super cleaner and power clean.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    40.1.5
+    Current release
+    Feb 22, 2024
+    40.1.4
+    Dec 31, 2023
+    40.1.3
+    Dec 15, 2023
+    40.1.2
+    Dec 8, 2023
+    40.1.1
+    Nov 28, 2023
+    40.0.9
+    Nov 17, 2023
+    40.0.8
+    Oct 2, 2023
+    40.0.7
+    Sep 20, 2023
+    40.0.5
+    Apr 18, 2023
+    40.0.4
+    Apr 16, 2023
+    40.0.3
+    Mar 26, 2023
+    40.0.2
+    Mar 22, 2023
+    40.0.1
+    Mar 2, 2023
+    39
+    Feb 7, 2023
+    38
+    Jul 2, 2022
+    37
+    Jun 21, 2022
+    36
+    Jun 3, 2022
+    35
+    Dec 21, 2021
+    34
+    Oct 5, 2021
+    33
+    Sep 24, 2021
+    32
+    Aug 18, 2021
+    31
+    Aug 5, 2021
+    30
+    Aug 3, 2021
+    29
+    Jul 31, 2021
+    28
+    Jul 27, 2021
+    27.0
+    Jul 16, 2021
+    26.0
+    Jan 26, 2021
+    24.0
+    Dec 9, 2020
+    21.0
+    Aug 2, 2020
+    20.0
+    Jun 23, 2020
+    19.0
+    Jul 24, 2019
+    18.0
+    Jul 19, 2019
+    17.0
+    Jun 29, 2019
+    12.0
+    May 15, 2019
+    11.0
+    Feb 2, 2019
+    10.0
+    May 22, 2018
+    7.2
+    Feb 22, 2017
+    7.1
+    Feb 2, 2017
+    7.0
+    Jan 6, 2017
+    6.0
+    Aug 26, 2016
+    5.0
+    Jul 19, 2016
+    4.3
+    Jun 17, 2016
+    4.1
+    Apr 1, 2016
+    4.0
+    Mar 10, 2016
+    3.0
+    Jan 12, 2016
+    2.9
+    Dec 22, 2015
+    2.5
+    Sep 28, 2015
+    2.3
+    Sep 17, 2015
+    2.0
+    Aug 27, 2015
+    1.0
+    Jul 30, 2015
+    7.3
+    Jul 29, 2015
+
+See More
+Top In-App Purchases
+
+    1 Year Subscription
+    $0.99
+    Elite 6-month Subscription
+    $0
+    1 Month Subscription
+    $0
+    1 Month Subscription
+    $1.99
+    1 Year Subscription
+    $0
+    1TB Storage Plan
+    $0
+    2TB Subscription Plan
+    $0
+    10 GB Storage Plan
+    $1.99
+    50 GB Storage Plan
+    $6.99
+    100GB Storage Plan
+    $8.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Jul 29, 2015
+
+Worldwide Release Date
+    Aug 21, 2015
+
+Last Updated Time
+    Apr 21, 2024
+
+Version
+    40.1.5
+
+Size
+    92.45 mb
+
+Only 32 Bit
+    No
+
+Languages
+    английский, испанский, португальский, суахили, французский
+
+Seller
+    Squealock Systems, Inc
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Требуется iOS 13.0 и новее. Совместимо с iPhone, iPad и iPod touch.
+
+Bundle ID
+    com.swurv.squealock
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1006457669
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Safi - Stealth Messenger | data.ai

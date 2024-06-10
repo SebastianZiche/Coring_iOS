@@ -1,0 +1,614 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Dictate⁺
+JOTOMIBusiness (Applications)Free
+Alerts
+
+    Dictate⁺
+    Dictate⁺
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Dictate⁺
+Professionelles Diktieren
+Business (Applications)
+Free
+App Promotional Text
+Jetzt mit Spracherkennung, Dokumentenscanner und Dateianhängen
+App Description
+Dictate⁺ macht aus Ihrem iPhone, iPod oder iPad ein professionelles Diktiergerät, das mehr kann als die meisten High-End-Diktiergeräte. Dictate⁺ ist eine unverzichtbare App für Ärzte, Rechtsanwälte, Steuerberater, Gutachter, Journalisten und alle, die Sprache aufzeichnen und weiterleiten möchten.
+
+Dictate⁺ bietet hervorragende Tonqualität, beeindruckend exakte Sprachaktivierung, sichere Verschlüsselung und eine Fülle an Übertragungsmöglichkeiten für Ihre Diktate und Aufnahmen.
+
+• Professionelles Diktieren
+• Flüssiges Zurückspulen, Übersprechen, Einfügen
+• Blitzschnelle Aufnahmesteuerung und präzise Sprachaktivierung
+• Höchste Datensicherheit durch AES-256 Verschlüsselung und Zugriffskontrolle (auch biometrisch)
+• Keine Erhebung von Nutzungs- oder Telemetrie-Daten durch den Hersteller
+• Vielfältige Versandmöglichkeiten (E-Mail, Download, FTP, WebDAV, SFTP, Dropbox, u.v.m.)
+• MP4/AAC, WAV und AIFF Formate
+• Verschieben und Löschen im Diktat
+• Aufnahme im Hintergrund (keine Anrufe auf demselben Gerät)
+• Bookmarks im Diktat
+• Verwaltung der Diktate in Ordnern
+• Spracherkennung (offline)
+• Barcode-Scanner
+• Dokumentenscanner
+• Dateianhänge (Fotos, PDF, etc.)
+• Steuerung mit Bluetooth-Fußschalter möglich
+• Verschiedene Wiedergabegeschwindigkeiten
+
+NEU: Dictate⁺ Transfer. Ende-zu-Ende-verschlüsselte Übertragung von Diktaten an PC oder Mac ohne Zusatzkosten. Einfach, schnell und sicher.
+
+JOTOMI entwickelt seit 2008 Diktier-Apps. Aus "Dictamus" wurde zunächst "Dictate + Connect" und jetzt "Dictate⁺". Mit weltweit mehr als 500.000 Downloads gehören wir zu den erfolgreichsten App-Entwicklern im Bereich des professionellen Diktierens. Zusammen mit Praktikern arbeiten wir kontinuierlich an der Verbesserung.
+
+Dictate⁺ bietet in der Gratisversion alle Funktionen, lediglich die Länge jedes einzelnen Diktats ist auf 30 Sekunden begrenzt. Schließen Sie ein Freischaltungs-Abo ab, um diese Beschränkung aufzuheben. Mit einem Freischaltungs-Abo ist die Länge jedes einzelnen Diktats begrenzt auf 24 Stunden bei Aufnahmequalität "Normal" (5 Stunden bei Aufnahmequalität "Studio").
+
+Ihr iTunes-Konto wird sofort nach der Bestätigung des Abo-Einkaufs belastet. Das Abo verlängert sich automatisch, sofern die automatische Verlängerung nicht mindestens 24h vor Ablauf des aktuellen Zeitraums deaktiviert wird. Ihr Konto wird innerhalb 24h vor Ablauf mit dem Betrag für die Verlängerung belastet. Sie können in Ihren iTunes-Kontoeinstellungen Ihre Abos verwalten und die automatische Verlängerung deaktivieren. Wenn Sie ein Abo abschließen, verfällt eine eventuell bestehende Gratisnutzung und Ihr Konto wird sofort belastet.
+
+Sie finden die Nutzungsbedingungen für das Freischaltungs-Abo unter https://www.dictate-plus.com/dictateplus-termsofuse-de
+Ratings
+Displayed Avg Ratings
+4.54
+Total Displayed Ratings
+950
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.3.2 (Nov 21, 2023)
+    - Neu: Import Diktatlisten
+    - Neu: Anpassung Abspiellautstärke
+    - Verbessert: Wellenform-Anzeige
+    - Verbessert: Pegelanzeige
+    - Korrigiert: Verarbeitung von Sonderzeichen im Namen von Anhängen
+    - Korrigiert: Sonderzeichen in AM/PM Datumstexten auf iOS 17
+    - Korrigiert: Absturz beim Versand langer Diktate mit aktivierter Audio-Normalisierung (2.3.1)
+    - Verbessert: Sprachaktivierung (2.3.2)
+Version 2.3.1 (Nov 2, 2023)
+    - Neu: Import Diktatlisten
+    - Neu: Anpassung Abspiellautstärke
+    - Verbessert: Wellenform-Anzeige
+    - Verbessert: Pegelanzeige
+    - Korrigiert: Verarbeitung von Sonderzeichen im Namen von Anhängen
+    - Korrigiert: Sonderzeichen in AM/PM Datumstexten auf iOS 17
+    - Korrigiert: Absturz beim Versand langer Diktate mit aktivierter Audio-Normalisierung (2.3.1)
+Version 2.3 (Oct 3, 2023)
+    - Neu: Import Diktatlisten
+    - Neu: Anpassung Abspiellautstärke
+    - Verbessert: Wellenform-Anzeige
+    - Verbessert: Pegelanzeige
+    - Korrigiert: Verarbeitung von Sonderzeichen im Namen von Anhängen
+    - Korrigiert: Sonderzeichen in AM/PM Datumstexten auf iOS 17
+Version 2.2.3 (Aug 31, 2023)
+    - Neu: Audio-Normalisierung
+    - Verbessert: Klangqualität
+    - Verbessert: Wellenform-Anzeige
+    - Korrigiert: "Nach Weitergabe"-Einstellungen "Neues Diktat erstellen" und "In Papierkorb verschieben" erzeugen zu viele leere Diktate
+    - Korrigiert: Seltener Absturz beim Löschen von Weitergabezielen oder E-Mail-Konten
+    - Workaround: Notfall-Workaround zur Umgehung einer fehlschlagenden Abo-Prüfung (2.2.1)
+    - Korrigiert: Fehlende FTP-spezifische Einträge in den FTP/Erweitert Einstellungen (2.2.1)
+    - Workaround: Abo-Prüfung robuster (2.2.2)
+    - Korrigiert: Problem bei AIFF Konvertierung (2.2.3)
+    - Korrigiert: Problem bei Download-Weitergabe (2.2.3)
+    - Korrigiert: Problem mit Multipart-HTTP-Requests (2.2.3)
+Version 2.2.2 (Aug 29, 2023)
+    - Neu: Audio-Normalisierung
+    - Verbessert: Klangqualität
+    - Verbessert: Wellenform-Anzeige
+    - Korrigiert: "Nach Weitergabe"-Einstellungen "Neues Diktat erstellen" und "In Papierkorb verschieben" erzeugen zu viele leere Diktate
+    - Korrigiert: Seltener Absturz beim Löschen von Weitergabezielen oder E-Mail-Konten
+    - Workaround: Notfall-Workaround zur Umgehung einer fehlschlagenden Abo-Prüfung (2.2.1)
+    - Korrigiert: Fehlende FTP-spezifische Einträge in den FTP/Erweitert Einstellungen (2.2.1)
+    - Workaround: Abo-Prüfung robuster (2.2.2)
+Version 2.2.1 (Aug 24, 2023)
+    - Neu: Audio-Normalisierung
+    - Verbessert: Klangqualität
+    - Verbessert: Wellenform-Anzeige
+    - Korrigiert: "Nach Weitergabe"-Einstellungen "Neues Diktat erstellen" und "In Papierkorb verschieben" erzeugen zu viele leere Diktate
+    - Korrigiert: Seltener Absturz beim Löschen von Weitergabezielen oder E-Mail-Konten
+    - Workaround: Notfall-Workaround zur Umgehung einer fehlschlagenden Update-Prüfung (2.2.1)
+    - Korrigiert: Fehlende FTP-spezifische Einträge in den FTP/Erweitert Einstellungen (2.2.1)
+Version 2.2 (Aug 23, 2023)
+    - Neu: Audio-Normalisierung
+    - Verbessert: Klangqualität
+    - Verbessert: Wellenform-Anzeige
+    - Korrigiert: "Nach Weitergabe"-Einstellungen "Neues Diktat erstellen" und "In Papierkorb verschieben" erzeugen zu viele leere Diktate
+    - Korrigiert: Seltener Absturz beim Löschen von Weitergabezielen oder E-Mail-Konten
+Version 2.1.8 (Jul 31, 2023)
+    - Neu: Offline-Spracherkennung
+    - Neu: Dokumentenscanner
+    - Neu: Dateianhänge (Dokumente, Fotos, etc)
+    - Neu: Icon für Audioquelle
+    - Geändert: Standard-Aufnahmequalität 16kHz
+    - Verbessert: Design der Diktatsteuerung
+    - Korrigiert: Seltener Absturz am Ende eines Dictate⁺ Transfer Uploads
+    - Korrigiert: Potentielles Problem beim IMA4 Export
+    - Korrigiert: Seltener Absturz beim Wechsel zwischen Diktaten
+    - Korrigiert: Workaround für abgelaufenes G1-Zertifikat, das Abos ungültig macht (2.1.1)
+    - Korrigiert: Seltener Absturz bei der Nutzung der Einfügen-Funktion (2.1.2)
+    - Korrigiert: Absturz beim Versand mehrerer Diktate gleichzeitig (2.1.3)
+    - Korrigiert: Unvollständige Namen bei Dateianhängen (2.1.3)
+    - Korrigiert: Zip-Verschlüsselung kann nicht für Dateianhänge genutzt werden (2.1.3)
+    - Korrigiert: Abo auf macOS nicht erkannt (2.1.4)
+    - Korrigiert: Änderungen im Ergebnis der Spracherkennung werden nicht gespeichert (2.1.5)
+    - Korrigiert: Audiodateien mit 8kHz und 16kHz werden abgeschnitten beim Import (2.1.5)
+    - Verbessert: FTP-Transfer unterstützt IPV6 (2.1.6)
+    - Korrigiert: Löschen des aktuellen Diktats in der Diktatliste auf iPad erzeugt neues Diktat (2.1.6)
+    - Korrigiert: Auswahl in der Diktatliste auf iPad stimmt nicht immer mit dem angezeigten Diktat überein (2.1.6)
+    - Korrigiert: FTP-Transfer schlägt fehl auf einigen älteren FTP-Servern (2.1.7)
+    - Korrigiert: Dictate⁺ Transfer Fehler beim Download durch Sonderzeichen im Namen von Anhängen (2.1.8)
+    - Korrigiert: Seltener Absturz bei Dropbox-Uploads (2.1.8)
+Version 2.1.7 (May 11, 2023)
+    - Neu: Offline-Spracherkennung
+    - Neu: Dokumentenscanner
+    - Neu: Dateianhänge (Dokumente, Fotos, etc)
+    - Neu: Icon für Audioquelle
+    - Geändert: Standard-Aufnahmequalität 16kHz
+    - Verbessert: Design der Diktatsteuerung
+    - Korrigiert: Seltener Absturz am Ende eines Dictate⁺ Transfer Uploads
+    - Korrigiert: Potentielles Problem beim IMA4 Export
+    - Korrigiert: Seltener Absturz beim Wechsel zwischen Diktaten
+    - Korrigiert: Workaround für abgelaufenes G1-Zertifikat, das Abos ungültig macht (2.1.1)
+    - Korrigiert: Seltener Absturz bei der Nutzung der Einfügen-Funktion (2.1.2)
+    - Korrigiert: Absturz beim Versand mehrerer Diktate gleichzeitig (2.1.3)
+    - Korrigiert: Unvollständige Namen bei Dateianhängen (2.1.3)
+    - Korrigiert: Zip-Verschlüsselung kann nicht für Dateianhänge genutzt werden (2.1.3)
+    - Korrigiert: Abo auf macOS nicht erkannt (2.1.4)
+    - Korrigiert: Änderungen im Ergebnis der Spracherkennung werden nicht gespeichert (2.1.5)
+    - Korrigiert: Audiodateien mit 8kHz und 16kHz werden abgeschnitten beim Import (2.1.5)
+    - Verbessert: FTP-Transfer unterstützt IPV6 (2.1.6)
+    - Korrigiert: Löschen des aktuellen Diktats in der Diktatliste auf iPad erzeugt neues Diktat (2.1.6)
+    - Korrigiert: Auswahl in der Diktatliste auf iPad stimmt nicht immer mit dem angezeigten Diktat überein (2.1.6)
+    - Korrigiert: FTP-Transfer schlägt fehl auf einigen älteren FTP-Servern (2.1.7)
+Version 2.1.5 (Mar 18, 2023)
+    - Neu: Offline-Spracherkennung
+    - Neu: Dokumentenscanner
+    - Neu: Dateianhänge (Dokumente, Fotos, etc)
+    - Neu: Icon für Audioquelle
+    - Geändert: Standard-Aufnahmequalität 16kHz
+    - Verbessert: Design der Diktatsteuerung
+    - Korrigiert: Seltener Absturz am Ende eines Dictate⁺ Transfer Uploads
+    - Korrigiert: Potentielles Problem beim IMA4 Export
+    - Korrigiert: Seltener Absturz beim Wechsel zwischen Diktaten
+    - Korrigiert: Workaround für abgelaufenes G1-Zertifikat, das Abos ungültig macht (2.1.1)
+    - Korrigiert: Seltener Absturz bei der Nutzung der Einfügen-Funktion (2.1.2)
+    - Korrigiert: Absturz beim Versand mehrerer Diktate gleichzeitig (2.1.3)
+    - Korrigiert: Unvollständige Namen bei Dateianhängen (2.1.3)
+    - Korrigiert: Zip-Verschlüsselung kann nicht für Dateianhänge genutzt werden (2.1.3)
+    - Korrigiert: Abo auf macOS nicht erkannt (2.1.4)
+    - Korrigiert: Änderungen im Ergebnis der Spracherkennung werden nicht gespeichert (2.1.5)
+    - Korrigiert: Audiodateien mit 8kHz und 16kHz werden abgeschnitten beim Import (2.1.5)
+Version 2.1.4 (Mar 7, 2023)
+    - Neu: Offline-Spracherkennung
+    - Neu: Dokumentenscanner
+    - Neu: Dateianhänge (Dokumente, Fotos, etc)
+    - Neu: Icon für Audioquelle
+    - Geändert: Standard-Aufnahmequalität 16kHz
+    - Verbessert: Design der Diktatsteuerung
+    - Korrigiert: Seltener Absturz am Ende eines Dictate⁺ Transfer Uploads
+    - Korrigiert: Potentielles Problem beim IMA4 Export
+    - Korrigiert: Seltener Absturz beim Wechsel zwischen Diktaten
+    - Korrigiert: Workaround für abgelaufenes G1-Zertifikat, das Abos ungültig macht (2.1.1)
+    - Korrigiert: Seltener Absturz bei der Nutzung der Einfügen-Funktion (2.1.2)
+    - Korrigiert: Absturz beim Versand mehrerer Diktate gleichzeitig (2.1.3)
+    - Korrigiert: Unvollständige Namen bei Dateianhängen (2.1.3)
+    - Korrigiert: Zip-Verschlüsselung kann nicht für Dateianhänge genutzt werden (2.1.3)
+    - Korrigiert: Abo auf macOS nicht erkannt (2.1.4)
+Version 2.1.3 (Feb 14, 2023)
+    - Neu: Offline-Spracherkennung
+    - Neu: Dokumentenscanner
+    - Neu: Dateianhänge (Dokumente, Fotos, etc)
+    - Neu: Icon für Audioquelle
+    - Geändert: Standard-Aufnahmequalität 16kHz
+    - Verbessert: Design der Diktatsteuerung
+    - Korrigiert: Seltener Absturz am Ende eines Dictate⁺ Transfer Uploads
+    - Korrigiert: Potentielles Problem beim IMA4 Export
+    - Korrigiert: Seltener Absturz beim Wechsel zwischen Diktaten
+    - Korrigiert: Workaround für abgelaufenes G1-Zertifikat, das Abos ungültig macht (2.1.1)
+    - Korrigiert: Seltener Absturz bei der Nutzung der Einfügen-Funktion (2.1.2)
+    - Korrigiert: Absturz beim Versand mehrerer Diktate gleichzeitig (2.1.3)
+    - Korrigiert: Unvollständige Namen bei Dateianhängen (2.1.3)
+    - Korrigiert: Zip-Verschlüsselung kann nicht für Dateianhänge genutzt werden (2.1.3)
+Version 2.1.2 (Feb 10, 2023)
+    - Neu: Offline-Spracherkennung
+    - Neu: Dokumentenscanner
+    - Neu: Dateianhänge (Dokumente, Fotos, etc)
+    - Neu: Icon für Audioquelle
+    - Geändert: Standard-Aufnahmequalität 16kHz
+    - Verbessert: Design der Diktatsteuerung
+    - Korrigiert: Seltener Absturz am Ende eines Dictate⁺ Transfer Uploads
+    - Korrigiert: Potentielles Problem beim IMA4 Export
+    - Korrigiert: Seltener Absturz beim Wechsel zwischen Diktaten
+    - Korrigiert: Workaround für abgelaufenes G1-Zertifikat, das Abos ungültig macht (2.1.1)
+    - Korrigiert: Seltener Absturz bei der Nutzung der Einfügen-Funktion (2.1.2)
+Version 2.1.1 (Feb 8, 2023)
+    - Korrigiert: Workaround für abgelaufenes G1-Zertifikat, das Abos ungültig macht
+Version 2.0.1 (Aug 29, 2022)
+    - Korrigiert: "EntityTooSmall"-Fehlermeldung beim Versand von Diktaten mit Dictate⁺ Transfer
+    - Korrigiert: Blinkendes Schloss-Symbol in der Diktieransicht
+Version 2.0.0 (Aug 23, 2022)
+    - Neu: Dictate⁺ Transfer
+    - Neu: Fingerprint-Prüfung bei SFTP-Server
+    - Aktualisiert: eingebettete Softwarekomponenten
+    - Aktualisiert: iOS 15.5 wird benötigt
+    - Verbessert: Verhindert zu kurze Passwörter bereits bei der Eingabe, nicht erst bei der Verwendung
+    - Verbessert: Zielmarkierung bei Drag&Drop
+    - Korrigiert: Absturz beim Löschen interner E-Mail-Accounts
+    - Korrigiert: Problem mit der Farbe der Navigationsleiste in der Diktatansicht
+    - Korrigiert: Anzeigeproblem bei DPSDC-Icons
+    - Korrigiert: Persönliche Microsoft-Konnten können nicht autorisiert werden
+    - Korrigiert: Kontrollflussproblem, wenn während der Änderung der Sicherheitsstufe inkorrekte Biometrie präsentiert wird
+Version 1.9.0 (May 31, 2022)
+    - Neu: DPSDC v5
+    - Neu: Option zum Ändern des PROT P Verhalten bei Implicit SSL FTP
+    - Neu: Option zum Abschalten von temporären Dateinamen für FTP-Uploads
+    - Aktualisiert: iOS SDK (15.x)
+    - Aktualisiert: eingebettete Softwarekomponenten
+    - Korrigiert: Absturz beim Löschen eines E-Mail-Accounts
+    - Korrigiert: Absturz beim Löschen mehrerer Diktate
+    - Korrigiert: Ordner-Editor kann nicht geschlossen werden
+    - Korrigiert: Weißer Balken im Dark Mode kurz nach dem Start
+    - Korrigiert: Layout-Sprung kurz nach dem Start
+Version 1.8.2 (Dec 20, 2021)
+    - Verbessert: SSL-Schalter in DPSDC-Weitergabeziel wird deaktiviert, wenn Abschalten nicht erlaubt ist
+    - Korrigiert: Fehlerhaftes Datumsformat bei spezialisiertem Uploader
+Version 1.8.0 (Nov 22, 2021)
+    - Neu: DPSDC v4
+    - Neu: DPSDC unterstützt benutzerdefinierte Pfade in FTP/SFTP/WebDAV-Zielen
+    - Neu: Einrichtung zur Audio-Diagnose
+    - Neu: Icon zum Hinweis, dass die Diktatbeschreibung antippbar ist
+    - Neu: Buttons zum Sperren/Entsperren/Duplizieren/Verschieben in Papierkorb eines Diktats auf seiner Metadaten-Anzeigeseite
+    - Neu: Update aller eingebauten Softwarekomponenten auf ihre neuesten Versionen
+    - Neu: Unterstützt Abo-Kauf über den App Store
+    - Korrigiert: Nicht übersetzte und fehlende Text-Label
+    - Korrigiert: Absturz der App beim Abbrechen einer Übertragung zu bestimmten Cloud-Zielen
+Version 1.7.1 (Oct 25, 2021)
+    - Neu: Möglichkeit zum Schutz der rechten unteren Ecke vor versehentlicher Aktivierung
+    - Verbessert: Layout im Tab "Diktat" auf iPod touch
+Version 1.7.0 (Oct 5, 2021)
+    - Neu: Unterstützung für Sprache Hindi
+    - Verbessert: Beim Wechsel des Mikrofons läuft die Aufnahme weiter
+    - Korrigiert: Seltene Fehlermeldung "Problem im Audiosystem" ohne tatsächlichen Grund
+Version 1.6.0 (Sep 29, 2021)
+    - Neu: Uploader für Google Drive (Personal/Shared)
+    - Korrigiert: Anzahl Diktate in der Ordnerliste nach Löschen nicht aktualisiert
+    - Korrigiert: Layout der Kameraanzeige im Barcode-Scanner auf iPad
+    - Korrigiert: Absturz, wenn Barcode-Scanner ohne Berechtigung für Kamera aufgerufen wird
+Version 1.5.0 (Aug 31, 2021)
+    - Neu: Uploader für Microsoft 365 (OneDrive/SharePoint Online)
+Version 1.4.0 (Jul 25, 2021)
+    - Neu: Zählerbasiertes Dateinamenschema
+    - Neu: Diktat aufteilen
+Version 1.3.3 (Jun 30, 2021)
+    - Korrigiert: Flackernde Aussteuerungsanzeige
+    - Korrigiert: Blaue Auswahlmarkierung wird in der Wellenform nicht aktualisiert, nachdem eine Auswahl verschoben wurde
+Version 1.3.2 (Jun 24, 2021)
+    - Korrigiert: Mehrere leere Diktate erzeugt nach Weitergabe, wenn "Nach Weitergabe - In Papierkorb verschieben" oder "Nach Weitergabe - Neues Diktat erstellen" aktiviert ist
+    - Korrigiert: Diktatposition springt ans Ende, wenn der Schieber ganz an den Anfang gezogen wird
+    - Korrigiert: Nachdem Diktate aus der Ordneransicht weg verschoben werden, bleiben sie ausgewählt
+    - Korrigiert: Blaue Auswahlmarkierung wird in der Wellenform nicht aktualisiert, wenn ein anderes Diktat geladen wird
+Version 1.3.1 (Jun 22, 2021)
+    - Verbessert: Anzeige-Performance bei höheren Aufnahmequalitäten
+Version 1.3 (Jun 19, 2021)
+    - Neu: Lokalisierung für Spanisch, Französisch, Italienisch und Niederländisch
+    - Neu: Diktate duplizieren
+    - Korrigiert: Absturz beim Authentifizieren für box
+Version 1.2 (May 19, 2021)
+    - Neu: Import von Audiodateien
+Version 1.1.2 (May 14, 2021)
+    - Neu: 25% Mikrofon-Empfindlichkeit für Studio-Anwendungen
+    - Verbessert: Darstellung der Wellenform, insbesondere im Dark Mode
+    - Verbessert: Zero-Check bei Audiogeräten mit Geräuschunterdrückung
+    - Korrigiert: Absturz beim Löschen eines Weitergabeziels auf iPad
+    - Korrigiert: Absturz beim Löschen des geöffneten Diktats in Aktuelle
+    - Korrigiert: Einfrieren bei Rückkehr aus dem Hintergrund bei aktiviertem Touch ID
+Version 1.1 (Apr 29, 2021)
+    - Neu: Jahresabo
+    - Verbessert: Schnelleres Laden des Diktats
+    - Verbessert: Schnellere Audiokonvertierung
+    - Verbessert: Schnellere Übertragung bei SFTP und FTP
+Version 1.1.1 (Apr 29, 2021)
+    - Korrigiert: Seltener Absturz nach Einfügen
+Version 1.0.6 (Apr 16, 2021)
+    - Neu: box Upload
+    - Korrigiert: Seltene Warn-Piepser während längerer Aufnahmen
+    - Korrigiert: Verzögerung beim Öffnen von Diktaten aus Aktuelle und Ordnern
+Version 1.0.5 (Apr 2, 2021)
+    - Neu: Barcode wird in Diktatlisten angezeigt
+    - Neu: Diktate von extern erstellen mit dictateplus:/new?name
+    - Neu: Sortierung in Ordneransicht wird gespeichert
+    - Korrigiert: Doppelpunkte im Dateinamen bei Schema mit Zeitstempel
+    - Korrigiert: Fragezeichen im ASCII-Dateinamen bei manchen Unicode-Zeichen
+    - Korrigiert: Einfüge-Button weiter aktiv nach beendetem Einfügen
+Version 1.0.4 (Mar 26, 2021)
+    [Version 1.0.4]
+    - Korrigiert: Fehler beim Versenden von Diktaten über 500KB an SFTP-Server
+    - Korrigiert: Diktatname wurde nicht gespeichert, wenn während dem Editieren ein Versand gestartet wird
+    - Korrigiert: Anzeige des ausgewählten Audioformats im "Erweitert"-Bereich nicht immer richtig
+
+    [Version 1.0.3]
+    - Korrigiert: Fehler beim Einfügen in Diktaten über 4 Minuten
+
+    [Version 1.0.2]
+    - Neu: Diktieren mit Bluetooth/A2DP
+
+    [Version 1.0.1]
+    - Neu: 180°-Rotation auf iPhones mit Home-Button
+    - Korrigiert: Absturz beim SFTP-Versand
+    - Korrigiert: Bedingungen für Dictate + Connect Kunden
+    - Korrigiert: Verbesserte Dynamic Type Unterstützung in der Diktatsteuerung
+    - Korrigiert: Unsichtbarer Schließen-Button in der Abo-Ansicht im Light Mode
+    - Korrigiert: "Unverschlüsselte Daten auf dem Gerät verbieten" sollte nur in der Stufe "Biometrische Verschlüsselung" aktiv sein
+Version 1.0.3 (Mar 15, 2021)
+    [Version 1.0.3]
+    - Korrigiert: Fehler beim Einfügen in Diktaten über 4 Minuten
+
+    [Version 1.0.2]
+    - Neu: Diktieren mit Bluetooth/A2DP
+
+    [Version 1.0.1]
+    - Neu: 180°-Rotation auf iPhones mit Home-Button
+    - Korrigiert: Absturz beim SFTP-Versand
+    - Korrigiert: Bedingungen für Dictate + Connect Kunden
+    - Korrigiert: Verbesserte Dynamic Type Unterstützung in der Diktatsteuerung
+    - Korrigiert: Unsichtbarer Schließen-Button in der Abo-Ansicht im Light Mode
+    - Korrigiert: "Unverschlüsselte Daten auf dem Gerät verbieten" sollte nur in der Stufe "Biometrische Verschlüsselung" aktiv sein
+Version 1.0.2 (Mar 10, 2021)
+    [Version 1.0.2]
+    - Neu: Diktieren mit Bluetooth/A2DP
+
+    [Version 1.0.1]
+    - Neu: 180°-Rotation auf iPhones mit Home-Button
+    - Korrigiert: Absturz beim SFTP-Versand
+    - Korrigiert: Bedingungen für Dictate + Connect Kunden
+    - Korrigiert: Verbesserte Dynamic Type Unterstützung in der Diktatsteuerung
+    - Korrigiert: Unsichtbarer Schließen-Button in der Abo-Ansicht im Light Mode
+    - Korrigiert: "Unverschlüsselte Daten auf dem Gerät verbieten" sollte nur in der Stufe "Biometrische Verschlüsselung" aktiv sein
+Version 1.0.1 (Mar 7, 2021)
+    - Neu: 180°-Rotation auf iPhones mit Home-Button
+    - Korrigiert: Absturz beim SFTP-Versand
+    - Korrigiert: Bedingungen für Dictate + Connect Kunden
+    - Korrigiert: Verbesserte Dynamic Type Unterstützung in der Diktatsteuerung
+    - Korrigiert: Unsichtbarer Schließen-Button in der Abo-Ansicht im Light Mode
+    - Korrigiert: "Unverschlüsselte Daten auf dem Gerät verbieten" sollte nur in der Stufe "Biometrische Verschlüsselung" aktiv sein
+
+Users may also like
+Select objects to compare
+Philips voice recorder
+OLYMPUS Dictation for iPhone
+Philips SpeechLive
+Dragon Anywhere
+dictate2us Record & Transcribe
+Dictation - Speech to text
+Alon Dictaphone-Voice Recorder
+Absolute Secure Access
+Voice to Text Dictation VoxRec
+Transcriber • Speech to Text
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.3.2
+    Current release
+    Nov 21, 2023
+    2.3.1
+    Nov 2, 2023
+    2.3
+    Oct 3, 2023
+    2.2.3
+    Aug 31, 2023
+    2.2.2
+    Aug 29, 2023
+    2.2.1
+    Aug 24, 2023
+    2.2
+    Aug 23, 2023
+    2.1.8
+    Jul 31, 2023
+    2.1.7
+    May 11, 2023
+    2.1.5
+    Mar 18, 2023
+    2.1.4
+    Mar 7, 2023
+    2.1.3
+    Feb 14, 2023
+    2.1.2
+    Feb 10, 2023
+    2.1.1
+    Feb 8, 2023
+    2.0.1
+    Aug 29, 2022
+    2.0.0
+    Aug 23, 2022
+    1.9.0
+    May 31, 2022
+    1.8.2
+    Dec 20, 2021
+    1.8.0
+    Nov 22, 2021
+    1.7.1
+    Oct 25, 2021
+    1.7.0
+    Oct 5, 2021
+    1.6.0
+    Sep 29, 2021
+    1.5.0
+    Aug 31, 2021
+    1.4.0
+    Jul 25, 2021
+    1.3.3
+    Jun 30, 2021
+    1.3.2
+    Jun 24, 2021
+    1.3.1
+    Jun 22, 2021
+    1.3
+    Jun 19, 2021
+    1.2
+    May 19, 2021
+    1.1.2
+    May 14, 2021
+    1.1
+    Apr 29, 2021
+    1.1.1
+    Apr 29, 2021
+    1.0.6
+    Apr 16, 2021
+    1.0.5
+    Apr 2, 2021
+    1.0.4
+    Mar 26, 2021
+    1.0.3
+    Mar 15, 2021
+    1.0.2
+    Mar 10, 2021
+    1.0.1
+    Mar 7, 2021
+
+See More
+Top In-App Purchases
+
+    Freischaltung 1 Monat
+    $4.99
+    Freischaltung 1 Jahr
+    $44.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Mar 2, 2021
+
+Worldwide Release Date
+    Mar 2, 2021
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    2.3.2
+
+Size
+    27.71 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Deutsch, Englisch, Französisch, Italienisch, Niederländisch, Spanisch
+
+Seller
+    JOTOMI GmbH
+
+Company HQ
+    Germany
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 15.5 oder neuer. Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    com.jotomi.dictate.ios
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 1474859080
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Dictate⁺ | data.ai

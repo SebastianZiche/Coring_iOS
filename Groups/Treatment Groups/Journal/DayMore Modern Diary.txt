@@ -1,0 +1,690 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+DayMore: Modern Diary
+DayMore Corp.Lifestyle (Applications)Free
+Alerts
+
+    DayMore Corp.
+
+    DayMore: Modern Diary
+    DayMore: Modern Diary
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+DayMore: Modern Diary
+Lifestyle (Applications)
+Free
+App Description
+DayMore:
+- Writing, Journal, Diary, Note, To-do ...
+- Very easy to use
+- Simple and beautiful design
+- Data auto sync and backup/restore
+
+Features:
+- Important/Inspiration/Task bullet
+- To-do, repeating to-do
+- Time/Notification
+- Adding photos, location, checklist
+- Rich Text Format (Bold, Underline, Color)
+- Light/Dark theme
+- Various themes
+- Layouts (Journal, Photo, To-do, Magazine, Map, Quote, Carousel)
+- Separators
+- Calendar (list, month)
+- Search/Filter
+- More (Summary, Photos, Location)
+- Weather/Temperature
+- Folder
+- Various fonts
+- Color Bar
+- Landscape (only iPad)
+- Passcode
+- iOS Calendar (Holidays, Birthdays)
+- Export (TXT & Photos, PDF)
+- iCloud sync and backup/restore
+
+
+Please contact. Thank you.
+email : support@daymore.com
+Ratings
+Displayed Avg Ratings
+4.77
+Total Displayed Ratings
+10.5k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.1.4 (Dec 15, 2023)
+    - iOS Calendar access permission check fixes
+Version 2.1.3 (Oct 14, 2023)
+    - bug fixes
+Version 2.1.2 (Feb 4, 2023)
+    - iCloud sync improvements
+    - iCloud backup file import bug fixed
+Version 2.1.1 (Oct 9, 2022)
+    - iOS16 compatible
+    - new theme, New Hope
+Version 2.1.0 (Sep 17, 2022)
+    - iOS16 compatible
+    - bug fixes
+Version 2.0.11 (Jan 8, 2022)
+    - iPad layout improvements
+    - minor bugs fixes
+Version 2.0.10 (Oct 23, 2021)
+    - Fix errors that may occur when saving data
+Version 2.0.9 (Oct 3, 2021)
+    - when app did enter background state, save the writing journal automatically
+    - cloud sync performance improvements
+    - bug fixes & performance improvements
+Version 2.0.8 (Sep 12, 2021)
+    - new feature, PDF Export
+    - fix crash that may occur when updating data
+Version 2.0.7 (Sep 3, 2021)
+    - fix crash that may occur when updating data
+Version 2.0.5 (Aug 21, 2021)
+    - chat layout display error in search
+    - performance improvements
+Version 2.0.4 (Aug 3, 2021)
+    - Chat Layout with Emoticon
+    - New Theme, July Sky & Release
+    - Bugs fixes
+Version 2.0.3 (Jul 20, 2021)
+    - supports iPad split screen
+    - checklist reorder bug fixes
+    - change to premium purchase subscription
+    - minor bug fixes
+Version 2.0.2 (Jun 29, 2021)
+    - monthly view
+    - iCloud sync improvements
+    - performance improvements
+    - bugs fixes
+Version 2.0.1 (Jun 22, 2021)
+    - bugs fixes
+Version 2.0.0 (Jun 19, 2021)
+    - folders renewal
+    - carousel layout
+    - end time
+    - context menu
+    - iPad multitasking
+    - performance improvements
+    - bugs fixes
+Version 1.9.1 (Jun 10, 2021)
+    - context menu bug fixes
+Version 1.8.1 (Mar 17, 2021)
+    - iOS14 Widget improvements
+    - bug fixes
+Version 1.8.0 (Mar 3, 2021)
+    - iOS14 Widget
+    - bug fixes
+Version 1.7.11 (Feb 1, 2021)
+    - perforamance improvements
+    - sync & backup/restore improvements
+Version 1.7.10 (Aug 5, 2020)
+    - new theme, Linen
+    - line spacing option
+    - monthly calendar improvements
+    - app db library update
+    - performance improvements
+Version 1.7.9 (Jul 12, 2020)
+    - iCloud sync error handling crash re-fixes
+    - Google Drive backup crash fixes
+    - Chinese translation improvements
+Version 1.7.8 (Jun 12, 2020)
+    - iCloud sync error handling crash re-fixes
+Version 1.7.7 (Jun 9, 2020)
+    - iCloud sync error handling crash re-fixes
+Version 1.7.6 (Jun 7, 2020)
+    - iCloud sync error handling crash re-fixes
+Version 1.7.5 (Jun 5, 2020)
+    - app database crash fixes
+    - iCloud sync error handling bug fixes
+Version 1.7.4 (Jun 4, 2020)
+    - iCloud sync crash re-fixes
+    - bug fixes
+Version 1.7.3 (Jun 3, 2020)
+    - iCloud synchronization error handling crash fixes
+Version 1.7.2 (Jun 2, 2020)
+    - use device light/dark mode option
+    - bold, underline, text color, text background tool bar
+    - bug fixes
+Version 1.7.1 (May 13, 2020)
+    - bug fixes
+    - performance improvement
+Version 1.7.0 (Apr 28, 2020)
+    - new feature, Term
+    - bug fixes
+Version 1.6.7 (Apr 7, 2020)
+    - today extension improvements
+    - add Chinese (simplified) font
+    - bug fixes, performance improvements
+Version 1.6.6 (Mar 30, 2020)
+    - new theme, Blue Wood
+    - iPad full screen option
+    - bug fixes
+Version 1.6.5 (Mar 16, 2020)
+    - new theme, Dark Chocolate
+    - rich text format (bold, underline, color...) bug fixes
+    - rich text format improvements
+Version 1.6.4 (Mar 11, 2020)
+    - new theme, Black
+    - text size option improvement
+    - color bar label bug fixes
+Version 1.6.3 (Mar 7, 2020)
+    - fixed a bug that does not display the checklist within the folder
+    - text background color
+Version 1.6.2 (Mar 6, 2020)
+    - a year ago, a post display
+    - change color bar order
+    - bug fixes
+Version 1.6.1 (Feb 26, 2020)
+    - fixed the entry deletion error in the folder
+Version 1.6.0 (Feb 25, 2020)
+    - new feature, Folder
+    - new theme, Lime
+    - bug fixes
+Version 1.5.4 (Feb 6, 2020)
+    - More(Summary, Photos) memory usage improvements
+    - iCloud full synchronization improvements
+    - data backup/restore improvements
+    - bug fixes
+Version 1.5.3 (Jan 30, 2020)
+    - Color Bar Labels
+    - performance improvements
+    - bug fixes
+Version 1.5.2 (Jan 21, 2020)
+    - rewarded premium
+    - bug fixes
+Version 1.5.1 (Jan 15, 2020)
+    - new layout, Quote
+    - move to the selected month (calendar)
+    - photos reorder
+    - bug fixes
+Version 1.5.0 (Jan 9, 2020)
+    - iPad screen layout improvements
+    - performance improvements
+    - bug fixes
+Version 1.4.8 (Dec 12, 2019)
+    - hashtags support
+    - search improvements
+    - bug fixes
+Version 1.4.7 (Dec 4, 2019)
+    - performance improvements
+    - bug fixes
+    - premium trial, 2 weeks -> a week
+Version 1.4.6 (Nov 27, 2019)
+    - color bar filtering by color
+    - app database related crash fixes
+Version 1.4.5 (Nov 23, 2019)
+    - app database related crash fixes
+    - text color bug fixes
+    - passcode unlock animation option
+Version 1.4.4 (Nov 20, 2019)
+    - new themes, Merry Xmas, Night Blues
+    - bug fixes
+Version 1.4.3 (Nov 12, 2019)
+    fixed text line truncation error in entry read/edit view
+Version 1.4.2 (Nov 11, 2019)
+    - supports Rich Text Format (bold, underline, color)
+    - haptic feedback
+    - bugs fixes
+Version 1.4.1 (Oct 31, 2019)
+    - Japanese
+    - gradient color bar
+    - bugs fixes
+Version 1.4.0 (Oct 24, 2019)
+    - new feature, More (Summary, Photos, Location)
+    - bug fixes
+Version 1.3.9 (Oct 16, 2019)
+    - new feature, color bar
+    - checklist bullet preference
+    - "All" filter
+    - improvements and bugs fixes
+Version 1.3.8 (Oct 8, 2019)
+    - fixed a crash related number of photos
+    - add iCloud full sync menu
+Version 1.3.7 (Oct 2, 2019)
+    - new feature, separators
+    - layout for each entry
+    - bug fixes
+Version 1.3.6 (Sep 27, 2019)
+    - notification feature
+    - iOS 13 support
+    - bug fixes
+Version 1.3.5 (Sep 11, 2019)
+    - new input type, checklist
+    - iCloud sync performance/speed improvements
+    - bug fixes
+Version 1.3.4 (Aug 27, 2019)
+    - fixed the crash that occurs when a user who does not have photo access shares an entry
+    - fixed errors when adding iCloud photos
+    - bug fixes
+Version 1.3.3 (Aug 24, 2019)
+    - photo quality preference
+    - iOS 13 support
+    - bug fixes
+Version 1.3.2 (Aug 18, 2019)
+    - search/filter improvement (weather, temperature)
+    - main screen date/weekday display improvement
+    - small performance improvement
+    - photo theme, added two photos
+    - google drive user authorization
+    - bugs fixes
+Version 1.3.1 (Aug 11, 2019)
+    - theme (Photo) with user photos
+    - insert time in text (long press time button)
+    - search improvements (include location)
+    - bugs fixes
+Version 1.3.0 (Aug 2, 2019)
+    - connect to iOS calendar (Holidays, Birthdays)
+    - ready for iOS 13
+    - bug fixes
+Version 1.2.8 (Jul 25, 2019)
+    - new theme, Photo
+    - minor bug fixes
+Version 1.2.7 (Jul 12, 2019)
+    - text color bug modified in dark theme
+Version 1.2.6 (Jul 10, 2019)
+    - text display bug fixes in entry edit view
+Version 1.2.5 (Jul 8, 2019)
+    - new layout, Map
+    - bug fixes
+Version 1.2.4 (Jun 29, 2019)
+    - add locations to diary entries
+    - multiple photos selection
+    - bug fixes
+    - performance improvements
+Version 1.2.3 (Jun 15, 2019)
+    - new theme, Cotton Candy
+    - recurring to-do advanced options
+    - bug fixes
+Version 1.2.2 (Jun 10, 2019)
+    - New layout, Magazine
+    - Change premium features
+    - Font removal feature
+    - Performance improvements
+Version 1.2.1 (Jun 1, 2019)
+    - Various fonts (Premium)
+    - bug fixes
+Version 1.2.0 (May 21, 2019)
+    - New feature, Summary
+    - bug fixes
+    - performance improvements
+Version 1.1.7 (May 15, 2019)
+    - Google Drive connection bug fixes
+Version 1.1.6 (May 13, 2019)
+    - new layout (To-do)
+    - new theme (Core Iron)
+    - bug fixes
+Version 1.1.5 (May 3, 2019)
+    - Layout (Photo)
+    - Chinese(Simplified) added
+    - bug fixes
+Version 1.1.4 (Apr 27, 2019)
+    - Export feature (TXT & Photos)
+    - More theme (Black Queen)
+    - bug fixes
+Version 1.1.3 (Apr 22, 2019)
+    - today extension "Today"
+    - added more themes (andante, lavender)
+    - number of text lines preference
+    - modified iCloud/backup entry time
+    - bug fixes
+Version 1.1.2 (Apr 16, 2019)
+    - bug fixes
+    - crash fixes
+    - iCloud sync error fixes
+Version 1.1.1 (Apr 12, 2019)
+    - new theme (Mediterranean)
+    - performance improvements
+    - bug/crash fixes
+Version 1.1.0 (Apr 6, 2019)
+    - more themes are available
+    - spacing for texts (3 steps)
+    - first day of the week options
+    - bugs fixed
+Version 1.0.3 (Apr 1, 2019)
+    - supports text size preference
+    - iCloud sync error handling improvement
+    - crashes fixed
+    - bugs fixed
+Version 1.0.2 (Mar 29, 2019)
+    - iCloud sync crash fixed
+    - bug fixed
+Version 1.0.1 (Mar 27, 2019)
+    - bug fixed
+    - iCloud sync error message optimizations
+Version 1.0.0 (Mar 25, 2019)
+
+Users may also like
+Select objects to compare
+MyToday Lite
+YOUKAMI
+Memong
+Moo日记 - 你的心情树洞
+PenCake - simple notes, diary
+DAILY NOTE - Day Note, Diary
+DayGram - One line a day diary
+투다 - 너와 함께 오늘을 만든다
+My Veggie Diary
+吾记 - 日记本,记事本
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+12 times
+on App Store category pages
+Versions
+
+    2.1.4
+    Current release
+    Dec 15, 2023
+    2.1.3
+    Oct 14, 2023
+    2.1.2
+    Feb 4, 2023
+    2.1.1
+    Oct 9, 2022
+    2.1.0
+    Sep 17, 2022
+    2.0.11
+    Jan 8, 2022
+    2.0.10
+    Oct 23, 2021
+    2.0.9
+    Oct 3, 2021
+    2.0.8
+    Sep 12, 2021
+    2.0.7
+    Sep 3, 2021
+    2.0.5
+    Aug 21, 2021
+    2.0.4
+    Aug 3, 2021
+    2.0.3
+    Jul 20, 2021
+    2.0.2
+    Jun 29, 2021
+    2.0.1
+    Jun 22, 2021
+    2.0.0
+    Jun 19, 2021
+    1.9.1
+    Jun 10, 2021
+    1.8.1
+    Mar 17, 2021
+    1.8.0
+    Mar 3, 2021
+    1.7.11
+    Feb 1, 2021
+    1.7.10
+    Aug 5, 2020
+    1.7.9
+    Jul 12, 2020
+    1.7.8
+    Jun 12, 2020
+    1.7.7
+    Jun 9, 2020
+    1.7.6
+    Jun 7, 2020
+    1.7.5
+    Jun 5, 2020
+    1.7.4
+    Jun 4, 2020
+    1.7.3
+    Jun 3, 2020
+    1.7.2
+    Jun 2, 2020
+    1.7.1
+    May 13, 2020
+    1.7.0
+    Apr 28, 2020
+    1.6.7
+    Apr 7, 2020
+    1.6.6
+    Mar 30, 2020
+    1.6.5
+    Mar 16, 2020
+    1.6.4
+    Mar 11, 2020
+    1.6.3
+    Mar 7, 2020
+    1.6.2
+    Mar 6, 2020
+    1.6.1
+    Feb 26, 2020
+    1.6.0
+    Feb 25, 2020
+    1.5.4
+    Feb 6, 2020
+    1.5.3
+    Jan 30, 2020
+    1.5.2
+    Jan 21, 2020
+    1.5.1
+    Jan 15, 2020
+    1.5.0
+    Jan 9, 2020
+    1.4.8
+    Dec 12, 2019
+    1.4.7
+    Dec 4, 2019
+    1.4.6
+    Nov 27, 2019
+    1.4.5
+    Nov 23, 2019
+    1.4.4
+    Nov 20, 2019
+    1.4.3
+    Nov 12, 2019
+    1.4.2
+    Nov 11, 2019
+    1.4.1
+    Oct 31, 2019
+    1.4.0
+    Oct 24, 2019
+    1.3.9
+    Oct 16, 2019
+    1.3.8
+    Oct 8, 2019
+    1.3.7
+    Oct 2, 2019
+    1.3.6
+    Sep 27, 2019
+    1.3.5
+    Sep 11, 2019
+    1.3.4
+    Aug 27, 2019
+    1.3.3
+    Aug 24, 2019
+    1.3.2
+    Aug 18, 2019
+    1.3.1
+    Aug 11, 2019
+    1.3.0
+    Aug 2, 2019
+    1.2.8
+    Jul 25, 2019
+    1.2.7
+    Jul 12, 2019
+    1.2.6
+    Jul 10, 2019
+    1.2.5
+    Jul 8, 2019
+    1.2.4
+    Jun 29, 2019
+    1.2.3
+    Jun 15, 2019
+    1.2.2
+    Jun 10, 2019
+    1.2.1
+    Jun 1, 2019
+    1.2.0
+    May 21, 2019
+    1.1.7
+    May 15, 2019
+    1.1.6
+    May 13, 2019
+    1.1.5
+    May 3, 2019
+    1.1.4
+    Apr 27, 2019
+    1.1.3
+    Apr 22, 2019
+    1.1.2
+    Apr 16, 2019
+    1.1.1
+    Apr 12, 2019
+    1.1.0
+    Apr 6, 2019
+    1.0.3
+    Apr 1, 2019
+    1.0.2
+    Mar 29, 2019
+    1.0.1
+    Mar 27, 2019
+    1.0.0
+    Mar 25, 2019
+
+See More
+Top In-App Purchases
+
+    DayMore Premium
+    $4.99
+    Premium (Monthly)
+    $1.99
+    Premium (Yearly)
+    $9.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Mar 25, 2019
+
+Worldwide Release Date
+    Mar 25, 2019
+
+Last Updated Time
+    Feb 25, 2024
+
+Version
+    2.1.4
+
+Size
+    63.47 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Chino simplificado, Coreano, Inglés, Japonés
+
+Seller
+    DayMore Corp.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 14.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    com.tokque.DayMore
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1457149632
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+DayMore: Modern Diary | data.ai

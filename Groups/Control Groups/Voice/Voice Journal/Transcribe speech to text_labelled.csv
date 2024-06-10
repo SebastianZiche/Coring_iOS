@@ -1,0 +1,19 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.5.4,2024-02-03,Fix known issues and improve user experience.,0,0,0,0,0,0,0,1
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.5.3,2023-09-12,Optimize user experience and fix known issues.,0,0,1,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.5.2,2023-08-03,1. Expand the language library for audio to text conversion 2. Fix known bugs.,0,1,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.5.1,2023-06-13,1. Increase the language of real time recording to text and audio to text. 2. Optimize the conversion of real time recordings to text for easier operation. 3. Solve existing problems and improve user experience.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.5.0,2023-04-04,1. Optimize the conversion of recordings into text and improve the accuracy of transcription 2. Add text to speech support adding background music multiple timbres to choose from and support intonation and speech speed adjustment 3. Add mixing audio splicing audio segmentation audio compression and stereo synthesis.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.4.1,2023-02-02,1. Optimize the real time conversion of recordings into text to improve the accuracy of transcription 2. Optimize audio editing.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.4.0,2022-11-29,1. Optimize real time recording to text and improve the voice transcription experience 2. Optimize user experience and fix known bugs,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.3.0,2022-09-25,1. Fix known bugs and improve user experience.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.2.3,2022-08-10,1. Fix known bugs and improve user experience.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.2.2,2022-06-20,1. Fix known bugs.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.2.1,2022-05-04,1. Fix known bugs.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.2.0,2022-04-02,1. Fix known bugs and improve user experience.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.1.6,2022-01-04,1. Large files can be split and compressed 2. Fix known bugs.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.1.5,2021-11-30,Fix known bugs.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.1.4,2021-11-25,Fix known bugs.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.1.2,2021-11-18,1.Fix known bugs.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.1.1,2021-11-08,1. Fix known bugs and improve user experience.,0,0,0,0,0,0,0,0
+1585139197,0,Transcribe speech to text,Productivity,2021-09-10,2021-09-10,80.15,4,0,0,1,1.1.0,2021-09-18,1. Fix known issues and optimize experience.,0,0,0,0,0,0,0,0

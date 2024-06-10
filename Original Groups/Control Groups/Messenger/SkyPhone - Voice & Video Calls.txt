@@ -1,0 +1,853 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+SkyPhone - Voice & Video Calls
+QuadSystem Co., Ltd.Social Networking (Applications)Free
+Alerts
+
+    QuadSystem Co., Ltd.
+
+    SkyPhone - Voice & Video Calls
+    SkyPhone - Voice & Video Calls
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+No data is available.
+Loading
+Loading lots of data (this could take a moment).
+SkyPhone - Voice & Video Calls
+No Registration Required
+Social Networking (Applications)
+Free
+App Description
+SkyPhone - Voice & Video Calls
+
+Over 7 Million Downloads!
+
+SkyPhone is a simple and free calling app.
+Just listen and you'll soon notice the high quality sound.
+
+You can start using the app without having to register your personal information.
+Enter your profile and share your SkyPhone number with friends and family.
+SkyPhone users can enjoy the clear, high-quality voice calls on SkyPhone for FREE.
+
+Simple UI !
+The Allow Contacts Only feature blocks calls from unregistered contacts.
+You can connect only to those who you want to. Use SkyPhone as a dedicated phone app to make calls to your loved ones.
+
+The Noise Cancel Feature allows you to hear the other person more clearly and talk without any problems even if you're in a large crowd of people.
+If you set the Call Sound Quality setting to Low, you can enjoy talking for a long time even if you are in an area with a weak signal or your data speed is reduced.
+
+[What's outstanding?]
+- Clear voice call with a high quality sound
+- No registration is required
+
+[Main Features]
+- Free voice calls
+- Free video calls
+- Allow Contacts Only function
+- Do Not Disturb function
+- What's New function
+- SkyPhone Number Transfer function
+- Incoming and Outgoing Call History
+- Contact List
+- Mute, speaker and noise canceling function
+- Set your favorite ringtone
+
+Click the URL below for the FAQ of SkyPhone.
+https://www.skyphone.jp/en/support
+
++++++++++++++++++
+Check our updates such as our present campaign info and release info of new application version on our blog.
+https://www.skyphone.jp/blog/en
++++++++++++++++++
+
+
+[Requirement]
+- iOS 11.0 or later
+
+[Notice]
+- Voice calls with SkyPhone are only available between SkyPhone users.
+- Data communication takes place in the use of the service. You are responsible for the data charges.
+- Please refer to the Terms of Use for information about the use of the service.
+- We don't guarantee that the app works correctly in older verisons than the latest one. Therefore, you might find a problem in older versions depending on your device.
+
+[Contact Us]
+https://www.skyphone.jp/en/form/inquiry
+Ratings
+Displayed Avg Ratings
+3.56
+Total Displayed Ratings
+1.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.8.2 (Jan 25, 2024)
+    - Bug fixes.
+Version 1.8.0 (Dec 27, 2023)
+    - We have added messaging functionality!
+Version 1.7.36 (Oct 16, 2023)
+    - At the end of calls, interstitial ads will now be displayed.
+Version 1.7.35 (Sep 29, 2023)
+    - We have addressed the issue of the app crashing and not launching on iOS 12.
+Version 1.7.34 (Sep 25, 2023)
+    - We have adjusted the ad display on a screen.
+    - Bug fixes.
+    - This version raises the minimum operating requirement for the app to iOS 12 and later. iOS 12 or later versions are now required.
+Version 1.7.33 (Sep 19, 2023)
+    - We have adjusted the ad display on a screen.
+Version 1.7.32 (Sep 7, 2023)
+    - We have adjusted the ad display on a screen.
+Version 1.7.31 (Aug 28, 2023)
+    - Added advertisements to the history screen.
+Version 1.7.30 (Aug 9, 2023)
+    - We have adjusted the ads to be displayed more seamlessly.
+Version 1.7.29 (Aug 1, 2023)
+    - Implemented improvements related to advertisements.
+    - Bug fixes.
+Version 1.7.28 (Jul 18, 2023)
+    - We have adjusted the ad display on a screen.
+Version 1.7.27 (Jul 3, 2023)
+    - We have improved the app's advertising-related processes to enhance user privacy and data protection.
+Version 1.7.26 (Jun 14, 2023)
+    - Bug fixes.
+Version 1.7.25 (Jun 12, 2023)
+    - We will now be displaying advertisements within the app. To remove ads, please subscribe to our subscription service. Thank you for your understanding and support.
+Version 1.7.24 (Apr 4, 2023)
+    - From this release, iOS 11.0 or later is required. To take advantage of all the new and improved features, please update to the latest version.
+Version 1.7.23 (Dec 5, 2022)
+    - Bug fixes.
+Version 1.7.22 (Nov 1, 2022)
+    -Fixed the problem where the other person's image was not displayed during a video call on iOS 16.1.
+Version 1.7.21 (Jun 29, 2022)
+    -Added a new What's New. 
+Version 1.7.20 (Mar 28, 2022)
+    - Improved the stability of video calls.
+Version 1.7.19 (Feb 28, 2022)
+    - Bug fixes.
+Version 1.7.18 (Nov 8, 2021)
+    - Fixed the problem where the call was cut when you went to the home screen during a video call in iOS 15. 
+Version 1.7.17 (Oct 18, 2021)
+    - Bug fixes.
+Version 1.7.16 (Oct 6, 2021)
+    - Some UI changes.
+Version 1.7.15 (Sep 13, 2021)
+    - The app now supports VoiceOver.
+
+    - The app now supports Siri Shortcuts.
+
+    - Introduced a new specification for proximity sensor that disables the sensor while the speaker is enabled during a call. 
+Version 1.7.14 (Jun 14, 2021)
+    - Fixed the problem where the screen didn't change after the number transfer completed.
+Version 1.7.13 (May 24, 2021)
+    - Bug fixes.
+Version 1.7.12 (Feb 8, 2021)
+    -Fixed the problem where the app crashed when opening the app on some devices.
+Version 1.7.11 (Jan 18, 2021)
+    - Bug fixes.
+Version 1.7.10 (Nov 30, 2020)
+    - The "Integrated Calling" title in the settings has changed to "Integrated Call History" in iOS 13 or later.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.7.9 (Oct 19, 2020)
+    - Fixed the problem that the call quality indicator was not displayed during a call.
+Version 1.7.8 (Oct 5, 2020)
+    - Some UI changes.
+    - Bug fixes.
+Version 1.7.7 (Sep 18, 2020)
+    - The default setting in the Advanced Settings is changed.
+    - Bug fixes.
+Version 1.7.6 (Aug 3, 2020)
+    - Applications for refunding/exchanging points due to the Point-Paid Calls termination are now closed.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.7.5 (Jul 6, 2020)
+    - Bug fixes.
+Version 1.7.4 (Jun 17, 2020)
+    - Bug fixes.
+Version 1.7.3 (Jun 9, 2020)
+    - Bug fixes.
+Version 1.7.2 (May 27, 2020)
+    - Bug fixes.
+Version 1.7.1 (May 20, 2020)
+    - Bug fixes.
+Version 1.7.0 (May 18, 2020)
+    - The Point-Paid Calls service shut down and application for refunding/exchanging your points is now open.
+    - Dark mode is now available (in iOS 13 or later.)
+    - Renewed the Integrated Calling setting (in iOS 13 or later.)
+    - "Advanced Settings" is added to the app settings.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.37 (Nov 12, 2019)
+    - Bug fixes.
+Version 1.6.36 (Oct 23, 2019)
+    - Bug fixes.
+Version 1.6.35 (Sep 30, 2019)
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.34 (Sep 10, 2019)
+    - Some UI changes.
+
+    - Bug fixes.
+
+    - Improved stability.
+Version 1.6.33 (Aug 26, 2019)
+    - Improved stability.
+Version 1.6.32 (Aug 5, 2019)
+    - Improved stability.
+Version 1.6.31 (Jul 23, 2019)
+    - Improved stability.
+Version 1.6.30 (Jul 9, 2019)
+    - Fixed minor bugs.
+Version 1.6.29 (Jul 8, 2019)
+    - Improved stability.
+Version 1.6.28 (Jun 26, 2019)
+    - Bug fixes.
+Version 1.6.27 (Jun 24, 2019)
+    - You can now export SkyPhone contacts from the Transfer screen.
+    - Changed the supported version to iOS 9.0 or later.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.26 (Jun 3, 2019)
+    - Bug fixes.
+Version 1.6.25 (May 29, 2019)
+    - Bug fixes.
+Version 1.6.24 (May 27, 2019)
+    - You can now exchange your earned points for cash.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.23 (Apr 11, 2019)
+    - Fixed the problem where the app crashed when you tried to open it in some devices.
+Version 1.6.22 (Apr 10, 2019)
+    - Bug fixes.
+Version 1.6.21 (Apr 3, 2019)
+    - Now you can check What's New on the SkyPhone app.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.20 (Feb 25, 2019)
+    - Added a new function "Find someone to talk to" to the Point-Paid Calls.
+    - Now Master profile for Point-Paid Calls can be set.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.19 (Feb 4, 2019)
+    - Bug fixes.
+Version 1.6.18 (Jan 28, 2019)
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.17 (Dec 17, 2018)
+    - Some UI changes.
+    - Improved stability.
+    - Bug fixes.
+Version 1.6.16 (Dec 5, 2018)
+    - Bug fixes.
+Version 1.6.15 (Dec 3, 2018)
+    - Improved stability for video calls and making/receiving calls.
+    - Bug fixes.
+Version 1.6.14 (Nov 15, 2018)
+    - Added Amazon Gift Card and Company Reward as exchange options in Point-Paid Calls.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.13 (Sep 11, 2018)
+    - Bug fixes.
+Version 1.6.12 (Sep 5, 2018)
+    - Bug fixes.
+Version 1.6.10 (Jul 23, 2018)
+    - A new feature, Point-Paid Calls is added to the app.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.9 (Jun 18, 2018)
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.8 (May 30, 2018)
+    - You can now transfer your SkyPhone number to your new device.
+    - Some UI changes.
+    - Improved stability.
+    - Bug fixes.
+Version 1.6.7 (Apr 16, 2018)
+    - Improved stability.
+    - Bug fixes.
+Version 1.6.6 (Mar 27, 2018)
+    - Improved stability.
+    - Bug fixes.
+Version 1.6.5 (Mar 12, 2018)
+    - Fixed problems relating to receiving and answering incoming calls.
+    - Some UI changes.
+    - Minor bug fixes.
+Version 1.6.4 (Feb 26, 2018)
+    - The call duration is now displayed in the history info.
+    - You can now edit and save a phonetic first and last name in the English version.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.6.3 (Feb 7, 2018)
+    - Bug fixes.
+Version 1.6.2 (Jan 29, 2018)
+    - A video call between the app users is now available.
+    - Bug fixes.
+Version 1.6.1 (Dec 20, 2017)
+    - Bug fixes.
+Version 1.6.0 (Dec 12, 2017)
+    - Now you can redial easily on the keypad screen.
+    - Some UI changes.
+    - Bug fixes.
+Version 1.5.10 (Oct 30, 2017)
+    - Now ready for iPhone X.
+    - Bug fixes.
+Version 1.5.9 (Aug 31, 2017)
+    - Bug fixes.
+Version 1.5.8 (Aug 2, 2017)
+    - Some UI changes.
+Version 1.5.7 (Jun 29, 2017)
+    - Bug fixes.
+Version 1.5.6 (May 29, 2017)
+    - Your profile name is now displayed with your number.
+    - Bug fixes.
+Version 1.5.5 (Apr 27, 2017)
+    - Some sound changes including a ringing tone.
+    - Now you can call/delete a contact by swiping on the contact displayed in the History and Contact list.
+    - The URL for your profile now includes your name and the name can be saved automatically to the contact info.
+    - The "Integrated Calling" is now turned on by default.
+    - Bug fixes.
+Version 1.5.4 (Mar 27, 2017)
+    - The History now displays up to 1000 of your calls.
+    - Some UI changes.
+Version 1.5.2 (Feb 28, 2017)
+    - Changed some User Interfaces.
+    - Improved stability and bug fixes.
+Version 1.5.1 (Feb 1, 2017)
+    - Improved stability and bug fixes.
+Version 1.5.0 (Jan 31, 2017)
+    - Changed some User Interfaces.
+    - Improved stability and bug fixes.
+Version 1.4.9 (Jan 5, 2017)
+    - Improved stability and bug fixes.
+Version 1.4.8 (Dec 21, 2016)
+    - Added the "Integrated Calling" setting.
+    Note: If you turn on the Integrated Calling, you can answer SkyPhone calls in the same way as you do iPhone calls. (It's possible in iOS 10 or later.)   
+    - If someone calls you or you call someone repeatedly in a short time, you can see the call logs all together in the contact's history info.
+    - Changed some User Interfaces.
+    - Improved stability and bug fixes.
+Version 1.4.7 (Nov 30, 2016)
+    - Added the "Allow Contacts Only" mode which allows you to only receive calls from your SkyPhone Contacts list.
+    - Incoming calls you receive while Do Not Disturb is on are now saved in the History.
+    - Changed some User Interfaces.
+    - Improved stability and bug fixes.
+Version 1.4.6 (Oct 20, 2016)
+    - Changed some User Interfaces and bug fixes.
+Version 1.4.5 (Oct 19, 2016)
+    - Changed some User Interfaces and bug fixes.
+Version 1.4.4 (Jul 25, 2016)
+    - Changed some User Interfaces.
+    - Improved stability and bug fixes.
+Version 1.4.3 (Jun 27, 2016)
+    - Added "Standard" to the Call Sound Quality settings.
+    - Added a function to share your profile with SNS apps and others.
+    - When you open the app, you'll get the open tabs from your last session.
+    - Improved stability and bug fixes.
+Version 1.4.2 (Apr 27, 2016)
+    - A ringback tone starts ringing sooner even if the other person hasn't launched the app.
+    - Improved stability and bug fixes.
+Version 1.4.1 (Apr 4, 2016)
+    - Improved stability and bug fixes.
+Version 1.4.0 (Mar 28, 2016)
+    - A ringback tone starts ringing sooner when you make a call.
+    - You can start talking sooner when you answer a call.
+    - SkyPhone is now available on iPad.
+    - Improved stability and bug fixes.
+Version 1.3.8 (Mar 7, 2016)
+    - Added support for universal links. For details, please visit our official blog post.
+    (http://www.skyphone.jp/blog/en/325/)
+    - Changed some User Interfaces.
+    - Improved stability and bug fixes.
+Version 1.3.7 (Dec 21, 2015)
+    - Now you can call 050 numbers associated with SkyPhone supported by FC2.
+    - Changed some User Interfaces.
+    - Now you can save a SkyPhone number in Contacts using a URL scheme (skyphone://[skyphone number]).
+Version 1.3.6 (Nov 24, 2015)
+    - Fixed the problem in which you couldn't make calls if the app was open for a long time.
+    - Changed some User Interfaces.
+Version 1.3.5 (Oct 29, 2015)
+    - Added "Volume Up" button in the calling screen to increase incoming call volume.
+    - Changed some User Interfaces.
+Version 1.3.4 (Sep 28, 2015)
+    - Now you can call verified mobile phone numbers associated with SkyPhone supported by FC2.
+    ( You can call neither landline numbers nor unverified mobile phone numbers. You can make calls with SkyPhone users only. )
+Version 1.3.3 (Sep 18, 2015)
+    - Improved stability and bug fixes.
+Version 1.3.2 (Jul 27, 2015)
+    - Now you can make outgoing calls using a URL scheme (skyphone://[skyphone number]).
+    - Stability improvements while calling.
+    - Changed some User Interfaces.
+Version 1.3.1 (Jun 1, 2015)
+    - SkyPhone numbers have changed from 12 to 8 digits.
+    - Added "Call quality" in the Settings screen and now you can set the sound quality in call as poor/high.
+    - Added a function to send your SkyPhone number via email in the Profile screen.
+    - Now you can switch to the speaker phone while calling.
+    - Changed some User Interfaces.
+Version 1.3.0 (May 11, 2015)
+    - Some user interfaces are changed. The Answer button is now displayed above Memo in 3.5 inch devices including iPhone 4s and so on.
+    - Call stability improvements in the low bandwidth mode.
+Version 1.2.9 (Feb 27, 2015)
+    - Change the required environment to iOS7.1 or later.
+    - Change the behavior of an incoming call, it was to enable response from the push notification.
+Version 1.2.6 (Dec 17, 2014)
+    - Add the import/export function of SkyPhone contact.
+Version 1.2.5 (Nov 4, 2014)
+    - Functional improvement and bug fixes.
+Version 1.2.3 (Sep 16, 2014)
+    - Now, you can copy your number by long pressing it.
+    - You can add info saved in History to Contacts in a more simple way.
+    - Bug fixes.
+Version 1.2.2 (Aug 4, 2014)
+    - Added the Low-Speed Connection mode. Turning on that mode in the Settings, the sound quality deteriorates but the stability improves.
+    - Bug fixes.
+Version 1.2.1 (Jul 22, 2014)
+    - Improved ease of push buttons on the keypad screen.
+
+    - Add a phone number copy and paste function on the key pad screen.(long tap)
+Version 1.2.0 (Jul 10, 2014)
+    - Redesign the user interface.
+    - Improve the stability of voice communication.
+    - Disable the auto-lock during a call.
+Version 1.1.1 (May 30, 2014)
+    - Fix of the name display problem.
+Version 1.1.0 (May 27, 2014)
+    - Add the noise canceling function during a call.
+    - Split in the first name and last name the name input field.
+    - Bug fixes.
+Version 1.0.7 (May 7, 2014)
+    - Bug fixes of Push notification.
+
+    - Add the Push notification ON / OFF setting.
+Version 1.0.6 (Apr 24, 2014)
+    - Add a new feature of returning to the List from History and Contact information with a right swipe gesture.
+    - Improved stability in low speed communication lines.
+    - Bug Fixes.
+Version 1.0.5 (Mar 26, 2014)
+    - Improved stability.
+Version 1.0.4 (Mar 12, 2014)
+    - Able to display your name in a push notification message to your call partners.
+    - Updated the latency graph with a new design and a ON/OFF switch to display.
+Version 1.0.3 (Mar 5, 2014)
+    - Add a proximity sensor to skip accidental touchscreen taps during a call.
+    - Add a latency time display to indicate a communication state.
+    - Add new ringtones.
+    - Bug fixes.
+Version 1.0.2 (Feb 19, 2014)
+    - You can set a ringtone and vibration to play together.
+
+    - Silent mode is available.
+
+    - Shorter ringtone duration time in push notification.
+
+    - Improved stability in receiving calls.
+
+    - Bug fixes.
+Version 1.0.1 (Feb 9, 2014)
+    - Add vibrate to ringtone setting.
+
+    - Improved stability and bug fixes.
+Version 1.0.0 (Jan 31, 2014)
+Version 1.5.3 (Jan 31, 2014)
+    - Bug fixes.
+
+Users may also like
+Select objects to compare
+Parlor: The Social Talking App
+WhosHere
+Jodel: Hyperlocal Community
+WePhone: 2nd Phone &WiFi Calls
+twinme private messenger
+Insta Caller - Calls & Texting
+WeTalk- WiFi Calls & 2nd Phone
+LivePhone Calling App
+Second Line Calling/Texting
+International calling - Yolla
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+N/A
+Store Revenue Rank
+N/A
+Loading
+Loading lots of data (this could take a moment).
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    1.8.2
+    Current release
+    Jan 25, 2024
+    1.8.0
+    Dec 27, 2023
+    1.7.36
+    Oct 16, 2023
+    1.7.35
+    Sep 29, 2023
+    1.7.34
+    Sep 25, 2023
+    1.7.33
+    Sep 19, 2023
+    1.7.32
+    Sep 7, 2023
+    1.7.31
+    Aug 28, 2023
+    1.7.30
+    Aug 9, 2023
+    1.7.29
+    Aug 1, 2023
+    1.7.28
+    Jul 18, 2023
+    1.7.27
+    Jul 3, 2023
+    1.7.26
+    Jun 14, 2023
+    1.7.25
+    Jun 12, 2023
+    1.7.24
+    Apr 4, 2023
+    1.7.23
+    Dec 5, 2022
+    1.7.22
+    Nov 1, 2022
+    1.7.21
+    Jun 29, 2022
+    1.7.20
+    Mar 28, 2022
+    1.7.19
+    Feb 28, 2022
+    1.7.18
+    Nov 8, 2021
+    1.7.17
+    Oct 18, 2021
+    1.7.16
+    Oct 6, 2021
+    1.7.15
+    Sep 13, 2021
+    1.7.14
+    Jun 14, 2021
+    1.7.13
+    May 24, 2021
+    1.7.12
+    Feb 8, 2021
+    1.7.11
+    Jan 18, 2021
+    1.7.10
+    Nov 30, 2020
+    1.7.9
+    Oct 19, 2020
+    1.7.8
+    Oct 5, 2020
+    1.7.7
+    Sep 18, 2020
+    1.7.6
+    Aug 3, 2020
+    1.7.5
+    Jul 6, 2020
+    1.7.4
+    Jun 17, 2020
+    1.7.3
+    Jun 9, 2020
+    1.7.2
+    May 27, 2020
+    1.7.1
+    May 20, 2020
+    1.7.0
+    May 18, 2020
+    1.6.37
+    Nov 12, 2019
+    1.6.36
+    Oct 23, 2019
+    1.6.35
+    Sep 30, 2019
+    1.6.34
+    Sep 10, 2019
+    1.6.33
+    Aug 26, 2019
+    1.6.32
+    Aug 5, 2019
+    1.6.31
+    Jul 23, 2019
+    1.6.30
+    Jul 9, 2019
+    1.6.29
+    Jul 8, 2019
+    1.6.28
+    Jun 26, 2019
+    1.6.27
+    Jun 24, 2019
+    1.6.26
+    Jun 3, 2019
+    1.6.25
+    May 29, 2019
+    1.6.24
+    May 27, 2019
+    1.6.23
+    Apr 11, 2019
+    1.6.22
+    Apr 10, 2019
+    1.6.21
+    Apr 3, 2019
+    1.6.20
+    Feb 25, 2019
+    1.6.19
+    Feb 4, 2019
+    1.6.18
+    Jan 28, 2019
+    1.6.17
+    Dec 17, 2018
+    1.6.16
+    Dec 5, 2018
+    1.6.15
+    Dec 3, 2018
+    1.6.14
+    Nov 15, 2018
+    1.6.13
+    Sep 11, 2018
+    1.6.12
+    Sep 5, 2018
+    1.6.10
+    Jul 23, 2018
+    1.6.9
+    Jun 18, 2018
+    1.6.8
+    May 30, 2018
+    1.6.7
+    Apr 16, 2018
+    1.6.6
+    Mar 27, 2018
+    1.6.5
+    Mar 12, 2018
+    1.6.4
+    Feb 26, 2018
+    1.6.3
+    Feb 7, 2018
+    1.6.2
+    Jan 29, 2018
+    1.6.1
+    Dec 20, 2017
+    1.6.0
+    Dec 12, 2017
+    1.5.10
+    Oct 30, 2017
+    1.5.9
+    Aug 31, 2017
+    1.5.8
+    Aug 2, 2017
+    1.5.7
+    Jun 29, 2017
+    1.5.6
+    May 29, 2017
+    1.5.5
+    Apr 27, 2017
+    1.5.4
+    Mar 27, 2017
+    1.5.2
+    Feb 28, 2017
+    1.5.1
+    Feb 1, 2017
+    1.5.0
+    Jan 31, 2017
+    1.4.9
+    Jan 5, 2017
+    1.4.8
+    Dec 21, 2016
+    1.4.7
+    Nov 30, 2016
+    1.4.6
+    Oct 20, 2016
+    1.4.5
+    Oct 19, 2016
+    1.4.4
+    Jul 25, 2016
+    1.4.3
+    Jun 27, 2016
+    1.4.2
+    Apr 27, 2016
+    1.4.1
+    Apr 4, 2016
+    1.4.0
+    Mar 28, 2016
+    1.3.8
+    Mar 7, 2016
+    1.3.7
+    Dec 21, 2015
+    1.3.6
+    Nov 24, 2015
+    1.3.5
+    Oct 29, 2015
+    1.3.4
+    Sep 28, 2015
+    1.3.3
+    Sep 18, 2015
+    1.3.2
+    Jul 27, 2015
+    1.3.1
+    Jun 1, 2015
+    1.3.0
+    May 11, 2015
+    1.2.9
+    Feb 27, 2015
+    1.2.6
+    Dec 17, 2014
+    1.2.5
+    Nov 4, 2014
+    1.2.3
+    Sep 16, 2014
+    1.2.2
+    Aug 4, 2014
+    1.2.1
+    Jul 22, 2014
+    1.2.0
+    Jul 10, 2014
+    1.1.1
+    May 30, 2014
+    1.1.0
+    May 27, 2014
+    1.0.7
+    May 7, 2014
+    1.0.6
+    Apr 24, 2014
+    1.0.5
+    Mar 26, 2014
+    1.0.4
+    Mar 12, 2014
+    1.0.3
+    Mar 5, 2014
+    1.0.2
+    Feb 19, 2014
+    1.0.1
+    Feb 9, 2014
+    1.0.0
+    Jan 31, 2014
+    1.5.3
+    Jan 31, 2014
+
+See More
+Top In-App Purchases
+
+    Ad-Free
+    $1.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Jan 31, 2014
+
+Worldwide Release Date
+    Jan 31, 2014
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    1.8.2
+
+Size
+    64.45 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Japanese
+
+Seller
+    QuadSystem Co., Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    jp.co.quadsystem.VoIP01Distribution
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 789570237
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+SkyPhone - Voice & Video Calls | data.ai

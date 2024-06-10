@@ -1,0 +1,385 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Deer - Todo & MindMap & Note
+佳文 潘Productivity (Applications)Free
+Alerts
+
+    佳文 潘
+
+    Deer - Todo & MindMap & Note
+    Deer - Todo & MindMap & Note
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Deer - Todo & MindMap & Note
+Productivity (Applications)
+Free
+App Description
+Deer is a note/to-do application that structured fragmented information. Convert whimsical ideas, class notes, and to-do items into mind maps and checklists.
+
+"Big things turn small, small things tick off"
+First set a big goal, then break it into several small goals, and complete them one by one. 'Dear' supports splitting 1000 levels of subtasks. You can easily split the task and focus on completing the split subtasks.
+
+"A list, but not simple"
+Don't look at the list with only one column, click on each item and you will find that your thoughts will become very clear. Because the details page shows all the sub-tasks you split before, including all the parent tasks. You can modify their content and structure at will, as long as they can fit your mind.
+
+"Simple and complex coexist"
+You can completely treat a list as a list, record the information and view the information according to your habits; you can also use it as your information collector, split and summarize the information, sort it out and store it in it clearly, when you want If you want to focus only on the details, you can use the powerful filtering and sorting functions of "Task Flow" to put it at the top of the list (it will also appear at the top of the widget).
+
+If you need support, or want to give your valuable suggestions, please let us know by email: todo-color@outlook.com
+
+If you choose the 'Subscription' purchase model, before subscribing, please know:
+• Subscription Monthly users:
+each subscription period is 1 month.
+• Subscription Annual users:
+Each subscription period is 1 year.
+• In the purchase window of 'Dear', the latest subscription price will be displayed in real-time. After the payment is confirmed, or after the free trial period (if any), the iTunes account will be charged.
+• Subscription automatically renews unless auto-renew is turned off 24 hours before the current subscription period.
+• Account will be renewed and deducted within 24 hours before the end of the current subscription period, the renewal amount is the same as the previous subscription amount.
+• The user can manage the subscription service by himself, the auto-renewal service can be turned off in the user’s account settings after purchase.
+
+Terms of Use:
+Before using the 'Subscription' service provided by the 'Dear', please read the following terms carefully:
+1, Subscription model
+This service is a subscription-based paid service, which means you Advance subscription fees for future subscription use. Currently, you can choose to use the service on a monthly or yearly basis. At the end of each subscription cycle, your subscription will automatically renew by default, unless you cancel the automatic renewal yourself, or we cancel the service.
+2, Fees
+Current standard service prices may change during the promotion period. When price adjustments occur, new fees will occur during your next subscription cycle.
+3, Refund
+The current subscription fee will not be refunded. Please be sure to cancel the service yourself before the trial ends.
+4, Cancel subscription
+If you want to cancel the renewal, please cancel at least 24 hours in advance. You can cancel by the following methods: open the system settings-click Apple ID-click subscribe-select 'Dear', cancel the subscription
+5, Other
+the same Apple ID can only open a subscription for 'Dear'
+Terms of use link:
+https://shimo.im/docs/gwWWgdpqywTVvtqV/
+Privacy Policy link:
+https://shimo.im/docs/twqKDpdyWtc8WXkR/
+Ratings
+Displayed Avg Ratings
+4.83
+Total Displayed Ratings
+6
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.2.9 (Aug 21, 2021)
+    1. Optimize the style of the root node of the mind map
+    2. Fix the problem of wrong sorting
+Version 1.2.8 (Aug 16, 2021)
+    1. The mind map supports the left node
+    2. Optimize the highlighting effect of rich text
+    3. Optimize the text effect of the mind map
+Version 1.2.7 (Aug 13, 2021)
+    1. The rich text title is displayed in the mind map
+    2. Improve data stability
+    3. Optimize node selection animation
+    4. Fix some logic errors when task flow is dragged and dropped
+Version 1.2.6 (Aug 12, 2021)
+    1. Rich text is displayed in the mind map
+    2. Improve data stability
+    3. Fix some problems with widget
+Version 1.2.5 (Jul 22, 2021)
+    Fix the problem of iCloud sync error
+    Optimize localized storage
+Version 1.2.4 (Jul 20, 2021)
+    Added the ability to export the mind map to PNG or PDF.
+    Optimized the animation of dragging nodes in the mind map.
+Version 1.2.3 (Jul 16, 2021)
+    Optimized the animation of the mind map page
+    Optimized the synchronization logic of iCloud
+    Fixed the problem of cutting failure on Mac
+    Fixed the problem of pressing the Enter key to wrap when selecting text in Chinese, Japanese, Korean on Mac
+    Fixed the problem of inaccurate rich text status on Mac
+Version 1.2.2 (Jul 8, 2021)
+    1. Newly added shortcut key function to support fast rich text editing and switching.
+    2. Added markdown syntax support.
+    3. Fix the problem of errors when inputting Chinese, Japanese and Korean characters when selecting the text.
+    4. Optimize the settings page.
+Version 1.2.1 (Jul 3, 2021)
+    Fix the problem that may cause a crash when editing
+Version 1.2 (Jul 1, 2021)
+    Add rich text function to the details page
+Version 1.1.5 (Apr 6, 2021)
+    This version fixes some problems:
+    1. Fixed the problem of local database cleanup logic error
+    2. Fixed the crash that may be caused by an empty string in the title
+    3. Fixed the performance problem caused by the title being too long
+    4. Optimized the sliding performance of the mobile terminal
+Version 1.1.4 (Mar 7, 2021)
+    Add mind map editing mode to the details page
+Version 1.1.3 (Feb 24, 2021)
+    1. Add catalog entry in the sidebar
+    2. Add a mode to browse the list
+    3. Increase of the total number of nodes
+    4. Support import and export text text
+    5. The details page can complete the node
+Version 1.1.1 (Jan 30, 2021)
+    1. The details page supports free ordering of tasks
+    2. After the root task is completed, it can be automatically moved to the archive at a set time
+    3. The Mac version can be switched to MenuBar APP 
+Version 1.0.16 (Jan 4, 2021)
+    1, Added three sorts 「Default」, 「Dated Modified」 and 「Dated Created」
+    2, In order to be compatible with different sorts, the method of adding new tasks has been adjusted
+Version 1.0.15 (Dec 18, 2020)
+    1, Optimize the judgment time of long press
+    2, iCloud synchronization logic optimization
+Version 1.0.14 (Dec 10, 2020)
+    Widget for iOS14 and macOS Big Sur
+Version 1.0.13 (Dec 3, 2020)
+    1. Fixed the logic error of the Repeat module
+    2. Fixed the problem of data synchronization
+    3. Optimized the process of adding a task
+    4. Optimized the animation when sorting
+Version 1.0.12 (Nov 28, 2020)
+    1. Adjusted the effect of sliding gestures
+    2. Optimized some controls
+Version 1.0.10 (Nov 15, 2020)
+    1. Adapt to iOS14 and macOS Big Sur
+    2. Remove the sequence association between the main task and the subtask
+Version 1.0.9 (Jun 14, 2020)
+    "New" can set the specific reminder time of the task every day
+    "Optimization" UI and experience of repeating day controls
+    "New" can search all tasks in the task stream and top it with one click
+Version 1.0.8 (Jun 2, 2020)
+    "New" can easily set the repetition frequency of the task
+    "Fix" the color of the iPhone status bar in night mode
+Version 1.0.7 (May 24, 2020)
+    "Optimization": redesigned the drag event, you can drag the task to any node of the task tree
+    "Optimization": some events animation
+Version 1.0.6 (May 22, 2020)
+    "Optimization": removes the member limitation of the "Archive" function and more clearly displays the member function
+    "Optimization": toolbar layout adjustment
+Version 1.0.4 (May 16, 2020)
+    "New": todocolor now supports iPad and Mac
+Version 1.0.3 (May 11, 2020)
+    New: widget, which can process the list without opening the app
+    New: task to the top, put todo you want to complete immediately at the top
+Version 1.0.2 (May 9, 2020)
+    New: share app, go to App Store for evaluation and suggestions
+    Optimization: adjusts the animation duration when the swipe is released
+    Optimization: adjust the navigation bar title
+    Fix: user's billing request not found
+Version 1.0.1 (May 8, 2020)
+    Repair delays the time for members to obtain bills
+    Optimization guides copy adjustment
+Version 1.0 (May 7, 2020)
+
+Users may also like
+Select objects to compare
+Mind mapping - Starlink
+Escape - Mind Map & Outline
+mindlib (Mindmap, Notizen)
+Inclr: Mindmap Notes Organizer
+Mind Map - HoodleMind
+3A 思维导图 - 大纲笔记、思维导图、多维表格
+MindThread
+WriteMapper 2: Mind Map (iPad)
+NodeNote-流程规划与思维笔记
+Mindbox: 全平台 All in one 资料收藏夹
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Calendar & Reminders
+Calendar & Reminders
+Apps that can be used as a calendar or reminder so that users would not forget their schedules.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.2.9
+    Current release
+    Aug 21, 2021
+    1.2.8
+    Aug 16, 2021
+    1.2.7
+    Aug 13, 2021
+    1.2.6
+    Aug 12, 2021
+    1.2.5
+    Jul 22, 2021
+    1.2.4
+    Jul 20, 2021
+    1.2.3
+    Jul 16, 2021
+    1.2.2
+    Jul 8, 2021
+    1.2.1
+    Jul 3, 2021
+    1.2
+    Jul 1, 2021
+    1.1.5
+    Apr 6, 2021
+    1.1.4
+    Mar 7, 2021
+    1.1.3
+    Feb 24, 2021
+    1.1.1
+    Jan 30, 2021
+    1.0.16
+    Jan 4, 2021
+    1.0.15
+    Dec 18, 2020
+    1.0.14
+    Dec 10, 2020
+    1.0.13
+    Dec 3, 2020
+    1.0.12
+    Nov 28, 2020
+    1.0.10
+    Nov 15, 2020
+    1.0.9
+    Jun 14, 2020
+    1.0.8
+    Jun 2, 2020
+    1.0.7
+    May 24, 2020
+    1.0.6
+    May 22, 2020
+    1.0.4
+    May 16, 2020
+    1.0.3
+    May 11, 2020
+    1.0.2
+    May 9, 2020
+    1.0.1
+    May 8, 2020
+    1.0
+    May 7, 2020
+
+See More
+Top In-App Purchases
+
+    Subscription Monthly
+    $0.99
+    Subscription Yearly
+    $4.99
+    Lifetime VIP
+    $14.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    May 7, 2020
+
+Worldwide Release Date
+    May 7, 2020
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    1.2.9
+
+Size
+    5.14 mb
+
+Only 32 Bit
+    No
+
+Languages
+    簡体字中国語, 繁体字中国語, 英語
+
+Seller
+    佳文 潘
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 14.0以降が必要です。iPhone、iPad、およびiPod touchに対応。
+
+Bundle ID
+    com.rednow.todocolor
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1509262785
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Deer - Todo & MindMap & Note | data.ai

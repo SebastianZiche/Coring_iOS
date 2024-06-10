@@ -1,0 +1,32 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8,app_function
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.8.8,2022-03-16,Stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.8.7,2022-02-03,Stability improvements Improved user feedback,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.8.5,2022-01-19,Stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.8.4,2022-01-17,Try the app without signing in Stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.8.0,2021-12-15,Stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.25,2021-12-01,Stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.24,2021-11-29,Improved UI Several stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.23,2021-11-27,Add FigJam by Figma integration Improved connection status indication Several bug fixes,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.21,2021-11-23,UI improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.19,2021-11-18,Improved push notification user flow Stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.18,2021-11-17,Improved connect to web room user flow,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.17,2021-11-13,Added Zoom and AirPlay instructions Fix browsing history crash,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.15,2021-11-10,Improved user flow while connecting with QR codes Stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.13,2021-11-06,Instructions and troubleshooting in Safari pop up,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.12,2021-11-05,Present to Zoom Meetings Present to AirPlay devices Troubleshooting instructions,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.10,2021-11-01,Stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.7,2021-10-27,AirPlay screen mirroring support Stability improvements,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.3,2021-06-29,Improved video stabilization performance Magic content enhancement filter makes what you write and draw cleaner and sharper,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.7.0,2021-06-09,Significant upgrade to the image stabilization.,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.6.6,2021-04-20,Improved auto focus handling: Camera focus locks on the page when phone is still to avoid jittering from continuous auto focus.,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.6.5,2021-03-30,Improved handling of when you put your phone down mid session: When put down: processing is reduced and app goes into a lower battery consumption mode When picked up again: continues from where you were Also includes a couple minor bug fixes and performance improvements.,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.6.2,2021-03-14,Full redesign including: Take and share snapshots of what you draw Preview of how the live stream looks is always visible Stability improvements to the video streaming Improved handling of when what you share goes out of view,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.5.10,2020-12-07,Snappy controls Minor bug fixes,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.5.8,2020-11-19,Join session by pushing invites from web to your phone Minor bug fixes,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.5.7,2020-11-11,Improved AR experience Product tour Minor bug fixes,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.5.6,2020-10-31,Faster sharing Improved login flow Minor fixes,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.5.4,2020-10-30,Improved AR instructions,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.5.3,2020-10-29,Clearer login flow Minor bugfixes,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.5.2,2020-10-21,Minor bugfix for button layout on iPhone SE Generation 1.,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.5.1,2020-10-09,Minor fixes,0,0,0,0,0,0,0,0,0
+1515109130,0,Grapic pen and paper online,Productivity,2020-10-07,2020-10-07,67.02,1,0,0,0,0.5,2020-10-07,,0,0,0,0,0,0,0,0,0

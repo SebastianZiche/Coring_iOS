@@ -1,0 +1,510 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Planmore - Schedule Planner
+Focus Timetable PlannerProductivity (Applications)Free
+Alerts
+
+    Focus Timetable Planner
+
+    Planmore - Schedule Planner
+    Planmore - Schedule Planner
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Planmore - Schedule Planner
+Daily Calendar, Time Organizer
+Productivity (Applications)
+Free
+App Promotional Text
+Welcome to Planmore.
+App Description
+Planmore is a professional planning app that helps you plan more schedules. It integrates all in one place, including calendars, events, tasks, reminders, and notes, so you can keep track of them anytime, anywhere. You're always focused on what's important and nothing can distract you. If you want to never be worried about forgetting an appointment, missing a deadline task, or forgetting the long lists of your to-dos or shopping items, and want to keep everything organized, Planmore is the must-have app for you. It also has a very easy-to-read appearance and you can flip the pages like your real paper planner to view all your schedules quickly.
+
+Basic Features
+
+- Integrate calendars, tasks, reminders, and notes into one place at a glance.
+- Multiple views to manage your schedule together, including day view, week view, month view and year view.
+- Easily create and modify events. Supports setting custom colors, setting recurring rules, adding reminders, inviting people to your events, and more.
+- Smart Task Manager helps you easily keep track of all overdue and pending tasks.
+- Multi-functional tasks with due date, recurring rule, priority and reminder.
+- Integration of iOS reminders within our planner.
+- Take notes of everything anytime and anywhere.
+- Custom labels to categorize all your notes.
+- Provide more customized options for people with different needs.
+- The data will be synced automatically between devices signed into the same iCloud.
+- Absolutely no ads to disturb so you can focus more.
+- Beautiful widgets for you to see at a glance.
+
+More Features
+
+- Stickers and Emojis.
+- More views to manage your schedule more easily, including all agenda views.
+- Create unlimited task lists to better categorize tasks.
+- Create recurring tasks. When a recurring task is completed, a new task is automatically created according to the repeating rules. No need to create the same task over and over again every time.
+- Support adding subtasks to a task.
+- Share your task lists with others to manage together, making your life and work more efficient.
+- Add more photos and canvases for notes.
+- Export your schedule by daily, weekly and monthly.
+- More fonts and theme colors, you will be sure to find your favorite.
+
+If you want to purchase an upgrade, you can choose to one-time payment for lifetime access all advanced features. You can also upgrade to the premium version with a monthly or yearly subscription. And it is carried over to other devices associated with your Apple ID. So it's time to say goodbye to other planner apps and use Planmore instead.
+
+If you enjoy using Planmore and it really helps you plan more, it would be great to leave us a nice review and we’ll be very appreciate to all of your reviews. And if you have any problems or suggestions when using our app or want to leave negative reviews, please contact us at planmorefeedback@outlook.com anytime, as we will respond in a short time to help you solve problems and make better use of our app.
+
+Privacy Policy
+https://planmore-luck.blogspot.com/2022/03/privacy-policy-planmore.html
+
+Terms of Use
+https://planmore-luck.blogspot.com/2023/09/terms-of-use-planmore.html
+Ratings
+Displayed Avg Ratings
+4.72
+Total Displayed Ratings
+4.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.2.5 (Feb 21, 2024)
+    This is a minor update that we've made a few improvements to help us serve you better.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.2.2 (Jan 11, 2024)
+    This is a minor update that we've made a few improvements to help us serve you better.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.2.1 (Jan 4, 2024)
+    This update mainly fixes a crash that occurred when selecting a date for a new task in version 4.2. 
+
+    We mainly provided the function of adding stickers and Emojis in version 4.2.
+
+    If you have any suggestions or questions when using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.1.7 (Dec 14, 2023)
+    We've made a few minor improvements to help us serve you better.
+
+    - Fixed an issue where app passcode could not be changed.
+    - Fixed an issue where widgets were displayed incorrectly in some languages.
+
+    If you have any suggestions or questions when using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.1.6 (Nov 21, 2023)
+    We've made a few minor improvements to help us serve you better.
+
+    - Click the title of the calendar view to quickly return to today.
+    - Provided a useful option for the month view: Settings > Event in Calendar section > Only show the dates of the current month.
+
+    If you have any suggestions or questions when using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.1.5 (Oct 19, 2023)
+    We've made a few minor improvements to help us server you better.
+
+    - Fixed an issue where some events could not be modified.
+    - Fixed an issue with the theme color not working properly.
+    - Provided an option to change week view layout. [Settings > Event > Direction]
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.1.4 (Sep 25, 2023)
+    This update mainly fixed known issues in iOS 17. Additionally, added an option to set the current date as the first day of the week for week view.
+
+    If you have any suggestions or questions when using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.1.2 (Sep 19, 2023)
+    We've made some improvements to help us serve you better.
+
+    - Adapted to iOS17
+    - Fixed the issue where widgets could not be displayed correctly in iOS17
+
+    If you have any suggestions or questions when using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.1.1 (Aug 26, 2023)
+    This is a minor update that we fixed a crash when attaching photos to a note.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.1 (Aug 23, 2023)
+    We've made a few minor improvements to help us server you better.
+
+    - Support long press to sort the pictures attached to the notes.
+    - Provided an option to show/hide week numbers.
+    - Optimized editing task/reminder view.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0.9 (Jul 20, 2023)
+    We've made a few minor improvements to help us server you better.
+
+    - Provided more app icons.
+    - Fixed known issues.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0.8 (Jun 20, 2023)
+    We've made a few minor improvements to help us server you better.
+
+    - Support flipping pages with multiple fingers
+    - Support for displaying notes for subtasks
+    - Provide multiple app icons
+    - Fixed an issue where event colors were displayed incorrectly in widgets
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0.7 (May 16, 2023)
+    We've made a few minor improvements to help us server you better.
+
+    - Displayed travel time in calendar view.
+    - Fixed known sync issues.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0.6 (Apr 12, 2023)
+    We've made a few minor improvements to help us server you better.
+
+    - Supported to change the background color
+    - Stability improved and performance enhancement
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0.5 (Mar 14, 2023)
+    This is a minor update that we've made a few improvements to help us serve you better.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0.3 (Feb 8, 2023)
+    We've made a few minor improvements to help us server you better.
+
+    - Fixed an issue with incorrect time format in widgets.
+    - Provided an option to hide the start time in the week and month views.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0.2 (Jan 10, 2023)
+    We've made a few minor improvements to help us server you better.
+
+    - Fixed an issue where note tabs were not responding
+    - Stability improved and performance enhancement
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0.1 (Dec 7, 2022)
+    This is a minor update that we've made a few improvements to help us serve you better.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0.1 (Dec 7, 2022)
+    This is a minor update that we've made a few improvements to help us serve you better.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 4.0 (Oct 27, 2022)
+    This update mainly changes the UI to provide a better user experience.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.4.8 (Oct 22, 2022)
+    This is a minor update that we've made a few improvements to help us serve you better.
+
+    - Adapted to iOS16
+    - Fixed incorrect display when running on Mac device with Apple silicon
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.4.7 (Aug 29, 2022)
+    This is a minor update that we've made a few improvements to help us serve you better.
+
+    - Optimize the function of exporting the task list
+    - Customize date background color in month view
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.4.6 (Aug 2, 2022)
+    This is a minor update that we've made a few improvements to help us serve you better.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.4.5 (Jul 6, 2022)
+    This is a minor update that we've made a few improvements to help us server you better.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.4.4 (Jun 14, 2022)
+    We've made a few minor improvements to help us server you better.
+
+    - Provided click options for month view
+    - Optimized the search function
+    - Fixed incorrect display of tasks in widgets
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.4.2 (May 30, 2022)
+    We've made a few minor improvements to help us server you better.
+
+    - Fixed an issue with events being sorted incorrectly
+    - Fixed an issue with the week view widget not showing reminders
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.4.1 (May 19, 2022)
+    In this update, we mainly provided the landscape mode for iPhone. In addition, we have made some tiny improvements including:
+
+    - Provided an option to darken time color
+    - Show more description content in event details view
+    - Fixed an issue with adding a new note on a specified date
+    - Fixed an issue with the attachment disappearing when completing a recurring task
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.4 (May 5, 2022)
+    We've made a few minor improvements to help us server you better.
+
+    - Supported to color the dates in month view. Long press to activate.
+    - Provided a new widget for week view.
+    - Provided options to display tasks and notes in the specified calendar view.
+    - Fixed an issue where reminders were not displayed properly.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.2.1 (Apr 21, 2022)
+    We've made a few minor improvements to help us server you better.
+
+    - Supported to display the specified reminder lists.
+    - Supported to skip the overdue recurring task.
+    - Fixed an issue where app badge would not refresh.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.2 (Apr 14, 2022)
+    In this update, we provide localizations for Japanese, Russian, Finnish and Chinese. Additionally, we've made some minor improvements, fixed known issues, and optimized some features.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 2.0 (Apr 7, 2022)
+    We've made a few minor improvements to help us server you better.
+
+    - Provided widgets for Planmore
+    - Supported Dutch localization
+    - Fixed some translation errors
+    - Provided more personalization options
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 1.2 (Mar 29, 2022)
+    In this update, we've provided a classic app appearance for Planmore that you can choose according to your preferences. Additionally, we've made some minor improvements, fixed known issues, and optimized some features.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 1.1 (Mar 24, 2022)
+    In this update, Planmore will be compatible with iPad. Additionally, we've made some minor improvements, fixed known issues, and optimized some features.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 1.0.1 (Mar 17, 2022)
+    We've made a few minor improvements to help us server you better.
+    - Fixed an issue with shared task lists.
+    - Provided app passcode protection.
+    - Fixed other known issues.
+
+    If you have any suggestions or questions while using Planmore, please contact us at planmorefeedback@outlook.com and we will respond within a short time.
+Version 1.0 (Mar 14, 2022)
+
+Users may also like
+Select objects to compare
+Digital Planner & Calendar Pro
+Weekly Planner - Diary, Notes
+Planner Pro - Daily Planner
+Cute Planner & Journal Floret
+Tiny Calendar: Planner & Tasks
+Journal & Digital Planner 2024
+Calendar Notes - Pencil it in!
+Pencil Planner & Calendar Pro
+Weekly schedule: plan your day
+NoteCircle: To Do, Planner
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Calendar & Reminders
+Calendar & Reminders
+Apps that can be used as a calendar or reminder so that users would not forget their schedules.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.2.5
+    Current release
+    Feb 21, 2024
+    4.2.2
+    Jan 11, 2024
+    4.2.1
+    Jan 4, 2024
+    4.1.7
+    Dec 14, 2023
+    4.1.6
+    Nov 21, 2023
+    4.1.5
+    Oct 19, 2023
+    4.1.4
+    Sep 25, 2023
+    4.1.2
+    Sep 19, 2023
+    4.1.1
+    Aug 26, 2023
+    4.1
+    Aug 23, 2023
+    4.0.9
+    Jul 20, 2023
+    4.0.8
+    Jun 20, 2023
+    4.0.7
+    May 16, 2023
+    4.0.6
+    Apr 12, 2023
+    4.0.5
+    Mar 14, 2023
+    4.0.3
+    Feb 8, 2023
+    4.0.2
+    Jan 10, 2023
+    4.0.1
+    Dec 7, 2022
+    4.0.1
+    Dec 7, 2022
+    4.0
+    Oct 27, 2022
+    2.4.8
+    Oct 22, 2022
+    2.4.7
+    Aug 29, 2022
+    2.4.6
+    Aug 2, 2022
+    2.4.5
+    Jul 6, 2022
+    2.4.4
+    Jun 14, 2022
+    2.4.2
+    May 30, 2022
+    2.4.1
+    May 19, 2022
+    2.4
+    May 5, 2022
+    2.2.1
+    Apr 21, 2022
+    2.2
+    Apr 14, 2022
+    2.0
+    Apr 7, 2022
+    1.2
+    Mar 29, 2022
+    1.1
+    Mar 24, 2022
+    1.0.1
+    Mar 17, 2022
+    1.0
+    Mar 14, 2022
+
+See More
+Top In-App Purchases
+
+    Monthly
+    $1.99
+    Yearly
+    $15.99
+    Premium Version
+    $20.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Mar 14, 2022
+
+Worldwide Release Date
+    Mar 14, 2022
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    4.2.5
+
+Size
+    33.17 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Dutch, Finnish, French, German, Italian, Japanese, Portuguese, Russian, Simplified Chinese, Spanish
+
+Seller
+    Shanghai Zhiyi Culture Media Co., Ltd.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    zhiyi.lucky.planmore
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1613129298
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Planmore - Schedule Planner | data.ai

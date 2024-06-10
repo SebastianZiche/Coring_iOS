@@ -1,0 +1,563 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+dictate2us Record & Transcribe
+The Side ProjectBusiness (Applications)Free
+Alerts
+
+    dictate2us Record & Transcribe
+    dictate2us Record & Transcribe
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+dictate2us Record & Transcribe
+Voice, Dictate, Transcription
+Business (Applications)
+Free
+App Promotional Text
+The dictate2us app is the world’s leading audio recorder & transcription service. You can record and have your files transcribed within the hour, 24/7, 365 days a year!!
+App Description
+Experience the power of the award-winning dictate2us transcription service in your pocket, at your desk, or on the go. Record letters, reports, case notes, interviews and much more. The possibilities are endless, and the time and money you can save are significant.
+
+dictate2us is the world's number one transcription service provider of accurately typed documents with fast turnaround times. We have unparalleled experience in the transcription industry, working with over 475,000 clients worldwide. We assist doctors, consultants, lawyers, whole hospitals, large law firms, government bodies, students and universities. Our typists are experienced in specific fields and are assigned files that they are familiar with, ensuring they understand the different terminologies and formatting styles required.
+
+Our team of 1,200 human office based transcribers can return files within 1 hour if required, but we have 3, 5, 12, 24 , 48 or 72 hour turnaround times to choose from, 24/7, 365 days a year.
+
+You can download the app for free, and a £10 ($15) free trial credit is offered so you can test our typing service. When the trial credit has been used, we then charge an audio minute rate, depending on the turnaround chosen. You can add credit to your account using PayPal or a debit/credit card.
+
+IMPORTANT: All users can record and edit audio files. To take advantage of the dictate2us transcription features, you will need to register within the app, which only takes 60 seconds!
+
+How does it work?
+
+1. The user records audio and saves a recording with the dictate2us app.
+2. The audio is securely uploaded to the dictate2us transcription platform.
+3. A dedicated typist transcribes the file into a Microsoft Word document.
+4. An editor amends any errors or formatting issues.
+5. The document is proofread to ensure accuracy.
+6. The finished document is e-mailed to you or made available for download.
+
+How do we charge for transcription?
+
+We charge per minute of audio rather than per word, line or time taken to type. We believe this is the fairest way as you will know exactly how much a file will cost before uploading. People dictate 3 to 4 times more quickly than they type. Thus, a 10-minute dictation file could take up to 40 minutes to transcribe. With d2u, you only pay for the 10 minutes.
+
+How long does it take to transcribe?
+
+The d2u app allows users to get their transcribed documents back extremely quickly. As soon as your encrypted file arrives at our servers, it is decrypted and assigned to your regular typist. Once edited and proofread, our online transcription platform will e-mail a copy of the finished document, or, if preferred, a link can be sent to download the document straight to your phone, tablet or PC. We return work in a Microsoft Word document and can type into your personal letterhead or template.
+
+Data Confidentiality and Security
+
+The d2u Transcriber app uses state-of-the-art data security, including military-grade 256 bit encryption, the same technology that used in online banking and retail websites. Our servers are UK based and hack-tested daily. We are fully data protected with the ICO and fully HIPPA compliant. Our staff are office-based and have signed non-disclosure agreements. We do not employ homeworkers, and our staff have no means to remove data from our systems.
+Ratings
+Displayed Avg Ratings
+4.17
+Total Displayed Ratings
+642
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 6.9 (Nov 23, 2023)
+    - Minor performance improvements
+Version 6.8 (Jul 10, 2023)
+    - Minor performance improvements
+Version 6.7 (Jul 2, 2023)
+    - Minor performance improvements
+Version 6.6 (Apr 21, 2023)
+    - Minor performance improvements
+Version 6.5 (Apr 12, 2023)
+    - Minor performance improvements
+Version 6.4 (Apr 3, 2023)
+    - Minor performance improvements
+Version 6.3 (Jan 21, 2023)
+    - Minor performance improvements
+Version 6.2 (Jul 1, 2022)
+    - Minor performance improvements
+Version 6.1 (Feb 23, 2022)
+    - Minor performance improvements
+Version 6.0 (Jan 29, 2022)
+    - Minor performance improvements
+Version 5.8 (Nov 29, 2021)
+    - Minor performance improvements
+Version 5.7 (Nov 26, 2021)
+    - Minor performance improvements
+Version 5.6 (Nov 23, 2021)
+    - Minor performance improvements
+Version 5.4 (Oct 29, 2021)
+    We fixed the following issues:
+
+    - A Crash when a user starts a recording in the Base Recorder
+    - A Random Crash when a user starts a recording in Express Mode
+    - A Random Crash when the user plays a recording
+Version 5.3 (Oct 22, 2021)
+    1. Fixed a bug when a phone call interrupts the recording and sometimes loses the recording entirely.
+    2. Fixed a bug in “Categories” where a file once assigned to a category, was unable to be un-assigned from that category.
+    3. Fixed a bug that caused recovered files to appear incorrectly when a user was using the app as intended.
+    4. Fixed a bug that caused the passcode screen navigation UI on Arch iPhone devices to not appear correctly.
+    5. Fixed a bug that caused overlapping text over the right side of the skip video button on the launch Voice Over video.
+    6. Fixed a bug that caused certain mp3 files when imported from Dropbox to cause the app to crash.
+    7. Installed crash reporting so we can catch crashes and bugs allowing us to get them fixed quicker.
+    8. All code updated to the latest iOS, Xcode, Swift and SDK’s for security and reliability of the app.
+    9. Bug with Voice Over when launching the app for the first time - when call came in, the Voice Over stopped wouldn’t continue.
+    10. Added a feature to allow bluetooth hands free recording via AirPlay.
+    11. Added a feature to allow the user to “retry sending an audio file” when upload status was amber (partially uploaded).
+    12. Added a feature allow the user to “search for audio files within the recordings list”.
+    13. Added a feature to allow a user to send personalised templates for use when transcribing (Customer Template option in the settings menu of the app).
+    14. UIWebview updated to WKWebView to ensure latest security and encryption.
+    15. Updated Live Chat code throughout the app.
+    16. Apple device model reporting on "report an issue" pop up.
+Version 5.2 (Oct 1, 2021)
+    1. Fixed a bug when a phone call interrupts the recording and sometimes loses the recording entirely.
+    2. Fixed a bug in “Categories” where a file once assigned to a category, was unable to be un-assigned from that category.
+    3. Fixed a bug that caused recovered files to appear incorrectly when a user was using the app as intended.
+    4. Fixed a bug that caused the passcode screen navigation UI on Arch iPhone devices to not appear correctly.
+    5. Fixed a bug that caused overlapping text over the right side of the skip video button on the launch Voice Over video.
+    6. Fixed a bug that caused certain mp3 files when imported from Dropbox to cause the app to crash.
+    7. Installed crash reporting so we can catch crashes and bugs allowing us to get them fixed quicker.
+    8. All code updated to the latest iOS, Xcode, Swift and SDK’s for security and reliability of the app.
+    9. Bug with Voice Over when launching the app for the first time - when call came in, the Voice Over stopped wouldn’t continue.
+    10. Added a feature to allow bluetooth hands free recording via AirPlay.
+    11. Added a feature to allow the user to “retry sending an audio file” when upload status was amber (partially uploaded).
+    12. Added a feature allow the user to “search for audio files within the recordings list”.
+    13. Added a feature to allow a user to send personalised templates for use when transcribing (Customer Template option in the settings menu of the app).
+    14. UIWebview updated to WKWebView to ensure latest security and encryption.
+    15. Updated Live Chat code throughout the app.
+    16. Apple device model reporting on "report an issue" pop up.
+Version 5.0 (Sep 28, 2021)
+    1. Fixed a bug when a phone call interrupts the recording and sometimes loses the recording entirely.
+    2. Fixed a bug in “Categories” where a file once assigned to a category, was unable to be un-assigned from that category.
+    3. Fixed a bug that caused recovered files to appear incorrectly when a user was using the app as intended.
+    4. Fixed a bug that caused the passcode screen navigation UI on Arch iPhone devices to not appear correctly.
+    5. Fixed a bug that caused overlapping text over the right side of the skip video button on the launch Voice Over video.
+    6. Fixed a bug that caused certain mp3 files when imported from Dropbox to cause the app to crash.
+    7. Installed crash reporting so we can catch crashes and bugs allowing us to get them fixed quicker.
+    8. All code updated to the latest iOS, Xcode, Swift and SDK’s for security and reliability of the app.
+    9. Bug with Voice Over when launching the app for the first time - when call came in, the Voice Over stopped wouldn’t continue.
+    10. Added a feature to allow bluetooth hands free recording via AirPlay.
+    11. Added a feature to allow the user to “retry sending an audio file” when upload status was amber (partially uploaded).
+    12. Added a feature allow the user to “search for audio files within the recordings list”.
+    13. Added a feature to allow a user to send personalised templates for use when transcribing (Customer Template option in the settings menu of the app).
+    14. UIWebview updated to WKWebView to ensure latest security and encryption.
+    15. Updated Live Chat code.
+Version 4.1.4 (Feb 9, 2019)
+    The dictate2us app is the world’s leading audio recorder & transcription service. You can record and have your files transcribed within the hour, 24/7, 365 days a year!!
+Version 4.1.3 (Jan 31, 2019)
+    - Some bug fixes in the upload workflow process.
+Version 4.1.2 (Nov 7, 2018)
+    • Support now included for the latest iPhone XS and XS MAX!
+    • Support for the latest version of iOS 12.
+    • Various bug fixes and improvements.
+Version 4.1.1 (Dec 13, 2017)
+    • Support now included for the latest iPhone X!
+    • Support for the latest version of iOS 11.
+    • Various bug fixes and improvements.
+Version 4.1 (Nov 17, 2017)
+    • Support for iPhone X is here!
+    • Additional support for iOS 11.
+    • Various bug fixes and improvements.
+Version 4.0 (Sep 11, 2017)
+    • We have introduced a new welcome screen with voice-over, boarding screens and introduction video to assist new users.
+    • The app has a new feature which will allow audio files to be imported from other recording apps, such as Apple’s own Voice Memos app, iCloud Drive, Dropbox and all other audio recorder apps.
+    • The app has a new upload status key in place, showing users what status, the recordings are in.
+    • The app now has multi-dictate2us account support, so users with different businesses can upload files, manage and work using multiple separate account logins.
+    • Users can now choose a job-type and turnaround time option while sending audio files for transcription.
+    • We have made changes to the password screen to ensure the best user experience.
+    • We have introduced Touch ID as a new feature, so you can use your fingerprint to access the app instead of your passcode.
+    • Users can now rename audio files recorded in the “Express” recording screen.
+    • As requested by users, each audio file is number listed in the “All Recordings” screen.
+    • As requested by users, the app now displays how much space is available on your device and how many audio minutes can be stored.
+    • As requested by users, we have added push notification support so we can inform users of the offers available.
+    • We have added support for “Enabling microphone” issues that appear if users accidentally block microphone access to the app, so the dictate2us app can’t record audio.
+    • We have introduced a “send all feature” which allows users to send all dictations recorded to us in one go.
+    • We have introduced loading messages and have added loading spinning wheels so users are better informed while using the app.
+    •We have shortened the registration form, making it easier to register for our service and free trial.
+    • We have added the contact numbers of the UK, the USA, AUS and the rest of world so users can call our team for support at local call rates.
+    • We have added a live-chat feature to the app.
+    • We have added a Universal Link support to the app.
+    • We have fixed all minor bugs that were reported to us.
+Version 3.4 (Oct 31, 2016)
+    • App updated for iOS 10
+    • New interfaces and HD graphics for iPad Pro, iPad Air 2, iPad mini 4, iPad mini 2, iPhone 5, iPhone 5s, iPhone 6, iPhone 6s, iPhone 6 plus and iPhone 6s Plus.
+    • App has been converted from a 32-bit to a 64-bit binary architecture, making it faster to use on new devices.
+    • We have introduced a “send all feature” allowing users to send all dictations recorded to us in one go.
+    • We have introduced a feature to allow users to “insert” dictation, as previously users could only overwrite or append recording to the end of the dictation.
+    • Updated Name and Note section with modern iOS look and user experience.
+    • Updated Categories section with modern iOS look and user experience.
+    • We have introduced loading messages and loading spinning wheels have been added so users are better informed whilst using the app.
+    • Minor bugs fixed that have been reported to us.
+    • Registration form shortened making it easier to register for our service and free trial.
+    • We have added UK, USA and Rest of world contact numbers, so users can call our team @ local call rates for support.
+    • We have added a live chat feature to the app.
+Version 3.3 (Oct 18, 2016)
+    - New interfaces and HD graphics for iPad Pro, iPad Air 2, iPad mini 4, iPad mini 2, iPhone 5, iPhone 5s, iPhone 6, iPhone 6s, iPhone 6 plus and iPhone 6s Plus.
+    - App has been converted from a 32-bit to a 64-bit binary architecture, making it faster to use on new devices.
+    - We have introduced a “send all feature” allowing users to send all dictations recorded to us in one go.
+    - We have introduced a feature to allow users to “insert” dictation, as previously users could only overwrite or append recording to the end of the dictation.
+    - Updated Name and Note section with modern iOS look and user experience.
+    - Updated Categories section with modern iOS look and user experience.
+    - We have introduced loading messages and loading spinning wheels have been added so users are better informed whilst using the app.
+    - A new payment page has been designed to fit the screen and make it easier for users to buy credit.
+    - Register and Learn More pages are now using the in-app browsers, instead of taking users out of the app to the Safari app.
+    - Minor bugs fixed that have been reported to us.
+    - Registration form shortened making it easier to register for our service and free trial.
+    - We have added UK, USA and Rest of world contact numbers, so users can call our team @ local call rates for support.
+    - We have added a live chat feature to the app.
+Version 3.2 (Sep 23, 2016)
+    App Version – v3.2
+
+    New feature - We have developed an "Insert" option, so the user can now insert dictation at any point in their recordings.
+
+    Bug fixes - We have squashed a few known bugs, the app is now running smoothly.
+Version 3.1 (Sep 20, 2016)
+    Detailed App Version – v3.1
+
+    New changes
+
+    - New interfaces for iPad Pro, iPad Air 2, iPad mini 4, iPad mini 2, iPhone 5, iPhone 5s, iPhone 6, iPhone 6s, iPhone 6 plus and iPhone 6s Plus.
+    - App has been converted from a 32-bit to a 64-bit binary architecture.
+    - Updated Name and Note section with modern iOS look and user experience.
+    - Updated Categories section with modern iOS look and user experience.
+    - Updated all graphics from 1x to 2x and 3x for all Apple devices.
+    - We have introduced loading messages and loading spinning wheels have been added so users are better informed whilst using the app.
+    - A new payment page has been designed to fit the screen and make it easier for users to buy credit.
+    - Register and Learn More pages are now using the in-app browsers, instead of taking users out of the app to the Safari app.
+
+    Bug fixes – We have fixed a bug
+
+    - with “express mode” when shaking the phone did not activate the recording anymore and only tapping on the screen started the recording.
+    - where the Audio length bar (on the all recordings screen) should not be able to move until a recording has been selected.
+    - with the Safari “Register” and “Learn more” sessions are now shown within the app, to improve the user experience.
+    - where the recorder started at 00:00, but when you press record, the 00:00 changed to 0:00. Now the recorder starts at 0:00 and increases to double figures, if the audio file exceeds single digits.
+    - that would cause files to be recovered that didn’t need to be, caused duplicate audio files to be created in the “All Recordings” screen. Files now only get recovered, if the app crashes, battery goes, etc., in the middle of a recording being created.
+    - that caused files with a 0 length and a 0 file size to be created.
+    - where some users reported that the upload status of files that have successfully uploaded still showed as partially uploaded (yellow), meaning they are only partially uploaded.
+    - where the app version was not being shown fully within the app.
+    - where the words “All recordings” did not fit on the screen.
+    - when some users experienced a spinning wheel on the icon for a second or too on the recording screen.
+    - that sometimes caused a spinning wheel to appear, when pressing the buttons on the recording screen.
+    - that stopped “All Recordings” title being shown correctly on some devices.
+Version 3.0 (Sep 3, 2016)
+    Detailed App Version – v3.00
+
+    New changes
+
+    - New interfaces for iPad Pro, iPad Air 2, iPad mini 4, iPad mini 2, iPhone 5, iPhone 5s, iPhone 6, iPhone 6s, iPhone 6 plus and iPhone 6s Plus.
+    - App has been converted from a 32-bit to a 64-bit binary architecture.
+    - Updated Name and Note section with modern iOS look and user experience.
+    - Updated Categories section with modern iOS look and user experience.
+    - Updated all graphics from 1x to 2x and 3x for all Apple devices.
+    - We have introduced loading messages and loading spinning wheels have been added so users are better informed whilst using the app.
+    - A new payment page has been designed to fit the screen and make it easier for users to buy credit.
+    - Register and Learn More pages are now using the in-app browsers, instead of taking users out of the app to the Safari app.
+
+    Bug fixes – We have fixed a bug
+
+    - with “express mode” when shaking the phone did not activate the recording anymore and only tapping on the screen started the recording.
+    - where the Audio length bar (on the all recordings screen) should not be able to move until a recording has been selected.
+    - with the Safari “Register” and “Learn more” sessions are now shown within the app, to improve the user experience.
+    - where the recorder started at 00:00, but when you press record, the 00:00 changed to 0:00. Now the recorder starts at 0:00 and increases to double figures, if the audio file exceeds single digits.
+    - that would cause files to be recovered that didn’t need to be, caused duplicate audio files to be created in the “All Recordings” screen. Files now only get recovered, if the app crashes, battery goes, etc., in the middle of a recording being created.
+    - that caused files with a 0 length and a 0 file size to be created.
+    - where some users reported that the upload status of files that have successfully uploaded still showed as partially uploaded (yellow), meaning they are only partially uploaded.
+    - where the app version was not being shown fully within the app.
+    - where the words “All recordings” did not fit on the screen.
+    - when some users experienced a spinning wheel on the icon for a second or too on the recording screen.
+    - that sometimes caused a spinning wheel to appear, when pressing the buttons on the recording screen.
+    - that stopped “All Recordings” title being shown correctly on some devices.
+Version 2.0.1 (Oct 19, 2013)
+    Detailed App Version - 2.0.1.132911149
+
+    - A bug was fixed that appeared when the transcription upload failed due to weak or poor internet connection. This fix enables the app to save the audio recording successfully and prevents the audio file from being saved in a bad state (which can result in the file being deleted).
+
+    - A bug was fixed in relation to the Wi-Fi / authorisation issue with our server when pressing Actions>Transcribe. We have added a new blocking UI to prevent access to the recorder when checking authorisation. This will ensure the app can process the requests without being interrupted.
+
+    - A bug was fixed which now allows users to zoom in and out on Word documents transcribed when on the dictate2us Account Web View.
+
+    Please note: The app may appear as if it is locked up but sometimes the timeout on the failed connection attempt takes around about 10 seconds to ensure an internet connection is not present.
+Version 2.0 (Sep 30, 2013)
+    - Updated version number to 2.0
+    - App tested on iOS 7
+    - Fix for account view crash
+    - Fix for d2u authorize crash
+    - Fix for background task crash
+    - User Interface updates
+    - Fixed file recovery feature bug
+    - Tweaked about screen font size
+Version 1.9 (Sep 3, 2013)
+    - Updated version to 1.9
+    - App now optimized for Retina screens (iPhone 5)
+    - User Interface updates
+    - Minor bug fixes
+    - Fixed file recovery feature bug
+    - Tweaked about screen font size
+    - App tested on iOS 7
+Version 1.8 (Mar 29, 2013)
+    • Optimizations and minor bug fixes
+Version 1.7.1 (Dec 7, 2012)
+    • Transcription Information button in Settings is now working as intended (was previously not responding when tapped)
+Version 1.7 (Nov 2, 2012)
+    • Updated for iOS 6
+
+    • Issue for appending to long recordings resolved
+
+    • Bug fixes and stability enhancements
+Version 1.6 (Jan 27, 2012)
+    Stability and performance improvements including iPad related issues.
+Version 1.5.2 (Mar 4, 2011)
+    Multiple increases in app stability, performance, upload stability and security. This update is highly recommended for all users. As an extra precaution, users should be aware that any time they update an app, there is a very small chance that the app's data may become lost or corrupt. We therefore always recommend users first make sure they have sent any important recordings in for transcription before updating the app.
+Version 1.5.1 (Dec 29, 2010)
+    Stability improvements.
+Version 1.5 (Sep 2, 2010)
+    - Completely new alternative recording screen with "joystick" control
+
+    - Background audio recording (continues to record if you quit the app while recording)
+
+    - Background audio compression and uploading (continues to compress and upload if you quit the app during submission)
+
+    -iOS4.0 compatible
+
+    - Improvements to speed and stability
+
+    This update shouldn't erase any of your data. But, to be safe, it's best to submit your recordings before updating in case there is an error during update.
+Version 1.1 (May 4, 2010)
+    Improved account features
+
+    Bluetooth headset recording
+
+    Improved stability
+
+    Passcode security
+Version 1.0 (Dec 10, 2009)
+
+Users may also like
+Select objects to compare
+Rizen - Habit Tracker, Planner
+My Invoice Maker & Estimates
+Yating: audio transcription
+Audio to Text Converter
+OneScanner: PDF Scanner App
+Unplug:Floral Pomodoro
+Voice to Text Dictation VoxRec
+Transcribe Recorder - Memo
+Dictate⁺
+Voice Dictation - Speechy Lite
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    6.9
+    Current release
+    Nov 23, 2023
+    6.8
+    Jul 10, 2023
+    6.7
+    Jul 2, 2023
+    6.6
+    Apr 21, 2023
+    6.5
+    Apr 12, 2023
+    6.4
+    Apr 3, 2023
+    6.3
+    Jan 21, 2023
+    6.2
+    Jul 1, 2022
+    6.1
+    Feb 23, 2022
+    6.0
+    Jan 29, 2022
+    5.8
+    Nov 29, 2021
+    5.7
+    Nov 26, 2021
+    5.6
+    Nov 23, 2021
+    5.4
+    Oct 29, 2021
+    5.3
+    Oct 22, 2021
+    5.2
+    Oct 1, 2021
+    5.0
+    Sep 28, 2021
+    4.1.4
+    Feb 9, 2019
+    4.1.3
+    Jan 31, 2019
+    4.1.2
+    Nov 7, 2018
+    4.1.1
+    Dec 13, 2017
+    4.1
+    Nov 17, 2017
+    4.0
+    Sep 11, 2017
+    3.4
+    Oct 31, 2016
+    3.3
+    Oct 18, 2016
+    3.2
+    Sep 23, 2016
+    3.1
+    Sep 20, 2016
+    3.0
+    Sep 3, 2016
+    2.0.1
+    Oct 19, 2013
+    2.0
+    Sep 30, 2013
+    1.9
+    Sep 3, 2013
+    1.8
+    Mar 29, 2013
+    1.7.1
+    Dec 7, 2012
+    1.7
+    Nov 2, 2012
+    1.6
+    Jan 27, 2012
+    1.5.2
+    Mar 4, 2011
+    1.5.1
+    Dec 29, 2010
+    1.5
+    Sep 2, 2010
+    1.1
+    May 4, 2010
+    1.0
+    Dec 10, 2009
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Business
+
+Initial Release Date
+    Jan 12, 2010
+
+Worldwide Release Date
+    Dec 10, 2009
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    6.9
+
+Size
+    33.45 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Catalan, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Slovak, Spanish, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese
+
+Seller
+    dictate2us Ltd
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.bottlerocketapps.Dictate
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 341741314
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+dictate2us Record & Transcribe | data.ai

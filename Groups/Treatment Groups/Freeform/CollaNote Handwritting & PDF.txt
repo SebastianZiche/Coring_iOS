@@ -1,0 +1,1980 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+CollaNote: Handwritting & PDF
+Zauberberg LabProductivity (Applications)Free
+Alerts
+
+Collanote
+CollaNote: Handwritting & PDF
+CollaNote: Handwritting & PDF
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+CollaNote: Handwritting & PDF
+Zusammen Zeichnen & Notieren
+Productivity (Applications)
+Free
+App Description
+CollaNote : Powerful Note-Taking, PDF Markup, and Digital Planning - All-in-One
+
+- Versatile Toolset: Experience an extensive collection of 25 pens and brushes, surpassing other note-taking apps in options for creativity
+- Enhanced Writing Perfection: Elevate your writing experience with CollaNote's cutting-edge ink engine and stabilizer, surpassing pen and paper in precision and stability
+- Smart Dark Mode: Write your notes once and enjoy optimal visibility in both dark and light modes, ensuring comfort for your eyes.
+- Calming Writing ASMR: Immerse yourself in a calming note-taking ambiance with soothing writing sound, creating a serene environment while you write.
+- Audio Recording and Playback: Record audio while taking notes and watch as your handwritten words animate in sync with the audio playback, akin to karaoke text.
+- Note Security: Safeguard your notes with password protection, ensuring the utmost security and privacy.
+- PDF Integration: Seamlessly import PDFs, annotate or sign them, and effortlessly export your notes back to PDF format.
+- Real-Time Collaboration: Collaborate with unlimited participants in real time, experiencing zero delays for smooth and efficient teamwork.
+- Extensive Paper Selection: Choose from over 150 stunning paper designs and beautiful templates
+- Media-Rich Notes: Personalize your notes with images, text, stickers, web widgets, and links, creating dynamic and interactive content.
+- AI Shape Detection: Utilize CollaNote's AI-powered technology to effortlessly detect and draw perfect shapes with unmatched precision.
+- Effortless Note Storage: CollaNote securely stores all your notes in the System Files app, providing seamless options for syncing, backing up, and restoring your valuable content
+- Discover Countless Surprises: Delve into CollaNote and uncover a plethora of delightful surprises that await your exploration.
+
+CollaNote's journey began with a student at Hamburg University, who now leads a dedicated team of individuals devoted to delivering the finest digital paper experience. We extend our heartfelt gratitude to our users for their unwavering support since the early days of CollaNote.
+Ratings
+Displayed Avg Ratings
+4.75
+Total Displayed Ratings
+84.5k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.1.1 (Feb 23, 2024)
+    - Verbesserte Benutzeroberflächenlayout für iPhone
+    - Verbesserte Geschwindigkeit beim Herunterladen von Notizen vom Server
+    - Kleine Fehlerkorrekturen
+Version 2.1.0 (Jan 22, 2024)
+    Version zur Begrüßung des chinesischen Neujahrs:
+    - Einführung neuer digitaler Planer für das Jahr 2024.
+    - Bereichern Sie Ihre Feier zum chinesischen Neujahrsfest mit neuen Stickern im chinesischen Neujahrsdesign sowie fünf weiteren neuen Stickersets.
+    - Genießen Sie ein verbessertes Textwerkzeug für ein noch besseres Benutzererlebnis.
+    - Kleine Fehlerkorrekturen zur Verbesserung der Gesamtleistung und Stabilität der Anwendung.
+Version 2.0.17 (Dec 5, 2023)
+    Kleinere Fehlerbehebungen
+Version 2.0.16 (Oct 25, 2023)
+    Behebe einige kleinere Fehler.
+Version 2.0.14 (Sep 20, 2023)
+    - Verbesserung des Kugelschreibers, um die Linien schöner aussehen zu lassen
+    - Behebung des Fehlers beim Rückgängigmachen nach dem Löschen.
+    - Behebung des Fehlers im Übersetzungstool, das nicht auf Türkisch und Filipinisch funktioniert hat.
+Version 2.0.11 (Sep 14, 2023)
+    CollaNote 2.0.11 Versionshinweise: Neue Funktionen und Verbesserungen
+    - Unterstützung der Hover-Funktion: Die Vorschau des Apple Pencil-Cursors kann nun auch ohne Berührung des Bildschirms angezeigt werden (verfügbar auf unterstützten Apple-Geräten und erfordert Apple Pencil 2).
+    - Neue Steuerung für die Radiergummi-Größe: Durch Neigen des Apple Pencil lässt sich die Radiergummi-Größe leicht anpassen.
+    - 30 aufregende Vorlagen: Entdecke 30 neue Vorlagen, um deine Kreativität zu steigern und schöne Notizen zu erstellen.
+    - Verbessertes Lineal-Werkzeug: Die Linien des Lineal-Werkzeugs sind jetzt im dunklen Modus besser sichtbar.
+    - Option zum Ausblenden des Lesezeichen-Seitenbereichs: Der Lesezeichen-Seitenbereich kann nun in den Notizen-Einstellungen ausgeblendet werden, um eine bessere Anpassung zu ermöglichen.
+Version 2.0.10 (Sep 6, 2023)
+    - Verbesserung der Benutzererfahrung für das Sticker-Einfügefenster
+    - Aktivierung der "Durchstreichen zum Löschen" -Funktion mit Schreibbleistift
+    - Hinzufügen einer Vorlage für handschriftliche Übungen für Grundschüler
+    - Fehlerbehebung im Übersetzungstool
+    - Behebung anderer Fehler
+Version 2.0.8 (Jul 16, 2023)
+    2.0.8:
+
+    Behebung der Drucksensitivität im Skizzenstiftwerkzeug und Wasserpinsel
+    Behebung eines Fehlers im Übersetzungswerkzeug
+    Verbesserung des Tintenmotors
+    Hinzufügen von 4 neuen Aufkleberpaketen
+
+    Wir präsentieren unser bisher größtes Update, vollgepackt mit einer vielfältigen Auswahl neuer Funktionen und Verbesserungen:
+
+    - Erweiterte Schreibtools: Erlebe eine umfangreiche Auswahl von 25 zusätzlichen Stiften und Brushes, die jede andere App für Notizen übertrifft.
+    - Vektor-Stifte: Kugelschreiber, Füllfederhalter, Moderne Kalligrafie, Gestrichelter Stift, Gepunkteter Stift, Marker, Abgerundeter Textmarker, Rechteckiger Textmarker…
+    - Kunst Brushes: Wasserfarbe, Filzstift, Bleistift, Skizzenstift, chinesische Kalligraphie, realistic Marker, Sternbrush.…
+    - 3D-Effekt-Brushes: Golden Ray, Rainbow, Peach, Baby Blue, Green grass, Orange, Blue Candy Stick, Mossy Green, Sunrise, Hologram…
+    - Neue Handschrift-Engine: Wir stellen unsere neue und fortschrittliche Handschrift-Engine vor, die die Art und Weise, wie du auf deinem iPad schreibst, revolutioniert.
+    - Überzeugendes Schreibgefühl mit ultra-niedriger Latenz und hoher Präzision
+    - Stabilisatorfunktion für eine Handschrift, besser als auf Papier
+    - Verbesserte Utility Tools:
+    - Überarbeitetes Füllwerkzeug zum Füllen von Formen mit eindrucksvollen Animationen
+    - Verbessertes Kurvenwerkzeug zum Zeichnen präziserer Kurven in Diagrammen
+    - Verbessertes Übersetzungsprogramm für mehr Genauigkeit bei der Übersetzung
+    - Größenänderung frei mit dem Lasso-Werkzeug
+    - Neues Suchfenster:
+    - Einfaches Suchen von Inhalten in PDFs
+    - Suche nach bestimmten Texten in deinen handschriftlichen Notizen
+    - Wir stellen das Cover Feature vor:
+    - Gestalte deine Notizen und Ordner mit über 50 atemberaubenden Covern
+    - Schreibe und markiere direkt auf deinen Covern
+    - Die Benutzeroberfläche (UI) wurde neu gestaltet, um das Benutzererlebnis zu optimieren:
+    - Überarbeiteter Home-Bildschirm, Dock, Menüs, Fenster "Zusammenarbeit", Fenster "Stiftauswahl", Lineal, Suchfenster, Lesezeichenfenster, Fenster "Neue Notiz erstellen" und mehr
+    - Leistungs- und Stabilitätsverbesserungen:
+    - Umfassende Sprachunterstützung mit qualitativ hochwertiger Übersetzung: Unterstützt eine breite Palette von Sprachen, darunter Hindi, Deutsch, vereinfachtes Chinesisch, traditionelles Chinesisch, Französisch, Spanisch, Japanisch, Portugiesisch und Koreanisch
+    - Wir stellen vor: CollaNote Premium - Erhalte Zugang zu erweiterten Tools und Funktionen, die deine Produktivität und Kreativität steigern
+
+    Mit diesem großen Update freuen wir uns, einen bedeutenden Meilenstein anzukündigen:
+
+    CollaNote wird jetzt von einem Team entwickelt!
+
+    Die Reise von CollaNote begann mit einem Studenten der Universität Hamburg, der eine Leidenschaft für digitales Papier hatte. Heute leitet er das CollaNote-Team: mit dem neu gegründeten Team ist er voller Vorfreude auf die rasanten Fortschritte, die CollaNote in Zukunft machen wird.
+
+    Wir möchten uns bei euch allen dafür bedanken, dass ihr CollaNote von Anfang an unterstützt habt, und halten euch über unsere spannenden neuen Innovationen auf dem Laufenden.
+Version 2.0.6 (Jul 11, 2023)
+    2.0.7:
+    - Fehler in Übersetzungstool behoben
+    - Tinten-Engine verbessert
+    - 4 neue Aufkleberpakete hinzugefügt
+
+    Wir präsentieren unser bisher größtes Update, vollgepackt mit einer vielfältigen Auswahl neuer Funktionen und Verbesserungen:
+
+    - Erweiterte Schreibtools: Erlebe eine umfangreiche Auswahl von 25 zusätzlichen Stiften und Brushes, die jede andere App für Notizen übertrifft.
+    - Vektor-Stifte: Kugelschreiber, Füllfederhalter, Moderne Kalligrafie, Gestrichelter Stift, Gepunkteter Stift, Marker, Abgerundeter Textmarker, Rechteckiger Textmarker…
+    - Kunst Brushes: Wasserfarbe, Filzstift, Bleistift, Skizzenstift, chinesische Kalligraphie, realistic Marker, Sternbrush.…
+    - 3D-Effekt-Brushes: Golden Ray, Rainbow, Peach, Baby Blue, Green grass, Orange, Blue Candy Stick, Mossy Green, Sunrise, Hologram…
+    - Neue Handschrift-Engine: Wir stellen unsere neue und fortschrittliche Handschrift-Engine vor, die die Art und Weise, wie du auf deinem iPad schreibst, revolutioniert.
+    - Überzeugendes Schreibgefühl mit ultra-niedriger Latenz und hoher Präzision
+    - Stabilisatorfunktion für eine Handschrift, besser als auf Papier
+    - Verbesserte Utility Tools:
+    - Überarbeitetes Füllwerkzeug zum Füllen von Formen mit eindrucksvollen Animationen
+    - Verbessertes Kurvenwerkzeug zum Zeichnen präziserer Kurven in Diagrammen
+    - Verbessertes Übersetzungsprogramm für mehr Genauigkeit bei der Übersetzung
+    - Größenänderung frei mit dem Lasso-Werkzeug
+    - Neues Suchfenster:
+    - Einfaches Suchen von Inhalten in PDFs
+    - Suche nach bestimmten Texten in deinen handschriftlichen Notizen
+    - Wir stellen das Cover Feature vor:
+    - Gestalte deine Notizen und Ordner mit über 50 atemberaubenden Covern
+    - Schreibe und markiere direkt auf deinen Covern
+    - Die Benutzeroberfläche (UI) wurde neu gestaltet, um das Benutzererlebnis zu optimieren:
+    - Überarbeiteter Home-Bildschirm, Dock, Menüs, Fenster "Zusammenarbeit", Fenster "Stiftauswahl", Lineal, Suchfenster, Lesezeichenfenster, Fenster "Neue Notiz erstellen" und mehr
+    - Leistungs- und Stabilitätsverbesserungen:
+    - Umfassende Sprachunterstützung mit qualitativ hochwertiger Übersetzung: Unterstützt eine breite Palette von Sprachen, darunter Hindi, Deutsch, vereinfachtes Chinesisch, traditionelles Chinesisch, Französisch, Spanisch, Japanisch, Portugiesisch und Koreanisch
+    - Wir stellen vor: CollaNote Premium - Erhalte Zugang zu erweiterten Tools und Funktionen, die deine Produktivität und Kreativität steigern
+
+    Mit diesem großen Update freuen wir uns, einen bedeutenden Meilenstein anzukündigen:
+
+    CollaNote wird jetzt von einem Team entwickelt!
+
+    Die Reise von CollaNote begann mit einem Studenten der Universität Hamburg, der eine Leidenschaft für digitales Papier hatte. Heute leitet er das CollaNote-Team: mit dem neu gegründeten Team ist er voller Vorfreude auf die rasanten Fortschritte, die CollaNote in Zukunft machen wird.
+
+    Wir möchten uns bei euch allen dafür bedanken, dass ihr CollaNote von Anfang an unterstützt habt, und halten euch über unsere spannenden neuen Innovationen auf dem Laufenden.
+Version 2.0.5 (Jul 5, 2023)
+    Wir präsentieren unser bisher größtes Update, vollgepackt mit einer vielfältigen Auswahl neuer Funktionen und Verbesserungen:
+
+    - Erweiterte Schreibtools: Erlebe eine umfangreiche Auswahl von 25 zusätzlichen Stiften und Brushes, die jede andere App für Notizen übertrifft.
+    - Vektor-Stifte: Kugelschreiber, Füllfederhalter, Moderne Kalligrafie, Gestrichelter Stift, Gepunkteter Stift, Marker, Abgerundeter Textmarker, Rechteckiger Textmarker…
+    - Kunst Brushes: Wasserfarbe, Filzstift, Bleistift, Skizzenstift, chinesische Kalligraphie, realistic Marker, Sternbrush.…
+    - 3D-Effekt-Brushes: Golden Ray, Rainbow, Peach, Baby Blue, Green grass, Orange, Blue Candy Stick, Mossy Green, Sunrise, Hologram…
+    - Neue Handschrift-Engine: Wir stellen unsere neue und fortschrittliche Handschrift-Engine vor, die die Art und Weise, wie du auf deinem iPad schreibst, revolutioniert.
+    - Überzeugendes Schreibgefühl mit ultra-niedriger Latenz und hoher Präzision
+    - Stabilisatorfunktion für eine Handschrift, besser als auf Papier
+    - Verbesserte Utility Tools:
+    - Überarbeitetes Füllwerkzeug zum Füllen von Formen mit eindrucksvollen Animationen
+    - Verbessertes Kurvenwerkzeug zum Zeichnen präziserer Kurven in Diagrammen
+    - Verbessertes Übersetzungsprogramm für mehr Genauigkeit bei der Übersetzung
+    - Größenänderung frei mit dem Lasso-Werkzeug
+    - Neues Suchfenster:
+    - Einfaches Suchen von Inhalten in PDFs
+    - Suche nach bestimmten Texten in deinen handschriftlichen Notizen
+    - Wir stellen das Cover Feature vor:
+    - Gestalte deine Notizen und Ordner mit über 50 atemberaubenden Covern
+    - Schreibe und markiere direkt auf deinen Covern
+    - Die Benutzeroberfläche (UI) wurde neu gestaltet, um das Benutzererlebnis zu optimieren:
+    - Überarbeiteter Home-Bildschirm, Dock, Menüs, Fenster "Zusammenarbeit", Fenster "Stiftauswahl", Lineal, Suchfenster, Lesezeichenfenster, Fenster "Neue Notiz erstellen" und mehr
+    - Leistungs- und Stabilitätsverbesserungen:
+    - Umfassende Sprachunterstützung mit qualitativ hochwertiger Übersetzung: Unterstützt eine breite Palette von Sprachen, darunter Hindi, Deutsch, vereinfachtes Chinesisch, traditionelles Chinesisch, Französisch, Spanisch, Japanisch, Portugiesisch und Koreanisch
+    - Wir stellen vor: CollaNote Premium - Erhalte Zugang zu erweiterten Tools und Funktionen, die deine Produktivität und Kreativität steigern
+
+    Mit diesem großen Update freuen wir uns, einen bedeutenden Meilenstein anzukündigen:
+
+    CollaNote wird jetzt von einem Team entwickelt!
+
+    Die Reise von CollaNote begann mit einem Studenten der Universität Hamburg, der eine Leidenschaft für digitales Papier hatte. Heute leitet er das CollaNote-Team: mit dem neu gegründeten Team ist er voller Vorfreude auf die rasanten Fortschritte, die CollaNote in Zukunft machen wird.
+
+    Wir möchten uns bei euch allen dafür bedanken, dass ihr CollaNote von Anfang an unterstützt habt, und halten euch über unsere spannenden neuen Innovationen auf dem Laufenden.
+Version 2.0.4 (Jul 1, 2023)
+    Wir präsentieren unser bisher größtes Update, vollgepackt mit einer vielfältigen Auswahl neuer Funktionen und Verbesserungen:
+
+    - Erweiterte Schreibtools: Erlebe eine umfangreiche Auswahl von 25 zusätzlichen Stiften und Brushes, die jede andere App für Notizen übertrifft.
+    - Vektor-Stifte: Kugelschreiber, Füllfederhalter, Moderne Kalligrafie, Gestrichelter Stift, Gepunkteter Stift, Marker, Abgerundeter Textmarker, Rechteckiger Textmarker…
+    - Kunst Brushes: Wasserfarbe, Filzstift, Bleistift, Skizzenstift, chinesische Kalligraphie, realistic Marker, Sternbrush.…
+    - 3D-Effekt-Brushes: Golden Ray, Rainbow, Peach, Baby Blue, Green grass, Orange, Blue Candy Stick, Mossy Green, Sunrise, Hologram…
+    - Neue Handschrift-Engine: Wir stellen unsere neue und fortschrittliche Handschrift-Engine vor, die die Art und Weise, wie du auf deinem iPad schreibst, revolutioniert.
+    - Überzeugendes Schreibgefühl mit ultra-niedriger Latenz und hoher Präzision
+    - Stabilisatorfunktion für eine Handschrift, besser als auf Papier
+    - Verbesserte Utility Tools:
+    - Überarbeitetes Füllwerkzeug zum Füllen von Formen mit eindrucksvollen Animationen
+    - Verbessertes Kurvenwerkzeug zum Zeichnen präziserer Kurven in Diagrammen
+    - Verbessertes Übersetzungsprogramm für mehr Genauigkeit bei der Übersetzung
+    - Größenänderung frei mit dem Lasso-Werkzeug
+    - Neues Suchfenster:
+    - Einfaches Suchen von Inhalten in PDFs
+    - Suche nach bestimmten Texten in deinen handschriftlichen Notizen
+    - Wir stellen das Cover Feature vor:
+    - Gestalte deine Notizen und Ordner mit über 50 atemberaubenden Covern
+    - Schreibe und markiere direkt auf deinen Covern
+    - Die Benutzeroberfläche (UI) wurde neu gestaltet, um das Benutzererlebnis zu optimieren:
+    - Überarbeiteter Home-Bildschirm, Dock, Menüs, Fenster "Zusammenarbeit", Fenster "Stiftauswahl", Lineal, Suchfenster, Lesezeichenfenster, Fenster "Neue Notiz erstellen" und mehr
+    - Leistungs- und Stabilitätsverbesserungen:
+    - Umfassende Sprachunterstützung mit qualitativ hochwertiger Übersetzung: Unterstützt eine breite Palette von Sprachen, darunter Hindi, Deutsch, vereinfachtes Chinesisch, traditionelles Chinesisch, Französisch, Spanisch, Japanisch, Portugiesisch und Koreanisch
+    - Wir stellen vor: CollaNote Premium - Erhalte Zugang zu erweiterten Tools und Funktionen, die deine Produktivität und Kreativität steigern
+
+    Mit diesem großen Update freuen wir uns, einen bedeutenden Meilenstein anzukündigen:
+
+    CollaNote wird jetzt von einem Team entwickelt!
+
+    Die Reise von CollaNote begann mit einem Studenten der Universität Hamburg, der eine Leidenschaft für digitales Papier hatte. Heute leitet er das CollaNote-Team: mit dem neu gegründeten Team ist er voller Vorfreude auf die rasanten Fortschritte, die CollaNote in Zukunft machen wird.
+
+    Wir möchten uns bei euch allen dafür bedanken, dass ihr CollaNote von Anfang an unterstützt habt, und halten euch über unsere spannenden neuen Innovationen auf dem Laufenden.
+Version 2.0.3 (Jun 29, 2023)
+    Wir präsentieren unser bisher größtes Update, vollgepackt mit einer vielfältigen Auswahl neuer Funktionen und Verbesserungen:
+
+    - Erweiterte Schreibtools: Erlebe eine umfangreiche Auswahl von 25 zusätzlichen Stiften und Brushes, die jede andere App für Notizen übertrifft.
+    - Vektor-Stifte: Kugelschreiber, Füllfederhalter, Moderne Kalligrafie, Gestrichelter Stift, Gepunkteter Stift, Marker, Abgerundeter Textmarker, Rechteckiger Textmarker…
+    - Kunst Brushes: Wasserfarbe, Filzstift, Bleistift, Skizzenstift, chinesische Kalligraphie, realistic Marker, Sternbrush.…
+    - 3D-Effekt-Brushes: Golden Ray, Rainbow, Peach, Baby Blue, Green grass, Orange, Blue Candy Stick, Mossy Green, Sunrise, Hologram…
+    - Neue Handschrift-Engine: Wir stellen unsere neue und fortschrittliche Handschrift-Engine vor, die die Art und Weise, wie du auf deinem iPad schreibst, revolutioniert.
+    - Überzeugendes Schreibgefühl mit ultra-niedriger Latenz und hoher Präzision
+    - Stabilisatorfunktion für eine Handschrift, besser als auf Papier
+    - Verbesserte Utility Tools:
+    - Überarbeitetes Füllwerkzeug zum Füllen von Formen mit eindrucksvollen Animationen
+    - Verbessertes Kurvenwerkzeug zum Zeichnen präziserer Kurven in Diagrammen
+    - Verbessertes Übersetzungsprogramm für mehr Genauigkeit bei der Übersetzung
+    - Größenänderung frei mit dem Lasso-Werkzeug
+    - Neues Suchfenster:
+    - Einfaches Suchen von Inhalten in PDFs
+    - Suche nach bestimmten Texten in deinen handschriftlichen Notizen
+    - Wir stellen das Cover Feature vor:
+    - Gestalte deine Notizen und Ordner mit über 50 atemberaubenden Covern
+    - Schreibe und markiere direkt auf deinen Covern
+    - Die Benutzeroberfläche (UI) wurde neu gestaltet, um das Benutzererlebnis zu optimieren:
+    - Überarbeiteter Home-Bildschirm, Dock, Menüs, Fenster "Zusammenarbeit", Fenster "Stiftauswahl", Lineal, Suchfenster, Lesezeichenfenster, Fenster "Neue Notiz erstellen" und mehr
+    - Leistungs- und Stabilitätsverbesserungen:
+    - Umfassende Sprachunterstützung mit qualitativ hochwertiger Übersetzung: Unterstützt eine breite Palette von Sprachen, darunter Hindi, Deutsch, vereinfachtes Chinesisch, traditionelles Chinesisch, Französisch, Spanisch, Japanisch, Portugiesisch und Koreanisch
+    - Wir stellen vor: CollaNote Premium - Erhalte Zugang zu erweiterten Tools und Funktionen, die deine Produktivität und Kreativität steigern
+
+    Mit diesem großen Update freuen wir uns, einen bedeutenden Meilenstein anzukündigen:
+
+    CollaNote wird jetzt von einem Team entwickelt!
+
+    Die Reise von CollaNote begann mit einem Studenten der Universität Hamburg, der eine Leidenschaft für digitales Papier hatte. Heute leitet er das CollaNote-Team: mit dem neu gegründeten Team ist er voller Vorfreude auf die rasanten Fortschritte, die CollaNote in Zukunft machen wird.
+
+    Wir möchten uns bei euch allen dafür bedanken, dass ihr CollaNote von Anfang an unterstützt habt, und halten euch über unsere spannenden neuen Innovationen auf dem Laufenden.
+Version 2.0.1 (Jun 26, 2023)
+    Wir präsentieren unser bisher größtes Update, vollgepackt mit einer vielfältigen Auswahl neuer Funktionen und Verbesserungen:
+
+    - Erweiterte Schreibtools: Erlebe eine umfangreiche Auswahl von 25 zusätzlichen Stiften und Brushes, die jede andere App für Notizen übertrifft.
+    - Vektor-Stifte: Kugelschreiber, Füllfederhalter, Moderne Kalligrafie, Gestrichelter Stift, Gepunkteter Stift, Marker, Abgerundeter Textmarker, Rechteckiger Textmarker…
+    - Kunst Brushes: Wasserfarbe, Filzstift, Bleistift, Skizzenstift, chinesische Kalligraphie, realistic Marker, Sternbrush.…
+    - 3D-Effekt-Brushes: Golden Ray, Rainbow, Peach, Baby Blue, Green grass, Orange, Blue Candy Stick, Mossy Green, Sunrise, Hologram…
+    - Neue Handschrift-Engine: Wir stellen unsere neue und fortschrittliche Handschrift-Engine vor, die die Art und Weise, wie du auf deinem iPad schreibst, revolutioniert.
+    - Überzeugendes Schreibgefühl mit ultra-niedriger Latenz und hoher Präzision
+    - Stabilisatorfunktion für eine Handschrift, besser als auf Papier
+    - Verbesserte Utility Tools:
+    - Überarbeitetes Füllwerkzeug zum Füllen von Formen mit eindrucksvollen Animationen
+    - Verbessertes Kurvenwerkzeug zum Zeichnen präziserer Kurven in Diagrammen
+    - Verbessertes Übersetzungsprogramm für mehr Genauigkeit bei der Übersetzung
+    - Größenänderung frei mit dem Lasso-Werkzeug
+    - Neues Suchfenster:
+    - Einfaches Suchen von Inhalten in PDFs
+    - Suche nach bestimmten Texten in deinen handschriftlichen Notizen
+    - Wir stellen das Cover Feature vor:
+    - Gestalte deine Notizen und Ordner mit über 50 atemberaubenden Covern
+    - Schreibe und markiere direkt auf deinen Covern
+    - Die Benutzeroberfläche (UI) wurde neu gestaltet, um das Benutzererlebnis zu optimieren:
+    - Überarbeiteter Home-Bildschirm, Dock, Menüs, Fenster "Zusammenarbeit", Fenster "Stiftauswahl", Lineal, Suchfenster, Lesezeichenfenster, Fenster "Neue Notiz erstellen" und mehr
+    - Leistungs- und Stabilitätsverbesserungen:
+    - Umfassende Sprachunterstützung mit qualitativ hochwertiger Übersetzung: Unterstützt eine breite Palette von Sprachen, darunter Hindi, Deutsch, vereinfachtes Chinesisch, traditionelles Chinesisch, Französisch, Spanisch, Japanisch, Portugiesisch und Koreanisch
+    - Wir stellen vor: CollaNote Premium - Erhalte Zugang zu erweiterten Tools und Funktionen, die deine Produktivität und Kreativität steigern
+
+    Mit diesem großen Update freuen wir uns, einen bedeutenden Meilenstein anzukündigen:
+
+    CollaNote wird jetzt von einem Team entwickelt!
+
+    Die Reise von CollaNote begann mit einem Studenten der Universität Hamburg, der eine Leidenschaft für digitales Papier hatte. Heute leitet er das CollaNote-Team: mit dem neu gegründeten Team ist er voller Vorfreude auf die rasanten Fortschritte, die CollaNote in Zukunft machen wird.
+
+    Wir möchten uns bei euch allen dafür bedanken, dass ihr CollaNote von Anfang an unterstützt habt, und halten euch über unsere spannenden neuen Innovationen auf dem Laufenden.
+Version 2.0.0 (Jun 25, 2023)
+    Wir präsentieren unser bisher größtes Update, vollgepackt mit einer vielfältigen Auswahl neuer Funktionen und Verbesserungen:
+
+    - Erweiterte Schreibtools: Erlebe eine umfangreiche Auswahl von 25 zusätzlichen Stiften und Brushes, die jede andere App für Notizen übertrifft.
+    - Vektor-Stifte: Kugelschreiber, Füllfederhalter, Moderne Kalligrafie, Gestrichelter Stift, Gepunkteter Stift, Marker, Abgerundeter Textmarker, Rechteckiger Textmarker…
+    - Kunst Brushes: Wasserfarbe, Filzstift, Bleistift, Skizzenstift, chinesische Kalligraphie, realistic Marker, Sternbrush.…
+    - 3D-Effekt-Brushes: Golden Ray, Rainbow, Peach, Baby Blue, Green grass, Orange, Blue Candy Stick, Mossy Green, Sunrise, Hologram…
+    - Neue Handschrift-Engine: Wir stellen unsere neue und fortschrittliche Handschrift-Engine vor, die die Art und Weise, wie du auf deinem iPad schreibst, revolutioniert.
+    - Überzeugendes Schreibgefühl mit ultra-niedriger Latenz und hoher Präzision
+    - Stabilisatorfunktion für eine Handschrift, besser als auf Papier
+    - Verbesserte Utility Tools:
+    - Überarbeitetes Füllwerkzeug zum Füllen von Formen mit eindrucksvollen Animationen
+    - Verbessertes Kurvenwerkzeug zum Zeichnen präziserer Kurven in Diagrammen
+    - Verbessertes Übersetzungsprogramm für mehr Genauigkeit bei der Übersetzung
+    - Größenänderung frei mit dem Lasso-Werkzeug
+    - Neues Suchfenster:
+    - Einfaches Suchen von Inhalten in PDFs
+    - Suche nach bestimmten Texten in deinen handschriftlichen Notizen
+    - Wir stellen das Cover Feature vor:
+    - Gestalte deine Notizen und Ordner mit über 50 atemberaubenden Covern
+    - Schreibe und markiere direkt auf deinen Covern
+    - Die Benutzeroberfläche (UI) wurde neu gestaltet, um das Benutzererlebnis zu optimieren:
+    - Überarbeiteter Home-Bildschirm, Dock, Menüs, Fenster "Zusammenarbeit", Fenster "Stiftauswahl", Lineal, Suchfenster, Lesezeichenfenster, Fenster "Neue Notiz erstellen" und mehr
+    - Leistungs- und Stabilitätsverbesserungen:
+    - Umfassende Sprachunterstützung mit qualitativ hochwertiger Übersetzung: Unterstützt eine breite Palette von Sprachen, darunter Hindi, Deutsch, vereinfachtes Chinesisch, traditionelles Chinesisch, Französisch, Spanisch, Japanisch, Portugiesisch und Koreanisch
+    - Wir stellen vor: CollaNote Premium - Erhalte Zugang zu erweiterten Tools und Funktionen, die deine Produktivität und Kreativität steigern
+
+    Mit diesem großen Update freuen wir uns, einen bedeutenden Meilenstein anzukündigen:
+
+    CollaNote wird jetzt von einem Team entwickelt!
+
+    Die Reise von CollaNote begann mit einem Studenten der Universität Hamburg, der eine Leidenschaft für digitales Papier hatte. Heute leitet er das CollaNote-Team: mit dem neu gegründeten Team ist er voller Vorfreude auf die rasanten Fortschritte, die CollaNote in Zukunft machen wird.
+
+    Wir möchten uns bei euch allen dafür bedanken, dass ihr CollaNote von Anfang an unterstützt habt, und halten euch über unsere spannenden neuen Innovationen auf dem Laufenden.
+Version 1.4.34 (Jun 20, 2023)
+    - Behobene Fehler
+    - Verbesserte Leistung
+Version 1.4.33 (Jun 13, 2023)
+    - Behobene Fehler
+    - Leistungsverbesserung
+    - Vorbereitung auf das große Update, das in wenigen Tagen verfügbar sein wird
+Version 1.4.32 (Jan 4, 2023)
+    Kleinere Fehlerbehebungen und Verbesserungen
+
+    Am Beta-Programm teilnehmen, um neue Funktionen des großen Updates zu testen:
+    https://forms.gle/rqxpksX8JCs3xSUz7
+Version 1.4.31 (Dec 8, 2022)
+    Vorbereitung auf das nächste große Update
+Version 1.4.30 (Nov 16, 2022)
+    - Neue Funktion: Seitenzahl schreiben, um zur Seite zu springen
+    + Jetzt kannst du eine Seitenzahl notieren, um schnell zu der Seite zu springen.
+    + Um auf diese Funktion zuzugreifen, öffne eine Notiz und tippe auf die Schaltfläche "Seiten". Unten im Fenster des Seitenmanagers wird eine Ansicht angezeigt
+    + Diese Funktion wird nur angezeigt, wenn du eine Notiz mit vielen Seiten öffnest.
+Version 1.4.29 (Nov 10, 2022)
+    Fehlerbehebungen und Leistungsverbesserungen
+Version 1.4.28 (Nov 6, 2022)
+    Fehler im Übersetzungstool behoben: Text-to-Speech funktioniert nicht in iOS 16
+Version 1.4.27 (Nov 2, 2022)
+    Fehlerbehebungen und Leistungsverbesserungen
+Version 1.4.26 (Oct 30, 2022)
+    - Unterstützung für Arabisch
+    - Schnelleres Öffnen eines Aufkleberpaketes mit vielen Aufklebern
+    - Fehler in den Vorlagen behoben
+    - Mehr öffentliche Räume hinzufügen
+Version 1.4.25 (Oct 24, 2022)
+    - Neugestaltung der Benutzeroberfläche des Profilfensters
+    - Fehler in den Favoriten-Tools behoben
+    - Fehler bei der Audioaufnahme behoben
+    - Fehler beim Verschieben oder Umbenennen von Notizen behoben
+Version 1.4.24 (Oct 19, 2022)
+    Fehler beheben
+Version 1.4.23 (Oct 15, 2022)
+    - Neue Funktion: Füge deine eigenen Sticker hinzu
+    + Um ein neues Stickerpaket hinzuzufügen: Öffne das Menü "Sticker einfügen" -> Sticker hinzufügen -> Neues Paket hinzufügen
+    + Um Aufkleber zu einem Paket hinzuzufügen: Öffne das Menü "Sticker einfügen" -> Sticker hinzufügen -> Wähle ein Paket aus -> Sticker hinzufügen
+
+    - Speichernutzung reduzieren
+Version 1.4.22 (Oct 12, 2022)
+    Update mit interessanten Detailverbesserungen:
+
+
+    - Automatische Wiederaufnahme der Audioaufzeichnung nach einer Unterbrechung
+    - Animation der Audioaufnahme geändert
+
+    - Ordner und Notizen sind jetzt in 2 Bereiche unterteilt
+    - Animationen und Effekte im Dateimanager-Fenster hinzugefügt
+    - Entfernen von MetaDaten-Dateien
+    - Ordnercover werden mit iCloud synchronisiert
+
+    - Anzeige der Miniaturansicht von Notizen in der Dateien-App (nur in der neuesten iOS-Version)
+Version 1.4.21 (Oct 9, 2022)
+    Update mit interessanten Detailverbesserungen:
+
+
+    - Automatische Wiederaufnahme der Audioaufzeichnung nach einer Unterbrechung
+    - Animation der Audioaufnahme geändert
+
+    - Ordner und Notizen sind jetzt in 2 Bereiche unterteilt
+    - Animationen und Effekte im Dateimanager-Fenster hinzugefügt
+    - Entfernen von MetaDaten-Dateien
+    - Ordnercover werden mit iCloud synchronisiert
+
+    - Anzeige der Miniaturansicht von Notizen in der Dateien-App (nur in der neuesten iOS-Version)
+Version 1.4.20 (Oct 2, 2022)
+    - Neue Formerkennung, Verbesserung der Erkennungsgenauigkeit von Formen
+    - Aktualisierung der Thai-Übersetzung (vielen Dank an Ozone für die Übersetzung von CollaNote ins Thailändische)
+    - Kleine Änderungen beim Speichern von Notizen
+    - Fehler behoben
+Version 1.4.19 (Sep 27, 2022)
+    ****** GROSSES UPDATE ******
+
+
+    - Jetzt kannst du Audio im Hintergrund aufzeichnen, z.B. wenn du andere Apps während der Audioaufzeichnung benutzt
+    - Französische Übersetzung wurde aktualisiert
+
+
+    - Neue Funktion: Multi-Windows, um ein neues Fenster zu erstellen:
+    + Tippe auf den Namen einer Notiz, dann wähle "In neuem Fenster öffnen".
+    + Öffne das Dock, ziehe das CollaNote-Symbol auf den Bildschirm und lege es ab.
+    + Ziehe das Notizensymbol auf die linke oder rechte Seite des Bildschirms und lege es dort ab.
+    + Öffne die Registerkarte "Dateimanager" in der Seitenleiste (während du eine Notiz machst) und wähle eine Notiz aus.
+
+    - Neue Funktion: Tabs zum Wechseln zwischen Fenstern
+    + Tabs werden nur angezeigt, wenn mehr als 2 Fenster geöffnet sind.
+    + Jede Registerkarte hat eine Miniaturansicht für die geöffnete Notiz oder den Ordner
+    + Jede Registerkarte enthält den Namen der aktuellen Notiz oder des Ordners
+    + Du kannst ein Fenster schließen, indem du auf den Schließen-Button auf jeder Registerkarte tippst.
+    + Tippe auf die Fenster-Schaltfläche, um alle Tabs auszublenden
+
+    - Neue Registerkarte in der Seitenleiste: Dateimanager
+
+    - UI Redesign:
+    + Neue Icons
+    + Neues Fenster für die Auswahl der Schreibwerkzeuge
+    + Neues Menü "Zusammenarbeit
+    + Neues Menü "Einstellungen
+    + Neues Menü "Exportieren
+
+    - Importieren von sehr großen PDF-Dateien (GB-Größe)
+    - Reduziert die Speichernutzung
+
+    - Neue digitale Planer:
+    + 2023 Boho-Planer
+    + Studenten-Planer
+Version 1.4.18 (Sep 19, 2022)
+    ****** GROSSES UPDATE ******
+
+    - Neue Funktion: Multi-Windows, um ein neues Fenster zu erstellen:
+    + Tippe auf den Namen einer Notiz, dann wähle "In neuem Fenster öffnen".
+    + Öffne das Dock, ziehe das CollaNote-Symbol auf den Bildschirm und lege es ab.
+    + Ziehe das Notizensymbol auf die linke oder rechte Seite des Bildschirms und lege es dort ab.
+    + Öffne die Registerkarte "Dateimanager" in der Seitenleiste (während du eine Notiz machst) und wähle eine Notiz aus.
+
+    - Neue Funktion: Tabs zum Wechseln zwischen Fenstern
+    + Tabs werden nur angezeigt, wenn mehr als 2 Fenster geöffnet sind.
+    + Jede Registerkarte hat eine Miniaturansicht für die geöffnete Notiz oder den Ordner
+    + Jede Registerkarte enthält den Namen der aktuellen Notiz oder des Ordners
+    + Du kannst ein Fenster schließen, indem du auf den Schließen-Button auf jeder Registerkarte tippst.
+    + Tippe auf die Fenster-Schaltfläche, um alle Tabs auszublenden
+
+    - Neue Registerkarte in der Seitenleiste: Dateimanager
+
+    - UI Redesign:
+    + Neue Icons
+    + Neues Fenster für die Auswahl der Schreibwerkzeuge
+    + Neues Menü "Zusammenarbeit
+    + Neues Menü "Einstellungen
+    + Neues Menü "Exportieren
+
+    - Importieren von sehr großen PDF-Dateien (GB-Größe)
+    - Reduziert die Speichernutzung
+
+    - Neue digitale Planer:
+    + 2023 Boho-Planer
+    + Studenten-Planer
+Version 1.4.17 (Sep 17, 2022)
+    ****** GROSSES UPDATE ******
+
+    - Neue Funktion: Multi-Windows, um ein neues Fenster zu erstellen:
+    + Tippe auf den Namen einer Notiz, dann wähle "In neuem Fenster öffnen".
+    + Öffne das Dock, ziehe das CollaNote-Symbol auf den Bildschirm und lege es ab.
+    + Ziehe das Notizensymbol auf die linke oder rechte Seite des Bildschirms und lege es dort ab.
+    + Öffne die Registerkarte "Dateimanager" in der Seitenleiste (während du eine Notiz machst) und wähle eine Notiz aus.
+
+    - Neue Funktion: Tabs zum Wechseln zwischen Fenstern
+    + Tabs werden nur angezeigt, wenn mehr als 2 Fenster geöffnet sind.
+    + Jede Registerkarte hat eine Miniaturansicht für die geöffnete Notiz oder den Ordner
+    + Jede Registerkarte enthält den Namen der aktuellen Notiz oder des Ordners
+    + Du kannst ein Fenster schließen, indem du auf den Schließen-Button auf jeder Registerkarte tippst.
+    + Tippe auf die Fenster-Schaltfläche, um alle Tabs auszublenden
+
+    - Neue Registerkarte in der Seitenleiste: Dateimanager
+
+    - UI Redesign:
+    + Neue Icons
+    + Neues Fenster für die Auswahl der Schreibwerkzeuge
+    + Neues Menü "Zusammenarbeit
+    + Neues Menü "Einstellungen
+    + Neues Menü "Exportieren
+
+    - Importieren von sehr großen PDF-Dateien (GB-Größe)
+    - Reduziert die Speichernutzung
+
+    - Neue digitale Planer:
+    + 2023 Boho-Planer
+    + Studenten-Planer
+Version 1.4.15 (Aug 23, 2022)
+    ***** GROSSES UPDATE *****
+    Dieses Update bringt die 2 am meisten gewünschten Funktionen: Notizen mit Passwort sperren & Farbe der Benutzeroberfläche frei wählen
+
+    - Neue Funktion: Sperre deine Notizen mit Passwortschutz
+    + Um deine Notiz zu sperren: Tippe auf den Namen einer Notiz und wähle "Diese Notiz sperren". Du kannst dein Passwort eingeben oder es mit dem Apple Pencil schreiben.
+    + Gesperrte Notizen haben eine unscharfe Miniaturansicht, um deine Privatsphäre zu schützen.
+    + Um deine Notiz zu entsperren: Tippe auf den Namen einer gesperrten Notiz und wähle "Passwort entfernen".
+
+    - Neue Funktion: UI-Farbe ändern. Du kannst jetzt die Farbe der Benutzeroberfläche anpassen.
+    Um die Farbe der Benutzeroberfläche zu ändern: Öffne eine Notiz, tippe auf das Menü, wähle "App-Einstellungen" und tippe dann auf "Farbe der Benutzeroberfläche ändern".
+
+    - Neue Sticker-Pakete:
+    + Herbst-Sticker
+    + Mid-Autumn Festival Pack
+
+    - Neues UI-Design:
+    + Startbildschirm:
+    - Tippe auf den Namen eines Ordners, um: umzubenennen, das Cover zu ändern, in einen anderen Ordner zu verschieben oder zu löschen
+    - Tippe auf den Namen einer Notiz, um: mit Passwort zu sperren, umzubenennen, zu duplizieren, in einen anderen Ordner zu verschieben oder zu löschen
+    - Neues Ordnerdesign
+
+    - Verbesserte Leistung
+Version 1.4.14 (Jul 31, 2022)
+    - Ich habe neue digitale Planer hinzugefügt
+    - und es gibt neue Anatomie-Sticker
+
+    Ein großes Update kommt bald, bleib dran!
+Version 1.4.13 (Jul 21, 2022)
+    Vorbereitung auf das große Update
+    Fehler behoben
+Version 1.4.12 (Jun 15, 2022)
+    HINWEIS: CollaNote ist noch nicht mit iOS 16 Beta kompatibel
+
+    - Neue Eigenschaften:
+    + Zoomstufe beim Zoomen anzeigen
+    + Auf gerundeten Zoomwert springen, wenn auf "Zoomstufenfenster" getippt wird
+    + Neue Option für Textwerkzeug: Wortvorschläge anzeigen
+
+    - Neue Vorlagen: Abschluss, Pilzplaner, Dragon Boast Festival
+    - Neue Stickerpakete: Anatomie, Reisen, Schulmaterial
+    - Neue digitale Planer: Coffee Planner, Student Planner, Essential Planner...
+
+    - Behebung eines Fehlers beim Handringen mit dem Lasso-Werkzeug
+    - Behebung eines Fehlers, bei dem PDF aus einigen Apps wie Google Chrome nicht importiert werden kann
+    - Schaltfläche oben auf der Tastatur hinzufügen, um die Tastatur auf dem iPhone zu schließen
+Version 1.4.11 (May 14, 2022)
+    - Neue Benutzeroberfläche für die Funktion "Neue Notiz erstellen".
+    - Neue Funktion "Digitaler Planer".
+    - Neues UI-Design für das Fenster "Tipps für Anfänger".
+    - Behebung von Fehlern im Textwerkzeug
+    - Mehr Tutorial-Videos hinzugefügt
+Version 1.4.10 (Apr 26, 2022)
+    - Neuer Funktionen für Künstler in Public Note
+    - Neue Anleitungsvideos hinzufügen
+    - Kleine Verbesserungen im Textwerkzeug
+    - Behebung eines Fehlers bei der " Highlight hinter der Handschrift Funktion" bei Verwendung des Textmarkers
+Version 1.4.9 (Apr 11, 2022)
+    Dieses Update bringt eines der besten TEXT-TOOLS aller Notiz-Apps zu CollaNote
+
+    ÄNDERUNGEN IM TEXTWERKZEUG:
+    - Neue kleine Schaltfläche auf der rechten Seite jedes Textfeldes, um ein Textfeld horizontal zu strecken. Beim Dehnen wird die Höhe des Textfeldes angepasst, damit alle Texte im Textfeld sichtbar sind.
+    - Neue Schaltfläche im Menü des Textwerkzeugs, damit der Text alle Textfelder vollständig ausgefüllt wird
+    - Die Breite eines Textfeldes beibehalten, wenn es in der Größe verändert oder gestreckt wurde
+    - Verhindert, dass der Rahmen eines Textfeldes den Bildschirm verlässt, wenn ein langer Satz getippt wird
+    - Die Schaltfläche "Größe ändern" ändert jetzt die Schriftgröße, damit Texte die Textfelder ausfüllt
+    - Eingefügter Text haben jetzt denselben Textstil wie der letzte Text
+
+    NEUES MENÜ FÜR DIE FARBAUSWAHL:
+    - Stiftstile: Kugelschreiber und Füllfederhalter
+    - Neue Benutzeroberfläche
+    - Verschiebe einige Einstellungen aus dem Haupteinstellungsfenster in das neue Farbauswahlfenster
+
+
+    DAS NEUE TEXTWERKZEUG:
+    - Tippe auf das Textwerkzeug und es öffnet sich kein neues Fenster mehr, um Text einzugeben
+    - Hinzufügen eines Textfeldes: Wähle das Textwerkzeug aus und tippe dann auf das Dokument, um ein Textfeld an der gewünschten Stelle hinzuzufügen
+    - 2 Möglichkeiten, ein bestehendes Textfeld zu bearbeiten:
+    + Doppeltippen auf ein Textfeld
+    + Aktiviere das Box-Bearbeitungstool, wähle dann ein Textfeld aus und tippe auf "Text bearbeiten".
+    - Textfelder haben jetzt dynamische Farben, um den Smart Dark Mode zu unterstützen
+    - Du kannst mehrere Schriftarten, Schriftgrößen und verschiedene Farben in einem Textfeld verwenden.
+    - Textfelder haben jetzt eine dynamische Höhe: Die Höhe von Textfeldern wird erhöht, wenn der Benutzer eine neue Zeile eingibt
+
+    TEXTWERKZEUGEINSTELLUNGEN: Doppeltipp auf das Textwerkzeugsymbol, um die Textwerkzeugeinstellungen zu öffnen
+    - Option zum Aktivieren der dynamischen Schriftgröße: Die Schriftgröße eines Textfeldes wird angepasst, wenn der Nutzer die Größe des Textfeldes ändert. Dadurch passen die Texte in das Textfeld.
+    - Option für Aktionen bei der Auswahl eines Favoritentextstils:
+    + Neue Textvorlage auf den gesamten Text eines Textfeldes anwenden
+    + Neue Textvorlage auf den aktuellen Absatz anwenden
+    + Neue Textvorlage auf neue Texte anwenden
+    - Option zum Deaktivieren der Scribble-Funktion von iOS
+
+    TEXT FORMATIEREN: Wenn du Text bearbeitest, wird eine neue Symbolleiste über der Tastatur angezeigt. Diese Symbolleiste enthält viele Schaltflächen zum Formatieren von Text.
+    - Text ausrichten: links, mittig, rechts
+    - Text als fett, kursiv und unterstrichen formatieren
+    - Text in beliebigen Farben hervorheben
+    - Textstil-Schaltfläche:
+    + Schriftarten auswählen (unterstützt auch benutzerdefinierte Schriftarten, die vom Benutzer importiert wurden)
+    + Schriftgröße auswählen
+    + Textfarbe auswählen
+    + Optionen zur Anwendung des neuen Textstils auf alle Texte, den aktuellen Absatz oder neue Texte
+    + Schaltfläche zum Hinzufügen des aktuellen Textstils zu den Favoriten
+
+    LIEBLINGS-TEXTSTILE:
+    + Schnellzugriff auf alle Textstile, direkt in der Symbolleiste
+    + Entfernen, nach rechts verschieben, nach links verschieben durch Antippen, dann eine Sekunde lang halten
+
+    - Änderungen im Box-Bearbeitungsmodus:
+    + Tippe außerhalb der Boxen, um den Box-Bearbeitungsmodus zu deaktivieren
+    + Entfernen einiger Schaltflächen in Anhangsboxen (Bild- oder Textbox)
+    + Ausblenden der Schaltfläche "Löschen", wenn ein Anhang ausgewählt ist
+
+    Andere Änderungen:
+    - Neue Stickers
+    - Fehler behoben: Text falsch ausgerichtet beim Export von Notizen in PDF
+    - Fehler behoben: Text im Textfeld ist nach dem Zoomen unscharf
+    - Fehler im Smart-dark-Modus behoben
+Version 1.4.8 (Apr 5, 2022)
+    Dieses Update bringt eines der besten TEXT-TOOLS aller Notiz-Apps zu CollaNote
+
+    DAS NEUE TEXTWERKZEUG:
+    - Tippe auf das Textwerkzeug und es öffnet sich kein neues Fenster mehr, um Text einzugeben
+    - Hinzufügen eines Textfeldes: Wähle das Textwerkzeug aus und tippe dann auf das Dokument, um ein Textfeld an der gewünschten Stelle hinzuzufügen
+    - 2 Möglichkeiten, ein bestehendes Textfeld zu bearbeiten:
+       + Doppeltippen auf ein Textfeld
+    + Aktiviere das Box-Bearbeitungstool, wähle dann ein Textfeld aus und tippe auf "Text bearbeiten".
+    - Textfelder haben jetzt dynamische Farben, um den Smart Dark Mode zu unterstützen
+    - Du kannst mehrere Schriftarten, Schriftgrößen und verschiedene Farben in einem Textfeld verwenden.
+    - Textfelder haben jetzt eine dynamische Höhe: Die Höhe von Textfeldern wird erhöht, wenn der Benutzer eine neue Zeile eingibt
+
+    TEXTWERKZEUGEINSTELLUNGEN: Doppeltipp auf das Textwerkzeugsymbol, um die Textwerkzeugeinstellungen zu öffnen
+    - Option zum Aktivieren der dynamischen Schriftgröße: Die Schriftgröße eines Textfeldes wird angepasst, wenn der Nutzer die Größe des Textfeldes ändert. Dadurch passen die Texte in das Textfeld.
+    - Option für Aktionen bei der Auswahl eines Favoritentextstils:
+       + Neue Textvorlage auf den gesamten Text eines Textfeldes anwenden
+       + Neue Textvorlage auf den aktuellen Absatz anwenden
+       + Neue Textvorlage auf neue Texte anwenden
+    - Option zum Deaktivieren der Scribble-Funktion von iOS
+
+    TEXT FORMATIEREN: Wenn du Text bearbeitest, wird eine neue Symbolleiste über der Tastatur angezeigt. Diese Symbolleiste enthält viele Schaltflächen zum Formatieren von Text.
+    - Text ausrichten: links, mittig, rechts
+    - Text als fett, kursiv und unterstrichen formatieren
+    - Text in beliebigen Farben hervorheben
+    - Textstil-Schaltfläche:
+       + Schriftarten auswählen (unterstützt auch benutzerdefinierte Schriftarten, die vom Benutzer importiert wurden)
+       + Schriftgröße auswählen
+       + Textfarbe auswählen
+       + Optionen zur Anwendung des neuen Textstils auf alle Texte, den aktuellen Absatz oder neue Texte
+       + Schaltfläche zum Hinzufügen des aktuellen Textstils zu den Favoriten
+
+    LIEBLINGS-TEXTSTILE:
+       + Schnellzugriff auf alle Textstile, direkt in der Symbolleiste
+       + Entfernen, nach rechts verschieben, nach links verschieben durch Antippen, dann eine Sekunde lang halten
+
+    - Änderungen im Box-Bearbeitungsmodus:
+       + Tippe außerhalb der Boxen, um den Box-Bearbeitungsmodus zu deaktivieren
+       + Entfernen einiger Schaltflächen in Anhangsboxen (Bild- oder Textbox)
+       + Ausblenden der Schaltfläche "Löschen", wenn ein Anhang ausgewählt ist
+
+    Andere Änderungen:
+    - Neue Stickers
+    - Fehler behoben: Text falsch ausgerichtet beim Export von Notizen in PDF
+    - Fehler behoben: Text im Textfeld ist nach dem Zoomen unscharf
+    - Fehler im Smart-dark-Modus behoben
+Version 1.4.7 (Mar 23, 2022)
+    Bug fixiert: Anzahl der Notizteilnehmer wird nun richtig angezeit
+Version 1.4.6 (Mar 22, 2022)
+    ************* GROSSES UPDATE **********
+
+    - Diese Version verwendet den neuen (und leistungsfähigeren) Server.Wenn du mit deinen Freunden zusammenarbeitest, stelle bitte sicher, dass alle auf die neueste Version aktualisiert haben.
+
+    - Neue Funktion: Intelligentes Textfeld
+    + Die Scribble-Funktion des iPad OS wurde deaktiviert und durch die neue Smart Text Field-Funktion ersetzt
+    + Eingabe von Text durch Schreiben mit dem Apple Pencil oder Tippen mit der Tastatur
+    + Unterstützt mehr als 60 Sprachen
+    + Smart Text Field funktioniert nur auf dem iPad OS
+    + Smart Text Fields sind in die folgenden Fenster eingebettet: Neue Notiz erstellen, neuen Ordner erstellen, Notiz umbenennen, Ordner umbenennen, Lesezeichen hinzufügen, Lesezeichen bearbeiten, Web-Widget einfügen, in Notiz suchen...
+
+    - Neue Funktion: In Notizen suchen
+    + Durchsuche Texte in PDFs und Handschriften
+    + Tippe auf die Suchergebnisse, um zur Seite zu springen und Texte zu markieren
+    + Um das Suchfenster zu öffnen: zoome heraus oder wische vom linken Rand des Bildschirms und wähle dann die Registerkarte "Suche".
+
+    - Die Audiowiedergabe wurde neu implementiert:
+    + Möglichkeit, die Abspielgeschwindigkeit des Audioplayers zu ändern
+    + Anzeige der Spielzeit und anderer Informationen während der Wiedergabe
+    + Behebung von Fehlern bei der Audiowiedergabe
+
+    - Verringerung der Speichernutzung
+    - Verbesserte Handflächenabweisung
+    - Neue Funktion: Vorhandene Lesezeichen bearbeiten
+    - Neue Funktion: Wenn du im Kooperationsmodus auf eine handschriftliche Aktivität tippst (wenn jemand Striche zeichnet oder ausradiert), werden die entsprechenden Handschriften auf der Notiz hervorgehoben.
+
+
+    - Fehler behoben: Verzögerung beim Schreiben auf einer Seite mit zu vielen Strichen
+Version 1.4.5 (Mar 16, 2022)
+    ************* GROSSES UPDATE **********
+
+    - Neue Funktion: Intelligentes Textfeld
+       + Die Scribble-Funktion des iPad OS wurde deaktiviert und durch die neue Smart Text Field-Funktion ersetzt
+       + Eingabe von Text durch Schreiben mit dem Apple Pencil oder Tippen mit der Tastatur
+       + Unterstützt mehr als 60 Sprachen
+       + Smart Text Field funktioniert nur auf dem iPad OS
+       + Smart Text Fields sind in die folgenden Fenster eingebettet: Neue Notiz erstellen, neuen Ordner erstellen, Notiz umbenennen, Ordner umbenennen, Lesezeichen hinzufügen, Lesezeichen bearbeiten, Web-Widget einfügen, in Notiz suchen...
+
+    - Neue Funktion: In Notizen suchen
+       + Durchsuche Texte in PDFs und Handschriften
+       + Tippe auf die Suchergebnisse, um zur Seite zu springen und Texte zu markieren
+       + Um das Suchfenster zu öffnen: zoome heraus oder wische vom linken Rand des Bildschirms und wähle dann die Registerkarte "Suche".
+
+    - Die Audiowiedergabe wurde neu implementiert:
+       + Möglichkeit, die Abspielgeschwindigkeit des Audioplayers zu ändern
+       + Anzeige der Spielzeit und anderer Informationen während der Wiedergabe
+       + Behebung von Fehlern bei der Audiowiedergabe
+
+    - Verringerung der Speichernutzung
+    - Verbesserte Handflächenabweisung
+    - Neue Funktion: Vorhandene Lesezeichen bearbeiten
+    - Neue Funktion: Wenn du im Kooperationsmodus auf eine handschriftliche Aktivität tippst (wenn jemand Striche zeichnet oder ausradiert), werden die entsprechenden Handschriften auf der Notiz hervorgehoben.
+
+
+    - Fehler behoben: Verzögerung beim Schreiben auf einer Seite mit zu vielen Strichen
+Version 1.4.4 (Feb 27, 2022)
+    - Neue Funktion: ASMR Writing Sound - simuliere das Geräusch des Schreibens auf Papier.
+    + Das Schreiben auf deinem Gerät fühlt sich besser und realistischer an.
+    + Entspanne dich und reduziere Stress beim Lernen mit ASMR Sound
+    - Neue Funktion: Soundeffekte für Gesten
+    + Soundeffekt für die Geste "Kritzeln, um zu löschen".
+    + Soundeffekt für die Geste "Halten, um eine Form zu zeichnen".
+    - Neue Geste: Wischen vom linken Bildschirmrand zum Öffnen oder Erweitern des Lesezeichenfensters - besonders praktisch, um mit Inhaltsverzeichnissen und Lesezeichen auf dem iPhone zu arbeiten
+    - Neue Geste: Scrollen mit Apple Pencil nach dem Herauszoomen
+
+    - Bessere Anzeige von Dokumenten mit unterschiedlichen Seitengrößen
+
+    - Bugs fixed
+Version 1.4.3 (Feb 25, 2022)
+    - Neue Funktion: ASMR Writing Sound - simuliere das Geräusch des Schreibens auf Papier.
+       + Das Schreiben auf deinem Gerät fühlt sich besser und realistischer an.
+       + Entspanne dich und reduziere Stress beim Lernen mit ASMR Sound
+    - Neue Funktion: Soundeffekte für Gesten
+       + Soundeffekt für die Geste "Kritzeln, um zu löschen".
+       + Soundeffekt für die Geste "Halten, um eine Form zu zeichnen".
+    - Neue Geste: Wischen vom linken Bildschirmrand zum Öffnen oder Erweitern des Lesezeichenfensters  - besonders praktisch, um mit Inhaltsverzeichnissen und Lesezeichen auf dem iPhone zu arbeiten
+    - Neue Geste: Scrollen mit Apple Pencil nach dem Herauszoomen
+
+    - Bessere Anzeige von Dokumenten mit unterschiedlichen Seitengrößen
+
+    - Bugs fixed
+Version 1.4.2 (Feb 16, 2022)
+    Das größte Update, das CollaNote je hatte!
+
+
+    - Neue Ink Engine:
+    + Ersetzen der Rastertinte durch Vektortinte für einen besseren Zoom (von 200% auf 800% !)
+    + Flüssigeres Schreiben mit geringerer Latenz
+
+    - Unterstützung von MacOS (mit M1, M1 Pro & M1 Max)
+    - Neue Funktion: Laserstift mit Fading Effekt
+    - Neue Funktion: Unterstützung benutzerdefinierter Schriftarten
+    - Neue Funktion: Anzeige der Animation beim Wechsel zum letzten Werkzeug durch Doppeltippen auf den Apple Pencil 2
+    - Neue Funktion: Papierfarben für Deine Notizen auswählen
+    - Neue Funktion: Möglichkeit, den Bildschirmhintergrund für die Notizen zu ändern (ähnlich, wie ein Desktop Bild)
+    - Neue Funktion: Einfaches Verschieben von Inhalten (Handschrift, Bild, Text) zwischen den Seiten
+    - Neue Funktion: Durch Tippen auf die Handschrift kannst Du zu dem aufgezeichneten Moment springen (bei der Wiedergabe einer Audioaufnahme)
+    - Neue Funktion: Hinzufügen von Links und Web-Widgets mit dem Lasso-Werkzeug
+    - Neue Funktion: Dunkle Benutzeroberfläche und Smart-Dark-Modus unabhängig voneinander verwendbar
+    - Neue Funktion: Papiernummer in dynamischen Größen anzeigen
+    - Neues Fenster zur Anzeige von Tipps für Neueinsteiger
+    - Sortiere Notizen intelligenter und mit Unterstützung von Sonderzeichen zum Sortieren von Notizen.
+    - Verringern der Haltezeit für automatische Formen (Quadrat, Rechteck, Dreieck, Herz, Sechseck usw.
+
+    - Überarbeitete Benutzeroberfläche mit neuen Icons, neuen Farben.
+    - Zoom von 200% auf 800% erhöht
+    - Überarbeiteter Smart Dark Mode - behält jetzt das Farbschema auch in PDF bei und wandelt die Farben zwischen hellem und dunklem Modus besser um
+    - Verbesserte Leistung im Kollaborationsmodus
+
+
+    Wenn Euch das Update gefällt, würde ich mich über eine Rezension im Store sehr freuen. Danke, dass ihr so geduldig gewartet habt, Euer Quoc Huy
+Version 1.3.4 (Jan 2, 2022)
+    Dieses Update setzt Grundlagen für das folgende große Update
+
+    - Optimierung der Verwendung von Websites in eignen Notizen. Es können nun mehrere Websites direkt in der Notiz geöffnet, benutzt und Inhalte mit Drag and Drop in die Notiz gezogen werden.
+
+    - Optimierung der Verwendung von Wikipedia Website  in deiner Notiz- für noch besseres lernen und kopieren von Inhalten.
+
+    - Wiedergabe von Youtube Videos direkt während des Notierens in der eigenen Notiz
+
+    - Einfachere Verwendung von Webwidgets, z.B. für grafische Taschenrechner oder Übersetzer sowie vielen anderen Anwendungen direkt in der Notiz.
+
+    - Für Users in China: Suchmaschine für Websites in der Notiz geändert. (Baidu)
+Version 1.3.3 (Dec 14, 2021)
+    - Neue Templates für Weihnachten
+    - Neue Sticker für Weihnachten
+    - Viele neue Templates & Sticker Packs
+    - Kleine Fehler im Crop Tool beheben
+Version 1.3.2 (Dec 6, 2021)
+    ********* Großes Update***********
+
+    - Neue Funktion: Übersetzungs-Tool -- übersetzen und vorlesen von Texten in mehr als 70 Sprachen:
+
+    + Text aus Handschrift auswählen und übersetzen
+    + Text aus einem Bild oder PDF auswählen und übersetzen
+
+    - Neue Funktion: Web-Widgets & Web-Link:
+
+    + Füge beliebige Web-Anwendungen aus dem Internet zu deinen Notizen hinzu und verwende sie als Widget. Mit dieser Funktion kannst du einen wissenschaftlichen Taschenrechner, einen Übersetzer und sogar Web-Spiele usw. zu deinen Notizen hinzufügen.
+    + Hinzufügen einer Schaltfläche zum Öffnen einer beliebigen Website als Popup
+    + Erstellt eine transparente Schaltfläche, um ein Web-Popup zu öffnen
+
+
+    - Neue Funktion: Link zu einer beliebigen Seite:
+
+    + Hinzufügen einer Schaltfläche zum Springen zu einer verlinkten Seite
+    + Erstellt eine transparente Schaltfläche, um zu einer verlinkten Seite zu springen. Nützlich für die Erstellung interaktiver Notizen wie: Digitaler Planer, Mindmap...
+
+    - Neue Funktion zum Zuschneiden von Bildern:
+
+    + Zuschneiden von Bildern in Kreis-, Ellipsen-, Herz-... Formen
+    + Zuschneiden des Bildes nach einem bestimmten Seitenverhältnis
+    + Bild rotieren
+    - Neue Funktion: Kugelschreiber ohne Druckempfindlichkeit (umschaltbar)
+
+    - Neues Set von Hintergrundpapieren mit grauen Linien
+
+    - Neue Templates: Snow Village & Winter Snow
+
+    - Verbesserte Benutzeroberfläche und kleinere Fehlerbehebungen
+Version 1.3.1 (Nov 29, 2021)
+    ********* Großes Update***********
+
+    - Neue Funktion: Übersetzungs-Tool -- übersetzen und vorlesen von Texten in mehr als 70 Sprachen:
+
+    + Text aus Handschrift auswählen und übersetzen
+    + Text aus einem Bild oder PDF auswählen und übersetzen
+
+    - Neue Funktion: Web-Widgets & Web-Link:
+
+    + Füge beliebige Web-Anwendungen aus dem Internet zu deinen Notizen hinzu und verwende sie als Widget. Mit dieser Funktion kannst du einen wissenschaftlichen Taschenrechner, einen Übersetzer und sogar Web-Spiele usw. zu deinen Notizen hinzufügen.
+    + Hinzufügen einer Schaltfläche zum Öffnen einer beliebigen Website als Popup
+    + Erstellt eine transparente Schaltfläche, um ein Web-Popup zu öffnen
+
+
+    - Neue Funktion: Link zu einer beliebigen Seite:
+
+    + Hinzufügen einer Schaltfläche zum Springen zu einer verlinkten Seite
+    + Erstellt eine transparente Schaltfläche, um zu einer verlinkten Seite zu springen. Nützlich für die Erstellung interaktiver Notizen wie: Digitaler Planer, Mindmap...
+
+    - Neue Funktion zum Zuschneiden von Bildern:
+
+    + Zuschneiden von Bildern in Kreis-, Ellipsen-, Herz-... Formen
+    + Zuschneiden des Bildes nach einem bestimmten Seitenverhältnis
+    + Bild rotieren
+    - Neue Funktion: Kugelschreiber ohne Druckempfindlichkeit (umschaltbar)
+
+    - Neues Set von Hintergrundpapieren mit grauen Linien
+
+    - Neue Templates: Snow Village & Winter Snow
+
+    - Verbesserte Benutzeroberfläche und kleinere Fehlerbehebungen
+Version 1.3.0 (Nov 27, 2021)
+    ********* Großes Update***********
+
+    - Neue Funktion: Übersetzungs-Tool -- übersetzen und vorlesen von Texten in mehr als 70 Sprachen:
+
+       + Text aus Handschrift auswählen und übersetzen
+       + Text aus einem Bild oder PDF auswählen und übersetzen
+
+    - Neue Funktion: Web-Widgets & Web-Link:
+
+       + Füge beliebige Web-Anwendungen aus dem Internet zu deinen Notizen hinzu und verwende sie als Widget. Mit dieser Funktion kannst du einen wissenschaftlichen Taschenrechner, einen Übersetzer und sogar Web-Spiele usw. zu deinen Notizen hinzufügen.
+       + Hinzufügen einer Schaltfläche zum Öffnen einer beliebigen Website als Popup
+       + Erstellt eine transparente Schaltfläche, um ein Web-Popup zu öffnen
+
+
+    - Neue Funktion: Link zu einer beliebigen Seite:
+
+       + Hinzufügen einer Schaltfläche zum Springen zu einer verlinkten Seite
+       + Erstellt eine transparente Schaltfläche, um zu einer verlinkten Seite zu springen. Nützlich für die Erstellung interaktiver Notizen wie: Digitaler Planer, Mindmap...
+
+    - Neue Funktion zum Zuschneiden von Bildern:
+
+       + Zuschneiden von Bildern in Kreis-, Ellipsen-, Herz-... Formen
+       + Zuschneiden des Bildes nach einem bestimmten Seitenverhältnis
+       + Bild rotieren
+    - Neue Funktion: Kugelschreiber ohne Druckempfindlichkeit (umschaltbar)
+
+    - Neues Set von Hintergrundpapieren mit grauen Linien
+
+    - Neue Templates: Snow Village & Winter Snow
+
+    - Verbesserte Benutzeroberfläche und kleinere Fehlerbehebungen
+Version 1.2.13 (Nov 12, 2021)
+    - 6 neue Vorlagen:
+    + Sternzeichen Kaninchen (leicht)
+    + Sternzeichen Kaninchen (dunkel)
+    + Frühlingsschlucken (leicht)
+    + Frühlingsschlucken (Dunkel)
+    + Laternen (Licht)
+    + Laternen (dunkel)
+
+    - Neues Stickerpaket: Desserts
+Version 1.2.12 (Nov 9, 2021)
+    - Unterstützt Japanisch
+    - Leistung verbessern
+Version 1.2.11 (Nov 5, 2021)
+    - Stabilität verbessern
+    - Texte auf Kantonesisch aktualisieren
+Version 1.2.10 (Nov 2, 2021)
+    ********** GROSSES UPDATE ***************
+
+    - Neue Funktionen für Bildanhänge (Doppeltippen auf den Bildanhang, dann "Bearbeiten" wählen):
+       + Bilder zuschneiden
+       + Filter auf Bilder anwenden
+       + Zensieren sensibler Teile auf Bildern
+       + Zeichnen auf Bildern
+
+    - Unterstützung eines neuen Typs von Sticker-Packs: Natives Zeichnen. Mit nativen Zeichenaufklebern kannst du:
+       + Die Farbe eines Stickers ändern (mit dem Lasso-Werkzeug)
+       + einen Teil eines Aufklebers löschen (mit dem Radiergummi-Werkzeug)
+       + den Farbtyp eines Aufklebers ändern (mit dem Lasso-Werkzeug)
+       + Ändern der Breite der Striche eines Aufklebers (mit dem Lasso-Werkzeug)
+
+    - Viele neue Sticker-Packs:
+       + Portrait-Zeichnungen (natives Zeichnen)
+       + Faules Mädchen
+       + Grünäugiger Junge
+       + Cartoon-Tiere
+       + Zaubertränke
+       + Alles über Kaffee
+       + Dekorationsartikel
+       + Lebensmittel - Flat Style
+       + Schulsachen
+
+    - Viele neue Templates:
+       + Halloween-Katzen (Hell + Dunkel)
+       + Halloween-Hexe (Hell + Dunkel)
+       + Handgezeichnete Blume (Hell + Dunkel)
+       + Handgezeichnete Schule (Hell + Dunkel)
+
+       
+    - Schaltfläche "Fertig" zum Bild-/Textfeld-Menü hinzugefügt
+    - Fehler behoben: Ein Teil der Notiz wird nach dem Drehen des Geräts nicht angezeigt
+    - Aktualisierung der Texte für: Koreanisch, Spanisch, Vietnamesisch
+    - Verbesserte Leistung
+Version 1.2.9 (Oct 21, 2021)
+    - Neues Fenster zum Einfügen von Inhalten mit 3 Registerkarten:
+       + Bild oder Textfeld einfügen
+       + Mit Kamera scannen
+       + Aufkleber einfügen
+    - Im Reiter "Aufkleber einfügen":
+       + Anzeige aller Sticker im zuletzt ausgewählten Stickerpaket
+       + Name und Miniaturansicht aller Stickerpakete anzeigen
+    - Im Reiter "Mit der Kamera scannen": Ausgewählte Sprachen abblenden
+    - 2 Sticker-Pakete hinzugefügt: Haftnotizen & Pinguin-Rahmen
+    - Zusammenarbeits-Modus:
+       + Ersetzen der Funktion "Tippen zum Melden" durch "Tippen zum Springen zur Seite".
+       + Neue Registerkarte für den Moderator, um Spam im Raum zu erkennen
+    - Unterstützung neuer Sprachen: Ukrainisch, Norwegisch und Kroatisch
+    - Kleine Bugs behoben
+Version 1.2.8 (Oct 9, 2021)
+    NEUE FEATURES:
+    - Neues Fenster zur Anzeige von Miniaturansichten der Seiten
+       + Drag and Drop, um Seiten neu anzuordnen
+       + Tippt auf die Dreieckstaste, um das Menü für die Seite anzuzeigen
+       + Möglichkeit, mehr Seiten auf dem Bildschirm anzuzeigen
+    - Neues Menü für das Lasso-Werkzeug
+    - Neue Funktion: Bild horizontal und vertikal strecken
+    - Doppel-Tippen auf einen Anhang (Bild oder Textfeld), um den Anhang auszuwählen
+    - Unterstützung von Griechisch und Norwegisch
+
+    BUGS BEHOBEN:
+    - Fehler behoben: Doppelte Seiten beim Export von Notizen in PDF
+    - Fehler behoben: Exportierte PDFs haben falsche Ausrichtung
+    - Fehler behoben: Scrollen zur falschen Seite nach Drehen des Geräts
+    - Fehler behoben: PDFs haben falsche Größe im Kollaborationsmodus
+    - Fehler behoben: Schaltfläche " Redo" überlappt mit Stifttaste auf iPad 9,7 Zoll
+    - Entfernen der Schaltfläche "Text bearbeiten" im Textfeld. Um Text zu bearbeiten, tippt man beim Auswählen erneut auf das Textfeld
+Version 1.2.7 (Sep 30, 2021)
+    - Neue Vorlagen:
+    + Weltraumkatze (Hell)
+    + Weltraumkatze (Dunkel)
+    + Linierte Blumen
+    - Neue Stickerpakete:
+    + Textrahmen
+    + Reisen
+    + Ich liebe Katzen
+    - Option zum Umschalten zwischen "auf meinem Gerät" und "iCloud Drive" hinzugefügt
+    - Konfiguriert, um mit iOS 15 zu funktionieren
+
+    - Fehler beim Exportieren von Notizen in PDF behoben: Seiten wurden dupliziert
+    - Fehler behoben: Undo/Redo-Geste funktioniert nicht, weil sie mit Systemgesten kollidiert
+    - Fehler behoben: Schaltfläche zum Löschen, Umbenennen, Verschieben von Notizen und Ordnern auf dem iPhone zu klein
+    - Update Warnfunktion für Moderatoren
+Version 1.2.5 (Sep 21, 2021)
+    - Zusammenarbeit bei importierten PDFs
+    - Neue Funktion: Einrasten auf einen Winkel beim Drehen von Bildern
+    - Mehr Notizen im Hauptfenster anzeigen
+    - Anzeige der Breite des Werkzeugs in den Favoriten (danke an halaxm23 für den Wunsch nach dieser Funktion)
+    - Viele kleine Änderungen an der Benutzeroberfläche
+    - Rechtschreibprüfung im Textfeld deaktivieren
+    - Unterstützung für Türkisch, Thai
+    - Texte in Koreanisch, Portugiesisch aktualisiert
+
+    - Fehler behoben, dass das Lesezeichenfenster nach dem Drehen des Geräts zu klein wurde
+    - Fehler behoben: Handschrift bewegt sich beim Schreiben nach oben und unten
+    - Fehler behoben: Absturz beim Öffnen einiger Notizen
+    - Fehler behoben: Farbe kann im dunklen Modus nicht aus der Palette entfernt werden
+    - Fehler behoben: Das Zeichen "i" kann in manchen PDFs nicht geschrieben werden (das Zeichen verschwindet direkt nach dem Schreiben)
+    - Behebt einige Bugs, die zu Verzögerungen führen
+Version 1.2.4 (Sep 7, 2021)
+    ********* GROSSES UPDATE *********
+    - Umfangreiche Änderungen im Design
+       + Dock hinzugefügt
+       + Alle Icons in der App ändern
+       + Neues Fenster für die App-Einstellungen
+       + Viele andere Änderungen an der Benutzeroberfläche
+    - Einführung einer neuen Funktion: Dock mit 5 Funktionen:
+       + Schnellnotiz erstellen: Erstellt eine neue Notiz mit einer vordefinierten Vorlage und einem Namen mit 1 Tap
+       + Neue Notiz erstellen
+       + PDF importieren
+       + Neuen Ordner erstellen
+       + App-Einstellungen öffnen
+    - Neue Geste zur Vereinfachung der digitalen Planung: Doppeltippen mit dem Schreibwerkzeug zum Öffnen des PDF-Links
+    - Neue Optionen für Gesten:
+       + Aktivieren/Deaktivieren der Geste "Mit dem Finger auf den PDF-Link tippen" möglich
+       + Umschalten zwischen "einmaliges Antippen" und "doppeltes Antippen" zum Öffnen von PDF-Links mit dem Schreibwerkzeug
+    - Formen und Linien, die durch Halten des Schreibwerkzeugs erstellt werden, haben jetzt eine unterschiedliche Breite und Deckkraft, je nach Höhe, Azimut und Kraft des Apple Pencil
+    - Hinzufügen der Schaltfläche "EDIT" zum Umschalten des Organisationsmodus (im Startbildschirm)
+    - Unterstützung für Handschrifterkennung: Konvertierung von Handschrift in Text mit dem Lasso-Werkzeug zunächst nur Unterstützung für Englisch, konvertierter Text hat die gleiche Farbe wie die Farbe der Handschrift (Dies ist nur der Anfang, weitere Funktionen mit Handschrifterkennung und mehr Sprachen werden in Zukunft hinzugefügt)
+    - PDF schneller exportieren
+    - Unterstützung von Chinesisch - Hongkong
+    - Aktualisierung der Texte für Deutsch, Vietnamesisch, Koreanisch, Katalanisch
+    - Mehr Tutorial-Videos hinzufügen
+
+    - Fehler beim Zeichnen von Linien und Formen behoben
+    - Fehler behoben: Wenn die Größe oder Farbe der Handschrift geändert wird, verschiebt sich die Handschrift um ein Pixel nach unten
+    - Fehler behoben: Benutzer können nicht mehr gesperrt werden (dies ist eine Funktion für Moderatoren)
+    - Icon der Schaltfläche "Zurück zum übergeordneten Ordner" geändert
+    - Fehler beim Verschieben von Anhängen mit dem Lasso-Werkzeug behoben
+    - Fehler bei der Sortierung von Notizen behoben
+Version 1.2.3 (Aug 27, 2021)
+    - Unterstütze Portugal Portugiesisch und Ungarisch
+    - Übersetzungen Aktualisieren: Spanisch, Italienisch, Niederländisch, Russisch, Chinesisch und Koreanisch
+    - Neue Tutorial-Videos hinzugefügt
+    - Fehler beim Duplizieren von Handschriften mit dem Lasso-Tool behoben
+    - Fehler behoben: kein Screenshot mit dem Freihand-Lasso-Tool erstellt werden kann
+    - Fehler behoben: der Anhang kann nicht auswählt wird, ween er auf eine andere Seite verschoben wird
+    - Fehler behoben: Lesezeichen springt zur falschen Seite, wenn eine Seite hinzugefügt oder gelöscht wird
+    - Fehler im Kollaborationsmodus behoben: Wenn eine Seite dupliziert und ein Anhang auf einer neuen Seite gelöscht wurde, wurde der Anhang auf der Originalseite gelöscht
+    - "Kritzeln, um zu löschen" funktioniert jetzt nur noch mit Stiftwerkzeug und Bleistiftwerkzeug (nicht mehr mit Markerwerkzeug)
+    - Nachricht anzeigen, wenn "Kritzeln, um zu löschen" erkannt wurde
+    - Behebung einiger Crash-Bugs
+Version 1.2.2 (Aug 19, 2021)
+    **************** BIGGEST UPDATE EVER! ******************
+    1.2.2:
+    - Neue Sprache: Korean
+    - Fix bugs in Lasso Tool
+
+    1.2.1:
+    - Render PDF 2x faster
+    - Integrated "CollaNote Moderator App" in to CollaNote (this tool is only for moderators available).
+    - Automatic open collaboration window if in collaboration mode
+    - Automatic open PDF outlines if there are PDF outlines in note
+    - Double number of undo steps
+    - Fix crash bug by moving a page down
+    - Fix small bug in rectangular lasso tool
+    - Fix bug: If undo while using lasso tool, selected handwriting will be duplicated
+    - Reduce memory usage
+    - Change color of left side panel
+    - Fix bug: can't disable double tap gesture for Apple pencil
+
+
+    1.2.0: This version will convert all of your notes to new .cnote format and also reset folder covers (this feature is only for beta testers).
+
+    - New feature: Bookmark and Outline window
+    + Zoom out to show bookmark window
+    + Show outlines of PDF, tap at a outline to jump to page
+    + Show and add bookmark, tap at bookmark to junp to page
+    + Bookmark has title, selectable icon and color
+    + Quick bookmark feature: one tap and AI will help you to name title
+    + Bookmark can be deleted, moved up or moved down
+
+
+    - New feature: Support link in PDF
+    + Jump to page if tap on link
+    + Open a pop up of website if the link is URL
+
+    - New feature: 2-level menu for attachment (attachments are image or text box)
+    + Change layer of attachment (bring to front or send to back)
+    + Button to recognize text in image
+    + Buttons to copy, duplicate, flip attachment
+
+    - New PDF Engine:
+    + Can import any PDF file (no more problem with big PDF)
+    + Zero waiting time while importing PDF
+    + Smooth scrolling no matter how many pages
+    + Fast scrolling (able to scroll through PDF with 1000 pages in 5 seconds)
+    + Render PDF faster on screen
+    + No more change aspect ratio of PDF page after importing
+    + Reduce memory usage
+
+    - New feature: Activity window for collaboration mode:
+    + Zoom out to show activity window
+    + Able to see who has drawn or erased something
+    + Able to see who added new page or who deleted a page
+    + Able to see who added or deleted image or text box
+    + Button to report spammer
+
+    - New sticker packs:
+    + Watercolor
+    + Bullet Journal Titles
+    + Pastel Stickers
+
+
+    - Able to move page up and down
+    - Able to export and print a range of pages or a single page
+    - Able to change paper or template of whole note
+    - Able to change paper or template of a page
+    - Added option in note settings to disable double tap on Apple Pencil
+    - Recognize "Scribble out to erase" better
+    - Support Russian
+
+
+    - Fix bug: Fill tool doesn't work properly with curves created by curve tools
+    - Fix bug: Fill tool can't fill very big shapes
+    - Translated text to traditional chinese, simplified chinese, spanish, italian, russian
+
+    ATTENTION: This version use another server for collaboration. If you want to collaborate with people using old versions, please tell them to update the app.
+Version 1.2.1 (Aug 15, 2021)
+    **************** GRÖSSTES UPDATE ALLER ZEITEN! ******************
+    1.2.1:
+    - PDF 2x schneller rendern
+    - Integrierte "CollaNote Moderator App" in CollaNote (dieses Tool ist nur für Moderatoren verfügbar).
+    - Automatisches Öffnen des Kollaborationsfensters, wenn im Kollaborationsmodus
+    - Automatisches Öffnen von PDF-Gliederungen, wenn es PDF-Gliederungen in der Notiz gibt
+    - Moderatoren-Tool hinzufügen: Menü für jede Aktivität im Kollaborationsfenster (nur für Moderatoren)
+    - Doppelte Anzahl von Undo-Schritten
+    - Absturzfehler beim Verschieben einer Seite nach unten behoben
+    - Kleiner Fehler im Rechteck-Lasso-Werkzeug behoben
+    - Fehler behoben: Wenn das Rückgängigmachen während der Verwendung des Lasso-Werkzeugs erfolgt, wird die ausgewählte Handschrift dupliziert
+    - Speicherverbrauch reduziert
+    - Farbe des linken Seitenfensters geändert.
+    - Fehler behoben: Doppeltipp-Geste für Apple Pencil kann nicht deaktiviert werden
+
+    1.2: Diese Version konvertiert alle Notizen in das neue .cnote Format
+
+    - Neue Funktion: Lesezeichen- und Gliederungsfenster
+    + Herauszoomen, um das Lesezeichen-Fenster anzuzeigen
+    + Umrisse von PDF anzeigen, auf einen Umriss tippen, um zur Seite zu springen
+    + Anzeige und Hinzufügen von Lesezeichen, Tippen auf ein Lesezeichen führt zu einer neuen Seite
+    + Lesezeichen mit Titel, wählbarem Symbol und Farbe
+    + Schnelles Lesezeichen: ein Tippen und AI hilft Dir, den Titel zu benennen
+    + Lesezeichen können gelöscht, nach oben oder unten verschoben werden
+
+
+    - Neue Funktion: Unterstützung von Links in PDF
+    + Springt zur Seite, wenn du auf den Link tippst
+    + Öffnet ein Popup-Fenster einer Website, wenn der Link eine URL ist
+
+    - Neue Funktion: 2-Ebenen-Menü für Anhänge (Anhänge sind Bilder oder Textfelder)
+    + Ebene des Anhangs ändern (in den Vordergrund bringen oder in den Hintergrund schicken)
+    + Schaltfläche zum Erkennen von Text im Bild
+    + Schaltflächen zum Kopieren, Duplizieren und Spiegeln von Anhängen
+
+    - Neue PDF-Engine:
+    + Kann jede PDF-Datei importieren (kein Problem mehr mit großen PDFs)
+    + Null Wartezeit beim Importieren von PDF
+    + Sanftes Scrollen, egal wie viele Seiten
+    + Schnelles Scrollen (PDF mit 1000 Seiten kann in 5 Sekunden durchgeblättert werden)
+    + PDF wird schneller auf dem Bildschirm gerendert
+    + Keine Änderung des Seitenverhältnisses von PDF-Seiten nach dem Importieren
+    + Geringerer Speicherverbrauch
+
+    - Neue Funktion: Aktivitätsfenster für den Kollaborationsmodus:
+    + Herauszoomen, um das Aktivitätsfenster anzuzeigen
+    + Erkennen, wer etwas gezeichnet oder gelöscht hat
+    + Erkennen, wer eine neue Seite hinzugefügt oder eine Seite gelöscht hat
+    + Erkennen, wer ein Bild oder ein Textfeld hinzugefügt oder gelöscht hat
+    + Schaltfläche zum Melden von Spammern
+
+    - Neue Sticker-Pakete:
+    + Aquarell
+    + Bullet Journal Überschriften
+    + Pastell-Sticker
+
+
+    - Seiten können nach oben und unten verschoben werden
+    - Exportieren und Drucken einer Reihe von Seiten oder einer einzelnen Seite
+    - Ändern des Papiers oder der Vorlage für die gesamte Notiz
+    - Ändern des Papiers oder der Vorlage für eine Seite
+    - Option in den Notizeinstellungen hinzugefügt, um Doppeltippen mit dem Apple Pencil zu deaktivieren
+    - Besseres Erkennen von " Kritzeln zum Löschen"
+    - Unterstützung für Russisch
+
+
+    - Fehler behoben: Das Füllwerkzeug funktioniert nicht richtig mit Kurven, die mit Kurvenwerkzeugen erstellt wurden
+    - Fehler behoben: Das Füllwerkzeug kann keine sehr großen Formen füllen
+    - Übersetzung des Textes in traditionelles Chinesisch, vereinfachtes Chinesisch, Spanisch, Italienisch und Russisch
+
+    ACHTUNG: Diese Version verwendet einen anderen Server für die Zusammenarbeit. Wenn Du mit Leuten zusammenarbeiten willst, die eine ältere Version benutzen, sag ihnen bitte, sie sollen die App aktualisieren.
+Version 1.2 (Aug 12, 2021)
+    **************** GRÖSSTES UPDATE ALLER ZEITEN! ******************
+
+    Diese Version konvertiert alle Notizen in das neue .cnote Format und reset Ordner-Bilder (diese Funktion ist nur für Beta-Testers).
+
+    - Neue Funktion: Lesezeichen- und Gliederungsfenster
+       + Herauszoomen, um das Lesezeichen-Fenster anzuzeigen
+       + Umrisse von PDF anzeigen, auf einen Umriss tippen, um zur Seite zu springen
+       + Anzeige und Hinzufügen von Lesezeichen, Tippen auf ein Lesezeichen führt zu einer neuen Seite
+       + Lesezeichen mit Titel, wählbarem Symbol und Farbe
+       + Schnelles Lesezeichen: ein Tippen und AI hilft Dir, den Titel zu benennen
+       + Lesezeichen können gelöscht, nach oben oder unten verschoben werden
+
+
+    - Neue Funktion: Unterstützung von Links in PDF
+       + Springt zur Seite, wenn du auf den Link tippst
+       + Öffnet ein Popup-Fenster einer Website, wenn der Link eine URL ist
+
+    - Neue Funktion: 2-Ebenen-Menü für Anhänge (Anhänge sind Bilder oder Textfelder)
+       + Ebene des Anhangs ändern (in den Vordergrund bringen oder in den Hintergrund schicken)
+       + Schaltfläche zum Erkennen von Text im Bild
+       + Schaltflächen zum Kopieren, Duplizieren und Spiegeln von Anhängen
+
+    - Neue PDF-Engine:
+       + Kann jede PDF-Datei importieren (kein Problem mehr mit großen PDFs)
+       + Null Wartezeit beim Importieren von PDF
+       + Sanftes Scrollen, egal wie viele Seiten
+       + Schnelles Scrollen (PDF mit 1000 Seiten kann in 5 Sekunden durchgeblättert werden)
+       + PDF wird schneller auf dem Bildschirm gerendert
+       + Keine Änderung des Seitenverhältnisses von PDF-Seiten nach dem Importieren
+       + Geringerer Speicherverbrauch
+
+    - Neue Funktion: Aktivitätsfenster für den Kollaborationsmodus:
+       + Herauszoomen, um das Aktivitätsfenster anzuzeigen
+       + Erkennen, wer etwas gezeichnet oder gelöscht hat
+       + Erkennen, wer eine neue Seite hinzugefügt oder eine Seite gelöscht hat
+       + Erkennen, wer ein Bild oder ein Textfeld hinzugefügt oder gelöscht hat
+       + Schaltfläche zum Melden von Spammern
+
+    - Neue Sticker-Pakete:
+       + Aquarell
+       + Bullet Journal Überschriften
+       + Pastell-Sticker
+
+
+    - Seiten können nach oben und unten verschoben werden
+    - Exportieren und Drucken einer Reihe von Seiten oder einer einzelnen Seite
+    - Ändern des Papiers oder der Vorlage für die gesamte Notiz
+    - Ändern des Papiers oder der Vorlage für eine Seite
+    - Option in den Notizeinstellungen hinzugefügt, um Doppeltippen mit dem Apple Pencil zu deaktivieren
+    - Besseres Erkennen von " Kritzeln zum Löschen"
+    - Unterstützung für Russisch
+
+
+    - Fehler behoben: Das Füllwerkzeug funktioniert nicht richtig mit Kurven, die mit Kurvenwerkzeugen erstellt wurden
+    - Fehler behoben: Das Füllwerkzeug kann keine sehr großen Formen füllen
+    - Übersetzung des Textes in traditionelles Chinesisch, vereinfachtes Chinesisch, Spanisch, Italienisch und Russisch
+
+    ACHTUNG: Diese Version verwendet einen anderen Server für die Zusammenarbeit. Wenn Du mit Leuten zusammenarbeiten willst, die eine ältere Version benutzen, sag ihnen bitte, sie sollen die App aktualisieren.
+Version 1.1.13 (Jul 16, 2021)
+    - Fehler behoben: Wenn eine Notiz durch PDF-Import erstellt wurde und der Benutzer eine neue Seite zu der Notiz hinzufügt, hat diese neue Seite auch den PDF-Hintergrund der darüber liegenden Seiten
+    - Fehler behoben: Ghosting-Effekt im Lasso-Werkzeug, wenn Handschrift auf Seiten mit viel Inhalt ausgewählt wird (z.B. Seite 100)
+    - Fix bug: Handschrift verschwindet manchmal, wenn man sie mit dem Lasso-Werkzeug auf eine andere Seite verschiebt
+    - Fehler behoben: Seite duplizieren -> Handschrift mit Lasso-Werkzeug markieren -> löschen -> Handschriften auf alter und neuer Seite wurden entfernt.
+    - Fehler behoben: Seite duplizieren -> Foto auf unterer Seite löschen -> Foto auf oberer Seite wurde gelöscht
+Version 1.1.12 (Jul 13, 2021)
+    ********* GROSSES UPDATE - VIELE NEUE FUNKTIONEN ***********
+
+    ****** DRAG AND DROP Inhalte aus einer anderen App ******
+    - Bild aus einer anderen App herüberziehen.
+    - Ziehe Rich-Text aus einer anderen App (Rich-Text kann Links, Bilder, Ausrichtungen... enthalten)
+    - Um zu sehen, wie es funktioniert, tippe einfach auf den Hilfe-Button und sieh dir das Tutorial-Video für die "Drag-and-Drop-Funktion" an
+
+    ****** Völlig NEUE NOTIZ EINSTELLUNGEN, mit vielen Registerkarten ******
+    - Viele Gesten-Optionen in den neuen Notiz-Einstellungen:
+       + Geste "Box-Bearbeitungsmodus" aktivieren/deaktivieren
+       + Option zum Rückgängigmachen & Wiederherstellen durch 1 x Tippen oder 2 x Tippen
+       + Aktivieren/Deaktivieren der Geste "Halten, um Formen zu zeichnen" + 3 Optionen für die Haltezeit
+    - Neue globale Einstellungen in den neuen Notiz-Einstellungen:
+       + Aktivieren/Deaktivieren der Anzeige von Tipps für Einsteiger (in der Statusleiste).
+       + Sprache der App ändern
+    - Neue Registerkarte in den Notizen-Einstellungen für Benutzer, die helfen wollen, die App besser zu machen
+
+    ****** ZUSAMMENARBEITSMODUS ******
+    - Anzeigen von Titel-Tags (Admin, Moderator, Host...) nach Nicknames (im Zusammenarbeitsmodus)
+    - Benutzer können keine Admins & Moderatoren mehr melden
+
+    ****** Andere neue Funktionen ******
+    - Re-Implementierung des Undo-Systems
+    - Neue Handflächenabweisung: Berührungen mit großem Radius ignorieren
+    - Verbessert Scribble out zum Löschen
+
+    ****** Viele Fehler behoben ******
+Version 1.1.11 (Jul 6, 2021)
+    - Neue Funktion: Lasso-Tool zum Verschieben von Bildern/Textfeldern verwenden, wenn nur Bilder/Textfelder ausgewählt sind (ohne, dass Handschrift ausgewählt ist)
+    - Neue Funktion: Schaltfläche im Lasso-Werkzeug, um alles zu verschieben (Bild + Textbox + Handschrift).
+    - Neue Funktion: Audiodateien exportieren
+    - Neu: Tappe außerhalb einer Notiz, um den Organisationsmodus zu deaktivieren
+    - Hinzugefügt: Tap außerhalb, um Profilfenster zu schließen
+    - Abbruch-Schaltfläche im Textbearbeitungsfenster hinzugefügt
+    - Jetzt auch transparente png-Bilder einfügen
+    - Geistereffekt im Lasso-Tool entfernt
+    - Fehler behoben: Steuerungstasten, wenn das Lasso-Werkzeug aus dem Bildschirm verschwindet
+    - Fehler behoben: Abspielfenster (für aufgenommenes Audio) überlappt Lieblingswerkzeuge
+    - Fehler behoben: Formen, die durch Halten des Tinten-Tools erzeugt werden, haben unterschiedliche Größe
+Version 1.1.10 (Jun 28, 2021)
+    - Erhöhen Sie die Anzahl der Lieblingswerkzeuge auf 11
+    - Neue Funktion: Bericht- und Abstimmungssystem im Kollaborationsmodus, um Spam zu verhindern
+    - Neue Funktion: Foto direkt von der Kamera einfügen
+    - Neue Funktion: Dokument mit Kamera scannen
+    - Neue Funktion: Erkenne getippten Text von Kamera + Bild
+    - Neue Funktion: Erkenne getippten Text aus PDF und Bildern mit dem Lasso-Tool
+    - 6 neue Stickerpakete
+    - Erinnern Sie sich an Farbe und Schriftart des Textwerkzeugs
+    - Kann die Textgröße verkleinern
+    - Unterstützen Sie Französisch, Chinesisch, Malaiisch
+    - Machen Sie die letzte Seite zu einer normalen Seite (damit Sie Bilder und Text hinzufügen können, um eine neue Seite zu erstellen)
+
+    Fehler beheben:
+    - Scrollen Sie nach dem Drehen zur falschen Seite
+    - Es dauert lange, sich auf PDF zu konzentrieren
+    - Zeigen Sie falsche Farben an, wenn Sie die Farbe der Handschrift mit dem Lasso-Werkzeug ändern
+Version 1.1.9 (Jun 22, 2021)
+    - Neue Funktion: Kurvenwerkzeug
+    - Neue Funktion: Merken Sie sich die letzte Position einer Notiz und scrollen Sie beim Öffnen automatisch zur letzten Position.
+    - Neues Feature: Hilfe-Button mit vielen Tutorial-Videos hinzugefügt
+    - Neu: Eingegebene Texte haben auch dynamische Farben
+    - Neu: Gesten zum Rückgängigmachen/Wiederherstellen: Tippen mit 2 Fingern zum Rückgängigmachen & Tippen mit 3 Fingern zum Wiederholen (funktioniert nur in privaten Notizen)
+    - PDF schneller exportieren
+    - Scrollen Sie glatter
+    - Erhöhen Sie den Abstand zwischen den Werkzeugtasten
+
+
+    - Unterstütze Niederländisch - danke an Demi van de Kraats
+    - Unterstütze Bengali - danke an Sparsa Roychowdhury
+    - Unterstütze Bahasa - danke an Heryan Djaruma
+    - Unterstütze Portugiesen - danke an Eduardo Albuquerque Ribeiro
+    - Unterstütze Französisch - danke an Sparsa Roychowdhury
+Version 1.1.2 (May 16, 2021)
+    - Neue Funktion: Ordnerfarben ändern & Bild als Ordnercover verwenden (nur für einen Teil der Benutzer zum testen verfügbar)
+    - Neue Funktion: PDF aus anderen Apps importieren
+    - Neue Funktion: Meldung in der Statusleiste anzeigen, wenn mit Apple Pencil doppelt getippt wird
+    - Unterstützung der katalanischen Sprache
+    - 3x schnellerer Export von Notizen in PDF
+    - Verbesserung der Geschwindigkeit beim PDF-Import um 40%
+    - Verbessert die Geschwindigkeit beim Exportieren von Notizen in png-Bilder um 40%
+
+
+    **** GROSSES UPDATE ****
+
+    - Neue Funktion: Dunkel-Modus mit SMART Ink Farben
+    + Dunkel-Modus für UI-Elemente
+    + Dunkel-Modus für importierte PDFs
+    + Dunkel-Modus für Papierhintergründe
+    + SMART-Ink-Farben: Einmal schreiben, sieht sowohl im dunklen als auch im hellen Modus perfekt aus. SMART ink colors invertiert die Farben nicht, sondern berechnet die Farben neu, damit sie im dunklen/hellen Modus optimal aussehen und das Farbschema unverändert bleibt.
+
+    - Neues Auswahl-Tool:
+    + Auswahl eines Bereichs mit Rechteck-Auswahl-Tool oder Freihand-Auswahl-Tool
+    + Farbe, Breite, Art der ausgewählten Handschrift mit Stil-Werkzeug ändern
+    + Ausgewählten Bereich als Bild kopieren (bei Verwendung des Rechteck-Auswahl-Tools) oder bei Verwendung des Freihand-Auswahl-Tools ein Freihand-Bild mit transparentem Hintergrund kopieren)
+    + Ausgewählte Handschrift als Bild kopieren
+    + Tipp mit dem Apple Pencil während der Verwendung des Auswahl-Tools, um Inhalte zu kopieren
+    + Und viele weitere Funktionen im neuen Auswahlmodus
+
+    - Neue Funktion: Kontinuierliches Blättern
+    + Kann mehrere Seiten auf einmal anzeigen und funktioniert auch im Kollaborationsmodus: Änderungen von jedem auf mehreren Seiten sehen
+    + Möglichkeit, Handschrift zwischen Seiten zu verschieben
+    + Möglichkeit, Aufkleber zwischen Seiten zu verschieben
+
+    - Neue Funktion: Schreib einfach weiter - und die neue Seite wird automatisch erstellt
+
+    - Kollaborationsmodus:
+    + Sehen, wer schreibt/löscht
+    + Sehen, wer eine Seite gelöscht/eingefügt/dupliziert hat
+    + Reduzierte Verzögerung (noch schneller in CollaNote zusammenarbeiten)
+
+    - 3 neue Sticker-Packs hinzugefügt:
+    + Smileys & Emotionen
+    + Menschen & Körper
+    + Tiere & Natur
+
+    - Animationseffekte für viele Elemente hinzugefügt (Sticker, Bild, Textfeld...)
+    - Verbessertes Undo/Redo
+    - Intelligente Größenanpassung der Schriftarten an das Textfeld
+    - Fehler behoben: manchmal stimmte das Vorschaubild einer Seite nicht mit dem Seiteninhalt überein
+    - Fehler behoben: manchmal Absturz beim Importieren von PDF
+    - Fehler behoben: manchmal wurden die Notizen im Hauptordner nicht mehr angezeigt, obwohl sie nicht gelöscht wurden
+    - Verbesserung der Geschwindigkeit beim Öffnen von Notizen
+    - Eine Menge anderer Optimierungen- Kleine Bugs in den Favoriten-Werkzeugen behoben
+Version 1.1.1 (May 6, 2021)
+    **** GROSSES UPDATE ****
+
+    - Neue Funktion: Dunkel-Modus mit SMART Ink Farben
+    + Dunkel-Modus für UI-Elemente
+    + Dunkel-Modus für importierte PDFs
+    + Dunkel-Modus für Papierhintergründe
+    + SMART-Ink-Farben: Einmal schreiben, sieht sowohl im dunklen als auch im hellen Modus perfekt aus. SMART ink colors invertiert die Farben nicht, sondern berechnet die Farben neu, damit sie im dunklen/hellen Modus optimal aussehen und das Farbschema unverändert bleibt.
+
+    - Neues Auswahl-Tool:
+    + Auswahl eines Bereichs mit Rechteck-Auswahl-Tool oder Freihand-Auswahl-Tool
+    + Farbe, Breite, Art der ausgewählten Handschrift mit Stil-Werkzeug ändern
+    + Ausgewählten Bereich als Bild kopieren (bei Verwendung des Rechteck-Auswahl-Tools) oder bei Verwendung des Freihand-Auswahl-Tools ein Freihand-Bild mit transparentem Hintergrund kopieren)
+    + Ausgewählte Handschrift als Bild kopieren
+    + Tipp mit dem Apple Pencil während der Verwendung des Auswahl-Tools, um Inhalte zu kopieren
+    + Und viele weitere Funktionen im neuen Auswahlmodus
+
+    - Neue Funktion: Kontinuierliches Blättern
+    + Kann mehrere Seiten auf einmal anzeigen und funktioniert auch im Kollaborationsmodus: Änderungen von jedem auf mehreren Seiten sehen
+    + Möglichkeit, Handschrift zwischen Seiten zu verschieben
+    + Möglichkeit, Aufkleber zwischen Seiten zu verschieben
+
+    - Neue Funktion: Schreib einfach weiter - und die neue Seite wird automatisch erstellt
+
+    - Kollaborationsmodus:
+    + Sehen, wer schreibt/löscht
+    + Sehen, wer eine Seite gelöscht/eingefügt/dupliziert hat
+    + Reduzierte Verzögerung (noch schneller in CollaNote zusammenarbeiten)
+
+    - 3 neue Sticker-Packs hinzugefügt:
+    + Smileys & Emotionen
+    + Menschen & Körper
+    + Tiere & Natur
+
+    - Animationseffekte für viele Elemente hinzugefügt (Sticker, Bild, Textfeld...)
+    - Verbessertes Undo/Redo
+    - Intelligente Größenanpassung der Schriftarten an das Textfeld
+    - Fehler behoben: manchmal stimmte das Vorschaubild einer Seite nicht mit dem Seiteninhalt überein
+    - Fehler behoben: manchmal Absturz beim Importieren von PDF
+    - Fehler behoben: manchmal wurden die Notizen im Hauptordner nicht mehr angezeigt, obwohl sie nicht gelöscht wurden
+    - Verbesserung der Geschwindigkeit beim Öffnen von Notizen
+    - Eine Menge anderer Optimierungen
+Version 1.1.0 (May 4, 2021)
+    *** GROSSES UPDATE ***
+
+    - Neue Funktion: Dunkel-Modus mit SMART Ink Farben
+       + Dunkel-Modus für UI-Elemente
+       + Dunkel-Modus für importierte PDFs
+       + Dunkel-Modus für Papierhintergründe
+       + SMART-Ink-Farben: Einmal schreiben, sieht sowohl im dunklen als auch im hellen Modus perfekt aus. SMART ink colors invertiert die Farben nicht, sondern berechnet die Farben neu, damit sie im dunklen/hellen Modus optimal aussehen und das Farbschema unverändert bleibt.
+
+    - Neues Auswahl-Tool:
+       + Auswahl eines Bereichs mit Rechteck-Auswahl-Tool oder Freihand-Auswahl-Tool
+       + Farbe, Breite, Art der ausgewählten Handschrift mit Stil-Werkzeug ändern
+       + Ausgewählten Bereich als Bild kopieren (bei Verwendung des Rechteck-Auswahl-Tools) oder bei Verwendung des Freihand-Auswahl-Tools ein Freihand-Bild mit transparentem Hintergrund kopieren)
+       + Ausgewählte Handschrift als Bild kopieren
+       + Tipp mit dem Apple Pencil während der Verwendung des Auswahl-Tools, um Inhalte zu kopieren
+       + Und viele weitere Funktionen im neuen Auswahlmodus
+
+    - Neue Funktion: Kontinuierliches Blättern
+       + Kann mehrere Seiten auf einmal anzeigen und funktioniert auch im Kollaborationsmodus: Änderungen von jedem auf mehreren Seiten sehen
+       + Möglichkeit, Handschrift zwischen Seiten zu verschieben
+       + Möglichkeit, Aufkleber zwischen Seiten zu verschieben
+
+    - Neue Funktion: Schreib einfach weiter - und die neue Seite wird automatisch erstellt
+
+    - Kollaborationsmodus:
+       + Sehen, wer schreibt/löscht
+       + Sehen, wer eine Seite gelöscht/eingefügt/dupliziert hat
+       + Reduzierte Verzögerung (noch schneller in CollaNote zusammenarbeiten)
+
+    - 3 neue Sticker-Packs hinzugefügt:
+       + Smileys & Emotionen
+       + Menschen & Körper
+       + Tiere & Natur
+
+    - Animationseffekte für viele Elemente hinzugefügt (Sticker, Bild, Textfeld...)
+    - Verbessertes Undo/Redo
+    - Intelligente Größenanpassung der Schriftarten an das Textfeld
+    - Fehler behoben: manchmal stimmte das Vorschaubild einer Seite nicht mit dem Seiteninhalt überein
+    - Fehler behoben: manchmal Absturz beim Importieren von PDF
+    - Fehler behoben: manchmal wurden die Notizen im Hauptordner nicht mehr angezeigt, obwohl sie nicht gelöscht wurden
+    - Verbesserung der Geschwindigkeit beim Öffnen von Notizen
+    - Eine Menge anderer Optimierungen
+Version 1.0.24 (Apr 21, 2021)
+    Fix Bug: Kann eine Notiz mit demselben Namen erstellen
+
+    P/S: Ich bin mit den Klausuren an der Universität fertig und arbeite derzeit an einem BIG-Update. Dieses Update verfügt über viele requested Funktionen und sollte in 1-2 Wochen zum Download bereit sein
+Version 1.0.23 (Mar 27, 2021)
+    - Starkes Zoomen möglich
+    - Optimierungen im Chat Bereich
+    - Verbesserung der Benutzerfreundlichkeit beim Erstellen einer neuen Notiz
+    - Umschalten des Inhaltsbearbeitungsmodus (Fotos in der Notiz bearbeiten) effizienter gestaltet
+Version 1.0.22 (Mar 24, 2021)
+    - Spezieller Zoom,  um ganze Seite zu sehen
+    - Fehler behoben beim Rückgängig machen/Wiederherstellen
+    - Bug behoben: kann keine Striche von anderen löschen
+    - Bug in der Formerkennung behoben
+Version 1.0.20 (Mar 17, 2021)
+    - Fix bug: Verlust des PDF-Hintergrunds von öffentlichen Räumen, wenn jemand das Papier wechselt
+    - Fix crashes
+Version 1.0.19 (Mar 15, 2021)
+    ***** GROSSE OPTIMIERUNG ********
+    - Kann Ordner mit hunderten von Notizen öffnen und alle Notizen anzeigen, ohne auf das Laden zu warten
+    - Kann sehr große PDF-Daten importieren
+    - Reduziert die Speichernutzung um bis zu 70%
+    - LGBT-Raum hinzugefügt - für Chats und Erfahrungsaustausch
+    - Fehler behoben: Bei Verwendung des Formwerkzeugs wurde keine Form anzeigt
+    - Fehler behoben: Die Radiergummi-Taste blieb nach dem Zurückschalten zum letzten Werkzeug orange
+    - Fehler behoben: Falsche Notiz speichern
+Version 1.0.17 (Mar 6, 2021)
+    - Verbesserte Qualität und reduzierte  Größe der exportierten PDF-Datein
+    - Fortschrittsanzeige beim Importieren/Exportieren von PDF`s
+    - Neues Ordnersymbol
+    - Fehler behoben: Text geht verloren, wenn PDF im dunklen Modus exportiert wird
+    - Fehler behoben: App stürzt ab, nachdem eine Farbe ausgewählt wurde, aber noch keine Wörter getippt wurden.
+    - Schaltflächen in den Notizeinstellungen hinzugefügt, um Fehler zu melden/neue Funktion anzufordern
+    - Verbesserung der Zeichenlatenz
+Version 1.0.16 (Mar 2, 2021)
+    - Neue Funktion: Textwerkzeug hinzugefügt. Mit dem neuen Textwerkzeug kann der Benutzer die Handschrift in getippten Text konvertieren.
+    - Fehler behoben: Unterordner werden nicht angezeigt, wenn der aktuelle Ordner keine Notiz enthält.
+    - Neue Funktion: Ändern Sie Schriftart und Farbe des Textfelds
+    - Neue Benutzeroberfläche zum Erstellen von Notizen und zum Verbinden von öffentlichen Räumen
+    - Neue Funktion: Vorlagen
+    - Neue Option: Ein Satz Lieblingswerkzeuge für alle Noten
+    - Spitznamen werden in öffentlichen Räumen angezeigt
+    - Öffentliche Räume werden jetzt jedes Mal vom Server aktualisiert, wenn der Benutzer sie öffnet. Sie werden bereinigt, wenn innerhalb von 10 Minuten keine Änderungen vorgenommen werden
+    - Ordner kann umbenannt werden
+    - PDF schneller laden
+    - Beheben Sie einige Fehler, die zu Verzögerungen führen
+    - Aktivieren Sie den Teillöscher im Kollaborationsmodus
+    - Dank freiwilliger Moderatoren kein Spam mehr in öffentlichen Räumen.
+    - Formen besser erkennen
+    - Fehler beim automatischen Verkleinern im Kollaborationsmodus behoben
+    - Fehler behoben: Beispielordner und Beispielnotizen wurden erneut erstellt
+Version 1.0.15 (Feb 28, 2021)
+    - Neue Funktion: Schriftfarbe und Schriftarten verändern
+    - Komplett neue Benutzeroberfläche zum Erstellen von Notizen und Beitreten zu öffentlichen Räumen für Chats mit anderen Nutzern
+    - Neue Funktion: viele praktische Templates und Vorlagen
+    - Neue Option: Lieblingswerkzeuge für alle Notizen gespeichert
+    - In öffentlichen Räumen werden jetzt die Nicknames angezeigt
+    - Öffentliche Räume werden jetzt bei jedem Öffnen durch den Server aktualisiert und deren Inhalt gelöscht, wenn innerhalb von 10 Minuten keine Änderungen vorgenommen werden
+    - Umbenennen von Ordnern möglich
+    - PDF schneller laden
+    - Behebt einige Bugs, die Lag verursachen
+    - Partielles Radiergummi jetzt auch im Zusammenarbeitsmodus
+    - Kein Spam mehr in öffentlichen Räumen, dank freiwilliger Moderatoren.
+    - Automatische Formerkennung verbessert
+    - Fix bug auto zoom out im Zusammenarbeitsmodus
+    - Fix bug: Musterordner und Musternotizen neu erstellt
+Version 1.0.14 (Feb 26, 2021)
+    - Komplett neue Benutzeroberfläche zum Erstellen von Notizen und Beitreten zu öffentlichen Räumen für Chats mit anderen Nutzern
+    - Neue Funktion: viele praktische Templates und Vorlagen
+    - Neue Option: Lieblingswerkzeuge für alle Notizen gespeichert
+    - In öffentlichen Räumen  werden jetzt die Nicknames angezeigt
+    - Öffentliche Räume werden jetzt bei jedem Öffnen durch den Server aktualisiert und deren Inhalt gelöscht, wenn innerhalb von 10 Minuten keine Änderungen vorgenommen werden
+    - Umbenennen von Ordnern möglich
+    - PDF schneller laden
+    - Behebt einige Bugs, die Lag verursachen
+    - Partielles Radiergummi jetzt auch im Zusammenarbeitsmodus
+    - Kein Spam mehr in öffentlichen Räumen, dank freiwilliger Moderatoren.
+    - Automatische Formerkennung verbessert
+    - Fix bug auto zoom out im Zusammenarbeitsmodus
+    - Fix bug: Musterordner und Musternotizen neu erstellt
+Version 1.0.13 (Feb 16, 2021)
+    ********** JETZT AUCH AUF DEUTSCH *************
+    - PDF schneller rendern
+    - E-Mail und Spitznamen unterscheiden nicht mehr zwischen Groß- und Kleinschreibung
+    - Bessere automatische Formerkennung bei kleiner Größe
+    - Geschwindigkeit im live - Zusammenarbeitsmodus verbessert
+    - Fehler behoben: Symbolleiste wird nach Größenänderung des Fensters (bei 2 Fenstern auf dem iPad) nun richtig angezeigt
+    - Fehler behoben: Nach Abmeldung und erneuter Anmeldung wurde in einigen Fällen keine Verbindung zum Server hergestellt
+    - Fehler beim Löschen/Einfügen von Seiten im live- Zusammenarbeitsmodus behoben
+    - Wischen vom Rand funktionierte nur, wenn kein Werkzeug (Stift/Bleistift/Radiergummi/Lasertool) verwendet wurde
+    - Bug beseitigen, der im live-Zusammenarbeitsmodus einen Fehler erzeugte
+Version 1.0.12 (Feb 12, 2021)
+    Neue Funktion: - Jetzt auch auf Deutsch!!!
+    -  Wischen zum Seitenwechsel (links/rechts)
+    -  Gelöschte Notizen und Ordner werden jetzt in den Mülleimer verschoben (in der Dateien-App)
+    - Vietnamesische Sprache wird nun unterstützt
+Version 1.0.11 (Feb 8, 2021)
+    - Geschwindigkeit-Verbesserung in Collaboration Mode
+    - Fix bug: Lag nach dem Benutzen von "Partial Eraser"
+    - Fix bug in Shape Recognizer
+Version 1.0.10 (Feb 4, 2021)
+    - Hot fix: can't create page
+    ********* BIG UPDATE - MANY NEW FEATURES *********
+    - Added Hex & Cornell Papers
+    - Added Rectangle and Triangle shapes
+    - A4 landscape PDF now supported
+    - Collaboration now with animations (animation when photos/texts got moved, resized, rotated...)
+    - Added ruler tool
+    - New machine learning Model to recognise shapes better
+    - Re-implement delete note/folder (faster and more reliable)
+    - Added animation while changing page (by swiping from edges of screen)
+    - Added 2 Public notes: "Public Note" and "Question room"
+    - Public notes now will be cleaned after closing app
+    - Anyone can edit public notes (even without login)
+    - Fix bug: can't write fast with marker tool if "highlight behind text" mode is on
+    - Fix bug: receive text from wrong note (when someone else draw in other note)
+    - Fix bug: remove lag and loosing texts in collaboration mode
+    - Fix bug: thumbnails sometimes do not reload when a page changed
+Version 1.0.8 (Jan 22, 2021)
+    - Stifte/ Tools als Favoriten können jetzt in jeder Notiz verschieden sein
+    -Favoriten können nun ganz einfach nach unten in den Mülleimer gekickt werden
+    -Audiodateien können einzeln gelöscht werden
+Version 1.0.6 (Jan 15, 2021)
+    Neu in diesem Update:
+    - Bilder und Text editing mode
+    - Doppel Tap: wechseln zu Bilder/Text editing mode
+    - Texte hinzufügen per Tastatur
+    - Option auto wechseln zu letztem Tool nach dem Benutzen von Radiergummi
+    - Fix bugs
+
+    Neu in letztem Update (vor 2 Tagen)
+    - Wischen vom Rand um Seite zu wechseln
+    - Wischen vom Rand in letzter Seit, um neue Seite zu erzeugen
+    - Auto speichern
+    - Fix bug in Collaboration beim Löschen/Insert eine Seite
+    - Fix Stoppen Musik beim Öffnen von Notitzen
+    - Fix bug App abgestürzt bei der Collaboration
+    - Fix bug Seite Hinzufügen
+Version 1.0.5 (Jan 13, 2021)
+    Neu in diesem update:
+    - Durchziehen vom Rand um Seite zu wechseln
+    - Durchziehen vom Rand in letzter Seit, um neue Seite zu erzeugen
+    - Auto speichern
+    - Fix bug in Collaboration beim Löschen/Insert eine Seite
+    - Fix Stoppen Musik beim Öffnen von Notitzen
+    - Fix bug App abgestürzt bei der Collaboration
+    - Fix bug Seite Hinzufügen
+Version 1.0.4 (Jan 12, 2021)
+    Neu in diesem update:
+    - Durchziehen vom Rand um Seite zu wechseln
+    - Durchziehen vom Rand in letzter Seit, um neue Seite zu erzeugen
+    - Auto speichern
+    - Fix bug in Collaboration beim Löschen/Insert eine Seite
+    - Fix Stoppen Musik beim Öffnen von Notitzen
+Version 1.0.3 (Jan 9, 2021)
+    - Kritzeln und dann halt um Linie, Kreise, Quadrat zu zeichnen
+    - Neuer Button für Erstellung von neuer Seite und wechseln automatisch zu neuer Seite
+    - Tippen mit 3 Fingern für Undo
+    - Wischen mit 3 Fingern nach links für Undo
+    - Wischen mit 3 Fingern nach links für Redo
+Version 1.0.1 (Jan 7, 2021)
+    - New UI
+    - Added sticker packs
+
+Users may also like
+Select objects to compare
+Noteful: Note-Taking on PDF
+Nebo: Note Taking & Notebook
+QuickNotes X: Notes, AI & PDF
+Notes+ : Note-taking app
+Notes Writer: Note Taking PDF
+Element Note
+Blankbook - Paper Note
+Freenotes - Note Taking
+Kilonotes-Notes & PDF reading
+Flexcil Note & Good PDF Reader
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+2 times
+on App Store homepage
+45 times
+on App Store category pages
+Versions
+
+    2.1.1
+    Current release
+    Feb 23, 2024
+    2.1.0
+    Jan 22, 2024
+    2.0.17
+    Dec 5, 2023
+    2.0.16
+    Oct 25, 2023
+    2.0.14
+    Sep 20, 2023
+    2.0.11
+    Sep 14, 2023
+    2.0.10
+    Sep 6, 2023
+    2.0.8
+    Jul 16, 2023
+    2.0.6
+    Jul 11, 2023
+    2.0.5
+    Jul 5, 2023
+    2.0.4
+    Jul 1, 2023
+    2.0.3
+    Jun 29, 2023
+    2.0.1
+    Jun 26, 2023
+    2.0.0
+    Jun 25, 2023
+    1.4.34
+    Jun 20, 2023
+    1.4.33
+    Jun 13, 2023
+    1.4.32
+    Jan 4, 2023
+    1.4.31
+    Dec 8, 2022
+    1.4.30
+    Nov 16, 2022
+    1.4.29
+    Nov 10, 2022
+    1.4.28
+    Nov 6, 2022
+    1.4.27
+    Nov 2, 2022
+    1.4.26
+    Oct 30, 2022
+    1.4.25
+    Oct 24, 2022
+    1.4.24
+    Oct 19, 2022
+    1.4.23
+    Oct 15, 2022
+    1.4.22
+    Oct 12, 2022
+    1.4.21
+    Oct 9, 2022
+    1.4.20
+    Oct 2, 2022
+    1.4.19
+    Sep 27, 2022
+    1.4.18
+    Sep 19, 2022
+    1.4.17
+    Sep 17, 2022
+    1.4.15
+    Aug 23, 2022
+    1.4.14
+    Jul 31, 2022
+    1.4.13
+    Jul 21, 2022
+    1.4.12
+    Jun 15, 2022
+    1.4.11
+    May 14, 2022
+    1.4.10
+    Apr 26, 2022
+    1.4.9
+    Apr 11, 2022
+    1.4.8
+    Apr 5, 2022
+    1.4.7
+    Mar 23, 2022
+    1.4.6
+    Mar 22, 2022
+    1.4.5
+    Mar 16, 2022
+    1.4.4
+    Feb 27, 2022
+    1.4.3
+    Feb 25, 2022
+    1.4.2
+    Feb 16, 2022
+    1.3.4
+    Jan 2, 2022
+    1.3.3
+    Dec 14, 2021
+    1.3.2
+    Dec 6, 2021
+    1.3.1
+    Nov 29, 2021
+    1.3.0
+    Nov 27, 2021
+    1.2.13
+    Nov 12, 2021
+    1.2.12
+    Nov 9, 2021
+    1.2.11
+    Nov 5, 2021
+    1.2.10
+    Nov 2, 2021
+    1.2.9
+    Oct 21, 2021
+    1.2.8
+    Oct 9, 2021
+    1.2.7
+    Sep 30, 2021
+    1.2.5
+    Sep 21, 2021
+    1.2.4
+    Sep 7, 2021
+    1.2.3
+    Aug 27, 2021
+    1.2.2
+    Aug 19, 2021
+    1.2.1
+    Aug 15, 2021
+    1.2
+    Aug 12, 2021
+    1.1.13
+    Jul 16, 2021
+    1.1.12
+    Jul 13, 2021
+    1.1.11
+    Jul 6, 2021
+    1.1.10
+    Jun 28, 2021
+    1.1.9
+    Jun 22, 2021
+    1.1.2
+    May 16, 2021
+    1.1.1
+    May 6, 2021
+    1.1.0
+    May 4, 2021
+    1.0.24
+    Apr 21, 2021
+    1.0.23
+    Mar 27, 2021
+    1.0.22
+    Mar 24, 2021
+    1.0.20
+    Mar 17, 2021
+    1.0.19
+    Mar 15, 2021
+    1.0.17
+    Mar 6, 2021
+    1.0.16
+    Mar 2, 2021
+    1.0.15
+    Feb 28, 2021
+    1.0.14
+    Feb 26, 2021
+    1.0.13
+    Feb 16, 2021
+    1.0.12
+    Feb 12, 2021
+    1.0.11
+    Feb 8, 2021
+    1.0.10
+    Feb 4, 2021
+    1.0.8
+    Jan 22, 2021
+    1.0.6
+    Jan 15, 2021
+    1.0.5
+    Jan 13, 2021
+    1.0.4
+    Jan 12, 2021
+    1.0.3
+    Jan 9, 2021
+    1.0.1
+    Jan 7, 2021
+
+See More
+Top In-App Purchases
+
+    Premium-Willkommensangebot
+    $8.99
+    Lebenslang Premium
+    $10.99
+    Premium für treue Benutzer
+    $4.99
+    Premium: Kurzzeitangebot
+    $4.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Jan 7, 2021
+
+Worldwide Release Date
+    Jan 7, 2021
+
+Last Updated Time
+    Mar 4, 2024
+
+Version
+    2.1.1
+
+Size
+    223.76 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Deutsch, Arabisch, Bengalisch, Dänisch, Englisch, Französisch, Griechisch, Hindi, Indonesisch, Italienisch, Japanisch, Katalanisch, Koreanisch, Kroatisch, Malaiisch, Niederländisch, Norwegisch (Bokmål), Polnisch, Portugiesisch, Rumänisch, Russisch, Spanisch, Thai, Tradit. Chinesisch, Tschechisch, Türkisch, Ukrainisch, Ungarisch, Vereinf. Chinesisch, Vietnamesisch
+
+Seller
+    Zauberberg Lab Company Limited
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Erfordert iOS 14.0 oder neuer. Kompatibel mit iPhone, iPad und iPod touch.
+
+Bundle ID
+    net.quochuywdm.collanote496
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1540956268
+Unified App ID: 1000800000139832
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+CollaNote: Handwritting & PDF | data.ai

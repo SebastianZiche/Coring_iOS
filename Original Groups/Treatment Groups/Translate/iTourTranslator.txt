@@ -1,0 +1,704 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+iTourTranslator
+iTour Translator Inc.Productivity (Applications)Free
+Alerts
+
+iTourTranslator
+iTourTranslator
+iTourTranslator
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+iTourTranslator
+iTourTranslator
+Productivity (Applications)
+Free
+App Description
+1. iTourTranslator is a powerful translation APP with many translation functions: (1) It supports real-time translation for making and receiving calls. (2) Users can make audio or video calls with friends on social apps such as WhatsApp, Wechat, Messenger, Line, Telegram, etc. The calls will be translated in real time. The other party does not need to download this APP. (3) It can translate online videos and online meetings in real time. (4) There are many human translators in the APP, which can provide users with phone translation and remote video translation online and in real time. (5) It has an independent cloud conference system, and the speech in the meeting will be translated in real time. (6) It also supports photo translation, listening mode translation, dialogue translation, web page translation and text translation. (7) It also has an instant messaging system and post function. On this APP, you can meet friends from all over the world. You can chat with them or post photos. Texts, calls, voices and posts will all be translated in real time.
+This APP is not only dedicated to breaking the language barrier, but also provides support for the hearing impaired. The main functions are suitable for the hearing impaired.
+This APP supports 119 languages ​​and can call 200+ countries.
+
+2. Introduction of features:
+(1) Telephone translation:
+When making a call, there is no need to install this APP on the receiving party's mobile phone. If the user finds that the machine translation is not accurate enough during the phone call, he can also call a human translator to help at any time in the APP.
+
+(2) Transcribe
+It will perform real-time uninterrupted translation of the sound it hears, and bilingual subtitles will appear. And it will automatically record and export subtitle scripts.
+Especially suitable for: online classes for international students and classes for international students. Users can use it to translate online videos, as well as to translate Zoom meetings, Teams meetings, etc.
+
+(3) Live translation by online translator:
+You can call an online live translator to help you translate the phone call you want to make at any time. If you encounter language difficulties abroad, you can always call a live interpreter to help you translate through remote video appearing on your mobile phone, which is equivalent to bringing a live interpreter with you.
+These translators can also help you translate documents, videos, photos and other translation services.
+
+(4) Listening function:
+This function effectively solves the problem that requires him to cooperate with you when communicating with foreign friends abroad. When you talk to a foreign friend, he can just say whatever he wants. The APP will translate at any time, so you don’t need to pass the phone around.
+
+(5) Conference translation:
+This APP contains a complete cloud conference system. You can hold a multinational conference through this APP, and the language in the conference will be translated in real time.
+
+(6) Instant messaging and social networks:
+Users can meet and communicate with friends all over the world in the APP, and can post photos. Supports various instant messaging functions such as text chat, voice chat, audio and video calls, group chats, etc. All instant messages and posts will be translated.
+Ratings
+Displayed Avg Ratings
+4.06
+Total Displayed Ratings
+1.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.1.26 (Feb 27, 2024)
+    1. Fix known issues
+    2. App performance optimization
+Version 3.1.25 (Feb 20, 2024)
+    1. Fixed the issue of translated content in speech recognition
+    2. Optimized program performance
+Version 3.1.24 (Feb 18, 2024)
+    1. Fix some known issues
+Version 3.1.21 (Jan 30, 2024)
+    1. Fix some known issues
+Version 3.1.18 (Jan 19, 2024)
+    1. Fix some known issues
+Version 3.1.17 (Dec 18, 2023)
+    1. Fix some known issues
+Version 3.1.16 (Dec 7, 2023)
+    1. Fix some known issues
+Version 3.1.15 (Dec 4, 2023)
+    1. Fix some known issues
+Version 3.1.14 (Nov 21, 2023)
+    1. Fix some known issues
+Version 3.1.13 (Nov 14, 2023)
+    1. Fix some known issues
+Version 3.1.12 (Nov 7, 2023)
+    1. Fix some known issues
+Version 3.1.11 (Oct 28, 2023)
+    1. Fix some known issues
+Version 3.1.01 (Oct 20, 2023)
+    1. Fix some known issues
+    2. Interface adjustment
+Version 3.0.10 (Oct 9, 2023)
+    1: IOS 17 system adaptation
+Version 3.0.00 (Sep 25, 2023)
+    1. Fix some known issues
+Version 2.9.92 (Aug 29, 2023)
+    1. Fix some known issues
+Version 2.9.91 (Aug 21, 2023)
+    1. Add EarBuds talk function
+    2. Fix some known issues
+Version 2.9.86 (Aug 8, 2023)
+    1. Fix some known issues
+Version 2.9.85 (Jul 30, 2023)
+    1. Fix some known issues
+Version 2.9.83 (Jul 24, 2023)
+    Fix some known issues
+Version 2.9.82 (Jul 14, 2023)
+    1. Fix some known issues
+Version 2.9.80 (Jul 6, 2023)
+    1. Added Bluetooth earphone broadcasting function
+    2. Fixed some known issues
+Version 2.9.79 (Jun 17, 2023)
+    1. Optimize some known issues
+
+    2. Add monthly translation function
+Version 2.9.78 (Jun 9, 2023)
+    1. Fix some known issues
+Version 2.9.76 (Jun 1, 2023)
+    1. Add live streaming translation
+    2. Fix known issues
+Version 2.9.74 (May 17, 2023)
+    1. Fix some known issues
+Version 2.9.73 (May 13, 2023)
+    1. Add intelligent AI chat function
+
+    2. Add intelligent summary function for historical records
+
+    3. Fix some bugs
+Version 2.9.72 (Apr 19, 2023)
+    1. Fix some known issues
+Version 2.9.67 (Apr 11, 2023)
+    1. Fix some known issues
+Version 2.9.65 (Mar 20, 2023)
+    1. Fix known issues
+Version 2.9.64 (Mar 8, 2023)
+    1.Fixed known issues
+Version 2.9.63 (Mar 2, 2023)
+    1. Add grouping function to history
+    2. Add app language setting function
+    3. Fix known problems
+Version 2.9.62 (Feb 8, 2023)
+    1. Add simultaneous interpreting in minor languages
+    2. Fix known problems
+Version 2.9.61 (Jan 15, 2023)
+    Fix known problems
+Version 2.9.60 (Jan 7, 2023)
+    1. Transcribe Add:
+    1.1 Note taking function
+    1.2 Back to the display of the floating frame in the background
+    2. Fix other known problems
+Version 2.9.50 (Dec 16, 2022)
+    Fix known problems
+Version 2.9.50 (Dec 16, 2022)
+    Fix known problems
+Version 2.9.42 (Nov 19, 2022)
+    Fix known problems
+Version 2.9.41 (Nov 11, 2022)
+    1. Add fast Transcribe
+    2. Fix known problems
+Version 2.9.40 (Nov 4, 2022)
+    1. Simultaneous interpretation optimization
+
+    --Ordinary simultaneous interpreting/price optimization simultaneous interpreting translation optimization
+
+    --Simultaneous interpretation/cross application simultaneous interpreting Add server node selection
+
+    --Page Optimization
+
+    2. Fix other known problems
+Version 2.9.33 (Oct 24, 2022)
+    1. Fix known problems
+Version 2.9.31 (Oct 13, 2022)
+    1. Optimize simultaneous interpretation and translation display
+
+    2. Fix other known problems
+Version 2.9.3 (Sep 22, 2022)
+    1. Cross application simultaneous interpreting
+    1.1 add price excellent simultaneous interpreting
+    1.2 New History
+    2. Fix other known problems
+Version 2.9.2 (Sep 6, 2022)
+    1. Add code scanning login function
+
+    2. Fix known problems
+Version 2.9.1 (Aug 17, 2022)
+    1.Chat
+    New group chat - audio and video call and translation function
+    Add the function of collecting chat messages to local
+    New file sending function
+    Auto add friend is modified to add after agreeing to friend request
+    New friend audio and video calls and cross application audio and video call records
+    Optimize the display of transfer records between friends
+    2. Optimize the document translation page
+    3. Add zoom teleconference function
+    4. Delete the conference translation function
+    5. Add account cancellation function
+    6. Fix known problems
+Version 2.9.0 (Aug 15, 2022)
+    1.Chat
+
+    New group chat - audio and video call and translation function
+
+    Add the function of collecting chat messages to local
+
+    New file sending function
+
+    Auto add friend is modified to add after agreeing to friend request
+
+    New friend audio and video calls and cross application audio and video call records
+
+    Optimize the display of transfer records between friends
+
+    2. Optimize the document translation page
+
+    3. Add zoom teleconference function
+
+    4. Delete the conference translation function
+
+    5. Add account cancellation function
+
+    6. Fix known problems
+Version 2.8.8 (Jun 24, 2022)
+    Fix some known problems
+Version 2.8.7 (Jun 21, 2022)
+    Fix some known problems
+Version 2.8.6 (Jun 16, 2022)
+    1. add Cheap Transcribe
+    2. add Speech Recognition
+    3. add Word List
+    4. add history editing function and export files in other formats
+    5. optimization of package recharge function
+    6. add document translation function
+    7. add network telephone function
+    8. repair of other problems
+Version 2.8.5 (May 19, 2022)
+    1. Modify the phone page;
+    2. Optimization of listening function;
+    3. Simultaneous transmission function optimization;
+    4: Fix some known problems.
+Version 2.8.4 (Mar 30, 2022)
+    Fix some bugs
+Version 2.8.3 (Mar 15, 2022)
+    1. add Cross-App Translation
+    2. fix some bugs
+Version 2.8.2 (Feb 19, 2022)
+    Fix some bugs
+Version 2.8.1 (Jan 19, 2022)
+    Fix some bugs
+Version 2.8.0 (Dec 10, 2021)
+    Update new interface
+    Fix some known bugs
+Version 2.7.2 (Nov 1, 2021)
+    Fix some known bugs
+Version 2.7.1 (Oct 5, 2021)
+    Fixed some known bugs
+Version 2.7.0 (Sep 17, 2021)
+    Fix known bugs
+Version 2.6.0 (Aug 3, 2021)
+    Fix known bugs
+Version 2.5.2 (Jun 28, 2021)
+    Fix some known bugs
+Version 2.5.1 (Jun 5, 2021)
+    Fix known bugs
+Version 2.5.0 (May 28, 2021)
+    1. Add conference translation function
+    2. Fix known bugs
+Version 2.4.8 (May 19, 2021)
+    Fix some known bugs
+Version 2.4.7 (Apr 1, 2021)
+    1. chat optimization
+    1) New friends online status
+    2) New friends chat message delivery and message read status
+    3) When optimizing forwarding messages, the latest chat friends will be displayed at the top
+    4) New chat voice translation function
+    2. Add horizontal alignment reference line for photo translation
+    3. Fix other known problems
+Version 2.4.6 (Mar 11, 2021)
+    Fix some known bugs
+Version 2.4.5 (Feb 22, 2021)
+    Fix some known bugs
+Version 2.4.4 (Feb 9, 2021)
+    Fix some known bugs
+Version 2.4.2 (Jan 29, 2021)
+    1. Telephone translation - new barrier free mode
+    2. Optimize the telephone translation function, turn off the original voice transmission of the caller when the translated voice is broadcast to the receiver
+    3. Optimize the micro chat - video phone page, and manually reduce the display box of speaking content
+    4. Fix other known problems
+Version 2.4.1 (Dec 4, 2020)
+    Fix some known problems
+Version 2.4.0 (Nov 17, 2020)
+    Fix some known problems
+Version 2.3.1 (Aug 10, 2020)
+    Fixed some known problems
+Version 2.3.0 (Jul 29, 2020)
+    1. Telephone translation - Add new telephone translation lines to optimize the sound quality of calls
+    2. Fix other known problems
+Version 2.2.0 (Jul 15, 2020)
+    Solved some known problems.
+Version 2.1.6 (Jul 3, 2020)
+    This update:
+    Solved some known problems.
+Version 2.1.5 (Jun 24, 2020)
+    This update:
+    - Add SMS translation;
+    - Optimize micro-chat function, add functions of copying, deleting, forwarding and withdrawing chat information;
+    - Add short videos;
+    - Fix known problems.
+Version 2.1.4 (Jun 9, 2020)
+    1. Add the function of answering and Translation
+    2. Telephone translation: new male and female voice setting function
+    2. Optimize the phone translation function
+    3. Optimize the chat function
+    4. Fix known problems
+Version 2.1.3 (May 6, 2020)
+    Fixed some problems
+Version 2.1.2 (Apr 24, 2020)
+    Optimized telephone translation function
+Version 2.1.1 (Apr 13, 2020)
+    Fixed some known bugs
+Version 2.1.0 (Apr 8, 2020)
+    1. New consumption details
+    2. Add the function of automatically adding friends
+    3. Optimize the phone translation function
+    4. Fix some known bugs
+Version 1.1.7 (Mar 17, 2020)
+    1. Telephone translation
+    -- optimize the customer experience of telephone translation
+    -- add a dial to display the time zone and time
+    2. New transfer function
+    3. Fix known problems
+Version 1.1.6 (Dec 17, 2019)
+    -- optimize the customer experience of telephone translation.
+    -- optimize the setup of opening remarks, and automatically send the phone when it is connected, making it more convenient.
+    -- increase WeChat and alipay payment functions.
+Version 1.1.5 (Dec 4, 2019)
+    1. Add offline message notification.
+    2. Added the inquiry of tariff。
+    3.Solved some known problems.
+Version 1.1.4 (Nov 14, 2019)
+    Solved some known problems
+Version 1.1.3 (Nov 7, 2019)
+    Fixed some problems
+
+Version 1.1.2 (Nov 1, 2019)
+    1. Add prompt steps for telephone translation;
+    2. Function optimization of chat;
+    3. Fixed some bugs;
+Version 1.1.1 (Oct 2, 2019)
+    Optimizing Text Translation
+    Fix known bugs
+Version 1.1.0 (Sep 27, 2019)
+    1.Phone call translation page optimization
+    2.Fix known bugs
+Version 1.0.1 (Sep 18, 2019)
+    1. Partial page optimization
+    2. Call: Add edit to set the voice input function on/off
+    3. Fix known bugs
+Version 1.0 (Aug 28, 2019)
+
+Users may also like
+Select objects to compare
+讯飞听见-录音转文字实时语音翻译
+有道翻译官-107种语言翻译
+穿梭Transocks-海外回国追剧听歌
+我们的翻译官-实时语音翻译字幕在线会议工具
+倒数日 · Days Matter
+iMoney · Currency Converter
+番茄ToDo-极简高效自律番茄钟
+百度网盘 HD
+译妙蛙翻译官-语音视频屏幕字幕实时同声翻译器
+彩云小译 - 语音网页文档图片全能翻译
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.1.26
+    Current release
+    Feb 27, 2024
+    3.1.25
+    Feb 20, 2024
+    3.1.24
+    Feb 18, 2024
+    3.1.21
+    Jan 30, 2024
+    3.1.18
+    Jan 19, 2024
+    3.1.17
+    Dec 18, 2023
+    3.1.16
+    Dec 7, 2023
+    3.1.15
+    Dec 4, 2023
+    3.1.14
+    Nov 21, 2023
+    3.1.13
+    Nov 14, 2023
+    3.1.12
+    Nov 7, 2023
+    3.1.11
+    Oct 28, 2023
+    3.1.01
+    Oct 20, 2023
+    3.0.10
+    Oct 9, 2023
+    3.0.00
+    Sep 25, 2023
+    2.9.92
+    Aug 29, 2023
+    2.9.91
+    Aug 21, 2023
+    2.9.86
+    Aug 8, 2023
+    2.9.85
+    Jul 30, 2023
+    2.9.83
+    Jul 24, 2023
+    2.9.82
+    Jul 14, 2023
+    2.9.80
+    Jul 6, 2023
+    2.9.79
+    Jun 17, 2023
+    2.9.78
+    Jun 9, 2023
+    2.9.76
+    Jun 1, 2023
+    2.9.74
+    May 17, 2023
+    2.9.73
+    May 13, 2023
+    2.9.72
+    Apr 19, 2023
+    2.9.67
+    Apr 11, 2023
+    2.9.65
+    Mar 20, 2023
+    2.9.64
+    Mar 8, 2023
+    2.9.63
+    Mar 2, 2023
+    2.9.62
+    Feb 8, 2023
+    2.9.61
+    Jan 15, 2023
+    2.9.60
+    Jan 7, 2023
+    2.9.50
+    Dec 16, 2022
+    2.9.50
+    Dec 16, 2022
+    2.9.42
+    Nov 19, 2022
+    2.9.41
+    Nov 11, 2022
+    2.9.40
+    Nov 4, 2022
+    2.9.33
+    Oct 24, 2022
+    2.9.31
+    Oct 13, 2022
+    2.9.3
+    Sep 22, 2022
+    2.9.2
+    Sep 6, 2022
+    2.9.1
+    Aug 17, 2022
+    2.9.0
+    Aug 15, 2022
+    2.8.8
+    Jun 24, 2022
+    2.8.7
+    Jun 21, 2022
+    2.8.6
+    Jun 16, 2022
+    2.8.5
+    May 19, 2022
+    2.8.4
+    Mar 30, 2022
+    2.8.3
+    Mar 15, 2022
+    2.8.2
+    Feb 19, 2022
+    2.8.1
+    Jan 19, 2022
+    2.8.0
+    Dec 10, 2021
+    2.7.2
+    Nov 1, 2021
+    2.7.1
+    Oct 5, 2021
+    2.7.0
+    Sep 17, 2021
+    2.6.0
+    Aug 3, 2021
+    2.5.2
+    Jun 28, 2021
+    2.5.1
+    Jun 5, 2021
+    2.5.0
+    May 28, 2021
+    2.4.8
+    May 19, 2021
+    2.4.7
+    Apr 1, 2021
+    2.4.6
+    Mar 11, 2021
+    2.4.5
+    Feb 22, 2021
+    2.4.4
+    Feb 9, 2021
+    2.4.2
+    Jan 29, 2021
+    2.4.1
+    Dec 4, 2020
+    2.4.0
+    Nov 17, 2020
+    2.3.1
+    Aug 10, 2020
+    2.3.0
+    Jul 29, 2020
+    2.2.0
+    Jul 15, 2020
+    2.1.6
+    Jul 3, 2020
+    2.1.5
+    Jun 24, 2020
+    2.1.4
+    Jun 9, 2020
+    2.1.3
+    May 6, 2020
+    2.1.2
+    Apr 24, 2020
+    2.1.1
+    Apr 13, 2020
+    2.1.0
+    Apr 8, 2020
+    1.1.7
+    Mar 17, 2020
+    1.1.6
+    Dec 17, 2019
+    1.1.5
+    Dec 4, 2019
+    1.1.4
+    Nov 14, 2019
+    1.1.3
+    Nov 7, 2019
+    1.1.2
+    Nov 1, 2019
+    1.1.1
+    Oct 2, 2019
+    1.1.0
+    Sep 27, 2019
+    1.0.1
+    Sep 18, 2019
+    1.0
+    Aug 28, 2019
+
+See More
+Top In-App Purchases
+
+    198 points
+    $29.99
+    Virtual number-1month
+    $3.99
+    118 points
+    $17.99
+    Fast Transcribe - 20 Hours
+    $49.99
+    Fast Transcribe -10Hours
+    $29.99
+    Fast Transcribe -20Hours
+    $49.99
+    298 points
+    $39.99
+    518 points
+    $69.99
+    Base Transcribe
+    $59.99
+    Speech Recognition
+    $14.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Aug 27, 2019
+
+Worldwide Release Date
+    Aug 27, 2019
+
+Last Updated Time
+    Mar 5, 2024
+
+Version
+    3.1.27
+
+Size
+    351.84 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Catalan, Danish, Finnish, French, German, Italian, Japanese, Korean, Norwegian Bokmål, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Thai, Traditional Chinese
+
+Seller
+    Shanghai Lianxian Information Technology Co., Ltd
+
+Company HQ
+    China
+
+Content Rating
+    Rated 12+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.lianxian.itour
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1460633648
+Unified App ID: 1000800000156297
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+iTourTranslator | data.ai

@@ -1,0 +1,327 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Secure Notepad
+Dmytro VynokurovProductivity (Applications)Free
+Alerts
+
+    Dmytro Vynokurov
+
+    Secure Notepad
+    Secure Notepad
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Secure Notepad
+Private Notes with password
+Productivity (Applications)
+Free
+App Description
+This app will let you save personal notes, contacts, and passwords as well as any other personal or secret information which will be hidden from strangers' eyes and securely protected by a password.
+
+The free version has no ads!
+
+Another great feature of Secure Notepad is its simplicity and ease of use. The app has a clean and user-friendly interface, allowing you to quickly and easily create and edit notes.
+
+If you have forgotten your password for entering the app, it can be easily restored by answering the security question.
+
+Key features:
+• Very easy to use
+• All of your notes are securely protected and accessible only to you
+• Use Face ID or Touch ID to unlock the app
+• Sort your notes by date or alphabetically
+• Automatic lock (you have 30 seconds to return to the app without entering the password)
+• Restore password by answering the security question
+• Ability to recover recently deleted notes
+
+Whether you're taking notes in class, brainstorming ideas for a project, or just jotting down your thoughts, Secure Notepad is a great choice for keeping your information secure and organized. With its strong password protection and advanced security features, you can be sure that your notes will always be safe and secure.
+Ratings
+Displayed Avg Ratings
+4.65
+Total Displayed Ratings
+20.9k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.2 (Mar 20, 2023)
+    We are excited to announce the latest updates for our Secure Notepad app, with a focus on enhancing the user experience on both iPad and iPhone.
+
+    For iPad users:
+    • Security enhancements.
+    • Resolved an issue where a note may not return to the beginning upon selection.
+    • Improved margins in the note window for more convenient typing.
+    • Improved font for iPad. Now the font is the same as on the iPhone.
+    • Addressed an issue that occurred when creating notes during a search.
+    • It no longer shows a gray table when notes are not loaded.
+
+    For iPhone users:
+    • Security enhancements to ensure the safety and privacy of your notes.
+    • Added a new feature that automatically displays the keyboard when creating a new note.
+    • Implemented several minor improvements to enhance the overall performance of the app.
+
+    We are committed to continuously improving the Secure Notepad app, and we hope that these updates will make your note-taking experience even better.
+Version 3.1.4 (Feb 21, 2023)
+    We are thrilled to release the latest version of our Secure Notepad, which includes a range of minor updates and improvements that enhance the overall stability and functionality of the app.
+Version 3.1.3 (Oct 8, 2022)
+    • Fixed note scrolling bug on iPhone 14 Pro Max
+    • Fixed "Your Storage" screen on iPhone SE (1st generation)
+Version 3.1 (Sep 17, 2022)
+    A significant update which has made your «Secure Notepad» even better.
+    • Perfectly compatible with iOS 16 and new iPhones
+    • More pleasing colors in Dark mode
+    • Now you can see the full date of your notes
+    • Security improvements
+    • Interface improvements
+    • Now displays the number of notes available for restore
+
+    And many other minor improvement
+Version 3.0.3 (Dec 8, 2020)
+    • Minor improvements.
+Version 3.0.2 (Dec 1, 2020)
+    • Fixed a bug when the cursor was hiding behind the keyboard on some devices.
+    • Other minor improvements.
+Version 3.0 (Nov 21, 2020)
+    A significant update which has made your «Secure Notepad» even better.
+    We have: 
+    - Perfectly compatible with iOS 14
+    - Added full support for all new iPhone and iPad
+    - Use Face ID or Touch ID to unlock the app (you can enable it in the app settings)
+    - Added the ability to restore deleted notes
+    - Improved the app design
+    - Dark Mode
+    - Now you have 30 seconds to return to the app without entering the password (the app doesn't lock right after you close it; it waits for 30 seconds)
+    - And many other minor improvements 
+Version 2.5 (Oct 11, 2017)
+    • Perfectly compatible with iOS 11
+    • Ability to export all notes at once (from the settings tab)
+    • Other minor improvements
+Version 2.4.2 (Apr 25, 2017)
+    • Minor improvements
+Version 2.4.1 (Feb 9, 2017)
+    • Support iOS 10 perfectly
+    • Minor improvements
+Version 2.4 (Apr 25, 2016)
+    *** What's New ***
+    • Support for iPad Pro
+    • Search function
+    • 3D Touch Support
+    • Print your notes
+    • Share your notes via e-mail, AirDrop, iMessages
+    • Increased the maximum font size
+    • A lot of other minor improvements
+Version 2.3.1 (Oct 10, 2014)
+    *** New in This Version ***
+    - Font size can be changed
+    - Security bugs fixed
+    - Other minor improvements
+
+    *** Previous Version ***
+    - Optimized for iPhone 6 and iPhone 6 Plus
+    - Support iOS 8 perfectly
+    - Improved design
+Version 2.3 (Sep 27, 2014)
+    - Optimized for iPhone 6 and iPhone 6 Plus
+    - Support iOS 8 perfectly
+    - Improved design
+    - Other minor improvements
+    - Bugs fixed
+Version 2.2 (Apr 21, 2014)
+    - iPad compatibility
+    - Minor improvements
+Version 2.1 (Apr 5, 2014)
+    - Security Improvements
+    - Design improvements
+    - Fixed issue with multitasking screen when you could see your note on the app screenshot
+    - Other minor improvements
+Version 2.0 (Sep 25, 2013)
+
+Users may also like
+Select objects to compare
+Lock Notes - Passcode Protect
+Secure Notes - Lock Notes
+Standard Notes
+Notebook - Diary & Journal App
+Simple Notepad -BestNote-
+n+otes
+Inkpad Notepad - Notes - To do
+Old Notepad : Easy Memo Notes
+Diary With Password
+Simplenote
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.2
+    Current release
+    Mar 20, 2023
+    3.1.4
+    Feb 21, 2023
+    3.1.3
+    Oct 8, 2022
+    3.1
+    Sep 17, 2022
+    3.0.3
+    Dec 8, 2020
+    3.0.2
+    Dec 1, 2020
+    3.0
+    Nov 21, 2020
+    2.5
+    Oct 11, 2017
+    2.4.2
+    Apr 25, 2017
+    2.4.1
+    Feb 9, 2017
+    2.4
+    Apr 25, 2016
+    2.3.1
+    Oct 10, 2014
+    2.3
+    Sep 27, 2014
+    2.2
+    Apr 21, 2014
+    2.1
+    Apr 5, 2014
+    2.0
+    Sep 25, 2013
+
+See More
+Top In-App Purchases
+
+    Unlimited Storage
+    $9.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 25, 2013
+
+Worldwide Release Date
+    Sep 25, 2013
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    3.2
+
+Size
+    1.12 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Dmytro Vynokurov
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.dfigroup.secure-notepad-lite
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 711178888
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Secure Notepad | data.ai

@@ -1,0 +1,324 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Monolog.
+Kasper Lahti SandbergUtilities (Applications)Free
+Alerts
+
+    Kasper Lahti Sandberg
+
+    Monolog.
+    Monolog.
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Monolog.
+Audio Recorder & Editor
+Utilities (Applications)
+Free
+App Description
+With Monolog you can:
+• Record and listen by holding the device to your ear, like talking on the phone (iPhone only)
+• Cut, copy and paste to edit a recording like text
+• Transcribe speech while you record or afterwards
+• Backup and sync your recordings with iCloud
+• Share via message, email and more
+• Keep recording or listening while the screen is locked
+Ratings
+Displayed Avg Ratings
+N/A
+Total Displayed Ratings
+N/A
+
+No data is available.
+Pie chart with 3 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+No data is available.
+See More
+What's New
+
+Version 0.7.2 (Oct 11, 2021)
+    Bug fixes.
+Version 0.7.1 (Sep 30, 2021)
+    Bug fixes
+Version 0.7.0 (Aug 12, 2021)
+    Bug fixes.
+Version 0.6.6 (Feb 26, 2021)
+    Bug fixes
+Version 0.6.5 (Oct 3, 2019)
+    Dark mode support
+Version 0.6.4 (Mar 22, 2019)
+    Bug fixes
+Version 0.6.3 (Nov 19, 2018)
+    Bug fixes
+Version 0.6.2 (Nov 15, 2018)
+    Bug fixes
+Version 0.6.1 (Sep 15, 2018)
+    Fixes a bug with the appearance of the waveform.
+Version 0.5.9 (Dec 11, 2017)
+    Resizable bottom panel so there is more room for editing when needed.
+Version 0.5.8 (Dec 8, 2017)
+    Now follows the cursor while recording or playing.
+Version 0.5.7 (Dec 7, 2017)
+    Fixes a bug where the document wouldn't save pasted audio sometimes.
+Version 0.5.6 (Dec 6, 2017)
+    Bug fixes.
+Version 0.5.5 (Nov 27, 2017)
+    Fixes a bug where transcription text would overlap.
+Version 0.5.4 (Nov 21, 2017)
+    Bug fixes.
+Version 0.5.3 (Nov 16, 2017)
+    • Search transcribed audio
+    • Bug fixes
+Version 0.5.2 (Nov 14, 2017)
+    Performance improvements.
+Version 0.5.1 (Nov 9, 2017)
+    Find document easier with the new browser and document previews.
+    Larger document titles and color-coded audio waveforms.
+    Added app shortcut to start new recording quickly.
+    Performance improvements and bug fixes.
+Version 0.5.0 (Nov 8, 2017)
+    Transcribe recordings.
+    Bug fixes.
+Version 0.4.1 (Oct 27, 2017)
+    Bug fixes.
+Version 0.4.0 (Oct 13, 2017)
+    Backup and sync your recordings with iCloud.
+Version 0.3.2 (Sep 20, 2017)
+    ● iOS 11 support
+Version 0.3.1 (Aug 10, 2017)
+    Bug fixes
+Version 0.3.0 (Jul 12, 2017)
+    - Automatically switches speaker when raising to ear to listen
+    - Peek and pop to open recordings on devices with 3D Touch support
+    - Simpler recording list
+Version 0.2.3 (Jul 22, 2016)
+    • Undo and redo recording and other changes
+    • Bug fixes
+Version 0.2.2 (Jul 8, 2016)
+    • Play, pause and skip with the controls on the lock screen and in control center
+    • Share select parts of recordings
+    • Optimized audio processing and microphone selection for voice recording
+    • Faster waveform rendering
+Version 0.2.1 (Jul 5, 2016)
+    • Making selections and adjusting close to the left screen edge is now easier
+    • Works better when using headphones or other speakers
+    • Better names and other improvements when using iTunes File Sharing
+Version 0.2.0 (Jul 1, 2016)
+    Recording Editor
+    • Tap to easily skip to any point in the recording
+    • Swipe to make a selection and loop playback
+    • Cut, copy, and paste audio with familiar controls
+    • Continue recording at any time
+    • Rename recordings by tapping the title
+Version 0.1.13 (May 26, 2016)
+    • Bluetooth support: record or listen using bluetooth connected speakers or headphones
+Version 0.1.12 (May 19, 2016)
+
+Users may also like
+Select objects to compare
+VoiceHD - voice recorder
+DOMINO 2MIC SETTING
+VoiceMemory
+Webbie4th
+DocCamera: PDF Scanner
+Voice Recorder DX2
+迅捷錄音轉寫
+Speecap
+HB Info64
+AccuView
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Recorder
+Recorder
+Apps that allow users to record voice using a microphone and save it as an mp3 file.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    0.7.2
+    Current release
+    Oct 11, 2021
+    0.7.1
+    Sep 30, 2021
+    0.7.0
+    Aug 12, 2021
+    0.6.6
+    Feb 26, 2021
+    0.6.5
+    Oct 3, 2019
+    0.6.4
+    Mar 22, 2019
+    0.6.3
+    Nov 19, 2018
+    0.6.2
+    Nov 15, 2018
+    0.6.1
+    Sep 15, 2018
+    0.5.9
+    Dec 11, 2017
+    0.5.8
+    Dec 8, 2017
+    0.5.7
+    Dec 7, 2017
+    0.5.6
+    Dec 6, 2017
+    0.5.5
+    Nov 27, 2017
+    0.5.4
+    Nov 21, 2017
+    0.5.3
+    Nov 16, 2017
+    0.5.2
+    Nov 14, 2017
+    0.5.1
+    Nov 9, 2017
+    0.5.0
+    Nov 8, 2017
+    0.4.1
+    Oct 27, 2017
+    0.4.0
+    Oct 13, 2017
+    0.3.2
+    Sep 20, 2017
+    0.3.1
+    Aug 10, 2017
+    0.3.0
+    Jul 12, 2017
+    0.2.3
+    Jul 22, 2016
+    0.2.2
+    Jul 8, 2016
+    0.2.1
+    Jul 5, 2016
+    0.2.0
+    Jul 1, 2016
+    0.1.13
+    May 26, 2016
+    0.1.12
+    May 19, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Utilities
+
+Initial Release Date
+    May 19, 2016
+
+Worldwide Release Date
+    May 19, 2016
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    0.7.2
+
+Size
+    1.83 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Swedish
+
+Seller
+    Kasper Lahti Sandberg
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    engineering.lahti.Monolog
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1111956651
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Monolog. | data.ai

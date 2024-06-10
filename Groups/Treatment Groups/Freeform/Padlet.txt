@@ -1,0 +1,1490 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Padlet
+WallwisherProductivity (Applications)Free
+Alerts
+
+Padlet
+Padlet
+Padlet
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Padlet
+Productivity (Applications)
+Free
+App Description
+Padlet is a digital canvas to create beautiful projects that are easy to share and collaborate on.
+
+It works like a piece of paper. We give you an empty page - a padlet - and you can put whatever you like on it. Drag in a video, record an interview, snap a selfie, write your own text posts or upload some documents, and voilà! A padlet is born. Make it even more beautiful by choosing custom wallpapers and themes.
+
+Padlet is different from other blogging tools and inspiration boards because it’s flexible. Create a grocery list, a Venn diagram, a discussion board, a group greeting card, a portfolio, or a business plan, all in one app. Used by teachers, students, professionals, and individuals of all ages, all around the world, padlets can be selectively shared and edited among multiple contributors.
+
+Padlet for iPhone takes the Padlet you know and love, and makes it portable. With views tailored for smaller devices and easy-to-use editor buttons, you can change how your padlet looks with a quick tap. Personalize it with selfies. Use our new menu to invite others to view and edit your padlets. Share across social platforms.
+
+ClassKit integration makes it easier for teachers to share and track their students when working on padlets. Teachers can create handouts that include a padlet and then share the assignment to their respective classes. The students are then able to open the padlet from the SchoolWork app and start work on their assignments right away. Teachers will be able to see who has opened the assignment, how long they have worked on the assignment, and whether or not they have completed their work.
+
+Millions of people are already using Padlet for:
+
+Portfolios
+Opinion forums
+Lesson plans
+Bios
+Real estate listings
+Timelines
+Blogs
+Q+A
+To-Do list
+Inspiration board
+Writing prompts
+Collecting feedback
+Collaborative note-taking
+Photo collages
+Solo or group presentations
+Group greeting cards
+RSVPs
+Pen Pal messages
+Professional Development
+
+Here’s what happy users around the world have to say about Padlet:
+
+“Your app is fantastic. Congrats for being intuitive!”
+
+"Padlet is the best god damn thing anyone has invented."
+
+"Whether you're a newbie or an EdTech whizz, Padlet is an app you absolutely have to use!" - James Gibbons (@ThatEdTechGuy)
+
+Easy to use for both me and my students. Takes to minutes to make a customized feedback forum that is secure and interactive.
+
+"The best tool I've used to create true interaction sharing and provide powerful choice and agency for students (and teachers)."
+
+UPGRADE TO PRO WITHIN THE APP
+
+You can upgrade to Padlet Pro for $99.99 a year or $12.99 a month. With Pro you get:
+
+- unlimited padlets
+- 10x bigger uploads
+- custom domains for your padlets
+- folders
+- priority support
+
+Note: payment will be charged to your iTunes account once you confirm the upgrade. Padlet Pro automatically renews unless it is turned off at least 24 hours before the end of the current subscription period.
+
+
+To turn off auto-renewal, go to Account > Billing > Manage in App Store.
+
+No cancellation of the current subscription is allowed during the active subscription period.
+
+TERMS OF USE:
+https://legal.padlet.com/terms
+
+Read our privacy policy at https://legal.padlet.com/privacy. You can also email us at hello@padlet.com for support.
+Ratings
+Displayed Avg Ratings
+4.49
+Total Displayed Ratings
+17.6k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 209.0.3 (Feb 9, 2024)
+    209 is the smallest number with six representations as a sum of three positive squares.
+    This release comes with bug fixes and app performance improvement
+Version 209.0.0 (Jan 29, 2024)
+    209 is the smallest number with six representations as a sum of three positive squares.
+    This release comes with bug fixes and app performance improvement
+Version 208.0.6 (Jan 18, 2024)
+    • Fixes an issue editing your profile
+    • Fixes an issue opening urls
+    • Minor bug fixes
+Version 208.0.5 (Jan 12, 2024)
+    Introducing version 208.0.5 – where the sum of its digits (2+0+8+0+5) equals 15, but the sum of its changes equals so much more!
+
+    • Experience blazingly fast loading times
+    • Benefit from numerous bug fixes
+    • Enjoy enhanced speed optimizations
+Version 208.0.0 (Jan 2, 2024)
+    Welcome to a new year and an even better version of Padlet! Introducing Version 208.0.0, designed to boost your productivity like never before. What's new?
+
+    • The Padlet Picker, now with enhanced features for an improved user experience.
+    • Significant speed and performance optimizations for smoother, faster interactions.
+    • Comprehensive bug fixes and improvements for a more reliable and efficient Padlet.
+Version 207.0.6 (Oct 11, 2023)
+    207 is the area code for the entire state of Maine.
+
+    - Added new home screen widgets
+    - Updated the log in flow
+    - Fixed a bug that caused reactions to not update for guest users
+    - Fixed a bug with inserting links in the content picker
+    - Added various other fixes and performance improvements
+Version 207.0.4 (Sep 29, 2023)
+    207 is the area code for the entire state of Maine.
+
+    - Added new home screen widgets
+    - Updated the log in flow
+    - Fixed a bug that caused reactions to not update for guest users
+    - Fixed a bug with inserting links in the content picker
+    - Added various other fixes and performance improvements
+Version 207.0.0 (Sep 20, 2023)
+    207 is the area code for the entire state of Maine.
+
+    - Added new home screen widgets
+    - Updated the log in flow
+    - Fixed a bug that caused reactions to not update for guest users
+    - Fixed a bug with inserting links in the content picker
+    - Added various other fixes and performance improvements
+Version 206.0.0 (Aug 7, 2023)
+    The Cessna 206 is a single-engine, general aviation aircraft first introduced in 1964 and is still in production to this day.
+
+    - Add interactive polls to posts
+    - Schedule posts to publish at a future date
+    - Mention users in posts for better collaboration
+    - Auto moderate your padlets with the Safety Net's AI content moderation
+    - Control your dashboard appearance with new customization options
+    - And many more bug fixes and improvements
+Version 205.0.0 (Jul 20, 2023)
+    In the year 205, Marcus Aurelius became a Roman Consul.
+
+    - I can't draw is now available on the Padlet mobile app
+    - Slideshow is now accessible through the padlet more menu
+    - Fixed a performance issue with displaying padlets on dashboard
+Version 204.0.0 (Jun 22, 2023)
+    • Better dashboard navigation
+    • Emoji picker performance improvements
+    • Ability to report malicious content
+    • Other bug fixes and improvements
+Version 201.0.0 (May 18, 2023)
+    201 is an odd composite number. This means that 201 is composed of two distinct prime numbers multiplied together. 3 x 67 = 201.
+
+    - Fixes an issue with opening notifications
+    - Fixes an issue uploading content with the share extension
+    - Fixes an issue with editing images
+    - Fixes an issue with audio transcoding
+Version 200.0.0 (May 4, 2023)
+    200. It's how many dollars you get when passing GO. It's an achilles number, powerful but imperfect. For technical folks, it means a successful connection has been made. For us, it's indicative of our effort to continually improve our mobile app.
+    • Search and filter for posts on a padlet
+    • Sort posts by published date, reaction count, post subject, and randomly
+    • Easily share content from other apps to Padlet through the brand new share extension
+Version 199.0 (Apr 19, 2023)
+    With the 199th pick in the 2000 NFL draft, the New England Patriots selected future Hall of Fame quarterback Tom Brady. With our 199th release we are bringing Slideshows to the mobile app! 
+    Automatically create presentations that are designed to look beautiful on phone and tablets. Open a padlet, click the Share button, then click "Slideshow". 
+Version 198.0 (Mar 20, 2023)
+    Did you know there are 198 ridges on a U.S. dollar coin?
+    • Support for grouping posts by sections in Grid, Stream, Timeline, and Map formats
+    • Redesigned make a padlet panel with beautiful new preview images and options for creating padlets with sections
+    • New activity panel with the option to follow padlets and receive notifications
+    • Redesigned padlet settings panel with autosave and improved wallpaper discovery
+    • Bug fixes and performance improvements
+Version 197.0 (Feb 16, 2023)
+    Did you know that 197 is the police emergency number in Tunisia? It's also a prime number and the newest version of the Padlet app.
+
+    • Fix for issues uploading account avatars
+    • Bug fixes for logging in on various devices
+Version 196.0 (Jan 25, 2023)
+    Fun fact: 196 is the lowest number conjectured to be a Lychrel number. A Lychrel number is a natural number which cannot form a palindromic through the iterative process of repeatedly reversing its digits and adding the resulting numbers. For instance, 56 becomes palindromic after one iteration: 56+65 = 121, so 56 is not a Lychrel number.
+
+    • Fixed a bug that was causing the Welcome Screen to briefly display on launch
+    • Fixed a bug on the create screen when a users team runs out of their quota
+    • Show / hide gallery folder when non-native tenants changes permissions
+    • Fixed a bug clear recent searches when logging out
+    • Fixed a bug with the keyboard while typing
+Version 195.0 (Dec 27, 2022)
+    • New splash screens
+    • New holiday app icons
+    • Bug fixes and improvements
+Version 194.0 (Dec 16, 2022)
+    Fun fact: 194 is the smallest Markov number that is neither a Fibonacci number nor a Pell number.
+
+    This release introduces our brand new notifications system, with a focus on flexibility and control. Check it out by navigating to Settings > Notifications.
+
+    - Turn individual notification types on or off in the new Notifications page
+    - Select your preference for push notifications, email notifications, or both
+    - New, cleaner user interface for account settings
+    - Bug fixes and improvements
+Version 193.0 (Dec 2, 2022)
+    Fun fact: 193 is the fire emergency number in Brazil and Macedonia and the medical emergency number in Ghana. 193 is also the version of this release of the Padlet app. With it comes some small but powerful changes.
+    • Improved deep links for opening padlets and posts from notifications.
+    • Update dashboard header and footer designs.
+    • Dark mode support for the billing and delete account pages.
+    • Bug fixes and performance improvements.
+Version 192.0 (Oct 27, 2022)
+    • Improved accessibility across the app
+    • New design for opening post in full screen
+    • Bug fixes and performance improvement
+Version 191.0 (Sep 23, 2022)
+    • New Padlet redesign
+    • Bug fixes
+Version 190.0 (Aug 26, 2022)
+    • Support SAML Login
+    • Gallery can now be sorted by created Date
+    • User can now disable Remake in Padlet
+    • Bug fixes
+Version 189.0 (Aug 10, 2022)
+    • Team dashboards are here!
+    • New create screen
+    • Bug fixes
+
+Version 188.0 (Jun 27, 2022)
+    • Speed and performance improvements
+    • Fixes an issue uploading large files
+    • Fixes an issue with guest accounts
+    • Minor bug fixes
+Version 187.0 (May 4, 2022)
+    • Fixes multiple copies of the same padlet appearing in the list
+Version 185.0 (May 3, 2022)
+    • Fixes an issue displaying padlets
+    • Minor bug fixes
+Version 181.0 (Apr 27, 2022)
+    • Fixes an issue causing the app to crash
+    • Fixes an issue with notifications
+    • Minor bug fixes
+Version 180.0 (Apr 26, 2022)
+    • New top membership tier Platinum and increased its file upload limit to a whopping 500MB
+    • Added an intermediate membership tier, Gold, for those that want more than the free option but don’t need everything offered by Platinum.
+    • Introduced a new dynamic international pricing model that provides unique and equitable pricing for every country and region with even a single padlet user.
+Version 179.0 (Apr 20, 2022)
+    • Collaborators of a padlet may now leave the padlet voluntarily
+    • Support RTL (Right to left) for Login screens
+    • Fix an issue where the draw canvas would close and reopen repeatedly
+    • Fix hide More menu of padlet on search modal
+    • Fix padlet arrangement on iPad 10.2 inch
+Version 178.0 (Apr 1, 2022)
+    • Add new app icon
+    • Update Dashboard UI for tablets
+    • Fix padlets showing red for a brief moment
+Version 177.1 (Mar 20, 2022)
+    • Fixes an issue with custom domains
+    • Fixes an issue causing crashes
+    • Fixes an issue liking padlets
+Version 176.0 (Mar 10, 2022)
+    • New "Manage People" button for backpack / briefcase
+    • Fixes an issue when opening external links
+    • Speed and performance boosts
+Version 175.0 (Feb 17, 2022)
+    • Fixes an issue causing the app to crash
+    • Minor bug fixes and improvements
+    • Updated translations
+Version 174.0 (Feb 10, 2022)
+    • Fixes an issue opening notifications
+    • Fixes an issue with opening links
+    • Minor bug fixes
+Version 173.0 (Feb 3, 2022)
+    • Fixes an issue with the new dashboard Padlet menu
+    • Improved customer feedback experience
+    • Minor bug fixes and enhancements
+Version 171.0 (Jan 27, 2022)
+    • Fixes an issue with backpack & briefcase login
+    • Speed and performance enhancements
+    • Minor bug fixes
+Version 169.0 (Dec 27, 2021)
+    • Speed and performance boosts
+    • Updated translations
+    • Minor bug fixes
+Version 168.0 (Dec 7, 2021)
+    • Fixes an issue with QR codes
+    • Minor bug fixes
+Version 167.0 (Dec 4, 2021)
+    • Speed and performance updates
+    • Fixes an issue causing crashes
+    • Fixes the "Casal Crash"
+    • Minor bug fixes
+Version 166.0 (Dec 1, 2021)
+    • Fixes an issue with adding posts
+    • Fixes an issue opening links
+    • Minor bug fixes
+Version 165.0 (Nov 20, 2021)
+    • New and improved login screens!
+    • Speed and performance boosts
+    • Updated translations
+    • Minor bug fixes
+Version 164.0 (Oct 22, 2021)
+    • Fixes an issue with backpack / briefcase login
+    • Minor bug fixes and improvements
+Version 163.0 (Oct 21, 2021)
+    • Fixes an issue causing the app to crash
+    • Speed and performance updates
+Version 162.0 (Oct 17, 2021)
+    • Fixes an issue affecting login & sign up
+    • Minor bug fixes and improvements
+Version 161.0 (Sep 25, 2021)
+    • Fixes an issue causing the app to crash
+    • Fixes an issue with translations
+Version 160.0 (Sep 23, 2021)
+    • New and improved ways to post!
+    • Fixes an issue causing the app to not start
+    • Fixes an issue causing the app to crash
+    • Speed and performance boosts
+    • Updated translations
+Version 159.0 (Sep 22, 2021)
+    • New and improved ways to post content!
+    • Speed & performance enhancements
+    • Minor bug fixes and updates
+Version 158.0 (Aug 20, 2021)
+    • Speed and performance improvements
+    • Fixes an issue with inserting links
+    • Fixes an issue with the keyboard
+    • Minor bug fixes
+Version 155.0 (Aug 17, 2021)
+    • New and improved user interface
+    • Speed and performance updates
+    • Updated translations
+    • Minor bug fixes
+Version 154.0 (Aug 3, 2021)
+    • Custom domain mapping available for everyone!
+    • Speed and performance updates
+    • Minor bug fixes
+Version 153.0 (Jul 15, 2021)
+    • New and improved account settings
+    • Fixes an issue uploading audio files
+    • Fixes an issue exporting PDF files
+    • Fixes an issue causing crashes
+    • Better translation support
+Version 152.0 (Jul 1, 2021)
+    • Backchannel format has been removed
+    • Speed and performance updates
+    • Minor bug fixes
+Version 151.0 (Jun 17, 2021)
+    • New an improved billing settings screen
+    • Backchannel will be removed June 30th
+    • Speed and performance updates
+    • Minor bug fixes
+Version 150.0 (Jun 15, 2021)
+    • New and improved backpack / briefcase login
+    • Backchannel will be removed June 30th
+    • Speed and performance updates
+    • Minor bug fixes
+Version 149.0 (Jun 9, 2021)
+    • New design and experience for selecting and uploading contents to your padlets!
+    • Translation fixes for several languages
+    • Minor bug fixes and speed improvements
+Version 148.0 (May 14, 2021)
+    • Folders are now available on free accounts!
+    • Speed and performance updates
+    • Minor bug fixes
+Version 147.0 (May 11, 2021)
+    • Speed and performance enhancements
+    • Fixes an issue with copy items to clipboard
+    • Fixes an issue causing app to crash
+    • Minor bug fixes
+Version 146.0 (May 5, 2021)
+    • Speed and performance enhancements
+    • Fixes an issue with the embed panel
+    • Fixes an issue causing crashes
+    • Minor bug fixes
+Version 144.0 (Apr 5, 2021)
+    • Fixes not being able to select videos when uploading
+    • Fixes a crash when sharing from other apps
+    • Fixes a crash when uploading media
+    • Seed and performance updates
+Version 143.0 (Mar 26, 2021)
+    • New and improved file uploading system
+    • Major speed and performance updates
+    • Fixes an issue with audio recording
+    • Fixes an issue with the safe areas
+    • Fixes an issue causing crashes
+    • Minor bug fixes
+Version 142.0 (Mar 10, 2021)
+    • Speed & performance updates
+    • Minor bug fixes
+Version 141.0 (Mar 3, 2021)
+    • Performances enhancements
+    • Minor bug fixes
+Version 140.0 (Mar 1, 2021)
+    • New members only privacy setting
+    • Minor bug fixes & improvements
+    • Updated translations
+Version 139.0 (Feb 23, 2021)
+    • Speed and performance enhancements
+    • Updated translations
+    • Minor bug fixes
+Version 138.0 (Feb 3, 2021)
+    • Speed and performance improvements
+    • Fixes an issue causing the app to crash
+    • Fixes an issue with uploading files
+    • Minor bug fixes
+Version 137.0 (Jan 16, 2021)
+    • Speed & performance updates
+    • Fixes an issue with opening links
+    • Minor bug fixes and improvements
+Version 136.0 (Jan 11, 2021)
+    • Speed and performance updates
+    • Fixes an issue with notifications
+    • Fixes an issue opening links
+    • Minor bug fixes
+Version 135.0 (Jan 7, 2021)
+    • Speed and performance updates
+    • Fixes an issue with "liked" padlet disappearing
+    • Fixes an issue with uploading custom backgrounds
+    • Fixes an issue with uploading large files
+    • Minor bug fixes
+Version 134.0 (Dec 21, 2020)
+    • Speed & performance improvements
+    • Fixes an issue with uploading files
+    • Minor bug fixes
+Version 133.0 (Dec 18, 2020)
+    • New an improved help center
+    • Speed an performance updates
+    • Fixes an issue with the Text Editor
+    • Fixes an issue causing crashes
+Version 132.0 (Nov 20, 2020)
+    • Optimized for iOS 14 performance
+    • Fixes an issue causing uploads to fail
+    • Fixes an issue causing app to crash
+    • Improved audio recording
+    • Minor bug fixes
+Version 131.1 (Nov 19, 2020)
+    • Fixes an issue with uploading files
+    • Minor bug fixes and improvements
+Version 131.0 (Nov 16, 2020)
+    • Fixes bugs on iOS 114 devices
+    • Fixes some issues causing app to crash
+    • Speed and performance updates
+Version 130.0 (Oct 28, 2020)
+    • Landscape mode for Padlets now supported
+    • Speed & performance enhancements
+    • Fixes an issue with archive Padlets
+    • Fixes an issue causing crashes
+Version 129.0 (Oct 24, 2020)
+    • Speed & performance updates
+    • Allows archiving/unarchiving a padlet while viewing
+    • Fixes a crashing issue when trying to view a padlet
+    • Minor bug fixes
+Version 128.0 (Oct 16, 2020)
+    • Speed & performance updates
+    • Fixes a crashing issue during account deletion
+    • Fixes a crashing issue during requesting access to a password-protected padlet
+    • Fixes a crashing issue in dashboard
+    • Minor bug fixes
+Version 127.0 (Oct 14, 2020)
+    • Speed & performance updates
+    • Fixes an issue causing the app to crash
+    • Fixes an issue with the keyboard
+    • Minor bug fixes
+Version 126.0 (Oct 10, 2020)
+    • Fixes an issue causing the app to crash
+    • Fixes an issue with the media player
+    • Speed and performance updates
+    • Minor bug fixes
+Version 125.0 (Oct 7, 2020)
+    • Fixes an issue causing the text editor to crash
+    • Fixes an issue casing the app to crash
+    • Fixes an issue with notifications
+    • Minor bug fixes & improvements
+Version 124.0 (Oct 6, 2020)
+    • Speed and performance updates for iOS 14.0
+    • Fixes an issue with blank backgrounds on padlets
+    • Fixes a crash when trying to open external links
+    • Fixes an issue causing the dashboard to crash
+    • Fixes a crash when picking an images / videos
+    • Fixes a crash while audio recording
+    • Minor bug fixes and improvements
+Version 123.0 (Aug 31, 2020)
+    • Speed and performance optimizations
+    • Minor bug fixes and improvements
+Version 122.0 (Aug 19, 2020)
+    • Speed and performance optimizations
+    • Fixes an issue with app crashing on startup
+    • Fixes an issue with account deletion
+    • Minor bug fixes and improvements
+Version 121.0 (Aug 13, 2020)
+    • Speed and performance updates
+    • Fixes an issue causing the app to crash
+    • Fixes an issue with audio recording
+    • Minor bug fixes & improvements
+Version 120.0 (Aug 10, 2020)
+    • Improved processing speed for large audio recordings
+    • Bug fixes & speed improvements
+Version 119.0 (Jul 22, 2020)
+    • Improved account security
+    • Speed and performance improvements
+    • Minor bug fixes
+Version 116.0 (Jun 18, 2020)
+    • Fixes an issue with opening padlets via links
+    • Fixes an issue causing the app to crash
+    • Minor bug fixes and improvements
+    • Updated translations
+Version 115.0 (Jun 10, 2020)
+    • Free one week trial for pro accounts
+    • Fixes an issue with archiving padlets
+    • Fixes an issue with "liking" padlets
+    • Speed & performance boosts
+Version 114.0 (May 30, 2020)
+    • Archiving / unarchiving now available!
+    • Speed and performance updates
+    • Fixes an issue with liking padlets
+    • Fixes an issue causing crashes
+    • Minor bug fixes
+Version 113.0 (Apr 20, 2020)
+    • New an improved billing process
+    • Speed improvements & faster loading times
+    • Fixes an issue accessing password protected padlets
+    • Fixes several issues causing the app to crash
+    • Minor bug fixes and improvements
+Version 112.0 (Mar 30, 2020)
+    • Major performance improvements!
+    • Blazing fast load and response times
+    • Fixes issues causing logins to fail
+    • Fixes issues with guest users
+    • Numerous bug fixes and improvements
+    • Optimized for speed and reliability
+Version 111.0 (Mar 2, 2020)
+    • Improved drawing canvas
+    • Fixes an issue with comments
+    • Fixes some issues causing crashes
+    • Performance & stability updates
+Version 110.0 (Feb 12, 2020)
+    • Fixes some issues with the Map picker
+    • Fixes some bug causing the app to crash
+    • Performance and speed improvements
+Version 109.0 (Jan 6, 2020)
+    • Bug fixes an improvements
+    • Speed enhancements
+Version 108.0 (Dec 10, 2019)
+    • Speed and performance updates
+    • Minor bug fixes
+Version 107.0 (Dec 5, 2019)
+    • New Timeline format
+    • Performance updates
+    • Bug fixes
+Version 106.0 (Dec 2, 2019)
+    • New an improved Padlet maps
+    • Bug fixes and performance updates
+Version 105.0 (Nov 26, 2019)
+    • Native comments panel for maps and canvas
+    • Bug fixes and performance updates
+Version 104.0 (Nov 14, 2019)
+    • Performance enhancements
+    • Minor bug fixes
+Version 103.0 (Nov 8, 2019)
+    • Fixes an issue with the camera which caused the app to crash
+    • Fixes an issue with the profile and add members screen (logout required)
+    • Speed and performance improvements
+    • Better back button support
+    • Minor bug fixes
+Version 102.0 (Nov 6, 2019)
+    • Fixes an issue with the profile / add members page (may require logout)
+    • Bug fixes and improvements
+Version 101.0 (Oct 30, 2019)
+    • Sign in with Apple support
+    • Bug fixes and improvements
+Version 100.0 (Oct 25, 2019)
+    • New and improved login and sign up experience!
+    • Bug fixes and improvements
+Version 99.0 (Oct 22, 2019)
+    • Speed and performance updates
+    • Minor bug fixes
+Version 98.0 (Oct 17, 2019)
+    • Fixes an issue with dark mode
+Version 97.0 (Oct 15, 2019)
+    • Fixes an issue with uploading videos
+    • Fixes an issue with file size limits
+Version 96.0 (Oct 1, 2019)
+    • PencilKit support for Canvas
+    • Bug fixes and improvements
+Version 95.0 (Sep 16, 2019)
+    • New map padlet type!
+    • Bug fixes
+Version 94.0 (Sep 3, 2019)
+    • Speed & performance improvements
+    • Fixes an issue with Microsoft login
+    • Minor bug fixes
+Version 93.0 (Aug 19, 2019)
+    • New internal navigation system
+    • Performance optimizations
+    • Bug fixes
+Version 92.0 (Jul 25, 2019)
+    • Speed and performance updates
+    • Bug fixes and improvements
+Version 91.0 (Jul 17, 2019)
+    • Speed and performance updates
+    • Bug fixes and improvements
+    • Smaller app size
+Version 90.0 (Jul 3, 2019)
+    • New and improved Settings panel
+    • Added new icons and wallpapers!
+    • Bug fixes and improvements
+Version 89.0 (May 23, 2019)
+    • Fixes an issue with expanding posts
+    • Fixes an issue editing posts
+    • Speed improvements
+Version 88.0 (May 11, 2019)
+    • Fixes an issue opening certain files
+    • Fixes an issue with viewing images
+    • Fixes an issue adding attachments
+Version 87.0 (Apr 26, 2019)
+    • New Audio search available!
+    • Fixes issue opening links in app
+    • Numerous bug fixes and updates
+Version 86.0 (Apr 22, 2019)
+    • Fixes an issue with remaking padlets
+    • Fixes an issue with the Dashboard screen
+    • Improves performance for Broadcasting
+    • Improves performance for animations
+    • Numerous minor bug fixes
+Version 85.0 (Mar 29, 2019)
+    • Performance & stability updates
+    • Fixes an issue causing padlets to crash
+    • Fixes an issue with guests posting on shelves
+    • Fixes an issue with liking certain padlets
+    • Improvements to the user interface
+Version 84.0 (Mar 23, 2019)
+    • Improvements to the TextEditor
+    • Support for Grammarly
+    • Speed improvements
+    • Bug fixes
+Version 83.0 (Mar 13, 2019)
+    • New and improved Share Panel
+    • Updates to the text editor
+    • Bug fixes
+Version 82.0 (Feb 22, 2019)
+    • Fixes an issue with push notifications
+    • Minor bug fixes and improvements
+Version 81.0 (Feb 12, 2019)
+    • Massive improvements to the text editing experiencing
+    • Persisted data so you won't lose a post again!
+    • Trailblazing speed improvements
+    • Numerous bug fixes
+Version 80.0 (Jan 24, 2019)
+    • Fixes an issue causing Microsoft logins to fail
+    • Fixes a bug causing expanding posts to crash
+    • Fixes an issue with scanning QR codes
+    • Fixes an issue with the drawing canvas
+    • Performance and speed improvements
+Version 79.0 (Jan 16, 2019)
+    • Speed improvements & performance updates
+    • Fixes issues with the max file size you can upload
+    • Fixes an issues with uploading certain files
+Version 78.0 (Nov 30, 2018)
+    • New today extension!
+    • Fixed linking padlets
+    • Minor bug fixes
+Version 77.0 (Nov 26, 2018)
+    • Fixes an issue causing blank screen
+    • Fixes an issue causing app to crash
+Version 76.0 (Nov 19, 2018)
+    • Fixed notifications
+    • Fixed an issue with PDF exports
+    • Fix error causing MoreMenu to crash
+    • Faster image processing
+Version 75.0 (Nov 14, 2018)
+    • Fixes an issue causing image previews to crash
+    • Fixes an issue causing Broadcasts to fail
+    • Minor bug fixes & updates
+Version 74.0 (Nov 8, 2018)
+    • Fixes a resizing issue on the padlet screen
+    • Fixes a bug causing the app to crash
+    • Fixes a permissions issue
+    • Better error tracking
+    • UI updates & fixes
+Version 73.0 (Nov 5, 2018)
+    • General fixes & speed improvements
+    • Performance updates for the Text component
+    • Fixed permissions issue with camera on QR screen
+    • Fixed stop sending broadcast when nothing exists
+    • Fixed submit button not highlighting on some uploads
+    • Fixed usage panel on dashboard covering part of username
+    • Fixed the cactus background resizing on mobile phones
+Version 72.0 (Oct 22, 2018)
+    • New Copy post panel
+    • New Transfer post panel
+    • Updated keyboard logic flow
+    • Fixed a bug causing the app to crash
+    • Fixed a bug when commenting on posts
+    • Fixed a bug when adding shelf columns
+    • Fixed a bug with text size being too large
+    • Fixed a bug causing crashes from folders
+    • Speed improvements
+Version 71.0 (Oct 9, 2018)
+    • New app icons!
+    • New and redesigned Remake Panel
+    • New and redesigned Embed Panel
+    • New and redesigned Format Panel
+    • New and redesigned LTI Panel
+    • Speed improvements
+    • Fixed deletion glitch
+    • Fixed keyboard logic
+Version 70.0 (Oct 1, 2018)
+    • Updated for iOS 12
+    • Managed app configuration
+    • Fixed media playback issue with iOS
+    • Fixed shelf missing column bug
+    • Fixed guest QR code access
+Version 69.0 (Aug 29, 2018)
+    • Speed & performance updates
+    • Reduced memory usage
+    • Fixed TextEditor cursor issue, causing it to jump back to the beginning
+    • Fixed a bug causing some links to open our app that shouldn't
+    • Fixed a bug that caused the app to crash when internet disconnects
+    • Improved patching system
+Version 67.0 (Aug 21, 2018)
+    • Introducing spotlight search! Now your padlets can be search from your phones search menu.
+    • More padlet settings options phone in your phones menu, now allow you to disable broadcast.
+    • Numerous bug fixes an improvements, including fixes to the new share extension and a bug causing the upload custom wallpaper to crash.
+Version 66.0 (Aug 15, 2018)
+    • Updates to Share Extension
+    • Added "Open in Browser" option
+    • Numerous bug fixes and updates
+Version 65.0 (Aug 9, 2018)
+    • Fixed the Share Extension
+    • Classkit improvements
+Version 64.0 (Aug 3, 2018)
+    • ClassKit integration for Schoolwork
+    • Bug fixes & improvements
+Version 63.0 (Jul 31, 2018)
+    • Improved Broadcast system
+    • Improved native Text Editor
+    • Bug fixes & improvements
+Version 60.0 (Jul 11, 2018)
+    • Updates to Catscan
+    • New padlet header
+    • New padlet more menu
+Version 59.0 (Jun 14, 2018)
+    • Upgrades to Catscan
+    • Microsoft login fixes
+    • Skoletube support
+Version 58.0 (Jun 7, 2018)
+    • Introducing Catscan: Just take a picture of post-it notes on a real, physical wall and convert them into a padlet.
+Version 57.0 (May 24, 2018)
+    • App is now GDPR compliant
+    • Many bug fixes & improvements
+Version 56.0 (May 22, 2018)
+    • Fixed issues with magic logins
+    • Bug fixes and improvements
+    • Speed enhancements
+Version 55.0 (May 6, 2018)
+    • Updates to the folders system
+    • Minor bug fixes & improvements
+    • New diagnostics panel
+    • Speed improvements
+Version 54.0 (Apr 28, 2018)
+    • New referrals system
+    • Bug fixes
+Version 53.0 (Apr 25, 2018)
+    • New folders for paying users
+    • Bug fixes & improvements
+Version 52.0 (Apr 6, 2018)
+    • New pro plans
+    • Bug fixes and improvements
+Version 51.0 (Mar 27, 2018)
+    • New padlet info panel for a detailed overview of the content
+    • New option to set image as cover photo
+    • Numerous bug fixes and improvements
+Version 50.0 (Mar 16, 2018)
+    • Microsoft login for paying users
+    • Fixes issues with the Text Editor
+    • Fixes a bug causing the "Join panel" to cause the app to crash
+    • Fixes some issues with the broadcasting system
+Version 49.0 (Mar 9, 2018)
+    • Updates to the new broadcasting system
+    • Fixes a bug causing allow bluetooth dialog to keep popping up
+Version 48.0 (Mar 7, 2018)
+    • Introducing Padlet Nearby, a new way to share padlets with the people around you! Padlet Nearby allows you to broadcast padlet(s) to any number of devices around you via bluetooth for a quicker and more seamless way to collaborate.
+
+    To use this feature, go to any padlet and click the three horizontal dots in the top right corner. Then in the popup menu, select broadcast, which will broadcast the padlet to nearby devices for an hour. You can also cancel this at any time by following the same procedure.
+
+    To access nearby padlets, click the "Join a padlet" button on the dashboard, and a list of shared padlets will appear there! You can also access this as guest, by clicking "Continue as guest" on the welcome screen.
+Version 47.0 (Feb 21, 2018)
+    • Bug fixes & enhancements
+Version 46.0 (Feb 19, 2018)
+    • File provider extension for sharing documents from Padlet Drive
+Version 45.0 (Feb 13, 2018)
+    • New chat padlet format
+Version 44.0 (Feb 2, 2018)
+    • New drawing component
+Version 43.0 (Feb 1, 2018)
+    • New upload map option
+Version 42.0 (Jan 31, 2018)
+    • New search upload feature
+Version 41.0 (Jan 29, 2018)
+    • New microphone upload option
+Version 40.0 (Jan 28, 2018)
+    • Added missing icons
+Version 39.0 (Jan 26, 2018)
+    • New upload menu
+    • Attach a padlet
+    • Bug fixes
+Version 38.0 (Jan 22, 2018)
+    • Improved file uploading
+    • Added missing icons
+    • Minor bug fixes
+Version 37.0 (Jan 20, 2018)
+    • Fixes uploading problem
+    • New upload menu
+Version 35.0 (Jan 19, 2018)
+    • Bug fixes & improvements
+Version 32.0 (Jan 16, 2018)
+    • New TextEditor improvements
+    • Bug fixes & improvements
+Version 31.0 (Jan 10, 2018)
+    • New mobile text editor for easier posting to your padlets
+    • Minor bug fixes and improvements
+Version 30.0 (Dec 15, 2017)
+    • Bug fixes and improvements
+    • Updated magic linking
+Version 29.0 (Dec 12, 2017)
+    • Improved overall performance
+    • Bug fixes & crash reporting
+    • New network section
+Version 28.0 (Dec 9, 2017)
+    • Bug fixes & performance updates
+    • Improved magic linking
+    • Updated translations
+    • iPhone X UI updates
+Version 26.0 (Dec 3, 2017)
+    • Fixes share extension attachments
+    • Adds deferred linking & magic linking
+    • Minor UI updates
+    • Bug fixes
+Version 25.0 (Nov 23, 2017)
+    • Fixes iOS 9 upload glitch
+Version 23.0 (Nov 17, 2017)
+    • Fixes sharing glitch causing app to crash when opening the share panel
+Version 24.0 (Nov 17, 2017)
+    • Fixes save to camera roll bug
+    • Adds UI support for iPhone X
+Version 22.0 (Nov 16, 2017)
+    • Added support for file uploads on the Share Extension
+
+    • Fixed some bugs causing uploads to fail
+
+    • Minor UI fixes / upgrades
+Version 20.0 (Nov 14, 2017)
+    - Brand new design
+    - 2x faster
+Version 21.1 (Nov 14, 2017)
+    • Improved media uploads
+    • Improved notifications
+    • Minor bug fixes
+Version 19.0 (Nov 1, 2017)
+    •Adds support for the new iOS 11 image format
+Version 18.0 (Jun 28, 2017)
+    Settings page updates and minor bug fixes.
+Version 17.0 (Jun 22, 2017)
+    New padlet settings panel with feature parity with desktop app.
+Version 16.0 (Jun 21, 2017)
+    Now you can upload documents from iCould, Google Drive, Dropbox and other cloud providers directly into your padlets from the upload menu!
+Version 15.0 (Jun 20, 2017)
+    You've asked and we listened! Introducing a totally revamped mobile upload system, which provides a more functional and robust experience for adding images, videos & links to your padlets on iPhones and iPads. Equipped with a totally native interface and faster uploading speeds on the backend, we hope you will enjoy this update!
+Version 13.0 (Jun 8, 2017)
+    Fixes internal memory issues which would cause the app to crash and slow down.
+Version 12.0 (Jun 6, 2017)
+    Added Remake functionality for padlets! Now users can remake certain padlets and use them as templates or copy them directly for future use. Access this feature when viewing a padlet by tapping the action button (box with upward arrow) and selecting the Remake option.
+Version 11.0 (Apr 3, 2017)
+    Now you can like padlets. If you're logged in, go to the Padlets tab, then go to Liked to see all padlets you have liked.
+Version 9.0 (Feb 21, 2017)
+    Now you can be notified when things happen on the padlets you care about.
+Version 8.0 (Dec 8, 2016)
+    Fixed some bugs. Better for the future.
+Version 6.0 (Oct 4, 2016)
+    Fixed bug when an invalid padlet address is set. Updated app screenshots.
+Version 5.0 (Aug 5, 2016)
+    Fix being unable to launch share menu on a padlet with invited contributors who have yet to sign up.
+Version 4.0 (Jun 30, 2016)
+    New:
+    Post to Padlet from within other apps like Photos and Safari. When sharing from an app, just go to More and enable Padlet.
+
+    Fixes:
+    Backpack teachers can now change a students' padlets without becoming administrators
+    Other minor bugs
+Version 3.1 (Apr 29, 2016)
+    Better App Store icon.
+Version 3.0 (Apr 25, 2016)
+    * Fixed bugs that stopped colalborators from editing padlets
+    * Jump straight to a padlet within the Padlet app when tapping on Padlet links when using other apps
+Version 2.2 (Feb 3, 2016)
+    * We've fixed some problems with uploading of images for padlet portraits
+    * Also made a padlet's settings more explicit in the main padlet settings menu for users on iOS 8
+    * App is more stable for certain operations
+    * Please let us know if you're facing problems via Account > Feedback in the app. We're eager to improve the experience for everyone
+Version 2.0.11 (Nov 26, 2015)
+    Fixes a problem where QR code scanning fails to ask for permission to use the camera.
+Version 2.0.0 (Nov 18, 2015)
+    Padlet for iPhone has arrived! The easiest digital canvas is now optimized for creating on the go.
+Version 1.2.19 (Oct 7, 2015)
+    Fixed some bugs, including one where the app crashes when student accounts without email addresses log in.
+Version 1.2.0 (Sep 20, 2015)
+    Sign up for Jetpack from within the Padlet app. Jetpack gives you
+
+    - cool themes
+    - more backgrounds
+    - custom domains for each padlet
+    - uploaded videos play directly on your padlet
+    - extra storage (upload more than 25MB per file)
+    - statistics on viewership of your padlets
+
+    We hope you like it!
+
+    We have also fixed some bugs in the process. It should be easier to paste links to posts now.
+Version 1.0.0 (Aug 10, 2015)
+Version 10.0 (Aug 10, 2015)
+    Update the Google and Facebook log in processes.
+
+Users may also like
+Select objects to compare
+A2Z Contacts - Group Text App
+SimpleMind - Mind Mapping
+Explain Everything Whiteboard
+Mind Map Maker - Mindomo
+Mind Mapping - MindMeister
+Jamboard
+Prezi Viewer
+Microsoft Whiteboard
+Miro: your visual workspace
+Mural - Visual Collaboration
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Other Utility & Productivity
+Other Utility & Productivity
+Other utility & productivity apps that do not fit other existing Utility & Productivity subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+107 times
+on App Store category pages
+Versions
+
+    209.0.3
+    Current release
+    Feb 9, 2024
+    209.0.0
+    Jan 29, 2024
+    208.0.6
+    Jan 18, 2024
+    208.0.5
+    Jan 12, 2024
+    208.0.0
+    Jan 2, 2024
+    207.0.6
+    Oct 11, 2023
+    207.0.4
+    Sep 29, 2023
+    207.0.0
+    Sep 20, 2023
+    206.0.0
+    Aug 7, 2023
+    205.0.0
+    Jul 20, 2023
+    204.0.0
+    Jun 22, 2023
+    201.0.0
+    May 18, 2023
+    200.0.0
+    May 4, 2023
+    199.0
+    Apr 19, 2023
+    198.0
+    Mar 20, 2023
+    197.0
+    Feb 16, 2023
+    196.0
+    Jan 25, 2023
+    195.0
+    Dec 27, 2022
+    194.0
+    Dec 16, 2022
+    193.0
+    Dec 2, 2022
+    192.0
+    Oct 27, 2022
+    191.0
+    Sep 23, 2022
+    190.0
+    Aug 26, 2022
+    189.0
+    Aug 10, 2022
+    188.0
+    Jun 27, 2022
+    187.0
+    May 4, 2022
+    185.0
+    May 3, 2022
+    181.0
+    Apr 27, 2022
+    180.0
+    Apr 26, 2022
+    179.0
+    Apr 20, 2022
+    178.0
+    Apr 1, 2022
+    177.1
+    Mar 20, 2022
+    176.0
+    Mar 10, 2022
+    175.0
+    Feb 17, 2022
+    174.0
+    Feb 10, 2022
+    173.0
+    Feb 3, 2022
+    171.0
+    Jan 27, 2022
+    169.0
+    Dec 27, 2021
+    168.0
+    Dec 7, 2021
+    167.0
+    Dec 4, 2021
+    166.0
+    Dec 1, 2021
+    165.0
+    Nov 20, 2021
+    164.0
+    Oct 22, 2021
+    163.0
+    Oct 21, 2021
+    162.0
+    Oct 17, 2021
+    161.0
+    Sep 25, 2021
+    160.0
+    Sep 23, 2021
+    159.0
+    Sep 22, 2021
+    158.0
+    Aug 20, 2021
+    155.0
+    Aug 17, 2021
+    154.0
+    Aug 3, 2021
+    153.0
+    Jul 15, 2021
+    152.0
+    Jul 1, 2021
+    151.0
+    Jun 17, 2021
+    150.0
+    Jun 15, 2021
+    149.0
+    Jun 9, 2021
+    148.0
+    May 14, 2021
+    147.0
+    May 11, 2021
+    146.0
+    May 5, 2021
+    144.0
+    Apr 5, 2021
+    143.0
+    Mar 26, 2021
+    142.0
+    Mar 10, 2021
+    141.0
+    Mar 3, 2021
+    140.0
+    Mar 1, 2021
+    139.0
+    Feb 23, 2021
+    138.0
+    Feb 3, 2021
+    137.0
+    Jan 16, 2021
+    136.0
+    Jan 11, 2021
+    135.0
+    Jan 7, 2021
+    134.0
+    Dec 21, 2020
+    133.0
+    Dec 18, 2020
+    132.0
+    Nov 20, 2020
+    131.1
+    Nov 19, 2020
+    131.0
+    Nov 16, 2020
+    130.0
+    Oct 28, 2020
+    129.0
+    Oct 24, 2020
+    128.0
+    Oct 16, 2020
+    127.0
+    Oct 14, 2020
+    126.0
+    Oct 10, 2020
+    125.0
+    Oct 7, 2020
+    124.0
+    Oct 6, 2020
+    123.0
+    Aug 31, 2020
+    122.0
+    Aug 19, 2020
+    121.0
+    Aug 13, 2020
+    120.0
+    Aug 10, 2020
+    119.0
+    Jul 22, 2020
+    116.0
+    Jun 18, 2020
+    115.0
+    Jun 10, 2020
+    114.0
+    May 30, 2020
+    113.0
+    Apr 20, 2020
+    112.0
+    Mar 30, 2020
+    111.0
+    Mar 2, 2020
+    110.0
+    Feb 12, 2020
+    109.0
+    Jan 6, 2020
+    108.0
+    Dec 10, 2019
+    107.0
+    Dec 5, 2019
+    106.0
+    Dec 2, 2019
+    105.0
+    Nov 26, 2019
+    104.0
+    Nov 14, 2019
+    103.0
+    Nov 8, 2019
+    102.0
+    Nov 6, 2019
+    101.0
+    Oct 30, 2019
+    100.0
+    Oct 25, 2019
+    99.0
+    Oct 22, 2019
+    98.0
+    Oct 17, 2019
+    97.0
+    Oct 15, 2019
+    96.0
+    Oct 1, 2019
+    95.0
+    Sep 16, 2019
+    94.0
+    Sep 3, 2019
+    93.0
+    Aug 19, 2019
+    92.0
+    Jul 25, 2019
+    91.0
+    Jul 17, 2019
+    90.0
+    Jul 3, 2019
+    89.0
+    May 23, 2019
+    88.0
+    May 11, 2019
+    87.0
+    Apr 26, 2019
+    86.0
+    Apr 22, 2019
+    85.0
+    Mar 29, 2019
+    84.0
+    Mar 23, 2019
+    83.0
+    Mar 13, 2019
+    82.0
+    Feb 22, 2019
+    81.0
+    Feb 12, 2019
+    80.0
+    Jan 24, 2019
+    79.0
+    Jan 16, 2019
+    78.0
+    Nov 30, 2018
+    77.0
+    Nov 26, 2018
+    76.0
+    Nov 19, 2018
+    75.0
+    Nov 14, 2018
+    74.0
+    Nov 8, 2018
+    73.0
+    Nov 5, 2018
+    72.0
+    Oct 22, 2018
+    71.0
+    Oct 9, 2018
+    70.0
+    Oct 1, 2018
+    69.0
+    Aug 29, 2018
+    67.0
+    Aug 21, 2018
+    66.0
+    Aug 15, 2018
+    65.0
+    Aug 9, 2018
+    64.0
+    Aug 3, 2018
+    63.0
+    Jul 31, 2018
+    60.0
+    Jul 11, 2018
+    59.0
+    Jun 14, 2018
+    58.0
+    Jun 7, 2018
+    57.0
+    May 24, 2018
+    56.0
+    May 22, 2018
+    55.0
+    May 6, 2018
+    54.0
+    Apr 28, 2018
+    53.0
+    Apr 25, 2018
+    52.0
+    Apr 6, 2018
+    51.0
+    Mar 27, 2018
+    50.0
+    Mar 16, 2018
+    49.0
+    Mar 9, 2018
+    48.0
+    Mar 7, 2018
+    47.0
+    Feb 21, 2018
+    46.0
+    Feb 19, 2018
+    45.0
+    Feb 13, 2018
+    44.0
+    Feb 2, 2018
+    43.0
+    Feb 1, 2018
+    42.0
+    Jan 31, 2018
+    41.0
+    Jan 29, 2018
+    40.0
+    Jan 28, 2018
+    39.0
+    Jan 26, 2018
+    38.0
+    Jan 22, 2018
+    37.0
+    Jan 20, 2018
+    35.0
+    Jan 19, 2018
+    32.0
+    Jan 16, 2018
+    31.0
+    Jan 10, 2018
+    30.0
+    Dec 15, 2017
+    29.0
+    Dec 12, 2017
+    28.0
+    Dec 9, 2017
+    26.0
+    Dec 3, 2017
+    25.0
+    Nov 23, 2017
+    23.0
+    Nov 17, 2017
+    24.0
+    Nov 17, 2017
+    22.0
+    Nov 16, 2017
+    20.0
+    Nov 14, 2017
+    21.1
+    Nov 14, 2017
+    19.0
+    Nov 1, 2017
+    18.0
+    Jun 28, 2017
+    17.0
+    Jun 22, 2017
+    16.0
+    Jun 21, 2017
+    15.0
+    Jun 20, 2017
+    13.0
+    Jun 8, 2017
+    12.0
+    Jun 6, 2017
+    11.0
+    Apr 3, 2017
+    9.0
+    Feb 21, 2017
+    8.0
+    Dec 8, 2016
+    6.0
+    Oct 4, 2016
+    5.0
+    Aug 5, 2016
+    4.0
+    Jun 30, 2016
+    3.1
+    Apr 29, 2016
+    3.0
+    Apr 25, 2016
+    2.2
+    Feb 3, 2016
+    2.0.11
+    Nov 26, 2015
+    2.0.0
+    Nov 18, 2015
+    1.2.19
+    Oct 7, 2015
+    1.2.0
+    Sep 20, 2015
+    1.0.0
+    Aug 10, 2015
+    10.0
+    Aug 10, 2015
+
+See More
+Top In-App Purchases
+
+    Pro
+    $4.99
+    Pro
+    $54.99
+    Gold
+    $26.99
+    Gold
+    $2.99
+    Platinum
+    $3.99
+    Platinum
+    $43.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Aug 10, 2015
+
+Worldwide Release Date
+    Aug 10, 2015
+
+Last Updated Time
+    Feb 24, 2024
+
+Version
+    209.0.3
+
+Size
+    77.46 mb
+
+Only 32 Bit
+    No
+
+Languages
+    英语
+
+Seller
+    Wallwisher, Inc.
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    系统要求：iOS 13.0 或更高版本。兼容设备：iPhone、iPad、iPod touch。
+
+Bundle ID
+    com.wallwisher.Padlet
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 834618886
+Unified App ID: 1000600000642319
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Padlet | data.ai

@@ -1,0 +1,320 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Live Karaoke
+Digital Contents CreatorEntertainment (Applications)Free
+Alerts
+
+Live Karaoke
+Live Karaoke
+Live Karaoke
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Live Karaoke
+Sing and Record Khmer Karaoke
+Entertainment (Applications)
+Free
+iPhone Only
+App Description
+Sing your heart out and bust your singing skills anywhere anytime!​
+Try our Live Karaoke app now and sing for free. ​
+Comes loaded with all your favorite Khmer songs. Pick your song and get ready for your best performance! ​
+
+Features​
+- Enjoy Karaoke for free
+- Pick Your songs and get ready (Sunday Production and Khmer oldies)
+- Sing solo or with friends & families
+- Record and share to your social media
+- Watch out for the App upgrade which will come with premium features
+Ratings
+Displayed Avg Ratings
+3.86
+Total Displayed Ratings
+21
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 7.0.7 (Oct 6, 2023)
+    This update mainly includes.
+    - With dark mode, the app appears in a whole new look-and-feel design.
+    - Going directly to Sound Room is preloaded with 10 trending songs.
+    - Landscape mode support before start signing.
+    - Remembers recent searches.
+Version 6.1.9 (Oct 19, 2022)
+    - Configured support for deep linking.
+Version 6.1.8 (Aug 13, 2022)
+    - Added account deletion option under Account and Personal Information
+Version 6.1.7 (Jul 26, 2022)
+    - Improved UI in songbook
+    - Fixed the issue preventing users to switch to rear camera
+    - Implemented audio session control on the device
+    - Improved the controls for content pre-buffering and the state of recording readiness in Sound Room
+Version 6.1.3 (Jul 12, 2022)
+    - Improved artist vocal previewing
+    - Implemented sign in with Apple
+    - Implemented social login
+    - Improved content pre-buffering in Sound Room
+    - Implemented duet performances for user-user and artist-user
+    - Discontinued In-App Purchases and removed subscription flows
+    - Unlocked entire content and in-app features
+Version 5.0.13 (Mar 1, 2022)
+    - Fixed the issue leading to crash when opening a push notification item while the app had already been opened.
+    - Added new post category for content item.
+    - Added music player in the list of songs so users could preview artist vocal before deciding to sing.
+Version 5.0.8 (Dec 3, 2021)
+    - Made user's recorded video better in sync with vocal in their final recording.
+    - Removed payment mechanism other than In-App Purchases.
+    - Improved mixing process for recording with Camera turned off.
+    - Implemented auto playback for the next video post on current ends its playback.
+Version 5.0.1 (Oct 28, 2021)
+    - Implemented music download before allowing user to starting sining content from Songbook in order toc secure its availability for mixing process after recording.
+Version 4.1.18 (Oct 24, 2021)
+    - Included YouTube integration allowing you to search/filter for your favorite songs to sing with vocal effects but not record
+    - Fixed the issue preventing mixing process from successfully done for some songs on camera turned off
+    - Other UI/UX improvements
+Version 4.1.14 (Oct 2, 2021)
+    1. Fixed the issue preventing live voice feedback to be heard in headset while in Sound Room's recording screen.
+    2. Improved music-vocal balance as a result volume vocal could be heard clearly in a final recording.
+    3. Added possibility for user to add favorite songs from video gallery
+    4. Improved UI in Sound Room
+Version 4.1.3 (Aug 16, 2021)
+    Fixed the issue preventing subscription from being successfully made at app's back-end.
+Version 4.1.2 (Aug 15, 2021)
+    - Fixed the issue that prevents adding more song when pressing Song icon inside Sound Room from working properly
+Version 4.0.1 (Apr 12, 2021)
+    - Improved filter/search for songs in Songbook both in English and Khmer.
+    - Fixed the issue preventing video posts from properly loading when viewed under a user profile screen.
+    - Fixed the issue preventing view count from working properly when viewed from a user profile screen.
+Version 3.1.0 (Apr 6, 2021)
+    Fixed the issue preventing new user from successfully creating new profile.
+Version 3.0.5 (Mar 31, 2021)
+    - Improved view count
+    - Allowed in-app share
+Version 2.1.18 (Nov 1, 2020)
+    - Fixed the search history issue
+    - Fixed the issue that prevents incoming push notifications to enter when the app is completely closed
+Version 2.1.14 (Oct 5, 2020)
+    Fixed issues when a video performance is shared on Facebook or Telegram as follows
+    - rendering and displaying video thumbnail
+    - playback on iOS devices
+Version 2.1.10 (Aug 7, 2020)
+    - Allowed user to replace the video in his/her recording by another image/video taken from his/her gallery
+    - Improved UI/UX within user profile section
+Version 2.1.6 (Jul 20, 2020)
+    - Fixed compatibility issue for notification item details between this version and its preceding ones.
+    - Fixed issue with description edit on own video post
+    - Implemented pre-loading placeholder for video posts
+    - Fixed and improved UI/UX on notification section
+    - Fixed issue with app auto reload after staying inactive for some time
+Version 2.0.7 (Jun 25, 2020)
+    - Improved UI/UX on Friends section
+    - Improved UX on video feed screens
+    - Increased echo effect on user's vocal in music-vocal mixing process
+Version 2.0.6 (Jun 20, 2020)
+    - Fixed keyboard overlapped on Feedback box view
+    - Fixed bug of playing video in one screen while we are in another screen
+    - Showed play/pause button on video feed
+    - Re-adjusted layout of some screens
+    - Some improvements on look-and-feel aspect
+Version 2.0.4 (Jun 16, 2020)
+
+Users may also like
+Select objects to compare
+Chreang
+Khmer Song - Khmer Music
+Happy Watch 99
+7 Khmer Teller
+Khmer Horoscopes
+Moha Somnang
+AMMX
+Radio Khmer (eRadio and TV)
+PIXEL TV+
+GDT Lucky Draw
+IQ Classifications
+Genre: Entertainment
+Subgenre: Karaoke
+Karaoke
+Apps that allow users to sing karaoke on their device, commonly singing along to recorded music.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+No data is available.
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    7.0.7
+    Current release
+    Oct 6, 2023
+    6.1.9
+    Oct 19, 2022
+    6.1.8
+    Aug 13, 2022
+    6.1.7
+    Jul 26, 2022
+    6.1.3
+    Jul 12, 2022
+    5.0.13
+    Mar 1, 2022
+    5.0.8
+    Dec 3, 2021
+    5.0.1
+    Oct 28, 2021
+    4.1.18
+    Oct 24, 2021
+    4.1.14
+    Oct 2, 2021
+    4.1.3
+    Aug 16, 2021
+    4.1.2
+    Aug 15, 2021
+    4.0.1
+    Apr 12, 2021
+    3.1.0
+    Apr 6, 2021
+    3.0.5
+    Mar 31, 2021
+    2.1.18
+    Nov 1, 2020
+    2.1.14
+    Oct 5, 2020
+    2.1.10
+    Aug 7, 2020
+    2.1.6
+    Jul 20, 2020
+    2.0.7
+    Jun 25, 2020
+    2.0.6
+    Jun 20, 2020
+    2.0.4
+    Jun 16, 2020
+
+See More
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Jun 16, 2020
+
+Worldwide Release Date
+    Jun 16, 2020
+
+Last Updated Time
+    Mar 3, 2024
+
+Version
+    7.0.7
+
+Size
+    51.09 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    DIGITAL CONTENTS CREATOR CO., LTD.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 13.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    com.rainbow-tunes.livekaraoke
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1514812136
+Unified App ID: 1000800000206995
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Live Karaoke | data.ai

@@ -1,0 +1,373 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+ShowFlix - TV Shows
+Mobility ValleyEntertainment (Applications)Free
+Alerts
+
+    Mobility Valley
+
+    ShowFlix - TV Shows
+    ShowFlix - TV Shows
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+ShowFlix - TV Shows
+Discover new TV Shows episodes
+Entertainment (Applications)
+Free
+App Promotional Text
+Des séries, des shows, des dessins animés
+App Description
+You want more TV shows ?
+
+Showflix is the best app to discover all the new trending TV Shows !
+You can watch thousands of episodes via iTunes !
+Find the best series.
+Download for free!
+See the season premieres schedule. Download subtitles. Chat with the fans community. Track the episodes you watched.
+
+The BEST app to discover NEW shows to watch.
+You look for subtitles or the tv program schedule ? You missed an episode ?
+
+Features :
+
+- Watch the new trailers
+- Get the next episodes dates
+- Watch complete seasons
+- Download subtitles
+- Be notified when a new season starts
+- Buy and watch complete seasons
+- Track the episodes you have already watched
+- Get the secrets, trivia and spoilers
+- Read the community comments and the ratings
+
+Disclaimer: Images and contents are licensed by Creative Common Licence CC BY-SA. This means the data can freely be used for any purpose as we credit the sources : TMDB, TVmaze, Trakt, TheTVDB, FanartTV, Betaseries.
+Ratings
+Displayed Avg Ratings
+3.05
+Total Displayed Ratings
+1.6k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.91 (Feb 20, 2022)
+    - small upgrades
+Version 4.9 (Dec 28, 2021)
+    - Fix issues with trailers
+    - Less ads for more TV shows
+Version 4.7 (Jun 7, 2021)
+    - App Tracking Transparency framework permission request for iOS 14.5+ only
+Version 4.6 (Feb 4, 2021)
+    Shows in dark mode are prettier
+Version 4.5 (Jul 27, 2020)
+    - Improvement in app navigation
+Version 4.4 (Jul 25, 2020)
+    - Improvement when load new shows
+    - Upgrade to swift 5
+Version 4.3 (Jun 4, 2020)
+    - Improvements
+    - More shows
+Version 4.2 (Nov 20, 2019)
+    - Beautiful new Dark mode
+    - Many many bug fixes
+    - Plenty of shows
+Version 4.1 (Mar 16, 2019)
+    - Minor improvements
+Version 4.0 (Feb 24, 2019)
+    - A new design for Springtime with rounded episode pictures and less ads
+Version 3.9 (Feb 7, 2019)
+    - Fix an issue on the profile photo
+    - More Tv Shows
+Version 3.8 (Jan 4, 2019)
+    - Fix issue on the button to get iTunes Show
+Version 3.7 (Oct 24, 2018)
+    - Optimization for iOS 12
+    - More TV Shows and Episodes
+Version 3.6 (Apr 23, 2018)
+    Fix issue on user photo
+    Less ads
+Version 3.5 (Apr 18, 2018)
+    It is springtime: we deliver a massive refresh for your favorite TV Shows app
+Version 3.4 (Mar 1, 2018)
+    Bug fixes and performance improvements
+Version 3.3 (Nov 27, 2017)
+    - Watch your shows on a bigger screen with optimisation for iPhone X
+Version 3.2 (Sep 29, 2017)
+    - Terms of Service added
+    - Bug fixing on popular tv shows lists
+Version 3.1 (Apr 26, 2017)
+    - Bug fixes on TV shows next date notifications
+Version 3.0 (Apr 3, 2017)
+    Showflix 3.0 has a brand new interface.
+    It is even better than Stremio!
+    You can now log and chat with binge friends.
+    You can search for series from everywhere in the app.
+Version 2.9 (Jan 9, 2017)
+    The episode images are back, bug fixed !
+Version 2.8 (Dec 29, 2016)
+    - Fixed an issue on Subtitles and secret trivia
+Version 2.7 (Dec 15, 2016)
+    - Trailers can be muted and skipped forward by swiping on the first screen
+    - Bug fixing
+Version 2.6 (Dec 13, 2016)
+    - Trailers are now directly displayed on the first screen
+Version 2.5 (Dec 4, 2016)
+    - Performance improvements for serie
+Version 2.4 (Nov 29, 2016)
+    - Better series search experience
+Version 2.3 (Nov 9, 2016)
+    - Subtitles fixed in TV Shows episodes
+Version 2.2 (Nov 5, 2016)
+    - Performance optimization
+Version 2.1 (Oct 30, 2016)
+    - Optimisation for iOS 10
+Version 2.0 (Aug 13, 2016)
+    - Chat with a whole TV Show fans community
+    - Connect with friends that share the same shows
+Version 1.5 (Jul 15, 2016)
+    - Support for Spanish
+    - Support for Italian
+    - Now you can swipe quicker the shows in Coming Soon
+Version 1.4 (Jul 5, 2016)
+    - Now with the trending shows
+    - Performance optimisation
+Version 1.3 (Jun 21, 2016)
+    Schedule of the coming shows and episodes
+Version 1.2 (May 31, 2016)
+    - Trivia / Secrets activated
+    - Performance improvements
+Version 1.1 (May 13, 2016)
+    - Now you can buy TV Shows directly inside the app using your iTunes Account
+    - Support for French
+    - Performance improvments
+Version 1.0 (Apr 27, 2016)
+
+Users may also like
+Select objects to compare
+Sofa Time: TV Shows & Movies
+TodoMovies
+My Movies & TV Shows Watchlist
+BetaSeries - TV Shows & Movies
+atresplayer: Series y Noticias
+QualFilmeFlix - What to watch
+Hobi Time - TV Shows Tracker
+Butaca TV - Watch Movies
+Runtime TV
+Cuevna : Movies, TV Shows
+IQ Classifications
+Genre: Entertainment
+Subgenre: OTT
+OTT
+Apps where users can stream TV shows, movies, comedy specials, and live television online or offline.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    4.91
+    Current release
+    Feb 20, 2022
+    4.9
+    Dec 28, 2021
+    4.7
+    Jun 7, 2021
+    4.6
+    Feb 4, 2021
+    4.5
+    Jul 27, 2020
+    4.4
+    Jul 25, 2020
+    4.3
+    Jun 4, 2020
+    4.2
+    Nov 20, 2019
+    4.1
+    Mar 16, 2019
+    4.0
+    Feb 24, 2019
+    3.9
+    Feb 7, 2019
+    3.8
+    Jan 4, 2019
+    3.7
+    Oct 24, 2018
+    3.6
+    Apr 23, 2018
+    3.5
+    Apr 18, 2018
+    3.4
+    Mar 1, 2018
+    3.3
+    Nov 27, 2017
+    3.2
+    Sep 29, 2017
+    3.1
+    Apr 26, 2017
+    3.0
+    Apr 3, 2017
+    2.9
+    Jan 9, 2017
+    2.8
+    Dec 29, 2016
+    2.7
+    Dec 15, 2016
+    2.6
+    Dec 13, 2016
+    2.5
+    Dec 4, 2016
+    2.4
+    Nov 29, 2016
+    2.3
+    Nov 9, 2016
+    2.2
+    Nov 5, 2016
+    2.1
+    Oct 30, 2016
+    2.0
+    Aug 13, 2016
+    1.5
+    Jul 15, 2016
+    1.4
+    Jul 5, 2016
+    1.3
+    Jun 21, 2016
+    1.2
+    May 31, 2016
+    1.1
+    May 13, 2016
+    1.0
+    Apr 27, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Entertainment
+
+Initial Release Date
+    Apr 27, 2016
+
+Worldwide Release Date
+    Apr 27, 2016
+
+Last Updated Time
+    Feb 27, 2024
+
+Version
+    4.92.0
+
+Size
+    25.42 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, French, Italian, Spanish
+
+Seller
+    Mobility Valley
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.mobilityvalley.series
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 1099086261
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+ShowFlix - TV Shows | data.ai

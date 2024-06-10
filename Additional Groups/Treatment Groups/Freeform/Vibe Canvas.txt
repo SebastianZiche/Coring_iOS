@@ -1,0 +1,346 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Vibe Canvas
+Vibe Inc. (U.S.)Productivity (Applications)Free
+Alerts
+
+    Vibe Inc. (U.S.)
+
+    Vibe Canvas
+    Vibe Canvas
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Vibe Canvas
+Write and Draw, Together
+Productivity (Applications)
+Free
+App Promotional Text
+Vibe’s interactive digital whiteboard empowers your team to collaborate, innovate, and ideate. Create boards to write, sketch and draw, and have others join in real-time.
+App Description
+Vibe’s interactive digital whiteboard software empowers your team to collaborate, innovate, and ideate like never before.
+Create boards to write and draw, and have others join in real-time. You’ll get all of the benefits of a physical whiteboard, complete with sticky notes. With Vibe’s collaboration features, you can engage with people in other locations, join and access boards in real-time, move images and text, and annotate pdfs and presentations. As you work, boards are automatically saved to your Vibe account, so you can easily pick up where you left off.
+**Vibe has full functionality on iPad and is view-only on iPhone**. The Vibe app is fully compatible with the Vibe board, a 55" 4k touchscreen smartboard for offices, classrooms, and homes.
+Features:
+• Write and sketch on an infinite canvas
+• Change pen size and color to get your point across
+• Create moveable sticky-notes for annotations and brainstorming
+• Join and share boards to collaborate with others in real-time
+• Export boards to PDF to share with colleagues and friends
+• Import images or PDF documents into the canvas for easy annotation
+• Call attention to presentations with the highlighter and laser pointer tool
+• Quick sign-in via QR code scanner for your Vibe board hardware
+Ideal for businesses, home offices, schools and classrooms, with Vibe you have the freedom to communicate and create interactively. Whether you’re building a project alongside your team members, conducting a brainstorming or training session, or presenting in a client meeting, Vibe’s collaboration software makes it easy to share ideas.
+Vibe is collaboration software for however you work, create, brainstorm, ideate, connect, and share - check out our website for more info: https://vibe.us.
+Ratings
+Displayed Avg Ratings
+3.53
+Total Displayed Ratings
+15
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.2.4 (Dec 7, 2023)
+    1. Section: With the new Section feature, you can bundle various objects together within a designated section for improved organization and streamlined navigation.
+    2. Rich Format Text support for Textfield: Canvas text box now boasts rich text format capabilities. This allows you to modify the font style, color, alignment, bold or italic within a singular text field. Get your content to look precisely how you want it.
+Version 1.2.3 (Nov 1, 2023)
+    Resolve compatibility issues
+Version 1.2.2 (Oct 10, 2023)
+    1. Dark mode is available now
+    2. New share dialog
+    3. Equal spacing guideline
+    4. Connector enhancement
+Version 1.2.1 (Jun 28, 2023)
+    Improve performance and fix bugs
+Version 1.2.0 (May 22, 2023)
+    New Features:
+    - Animated images, users can now import .gif images into Canvas, this makes it easy to add dynamic visual content to your collaborative canvas.
+    - More font family, we’ve added support for 5 new predefined font families (Inter, Stix Two Text, Ubuntu, IBM Plex Mono, Comic Neue) giving users more flexibility to customize the look and feel of their text.
+    - Easy image replacement, users can now replace an image in their canvas without worrying about modifying the size or position of the image magnet
+
+    Enhancements:
+    - Flexible text sizing, now users are even easier to create text fields with just the right size, by simply dragging your cursor to your desired size, and the text will automatically adjust to fit the space.
+    - Improved Connector flexibility, connectors can be attached to any point inside a rectangle magnet, giving users even more flexibility and precision when connecting and arranging their content
+    - Expandable magnets, easily view and edit overflowing text content within a magnet with our new expand icon. Just click it to expand the magnet and reveal the full text.
+    Sticky Notes with Author Name, see who contributed each idea or comment with our new feature that displays the author’s name by default. Collaborate more effectively and transparently with Sticky Notes.
+Version 1.1.9 (Apr 20, 2023)
+    New Features:
+    - Add link to Objects, you can add link to any kind of magnets, there’ll be a new browser tab opened once you click that magnet.
+
+    Performance Improvement:
+    - Rendering performance for high resolution images, by introducing LOD mechanism
+    - Increase the number of maximum magnets rendered & interacted in Canvas with smooth UX
+Version 1.1.8 (Feb 17, 2023)
+    1. Text in connector
+    2. New canvas with horizontal and vertical scroll
+    3. Enjoy app with portrait mode
+    4. Layer feature
+Version 1.1.7 (Dec 28, 2022)
+    1. Add reactions to canvas
+    2. New presentation UI
+Version 1.1.6 (Nov 30, 2022)
+    - Fix sometimes canvas cannot show all content with remote
+Version 1.1.5 (Nov 14, 2022)
+    i. New connector is ready for you
+    ii. Submit feedback to Vibe if you think something could be better
+Version 1.1.4 (Sep 15, 2022)
+    - Fix sometimes app may run into UI block
+Version 1.1.3 (Aug 17, 2022)
+    Fix several bugs and improve performance
+Version 1.1.2 (Jul 22, 2022)
+    1. Support account deletion
+    2. Fix bugs and improve performance
+Version 1.1.1 (Jul 1, 2022)
+    Bug fix and performance improvement.
+Version 1.1.0 (Jun 10, 2022)
+    1. Polished look with new UX
+    2. Speed up your workflow with your favorite pens
+    3. Access your brand colors in pens
+    4. Format like a Pro
+    5. Get a head start with onboarding tours
+Version 1.0.9 (Jun 1, 2022)
+    1. Polished look with new UX
+    2. Speed up your workflow with your favorite pens
+    3. Access your brand colors in pens
+    4. Format like a Pro
+    5. Get a head start with onboarding tours
+Version 1.0.8 (Apr 20, 2022)
+    1. Fix sometimes app crash when slide to kill app
+    2. Fix sometimes app cannot respond to any network requests
+    3. Fix several bugs and performance improvement
+Version 1.0.7 (Mar 29, 2022)
+    1. Support run into app even without network if you ever signed in
+    2. Fix several bugs
+Version 1.0.6 (Jan 29, 2022)
+    Vibe Canvas for iPad will turn to a universal app, now it support iPhone family as well.
+
+    1. Now support to disable Apple Pencil double-tap to switch tool
+    2. Use finger long press handwritings to convert to object
+    3. Fix Bugs and improve performance 
+Version 1.0.5 (Jan 27, 2022)
+    Vibe Canvas for iPad will turn to a universal app, now it support iPhone family as well.
+
+
+    1. Now support to disable Apple Pencil double-tap to switch tool
+    2. Use finger long press handwritings to convert to object
+    3. Fix Bugs and improve performance 
+Version 1.0.4 (Jan 13, 2022)
+    - Image memory usage optimization
+    - Deep link and guest mode optimization
+    - Improve performance
+Version 1.0.3 (Dec 22, 2021)
+    1. Loading page speed up.
+    2. Bug fix and performance improve.
+Version 1.0.2 (Nov 17, 2021)
+    Bug fix:
+    1. Fix sometimes translate canvas turn to zoom canvas
+    2. Fix random click leads to crash while canvas is loading
+
+    Whats new:
+    1. Add guest mode, start collaboration without login.
+    2. Physical keyboard support, use shortcuts(command+z to undo, w to clear stokes, etc) in iPad.
+    3. Trackpad and magic mice support.
+Version 1.0.1 (Nov 13, 2021)
+    1. Guest mode: start collaboration without login.
+    2. Physical keyboard support: use shortcuts(command+z to undo, w to clear stokes, etc).
+    3. Trackpad and magic mice support, zoom or pan canvas as you want.
+    4. Bug fix and improve performance.
+
+Users may also like
+Select objects to compare
+Focus@Will: Control Your ADD
+vCastSender
+Lucidspark
+VideoAsk (by Typeform)
+Fellow.app
+Motus - Business Mileage Log
+Scribble Together Whiteboard
+Lead Connector
+Volley - Video Messaging
+NEEWER Teleprompter
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.2.4
+    Current release
+    Dec 7, 2023
+    1.2.3
+    Nov 1, 2023
+    1.2.2
+    Oct 10, 2023
+    1.2.1
+    Jun 28, 2023
+    1.2.0
+    May 22, 2023
+    1.1.9
+    Apr 20, 2023
+    1.1.8
+    Feb 17, 2023
+    1.1.7
+    Dec 28, 2022
+    1.1.6
+    Nov 30, 2022
+    1.1.5
+    Nov 14, 2022
+    1.1.4
+    Sep 15, 2022
+    1.1.3
+    Aug 17, 2022
+    1.1.2
+    Jul 22, 2022
+    1.1.1
+    Jul 1, 2022
+    1.1.0
+    Jun 10, 2022
+    1.0.9
+    Jun 1, 2022
+    1.0.8
+    Apr 20, 2022
+    1.0.7
+    Mar 29, 2022
+    1.0.6
+    Jan 29, 2022
+    1.0.5
+    Jan 27, 2022
+    1.0.4
+    Jan 13, 2022
+    1.0.3
+    Dec 22, 2021
+    1.0.2
+    Nov 17, 2021
+    1.0.1
+    Nov 13, 2021
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Sep 24, 2021
+
+Worldwide Release Date
+    Sep 24, 2021
+
+Last Updated Time
+    Apr 19, 2024
+
+Version
+    1.2.4
+
+Size
+    95.91 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese
+
+Seller
+    Vibe Inc.
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    us.vibe.app.pad
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1554407536
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Vibe Canvas | data.ai

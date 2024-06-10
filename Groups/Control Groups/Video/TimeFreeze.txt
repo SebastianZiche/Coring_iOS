@@ -1,0 +1,495 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+TimeFreeze
+Michel LoenngrenPhoto and Video (Applications)Free
+Alerts
+
+    TimeFreeze
+    TimeFreeze
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+TimeFreeze
+Photo and Video (Applications)
+Free
+iPhone Only
+App Description
+Ever wished you would have shoot a video in slow motion? Or maybe your iPhone does not support recording slow motion video?
+
+TimeFreeze is a unique video editing app that allows you to change the speed of videos from your camera roll. It uses advanced image processing algorithms to convert footage from 30 frames per second to 120 or even 240 looking surprisingly smooth.
+
+The app also allows you to convert high speed video to normal 30 or 24 frames per second videos.
+
+The app currently supports converting seamlessly between 24, 30, 60, 120 and 240 frames per second.
+
+As a bonus TimeFreeze also allows you to export your slow motion edits into shareable 30 or 60 frames per second videos.
+
+TimeFreeze has already been downloaded by hundreds of thousands of people. Try it out and let us know what you think.
+Ratings
+Displayed Avg Ratings
+4.42
+Total Displayed Ratings
+17.7k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.0.29 (Apr 4, 2022)
+    Bugfixes and support for latest iOS version
+Version 5.0.28 (Jun 6, 2021)
+    Bug fixes
+Version 5.0.28 (Jun 6, 2021)
+    Bug fixes
+Version 5.0.26 (Jun 3, 2021)
+    Bug and stability fixes
+Version 5.0.25 (May 18, 2021)
+    Fixing tearing issues (issues with lines across the video) when videos have image data padded / aligned beyond their image width.
+Version 5.0.23 (May 15, 2021)
+    - Added ramp to slow motion for softer feel
+    - Fixed bug with lines all over the video
+Version 5.0.22 (May 10, 2021)
+    Fixing bugs and adding support for older iPhones and iPads
+Version 5.0.21 (May 2, 2021)
+    Stability and bug fixes
+Version 5.0.19 (Apr 26, 2021)
+    Added new in app Edit screen allowing you to convert a segment of the video to slow motion
+Version 5.0.18 (Apr 20, 2021)
+    - Fixed playback bugs
+    - Adding option to convert video to slow motion using either photos edits or full video
+Version 5.0.17 (Apr 19, 2021)
+    - Refreshed UI
+    - Additional speed options
+Version 5.0.16 (Apr 8, 2021)
+    Stability and performance improvements
+Version 5.0.13 (Apr 4, 2021)
+    * Further stability changes
+    * Donate button
+Version 5.0.14 (Apr 4, 2021)
+    - Stability fixes
+Version 5.0.11 (Apr 2, 2021)
+    * Stability fixes
+Version 5.0.10 (Mar 29, 2021)
+    Adding in-app purchase to allow advanced controls to tweak algorithm for better results or faster render speed.
+Version 5.0.9 (Mar 27, 2021)
+    Staying on top of quality. Fixing more bugs and crashes.
+Version 5.0.8 (Mar 24, 2021)
+    * Supporting older iOS version (from 12.1 and up)
+Version 5.0.7 (Mar 21, 2021)
+    * Stability improvements
+Version 5.0.4 (Mar 15, 2021)
+    * GPU accelerated optical flow data processing leading to better compute performance
+    * 32 bit floating point support for flow vectors leading to more accurate slow-motion generation
+    * Updated to support all iPhone screen sizes
+Version 5.0.3 (Sep 23, 2016)
+    iOS 10 ready and improved user interface
+Version 5.0.2 (Jun 13, 2016)
+    Improved UI
+Version 5.0.1 (May 23, 2016)
+    Bugfixes and improved import from camera roll
+Version 5.0.0 (May 19, 2016)
+    Import from camera roll
+Version 4.6.0 (Jul 10, 2014)
+    * Public feed
+
+    * Bugfixes
+Version 4.5.1 (Jun 7, 2014)
+    * Removed ads and branding on videos
+Version 4.5.0 (Apr 7, 2014)
+    * Improved stability
+Version 4.4.1 (Dec 4, 2013)
+    * Internal bug fixes
+Version 4.4.0 (Dec 1, 2013)
+    * Import from camera roll
+
+    * Slow motion adjustments
+Version 4.3.0 (Nov 25, 2013)
+    Fixing 1/10x speed bug for iPhone 5S
+Version 4.2.0 (Nov 13, 2013)
+    * Longer clips (8 seconds)
+
+    * More clips (12 clips)
+Version 4.1.0 (Nov 7, 2013)
+    * Choose music from your itunes library
+Version 4.0.0 (Oct 30, 2013)
+    * Real time slow motion rendering
+    * High frame rate support (60fps, 120fps etc.)
+    * New rich user experience
+    * Built in editing feature
+    * New real time filter collection containing professional hollywood grade filters
+    * Digital lens adapters
+    * Social media integration
+Version 3.4.0 (Apr 9, 2013)
+    * Improved rendering speed
+
+    * Medium option removed (replaced by a fast high version)
+Version 3.2.0 (Feb 24, 2013)
+    * Improved performance
+Version 3.1.0 (Dec 13, 2012)
+    * Share to cinemagram
+
+    * Speed settings bug fix
+
+    * Internal camera quality fix
+
+    * Corrected time calculations for iPad mini
+Version 3.0.0 (Oct 1, 2012)
+    * iOS6 support
+    * 4-inch retina support
+    * Automatic Reference Counting (ARC)
+    * GUI tweaks
+Version 2.6.1 (Sep 20, 2012)
+    * Faster slow motion processing
+
+    * In-app information
+Version 2.6.0 (Sep 5, 2012)
+    * GPU support/Faster processing
+
+    * Background processing
+
+    * Blue screen in app purchase
+
+    * GUI tweaks
+Version 2.5.0 (Jun 22, 2012)
+    * Adding videos to movie collection without processing
+
+    * 2x, 4x, 8x, 10x, 12x and 20x slowmotion support
+
+    * 3 new songs
+
+    * Higher bitrate on video to get rid of motion artifacts
+
+    * Faster buffring when choosing range
+
+    * Hardware support for downconversion (480p and 540p)
+
+Version 2.0.2 (Apr 26, 2012)
+    New effects added:
+
+
+
+    Professional movie filters
+
+    Ghosting effects
+
+    Color correction
+Version 2.0.1 (Apr 6, 2012)
+    * HD switch to turn on/off HD for faster processing
+
+    * Bug fixes
+Version 2.0.0 (Mar 23, 2012)
+    * Movie collection
+    * Facebook/YouTube/Twitter login is shared within the app (no need to re-enter username and password everytime sharing a video).
+    * In app camera added back
+    * Speed up functionality added
+    * One click share to Youtube/Facebook/Twitter/camera roll
+    * The new iPad HD video support
+    * Professionally designed user interface
+    * New workflow (fewer steps an less clicks)
+    * No cropped images when setting range
+    * Support for both speed up and slow down (double speed)
+    * "Break" in slow motion fixed for low light situations
+    * Video files are cleaned up after rendering to save space on the device.
+    * Annoying warnings removed
+Version 1.0.4 (Mar 8, 2012)
+    * Up to 35% faster on quality high
+    * Automatic filtering of duplicate frames
+    * More accurate feedback to user
+    * Better memory management 
+Version 1.0.3 (Feb 23, 2012)
+    * HD support for iPhone 4S and iPad 2
+    * Video limit increased to half a minute
+    * Simplified design (Less screens, reordered according to user feed back, some options that were not liked by users are removed)
+    * Better quality on medium and high
+    * Small jump on odd frames removed
+    * New app icon and start screen
+    * Processing algorithm optimized further
+    * Improved error handling and less crashing
+Version 1.0.2 (Feb 11, 2012)
+    New features:
+
+    * 300% faster processingn for Medium and High
+
+    * Double length of clip supported for import (20 seconds)
+
+    * Progress bar for vide buffering in settings screen
+
+Version 1.0.1 (Feb 3, 2012)
+    * Better look and feel
+
+    * More robust processing when saving video
+
+
+
+    - If the application still would crash in the end of the video please submit a crash report or email me from www.timefreezeapp.com
+Version 1.0.0 (Jan 27, 2012)
+
+Users may also like
+Select objects to compare
+Time Cut: Smooth Slow Motion
+Slow Motion' Video Editor
+Slow-Fast Motion Video Editor
+Ultralight: Photo Video Editor
+Veffecto: Video Effects Editor
+24FPS: Aesthetic Video Effects
+Video Editor Slow Motion SloMo
+Slow pro
+Vizmato: Video Editor & Maker
+Velomingo: Velocity Edit Maker
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    5.0.29
+    Current release
+    Apr 4, 2022
+    5.0.28
+    Jun 6, 2021
+    5.0.28
+    Jun 6, 2021
+    5.0.26
+    Jun 3, 2021
+    5.0.25
+    May 18, 2021
+    5.0.23
+    May 15, 2021
+    5.0.22
+    May 10, 2021
+    5.0.21
+    May 2, 2021
+    5.0.19
+    Apr 26, 2021
+    5.0.18
+    Apr 20, 2021
+    5.0.17
+    Apr 19, 2021
+    5.0.16
+    Apr 8, 2021
+    5.0.13
+    Apr 4, 2021
+    5.0.14
+    Apr 4, 2021
+    5.0.11
+    Apr 2, 2021
+    5.0.10
+    Mar 29, 2021
+    5.0.9
+    Mar 27, 2021
+    5.0.8
+    Mar 24, 2021
+    5.0.7
+    Mar 21, 2021
+    5.0.4
+    Mar 15, 2021
+    5.0.3
+    Sep 23, 2016
+    5.0.2
+    Jun 13, 2016
+    5.0.1
+    May 23, 2016
+    5.0.0
+    May 19, 2016
+    4.6.0
+    Jul 10, 2014
+    4.5.1
+    Jun 7, 2014
+    4.5.0
+    Apr 7, 2014
+    4.4.1
+    Dec 4, 2013
+    4.4.0
+    Dec 1, 2013
+    4.3.0
+    Nov 25, 2013
+    4.2.0
+    Nov 13, 2013
+    4.1.0
+    Nov 7, 2013
+    4.0.0
+    Oct 30, 2013
+    3.4.0
+    Apr 9, 2013
+    3.2.0
+    Feb 24, 2013
+    3.1.0
+    Dec 13, 2012
+    3.0.0
+    Oct 1, 2012
+    2.6.1
+    Sep 20, 2012
+    2.6.0
+    Sep 5, 2012
+    2.5.0
+    Jun 22, 2012
+    2.0.2
+    Apr 26, 2012
+    2.0.1
+    Apr 6, 2012
+    2.0.0
+    Mar 23, 2012
+    1.0.4
+    Mar 8, 2012
+    1.0.3
+    Feb 23, 2012
+    1.0.2
+    Feb 11, 2012
+    1.0.1
+    Feb 3, 2012
+    1.0.0
+    Jan 27, 2012
+
+See More
+Top In-App Purchases
+
+    DonateTier2
+    $1.99
+    DonateTier1
+    $0.99
+    DonateTier5
+    $4.99
+    DonateTier25
+    $24.99
+    Advanced Slow motion Controls
+    $3.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jan 27, 2012
+
+Worldwide Release Date
+    Jan 27, 2012
+
+Last Updated Time
+    Feb 26, 2024
+
+Version
+    5.0.29
+
+Size
+    25.30 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    Michel Loenngren
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.1 or later. Compatible with iPhone, iPad and iPod touch.
+
+Bundle ID
+    TimeFreeze
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 493856911
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+TimeFreeze | data.ai

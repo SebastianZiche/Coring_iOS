@@ -1,0 +1,734 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Jami
+Savoir-faire Linux Inc.Social Networking (Applications)Free
+Alerts
+
+Jami
+Jami
+Jami
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Jami
+Social Networking (Applications)
+Free
+App Description
+Jami, a GNU package, is a universal and distributed peer to peer communication software. Jami respects and upholds the freedom and privacy of its users.
+
+100 % free universal software.
+
+· Create a completely anonymous account.
+· Communicate freely with Jami:
+- send text messages
+- send audio and video messages
+- make audio and video calls
+- share pictures and media files
+· Use your Jami account on multiple devices!
+· Functions as a SIP client.
+
+Take advantage of the universal communications technology of Jami with its portable library.
+
+There are plenty of ways to help us, check out https://jami.net/en/contribute
+
+For more information, visit https://jami.net
+
+Jami is published under the GPL license, version 3 or higher.
+
+Copyright © Savoir-faire Linux inc.
+Ratings
+Displayed Avg Ratings
+3.94
+Total Displayed Ratings
+275
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.63 (Feb 7, 2024)
+    • bug fixes
+Version 3.62 (Jan 29, 2024)
+    • added option to edit messages
+    • introduced feature to navigate to the original message from a reply
+    • bug fixes
+Version 3.61 (Jan 23, 2024)
+    • option to delete a message
+    • bug fixes
+Version 3.58 (Dec 11, 2023)
+    • bug fixes
+Version 3.57 (Dec 4, 2023)
+    • new design for calls and conferences
+    • bug fixes
+Version 3.55 (Oct 24, 2023)
+    • description and screenshots update
+    • bug fixes
+Version 3.54 (Oct 15, 2023)
+    • bug fixes
+Version 3.53 (Sep 26, 2023)
+    • new design for connecting jams accounts and configuring SIP accounts
+    • fix for linking new devices
+    • fix for file downloading issues
+Version 3.52 (Sep 19, 2023)
+    • new design for account creation
+    • bug fixes
+Version 3.51 (Jun 29, 2023)
+    • support for Picture in Picture
+Version 3.50 (Jun 9, 2023)
+    • bug fixes
+Version 3.49 (May 27, 2023)
+    • bug fixes
+Version 3.48 (May 25, 2023)
+    • bug fixes
+Version 3.46 (May 12, 2023)
+    • settings for location sharing
+    • bug fixes
+Version 3.45 (Mar 18, 2023)
+    • fix the issue of call cancellation when a call is answered on a linked device
+Version 3.44 (Mar 16, 2023)
+    • location sharing option in conversation
+    • bug fixes
+Version 3.43 (Feb 12, 2023)
+    • fix animations for gif
+Version 3.42 (Feb 2, 2023)
+    Bug fixes
+Version 3.41 (Jan 24, 2023)
+    • new settings for swarm conversation
+    • fix for SIP account creation
+Version 3.40 (Jan 9, 2023)
+    • swarm conversations with up to 8 participants
+    • new settings for file transfers
+    • fix for navigation bar for iOS 16
+Version 3.39 (Nov 18, 2022)
+    • fix avatar image in call preview,
+    • fix orientation of received images
+Version 3.39 (Nov 18, 2022)
+    • fix avatar image in call preview,
+    • fix orientation of received images
+Version 3.37 (Oct 31, 2022)
+    • fix a video call between two iOS devices
+Version 3.36 (Oct 27, 2022)
+    • add preview for the links
+    • fix name on the call screen
+    • add recording indicator when call is recording on another side
+    • fix mute video/audio in call
+
+Version 3.35 (Sep 15, 2022)
+    • bug fixes
+Version 3.34 (Aug 30, 2022)
+    • bug fixes
+Version 3.33 (Aug 26, 2022)
+    • bug fixes
+Version 3.31 (Aug 17, 2022)
+    • bug fixes
+Version 3.30 (Aug 10, 2022)
+    • bug fixes
+Version 3.29 (Apr 4, 2022)
+    • bug fixes
+Version 3.28 (Dec 18, 2021)
+    • bug fixes
+Version 3.27 (Dec 17, 2021)
+    • bug fixes
+Version 3.26 (Dec 9, 2021)
+    • a raise hand option added to the conference
+    • bug fixes
+Version 3.24 (Nov 10, 2021)
+    • bug fixes
+Version 3.23 (Nov 1, 2021)
+    • an option to add a video to the audio-only call
+    • fix for notifications
+Version 3.22 (Oct 15, 2021)
+    • fix crash in conference
+Version 3.21 (Oct 6, 2021)
+    • added conversation synchronization between devices for new conversations
+    • fixed navigation bug when app opened from a notification
+    • improved connectivity
+Version 3.20 (Jun 16, 2021)
+    • bug fixes
+Version 3.19 (Jun 3, 2021)
+    • improve battery usage
+Version 3.17 (May 31, 2021)
+    • new design
+    • bug fixes 
+Version 3.15 (May 4, 2021)
+    • update conference: add options to change moderators, mute participant's audio
+Version 3.14 (Apr 9, 2021)
+    • fix audio call for SIP accounts
+    • fix file selection with limited photos library access
+    • fix audio when playing video files
+Version 3.12 (Mar 10, 2021)
+    • use participant username instead of id in conference
+    • improve CPU usage in video
+Version 3.11 (Mar 2, 2021)
+    • improve connectivity
+Version 3.10 (Feb 14, 2021)
+    • bug fixes
+Version 3.09 (Jan 25, 2021)
+    • bug fixes
+Version 3.08 (Jan 13, 2021)
+    • bug fixes
+Version 3.07 (Dec 11, 2020)
+    • bug fixes
+Version 3.06 (Dec 1, 2020)
+    • bug fixes
+Version 3.05 (Nov 19, 2020)
+    • bug fixes
+Version 3.04 (Oct 26, 2020)
+    • bug fixes
+Version 3.03 (Oct 19, 2020)
+    • add options to manage conference layout
+    • bug fixes
+Version 3.02 (Oct 5, 2020)
+    • bug fixes
+Version 3.01 (Sep 19, 2020)
+    • bug fixes
+Version 3.00 (Sep 11, 2020)
+    • full screen preview for media files
+    • bug fixes
+Version 2.80 (Aug 28, 2020)
+    • bug fixes
+Version 2.55 (Aug 19, 2020)
+    • bug fixes
+Version 2.54 (Aug 15, 2020)
+    • location sharing
+    • bug fixes
+Version 2.53 (Aug 5, 2020)
+    • bug fixes
+Version 2.52 (Jul 7, 2020)
+    • bug fixes
+Version 2.50 (May 27, 2020)
+    • bug fixes
+Version 2.49 (May 5, 2020)
+    • bug fixes
+Version 2.48 (Apr 30, 2020)
+    • add dark mode support
+Version 2.47 (Apr 25, 2020)
+    • bug fixes
+Version 2.46 (Apr 21, 2020)
+    • bug fixes
+Version 2.45 (Apr 6, 2020)
+    • bug fixes
+Version 2.44 (Apr 4, 2020)
+    • bug fixes
+Version 2.43 (Apr 2, 2020)
+    • bug fixes
+Version 2.42 (Mar 30, 2020)
+    • bug fixes
+Version 2.41 (Mar 28, 2020)
+    • add name registration
+    • bug fixes
+Version 2.40 (Mar 18, 2020)
+    • improve connectivity
+    • add media player
+    • support connections to Jami Account Management Server
+Version 2.39 (Feb 18, 2020)
+    • bug fix
+Version 2.38 (Feb 16, 2020)
+    • bug fixes
+Version 2.37 (Jan 30, 2020)
+    • bug fixes
+Version 2.36 (Jan 14, 2020)
+    • bug fixes
+Version 2.34 (Dec 31, 2019)
+    • bug fixes
+Version 2.33 (Dec 8, 2019)
+    • bug fixes
+Version 2.32 (Dec 2, 2019)
+    • bug fixes
+Version 2.31 (Nov 28, 2019)
+    • fix rotation in conference
+Version 2.30 (Nov 19, 2019)
+    • conference support
+Version 2.27 (Nov 12, 2019)
+    • record and send audio/video
+    • fix video mirrored
+Version 2.26 (Sep 14, 2019)
+    • bug fixes
+Version 2.25 (Aug 28, 2019)
+    • fix video rotation
+Version 2.24 (Aug 27, 2019)
+    • fix video start time
+Version 2.23 (Aug 25, 2019)
+    • improve IPv6 only connectivity
+Version 2.22 (Aug 16, 2019)
+    • fix incoming call answering
+Version 2.21 (Aug 15, 2019)
+    • bugs fix
+Version 2.19 (Aug 11, 2019)
+    • improve connectivity
+Version 2.18 (Aug 1, 2019)
+    • integrate Jami calls with system calls
+    • bug fixes
+Version 2.17 (Jun 20, 2019)
+    • bugs fix
+Version 2.16 (Jun 12, 2019)
+    • fix ringing for incoming call
+Version 2.15 (May 8, 2019)
+    • new screen for incoming call
+    • bugs fix
+Version 2.14 (Apr 24, 2019)
+    • fixed message status updates
+    • fixed blocked contacts
+    • keeps call buttons visible
+Version 2.12 (Apr 16, 2019)
+    • bug fixes
+Version 2.11 (Apr 15, 2019)
+    • add multiple accounts
+    • support sip calls
+    • improve video quality
+    • bugs fixes
+Version 2.05 (Feb 18, 2019)
+    • bugs fix
+Version 2.04 (Feb 9, 2019)
+    • device revocation
+    • search contact by id
+    • bug fixes
+Version 2.01 (Jan 7, 2019)
+    • bug fixes
+Version 2.00 (Dec 23, 2018)
+    • bug fixes
+Version 1.58 (Dec 18, 2018)
+    • change the name
+    • redesign user interface
+    • bug fixes
+Version 1.57 (Dec 7, 2018)
+    - QR code generation from your ring Id
+    - QR code scan for adding new contacts
+    - enhanced emoji display
+    - fix crash and deadlock at application start
+    - display GIFs in chat view
+    - multiline text edit for message sending
+    - option to send quick emoji thumbs-up
+    - automatic capitalization of messages
+    - better photo sending
+    - updated push notifications backend
+Version 1.56 (Sep 26, 2018)
+    - bug fixes
+Version 1.55 (Aug 15, 2018)
+    - video improvements
+    - bug fixes
+Version 1.53 (Jul 31, 2018)
+    -bugs fixes
+    -improve images resolution
+Version 1.52 (Jul 26, 2018)
+    - bug fixes
+    - updated framework versions
+    - updated version name
+Version 1.51 (Jul 11, 2018)
+    default ringtone fix
+Version 1.50 (Jun 27, 2018)
+    - Bug fixes
+Version 1.48 (May 9, 2018)
+    add notifications to stay connected all time
+Version 1.47 (Mar 29, 2018)
+    • file sharing
+    • support video rotation
+    • bugs fixes
+Version 1.43 (Mar 5, 2018)
+    • bug fixes
+Version 1.42 (Feb 26, 2018)
+    • unblock contacts
+    • UI changes
+    • bug fixes
+Version 1.4 (Feb 4, 2018)
+    • fixes bug that prevented pausing and media muting for incoming calls
+Version 1.3 (Feb 2, 2018)
+    a new Ring version - "In varietate concordia"
+    • adds the build and version info popup
+    • fixes not be able to place calls from an invite conversation
+    • fixes a bug that allowed users to answer invalid calls
+    • fixes a text message color bug
+    • fixes a bug that would leave proximity monitoring on after an audio call
+    • correctly displays and updates avatars
+Version 1.2 (Jan 31, 2018)
+    Audio and video calls, improved GUI, bug fixes.
+Version 1.1 (Jan 4, 2018)
+    - contacts can be blocked
+    - bug fixes
+Version 1.0 (Dec 28, 2017)
+
+Users may also like
+Select objects to compare
+Monal - XMPP chat
+SimpleX Chat: secure messenger
+Siskin IM
+FluffyChat
+Session - Private Messenger
+Delta Chat
+Roboka
+ChatSecure Messenger
+Linphone
+Berty Messenger
+IQ Classifications
+Genre: Social Media
+Subgenre: Communication
+Communication
+Apps that allow two or more parties to have conversations over real-time instant messaging.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+2 times
+on App Store category pages
+Versions
+
+    3.63
+    Current release
+    Feb 7, 2024
+    3.62
+    Jan 29, 2024
+    3.61
+    Jan 23, 2024
+    3.58
+    Dec 11, 2023
+    3.57
+    Dec 4, 2023
+    3.55
+    Oct 24, 2023
+    3.54
+    Oct 15, 2023
+    3.53
+    Sep 26, 2023
+    3.52
+    Sep 19, 2023
+    3.51
+    Jun 29, 2023
+    3.50
+    Jun 9, 2023
+    3.49
+    May 27, 2023
+    3.48
+    May 25, 2023
+    3.46
+    May 12, 2023
+    3.45
+    Mar 18, 2023
+    3.44
+    Mar 16, 2023
+    3.43
+    Feb 12, 2023
+    3.42
+    Feb 2, 2023
+    3.41
+    Jan 24, 2023
+    3.40
+    Jan 9, 2023
+    3.39
+    Nov 18, 2022
+    3.39
+    Nov 18, 2022
+    3.37
+    Oct 31, 2022
+    3.36
+    Oct 27, 2022
+    3.35
+    Sep 15, 2022
+    3.34
+    Aug 30, 2022
+    3.33
+    Aug 26, 2022
+    3.31
+    Aug 17, 2022
+    3.30
+    Aug 10, 2022
+    3.29
+    Apr 4, 2022
+    3.28
+    Dec 18, 2021
+    3.27
+    Dec 17, 2021
+    3.26
+    Dec 9, 2021
+    3.24
+    Nov 10, 2021
+    3.23
+    Nov 1, 2021
+    3.22
+    Oct 15, 2021
+    3.21
+    Oct 6, 2021
+    3.20
+    Jun 16, 2021
+    3.19
+    Jun 3, 2021
+    3.17
+    May 31, 2021
+    3.15
+    May 4, 2021
+    3.14
+    Apr 9, 2021
+    3.12
+    Mar 10, 2021
+    3.11
+    Mar 2, 2021
+    3.10
+    Feb 14, 2021
+    3.09
+    Jan 25, 2021
+    3.08
+    Jan 13, 2021
+    3.07
+    Dec 11, 2020
+    3.06
+    Dec 1, 2020
+    3.05
+    Nov 19, 2020
+    3.04
+    Oct 26, 2020
+    3.03
+    Oct 19, 2020
+    3.02
+    Oct 5, 2020
+    3.01
+    Sep 19, 2020
+    3.00
+    Sep 11, 2020
+    2.80
+    Aug 28, 2020
+    2.55
+    Aug 19, 2020
+    2.54
+    Aug 15, 2020
+    2.53
+    Aug 5, 2020
+    2.52
+    Jul 7, 2020
+    2.50
+    May 27, 2020
+    2.49
+    May 5, 2020
+    2.48
+    Apr 30, 2020
+    2.47
+    Apr 25, 2020
+    2.46
+    Apr 21, 2020
+    2.45
+    Apr 6, 2020
+    2.44
+    Apr 4, 2020
+    2.43
+    Apr 2, 2020
+    2.42
+    Mar 30, 2020
+    2.41
+    Mar 28, 2020
+    2.40
+    Mar 18, 2020
+    2.39
+    Feb 18, 2020
+    2.38
+    Feb 16, 2020
+    2.37
+    Jan 30, 2020
+    2.36
+    Jan 14, 2020
+    2.34
+    Dec 31, 2019
+    2.33
+    Dec 8, 2019
+    2.32
+    Dec 2, 2019
+    2.31
+    Nov 28, 2019
+    2.30
+    Nov 19, 2019
+    2.27
+    Nov 12, 2019
+    2.26
+    Sep 14, 2019
+    2.25
+    Aug 28, 2019
+    2.24
+    Aug 27, 2019
+    2.23
+    Aug 25, 2019
+    2.22
+    Aug 16, 2019
+    2.21
+    Aug 15, 2019
+    2.19
+    Aug 11, 2019
+    2.18
+    Aug 1, 2019
+    2.17
+    Jun 20, 2019
+    2.16
+    Jun 12, 2019
+    2.15
+    May 8, 2019
+    2.14
+    Apr 24, 2019
+    2.12
+    Apr 16, 2019
+    2.11
+    Apr 15, 2019
+    2.05
+    Feb 18, 2019
+    2.04
+    Feb 9, 2019
+    2.01
+    Jan 7, 2019
+    2.00
+    Dec 23, 2018
+    1.58
+    Dec 18, 2018
+    1.57
+    Dec 7, 2018
+    1.56
+    Sep 26, 2018
+    1.55
+    Aug 15, 2018
+    1.53
+    Jul 31, 2018
+    1.52
+    Jul 26, 2018
+    1.51
+    Jul 11, 2018
+    1.50
+    Jun 27, 2018
+    1.48
+    May 9, 2018
+    1.47
+    Mar 29, 2018
+    1.43
+    Mar 5, 2018
+    1.42
+    Feb 26, 2018
+    1.4
+    Feb 4, 2018
+    1.3
+    Feb 2, 2018
+    1.2
+    Jan 31, 2018
+    1.1
+    Jan 4, 2018
+    1.0
+    Dec 28, 2017
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Dec 28, 2017
+
+Worldwide Release Date
+    Dec 28, 2017
+
+Last Updated Time
+    Feb 14, 2024
+
+Version
+    3.63
+
+Size
+    80.37 mb
+
+Only 32 Bit
+    No
+
+Languages
+    日本語, アラビア語, アルバニア語, イタリア語, インドネシア語, ウクライナ語, エスペラント, オランダ語, カタロニア語, ギリシャ語, クロアチア語, スウェーデン語, スペイン語, スロバキア語, スロベニア語, チェコ語, デンマーク語, トルコ語, ドイツ語, ノルウェー語 (ブークモール), ハンガリー語, ヒンディー語, フィンランド語, フランス語, ブルガリア語, ヘブライ, ペルシア語, ポルトガル語, ポーランド語, マレー語, リトアニア語, ルーマニア語, ロシア語, 簡体字中国語, 英語, 韓国語
+
+Seller
+    Savoir-Faire Linux Inc
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    iOS 14.5以降が必要です。iPhone、iPad、およびiPod touchに対応。
+
+Bundle ID
+    com.savoirfairelinux.ring
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1306951055
+Unified App ID: 1000800000179337
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Jami | data.ai

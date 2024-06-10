@@ -1,0 +1,717 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Glitch Art Studio: Cam Effects
+NET SigmaPhoto and Video (Applications)Free
+Alerts
+
+    NET Sigma
+
+    Glitch Art Studio: Cam Effects
+    Glitch Art Studio: Cam Effects
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Glitch Art Studio: Cam Effects
+Efeitos para Foto e Vídeo
+Photo and Video (Applications)
+Free
+App Description
+Add glitches to your photos and videos!
+
+Glitch Art Studio offers an extensive library of exclusive effects to distort your photos and videos in creative ways.
+
+Effects:
+
+- Analog Noise
+- Digital Noise
+- Interference
+- VHS Noise
+- Color Aberration
+- Datamosh
+- Slit Scan
+- Pixel Sorting
+- Quantization
+- Dithering
+- Lens Distortions
+- Symmetry
+- Dope & Rad Effects
+- Scanlines
+- Interlace
+- CRT
+- ASCII
+- Glass
+
+Extra:
+
+- More than 30 presets
+- Save your edited photos as animated GIFs
+- 4K Resolution on supported devices
+- Mask mode: Select which areas of the image/video are affected by the filters
+- Adjustments: Blur, Sharpen, Brightness, Contrast, Hue, Saturation, Vibrance, Temperature
+- More than 20 original Color Filters
+- 9 Different Blend modes
+
+You can apply these effects and adjustments directly in your camera, to photos or to recorded videos.
+
+
+-------------------------------
+PRO Subscription
+-------------------------------
+
+Subscriptions are billed monthly or annually depending on the selected subscription plan. Subscriptions will automatically renew unless cancelled at least 24 hours before the end of the current period. The subscription fee is charged to your Apple ID account at the confirmation of purchase. If you subscribe before a free trial ends, the remainder of the trial period will be forfeited. You can manage your subscription and turn off auto-renewal by going to your account settings in the App Store.
+
+Privacy Policy: https://net-sigma.com/privacy-policy
+
+Terms of Use: https://net-sigma.com/terms-of-use
+Ratings
+Displayed Avg Ratings
+4.69
+Total Displayed Ratings
+28.8k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 5.24 (Jan 23, 2024)
+    • Bugfixes
+
+    • UI Improvements
+
+    If you enjoy using our app, please consider leaving a review in the App Store :)
+Version 5.22 (Nov 25, 2023)
+    • Bugfixes
+
+    If you enjoy using our app, please consider leaving a review in the App Store :)
+Version 5.21 (Oct 24, 2023)
+    • Bugfixes
+
+    If you enjoy using our app, please consider leaving a review in the App Store :)
+Version 5.20 (Oct 9, 2023)
+    • Minor bugfixes
+
+    • UI Improvements
+
+    If you enjoy using our app, please consider leaving a review in the App Store :)
+Version 5.13 (Jul 15, 2023)
+    • New style: Circuit
+
+    • Fixed a bug that caused the mask effect to behave unexpectedly on iPads
+
+    • The direction of some effects now change according to the orientation of the camera
+
+    • Minor bugfixes
+
+    • UI Improvements
+
+    If you enjoy using our app, please consider leaving a review in the App Store :)
+Version 5.12 (Jun 15, 2023)
+    • Minor bugfixes
+
+    • UI Improvements
+
+    If you enjoy using our app, please consider leaving a review in the App Store :)
+Version 5.11 (Jun 9, 2023)
+    • Fixed a critical bug that would cause some elements of the interface to be off-screen on iPads
+
+    • UI Improvements
+
+    If you enjoy using our app, please consider leaving a review in the App Store :)
+Version 5.1 (Jun 7, 2023)
+    • Bug fixes
+
+    • UI Improvements
+
+    If you enjoy using our app, please consider leaving a review in the App Store :)
+Version 5.0 (Mar 23, 2023)
+    Essa atualização traz novos filtros e estilos!
+
+    • 4 novos estilos: Espaço Liminal, Tesserato, Infinito, Anoitecer
+
+    • 5 novos filtros: Utopia, Memória, Ametista, Meia-noite, Fluorescente
+
+    • Melhorias na interface
+
+    • Correção de erros
+
+    Se você curte nosso app, deixe uma avaliação na App Store :)
+Version 4.81 (Mar 3, 2023)
+    • 3 novas fontes
+
+    • O texto agora ficará sempre no centro da tela enquanto estiver sendo editado. Isso evita casos nos quais poderia ficar coberto pela interface.
+
+    • O seletor de cores para a ferramenta texto foi aprimorado
+
+    • Correção de erros
+
+    Se você curte nosso app, deixe uma avaliação na App Store :)
+Version 4.8 (Mar 1, 2023)
+    • Melhorias na interface
+
+    • Correção de erros
+
+    Se você curte nosso app, deixe uma avaliação na App Store :)
+Version 4.7 (Feb 17, 2023)
+    • Melhorias na interface
+
+    • Correção de erros
+
+    Se você curte nosso app, não se esqueça de avaliá-lo na App Store :)
+Version 4.6 (Dec 19, 2022)
+    • Quando importar fotos e vídeos no app, a versão editada será usada sempre que disponível. Isso se refere ao caso no qual a mídia foi editada dentro do app Fotos
+
+    • Melhorias na interface
+
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 4.5.1 (Oct 6, 2022)
+    Essa atualização inclui diversos recursos novos e várias melhorias :)
+
+    • Novo estilo: Overload
+
+    • Controle a velocidade de reprodução do vídeos
+
+    • Mude a ordem das camadas de efeitos arrastando-as e soltando-as na posição desejada
+
+    • Organize os efeitos e coloque os que você mais usa nas primeiras posições
+
+    • Agora você também pode reorganizar os estilos customizados (salvos por você) de uma maneira mais eficiente (Escolha a opção "Organizar" no menu de estilos)
+
+    • Importe vários estilos salvos ao mesmo tempo
+
+    • Corrigido um erro que impedia que alguns usuários conseguissem exportar vídeos em 4K em dispositivos mais novos
+
+    • Corrigido um problema com o efeito Scanner
+
+    • Melhorias na interface
+
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 4.5 (Oct 4, 2022)
+    This is a major update that includes many new features and improvements :)
+
+    • New Style: Overload
+
+    • Change the playback speed when working with imported videos (the global effect speed has been renamed to Effect Speed to avoid confusion)
+
+    • Reorder effects on the layer stack by dragging and dropping them on the desired position (Advanced mode)
+
+    • Reorganize effects from the effect library (the ones listed under the magic wand icon), placing those you use the most on the first slots, for example
+
+    • You can also reorganize and/or delete your custom styles in a more efficient way (tap on the big plus icon and choose the option "Organize")
+
+    • Import several styles at once
+
+    • Fixed a critical bug that would prevent some users from exporting videos in 4K when using newer devices
+
+    • Fixed a problem that would cause the Slit Scan effect not to work properly on some intensity levels
+
+    • UI Improvements
+
+    • Minor bug fixes
+
+    If you enjoy using our app, please consider leaving a review in the App Store :)
+Version 4.4 (Sep 15, 2022)
+    • Otimizado para iOS 16
+
+    • Melhorias na interface
+
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 4.3 (Mar 21, 2022)
+    • Melhorias na interface
+
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 4.2 (Nov 17, 2021)
+    • Novo estilo: Electron
+
+    • Novo efeito: Grade
+
+    • Novas opções foram adicionadas aos seguintes efeitos: Scanner (No. 7, No. 8), Ondulação (No. 10), Colagem (No. 7, No.8 & No. 9), Simetria (No. 7)
+
+    • Efeito Scanner foi aprimorado e agora é possível adicioná-lo a fotos também. Lembre-se que esse efeito precisa de movimento para funcionar corretamente
+
+    • Duração máxima para imagens animadas foi aumentada para 5 minutos
+
+    • Taxa de bits máxima foi aumentada para 200Mbps
+
+    • O app agora mostrará um aviso se o tamanho estimado do vídeo for maior do que o espaço disponível no dispositivo.
+
+    • Corrigidos erros na ferramenta Máscara
+
+    • Melhorias na interface
+
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 4.1 (Nov 10, 2021)
+    Estamos felizes em anunciar uma nova atualização!
+
+    • Controle os parâmetros dos efeitos em função do tempo (Modo avançado apenas): Toque no círculo ao lado do parâmetro para escolher como o mesmo se altera. É possível mudar a velocidade e a curva da animação (senoide, rampa, etc.). Por exemplo, você pode escolher como a intensidade de um efeito oscila ao longo do tempo
+
+    • Escolha o trecho do vídeo que cada efeito será aplicado (Modo Avançado apenas): Toque no ícone do relógio ao lado do nome do efeito para escolher o trecho sobre o qual o efeito será aplicado
+
+    • Vídeos agora são salvos com a mesma taxa de quadros do vídeo original (30, 60 FPS, etc.)
+
+    • Escolha a taxa de quadros (30, 60, 120 ou 240 FPS) quando exportar imagens animadas
+
+    • Ferramenta para salvar GIFs foi melhorada e corrigida: O parâmetro "duração do quadro" funciona de forma mais precisa agora
+
+    • Novo efeito (Profundidade) está disponível para imagens com dados de profundidade (fotos tirada no Modo Retrato). Você pode importar uma segunda imagem para usar como mapa de profundidade ou deixar que o app gere um mapa estimado, caso a imagem original não tenha dados de profundidade. Quando estiver trabalhando com vídeos, o app sempre irá gerar um mapa aproximado
+
+    • Novas opções foram adicionadas aos seguintes efeitos: Ondulação (No. 7, No. 8 & No. 9), Dissolver (No. 5 & No. 6), Scanner (No. 6)
+
+    • Novo filtro de cor: Raio X
+
+    • Use dados de profundidade como máscara selecionando a opção "Importar" e depois "Mapa de Profundidade", quando estiver usando o efeito "Máscara".
+
+    • Efeito máscara agora oferece suporte para escala de cinza: É possível selecionar diferentes áreas da imagem com intensidades diferente para melhor controle dos efeitos
+
+    • Efeito Scanner foi aprimorado
+
+    • Corrigido um erro que ocasionalmente fazia com que os arquivos temporários ocupassem muito espaço
+
+    • Melhorias na interface
+
+    • Correções de erros
+
+    Se você gosta do nosso app, não se esqueça de avaliá-lo na loja :)
+Version 4.0 (Oct 19, 2021)
+    Essa atualização traz uma vasta gama de novidades! Aproveite :)
+
+    • Novos estilos: 1-bit, Percepção, Fita Antiga
+
+    • Nova opção foi adicionada ao efeito Pixelar (No. 5)
+
+    • Novo efeito: Interferência
+
+    • Novas sobreposições: Ruído 1 & 2
+
+    • Salve vídeos em 4K quando estiver trabalhando no modo imagem ou no modo vídeo; Disponível nos seguintes dispositivos: iPhone XS e mais recentes, iPad 8a geração e mais recentes
+
+    • Aplique efeitos em uma parte selecionada do vídeo; quando for salvar, escolha salvar apenas o trecho selecionado ou então salvar o vídeo inteiro no qual apenas a parte selecionada terá os efeitos.
+
+    • Escolha o formato do vídeo no qual deseja salvar seus projetos: H.264, HEVC ou Motion JPEG (MJPEG)
+
+    • Taxa máxima de bits foi aumentada para 100 Mbit/s
+
+    • Escolha se quer salvar o vídeo com ou sem o áudio original (se a mídia importada for um vídeo)
+
+    • Exporte o trecho de um vídeo como um GIF de até 30 quadros
+
+    • GIFs agora são importados como vídeo ao invés de uma imagem estática
+
+    • Efeito Pixelar No. 3 foi ajustado (maior nível significa menos pixelado agora)
+
+    • Estilo 8-bit foi levemente modificado
+
+    • Otimizado para iOS 15
+
+    • Melhorias na interface
+
+    • Corrigido um erro que ocasionalmente impedia os usuários de salvarem os vídeos
+
+    • Corrigido um erro no qual a velocidade global não era salva nos estilos customizados
+
+    • Diversas outras correções de erros
+
+    Se você gostou do nosso app, não se esqueça de avaliá-lo na loja :)
+Version 3.0 (Dec 2, 2020)
+    • Melhorias na interface
+    • Correção de erros críticos
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 2.9 (Nov 29, 2020)
+    • Melhorias na interface
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 2.8 (Oct 23, 2020)
+    • Corrigido um bug que fazia com que o app ocasionalmente travasse quando um vídeo era carregado no app
+    • O controle de velocidade na ferramenta "Ruído Analógico" foi aprimorado
+    • Melhorias na interface
+    • Outras correções
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 2.7 (Oct 13, 2020)
+    • Agora é possível usar o app no modo horizontal no iPad
+    • Novo estilo: Data Bending
+    • Grave vídeos em Full HD diretamente no app (apenas dispositivos compatíveis)
+    • Escolha a cor de fundo na ferramenta Texto
+    • Controle a velocidade de todos os efeitos ao mesmo tempo. Esse recurso não necessariamente altera a velocidade de reprodução do vídeo.
+    • Importe fotos e vídeos no app usando a extensão "Ações"
+    • Otimizado para o iOS 14
+    • Alguns filtros e efeitos foram aprimorados
+    • Melhorias na interface
+    • Corrigido um erro que impedia usuários de salvarem fotos e vídeos no iOS 14
+    • Outras correções de erro
+
+    Se você curte nosso app, não se esqueça de avaliá-lo na loja :)
+Version 2.6 (Jul 2, 2020)
+    • 6 novos estilos: Artefatos, Fogo, Video Game, Fluido, Ciborgue, Monitor
+    • Novo efeito: Suavidade
+    • Novas opções foram adicionadas aos efeitos: Surreal (N. 9), Colagem (N. 6), Dissolver (N.3 & N. 4), Datamosh (N. 8 & N. 9)
+    • 9 novos filtros de cor
+    • Modo Aleatório: Gere uma combinação aleatória de efeitos com apenas um toque
+    • Nova opção que permite ocultar camadas
+    • Agora você pode pausar a animação antes de exportar como imagem. Desse modo você consegue pré-visualizar a imagem antes de salvá-la
+    • Desabilite todos os efeitos com apenas um toque no Modo Clássico
+    • Efeito Datamosh N. 4 foi aprimorado: O tamanho mínimo do bloco foi reduzido
+    • Melhorias na interface
+    • Corrigido um erro que afetava o efeito Plasma em alguns dispositivos
+    • Corrigido um outro erro que impedia o efeito ASCII de funcionar corretamente no modo Clássico
+    • Várias outras correções de erros
+
+    Se você curte nosso app, não se esqueça de avaliá-lo na loja :)
+Version 2.5 (Dec 20, 2019)
+    • Resolução máxima (para exportar fotos) foi aumentada em alguns dispositivos
+    • Importe e exporte seus estilos: agora é possível exportar os estilos que você criou, todos de uma única vez ou cada um individualmente (pressione por alguns segundos o estilo para exportá-lo)
+    • Novos efeitos: Contorno, Oscilação & Colagem
+    • Novos estilos: Alta Frequência & Abstrato
+    • Novo filtro de cor: Retro
+    • Novas sobreposições: Partículas, Bokeh, Digital, Cosmo & Vaporwave
+    • Novas opções foram adicionadas: Cor (No. 7 - No. 12), Surreal (No. 8), Vidro (No. 7 & No. 8), Lente (No. 6) e Redemoinho (No. 4 & No. 5)
+    • Efeito Cor agora tem 3 controles: Intensidade, Velocidade & Canal
+    • Controle o tamanho do caractere no efeito ASCII
+    • Novos controles foram adicionados ao efeito Sobreposição: Cor, Saturação e Colorizar
+    • Efeito Analógico No. 6 foi levemente modificado já que agora é possível adicionar a oscilação vertical separadamente
+    • Efeito Redemoinho No. 3 foi aprimorado
+    • Controle "Tamanho" foi melhorado e renomeado para "Velocidade" [Efeito Pixel Sorting]
+    • Velocidade máxima de rolagem foi aumentada [Efeito Movimento]
+    • O tamanho do texto foi normalizado de modo que agora sempre aparenta ter o mesmo tamanho independente da resolução escolhida [Efeito Texto]
+    • Opção Tela cheia foi adicionada ao modo câmera
+    • Otimizado para iOS 13
+    • Melhorias na interface
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 2.4 (Aug 27, 2019)
+    • Salve suas fotos editadas como GIFs animados!
+    • As configurações de vídeo agora podem ser encontradas selecionando-se o ícone exportar/vídeo (e não mais o ícone ferramenta)
+    • Melhorias na interface
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja! :)
+Version 2.3 (Aug 9, 2019)
+    • Agora é possível controlar a posição de cada camada individualmente na composição final e adicionar o mesmo efeito mais de uma vez. Esse recurso avançado abre um horizonte de possibilidades para suas criações!
+    • Novo efeito: Dissolver
+    • Novas opções adicionadas aos seguintes efeitos: Analógico (N. 6), Ondulação (N. 6), Vidro (N. 6)
+    • Novos controles adicionados à ferramenta Texto: Rotação e Quebra de Linha
+    • Novas fontes adicionadas à ferramenta Texto
+    • Controle a direção do efeito Scanner
+    • Efeito Scanner N. 5 foi aprimorado
+    • Efeito Ondulação N. 4 foi aprimorado
+    • Estilo 8 bits foi aperfeiçoado
+    • Melhorias na interface
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja :)
+Version 2.2 (Jul 9, 2019)
+    • O app agora está disponível também em português
+    • Novo estilo: 8 bits
+    • Novas opções na ferramenta Cor
+    • Corrigido um erro que fazia o app travar quando exportava vídeos em alguns dispositivos
+    • Melhorias na interface
+    • Correção de erros
+
+    Se você curtiu nosso app, deixe uma avaliação na loja :)
+Version 2.1 (Apr 22, 2019)
+    • Adicione sobreposições nos vídeos e fotos: Diversas opções como ruídos VHS, poeira e chuva.
+    • Adicione texto nas suas composições
+    • 4 novos estilos: Lo-Fi VHS, 1995, No Signal, Dimension
+    • 2 novos efeitos: Dithering, Interlace
+    • Novas opções foram adicionadas aos seguintes efeitos: Quantization (No. 4), Glass (No. 4 & No. 5)
+    • Controle cada canal de cor (RGB) separadamente nos seguintes efeitos: Digital Noise, Stripes, Ripple
+    • Adicionada uma opção para desfocar a máscara
+    • Redimensione o tamanho da máscara quando a opção "Move" estiver selecionada no modo Máscara
+    • Agora é possível silenciar o som do vídeo quando estiver editando
+    • Retome sua sessão de edição mesmo após fechar o app completamente
+    • Adicionado um botão que permite esconder parcialmente os controles da interface quando estiver editando uma foto ou vídeo
+    • O efeito Melt foi aperfeiçoado
+    • Melhorias na interface
+    • Correção de erros
+
+    Se você curtiu nosso app, deixe uma avaliação na loja :)
+Version 2.0 (Mar 3, 2019)
+    A versão 2.0 traz muitas novidades:
+
+    • Máscaras: agora você pode escolher quais áreas da imagem/vídeo são afetadas pelos filtros
+    • 3 novos estilos: Bad VHS; Plasma; and Binary
+    • 7 novos efeitos: Pixel Sorting; Melt; Glass; ASCII; Swirl; Clone; and Blend
+    • 2 novos ajustes: Sharpen; and Hue
+    • Efeito Rad (No.6) agora é um efeito separado (Stripes)
+    • Um novo controle de movimento (Motion) foi adicionado à aba de efeitos (isso substitui o antigo controle "Movement")
+    • Novas opções adicionadas aos efeitos: Analog Noise (No. 5), Digital Noise (No. 5 & No. 6), Datamosh (No. 5, No. 6 & No. 7), Color (No. 4), Dope (No. 7), Rad (No. 7), Ripple (No. 4 & No. 5), Quantization (No. 3)
+    • Um novo parâmetro foi adicionado ao efeito Datamosh: Agora é possível mudar o tamanho do bloco
+    • A função "Real Glitch" foi melhorada
+    • O efeito Symmetry foi aperfeiçoado
+    • O valor máximo do parâmetro "Offset" no efeito Chroma Shift foi aumentado
+    • Melhorias na interface
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na App Store :)
+Version 1.3 (Jan 17, 2019)
+    • Novo estilo adicionado (Trippy)
+    • Mais uma opção adicionada à ferramenta "Digital Noise"
+    • Adicionado um novo recurso que permite criar glitches num vídeo substituindo os bytes originais por bytes aleatórios
+    • Agora é possível escolher o bitrate na hora de exportar um vídeo
+    • Adicionada também opção para escolher a duração do vídeo exportado a partir de uma foto
+    • Velocidade máxima da ferramenta "Symmetry" foi aumentada
+    • Aumentada a máxima resolução suportada para salvar fotos (iPhone 7 ou mais recente)
+    • Corrigido um erro que distorcia a cor, de forma não intencional, na hora de exportar um vídeo que usasse a ferramenta "CRT"
+    • Melhorias na interface
+    • Correção de erros menores
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na App Store :)
+Version 1.2 (Dec 13, 2018)
+    • 6 novos estilos
+    • Uma nova opção foi adicionada à ferramenta Simetria
+    • Melhorias na interface
+    • Correção de erros
+
+    Se você curtiu nosso app, avalie-nos na loja :)
+Version 1.1 (Oct 19, 2018)
+    • Agora você pode salvar fotos como video clipes de curta duração ou como imagens
+    • Melhorias na interface
+    • Correção de erros
+
+    Se você curtiu nosso app, não se esqueça de avaliá-lo na loja.
+Version 1.0 (Oct 9, 2018)
+
+Users may also like
+Select objects to compare
+GlitchCam - Video Effects
+Glitché: Photo & Video Editor
+Photo Editor Effects + Filters
+EFEKT Video Effects & Filters
+HYPERSPEKTIV: Photo, Video, AR
+Video FX: Movie Clip Editor
+Vapor NFT Creator - NFT Maker
+Cover Art Studio
+Artleap by Lightricks
+Glitch Video- Aesthetic Effect
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Photo Editing
+Photo Editing
+Apps with which the user may edit their photos by adding filters, adjusting light/colors/white balance, cropping sizes and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+24 times
+on App Store category pages
+Versions
+
+    5.24
+    Current release
+    Jan 23, 2024
+    5.22
+    Nov 25, 2023
+    5.21
+    Oct 24, 2023
+    5.20
+    Oct 9, 2023
+    5.13
+    Jul 15, 2023
+    5.12
+    Jun 15, 2023
+    5.11
+    Jun 9, 2023
+    5.1
+    Jun 7, 2023
+    5.0
+    Mar 23, 2023
+    4.81
+    Mar 3, 2023
+    4.8
+    Mar 1, 2023
+    4.7
+    Feb 17, 2023
+    4.6
+    Dec 19, 2022
+    4.5.1
+    Oct 6, 2022
+    4.5
+    Oct 4, 2022
+    4.4
+    Sep 15, 2022
+    4.3
+    Mar 21, 2022
+    4.2
+    Nov 17, 2021
+    4.1
+    Nov 10, 2021
+    4.0
+    Oct 19, 2021
+    3.0
+    Dec 2, 2020
+    2.9
+    Nov 29, 2020
+    2.8
+    Oct 23, 2020
+    2.7
+    Oct 13, 2020
+    2.6
+    Jul 2, 2020
+    2.5
+    Dec 20, 2019
+    2.4
+    Aug 27, 2019
+    2.3
+    Aug 9, 2019
+    2.2
+    Jul 9, 2019
+    2.1
+    Apr 22, 2019
+    2.0
+    Mar 3, 2019
+    1.3
+    Jan 17, 2019
+    1.2
+    Dec 13, 2018
+    1.1
+    Oct 19, 2018
+    1.0
+    Oct 9, 2018
+
+See More
+Top In-App Purchases
+
+    Glitch Art Studio - PRO
+    $5.99
+    Glitch Art Effects & Filters
+    $35.99
+    Glitch Art Studio - PRO
+    $17.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Oct 9, 2018
+
+Worldwide Release Date
+    Oct 9, 2018
+
+Last Updated Time
+    Feb 29, 2024
+
+Version
+    5.24
+
+Size
+    81.16 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Português, Alemão, Chinês simplificado, Chinês tradicional, Coreano, Dinamarquês, Espanhol, Francês, Holandês, Indonésio, Inglês, Italiano, Japonês, Malaio, Polaco, Russo, Turco, Vietnamita, Árabe
+
+Seller
+    NET Sigma Tecnologia Ltda - ME
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requer o iOS 15.0 ou posterior. Compatível com iPhone, iPad e iPod touch.
+
+Bundle ID
+    com.netsigma.Glitch-Art-Studio
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1434795782
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Glitch Art Studio: Cam Effects | data.ai

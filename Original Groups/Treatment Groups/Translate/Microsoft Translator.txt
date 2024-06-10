@@ -1,0 +1,639 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Microsoft Translator
+MicrosoftProductivity (Applications)Free
+Alerts
+
+Microsoft Translator
+Microsoft Translator
+Microsoft Translator
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Microsoft Translator
+Translate 100+ languages
+Productivity (Applications)
+Free
+App Description
+Need to communicate with someone who uses a different language? Microsoft Translator is here to help you break through language barriers and connect with people from around the globe.
+
+Microsoft Translator allows you to translate text, speech, images, and group conversations in over 100 languages - for free. Whether you’re traveling and need help understanding a menu or navigating unfamiliar streets, or you’re trying to communicate with a colleague at work or school, Microsoft Translator has you covered. Download it now and see how it can help you break language barriers, stay on top of group conversations by navigating easily within transcripts via chapters.With an intuitive interface and real-time accurate translations, Microsoft Translator makes it easier to communicate with confidence. Plus, use features like chapters and transcripts to navigate within group conversations to stay on top of the conversation.
+
+Don’t let language barriers hold you back. Download Microsoft Translator now and see how it can help you connect with people from different cultures and backgrounds. With support for over 100 languages (https://aka.ms/applanguages), you’ll be able to communicate with ease no matter where you are in the world.
+Ratings
+Displayed Avg Ratings
+4.71
+Total Displayed Ratings
+663k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 24.1.1 (Jan 24, 2024)
+    Our latest update includes UX improvements and new features. Here is a quick rundown of what is new:
+
+    - Improved user experience: We have made a number of tweaks and adjustments to the app's interface to make it more intuitive, user-friendly, and easier to access microphone, camera, and text input controls.
+
+    - Different translation views: you will notice a panel of different views (split-screen, single or full-screen, history, and converse (multi-device conversation)) that is easy to access and switch between. The current view is saved as default view for the next time the app is relaunched.
+
+    - Split-screen view: with this feature, you can now have a 1:1 conversation with the other person viewing the translation on their side by flipping one half of the screen. You can adjust the height of original or translated text space in this view.
+
+    - Single or full-screen view: with this feature, you can view your original and translated text on a single screen.
+
+    - Turn on/off history: with this setting, you can choose to save history or turn off saving history. In the history view, you can delete all translations with a single tap.
+
+    - Languages: you can now swap source and target languages to let the app know which languages to translate from and to.
+
+    - Microphone customization: with this setting, you can keep the microphone always on which means it will identify the language as you speak. You can also turn it off which will require you to manually press the microphone whenever you speak.
+
+    - Auto-scroll translated text: with this setting, you can turn on/off the ability to auto-scroll translated text.
+
+    We hope you enjoy the update and welcome any feedback you may have.
+
+
+    Bug fixes and general improvements.
+Version 23.3.2 (Mar 15, 2023)
+    Bug fixes and general improvements.
+Version 23.3.1 (Mar 8, 2023)
+    Bug fixes and general improvements.
+Version 23.2.1 (Feb 27, 2023)
+    Introducing our new and improved Microsoft Translator experience!
+
+
+
+    This major update includes a new and revamped UX that allows you to start translating quickly. Select your language pair and the app will give you access to available actions such as speech translation, image translation and text translation.
+
+
+
+    The new image translation feature comes with an upgraded backend and expanded language support.
+
+
+
+    The new conversation feature comes with an upgraded backend, expanded language support, and allows you to transcribe/translate real-time conversations. At the end, you will have access to transcription and chapters for easy navigation within transcripts.
+
+
+    Bug fixes and general improvements.
+Version 22.10.2.2 (Oct 27, 2022)
+    Bug fixes and general improvements.
+Version 22.5.1.1 (Jun 27, 2022)
+    Bug fixes and general improvements.
+Version 22.2.1.6 (Mar 21, 2022)
+    Bug fixes and general improvements.
+Version 21.9.1.0 (Sep 28, 2021)
+    Bug fixes and general improvements.
+Version 21.8.3.0 (Sep 13, 2021)
+    Bug fixes and general improvements.
+Version 21.8.2.1 (Aug 31, 2021)
+    Bug fixes and general improvements.
+Version 21.8.1.0 (Aug 16, 2021)
+    · Use new neural voice fonts to hear your translated text in the regional accent of your choice
+    · New language selection that lets you see what features are available in each language
+
+
+    Bug fixes and general improvements.
+Version 21.7.1.13 (Aug 11, 2021)
+    · Use new neural voice fonts to hear your translated text in the regional accent of your choice
+    · New language selection that lets you see what features are available in each language
+
+
+    Bug fixes and general improvements.
+Version 21.6.2.1 (Jul 23, 2021)
+    Bug fixes and general improvements.
+Version 21.3.1.0 (Mar 29, 2021)
+    Bug fixes and general improvements.
+Version 21.1.3.0 (Feb 12, 2021)
+    Bug fixes and general improvements.
+Version 20.11.4.0 (Jan 22, 2021)
+    Bug fixes and general improvements.
+Version 20.11.3.4 (Dec 22, 2020)
+    Bug fixes and general improvements.
+Version 20.11.2.5 (Dec 2, 2020)
+    Bug fixes and general improvements.
+Version 20.9.2.8 (Oct 8, 2020)
+    Bug fixes and general improvements.
+Version 20.9.1.6 (Sep 22, 2020)
+    Bug fixes and general improvements.
+Version 20.8.2.6 (Sep 16, 2020)
+    Bug fixes and general improvements.
+Version 20.8.1.4 (Aug 28, 2020)
+    Bug fixes and general improvements.
+Version 20.7.2.8 (Aug 11, 2020)
+    Bug fixes and general improvements.
+Version 20.6.3.24 (Jul 29, 2020)
+    Language ID feature for speech translation – “auto” mode
+    · Pick two languages and the app will listen for both
+    · After each utterance, the mic will automatically re-activate for the next utterance
+
+    New user interface to navigate between different speech modes
+    · Swipe or tap on each label to move between the three modes: single, auto, and split
+
+    Set your text-to-speech playback speed directly from the speech screen
+
+    Support for 11 new locales
+
+    Bug fixes and general improvements.
+Version 3.2.19 (Apr 4, 2020)
+    Bug fixes and general improvements.
+Version 3.2.18 (Mar 9, 2020)
+    Bug fixes and general improvements.
+Version 3.2.17 (Nov 22, 2019)
+    Bug fixes and general improvements.
+Version 3.2.16 (Nov 1, 2019)
+    Bug fixes and general improvements.
+Version 3.2.15 (Oct 22, 2019)
+    Bug fixes and general improvements
+Version 3.2.14 (Sep 19, 2019)
+    Improvements for offline language packs
+    Bug fixes and general improvements
+Version 3.2.13 (Jun 4, 2019)
+    Modified sharing a conversation code: it will now send a link to open in browser
+    Refreshed icons for phrasebook, translation history and settings
+    Added a close button in phrasebook
+    Fixed display bug where status bar is unreadable on the settings page
+    Fixed issues for updating offline language packs
+Version 3.2.12 (Mar 12, 2019)
+    Improvements for visual accessibility: additional labeling, localization and support for screenreader
+    Improved support for landscape mode in the conversation feature, translation history, phrasebook, and settings
+    Resolved bug for language selection on larger sizes of the Apple Watch
+Version 3.2.11 (Feb 15, 2019)
+    Fixed bug which led to crashes on some devices
+    Fixed issue where app was unresponsive on smaller screens, such as iPhone SE
+Version 3.2.10 (Feb 11, 2019)
+    Improvements for accessibility 
+    Improvements for translation history 
+    Bug fixes and general improvements 
+    Layout improvements for translating long texts
+Version 3.2.9 (Jan 7, 2019)
+    Bug fixes and general improvements.
+Version 3.2.8 (Dec 3, 2018)
+    Resolved layout bug on Settings page
+    Resolved bug with translation history
+    Layout improvements for translating long texts
+    Fixed issue of frequent prompts for microphone permissions and privacy page
+    Fixed bug where recent languages were not shown in order of last used
+    Fixed crashing issue for image translation when in landscape view
+Version 3.2.7 (Oct 24, 2018)
+    Bug fixes for image translation
+    Improvements for visual accessibility: support for large text on settings screen, navigation for Conversations, and support for rotor control types
+Version 3.2.6 (Oct 1, 2018)
+    - Significantly improved support for "Apple Watch"
+    - Improved interaction with microphone button in the Conversations feature
+    - Revised permissions requests, including removing request for geolocation
+    - Improved copy text option for image translation
+    - General bug fixes and improvements
+Version 3.2.5 (Aug 15, 2018)
+    •Revised behavior for profanity filter: now, only profanities recognized in speech will be filtered
+    •Improvement for crash reporting
+    •Improvement for image translation, especially large texts
+    •Revised default language settings
+    •Other bug fixes and crash fixes
+Version 3.2.4 (Jul 17, 2018)
+    Improvements for accessibility
+    Improvements for conversation feature
+    Improved layout for settings pages
+    Bug fixes and general improvements
+Version 3.2.3 (Jun 20, 2018)
+    Improvements for accessibility
+    Improvements for conversation feature
+    Improved analytics and crash reporting
+    Bug fixes and general improvements
+Version 3.2.2 (May 9, 2018)
+    Bug fixes and general improvements
+Version 3.2.1 (May 2, 2018)
+    Improvements for transliteration
+    Bug fixes
+Version 3.2.0 (Apr 19, 2018)
+    Bug Fixes
+    Improved Support for offline language packs
+Version 3.1.0 (Jan 9, 2018)
+    iPhone X Support
+Version 3.0.8 (Dec 14, 2017)
+    - Improved speech translation experiences
+    - Bug fixes
+Version 3.0.7 (Aug 27, 2017)
+    - Recall previous build because of Japanese and Chinese input bugs.
+    - Slower speeds for translation audio-out
+    - Extension to translate text copied from different apps
+    - Extension to translate images copied from different apps
+    - Additional "emergency" category in Phrasebook
+    - Improved handling of longer strings
+    - Bug fixes
+Version 3.0.6 (Aug 21, 2017)
+    - Slower speeds for translation audio-out
+    - Extension to translate text copied from different apps
+    - Extension to translate images copied from different apps
+    - Additional "emergency" category in Phrasebook
+    - Improved handling of longer strings
+    - Bug fixes
+Version 3.0.5 (Jul 17, 2017)
+    • Added a setting to turn off profanity filter
+    • Added feature to show language detected in the format “English (Detected)” and let user swap “to” and “from” language
+    • Updated offline behaviour to make it more intuitive to download and use offline packs for supported languages
+    • Added action buttons in text mode while keyboard is up to let user take action on the translation like sharing and pinning
+    • Fixed language scrolling behaviour for longer strings
+    • Added prompt for app review after frequent usage
+    • Updated animation to respond to user input in speech mode
+    • Added in-app experience to let users create new bugs or vote for existing features inside the app
+Version 3.0.4 (May 15, 2017)
+    - Performance improvements for faster startup time
+    - Language fixes resulting in more reliable offline pack downloads and behavior
+    - Debug logs and telemetry for better reporting
+Version 3.0.3 (Mar 24, 2017)
+    - Japanese and Hindi transliteration support
+    - Filipino available for offline text translation
+    - Scrolling for longer translations UI fix
+    - Safari extension language selection fix
+    - Phrasebook UI bug fix
+    - Accessibility fixes for ease of use with screen readers and keyboard navigation
+    - Updating authentication mechanisms
+    - Other bug fixes
+Version 3.0.2 (Feb 17, 2017)
+    - Chinese offline translation fix
+    - Faster app startup and performance improvements
+    - Device locale language fixes
+    - Redundant history entries fix
+    - Conversation feature disconnection fix
+    - Miscellaneous bug fixes
+Version 3.0.1 (Jan 9, 2017)
+    Several bug fixes and usability improvements
+Version 3.0 (Dec 13, 2016)
+    • New group conversation feature that enables users to real-time translated conversations with two or more people by connecting their devices
+    • New two-person speech mode that enables two people to have a conversation using the same device
+    • Bug fixes
+Version 2.36 (Oct 6, 2016)
+    New option in Settings to change the voice that reads out translation results.
+    See alternative translations of single words. Available in 100 language pairs.
+
+    Tap on the book icon at the bottom of the home screen to quickly access key phrases in 50+ languages. You have the option to favorite, listen to, share, and edit the phrases.
+
+    Bug fixes
+Version 2.32 (Aug 4, 2016)
+    New option in Settings to change the voice that reads out translation results.
+
+    See alternative translations of single words. Available in 100 language pairs.
+
+    Tap on the book icon at the bottom of the home screen to quickly access key phrases in 50+ languages. You have the option to favorite, listen to, share, and edit the phrases.
+
+    Bug fixes
+Version 2.25 (Jun 21, 2016)
+    • Bug fixes
+Version 2.23 (Jun 9, 2016)
+    • Bug fixes
+Version 2.18.0 (May 4, 2016)
+    • Bug fixes
+Version 2.16 (Apr 26, 2016)
+    • Bug fixes
+Version 2.15 (Apr 13, 2016)
+    • Bug fixes
+Version 2.13 (Apr 7, 2016)
+    - Download language packages to access translation services without Internet connectivity in 40+ languages including Arabic, Chinese, Spanish, Portuguese, Japanese, and Korean.
+    - Translate text in web pages using our Safari Extension by turning it on in app settings.
+Version 1.15 (Mar 25, 2016)
+    • Bug fixes
+Version 1.13 (Mar 16, 2016)
+    · Expanded support for Arabic language in conversation mode
+    · Added support for Klingon language
+    · Bug fixes
+Version 1.12 (Mar 8, 2016)
+    • Bug fixes
+Version 1.11.0 (Mar 1, 2016)
+    •Transliteration: See your Simplified Chinese translations written out phonetically! After completing a translation to Simplified Chinese in voice or text translation mode, swipe the results to the left to see transliterated text.
+    •Bug fixes
+Version 1.9.0 (Feb 18, 2016)
+    •Translate words within images - convert from 21 languages or choose automatic language detection
+    •Bug fixes
+Version 1.7.0 (Feb 3, 2016)
+    • Bug fixes
+Version 1.6.1 (Jan 27, 2016)
+    •Share translations from history
+    •Bug fixes
+Version 1.5.0 (Dec 17, 2015)
+    •Have natural conversations in Chinese (Traditional and Simplified), English, French, German, Italian and Spanish. More languages are coming soon!
+    •Use your smart watch and phone together to enable conversations without huddling around a single phone
+    •Translator conversation history is tagged with your location and reviewable in any participating language
+Version 1.4.2 (Oct 29, 2015)
+    • Bug fixes
+Version 1.4.0 (Oct 12, 2015)
+    Microsoft Translator is now even more powerful with watchOS 2. You can add translator to your watch face to see time appropriate greetings your chosen translation language, and play back translations directly from your watch.
+Version 1.3.0 (Sep 4, 2015)
+    * Added localization: Arabic, Simplified Chinese, Traditional Chinese, Dutch, French, German, Italian, Japanese, Portuguese, Russian and Spanish.
+    * Bug fixes.
+Version 1.2.1 (Aug 24, 2015)
+    * Fixed presentation of right to left languages (Arabic, Hebrew, Urdu and Persian)
+    * Disabled auto-correct when performing text translations
+    * Bug fixes
+Version 1.1 (Aug 12, 2015)
+    Bug fixes
+Version 1.0 (Aug 6, 2015)
+
+Users may also like
+Select objects to compare
+Bolt Browser and Documents
+CPU-x Dasher z Battery life
+iTranslate Translator
+Speak & Translate - Translator
+Scan & Translate+ Text Grabber
+Translator - Translate Voice
+Kaaf | Nastaliq fonts Keyboard
+Translate Me - Live Translator
+Photo Translator ®
+Translate Voice App Translator
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Translation
+Translation
+Apps that help users translate words or texts from one language into another.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+32 times
+on App Store category pages
+Versions
+
+    24.1.1
+    Current release
+    Jan 24, 2024
+    23.3.2
+    Mar 15, 2023
+    23.3.1
+    Mar 8, 2023
+    23.2.1
+    Feb 27, 2023
+    22.10.2.2
+    Oct 27, 2022
+    22.5.1.1
+    Jun 27, 2022
+    22.2.1.6
+    Mar 21, 2022
+    21.9.1.0
+    Sep 28, 2021
+    21.8.3.0
+    Sep 13, 2021
+    21.8.2.1
+    Aug 31, 2021
+    21.8.1.0
+    Aug 16, 2021
+    21.7.1.13
+    Aug 11, 2021
+    21.6.2.1
+    Jul 23, 2021
+    21.3.1.0
+    Mar 29, 2021
+    21.1.3.0
+    Feb 12, 2021
+    20.11.4.0
+    Jan 22, 2021
+    20.11.3.4
+    Dec 22, 2020
+    20.11.2.5
+    Dec 2, 2020
+    20.9.2.8
+    Oct 8, 2020
+    20.9.1.6
+    Sep 22, 2020
+    20.8.2.6
+    Sep 16, 2020
+    20.8.1.4
+    Aug 28, 2020
+    20.7.2.8
+    Aug 11, 2020
+    20.6.3.24
+    Jul 29, 2020
+    3.2.19
+    Apr 4, 2020
+    3.2.18
+    Mar 9, 2020
+    3.2.17
+    Nov 22, 2019
+    3.2.16
+    Nov 1, 2019
+    3.2.15
+    Oct 22, 2019
+    3.2.14
+    Sep 19, 2019
+    3.2.13
+    Jun 4, 2019
+    3.2.12
+    Mar 12, 2019
+    3.2.11
+    Feb 15, 2019
+    3.2.10
+    Feb 11, 2019
+    3.2.9
+    Jan 7, 2019
+    3.2.8
+    Dec 3, 2018
+    3.2.7
+    Oct 24, 2018
+    3.2.6
+    Oct 1, 2018
+    3.2.5
+    Aug 15, 2018
+    3.2.4
+    Jul 17, 2018
+    3.2.3
+    Jun 20, 2018
+    3.2.2
+    May 9, 2018
+    3.2.1
+    May 2, 2018
+    3.2.0
+    Apr 19, 2018
+    3.1.0
+    Jan 9, 2018
+    3.0.8
+    Dec 14, 2017
+    3.0.7
+    Aug 27, 2017
+    3.0.6
+    Aug 21, 2017
+    3.0.5
+    Jul 17, 2017
+    3.0.4
+    May 15, 2017
+    3.0.3
+    Mar 24, 2017
+    3.0.2
+    Feb 17, 2017
+    3.0.1
+    Jan 9, 2017
+    3.0
+    Dec 13, 2016
+    2.36
+    Oct 6, 2016
+    2.32
+    Aug 4, 2016
+    2.25
+    Jun 21, 2016
+    2.23
+    Jun 9, 2016
+    2.18.0
+    May 4, 2016
+    2.16
+    Apr 26, 2016
+    2.15
+    Apr 13, 2016
+    2.13
+    Apr 7, 2016
+    1.15
+    Mar 25, 2016
+    1.13
+    Mar 16, 2016
+    1.12
+    Mar 8, 2016
+    1.11.0
+    Mar 1, 2016
+    1.9.0
+    Feb 18, 2016
+    1.7.0
+    Feb 3, 2016
+    1.6.1
+    Jan 27, 2016
+    1.5.0
+    Dec 17, 2015
+    1.4.2
+    Oct 29, 2015
+    1.4.0
+    Oct 12, 2015
+    1.3.0
+    Sep 4, 2015
+    1.2.1
+    Aug 24, 2015
+    1.1
+    Aug 12, 2015
+    1.0
+    Aug 6, 2015
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Aug 6, 2015
+
+Worldwide Release Date
+    Jun 8, 2015
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    24.1.1
+
+Size
+    31.33 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Arabic, Catalan, Danish, Dutch, Finnish, French, German, Hebrew, Hindi, Indonesian, Italian, Japanese, Korean, Norwegian Bokmål, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Thai, Traditional Chinese, Turkish
+
+Seller
+    Microsoft Corporation
+
+Company HQ
+    United States
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.microsoft.translator
+
+Has Game Center
+    No
+
+Supports Apple watch
+    Yes (Aug 6, 2015)
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+App ID: 1018949559
+Unified App ID: 1000600000519002
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Microsoft Translator | data.ai

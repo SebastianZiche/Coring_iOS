@@ -1,0 +1,4 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+1523594542,0,Freebie TV,Entertainment,2020-07-24,2020-07-24,3.34,1,0,0,0,1.4,2022-04-18,updated icons
+1523594542,0,Freebie TV,Entertainment,2020-07-24,2020-07-24,3.34,1,0,0,0,1.3,2022-02-14,added error message to the player
+1523594542,0,Freebie TV,Entertainment,2020-07-24,2020-07-24,3.34,1,0,0,0,1.2,2022-02-06,updated cache library

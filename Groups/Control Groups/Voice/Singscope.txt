@@ -1,0 +1,611 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Singscope
+Springwell Music LLCMusic (Applications)Free
+Alerts
+
+    Springwell Music LLC
+
+    Singscope
+    Singscope
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Singscope
+Show Your Pitch as You Sing
+Music (Applications)
+Free
+App Promotional Text
+Our "Sheet Music Support Pack" can further help you with singing practices and warm-up. See details inside the app.
+App Description
+Singscope is a tool for checking the pitch of your singing. It analyzes the singing voice and shows the pitch in the music scale (C, D, E, F, G, A, B) as function of time. You can visualize your pitch and singing features, such as vibrato, in the scope.
+
+Simply tap on the microphone button and sing to your iPhone, iPad, or iPod touch, and watch the pitch curve showing in the scope as you sing.
+
+Features:
+- Computes and draws pitch graphs in real-time
+- Supports pan and zoom for the pitch graph and waveform display
+- Supports playback of singing voices on the pitch graph
+- Keeps recent singing voices for reviewing later
+- Optimized for 64-bit CPU, for faster pitch analysis and smoother graph display
+
+Please note that there are limitations in this app. It can not handle more than one singing voice or polyphony. It may not recognize voices for certain singing styles. For more information, please visit us at www.singscope.com.
+
+Inside the app, we offer an In-App Purchases item "Sheet Music Support Pack". It is a feature pack that adds sheet music functionality to Singscope:
+- Include a set of sheet music for vocal warm-up exercises
+- Support importing of a subset of MusicXML lead sheet files
+- Play back musical notes in sheet music while recording your singing voice
+- Can set tempo (bpm) and do music transposition on the lead sheets.
+- Highlight the positions of the musical notes in your pitch graph
+
+For more information about "Sheet Music Support Pack", please download this free app and see the introduction in the app.
+Ratings
+Displayed Avg Ratings
+4.21
+Total Displayed Ratings
+316
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.7.6 (Jan 16, 2024)
+    Latest Updates:
+    - Fix a compatibility issue for MusicXML sheet music exported from MuseScore 4.
+    - Add a setting to customize the key note of movable-do and similar solfèges. This setting applies to the cases when no sheet music is imported to the app, and thus, no key signature is available for reference.
+    - Update modules for ads services. The minimum system requirement is increased to iOS 12.
+
+    Recent Updates:
+    - Add keyboard shortcuts for the Play (spacebar), Record (R), and Rewind (Z) functions on Apple Silicon Macs and iPad / iPhone connected to a physical keyboard.
+    - Add Import function for importing Singscope recording and MusicXML files.
+    - Update the underlying audio module to make it better compatible with the latest iOS and iPadOS versions.
+Version 2.7.5 (Sep 28, 2023)
+    Latest Updates:
+    - Add keyboard shortcuts for the Play (spacebar), Record (R), and Rewind (Z) functions on Apple Silicon Macs and iPad / iPhone connected to a physical keyboard.
+    - Add Import function for importing Singscope recording and MusicXML files.
+    - Update the underlying audio module to make it better compatible with the latest iOS and iPadOS versions.
+
+    Recent Updates:
+    - Fix user interface size problem when the app is running on Apple Silicon Macs.
+Version 2.7.4 (Dec 31, 2022)
+    Latest Updates:
+    - Fix user interface size problem when the app is running on Apple Silicon Macs.
+
+    Recent Updates:
+    - Fix display configuration issues for waveforms and sheet music when the app is running under iPadOS 16 Stage Manager and resized to certain window sizes.
+    - Update underlying modules for ads services to the latest version. The minimum system requirement is increased to iOS 11.
+Version 2.7.3 (Dec 9, 2022)
+    Latest Updates:
+    - Fixed display configuration issues for waveforms and sheet music when the app is running under iPadOS 16 Stage Manager and resized to certain window sizes.
+    - Update underlying modules for ads services to the latest version. The minimum system requirement is increased to iOS 11.
+
+    Recent Updates:
+    - Correct MusicXML playback problems for sheet music in 6/4 time signature.
+    - Correct MusicXML playback problems for sheet music in 3/2 time signature, and for sheet music that contains repeat signs with three or more endings.
+Version 2.7.2 (Nov 7, 2022)
+    Latest Updates:
+    - Correct MusicXML playback problems for sheet music in 6/4 time signature.
+
+    Recent Updates:
+    - Correct MusicXML playback problems for sheet music in 3/2 time signature, and for sheet music that contains repeat signs with three or more endings.
+    - For the user interface, divide the Control Panel into Graph Settings panel and Mixer panel by function.
+    - Add reverb effect to the vocal playback device. The reverb wet/dry mix and reverb type can be adjusted in the Mixer panel.
+Version 2.7.1 (Sep 6, 2022)
+    Latest Updates:
+    - Correct MusicXML playback problems for sheet music in 3/2 time signature, and for sheet music that contains repeat signs with three or more endings.
+
+    Recent Updates:
+    - For the user interface, divide the Control Panel into Graph Settings panel and Mixer panel by function.
+    - Add reverb effect to the vocal playback device. The reverb wet/dry mix and reverb type can be adjusted in the Mixer panel.
+Version 2.7 (Aug 7, 2022)
+    Latest Updates:
+    - For the user interface, divide the Control Panel into Graph Settings panel and Mixer panel by function.
+    - Add reverb effect to the vocal playback device. The reverb wet/dry mix and reverb type can be adjusted in the Mixer panel.
+
+    Recent Updates:
+    - For the pitch graph, add zoom-in and zoom-out button in the graph settings control panel.
+    - Rename the app's feature pack to “Sheet Music Support Pack”, and rename its bundled sheet music for singing warm-ups and exercises to “Scales and Arpeggios”.
+Version 2.6.8 (Apr 15, 2022)
+    Latest Updates:
+    - For the pitch graph, add zoom-in and zoom-out button in the graph settings control panel.
+    - Rename the app's feature pack to “Sheet Music Support Pack”, and rename its bundled sheet music for singing warm-ups and exercises to “Scales and Arpeggios”.
+
+    Recent Updates:
+    - Fixed a problem when using a MusicXML sheet music that does not include lyrics.
+    - Update the swipe menu feature for items in the recording and MusicXML item lists, supported by iOS 11 and later.
+    - Fix a compatibility issue related to the App Tracking Transparency under iOS 15.
+    - Correct playback timing issues for MusicXML sheet music that contains multiple tempo marks.
+Version 2.6.7 (Jan 10, 2022)
+    Latest Updates:
+    - Fixed a problem when using a MusicXML sheet music that does not include lyrics. Previously, only the notes with lyrics text will have their corresponding pitch position highlighted with blue lines on the graph. After this fix, for a sheet music that does not include any lyrics, all the notes will be highlighted with blue lines on the graph.
+
+    Recent Updates:
+    - Update the swipe menu feature for items in the recording and MusicXML item lists, supported by iOS 11 and later.
+    - Fix a compatibility issue related to the App Tracking Transparency under iOS 15.
+    - Correct playback timing issues for MusicXML sheet music that contains multiple tempo marks.
+Version 2.6.6 (Nov 19, 2021)
+    Latest Updates:
+    - Update the swipe menu feature for items in the recording and MusicXML item lists, supported by iOS 11 and later.
+
+    Recent Updates:
+    - Fix a compatibility issue related to the App Tracking Transparency under iOS 15.
+    - Correct playback timing issues for MusicXML sheet music that contains multiple tempo marks.
+    - When the size of all unsaved recordings exceeds the “Storage Limit” value (set in the “Settings”), the earlier unsaved recordings will not be deleted immediately. Instead, they will be be moved to the “Deleted” tab and will still be recoverable within 30 days.
+Version 2.6.5 (Nov 10, 2021)
+    Latest Updates:
+    - Fix a compatibility issue related to the App Tracking Transparency under iOS 15.
+    - Correct playback timing issues for MusicXML sheet music that contains multiple tempo marks.
+    - When the size of all unsaved recordings exceeds the “Storage Limit” value (set in the “Settings”), the earlier unsaved recordings will not be deleted immediately. Instead, they will be be moved to the “Deleted” tab and will still be recoverable within 30 days.
+
+    Recent Updates:
+    - Keep the last MusicXML's settings for tempo, key, and song section arrangement.
+    - Correct playback rendering issues for certain chords in MusicXML's.
+Version 2.6.4 (Sep 4, 2021)
+    Latest Updates:
+    - Keep the last MusicXML's settings for tempo, key, and song section arrangement.
+    - Correct playback rendering issues for certain chords in MusicXML's.
+
+    Recent Updates:
+    - Correct lyrics font size and some other issues when displaying certain MusicXML files.
+    - Add support for App Tracking Transparency. Now we will ask your permission before collecting data used to track your devices.
+Version 2.6.3 (Jul 17, 2021)
+    Latest Updates:
+    - Correct lyrics font size and some other issues when displaying certain MusicXML files.
+
+    Recent Updates:
+    - Add support for App Tracking Transparency. Now we will ask your permission before collecting data used to track your devices.
+    - Improve the pitch graph scrolling experience while recording and playback. This improvement is effective for the devices with iOS 11 and later.
+    - Correct a few issues in the Feature Pack's "Import MusicXML Files" function and improve the compatibility with more variety of MusicXML's.
+Version 2.6.2 (Apr 27, 2021)
+    Latest Updates:
+    - Add support for App Tracking Transparency. Now we will ask your permission before collecting data used to track your devices.
+
+    Recent Updates:
+    - Improve the pitch graph scrolling experience while recording and playback. This improvement is effective for the devices with iOS 11 and later.
+    - Correct a few issues in the Feature Pack's "Import MusicXML Files" function and improve the compatibility with more variety of MusicXML's.
+Version 2.6.1 (Apr 22, 2021)
+    Latest Updates:
+    - Improve the pitch graph scrolling experience while recording and playback. This improvement is effective for the devices with iOS 11 and later.
+    - Correct a few issues in the Feature Pack's "Import MusicXML Files" function and improve the compatibility with more variety of MusicXML's.
+
+    Recent Updates:
+    - Add a new set of sheet music, including Blues Scales, Pentatonic Scales, and more, to the Vocal Warm Up Exercises feature pack.
+    - Add quick access for switching the music-note-name labels shown on the left- and right-hand side of pitch graph.
+    - Add quick access to the Graphic Window Auto Panning option, for locking the pitch graph window and prevent it from panning automatically in vertical direction during singing voice recording or playback.
+    - Add a "Clear All" button to "Select Passages" and "Arrange Song Sections" functions in the Vocal Warm Up Exercises feature pack, for quickly clearing the customized play order and reverting to the original order specified by the sheet music.
+Version 2.6 (Apr 2, 2021)
+    Latest Updates:
+    - Add a new set of sheet music, including Blues Scales, Pentatonic Scales, and more, to the Vocal Warm Up Exercises feature pack.
+    - Add quick access for switching the music-note-name labels shown on the left- and right-hand side of pitch graph.
+    - Add quick access to the Graphic Window Auto Panning option, for locking the pitch graph window and prevent it from panning automatically in vertical direction during singing voice recording or playback.
+    - Add a "Clear All" button to "Select Passages" and "Arrange Song Sections" functions in the Vocal Warm Up Exercises feature pack, for quickly clearing the customized play order and reverting to the original order specified by the sheet music.
+
+    Recent Updates:
+    - Update audio playback method for the iOS 14 AirPods automatic switching. With this update, when you start the playback function in the app, your connected AirPods will automatically switch to this device.
+    - The playback and recording will no longer be interrupted when you open the Control Center.
+    - Fix one more issue that could cause playing of sheet music to be out of sync.
+Version 2.5.3 (Dec 14, 2020)
+    Latest Updates:
+    - Update audio playback method for the iOS 14 AirPods automatic switching. With this update, when you start the playback function in the app, your connected AirPods will automatically switch to this device.
+    - The playback and recording will no longer be interrupted when you open the Control Center.
+    - Fix one more issue that could cause playing of sheet music to be out of sync.
+
+    Recent Updates:
+    - Add one more sheet music to the "Vocal Warm Up Exercises" feature pack.
+    - Fix an issue that could cause playing of sheet music to be out of sync or stop prematurely.
+    - Update some of the underlying implementations and libraries for performance improvement.
+Version 2.5.2 (Sep 15, 2020)
+    Latest Updates:
+    - Add one more sheet music to the "Vocal Warm Up Exercises" feature pack.
+    - Fix an issue that could cause playing of sheet music to be out of sync or stop prematurely.
+    - Update some of the underlying implementations and libraries for performance improvement.
+
+    Recent Updates:
+    - Add a button for clearing all recent recordings in the "Recents" tab.
+    - Include additional sheet music in the "Vocal Warm Up Exercises" feature pack, for exercises in minor keys and more.
+Version 2.5.1 (May 27, 2020)
+    Latest Updates:
+    - Add a button for clearing all recent recordings in the "Recents" tab. After clearing, the recordings will be temporarily stored in the "Deleted" tab and can be recovered before they are permanently removed.
+    - Include additional sheet music in the "Vocal Warm Up Exercises" feature pack, for exercises in minor keys and more.
+
+    Recent Updates:
+    - Add support for Bluetooth headsets, available for iOS 10 and later.
+    - Display the information of microphone and playback devices used by the app.
+Version 2.5 (Feb 20, 2020)
+    Latest Updates:
+    - Add support for Bluetooth headsets, available for iOS 10 and later.
+    - Display the information of microphone and playback devices used by the app.
+
+    Recent Updates:
+    - Fix a problem when using a MusicXML sheet music and the total music time is longer than the "Recording Length Limit" setting.
+Version 2.4.6 (Nov 25, 2019)
+    Latest Updates:
+    - Fix a problem when using a MusicXML sheet music and the total music time is longer than the "Recording Length Limit" setting.
+
+    Recent Updates:
+    - Support iOS 13 Dark Mode.
+    - Fix a problem that could occur after the sound "Output" is switched to iPhone's "Receiver".
+Version 2.4.5 (Oct 27, 2019)
+    Latest Updates:
+    - Support iOS 13 Dark Mode.
+    - Fix a problem that could occur after you switch the sound "Output" to iPhone's "Receiver".
+
+    Recent Updates:
+    - For music note labels displayed on the right hand side of pitch graph, add a new option "Do-Based Minor Movable-Do Solfège".
+    - Improve compatibility for more types of MusicXML files.
+Version 2.4.4 (Sep 16, 2019)
+    Latest Updates:
+    - Fix display position errors for music note labels in "Do-Based Minor Movable-Do Solfège" mode.
+
+    Recent Updates:
+    - For music note labels displayed on the right hand side of pitch graph, add a new option "Do-Based Minor Movable-Do Solfège".
+    - Improve compatibility for more types of MusicXML files.
+    - In the Feature Pack's "Import MusicXML Lead Sheets" function, we add a new function "Arrange Song Sections". The function is available for your MusicXML Lead Sheet that includes Rehearsal Marks for song sections.
+    - Add a new new function "Select Passages" for "Vocal Warm Up Exercises" sheet music that come with the Feature Pack. You can now choose passages from sheet music for singing practices and vocal exercises.
+Version 2.4.3 (Sep 10, 2019)
+    Latest Updates:
+    - For music note labels displayed on the right hand side of pitch graph, add a new option "Do-Based Minor Movable-Do Solfège".
+
+    Recent Updates:
+    - Improve compatibility for more types of MusicXML files.
+    - In the Feature Pack's "Import MusicXML Lead Sheets" function, we add a new function "Arrange Song Sections". The function is available for your MusicXML Lead Sheet that includes Rehearsal Marks for song sections.
+    - Add a new new function "Select Passages" for "Vocal Warm Up Exercises" sheet music that come with the Feature Pack. You can now choose passages from sheet music for singing practices and vocal exercises.
+Version 2.4.2 (Mar 30, 2019)
+    Latest Updates:
+    - In the Feature Pack's "Import MusicXML Lead Sheets function", improve compatibility for more types of MusicXML files.
+
+    Recent Updates:
+    - In the Feature Pack's "Import MusicXML Lead Sheets" function, we add a new function "Arrange Song Sections". The function is available for your MusicXML Lead Sheet that includes Rehearsal Marks for song sections.
+    - Add a new new function "Select Passages" for "Vocal Warm Up Exercises" sheet music that come with the Feature Pack. You can now choose passages from sheet music for singing practices and vocal exercises.
+Version 2.4.1 (Feb 26, 2019)
+    Latest Updates:
+    - Improve the way of automatic panning for pitch graph window during singing voice recording or playback. The new method prevents pitch graph window from jumping around caused by noise or errors in pitch detection.
+    - In "Settings", add an option to lock the pitch graph window and prevent it from panning automatically in vertical direction during singing voice recording or playback.
+
+    Recent Updates:
+    - In the Feature Pack's "Import MusicXML Lead Sheets" function, we add a new function "Arrange Song Sections". The function is available for your MusicXML Lead Sheet that includes Rehearsal Marks for song sections.
+    - Add a new new function "Select Passages" for "Vocal Warm Up Exercises" sheet music that come with the Feature Pack. You can now choose passages from sheet music for singing practices and vocal exercises.
+Version 2.4 (Jan 15, 2019)
+    Latest Updates:
+    - In the Feature Pack's "Import MusicXML Lead Sheets" function, we add a new function "Arrange Song Sections". The function is available for your MusicXML Lead Sheet that includes Rehearsal Marks for song sections.
+    - Add a new new function "Select Passages" for "Vocal Warm Up Exercises" sheet music that come with the Feature Pack. You can now choose passages from sheet music for singing practices and vocal exercises.
+
+    Recent Updates:
+    - In the Feature Pack's "Import MusicXML Lead Sheets" function, we improve the compatibility for certain MusicXML files that contain "Repeat Sign".
+    - Improve the importing function for the recording files (*.singscope) shared from the app.
+Version 2.3.1 (Jul 21, 2018)
+    Latest Updates:
+    - In the Feature Pack's "Import MusicXML Lead Sheets" function, we improve the compatibility for certain MusicXML files that contain "Repeat Sign".
+    - Improve the importing function for the recording files (*.singscope) shared from the app.
+
+    Recent Updates:
+    - Add support for sharing your singing recordings.
+    - In your singing recordings, add a "subtitle" in addition to the existing "name" or "title". The "subtitle" is useful for adding information about the song and singing before you share the singing recording.
+Version 2.3 (Jul 10, 2018)
+    Latest Updates:
+    - Add support for sharing your singing recordings.
+    - In your singing recordings, add a "subtitle" in addition to the existing "name" or "title". The "subtitle" is useful for adding information about the song and singing before you share the singing recording.
+
+    Recent Updates:
+    - Fix a bug in the previous version (2.2.4) that may cause the popup menu becomes inaccessible under certain conditions.
+Version 2.2.5 (Jun 1, 2018)
+    Latest Updates:
+    - Fix a bug in the previous version (2.2.4) that may cause the popup menu becomes inaccessible under certain conditions.
+
+    Recent Updates:
+    - Improve the way the pitch graph starts scrolling during playback.
+    - Add “Privacy Statement”.
+Version 2.2.4 (May 10, 2018)
+    Latest Updates:
+    - Improve the way the pitch graph starts scrolling during playback.
+    - Add “Privacy Statement”.
+
+    Recent Updates:
+    - In the Feature Pack's "Import Your Lead Sheet", fix a bug in the music transposition function.
+    - Extend the music note names labels displayed on the right hand side of pitch graph to show additional types of muisc note names, including Fixed-Do Solfège, Movable-Do Solfège, Numbered Notation, and Indian Notation.
+Version 2.2.3 (Apr 26, 2018)
+    Latest Updates:
+    - In the Feature Pack's "Import Your Lead Sheet", fix a bug in the music transposition function.
+    - Extend the music note names labels displayed on the right hand side of pitch graph to show additional types of muisc note names, including Fixed-Do Solfège, Movable-Do Solfège, Numbered Notation, and Indian Notation.
+
+    Recent Updates:
+    - Fix several issues in the user interface for iOS 11.
+    - In the Feature Pack's “Import Your Lead Sheet” function, add support for importing “Compressed MusicXML (*.mxl)” and “Uncompressed MusicXML (*.musicxml)” files.
+Version 2.2.2 (Apr 9, 2018)
+    Latest Updates:
+    - Fix several issues in the user interface for iOS 11.
+    - In the Feature Pack's “Import Your Lead Sheet” function, add support for importing “Compressed MusicXML (*.mxl)” and “Uncompressed MusicXML (*.musicxml)” files.
+
+    Recent Updates:
+    - Add music note names labels on the right hand side of pitch graph. These extra labels are helpful for seeing your actual singing notes in real-time.
+Version 2.2.1 (Feb 27, 2018)
+    Latest Updates:
+    - Fix several user interface issues for iPhone X.
+    - Add music note names labels on the right hand side of pitch graph. These extra labels are helpful for seeing your actual singing notes in real-time.
+
+    Recent Updates:
+    - Support iPhone X full screen display. Fix several issues in the user interface for iOS 11.
+    - Add an “Input Gain” slider control for adjusting iPhone or iPad's microphone sensibility.
+Version 2.2 (Oct 26, 2017)
+    Latest Updates:
+    - Fix several issues in the user interface for iOS 11 and 2017 new iPhone models.
+    - Add an “Input Gain” slider control for adjusting iPhone or iPad's microphone sensibility.
+
+    Recent Updates:
+    - Bug fixes and compatibility improvement for "Import MusicXML Lead Sheets" function in the "Vocal Warm Up Exercise" feature pack
+    - Fix an issue that causes the voice recordings could not be correctly saved under the new file system in iOS 10.3
+    - Optimize the screen layout for 10.5-inch iPad Pro
+
+    For more information about "Import MusicXML Lead Sheets" function, please refer to "How to Import Your Lead Sheets" inside the app.
+Version 2.1.2 (Aug 20, 2017)
+    Bug fixes in the "Vocal Warm Up and Exercise Feature Pack".
+Version 2.1.1 (Jul 10, 2017)
+    Latest Updates:
+    - Bug fixes in the "Vocal Warm Up and Exercise Feature Pack"
+
+    Recent Updates:
+    - Fix an issue that causes the voice recordings could not be correctly saved under the new file system in iOS 10.3
+    - Optimize the screen layout for 10.5-inch iPad Pro
+    - Add In-App Purchase item "Vocal Warm Up and Exercise Feature Pack"
+Version 2.1 (Jun 19, 2017)
+    Latest Updates:
+    - Fix an issue that causes the voice recordings could not be correctly saved under the new file system in iOS 10.3
+    - Optimize the screen layout for 10.5-inch iPad Pro
+
+    Recent Updates:
+    - Update user interface for managing the recorded voice files
+    - Update the app’s help screen and add "User Guide" pages
+    - Update In-App Store and add a new In-App Purchase item "Vocal Warm Up and Exercise Feature Pack"
+Version 2.0 (Feb 16, 2017)
+    - Bugs fixes and minor performance improvement
+    - Update user interface for managing the recorded voice files
+    - Update the app’s help screen and add "User Guide" pages
+    - Update In-App Store and add a new In-App Purchase item "Vocal Warm Up and Exercise Feature Pack"
+Version 1.0.1 (Mar 15, 2015)
+    Bug fixes
+Version 1.0 (Feb 16, 2015)
+
+Users may also like
+Select objects to compare
+Nail the Pitch - Vocal Monitor
+Pocket Pitch - The Singer App
+Pitch Pro Tuner & Metronome
+VocalTuner
+Ella: Sight Singing & Reading
+Find the Note
+Singing Lessons AI Vocal Coach
+Chord ai - Play any song!
+Auto-Key | Music key detection
+Vocal Range Finder - Sing Whiz
+IQ Classifications
+Genre: Entertainment
+Subgenre: Musical Instruments
+Musical Instruments
+Apps that allow users to play virtual musical instruments on their mobile devices.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+1 time
+on App Store category pages
+Versions
+
+    2.7.6
+    Current release
+    Jan 16, 2024
+    2.7.5
+    Sep 28, 2023
+    2.7.4
+    Dec 31, 2022
+    2.7.3
+    Dec 9, 2022
+    2.7.2
+    Nov 7, 2022
+    2.7.1
+    Sep 6, 2022
+    2.7
+    Aug 7, 2022
+    2.6.8
+    Apr 15, 2022
+    2.6.7
+    Jan 10, 2022
+    2.6.6
+    Nov 19, 2021
+    2.6.5
+    Nov 10, 2021
+    2.6.4
+    Sep 4, 2021
+    2.6.3
+    Jul 17, 2021
+    2.6.2
+    Apr 27, 2021
+    2.6.1
+    Apr 22, 2021
+    2.6
+    Apr 2, 2021
+    2.5.3
+    Dec 14, 2020
+    2.5.2
+    Sep 15, 2020
+    2.5.1
+    May 27, 2020
+    2.5
+    Feb 20, 2020
+    2.4.6
+    Nov 25, 2019
+    2.4.5
+    Oct 27, 2019
+    2.4.4
+    Sep 16, 2019
+    2.4.3
+    Sep 10, 2019
+    2.4.2
+    Mar 30, 2019
+    2.4.1
+    Feb 26, 2019
+    2.4
+    Jan 15, 2019
+    2.3.1
+    Jul 21, 2018
+    2.3
+    Jul 10, 2018
+    2.2.5
+    Jun 1, 2018
+    2.2.4
+    May 10, 2018
+    2.2.3
+    Apr 26, 2018
+    2.2.2
+    Apr 9, 2018
+    2.2.1
+    Feb 27, 2018
+    2.2
+    Oct 26, 2017
+    2.1.2
+    Aug 20, 2017
+    2.1.1
+    Jul 10, 2017
+    2.1
+    Jun 19, 2017
+    2.0
+    Feb 16, 2017
+    1.0.1
+    Mar 15, 2015
+    1.0
+    Feb 16, 2015
+
+See More
+Top In-App Purchases
+
+    Sheet Music Support Pack (d)
+    $3.99
+    Sheet Music Support Pack
+    $5.99
+    Remove Ads
+    $1.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Music
+
+Initial Release Date
+    Feb 17, 2015
+
+Worldwide Release Date
+    Feb 17, 2015
+
+Last Updated Time
+    Mar 2, 2024
+
+Version
+    2.7.6
+
+Size
+    17.92 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Simplified Chinese, Traditional Chinese
+
+Seller
+    Springwell Music LLC
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.springwellmusic.Singscope
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 944309175
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Singscope | data.ai

@@ -1,0 +1,696 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+MyToday Lite
+Yun Sun KwonLifestyle (Applications)Free
+Alerts
+
+    Yun Sun Kwon
+
+    MyToday Lite
+    MyToday Lite
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+MyToday Lite
+Daily Journal / Diary
+Lifestyle (Applications)
+Free
+App Description
+MyToday is a diary you can easily write everything on.
+The app is for those who love writing diaries.
+Start with MyToday.
+
+(Lite version can only write 20 posts. Please use the full version to write more.)
+
+—
+
+[Please read]
+My Today does not store user data on the server.
+The data is saved on the user's mobile phone. If My Today data is accidentally deleted for getting device capacity,
+the text will not be visible and cannot be recovered.
+In order to keep your valuable articles safely, it is recommended to periodically backup to 'Dropbox' or 'Google Drive'. (Required before device change / reset)
+You can Backup from the setting of the My Today App.
+
+—
+
+[How to use MYTODAY]
+• Lite version can only write 20 posts. Please use the full version to write more.
+• You can create today's diary by selecting the top area of ​​the main screen.
+• Select the camera icon to take a picture and attach it immediately.
+• When you select the picture icon, you can attach up to 10 pictures from the camera roll.
+• The location icon can add your current location or specific location information.
+• If you touch the expansion icon, you can write and edit pictures on a wide screen.
+• You can edit or delete the created list in the main screen by swiping left.
+• You can use the full editing function by swiping the created list on the main screen to the right.
+• On a 3D Touch-enabled device, you can edit or delete the list directly by tapping the list.
+• You can check the diary by date by selecting the calendar icon in the upper right corner.
+• You can find the diary by using the search icon in the upper left corner.
+• Swipe up the calendar on the calendar screen to view the list on a wider screen.
+• You can move the month with the left and right swipe gestures on the calendar screen, and you can see the previous year or the following year through the year view icon at the top.
+• Dropbox backup and recovery is possible in the settings.
+• You can back up data by e-mail in Settings.
+• Notifications are available daily in Settings.
+• You can check the written text only by yourself. You can make your passwords safer by setting passwords.
+• For more information on backing up and restoring your data, please check the developer website.
+
+
+Thank you for using My Today. :)
+Ratings
+Displayed Avg Ratings
+4.68
+Total Displayed Ratings
+1.9k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 2.1.6 (Jan 10, 2024)
+    • A minor error has been fixed.
+Version 2.1.5 (Dec 29, 2023)
+    • A minor error has been fixed.
+Version 2.1.3 (Feb 10, 2023)
+    • A minor error has been fixed.
+Version 2.1.0 (Nov 22, 2022)
+    • A minor error has been fixed.
+Version 2.0.9 (Mar 26, 2022)
+    • A minor error has been fixed.
+Version 2.0.8 (Jan 14, 2022)
+    • A minor error has been fixed.
+Version 2.0.7 (Jan 12, 2022)
+    • A minor error has been fixed.
+Version 2.0.6 (Oct 4, 2021)
+    • A minor error has been fixed.
+Version 2.0.5 (Sep 9, 2021)
+    • A minor error has been fixed.
+Version 2.0.4 (Sep 6, 2021)
+    • A minor error has been fixed.
+Version 2.0.3 (Aug 22, 2021)
+    • A minor error has been fixed.
+Version 2.0.2 (Aug 5, 2021)
+    • A minor error has been fixed.
+Version 2.0.1 (Jul 11, 2021)
+    • A minor error has been fixed.
+Version 2.0.0 (Jun 26, 2021)
+    • A minor error has been fixed.
+Version 1.9.9 (Jun 22, 2021)
+    • A minor error has been fixed.
+Version 1.9.8 (Jun 21, 2021)
+    • A minor error has been fixed.
+Version 1.9.7 (May 3, 2021)
+    • A minor error has been fixed.
+Version 1.9.6 (Apr 21, 2021)
+    • A minor error has been fixed.
+Version 1.9.5 (Mar 7, 2021)
+    • A minor error has been fixed.
+Version 1.9.4 (Jan 11, 2021)
+    • A minor error has been fixed.
+    My Today does not store users' data on the server.
+    The data is saved on the user's mobile phone. If My Today data is accidentally deleted for getting device capacity,
+    the text will not be visible and cannot be recovered.
+    In order to keep your valuable articles safely, it is recommended to periodically backup to 'Dropbox' or 'Google Drive'. (Required before device change / reset!)
+    You can Backup from the setting of the My Today App.
+Version 1.9.3 (Nov 7, 2020)
+    • A minor error has been fixed.
+Version 1.9.1 (Oct 13, 2020)
+    • A minor error has been fixed.
+Version 1.8.9 (Oct 10, 2020)
+    • A minor error has been fixed.
+Version 1.8.8 (Aug 21, 2020)
+    • You can now backup to Google Drive.
+    • A minor error has been fixed.
+Version 1.8.7 (Jun 24, 2020)
+    • Now We support for Dark Mode!
+    • A minor error has been fixed.
+Version 1.8.6 (May 11, 2020)
+    • Now We support for Dark Mode!
+    • A minor error has been fixed.
+Version 1.8.5 (Apr 15, 2020)
+    • Now We support for Dark Mode!
+    • A minor error has been fixed.
+Version 1.8.4 (Feb 27, 2020)
+    • A minor error has been fixed.
+    • Lab menu has been added.
+Version 1.8.3 (Jan 28, 2020)
+    • A minor error has been fixed.
+Version 1.8.2 (Jan 4, 2020)
+    • A minor error has been fixed.
+Version 1.8.1 (Dec 22, 2019)
+    • A minor error has been fixed.
+Version 1.8.0 (Dec 8, 2019)
+    • A minor error has been fixed.
+    • Lab menu has been added.
+Version 1.7.9 (Nov 24, 2019)
+    • The abnormal issue that occurred in the user who used a certain amount of capacity has been fixed.
+    • Please wait for a while as the migration will take place during the initial update.
+    • A minor error has been fixed.
+Version 1.7.8 (Nov 22, 2019)
+    • The abnormal issue that occurred in the user who used a certain amount of capacity has been fixed.
+    • Please wait for a while as the migration will take place during the initial update.
+    • A minor error has been fixed.
+Version 1.7.7 (Nov 18, 2019)
+    • The abnormal issue that occurred in the user who used a certain amount of capacity has been fixed.
+    • Please wait for a while as the migration will take place during the initial update.
+    • A minor error has been fixed.
+Version 1.7.6 (Oct 12, 2019)
+    • A minor error has been fixed.
+Version 1.7.5 (Oct 10, 2019)
+    • A minor error has been fixed.
+Version 1.7.4 (Oct 2, 2019)
+    • Landscape mode is now available on the iPad. Write more comfortably. :)
+    • Thank you for waiting for the iPad update.
+    • A minor error has been fixed.
+Version 1.7.3 (Sep 28, 2019)
+    • Landscape mode is now available on the iPad. Write more comfortably. :)
+    • Thank you for waiting for the iPad update.
+    • A minor error has been fixed.
+Version 1.7.2 (Sep 21, 2019)
+    • iOS13 Support
+    • A minor error has been fixed.
+Version 1.7.1 (Aug 28, 2019)
+    • Landscape mode is now available on the iPad. Write more comfortably. :)
+    • Thank you for waiting for the iPad update.
+    • A minor error has been fixed.
+Version 1.7.0 (Aug 21, 2019)
+    • Landscape mode is now available on the iPad. Write more comfortably. :)
+    • Thank you for waiting for the iPad update.
+    • A minor error has been fixed.
+Version 1.6.9 (Aug 16, 2019)
+    • Landscape mode is now available on the iPad. Write more comfortably. :)
+    • Thank you for waiting for the iPad update.
+    • A minor error has been fixed.
+Version 1.6.8 (Jul 22, 2019)
+    • A minor error has been fixed.
+    • Landscape mode is now available on the iPad. Write more comfortably. :)
+    • Thank you for waiting for the iPad update.
+Version 1.6.7 (Jun 15, 2019)
+    • A minor error has been fixed.
+Version 1.6.5 (Apr 6, 2019)
+    • A minor error has been fixed.
+Version 1.6.4 (Apr 5, 2019)
+    • A minor error has been fixed.
+Version 1.6.3 (Mar 22, 2019)
+    • A minor error has been fixed.
+Version 1.6.2 (Mar 5, 2019)
+    • A minor error has been fixed.
+Version 1.6.1 (Feb 13, 2019)
+    • A minor error has been fixed.
+Version 1.6.0 (Dec 6, 2018)
+    • A minor error has been fixed.
+Version 1.5.9 (Dec 3, 2018)
+    • A minor error has been fixed.
+Version 1.5.8 (Nov 29, 2018)
+    • A minor error has been fixed.
+Version 1.5.7 (Nov 10, 2018)
+    • A minor error has been fixed.
+Version 1.5.6 (Nov 7, 2018)
+    • A minor error has been fixed.
+    • Export errors fixed.
+Version 1.5.4 (Oct 26, 2018)
+    • A minor error has been fixed.
+Version 1.5.3 (Oct 21, 2018)
+    • A minor error has been fixed.
+Version 1.5.2 (Oct 11, 2018)
+    • You can now select the picture quality. Please check the settings.
+    • A minor error has been fixed.
+Version 1.5.1 (Oct 9, 2018)
+    • A minor error has been fixed.
+Version 1.5.0 (Oct 4, 2018)
+    • A minor error has been fixed.
+Version 1.4.4 (Sep 19, 2018)
+    • A minor error has been fixed.
+Version 1.4.3 (Sep 13, 2018)
+    • A minor error has been fixed.
+Version 1.4.2 (Sep 7, 2018)
+    • A minor error has been fixed.
+Version 1.4.1 (Sep 4, 2018)
+    • UI / UX changed.
+    • Press the diary to enter the detail screen.
+    • The picture quality is now saved as the original.
+    • A minor error has been fixed.
+Version 1.4.0 (Sep 3, 2018)
+    • UI / UX changed.
+    • Press the diary to enter the detail screen.
+    • The picture quality is now saved as the original.
+    • A minor error has been fixed.
+Version 1.3.7 (Aug 30, 2018)
+    • UI / UX changed.
+    • Press the diary to enter the detail screen.
+    • The picture quality is now saved as the original.
+    • A minor error has been fixed.
+Version 1.3.6 (Aug 13, 2018)
+    • A minor error has been fixed.
+Version 1.3.5 (Aug 12, 2018)
+    • A minor error has been fixed.
+Version 1.3.4 (Aug 9, 2018)
+    • A minor error has been fixed.
+Version 1.3.3 (Aug 2, 2018)
+    • Location Attachment has been upgraded.
+    • A minor error has been fixed.
+Version 1.3.2 (Jul 31, 2018)
+    • Location Attachment has been upgraded.
+    • A minor error has been fixed.
+Version 1.3.1 (Jun 15, 2018)
+    • A minor error has been fixed.
+Version 1.3.0 (Mar 27, 2018)
+    • Synchronization has been added. You can see it in your app settings.
+    • A minor error has been fixed.
+Version 1.2.9 (Feb 8, 2018)
+    • A minor error has been fixed.
+Version 1.2.8 (Jan 30, 2018)
+    • A minor error has been fixed.
+Version 1.2.7 (Jan 26, 2018)
+    • A minor error has been fixed.
+Version 1.2.6 (Nov 29, 2017)
+    • A minor error has been fixed.
+Version 1.2.5 (Nov 27, 2017)
+    • A minor error has been fixed.
+Version 1.2.4 (Nov 20, 2017)
+    • A minor error has been fixed.
+Version 1.2.3 (Nov 17, 2017)
+    • Support iOS 11
+    • A minor error has been fixed.
+Version 1.2.2 (Aug 24, 2017)
+    • You can move data directly from the Lite version to the full version.
+    • A minor error has been fixed.
+Version 1.2.1 (Aug 1, 2017)
+    • A minor error has been fixed.
+Version 1.2.0 (Jul 25, 2017)
+    • The database has been optimized.
+    • A minor error has been fixed.
+Version 1.1.9 (Jul 14, 2017)
+    • You can now change the font size.
+    • Alarm messages can now be changed in the settings
+    • Fixed a bug in iPhone4s and iPad.
+    • A minor error has been fixed.
+Version 1.1.8 (Jul 7, 2017)
+    • iPad now supported.
+    • A minor error has been fixed.
+Version 1.1.7 (Jul 5, 2017)
+    • The editing mode has been improved.
+    • Fixed a bug when using photos in sync with iCloud.
+    • Fixed an error that changed the order of attached pictures. It applies from new or edited article.
+    • A minor error has been fixed.
+Version 1.1.6 (Jun 26, 2017)
+    • A minor error has been fixed.
+Version 1.1.5 (Jun 19, 2017)
+    • A minor error has been fixed.
+Version 1.1.4 (Jun 16, 2017)
+    • A minor error has been fixed.
+Version 1.1.3 (May 17, 2017)
+    • A minor error has been fixed.
+    • Edit mode has been added.
+    • Alarm settings have been added.
+Version 1.1.2 (Apr 19, 2017)
+    • A minor error has been fixed.
+Version 1.1.1 (Apr 18, 2017)
+    • Expand view settings have been added.
+    • A minor error has been fixed.
+Version 1.1.0 (Feb 23, 2017)
+    • iCloud synchronization has been removed due to various issues.
+    • Please use dropbox or mail for data backup / restore. Please check the developer website (blog) for more information.
+Version 1.0.9 (Feb 16, 2017)
+    • Bug fixed
+Version 1.0.8 (Feb 14, 2017)
+    • Added the ability to backup / restore data by e-mail.
+    • Bug fixed
+Version 1.0.7 (Feb 13, 2017)
+    • Fixed an error in backup / restore function.
+    • The function to automatically input location information has been added.
+    • The ability to back up data by mail has been added.
+Version 1.0.6 (Feb 9, 2017)
+    • Fixed an error in backup / restore function.
+    • The function to automatically input location information has been added.
+    • The ability to back up data by mail has been added.
+Version 1.0.5 (Dec 21, 2016)
+    • Improved database and iCloud functionality.
+    • Bug fixes and stability improvements
+Version 1.0.4 (Nov 8, 2016)
+    • Bug fixes and stability improvements
+Version 1.0.3 (Nov 3, 2016)
+    • Added the ability to change the order of image thumbnails. In edit mode, press and drag the photo to move it.
+    • Added 3D Touch functionality. Check out the list!
+    • A minor bug has been fixed.
+Version 1.0.2 (Sep 30, 2016)
+    • fixed minor bug
+Version 1.0.1 (Sep 24, 2016)
+    • 드롭박스 연동 버그 수정
+    • 마이너한 버그 수정 및 안정화
+Version 1.0.0 (Sep 21, 2016)
+
+Users may also like
+Select objects to compare
+DayMore: Modern Diary
+My Veggie Diary
+YOUKAMI
+It's meee - simple diary
+Antodo - 심플한 손글씨 할일 계획 메모
+Moodie - Mood Diary With Lock
+투다 - 너와 함께 오늘을 만든다
+Wonderful - Self-Esteem Diary
+다하자
+그림일기 - 감성 일기장
+IQ Classifications
+Genre: Lifestyle
+Subgenre: Other Lifestyle
+Other Lifestyle
+Other lifestyle apps that do not fit other existing Lifestyle subgenres.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    2.1.6
+    Current release
+    Jan 10, 2024
+    2.1.5
+    Dec 29, 2023
+    2.1.3
+    Feb 10, 2023
+    2.1.0
+    Nov 22, 2022
+    2.0.9
+    Mar 26, 2022
+    2.0.8
+    Jan 14, 2022
+    2.0.7
+    Jan 12, 2022
+    2.0.6
+    Oct 4, 2021
+    2.0.5
+    Sep 9, 2021
+    2.0.4
+    Sep 6, 2021
+    2.0.3
+    Aug 22, 2021
+    2.0.2
+    Aug 5, 2021
+    2.0.1
+    Jul 11, 2021
+    2.0.0
+    Jun 26, 2021
+    1.9.9
+    Jun 22, 2021
+    1.9.8
+    Jun 21, 2021
+    1.9.7
+    May 3, 2021
+    1.9.6
+    Apr 21, 2021
+    1.9.5
+    Mar 7, 2021
+    1.9.4
+    Jan 11, 2021
+    1.9.3
+    Nov 7, 2020
+    1.9.1
+    Oct 13, 2020
+    1.8.9
+    Oct 10, 2020
+    1.8.8
+    Aug 21, 2020
+    1.8.7
+    Jun 24, 2020
+    1.8.6
+    May 11, 2020
+    1.8.5
+    Apr 15, 2020
+    1.8.4
+    Feb 27, 2020
+    1.8.3
+    Jan 28, 2020
+    1.8.2
+    Jan 4, 2020
+    1.8.1
+    Dec 22, 2019
+    1.8.0
+    Dec 8, 2019
+    1.7.9
+    Nov 24, 2019
+    1.7.8
+    Nov 22, 2019
+    1.7.7
+    Nov 18, 2019
+    1.7.6
+    Oct 12, 2019
+    1.7.5
+    Oct 10, 2019
+    1.7.4
+    Oct 2, 2019
+    1.7.3
+    Sep 28, 2019
+    1.7.2
+    Sep 21, 2019
+    1.7.1
+    Aug 28, 2019
+    1.7.0
+    Aug 21, 2019
+    1.6.9
+    Aug 16, 2019
+    1.6.8
+    Jul 22, 2019
+    1.6.7
+    Jun 15, 2019
+    1.6.5
+    Apr 6, 2019
+    1.6.4
+    Apr 5, 2019
+    1.6.3
+    Mar 22, 2019
+    1.6.2
+    Mar 5, 2019
+    1.6.1
+    Feb 13, 2019
+    1.6.0
+    Dec 6, 2018
+    1.5.9
+    Dec 3, 2018
+    1.5.8
+    Nov 29, 2018
+    1.5.7
+    Nov 10, 2018
+    1.5.6
+    Nov 7, 2018
+    1.5.4
+    Oct 26, 2018
+    1.5.3
+    Oct 21, 2018
+    1.5.2
+    Oct 11, 2018
+    1.5.1
+    Oct 9, 2018
+    1.5.0
+    Oct 4, 2018
+    1.4.4
+    Sep 19, 2018
+    1.4.3
+    Sep 13, 2018
+    1.4.2
+    Sep 7, 2018
+    1.4.1
+    Sep 4, 2018
+    1.4.0
+    Sep 3, 2018
+    1.3.7
+    Aug 30, 2018
+    1.3.6
+    Aug 13, 2018
+    1.3.5
+    Aug 12, 2018
+    1.3.4
+    Aug 9, 2018
+    1.3.3
+    Aug 2, 2018
+    1.3.2
+    Jul 31, 2018
+    1.3.1
+    Jun 15, 2018
+    1.3.0
+    Mar 27, 2018
+    1.2.9
+    Feb 8, 2018
+    1.2.8
+    Jan 30, 2018
+    1.2.7
+    Jan 26, 2018
+    1.2.6
+    Nov 29, 2017
+    1.2.5
+    Nov 27, 2017
+    1.2.4
+    Nov 20, 2017
+    1.2.3
+    Nov 17, 2017
+    1.2.2
+    Aug 24, 2017
+    1.2.1
+    Aug 1, 2017
+    1.2.0
+    Jul 25, 2017
+    1.1.9
+    Jul 14, 2017
+    1.1.8
+    Jul 7, 2017
+    1.1.7
+    Jul 5, 2017
+    1.1.6
+    Jun 26, 2017
+    1.1.5
+    Jun 19, 2017
+    1.1.4
+    Jun 16, 2017
+    1.1.3
+    May 17, 2017
+    1.1.2
+    Apr 19, 2017
+    1.1.1
+    Apr 18, 2017
+    1.1.0
+    Feb 23, 2017
+    1.0.9
+    Feb 16, 2017
+    1.0.8
+    Feb 14, 2017
+    1.0.7
+    Feb 13, 2017
+    1.0.6
+    Feb 9, 2017
+    1.0.5
+    Dec 21, 2016
+    1.0.4
+    Nov 8, 2016
+    1.0.3
+    Nov 3, 2016
+    1.0.2
+    Sep 30, 2016
+    1.0.1
+    Sep 24, 2016
+    1.0.0
+    Sep 21, 2016
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Sep 21, 2016
+
+Worldwide Release Date
+    Sep 21, 2016
+
+Last Updated Time
+    Feb 20, 2024
+
+Version
+    2.1.6
+
+Size
+    32.89 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Korean
+
+Seller
+    Yun Sun Kwon
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 15.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.mys.mytoday.lite
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1152282538
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+MyToday Lite | data.ai

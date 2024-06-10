@@ -1,0 +1,445 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+UPDF - AI-Powered PDF Editor
+Superace Software Technology Co., Ltd.Productivity (Applications)Free
+Alerts
+
+UPDF - AI-Powered PDF Editor
+UPDF - AI-Powered PDF Editor
+UPDF - AI-Powered PDF Editor
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+UPDF - AI-Powered PDF Editor
+Leer y editar PDFs donquiera
+Productivity (Applications)
+Free
+App Description
+UPDF for iOS is a full-featured PDF editor app that supports every file management action including view, edit, annotate, convert, organize, crop, search, copy&paste, delete, rename, compress, decompress, move, upload&download, share, and secure PDF documents from your iPhone or iPad.
+
+Amazing features of UPDF for iOS:
+
+Edit PDF
+- Edit text in PDF (change color, font style, font size)
+- Edit images in PDF (Rotate, extract, replace and crop images)
+- Edit watermark in PDF (Add, edit, delete and favor watermark)
+
+AI Assistant
+- Summarize, translate, explain, and rephrase lengthy PDFs in minutes.
+- Two methods are available to access the UPDF AI assistant: through the chat box or select text.
+- Engage in a chat with UPDF AI and ask it any questions you have.
+
+Read PDF
+- Flexible reading settings: vertical and horizontal scrolling, single-page and two-page view
+- Theme: Dark reading mode protects your eyes
+- Bookmarks: Go to specific points of interest using bookmark links
+- PDF slideshow: Present PDF documents as slideshows
+
+Annotate PDFs
+- Annotate PDFs using markup tools like pencil, highlight, underline, strikethrough, or squiggly line.
+- Add comments like text boxes and sticky notes.
+- Add shapes, stamps, and stickers to PDFs.
+
+Organize PDF pages
+- Easily rotate, extract, insert, and delete pages.
+- Copy, paste, and share specific pages in a PDF.
+
+Scan to PDF
+- Scan to create a PDF
+- Crop, rotate, filter, delete, and reorder the scanned images
+
+Fill and Sign the PDF
+-Fill out PDF forms and add signatures to your PDF.
+
+Create PDF
+- Create PDF with blank, lined, dotted, grid, and graph papers
+- Create PDF by combining multiple images into a single PDF.
+
+File Manager
+- Upload, create, rename, move, copy, duplicate, and reorder files or folders.
+- Unzip files by simply tapping .zip files
+- Search for files.
+- Supports two-finger multiple selections and operations.
+- Move files or folders to trash, and find deleted items in the trash.
+- Protect PDF files with a password or unlock protected PDF files.
+- Compress one or multiple files into a zip file.
+
+Security Space
+- Protect your privacy by moving your files or folders to Security Space.
+- Enable Face ID & Passcode to access your Security Space.
+
+Import File
+- Import files from Photos albums.
+- Import files from the Files App.
+- Transfer files from a computer over the same Wi-Fi.
+
+View files in All Formats
+- Browse dozens of different file formats including PDFs, Office documents (.doc, .docx, .ppt, .pptx, .xls, .xlsx), Pages, Keynotes, and Numbers with a single app.
+- Open other formats such as text, HTML(.html, xhtml), XML, Web Archive, Images( JPG, JPEG, GIF, PNG, TIFF, SVG, BMP) , video, audio.
+
+*** Pro Features of In-App Purchase***
+- Use UPDF across all platforms including desktops and mobiles. Check features on different platforms:https://updf.com/tech-spec/
+- Free Users will get 1 GB of Cloud Storage; Paid users will get 10 GB of Cloud Storage for free.
+- Advanced PDF features such as Convert PDF with OCR, batch process, etc. are available on the desktop.
+- Unliimted use of Scan to PDF(Free trial only scans up to 5 pages)
+- Unlimited use of Security Space(Trial version stores up to 10 items)
+- Secure App with passcode/TouchID/FaceID
+
+Need help? If you have any questions about this app, please email us at support@superace.com.
+
+You can follow us on
+Facebook: @superacesoftware
+Twitter: @updfeditor
+Youtube: @UPDF
+Instagram: @updfeditor
+
+If you feel this app helped you, please leave us a positive review in the App Store. Much appreciated!
+Ratings
+Displayed Avg Ratings
+4.39
+Total Displayed Ratings
+1.3k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.10 (Feb 2, 2024)
+    - UPDF AI admite la síntesis continua de documentos a través de múltiples páginas.
+    - UPDF AI admite la traducción continua de documentos a través de múltiples páginas.
+Version 1.5.9 (Jan 21, 2024)
+    - Se optimizan la interacción y el rendimiento.
+Version 1.5.8 (Jan 15, 2024)
+    Bienvenido a UPDF, hemos agregado una nueva función de marca de agua que le permite agregar marcas de agua para evitar la manipulación o modificar las marcas de agua existentes en el documento.
+Version 1.5.7 (Dec 28, 2023)
+    Bienvenido a UPDF
+    Hemos añadido la función AssistiveTouch a UPDF AI, permitiendo un uso más conveniente de UPDF AI.
+    La función de presentación de diapositivas ha sido optimizada.
+Version 1.5.6 (Dec 18, 2023)
+    Bienvenido a UPDF. Ahora apoyamos la característica de enlace que te permite agregar fácilmente hipervínculos en cualquier área de una página:
+    - Soporte para la adición de hipervínculos de páginas web.
+    - Soporte para enlaces a página.
+Version 1.5.5 (Dec 4, 2023)
+    Bienvenido a UPDF
+    Hemos hecho las siguientes optimizaciones, dedicadas a ofrecerte una mejor experiencia de aprendizaje y de oficina:
+    - Anotaciones, soporte para modificar los valores de los atributos preestablecidos, cambia rápidamente a tu herramienta de anotaciones favorita.
+    - IA UPDF, el modo Ask PDF soporta la traducción por página y los resúmenes de páginas.
+    - Los miembros Pro de UPDF soportan el guardado automático y la restauración de documentos cerrados accidentalmente.
+Version 1.5.3 (Oct 27, 2023)
+    - La lista de comentarios ahora se puede exportar a PDF.
+    - Nuevo estilo de página agregado.
+    - Se optimizan la interacción y el rendimiento.
+Version 1.5.2 (Oct 12, 2023)
+    - Soporte para rotación & operaciones auxiliares de pegatinas & sellos & firmas.
+Version 1.5.1 (Sep 25, 2023)
+    - UPDF AI Se optimizan la interacción y el rendimiento.
+Version 1.5.0 (Sep 18, 2023)
+    - Añadir la función UPDF AI, soporta la resumen de PDF y preguntas y respuestas; soporta diálogos inteligentes de IA, traducción, resumen, explicación.
+    - Añadir nueva función de compresión de documentos PDF.
+Version 1.4.5 (Aug 25, 2023)
+    - Soporte para el modo de presentación de diapositivas.
+Version 1.4.4 (Aug 11, 2023)
+    - Soporte para completar campos de formulario.
+    - Función de borrado optimizada.
+Version 1.4.3 (Jul 27, 2023)
+    - Soporte para el Modo Lápiz Inteligente.
+Version 1.4.2 (Jul 14, 2023)
+    - Añadir función Copiar Página, Pegar Página y Compartir Página. 
+Version 1.4.1 (Jul 6, 2023)
+    - Función de soporte para la lista de anotaciones.
+Version 1.4.0 (Jun 27, 2023)
+    - Se optimizan la interacción y el rendimiento.
+Version 1.3.4 (Jun 18, 2023)
+    - Marcadores: vaya a las secciones que le interesen mediante los vínculos de marcador. 
+Version 1.3.3 (Jun 6, 2023)
+    - iPadOS soporta la función de miniaturas.
+    - Soporta la función de redirección de página.
+Version 1.3.2 (May 28, 2023)
+    - Se añade la función de buscar。
+    - Divertidos adhesivos & sellos。
+    - Se puede firmar。
+Version 1.3.1 (May 15, 2023)
+    Se optimizan la interacción y el rendimiento
+Version 1.3.0 (May 8, 2023)
+    - Se puede editar el texto
+    - Se puede editar la imágen
+    - Se puede organizar las páginas
+    - Se optimizan la interacción y el rendimiento
+Version 1.2.2 (Apr 23, 2023)
+    - Se lanza las formas nuevas de anotar.
+Version 1.2.1 (Apr 14, 2023)
+    - Se lanza UPDF Cloud.
+    - Se adapta a iPadOS para soportar el uso de Apple Pencil.
+Version 1.2.0 (Apr 8, 2023)
+    - Añadir herramientas de marcado: (resaltado/subrayado/squiggly/strikeout/notas adhesivas, bolígrafo (resaltador, lápiz, línea de puntos)
+    - Soporte para añadir texto a PDF
+Version 1.1.1 (Nov 24, 2022)
+    - Agregar centro de cuentas.
+    - Admite la compra de UPDF Pro para usar en computadoras de escritorio y móviles.
+Version 1.1.0 (Oct 1, 2022)
+    - Agregue una forma rápida de iniciar sesión.
+Version 1.0.9 (Sep 16, 2022)
+    - Se corrigieron algunos errores y se mejoró el rendimiento y la estabilidad.
+Version 1.0.8 (Jul 1, 2022)
+    Se corrigieron algunos errores y se mejoró el rendimiento y la estabilidad.
+Version 1.0.7 (Jun 2, 2022)
+    1. Aplicar el nuevo estilo de la marca UPDF;
+
+    2. Regístrese e inicie sesión en UPDF por un tiempo limitado para utilizar todas las funciones de pago.
+Version 1.0.6 (Feb 28, 2022)
+    - Erros menores y correcciones de estabilidad.
+Version 1.0.5 (Feb 23, 2022)
+    - Erros menores y correcciones de estabilidad.
+Version 1.0.4 (Jan 24, 2022)
+    - Acceso de 1 año a todas las funciones.
+Version 1.0.3 (Jan 5, 2022)
+    - Acceso de 1 año a todas las funciones.
+Version 1.0.2 (Dec 15, 2021)
+    - Correcciones de errores menores y de estabilidad.
+
+    Si te encanta esta aplicación, tómate un momento para calificarla en la App Store. ¡Gracias!
+Version 1.0.1 (Dec 5, 2021)
+
+Users may also like
+Select objects to compare
+PDFelement: PDF Editor&Scanner
+PDF Reader – PDFelement
+Foxit PDF Editor
+LiquidText
+ChatPDF - AI Chat with any PDF
+PDF Pro - Reader Editor Forms
+LightPDF: AI Chat PDF, Scanner
+Highlights: PDF Reader & Notes
+Noteshelf 3
+Drawboard PDF
+IQ Classifications
+Genre: Business
+Subgenre: Business Software
+Business Software
+Apps that are used in business, including word processing, spreadsheets, presentation, note taking, document scanner, reader and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+1 time
+on App Store homepage
+Not featuredon App Store category pages
+Versions
+
+    1.5.10
+    Current release
+    Feb 2, 2024
+    1.5.9
+    Jan 21, 2024
+    1.5.8
+    Jan 15, 2024
+    1.5.7
+    Dec 28, 2023
+    1.5.6
+    Dec 18, 2023
+    1.5.5
+    Dec 4, 2023
+    1.5.3
+    Oct 27, 2023
+    1.5.2
+    Oct 12, 2023
+    1.5.1
+    Sep 25, 2023
+    1.5.0
+    Sep 18, 2023
+    1.4.5
+    Aug 25, 2023
+    1.4.4
+    Aug 11, 2023
+    1.4.3
+    Jul 27, 2023
+    1.4.2
+    Jul 14, 2023
+    1.4.1
+    Jul 6, 2023
+    1.4.0
+    Jun 27, 2023
+    1.3.4
+    Jun 18, 2023
+    1.3.3
+    Jun 6, 2023
+    1.3.2
+    May 28, 2023
+    1.3.1
+    May 15, 2023
+    1.3.0
+    May 8, 2023
+    1.2.2
+    Apr 23, 2023
+    1.2.1
+    Apr 14, 2023
+    1.2.0
+    Apr 8, 2023
+    1.1.1
+    Nov 24, 2022
+    1.1.0
+    Oct 1, 2022
+    1.0.9
+    Sep 16, 2022
+    1.0.8
+    Jul 1, 2022
+    1.0.7
+    Jun 2, 2022
+    1.0.6
+    Feb 28, 2022
+    1.0.5
+    Feb 23, 2022
+    1.0.4
+    Jan 24, 2022
+    1.0.3
+    Jan 5, 2022
+    1.0.2
+    Dec 15, 2021
+    1.0.1
+    Dec 5, 2021
+
+See More
+Top In-App Purchases
+
+    Suscripción anual
+    $15.99
+    Licencia perpetua
+    $29.99
+    UPDF & Complemento de AI
+    $139.99
+    UPDF AI Estándar
+    $7.99
+    UPDF AI Ilimitado
+    $16.99
+    UPDF AI Estándar
+    $69.99
+    UPDF Pro + AI Ilimitado
+    $59.99
+    Licencia perpetua
+    $109.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Productivity
+
+Initial Release Date
+    Dec 5, 2021
+
+Worldwide Release Date
+    Dec 5, 2021
+
+Last Updated Time
+    Mar 6, 2024
+
+Version
+    1.5.10
+
+Size
+    99.13 mb
+
+Only 32 Bit
+    No
+
+Languages
+    Español, Alemán, Chino simplificado, Chino tradicional, Coreano, Francés, Inglés, Italiano, Japonés, Neerlandés, Portugués, Ruso
+
+Seller
+    Superace Software Technology Co., Ltd.
+
+Company HQ
+    China
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requiere iOS 14.0 o posterior. Compatible con iPhone, iPad y iPod touch.
+
+Bundle ID
+    com.superace.updf
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 1595826623
+Unified App ID: 1000800000165517
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+UPDF - AI-Powered PDF Editor | data.ai

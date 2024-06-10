@@ -1,0 +1,342 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+ZenJournal:Stress-free Journal
+Shaomeng ZhangLifestyle (Applications)Free
+Alerts
+
+    Shaomeng Zhang
+
+    ZenJournal:Stress-free Journal
+    ZenJournal:Stress-free Journal
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+ZenJournal:Stress-free Journal
+Minimalist Micro Journal+Notes
+Lifestyle (Applications)
+Free
+App Description
+ZenJournal is the fastest and simplest journal, everything is within 2-taps:
+
+○ Everything happens on the timeline, you logs, #hashtags, and ?searches all unified in one interface.
+
+○ Open the app and start logging, reading, searching, reflecting. There is no step two.
+
+○ Double tap your logs to toggle "Discreet Mode" where your logs are obfuscated into fuzzy blocks. You can finally show off your logs.
+
+○ Lock your logs with TouchID/FaceID.
+
+○ Pull up your logs to see a contribution graph of the last 105 days.
+
+○ Use #hashtag to organize your logs.
+
+○ As you type, start with ? to search and filter your logs.
+
+○ Backup and restore.
+
+○ Long press to share your logs to social media.
+
+○ Dark Mode first, Light Mode just a tap away.
+
+Here are a few ways to use ZenJournal:
+
+● Journal anywhere, with Discreet Mode, even in public spaces, without stress and fuss.
+
+● Shield your self from the frenzy contest of social media.
+
+● Cure your fatigue with a stress-free micro journal.
+
+● Find your inner peace, build up your self-awareness.
+
+● Log your random #ideas and #musings.
+
+● Stream-of-consciousness style writing.
+
+Build your own ZenJournal with your random, intimate, embarrassing, dark or light, social or antisocial, secret or not so secret, genius or dumb, most subversive or idealistic plans, way ahead of time ideas or heart-aching throwback memories.
+
+ZenJournal is FREE to use with unlimited logs. Support the development by subscribing to Zen Pro and unlock Font Picker.
+
+Terms of Use + Privacy Policy: https://thezenjournal.com/#privacy
+Ratings
+Displayed Avg Ratings
+4.59
+Total Displayed Ratings
+140
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 3.6.1 (May 29, 2023)
+    吾人已提升基本依賴物，React Native。 它應比往昔更疾速.
+Version 3.5.1 (Jan 5, 2023)
+    修复了中文界面
+Version 3.5.0 (Dec 25, 2022)
+    節日期間解鎖所有功能。
+Version 3.5.0 (Dec 25, 2022)
+    節日期間解鎖所有功能。
+Version 3.4.0 (Sep 20, 2022)
+    一鍵導出當日日誌。
+Version 3.3.0 (Jan 16, 2022)
+    升级内部引擎，应该会更快……
+Version 3.2.0 (Dec 19, 2021)
+    升级内部引擎，节日快乐！
+Version 3.1.0 (Sep 4, 2021)
+    全新照片模式，您的影像記憶成功升級V3。
+Version 3.0.1 (Aug 22, 2021)
+    全新照片模式，您的影像記憶成功升級V3。
+Version 2.3 (Jun 27, 2020)
+    + 全界面支持簡體和繁體中文
+    + iPad界面優化，日誌流最寬700p，更適合瀏覽
+    + 輸入框也隨字體大小變化
+    + 修復動畫轉折吊幀
+    + 加入更多觸覺反饋
+    + 支持中文問號「 ？」開啟搜索
+    + 更快更準確的#標籤建議
+    + 更智慧的「？」和「#」快捷鍵（在光標處插入，而不只是在句末插入）
+    + 優化設置圖標和對比度
+    + 根據當地格式顯示時間
+Version 2.2 (Apr 28, 2020)
+    歡迎訂閱，支持禪記開發解鎖，字體選擇。
+    新增字體大小調節功能。
+Version 2.1.0 (Jan 23, 2020)
+    ○ 無需解鎖，快速開啟隱秘模式
+    ○ 如果開啟了鎖定模式，打開應用即自動開啟私密模式
+    ○ 支持更小屏幕
+    ○ 改善搜索
+Version 2.0.2 (Jan 14, 2020)
+    - Fixed long log pushing button behind keyboard.
+    - Fixed modal animation. It's still janky, but smoother than previous version.
+    - Fixed white background on flipping.
+    - Fixed missing top padding for illustration.
+    - Increased last log bottom padding.
+Version 2.0.0 (Dec 24, 2019)
+    ● Journal anywhere with Discreet Mode.
+    ● Protect your logs with TouchID/FaceID Lock Mode.
+    ● Redesigned Dark Mode makes it easier to read in the dark.
+Version 1.6.3 (Mar 11, 2019)
+    More friendly microcopy for searching mode.
+    Fixed a bug for first-time installers that tapped the "?" button before they logged anything.
+Version 1.6.2 (Feb 16, 2019)
+    - Autofocus and pop keyboard on app open, one less tap, 2x faster.
+    - Subtle input field shadow.
+Version 1.6.1 (Jan 27, 2019)
+    - Empty state doesn’t have to be ugly.
+    - Log input box now have consistent font and padding.
+    - Log input top shadow more subtle.
+Version 1.5.2 (Jan 17, 2019)
+    New logo. New loading page. Happy New Year!
+Version 1.4.2 (Dec 5, 2018)
+    - New borderless style and emoji icons for Settings, cleaner and colorful look just for the holidays.
+    - New color theme for Contribution Graph, also with Dark Mode support!
+    - Added Rate ZenJournal button in Settings. Please give us a review so more people can discover the app.
+Version 1.4.1 (Nov 20, 2018)
+    Here comes iPad support. Bring all your iPads.... There is no syncing between devices yet, but know that's it's coming in the future.
+    This also adds support for iPad Split View and Slide Over. Enjoy journaling while looking at your notes, browser or whatever else you have going on.
+    Sorry, this update is only for iPad support and no additional iPhone features is added in this version.
+Version 1.3.3 (Oct 6, 2018)
+    Pull up your logs to see a contribution graph of the last 105 days. Dark mode graph coming!
+Version 1.3 (Sep 22, 2018)
+    Ready for iOS 12!
+    Fixed Chinese & Japanese input bug. 欢迎使用禅记!
+    Updated log input copy.
+
+Users may also like
+Select objects to compare
+Monologue
+Minimalistic Daily Diary
+Lifecraft: Your Life Coach
+tinythoughts
+TinyDay - Diary via Check-in
+Daybook Journal – Diary
+Diarium: Journal, Diary
+ALog
+Personal Diary (Journal) App
+AM Pages
+IQ Classifications
+Genre: Utility & Productivity
+Subgenre: Tool
+Tool
+Apps that add a tool, technology, or functionality to the device, such as ruler, screen mirror, calculator and etc.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    3.6.1
+    Current release
+    May 29, 2023
+    3.5.1
+    Jan 5, 2023
+    3.5.0
+    Dec 25, 2022
+    3.5.0
+    Dec 25, 2022
+    3.4.0
+    Sep 20, 2022
+    3.3.0
+    Jan 16, 2022
+    3.2.0
+    Dec 19, 2021
+    3.1.0
+    Sep 4, 2021
+    3.0.1
+    Aug 22, 2021
+    2.3
+    Jun 27, 2020
+    2.2
+    Apr 28, 2020
+    2.1.0
+    Jan 23, 2020
+    2.0.2
+    Jan 14, 2020
+    2.0.0
+    Dec 24, 2019
+    1.6.3
+    Mar 11, 2019
+    1.6.2
+    Feb 16, 2019
+    1.6.1
+    Jan 27, 2019
+    1.5.2
+    Jan 17, 2019
+    1.4.2
+    Dec 5, 2018
+    1.4.1
+    Nov 20, 2018
+    1.3.3
+    Oct 6, 2018
+    1.3
+    Sep 22, 2018
+
+See More
+Top In-App Purchases
+
+    Zen Pro
+    $1.99
+
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Lifestyle
+
+Initial Release Date
+    Aug 8, 2018
+
+Worldwide Release Date
+    Aug 8, 2018
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    3.6.1
+
+Size
+    22.59 mb
+
+Only 32 Bit
+    No
+
+Languages
+    簡體中文, 繁體中文, 英文
+
+Seller
+    Shaomeng Zhang
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    須使用 iOS 11.0 或以上版本。兼容 iPhone、iPad、iPod touch。
+
+Bundle ID
+    com.idealistspace.zenjournal
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1399816360
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+ZenJournal:Stress-free Journal | data.ai

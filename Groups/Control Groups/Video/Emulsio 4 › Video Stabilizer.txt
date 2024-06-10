@@ -1,0 +1,614 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Emulsio 4 › Video Stabilizer
+CreaceedPhoto and Video (Applications)Free
+Alerts
+
+    Emulsio 4 › Video Stabilizer
+    Emulsio 4 › Video Stabilizer
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Emulsio 4 › Video Stabilizer
+Turn shaky 4K into cinematic
+Photo and Video (Applications)
+Free
+App Promotional Text
+*** Emulsio 4 introduces HDR video processing, now runs on Mac (+ iPhone & iPad), and offers an updated user experience. ***
+App Description
+** Macworld Conference ‘Best of Show’ winner **
+
+Want to make your videos smoother and more professional? Emulsio is a video editing application that automatically removes camera shake, and lets you make cinematic motion just like professional movie editors. Emulsio lets you use advanced stabilization techniques, adjust the stabilizer strength, preview the result within the app, and even view a before/after video comparison. You can also trim or cut any part of the video. Emulsio is a must-have for all movie makers!
+
+Emulsio can be tried out for free and the watermark can be removed through an in-app purchase. Available on iPhone, iPad, and Mac.
+
+
+KEY FEATURES
+• Import any video from your album or any compatible video file.
+• Choose the stabilization strength necessary to efficiently remove distracting camera vibrations.
+• Compensate horizontal, vertical and rotational camera motion, as well as rolling shutter distortion. Besides, Emulsio can handle black borders by momentarily decreasing stabilization strength.
+• Assess stabilizer effect and settings by playing both the original and stabilized videos simultaneously.
+• Remove any part of the video. This is a non-destructive process, you can always change your mind until final export.
+• HDR video handling: HDR videos can be processed and exported with their full dynamic range. HLG & PQ transfer functions are available
+• Export the stabilized video to any compatible application (Mail, Messages, Facebook, Dropbox, Evernote, iMovie,…).
+• Fully exposed video encoder: format (mov, mp4, m4a), codec (H.264, HEVC), quality/bitrate, resolution to customize output (smaller size or better quality).
+• Transcode videos: skip the stabilizer and just use the transcoding feature to export to a small file size using a more optimized codec.
+• Very fast video processing on your iPhone or iPad. No Internet connection required.
+• Support for high-speed videos (up to 240 FPS) which preserve their frame rate after export.
+• Modern OS features: import and export of HEVC (compatible devices only), Drag & Drop, Peek & Pop, modern video access (browsing & searching).
+• Pro Pack or Pro Plan: HDR video handling, better accuracy for 4K videos, improved correction of rolling shutter distortion including third party sensor calibration, and removal of the watermark.
+
+PRICING
+You can unlock all features either through Pro Pack, a one-time purchase, or through Pro Plan, an affordable subscription. Pro Pack upgrade pricing is also available if you own a previous version.
+
+HELP & FEEDBACK
+Visit creaceed.com/emulsio for more information. Send your questions and feedback to emulsio@creaceed.com
+
+Terms of Use: https://creaceed.com/terms
+Privacy Policy: https://creaceed.com/privacy
+Ratings
+Displayed Avg Ratings
+3.79
+Total Displayed Ratings
+1.4k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 4.0.1 (Jan 25, 2024)
+    Fixed corrupt toolbar on latest iOS releases.
+Version 4.0 (May 23, 2023)
+    Please welcome Emulsio 4, a major new release of the video stabilizer & transcoder app.
+
+    New features:
+    • HDR video handling: HDR videos can be processed and exported with their full dynamic range. HLG & PQ transfer functions are available. HDR can be previewed directly on device before export.
+    • New Metal-based rendering backend for better performance & accuracy.
+    • Now runs on Mac in addition to iPhone & iPad for deeper uses.
+    • Modernized user interface
+
+    HDR-related features require upgrade for Pro Pack customers, but are included for Pro Plan subscribers. Review purchase options directly within the app.
+Version 3.6.7 (Oct 12, 2022)
+    ENHANCEMENTS
+    • Fixes an incorrect cropping issue when the input video originates from other software (like Filmic) or when unusual encoding settings are used.
+Version 3.6.6 (Sep 16, 2022)
+    Fixed a bug in the last update that prevented Emulsio from validating in-app purchases.
+Version 3.6.5 (Sep 15, 2022)
+    This release brings compatibility and optimizations for iOS 16.
+Version 3.6.4 (Mar 30, 2022)
+    Maintenance release with minor enhancements & bug fixes.
+Version 3.6.3 (Nov 5, 2021)
+    ENHANCEMENTS & FIXES
+    - Better metadata preservation in exported video in various situations.
+    - Transcode extension now preserves the frame rate (FPS).
+    - Photos extension no more relies on last used encoder settings from the app and now provides appropriate values for the video being processed within the Photos app.
+Version 3.6.2 (Apr 21, 2021)
+    NEW FEATURES
+    • Emulsio is now localized in Hindi.
+
+    BUG FIXES
+    • Handling of video with unusual audio channels configuration that would prevent video export from functioning correctly.
+Version 3.6.1 (Jan 20, 2021)
+    UPDATED FEATURES
+    • Emulsio's business model is updated in this release to offer both a one-off purchase (unchanged, same as before) and a subscription plan. Existing customers keep their existing purchase. This hybrid purchase model lets users choose what best suits their needs.
+
+    BUG FIXES
+    • Fixed stabilization profile selection which could be unsynced in some cases.
+    • Minor bug fixes & enhancements.
+Version 3.6 (Jan 18, 2021)
+    UPDATED FEATURES
+    • Emulsio's business model is updated in this release to offer both a one-off purchase (unchanged, same as before) and a subscription plan. Existing customers keep their existing purchase. This hybrid purchase model lets users choose what best suits their needs.
+
+    BUG FIXES
+    • Fixed stabilization profile selection which could be unsynced in some cases.
+Version 3.5.3 (Dec 11, 2020)
+    • Better handling of low-quality videos, potentially fixing output generation errors in certain cases.
+Version 3.5.2 (Dec 7, 2020)
+    • Increased video bitrate limits in Emulsio's video encoder to support up to 200 Mbps.
+    • Better handling of low-quality videos, potentially fixing output generation errors in certain cases.
+Version 3.5.1 (Oct 23, 2020)
+    - Added support for new iPhone (late 2020) screen sizes.
+    - Fixed a start-up crash that could occur in specific app installation situations.
+Version 3.5 (Oct 20, 2020)
+    Emulsio 3.5 brings iOS 14 improvements, a new 'Transcode' extension along with a new video encoding pipeline that gives more advanced users full control on generated output video. This helps target highest possible quality or smaller file sizes depending on the generated video's destination.
+
+
+    iOS 14 ENHANCEMENTS
+
+    - Emulsio 3.5 now offers video import from the new & more capable (filter, search, etc.) iOS 14 photo/video picker.
+    - This release also brings improved handling of user privacy with support for photo albums security constraints of iOS 14.
+
+
+    NEW VIDEO ENCODER
+
+    Emulsio's new video encoder features:
+    - user-adjustable output file format (mov, mp4, m4a)
+    - custom bitrate/quality setting (preset or raw value)
+    - video and audio codec choices (H.264, HEVC, AAC…)
+    - output resolution adjustment (full or reduced size)
+    - estimation of output file size
+
+
+    NEW TRANSCODE EXTENSION
+
+    Emulsio 3.5 also features a new extension for transcoding existing videos (that is, without applying stabilisation effect). Emulsio's extensions that can be triggered from Photos or Files app (or any other app):
+    - Transcode with Emulsio
+    - Stabilize in Emulsio
+Version 3.1.4 (Aug 10, 2020)
+    • Fixed an issue that impacted the size of the app.
+Version 3.1.3 (Jun 9, 2020)
+    • Modernization for latest OS & bug fixes
+Version 3.1.2 (Jan 9, 2020)
+    - Updated the crash reports framework.
+Version 3.1.1 (Jan 28, 2019)
+    Fixed a crash that occurred while exporting videos (Save as New Video) on 32-bit devices
+Version 3.1 (Dec 10, 2018)
+    Updated for the new iPad Pro
+    - Handling of new iPad Pro display sizes (11" and 12.9")
+
+    Other Enhancements
+    - More reliable handling of input videos with corrupt metadata as well as videos made with third-party apps (like FiLMiC Pro).
+Version 3.0.3 (Oct 4, 2018)
+    - Updated for new iPhone sizes (including iPhone XS Max and more).
+Version 3.0.2 (Aug 17, 2018)
+    Emulsio now preserves the file format (HEVC or H264) of the original video.
+Version 3.0.1 (Jun 20, 2018)
+    Emulsio 3.0 brings improved handling of 4K video assets, better rolling shutter distortion handling, and support for 3rd party sensors (drones, GoPro, etc.). It also features an updated interface & improved support for modern iOS features:
+
+    - More accurate stabilization for 4K videos shot on device or from a 3rd party camera. 4K videos typically are not stabilized, but Emulsio lets you process them anyway.
+    - Rolling shutter distortion enhancement: amplitude of correction can be adjusted depending on sensor. Apple camera sensor values are provided, and 3rd camera sensors can be calibrated within the app. Emulsio can now be used to process videos from drones or GoPro cameras.
+    - User interface has been refined to make stabilization settings easier to understand. Modern iOS features have been added or improved: Peek & Pop to preview videos from the import list (3D Touch on iPhone, long press on iPad), HEVC file handling (input / output), iPhone X, Drag & Drop and iPad multitasking.
+
+    4K video handling and improved rolling shutter processing are available as part of Pro Pack 2. Users who previously purchased Pro Pack 1 get special upgrade pricing.
+Version 3.0 (Jun 19, 2018)
+    Emulsio 3.0 brings improved handling of 4K video assets, better rolling shutter distortion handling, and support for 3rd party sensors (drones, GoPro, etc.). It also features an updated interface & improved support for modern iOS features:
+
+    - More accurate stabilization for 4K videos shot on device or from a 3rd party camera. 4K videos typically are not stabilized, but Emulsio lets you process them anyway.
+    - Rolling shutter distortion enhancement: amplitude of correction can be adjusted depending on sensor. Apple camera sensor values are provided, and 3rd camera sensors can be calibrated within the app. Emulsio can now be used to process videos from drones or GoPro cameras.
+    - User interface has been refined to make stabilization settings easier to understand. Modern iOS features have been added or improved: Peek & Pop to preview videos from the import list (3D Touch on iPhone, long press on iPad), HEVC file handling (input / output), iPhone X, Drag & Drop and iPad multitasking.
+
+    4K video handling and improved rolling shutter processing are available as part of Pro Pack 2. Users who previously purchased Pro Pack 1 get special upgrade pricing.
+Version 2.7 (Nov 3, 2017)
+    - Updated to support iPhone X.
+    - Fixed a crash that occurred when stabilizing edited video from third-party apps.
+    - Improved Photos extension.
+Version 2.6.3 (Oct 13, 2017)
+    - Fixed a bug that could crash the app on 32-bit devices.
+Version 2.6.2 (Oct 6, 2017)
+    iOS 11-related bug fixes.
+Version 2.6.1 (Oct 2, 2017)
+    iOS 11-related bug fixes.
+Version 2.6 (Sep 19, 2017)
+    NEW FEATURES AND IMPROVEMENTS
+
+    - Optimized for iOS 11.
+    - Added support for iOS 11 Drag & Drop (import video files) for iPad.
+    - Added support for HEVC (import and export) on compatible devices only.
+
+
+    WORKFLOWS
+
+    Emulsio can now import compatible video files directly from the Files app (or any other app that supports dragging) thanks to iOS 11 Drag and Drop. This makes it easier than ever to stabilize videos taken from third-party cameras (like GoPro or drone) directly on your iPad.
+Version 2.5.8 (Oct 4, 2016)
+    - Fixed an issue that could sometimes lead to black borders or misaligned contents when shooting with a third party camera.
+Version 2.5.7 (Mar 30, 2016)
+    - Optimized application icon for the iPad Pro.
+    - Minor bug fixes.
+Version 2.5.6 (May 7, 2015)
+    Enhancements:
+    - Handling of videos with incomplete tracks (that can happen when processing videos files generated by other apps)
+    - Support for videos stored in iCloud Photo library (video is downloaded & then processed)
+Version 2.5.5 (Mar 13, 2015)
+    - Polish localization update
+    - Minor UI enhancements
+Version 2.5.4 (Jan 2, 2015)
+    Corrections and Enhancements:
+    - Better handling & deletion of temporary files to preserve free space on device.
+Version 2.5.3 (Oct 30, 2014)
+    Corrections and Enhancements:
+    - Fixed a bug when importing slow-mo video into Emulsio extension (black screen & extension crash).
+    - Fixed a bug when saving video longer than 2 minutes (metadata too large, leading to crash).
+    - Fixed a crash that could occur when exporting video into other apps.
+    Updated German and Norwegian localizations
+Version 2.5.2 (Oct 3, 2014)
+    Fixed a problem that would disable app localizations.
+Version 2.5.1 (Sep 24, 2014)
+    - Fixed a problem with In-App purchase of Pro Pack (& Restore Purchase)
+    - Updated Japanese localization
+Version 2.5 (Sep 18, 2014)
+    • Emulsio is now fully optimized for iOS 8:
+    - Support for iOS 8 Photos Extension: Emulsio video stabilizer processing is now directly available in iOS 8 built-in Photos app, as an extension. You can stabilize your videos right from your photo album.
+    - iOS 8 Photo/Video Edits: Stabilized video is now stored as an edited version of the existing video (which can be reverted to original, if needed), for easier album management.
+    - iOS 8 Video Metadata Preservation: Emulsio now saves processed metadata along with your video, meaning that you don't have to analyse the video again if you want to edit the stabilizer strength.
+    - Import from iOS 8 Documents: Emulsio can now import video files from iOS 8 documents library (which can itself connect to most cloud services).
+    - Export to iOS 8 Documents: Emulsio can now export to the documents library.
+
+    • Removed the 30-second limitation when the Pro Pack hasn't been activated. You can now process videos of any duration (watermark remains though, and can be removed with In-App Purchase).
+
+    • Removed the 15-minute limitation, which applied to videos even after activating the Pro Pack.
+Version 2.0.4 (Jul 16, 2014)
+    - Polish localization
+    - Portuguese localization
+Version 2.0.3 (Apr 20, 2014)
+    Bug Fixes & Enhancements:
+    - Videos that were previously time-cropped are now available within Emulsio
+    - Pro Pack price is now correctly displayed in user's currency (would sometimes fail under unusual configurations)
+Version 2.0.2 (Mar 26, 2014)
+    Bug Fixes & Enhancements
+    - Fixed a bug that would prevent video picker from displaying videos
+    - Fixed a crash that could happen when processing video that were previously edited in another app
+    - Minor user interface fixes
+Version 2.0.1 (Mar 11, 2014)
+    - Localized to German.
+
+    Emulsio is now completely translated to German.
+
+
+
+    - Improved video source handling.
+
+    Emulsio now allows importing videos that have been copied through the Camera Connection Kit (or some other means), it is not restricted to camera roll anymore.
+
+
+
+    - Improved processing of video captured with other devices (Android phones, GoPro). In some situations, videos could be lacking metadata that would lead to black image (or translated image) in preview and export. Emulsio now reconstructs erroneous or missing metadata and correctly processes those videos.
+
+
+
+    - Export failure correction.
+
+    Emulsio will no longer fail when exporting a movie that has different duration for audio/video tracks. This was typically happening when processing a movie captured by another app, or imported from some other source.
+
+
+
+    - Output video duration fix.
+
+    Exporting a video over 30sec (no Pro Pack) would trim it to 2 seconds. This no longer happens, the exported video will be trimmed to 30 seconds instead when Pro Pack is not active.
+
+
+
+    - Other minor visual enhancements.
+Version 2.0 (Feb 26, 2014)
+    General
+    - Movie Stiller becomes Emulsio. Completely new version 2.0 with a new application icon.
+    - New user interface. Emulsio provides a more direct and interactive access to stabilization tools and previewing within the app.
+    - Emulsio is now free with In-App purchase to remove 30-second limitation and watermark. Customers of version 1.x get these features for free.
+    - iOS 7 Optimized. Emulsio is making use of new video capabilities (compositor) only available on iOS 7 to enable realtime previewing and fast video rendering.
+    - Live Comparison. You can now play both the original and stabilized videos simultaneously to assess stabilizer effect and settings. Every change is immediately taken into account and reflected in the live comparison.
+
+    Stabilization Improvements
+    - Improved Stabilization for Videos: Emulsio now tackles wobble distortion and motion discontinuity. We've worked hard to make a smart stabilization method that is also fast.
+    - Wobble Distortion: New stabilizer adds handling of rolling shutter distortion that occurs when recording movies with rapid motion of the camera. Such video typically get wobble artifacts (oblique distortion) that Emulsio can remove.
+    - Discontinuity Handling: Rapidly changing scenes and camera flashes typically create motion discontinuity, but these no longer affect the resulting stabilization.
+    - Black Border Handling. Previous versions of Emulsio (known as Movie Stiller) would generate black borders when motion compensation was too high. Emulsio can now handle this situation by momentarily decreasing stabilization strength to prevent black borders from happening.
+
+    Optimized for iPhone 5s/iPad Air
+    - Optimized for 64-bit. We've done the maths for you: Emulsio on iPhone 5s is twice as fast as iPhone 5. We've also tested 32-bit vs. 64-bit on the same iPhone 5s: 64-bit brings you an additional 35% processing speed and matches desktop class performances for video editing for the first time on a mobile phone.
+    - Handling of high speed 120 FPS (frame-per-second) videos.
+    Stabilization is performed at original video speed, and exported videos still are 120 FPS, allowing slow-motion editing (specifically for iPhone 5s).
+
+    Stabilizer Control
+    - Stabilizer Data Reporting. As a more advanced tool, this allows to review internal stabilization data such as the instantaneous displacement of video frame along X,Y axes, rotational compensation, wobble correction, etc. These are reported both as live figures and graphically in video overlay.
+    - Adjustable Stabilization Strength & Profile. Stabilizer strength can be adjusted depending on quality of original movie. You can further change internal stabilizer behavior by choosing stabilizer profile. "Cinametic" profile allows smoother, motion-picture like camera motion, while "Vibrations" focuses more on removing smaller camera shakes while preserving original camera motion.
+    - Frame by frame image inspection.
+
+    Video Editing & Export
+    - Non-destructive Time Editing. Removing some part of the video is very easy with Emulsio, and you can always change your mind until final video export.
+    - Export Options. Once editing is finished, you can export back to your album, social networks like Facebook, or any other app capable of handling videos.
+Version 1.1.5 (Nov 12, 2012)
+    • Updated Dutch localization
+Version 1.1.4 (Oct 2, 2012)
+    • Updated for iOS6
+    • Updated for iPhone 5 (4-inch display)
+    • Improved stabilization accuracy
+Version 1.1.3 (Mar 31, 2012)
+    • Updated for the new iPad (Retina visuals)
+Version 1.1.2 (Dec 13, 2011)
+    • Fixed video picker problem
+    • Localized to Dutch and Italian
+Version 1.1.1 (Oct 25, 2011)
+    - Updated for iOS 5
+    - Dutch Localization of the User Interface
+Version 1.1 (Apr 2, 2011)
+    - Now iPad 2 compatible (universal app)
+    - Faster access to input videos
+    - Various bug fixes
+Version 1.0.4 (Mar 3, 2011)
+    - Workaround for a player crash when toggling On/Off
+Version 1.0.3 (Jan 28, 2011)
+    - Corrected black preview bug
+
+    - Better compatibility with videos taken with 8mm app
+
+    - Smoother previewing for HD videos
+
+    - Improved German localization
+Version 1.0.2 (Jan 20, 2011)
+    - Fixed a crash when choosing a video when the library contains AVI files.
+
+    - Fixed panel autohiding bug
+Version 1.0.1 (Jan 5, 2011)
+    • Added German Localization
+Version 1.0 (Dec 30, 2010)
+
+Users may also like
+Select objects to compare
+stabcam - Stabilize Videos
+StableCam: Video Stabilization
+Focos Live
+Video Shake Correction
+PowerDirector - Video Editor
+LumaFusion
+Protake - Mobile Cinema Camera
+Filmic Pro－Video Camera
+Pro Camera by Moment
+DJI Ronin
+IQ Classifications
+Genre: Photo & Video
+Subgenre: Video Editing
+Video Editing
+Apps permitting users to trim, re-sequence, and adding special effects to video clips.
+Downloads Rank
+Store Revenue Rank
+Screenshots
+Last Featured (Global)
+iPhone Market
+Not featuredon App Store homepage
+5 times
+on App Store category pages
+Versions
+
+    4.0.1
+    Current release
+    Jan 25, 2024
+    4.0
+    May 23, 2023
+    3.6.7
+    Oct 12, 2022
+    3.6.6
+    Sep 16, 2022
+    3.6.5
+    Sep 15, 2022
+    3.6.4
+    Mar 30, 2022
+    3.6.3
+    Nov 5, 2021
+    3.6.2
+    Apr 21, 2021
+    3.6.1
+    Jan 20, 2021
+    3.6
+    Jan 18, 2021
+    3.5.3
+    Dec 11, 2020
+    3.5.2
+    Dec 7, 2020
+    3.5.1
+    Oct 23, 2020
+    3.5
+    Oct 20, 2020
+    3.1.4
+    Aug 10, 2020
+    3.1.3
+    Jun 9, 2020
+    3.1.2
+    Jan 9, 2020
+    3.1.1
+    Jan 28, 2019
+    3.1
+    Dec 10, 2018
+    3.0.3
+    Oct 4, 2018
+    3.0.2
+    Aug 17, 2018
+    3.0.1
+    Jun 20, 2018
+    3.0
+    Jun 19, 2018
+    2.7
+    Nov 3, 2017
+    2.6.3
+    Oct 13, 2017
+    2.6.2
+    Oct 6, 2017
+    2.6.1
+    Oct 2, 2017
+    2.6
+    Sep 19, 2017
+    2.5.8
+    Oct 4, 2016
+    2.5.7
+    Mar 30, 2016
+    2.5.6
+    May 7, 2015
+    2.5.5
+    Mar 13, 2015
+    2.5.4
+    Jan 2, 2015
+    2.5.3
+    Oct 30, 2014
+    2.5.2
+    Oct 3, 2014
+    2.5.1
+    Sep 24, 2014
+    2.5
+    Sep 18, 2014
+    2.0.4
+    Jul 16, 2014
+    2.0.3
+    Apr 20, 2014
+    2.0.2
+    Mar 26, 2014
+    2.0.1
+    Mar 11, 2014
+    2.0
+    Feb 26, 2014
+    1.1.5
+    Nov 12, 2012
+    1.1.4
+    Oct 2, 2012
+    1.1.3
+    Mar 31, 2012
+    1.1.2
+    Dec 13, 2011
+    1.1.1
+    Oct 25, 2011
+    1.1
+    Apr 2, 2011
+    1.0.4
+    Mar 3, 2011
+    1.0.3
+    Jan 28, 2011
+    1.0.2
+    Jan 20, 2011
+    1.0.1
+    Jan 5, 2011
+    1.0
+    Dec 30, 2010
+
+See More
+Top In-App Purchases
+
+    Pro Plan (Monthly)
+    $0.99
+    Pro Plan (Yearly)
+    $5.99
+    Pro Pack 3
+    $15.99
+    Pro Pack 3.0 (Migration)
+    $7.99
+    Pro Pack 4
+    $15.99
+    Pro Pack 4 (Upgrade)
+    $7.99
+
+About
+
+Required Devices
+    Mac, iPhone, iPad, Other iOS Device
+
+Category
+    Photo and Video
+
+Initial Release Date
+    Jan 11, 2011
+
+Worldwide Release Date
+    Jan 11, 2011
+
+Last Updated Time
+    Feb 28, 2024
+
+Version
+    4.0.1
+
+Size
+    13.47 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Czech, Dutch, French, German, Hindi, Italian, Japanese, Norwegian Bokmål, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese
+
+Seller
+    Creaceed SRL
+
+Company HQ
+    Belgium
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 14.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.creaceed.moviestiller
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+Developer Account Website
+
+Company Website
+
+App ID: 397583851
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Emulsio 4 › Video Stabilizer | data.ai

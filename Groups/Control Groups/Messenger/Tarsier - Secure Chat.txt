@@ -1,0 +1,293 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Tarsier - Secure Chat
+奇 莫Social Networking (Applications)Free
+Alerts
+
+    奇 莫
+
+    Tarsier - Secure Chat
+    Tarsier - Secure Chat
+
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+Downloads
+N/A
+Store Revenue
+N/A
+Active Users
+N/A
+% Paid Downloads
+N/A
+Tarsier - Secure Chat
+Decentralized Instant Message
+Social Networking (Applications)
+Free
+App Promotional Text
+Tarsier is a brand new app focused on secure chats for protecting your privacy.
+It generates user ID locally, save the private key in your device only, not anywhere else.
+App Description
+Imagine a world where you can message anyone without being forced to install the same app,
+Imagine a world where you can host your own communication and still be part of a huge network.
+This will be brought to you by Tarsier Secure Chat, which is powered by DIM.
+
+DIM - an open source project that provides the protocol and system architecture.
+which is designed for the next generation Internet that is coming.
+DIM network could serve as a social network, in which users can send messages or digital assets freely.
+Besides that, DIM can serve the Internet of Things as well. Allowing software to communicate autonomously.
+
+Although other platforms are owned and operated by a single corporation, who has full control over everything,
+DIM network is decentralized, and there is no one server, company, or person running it.
+Anyone can join and run their own services on DIM network.
+
+But, how does this work?
+
+When someone joins DIM network with their servers, they are called Service Providers.
+Since DIM network is open, a Service Provider can have its own set of services, while complying with DIM Protocol.
+User identification is generated and verified using a cryptographically algorithm,
+and no longer authenticated by a single corporation.
+Because of this, Service Providers cannot monetize the user’s privacy or data,
+they must compete by providing better services, and a better ecosystem.
+
+This means that all the Service Providers share the same potential user base.
+And users could choose the Service Provider that fits their needs at anytime.
+
+Nowadays, the internet users place greater emphasis on protecting their privacy,
+many people are concerned that their private information may be illegally used.
+I hope this app can build a more safety social network to allow who don't want to provide too much information to the man-in-the-middle,
+can still keep in touch with their friends freely.
+
+Hope this application can bring you more convenience. Enjoy it!
+Ratings
+Displayed Avg Ratings
+5
+Total Displayed Ratings
+5
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.2.2 (Jan 22, 2024)
+    1. Mention somebody in group chat;
+    2. Muted status in chat list;
+    3. Show contact's language & client info;
+    4. Localization for Turkish.
+Version 1.2.1 (Dec 22, 2023)
+    1. Choose relay stations;
+    2. Draft for each conversations;
+    3. Clear last message in conversation when burning expired messages.
+Version 1.2.0 (Dec 2, 2023)
+    1. Save image into album;
+    2. Downloading/decrypting indicator for image and audio message;
+    3. View more members in group chat;
+    4. Browser for HTML.
+Version 1.1.3 (Nov 15, 2023)
+    1. Localizations:
+    - English
+    - Spanish
+    - French
+    - German
+    - Italian
+    - Dutch
+    - Portuguese
+    - Russian
+    - Modern Standard Arabic
+    - Afrikaans
+    - Hindi
+    - Bengali
+    - Japanese
+    - Korean
+    - Malaysian
+    - Thai
+    - Indonesian
+    - Vietnamese
+    - Simplified Chinese
+    - Traditional Chinese
+    2. Switch brightness;
+    3. Preview for selection;
+    4. Show last active time;
+    5. Burn After Reading.
+Version 1.1.1 (Oct 20, 2023)
+    Group management:
+
+    1. Group owner can add/remove administrators;
+    2. Group owner/administrators can add/remove members directly;
+    3. Other members can invite new members, new invitations will be shown to the owner/admin and wait for review;
+    4. Owner/admin can review new invitations, confirm whether accept them;
+    5. Administrator cannot quit group until the owner remove them from administrators list.
+
+    DIM group is based on a consensus algorithm, it's created by the founder, the ID was generated in the founder's app, and broadcast to its members.
+    The relay stations (intermediate nodes) cannot change the member list, the group owner (founder) controls everything.
+Version 1.1.0 (Sep 27, 2023)
+    Decentralized Group Chats:
+    1. Generate group ID and meta info in your device;
+    2. Manage the membership based on a consensus algorithm;
+    3. Send group messages after encrypted by a cipher key generated locally, share this key with all members in this group only;
+    Based on the above, you can completely control your group, no dependence on any central server.
+Version 1.0.3 (Aug 1, 2023)
+    1. NameCard for sharing contacts;
+    2. Sharing web pages;
+    3. Forwarding image messages.
+Version 1.0.2 (Jul 13, 2023)
+    1. Rich text to recognize URLs in text messages;
+    2. Open an In-App-Browser to show web page content;
+    3. Confirm picked image before sending out.
+Version 1.0.1 (Jun 26, 2023)
+    New features:
+    1. Stranger list for new friends;
+    2. Blocked list for rejecting spams;
+    3. Muted list for ignoring notifications;
+    4. Remark for contacts to set alias.
+Version 1.0.0 (May 30, 2023)
+
+Users may also like
+Select objects to compare
+Beezle Social
+Nafiini
+CypherChat
+Knock Messenger
+n-gage messenger
+Doot Messenger
+DimpleChat - Secure Messenger
+Realchat - Web3 Club Messaging
+DeFO - Profit-Share Membership
+Foster Greatness: Community
+Screenshots
+Last Featured (Global)
+No data is available.
+Versions
+
+    1.2.2
+    Current release
+    Jan 22, 2024
+    1.2.1
+    Dec 22, 2023
+    1.2.0
+    Dec 2, 2023
+    1.1.3
+    Nov 15, 2023
+    1.1.1
+    Oct 20, 2023
+    1.1.0
+    Sep 27, 2023
+    1.0.3
+    Aug 1, 2023
+    1.0.2
+    Jul 13, 2023
+    1.0.1
+    Jun 26, 2023
+    1.0.0
+    May 30, 2023
+
+See More
+About
+
+Required Devices
+    iPhone, iPad, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    May 30, 2023
+
+Worldwide Release Date
+    May 30, 2023
+
+Last Updated Time
+    Feb 23, 2024
+
+Version
+    1.2.2
+
+Size
+    43.69 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English
+
+Seller
+    奇 莫
+
+Content Rating
+    Rated 17+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 12.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    chat.dim.tarsier
+
+Has Game Center
+    No
+
+Has iMessage
+    No
+
+App Privacy Policy Url
+
+App ID: 6449430440
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Tarsier - Secure Chat | data.ai

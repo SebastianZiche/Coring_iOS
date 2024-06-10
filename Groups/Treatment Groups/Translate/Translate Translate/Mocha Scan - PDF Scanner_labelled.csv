@@ -1,0 +1,3 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note,dummy_1,dummy_2,dummy_3,dummy_4,dummy_5,dummy_6,dummy_7,dummy_8
+1485544334,0,Mocha Scan PDF Scanner,Business,2019-10-31,2019-10-31,1.17,1,0,0,0,1.1,2020-02-04,Fixed problems with small screens. Gives warning before deleting a document. General bug fixing.,0,0,0,0,0,0,0,0
+1485544334,0,Mocha Scan PDF Scanner,Business,2019-10-31,2019-10-31,1.17,1,0,0,0,1.0,2019-10-31,,0,0,0,0,0,0,0,0

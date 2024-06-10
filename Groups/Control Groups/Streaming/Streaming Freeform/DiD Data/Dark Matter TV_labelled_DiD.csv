@@ -1,0 +1,9 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,updates_per_month,function_updates_per_month,time_dummy_1,time_dummy_2,time_dummy_3,time_dummy_4,time_dummy_5,time_dummy_6,time_dummy_7,time_dummy_8,month_indicator,affected,after_entry,elapsed_avg_days,avg_age_days
+1474261935,0,Dark Matter TV,Entertainment,2020-09-13,2019-10-03,39.9,1,0,0,0,1,0,1,0,0,0,0,0,0,0,month_1,0,0,1013,1118.0
+1474261935,0,Dark Matter TV,Entertainment,2020-09-13,2019-10-03,39.9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,month_2,0,0,1043,1118.0
+1474261935,0,Dark Matter TV,Entertainment,2020-09-13,2019-10-03,39.9,1,0,0,0,0,0,0,0,1,0,0,0,0,0,month_3,0,0,1073,1118.0
+1474261935,0,Dark Matter TV,Entertainment,2020-09-13,2019-10-03,39.9,1,0,0,0,0,0,0,0,0,1,0,0,0,0,month_4,0,0,1103,1118.0
+1474261935,0,Dark Matter TV,Entertainment,2020-09-13,2019-10-03,39.9,1,0,0,0,0,0,0,0,0,0,1,0,0,0,month_5,0,1,1133,1118.0
+1474261935,0,Dark Matter TV,Entertainment,2020-09-13,2019-10-03,39.9,1,0,0,0,0,0,0,0,0,0,0,1,0,0,month_6,0,1,1163,1118.0
+1474261935,0,Dark Matter TV,Entertainment,2020-09-13,2019-10-03,39.9,1,0,0,0,0,0,0,0,0,0,0,0,1,0,month_7,0,1,1193,1118.0
+1474261935,0,Dark Matter TV,Entertainment,2020-09-13,2019-10-03,39.9,1,0,0,0,0,0,0,0,0,0,0,0,0,1,month_8,0,1,1223,1118.0

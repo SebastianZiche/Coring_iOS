@@ -1,0 +1,773 @@
+Skip to main content
+Intelligence
+Free
+
+Home
+Discover
+
+Mobile Performance Score
+Analyze
+
+Optimize
+
+Creatives
+
+        Keyword Search
+
+Lysn
+Dear USocial Networking (Applications)Free
+Alerts
+
+Lysn
+Lysn
+Lysn
+Info
+App Summary
+SDKs
+Timeline
+App Store Rankings
+Daily Ranks
+Rank History
+Downloads & Revenue
+Downloads & Revenue
+Ad Revenue
+In-App Purchases  New
+Usage & Engagement
+Usage
+User Retention
+Cross-App/Web Usage
+Demographics
+Reviews
+Ratings Over Time
+User Acquisition
+ASO Keywords
+Paid Search
+Keyword Defense
+Featured
+Advertising
+Ad Monetization
+App Overview
+Select localized version
+Countries or Region
+Worldwide
+Performance Summary
+No data is available.
+Loading
+Loading lots of data (this could take a moment).
+Lysn
+Private messages from my idol
+Social Networking (Applications)
+Free
+iPhone Only
+App Description
+Make your day more special with a message like a gift from your favorite idol!
+
+Start bubble right now
+and don't miss out on special private messages between you and your favorite idol!
+
+--------------
+
+[Service Overview]
+01. Favorite Idol's Everyday Story
+Receive a special everyday message from the artist who calls your name.
+
+02. Favorite Idol's Dedicated Content
+See dedicated content sent directly from artists.
+
+03. Your favorite idol is waiting for your reply
+Reply to the artist with a message filled with encouragement and love.
+
+04. Anniversary with Your Favorite Idol
+Today is Day 1! See the special anniversary date between you and your artist.
+
+05. Chatting in my language
+Read the artist's message and send a reply in your language.
+
+[Optional Access Authority]
+
+01. Photo Gallery
+Used to send and store photos and videos and to set profile pictures and chatroom background images
+
+02. Camera
+Used to film and send photos and videos and to set profile pictures and chatroom background images
+
+03. Mic
+Used to record and send voice messages and videos
+
+[Subscription Products]
+01. Lysn benefits
+- You can select artists to receive bubble messages from according to the number of artist subscription coupons you have purchased.
+- Receive bubbles sent directly from the artist of your choice.
+
+02. Subscription Prices and Period
+- Subscribe through iTunes, and the payment amount will be billed to your iTunes account.
+- Prices may vary depending on the number of artist subscriptions you purchase. Please refer to the bubble purchase website for details.
+- Subscriptions are monthly and automatically renewed.
+
+[bubble Official SNS]
+- Twitter: https://twitter.com/dearu_bubble
+- Instagram: https://instagram.com/dearu_bubble
+- Facebook: https://www.facebook.com/Dearububble.official
+
+[Terms]
+- Terms of Use:
+https://api.lysn.com/terms/?msgType=service&locale=en
+- Privacy Policy:
+https://api.lysn.com/terms/?msgType=privacyPolicy&locale=en
+
+[Information]
+- Questions/Suggestions: help@lysn.com
+Ratings
+Displayed Avg Ratings
+3.16
+Total Displayed Ratings
+22.0k
+
+Total Displayed Ratings
+Pie chart with 5 slices.
+End of interactive chart.
+© 2024 data.ai Intelligence | sebastian.ziche@uni-potsdam.de
+See More
+What's New
+
+Version 1.5.5 (Feb 7, 2024)
+    App stability has been improved.
+Version 1.5.4 (Jan 18, 2024)
+    App stability has been improved.
+Version 1.5.2 (Jan 3, 2024)
+    App stability has been improved.
+Version 1.5.1 (Dec 27, 2023)
+    Update notice!
+
+    1. The OUR BOX feature has been newly added.
+    Now, you can store messages from your favorite ARTIST in OUR BOX that you want to keep.
+    Messages stored in OUR BOX can be viewed all at once, anytime and anywhere, whenever you want to see them.
+
+    2. App stability has also been improved.
+
+    Please update it to the latest version now!
+Version 1.5.0 (Dec 26, 2023)
+    Update notice!
+
+    1. The OUR BOX feature has been newly added.
+    Now, you can store messages from your favorite ARTIST in OUR BOX that you want to keep.
+    Messages stored in OUR BOX can be viewed all at once, anytime and anywhere, whenever you want to see them.
+
+    2. App stability has also been improved.
+
+    Please update it to the latest version now!
+Version 1.4.8 (Nov 3, 2023)
+    App stability has been improved.
+Version 1.4.7 (Oct 11, 2023)
+    Update notice!
+
+    1. The 'Custom nickname setting' function has been updated.
+    Now you can set your nicknames for the artists to call you by for each artist you subscribe to!
+
+    2. The function to receive 'special message' from an artist has now been added.
+    Get a special happy birthday message from an artist you subscribe to.
+
+    please update it to the latest version now!
+Version 1.4.6 (Jul 14, 2023)
+    Improve application stability
+Version 1.4.5 (Jun 22, 2023)
+    1. The Sticker has been added.
+    - Have a fun conversation with the ARTIST with sticker!
+    2. App stability has also been improved.
+Version 1.4.4 (Jun 8, 2023)
+    App stability has also been improved.
+Version 1.4.2 (Apr 12, 2023)
+    App stability has also been improved.
+Version 1.4.1 (Mar 30, 2023)
+    App stability has been improved.
+Version 1.4.0 (Mar 16, 2023)
+    1. Calendar Service will be closed.
+    2. App stability has also been improved.
+Version 1.3.16 (Dec 16, 2022)
+    1. We’ve added new free stickers for the christmas !
+    2. App stability has also been improved.
+Version 1.3.14 (Oct 25, 2022)
+    1. Public Chat Services will be closed. 
+    2. App stability has also been improved. 
+Version 1.3.13 (Oct 4, 2022)
+    1. A subscription date maintenance feature has been added for paused artists on bubble.
+    The subscription date will continue to accumulate until the paused artist returns!
+    Please check out the in-app notices for details!
+
+    2. App stability has also been improved.
+Version 1.3.12 (Sep 13, 2022)
+    Improve application stability
+Version 1.3.11 (Aug 19, 2022)
+    Improve application stability
+Version 1.3.10 (Jun 17, 2022)
+    Improve application stability
+Version 1.3.9 (May 17, 2022)
+    Improve application stability 
+Version 1.3.8 (May 2, 2022)
+    Improve application stability
+Version 1.3.7 (Apr 13, 2022)
+    Update notice!
+    1. Save Artist's Profile function added.
+    - Save artist's bubble profile picture to your album!
+    2. Improved Collage function.
+    - Check voice messages through the collage function!
+    - Voice message storage path has been changed.
+    App stability has also been improved.
+Version 1.3.5 (Jan 24, 2022)
+    Improve application stability
+Version 1.3.4 (Dec 30, 2021)
+    Improve application stability
+Version 1.3.3 (Dec 14, 2021)
+    Improve application stability
+Version 1.3.2 (Dec 10, 2021)
+    Improve application stability
+Version 1.3.1 (Dec 6, 2021)
+    The translation function has been updated.
+
+    Now choose between 'Papago' and 'Google' translation and try it!
+
+    App stability has also been improved.
+Version 1.2.16 (Aug 27, 2021)
+    Improve application stability
+Version 1.2.15 (Jul 15, 2021)
+    - Screenshot disabling function has been added.
+
+    - App stability has also been improved.
+Version 1.2.14 (May 20, 2021)
+    - The bubble reply function has been improved.
+
+    You can send another 3 replies once a certain amount of time has passed since the artist has sent the last message.
+
+    - App stability has also been improved.
+Version 1.2.13 (Mar 29, 2021)
+    Improve application stability
+Version 1.2.12 (Feb 8, 2021)
+    Improve application stability
+Version 1.2.10 (Jan 14, 2021)
+    Improve application stability
+Version 1.2.8 (Dec 29, 2020)
+    Improve application stability
+Version 1.2.7 (Nov 6, 2020)
+    Improve application stability
+Version 1.2.6 (Oct 30, 2020)
+    These are the key updates for Lysn.
+
+    1.The character count for a reply gets longer depending on the subscription period.The longer you subscribe with an artist, the longer the character count gets.Please check the notices in our app for the details!
+    2.Download your favorite’s voice in your device!The voice message you could only listen to in bubble chat,you can now download it in your device and listen whenever you want.
+    3.Improved app stability
+Version 1.2.5 (Oct 28, 2020)
+    These are the key updates for Lysn.
+
+    1.The character count for a reply gets longer depending on the subscription period.The longer you subscribe with an artist, the longer the character count gets.Please check the notices in our app for the details!
+    2.Download your favorite’s voice in your device!The voice message you could only listen to in bubble chat,you can now download it in your device and listen whenever you want.
+    3.Improved app stability
+Version 1.2.4 (Sep 18, 2020)
+    Improve application stability
+Version 1.2.3 (Aug 27, 2020)
+    Improve application stability
+Version 1.2.2 (Aug 14, 2020)
+    Improve application stability
+Version 1.2.1 (Aug 1, 2020)
+    Improve application stability
+Version 1.2.0 (Jul 15, 2020)
+    Improve application stability
+Version 1.1.23 (Jul 4, 2020)
+    Dear U. bubble will be available in Japan. (scheduled for July 6, KST).
+    (※ Official community service in Lysn app is not available in Japan.)
+
+    Here are the new updates on Lysn!
+
+    1.Japanese translation feature added
+    Japanese has been added to available languages.
+
+    2.Other usability improvements and bug fixes
+    Existing features were improved, and bugs were fixed to ensure app stability.
+Version 1.1.22 (Jul 2, 2020)
+    At long last, Lysn is to be officially launched in Japan. (Scheduled on July 6 in KST)
+
+    Here are the new updates on Lysn!
+
+    Japanese translation feature addedJapanese has been added to available languages.
+
+    Other usability improvements and bug fixesExisting features were improved, and bugs were fixed to ensure app stability.
+Version 1.1.21 (May 29, 2020)
+    Improve application stability
+Version 1.1.20 (May 12, 2020)
+    - Improve application stability
+Version 1.1.19 (May 9, 2020)
+    - Improve application stability
+Version 1.1.18 (Apr 29, 2020)
+    - Improve application stability
+Version 1.1.17 (Apr 23, 2020)
+    [Here is an NEW function update!]
+    1. Replying to your favorite ARTIST in the Dear U. bubble
+    FINALLY, you can reply to your ARTIST.
+    This update is mandatory if you want to use the reply function!
+
+    2. N days since you and I have been.
+    If you want to know how long ARTIST bubble started, check out the bubble chat room now!
+
+    3. Add the function of ARTIST badge ON/OFF
+    You can freely turn on and off the ARTIST badge in the bubble chat room!
+Version 1.1.16 (Apr 2, 2020)
+    - Improve application stability
+Version 1.1.15 (Mar 21, 2020)
+    - Improve application stability
+Version 1.1.14 (Mar 12, 2020)
+    - Improve application stability
+Version 1.1.13 (Mar 4, 2020)
+    [Update if you are a Lysn member!]
+    1. The ACE membership for the fan club community will be extended (in March).
+    Use the updated app to purchase the ACE membership code within the extension period.
+    (Button will be visible only to the eligible members.)
+
+    2. FINALLY, you can download images in the community.
+    SAVE your most precious photos on your phone now!
+
+    3. Check sticker info.
+    Long press the sticker used by the artist to check its info!
+
+    Update your Lysn app right now and get more benefits!
+Version 1.1.12 (Feb 5, 2020)
+    FINALLY, Dear U. bubble Open!
+    Private messaging between you and your favorite artist, Dear U. bubble!
+    Check the details in Lysn after updating your App to the latest version!
+Version 1.1.11 (Jan 11, 2020)
+    - Improve application stability
+Version 1.1.10 (Jan 8, 2020)
+    [If you are a member of Lysn, this update is important!]
+    1. Extended period of ACE membership in fan club (available in January)
+    You can purchase the ACE membership code within extension period only if you use the latest updated version of the application. (Extend button will be exposed to target only.)
+
+    2. Long Image Cropped Automatically
+    Automatic cropped images can be viewed as full images in the details.
+
+    Please get more benefits after updating to the latest version right now!
+Version 1.1.9 (Dec 6, 2019)
+    - Improve application stability
+Version 1.1.8 (Nov 14, 2019)
+    - Improve application stability
+Version 1.1.7 (Nov 11, 2019)
+    [Useful Lysn Updates to know]
+
+    1. Fixed Thumbnail image Ratio of Community List
+    - Modifications have been made for artist's photos to not get cropped in the communities list
+
+    2. ACE Badge Visible on Community Posts
+    - For ACE members, a badge will appear next to their profile when posting or commenting in the community
+Version 1.1.6 (Oct 31, 2019)
+    - Improve application stability
+Version 1.1.5 (Oct 14, 2019)
+    - Improve application stability
+Version 1.1.4 (Oct 10, 2019)
+    [Here are some helpful updates on Lysn]
+
+    1. An error in community calendar has been fixed.
+
+    2. Quick access to comments
+
+    - Click the notification or the comment shown in the search list to go directly to the comment.
+
+    3. Updated MY Profile
+
+    - Full-screen profile and background settings, check out the fan club communities or member level in profile.
+
+    4. New type of notifications
+
+    - Notifications that don't generate alarms in fan club pages have been added.
+
+    Check notifications you might have missed.
+Version 1.1.3 (Jul 31, 2019)
+    Here is an updated Lysn for better fanboying/girling!
+
+    Update to the latest version to enjoy a convenient fanboying/fangirling life
+
+
+    1. New post filtering features
+
+    - A language filter for only viewing artist's, staff's, and your own posts
+
+    - A language filter for only viewing the posts of desired language
+
+
+    2. View the artist’s activity log in one post!
+
+    - Platform updated for easily seeing your favorite comments and likes
+
+
+    3. Easily check the author’s badge!
+
+    - Just look at the badge and see who wrote the post
+Version 1.1.2 (Jul 5, 2019)
+    - Improve application stability
+Version 1.1.1 (Jun 6, 2019)
+    - Improve application stability
+Version 1.1.0 (Jun 3, 2019)
+    Here are some updates from Lysn after hearing your valuable thoughts!
+
+    1. Now some more words are banned.
+    - Certain words are banned in order to make a pleasant Lysn environment.
+    (Applicable to: Community, open chat rooms)
+    - In addition to general prohibited words throughout Lysn, there are separate banned words for each community and open chat room.
+    The administrator and sub-administrator can set and manage banned words in their community or open chat room.
+
+    2. You can now see the announcement board with more ease.
+    - You can show the two most recent announcements on the home screen
+    and see all posts that were previously put up as announcements in one place.
+
+    3. You can also change the calendar view in the community.
+    - The update allows you to change the calendar from a list view to a monthly view.
+    Choose the mode you prefer and never miss out on important events!
+Version 1.0.23 (Apr 25, 2019)
+    - Improve application stability
+Version 1.0.22 (Apr 22, 2019)
+    - Improve application stability
+Version 1.0.21 (Apr 19, 2019)
+    - Improve application stability
+Version 1.0.20 (Apr 16, 2019)
+    - Improve application stability
+Version 1.0.19 (Mar 21, 2019)
+    Improve application stability
+Version 1.0.18 (Mar 20, 2019)
+    Improve application stability
+Version 1.0.17 (Mar 15, 2019)
+    Improve application stability
+Version 1.0.16 (Mar 14, 2019)
+    - Improve application stability
+Version 1.0.15 (Feb 25, 2019)
+    - Improve application stability
+Version 1.0.14 (Feb 9, 2019)
+    - Improve application stability
+Version 1.0.13 (Feb 1, 2019)
+    - Improve application stability
+Version 1.0.12 (Jan 26, 2019)
+    - Improve application stability
+Version 1.0.11 (Jan 23, 2019)
+    - Improve application stability
+Version 1.0.10 (Jan 22, 2019)
+    - Improve application stability
+Version 1.0.9 (Jan 18, 2019)
+    - Improve application stability
+Version 1.0.8 (Jan 12, 2019)
+    - Improve application stability
+Version 1.0.7 (Jan 11, 2019)
+    - Improve application stability
+Version 1.0.6 (Jan 10, 2019)
+    - Improve application stability
+Version 1.0.5 (Jan 8, 2019)
+    - Improve application stability
+Version 1.0.4 (Jan 4, 2019)
+    - Improve application stability
+Version 1.0.3 (Jan 3, 2019)
+    - Improve application stability
+Version 1.0.2 (Dec 30, 2018)
+    Improve application stability
+
+Users may also like
+Select objects to compare
+Phoning
+17LIVE - Live Streaming & Chat
+Weverse
+다음 카페 - Daum Cafe
+WorldTalk-Make Foreign Friends
+Nico-多元人格交友
+FANS - For Fans & Artists
+Weibo intl.
+SuperStar X
+Maum - Friendly Voice Chat
+IQ Classifications
+Genre: Entertainment
+Subgenre: Other Entertainment
+Other Entertainment
+Other entertainment apps that do not fit other existing Entertainment subgenres.
+Downloads Rank
+N/A
+Store Revenue Rank
+N/A
+Loading
+Loading lots of data (this could take a moment).
+Screenshots
+Last Featured (Global)
+iPhone Market
+3 times
+on App Store homepage
+4 times
+on App Store category pages
+Versions
+
+    1.5.5
+    Current release
+    Feb 7, 2024
+    1.5.4
+    Jan 18, 2024
+    1.5.2
+    Jan 3, 2024
+    1.5.1
+    Dec 27, 2023
+    1.5.0
+    Dec 26, 2023
+    1.4.8
+    Nov 3, 2023
+    1.4.7
+    Oct 11, 2023
+    1.4.6
+    Jul 14, 2023
+    1.4.5
+    Jun 22, 2023
+    1.4.4
+    Jun 8, 2023
+    1.4.2
+    Apr 12, 2023
+    1.4.1
+    Mar 30, 2023
+    1.4.0
+    Mar 16, 2023
+    1.3.16
+    Dec 16, 2022
+    1.3.14
+    Oct 25, 2022
+    1.3.13
+    Oct 4, 2022
+    1.3.12
+    Sep 13, 2022
+    1.3.11
+    Aug 19, 2022
+    1.3.10
+    Jun 17, 2022
+    1.3.9
+    May 17, 2022
+    1.3.8
+    May 2, 2022
+    1.3.7
+    Apr 13, 2022
+    1.3.5
+    Jan 24, 2022
+    1.3.4
+    Dec 30, 2021
+    1.3.3
+    Dec 14, 2021
+    1.3.2
+    Dec 10, 2021
+    1.3.1
+    Dec 6, 2021
+    1.2.16
+    Aug 27, 2021
+    1.2.15
+    Jul 15, 2021
+    1.2.14
+    May 20, 2021
+    1.2.13
+    Mar 29, 2021
+    1.2.12
+    Feb 8, 2021
+    1.2.10
+    Jan 14, 2021
+    1.2.8
+    Dec 29, 2020
+    1.2.7
+    Nov 6, 2020
+    1.2.6
+    Oct 30, 2020
+    1.2.5
+    Oct 28, 2020
+    1.2.4
+    Sep 18, 2020
+    1.2.3
+    Aug 27, 2020
+    1.2.2
+    Aug 14, 2020
+    1.2.1
+    Aug 1, 2020
+    1.2.0
+    Jul 15, 2020
+    1.1.23
+    Jul 4, 2020
+    1.1.22
+    Jul 2, 2020
+    1.1.21
+    May 29, 2020
+    1.1.20
+    May 12, 2020
+    1.1.19
+    May 9, 2020
+    1.1.18
+    Apr 29, 2020
+    1.1.17
+    Apr 23, 2020
+    1.1.16
+    Apr 2, 2020
+    1.1.15
+    Mar 21, 2020
+    1.1.14
+    Mar 12, 2020
+    1.1.13
+    Mar 4, 2020
+    1.1.12
+    Feb 5, 2020
+    1.1.11
+    Jan 11, 2020
+    1.1.10
+    Jan 8, 2020
+    1.1.9
+    Dec 6, 2019
+    1.1.8
+    Nov 14, 2019
+    1.1.7
+    Nov 11, 2019
+    1.1.6
+    Oct 31, 2019
+    1.1.5
+    Oct 14, 2019
+    1.1.4
+    Oct 10, 2019
+    1.1.3
+    Jul 31, 2019
+    1.1.2
+    Jul 5, 2019
+    1.1.1
+    Jun 6, 2019
+    1.1.0
+    Jun 3, 2019
+    1.0.23
+    Apr 25, 2019
+    1.0.22
+    Apr 22, 2019
+    1.0.21
+    Apr 19, 2019
+    1.0.20
+    Apr 16, 2019
+    1.0.19
+    Mar 21, 2019
+    1.0.18
+    Mar 20, 2019
+    1.0.17
+    Mar 15, 2019
+    1.0.16
+    Mar 14, 2019
+    1.0.15
+    Feb 25, 2019
+    1.0.14
+    Feb 9, 2019
+    1.0.13
+    Feb 1, 2019
+    1.0.12
+    Jan 26, 2019
+    1.0.11
+    Jan 23, 2019
+    1.0.10
+    Jan 22, 2019
+    1.0.9
+    Jan 18, 2019
+    1.0.8
+    Jan 12, 2019
+    1.0.7
+    Jan 11, 2019
+    1.0.6
+    Jan 10, 2019
+    1.0.5
+    Jan 8, 2019
+    1.0.4
+    Jan 4, 2019
+    1.0.3
+    Jan 3, 2019
+    1.0.2
+    Dec 30, 2018
+
+See More
+Top In-App Purchases
+
+    NCT 1 Ticket
+    $3.99
+    NCT 2 Tickets
+    $6.99
+    WayV 1 Ticket
+    $3.99
+    EXO 1 Ticket
+    $3.99
+    SHINee 1 Ticket
+    $3.99
+    NCT 3 Tickets
+    $9.99
+    WayV 2 Tickets
+    $6.99
+    EXO 2 Tickets
+    $6.99
+    SUPER JUNIOR 1 Ticket
+    $3.99
+    aespa 1 Ticket
+    $3.99
+
+About
+
+Required Devices
+    iPhone, Other iOS Device
+
+Category
+    Social Networking
+
+Initial Release Date
+    Dec 30, 2018
+
+Worldwide Release Date
+    Dec 25, 2018
+
+Last Updated Time
+    Mar 1, 2024
+
+Version
+    1.5.5
+
+Size
+    134.17 mb
+
+Only 32 Bit
+    No
+
+Languages
+    English, Indonesian, Japanese, Korean, Simplified Chinese, Thai, Traditional Chinese, Vietnamese
+
+Seller
+    Dear U Co., Ltd.
+
+Company HQ
+    South Korea
+
+Content Rating
+    Rated 4+
+
+Family Sharing
+    Yes
+
+Requirement
+    Requires iOS 11.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+Bundle ID
+    com.everysing.lysn
+
+Has Game Center
+    No
+
+Supports Apple watch
+    No
+
+Has iMessage
+    No
+
+App Support Url
+
+App Privacy Policy Url
+
+App ID: 1425722238
+Unified App ID: 1000600000695323
+
+The data was collected from the App Store. Please note data.ai is not responsible for the content provided by the App Store.
+© 2024 data.ai
+About data.ai
+Help Center
+About our API
+Data Usage Policy
+Copyright Policy
+Terms of Service
+Privacy Policy
+
+Lysn | data.ai

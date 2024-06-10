@@ -1,0 +1,11 @@
+ngram,frequency
+"('best', 'app', 'ever')",36
+"('best', 'drawing', 'app')",10
+"('best', 'thing', 'ever')",10
+"('app', 'keeps', 'crashing')",8
+"('best', 'game', 'ever')",7
+"('drawing', 'app', 'ever')",5
+"('good', 'could', 'better')",5
+"('great', 'app', 'needs')",5
+"('love', 'free', 'form')",5
+"('worst', 'app', 'ever')",5

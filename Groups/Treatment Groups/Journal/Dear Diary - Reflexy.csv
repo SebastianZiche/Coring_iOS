@@ -1,0 +1,32 @@
+app_id,unified_app_id,app_name,app_category,worldwide_release,initial_release,app_size,app_lang,multihoming,paid,in_app_purchases,app_version,app_version_date,release_note
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.16,2024-02-20,Some fields like activities are no longer mandatory
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.15,2024-02-11,Statistics and upload bug fix
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.14,2024-02-05,Fix bugs
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.13,2024-01-30,Fix export backup
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.12,2024-01-28,Physical safety need added Minor bug fix
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.11,2024-01-22,Fix import export backup
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.10,2024-01-20,Localization fix
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.7,2024-01-07,Fix banner ads showing
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.4,2024-01-03,Fix upload media
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,2.0.1,2024-01-02,Fix upload images
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.6.0,2023-12-09,New App Icon implemented Bug with default chart dates fixed Pinned story card removed
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.5.0,2023-11-12,Minor bugs fixes
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.4.6,2023-11-05,Added social network link
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.4.5,2023-07-31,Fixed minor bugs
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.4.2,2023-07-27,Fixed metadata
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.4.1,2023-07-26,Fixed some redesign issues
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.3.4,2023-05-24,Fixed black background in list
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.3.3,2023-05-21,Fixed some bugs
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.3.2,2023-04-03,Updated metadata
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.3.1,2023-03-30,Description was updated
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.2.0,2023-03-25,iCloud backup rework
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.1.7,2023-03-16,Fixed crash with non english localization
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.1.6,2023-03-12,Fixed crash bug while initialize app
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.1.5,2023-03-11,Bug fixes
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.1.4,2023-03-10,Updated screenshots
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.1.2,2023-03-08,We change App icon!
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.1.0,2023-03-06,Now you can attach image to your story!
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.0.7,2023-02-24,Updated metadata
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.0.5,2023-02-05,Renew site domain
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.0.4,2023-01-29,Meta information name changed
+6444420373,0,Dear Diary Reflexy,Lifestyle,2023-01-19,2023-01-19,39.11,4,0,0,1,1.0.0,2023-01-19,
