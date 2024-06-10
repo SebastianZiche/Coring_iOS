@@ -2,4 +2,5 @@
 Research Repo "Core- and Third-Party Applications on Innovation Platforms" 
 
 
-Data collected on AppFollow and data.ai Intelligence (Free Plan) and used for research purposes only.
+Data was collected on AppFollow and data.ai Intelligence (Free Plan) and used for research purposes only.
+Data usage is in accordance with https://www.data.ai/en/legal/data-usage-policy/
